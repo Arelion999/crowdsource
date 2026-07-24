@@ -37,10 +37,14 @@ ZW = re.compile(r'[​‌‍﻿]')
 def tokens(s):
     return sorted(TOK.findall(s))
 
+# Служебные токены движка в квадратных скобках — это НЕ плюрал-группы [a|b|c],
+# поэтому перед проверкой скобок их убираем (иначе ложное «скобка без |»).
+KNOWN_TOKENS = re.compile(r'\[(?:lbracket|rbracket|null|plur|nosep|topic-[fm]|f|an|the)\]|\[pl:"[^"]*"\]')
+
 def strip_known(s):
     s = re.sub(r'%\w+%', '', s)
     s = re.sub(r'<[^>]+>', '', s)
-    return s.replace('[lbracket]', '').replace('[rbracket]', '').replace('[null]', '')
+    return KNOWN_TOKENS.sub('', s)
 
 def check_row(en, ru):
     errs, warns = [], []
