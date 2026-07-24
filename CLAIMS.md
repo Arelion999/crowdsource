@@ -155,7 +155,7 @@
 | `ui_012.csv` | ui | 482 | 21,167 | %str1%%str2%Saryx Mace%str3%%str4% |  |  |
 | `ui_013.csv` | ui | 484 | 20,485 | %str1%%str2%Sovereign Punisher%str3%%str4% |  |  |
 | `ui_014.csv` | ui | 451 | 19,083 | %str1%%str2%The Mad Moon%str3%%str4% |  |  |
-| `ui_015.csv` | ui | 488 | 47,443 | %str1%%str2%Whisper's Secret Shield%str3%%str |  |  |
+| `ui_015.csv` | ui | 488 | 47,443 | %str1%%str2%Whisper's Secret Shield%str3%%str | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_016.csv` | ui | 492 | 118,085 | (Thief) Pickpocket | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_017.csv` | ui | 500 | 20,073 | +20 Vitality+14 Healing+14 Power |  |  |
 | `ui_018.csv` | ui | 496 | 34,417 | +7%% Strike Damage vs. Inquest+3%% Strike Dam |  |  |
