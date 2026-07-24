@@ -87,8 +87,11 @@ def main():
     tmap = load_completed(completed)
     if not tmap:
         print("Нет переводов для вливания."); return
-    targets = sorted(glob.glob(os.path.join(cyr_dir, 'dict_*.csv'))) \
-              + [os.path.join(cyr_dir, 'cyrillic_strings.csv')]
+    targets = sorted(glob.glob(os.path.join(cyr_dir, 'dict_*.csv')))
+    for main in ('main_strings.csv', 'cyrillic_strings.csv'):
+        p = os.path.join(cyr_dir, main)
+        if os.path.exists(p):
+            targets.append(p)
     total = 0
     report = []
     for fn in targets:

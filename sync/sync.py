@@ -34,7 +34,13 @@ except Exception:
 HERE   = os.path.dirname(os.path.abspath(__file__))
 CROWD  = os.path.dirname(HERE)
 CYRDIR = os.path.dirname(CROWD)
-CYR    = os.path.join(CYRDIR, "cyrillic_strings.csv")
+def _main_file():
+    for n in ("main_strings.csv", "cyrillic_strings.csv"):
+        p = os.path.join(CYRDIR, n)
+        if os.path.exists(p):
+            return p
+    return os.path.join(CYRDIR, "main_strings.csv")
+CYR    = _main_file()
 NEWDIR = os.path.join(CROWD, "new")
 CLAIMS = os.path.join(CROWD, "CLAIMS.md")
 STATE  = os.path.join(HERE, ".state.json")

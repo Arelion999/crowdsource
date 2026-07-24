@@ -7,7 +7,7 @@
     python make_release.py v2026.07.24     # своя версия/тег
 
 Кладёт в архив только файлы, нужные игроку (не bak/, не crowdsource/, не логи):
-    cyrillic_strings.csv, dict_*.csv, pn_*.csv, config.ini + INSTALL.txt
+    main_strings.csv, dict_*.csv, pn_*.csv, config.ini + INSTALL.txt
 Результат: <родитель cyrillic>/gw2-ru-<версия>.zip — его прикрепляют ассетом к релизу.
 Печатает готовые команды для публикации.
 """
@@ -30,11 +30,12 @@ INSTALL = """Русификатор Guild Wars 2 (GlyphCore)
    (заменив существующие).
 3. Запусти игру через GlyphCore.
 
-Содержимое: cyrillic_strings.csv, dict_*.csv, pn_*.csv, config.ini.
+Содержимое: main_strings.csv, dict_*.csv, pn_*.csv, config.ini.
 """
 
 def files_to_pack():
-    fs = [os.path.join(CYRDIR, "cyrillic_strings.csv"),
+    fs = [os.path.join(CYRDIR, "main_strings.csv"),
+          os.path.join(CYRDIR, "cyrillic_strings.csv"),
           os.path.join(CYRDIR, "config.ini")]
     fs += sorted(glob.glob(os.path.join(CYRDIR, "dict_*.csv")))
     fs += sorted(glob.glob(os.path.join(CYRDIR, "pn_*.csv")))

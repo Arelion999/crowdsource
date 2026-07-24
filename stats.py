@@ -15,7 +15,14 @@ except Exception:
     pass
 
 HERE  = os.path.dirname(os.path.abspath(__file__))
-CYR   = os.path.join(os.path.dirname(HERE), "cyrillic_strings.csv")
+def _main_file():
+    d = os.path.dirname(HERE)
+    for n in ("main_strings.csv", "cyrillic_strings.csv"):
+        p = os.path.join(d, n)
+        if os.path.exists(p):
+            return p
+    return os.path.join(d, "main_strings.csv")
+CYR   = _main_file()
 CLAIMS = os.path.join(HERE, "CLAIMS.md")
 
 def batch_stats():
@@ -74,7 +81,7 @@ def main():
     cov = cyrillic_coverage()
     if cov:
         total, d = cov
-        print(f"\nПокрытие cyrillic_strings.csv (уник. строк): {d:,} / {total:,} = {pct(d,total).strip()}")
+        print(f"\nПокрытие {os.path.basename(CYR)} (уник. строк): {d:,} / {total:,} = {pct(d,total).strip()}")
 
     if "--batches" in sys.argv:
         print("\n=== Незавершённые батчи ===")
