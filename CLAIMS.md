@@ -1,6 +1,6 @@
 # Батчи перевода GW2 RU — доска захвата
 
-Всего батчей: **306** | строк: **149,802**. Чтобы забиндить батч — впиши свой ник и поставь 🔨 (в работе). Готово → ✅ + ссылка на файл/PR.
+Всего батчей: **339** | строк: **165,786**. Чтобы забиндить батч — впиши свой ник и поставь 🔨 (в работе). Готово → ✅ + ссылка на файл/PR.
 
 | Батч | Тип | Строк | Знаков | Первая строка | Статус | Кто взял |
 |---|---|---:|---:|---|:---:|---|
@@ -156,7 +156,7 @@
 | `ui_013.csv` | ui | 484 | 20,485 | %str1%%str2%Sovereign Punisher%str3%%str4% |  |  |
 | `ui_014.csv` | ui | 451 | 19,083 | %str1%%str2%The Mad Moon%str3%%str4% |  |  |
 | `ui_015.csv` | ui | 488 | 47,443 | %str1%%str2%Whisper's Secret Shield%str3%%str |  |  |
-| `ui_016.csv` | ui | 492 | 118,085 | (Thief) Pickpocket |  |  |
+| `ui_016.csv` | ui | 492 | 118,085 | (Thief) Pickpocket | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_017.csv` | ui | 500 | 20,073 | +20 Vitality+14 Healing+14 Power |  |  |
 | `ui_018.csv` | ui | 496 | 34,417 | +7%% Strike Damage vs. Inquest+3%% Strike Dam |  |  |
 | `ui_019.csv` | ui | 497 | 38,123 | 24-Slot Cowrie League Locker |  |  |
@@ -184,7 +184,7 @@
 | `ui_041.csv` | ui | 497 | 26,959 | Chak Goop |  |  |
 | `ui_042.csv` | ui | 500 | 15,116 | Chase the Spirit beyond the Tears |  |  |
 | `ui_043.csv` | ui | 499 | 17,086 | Choya Wave |  |  |
-| `ui_044.csv` | ui | 485 | 50,541 | Collapse your star, creating a black hole. |  |  |
+| `ui_044.csv` | ui | 485 | 50,541 | Collapse your star, creating a black hole. | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_045.csv` | ui | 489 | 34,673 | Community Goal Reward[s] Tier 3 |  |  |
 | `ui_046.csv` | ui | 495 | 31,040 | Complete the Glimmering Resin Weapon Collecti |  |  |
 | `ui_047.csv` | ui | 497 | 35,852 | Concoction of Transformation |  |  |
@@ -224,7 +224,7 @@
 | `ui_081.csv` | ui | 493 | 32,178 | Ignore Event |  |  |
 | `ui_082.csv` | ui | 498 | 20,761 | Increase Inflicted Bleeding Duration: 25%% |  |  |
 | `ui_083.csv` | ui | 500 | 18,443 | Inquest looting finished in: %str1% |  |  |
-| `ui_084.csv` | ui | 492 | 36,683 | Isgarren is higher in the tower. Dagda, a por |  |  |
+| `ui_084.csv` | ui | 492 | 36,683 | Isgarren is higher in the tower. Dagda, a por | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_085.csv` | ui | 497 | 19,652 | Jhavi's First Research Note |  |  |
 | `ui_086.csv` | ui | 499 | 17,353 | Keep morale up by helping out the local enter |  |  |
 | `ui_087.csv` | ui | 495 | 21,115 | Kodan Planter Box |  |  |
@@ -288,7 +288,7 @@
 | `ui_145.csv` | ui | 500 | 56,531 | The Hero Kilroy's Story | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_146.csv` | ui | 500 | 55,835 | The Only Way Season | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_147.csv` | ui | 500 | 52,852 | The Tower of Nightmares has been cleared! | ✅ | Магистр Клод, Приорат Дурманд |
-| `ui_148.csv` | ui | 492 | 57,060 | This bag contains six items in at least the m |  |  |
+| `ui_148.csv` | ui | 492 | 57,060 | This bag contains six items in at least the m | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_149.csv` | ui | 495 | 31,890 | This panel displays all your available utilit |  |  |
 | `ui_150.csv` | ui | 496 | 15,967 | Throw Jar |  |  |
 | `ui_151.csv` | ui | 489 | 37,826 | Timekeeper's Harvesting Sickle[s] |  |  |
@@ -301,7 +301,7 @@
 | `ui_158.csv` | ui | 499 | 16,129 | Vault Transport[s] |  |  |
 | `ui_159.csv` | ui | 500 | 21,175 | Violent Outburst |  |  |
 | `ui_160.csv` | ui | 500 | 18,185 | Wanted: Morg |  |  |
-| `ui_161.csv` | ui | 486 | 42,419 | Wayfinder,I found one of the Oracle Cards aft |  |  |
+| `ui_161.csv` | ui | 486 | 42,419 | Wayfinder,I found one of the Oracle Cards aft | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_162.csv` | ui | 497 | 27,994 | While airborne, rapidly dash forward. |  |  |
 | `ui_163.csv` | ui | 497 | 31,235 | Wisteria Arborscale Skyscale Skin now availab |  |  |
 | `ui_164.csv` | ui | 499 | 33,099 | WvW mission where members must capture an obj |  |  |
@@ -310,3 +310,36 @@
 | `ui_167.csv` | ui | 499 | 42,760 | You need an Exalted key to open this chest. |  |  |
 | `ui_168.csv` | ui | 499 | 43,807 | You've unlocked your fourth weapon skill. Pre |  |  |
 | `ui_169.csv` | ui | 399 | 18,565 | Zenith Kris Skin[s] |  |  |
+| `new_001.csv` | new | 500 | 20,699 | "B" was in the mine again. Didn't catch a gli |  |  |
+| `new_002.csv` | new | 500 | 49,736 | (The battered remains of an Inquest golem lie |  |  |
+| `new_003.csv` | new | 500 | 20,197 | A singular focus on overwhelming the enemy. |  |  |
+| `new_004.csv` | new | 500 | 14,942 | Arise, my creation. |  |  |
+| `new_005.csv` | new | 500 | 16,711 | Blitz workers are keeping track of how many c |  |  |
+| `new_006.csv` | new | 500 | 22,224 | Caught the Beast in Record Time |  |  |
+| `new_007.csv` | new | 500 | 24,650 | Collection: A New Look |  |  |
+| `new_008.csv` | new | 500 | 19,754 | Completed Convincing the Corsair |  |  |
+| `new_009.csv` | new | 500 | 44,005 | Constructed %num1%/%num2% Portal Device[s] |  |  |
+| `new_010.csv` | new | 500 | 24,357 | Defeat %num2% players in ranked matches durin |  |  |
+| `new_011.csv` | new | 500 | 21,751 | Deputy Styne |  |  |
+| `new_012.csv` | new | 500 | 17,655 | Earned a Gold Medal in the Moon Camp Covert S |  |  |
+| `new_013.csv` | new | 500 | 17,021 | Fascinating, but I have to go. |  |  |
+| `new_014.csv` | new | 500 | 21,769 | Frenzies • Poisons |  |  |
+| `new_015.csv` | new | 500 | 21,811 | Harathi centaurs are training rock dogs to us |  |  |
+| `new_016.csv` | new | 500 | 24,494 | I am rain and ice. |  |  |
+| `new_017.csv` | new | 500 | 21,686 | If you're willing to part with a few bandit c |  |  |
+| `new_018.csv` | new | 500 | 15,447 | Kept Arina's Health above 80%% |  |  |
+| `new_019.csv` | new | 500 | 17,915 | Lionguard Jennen |  |  |
+| `new_020.csv` | new | 500 | 17,356 | Merging with a ferocious pet has increased yo |  |  |
+| `new_021.csv` | new | 500 | 19,694 | Nothing's exploded, right? |  |  |
+| `new_022.csv` | new | 500 | 17,146 | Playing |  |  |
+| `new_023.csv` | new | 500 | 16,035 | Recipe[s]: Burl Orichalcum Ring |  |  |
+| `new_024.csv` | new | 500 | 14,951 | Rescued %num1%/%num2% Skimmers |  |  |
+| `new_025.csv` | new | 500 | 17,311 | Separatist Spear |  |  |
+| `new_026.csv` | new | 500 | 20,730 | Speak to Gairwen about defeating Bercilak. |  |  |
+| `new_027.csv` | new | 500 | 23,121 | Supply Wagon |  |  |
+| `new_028.csv` | new | 500 | 35,489 | The birds are after your fish scraps! |  |  |
+| `new_029.csv` | new | 500 | 21,756 | Time before Operation Mosaic Wrath commences: |  |  |
+| `new_030.csv` | new | 500 | 21,396 | Unlocked %num1%/%num2% Abyssal Fractal Weapon |  |  |
+| `new_031.csv` | new | 500 | 25,475 | Weakness and Damage Extreme |  |  |
+| `new_032.csv` | new | 434 | 21,933 | You are losing health. |  |  |
+| `new_033.csv` | new | 50 | 1,955 | A team is attempting to drive the Risen from  |  |  |

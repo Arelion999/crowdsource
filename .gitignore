@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+
+# Локальная конфигурация синка — НЕ коммитить (содержит адрес сервиса)
+sync/endpoint.txt
+sync/.state.json
+sync/.snapshot.json
+sync/reports/
+sync/*.cache
+sync/*.raw
