@@ -191,7 +191,7 @@
 | `ui_048.csv` | ui | 499 | 20,511 | Convergences: Mount Balrior (Public) |  |  |
 | `ui_049.csv` | ui | 499 | 19,295 | Create a repeatable instance. |  |  |
 | `ui_050.csv` | ui | 496 | 15,926 | Cup[s] of Bloodstone Soup |  |  |
-| `ui_051.csv` | ui | 490 | 40,607 | Dark times call for sacrifice. |  |  |
+| `ui_051.csv` | ui | 490 | 40,607 | Dark times call for sacrifice. | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_052.csv` | ui | 492 | 26,511 | Defeat and collect the bounty for the legenda |  |  |
 | `ui_053.csv` | ui | 500 | 17,195 | Defender's Chest[s] of Coats |  |  |
 | `ui_054.csv` | ui | 496 | 18,578 | Destroyer burrows |  |  |
