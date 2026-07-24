@@ -163,7 +163,7 @@
 | `ui_020.csv` | ui | 492 | 51,871 | <c=@abilitytype>Chain.</c> Slash your foe, th |  |  |
 | `ui_021.csv` | ui | 499 | 46,099 | <c=@flavor>"Minds, Words, Deeds."<br>—Ash Leg |  |  |
 | `ui_022.csv` | ui | 499 | 21,223 | <c=@reminder>Unlock this finisher by purchasi |  |  |
-| `ui_023.csv` | ui | 491 | 49,386 | [lbracket]Lured[rbracket] |  |  |
+| `ui_023.csv` | ui | 491 | 49,386 | [lbracket]Lured[rbracket] | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_024.csv` | ui | 500 | 34,009 | A peasant approaches the commander with a dub |  |  |
 | `ui_025.csv` | ui | 497 | 28,712 | Achievements and lifetime statistics are not  |  |  |
 | `ui_026.csv` | ui | 496 | 34,547 | Aerial Master |  |  |
