@@ -307,39 +307,39 @@
 | `ui_164.csv` | ui | 499 | 33,099 | WvW mission where members must capture an obj |  |  |
 | `ui_165.csv` | ui | 500 | 33,003 | You can't teleport while a player is on the c |  |  |
 | `ui_166.csv` | ui | 500 | 34,673 | You have received a fragment of Scarlet's Jou |  |  |
-| `ui_167.csv` | ui | 499 | 42,760 | You need an Exalted key to open this chest. |  |  |
-| `ui_168.csv` | ui | 499 | 43,807 | You've unlocked your fourth weapon skill. Pre |  |  |
+| `ui_167.csv` | ui | 499 | 42,760 | You need an Exalted key to open this chest. | ✅ | Магистр Клод, Приорат Дурманд |
+| `ui_168.csv` | ui | 499 | 43,807 | You've unlocked your fourth weapon skill. Pre | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_169.csv` | ui | 399 | 18,565 | Zenith Kris Skin[s] |  |  |
-| `new_001.csv` | new | 500 | 20,699 | "B" was in the mine again. Didn't catch a gli |  |  |
+| `new_001.csv` | new | 500 | 20,699 | "B" was in the mine again. Didn't catch a gli | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_002.csv` | new | 500 | 49,736 | (The battered remains of an Inquest golem lie | ✅ | Магистр Клод, Приорат Дурманд |
-| `new_003.csv` | new | 500 | 20,197 | A singular focus on overwhelming the enemy. |  |  |
-| `new_004.csv` | new | 500 | 14,942 | Arise, my creation. |  |  |
-| `new_005.csv` | new | 500 | 16,711 | Blitz workers are keeping track of how many c |  |  |
+| `new_003.csv` | new | 500 | 20,197 | A singular focus on overwhelming the enemy. | ✅ | Магистр Клод, Приорат Дурманд |
+| `new_004.csv` | new | 500 | 14,942 | Arise, my creation. | ✅ | Магистр Клод, Приорат Дурманд |
+| `new_005.csv` | new | 500 | 16,711 | Blitz workers are keeping track of how many c | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_006.csv` | new | 500 | 22,224 | Caught the Beast in Record Time | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_007.csv` | new | 500 | 24,650 | Collection: A New Look | ✅ | Магистр Клод, Приорат Дурманд |
-| `new_008.csv` | new | 500 | 19,754 | Completed Convincing the Corsair |  |  |
+| `new_008.csv` | new | 500 | 19,754 | Completed Convincing the Corsair | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_009.csv` | new | 500 | 44,005 | Constructed %num1%/%num2% Portal Device[s] | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_010.csv` | new | 500 | 24,357 | Defeat %num2% players in ranked matches durin | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_011.csv` | new | 500 | 21,751 | Deputy Styne | ✅ | Магистр Клод, Приорат Дурманд |
-| `new_012.csv` | new | 500 | 17,655 | Earned a Gold Medal in the Moon Camp Covert S |  |  |
-| `new_013.csv` | new | 500 | 17,021 | Fascinating, but I have to go. |  |  |
+| `new_012.csv` | new | 500 | 17,655 | Earned a Gold Medal in the Moon Camp Covert S | ✅ | Магистр Клод, Приорат Дурманд |
+| `new_013.csv` | new | 500 | 17,021 | Fascinating, but I have to go. | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_014.csv` | new | 500 | 21,769 | Frenzies • Poisons | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_015.csv` | new | 500 | 21,811 | Harathi centaurs are training rock dogs to us | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_016.csv` | new | 500 | 24,494 | I am rain and ice. | ✅ | Магистр Клод, Приорат Дурманд |
-| `new_017.csv` | new | 500 | 21,686 | If you're willing to part with a few bandit c |  |  |
-| `new_018.csv` | new | 500 | 15,447 | Kept Arina's Health above 80%% |  |  |
-| `new_019.csv` | new | 500 | 17,915 | Lionguard Jennen |  |  |
-| `new_020.csv` | new | 500 | 17,356 | Merging with a ferocious pet has increased yo |  |  |
+| `new_017.csv` | new | 500 | 21,686 | If you're willing to part with a few bandit c | ✅ | Магистр Клод, Приорат Дурманд |
+| `new_018.csv` | new | 500 | 15,447 | Kept Arina's Health above 80%% | ✅ | Магистр Клод, Приорат Дурманд |
+| `new_019.csv` | new | 500 | 17,915 | Lionguard Jennen | ✅ | Магистр Клод, Приорат Дурманд |
+| `new_020.csv` | new | 500 | 17,356 | Merging with a ferocious pet has increased yo | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_021.csv` | new | 500 | 19,694 | Nothing's exploded, right? | ✅ | Магистр Клод, Приорат Дурманд |
-| `new_022.csv` | new | 500 | 17,146 | Playing |  |  |
-| `new_023.csv` | new | 500 | 16,035 | Recipe[s]: Burl Orichalcum Ring |  |  |
-| `new_024.csv` | new | 500 | 14,951 | Rescued %num1%/%num2% Skimmers |  |  |
-| `new_025.csv` | new | 500 | 17,311 | Separatist Spear |  |  |
-| `new_026.csv` | new | 500 | 20,730 | Speak to Gairwen about defeating Bercilak. |  |  |
+| `new_022.csv` | new | 500 | 17,146 | Playing | ✅ | Магистр Клод, Приорат Дурманд |
+| `new_023.csv` | new | 500 | 16,035 | Recipe[s]: Burl Orichalcum Ring | ✅ | Магистр Клод, Приорат Дурманд |
+| `new_024.csv` | new | 500 | 14,951 | Rescued %num1%/%num2% Skimmers | ✅ | Магистр Клод, Приорат Дурманд |
+| `new_025.csv` | new | 500 | 17,311 | Separatist Spear | ✅ | Магистр Клод, Приорат Дурманд |
+| `new_026.csv` | new | 500 | 20,730 | Speak to Gairwen about defeating Bercilak. | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_027.csv` | new | 500 | 23,121 | Supply Wagon | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_028.csv` | new | 500 | 35,489 | The birds are after your fish scraps! | ✅ | Магистр Клод, Приорат Дурманд |
-| `new_029.csv` | new | 500 | 21,756 | Time before Operation Mosaic Wrath commences: |  |  |
-| `new_030.csv` | new | 500 | 21,396 | Unlocked %num1%/%num2% Abyssal Fractal Weapon |  |  |
+| `new_029.csv` | new | 500 | 21,756 | Time before Operation Mosaic Wrath commences: | ✅ | Магистр Клод, Приорат Дурманд |
+| `new_030.csv` | new | 500 | 21,396 | Unlocked %num1%/%num2% Abyssal Fractal Weapon | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_031.csv` | new | 500 | 25,475 | Weakness and Damage Extreme | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_032.csv` | new | 434 | 21,933 | You are losing health. | ✅ | Магистр Клод, Приорат Дурманд |
-| `new_033.csv` | new | 50 | 1,955 | A team is attempting to drive the Risen from  |  |  |
+| `new_033.csv` | new | 50 | 1,955 | A team is attempting to drive the Risen from  | ✅ | Магистр Клод, Приорат Дурманд |
