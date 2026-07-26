@@ -2,6 +2,9 @@
 __pycache__/
 *.pyc
 
+# Бэкапы батчей от tools/batch_tool.py — локальные, не версионируем
+.batch_bak/
+
 # Локальная конфигурация синка — НЕ коммитить (содержит адрес сервиса)
 sync/endpoint.txt
 sync/.state.json

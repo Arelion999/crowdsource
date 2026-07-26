@@ -311,35 +311,35 @@
 | `ui_168.csv` | ui | 499 | 43,807 | You've unlocked your fourth weapon skill. Pre |  |  |
 | `ui_169.csv` | ui | 399 | 18,565 | Zenith Kris Skin[s] |  |  |
 | `new_001.csv` | new | 500 | 20,699 | "B" was in the mine again. Didn't catch a gli |  |  |
-| `new_002.csv` | new | 500 | 49,736 | (The battered remains of an Inquest golem lie |  |  |
+| `new_002.csv` | new | 500 | 49,736 | (The battered remains of an Inquest golem lie | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_003.csv` | new | 500 | 20,197 | A singular focus on overwhelming the enemy. |  |  |
 | `new_004.csv` | new | 500 | 14,942 | Arise, my creation. |  |  |
 | `new_005.csv` | new | 500 | 16,711 | Blitz workers are keeping track of how many c |  |  |
-| `new_006.csv` | new | 500 | 22,224 | Caught the Beast in Record Time |  |  |
-| `new_007.csv` | new | 500 | 24,650 | Collection: A New Look |  |  |
+| `new_006.csv` | new | 500 | 22,224 | Caught the Beast in Record Time | ✅ | Магистр Клод, Приорат Дурманд |
+| `new_007.csv` | new | 500 | 24,650 | Collection: A New Look | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_008.csv` | new | 500 | 19,754 | Completed Convincing the Corsair |  |  |
-| `new_009.csv` | new | 500 | 44,005 | Constructed %num1%/%num2% Portal Device[s] |  |  |
-| `new_010.csv` | new | 500 | 24,357 | Defeat %num2% players in ranked matches durin |  |  |
-| `new_011.csv` | new | 500 | 21,751 | Deputy Styne |  |  |
+| `new_009.csv` | new | 500 | 44,005 | Constructed %num1%/%num2% Portal Device[s] | ✅ | Магистр Клод, Приорат Дурманд |
+| `new_010.csv` | new | 500 | 24,357 | Defeat %num2% players in ranked matches durin | ✅ | Магистр Клод, Приорат Дурманд |
+| `new_011.csv` | new | 500 | 21,751 | Deputy Styne | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_012.csv` | new | 500 | 17,655 | Earned a Gold Medal in the Moon Camp Covert S |  |  |
 | `new_013.csv` | new | 500 | 17,021 | Fascinating, but I have to go. |  |  |
-| `new_014.csv` | new | 500 | 21,769 | Frenzies • Poisons |  |  |
-| `new_015.csv` | new | 500 | 21,811 | Harathi centaurs are training rock dogs to us |  |  |
-| `new_016.csv` | new | 500 | 24,494 | I am rain and ice. |  |  |
+| `new_014.csv` | new | 500 | 21,769 | Frenzies • Poisons | ✅ | Магистр Клод, Приорат Дурманд |
+| `new_015.csv` | new | 500 | 21,811 | Harathi centaurs are training rock dogs to us | ✅ | Магистр Клод, Приорат Дурманд |
+| `new_016.csv` | new | 500 | 24,494 | I am rain and ice. | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_017.csv` | new | 500 | 21,686 | If you're willing to part with a few bandit c |  |  |
 | `new_018.csv` | new | 500 | 15,447 | Kept Arina's Health above 80%% |  |  |
 | `new_019.csv` | new | 500 | 17,915 | Lionguard Jennen |  |  |
 | `new_020.csv` | new | 500 | 17,356 | Merging with a ferocious pet has increased yo |  |  |
-| `new_021.csv` | new | 500 | 19,694 | Nothing's exploded, right? |  |  |
+| `new_021.csv` | new | 500 | 19,694 | Nothing's exploded, right? | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_022.csv` | new | 500 | 17,146 | Playing |  |  |
 | `new_023.csv` | new | 500 | 16,035 | Recipe[s]: Burl Orichalcum Ring |  |  |
 | `new_024.csv` | new | 500 | 14,951 | Rescued %num1%/%num2% Skimmers |  |  |
 | `new_025.csv` | new | 500 | 17,311 | Separatist Spear |  |  |
 | `new_026.csv` | new | 500 | 20,730 | Speak to Gairwen about defeating Bercilak. |  |  |
-| `new_027.csv` | new | 500 | 23,121 | Supply Wagon |  |  |
-| `new_028.csv` | new | 500 | 35,489 | The birds are after your fish scraps! |  |  |
+| `new_027.csv` | new | 500 | 23,121 | Supply Wagon | ✅ | Магистр Клод, Приорат Дурманд |
+| `new_028.csv` | new | 500 | 35,489 | The birds are after your fish scraps! | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_029.csv` | new | 500 | 21,756 | Time before Operation Mosaic Wrath commences: |  |  |
 | `new_030.csv` | new | 500 | 21,396 | Unlocked %num1%/%num2% Abyssal Fractal Weapon |  |  |
-| `new_031.csv` | new | 500 | 25,475 | Weakness and Damage Extreme |  |  |
-| `new_032.csv` | new | 434 | 21,933 | You are losing health. |  |  |
+| `new_031.csv` | new | 500 | 25,475 | Weakness and Damage Extreme | ✅ | Магистр Клод, Приорат Дурманд |
+| `new_032.csv` | new | 434 | 21,933 | You are losing health. | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_033.csv` | new | 50 | 1,955 | A team is attempting to drive the Risen from  |  |  |
