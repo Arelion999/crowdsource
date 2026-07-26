@@ -104,10 +104,10 @@ Bowling ball,Шар для боулинга
 "Box[pl:""Boxes""] of Explorer's Reinforced Scale Armor",Коробк[а|и|ок] усиленной чешуйчатой брони исследователя
 "Box[pl:""Boxes""] of Pillaging Scale Armor",Коробк[а|и|ок] грабительской чешуйчатой брони
 "Box[pl:""Boxes""] of Pillaging Splint Armor",Коробк[а|и|ок] грабительской пластинчатой брони
-"Braham and Ryland seemed to really hit it off and left to roam the celebration together. I heard from them over comms—sometimes deliberately, sometimes not—about how much fun they were having at the All-Legion Rally. Meanwhile I made my own tour and checked in the with the other imperators: Ash's Malice Swordshadow, Iron's Smodur the Unflinching, and Flame's Efram Greetsglory. My apologies for Aurene's disruption seemed to go over well, and I got a hint of some of the intrigues among the highest-ranking charr, but by the time I returned to Crecia, there were new problems to deal with. Braham had managed to land himself in the brig for enjoying the festivities a little too much. With Crecia's go-ahead, I went to bail him out.","Похоже, Брахам и Райленд отлично поладили и вместе отправились бродить по празднику. Я слышал от них по связи — иногда специально, иногда случайно — как весело им было на Слёте Всех Легионов. Тем временем я устроил собственный обход и навестил остальных императоров: Малис Тенеклинок Пепла, Смодура Непоколебимого из Железа и Эфрама Приветствующего Славу из Пламени. Мои извинения за вмешательство Аурены были восприняты неплохо, и я уловил намёк на кое-какие интриги среди высшей знати чарров, но к моменту возвращения к Креции появились новые проблемы. Брахам умудрился угодить на гауптвахту за то, что слишком уж бурно веселился на празднике. С одобрения Креции я отправился его вызволять."
-Braham: Believe me. I do.,Брахам: Поверь. Ещё как.
-"Braham: Oh, we're so dead.","Брахам: О, нам конец."
-Braham: Yes. It is.,Брахам: Да. Так и есть.
+"Braham and Ryland seemed to really hit it off and left to roam the celebration together. I heard from them over comms—sometimes deliberately, sometimes not—about how much fun they were having at the All-Legion Rally. Meanwhile I made my own tour and checked in the with the other imperators: Ash's Malice Swordshadow, Iron's Smodur the Unflinching, and Flame's Efram Greetsglory. My apologies for Aurene's disruption seemed to go over well, and I got a hint of some of the intrigues among the highest-ranking charr, but by the time I returned to Crecia, there were new problems to deal with. Braham had managed to land himself in the brig for enjoying the festivities a little too much. With Crecia's go-ahead, I went to bail him out.","Похоже, Брейхам и Райленд отлично поладили и вместе отправились бродить по празднику. Я слышал от них по связи — иногда специально, иногда случайно — как весело им было на Слёте Всех Легионов. Тем временем я устроил собственный обход и навестил остальных императоров: Малис Тенеклинок Пепла, Смодура Непоколебимого из Железа и Эфрама Приветствующего Славу из Пламени. Мои извинения за вмешательство Аурены были восприняты неплохо, и я уловил намёк на кое-какие интриги среди высшей знати чарров, но к моменту возвращения к Креции появились новые проблемы. Брейхам умудрился угодить на гауптвахту за то, что слишком уж бурно веселился на празднике. С одобрения Креции я отправился его вызволять."
+Braham: Believe me. I do.,Брейхам: Поверь. Ещё как.
+"Braham: Oh, we're so dead.","Брейхам: О, нам конец."
+Braham: Yes. It is.,Брейхам: Да. Так и есть.
 Brain Freeze,Мозг замёрз
 Brand Battleshard,Осколок клеймёной битвы
 Branded Aura,Аура клеймёных
@@ -351,8 +351,8 @@ Canach's Sword,Меч Канаха
 "Canach's list of required components for his ""device.""",Список Канаха с нужными деталями для его «устройства».
 Cannon Mastery I: Increased armor,Мастерство пушки I: повышенная броня
 Cannonball Stack,Штабель пушечных ядер
-"Cannot be chilled, crippled, knocked down, launched, or pushed back.","Не может быть заморожен, искалечен, сбит с ног, подброшен или отброшен назад."
-"Cannot be chilled, crippled, knocked down, launched, or pushed back. Cannot be removed.","Не может быть заморожен, искалечен, сбит с ног, подброшен или отброшен назад. Не может быть снят."
+"Cannot be chilled, crippled, knocked down, launched, or pushed back.","Не поддаётся заморозке, хромоте, нокдауну, отбрасыванию и отталкиванию."
+"Cannot be chilled, crippled, knocked down, launched, or pushed back. Cannot be removed.","Не поддаётся заморозке, хромоте, нокдауну, отбрасыванию и отталкиванию. Не может быть снят."
 "Cannot be stunned, knocked down, knocked back, or launched.","Не может быть оглушён, сбит с ног, отброшен назад или подброшен."
 Cannot have Stability removed via crowd control.,Устойчивость нельзя снять эффектами контроля.
 Canopic Jars—Intestines,Канопские сосуды — кишечник
@@ -387,14 +387,14 @@ Captive,Пленник
 Captive Skritt,Пленённый скритт
 Captives remaining,Осталось пленников
 Captor,Пленитель
-Capture %num2% keep[s].,Захватите %num2% крепост[ь|и].
+Capture %num2% keep[s].,Захватите %num2% крепост[ь|и|ей].
 Capture %num2% keeps.,Захватите %num2% крепостей.
 Capture %num2% objectives.,Захватите %num2% целей.
-Capture %num2% ruin[s].,Захватите %num2% руин[|ы].
-Capture %num2% special objective[s].,Захватите %num2% особ[ую цель|ые цели].
-Capture %num2% supply camp[s].,Захватите %num2% лагер[ь|я] снабжения.
-Capture %num2% supply generator[s].,Захватите %num2% генератор[|а] снабжения.
-Capture %num2% tower[s].,Захватите %num2% башн[ю|и].
+Capture %num2% ruin[s].,Захватите %num2% руин[у|ы|].
+Capture %num2% special objective[s].,Захватите %num2% особ[ую цель|ые цели|ых целей].
+Capture %num2% supply camp[s].,Захватите %num2% лагер[ь|я|ей] снабжения.
+Capture %num2% supply generator[s].,Захватите %num2% генератор[|а|ов] снабжения.
+Capture %num2% tower[s].,Захватите %num2% башн[ю|и|].
 Capture %num2% towers.,Захватите %num2% башен.
 "Capture 10 ruin, shrine, or mercenary camp objectives in World vs. World.","Захватите 10 целей — руин, святилищ или лагерей наёмников — в Мире против мира."
 Capture 3 keeps in World vs. World.,Захватите 3 крепости в Мире против мира.

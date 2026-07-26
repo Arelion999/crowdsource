@@ -25,7 +25,7 @@ Kicks and Punches,Удары ногами и кулаками
 Kikka,Кикка
 Kill %num1% Player[s] in WvW,Убейте %num1% игрока в МпМ
 Kill %num2% Aberrant.,Убейте %num2% аберрантов.
-Kill %num2% Crystal Desert predators.,Убейте %num2% хищников Хрустальной пустыни.
+Kill %num2% Crystal Desert predators.,Убейте %num2% хищников Кристальной пустыни.
 Kill %num2% Fallen.,Убейте %num2% падших.
 Kill %num2% Kryptis in Amnytas.,Убейте %num2% криптисов в Амнитасе.
 Kill %num2% Purists in New Kaineng City.,Убейте %num2% пуристов в Новом Кайненге.
@@ -79,8 +79,8 @@ Kill %num2% ogres.,Убейте %num2% огров.
 Kill %num2% oozes.,Убейте %num2% слизней.
 Kill %num2% pirates.,Убейте %num2% пиратов.
 Kill %num2% plants.,Убейте %num2% растений.
-Kill %num2% player[s] in PvP.,Убейте %num2% игрок[|ов] в PvP.
-Kill %num2% player[s].,Убейте %num2% игрок[|ов].
+Kill %num2% player[s] in PvP.,Убейте %num2% игрок[а|а|ов] в PvP.
+Kill %num2% player[s].,Убейте %num2% игрок[а|а|ов].
 Kill %num2% raid bosses. Killing bosses with challenge mode on and killing more difficult bosses progresses this faster.,Убейте %num2% рейдовых боссов. Убийства боссов в режиме испытания и более сложных боссов ускоряют прогресс.
 Kill %num2% raptors.,Убейте %num2% рапторов.
 Kill %num2% skale.,Убейте %num2% скейлов.
@@ -117,7 +117,7 @@ Killed %num1%/%num2%,Убито %num1%/%num2%
 Killed %num1%/%num2% Aberrant,Убито %num1%/%num2% аберрантов
 Killed %num1%/%num2% Aetherblades in Seitung Province,Убито %num1%/%num2% бойцов Эфирного Клинка в Провинции Сейтун
 Killed %num1%/%num2% Branded during the Shatterer Battle,Убито %num1%/%num2% клеймёных во время битвы с Разрушителем
-Killed %num1%/%num2% Branded in Thunderhead Peaks,Убито %num1%/%num2% клеймёных на Пиках Громоглавия
+Killed %num1%/%num2% Branded in Thunderhead Peaks,Убито %num1%/%num2% клеймёных на Громоглавых Пиках
 Killed %num1%/%num2% Champions in Dragonfall,Убито %num1%/%num2% чемпионов в Драконьем Падении
 Killed %num1%/%num2% Creatures in Melandru's Lost Domain in Dragonfall,Убито %num1%/%num2% существ в Утраченных Владениях Меландру в Драконьем Падении
 Killed %num1%/%num2% Creatures in the Burning Forest in Dragonfall,Убито %num1%/%num2% существ в Горящем Лесу в Драконьем Падении
@@ -141,7 +141,7 @@ Killed %num1%/%num2% Purists,Убито %num1%/%num2% пуристов
 Killed %num1%/%num2% Purists in New Kaineng,Убито %num1%/%num2% пуристов в Новом Кайненге
 Killed %num1%/%num2% Purists in Seitung Province,Убито %num1%/%num2% пуристов в Провинции Сейтун
 Killed %num1%/%num2% Raid Bosses,Убито %num1%/%num2% рейдовых боссов
-Killed %num1%/%num2% Son[s] of Svanir,Убито %num1%/%num2% Сын[а|ов] Сванира
+Killed %num1%/%num2% Son[s] of Svanir,Убито %num1%/%num2% Сын[а|а|ов] Сванира
 Killed %num1%/%num2% Spirits in the Echovald Wilds,Убито %num1%/%num2% духов в Дебрях Эховальд
 Killed %num1%/%num2% Unchained Risen,Убито %num1%/%num2% раскованных восставших
 Killed %num1%/%num2% Unchained in New Kaineng,Убито %num1%/%num2% раскованных в Новом Кайненге
@@ -171,7 +171,7 @@ Killed Sulypix,Убит Сулипикс
 Killed Vermignus in the Fractured Caldera,Вермигнус убит в Расколотой Кальдере
 Killed a Chak Gerent,Убит герент чаков
 Killed a Legendary Creature in Dragonfall,Легендарное существо убито в Драконьем Падении
-Killed a Legendary Creature in Thunderhead Peaks,Легендарное существо убито на Пиках Громоглавия
+Killed a Legendary Creature in Thunderhead Peaks,Легендарное существо убито на Громоглавых Пиках
 Killed a Legendary Creature in the Raven Sanctum.,Легендарное существо убито в Святилище Ворона.
 Killed the Bloodstone-Charged Lava Wurm in Heathen's Hold,Убит напитанный кровавым камнем лавовый вурм в Оплоте Язычника
 Killed the Boneskinner in the Sanctum Arena,Костодёр убит на Арене Святилища
@@ -220,7 +220,7 @@ Knocks Back • Poisons • Buffs Allies • Swallows Enemies • Stuns,Отбр
 Knocks Back • Poisons • Buffs Allies • Swallows Foes • Stuns,Отбрасывает • Отравляет • Усиливает союзников • Проглатывает врагов • Оглушает
 Knocks Back • Rapid Fire,Отбрасывает • Скорострельность
 Knocks Back • Shield Bubble,Отбрасывает • Щитовой купол
-Knocks Back • Stuns • Dazes • Cripples,Отбрасывает • Оглушает • Ошеломляет • Калечит
+Knocks Back • Stuns • Dazes • Cripples,Отбрасывает • Оглушает • Ошеломляет • Накладывает хромоту
 Knocks Down • Causes Bleeding,Сбивает с ног • Вызывает кровотечение
 Knocks Down • Dazes,Сбивает с ног • Ошеломляет
 Knocks Down • Throws Grubs • Inflicts Vulnerability and Poison • Buffs Allies,Сбивает с ног • Кидает личинок • Накладывает уязвимость и яд • Усиливает союзников
@@ -494,7 +494,7 @@ Lion's Arch can make or break you.,"Львиная Арка может как в
 Lionguard Adeline,Львиный страж Аделин
 Lionguard Amaryl,Львиный страж Амарил
 Lionguard Brodnick,Львиный страж Бродник
-Lionguard Captain[s],Капитан[|ы] Львиной стражи
+Lionguard Captain[s],Капитан[|а|ов] Львиной стражи
 Lionguard Crushkrait,Львиный страж Крайтодав
 Lionguard Dahn,Львиный страж Дан
 Lionguard Florijn,Львиный страж Флорин
