@@ -1,493 +1,493 @@
 english,translate
-"<c=@abilitytype>Chain.</c> Slash your foe, then fire off a ranged shot. <c=@reminder> Foes hit by the initial attack take less damage from the follow-up shot. </c>",
-<c=@abilitytype>Chain.</c> Slash your foe.,
-<c=@abilitytype>Chain.</c> Slice your foe.,
-<c=@abilitytype>Chain.</c> Smash your foe.,
-<c=@abilitytype>Chain.</c> Stab your foe.,
-"<c=@abilitytype>Chain.</c> Strike foes, and chill them.",
-<c=@abilitytype>Chain.</c> Strike your foe.,
-<c=@abilitytype>Chain.</c> Swing your gunsaber and fire a second shot. <c=@reminder> Foes hit by the initial attack take less damage from the follow-up shot. </c>,
+"<c=@abilitytype>Chain.</c> Slash your foe, then fire off a ranged shot. <c=@reminder> Foes hit by the initial attack take less damage from the follow-up shot. </c>","<c=@abilitytype>Цепочка.</c> Полосните врага, затем сделайте дальний выстрел. <c=@reminder> Враги, задетые первым ударом, получают меньше урона от следующего выстрела. </c>"
+<c=@abilitytype>Chain.</c> Slash your foe.,<c=@abilitytype>Цепочка.</c> Полосните врага.
+<c=@abilitytype>Chain.</c> Slice your foe.,<c=@abilitytype>Цепочка.</c> Рубаните врага.
+<c=@abilitytype>Chain.</c> Smash your foe.,<c=@abilitytype>Цепочка.</c> Впечатайте врага.
+<c=@abilitytype>Chain.</c> Stab your foe.,<c=@abilitytype>Цепочка.</c> Ткните врага.
+"<c=@abilitytype>Chain.</c> Strike foes, and chill them.","<c=@abilitytype>Цепочка.</c> Поражайте врагов, замораживая их."
+<c=@abilitytype>Chain.</c> Strike your foe.,<c=@abilitytype>Цепочка.</c> Поразите врага.
+<c=@abilitytype>Chain.</c> Swing your gunsaber and fire a second shot. <c=@reminder> Foes hit by the initial attack take less damage from the follow-up shot. </c>,"<c=@abilitytype>Цепочка.</c> Взмахните разряд-клинком и выстрелите ещё раз. <c=@reminder> Враги, задетые первым ударом, получают меньше урона от следующего выстрела. </c>"
 <c=@abilitytype>Chaîne.</c> Vous frappez votre ennemi deux fois.,
-<c=@abilitytype>Clone.</c> Gain stealth and summon a clone that appears to rally and swim away.,
-<c=@abilitytype>Clone.</c> Summon a clone that attacks your foe.,
-<c=@abilitytype>Consecration.</c> Create a ring of fire that burns foes and cures conditions on allies.,
-<c=@abilitytype>Consecration.</c> Protect the targeted area with a wall of mystic power that reflects projectiles.,
-<c=@abilitytype>Cooling Vapor</c>,
-<c=@abilitytype>Corruption.</c> Become a virulent cloud and inflict multiple conditions on foes you touch. Entering this form removes spectral effects. Inflict bleeding on yourself.,
-<c=@abilitytype>Corruption.</c> Create a virulent cloud that inflicts multiple conditions on foes in its area. This plague can be modified to deal different conditions by activating secondary plague skills. Inflict bleeding on yourself.<c=@reminder>Starts as Plague of Pestilence mode.</c>,
-<c=@abilitytype>Corruption.</c> The target area is enveloped in a noxious cloud that poisons foes.,
-<c=@abilitytype>Costume Brawl.</c> Charge and toss another brawler.,
-<c=@abilitytype>Costume Brawl.</c> Damage and daze other costume brawlers.,
-<c=@abilitytype>Costume Brawl.</c> Grants temporary stealth.,
-<c=@abilitytype>Costume Brawl.</c> Lay a trap that will teleport you to scare any Costume Brawlers who enter it.,
-<c=@abilitytype>Costume Brawl.</c> Lay a trap that will teleport you to—and scare—costume brawlers who trigger it.,
-<c=@abilitytype>Costume Brawl.</c> Melee attack with toy axe.,
-<c=@abilitytype>Costume Brawl.</c> Pull in and chop brawlers.,
-<c=@abilitytype>Costume Brawl.</c> Reach out and attack other brawlers.,
-<c=@abilitytype>Costume Brawl.</c> Target and execute a brawler.,
-<c=@abilitytype>Deception.</c> Blind foes in the target area and grant stealth to nearby allies.,
-<c=@abilitytype>Deception.</c> Detonate your vortex creating a mirage mirror.,
-"<c=@abilitytype>Defensive Artifact.</c> Leap to the targeted area and slam down with an enchanted exalted hammer, damaging enemies while healing and granting boons to allies in the area.<br>For a short time after using this skill, activating any weapon skill that costs initiative creates an additional healing burst at your location.",
-"<c=@abilitytype>Defensive Artifact.</c> Place an electrified shield at your position that blocks projectiles, dealing damage to enemies and granting barrier to allies within it.<br>For a short time after using this skill, your weapon skills that cost initiative refund initiative.",
-"<c=@abilitytype>Defensive Artifact.</c> Summon a holo-dancer decoy that taunts enemies and grants boons to nearby allies. It self-destructs if it is not destroyed, dealing damage to enemies in a large area and granting additional boons to allies.<br>For a short time after using this skill, the next utility skill you use has reduced cooldown.",
-<c=@abilitytype>Device Kit.</c> Equip a kit that replaces your weapon with grenade skills.,
-"<c=@abilitytype>Double Edge.</c> Break stuns and summon a jade shield that applies barrier to yourself. You may activate the skill while it is recharging, with a chance for the skill to backfire. The chance of the skill backfiring lowers as the skill recharges, and the skill cannot backfire when the skill is completely recharged.",
-"<c=@abilitytype>Double Edge.</c> Drink an antivenom potion to heal yourself and remove conditions. You may activate the skill while it is recharging, with a chance for the skill to backfire. The chance of the skill backfiring lowers as the skill recharges, and the skill cannot backfire when the skill is completely recharged.",
-"<c=@abilitytype>Double Edge.</c> Flip a number of enchanted Canach Coins. Gain effects depending on whether they land on heads or tails. You may activate the skill while it is recharging, with a chance for the skill to backfire. The chance of the skill backfiring lowers as the skill recharges, and the skill cannot backfire when the skill is completely recharged.",
-"<c=@abilitytype>Double Edge.</c> Shadowstep to the targeted enemy, damaging and inflicting conditions on enemies at the target's location. You may activate the skill while it is recharging, with a chance for the skill to backfire. The chance of the skill backfiring lowers as the skill recharges, and the skill cannot backfire when the skill is completely recharged.",
-<c=@abilitytype>Double Edge.</c> Summon a skritt assistant at your location that grants you artifacts every interval as long as you are within range. The skritt has a random chance of giving you an Unstable Skritt Bomb instead of a regular artifact. Attempting to use the Unstable Skritt Bomb results in a Backfire.,
-"<c=@abilitytype>Double Edge.</c> Summon a skritt to fire a dwarven cannon at the targeted area, damaging and inflicting conditions on foes. You may activate the skill while it is recharging, with a chance for the skill to backfire. The chance of the skill backfiring lowers as the skill recharges, and the skill cannot backfire when the skill is completely recharged.",
-"<c=@abilitytype>Dual Attack.</c> Bleed your foe with ice and stone.<br><br>If you have an ice bullet, consume it to heal yourself. If you have an earth bullet, consume it to grant yourself barrier.",
-"<c=@abilitytype>Dual Attack.</c> Bombard your foe with a meteor that inflicts multiple conditions.<br><br>If you have a fire bullet, consume it to cause the shot to explode when it strikes an enemy, damaging other foes in the blast. If you have an earth bullet, consume it to inflict additional bleeding.",
-"<c=@abilitytype>Dual Attack.</c> Evade backward and grant yourself boons.<br><br>If you have an ice bullet, consume it to gain frost aura. If you have an air bullet, consume it to gain superspeed.",
-"<c=@abilitytype>Dual Attack.</c> Fire a ball of plasma that explodes when it hits, striking enemies behind the target.<br><br>If you have a fire bullet, consume it to create an area of fire beneath the initial target. If you have an air bullet, consume it to reduce the cooldown of this skill.",
-"<c=@abilitytype>Dual Attack.</c> Fire a quick shot that debilitates your target. <br><br>If you have an air bullet, consume it to also inflict daze. If you have an earth bullet, consume it to also inflict bleeding on your target.",
-"<c=@abilitytype>Dual Attack.</c> Fire multiple bullets of fire and ice, inflicting conditions.<br><br>If you have a fire bullet, consume it to gain fire aura. If you have an ice bullet, consume it to cause the ice shots to inflict additional conditions.",
-<c=@abilitytype>Dual Wield.</c> Blast your foe repeatedly with both pistols.,
-<c=@abilitytype>Dual Wield.</c> Evade and stab your foe in the back twice.,
-"<c=@abilitytype>Dual Wield.</c> Fire a blinding shot at your foe, then shadowstep to them for a dagger strike.",
-"<c=@abilitytype>Dual Wield.</c> Pistol-whip your foe, stunning them, then slash repeatedly with your sword.",
-"<c=@abilitytype>Dual Wield.</c> Stab your foe, then shadowstep away and shoot them.",
-<c=@abilitytype>Dual Wield.</c> Throw a dagger that Cripples nearby foes and returns to you.,
-<c=@abilitytype>Dual Wield.</c> Throw a dagger that cripples nearby foes and returns to you.,
-<c=@abilitytype>Duration above 100%% Heat</c>,
-<c=@abilitytype>Element: </c>Brilliance<br>Double-click to apply to a piece of armor.,
-<c=@abilitytype>Element: </c>Control<br>Double-click to apply to a weapon.,
-<c=@abilitytype>Element: </c>Enhancement<br>Double-click to apply to a weapon.,
-<c=@abilitytype>Element: </c>Pain<br>Double-click to apply to a weapon.,
-<c=@abilitytype>Element: </c>Potence<br>Double-click to apply to a piece of armor.,
-<c=@abilitytype>Element: </c>Skill<br>Double-click to apply to a piece of armor.,
-"<c=@abilitytype>Elixir.</c> Drink Elixir C, converting all conditions into random boons.",
-"<c=@abilitytype>Elixir.</c> Drink Elixir S to shrink yourself, recover from stun, and evade attacks.",
-<c=@abilitytype>Elixir.</c> Fire a dart that randomly makes foes Vulnerable or Weak.,
-"<c=@abilitytype>Elixir.</c> Infuse an elixir with the promise of good health, healing yourself and gaining regeneration, and then toss the elixir at the targeted area, poisoning foes. If you are in the splash area of the elixir, gain Blight.<br><br>If you are at or above the Blight threshold when you activate this skill, consume that amount of Blight to double damage and condition duration.",
-"<c=@abilitytype>Elixir.</c> Infuse the magical essence of anguish into an elixir, gaining swiftness and quickness, and then toss the elixir at the targeted area, inflicting cripple on foes. If you are in the splash area of the elixir, gain Blight.<br><br>If you are at or above the Blight threshold when you activate this skill, consume that amount of Blight to double the damage and condition duration.",
-"<c=@abilitytype>Elixir.</c> Infuse the magical essence of bliss into an elixir, gaining resolution and converting conditions on yourself into life force, and then toss the elixir at the targeted area, corrupting a boon on targets into a condition. If you are in the splash area of the elixir, gain Blight.<br><br>If you are at or above the Blight threshold when you activate this skill, consume that amount of Blight to double the damage and corrupt an additional boon on targets.",
-"<c=@abilitytype>Elixir.</c> Infuse the magical essence of ignorance into an elixir, gaining resistance and breaking stuns, and then toss the elixir at the targeted area, inflicting blindness on foes. If you are in the splash area of the elixir, gain Blight.<br><br>If you are at or above the Blight threshold when you activate this skill, consume that amount of Blight to double the damage and condition duration.",
-"<c=@abilitytype>Elixir.</c> Infuse the magical essence of ignorance into an elixir, gaining resistance and protection and breaking stuns, and then toss the elixir at the targeted area, inflicting blindness on foes. If you are in the splash area of the elixir, gain Blight.<br><br>If you are at or above the Blight threshold when you activate this skill, consume that amount of Blight to double the damage and condition duration.",
-"<c=@abilitytype>Elixir.</c> Infuse the magical essence of risk into an elixir, gaining might and fury, and then toss the elixir at the targeted area, inflicting weakness on foes. If you are in the splash area of the elixir, gain Blight.<br><br>If you are at or above the Blight threshold when you activate this skill, consume that amount of Blight to double the damage and condition duration.",
-"<c=@abilitytype>Elixir.</c> Infuse your boundless ambition into an elixir, gaining every possible boon, and then toss the elixir at the targeted area, inflicting all damaging conditions on foes. If you are in the splash area of the elixir, gain Blight.<br><br>If you are at or above the Blight threshold when you activate this skill, consume that amount of Blight to double the damage and condition duration.",
-"<c=@abilitytype>Elixir.</c> Launch an elixir orb, healing nearby allies on impact and creating an area of continual healing.",
-"<c=@abilitytype>Elixir.</c> Shoot an elixir orb, healing nearby allies when it bursts and creating an area of continual healing.",
-"<c=@abilitytype>Engage.</c> Barrel roll forward, damaging foes and healing allies that you pass though.",
-"<c=@abilitytype>Engage.</c> Barrel roll forward, damaging foes and healing allies that you pass though. <c=@abilitytype>Hold</c> the skill to activate the dismount portion of the engage skill.Healing reduces each time the same individual is hit within a short time frame.",
-"<c=@abilitytype>Engage.</c> Jump into the air and swoop down, crashing into nearby foes. Deal increasing damage when striking at higher speeds.",
-"<c=@abilitytype>Engage.</c> Jump into the air, spinning rapidly, and land, smashing into your foes with great force.",
-"<c=@abilitytype>Engage.</c> Leap toward the target location, damaging nearby foes.",
-"<c=@abilitytype>Engage.</c> Pounce at your foe, damaging them and any nearby foes.",
-"<c=@abilitytype>Engage.</c> Roll forward, damaging foes that you pass through.",
-"<c=@abilitytype>Engage.</c> While on land, leap into the air and breathe fire ahead of you. If in the air, descend toward the ground before attacking.",
-"<c=@abilitytype>Engage.</c> While on the ground; jump into the air and swoop down, crashing into nearby foes. While in the air; dive toward the ground, engaging foes upon impact.Deals increasing damage when striking at higher speeds.",
-<c=@abilitytype>Familiar Active.</c> The fox fires a ball of flame that burns enemies. Enemies who are struck multiple times in quick succession receive additional burning.,
-"<c=@abilitytype>Familiar Active.</c> The hare creates a burst of lightning at the target location, damaging enemies and marking them to take increased damage from your critical strikes.",
-<c=@abilitytype>Familiar Active.</c> The toad unleashes an earthen blast that dazes nearby enemies. Gain barrier if you strike an enemy. <c=@reminder>Gain barrier up to one time.</c>,
-"<c=@abilitytype>Familiar Active:</c> The otter throws small orbs of water at nearby allies, healing them and granting regeneration.",
-<c=@abilitytype>Familiar Passive.</c> Gain increased ferocity while under the effects of fury.,
-<c=@abilitytype>Familiar Passive.</c> Gain might when you inflict burning. <c=@reminder>Might can be gained once per interval.</c>,
-<c=@abilitytype>Familiar Passive.</c> Gain protection when you disable an enemy. <c=@reminder>Protection can be gained once per interval.,
-<c=@abilitytype>Familiar Passive:</c> Heal allies when you grant them regeneration.,
-<c=@abilitytype>Field Burning</c>,
-<c=@abilitytype>Flow Threshold</c>,
-<c=@abilitytype>Frost Aura</c>,
-"<c=@abilitytype>Gadget.</c> Fly backward, damaging foes with your rocket exhaust.",
-<c=@abilitytype>Glyph.</c> Daze nearby foes.,
-<c=@abilitytype>Glyph.</c> Gain a chance for spells to inflict a condition based on your attunement.<br>Fire: Burning.<br>Water: Chilled.<br>Air: Weakness.<br>Earth: Cripple.,
-<c=@abilitytype>Glyph.</c> Revive allies with different attunement effects. <br>Air: Revive and teleport an ally to your location.<br>Earth: Revive three allies.<br>Fire: Revive an ally; you're revived the next time you're downed.<br>Water: Revive an ally with full health.,
-<c=@abilitytype>Glyph.</c> Summon a fire elemental.,
-<c=@abilitytype>Glyph.</c> Summon a water elemental.,
-<c=@abilitytype>Glyph.</c> Summon an air elemental.,
-<c=@abilitytype>Glyph.</c> Summon an earth elemental.,
-<c=@abilitytype>Glyph.</c> Summon an elemental based on your attunement.<br>Fire Elemental: Deals damage.<br>Ice Elemental: Deals damage and heals.<br>Earth Elemental: Deals damage and is hard to kill.<br>Air Elemental: Deals damage and Stuns.,
-"<c=@abilitytype>Legendary Centaur.</c> Collect energy, pulling it into the tablet to build up its power. After a short delay the energy will be released, healing nearby allies. <br><br>If this skill is empowered, healing is increased and endurance is granted to affected allies.",
-"<c=@abilitytype>Legendary Centaur.</c> Force energy to erupt from the tablet, knocking down nearby foes and healing nearby allies. <br><br>If this skill is empowered, grant stability to allies near the tablet.",
-"<c=@abilitytype>Legendary Centaur.</c> Remove conditions from allies near the tablet, and heal them for a small amount per condition removed. <br><br>If this skill is empowered, remove additional conditions from allies.",
-"<c=@abilitytype>Legendary Centaur.</c> Summon a protective barrier around the tablet that blocks enemy projectiles. <br><br>If this skill is empowered, it also grants protection to allies around the tablet.",
-<c=@abilitytype>Legendary Dragon</c> Consume facet of darkness to cause cripple and blind to nearby foes. Facet of darkness will be disabled while this skill is on recharge.,
-"<c=@abilitytype>Legendary Renegade.</c> Summon Centurion Jas Razorclaw from the Mists to strike nearby enemies and enhance the attacks of your allies.<br><br><c=@abilitytype>Band Together.</c> After using this skill, your next <c=@abilitytype>Legendary Renegade</c> skill activates instantly and is enhanced. When this skill is enhanced it also inflicts torment on enemies that it strikes.",
-"<c=@abilitytype>Legendary Renegade.</c> Summon Era Breakrazor to heal your allies while shielding them from condition damage.<br><br><c=@abilitytype>Band Together.</c> After using this skill, your next <c=@abilitytype>Legendary Renegade</c> skill activates instantly and is enhanced. When this skill is enhanced, it also grants barrier to nearby allies.",
-"<c=@abilitytype>Legendary Renegade.</c> Summon Kus Darkrazor to disrupt your enemies.<br><br><c=@abilitytype>Band Together.</c> After using this skill, your next <c=@abilitytype>Legendary Renegade</c> skill activates instantly and is enhanced. When this skill is enhanced it also grants resistance to nearby allies.",
-"<c=@abilitytype>Legendary Renegade.</c> Summon Visk Icerazor from the Mists to magically bombard your enemies with debilitating conditions.<br><br><c=@abilitytype>Band Together.</c> After using this skill, your next <c=@abilitytype>Legendary Renegade</c> skill activates instantly and is enhanced. When this skill is enhanced it also inflicts chilled on enemies that it strikes.",
-<c=@abilitytype>Light Aura above 100%% Heat</c>,
-<c=@abilitytype>Light Aura above 50%% Heat</c>,
-"<c=@abilitytype>Manipulation.</c> Give allies Illusion of Vengeance at the target location, allowing them to get up from downed and keep fighting.",
-<c=@abilitytype>Manipulation.</c> Send three conditions you have to your foe and steal three of their boons.,
-<c=@abilitytype>Mark. Minion.</c> Inscribe a mark on the ground that summons five jagged horrors when triggered by a foe.,
-<c=@abilitytype>Mark. Minion.</c> Inscribe a mark that summons five jagged horrors when a foe triggers it.,
-<c=@abilitytype>Mark.</c> Inscribe a mark that causes fear when foes trigger it.,
-"<c=@abilitytype>Mark.</c> Inscribe a mark that chills foes when they trigger it, and leaves a poisonous area.",
-<c=@abilitytype>Mark.</c> Inscribe a mark that makes a foe vulnerable when they trigger it.,
-<c=@abilitytype>Mark.</c> Inscribe a mark that transfers conditions from yourself to foes when they trigger it.,
-<c=@abilitytype>Mech Command.</c> Pulse a barrier and boons to all nearby allies.<br><br><c=@reminder>The mech does not count against the target count for this skill.</c>,
-"<c=@abilitytype>Mech Command.</c> Your mech removes conditions, breaks stuns, and grants boons to itself and nearby allies.<br><br><c=@reminder>The mech does not count against the target count for this skill.</c>",
-"<c=@abilitytype>Offensive Artifact.</c> Dash to the targeted location while dropping bombs along your path that detonate after a short period of time, dealing damage and burning enemies. More bombs are dropped the farther you travel. <br>For a short time after using this skill, you continue to drop additional bombs at your location. ",
-"<c=@abilitytype>Offensive Artifact.</c> Rock out with your guitar, damaging and applying conditions to opponents around you, then slam the ground with the guitar, damaging and stunning opponents in the area. <br>For a short time after using this skill, your first weapon skill is replaced with your stealth attack, even when not stealthed.",
-"<c=@abilitytype>Offensive Artifact.</c> Shoot an orb that explodes upon impact with the ground, creating a corrupted area that deals damage and applies conditions to enemies. <br>For a short time after using this skill, your strikes additionally inflict burning on enemies.",
-"<c=@abilitytype>Offensive Artifact.</c> Summons a Kryptis turret at your targeted location and fires at the closest foe in range.<br>For a short time after using this skill, you deal increased damage to enemies that were struck by the turret.",
-<c=@abilitytype>Performance.</c> Command every instrument to begin playing in the background. Duration is determined by the number of instruments you currently have playing.,
-<c=@abilitytype>Performance.</c> Reciting this tale with the drums playing will grant you notes.,
-<c=@abilitytype>Performance.</c> Reciting this tale with the flute playing will grant you notes.,
-<c=@abilitytype>Performance.</c> Reciting this tale with the harp playing will grant you notes.,
-<c=@abilitytype>Performance.</c> Reciting this tale with the lute playing will grant you notes.,
-<c=@abilitytype>Performance.</c> Reciting this tale with two or more instruments playing will grant you notes.,
-<c=@abilitytype>Pet:</c> Summon a companion you can interact with.,
-"<c=@abilitytype>Phantasm.</c> Create a phantasm that attacks your target and creates a defensive bubble, protecting itself and allies from projectiles.",
-<c=@abilitytype>Phantasm.</c> Create an illusion that unloads its pistols on your foe.,
-<c=@abilitytype>Physical.</c> Smash your foe.,
-"<c=@abilitytype>Precision Aimed Ability.</c> Command your skyscale to launch a fireball, dealing damage and burning its target.While holding the ability button down, you can precisely aim where your skyscale will launch the fireball. Release the ability button to launch the fireball in that direction.",
-<c=@abilitytype>Predator Strain.</c> Evolving grants you superspeed and quickness.,
-<c=@abilitytype>Punishment.</c> Leave a trail of sand as you travel. Grant boons to allies passing through it. Inflict burning on enemies and corrupt a boon into torment.,
-<c=@abilitytype>Quickness at or below 50%% heat</c>,
-<c=@abilitytype>Quickness over 100%% heat</c>,
-<c=@abilitytype>Quickness over 50%% heat</c>,
-"<c=@abilitytype>Ranged.</c> Hurl your weapon at your foe. If you are in close range, swing your weapon at them instead. Striking a foe reduces the cooldown of Abyssal Raze once per skill use.",
-<c=@abilitytype>Ranged.</c>Throw your spear.,
-"<c=@abilitytype>Rapacious Strain.</c> While evolved, strike foes an additional time when you hit them.",
-<c=@abilitytype>Replicating Strain.</c> Evolving heals you over time and grants alacrity.,
-<c=@abilitytype>Resiliant Strain.</c> Evolving grants you barrier and resistance.,
-<c=@abilitytype>Shared Inventory:</c> This slot is shared by all characters. Vendors and the Trading Post will ignore items in this slot.,
-"<c=@abilitytype>Shatter.</c> All your clones and phantasms shatter, firing exploding blades at their targets.",
-"<c=@abilitytype>Shatter.</c> Destroy all your clones and phantasms, gaining alacrity for each one shattered.",
-<c=@abilitytype>Shout.</c> Call out to target a foe and make them vulnerable.,
-<c=@abilitytype>Shout.</c> Your pet will seek out and revive a downed ally.,
-<c=@abilitytype>Shout</c> skills heal allies. Gain healing power based on your power.,
-"<c=@abilitytype>Signet Passive:</c> Incoming strike and condition damage is reduced.<br><c=@abilitytype>Signet Active:</c> Create a projectile-blocking dome around yourself. You and allies inside the dome gain barrier every second. If your mech is active, the dome is centered on it and is larger. <br><br><c=@reminder>The mech does not count against the target count for this skill.</c>",
-"<c=@abilitytype>Signet.</c> You and your pet grow larger, dealing more damage and gaining stability.",
-<c=@abilitytype>Sphere.</c> Release your sphere to attune to air after a short delay.,
-<c=@abilitytype>Sphere.</c> Release your sphere to attune to earth after a short delay.,
-<c=@abilitytype>Sphere.</c> Release your sphere to attune to fire after a delay.,
-<c=@abilitytype>Sphere.</c> Release your sphere to attune to fire after a short delay.,
-<c=@abilitytype>Sphere.</c> Release your sphere to attune to water after a short delay.,
-<c=@abilitytype>Stability above 100%% Heat</c>,
-<c=@abilitytype>Stability above 50%% Heat</c>,
-<c=@abilitytype>Steal.</c>,
-<c=@abilitytype>Stealth Attack.<c/> Attack your foe from the shadows. Shadowstep to your opponent before you strike them.,
-<c=@abilitytype>Survival.</c> Entangle your foe. They are Immobile until the vines are destroyed.,
-<c=@abilitytype>Survival.</c> Entangle your foe. They are immobile until the vines are destroyed.,
-<c=@abilitytype>Symbol.</c> Pierce the ground with a mystic symbol that damages and burns foes while granting retaliation to allies.,
-<c=@abilitytype>Titanic Strain.</c> Evolving improves the effect of might and grants might.,
-"<c=@abilitytype>Tome.</c> Locks you in place, but grants you powerful support spells.",
-<c=@abilitytype>Tome.</c> Summon an ancient tome that grants you powerful support spells.,
-<c=@abilitytype>Transform.</c> Become a virulent cloud and inflict multiple conditions on foes you touch. Entering this form destroys all minions and removes spectral effects.,
-<c=@abilitytype>Transform.</c> Turn your foe into a moa bird.,
-<c=@abilitytype>Transform.</c> Turn your foe into a tuna fish.,
-<c=@abilitytype>Trap.</c> Select an NPC (or player) to follow by ground target selecting them. You'll receive a buff and this skill will be replaced if the target was successfully selected.,
-<c=@abilitytype>Trap.</c> Set a trap that bleeds and cripples foes. Pulses three times when triggered.,
-<c=@abilitytype>Turret.</c> Build a stationary mortar that you or your allies can fire.,
-<c=@abilitytype>Virtue.</c> Remove conditions and gain Flowing Resolve. Rush forward and evade attacks while leaving <c=@abilitytype>Willbender Flames</c> in your wake.<br><c=@reminder>Removes other active <c=@abilitytype>Virtue</c> effects.</c>,
-<c=@abilitytype>Virtue.</c> Shadowstep a short distance while gaining boons and emanating <c=@abilitytype>Willbender Flames</c> from your location. Gain Courage.<br><c=@reminder>Removes other active <c=@abilitytype>Virtue</c> effects.</c,
-"<c=@abilitytype>Volatile Strain.</c> When you evolve, stun nearby enemies.",
-<c=@abilitytype>Weapon Kit.</c> Arm yourself with a flamethrower that replaces your weapon skills.,
-<c=@abilitytype>Well.</c> Convert boons on foes into conditions every three seconds.,
-<c=@abilitytype>Well.</c> Convert conditions on allies into boons every three seconds.,
-<c=@abilitytype>Well.</c> Transform boons of foes into conditions every three seconds.,
-<c=@Event>Community goal complete!</c>,
-<c=@Event>Community goals complete!</c>,
-"<c=@flavor>""A big sword for a big job.""<br>—Warmaster Chan</c>",
-"<c=@flavor>""A clean kill.""<br>—Meinolf Njordson</c>",
-"<c=@flavor>""A fine heirloom accessory from the ancient Krytan family.""<br>—Farmhand Abhean</c>",
-"<c=@flavor>""A good cook needs a trusty spoon.""<br>—Hune</c>",
-"<c=@flavor>""A good focus is essential for the accurate channeling of energy.""<br>—Ahjj</c>",
-"<c=@flavor>""A good shot is heard louder than a good word.""<br>—Explorer Erikk</c>",
-"<c=@flavor>""A good soldier follows orders. A great soldier doesn't question them.""<br>—Zara</c>",
-"<c=@flavor>""A good spy needs a sharp blade and a quicker tongue.""<br>—Jahr Duskrend</c>",
-"<c=@flavor>""A mini grawl might worship its mini likeness.""<br>—Sizza</c>",
-"<c=@flavor>""A potent reminder of our beautiful swamp.""<br>—Laewyn</c>",
-"<c=@flavor>""A reminder of the power inside yourself.""<br>—Arias</c>",
-"<c=@flavor>""A Seraph never backs away from a fight.""<br>—Morina</c>",
-"<c=@flavor>""A strong, trustworthy mace.""<br>—Leika</c>",
-"<c=@flavor>""A thorn is only as dangerous as you are careless.""<br>—Diantha</c>",
-"<c=@flavor>""A top seller at First Haven, after our spoons, of course.""<br>—Ulva</c>",
-"<c=@flavor>""Aha! I've been looking for those.""<br>—Cin</c><br><br>This item only has value as part of a collection.",
-"<c=@flavor>""Aim true. But telling you that is like telling the sun to rise.""<br>—Lightbringer Ives</c>",
-"<c=@flavor>""All are equal when measured under the blade.""<br>—Kalla Scorchrazor</c>",
-"<c=@flavor>""All for one and one for all.""<br>—Haral</c>",
-"<c=@flavor>""Almost fire resistant. Almost.""<br>—Bordekka</c>",
-"<c=@flavor>""Almost perfect size to throw.""<br>—Hua'racche</c>",
-"<c=@flavor>""Always flow like the current in order to crash like a wave.""<br>—Shifting Waves</c>",
-"<c=@flavor>""Always gotta make sure your drinking water's safe.""<br>—Stout Darkmind</c>",
-"<c=@flavor>""Always vigilant.""<br>—Crusader Brice</c>",
-"<c=@flavor>""Always wear a sturdy helm when fighting skritt. There's no telling what they'll throw at you.""<br>—Kelgg</c>",
-"<c=@flavor>""Amateurish at best, but it's better than nothing.""<br>—Wistt</c>",
-"<c=@flavor>""Amazingly quiet for how much protection they offer.""<br>—Morina</c>",
-"<c=@flavor>""Amazingly well balanced, perfect for cracking skulls.""<br>—Aidem</c>",
-"<c=@flavor>""Amazingly well preserved.""<br>—Aidem</c>",
-"<c=@flavor>""Another day, perhaps.""<br>—Vollym</c>",
-"<c=@flavor>""Aquadynamic for extreme thrusting power.""<br>—Mei Shadowwalker</c>",
-"<c=@flavor>""Are we mere reflections of the truth?""<br>—Nessa</c>",
-"<c=@flavor>""Armor up.""<br>—Magister Pagga</c>",
-"<c=@flavor>""As long as the food's still good, I don't want to know.""<br>—Cin</c><br><br>This item only has value as part of a collection.",
-"<c=@flavor>""At some point, everything becomes a nail.""<br>—Warmaster Jofast</c>",
-"<c=@flavor>""Balance in all things.""<br>—Enduring Protector</c>",
-"<c=@flavor>""Bandits hate fire.""<br>—Waldo</c>",
-"<c=@flavor>""Bang, bang!""<br>—Cakilak'ka</c>",
-"<c=@flavor>""Bash the dragon, smash the dragon, may it never rise up again!""<br>—Excerpt from ""Bash the Dragon""</c>",
-"<c=@flavor>""Battle tested. Arcane Council approved.""<br>—Professor Gahf</c>",
-"<c=@flavor>""Be careful not to cut yourself.""<br>—Lightbringer Zykk</c>",
-"<c=@flavor>""Be careful with that! It's very fragile.""<br>—Glaxx</c>",
-"<c=@flavor>""Be wise.""<br>—Lahri</c>",
-"<c=@flavor>""Bear watches over us.""<br>—Freygunn</c>",
-"<c=@flavor>""Being quiet means staying alive.""<br>—Morina</c>",
-"<c=@flavor>""Bet their catapult won't work without this!""<br>—Tripp</c>",
-"<c=@flavor>""Better gear up. After this is Arah itself.""<br>—Keeper Lyrda</c>",
-"<c=@flavor>""Better to be as far from that rotting flesh smell as possible.""<br>—Priory Explorer Cyara</c>",
-"<c=@flavor>""Between the three of us, there's nothing we can't handle.""<br>—Rhea</c>",
-"<c=@flavor>""Big battles call for big weapons.""<br>—Arcanist Repth</c>",
-"<c=@flavor>""Blasphemy like that of the svanir needs to be cut from this world.""<br>—Crusader D'Stolt</c>",
-"<c=@flavor>""Blast, Build, Battle.""<br>—Iron Legion Motto</c>",
-"<c=@flavor>""Bunny watches us, too.""<br>—Bjarni</c>",
-"<c=@Flavor>""Business is life, and life is good!""<br>—Anonymous Vabbian Trade Official</c>",
-"<c=@flavor>""By Bangar's blade!""<br>—Blood Legion</c>",
-"<c=@flavor>""By the time most soldiers get here, they need a new pair.""<br>—Arcanist Repth</c>",
-"<c=@flavor>""Can you believe the Branded corruption even hit the fish?""<br>—Sentinel Staggerfoe</c>",
-"<c=@flavor>""Can you feel the rod vibrate? It also makes a faint humming sound.""<br>—Opticalium Researcher Oisha</c>",
-"<c=@flavor>""Can't be unarmed with the flame legion skulking about.""<br>—Braxa Scalehunter</c>",
-"<c=@flavor>""Can't have a proper patrol without a proper torch.""<br>—Lionguard Cern</c>",
-"<c=@flavor>""Careful not to step into anything glowy, gooey, or otherwise threatening.""<br>—Researcher Kaii</c>",
-"<c=@flavor>""Careful walking around the ettins; they leave all manner of nasty and sharp things lying about.""<br>—Bramm</c>",
-"<c=@flavor>""Careful what sparks you create.""<br>—Jahr Duskrend</c>",
-"<c=@flavor>""Careful, very sharp!""<br>—Bordekka</c>",
-"<c=@flavor>""Careful. The wings will tickle your neck if you move your head too fast.""<br>—Huelic</c>",
-"<c=@flavor>""Centaurs are highly flammable.""<br>—Forward Scout Luke</c>",
-"<c=@flavor>""Comes in handy if you get spotted sneaking.""<br>—Avarr</c>",
-"<c=@flavor>""Coming from the darkness they just grow like that.""<br>—Alarin</c>",
-"<c=@flavor>""Communication is the key to a successful operation, regardless of the size.""<br>—Agent Siobhan</c>",
-"<c=@flavor>""Conquer all.""<br>—Blood Legion Motto</c>",
-"<c=@flavor>""Cooperation brought us to this point. It will see us through.""<br>—Tactician Almonia</c>",
-"<c=@flavor>""Cover your head. That's rule number one when all the other rules go out the window.""<br>—Scholar Blix</c>",
-"<c=@flavor>""Crab grabbin' can be dangerous. Protect those mitts!""<br>—Bram Dawnrazer</c>",
-"<c=@flavor>""Customized iron sights for increased damage and accuracy.""<br>—Ulva</c>",
-"<c=@flavor>""Cuts enemies, not plants.""<br>—Nrocroc Chief</c>",
-"<c=@flavor>""Dark arrows for dark times, friend.""<br>—Lightbringer Ives</c>",
-"<c=@flavor>""Darkness, like anything else, is best when its enhanced.""<br>—Fina Duskmaker</c>",
-"<c=@flavor>""Designed to keep you nimble while out on patrol.""<br>—Lionguard Cern</c>",
-"<c=@flavor>""Destroy with subterfuge.""<br>—Ash Legion Motto</c>",
-"<c=@flavor>""Destroyers came; we were ready.""<br>—Bordekka</c>",
-"<c=@flavor>""Did you see the size of that thing?""<br>—Travis</c>",
-"<c=@flavor>""Diplomacy is often a double edged pursuit. Out here we keep both sides sharp.""<br>—Kai</c>",
-"<c=@flavor>""Do you think it might be older than the dragons?""<br>—Rhea</c>",
-"<c=@flavor>""Does a good job of keeping thorn wolves away.""<br>—Nessi</c>",
-"<c=@flavor>""Don't dig too deep.""<br>—Explorer Cryptcutter</c>",
-"<c=@flavor>""Don't dig too deep.""<br>—Explorer Cyrptcutter</c>",
-"<c=@flavor>""Don't eat this one—the stuff I preserved it with doesn't taste too good.""<br>—Elain</c>",
-"<c=@flavor>""Don't get any funny ideas. Only trained techs can replace a gate crystal.""<br>—Glaxx</c>",
-"<c=@flavor>""Don't go into the water to rescue Wardens without this speargun. It'll keep those undead off you."" <br>—Danu</c>a",
-"<c=@flavor>""Don't just go around touching things. I learned that the unpleasant way.""<br>—Recruit Tochacatl</c>",
-"<c=@flavor>""Don't mind the centaur blood.""<br>—Corporal Lebeau</c>",
-"<c=@flavor>""Don't shoot your own eye out!""<br>—Twitchok</c>",
-"<c=@flavor>""Don't wait for shadows to make the first move. Stab them first."" <br>—Mate Watt</c>",
-"<c=@flavor>""Don't want anything getting close to you? Then, you want this.""<br>—Nessi</c>",
-"<c=@flavor>""Don't worry with this one—just point and shoot.""<br>—Marksman Kamekeck</c>",
-"<c=@flavor>""Don't worry. I won't sell your personal data to another lab.""<br>—Zippti</c>",
-"<c=@flavor>""Dredge mines are lined with torches for light.""<br>—Priory Field Guide to Dredge</c>",
-"<c=@flavor>""Dye these black for the ultimate in tactical armor.""<br>—Tactician Lyan</c>",
-"<c=@flavor>""Either the quaggan used it backward or this one didn't fit.""<br>—Scholar Sharpslash</c>",
-"<c=@flavor>""Enemies of the state flee before the sight of anyone wearing this.""<br>—Goran</c>",
-"<c=@flavor>""Enjoy the bubbles!""<br>—Varonos Parump</c>",
-"<c=@flavor>""Ettin ring make you strong!""<br>—Krug</c>",
-"<c=@flavor>""Even the depths require much.""<br>—Worthy Burden</c>",
-"<c=@flavor>""Even the mightiest tree loses a branch from time to time.""<br>—Leigheara</c>",
-"<c=@flavor>""Even the smallest sapling can still be useful.""<br>—Leigheara</c>",
-"<c=@flavor>""Even the tallest tree starts as a tiny seed.""<br>—Diantha</c>",
-"<c=@flavor>""Everyone says we need more of these. I think we've got enough.""<br>—Mad Mardine</c>",
-"<c=@flavor>""Everything starts with a plan, but nothing ever goes according to it.""<br>—Torruh Sweptweave</c>",
-"<c=@flavor>""Excellent quality First Haven handwear.""<br>—Clerk Ulva</c>",
-"<c=@flavor>""Excessive use has been linked to hearing loss in skritt.""<br>—Dr. Klagg</c>",
-"<c=@flavor>""Favorite bow. Thank you.""<br>—Mokooki</c>",
-"<c=@flavor>""Fight fire with fire. Well in this case, blackpowder, fire, and a projectile.""<br>—Corva Sharpclaw</c>",
-"<c=@flavor>""Fight magic with magic, they say.""<br>—Tactician Almonia</c>",
-"<c=@flavor>""Fighting odd mechanical creatures can be as easy as bringing the right stick.""<br>—Garrius</c>",
-"<c=@flavor>""Find balance or fall into discord.""<br>—Guardian Infinite Mind</c>",
-"<c=@flavor>""Finest pistol ever 'donated' to our cause.""<br>—Maakel The Immortal</c>",
-"<c=@flavor>""Fires with deadly accuracy.""<br>—Diantha</c>",
-"<c=@flavor>""First thing you learn in the Priory is how to keep these from burning out.""<br>—Priory Researcher Raekk</c>",
-"<c=@flavor>""Fish love the truffle.""<br>—Matlal</c>",
-"<c=@flavor>""Flame. Dark. Shadow. Burn.""<br>—Secret Code 872SQ</c>",
-"<c=@flavor>""Folks don't just breathe water.""<br>—Fisherman Will</c>",
-"<c=@flavor>""For a great hero dedicated to Tyria's safety.""<br>—Lady Camilla Einshorn</c>",
-"<c=@flavor>""For a hero. Your hardwork will not be forgotten.""<br>—Keeper Jonez Deadrun</c>",
-"<c=@flavor>""For emergencies only.""<br>—Krewe Leader Pachoo</c>",
-"<c=@flavor>""For getting what we needed to where we needed it, despite the hardship.""<br>—Explorer Pentt</c>",
-"<c=@flavor>""For prying out those hard-to-get bits of karka meat.""<br>—Owain</c>",
-"<c=@flavor>""For some good light in those dark caves.""<br>—Kelgg</c>",
-"<c=@flavor>""For those large hides that you just can't get clean.""<br>—Lyot</c>",
-"<c=@flavor>""Fortunately, they're poorly constructed.""<br>—Coydd</c>",
-"<c=@flavor>""Found it just laying in the bog, imagine that.""<br>—Issa</c>",
-"<c=@flavor>""Found it just lying around in the bog. Imagine that.""<br>—Issa</c>",
-"<c=@flavor>""Friends of the Wupwup are friends of the warthog.""<br>—Wupwup Chief</c>",
-"<c=@flavor>""From a once-proud race.""<br>—Lionguard Nadel</c>",
-"<c=@flavor>""Functional and stylish!""<br>—Crusader Patrick</c>",
-"<c=@flavor>""Fur keeps the head warm.""<br>—Gestre Howle</c>",
-"<c=@flavor>""Get a lot of these, fighting those jotun.""<br>—Nadel</c>",
-"<c=@flavor>""Gift this speargun to your friend that hates water. Hilarious.""<br>—Lieutenant Pickins</c>",
-"<c=@flavor>""Go for a swim!""<br>—Creator Zee</c>",
-"<c=@flavor>""Good discipline will keep the militia strong.""<br>—Sergeant Soto</c>",
-"<c=@flavor>""Good for breathing.""<br>—Lugung</c>",
-"<c=@flavor>""Good for digging in the dirt!""<br>—Sneckit</c>",
-"<c=@flavor>""Good for herding dolyaks.""<br>—Maxtar Rapidstep</c>",
-"<c=@flavor>""Good for wading through the snow.""<br>—Bolla</c>",
-"<c=@flavor>""Good for worms, and good for you!""<br>—Sneckit</c>",
-"<c=@flavor>""Good to keep these dark so they don't shimmer at night.""<br>—Tulfar</c>",
-"<c=@flavor>""Good work. Have some pants.""<br>—Ghyrtratus Fiendmauler</c>",
-"<c=@flavor>""Got to admit, I get a weird feeling whenever I hold it.""<br>—Issa</c>",
-"<c=@flavor>""Gotta go out at night? Take this!""<br>—Sneckit</c>",
-"<c=@flavor>""Gotta keep these really sharp if you're gonna skin a dolyak.""<br>—Maxtar Rapidstep</c>",
-"<c=@flavor>""Gotta keep warm. I added extra insulation as thanks.""<br>—Disa</c>",
-"<c=@flavor>""Gotta protect those knees.""<br>—Lionscout Alli</c>",
-"<c=@flavor>""Grawl really like shiny things.""<br>—Etta</c>",
-"<c=@flavor>""Grawl seem to have a lot of extra fur. Makes for some good padding.""<br>—Cleverblade</c>",
-"<c=@flavor>""Grawl sure are odd creatures, but they know how to make a good bowstring.""<br>—Cleverblade</c>",
-"<c=@flavor>""Grawl worship the oddest things.""<br>—Fearin</c>",
-"<c=@flavor>""Great for a good dredge bashing.""<br>—Leika</c>",
-"<c=@flavor>""Great for cleaning out grawl.""<br>—Etta</c>",
-"<c=@flavor>""Great for clearing paths of brush and bandits.""<br>—Rhea</c>",
-"<c=@flavor>""Great for deep diving or shallow snorkeling.""<br>—Agent Rjoda</c>",
-"<c=@flavor>""Great for environmentally friendly sabotage.""<br>—Environmental Activist Jenrys</c>",
-"<c=@flavor>""Great for lighting just about anything ablaze.""<br>—Crusader Vilborg</c>",
-"<c=@flavor>""Great for splitting lumber. Or centaurs.""<br>—Forward Scout Luke</c>",
-"<c=@flavor>""Great power in mountain skull. We make small mountain you hold in hand.""<br>—Wupwup Chief</c>",
-"<c=@flavor>""Great protection and excellent style.""<br>—Sheriff Kaargoth Bloodclaw</c>",
-"<c=@flavor>""Harpy down makes a good pillow. It's soft and warm.""<br>—Sagum Relicseeker</c>",
-"<c=@flavor>""Has never failed me. Well, almost never.""<br>—Twitchok</c>",
-"<c=@flavor>""Have to protect the little ones.""<br>—Braxa Scalehunter</c>",
-"<c=@flavor>""Have you seen how drafty these buildings are?""<br>—Cin</c><br><br>This item only has value as part of a collection.",
-"<c=@flavor>""He who holds the speaking bone may jabber.""<br>—Bramm</c>",
-"<c=@flavor>""Helps when the sun goes down.""<br>—Shengra</c>",
-"<c=@flavor>""Helps your aim.""<br>—Ichtaca</c>",
-"<c=@flavor>""History must be preserved.""<br>—Bink</c>",
-"<c=@flavor>""Hold on to the spirits.""<br>—Old Witch Doctor's Saying</c>",
-"<c=@flavor>""Hope it makes you luckier than the centaur it came from.""<br>—Barnaby</c>",
-"<c=@flavor>""How do they eat with these things?""<br>—Surveyor Falki</c>",
-"<c=@flavor>""How do you defeat shambling, slow, diseased, decaying undead? Attack at range."" <br>—Laudren</c>",
-"<c=@flavor>""How do you improve pants? Well, put these on and let me show you.""<br>—Explorer Trebb</c>",
-"<c=@flavor>""Hunt.""<br>—Wupwup Chief</c>",
-"<c=@flavor>""Hunting is harder than it looks.""<br>—Hunter Block</c>",
-"<c=@flavor>""I assume you know which end to use. I'll be here if you an explanation.""<br>—Legionnaire Neverburn</c>",
-"<c=@flavor>""I assume you know which end to use. I'll be here if you need an explanation.""<br>—Legionnaire Neverburn</c>",
-"<c=@flavor>""I bet these are really important. Not to me, though.""<br>—Hua'racche</c>",
-"<c=@flavor>""I bought it years ago. Anyone who says otherwise will be hearing from my lawyers.""<br>—Cin</c><br><br>This item only has value as part of a collection.",
-"<c=@flavor>""I calculate that this weapon will improve your performance in the field by a huge percentage.""<br>—Jezza</c>",
-"<c=@flavor>""I don't know if it changes anything, but I put a little prayer of Dwayna on the side.""<br>—Jinell</c>",
-"<c=@flavor>""I don't think it would fit your neck.""<br>—Mrr'kkant</c>",
-"<c=@flavor>""I doubt the family will miss this!""<br>—Lindi</c>",
-"<c=@flavor>""I embedded a crystal into the hilt to enhance its arcane capacity.""<br>—Scholar Blix</c>",
-"<c=@flavor>""I feel like I've seen these markings somewhere before.""<br>—Issa</c>",
-"<c=@flavor>""I find a hammer can be really helpful when trying to get ore in hard to reach places.""<br>—Adgrils</c>",
-"<c=@flavor>""I find a hammer can be really helpful when trying to get ore in hard-to-reach places.""<br>—Adgils</c>",
-"<c=@flavor>""I find it fascinating that a blind creature can write.""<br>—Rinceword</c>",
-"<c=@flavor>""I find these all over. The trolls seem to really like them.""<br>—Rune Hunter</c>",
-"<c=@flavor>""I found these in some supplies here, which they probably stole from us first.""<br>—Seraph Elmder</c>",
-"<c=@flavor>""I found this in the hand of that centaur you saved me from.""<br>—Seraph</c>",
-"<c=@flavor>""I go where I please, and just now it pleases me to stay among friends.""<br>—Wynne</c>",
-"<c=@flavor>""I guess it's a weapon for really small people?""<br>—Hua'racche</c>",
-"<c=@flavor>""I had a few extra helms laying around. I think they were my son's.""<br>—Bulsa</c>",
-"<c=@flavor>""I had a few extra helms lying around. I think they were my son's.""<br>—Bulsa</c>",
-"<c=@flavor>""I had to make minor adjustments after getting these in. You won't be disappointed.""<br>—Researcher Zippti</c>",
-"<c=@flavor>""I hate ghosts, but they do make excellent targets.""<br>—Erria</c>",
-"<c=@flavor>""I have one thing to say to Zhaitan. Boom.""<br>—Warmaster Chan</c>",
-"<c=@flavor>""I have yet to see a spell backfire from this particular model.""<br>—Mei Shadowwalker</c>",
-"<c=@flavor>""I heard our purple ball's inside a plant. If it's a potato chest, bring us back some to eat?""<br>—Laine</c>",
-"<c=@flavor>""I heard the sand coo at me, so take this, and use it in the sand if you hear the same."" <br>—Danu</c>",
-"<c=@flavor>""I keep these daggers sharp, just in case of an attack.""<br>—Lexi Price</c>",
-"<c=@flavor>""I know an alchemist who often inquires about such things.""<br>—Cin</c><br><br>This item only has value as part of a collection.",
-"<c=@flavor>""I might be stuck here, but you don't need to be.""<br>—Lionguard Hester</c>",
-"<c=@flavor>""I prefer a sword, but this will do in a pinch.""<br>—Lieutenant Pickins</c>",
-"<c=@flavor>""I remember this one year when the crabs were stealing all my bait...""<br>—Fisherman Will</c>",
-"<c=@flavor>""I should have had these on for that ambush.""<br>—Private Felix</c>",
-"<c=@flavor>""I should have never left the raft.""<br>—Vallog</c>",
-"<c=@flavor>""I was going to give this to my kids, but it's a little too small.""<br>—Carman Fawntracker</c>",
-"<c=@flavor>""I will bear your pain.""<br>—Caithe</c>",
-"<c=@flavor>""I wonder what the jotun used these for...""<br>—Albin Chronicler</c>",
-"<c=@flavor>""I wonder why grawl like orange so much.""<br>—Arcanist Aurelio Shiverpaw</c>",
-"<c=@flavor>""I'll stop when they're dead.""<br>—Broil Cane</c>",
-"<c=@flavor>""I'm done with your games, and I'm finished with you. I am not your dearheart.""<br>—Caithe</c>",
-"<c=@flavor>""I'm positive this will work. Unlike the last few...""<br>—Twitchok</c>",
-"<c=@flavor>""I'm pretty sure the ghosts didn't mind me taking this. Well, sixty-four percent sure.""<br>—Ket</c>",
-"<c=@flavor>""I'm pretty sure the ghosts didn't mind me taking this. well, sixty-four percent sure.""<br>—Ket</c>",
-"<c=@flavor>""I'm still not sure how 'ghostly' metal can exist...""<br>—Fyra </c>",
-"<c=@flavor>""I'm surprised this survived first contact with the enemy.""<br>—Magister Pagga</c>",
-"<c=@flavor>""I've already learned everything I can from it.""<br>—Wistt</c>",
-"<c=@flavor>""I've seen enough battles to know when to use this and when to use diplomacy.""<br>—Tactician Sebastian</c>",
-"<c=@flavor>""If anyone asks, you didn't get it from me.""<br>—Mrr'kkant</c>",
-"<c=@flavor>""If only we had a way to fire them back.""<br>—Hua'racche</c>",
-"<c=@flavor>""If Wark tries to claim this as his design, you just ignore that filthy harpy-lover.""<br>—Wode</c>",
-"<c=@flavor>""If you concentrate hard enough, you can almost feel the power it contains.""<br>—Glaxx</c>",
-"<c=@flavor>""If you know where to point the edge of your blade - you have read enough.""<br>—Vigil Tactician Blazefur</c>",
-"<c=@flavor>""If you know where to point the edge of your blade—you have read enough.""<br>—Vigil Tactician Blazefur</c>",
-"<c=@flavor>""If you think an undead is going to suck out your eyeballs, protect yourself by covering them and swinging!"" <br>—Potatlan</c>",
-"<c=@flavor>""If you think this one is big, you should see the one above the fireplace.""<br>—Hunter Block</c>",
-"<c=@flavor>""If you unload with this, there's usually not much left worth bringing back.""<br>—Hunter Block</c>",
-"<c=@flavor>""If you want to keep a piece, it's all yours.""<br>—Crusader Brice</c>",
-"<c=@flavor>""If you're going to be up close with those dredge, pack some extra powder for a bigger kick.""<br>—Rinceword</c>",
-"<c=@flavor>""If you're hit, the natural reaction is to hit back. Harder.""<br>—Explorer Brokkar</c>",
-"<c=@flavor>""Impressive.""<br>—Solita Miststalker</c>",
-"<c=@flavor>""In case I don't make it, this will prove I was a genius!""<br>—Explorer Trebb</c>",
-"<c=@flavor>""In case of centaurs, apply footwear. Then start the party!""<br>—Scout Jones</c>",
-"<c=@flavor>""In retrospect, I probably picked the wrong time to clean my gun.""<br>—Private Felix</c>",
-"<c=@flavor>""Infused with the morning's light.""<br>—Wyld Hunt Valiant Caillech</c>",
-"<c=@flavor>""It almost looks like it's watching you.""<br>—Aidem</c>",
-"<c=@flavor>""It chops wood, meat, and grawl.""<br>—Hune</c>",
-"<c=@flavor>""It doesn't look like much, but it'll stop a blow.""<br>—Seraph</c>",
-"<c=@flavor>""It even has a compass in the stock.""<br>—Twitchok</c>",
-"<c=@flavor>""It fell out and we can't get it back in...""<br>—Nessa</c>",
-"<c=@flavor>""It gets dark down here.""<br>—Sik'klak</c>",
-"<c=@flavor>""It has a secret secondary fire method in case some undead jam up the main action.""<br>—Nessa</c>",
-"<c=@flavor>""It is said our feathers can control the winds.""<br>—Sangdo Swiftwing</c>",
-"<c=@flavor>""It's a tool, but it's also a weapon.""<br>—Surveyor Falki</c>",
-"<c=@flavor>""It's amazing what can happen when you get everyone working together.""<br>—Magister Izzmek</c>",
-"<c=@flavor>""It's amazing what you can find in a old Skritt cave.""<br>—Crusader Aisling</c>",
-"<c=@flavor>""It's been recalibrated using the energy readings we took in this area. It'll be quite effective."" <br>—Kamma</c>",
-"<c=@flavor>""It's dried, so the poison won't affect you. Just don't get it wet.""<br>—Laudren</c>",
-"<c=@flavor>""It's easier to be vigilant when you have this in your hands.""<br>—Crusader Brice</c>",
-"<c=@flavor>""It's got a hair-trigger. I wouldn't suggest pointing this at yourself while cleaning.""<br>—Vejj</c>",
-"<c=@flavor>""It's important to have the right shoes for the job.""<br>—Vasher Shadowsinner</c>",
-"<c=@flavor>""It's not enough to protect the body. One must protect the soul, as well.""<br>—Lightbringer Ives</c>",
-"<c=@flavor>""It's not like the captain will be needing it soon.""<br>—Cin</c><br><br>This item only has value as part of a collection.",
-"<c=@flavor>""It's not meant to be literally hidden.""<br>—Lightbringer Ives</c>",
-"<c=@flavor>""It's not stealing if it's for research!""<br>—Ket</c>",
-"<c=@flavor>""It's not stealing. The ghosts already took it once. This is...recovery. It's patriotic.""<br>—Cin</c><br><br>This item only has value as part of a collection.",
-"<c=@flavor>""It's odd to see the grawl worshipping something more powerful than barely shaped rocks.""<br>—Tor the Tall</c>",
-"<c=@flavor>""It's quite shiny, isn't it?""<br>—Krew Leader Pachoo</c>",
-"<c=@flavor>""It's the height of Beetletun style! Well, it was last year, anyway.""<br>—Paden</c>",
-"<c=@flavor>""It's the helm of the upper arm.""<br>—Zalvax Brokenclaw</c>",
-"<c=@flavor>""Its not the sword that's great, but who wields it.""<br>—Pact Crusader D'Stolt</c>",
-"<c=@flavor>""Its too bad this wont block the stench of this place.""<br>—Magister Pagga</c>",
-"<c=@flavor>""Just a copy for your files. Don't worry about the fine print. It's boilerplate.""<br>—Advisor Zakk</c>",
-"<c=@flavor>""Just a small piece of the Terebinth's power.""<br>—Leigheara</c>",
-"<c=@flavor>""Just holding it makes me feel better.""<br>—Leigheara</c>",
-"<c=@flavor>""Just imagine the crack as your targeting sight.""<br>—Nessi</c>",
-"<c=@flavor>""Just the thing for hiding in the shadows.""<br>—Coydd</c>",
-"<c=@flavor>""Just to remind the world what the Iron Legion is best at.""<br>—Centurion Truthbringer</c>",
-"<c=@flavor>""Keep an eye on those ice imps.They are always up to no good.""<br>—Suki</c>",
-"<c=@flavor>""Keep them in check with brute force.""<br>—Torruh Sweptweave</c>",
-"<c=@flavor>""Keep this close when those fissures appear, they sometimes shoot fireballs.""<br>—Kruppa</c>",
-"<c=@flavor>""Keep this close when those fissures appear. They sometimes shoot fireballs.""<br>—Kruppa</c>",
-"<c=@flavor>""Keep your feet warm.""<br>—The Lionguard</c>",
-"<c=@flavor>""Keep your fingers tight on your weapon, soldier.""<br>—Nadel</c>",
-"<c=@flavor>""Keep your fingers tight on your weapon, solider.""<br>—Nadel</c>",
-"<c=@flavor>""Keep your head on a swivel out there.""<br>—Sentinel Liharn</c>",
-"<c=@flavor>""Keep your legs safe when channeling ancient spirits.""<br>—Old Witch Doctor's Saying</c>",
-"<c=@flavor>""Keep your legs warm.""<br>—Meinolf Njordson</c>",
-"<c=@flavor>""Keep your wits about you.""<br>—Brian</c>",
-"<c=@flavor>""Keeping your feet dry is imperative in a place like this.""<br>—Issa</c>",
-"<c=@flavor>""Keeping your hands clean in war can be difficult.""<br>—Supply Sergeant Mattimer</c>",
-"<c=@flavor>""Keeps the bad ice away.""<br>—Mokooki</c>",
-"<c=@flavor>""Keeps the creepy crawlies away.""<br>—Twitchok</c>",
-"<c=@flavor>""Keeps the soot off.""<br>—Vigil Tactician Blazefur</c>",
+<c=@abilitytype>Clone.</c> Gain stealth and summon a clone that appears to rally and swim away.,"<c=@abilitytype>Клон.</c> Станьте невидимы и призовите клона, который делает вид, что спасается вплавь."
+<c=@abilitytype>Clone.</c> Summon a clone that attacks your foe.,"<c=@abilitytype>Клон.</c> Призовите клона, который атакует вашего врага."
+<c=@abilitytype>Consecration.</c> Create a ring of fire that burns foes and cures conditions on allies.,"<c=@abilitytype>Освящение.</c> Создайте огненное кольцо, которое обжигает врагов и снимает состояния с союзников."
+<c=@abilitytype>Consecration.</c> Protect the targeted area with a wall of mystic power that reflects projectiles.,"<c=@abilitytype>Освящение.</c> Защитите указанную область стеной мистической силы, отражающей снаряды."
+<c=@abilitytype>Cooling Vapor</c>,<c=@abilitytype>Охлаждающий пар</c>
+<c=@abilitytype>Corruption.</c> Become a virulent cloud and inflict multiple conditions on foes you touch. Entering this form removes spectral effects. Inflict bleeding on yourself.,"<c=@abilitytype>Порча.</c> Превратитесь в ядовитое облако и наложите несколько состояний на врагов, которых коснётесь. При входе в эту форму спадают эффекты призрачности. Наложите кровотечение на себя."
+<c=@abilitytype>Corruption.</c> Create a virulent cloud that inflicts multiple conditions on foes in its area. This plague can be modified to deal different conditions by activating secondary plague skills. Inflict bleeding on yourself.<c=@reminder>Starts as Plague of Pestilence mode.</c>,"<c=@abilitytype>Порча.</c> Создайте ядовитое облако, которое накладывает несколько состояний на врагов в своей области. Эту чуму можно изменить, чтобы наносить другие состояния, активировав вторичные навыки чумы. Наложите кровотечение на себя.<c=@reminder>Начинается в режиме «Чума поветрия».</c>"
+<c=@abilitytype>Corruption.</c> The target area is enveloped in a noxious cloud that poisons foes.,"<c=@abilitytype>Порча.</c> Указанная область окутывается ядовитым облаком, отравляющим врагов."
+<c=@abilitytype>Costume Brawl.</c> Charge and toss another brawler.,<c=@abilitytype>Потасовка ряженых.</c> Разбегитесь и швырните другого бойца.
+<c=@abilitytype>Costume Brawl.</c> Damage and daze other costume brawlers.,<c=@abilitytype>Потасовка ряженых.</c> Наносите урон и ошеломляйте других ряженых бойцов.
+<c=@abilitytype>Costume Brawl.</c> Grants temporary stealth.,<c=@abilitytype>Потасовка ряженых.</c> Даёт временную невидимость.
+<c=@abilitytype>Costume Brawl.</c> Lay a trap that will teleport you to scare any Costume Brawlers who enter it.,"<c=@abilitytype>Потасовка ряженых.</c> Установите ловушку, которая телепортирует вас, чтобы напугать любых ряженых бойцов, вошедших в неё."
+<c=@abilitytype>Costume Brawl.</c> Lay a trap that will teleport you to—and scare—costume brawlers who trigger it.,"<c=@abilitytype>Потасовка ряженых.</c> Установите ловушку, которая телепортирует вас, чтобы напугать ряженых бойцов, сработавших её."
+<c=@abilitytype>Costume Brawl.</c> Melee attack with toy axe.,<c=@abilitytype>Потасовка ряженых.</c> Атака в ближнем бою игрушечным топором.
+<c=@abilitytype>Costume Brawl.</c> Pull in and chop brawlers.,<c=@abilitytype>Потасовка ряженых.</c> Притяните и порубите бойцов.
+<c=@abilitytype>Costume Brawl.</c> Reach out and attack other brawlers.,<c=@abilitytype>Потасовка ряженых.</c> Дотянитесь и атакуйте других бойцов.
+<c=@abilitytype>Costume Brawl.</c> Target and execute a brawler.,<c=@abilitytype>Потасовка ряженых.</c> Выберите цель и казните бойца.
+<c=@abilitytype>Deception.</c> Blind foes in the target area and grant stealth to nearby allies.,<c=@abilitytype>Обман.</c> Ослепите врагов в указанной области и даруйте невидимость находящимся рядом союзникам.
+<c=@abilitytype>Deception.</c> Detonate your vortex creating a mirage mirror.,"<c=@abilitytype>Обман.</c> Взорвите свой вихрь, создав зеркало миража."
+"<c=@abilitytype>Defensive Artifact.</c> Leap to the targeted area and slam down with an enchanted exalted hammer, damaging enemies while healing and granting boons to allies in the area.<br>For a short time after using this skill, activating any weapon skill that costs initiative creates an additional healing burst at your location.","<c=@abilitytype>Артефакт обороны.</c> Прыгните в указанную область и обрушьте зачарованный возвышенный молот, нанося урон врагам и исцеляя союзников в области, даруя им дары. <br>Некоторое время после использования этого навыка активация любого оружейного навыка, требующего инициативы, создаёт дополнительный всплеск исцеления в вашем местоположении."
+"<c=@abilitytype>Defensive Artifact.</c> Place an electrified shield at your position that blocks projectiles, dealing damage to enemies and granting barrier to allies within it.<br>For a short time after using this skill, your weapon skills that cost initiative refund initiative.","<c=@abilitytype>Артефакт обороны.</c> Разместите на своей позиции наэлектризованный щит, который блокирует снаряды, нанося урон врагам и даруя барьер союзникам внутри него.<br>Некоторое время после использования этого навыка ваши оружейные навыки, требующие инициативы, возвращают инициативу."
+"<c=@abilitytype>Defensive Artifact.</c> Summon a holo-dancer decoy that taunts enemies and grants boons to nearby allies. It self-destructs if it is not destroyed, dealing damage to enemies in a large area and granting additional boons to allies.<br>For a short time after using this skill, the next utility skill you use has reduced cooldown.","<c=@abilitytype>Артефакт обороны.</c> Призовите голо-танцовщицу-приманку, которая провоцирует врагов и даёт дары находящимся рядом союзникам. Она самоуничтожается, если её не уничтожат, нанося урон врагам в большой области и даруя дополнительные дары союзникам.<br>Некоторое время после использования этого навыка следующий используемый вами навык применения имеет уменьшенное время восстановления."
+<c=@abilitytype>Device Kit.</c> Equip a kit that replaces your weapon with grenade skills.,"<c=@abilitytype>Набор устройств.</c> Экипируйте набор, заменяющий ваше оружие навыками гранат."
+"<c=@abilitytype>Double Edge.</c> Break stuns and summon a jade shield that applies barrier to yourself. You may activate the skill while it is recharging, with a chance for the skill to backfire. The chance of the skill backfiring lowers as the skill recharges, and the skill cannot backfire when the skill is completely recharged.","<c=@abilitytype>Обоюдоострый.</c> Снимите оглушение и призовите нефритовый щит, дарующий вам барьер. Вы можете активировать этот навык во время восстановления с шансом на осечку. Шанс осечки снижается по мере восстановления навыка, и навык не может дать осечку, когда полностью восстановлен."
+"<c=@abilitytype>Double Edge.</c> Drink an antivenom potion to heal yourself and remove conditions. You may activate the skill while it is recharging, with a chance for the skill to backfire. The chance of the skill backfiring lowers as the skill recharges, and the skill cannot backfire when the skill is completely recharged.","<c=@abilitytype>Обоюдоострый.</c> Выпейте антидот от яда, чтобы исцелиться и снять состояния. Вы можете активировать этот навык во время восстановления с шансом на осечку. Шанс осечки снижается по мере восстановления навыка, и навык не может дать осечку, когда полностью восстановлен."
+"<c=@abilitytype>Double Edge.</c> Flip a number of enchanted Canach Coins. Gain effects depending on whether they land on heads or tails. You may activate the skill while it is recharging, with a chance for the skill to backfire. The chance of the skill backfiring lowers as the skill recharges, and the skill cannot backfire when the skill is completely recharged.","<c=@abilitytype>Обоюдоострый.</c> Подбросьте несколько зачарованных монет Канача. Получайте эффекты в зависимости от того, выпадет орёл или решка. Вы можете активировать этот навык во время восстановления с шансом на осечку. Шанс осечки снижается по мере восстановления навыка, и навык не может дать осечку, когда полностью восстановлен."
+"<c=@abilitytype>Double Edge.</c> Shadowstep to the targeted enemy, damaging and inflicting conditions on enemies at the target's location. You may activate the skill while it is recharging, with a chance for the skill to backfire. The chance of the skill backfiring lowers as the skill recharges, and the skill cannot backfire when the skill is completely recharged.","<c=@abilitytype>Обоюдоострый.</c> Совершите теневой скачок к указанному врагу, нанося урон и накладывая состояния на врагов в месте цели. Вы можете активировать этот навык во время восстановления с шансом на осечку. Шанс осечки снижается по мере восстановления навыка, и навык не может дать осечку, когда полностью восстановлен."
+<c=@abilitytype>Double Edge.</c> Summon a skritt assistant at your location that grants you artifacts every interval as long as you are within range. The skritt has a random chance of giving you an Unstable Skritt Bomb instead of a regular artifact. Attempting to use the Unstable Skritt Bomb results in a Backfire.,"<c=@abilitytype>Обоюдоострый.</c> Призовите помощника-скритта на своей позиции, который дарует вам артефакты через определённый интервал, пока вы находитесь в радиусе действия. У скритта есть случайный шанс дать вам нестабильную бомбу скриттов вместо обычного артефакта. Попытка использовать нестабильную бомбу скриттов приводит к осечке."
+"<c=@abilitytype>Double Edge.</c> Summon a skritt to fire a dwarven cannon at the targeted area, damaging and inflicting conditions on foes. You may activate the skill while it is recharging, with a chance for the skill to backfire. The chance of the skill backfiring lowers as the skill recharges, and the skill cannot backfire when the skill is completely recharged.","<c=@abilitytype>Обоюдоострый.</c> Призовите скритта, чтобы выстрелить из дворфийской пушки по указанной области, нанося урон и накладывая состояния на врагов. Вы можете активировать этот навык во время восстановления с шансом на осечку. Шанс осечки снижается по мере восстановления навыка, и навык не может дать осечку, когда полностью восстановлен."
+"<c=@abilitytype>Dual Attack.</c> Bleed your foe with ice and stone.<br><br>If you have an ice bullet, consume it to heal yourself. If you have an earth bullet, consume it to grant yourself barrier.","<c=@abilitytype>Двойная атака.</c> Заставьте врага кровоточить льдом и камнем.<br><br>Если у вас есть ледяная пуля, используйте её, чтобы исцелиться. Если у вас есть земляная пуля, используйте её, чтобы даровать себе барьер."
+"<c=@abilitytype>Dual Attack.</c> Bombard your foe with a meteor that inflicts multiple conditions.<br><br>If you have a fire bullet, consume it to cause the shot to explode when it strikes an enemy, damaging other foes in the blast. If you have an earth bullet, consume it to inflict additional bleeding.","<c=@abilitytype>Двойная атака.</c> Обстреляйте врага метеором, накладывающим несколько состояний.<br><br>Если у вас есть огненная пуля, используйте её, чтобы выстрел взрывался при попадании во врага, нанося урон другим врагам во взрыве. Если у вас есть земляная пуля, используйте её, чтобы наложить дополнительное кровотечение."
+"<c=@abilitytype>Dual Attack.</c> Evade backward and grant yourself boons.<br><br>If you have an ice bullet, consume it to gain frost aura. If you have an air bullet, consume it to gain superspeed.","<c=@abilitytype>Двойная атака.</c> Уклонитесь назад и даруйте себе дары.<br><br>Если у вас есть ледяная пуля, используйте её, чтобы получить ледяную ауру. Если у вас есть воздушная пуля, используйте её, чтобы получить сверхскорость."
+"<c=@abilitytype>Dual Attack.</c> Fire a ball of plasma that explodes when it hits, striking enemies behind the target.<br><br>If you have a fire bullet, consume it to create an area of fire beneath the initial target. If you have an air bullet, consume it to reduce the cooldown of this skill.","<c=@abilitytype>Двойная атака.</c> Выстрелите шаром плазмы, который взрывается при попадании, поражая врагов позади цели.<br><br>Если у вас есть огненная пуля, используйте её, чтобы создать область огня под изначальной целью. Если у вас есть воздушная пуля, используйте её, чтобы уменьшить время восстановления этого навыка."
+"<c=@abilitytype>Dual Attack.</c> Fire a quick shot that debilitates your target. <br><br>If you have an air bullet, consume it to also inflict daze. If you have an earth bullet, consume it to also inflict bleeding on your target.","<c=@abilitytype>Двойная атака.</c> Сделайте быстрый выстрел, ослабляющий цель. <br><br>Если у вас есть воздушная пуля, используйте её, чтобы также наложить ошеломление. Если у вас есть земляная пуля, используйте её, чтобы также наложить кровотечение на цель."
+"<c=@abilitytype>Dual Attack.</c> Fire multiple bullets of fire and ice, inflicting conditions.<br><br>If you have a fire bullet, consume it to gain fire aura. If you have an ice bullet, consume it to cause the ice shots to inflict additional conditions.","<c=@abilitytype>Двойная атака.</c> Выстрелите несколькими пулями огня и льда, накладывая состояния.<br><br>Если у вас есть огненная пуля, используйте её, чтобы получить огненную ауру. Если у вас есть ледяная пуля, используйте её, чтобы ледяные выстрелы накладывали дополнительные состояния."
+<c=@abilitytype>Dual Wield.</c> Blast your foe repeatedly with both pistols.,<c=@abilitytype>Бой на два оружия.</c> Раз за разом обстреливайте врага из обоих пистолетов.
+<c=@abilitytype>Dual Wield.</c> Evade and stab your foe in the back twice.,<c=@abilitytype>Бой на два оружия.</c> Уклонитесь и дважды ткните врага в спину.
+"<c=@abilitytype>Dual Wield.</c> Fire a blinding shot at your foe, then shadowstep to them for a dagger strike.","<c=@abilitytype>Бой на два оружия.</c> Сделайте ослепляющий выстрел по врагу, затем совершите теневой скачок к нему для удара кинжалом."
+"<c=@abilitytype>Dual Wield.</c> Pistol-whip your foe, stunning them, then slash repeatedly with your sword.","<c=@abilitytype>Бой на два оружия.</c> Оглушите врага рукоятью пистолета, затем раз за разом рубите мечом."
+"<c=@abilitytype>Dual Wield.</c> Stab your foe, then shadowstep away and shoot them.","<c=@abilitytype>Бой на два оружия.</c> Ткните врага, затем отступите теневым скачком и выстрелите в него."
+<c=@abilitytype>Dual Wield.</c> Throw a dagger that Cripples nearby foes and returns to you.,"<c=@abilitytype>Бой на два оружия.</c> Метните кинжал, который накладывает хромоту на находящихся рядом врагов и возвращается к вам."
+<c=@abilitytype>Dual Wield.</c> Throw a dagger that cripples nearby foes and returns to you.,"<c=@abilitytype>Бой на два оружия.</c> Метните кинжал, который накладывает хромоту на находящихся рядом врагов и возвращается к вам."
+<c=@abilitytype>Duration above 100%% Heat</c>,<c=@abilitytype>Длительность при нагреве выше 100%%</c>
+<c=@abilitytype>Element: </c>Brilliance<br>Double-click to apply to a piece of armor.,"<c=@abilitytype>Элемент: </c>Блеск<br>Дважды щёлкните, чтобы применить к предмету брони."
+<c=@abilitytype>Element: </c>Control<br>Double-click to apply to a weapon.,"<c=@abilitytype>Элемент: </c>Контроль<br>Дважды щёлкните, чтобы применить к оружию."
+<c=@abilitytype>Element: </c>Enhancement<br>Double-click to apply to a weapon.,"<c=@abilitytype>Элемент: </c>Усиление<br>Дважды щёлкните, чтобы применить к оружию."
+<c=@abilitytype>Element: </c>Pain<br>Double-click to apply to a weapon.,"<c=@abilitytype>Элемент: </c>Боль<br>Дважды щёлкните, чтобы применить к оружию."
+<c=@abilitytype>Element: </c>Potence<br>Double-click to apply to a piece of armor.,"<c=@abilitytype>Элемент: </c>Мощь<br>Дважды щёлкните, чтобы применить к предмету брони."
+<c=@abilitytype>Element: </c>Skill<br>Double-click to apply to a piece of armor.,"<c=@abilitytype>Элемент: </c>Умение<br>Дважды щёлкните, чтобы применить к предмету брони."
+"<c=@abilitytype>Elixir.</c> Drink Elixir C, converting all conditions into random boons.","<c=@abilitytype>Эликсир.</c> Выпейте эликсир C, превращая все состояния в случайные дары."
+"<c=@abilitytype>Elixir.</c> Drink Elixir S to shrink yourself, recover from stun, and evade attacks.","<c=@abilitytype>Эликсир.</c> Выпейте эликсир S, чтобы уменьшиться, оправиться от оглушения и уклоняться от атак."
+<c=@abilitytype>Elixir.</c> Fire a dart that randomly makes foes Vulnerable or Weak.,"<c=@abilitytype>Эликсир.</c> Выстрелите дротиком, который случайным образом накладывает на врагов уязвимость или слабость."
+"<c=@abilitytype>Elixir.</c> Infuse an elixir with the promise of good health, healing yourself and gaining regeneration, and then toss the elixir at the targeted area, poisoning foes. If you are in the splash area of the elixir, gain Blight.<br><br>If you are at or above the Blight threshold when you activate this skill, consume that amount of Blight to double damage and condition duration.","<c=@abilitytype>Эликсир.</c> Наполните эликсир обещанием доброго здоровья, исцелив себя и получив восстановление, затем бросьте эликсир в указанную область, отравляя врагов. Если вы находитесь в области разбрызгивания эликсира, получите Скверну.<br><br>Если у вас накоплено достаточно Скверны при активации этого навыка, используйте это количество Скверны, чтобы удвоить урон и длительность состояний."
+"<c=@abilitytype>Elixir.</c> Infuse the magical essence of anguish into an elixir, gaining swiftness and quickness, and then toss the elixir at the targeted area, inflicting cripple on foes. If you are in the splash area of the elixir, gain Blight.<br><br>If you are at or above the Blight threshold when you activate this skill, consume that amount of Blight to double the damage and condition duration.","<c=@abilitytype>Эликсир.</c> Наполните эликсир магической сутью муки, получив ускорение и текучесть, затем бросьте эликсир в указанную область, накладывая на врагов хромоту. Если вы находитесь в области разбрызгивания эликсира, получите Скверну.<br><br>Если у вас накоплено достаточно Скверны при активации этого навыка, используйте это количество Скверны, чтобы удвоить урон и длительность состояний."
+"<c=@abilitytype>Elixir.</c> Infuse the magical essence of bliss into an elixir, gaining resolution and converting conditions on yourself into life force, and then toss the elixir at the targeted area, corrupting a boon on targets into a condition. If you are in the splash area of the elixir, gain Blight.<br><br>If you are at or above the Blight threshold when you activate this skill, consume that amount of Blight to double the damage and corrupt an additional boon on targets.","<c=@abilitytype>Эликсир.</c> Наполните эликсир магической сутью блаженства, получив стойкость духа и превращая свои состояния в запас жизни, затем бросьте эликсир в указанную область, портя дар на целях в состояние. Если вы находитесь в области разбрызгивания эликсира, получите Скверну.<br><br>Если у вас накоплено достаточно Скверны при активации этого навыка, используйте это количество Скверны, чтобы удвоить урон и испортить дополнительный дар на целях."
+"<c=@abilitytype>Elixir.</c> Infuse the magical essence of ignorance into an elixir, gaining resistance and breaking stuns, and then toss the elixir at the targeted area, inflicting blindness on foes. If you are in the splash area of the elixir, gain Blight.<br><br>If you are at or above the Blight threshold when you activate this skill, consume that amount of Blight to double the damage and condition duration.","<c=@abilitytype>Эликсир.</c> Наполните эликсир магической сутью невежества, получив сопротивляемость и снимая оглушение, затем бросьте эликсир в указанную область, накладывая на врагов слепоту. Если вы находитесь в области разбрызгивания эликсира, получите Скверну.<br><br>Если у вас накоплено достаточно Скверны при активации этого навыка, используйте это количество Скверны, чтобы удвоить урон и длительность состояний."
+"<c=@abilitytype>Elixir.</c> Infuse the magical essence of ignorance into an elixir, gaining resistance and protection and breaking stuns, and then toss the elixir at the targeted area, inflicting blindness on foes. If you are in the splash area of the elixir, gain Blight.<br><br>If you are at or above the Blight threshold when you activate this skill, consume that amount of Blight to double the damage and condition duration.","<c=@abilitytype>Эликсир.</c> Наполните эликсир магической сутью невежества, получив сопротивляемость и защиту и снимая оглушение, затем бросьте эликсир в указанную область, накладывая на врагов слепоту. Если вы находитесь в области разбрызгивания эликсира, получите Скверну.<br><br>Если у вас накоплено достаточно Скверны при активации этого навыка, используйте это количество Скверны, чтобы удвоить урон и длительность состояний."
+"<c=@abilitytype>Elixir.</c> Infuse the magical essence of risk into an elixir, gaining might and fury, and then toss the elixir at the targeted area, inflicting weakness on foes. If you are in the splash area of the elixir, gain Blight.<br><br>If you are at or above the Blight threshold when you activate this skill, consume that amount of Blight to double the damage and condition duration.","<c=@abilitytype>Эликсир.</c> Наполните эликсир магической сутью риска, получив ярость и неистовство, затем бросьте эликсир в указанную область, накладывая на врагов слабость. Если вы находитесь в области разбрызгивания эликсира, получите Скверну.<br><br>Если у вас накоплено достаточно Скверны при активации этого навыка, используйте это количество Скверны, чтобы удвоить урон и длительность состояний."
+"<c=@abilitytype>Elixir.</c> Infuse your boundless ambition into an elixir, gaining every possible boon, and then toss the elixir at the targeted area, inflicting all damaging conditions on foes. If you are in the splash area of the elixir, gain Blight.<br><br>If you are at or above the Blight threshold when you activate this skill, consume that amount of Blight to double the damage and condition duration.","<c=@abilitytype>Эликсир.</c> Наполните эликсиром своё безграничное честолюбие, получив все возможные дары, затем бросьте эликсир в указанную область, накладывая на врагов все наносящие урон состояния. Если вы находитесь в области разбрызгивания эликсира, получите Скверну.<br><br>Если у вас накоплено достаточно Скверны при активации этого навыка, используйте это количество Скверны, чтобы удвоить урон и длительность состояний."
+"<c=@abilitytype>Elixir.</c> Launch an elixir orb, healing nearby allies on impact and creating an area of continual healing.","<c=@abilitytype>Эликсир.</c> Запустите сферу эликсира, исцеляя находящихся рядом союзников при попадании и создавая область непрерывного исцеления."
+"<c=@abilitytype>Elixir.</c> Shoot an elixir orb, healing nearby allies when it bursts and creating an area of continual healing.","<c=@abilitytype>Эликсир.</c> Выстрелите сферой эликсира, исцеляя находящихся рядом союзников при разрыве и создавая область непрерывного исцеления."
+"<c=@abilitytype>Engage.</c> Barrel roll forward, damaging foes and healing allies that you pass though.","<c=@abilitytype>Встреча.</c> Сделайте кувырок вперёд, нанося урон врагам и исцеляя союзников, через которых вы проходите."
+"<c=@abilitytype>Engage.</c> Barrel roll forward, damaging foes and healing allies that you pass though. <c=@abilitytype>Hold</c> the skill to activate the dismount portion of the engage skill.Healing reduces each time the same individual is hit within a short time frame.","<c=@abilitytype>Встреча.</c> Сделайте кувырок вперёд, нанося урон врагам и исцеляя союзников, через которых вы проходите. <c=@abilitytype>Удержание</c> навыка активирует часть навыка встречи, связанную со спешиванием. Исцеление уменьшается каждый раз, когда одна и та же цель поражается в течение короткого промежутка времени."
+"<c=@abilitytype>Engage.</c> Jump into the air and swoop down, crashing into nearby foes. Deal increasing damage when striking at higher speeds.","<c=@abilitytype>Встреча.</c> Подпрыгните в воздух и спикируйте, врезаясь в находящихся рядом врагов. Наносите увеличивающийся урон при ударе на более высокой скорости."
+"<c=@abilitytype>Engage.</c> Jump into the air, spinning rapidly, and land, smashing into your foes with great force.","<c=@abilitytype>Встреча.</c> Подпрыгните в воздух, быстро вращаясь, и приземлитесь, обрушиваясь на врагов с огромной силой."
+"<c=@abilitytype>Engage.</c> Leap toward the target location, damaging nearby foes.","<c=@abilitytype>Встреча.</c> Совершите прыжок к указанному месту, нанося урон находящимся рядом врагам."
+"<c=@abilitytype>Engage.</c> Pounce at your foe, damaging them and any nearby foes.","<c=@abilitytype>Встреча.</c> Наброситесь на врага, нанося урон ему и находящимся рядом врагам."
+"<c=@abilitytype>Engage.</c> Roll forward, damaging foes that you pass through.","<c=@abilitytype>Встреча.</c> Сделайте кувырок вперёд, нанося урон врагам, через которых вы проходите."
+"<c=@abilitytype>Engage.</c> While on land, leap into the air and breathe fire ahead of you. If in the air, descend toward the ground before attacking.","<c=@abilitytype>Встреча.</c> Находясь на земле, подпрыгните в воздух и дохните огнём перед собой. Если вы в воздухе, спуститесь к земле перед атакой."
+"<c=@abilitytype>Engage.</c> While on the ground; jump into the air and swoop down, crashing into nearby foes. While in the air; dive toward the ground, engaging foes upon impact.Deals increasing damage when striking at higher speeds.","<c=@abilitytype>Встреча.</c> Находясь на земле, подпрыгните в воздух и спикируйте, врезаясь в находящихся рядом врагов. Находясь в воздухе, спикируйте к земле, атакуя врагов при ударе.Наносит увеличивающийся урон при ударе на более высокой скорости."
+<c=@abilitytype>Familiar Active.</c> The fox fires a ball of flame that burns enemies. Enemies who are struck multiple times in quick succession receive additional burning.,"<c=@abilitytype>Активный навык фамильяра.</c> Лис выпускает шар пламени, который обжигает врагов. Враги, поражённые несколько раз подряд, получают дополнительное горение."
+"<c=@abilitytype>Familiar Active.</c> The hare creates a burst of lightning at the target location, damaging enemies and marking them to take increased damage from your critical strikes.","<c=@abilitytype>Активный навык фамильяра.</c> Заяц создаёт разряд молнии в указанном месте, нанося урон врагам и помечая их, чтобы они получали увеличенный урон от ваших критических ударов."
+<c=@abilitytype>Familiar Active.</c> The toad unleashes an earthen blast that dazes nearby enemies. Gain barrier if you strike an enemy. <c=@reminder>Gain barrier up to one time.</c>,"<c=@abilitytype>Активный навык фамильяра.</c> Жаба высвобождает земляной взрыв, ошеломляющий находящихся рядом врагов. Получите барьер, если поразите врага. <c=@reminder>Барьер можно получить только один раз.</c>"
+"<c=@abilitytype>Familiar Active:</c> The otter throws small orbs of water at nearby allies, healing them and granting regeneration.","<c=@abilitytype>Активный навык фамильяра:</c> Выдра бросает маленькие сферы воды в находящихся рядом союзников, исцеляя их и даруя восстановление."
+<c=@abilitytype>Familiar Passive.</c> Gain increased ferocity while under the effects of fury.,<c=@abilitytype>Пассивный навык фамильяра.</c> Получайте увеличенную свирепость под действием ярости.
+<c=@abilitytype>Familiar Passive.</c> Gain might when you inflict burning. <c=@reminder>Might can be gained once per interval.</c>,"<c=@abilitytype>Пассивный навык фамильяра.</c> Получайте мощь, когда накладываете горение. <c=@reminder>Мощь можно получить раз за интервал.</c>"
+<c=@abilitytype>Familiar Passive.</c> Gain protection when you disable an enemy. <c=@reminder>Protection can be gained once per interval.,"<c=@abilitytype>Пассивный навык фамильяра.</c> Получайте защиту, когда обездвиживаете врага. <c=@reminder>Защиту можно получить раз за интервал."
+<c=@abilitytype>Familiar Passive:</c> Heal allies when you grant them regeneration.,"<c=@abilitytype>Пассивный навык фамильяра:</c> Исцеляйте союзников, когда даруете им восстановление."
+<c=@abilitytype>Field Burning</c>,<c=@abilitytype>Горящее поле</c>
+<c=@abilitytype>Flow Threshold</c>,<c=@abilitytype>Порог потока</c>
+<c=@abilitytype>Frost Aura</c>,<c=@abilitytype>Ледяная аура</c>
+"<c=@abilitytype>Gadget.</c> Fly backward, damaging foes with your rocket exhaust.","<c=@abilitytype>Гаджет.</c> Летите назад, нанося урон врагам выхлопом своей ракеты."
+<c=@abilitytype>Glyph.</c> Daze nearby foes.,<c=@abilitytype>Глиф.</c> Оглушите находящихся рядом врагов.
+<c=@abilitytype>Glyph.</c> Gain a chance for spells to inflict a condition based on your attunement.<br>Fire: Burning.<br>Water: Chilled.<br>Air: Weakness.<br>Earth: Cripple.,"<c=@abilitytype>Глиф.</c> Получите шанс на то, что заклинания будут накладывать состояние в зависимости от вашей стихии.<br>Огонь: горение.<br>Вода: заморозка.<br>Воздух: слабость.<br>Земля: хромота."
+<c=@abilitytype>Glyph.</c> Revive allies with different attunement effects. <br>Air: Revive and teleport an ally to your location.<br>Earth: Revive three allies.<br>Fire: Revive an ally; you're revived the next time you're downed.<br>Water: Revive an ally with full health.,"<c=@abilitytype>Глиф.</c> Воскресите союзников с разными эффектами в зависимости от стихии. <br>Воздух: воскресите и телепортируйте союзника к себе.<br>Земля: воскресите трёх союзников.<br>Огонь: воскресите союзника; вас воскресят в следующий раз, когда вы будете повержены.<br>Вода: воскресите союзника с полным здоровьем."
+<c=@abilitytype>Glyph.</c> Summon a fire elemental.,<c=@abilitytype>Глиф.</c> Призовите элементаля огня.
+<c=@abilitytype>Glyph.</c> Summon a water elemental.,<c=@abilitytype>Глиф.</c> Призовите элементаля воды.
+<c=@abilitytype>Glyph.</c> Summon an air elemental.,<c=@abilitytype>Глиф.</c> Призовите элементаля воздуха.
+<c=@abilitytype>Glyph.</c> Summon an earth elemental.,<c=@abilitytype>Глиф.</c> Призовите элементаля земли.
+<c=@abilitytype>Glyph.</c> Summon an elemental based on your attunement.<br>Fire Elemental: Deals damage.<br>Ice Elemental: Deals damage and heals.<br>Earth Elemental: Deals damage and is hard to kill.<br>Air Elemental: Deals damage and Stuns.,<c=@abilitytype>Глиф.</c> Призовите элементаля в зависимости от вашей стихии.<br>Элементаль огня: наносит урон.<br>Элементаль льда: наносит урон и исцеляет.<br>Элементаль земли: наносит урон и его сложно убить.<br>Элементаль воздуха: наносит урон и оглушает.
+"<c=@abilitytype>Legendary Centaur.</c> Collect energy, pulling it into the tablet to build up its power. After a short delay the energy will be released, healing nearby allies. <br><br>If this skill is empowered, healing is increased and endurance is granted to affected allies.","<c=@abilitytype>Легендарный кентавр.</c> Соберите энергию, вливая её в скрижаль, чтобы накопить её силу. После небольшой задержки энергия высвободится, исцеляя находящихся рядом союзников. <br><br>Если этот навык усилен, исцеление увеличивается, и затронутым союзникам даруется выносливость."
+"<c=@abilitytype>Legendary Centaur.</c> Force energy to erupt from the tablet, knocking down nearby foes and healing nearby allies. <br><br>If this skill is empowered, grant stability to allies near the tablet.","<c=@abilitytype>Легендарный кентавр.</c> Заставьте энергию извергнуться из скрижали, сбивая с ног находящихся рядом врагов и исцеляя находящихся рядом союзников. <br><br>Если этот навык усилен, даруйте устойчивость союзникам рядом со скрижалью."
+"<c=@abilitytype>Legendary Centaur.</c> Remove conditions from allies near the tablet, and heal them for a small amount per condition removed. <br><br>If this skill is empowered, remove additional conditions from allies.","<c=@abilitytype>Легендарный кентавр.</c> Снимите состояния с союзников рядом со скрижалью и исцелите их на небольшую величину за каждое снятое состояние. <br><br>Если этот навык усилен, снимите дополнительные состояния с союзников."
+"<c=@abilitytype>Legendary Centaur.</c> Summon a protective barrier around the tablet that blocks enemy projectiles. <br><br>If this skill is empowered, it also grants protection to allies around the tablet.","<c=@abilitytype>Легендарный кентавр.</c> Призовите защитный барьер вокруг скрижали, блокирующий вражеские снаряды. <br><br>Если этот навык усилен, он также дарует защиту союзникам вокруг скрижали."
+<c=@abilitytype>Legendary Dragon</c> Consume facet of darkness to cause cripple and blind to nearby foes. Facet of darkness will be disabled while this skill is on recharge.,"<c=@abilitytype>Легендарный дракон.</c> Используйте грань тьмы, чтобы наложить хромоту и слепоту на находящихся рядом врагов. Грань тьмы будет недоступна, пока этот навык на восстановлении."
+"<c=@abilitytype>Legendary Renegade.</c> Summon Centurion Jas Razorclaw from the Mists to strike nearby enemies and enhance the attacks of your allies.<br><br><c=@abilitytype>Band Together.</c> After using this skill, your next <c=@abilitytype>Legendary Renegade</c> skill activates instantly and is enhanced. When this skill is enhanced it also inflicts torment on enemies that it strikes.","<c=@abilitytype>Легендарный ренегат.</c> Призовите центуриона Джаса Бритвокогтя из Тумана, чтобы поразить находящихся рядом врагов и усилить атаки ваших союзников.<br><br><c=@abilitytype>Сплочение.</c> После использования этого навыка ваш следующий навык <c=@abilitytype>Легендарного ренегата</c> активируется мгновенно и усилен. Когда этот навык усилен, он также накладывает боль на врагов, которых поражает."
+"<c=@abilitytype>Legendary Renegade.</c> Summon Era Breakrazor to heal your allies while shielding them from condition damage.<br><br><c=@abilitytype>Band Together.</c> After using this skill, your next <c=@abilitytype>Legendary Renegade</c> skill activates instantly and is enhanced. When this skill is enhanced, it also grants barrier to nearby allies.","<c=@abilitytype>Легендарный ренегат.</c> Призовите Эру Ломающую Бритву, чтобы исцелять ваших союзников, защищая их от урона от состояний.<br><br><c=@abilitytype>Сплочение.</c> После использования этого навыка ваш следующий навык <c=@abilitytype>Легендарного ренегата</c> активируется мгновенно и усилен. Когда этот навык усилен, он также дарует барьер находящимся рядом союзникам."
+"<c=@abilitytype>Legendary Renegade.</c> Summon Kus Darkrazor to disrupt your enemies.<br><br><c=@abilitytype>Band Together.</c> After using this skill, your next <c=@abilitytype>Legendary Renegade</c> skill activates instantly and is enhanced. When this skill is enhanced it also grants resistance to nearby allies.","<c=@abilitytype>Легендарный ренегат.</c> Призовите Куса Тёмную Бритву, чтобы мешать вашим врагам.<br><br><c=@abilitytype>Сплочение.</c> После использования этого навыка ваш следующий навык <c=@abilitytype>Легендарного ренегата</c> активируется мгновенно и усилен. Когда этот навык усилен, он также дарует сопротивляемость находящимся рядом союзникам."
+"<c=@abilitytype>Legendary Renegade.</c> Summon Visk Icerazor from the Mists to magically bombard your enemies with debilitating conditions.<br><br><c=@abilitytype>Band Together.</c> After using this skill, your next <c=@abilitytype>Legendary Renegade</c> skill activates instantly and is enhanced. When this skill is enhanced it also inflicts chilled on enemies that it strikes.","<c=@abilitytype>Легендарный ренегат.</c> Призовите Виска Ледяную Бритву из Тумана, чтобы магически обстрелять ваших врагов ослабляющими состояниями.<br><br><c=@abilitytype>Сплочение.</c> После использования этого навыка ваш следующий навык <c=@abilitytype>Легендарного ренегата</c> активируется мгновенно и усилен. Когда этот навык усилен, он также накладывает заморозку на врагов, которых поражает."
+<c=@abilitytype>Light Aura above 100%% Heat</c>,<c=@abilitytype>Световая аура при нагреве выше 100%%</c>
+<c=@abilitytype>Light Aura above 50%% Heat</c>,<c=@abilitytype>Световая аура при нагреве выше 50%%</c>
+"<c=@abilitytype>Manipulation.</c> Give allies Illusion of Vengeance at the target location, allowing them to get up from downed and keep fighting.","<c=@abilitytype>Манипуляция.</c> Даруйте союзникам иллюзию возмездия в указанном месте, позволяя им подняться из поверженного состояния и продолжить бой."
+<c=@abilitytype>Manipulation.</c> Send three conditions you have to your foe and steal three of their boons.,<c=@abilitytype>Манипуляция.</c> Отправьте три имеющихся у вас состояния врагу и украдите три его дара.
+<c=@abilitytype>Mark. Minion.</c> Inscribe a mark on the ground that summons five jagged horrors when triggered by a foe.,"<c=@abilitytype>Метка. Прислужник.</c> Начертите на земле метку, которая призывает пять зазубренных ужасов, когда её активирует враг."
+<c=@abilitytype>Mark. Minion.</c> Inscribe a mark that summons five jagged horrors when a foe triggers it.,"<c=@abilitytype>Метка. Прислужник.</c> Начертите метку, которая призывает пять зазубренных ужасов, когда враг её активирует."
+<c=@abilitytype>Mark.</c> Inscribe a mark that causes fear when foes trigger it.,"<c=@abilitytype>Метка.</c> Начертите метку, которая вызывает страх, когда враги её активируют."
+"<c=@abilitytype>Mark.</c> Inscribe a mark that chills foes when they trigger it, and leaves a poisonous area.","<c=@abilitytype>Метка.</c> Начертите метку, которая накладывает заморозку на врагов, когда они её активируют, и оставляет ядовитую область."
+<c=@abilitytype>Mark.</c> Inscribe a mark that makes a foe vulnerable when they trigger it.,"<c=@abilitytype>Метка.</c> Начертите метку, которая делает врага уязвимым, когда он её активирует."
+<c=@abilitytype>Mark.</c> Inscribe a mark that transfers conditions from yourself to foes when they trigger it.,"<c=@abilitytype>Метка.</c> Начертите метку, которая переносит состояния с вас на врагов, когда они её активируют."
+<c=@abilitytype>Mech Command.</c> Pulse a barrier and boons to all nearby allies.<br><br><c=@reminder>The mech does not count against the target count for this skill.</c>,<c=@abilitytype>Команда меха.</c> Пульсацией даруйте барьер и дары всем находящимся рядом союзникам.<br><br><c=@reminder>Мех не учитывается в количестве целей для этого навыка.</c>
+"<c=@abilitytype>Mech Command.</c> Your mech removes conditions, breaks stuns, and grants boons to itself and nearby allies.<br><br><c=@reminder>The mech does not count against the target count for this skill.</c>","<c=@abilitytype>Команда меха.</c> Ваш мех снимает состояния, снимает оглушение и дарует дары себе и находящимся рядом союзникам.<br><br><c=@reminder>Мех не учитывается в количестве целей для этого навыка.</c>"
+"<c=@abilitytype>Offensive Artifact.</c> Dash to the targeted location while dropping bombs along your path that detonate after a short period of time, dealing damage and burning enemies. More bombs are dropped the farther you travel. <br>For a short time after using this skill, you continue to drop additional bombs at your location. ","<c=@abilitytype>Артефакт атаки.</c> Рвитесь к указанному месту, сбрасывая на своём пути бомбы, которые взрываются спустя короткое время, нанося урон и обжигая врагов. Чем дальше вы пролетаете, тем больше бомб сбрасывается. <br>Некоторое время после использования этого навыка вы продолжаете сбрасывать дополнительные бомбы в своём местоположении."
+"<c=@abilitytype>Offensive Artifact.</c> Rock out with your guitar, damaging and applying conditions to opponents around you, then slam the ground with the guitar, damaging and stunning opponents in the area. <br>For a short time after using this skill, your first weapon skill is replaced with your stealth attack, even when not stealthed.","<c=@abilitytype>Артефакт атаки.</c> Сыграйте на гитаре, нанося урон и накладывая состояния на противников вокруг себя, затем обрушьте гитару на землю, нанося урон и оглушая противников в области. <br>Некоторое время после использования этого навыка ваш первый оружейный навык заменяется вашей скрытой атакой, даже если вы не в невидимости."
+"<c=@abilitytype>Offensive Artifact.</c> Shoot an orb that explodes upon impact with the ground, creating a corrupted area that deals damage and applies conditions to enemies. <br>For a short time after using this skill, your strikes additionally inflict burning on enemies.","<c=@abilitytype>Артефакт атаки.</c> Выстрелите сферой, которая взрывается при ударе о землю, создавая порочную область, наносящую урон и накладывающую состояния на врагов. <br>Некоторое время после использования этого навыка ваши удары дополнительно накладывают горение на врагов."
+"<c=@abilitytype>Offensive Artifact.</c> Summons a Kryptis turret at your targeted location and fires at the closest foe in range.<br>For a short time after using this skill, you deal increased damage to enemies that were struck by the turret.","<c=@abilitytype>Артефакт атаки.</c> Призывает турель криптиса в указанном вами месте, которая стреляет по ближайшему врагу в радиусе действия.<br>Некоторое время после использования этого навыка вы наносите увеличенный урон врагам, поражённым турелью."
+<c=@abilitytype>Performance.</c> Command every instrument to begin playing in the background. Duration is determined by the number of instruments you currently have playing.,"<c=@abilitytype>Выступление.</c> Прикажите всем инструментам начать играть на фоне. Длительность зависит от количества инструментов, которые сейчас играют у вас."
+<c=@abilitytype>Performance.</c> Reciting this tale with the drums playing will grant you notes.,<c=@abilitytype>Выступление.</c> Декламация этой саги под звуки барабанов даёт вам ноты.
+<c=@abilitytype>Performance.</c> Reciting this tale with the flute playing will grant you notes.,<c=@abilitytype>Выступление.</c> Декламация этой саги под звуки флейты даёт вам ноты.
+<c=@abilitytype>Performance.</c> Reciting this tale with the harp playing will grant you notes.,<c=@abilitytype>Выступление.</c> Декламация этой саги под звуки арфы даёт вам ноты.
+<c=@abilitytype>Performance.</c> Reciting this tale with the lute playing will grant you notes.,<c=@abilitytype>Выступление.</c> Декламация этой саги под звуки лютни даёт вам ноты.
+<c=@abilitytype>Performance.</c> Reciting this tale with two or more instruments playing will grant you notes.,<c=@abilitytype>Выступление.</c> Декламация этой саги при игре на двух и более инструментах даёт вам ноты.
+<c=@abilitytype>Pet:</c> Summon a companion you can interact with.,"<c=@abilitytype>Питомец:</c> Призовите спутника, с которым можно взаимодействовать."
+"<c=@abilitytype>Phantasm.</c> Create a phantasm that attacks your target and creates a defensive bubble, protecting itself and allies from projectiles.","<c=@abilitytype>Фантазм.</c> Создайте фантазм, который атакует вашу цель и создаёт защитный пузырь, защищая себя и союзников от снарядов."
+<c=@abilitytype>Phantasm.</c> Create an illusion that unloads its pistols on your foe.,"<c=@abilitytype>Фантазм.</c> Создайте иллюзию, которая расстреливает вашего врага из пистолетов."
+<c=@abilitytype>Physical.</c> Smash your foe.,<c=@abilitytype>Физическая атака.</c> Впечатайте врага.
+"<c=@abilitytype>Precision Aimed Ability.</c> Command your skyscale to launch a fireball, dealing damage and burning its target.While holding the ability button down, you can precisely aim where your skyscale will launch the fireball. Release the ability button to launch the fireball in that direction.","<c=@abilitytype>Точный прицельный навык.</c> Прикажите своему летокрылу выпустить огненный шар, нанося урон и обжигая цель. Удерживая кнопку навыка, вы можете точно прицелиться, куда ваш летокрыл выпустит огненный шар. Отпустите кнопку навыка, чтобы выпустить огненный шар в этом направлении."
+<c=@abilitytype>Predator Strain.</c> Evolving grants you superspeed and quickness.,<c=@abilitytype>Хищный штамм.</c> Эволюция дарует вам сверхскорость и проворство.
+<c=@abilitytype>Punishment.</c> Leave a trail of sand as you travel. Grant boons to allies passing through it. Inflict burning on enemies and corrupt a boon into torment.,"<c=@abilitytype>Кара.</c> Оставляйте за собой след из песка во время передвижения. Даруйте дары союзникам, проходящим через него. Накладывайте горение на врагов и портите дар в боль."
+<c=@abilitytype>Quickness at or below 50%% heat</c>,<c=@abilitytype>Проворство при нагреве 50%% и ниже</c>
+<c=@abilitytype>Quickness over 100%% heat</c>,<c=@abilitytype>Проворство при нагреве выше 100%%</c>
+<c=@abilitytype>Quickness over 50%% heat</c>,<c=@abilitytype>Проворство при нагреве выше 50%%</c>
+"<c=@abilitytype>Ranged.</c> Hurl your weapon at your foe. If you are in close range, swing your weapon at them instead. Striking a foe reduces the cooldown of Abyssal Raze once per skill use.","<c=@abilitytype>Дальний бой.</c> Метните своё оружие во врага. Если вы в ближнем радиусе, вместо этого взмахните оружием. Попадание по врагу сокращает время восстановления «Опустошения бездны» раз за использование навыка."
+<c=@abilitytype>Ranged.</c>Throw your spear.,<c=@abilitytype>Дальний бой.</c>Метните своё копьё.
+"<c=@abilitytype>Rapacious Strain.</c> While evolved, strike foes an additional time when you hit them.",<c=@abilitytype>Прожорливый штамм.</c> В эволюционировавшем состоянии поражайте врагов ещё раз при попадании.
+<c=@abilitytype>Replicating Strain.</c> Evolving heals you over time and grants alacrity.,<c=@abilitytype>Штамм регенерации.</c> Эволюция исцеляет вас со временем и дарует ускорение времени.
+<c=@abilitytype>Resiliant Strain.</c> Evolving grants you barrier and resistance.,<c=@abilitytype>Стойкий штамм.</c> Эволюция дарует вам барьер и сопротивляемость.
+<c=@abilitytype>Shared Inventory:</c> This slot is shared by all characters. Vendors and the Trading Post will ignore items in this slot.,<c=@abilitytype>Общий инвентарь:</c> Этот слот общий для всех персонажей. Торговцы и торговый пост игнорируют предметы в этом слоте.
+"<c=@abilitytype>Shatter.</c> All your clones and phantasms shatter, firing exploding blades at their targets.","<c=@abilitytype>Осколки.</c> Все ваши клоны и фантазмы раскалываются, выпуская взрывающиеся клинки по своим целям."
+"<c=@abilitytype>Shatter.</c> Destroy all your clones and phantasms, gaining alacrity for each one shattered.","<c=@abilitytype>Осколки.</c> Уничтожьте всех своих клонов и фантазмов, получая ускорение времени за каждого расколотого."
+<c=@abilitytype>Shout.</c> Call out to target a foe and make them vulnerable.,"<c=@abilitytype>Клич.</c> Выкрикните команду, чтобы указать на врага и сделать его уязвимым."
+<c=@abilitytype>Shout.</c> Your pet will seek out and revive a downed ally.,<c=@abilitytype>Клич.</c> Ваш питомец найдёт и воскресит поверженного союзника.
+<c=@abilitytype>Shout</c> skills heal allies. Gain healing power based on your power.,<c=@abilitytype>Клич.</c> Навыки клича исцеляют союзников. Получайте силу исцеления в зависимости от вашей мощи.
+"<c=@abilitytype>Signet Passive:</c> Incoming strike and condition damage is reduced.<br><c=@abilitytype>Signet Active:</c> Create a projectile-blocking dome around yourself. You and allies inside the dome gain barrier every second. If your mech is active, the dome is centered on it and is larger. <br><br><c=@reminder>The mech does not count against the target count for this skill.</c>","<c=@abilitytype>Пассивный эффект печати:</c> Получаемый урон от ударов и состояний снижается.<br><c=@abilitytype>Активный эффект печати:</c> Создайте вокруг себя купол, блокирующий снаряды. Вы и союзники внутри купола каждую секунду получаете барьер. Если ваш мех активен, купол центрируется на нём и становится больше. <br><br><c=@reminder>Мех не учитывается в количестве целей для этого навыка.</c>"
+"<c=@abilitytype>Signet.</c> You and your pet grow larger, dealing more damage and gaining stability.","<c=@abilitytype>Печать.</c> Вы и ваш питомец увеличиваетесь в размерах, нанося больше урона и получая устойчивость."
+<c=@abilitytype>Sphere.</c> Release your sphere to attune to air after a short delay.,"<c=@abilitytype>Сфера.</c> Высвободите свою сферу, чтобы настроиться на воздух после небольшой задержки."
+<c=@abilitytype>Sphere.</c> Release your sphere to attune to earth after a short delay.,"<c=@abilitytype>Сфера.</c> Высвободите свою сферу, чтобы настроиться на землю после небольшой задержки."
+<c=@abilitytype>Sphere.</c> Release your sphere to attune to fire after a delay.,"<c=@abilitytype>Сфера.</c> Высвободите свою сферу, чтобы настроиться на огонь после задержки."
+<c=@abilitytype>Sphere.</c> Release your sphere to attune to fire after a short delay.,"<c=@abilitytype>Сфера.</c> Высвободите свою сферу, чтобы настроиться на огонь после небольшой задержки."
+<c=@abilitytype>Sphere.</c> Release your sphere to attune to water after a short delay.,"<c=@abilitytype>Сфера.</c> Высвободите свою сферу, чтобы настроиться на воду после небольшой задержки."
+<c=@abilitytype>Stability above 100%% Heat</c>,<c=@abilitytype>Устойчивость при нагреве выше 100%%</c>
+<c=@abilitytype>Stability above 50%% Heat</c>,<c=@abilitytype>Устойчивость при нагреве выше 50%%</c>
+<c=@abilitytype>Steal.</c>,<c=@abilitytype>Кража.</c>
+<c=@abilitytype>Stealth Attack.<c/> Attack your foe from the shadows. Shadowstep to your opponent before you strike them.,"<c=@abilitytype>Скрытая атака.<c/> Атакуйте врага из тени. Совершите теневой скачок к противнику перед тем, как поразить его."
+<c=@abilitytype>Survival.</c> Entangle your foe. They are Immobile until the vines are destroyed.,"<c=@abilitytype>Выживание.</c> Опутайте врага. Он обездвижен, пока лозы не будут уничтожены."
+<c=@abilitytype>Survival.</c> Entangle your foe. They are immobile until the vines are destroyed.,"<c=@abilitytype>Выживание.</c> Опутайте врага. Он обездвижен, пока лозы не будут уничтожены."
+<c=@abilitytype>Symbol.</c> Pierce the ground with a mystic symbol that damages and burns foes while granting retaliation to allies.,"<c=@abilitytype>Символ.</c> Пронзите землю мистическим символом, который наносит урон и обжигает врагов, даруя союзникам возмездие."
+<c=@abilitytype>Titanic Strain.</c> Evolving improves the effect of might and grants might.,<c=@abilitytype>Титанический штамм.</c> Эволюция усиливает эффект мощи и дарует мощь.
+"<c=@abilitytype>Tome.</c> Locks you in place, but grants you powerful support spells.","<c=@abilitytype>Том.</c> Обездвиживает вас на месте, но дарует мощные вспомогательные заклинания."
+<c=@abilitytype>Tome.</c> Summon an ancient tome that grants you powerful support spells.,"<c=@abilitytype>Том.</c> Призовите древний том, дарующий мощные вспомогательные заклинания."
+<c=@abilitytype>Transform.</c> Become a virulent cloud and inflict multiple conditions on foes you touch. Entering this form destroys all minions and removes spectral effects.,"<c=@abilitytype>Превращение.</c> Превратитесь в ядовитое облако и наложите несколько состояний на врагов, которых коснётесь. При входе в эту форму уничтожаются все прислужники и спадают эффекты призрачности."
+<c=@abilitytype>Transform.</c> Turn your foe into a moa bird.,<c=@abilitytype>Превращение.</c> Превратите врага в птицу моа.
+<c=@abilitytype>Transform.</c> Turn your foe into a tuna fish.,<c=@abilitytype>Превращение.</c> Превратите врага в рыбу тунца.
+<c=@abilitytype>Trap.</c> Select an NPC (or player) to follow by ground target selecting them. You'll receive a buff and this skill will be replaced if the target was successfully selected.,"<c=@abilitytype>Ловушка.</c> Выберите НИП (или игрока), за которым нужно следовать, указав его наземной целью. Вы получите усиление, и этот навык будет заменён, если цель выбрана успешно."
+<c=@abilitytype>Trap.</c> Set a trap that bleeds and cripples foes. Pulses three times when triggered.,"<c=@abilitytype>Ловушка.</c> Установите ловушку, которая вызывает кровотечение и хромоту у врагов. Пульсирует три раза при срабатывании."
+<c=@abilitytype>Turret.</c> Build a stationary mortar that you or your allies can fire.,"<c=@abilitytype>Турель.</c> Постройте стационарную мортиру, из которой можете стрелять вы или ваши союзники."
+<c=@abilitytype>Virtue.</c> Remove conditions and gain Flowing Resolve. Rush forward and evade attacks while leaving <c=@abilitytype>Willbender Flames</c> in your wake.<br><c=@reminder>Removes other active <c=@abilitytype>Virtue</c> effects.</c>,"<c=@abilitytype>Добродетель.</c> Снимите состояния и получите Текущую Решимость. Рвитесь вперёд и уклоняйтесь от атак, оставляя за собой <c=@abilitytype>Пламя Волеборца</c>.<br><c=@reminder>Снимает другие активные эффекты <c=@abilitytype>Добродетели</c>.</c>"
+<c=@abilitytype>Virtue.</c> Shadowstep a short distance while gaining boons and emanating <c=@abilitytype>Willbender Flames</c> from your location. Gain Courage.<br><c=@reminder>Removes other active <c=@abilitytype>Virtue</c> effects.</c,"<c=@abilitytype>Добродетель.</c> Совершите теневой скачок на небольшое расстояние, получая дары и источая <c=@abilitytype>Пламя Волеборца</c> из своего местоположения. Получите Отвагу.<br><c=@reminder>Снимает другие активные эффекты <c=@abilitytype>Добродетели</c>.</c"
+"<c=@abilitytype>Volatile Strain.</c> When you evolve, stun nearby enemies.",<c=@abilitytype>Нестабильный штамм.</c> При эволюции оглушайте находящихся рядом врагов.
+<c=@abilitytype>Weapon Kit.</c> Arm yourself with a flamethrower that replaces your weapon skills.,"<c=@abilitytype>Оружейный набор.</c> Вооружитесь огнемётом, заменяющим ваши оружейные навыки."
+<c=@abilitytype>Well.</c> Convert boons on foes into conditions every three seconds.,<c=@abilitytype>Колодец.</c> Превращайте дары врагов в состояния каждые три секунды.
+<c=@abilitytype>Well.</c> Convert conditions on allies into boons every three seconds.,<c=@abilitytype>Колодец.</c> Превращайте состояния союзников в дары каждые три секунды.
+<c=@abilitytype>Well.</c> Transform boons of foes into conditions every three seconds.,<c=@abilitytype>Колодец.</c> Превращайте дары врагов в состояния каждые три секунды.
+<c=@Event>Community goal complete!</c>,<c=@Event>Общая цель выполнена!</c>
+<c=@Event>Community goals complete!</c>,<c=@Event>Общие цели выполнены!</c>
+"<c=@flavor>""A big sword for a big job.""<br>—Warmaster Chan</c>",<c=@flavor>«Большой меч для большого дела».<br>—Военачальник Чан</c>
+"<c=@flavor>""A clean kill.""<br>—Meinolf Njordson</c>",<c=@flavor>«Чистое убийство».<br>—Майнольф Нордсон</c>
+"<c=@flavor>""A fine heirloom accessory from the ancient Krytan family.""<br>—Farmhand Abhean</c>",<c=@flavor>«Прекрасное фамильное украшение древнего крайтийского рода».<br>—Батрак Абхин</c>
+"<c=@flavor>""A good cook needs a trusty spoon.""<br>—Hune</c>",<c=@flavor>«Хорошему повару нужна верная ложка».<br>—Хьюн</c>
+"<c=@flavor>""A good focus is essential for the accurate channeling of energy.""<br>—Ahjj</c>",<c=@flavor>«Хороший фокус необходим для точного направления энергии».<br>—Аджж</c>
+"<c=@flavor>""A good shot is heard louder than a good word.""<br>—Explorer Erikk</c>",<c=@flavor>«Хороший выстрел слышен громче доброго слова».<br>—Изыскатель Эрикк</c>
+"<c=@flavor>""A good soldier follows orders. A great soldier doesn't question them.""<br>—Zara</c>",<c=@flavor>«Хороший солдат выполняет приказы. Отличный солдат их не оспаривает».<br>—Зара</c>
+"<c=@flavor>""A good spy needs a sharp blade and a quicker tongue.""<br>—Jahr Duskrend</c>",<c=@flavor>«Хорошему шпиону нужен острый клинок и язык ещё острее».<br>—Джар Дасквенд</c>
+"<c=@flavor>""A mini grawl might worship its mini likeness.""<br>—Sizza</c>",<c=@flavor>«Мини-граул может поклоняться своему мини-подобию».<br>—Сицца</c>
+"<c=@flavor>""A potent reminder of our beautiful swamp.""<br>—Laewyn</c>",<c=@flavor>«Яркое напоминание о нашем прекрасном болоте».<br>—Лэвин</c>
+"<c=@flavor>""A reminder of the power inside yourself.""<br>—Arias</c>",<c=@flavor>«Напоминание о силе внутри тебя».<br>—Ариас</c>
+"<c=@flavor>""A Seraph never backs away from a fight.""<br>—Morina</c>",<c=@flavor>«Серафим никогда не отступает от боя».<br>—Морина</c>
+"<c=@flavor>""A strong, trustworthy mace.""<br>—Leika</c>","<c=@flavor>«Крепкая, надёжная булава».<br>—Лейка</c>"
+"<c=@flavor>""A thorn is only as dangerous as you are careless.""<br>—Diantha</c>","<c=@flavor>«Шип опасен ровно настолько, насколько ты неосторожен».<br>—Диантха</c>"
+"<c=@flavor>""A top seller at First Haven, after our spoons, of course.""<br>—Ulva</c>","<c=@flavor>«Хит продаж в Первой Гавани, после наших ложек, конечно же».<br>—Улва</c>"
+"<c=@flavor>""Aha! I've been looking for those.""<br>—Cin</c><br><br>This item only has value as part of a collection.",<c=@flavor>«Ага! А я их искал».<br>—Син</c><br><br>Этот предмет ценен только как часть коллекции.
+"<c=@flavor>""Aim true. But telling you that is like telling the sun to rise.""<br>—Lightbringer Ives</c>",<c=@flavor>«Цельтесь точно. Но говорить тебе это — всё равно что просить солнце взойти».<br>—Светоносец Айвз</c>
+"<c=@flavor>""All are equal when measured under the blade.""<br>—Kalla Scorchrazor</c>",<c=@flavor>«Под клинком все равны».<br>—Калла Обгорелый Коготь</c>
+"<c=@flavor>""All for one and one for all.""<br>—Haral</c>",<c=@flavor>«Один за всех и все за одного».<br>—Харал</c>
+"<c=@flavor>""Almost fire resistant. Almost.""<br>—Bordekka</c>",<c=@flavor>«Почти огнеупорный. Почти».<br>—Бордекка</c>
+"<c=@flavor>""Almost perfect size to throw.""<br>—Hua'racche</c>","<c=@flavor>«Почти идеальный размер, чтобы метать».<br>—Хуарраче</c>"
+"<c=@flavor>""Always flow like the current in order to crash like a wave.""<br>—Shifting Waves</c>","<c=@flavor>«Всегда теки, как течение, чтобы обрушиться, как волна».<br>—Меняющиеся Волны</c>"
+"<c=@flavor>""Always gotta make sure your drinking water's safe.""<br>—Stout Darkmind</c>","<c=@flavor>«Всегда убеждайся, что твоя питьевая вода безопасна».<br>—Стаут Тёмный Разум</c>"
+"<c=@flavor>""Always vigilant.""<br>—Crusader Brice</c>",<c=@flavor>«Всегда начеку».<br>—Крестоносец Брайс</c>
+"<c=@flavor>""Always wear a sturdy helm when fighting skritt. There's no telling what they'll throw at you.""<br>—Kelgg</c>","<c=@flavor>«Всегда надевай крепкий шлем в бою со скриттами. Никогда не знаешь, чем они в тебя запустят».<br>—Келгг</c>"
+"<c=@flavor>""Amateurish at best, but it's better than nothing.""<br>—Wistt</c>","<c=@flavor>«В лучшем случае дилетантство, но и оно лучше, чем ничего».<br>—Уистт</c>"
+"<c=@flavor>""Amazingly quiet for how much protection they offer.""<br>—Morina</c>","<c=@flavor>«Удивительно тихие, учитывая, какую защиту дают».<br>—Морина</c>"
+"<c=@flavor>""Amazingly well balanced, perfect for cracking skulls.""<br>—Aidem</c>","<c=@flavor>«Удивительно хорошо сбалансированы, идеальны для раскалывания черепов».<br>—Айдем</c>"
+"<c=@flavor>""Amazingly well preserved.""<br>—Aidem</c>",<c=@flavor>«Удивительно хорошо сохранились».<br>—Айдем</c>
+"<c=@flavor>""Another day, perhaps.""<br>—Vollym</c>","<c=@flavor>«Может быть, в другой день».<br>—Воллим</c>"
+"<c=@flavor>""Aquadynamic for extreme thrusting power.""<br>—Mei Shadowwalker</c>",<c=@flavor>«Гидродинамична для мощнейших выпадов».<br>—Мэй Теневая Странница</c>
+"<c=@flavor>""Are we mere reflections of the truth?""<br>—Nessa</c>",<c=@flavor>«Разве мы не просто отражения истины?»<br>—Несса</c>
+"<c=@flavor>""Armor up.""<br>—Magister Pagga</c>",<c=@flavor>«Вооружайся».<br>—Магистр Пагга</c>
+"<c=@flavor>""As long as the food's still good, I don't want to know.""<br>—Cin</c><br><br>This item only has value as part of a collection.","<c=@flavor>«Пока еда всё ещё хороша, знать больше не хочу».<br>—Син</c><br><br>Этот предмет ценен только как часть коллекции."
+"<c=@flavor>""At some point, everything becomes a nail.""<br>—Warmaster Jofast</c>",<c=@flavor>«В какой-то момент всё становится гвоздём».<br>—Военачальник Джофаст</c>
+"<c=@flavor>""Balance in all things.""<br>—Enduring Protector</c>",<c=@flavor>«Равновесие во всём».<br>—Стойкий Защитник</c>
+"<c=@flavor>""Bandits hate fire.""<br>—Waldo</c>",<c=@flavor>«Бандиты ненавидят огонь».<br>—Уолдо</c>
+"<c=@flavor>""Bang, bang!""<br>—Cakilak'ka</c>","<c=@flavor>«Бах, бах!»<br>—Какилак'ка</c>"
+"<c=@flavor>""Bash the dragon, smash the dragon, may it never rise up again!""<br>—Excerpt from ""Bash the Dragon""</c>","<c=@flavor>«Бей дракона, круши дракона, пусть он никогда больше не восстанет!»<br>—Отрывок из «Бей дракона»</c>"
+"<c=@flavor>""Battle tested. Arcane Council approved.""<br>—Professor Gahf</c>",<c=@flavor>«Проверено в бою. Одобрено Тайным Советом».<br>—Профессор Гаф</c>
+"<c=@flavor>""Be careful not to cut yourself.""<br>—Lightbringer Zykk</c>","<c=@flavor>«Осторожно, не порежься».<br>—Светоносец Зикк</c>"
+"<c=@flavor>""Be careful with that! It's very fragile.""<br>—Glaxx</c>",<c=@flavor>«Осторожно с этим! Очень хрупкое».<br>—Глакс</c>
+"<c=@flavor>""Be wise.""<br>—Lahri</c>",<c=@flavor>«Будь мудр».<br>—Лари</c>
+"<c=@flavor>""Bear watches over us.""<br>—Freygunn</c>",<c=@flavor>«Медведь охраняет нас».<br>—Фрейгунн</c>
+"<c=@flavor>""Being quiet means staying alive.""<br>—Morina</c>","<c=@flavor>«Тишина — залог того, что останешься в живых».<br>—Морина</c>"
+"<c=@flavor>""Bet their catapult won't work without this!""<br>—Tripp</c>","<c=@flavor>«Спорим, их катапульта без этого не заработает!»<br>—Трипп</c>"
+"<c=@flavor>""Better gear up. After this is Arah itself.""<br>—Keeper Lyrda</c>",<c=@flavor>«Лучше подготовься. После этого — сам Арах».<br>—Хранительница Лирда</c>
+"<c=@flavor>""Better to be as far from that rotting flesh smell as possible.""<br>—Priory Explorer Cyara</c>","<c=@flavor>«Лучше держаться подальше от этого запаха гниющей плоти, насколько возможно».<br>—Изыскатель Приората Циара</c>"
+"<c=@flavor>""Between the three of us, there's nothing we can't handle.""<br>—Rhea</c>",<c=@flavor>«Втроём нам любое дело по плечу».<br>—Реа</c>
+"<c=@flavor>""Big battles call for big weapons.""<br>—Arcanist Repth</c>",<c=@flavor>«Большие битвы требуют большого оружия».<br>—Арканист Репт</c>
+"<c=@flavor>""Blasphemy like that of the svanir needs to be cut from this world.""<br>—Crusader D'Stolt</c>",<c=@flavor>«Богохульство вроде свенира нужно вырезать из этого мира».<br>—Крестоносец Д'Столт</c>
+"<c=@flavor>""Blast, Build, Battle.""<br>—Iron Legion Motto</c>","<c=@flavor>«Взрывай, строй, сражайся».<br>—Девиз Железного легиона</c>"
+"<c=@flavor>""Bunny watches us, too.""<br>—Bjarni</c>",<c=@flavor>«Кролик тоже следит за нами».<br>—Бьярни</c>
+"<c=@Flavor>""Business is life, and life is good!""<br>—Anonymous Vabbian Trade Official</c>","<c=@Flavor>«Дело — это жизнь, а жизнь хороша!»<br>—Аноним, торговый чиновник Ваббии</c>"
+"<c=@flavor>""By Bangar's blade!""<br>—Blood Legion</c>",<c=@flavor>«Клянусь клинком Бангара!»<br>—Кровавый легион</c>
+"<c=@flavor>""By the time most soldiers get here, they need a new pair.""<br>—Arcanist Repth</c>","<c=@flavor>«К тому времени, как большинство солдат сюда добираются, им нужна новая пара».<br>—Арканист Репт</c>"
+"<c=@flavor>""Can you believe the Branded corruption even hit the fish?""<br>—Sentinel Staggerfoe</c>","<c=@flavor>«Можешь поверить, что порча Клеймёных задела даже рыбу?»<br>—Часовой Шатконога</c>"
+"<c=@flavor>""Can you feel the rod vibrate? It also makes a faint humming sound.""<br>—Opticalium Researcher Oisha</c>","<c=@flavor>«Чувствуешь, как вибрирует эта штанга? Она ещё и слабо гудит».<br>—Исследователь оптикалия Ойша</c>"
+"<c=@flavor>""Can't be unarmed with the flame legion skulking about.""<br>—Braxa Scalehunter</c>","<c=@flavor>«Нельзя оставаться безоружным, пока рядом рыщет Огненный легион».<br>—Бракса Чешуйница</c>"
+"<c=@flavor>""Can't have a proper patrol without a proper torch.""<br>—Lionguard Cern</c>",<c=@flavor>«Нормальный патруль без нормального факела не обходится».<br>—Страж Льва Керн</c>
+"<c=@flavor>""Careful not to step into anything glowy, gooey, or otherwise threatening.""<br>—Researcher Kaii</c>","<c=@flavor>«Осторожно, не наступи ни на что светящееся, липкое или иным образом опасное».<br>—Исследовательница Каи</c>"
+"<c=@flavor>""Careful walking around the ettins; they leave all manner of nasty and sharp things lying about.""<br>—Bramm</c>",<c=@flavor>«Осторожно ходи рядом с эттинами: они разбрасывают повсюду всякие неприятные и острые вещи».<br>—Брамм</c>
+"<c=@flavor>""Careful what sparks you create.""<br>—Jahr Duskrend</c>","<c=@flavor>«Осторожнее с тем, какие искры высекаешь».<br>—Джар Дасквенд</c>"
+"<c=@flavor>""Careful, very sharp!""<br>—Bordekka</c>","<c=@flavor>«Осторожно, очень острое!»<br>—Бордекка</c>"
+"<c=@flavor>""Careful. The wings will tickle your neck if you move your head too fast.""<br>—Huelic</c>","<c=@flavor>«Осторожно. Крылья пощекочут тебе шею, если резко повернёшь голову».<br>—Хьюлик</c>"
+"<c=@flavor>""Centaurs are highly flammable.""<br>—Forward Scout Luke</c>",<c=@flavor>«Кентавры прекрасно горят».<br>—Передовой разведчик Люк</c>
+"<c=@flavor>""Comes in handy if you get spotted sneaking.""<br>—Avarr</c>","<c=@flavor>«Пригодится, если тебя заметят при попытке подкрасться».<br>—Аварр</c>"
+"<c=@flavor>""Coming from the darkness they just grow like that.""<br>—Alarin</c>","<c=@flavor>«Выходя из тьмы, они просто так растут».<br>—Аларин</c>"
+"<c=@flavor>""Communication is the key to a successful operation, regardless of the size.""<br>—Agent Siobhan</c>","<c=@flavor>«Связь — ключ к успешной операции, вне зависимости от масштаба».<br>—Агент Шивон</c>"
+"<c=@flavor>""Conquer all.""<br>—Blood Legion Motto</c>",<c=@flavor>«Покорить всё».<br>—Девиз Кровавого легиона</c>
+"<c=@flavor>""Cooperation brought us to this point. It will see us through.""<br>—Tactician Almonia</c>",<c=@flavor>«Сотрудничество привело нас сюда. Оно же и проведёт нас дальше».<br>—Тактик Алмония</c>
+"<c=@flavor>""Cover your head. That's rule number one when all the other rules go out the window.""<br>—Scholar Blix</c>","<c=@flavor>«Прикрывай голову. Это правило номер один, когда все остальные правила летят к чертям».<br>—Учёная Бликс</c>"
+"<c=@flavor>""Crab grabbin' can be dangerous. Protect those mitts!""<br>—Bram Dawnrazer</c>",<c=@flavor>«Ловля крабов может быть опасной. Береги свои клешни!»<br>—Брам Рассветный Разбойник</c>
+"<c=@flavor>""Customized iron sights for increased damage and accuracy.""<br>—Ulva</c>",<c=@flavor>«Особые прицельные приспособления для увеличенного урона и точности».<br>—Улва</c>
+"<c=@flavor>""Cuts enemies, not plants.""<br>—Nrocroc Chief</c>","<c=@flavor>«Режет врагов, а не растения».<br>—Вождь Нрокрок</c>"
+"<c=@flavor>""Dark arrows for dark times, friend.""<br>—Lightbringer Ives</c>","<c=@flavor>«Тёмные стрелы для тёмных времён, друг».<br>—Светоносец Айвз</c>"
+"<c=@flavor>""Darkness, like anything else, is best when its enhanced.""<br>—Fina Duskmaker</c>","<c=@flavor>«Тьма, как и всё прочее, лучше всего, когда она усилена».<br>—Фина Сумеречница</c>"
+"<c=@flavor>""Designed to keep you nimble while out on patrol.""<br>—Lionguard Cern</c>","<c=@flavor>«Создан, чтобы сохранять подвижность на патруле».<br>—Страж Льва Керн</c>"
+"<c=@flavor>""Destroy with subterfuge.""<br>—Ash Legion Motto</c>",<c=@flavor>«Уничтожай хитростью».<br>—Девиз Пепельного легиона</c>
+"<c=@flavor>""Destroyers came; we were ready.""<br>—Bordekka</c>",<c=@flavor>«Разрушители пришли — мы были готовы».<br>—Бордекка</c>
+"<c=@flavor>""Did you see the size of that thing?""<br>—Travis</c>",<c=@flavor>«Видел размеры этой штуки?»<br>—Тревис</c>
+"<c=@flavor>""Diplomacy is often a double edged pursuit. Out here we keep both sides sharp.""<br>—Kai</c>",<c=@flavor>«Дипломатия часто — обоюдоострое занятие. Здесь мы держим острыми оба лезвия».<br>—Кай</c>
+"<c=@flavor>""Do you think it might be older than the dragons?""<br>—Rhea</c>","<c=@flavor>«Как думаешь, это может быть старше драконов?»<br>—Реа</c>"
+"<c=@flavor>""Does a good job of keeping thorn wolves away.""<br>—Nessi</c>",<c=@flavor>«Хорошо отпугивает шипастых волков».<br>—Несси</c>
+"<c=@flavor>""Don't dig too deep.""<br>—Explorer Cryptcutter</c>",<c=@flavor>«Не копай слишком глубоко».<br>—Изыскатель Криптрез</c>
+"<c=@flavor>""Don't dig too deep.""<br>—Explorer Cyrptcutter</c>",<c=@flavor>«Не копай слишком глубоко».<br>—Изыскатель Криптрез</c>
+"<c=@flavor>""Don't eat this one—the stuff I preserved it with doesn't taste too good.""<br>—Elain</c>","<c=@flavor>«Не ешь это — то, чем я это законсервировала, не очень приятно на вкус».<br>—Элейн</c>"
+"<c=@flavor>""Don't get any funny ideas. Only trained techs can replace a gate crystal.""<br>—Glaxx</c>",<c=@flavor>«Даже не думай. Только обученные техники могут заменить кристалл врат».<br>—Глакс</c>
+"<c=@flavor>""Don't go into the water to rescue Wardens without this speargun. It'll keep those undead off you."" <br>—Danu</c>a",<c=@flavor>«Не лезь в воду спасать Стражей без этого гарпунного ружья. Оно удержит нежить подальше от тебя». <br>—Дану</c>
+"<c=@flavor>""Don't just go around touching things. I learned that the unpleasant way.""<br>—Recruit Tochacatl</c>",<c=@flavor>«Не трогай всё подряд без разбора. Я усвоила это неприятным способом».<br>—Новобранец Точакатль</c>
+"<c=@flavor>""Don't mind the centaur blood.""<br>—Corporal Lebeau</c>",<c=@flavor>«Не обращай внимания на кровь кентавра».<br>—Капрал Лебо</c>
+"<c=@flavor>""Don't shoot your own eye out!""<br>—Twitchok</c>",<c=@flavor>«Не отстрели себе глаз!»<br>—Твичок</c>
+"<c=@flavor>""Don't wait for shadows to make the first move. Stab them first."" <br>—Mate Watt</c>","<c=@flavor>«Не жди, пока тени сделают первый ход. Ударь первым». <br>—Матрос Уотт</c>"
+"<c=@flavor>""Don't want anything getting close to you? Then, you want this.""<br>—Nessi</c>","<c=@flavor>«Не хочешь, чтобы к тебе кто-то приближался? Тогда тебе нужно это».<br>—Несси</c>"
+"<c=@flavor>""Don't worry with this one—just point and shoot.""<br>—Marksman Kamekeck</c>",<c=@flavor>«Не переживай насчёт этого — просто наводи и стреляй».<br>—Стрелок Камекек</c>
+"<c=@flavor>""Don't worry. I won't sell your personal data to another lab.""<br>—Zippti</c>",<c=@flavor>«Не переживай. Я не продам твои личные данные другой лаборатории».<br>—Циппти</c>
+"<c=@flavor>""Dredge mines are lined with torches for light.""<br>—Priory Field Guide to Dredge</c>",<c=@flavor>«Шахты дреджей освещены факелами».<br>—Полевой справочник Приората по дреджам</c>
+"<c=@flavor>""Dye these black for the ultimate in tactical armor.""<br>—Tactician Lyan</c>",<c=@flavor>«Покрась это в чёрный ради максимальной тактической брони».<br>—Тактик Лайан</c>
+"<c=@flavor>""Either the quaggan used it backward or this one didn't fit.""<br>—Scholar Sharpslash</c>","<c=@flavor>«Либо куагган носил это задом наперёд, либо этому это не подошло».<br>—Учёный Остроруб</c>"
+"<c=@flavor>""Enemies of the state flee before the sight of anyone wearing this.""<br>—Goran</c>","<c=@flavor>«Враги государства бегут при одном виде того, кто это носит».<br>—Горан</c>"
+"<c=@flavor>""Enjoy the bubbles!""<br>—Varonos Parump</c>",<c=@flavor>«Наслаждайся пузырьками!»<br>—Варонос Парамп</c>
+"<c=@flavor>""Ettin ring make you strong!""<br>—Krug</c>",<c=@flavor>«Кольцо эттинов делает тебя сильным!»<br>—Круг</c>
+"<c=@flavor>""Even the depths require much.""<br>—Worthy Burden</c>",<c=@flavor>«Даже глубины требуют многого».<br>—Достойное Бремя</c>
+"<c=@flavor>""Even the mightiest tree loses a branch from time to time.""<br>—Leigheara</c>",<c=@flavor>«Даже могучее дерево время от времени теряет ветвь».<br>—Лейхара</c>
+"<c=@flavor>""Even the smallest sapling can still be useful.""<br>—Leigheara</c>",<c=@flavor>«Даже самый маленький саженец может быть полезен».<br>—Лейхара</c>
+"<c=@flavor>""Even the tallest tree starts as a tiny seed.""<br>—Diantha</c>",<c=@flavor>«Даже самое высокое дерево начинается с крошечного семени».<br>—Диантха</c>
+"<c=@flavor>""Everyone says we need more of these. I think we've got enough.""<br>—Mad Mardine</c>","<c=@flavor>«Все говорят, что нам нужно больше этого. Я думаю, у нас уже достаточно».<br>—Безумный Мардин</c>"
+"<c=@flavor>""Everything starts with a plan, but nothing ever goes according to it.""<br>—Torruh Sweptweave</c>","<c=@flavor>«Всё начинается с плана, но ничто никогда не идёт по плану».<br>—Торру Свептвиви</c>"
+"<c=@flavor>""Excellent quality First Haven handwear.""<br>—Clerk Ulva</c>",<c=@flavor>«Первосортные перчатки из Первой Гавани».<br>—Клерк Улва</c>
+"<c=@flavor>""Excessive use has been linked to hearing loss in skritt.""<br>—Dr. Klagg</c>",<c=@flavor>«Чрезмерное использование связывают с потерей слуха у скриттов».<br>—Доктор Клагг</c>
+"<c=@flavor>""Favorite bow. Thank you.""<br>—Mokooki</c>",<c=@flavor>«Любимый лук. Спасибо».<br>—Мокооки</c>
+"<c=@flavor>""Fight fire with fire. Well in this case, blackpowder, fire, and a projectile.""<br>—Corva Sharpclaw</c>","<c=@flavor>«Бей огонь огнём. Ну, в данном случае — чёрным порохом, огнём и снарядом».<br>—Корва Острый Коготь</c>"
+"<c=@flavor>""Fight magic with magic, they say.""<br>—Tactician Almonia</c>","<c=@flavor>«Говорят, магию бьют магией».<br>—Тактик Алмония</c>"
+"<c=@flavor>""Fighting odd mechanical creatures can be as easy as bringing the right stick.""<br>—Garrius</c>","<c=@flavor>«Сражаться со странными механическими существами так же просто, как захватить с собой нужную палку».<br>—Гарриус</c>"
+"<c=@flavor>""Find balance or fall into discord.""<br>—Guardian Infinite Mind</c>",<c=@flavor>«Найди равновесие или впади в раздор».<br>—Страж Бесконечный Разум</c>
+"<c=@flavor>""Finest pistol ever 'donated' to our cause.""<br>—Maakel The Immortal</c>","<c=@flavor>«Лучший пистолет, когда-либо „пожертвованный“ нашему делу».<br>—Маакель Бессмертный</c>"
+"<c=@flavor>""Fires with deadly accuracy.""<br>—Diantha</c>",<c=@flavor>«Стреляет со смертоносной точностью».<br>—Диантха</c>
+"<c=@flavor>""First thing you learn in the Priory is how to keep these from burning out.""<br>—Priory Researcher Raekk</c>","<c=@flavor>«Первое, чему учишься в Приорате, — как не дать этому перегореть».<br>—Исследователь Приората Реккк</c>"
+"<c=@flavor>""Fish love the truffle.""<br>—Matlal</c>",<c=@flavor>«Рыба любит трюфель».<br>—Матлал</c>
+"<c=@flavor>""Flame. Dark. Shadow. Burn.""<br>—Secret Code 872SQ</c>",<c=@flavor>«Пламя. Тьма. Тень. Гори».<br>—Секретный код 872SQ</c>
+"<c=@flavor>""Folks don't just breathe water.""<br>—Fisherman Will</c>",<c=@flavor>«Не все дышат только водой».<br>—Рыбак Уилл</c>
+"<c=@flavor>""For a great hero dedicated to Tyria's safety.""<br>—Lady Camilla Einshorn</c>","<c=@flavor>«Для великого героя, посвятившего себя безопасности Тирии».<br>—Леди Камилла Эйнсхорн</c>"
+"<c=@flavor>""For a hero. Your hardwork will not be forgotten.""<br>—Keeper Jonez Deadrun</c>",<c=@flavor>«Для героя. Твой тяжёлый труд не будет забыт».<br>—Хранитель Джонез Мертвопуть</c>
+"<c=@flavor>""For emergencies only.""<br>—Krewe Leader Pachoo</c>",<c=@flavor>«Только на крайний случай».<br>—Глава команды Пачу</c>
+"<c=@flavor>""For getting what we needed to where we needed it, despite the hardship.""<br>—Explorer Pentt</c>","<c=@flavor>«Чтобы доставить нужное туда, куда нужно, несмотря на все трудности».<br>—Изыскатель Пентт</c>"
+"<c=@flavor>""For prying out those hard-to-get bits of karka meat.""<br>—Owain</c>","<c=@flavor>«Чтобы выковыривать те кусочки мяса карки, до которых трудно добраться».<br>—Оуэйн</c>"
+"<c=@flavor>""For some good light in those dark caves.""<br>—Kelgg</c>",<c=@flavor>«Чтобы был хоть какой-то свет в этих тёмных пещерах».<br>—Келгг</c>
+"<c=@flavor>""For those large hides that you just can't get clean.""<br>—Lyot</c>","<c=@flavor>«Для тех больших шкур, которые просто не отмываются».<br>—Лайот</c>"
+"<c=@flavor>""Fortunately, they're poorly constructed.""<br>—Coydd</c>","<c=@flavor>«К счастью, они плохо сконструированы».<br>—Койдд</c>"
+"<c=@flavor>""Found it just laying in the bog, imagine that.""<br>—Issa</c>","<c=@flavor>«Нашла это прямо в болоте, представь себе».<br>—Исса</c>"
+"<c=@flavor>""Found it just lying around in the bog. Imagine that.""<br>—Issa</c>",<c=@flavor>«Нашла это прямо в болоте. Представь себе».<br>—Исса</c>
+"<c=@flavor>""Friends of the Wupwup are friends of the warthog.""<br>—Wupwup Chief</c>",<c=@flavor>«Друзья Вапвапа — друзья бородавочника».<br>—Вождь вапвапов</c>
+"<c=@flavor>""From a once-proud race.""<br>—Lionguard Nadel</c>",<c=@flavor>«От некогда гордой расы».<br>—Страж Льва Надел</c>
+"<c=@flavor>""Functional and stylish!""<br>—Crusader Patrick</c>",<c=@flavor>«Функционально и стильно!»<br>—Крестоносец Патрик</c>
+"<c=@flavor>""Fur keeps the head warm.""<br>—Gestre Howle</c>",<c=@flavor>«Мех сохраняет голову в тепле».<br>—Гестре Хоул</c>
+"<c=@flavor>""Get a lot of these, fighting those jotun.""<br>—Nadel</c>",<c=@flavor>«Раздобудь побольше этого в боях с ётунами».<br>—Надел</c>
+"<c=@flavor>""Gift this speargun to your friend that hates water. Hilarious.""<br>—Lieutenant Pickins</c>","<c=@flavor>«Подари это гарпунное ружьё другу, который ненавидит воду. Обхохочешься».<br>—Лейтенант Пикинс</c>"
+"<c=@flavor>""Go for a swim!""<br>—Creator Zee</c>",<c=@flavor>«Иди поплавай!»<br>—Творец Зи</c>
+"<c=@flavor>""Good discipline will keep the militia strong.""<br>—Sergeant Soto</c>",<c=@flavor>«Хорошая дисциплина сохранит силу ополчения».<br>—Сержант Сото</c>
+"<c=@flavor>""Good for breathing.""<br>—Lugung</c>",<c=@flavor>«Хорошо для дыхания».<br>—Лугунг</c>
+"<c=@flavor>""Good for digging in the dirt!""<br>—Sneckit</c>","<c=@flavor>«Отлично подходит, чтобы копаться в земле!»<br>—Снеккит</c>"
+"<c=@flavor>""Good for herding dolyaks.""<br>—Maxtar Rapidstep</c>",<c=@flavor>«Хорошо подходит для выпаса долиаков».<br>—Макстар Быстрый Шаг</c>
+"<c=@flavor>""Good for wading through the snow.""<br>—Bolla</c>","<c=@flavor>«Хорошо подходит, чтобы пробираться через снег».<br>—Болла</c>"
+"<c=@flavor>""Good for worms, and good for you!""<br>—Sneckit</c>",<c=@flavor>«Хорошо для червей и хорошо для тебя!»<br>—Снеккит</c>
+"<c=@flavor>""Good to keep these dark so they don't shimmer at night.""<br>—Tulfar</c>","<c=@flavor>«Хорошо, что они тёмные — не будут блестеть по ночам».<br>—Тулфар</c>"
+"<c=@flavor>""Good work. Have some pants.""<br>—Ghyrtratus Fiendmauler</c>",<c=@flavor>«Хорошая работа. Держи штаны».<br>—Гиртратус Изверголов</c>
+"<c=@flavor>""Got to admit, I get a weird feeling whenever I hold it.""<br>—Issa</c>","<c=@flavor>«Признаюсь, когда держу это, испытываю странное чувство».<br>—Исса</c>"
+"<c=@flavor>""Gotta go out at night? Take this!""<br>—Sneckit</c>",<c=@flavor>«Собираешься выйти ночью? Возьми это!»<br>—Снеккит</c>
+"<c=@flavor>""Gotta keep these really sharp if you're gonna skin a dolyak.""<br>—Maxtar Rapidstep</c>","<c=@flavor>«Приходится держать их действительно острыми, если собираешься свежевать долиака».<br>—Макстар Быстрый Шаг</c>"
+"<c=@flavor>""Gotta keep warm. I added extra insulation as thanks.""<br>—Disa</c>",<c=@flavor>«Приходится согреваться. Добавила лишнее утепление в благодарность».<br>—Диса</c>
+"<c=@flavor>""Gotta protect those knees.""<br>—Lionscout Alli</c>",<c=@flavor>«Береги эти колени».<br>—Разведчица Львов Алли</c>
+"<c=@flavor>""Grawl really like shiny things.""<br>—Etta</c>",<c=@flavor>«Граулы правда любят блестящие вещи».<br>—Этта</c>
+"<c=@flavor>""Grawl seem to have a lot of extra fur. Makes for some good padding.""<br>—Cleverblade</c>","<c=@flavor>«У граулов, похоже, очень много лишнего меха. Выходит неплохая набивка».<br>—Хитроклинок</c>"
+"<c=@flavor>""Grawl sure are odd creatures, but they know how to make a good bowstring.""<br>—Cleverblade</c>","<c=@flavor>«Граулы — точно странные создания, но тетиву они делать умеют».<br>—Хитроклинок</c>"
+"<c=@flavor>""Grawl worship the oddest things.""<br>—Fearin</c>",<c=@flavor>«Граулы поклоняются самым странным вещам».<br>—Фиарин</c>
+"<c=@flavor>""Great for a good dredge bashing.""<br>—Leika</c>","<c=@flavor>«Отлично подходит, чтобы как следует вздуть дреджей».<br>—Лейка</c>"
+"<c=@flavor>""Great for cleaning out grawl.""<br>—Etta</c>","<c=@flavor>«Отлично подходит, чтобы вычистить граулов».<br>—Этта</c>"
+"<c=@flavor>""Great for clearing paths of brush and bandits.""<br>—Rhea</c>","<c=@flavor>«Отлично подходит, чтобы расчищать тропы от кустарника и бандитов».<br>—Реа</c>"
+"<c=@flavor>""Great for deep diving or shallow snorkeling.""<br>—Agent Rjoda</c>",<c=@flavor>«Отлично подходит для глубокого погружения или мелкого сноркелинга».<br>—Агент Рджода</c>
+"<c=@flavor>""Great for environmentally friendly sabotage.""<br>—Environmental Activist Jenrys</c>",<c=@flavor>«Отлично подходит для экологичного саботажа».<br>—Эко-активист Дженрис</c>
+"<c=@flavor>""Great for lighting just about anything ablaze.""<br>—Crusader Vilborg</c>","<c=@flavor>«Отлично подходит, чтобы поджечь почти что угодно».<br>—Крестоносец Вилборг</c>"
+"<c=@flavor>""Great for splitting lumber. Or centaurs.""<br>—Forward Scout Luke</c>",<c=@flavor>«Отлично подходит для колки дров. Или кентавров».<br>—Передовой разведчик Люк</c>
+"<c=@flavor>""Great power in mountain skull. We make small mountain you hold in hand.""<br>—Wupwup Chief</c>","<c=@flavor>«Великая сила в горном черепе. Мы делаем маленькую гору, которую держишь в руке».<br>—Вождь вапвапов</c>"
+"<c=@flavor>""Great protection and excellent style.""<br>—Sheriff Kaargoth Bloodclaw</c>",<c=@flavor>«Отличная защита и превосходный стиль».<br>—Шериф Каргот Кровавый Коготь</c>
+"<c=@flavor>""Harpy down makes a good pillow. It's soft and warm.""<br>—Sagum Relicseeker</c>",<c=@flavor>«Гарпийий пух делает хорошую подушку. Мягкую и тёплую».<br>—Сагум Искатель Реликвий</c>
+"<c=@flavor>""Has never failed me. Well, almost never.""<br>—Twitchok</c>","<c=@flavor>«Никогда меня не подводил. Ну, почти никогда».<br>—Твичок</c>"
+"<c=@flavor>""Have to protect the little ones.""<br>—Braxa Scalehunter</c>",<c=@flavor>«Нужно защищать малышей».<br>—Бракса Чешуйница</c>
+"<c=@flavor>""Have you seen how drafty these buildings are?""<br>—Cin</c><br><br>This item only has value as part of a collection.","<c=@flavor>«Видел, какие в этих зданиях сквозняки?»<br>—Син</c><br><br>Этот предмет ценен только как часть коллекции."
+"<c=@flavor>""He who holds the speaking bone may jabber.""<br>—Bramm</c>","<c=@flavor>«Кто держит говорящую кость, тот и болтает».<br>—Брамм</c>"
+"<c=@flavor>""Helps when the sun goes down.""<br>—Shengra</c>","<c=@flavor>«Помогает, когда солнце садится».<br>—Шенгра</c>"
+"<c=@flavor>""Helps your aim.""<br>—Ichtaca</c>",<c=@flavor>«Помогает с прицеливанием».<br>—Ичтака</c>
+"<c=@flavor>""History must be preserved.""<br>—Bink</c>",<c=@flavor>«История должна быть сохранена».<br>—Бинк</c>
+"<c=@flavor>""Hold on to the spirits.""<br>—Old Witch Doctor's Saying</c>",<c=@flavor>«Держись духов».<br>—Поговорка старого знахаря</c>
+"<c=@flavor>""Hope it makes you luckier than the centaur it came from.""<br>—Barnaby</c>","<c=@flavor>«Надеюсь, тебе это принесёт больше удачи, чем тому кентавру, у которого я это забрал».<br>—Барнаби</c>"
+"<c=@flavor>""How do they eat with these things?""<br>—Surveyor Falki</c>",<c=@flavor>«Как они вообще едят этим?»<br>—Землемер Фальки</c>
+"<c=@flavor>""How do you defeat shambling, slow, diseased, decaying undead? Attack at range."" <br>—Laudren</c>","<c=@flavor>«Как одолеть шаркающую, медленную, больную, разлагающуюся нежить? Атакуй издалека».<br>—Лаудрен</c>"
+"<c=@flavor>""How do you improve pants? Well, put these on and let me show you.""<br>—Explorer Trebb</c>","<c=@flavor>«Как улучшить штаны? Ну, надень эти, и я тебе покажу».<br>—Изыскатель Требб</c>"
+"<c=@flavor>""Hunt.""<br>—Wupwup Chief</c>",<c=@flavor>«Охоться».<br>—Вождь вапвапов</c>
+"<c=@flavor>""Hunting is harder than it looks.""<br>—Hunter Block</c>","<c=@flavor>«Охота труднее, чем кажется».<br>—Охотник Блок</c>"
+"<c=@flavor>""I assume you know which end to use. I'll be here if you an explanation.""<br>—Legionnaire Neverburn</c>","<c=@flavor>«Полагаю, ты знаешь, каким концом это использовать. Я буду рядом, если тебе понадобится объяснение».<br>—Легионер Негорящий</c>"
+"<c=@flavor>""I assume you know which end to use. I'll be here if you need an explanation.""<br>—Legionnaire Neverburn</c>","<c=@flavor>«Полагаю, ты знаешь, каким концом это использовать. Я буду рядом, если тебе понадобится объяснение».<br>—Легионер Негорящий</c>"
+"<c=@flavor>""I bet these are really important. Not to me, though.""<br>—Hua'racche</c>","<c=@flavor>«Спорим, это правда важно. Хотя не для меня».<br>—Хуарраче</c>"
+"<c=@flavor>""I bought it years ago. Anyone who says otherwise will be hearing from my lawyers.""<br>—Cin</c><br><br>This item only has value as part of a collection.",<c=@flavor>«Купила это много лет назад. Кто скажет иначе — услышит от моих юристов».<br>—Син</c><br><br>Этот предмет ценен только как часть коллекции.
+"<c=@flavor>""I calculate that this weapon will improve your performance in the field by a huge percentage.""<br>—Jezza</c>","<c=@flavor>«По моим расчётам, это оружие улучшит твою результативность в поле на огромный процент».<br>—Джезза</c>"
+"<c=@flavor>""I don't know if it changes anything, but I put a little prayer of Dwayna on the side.""<br>—Jinell</c>","<c=@flavor>«Не знаю, меняет ли это что-то, но я добавила сбоку небольшую молитву Двейне».<br>—Джинелл</c>"
+"<c=@flavor>""I don't think it would fit your neck.""<br>—Mrr'kkant</c>","<c=@flavor>«Не думаю, что это налезет тебе на шею».<br>—Мрр'ккант</c>"
+"<c=@flavor>""I doubt the family will miss this!""<br>—Lindi</c>","<c=@flavor>«Сомневаюсь, что семье это будет не хватать!»<br>—Линди</c>"
+"<c=@flavor>""I embedded a crystal into the hilt to enhance its arcane capacity.""<br>—Scholar Blix</c>","<c=@flavor>«Я вплавила кристалл в рукоять, чтобы усилить её тайную ёмкость».<br>—Учёная Бликс</c>"
+"<c=@flavor>""I feel like I've seen these markings somewhere before.""<br>—Issa</c>","<c=@flavor>«Такое чувство, что я уже где-то видела эти отметины».<br>—Исса</c>"
+"<c=@flavor>""I find a hammer can be really helpful when trying to get ore in hard to reach places.""<br>—Adgrils</c>","<c=@flavor>«Считаю, что молот очень помогает добывать руду в труднодоступных местах».<br>—Адгрилс</c>"
+"<c=@flavor>""I find a hammer can be really helpful when trying to get ore in hard-to-reach places.""<br>—Adgils</c>","<c=@flavor>«Считаю, что молот очень помогает добывать руду в труднодоступных местах».<br>—Адгилс</c>"
+"<c=@flavor>""I find it fascinating that a blind creature can write.""<br>—Rinceword</c>","<c=@flavor>«Меня завораживает, что слепое существо может писать».<br>—Ринсворд</c>"
+"<c=@flavor>""I find these all over. The trolls seem to really like them.""<br>—Rune Hunter</c>","<c=@flavor>«Нахожу их повсюду. Троллям они, похоже, очень нравятся».<br>—Охотник за рунами</c>"
+"<c=@flavor>""I found these in some supplies here, which they probably stole from us first.""<br>—Seraph Elmder</c>","<c=@flavor>«Нашла это среди припасов здесь, которые они, вероятно, сначала украли у нас».<br>—Серафим Элмдер</c>"
+"<c=@flavor>""I found this in the hand of that centaur you saved me from.""<br>—Seraph</c>","<c=@flavor>«Нашёл это в руке того кентавра, от которого ты меня спас».<br>—Серафим</c>"
+"<c=@flavor>""I go where I please, and just now it pleases me to stay among friends.""<br>—Wynne</c>","<c=@flavor>«Я иду туда, куда мне хочется, а сейчас мне хочется остаться среди друзей».<br>—Винн</c>"
+"<c=@flavor>""I guess it's a weapon for really small people?""<br>—Hua'racche</c>","<c=@flavor>«Полагаю, это оружие для очень маленьких людей?»<br>—Хуарраче</c>"
+"<c=@flavor>""I had a few extra helms laying around. I think they were my son's.""<br>—Bulsa</c>","<c=@flavor>«У меня было несколько лишних шлемов, валявшихся без дела. Кажется, это были шлемы моего сына».<br>—Булса</c>"
+"<c=@flavor>""I had a few extra helms lying around. I think they were my son's.""<br>—Bulsa</c>","<c=@flavor>«У меня было несколько лишних шлемов, валявшихся без дела. Кажется, это были шлемы моего сына».<br>—Булса</c>"
+"<c=@flavor>""I had to make minor adjustments after getting these in. You won't be disappointed.""<br>—Researcher Zippti</c>",<c=@flavor>«Пришлось внести небольшие поправки после их получения. Ты не будешь разочарован».<br>—Исследовательница Циппти</c>
+"<c=@flavor>""I hate ghosts, but they do make excellent targets.""<br>—Erria</c>","<c=@flavor>«Ненавижу призраков, но из них выходят отличные мишени».<br>—Эрриа</c>"
+"<c=@flavor>""I have one thing to say to Zhaitan. Boom.""<br>—Warmaster Chan</c>",<c=@flavor>«Мне есть что сказать Жайтану. Бабах».<br>—Военачальник Чан</c>
+"<c=@flavor>""I have yet to see a spell backfire from this particular model.""<br>—Mei Shadowwalker</c>","<c=@flavor>«Ещё не видела, чтобы заклинание дало осечку у этой модели».<br>—Мэй Теневая Странница</c>"
+"<c=@flavor>""I heard our purple ball's inside a plant. If it's a potato chest, bring us back some to eat?""<br>—Laine</c>","<c=@flavor>«Слышал, наш фиолетовый шар внутри растения. Если это картофельный сундук, принесёте нам немного поесть?»<br>—Лейн</c>"
+"<c=@flavor>""I heard the sand coo at me, so take this, and use it in the sand if you hear the same."" <br>—Danu</c>","<c=@flavor>«Мне послышалось, будто песок мне что-то воркует, так что возьми это и используй в песке, если услышишь то же самое». <br>—Дану</c>"
+"<c=@flavor>""I keep these daggers sharp, just in case of an attack.""<br>—Lexi Price</c>",<c=@flavor>«Держу эти кинжалы острыми на случай нападения».<br>—Лекси Прайс</c>
+"<c=@flavor>""I know an alchemist who often inquires about such things.""<br>—Cin</c><br><br>This item only has value as part of a collection.","<c=@flavor>«Я знаю алхимика, который часто про такое расспрашивает».<br>—Син</c><br><br>Этот предмет ценен только как часть коллекции."
+"<c=@flavor>""I might be stuck here, but you don't need to be.""<br>—Lionguard Hester</c>","<c=@flavor>«Может, я тут застряла, но тебе не обязательно».<br>—Страж Льва Эстер</c>"
+"<c=@flavor>""I prefer a sword, but this will do in a pinch.""<br>—Lieutenant Pickins</c>","<c=@flavor>«Я предпочитаю меч, но в крайнем случае сойдёт и это».<br>—Лейтенант Пикинс</c>"
+"<c=@flavor>""I remember this one year when the crabs were stealing all my bait...""<br>—Fisherman Will</c>","<c=@flavor>«Помню один год, когда крабы воровали всю мою наживку...»<br>—Рыбак Уилл</c>"
+"<c=@flavor>""I should have had these on for that ambush.""<br>—Private Felix</c>",<c=@flavor>«Надо было надеть это перед той засадой».<br>—Рядовой Феликс</c>
+"<c=@flavor>""I should have never left the raft.""<br>—Vallog</c>",<c=@flavor>«Не надо было мне покидать плот».<br>—Валлог</c>
+"<c=@flavor>""I was going to give this to my kids, but it's a little too small.""<br>—Carman Fawntracker</c>","<c=@flavor>«Собиралась подарить это своим детям, но оно маловато».<br>—Кармен Соколоследка</c>"
+"<c=@flavor>""I will bear your pain.""<br>—Caithe</c>",<c=@flavor>«Я разделю твою боль».<br>—Каите</c>
+"<c=@flavor>""I wonder what the jotun used these for...""<br>—Albin Chronicler</c>","<c=@flavor>«Интересно, для чего ётуны это использовали...»<br>—Летописец Альбин</c>"
+"<c=@flavor>""I wonder why grawl like orange so much.""<br>—Arcanist Aurelio Shiverpaw</c>","<c=@flavor>«Интересно, почему граулы так любят оранжевый».<br>—Арканист Аурелио Дрожащая Лапа</c>"
+"<c=@flavor>""I'll stop when they're dead.""<br>—Broil Cane</c>","<c=@flavor>«Я остановлюсь, когда они умрут».<br>—Бройл Кейн</c>"
+"<c=@flavor>""I'm done with your games, and I'm finished with you. I am not your dearheart.""<br>—Caithe</c>","<c=@flavor>«С меня хватит твоих игр, и с тобой я закончила. Я не твоя зазноба».<br>—Каите</c>"
+"<c=@flavor>""I'm positive this will work. Unlike the last few...""<br>—Twitchok</c>","<c=@flavor>«Уверена, что это сработает. В отличие от прошлых нескольких...»<br>—Твичок</c>"
+"<c=@flavor>""I'm pretty sure the ghosts didn't mind me taking this. Well, sixty-four percent sure.""<br>—Ket</c>","<c=@flavor>«Почти уверен, что призраки не против того, что я это забрал. Ну, процентов на шестьдесят четыре уверен».<br>—Кет</c>"
+"<c=@flavor>""I'm pretty sure the ghosts didn't mind me taking this. well, sixty-four percent sure.""<br>—Ket</c>","<c=@flavor>«Почти уверен, что призраки не против того, что я это забрал. ну, процентов на шестьдесят четыре уверен».<br>—Кет</c>"
+"<c=@flavor>""I'm still not sure how 'ghostly' metal can exist...""<br>—Fyra </c>","<c=@flavor>«Всё ещё не уверена, как может существовать „призрачный“ металл...»<br>—Файра </c>"
+"<c=@flavor>""I'm surprised this survived first contact with the enemy.""<br>—Magister Pagga</c>","<c=@flavor>«Удивлён, что это пережило первый контакт с врагом».<br>—Магистр Пагга</c>"
+"<c=@flavor>""I've already learned everything I can from it.""<br>—Wistt</c>","<c=@flavor>«Я уже узнала от этого всё, что могла».<br>—Уистт</c>"
+"<c=@flavor>""I've seen enough battles to know when to use this and when to use diplomacy.""<br>—Tactician Sebastian</c>","<c=@flavor>«Повидал достаточно битв, чтобы знать, когда применять это, а когда — дипломатию».<br>—Тактик Себастьян</c>"
+"<c=@flavor>""If anyone asks, you didn't get it from me.""<br>—Mrr'kkant</c>",<c=@flavor>«Если кто спросит — ты получил это не от меня».<br>—Мрр'ккант</c>
+"<c=@flavor>""If only we had a way to fire them back.""<br>—Hua'racche</c>",<c=@flavor>«Если бы только был способ выстрелить ими в ответ».<br>—Хуарраче</c>
+"<c=@flavor>""If Wark tries to claim this as his design, you just ignore that filthy harpy-lover.""<br>—Wode</c>","<c=@flavor>«Если Уорк попробует выдать это за свой дизайн, просто игнорируй этого грязного гарпиелюба».<br>—Уод</c>"
+"<c=@flavor>""If you concentrate hard enough, you can almost feel the power it contains.""<br>—Glaxx</c>","<c=@flavor>«Если как следует сосредоточиться, можно почти почувствовать силу, которую это содержит».<br>—Глакс</c>"
+"<c=@flavor>""If you know where to point the edge of your blade - you have read enough.""<br>—Vigil Tactician Blazefur</c>","<c=@flavor>«Если знаешь, куда направить край своего клинка — ты прочёл достаточно».<br>—Тактик Дозора Блейзфур</c>"
+"<c=@flavor>""If you know where to point the edge of your blade—you have read enough.""<br>—Vigil Tactician Blazefur</c>","<c=@flavor>«Если знаешь, куда направить край своего клинка — ты прочёл достаточно».<br>—Тактик Дозора Блейзфур</c>"
+"<c=@flavor>""If you think an undead is going to suck out your eyeballs, protect yourself by covering them and swinging!"" <br>—Potatlan</c>","<c=@flavor>«Если думаешь, что нежить собирается высосать тебе глаза, защитись, прикрыв их и размахивая оружием!» <br>—Потатлан</c>"
+"<c=@flavor>""If you think this one is big, you should see the one above the fireplace.""<br>—Hunter Block</c>","<c=@flavor>«Если думаешь, что этот большой, посмотрел бы ты на тот, что над камином».<br>—Охотник Блок</c>"
+"<c=@flavor>""If you unload with this, there's usually not much left worth bringing back.""<br>—Hunter Block</c>","<c=@flavor>«Если выпустишь из этого весь боезапас, обычно уже мало что стоит забирать домой».<br>—Охотник Блок</c>"
+"<c=@flavor>""If you want to keep a piece, it's all yours.""<br>—Crusader Brice</c>",<c=@flavor>«Если хочешь оставить кусок себе — он весь твой».<br>—Крестоносец Брайс</c>
+"<c=@flavor>""If you're going to be up close with those dredge, pack some extra powder for a bigger kick.""<br>—Rinceword</c>","<c=@flavor>«Если собираешься быть близко к этим дреджам, возьми с собой лишнего пороха для большей отдачи».<br>—Ринсворд</c>"
+"<c=@flavor>""If you're hit, the natural reaction is to hit back. Harder.""<br>—Explorer Brokkar</c>","<c=@flavor>«Если тебя ударили, естественная реакция — ударить в ответ. Сильнее».<br>—Изыскатель Броккар</c>"
+"<c=@flavor>""Impressive.""<br>—Solita Miststalker</c>",<c=@flavor>«Впечатляюще».<br>—Солита Туманоискательница</c>
+"<c=@flavor>""In case I don't make it, this will prove I was a genius!""<br>—Explorer Trebb</c>","<c=@flavor>«На случай, если не выживу, это докажет, что я был гением!»<br>—Изыскатель Требб</c>"
+"<c=@flavor>""In case of centaurs, apply footwear. Then start the party!""<br>—Scout Jones</c>",<c=@flavor>«В случае кентавров — надень обувь. Затем начинай вечеринку!»<br>—Разведчик Джонс</c>
+"<c=@flavor>""In retrospect, I probably picked the wrong time to clean my gun.""<br>—Private Felix</c>","<c=@flavor>«Оглядываясь назад, я, наверное, выбрал не то время, чтобы чистить оружие».<br>—Рядовой Феликс</c>"
+"<c=@flavor>""Infused with the morning's light.""<br>—Wyld Hunt Valiant Caillech</c>",<c=@flavor>«Наполнено светом утра».<br>—Валиант Дикой Охоты Кайлек</c>
+"<c=@flavor>""It almost looks like it's watching you.""<br>—Aidem</c>","<c=@flavor>«Такое чувство, что это почти следит за тобой».<br>—Айдем</c>"
+"<c=@flavor>""It chops wood, meat, and grawl.""<br>—Hune</c>","<c=@flavor>«Рубит дрова, мясо и граулов».<br>—Хьюн</c>"
+"<c=@flavor>""It doesn't look like much, but it'll stop a blow.""<br>—Seraph</c>","<c=@flavor>«Выглядит не очень, но удар остановит».<br>—Серафим</c>"
+"<c=@flavor>""It even has a compass in the stock.""<br>—Twitchok</c>",<c=@flavor>«В прикладе даже есть компас».<br>—Твичок</c>
+"<c=@flavor>""It fell out and we can't get it back in...""<br>—Nessa</c>","<c=@flavor>«Оно выпало, и мы не можем вставить его обратно...»<br>—Несса</c>"
+"<c=@flavor>""It gets dark down here.""<br>—Sik'klak</c>",<c=@flavor>«Здесь внизу темнеет».<br>—Сик'клак</c>
+"<c=@flavor>""It has a secret secondary fire method in case some undead jam up the main action.""<br>—Nessa</c>","<c=@flavor>«У этого есть секретный способ вторичного огня на случай, если какая-нибудь нежить заклинит основное действие».<br>—Несса</c>"
+"<c=@flavor>""It is said our feathers can control the winds.""<br>—Sangdo Swiftwing</c>","<c=@flavor>«Говорят, наши перья могут управлять ветрами».<br>—Сангдо Быстрокрылый</c>"
+"<c=@flavor>""It's a tool, but it's also a weapon.""<br>—Surveyor Falki</c>","<c=@flavor>«Это инструмент, но это ещё и оружие».<br>—Землемер Фальки</c>"
+"<c=@flavor>""It's amazing what can happen when you get everyone working together.""<br>—Magister Izzmek</c>","<c=@flavor>«Удивительно, что может произойти, когда все начинают работать вместе».<br>—Магистр Иззмек</c>"
+"<c=@flavor>""It's amazing what you can find in a old Skritt cave.""<br>—Crusader Aisling</c>","<c=@flavor>«Удивительно, что можно найти в старой пещере скриттов».<br>—Крестоносец Эйслинг</c>"
+"<c=@flavor>""It's been recalibrated using the energy readings we took in this area. It'll be quite effective."" <br>—Kamma</c>","<c=@flavor>«Это перекалибровали, используя показания энергии, снятые в этой местности. Будет весьма эффективно». <br>—Камма</c>"
+"<c=@flavor>""It's dried, so the poison won't affect you. Just don't get it wet.""<br>—Laudren</c>","<c=@flavor>«Это высушено, так что яд на тебя не подействует. Просто не мочи это».<br>—Лаудрен</c>"
+"<c=@flavor>""It's easier to be vigilant when you have this in your hands.""<br>—Crusader Brice</c>","<c=@flavor>«Легче быть бдительным, когда это у тебя в руках».<br>—Крестоносец Брайс</c>"
+"<c=@flavor>""It's got a hair-trigger. I wouldn't suggest pointing this at yourself while cleaning.""<br>—Vejj</c>",<c=@flavor>«У этого чувствительный спусковой крючок. Не советую направлять это на себя во время чистки».<br>—Вэйдж</c>
+"<c=@flavor>""It's important to have the right shoes for the job.""<br>—Vasher Shadowsinner</c>",<c=@flavor>«Важно иметь подходящую обувь для дела».<br>—Вашер Тенепевец</c>
+"<c=@flavor>""It's not enough to protect the body. One must protect the soul, as well.""<br>—Lightbringer Ives</c>",<c=@flavor>«Недостаточно защищать тело. Нужно защищать ещё и душу».<br>—Светоносец Айвз</c>
+"<c=@flavor>""It's not like the captain will be needing it soon.""<br>—Cin</c><br><br>This item only has value as part of a collection.","<c=@flavor>«Не похоже, что капитану это скоро понадобится».<br>—Син</c><br><br>Этот предмет ценен только как часть коллекции."
+"<c=@flavor>""It's not meant to be literally hidden.""<br>—Lightbringer Ives</c>",<c=@flavor>«Это не должно быть буквально спрятано».<br>—Светоносец Айвз</c>
+"<c=@flavor>""It's not stealing if it's for research!""<br>—Ket</c>","<c=@flavor>«Это не воровство, если это ради исследований!»<br>—Кет</c>"
+"<c=@flavor>""It's not stealing. The ghosts already took it once. This is...recovery. It's patriotic.""<br>—Cin</c><br><br>This item only has value as part of a collection.",<c=@flavor>«Это не воровство. Призраки уже забрали это один раз. Это... возвращение. Это патриотично».<br>—Син</c><br><br>Этот предмет ценен только как часть коллекции.
+"<c=@flavor>""It's odd to see the grawl worshipping something more powerful than barely shaped rocks.""<br>—Tor the Tall</c>","<c=@flavor>«Странно видеть, как граулы поклоняются чему-то более могущественному, чем едва обтёсанные камни».<br>—Тор Высокий</c>"
+"<c=@flavor>""It's quite shiny, isn't it?""<br>—Krew Leader Pachoo</c>","<c=@flavor>«Довольно блестящее, не правда ли?»<br>—Глава команды Пачу</c>"
+"<c=@flavor>""It's the height of Beetletun style! Well, it was last year, anyway.""<br>—Paden</c>","<c=@flavor>«Это вершина стиля Битлтауна! Ну, по крайней мере, была в прошлом году».<br>—Пейден</c>"
+"<c=@flavor>""It's the helm of the upper arm.""<br>—Zalvax Brokenclaw</c>",<c=@flavor>«Это шлем для верхней части руки».<br>—Залвакс Сломанный Коготь</c>
+"<c=@flavor>""Its not the sword that's great, but who wields it.""<br>—Pact Crusader D'Stolt</c>","<c=@flavor>«Не меч велик, а тот, кто им владеет».<br>—Крестоносец Пакта Д'Столт</c>"
+"<c=@flavor>""Its too bad this wont block the stench of this place.""<br>—Magister Pagga</c>","<c=@flavor>«Жаль, что это не заблокирует вонь этого места».<br>—Магистр Пагга</c>"
+"<c=@flavor>""Just a copy for your files. Don't worry about the fine print. It's boilerplate.""<br>—Advisor Zakk</c>",<c=@flavor>«Просто копия для твоих архивов. Не переживай насчёт мелкого шрифта. Это стандартная формулировка».<br>—Советник Закк</c>
+"<c=@flavor>""Just a small piece of the Terebinth's power.""<br>—Leigheara</c>",<c=@flavor>«Всего лишь маленький кусочек силы Теребинта».<br>—Лейхара</c>
+"<c=@flavor>""Just holding it makes me feel better.""<br>—Leigheara</c>","<c=@flavor>«Просто держа это, я чувствую себя лучше».<br>—Лейхара</c>"
+"<c=@flavor>""Just imagine the crack as your targeting sight.""<br>—Nessi</c>",<c=@flavor>«Просто представь трещину как свой прицел».<br>—Несси</c>
+"<c=@flavor>""Just the thing for hiding in the shadows.""<br>—Coydd</c>","<c=@flavor>«Именно то, что нужно, чтобы прятаться в тенях».<br>—Койдд</c>"
+"<c=@flavor>""Just to remind the world what the Iron Legion is best at.""<br>—Centurion Truthbringer</c>","<c=@flavor>«Просто чтобы напомнить миру, в чём Железный легион лучше всех».<br>—Центурион Правдоносец</c>"
+"<c=@flavor>""Keep an eye on those ice imps.They are always up to no good.""<br>—Suki</c>",<c=@flavor>«Не спускай глаз с этих ледяных бесов. От них всегда одни неприятности».<br>—Суки</c>
+"<c=@flavor>""Keep them in check with brute force.""<br>—Torruh Sweptweave</c>",<c=@flavor>«Держи их в узде грубой силой».<br>—Торру Свептвиви</c>
+"<c=@flavor>""Keep this close when those fissures appear, they sometimes shoot fireballs.""<br>—Kruppa</c>","<c=@flavor>«Держи это под рукой, когда появляются эти трещины — иногда они стреляют огненными шарами».<br>—Круппа</c>"
+"<c=@flavor>""Keep this close when those fissures appear. They sometimes shoot fireballs.""<br>—Kruppa</c>","<c=@flavor>«Держи это под рукой, когда появляются эти трещины. Иногда они стреляют огненными шарами».<br>—Круппа</c>"
+"<c=@flavor>""Keep your feet warm.""<br>—The Lionguard</c>",<c=@flavor>«Держи ноги в тепле».<br>—Стража Льва</c>
+"<c=@flavor>""Keep your fingers tight on your weapon, soldier.""<br>—Nadel</c>","<c=@flavor>«Крепко держи оружие, солдат».<br>—Надел</c>"
+"<c=@flavor>""Keep your fingers tight on your weapon, solider.""<br>—Nadel</c>","<c=@flavor>«Крепко держи оружие, солдат».<br>—Надел</c>"
+"<c=@flavor>""Keep your head on a swivel out there.""<br>—Sentinel Liharn</c>",<c=@flavor>«Постоянно оглядывайся там снаружи».<br>—Часовой Лихарн</c>
+"<c=@flavor>""Keep your legs safe when channeling ancient spirits.""<br>—Old Witch Doctor's Saying</c>","<c=@flavor>«Береги ноги, когда призываешь древних духов».<br>—Поговорка старого знахаря</c>"
+"<c=@flavor>""Keep your legs warm.""<br>—Meinolf Njordson</c>",<c=@flavor>«Держи ноги в тепле».<br>—Майнольф Нордсон</c>
+"<c=@flavor>""Keep your wits about you.""<br>—Brian</c>",<c=@flavor>«Держи ухо востро».<br>—Брайан</c>
+"<c=@flavor>""Keeping your feet dry is imperative in a place like this.""<br>—Issa</c>","<c=@flavor>«Держать ноги сухими крайне важно в таком месте, как это».<br>—Исса</c>"
+"<c=@flavor>""Keeping your hands clean in war can be difficult.""<br>—Supply Sergeant Mattimer</c>",<c=@flavor>«Держать руки чистыми на войне может быть трудно».<br>—Интендант-сержант Маттимер</c>
+"<c=@flavor>""Keeps the bad ice away.""<br>—Mokooki</c>",<c=@flavor>«Отгоняет плохой лёд».<br>—Мокооки</c>
+"<c=@flavor>""Keeps the creepy crawlies away.""<br>—Twitchok</c>",<c=@flavor>«Отгоняет всяких жутких ползучих тварей».<br>—Твичок</c>
+"<c=@flavor>""Keeps the soot off.""<br>—Vigil Tactician Blazefur</c>",<c=@flavor>«Не даёт покрыться сажей».<br>—Тактик Дозора Блейзфур</c>
 "<c=@flavor>""La vie est un mystère""</c>",
-"<c=@flavor>""Let's make a deal.""<br>—Lexi Price</c>",
-"<c=@flavor>""Let's see them run after us now!""<br>—Hua'racche</c>",
-"<c=@flavor>""Light as a feather! No—that's a lie, this thing is really heavy.""<br>—Supply Sergeant Mattimer</c>",
-"<c=@flavor>""Live to fight another day.""<br>—Sentinel Jaggedclaw</c>",
-"<c=@flavor>""Long hours and hard work pays off.""<br>—Haral</c>",
-"<c=@flavor>""Looks like a good ring for you.""<br>—Mrr'kkant</c>",
-"<c=@flavor>""Looks like the bandits, Inquest, and Nightmare Court are working together?""<br>—Mathair</c>",
-"<c=@flavor>""Looks like your heroics qualified you. You have the Iron Legion's thanks.""<br>—Legionnaire Sleekfur</c>",
-"<c=@flavor>""Looks really old. I wonder where it came from.""<br>—Rhea</c>",
-"<c=@flavor>""Made extra shiny for upcoming shiny battles.""<br>—Explorer Grretergrret</c>",
-"<c=@flavor>""Made with proprietary resistance thread.""<br>—Senior Researcher Takka</c>",
-"<c=@flavor>""Make sure to use heaping spoonfuls.""<br>—Eda</c>",
-"<c=@flavor>""Make sure you clean this one out before using.""<br>—Vejj</c>",
-"<c=@flavor>""Market research! That's the ticket. I just need to know what those quaggan chaps eat.""<br>—Cin</c>",
-"<c=@flavor>""May it protect you as you protect Tyria.""<br>—Agent Crandle</c>",
-"<c=@flavor>""May Snow Leopard watch over you.""<br>—Sigarr</c>",
-"<c=@flavor>""May the winds bless the flight of your bolts.""<br>—Sangdo Swiftwing</c>",
+"<c=@flavor>""Let's make a deal.""<br>—Lexi Price</c>",<c=@flavor>«Давай договоримся».<br>—Лекси Прайс</c>
+"<c=@flavor>""Let's see them run after us now!""<br>—Hua'racche</c>",<c=@flavor>«Пусть теперь побегают от нас!»<br>—Хуарраче</c>
+"<c=@flavor>""Light as a feather! No—that's a lie, this thing is really heavy.""<br>—Supply Sergeant Mattimer</c>","<c=@flavor>«Лёгкое, как пёрышко! Нет — это ложь, эта штука реально тяжёлая».<br>—Интендант-сержант Маттимер</c>"
+"<c=@flavor>""Live to fight another day.""<br>—Sentinel Jaggedclaw</c>","<c=@flavor>«Живи, чтобы сражаться дальше».<br>—Часовой Зазубренный Коготь</c>"
+"<c=@flavor>""Long hours and hard work pays off.""<br>—Haral</c>",<c=@flavor>«Долгие часы и тяжёлый труд окупаются».<br>—Харал</c>
+"<c=@flavor>""Looks like a good ring for you.""<br>—Mrr'kkant</c>","<c=@flavor>«Похоже, неплохое кольцо для тебя».<br>—Мрр'ккант</c>"
+"<c=@flavor>""Looks like the bandits, Inquest, and Nightmare Court are working together?""<br>—Mathair</c>","<c=@flavor>«Похоже, бандиты, Инквест и Двор Кошмара работают сообща?»<br>—Матейр</c>"
+"<c=@flavor>""Looks like your heroics qualified you. You have the Iron Legion's thanks.""<br>—Legionnaire Sleekfur</c>","<c=@flavor>«Похоже, твой героизм прошёл проверку. Ты заслужил благодарность Железного легиона».<br>—Легионер Гладкий Мех</c>"
+"<c=@flavor>""Looks really old. I wonder where it came from.""<br>—Rhea</c>","<c=@flavor>«Выглядит действительно старым. Интересно, откуда это взялось».<br>—Реа</c>"
+"<c=@flavor>""Made extra shiny for upcoming shiny battles.""<br>—Explorer Grretergrret</c>",<c=@flavor>«Сделано особенно блестящим для грядущих блестящих битв».<br>—Изыскатель Гретергрет</c>
+"<c=@flavor>""Made with proprietary resistance thread.""<br>—Senior Researcher Takka</c>",<c=@flavor>«Сделано из фирменной нити сопротивления».<br>—Старший исследователь Такка</c>
+"<c=@flavor>""Make sure to use heaping spoonfuls.""<br>—Eda</c>",<c=@flavor>«Обязательно используй ложки с горкой».<br>—Эда</c>
+"<c=@flavor>""Make sure you clean this one out before using.""<br>—Vejj</c>",<c=@flavor>«Обязательно прочисти это перед использованием».<br>—Вэйдж</c>
+"<c=@flavor>""Market research! That's the ticket. I just need to know what those quaggan chaps eat.""<br>—Cin</c>","<c=@flavor>«Маркетинговое исследование! Вот в чём фишка. Мне просто нужно узнать, что едят эти куагганы».<br>—Син</c>"
+"<c=@flavor>""May it protect you as you protect Tyria.""<br>—Agent Crandle</c>","<c=@flavor>«Пусть это защитит тебя, пока ты защищаешь Тирию».<br>—Агент Крандл</c>"
+"<c=@flavor>""May Snow Leopard watch over you.""<br>—Sigarr</c>",<c=@flavor>«Пусть Снежный Барс присматривает за тобой».<br>—Сигарр</c>
+"<c=@flavor>""May the winds bless the flight of your bolts.""<br>—Sangdo Swiftwing</c>",<c=@flavor>«Пусть ветра благословят полёт твоих стрел».<br>—Сангдо Быстрокрылый</c>

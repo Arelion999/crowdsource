@@ -141,7 +141,7 @@
 | `guild_002.csv` | guild | 32 | 1,792 | Unlock a weekly mission slot that will only g |  |  |
 | `minis_001.csv` | minis | 49 | 4,457 | Combine 3 Mini Baron von Scrufflebutts in the |  |  |
 | `misc_001.csv` | misc | 0 | 0 |  | ✅ | (переведено напрямую) |
-| `ui_001.csv` | ui | 488 | 50,970 | [null] |  |  |
+| `ui_001.csv` | ui | 488 | 50,970 | [null] | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_002.csv` | ui | 500 | 15,699 | %str1% (%num1%/%num2% complete) | ✅ | Магистр Клод |
 | `ui_003.csv` | ui | 500 | 21,964 | %str1%%str2%Abyssal Fractal Dagger%str3%%str4 | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_004.csv` | ui | 500 | 21,277 | %str1%%str2%Beach Trunks%str3%%str4% | ✅ | Магистр Клод, Приорат Дурманд |
@@ -160,8 +160,8 @@
 | `ui_017.csv` | ui | 500 | 20,073 | +20 Vitality+14 Healing+14 Power |  |  |
 | `ui_018.csv` | ui | 496 | 34,417 | +7%% Strike Damage vs. Inquest+3%% Strike Dam |  |  |
 | `ui_019.csv` | ui | 497 | 38,123 | 24-Slot Cowrie League Locker |  |  |
-| `ui_020.csv` | ui | 492 | 51,871 | <c=@abilitytype>Chain.</c> Slash your foe, th |  |  |
-| `ui_021.csv` | ui | 499 | 46,099 | <c=@flavor>"Minds, Words, Deeds."<br>—Ash Leg |  |  |
+| `ui_020.csv` | ui | 492 | 51,871 | <c=@abilitytype>Chain.</c> Slash your foe, th | ✅ | Магистр Клод, Приорат Дурманд |
+| `ui_021.csv` | ui | 499 | 46,099 | <c=@flavor>"Minds, Words, Deeds."<br>—Ash Leg | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_022.csv` | ui | 499 | 21,223 | <c=@reminder>Unlock this finisher by purchasi |  |  |
 | `ui_023.csv` | ui | 491 | 49,386 | [lbracket]Lured[rbracket] | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_024.csv` | ui | 500 | 34,009 | A peasant approaches the commander with a dub |  |  |
@@ -283,7 +283,7 @@
 | `ui_140.csv` | ui | 499 | 17,984 | Superior Sigil[s] of Cruelty |  |  |
 | `ui_141.csv` | ui | 500 | 22,968 | Symbols are larger. |  |  |
 | `ui_142.csv` | ui | 498 | 21,388 | Tapping the Mystic Forge stone does not appea |  |  |
-| `ui_143.csv` | ui | 494 | 46,255 | Test Landmark |  |  |
+| `ui_143.csv` | ui | 494 | 46,255 | Test Landmark | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_144.csv` | ui | 500 | 58,395 | The citizens of Nebo Terrace salute you for y | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_145.csv` | ui | 500 | 56,531 | The Hero Kilroy's Story | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_146.csv` | ui | 500 | 55,835 | The Only Way Season | ✅ | Магистр Клод, Приорат Дурманд |
