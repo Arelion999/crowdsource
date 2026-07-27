@@ -3,7 +3,7 @@
 """
 Отчёт о покрытии перевода.
 
-    python stats.py                # сводка по батчам (категории, проценты) + покрытие cyrillic_strings.csv
+    python stats.py                # сводка по батчам (категории, проценты) + покрытие main_strings.csv
     python stats.py --batches      # ещё и построчный список незавершённых батчей
     python stats.py --mark-done    # проставить ✅ в CLAIMS.md батчам, переведённым на 100%% (статус, ник не трогает)
 """

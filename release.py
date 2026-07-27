@@ -1,30 +1,30 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Сборка релиза: вливает переводы из всех готовых батчей в файлы папки cyrillic/
-(cyrillic_strings.csv + dict_*.csv), которые читает игра, и версионирует результат
-локальным git-коммитом в папке cyrillic/.
+Сборка релиза: вливает переводы из всех готовых батчей в файлы папки glyphCore/
+(main_strings.csv + dict_*.csv), которые читает игра, и версионирует результат
+локальным git-коммитом в папке glyphCore/.
 
 Запуск (без аргументов — пути определяются автоматически):
     python release.py
     python release.py --no-commit    # только собрать, без git-коммита
 
 Пути:
-    - папка cyrillic  = родительская папка этого репозитория (на уровень выше);
+    - папка glyphCore = родительская папка этого репозитория (на уровень выше);
     - готовые батчи   = сам этот репозиторий (crowdsource/), рекурсивно все *.csv.
 
 Обёртка над merge_back.py: заполняет ТОЛЬКО пустые строки (никогда не перезаписывает
 уже переведённое), проверяет совпадение плейсхолдеров/тегов, хранит концы строк и UTF-8.
 Идемпотентно: повторный запуск без новых переводов заполнит 0 строк.
 
-Версионирование: cyrillic/ — отдельный ЛОКАЛЬНЫЙ git-репозиторий (crowdsource/ и bak/
+Версионирование: glyphCore/ — отдельный ЛОКАЛЬНЫЙ git-репозиторий (crowdsource/ и bak/
 исключены). После сборки делается `git add -A` + commit со сводкой. Так каждый релиз
 (и добавленные синком строки) попадает в историю и откатывается при необходимости.
 """
 import os, sys, subprocess, datetime
 
 HERE = os.path.dirname(os.path.abspath(__file__))   # .../crowdsource
-CYR  = os.path.dirname(HERE)                          # .../cyrillic
+CYR  = os.path.dirname(HERE)                          # .../glyphCore
 
 sys.path.insert(0, HERE)
 import merge_back  # noqa: E402
@@ -55,7 +55,7 @@ def git(*args):
 
 def commit_release():
     if git("rev-parse", "--is-inside-work-tree").returncode != 0:
-        print("git: cyrillic/ не под версионированием — коммит пропущен "
+        print("git: glyphCore/ не под версионированием — коммит пропущен "
               "(инициализируй репозиторий, если нужно).")
         return
     git("add", "-A")
@@ -66,7 +66,7 @@ def commit_release():
     stat = git("diff", "--cached", "--stat").stdout.strip().splitlines()
     tail = stat[-1] if stat else ""
     ts = datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
-    msg = (f"release {ts}: сборка переводов в cyrillic\n\n{tail}\n\n"
+    msg = (f"release {ts}: сборка переводов в glyphCore\n\n{tail}\n\n"
            "Co-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>")
     r = git("commit", "-m", msg)
     if r.returncode == 0:

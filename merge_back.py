@@ -3,14 +3,14 @@
 Вливает готовые батчи перевода обратно в игровые файлы GlyphCore.
 
 Использование:
-    python merge_back.py <путь_к_папке_cyrillic> <папка_или_файл_с_готовыми_батчами>
+    python merge_back.py <путь_к_папке_glyphCore> <папка_или_файл_с_готовыми_батчами>
 
 Пример:
-    python merge_back.py "C:/Games/Guild Wars 2/cyrillic" ./completed
+    python merge_back.py "C:/Games/Guild Wars 2/glyphCore" ./completed
 
 Что делает:
   - собирает все переводы (english -> translate) из готовых батч-CSV;
-  - в каждом игровом файле (dict_*.csv, cyrillic_strings.csv) заполняет ПУСТЫЕ строки,
+  - в каждом игровом файле (dict_*.csv, main_strings.csv) заполняет ПУСТЫЕ строки,
     чей english совпадает (заполняет все дубли сразу);
   - проверяет, что набор плейсхолдеров/тегов в переводе совпадает с оригиналом
     (иначе строку пропускает и пишет в отчёт);
