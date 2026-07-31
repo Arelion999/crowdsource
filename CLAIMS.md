@@ -4,11 +4,11 @@
 
 | Батч | Тип | Строк | Знаков | Первая строка | Статус | Кто взял |
 |---|---|---:|---:|---|:---:|---|
-| `items_001.csv` | items | 500 | 32,167 | "Acquired" Boots |  |  |
-| `items_002.csv` | items | 500 | 44,992 | <c=@flavor>"Good for wading through the snow. |  |  |
-| `items_003.csv` | items | 500 | 47,275 | <c=@flavor>"The greater the strike, the great |  |  |
-| `items_004.csv` | items | 500 | 40,676 | <c=@flavor>A striking sample of a black moa's |  |  |
-| `items_005.csv` | items | 500 | 49,597 | <c=@flavor>The inscription on the inside read |  |  |
+| `items_001.csv` | items | 500 | 32,167 | "Acquired" Boots | ✅ | Магистр Клод, Приорат Дурманд |
+| `items_002.csv` | items | 500 | 44,992 | <c=@flavor>"Good for wading through the snow. | ✅ | Магистр Клод, Приорат Дурманд |
+| `items_003.csv` | items | 500 | 47,275 | <c=@flavor>"The greater the strike, the great | ✅ | Магистр Клод, Приорат Дурманд |
+| `items_004.csv` | items | 500 | 40,676 | <c=@flavor>A striking sample of a black moa's | ✅ | Магистр Клод, Приорат Дурманд |
+| `items_005.csv` | items | 500 | 49,597 | <c=@flavor>The inscription on the inside read | ✅ | Магистр Клод, Приорат Дурманд |
 | `items_006.csv` | items | 500 | 26,682 | A heated fragment of light used to unlock the |  |  |
 | `items_007.csv` | items | 500 | 43,160 | A recipe to make a Tengu Short Bow. |  |  |
 | `items_008.csv` | items | 500 | 53,267 | A recipe to make an ascended inscription for  |  |  |
@@ -214,7 +214,7 @@
 | `ui_071.csv` | ui | 500 | 16,497 | Gather supplies for the Astral Ward before ti |  |  |
 | `ui_072.csv` | ui | 498 | 14,984 | Gift[s] of the Ursus |  |  |
 | `ui_073.csv` | ui | 500 | 19,052 | Gold Rank Chest |  |  |
-| `ui_074.csv` | ui | 493 | 44,398 | Green Mine |  |  |
+| `ui_074.csv` | ui | 493 | 44,398 | Green Mine | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_075.csv` | ui | 492 | 25,067 | Guild Recruitment |  |  |
 | `ui_076.csv` | ui | 497 | 29,168 | Hatched Chili Pepper Home Instance Node[pl:"N |  |  |
 | `ui_077.csv` | ui | 494 | 28,542 | Help collect dwarven artifacts. |  |  |
@@ -297,7 +297,7 @@
 | `ui_154.csv` | ui | 497 | 20,571 | Tray[s] of Rosemary Bread |  |  |
 | `ui_155.csv` | ui | 498 | 23,796 | Tyrian Fishing Reward[s] |  |  |
 | `ui_156.csv` | ui | 499 | 38,985 | Unlock the skin for Spearmarshal's Vambraces  |  |  |
-| `ui_157.csv` | ui | 494 | 41,867 | Use the Dwarven Spell Trap after gathering th |  |  |
+| `ui_157.csv` | ui | 494 | 41,867 | Use the Dwarven Spell Trap after gathering th | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_158.csv` | ui | 499 | 16,129 | Vault Transport[s] |  |  |
 | `ui_159.csv` | ui | 500 | 21,175 | Violent Outburst |  |  |
 | `ui_160.csv` | ui | 500 | 18,185 | Wanted: Morg |  |  |
