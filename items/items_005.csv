@@ -1,666 +1,869 @@
 english,translate
-"<c=@flavor>The inscription on the inside reads: ""Because the Cap said so.""</c>",
-"<c=@flavor>The inscription reads ""In Commemoration Of The Krognars Pass Moot.""</c>",
-<c=@flavor>The insect inside this vessel glows brightly.</c>,
-<c=@flavor>The jotun have many secrets. This is but one.</c>,
-<c=@flavor>The karka have mysterious biological properties.</c>,
+"<c=@flavor>The inscription on the inside reads: ""Because the Cap said so.""</c>",<c=@flavor>Надпись изнутри гласит: «Потому что Кэп так сказал».</c>
+"<c=@flavor>The inscription reads ""In Commemoration Of The Krognars Pass Moot.""</c>",<c=@flavor>Надпись гласит: «В память о Слёте у перевала Крогнарс».</c>
+<c=@flavor>The insect inside this vessel glows brightly.</c>,<c=@flavor>Насекомое внутри этого сосуда ярко светится.</c>
+<c=@flavor>The jotun have many secrets. This is but one.</c>,<c=@flavor>У йотунов много секретов. Это лишь один из них.</c>
+<c=@flavor>The karka have mysterious biological properties.</c>,<c=@flavor>У карка загадочные биологические свойства.</c>
 "<c=@flavor>The karka have mysterious biological properties.</c>
-Can be upgraded in the Mystic Forge.",
-"<c=@flavor>The label reads: ""Danger."" It hums pleasantly.</c>",
-<c=@flavor>The largest pink diamond in all of Tyria.</c>,
-"<c=@flavor>The legendary beauty who captured the heart of Prince Rurik, only to perish in the Searing of Ascalon.</c>",
-<c=@flavor>The legendary chef gave these to his finest students.</c>,
-<c=@flavor>The Lionguard approve of your efforts in battle.</c>,
-"<c=@flavor>The locket contains a picture of Kolijn Johansson, Trade Administrator of Hoelbrak.</c>",
-<c=@flavor>The mark of the White Mantle is still visible on the badge's dented face.</c>,
-<c=@flavor>The Morgatl hylek harvest these glands to coat their darts in its poison.<c>,
-"<c=@flavor>The next generation of cultivated seed produced by your own hand. To cultivate this new specimen to be even better than the last, plant it in a Mists Infused Clay Pot to germinate.</c>",
+Can be upgraded in the Mystic Forge.","<c=@flavor>У карка загадочные биологические свойства.</c>
+Можно улучшить в Мистической кузне."
+"<c=@flavor>The label reads: ""Danger."" It hums pleasantly.</c>",<c=@flavor>На ярлыке написано: «Опасно». Оно приятно гудит.</c>
+<c=@flavor>The largest pink diamond in all of Tyria.</c>,<c=@flavor>Крупнейший розовый бриллиант во всей Тирии.</c>
+"<c=@flavor>The legendary beauty who captured the heart of Prince Rurik, only to perish in the Searing of Ascalon.</c>","<c=@flavor>Легендарная красавица, покорившая сердце принца Рурика и погибшая в Опалении Аскалона.</c>"
+<c=@flavor>The legendary chef gave these to his finest students.</c>,<c=@flavor>Легендарный повар вручал их лучшим своим ученикам.</c>
+<c=@flavor>The Lionguard approve of your efforts in battle.</c>,<c=@flavor>Львиная стража одобряет твои ратные труды.</c>
+"<c=@flavor>The locket contains a picture of Kolijn Johansson, Trade Administrator of Hoelbrak.</c>","<c=@flavor>В медальоне портрет Колейн Йоханссон, торгового управляющего Хоэльбрака.</c>"
+<c=@flavor>The mark of the White Mantle is still visible on the badge's dented face.</c>,<c=@flavor>На помятой поверхности значка всё ещё различим знак Белой Мантии.</c>
+<c=@flavor>The Morgatl hylek harvest these glands to coat their darts in its poison.<c>,"<c=@flavor>Хилеки Моргатл собирают эти железы, чтобы смазывать их ядом свои дротики.<c>"
+"<c=@flavor>The next generation of cultivated seed produced by your own hand. To cultivate this new specimen to be even better than the last, plant it in a Mists Infused Clay Pot to germinate.</c>","<c=@flavor>Следующее поколение выращенного тобой семени. Чтобы этот новый образец вышел ещё лучше прежнего, посадите его в глиняный горшок, напитанный Туманами.</c>"
 "<c=@flavor>The only words visible are: ""Talk time dark snow.""
-—Mensorr</c>",
-"<c=@flavor>The Pale Tree Pilsner was inspired by the Pale Tree herself. This brew is a light, crystal-clear brew, perfect for springtime. The hops provide a perfect balance with the other robust flavors found in this brew.</c>",
-<c=@flavor>The penitent shall bear the weight of their sins.</c>,
-<c=@flavor>The reinforced barrel means larger grain loads can be used.</c>,
-<c=@Flavor>The remaining pieces are nowhere to be found.</c>,
-<c=@flavor>The roar that chills the blood.</c>,
-<c=@flavor>The rod vibrates when it encounters magical resonance.</c>,
-<c=@Flavor>The same hands that make the pattern also unmake it.</c>,
+—Mensorr</c>","<c=@flavor>Единственные различимые слова: «Говорить время тёмный снег».
+—Менсорр</c>"
+"<c=@flavor>The Pale Tree Pilsner was inspired by the Pale Tree herself. This brew is a light, crystal-clear brew, perfect for springtime. The hops provide a perfect balance with the other robust flavors found in this brew.</c>","<c=@flavor>«Пильзнер Бледного Древа» вдохновлён самим Бледным Древом. Это лёгкий, кристально прозрачный напиток, идеальный для весны. Хмель прекрасно уравновешивает прочие насыщенные ноты этого пива.</c>"
+<c=@flavor>The penitent shall bear the weight of their sins.</c>,<c=@flavor>Кающийся понесёт тяжесть своих грехов.</c>
+<c=@flavor>The reinforced barrel means larger grain loads can be used.</c>,<c=@flavor>Усиленный ствол позволяет использовать более крупные заряды пороха.</c>
+<c=@Flavor>The remaining pieces are nowhere to be found.</c>,<c=@Flavor>Оставшихся частей нигде не найти.</c>
+<c=@flavor>The roar that chills the blood.</c>,"<c=@flavor>Рёв, от которого стынет кровь.</c>"
+<c=@flavor>The rod vibrates when it encounters magical resonance.</c>,"<c=@flavor>Жезл вибрирует, встречая магический резонанс.</c>"
+<c=@Flavor>The same hands that make the pattern also unmake it.</c>,"<c=@Flavor>Те же руки, что творят узор, его и разрушают.</c>"
 "<c=@flavor>The scavenger birds of the Mad Realm sang sweetly to welcome their king.</c>
 
-Double-click to summon this mini to follow you around. Only one mini may be in use at a time.",
-<c=@flavor>The scourge of woodland creatures.</c>,
-<c=@flavor>The seasons end with the advent of winter.</c>,
-"<c=@Flavor>The secret to this honeywine is now only known to the dead. Luckily, they're still working.</c>",
-<c=@flavor>The shape of the moon is formed by gifted light.</c>,
-<c=@flavor>The smell of leather and wood wafts off this quiver designed by Rox.</c>,
-<c=@flavor>The soft wind of dawn.</c>,
-<c=@Flavor>The spices mix with the ground Jacaranda Bloom to provide a hypnotizing aroma.</c>,
-<c=@flavor>The spikes are carefully worked to point outward.</c>,
+Double-click to summon this mini to follow you around. Only one mini may be in use at a time.","<c=@flavor>Птицы-падальщики Безумного Царства сладко пели, приветствуя своего короля.</c>
+
+Дважды щёлкните, чтобы призвать эту миниатюру следовать за вами. Одновременно можно использовать только одну миниатюру."
+<c=@flavor>The scourge of woodland creatures.</c>,<c=@flavor>Бич лесного зверья.</c>
+<c=@flavor>The seasons end with the advent of winter.</c>,<c=@flavor>Времена года кончаются с приходом зимы.</c>
+"<c=@Flavor>The secret to this honeywine is now only known to the dead. Luckily, they're still working.</c>","<c=@Flavor>Секрет этой медовухи теперь известен лишь мёртвым. К счастью, они всё ещё работают.</c>"
+<c=@flavor>The shape of the moon is formed by gifted light.</c>,<c=@flavor>Облик луны выточен дарованным светом.</c>
+<c=@flavor>The smell of leather and wood wafts off this quiver designed by Rox.</c>,"<c=@flavor>От этого колчана, придуманного Рокс, веет кожей и деревом.</c>"
+<c=@flavor>The soft wind of dawn.</c>,<c=@flavor>Мягкий ветер рассвета.</c>
+<c=@Flavor>The spices mix with the ground Jacaranda Bloom to provide a hypnotizing aroma.</c>,"<c=@Flavor>Специи смешиваются с молотым цветом жакаранды, даря гипнотический аромат.</c>"
+<c=@flavor>The spikes are carefully worked to point outward.</c>,<c=@flavor>Шипы тщательно отогнуты остриями наружу.</c>
 "<c=@flavor>The sugar in this candy will go straight to your head.</c>
-Consuming this item leaves a shiny foil candy wrapper, which is highly prized by skritt.",
-"<c=@flavor>The symbol of Koda: a serrated oval, reminiscent of the jaws of a bear.</c>",
-<c=@flavor>The tiny dust mite inside shows no signs of slowing.</c>,
-<c=@flavor>The tools of craft become a new tool.</c>,
-<c=@flavor>The tooth is large and dangerous.</c>,
-<c=@flavor>The tyrant's smile remained even as the pitchforks found their mark.</c>,
-<c=@flavor>The warm wind of midday.</c>,
-<c=@flavor>The wind and waves return even stone to dust.</c>,
-<c=@flavor>The wing feels almost alive and tingles with a feeling that reminds you of the Mystic Forge.</c>,
-<c=@flavor>The wing tingles with a feeling that reminds you of the Mystic Forge.</c>,
-<c=@flavor>There are shallow claw marks on this coat.</c>,
-<c=@flavor>There's more to a festival than candy—there's also cake.</c>,
-<c=@flavor>There's no trick—this is a lot of treats! Double-click to open all of them in a sugar-induced frenzy.</c>,
-<c=@Flavor>These boots override leg armor.</c>,
-<c=@flavor>These fell out of use in the chaos following the raising of Orr.</c>,
-<c=@Flavor>These gleaming metal scales earned their nickname because they are flexible but remain true and whole under great strain.</c>,
-<c=@flavor>These gloves were made for stealth.</c>,
-<c=@flavor>These tags are issued to every canine service member.</c>,
-"<c=@flavor>These undeveloped eggs were supposedly found in the lair of Glint, the dragon oracle.</c>",
-<c=@flavor>They burn with the fire of a forgotten god.</c>,
+Consuming this item leaves a shiny foil candy wrapper, which is highly prized by skritt.","<c=@flavor>Сахар в этой конфете ударит прямо в голову.</c>
+После того как предмет съеден, остаётся блестящая фольговая обёртка, которую очень ценят скритты."
+"<c=@flavor>The symbol of Koda: a serrated oval, reminiscent of the jaws of a bear.</c>","<c=@flavor>Символ Коды: зазубренный овал, напоминающий медвежьи челюсти.</c>"
+<c=@flavor>The tiny dust mite inside shows no signs of slowing.</c>,<c=@flavor>Крошечный пылевой клещ внутри и не думает сбавлять ход.</c>
+<c=@flavor>The tools of craft become a new tool.</c>,<c=@flavor>Орудия ремесла становятся новым орудием.</c>
+<c=@flavor>The tooth is large and dangerous.</c>,<c=@flavor>Зуб большой и опасный.</c>
+<c=@flavor>The tyrant's smile remained even as the pitchforks found their mark.</c>,"<c=@flavor>Улыбка тирана не сошла с лица, даже когда вилы нашли свою цель.</c>"
+<c=@flavor>The warm wind of midday.</c>,<c=@flavor>Тёплый ветер полудня.</c>
+<c=@flavor>The wind and waves return even stone to dust.</c>,<c=@flavor>Ветер и волны обращают в пыль даже камень.</c>
+<c=@flavor>The wing feels almost alive and tingles with a feeling that reminds you of the Mystic Forge.</c>,"<c=@flavor>Крыло кажется почти живым и покалывает ощущением, что напоминает Мистическую кузню.</c>"
+<c=@flavor>The wing tingles with a feeling that reminds you of the Mystic Forge.</c>,"<c=@flavor>Крыло покалывает ощущением, что напоминает Мистическую кузню.</c>"
+<c=@flavor>There are shallow claw marks on this coat.</c>,<c=@flavor>На этой куртке остались неглубокие следы когтей.</c>
+<c=@flavor>There's more to a festival than candy—there's also cake.</c>,"<c=@flavor>Праздник — это не только сладости, но ещё и торт.</c>"
+<c=@flavor>There's no trick—this is a lot of treats! Double-click to open all of them in a sugar-induced frenzy.</c>,"<c=@flavor>Никаких шуток — это гора угощений! Дважды щёлкните, чтобы вскрыть их все в сахарном угаре.</c>"
+<c=@Flavor>These boots override leg armor.</c>,<c=@Flavor>Эти сапоги перекрывают отображение ножной брони.</c>
+<c=@flavor>These fell out of use in the chaos following the raising of Orr.</c>,<c=@flavor>Они вышли из употребления в хаосе после поднятия Орра.</c>
+<c=@Flavor>These gleaming metal scales earned their nickname because they are flexible but remain true and whole under great strain.</c>,"<c=@Flavor>Эти блестящие металлические чешуйки заслужили своё прозвище тем, что гибки, но под большой нагрузкой остаются целыми и верными форме.</c>"
+<c=@flavor>These gloves were made for stealth.</c>,<c=@flavor>Эти перчатки сделаны для скрытности.</c>
+<c=@flavor>These tags are issued to every canine service member.</c>,<c=@flavor>Такие жетоны выдают каждому служебному псу.</c>
+"<c=@flavor>These undeveloped eggs were supposedly found in the lair of Glint, the dragon oracle.</c>","<c=@flavor>Эти неразвившиеся яйца, по преданию, нашли в логове Глинт, драконьей прорицательницы.</c>"
+<c=@flavor>They burn with the fire of a forgotten god.</c>,<c=@flavor>Они горят огнём забытого бога.</c>
 "<c=@flavor>This accessory is used to craft the legendary accessory Stella Radians.
 
 Combine this item in the Mystic Forge with:
 • 1 Gift of Galdra
 • 1 Gift of Shadowstones
-• 1 Mystic Tribute</c>",
+• 1 Mystic Tribute</c>","<c=@flavor>Этот аксессуар используется для создания легендарного аксессуара «Stella Radians».
+
+Соедините этот предмет в Мистической кузне с:
+• 1 Gift of Galdra
+• 1 Gift of Shadowstones
+• 1 Mystic Tribute</c>"
 "<c=@flavor>This amulet appears to have a minor dampening effect on the Destroyers, and it is always strangely cool to the touch.
-—Researcher Twilli</c>",
-<c=@flavor>This armor attempts to channel the power of the envoys.</c>,
-<c=@flavor>This armor exudes the magical energy of the Vale Guardian.</c>,
-<c=@flavor>This back item is used for crafting Janthir Wilds legendaries. Remnants can be purchased from renown heart vendors in Lowland Shore.</c>,
-<c=@flavor>This back item is used for crafting Janthir Wilds legendaries. Remnants can be purchased from the renown heart vendor in Mistburned Barrens. </c>,
-<c=@flavor>This back item is used for crafting Janthir Wilds legendaries. Remnants can be purchased from Ward Trader Sampaguita in Bava Nisos.</c>,
-<c=@flavor>This badge deputizes the bearer as a Consortium Troubleshooter (Unpaid) for purposes of fractal stabilization.</c>,
-"<c=@flavor>This badge is in inscribed with the words: ""Honorary member of the Crush warband. Mightiest in the fahrar!""</c>",
-<c=@flavor>This badge signifies a defender of the Moon Fortress at Gandara.</c>,
-<c=@flavor>This book has shared much time with its companion.</c>,
-<c=@flavor>This book hums as you flip through its pages.</c>,
-"<c=@flavor>This card is very rare, and prized: it symbolizes wisdom, courage, deep connections to the past and future, and rebirth.</c>",
-"<c=@flavor>This card symbolizes power—destructive, corrupting, elusive, and yet everywhere.</c>",
-<c=@flavor>This choker is rumored to provide protection against the deadly Scarab Plague.</c>,
-<c=@flavor>This container crackles ominously. Double-click to choose an account-bound reward.</c>,
-<c=@flavor>This cypher might open a secret locked box.</c>,
-<c=@flavor>This deactivated jetpack is the height of Tyrian fashion.</c>,
-<c=@flavor>This device might help gain access to some secret place.</c>,
-"<c=@flavor>This document details a standing, but not permanent, end to charr hostilities against the humans.</c>",
-<c=@flavor>This ensemble is only missing a parrot.</c>,
-<c=@flavor>This feather is said to have fallen from the spirit of Owl before being destroyed by Jormag.</c>,
-<c=@flavor>This hand-carved figurine bears a crude resemblance to a norn.</c>,
-<c=@flavor>This helmet is used for crafting Janthir Wilds legendary items. Additional copies can be purchased in the near future.</c>,
-"<c=@flavor>This is a copy of the declaration of cease-fire between humans and charr, putting a pause on a war that has lasted for generations.</c>",
-"<c=@flavor>This item is scored with a deep, sharp gash and is off-set by images of water and the sky.</c>",
-<c=@flavor>This Lunar New Year brings a resolution...of romance.</c>,
-"<c=@flavor>This mash of meaty, semi-toxic ingredients needs just a few more things to be the kind of food needed to calm a wild carnivorous plant.<c>",
-<c=@flavor>This mask is worn by elite members of Confessor Beetlestone's guard. Equipping does not guarantee acceptance in White Mantle cliques.</c>,
-<c=@flavor>This must have once belonged to a victim of a largos assassin.</c>,
-<c=@flavor>This mysterious band could only be shaped by the chaotic energies of the Mists.</c>,
-<c=@flavor>This mysterious seed appears to be dormant.</c>,
-<c=@flavor>This object bears Owl's visage and is also slightly singed.</c>,
-<c=@flavor>This pendant numbs your fingers when you touch it.</c>,
-<c=@flavor>This pendant was used to identify high-ranking military officers before the Kournan province fell to Palawa Joko.</c>,
-<c=@flavor>This piece is elaborate in ways not seen in modern jewelry design.</c>,
-<c=@flavor>This piece of rubble retains some of Xera's magic.</c>,
-<c=@flavor>This pile of mangled trash looks rather conspicuous.</c>,
-<c=@flavor>This rare flower grows in the deep jungle.</c>,
-<c=@flavor>This recording shows skritt engaging in some questionable behavior.</c>,
-<c=@flavor>This relic of long-forgotten Cantha contains air captured from the Jade Winds.</c>,
-<c=@flavor>This ring is claimed to have once belonged to the Ossa family.</c>,
-<c=@flavor>This ring vibrates with the power of the Vale Guardian.</c>,
-<c=@flavor>This scroll describes some practices of the ancient druids.</c>,
-<c=@flavor>This shell keeps quaggan safe in dangerous waters.</c>,
-<c=@flavor>This spoon commemorates the first silverware produced by the fine folk of First Haven.</c>,
-<c=@flavor>This totem features a relief of the fabled norn hero Jora.</c>,
-<c=@flavor>This totem is carved with inscriptions depicting the Hylek sun god.</c>,
-<c=@flavor>This trinket grows hotter when in proximity to destroyers.</c>,
-<c=@flavor>This trinket is used to craft the legendary accessory Aurora.</c>,
-<c=@flavor>This trinket is used to craft the legendary accessory Vision.</c>,
-<c=@flavor>This tube is a collection of reactive energies that have taken on a liquid form and could create a violent reaction if mixed with the right alchemical reactants.<c>,
-<c=@flavor>This tube is created from alchemical reactants and provides a violent reaction when mixed correctly with Transcendent Energy.<c>,
-<c=@flavor>This unlabeled bottle has a disturbingly murky and thick liquid in it.</c>,
-"<c=@flavor>This used to be a pet for a skritt. A lonely, lonely skritt.</c>",
-"<c=@flavor>This vine that you cultivated from seed, seems to almost like you. Is it possible that it is loyal to you as a child is to a parent?</c>",
-"<c=@flavor>This vine, while appearing to be touched by Mordremoth, has been grown from seed under the good influence of a hero of Tyria.<c>",
-"<c=@flavor>This weapon is deactivated, but still possesses an explosive core. Do not drop.</c>",
-<c=@flavor>This weapon is used to craft the legendary axe Astralaria.</c>,
+—Researcher Twilli</c>","<c=@flavor>Этот амулет, похоже, слегка подавляет разрушителей и всегда странно прохладен на ощупь.
+—Исследователь Твилли</c>"
+<c=@flavor>This armor attempts to channel the power of the envoys.</c>,<c=@flavor>Эта броня пытается направлять силу посланников.</c>
+<c=@flavor>This armor exudes the magical energy of the Vale Guardian.</c>,<c=@flavor>Эта броня источает магическую энергию Долинного Стража.</c>
+<c=@flavor>This back item is used for crafting Janthir Wilds legendaries. Remnants can be purchased from renown heart vendors in Lowland Shore.</c>,<c=@flavor>Этот наспинный предмет используется при создании легендарок «Дебрей Джантира». Остатки можно купить у торговцев сердец почёта в Низинном Береге.</c>
+<c=@flavor>This back item is used for crafting Janthir Wilds legendaries. Remnants can be purchased from the renown heart vendor in Mistburned Barrens. </c>,<c=@flavor>Этот наспинный предмет используется при создании легендарок «Дебрей Джантира». Остатки можно купить у торговца сердца почёта в Туманно-выжженных пустошах. </c>
+<c=@flavor>This back item is used for crafting Janthir Wilds legendaries. Remnants can be purchased from Ward Trader Sampaguita in Bava Nisos.</c>,<c=@flavor>Этот наспинный предмет используется при создании легендарок «Дебрей Джантира». Остатки можно купить у торговки оберегов Сампагиты в Бава-Нисосе.</c>
+<c=@flavor>This badge deputizes the bearer as a Consortium Troubleshooter (Unpaid) for purposes of fractal stabilization.</c>,<c=@flavor>Этот значок наделяет носителя полномочиями устранителя неполадок Консорциума (без оплаты) для целей стабилизации фракталов.</c>
+"<c=@flavor>This badge is in inscribed with the words: ""Honorary member of the Crush warband. Mightiest in the fahrar!""</c>",<c=@flavor>На значке выгравировано: «Почётный член боевого отряда Дави. Могущественнейший в фахраре!»</c>
+<c=@flavor>This badge signifies a defender of the Moon Fortress at Gandara.</c>,<c=@flavor>Этот значок отмечает защитника Лунной крепости в Гандаре.</c>
+<c=@flavor>This book has shared much time with its companion.</c>,<c=@flavor>Эта книга провела немало времени со своей спутницей.</c>
+<c=@flavor>This book hums as you flip through its pages.</c>,"<c=@flavor>Книга гудит, пока ты листаешь её страницы.</c>"
+"<c=@flavor>This card is very rare, and prized: it symbolizes wisdom, courage, deep connections to the past and future, and rebirth.</c>","<c=@flavor>Эта карта очень редка и ценна: она символизирует мудрость, отвагу, глубокую связь с прошлым и будущим, а также перерождение.</c>"
+"<c=@flavor>This card symbolizes power—destructive, corrupting, elusive, and yet everywhere.</c>","<c=@flavor>Эта карта символизирует силу — разрушительную, растлевающую, неуловимую и при этом вездесущую.</c>"
+<c=@flavor>This choker is rumored to provide protection against the deadly Scarab Plague.</c>,"<c=@flavor>По слухам, этот чокер защищает от смертоносной Чумы скарабеев.</c>"
+<c=@flavor>This container crackles ominously. Double-click to choose an account-bound reward.</c>,"<c=@flavor>Этот контейнер зловеще потрескивает. Дважды щёлкните, чтобы выбрать награду, привязанную к учётной записи.</c>"
+<c=@flavor>This cypher might open a secret locked box.</c>,<c=@flavor>Этот шифр может открыть тайный запертый ящик.</c>
+<c=@flavor>This deactivated jetpack is the height of Tyrian fashion.</c>,<c=@flavor>Этот отключённый реактивный ранец — вершина тирийской моды.</c>
+<c=@flavor>This device might help gain access to some secret place.</c>,<c=@flavor>Это устройство может помочь попасть в некое тайное место.</c>
+"<c=@flavor>This document details a standing, but not permanent, end to charr hostilities against the humans.</c>","<c=@flavor>В этом документе изложено длительное, но не окончательное прекращение враждебных действий чарров против людей.</c>"
+<c=@flavor>This ensemble is only missing a parrot.</c>,<c=@flavor>Этому наряду не хватает только попугая.</c>
+<c=@flavor>This feather is said to have fallen from the spirit of Owl before being destroyed by Jormag.</c>,"<c=@flavor>Говорят, это перо выпало у духа Совы прежде, чем её уничтожил Джормаг.</c>"
+<c=@flavor>This hand-carved figurine bears a crude resemblance to a norn.</c>,<c=@flavor>Эта фигурка ручной резьбы грубо напоминает норна.</c>
+<c=@flavor>This helmet is used for crafting Janthir Wilds legendary items. Additional copies can be purchased in the near future.</c>,<c=@flavor>Этот шлем используется при создании легендарных предметов «Дебрей Джантира». Дополнительные экземпляры можно будет купить в ближайшем будущем.</c>
+"<c=@flavor>This is a copy of the declaration of cease-fire between humans and charr, putting a pause on a war that has lasted for generations.</c>","<c=@flavor>Это копия декларации о прекращении огня между людьми и чаррами, приостановившей войну, что длилась поколениями.</c>"
+"<c=@flavor>This item is scored with a deep, sharp gash and is off-set by images of water and the sky.</c>","<c=@flavor>Этот предмет прорезан глубоким острым рубцом, который оттеняют изображения воды и неба.</c>"
+<c=@flavor>This Lunar New Year brings a resolution...of romance.</c>,<c=@flavor>Этот Лунный новый год приносит решение... завести роман.</c>
+"<c=@flavor>This mash of meaty, semi-toxic ingredients needs just a few more things to be the kind of food needed to calm a wild carnivorous plant.<c>","<c=@flavor>Этому месиву из мясистых, полутоксичных ингредиентов не хватает пары мелочей, чтобы стать той едой, какой можно унять дикое хищное растение.<c>"
+<c=@flavor>This mask is worn by elite members of Confessor Beetlestone's guard. Equipping does not guarantee acceptance in White Mantle cliques.</c>,<c=@flavor>Эту маску носят элитные бойцы стражи исповедника Битлстоуна. Ношение не гарантирует приёма в круги Белой Мантии.</c>
+<c=@flavor>This must have once belonged to a victim of a largos assassin.</c>,"<c=@flavor>Должно быть, это принадлежало жертве убийцы-ларгоса.</c>"
+<c=@flavor>This mysterious band could only be shaped by the chaotic energies of the Mists.</c>,<c=@flavor>Это загадочное кольцо могло быть выковано лишь хаотическими энергиями Туманов.</c>
+<c=@flavor>This mysterious seed appears to be dormant.</c>,"<c=@flavor>Это загадочное семя, похоже, спит.</c>"
+<c=@flavor>This object bears Owl's visage and is also slightly singed.</c>,"<c=@flavor>На этом предмете лик Совы, и он слегка обуглен.</c>"
+<c=@flavor>This pendant numbs your fingers when you touch it.</c>,<c=@flavor>От прикосновения к этой подвеске немеют пальцы.</c>
+<c=@flavor>This pendant was used to identify high-ranking military officers before the Kournan province fell to Palawa Joko.</c>,"<c=@flavor>По этой подвеске опознавали высших офицеров, пока провинция Курна не пала перед Палавой Джоко.</c>"
+<c=@flavor>This piece is elaborate in ways not seen in modern jewelry design.</c>,"<c=@flavor>Эта вещь затейлива так, как уже не встретишь в современном ювелирном деле.</c>"
+<c=@flavor>This piece of rubble retains some of Xera's magic.</c>,<c=@flavor>В этом обломке сохранилась часть магии Ксеры.</c>
+<c=@flavor>This pile of mangled trash looks rather conspicuous.</c>,<c=@flavor>Эта груда искорёженного хлама выглядит довольно приметно.</c>
+<c=@flavor>This rare flower grows in the deep jungle.</c>,<c=@flavor>Этот редкий цветок растёт в глубине джунглей.</c>
+<c=@flavor>This recording shows skritt engaging in some questionable behavior.</c>,<c=@flavor>На этой записи скритты заняты чем-то весьма сомнительным.</c>
+<c=@flavor>This relic of long-forgotten Cantha contains air captured from the Jade Winds.</c>,"<c=@flavor>В этой реликвии давно забытой Канты заключён воздух, пойманный Нефритовыми Ветрами.</c>"
+<c=@flavor>This ring is claimed to have once belonged to the Ossa family.</c>,"<c=@flavor>Утверждают, что это кольцо некогда принадлежало семье Осса.</c>"
+<c=@flavor>This ring vibrates with the power of the Vale Guardian.</c>,<c=@flavor>Это кольцо дрожит от силы Долинного Стража.</c>
+<c=@flavor>This scroll describes some practices of the ancient druids.</c>,<c=@flavor>В этом свитке описаны некоторые обряды древних друидов.</c>
+<c=@flavor>This shell keeps quaggan safe in dangerous waters.</c>,<c=@flavor>Эта раковина хранит куаггана в опасных водах.</c>
+<c=@flavor>This spoon commemorates the first silverware produced by the fine folk of First Haven.</c>,"<c=@flavor>Эта ложка увековечивает первое столовое серебро, изготовленное добрым народом Первой Гавани.</c>"
+<c=@flavor>This totem features a relief of the fabled norn hero Jora.</c>,<c=@flavor>На этом тотеме — рельеф легендарной героини-норна Джоры.</c>
+<c=@flavor>This totem is carved with inscriptions depicting the Hylek sun god.</c>,"<c=@flavor>Этот тотем покрыт резьбой, изображающей бога солнца хилеков.</c>"
+<c=@flavor>This trinket grows hotter when in proximity to destroyers.</c>,<c=@flavor>Эта безделушка нагревается вблизи разрушителей.</c>
+<c=@flavor>This trinket is used to craft the legendary accessory Aurora.</c>,<c=@flavor>Эта безделушка используется для создания легендарного аксессуара «Aurora».</c>
+<c=@flavor>This trinket is used to craft the legendary accessory Vision.</c>,<c=@flavor>Эта безделушка используется для создания легендарного аксессуара «Vision».</c>
+<c=@flavor>This tube is a collection of reactive energies that have taken on a liquid form and could create a violent reaction if mixed with the right alchemical reactants.<c>,"<c=@flavor>В этой пробирке собраны реактивные энергии, принявшие жидкую форму; при смешении с нужными алхимическими реагентами они могут дать бурную реакцию.<c>"
+<c=@flavor>This tube is created from alchemical reactants and provides a violent reaction when mixed correctly with Transcendent Energy.<c>,<c=@flavor>Эта пробирка создана из алхимических реагентов и при верном смешении с Трансцендентной энергией даёт бурную реакцию.<c>
+<c=@flavor>This unlabeled bottle has a disturbingly murky and thick liquid in it.</c>,<c=@flavor>В этой бутылке без ярлыка плещется тревожно мутная и густая жидкость.</c>
+"<c=@flavor>This used to be a pet for a skritt. A lonely, lonely skritt.</c>","<c=@flavor>Когда-то это было питомцем скритта. Очень, очень одинокого скритта.</c>"
+"<c=@flavor>This vine that you cultivated from seed, seems to almost like you. Is it possible that it is loyal to you as a child is to a parent?</c>","<c=@flavor>Похоже, эта лоза, выращенная тобой из семени, тебя даже любит. Возможно ли, что она предана тебе, как дитя родителю?</c>"
+"<c=@flavor>This vine, while appearing to be touched by Mordremoth, has been grown from seed under the good influence of a hero of Tyria.<c>","<c=@flavor>Эта лоза, хоть и кажется тронутой Мордремотом, выращена из семени под добрым влиянием героя Тирии.<c>"
+"<c=@flavor>This weapon is deactivated, but still possesses an explosive core. Do not drop.</c>","<c=@flavor>Это оружие отключено, но взрывное ядро в нём осталось. Не ронять.</c>"
+<c=@flavor>This weapon is used to craft the legendary axe Astralaria.</c>,<c=@flavor>Это оружие используется для создания легендарного топора «Astralaria».</c>
 "<c=@flavor>This weapon is used to craft the legendary axe Frostfang.
 
 Combine this weapon in the Mystic Forge with:
 • 1 Gift of Frostfang
 • 1 Gift of Mastery
-• 1 Gift of Fortune</c>",
-<c=@flavor>This weapon is used to craft the legendary dagger Claw of the Khan-Ur.</c>,
+• 1 Gift of Fortune</c>","<c=@flavor>Это оружие используется для создания легендарного топора «Frostfang».
+
+Соедините это оружие в Мистической кузне с:
+• 1 Gift of Frostfang
+• 1 Gift of Mastery
+• 1 Gift of Fortune</c>"
+<c=@flavor>This weapon is used to craft the legendary dagger Claw of the Khan-Ur.</c>,<c=@flavor>Это оружие используется для создания легендарного кинжала «Claw of the Khan-Ur».</c>
 "<c=@flavor>This weapon is used to craft the legendary dagger Incinerator.
 
 Combine this weapon in the Mystic Forge with:
 • 1 Gift of Incinerator
 • 1 Gift of Mastery
-• 1 Gift of Fortune</c>",
+• 1 Gift of Fortune</c>","<c=@flavor>Это оружие используется для создания легендарного кинжала «Incinerator».
+
+Соедините это оружие в Мистической кузне с:
+• 1 Gift of Incinerator
+• 1 Gift of Mastery
+• 1 Gift of Fortune</c>"
 "<c=@flavor>This weapon is used to craft the legendary focus The Minstrel.
 
 Combine this weapon in the Mystic Forge with:
 • 1 Gift of The Minstrel
 • 1 Gift of Mastery
-• 1 Gift of Fortune</c>",
-"<c=@flavor>This weapon is used to craft the legendary focus, the Binding of Ipos.</c>",
+• 1 Gift of Fortune</c>","<c=@flavor>Это оружие используется для создания легендарного фокуса «The Minstrel».
+
+Соедините это оружие в Мистической кузне с:
+• 1 Gift of The Minstrel
+• 1 Gift of Mastery
+• 1 Gift of Fortune</c>"
+"<c=@flavor>This weapon is used to craft the legendary focus, the Binding of Ipos.</c>",<c=@flavor>Это оружие используется для создания легендарного фокуса «Binding of Ipos».</c>
 "<c=@flavor>This weapon is used to craft the legendary greatsword Eternity by combining it in the Mystic Forge with:
 • Sunrise
 • 5 Piles of Crystalline Dust
-• 10 Philosopher's Stones</c>",
+• 10 Philosopher's Stones</c>","<c=@flavor>Это оружие используется для создания легендарного двуручного меча «Eternity» — соедините его в Мистической кузне с:
+• Sunrise
+• 5 Piles of Crystalline Dust
+• 10 Philosopher's Stones</c>"
 "<c=@flavor>This weapon is used to craft the legendary greatsword Eternity by combining it in the Mystic Forge with:
 • Twilight
 • 5 Piles of Crystalline Dust
-• 10 Philosopher's Stones</c>",
-<c=@flavor>This weapon is used to craft the legendary greatsword Exordium.</c>,
+• 10 Philosopher's Stones</c>","<c=@flavor>Это оружие используется для создания легендарного двуручного меча «Eternity» — соедините его в Мистической кузне с:
+• Twilight
+• 5 Piles of Crystalline Dust
+• 10 Philosopher's Stones</c>"
+<c=@flavor>This weapon is used to craft the legendary greatsword Exordium.</c>,<c=@flavor>Это оружие используется для создания легендарного двуручного меча «Exordium».</c>
 "<c=@flavor>This weapon is used to craft the legendary greatsword Sunrise.
 
 Combine this weapon in the Mystic Forge with:
 • 1 Gift of Sunrise
 • 1 Gift of Mastery
-• 1 Gift of Fortune</c>",
+• 1 Gift of Fortune</c>","<c=@flavor>Это оружие используется для создания легендарного двуручного меча «Sunrise».
+
+Соедините это оружие в Мистической кузне с:
+• 1 Gift of Sunrise
+• 1 Gift of Mastery
+• 1 Gift of Fortune</c>"
 "<c=@flavor>This weapon is used to craft the legendary greatsword Twilight.
 
 Combine this weapon in the Mystic Forge with:
 • 1 Gift of Twilight
 • 1 Gift of Mastery
-• 1 Gift of Fortune</c>",
-<c=@flavor>This weapon is used to craft the legendary hammer Sharur.</c>,
+• 1 Gift of Fortune</c>","<c=@flavor>Это оружие используется для создания легендарного двуручного меча «Twilight».
+
+Соедините это оружие в Мистической кузне с:
+• 1 Gift of Twilight
+• 1 Gift of Mastery
+• 1 Gift of Fortune</c>"
+<c=@flavor>This weapon is used to craft the legendary hammer Sharur.</c>,<c=@flavor>Это оружие используется для создания легендарного молота «Sharur».</c>
 "<c=@flavor>This weapon is used to craft the legendary hammer The Juggernaut.
 
 Combine this weapon in the Mystic Forge with:
 • 1 Gift of The Juggernaut
 • 1 Gift of Mastery
-• 1 Gift of Fortune</c>",
+• 1 Gift of Fortune</c>","<c=@flavor>Это оружие используется для создания легендарного молота «The Juggernaut».
+
+Соедините это оружие в Мистической кузне с:
+• 1 Gift of The Juggernaut
+• 1 Gift of Mastery
+• 1 Gift of Fortune</c>"
 "<c=@flavor>This weapon is used to craft the legendary harpoon gun Frenzy.
 
 Combine this weapon in the Mystic Forge with:
 • 1 Gift of Frenzy
 • 1 Gift of Mastery
-• 1 Gift of Fortune</c>",
+• 1 Gift of Fortune</c>","<c=@flavor>Это оружие используется для создания легендарного гарпунного ружья «Frenzy».
+
+Соедините это оружие в Мистической кузне с:
+• 1 Gift of Frenzy
+• 1 Gift of Mastery
+• 1 Gift of Fortune</c>"
 "<c=@flavor>This weapon is used to craft the legendary longbow Kudzu.
 
 Combine this weapon in the Mystic Forge with:
 • 1 Gift of Kudzu
 • 1 Gift of Mastery
-• 1 Gift of Fortune</c>",
-<c=@flavor>This weapon is used to craft the legendary longbow Pharus.</c>,
-<c=@flavor>This weapon is used to craft the legendary mace Eureka.</c>,
+• 1 Gift of Fortune</c>","<c=@flavor>Это оружие используется для создания легендарного длинного лука «Kudzu».
+
+Соедините это оружие в Мистической кузне с:
+• 1 Gift of Kudzu
+• 1 Gift of Mastery
+• 1 Gift of Fortune</c>"
+<c=@flavor>This weapon is used to craft the legendary longbow Pharus.</c>,<c=@flavor>Это оружие используется для создания легендарного длинного лука «Pharus».</c>
+<c=@flavor>This weapon is used to craft the legendary mace Eureka.</c>,<c=@flavor>Это оружие используется для создания легендарной булавы «Eureka».</c>
 "<c=@flavor>This weapon is used to craft the legendary mace The Moot.
 
 Combine this weapon in the Mystic Forge with:
 • 1 Gift of The Moot
 • 1 Gift of Mastery
-• 1 Gift of Fortune</c>",
-<c=@flavor>This weapon is used to craft the legendary pistol HOPE.</c>,
+• 1 Gift of Fortune</c>","<c=@flavor>Это оружие используется для создания легендарной булавы «The Moot».
+
+Соедините это оружие в Мистической кузне с:
+• 1 Gift of The Moot
+• 1 Gift of Mastery
+• 1 Gift of Fortune</c>"
+<c=@flavor>This weapon is used to craft the legendary pistol HOPE.</c>,<c=@flavor>Это оружие используется для создания легендарного пистолета «HOPE».</c>
 "<c=@flavor>This weapon is used to craft the legendary pistol Quip.
 
 Combine this weapon in the Mystic Forge with:
 • 1 Gift of Quip
 • 1 Gift of Mastery
-• 1 Gift of Fortune</c>",
-<c=@flavor>This weapon is used to craft the legendary rifle the HMS Divinity.</c>,
+• 1 Gift of Fortune</c>","<c=@flavor>Это оружие используется для создания легендарного пистолета «Quip».
+
+Соедините это оружие в Мистической кузне с:
+• 1 Gift of Quip
+• 1 Gift of Mastery
+• 1 Gift of Fortune</c>"
+<c=@flavor>This weapon is used to craft the legendary rifle the HMS Divinity.</c>,<c=@flavor>Это оружие используется для создания легендарного ружья «HMS Divinity».</c>
 "<c=@flavor>This weapon is used to craft the legendary rifle The Predator.
 
 Combine this weapon in the Mystic Forge with:
 • 1 Gift of The Predator
 • 1 Gift of Mastery
-• 1 Gift of Fortune</c>",
+• 1 Gift of Fortune</c>","<c=@flavor>Это оружие используется для создания легендарного ружья «The Predator».
+
+Соедините это оружие в Мистической кузне с:
+• 1 Gift of The Predator
+• 1 Gift of Mastery
+• 1 Gift of Fortune</c>"
 "<c=@flavor>This weapon is used to craft the legendary scepter Meteorlogicus.
 
 Combine this weapon in the Mystic Forge with:
 • 1 Gift of Meteorlogicus
 • 1 Gift of Mastery
-• 1 Gift of Fortune</c>",
-<c=@flavor>This weapon is used to craft the legendary scepter Xiuquatl.</c>,
-<c=@flavor>This weapon is used to craft the legendary shield Shooshadoo.</c>,
+• 1 Gift of Fortune</c>","<c=@flavor>Это оружие используется для создания легендарного скипетра «Meteorlogicus».
+
+Соедините это оружие в Мистической кузне с:
+• 1 Gift of Meteorlogicus
+• 1 Gift of Mastery
+• 1 Gift of Fortune</c>"
+<c=@flavor>This weapon is used to craft the legendary scepter Xiuquatl.</c>,<c=@flavor>Это оружие используется для создания легендарного скипетра «Xiuquatl».</c>
+<c=@flavor>This weapon is used to craft the legendary shield Shooshadoo.</c>,<c=@flavor>Это оружие используется для создания легендарного щита «Shooshadoo».</c>
 "<c=@flavor>This weapon is used to craft the legendary shield The Flameseeker Prophecies.
 
 Combine this weapon in the Mystic Forge with:
 • 1 Gift of The Flameseeker Prophecies
 • 1 Gift of Mastery
-• 1 Gift of Fortune</c>",
-<c=@flavor>This weapon is used to craft the legendary short bow Chuka and Champawat.</c>,
+• 1 Gift of Fortune</c>","<c=@flavor>Это оружие используется для создания легендарного щита «The Flameseeker Prophecies».
+
+Соедините это оружие в Мистической кузне с:
+• 1 Gift of The Flameseeker Prophecies
+• 1 Gift of Mastery
+• 1 Gift of Fortune</c>"
+<c=@flavor>This weapon is used to craft the legendary short bow Chuka and Champawat.</c>,<c=@flavor>Это оружие используется для создания легендарного короткого лука «Chuka and Champawat».</c>
 "<c=@flavor>This weapon is used to craft the legendary short bow The Dreamer.
 
 Combine this weapon in the Mystic Forge with:
 • 1 Gift of The Dreamer
 • 1 Gift of Mastery
-• 1 Gift of Fortune</c>",
+• 1 Gift of Fortune</c>","<c=@flavor>Это оружие используется для создания легендарного короткого лука «The Dreamer».
+
+Соедините это оружие в Мистической кузне с:
+• 1 Gift of The Dreamer
+• 1 Gift of Mastery
+• 1 Gift of Fortune</c>"
 "<c=@flavor>This weapon is used to craft the legendary spear Kamohoali'i Kotaki.
 
 Combine this weapon in the Mystic Forge with:
 • 1 Gift of Kamohoali'i Kotaki
 • 1 Gift of Mastery
-• 1 Gift of Fortune</c>",
+• 1 Gift of Fortune</c>","<c=@flavor>Это оружие используется для создания легендарного копья «Kamohoali'i Kotaki».
+
+Соедините это оружие в Мистической кузне с:
+• 1 Gift of Kamohoali'i Kotaki
+• 1 Gift of Mastery
+• 1 Gift of Fortune</c>"
 "<c=@flavor>This weapon is used to craft the legendary spear Klobjarne Geirr.
 
 Combine this weapon in the Mystic Forge with:
 • 1 Gift of Janthir Wilds
 • 1 Gift of the Homesteader
-• 1 Gift of Klobjarne Geirr</c>",
-<c=@flavor>This weapon is used to craft the legendary staff Nevermore.</c>,
+• 1 Gift of Klobjarne Geirr</c>","<c=@flavor>Это оружие используется для создания легендарного копья «Klobjarne Geirr».
+
+Соедините это оружие в Мистической кузне с:
+• 1 Gift of Janthir Wilds
+• 1 Gift of the Homesteader
+• 1 Gift of Klobjarne Geirr</c>"
+<c=@flavor>This weapon is used to craft the legendary staff Nevermore.</c>,<c=@flavor>Это оружие используется для создания легендарного посоха «Nevermore».</c>
 "<c=@flavor>This weapon is used to craft the legendary staff The Bifrost.
 
 Combine this weapon in the Mystic Forge with:
 • 1 Gift of The Bifrost
 • 1 Gift of Mastery
-• 1 Gift of Fortune</c>",
+• 1 Gift of Fortune</c>","<c=@flavor>Это оружие используется для создания легендарного посоха «The Bifrost».
+
+Соедините это оружие в Мистической кузне с:
+• 1 Gift of The Bifrost
+• 1 Gift of Mastery
+• 1 Gift of Fortune</c>"
 "<c=@flavor>This weapon is used to craft the legendary sword Bolt.
 
 Combine this weapon in the Mystic Forge with:
 • 1 Gift of Bolt
 • 1 Gift of Mastery
-• 1 Gift of Fortune</c>",
-<c=@flavor>This weapon is used to craft the legendary sword the Shining Blade.</c>,
-<c=@flavor>This weapon is used to craft the legendary torch Flames of War.</c>,
+• 1 Gift of Fortune</c>","<c=@flavor>Это оружие используется для создания легендарного меча «Bolt».
+
+Соедините это оружие в Мистической кузне с:
+• 1 Gift of Bolt
+• 1 Gift of Mastery
+• 1 Gift of Fortune</c>"
+<c=@flavor>This weapon is used to craft the legendary sword the Shining Blade.</c>,<c=@flavor>Это оружие используется для создания легендарного меча «Shining Blade».</c>
+<c=@flavor>This weapon is used to craft the legendary torch Flames of War.</c>,<c=@flavor>Это оружие используется для создания легендарного факела «Flames of War».</c>
 "<c=@flavor>This weapon is used to craft the legendary torch Rodgort.
 
 Combine this weapon in the Mystic Forge with:
 • 1 Gift of Rodgort
 • 1 Gift of Mastery
-• 1 Gift of Fortune</c>",
+• 1 Gift of Fortune</c>","<c=@flavor>Это оружие используется для создания легендарного факела «Rodgort».
+
+Соедините это оружие в Мистической кузне с:
+• 1 Gift of Rodgort
+• 1 Gift of Mastery
+• 1 Gift of Fortune</c>"
 "<c=@flavor>This weapon is used to craft the legendary trident Kraitkin.
 
 Combine this weapon in the Mystic Forge with:
 • 1 Gift of Kraitkin
 • 1 Gift of Mastery
-• 1 Gift of Fortune</c>",
+• 1 Gift of Fortune</c>","<c=@flavor>Это оружие используется для создания легендарного трезубца «Kraitkin».
+
+Соедините это оружие в Мистической кузне с:
+• 1 Gift of Kraitkin
+• 1 Gift of Mastery
+• 1 Gift of Fortune</c>"
 "<c=@flavor>This weapon is used to craft the legendary warhorn Howler.
 
 Combine this weapon in the Mystic Forge with:
 • 1 Gift of Howler
 • 1 Gift of Mastery
-• 1 Gift of Fortune</c>",
-<c=@flavor>This weapon is used to craft the legendary warhorn Verdarach.</c>,
-"<c=@Flavor>This wine, brewed with grapes grown in the Hanging Gardens, is often gifted back and forth between great families during marriages and other celebrations.</c>",
-<c=@flavor>This young carnivorous plant could use something with a bit more kick to keep it growing. Some Phantasmally Infused Plant Food should do the trick.<c>,
-<c=@flavor>This young carnivorous plant could use something with a bit more kick to keep it growing. Some Rhand Blessed Plant Food should do the trick.</c>,
-<c=@flavor>This young carnivorous plant has a wild streak to it. A meal of purified Sacred Plant Food should help it grow to be more obedient.<c>,
-<c=@flavor>This young carnivorous plant looks hungry for something particularly magical. Some Elementally Charged Plant Food should satisfy its cravings.</c>,
-<c=@flavor>This young carnivorous plant looks hungry for something particularly magical. Some Ley Line Dusted Plant Food should satisfy its cravings.</c>,
-"<c=@flavor>This young carnivorous plant seems restless. Feed it something soothing, like Oasis Soaked Plant Food to calm it down.</c>",
-<c=@flavor>Those with steadfast hearts stand tall.</c>,
-"<c=@flavor>Though the blade's contours appear delicate, its edge will never dull and its sheen will never tarnish.</c>",
-"<c=@flavor>Though today the mountains and earth alter the sea's course, in time they will bow to the water's whims.</c>",
-"<c=@flavor>Though you cannot read its pages, this long-dead tome weighs heavily on your back. You can hear the whisper of voices from beyond, debating truly awful puns.</c>",
-<c=@flavor>Tingling with the lingering presence of Gorseval the Multifarious.</c>,
-"<c=@flavor>Tirzie the Painter's special blend to ensure long-lasting, vibrant color.<c>",
+• 1 Gift of Fortune</c>","<c=@flavor>Это оружие используется для создания легендарного боевого рога «Howler».
+
+Соедините это оружие в Мистической кузне с:
+• 1 Gift of Howler
+• 1 Gift of Mastery
+• 1 Gift of Fortune</c>"
+<c=@flavor>This weapon is used to craft the legendary warhorn Verdarach.</c>,<c=@flavor>Это оружие используется для создания легендарного боевого рога «Verdarach».</c>
+"<c=@Flavor>This wine, brewed with grapes grown in the Hanging Gardens, is often gifted back and forth between great families during marriages and other celebrations.</c>","<c=@Flavor>Это вино из винограда, выращенного в Висячих садах, часто дарят друг другу великие семьи на свадьбах и прочих торжествах.</c>"
+<c=@flavor>This young carnivorous plant could use something with a bit more kick to keep it growing. Some Phantasmally Infused Plant Food should do the trick.<c>,"<c=@flavor>Этому юному хищному растению нужно что-то поядрёнее, чтобы продолжать расти. Подойдёт корм, напитанный фантазмами.<c>"
+<c=@flavor>This young carnivorous plant could use something with a bit more kick to keep it growing. Some Rhand Blessed Plant Food should do the trick.</c>,"<c=@flavor>Этому юному хищному растению нужно что-то поядрёнее, чтобы продолжать расти. Подойдёт корм, благословлённый Рандом.</c>"
+<c=@flavor>This young carnivorous plant has a wild streak to it. A meal of purified Sacred Plant Food should help it grow to be more obedient.<c>,<c=@flavor>У этого юного хищного растения буйный нрав. Порция очищенного священного корма поможет ему стать послушнее.<c>
+<c=@flavor>This young carnivorous plant looks hungry for something particularly magical. Some Elementally Charged Plant Food should satisfy its cravings.</c>,"<c=@flavor>Это юное хищное растение изголодалось по чему-то особенно магическому. Утолить его тягу должен корм, заряженный стихией.</c>"
+<c=@flavor>This young carnivorous plant looks hungry for something particularly magical. Some Ley Line Dusted Plant Food should satisfy its cravings.</c>,"<c=@flavor>Это юное хищное растение изголодалось по чему-то особенно магическому. Утолить его тягу должен корм, присыпанный лей-линиями.</c>"
+"<c=@flavor>This young carnivorous plant seems restless. Feed it something soothing, like Oasis Soaked Plant Food to calm it down.</c>","<c=@flavor>Это юное хищное растение беспокойно. Дай ему что-нибудь успокаивающее — например, корм, вымоченный в оазисе.</c>"
+<c=@flavor>Those with steadfast hearts stand tall.</c>,"<c=@flavor>Те, чьи сердца непоколебимы, стоят прямо.</c>"
+"<c=@flavor>Though the blade's contours appear delicate, its edge will never dull and its sheen will never tarnish.</c>","<c=@flavor>Хоть очертания клинка и кажутся хрупкими, его кромка никогда не затупится, а блеск не потускнеет.</c>"
+"<c=@flavor>Though today the mountains and earth alter the sea's course, in time they will bow to the water's whims.</c>",<c=@flavor>Пусть сегодня горы и земля правят ход моря — со временем они покорятся прихотям воды.</c>
+"<c=@flavor>Though you cannot read its pages, this long-dead tome weighs heavily on your back. You can hear the whisper of voices from beyond, debating truly awful puns.</c>","<c=@flavor>Хоть страницы и не прочесть, этот давно мёртвый фолиант тяжко давит на спину. Слышен шёпот голосов из-за грани, спорящих о поистине ужасных каламбурах.</c>"
+<c=@flavor>Tingling with the lingering presence of Gorseval the Multifarious.</c>,<c=@flavor>Покалывает от неизбывного присутствия Горсеваля Многоликого.</c>
+"<c=@flavor>Tirzie the Painter's special blend to ensure long-lasting, vibrant color.<c>","<c=@flavor>Особая смесь Тирзи Художницы — для стойкого, яркого цвета.<c>"
 "<c=@flavor>To exist, we must destroy those around us.</c>
-<c=@reminder>Hint: To acquire, defeat Cardinal Adina in the Key of Ahdashim raid.</c>",
-<c=@flavor>To keep the Everburning Flames going.<c>,
-"<c=@flavor>To learn the secrets of the Four Winds, Leon Stealheart will have to go deep under cover.</c>",
-"<c=@flavor>To unclouded eyes, no experience is old.</c>",
-<c=@flavor>Too soon? Or too fast and too fun?</c>,
-"<c=@Flavor>Traders of both conniving and ignorant kinds are known to traffic in maps which are useless at best, and dangerous at worst.</c>",
-<c=@flavor>Ugh. It smells funny out of water.</c>,
-"<c=@flavor>Unlike certain other overlords, the Mad King permits, nay, encourages imitation of his noble visage.</c>",
-<c=@flavor>Used in the field by Sentinel engineers to study the Brand.</c>,
-<c=@flavor>Used to craft the legendary backpack Ad Infinitum</c>,
-<c=@flavor>Useful for opening casks of beer or enemy skulls.</c>,
-"<c=@Flavor>Useful to collectors and traders alike, this catalogue shows coins from ancient to modern.</c>",
-<c=@flavor>Uses the power of its wielder for strength.</c>,
-"<c=@flavor>Very large, and very sharp.</c>",
-<c=@flavor>Vibrant crystals clatter together inside this hearty broth.</c>,
-<c=@flavor>Volatile energy arcs beneath the surface of the gem.</c>,
-<c=@flavor>Ward against the gloom of winter with nobility until warmth returns to the land.</c>,
-"<c=@flavor>Warm hearts, toasty hands, burnt foes.</c>",
-<c=@flavor>Warning: Flaming fire flakes are hot.<c>,
+<c=@reminder>Hint: To acquire, defeat Cardinal Adina in the Key of Ahdashim raid.</c>","<c=@flavor>Чтобы существовать, мы должны уничтожать тех, кто вокруг.</c>
+<c=@reminder>Подсказка: чтобы получить, победите кардинала Адину в рейде «Ключ Ахдашима».</c>"
+<c=@flavor>To keep the Everburning Flames going.<c>,<c=@flavor>Чтобы Вечногорящее пламя не угасало.<c>
+"<c=@flavor>To learn the secrets of the Four Winds, Leon Stealheart will have to go deep under cover.</c>","<c=@flavor>Чтобы узнать тайны Четырёх Ветров, Леону Стилхарту придётся уйти в глубокое подполье.</c>"
+"<c=@flavor>To unclouded eyes, no experience is old.</c>",<c=@flavor>Для незамутнённого взгляда нет старого опыта.</c>
+<c=@flavor>Too soon? Or too fast and too fun?</c>,<c=@flavor>Слишком рано? Или слишком быстро и слишком весело?</c>
+"<c=@Flavor>Traders of both conniving and ignorant kinds are known to traffic in maps which are useless at best, and dangerous at worst.</c>","<c=@Flavor>Известно, что торговцы — как хитрые, так и невежественные — сбывают карты, в лучшем случае бесполезные, а в худшем опасные.</c>"
+<c=@flavor>Ugh. It smells funny out of water.</c>,<c=@flavor>Фу. Вне воды оно странно пахнет.</c>
+"<c=@flavor>Unlike certain other overlords, the Mad King permits, nay, encourages imitation of his noble visage.</c>","<c=@flavor>В отличие от иных владык, Безумный Король дозволяет — да что там, поощряет — подражание своему благородному лику.</c>"
+<c=@flavor>Used in the field by Sentinel engineers to study the Brand.</c>,<c=@flavor>Используется в поле инженерами Часовых для изучения Клейма.</c>
+<c=@flavor>Used to craft the legendary backpack Ad Infinitum</c>,<c=@flavor>Используется при создании легендарного рюкзака «Ad Infinitum»</c>
+<c=@flavor>Useful for opening casks of beer or enemy skulls.</c>,"<c=@flavor>Годится, чтобы вскрывать бочонки с пивом или вражеские черепа.</c>"
+"<c=@Flavor>Useful to collectors and traders alike, this catalogue shows coins from ancient to modern.</c>","<c=@Flavor>Полезный и коллекционерам, и торговцам, этот каталог показывает монеты от древних до нынешних.</c>"
+<c=@flavor>Uses the power of its wielder for strength.</c>,<c=@flavor>Черпает силу из мощи своего владельца.</c>
+"<c=@flavor>Very large, and very sharp.</c>",<c=@flavor>Очень большой и очень острый.</c>
+<c=@flavor>Vibrant crystals clatter together inside this hearty broth.</c>,<c=@flavor>В этом сытном бульоне позвякивают яркие кристаллы.</c>
+<c=@flavor>Volatile energy arcs beneath the surface of the gem.</c>,<c=@flavor>Под поверхностью самоцвета пробегают дуги нестабильной энергии.</c>
+<c=@flavor>Ward against the gloom of winter with nobility until warmth returns to the land.</c>,"<c=@flavor>Отгоняй зимний мрак благородством, пока в земли не вернётся тепло.</c>"
+"<c=@flavor>Warm hearts, toasty hands, burnt foes.</c>","<c=@flavor>Тёплые сердца, согретые руки, спалённые враги.</c>"
+<c=@flavor>Warning: Flaming fire flakes are hot.<c>,<c=@flavor>Внимание: пылающие огненные хлопья горячие.<c>
 "<c=@flavor>WARNING: Flammable
-",
-<c=@flavor>Warning: small parts. Not for children. Double-click to open.</c>,
-"<c=@flavor>Washed ashore by countless waves, the castle endures.</c>",
-<c=@flavor>Waves of darkness emanate from this twisted ring.</c>,
-"<c=@flavor>We faced Scarlet at our door, and that day we brought the fight to her.<c>",
+","<c=@flavor>ВНИМАНИЕ: Легковоспламеняющееся
+"
+<c=@flavor>Warning: small parts. Not for children. Double-click to open.</c>,"<c=@flavor>Внимание: мелкие детали. Не для детей. Дважды щёлкните, чтобы открыть.</c>"
+"<c=@flavor>Washed ashore by countless waves, the castle endures.</c>","<c=@flavor>Омытый бесчисленными волнами, замок стоит.</c>"
+<c=@flavor>Waves of darkness emanate from this twisted ring.</c>,<c=@flavor>От этого искривлённого кольца исходят волны тьмы.</c>
+"<c=@flavor>We faced Scarlet at our door, and that day we brought the fight to her.<c>","<c=@flavor>Скарлет стояла у нашего порога, и в тот день мы сами перешли в наступление.<c>"
 "<c=@flavor>We faced Scarlet at our door, and that day we brought the fight to her.<c>
 
-Cannot be used in the Mystic Forge if transmuted.",
-<c=@flavor>We're close to fully cracking the code behind the seers' shadowstone and their magic. Prototypes like this will be a footnote in history as we regain our technological dominance.</c>,
-"<c=@flavor>Wealth, fame, and power—a recipe for success. One drink gives you what most people can't achieve in a lifetime.</c>",
-<c=@Flavor>What could be voiding this much excrement from the sky? Perhaps the beastmaster at the menagerie knows more. Double-click to view location.</c>,
-<c=@Flavor>What illuminates may also blind.</c>,
-<c=@Flavor>What kind of creature has feathers this big? Perhaps the beastmaster at the Menagerie knows more. Double-click to view location.</c>,
-<c=@Flavor>What's so large that it could swallow the bones in this regurgitated mass? Perhaps the beastmaster at the Menagerie knows more. Double-click to view location.</c>,
-"<c=@Flavor>Whether you deal in salt, gold, or mithril, the Cowrie League's scales are trusted throughout Elona.</c>",
-"<c=@flavor>While acting as a standard flux purifying the metal, it also suffuses it and protects it from softening due to constant heat exposure.</c>",
-"<c=@flavor>While it is shiny, it being a necklace is tenuous at best.</c>",
-<c=@flavor>Wield the cutting edge of interactive simulation.</c>,
-<c=@flavor>Wings are decorative only. Please don't jump off of high places expecting to fly.</c>,
-<c=@flavor>Wintersday is a time for traditions.</c>,
-<c=@flavor>Wintersday. Revolution. Two hearts like entangled photons.</c>,
-"<c=@flavor>With a firm grip, enter a state of flow.</c>",
-"<c=@flavor>With great fortune, adventurers rediscovered a long-lost recipe from Ashford Abbey, allowing Eldvin Monastery to resurrect this brew. Eldvin Abbey Ale possesses a deep brown color and a unique taste of spices that wonderfully accent the overall flavor.</c>",
-"<c=@flavor>With light in hand, continue even in the dead of night.</c>",
-"<c=@flavor>With time, all things are devoured by their environment.</c>",
+Cannot be used in the Mystic Forge if transmuted.","<c=@flavor>Скарлет стояла у нашего порога, и в тот день мы сами перешли в наступление.<c>
+
+Нельзя использовать в Мистической кузне, если предмет трансмутирован."
+<c=@flavor>We're close to fully cracking the code behind the seers' shadowstone and their magic. Prototypes like this will be a footnote in history as we regain our technological dominance.</c>,"<c=@flavor>Мы близки к тому, чтобы полностью разгадать теневой камень провидцев и их магию. Прототипы вроде этого станут сноской в истории, когда мы вернём себе технологическое господство.</c>"
+"<c=@flavor>Wealth, fame, and power—a recipe for success. One drink gives you what most people can't achieve in a lifetime.</c>","<c=@flavor>Богатство, слава и власть — рецепт успеха. Один глоток даёт то, чего большинству не добиться и за целую жизнь.</c>"
+<c=@Flavor>What could be voiding this much excrement from the sky? Perhaps the beastmaster at the menagerie knows more. Double-click to view location.</c>,"<c=@Flavor>Что способно извергать с неба столько помёта? Возможно, зверолов из зверинца знает больше. Дважды щёлкните, чтобы увидеть место.</c>"
+<c=@Flavor>What illuminates may also blind.</c>,"<c=@Flavor>То, что освещает, может и ослепить.</c>"
+<c=@Flavor>What kind of creature has feathers this big? Perhaps the beastmaster at the Menagerie knows more. Double-click to view location.</c>,"<c=@Flavor>У какого существа бывают такие огромные перья? Возможно, зверолов из Зверинца знает больше. Дважды щёлкните, чтобы увидеть место.</c>"
+<c=@Flavor>What's so large that it could swallow the bones in this regurgitated mass? Perhaps the beastmaster at the Menagerie knows more. Double-click to view location.</c>,"<c=@Flavor>Что же настолько велико, чтобы проглотить кости из этой отрыгнутой массы? Возможно, зверолов из Зверинца знает больше. Дважды щёлкните, чтобы увидеть место.</c>"
+"<c=@Flavor>Whether you deal in salt, gold, or mithril, the Cowrie League's scales are trusted throughout Elona.</c>","<c=@Flavor>Торгуешь ли ты солью, золотом или мифрилом — весам Лиги Каури доверяют по всей Элоне.</c>"
+"<c=@flavor>While acting as a standard flux purifying the metal, it also suffuses it and protects it from softening due to constant heat exposure.</c>","<c=@flavor>Работая как обычный флюс, очищающий металл, он вдобавок пропитывает его и защищает от размягчения при постоянном нагреве.</c>"
+"<c=@flavor>While it is shiny, it being a necklace is tenuous at best.</c>","<c=@flavor>Блестеть-то оно блестит, а вот ожерелье из него так себе.</c>"
+<c=@flavor>Wield the cutting edge of interactive simulation.</c>,<c=@flavor>Владей передним краем интерактивной симуляции.</c>
+<c=@flavor>Wings are decorative only. Please don't jump off of high places expecting to fly.</c>,"<c=@flavor>Крылья исключительно декоративные. Пожалуйста, не прыгайте с высоты в надежде полететь.</c>"
+<c=@flavor>Wintersday is a time for traditions.</c>,<c=@flavor>Зимний день — время традиций.</c>
+<c=@flavor>Wintersday. Revolution. Two hearts like entangled photons.</c>,"<c=@flavor>Зимний день. Революция. Два сердца, как спутанные фотоны.</c>"
+"<c=@flavor>With a firm grip, enter a state of flow.</c>",<c=@flavor>Твёрдо возьмись — и войди в состояние потока.</c>
+"<c=@flavor>With great fortune, adventurers rediscovered a long-lost recipe from Ashford Abbey, allowing Eldvin Monastery to resurrect this brew. Eldvin Abbey Ale possesses a deep brown color and a unique taste of spices that wonderfully accent the overall flavor.</c>","<c=@flavor>По великой удаче искатели приключений вновь отыскали давно утраченный рецепт из аббатства Эшфорд, и монастырь Элдвин смог воскресить это пиво. «Эль аббатства Элдвин» глубокого коричневого цвета и обладает неповторимым вкусом специй, чудесно оттеняющих общий букет.</c>"
+"<c=@flavor>With light in hand, continue even in the dead of night.</c>",<c=@flavor>Со светом в руке иди вперёд даже глубокой ночью.</c>
+"<c=@flavor>With time, all things are devoured by their environment.</c>","<c=@flavor>Со временем всё поглощается тем, что его окружает.</c>"
 "<c=@flavor>Within its core, the unabating heat of the stars lingers.</c>
-<c=@abilitytype>Vault Category: Locally Threatening</c>",
-"<c=@flavor>Worn by Confessor Beetlestone himself, this mask emits massive amounts of raw bloodstone energy, channeled through Caudecus's signature beard.</c>",
-<c=@flavor>You can just tell this is the best one. Double-click to choose a reward.</c>,
-"<c=@flavor>You see, any of the four elements can be made into a torch!</c>",
+<c=@abilitytype>Vault Category: Locally Threatening</c>","<c=@flavor>В его сердцевине таится неугасающий жар звёзд.</c>
+<c=@abilitytype>Категория хранилища: угроза местного масштаба</c>"
+"<c=@flavor>Worn by Confessor Beetlestone himself, this mask emits massive amounts of raw bloodstone energy, channeled through Caudecus's signature beard.</c>","<c=@flavor>Эту маску носил сам исповедник Битлстоун; она источает огромное количество сырой энергии кровавика, направляемой через фирменную бороду Кодекуса.</c>"
+<c=@flavor>You can just tell this is the best one. Double-click to choose a reward.</c>,"<c=@flavor>Сразу видно, что этот — лучший. Дважды щёлкните, чтобы выбрать награду.</c>"
+"<c=@flavor>You see, any of the four elements can be made into a torch!</c>","<c=@flavor>Видишь ли, факел можно сделать из любой из четырёх стихий!</c>"
 "<c=@flavor>You should be careful about carrying this around with you.</c>
-—Scholar Glenna",
-<c=@flavor>You should be careful about carrying this around with you.</c>—Scholar Glenna,
-"<c=@flavor>You shouldn't eat this, but it might be good for something.</c>",
-<c=@flavor>You're not sure this is a good idea.</c>,
-<c=@flavor>You've been marked for death by the bandits of Kryta.</c>,
+—Scholar Glenna","<c=@flavor>Тебе стоит поосторожнее носить это с собой.</c>
+—Учёная Гленна"
+<c=@flavor>You should be careful about carrying this around with you.</c>—Scholar Glenna,<c=@flavor>Тебе стоит поосторожнее носить это с собой.</c>—Учёная Гленна
+"<c=@flavor>You shouldn't eat this, but it might be good for something.</c>","<c=@flavor>Есть это не стоит, но на что-нибудь оно сгодится.</c>"
+<c=@flavor>You're not sure this is a good idea.</c>,"<c=@flavor>Ты не уверен, что это хорошая мысль.</c>"
+<c=@flavor>You've been marked for death by the bandits of Kryta.</c>,<c=@flavor>Бандиты Крайты приговорили тебя к смерти.</c>
 "<c=@flavor>You've been marked for death by the bandits of Kryta.</c>
-Carrying this item increases the chance of Bandit Executioners attacking during a bounty hunt.",
-<c=@flavor>Young tengu are given charms like this for protection.</c>,
-<c=@flavor>Your best friend on the battlefield.</c>,
-"<c=@flavor>Your dear plantling has grown quite a bit, but it seems to ache for the warmth of the Maguuma Jungle. Something to warm it thoroughly, like a Destroyer Heated Stone, should keep it toasty.</c>",
-<c=@flavor>Your hands seem to sink into the grip of this sword.</c>,
-<c=@flavor>Your name is on the tag. What a nice gift. Double-click to open.</c>,
-<c=@reminder> This coat overrides legging art</c>,
-<c=@reminder>Complete the first story chapter of Guild Wars 2: End of Dragons to unlock this feature.</c>,
+Carrying this item increases the chance of Bandit Executioners attacking during a bounty hunt.","<c=@flavor>Бандиты Крайты приговорили тебя к смерти.</c>
+Ношение этого предмета повышает шанс нападения бандитов-палачей во время охоты за наградой."
+<c=@flavor>Young tengu are given charms like this for protection.</c>,<c=@flavor>Юным тенгу дарят такие обереги для защиты.</c>
+<c=@flavor>Your best friend on the battlefield.</c>,<c=@flavor>Твой лучший друг на поле боя.</c>
+"<c=@flavor>Your dear plantling has grown quite a bit, but it seems to ache for the warmth of the Maguuma Jungle. Something to warm it thoroughly, like a Destroyer Heated Stone, should keep it toasty.</c>","<c=@flavor>Твой милый росток изрядно подрос, но, похоже, тоскует по теплу джунглей Магуумы. Что-нибудь основательно греющее — вроде камня, раскалённого разрушителем, — не даст ему остыть.</c>"
+<c=@flavor>Your hands seem to sink into the grip of this sword.</c>,"<c=@flavor>Кажется, будто твои руки утопают в рукояти этого меча.</c>"
+<c=@flavor>Your name is on the tag. What a nice gift. Double-click to open.</c>,"<c=@flavor>На бирке твоё имя. Какой приятный подарок. Дважды щёлкните, чтобы открыть.</c>"
+<c=@reminder> This coat overrides legging art</c>,<c=@reminder> Эта куртка перекрывает отображение ножной брони</c>
+<c=@reminder>Complete the first story chapter of Guild Wars 2: End of Dragons to unlock this feature.</c>,"<c=@reminder>Пройдите первую главу истории Guild Wars 2: End of Dragons, чтобы открыть эту возможность.</c>"
 "<c=@reminder>Contains loot stolen from the Black Lion Trading Company by the Knife Tail Gang.</c=@reminder>
 
-Use the box to randomly unlock a Black Lion wardrobe item you don't already have. Some items—in particular mounts and some weapon sets—are less common than others. Preview to see everything available.",
-<c=@Reminder>Hint: Acquire the Reinforced Olmakhan Bandolier.</c>,
-<c=@Reminder>Hint: Collect strategic resources for the war effort.</c>,
-<c=@Reminder>Hint: Come to the aid of a peaceful people.</c>,
-<c=@Reminder>Hint: Complete one weight class of Tier 1 Mist Shard armor. Purchased from the Traveling Elonian Trader in Dragonfall.</c>,
-"<c=@Reminder>Hint: Complete the Convergence of Sorrow I: Elegy achievement, and then speak with Amira.</c>",
-<c=@Reminder>Hint: Create the exotic Banner of the Commander.</c>,
-<c=@Reminder>Hint: Defeat a ley-infused enemy while holding a Memory Essence Encapsulator in your inventory.</c>,
-<c=@Reminder>Hint: Defeat Kuda's test subjects within the Specimen Chamber while holding a Memory Essence Encapsulator in your inventory.</c>,
-<c=@Reminder>Hint: Defeat the Death-Branded Shatterer within Jahai Bluffs while holding a Memory Essence Encapsulator in your inventory.</c>,
-<c=@Reminder>Hint: Defeat the Wrathbringer in Thunderhead Keep while holding a Memory Essence Encapsulator in your inventory.</c>,
-<c=@Reminder>Hint: Defeat Troopmarshal Olori Ogun in the Domain of Kourna while holding a Memory Essence Encapsulator in your inventory.</c>,
-<c=@Reminder>Hint: Help the youth learn to provide.</c>,
-<c=@Reminder>Hint: Perform an ancient ritual with unlikely allies.</c>,
-<c=@Reminder>Hint: Somewhere near Airdrome Port in Dragonfall.</c>,
-<c=@Reminder>Hint: Somewhere near Atholma in the Sandswept Isles.</c>,
-<c=@Reminder>Hint: Somewhere near History's End Waypoint in Thunderhead Peaks.</c>,
-<c=@Reminder>Hint: Somewhere near Jemandi Market in the Sandswept Isles.</c>,
-<c=@Reminder>Hint: Somewhere near Mirza's Rest in Jahai Bluffs.</c>,
-<c=@Reminder>Hint: Somewhere near the Allied Encampment in the Domain of Kourna.</c>,
-<c=@Reminder>Hint: Somewhere near the Forge in Thunderhead Peaks.</c>,
-<c=@Reminder>Hint: Somewhere near the Pact Outpost in Dragonfall.</c>,
-<c=@Reminder>Hint: Somewhere near Venta Pass Waypoint in Jahai Bluffs.</c>,
-<c=@Reminder>Hint: Somewhere near Zelbahn Garrison in the Domain of Kourna. </c>,
-<c=@Reminder>Hint: Stop the supply of deathly materials.</c>,
-<c=@Reminder>Hint: Thwart an imposter's sinister plans.</c>,
-<c=@Reminder>Hint: Use your skyscale to access a rift high above the Displaced Towers in Jahai Bluffs.</c>,
-<c=@Reminder>Hint: Use your skyscale to access a rift near the highest point of the Allied Encampment within the Domain of Kourna.</c>,
-<c=@Reminder>Hint: Use your skyscale to access a rift near the Iron Whale in the Sandswept Isles.</c>,
-<c=@Reminder>Hint: Use your skyscale to access a rift near the Necrotic Coast within Dragonfall.</c>,
-<c=@Reminder>Hint: Use your skyscale to access a rift near the Weeping Sisters in Thunderhead Peaks.</c>,
+Use the box to randomly unlock a Black Lion wardrobe item you don't already have. Some items—in particular mounts and some weapon sets—are less common than others. Preview to see everything available.","<c=@reminder>Содержит добычу, украденную у Торговой компании Чёрного Льва бандой Ножехвостых.</c=@reminder>
+
+Используйте коробку, чтобы случайным образом открыть предмет гардероба Чёрного Льва, которого у вас ещё нет. Некоторые предметы — особенно ездовые животные и отдельные наборы оружия — встречаются реже прочих. Загляните в предпросмотр, чтобы увидеть всё доступное."
+<c=@Reminder>Hint: Acquire the Reinforced Olmakhan Bandolier.</c>,<c=@Reminder>Подсказка: получите усиленный бандольер олмаханов.</c>
+<c=@Reminder>Hint: Collect strategic resources for the war effort.</c>,<c=@Reminder>Подсказка: соберите стратегические ресурсы для военных нужд.</c>
+<c=@Reminder>Hint: Come to the aid of a peaceful people.</c>,<c=@Reminder>Подсказка: придите на помощь мирному народу.</c>
+<c=@Reminder>Hint: Complete one weight class of Tier 1 Mist Shard armor. Purchased from the Traveling Elonian Trader in Dragonfall.</c>,<c=@Reminder>Подсказка: соберите один весовой класс брони «Осколок туманов» 1-го уровня. Покупается у странствующего элонского торговца в Драконьем Падении.</c>
+"<c=@Reminder>Hint: Complete the Convergence of Sorrow I: Elegy achievement, and then speak with Amira.</c>","<c=@Reminder>Подсказка: выполните достижение «Схождение скорби I: элегия», затем поговорите с Амирой.</c>"
+<c=@Reminder>Hint: Create the exotic Banner of the Commander.</c>,<c=@Reminder>Подсказка: создайте экзотическое знамя командира.</c>
+<c=@Reminder>Hint: Defeat a ley-infused enemy while holding a Memory Essence Encapsulator in your inventory.</c>,"<c=@Reminder>Подсказка: победите врага, напитанного лей-энергией, держа в инвентаре инкапсулятор эссенции памяти.</c>"
+<c=@Reminder>Hint: Defeat Kuda's test subjects within the Specimen Chamber while holding a Memory Essence Encapsulator in your inventory.</c>,"<c=@Reminder>Подсказка: победите подопытных Куды в Камере образцов, держа в инвентаре инкапсулятор эссенции памяти.</c>"
+<c=@Reminder>Hint: Defeat the Death-Branded Shatterer within Jahai Bluffs while holding a Memory Essence Encapsulator in your inventory.</c>,"<c=@Reminder>Подсказка: победите Крушителя, клеймённого смертью, в Утёсах Джахай, держа в инвентаре инкапсулятор эссенции памяти.</c>"
+<c=@Reminder>Hint: Defeat the Wrathbringer in Thunderhead Keep while holding a Memory Essence Encapsulator in your inventory.</c>,"<c=@Reminder>Подсказка: победите Гневоносца в Крепости Громоглавия, держа в инвентаре инкапсулятор эссенции памяти.</c>"
+<c=@Reminder>Hint: Defeat Troopmarshal Olori Ogun in the Domain of Kourna while holding a Memory Essence Encapsulator in your inventory.</c>,"<c=@Reminder>Подсказка: победите отрядного маршала Олори Огуна во Владении Курна, держа в инвентаре инкапсулятор эссенции памяти.</c>"
+<c=@Reminder>Hint: Help the youth learn to provide.</c>,<c=@Reminder>Подсказка: помогите молодёжи научиться добывать пропитание.</c>
+<c=@Reminder>Hint: Perform an ancient ritual with unlikely allies.</c>,<c=@Reminder>Подсказка: проведите древний ритуал с неожиданными союзниками.</c>
+<c=@Reminder>Hint: Somewhere near Airdrome Port in Dragonfall.</c>,<c=@Reminder>Подсказка: где-то у порта Эйрдром в Драконьем Падении.</c>
+<c=@Reminder>Hint: Somewhere near Atholma in the Sandswept Isles.</c>,<c=@Reminder>Подсказка: где-то у Атолмы на Песчаных островах.</c>
+<c=@Reminder>Hint: Somewhere near History's End Waypoint in Thunderhead Peaks.</c>,<c=@Reminder>Подсказка: где-то у точки перемещения «Конец истории» в Громоглавых Пиках.</c>
+<c=@Reminder>Hint: Somewhere near Jemandi Market in the Sandswept Isles.</c>,<c=@Reminder>Подсказка: где-то у рынка Джеманди на Песчаных островах.</c>
+<c=@Reminder>Hint: Somewhere near Mirza's Rest in Jahai Bluffs.</c>,<c=@Reminder>Подсказка: где-то у Привала Мирзы в Утёсах Джахай.</c>
+<c=@Reminder>Hint: Somewhere near the Allied Encampment in the Domain of Kourna.</c>,<c=@Reminder>Подсказка: где-то у Союзного лагеря во Владении Курна.</c>
+<c=@Reminder>Hint: Somewhere near the Forge in Thunderhead Peaks.</c>,<c=@Reminder>Подсказка: где-то у Горна в Громоглавых Пиках.</c>
+<c=@Reminder>Hint: Somewhere near the Pact Outpost in Dragonfall.</c>,<c=@Reminder>Подсказка: где-то у форпоста Пакта в Драконьем Падении.</c>
+<c=@Reminder>Hint: Somewhere near Venta Pass Waypoint in Jahai Bluffs.</c>,<c=@Reminder>Подсказка: где-то у точки перемещения «Перевал Вента» в Утёсах Джахай.</c>
+<c=@Reminder>Hint: Somewhere near Zelbahn Garrison in the Domain of Kourna. </c>,<c=@Reminder>Подсказка: где-то у гарнизона Зельбан во Владении Курна. </c>
+<c=@Reminder>Hint: Stop the supply of deathly materials.</c>,<c=@Reminder>Подсказка: перекройте поставки смертоносных материалов.</c>
+<c=@Reminder>Hint: Thwart an imposter's sinister plans.</c>,<c=@Reminder>Подсказка: сорвите зловещие планы самозванца.</c>
+<c=@Reminder>Hint: Use your skyscale to access a rift high above the Displaced Towers in Jahai Bluffs.</c>,<c=@Reminder>Подсказка: на скайскейле доберитесь до разлома высоко над Смещёнными башнями в Утёсах Джахай.</c>
+<c=@Reminder>Hint: Use your skyscale to access a rift near the highest point of the Allied Encampment within the Domain of Kourna.</c>,<c=@Reminder>Подсказка: на скайскейле доберитесь до разлома у самой высокой точки Союзного лагеря во Владении Курна.</c>
+<c=@Reminder>Hint: Use your skyscale to access a rift near the Iron Whale in the Sandswept Isles.</c>,<c=@Reminder>Подсказка: на скайскейле доберитесь до разлома у Железного Кита на Песчаных островах.</c>
+<c=@Reminder>Hint: Use your skyscale to access a rift near the Necrotic Coast within Dragonfall.</c>,<c=@Reminder>Подсказка: на скайскейле доберитесь до разлома у Некротического побережья в Драконьем Падении.</c>
+<c=@Reminder>Hint: Use your skyscale to access a rift near the Weeping Sisters in Thunderhead Peaks.</c>,<c=@Reminder>Подсказка: на скайскейле доберитесь до разлома у Плачущих Сестёр в Громоглавых Пиках.</c>
 "<c=@reminder>The Knife Tail Gang have broken into the Trading Company vaults, and Evon's furious!</c=@reminder>
 
-Use this bond to hunt Knife Tail Gang members. While bonded, any kill worth XP has a chance to reveal one of the Knife Tail Gang! Find them, and each bond will allow you to loot a piece of Recovered Black Lion Goods, which are yours to keep. Recovered goods will always unlock something from the Black Lion Trading Company in your wardrobe—weapons, exclusive dye colors, even mounts!",
-<c=@reminder>This coat hides leg armor.</c>,
-<c=@reminder>This coat hides leg armor.<c>,
-<c=@reminder>This coat hides shoulder armor.</c>,
-"<c=flavor>""For a young one, you can't go wrong with a quaggan plush. They're perfectly squishy and huggable!""</c>",
+Use this bond to hunt Knife Tail Gang members. While bonded, any kill worth XP has a chance to reveal one of the Knife Tail Gang! Find them, and each bond will allow you to loot a piece of Recovered Black Lion Goods, which are yours to keep. Recovered goods will always unlock something from the Black Lion Trading Company in your wardrobe—weapons, exclusive dye colors, even mounts!","<c=@reminder>Банда Ножехвостов вломилась в хранилища Торговой компании, и Эвон в ярости!</c=@reminder>
+
+Используй эту связь, чтобы охотиться на членов банды Ножехвостов. Пока связь активна, любое убийство, дающее опыт, может выявить одного из банды Ножехвостов! Найди их, и каждая связь позволит тебе добыть предмет из «Возвращённых товаров Чёрного льва», который останется у тебя. Возвращённые товары всегда открывают что-нибудь от Торговой компании Чёрного льва в твоём гардеробе — оружие, эксклюзивные краски, даже средства передвижения!"
+<c=@reminder>This coat hides leg armor.</c>,<c=@reminder>Эта куртка скрывает ножную броню.</c>
+<c=@reminder>This coat hides leg armor.<c>,<c=@reminder>Эта куртка скрывает ножную броню.<c>
+<c=@reminder>This coat hides shoulder armor.</c>,<c=@reminder>Эта куртка скрывает наплечную броню.</c>
+"<c=flavor>""For a young one, you can't go wrong with a quaggan plush. They're perfectly squishy and huggable!""</c>",<c=flavor>«Для малыша не прогадаешь с плюшевым куагганом. Они идеально мягкие и обнимательные!»</c>
 "<c=flavor>""For the millionth time, there are no culinary applications for bloodstone dust. None.""
-—Chef Robertus</c>",
-[FTT] Deployment Kit,
-A 20 slot bag for beginning characters.,
-A baby skyscale would enjoy this.,
-A bag of shinies bandits stole from Ket'abatchk.,
-A bag of shinies that bandits stole from Ket'abatchk.,
-A Balanced View,
-A beaded Hylek Necklace,
-A beautiful bell with a glorious sound. This item will bind to your account.,
-A beautiful tribute for Eir.,
-A beautifully crafted lantern.,
-A Benevolent Mission,
-A bit of collateral damage from Kookoochoo.,
-"A black, brimstone-scented stone. Scholar Inka is using these for her experiments.",
-A bladder filled with fish oil. This would make excellent fertilizer.,
+—Chef Robertus</c>","<c=flavor>«В миллионный раз: у пыли кровавика нет никаких кулинарных применений. Никаких».
+—Повар Робертус</c>"
+[FTT] Deployment Kit,Комплект развёртывания [FTT]
+A 20 slot bag for beginning characters.,Сумка на 20 ячеек для начинающих персонажей.
+A baby skyscale would enjoy this.,Детёнышу скайскейла это понравится.
+A bag of shinies bandits stole from Ket'abatchk.,"Мешок блестяшек, которые бандиты украли у Кет'абатчка."
+A bag of shinies that bandits stole from Ket'abatchk.,"Мешок блестяшек, которые бандиты украли у Кет'абатчка."
+A Balanced View,Взвешенный взгляд
+A beaded Hylek Necklace,Бисерное ожерелье хилеков
+A beautiful bell with a glorious sound. This item will bind to your account.,Прекрасный колокол с изумительным звоном. Этот предмет привяжется к вашей учётной записи.
+A beautiful tribute for Eir.,Прекрасная дань памяти Эйр.
+A beautifully crafted lantern.,Прекрасной работы фонарь.
+A Benevolent Mission,Благое поручение
+A bit of collateral damage from Kookoochoo.,Немного сопутствующего ущерба от Кукучу.
+"A black, brimstone-scented stone. Scholar Inka is using these for her experiments.",Чёрный камень с запахом серы. Учёная Инка использует такие для своих опытов.
+A bladder filled with fish oil. This would make excellent fertilizer.,"Пузырь, наполненный рыбьим жиром. Из него выйдет отличное удобрение."
 "A blank journal for an expectant tiger mother.
-Double-click to access your tiger den.",
-A book fragment worn away by the desert sands. It will need to be completed before reading. Can be consumed for Mastery experience and karma.,
-A book of homestead decoration recipes needed to craft arches and pillars.,
+Double-click to access your tiger den.","Чистый дневник для будущей матери-тигрицы.
+Дважды щёлкните, чтобы попасть в своё тигриное логово."
+A book fragment worn away by the desert sands. It will need to be completed before reading. Can be consumed for Mastery experience and karma.,"Обрывок книги, истёртый песками пустыни. Прежде чем читать, его нужно восполнить. Можно поглотить ради опыта мастерства и кармы."
+A book of homestead decoration recipes needed to craft arches and pillars.,"Книга рецептов украшений усадьбы, нужных для изготовления: арок и колонн."
 "A book of homestead decoration recipes needed to craft Awakened-themed objects.
-Components may require Guild Wars 2: Path of Fire.",
-A book of homestead decoration recipes needed to craft balloons.,
-A book of homestead decoration recipes needed to craft banners.,
-A book of homestead decoration recipes needed to craft basic items.,
-"A book of homestead decoration recipes needed to craft benches, chairs, and stools.",
-A book of homestead decoration recipes needed to craft books.,
-A book of homestead decoration recipes needed to craft cushions.,
-A book of homestead decoration recipes needed to craft Dragon Bash items.,
-A book of homestead decoration recipes needed to craft Elonian-themed items.,
-A book of homestead decoration recipes needed to craft Festival of the Four Winds items.,
-A book of homestead decoration recipes needed to craft guild arena items.,
-A book of homestead decoration recipes needed to craft Halloween items.,
-A book of homestead decoration recipes needed to craft hedge mazes.,
-A book of homestead decoration recipes needed to craft Krytan objects.,
-A book of homestead decoration recipes needed to craft lights.,
-A book of homestead decoration recipes needed to craft lion statues.,
-A book of homestead decoration recipes needed to craft Lunar New Year items.,
-A book of homestead decoration recipes needed to craft miscellaneous items.,
+Components may require Guild Wars 2: Path of Fire.","Книга рецептов украшений усадьбы, нужных для изготовления: предметов в стиле Пробуждённых.
+Для компонентов может потребоваться Guild Wars 2: Path of Fire."
+A book of homestead decoration recipes needed to craft balloons.,"Книга рецептов украшений усадьбы, нужных для изготовления: воздушных шаров."
+A book of homestead decoration recipes needed to craft banners.,"Книга рецептов украшений усадьбы, нужных для изготовления: знамён."
+A book of homestead decoration recipes needed to craft basic items.,"Книга рецептов украшений усадьбы, нужных для изготовления: простых предметов."
+"A book of homestead decoration recipes needed to craft benches, chairs, and stools.","Книга рецептов украшений усадьбы, нужных для изготовления: скамей, стульев и табуретов."
+A book of homestead decoration recipes needed to craft books.,"Книга рецептов украшений усадьбы, нужных для изготовления: книг."
+A book of homestead decoration recipes needed to craft cushions.,"Книга рецептов украшений усадьбы, нужных для изготовления: подушек."
+A book of homestead decoration recipes needed to craft Dragon Bash items.,"Книга рецептов украшений усадьбы, нужных для изготовления: предметов Dragon Bash."
+A book of homestead decoration recipes needed to craft Elonian-themed items.,"Книга рецептов украшений усадьбы, нужных для изготовления: предметов в элонском стиле."
+A book of homestead decoration recipes needed to craft Festival of the Four Winds items.,"Книга рецептов украшений усадьбы, нужных для изготовления: предметов Фестиваля Четырёх Ветров."
+A book of homestead decoration recipes needed to craft guild arena items.,"Книга рецептов украшений усадьбы, нужных для изготовления: предметов гильдейской арены."
+A book of homestead decoration recipes needed to craft Halloween items.,"Книга рецептов украшений усадьбы, нужных для изготовления: предметов Хэллоуина."
+A book of homestead decoration recipes needed to craft hedge mazes.,"Книга рецептов украшений усадьбы, нужных для изготовления: живых лабиринтов."
+A book of homestead decoration recipes needed to craft Krytan objects.,"Книга рецептов украшений усадьбы, нужных для изготовления: крайтанских предметов."
+A book of homestead decoration recipes needed to craft lights.,"Книга рецептов украшений усадьбы, нужных для изготовления: светильников."
+A book of homestead decoration recipes needed to craft lion statues.,"Книга рецептов украшений усадьбы, нужных для изготовления: статуй львов."
+A book of homestead decoration recipes needed to craft Lunar New Year items.,"Книга рецептов украшений усадьбы, нужных для изготовления: предметов Лунного нового года."
+A book of homestead decoration recipes needed to craft miscellaneous items.,"Книга рецептов украшений усадьбы, нужных для изготовления: разных предметов."
 "A book of homestead decoration recipes needed to craft objects from Amnytas. 
-Components may require Guild Wars 2: Secrets of the Obscure.",
+Components may require Guild Wars 2: Secrets of the Obscure.","Книга рецептов украшений усадьбы, нужных для изготовления: предметов из Амнитаса.
+Для компонентов может потребоваться Guild Wars 2: Secrets of the Obscure."
 "A book of homestead decoration recipes needed to craft objects from Auric Basin.
-Components may require Guild Wars 2: Heart of Thorns.",
+Components may require Guild Wars 2: Heart of Thorns.","Книга рецептов украшений усадьбы, нужных для изготовления: предметов из Золотого Бассейна.
+Для компонентов может потребоваться Guild Wars 2: Heart of Thorns."
 "A book of homestead decoration recipes needed to craft objects from Dragon's End.
-Components may require Guild Wars 2: End of Dragons.",
+Components may require Guild Wars 2: End of Dragons.","Книга рецептов украшений усадьбы, нужных для изготовления: предметов из Драконьего Предела.
+Для компонентов может потребоваться Guild Wars 2: End of Dragons."
 "A book of homestead decoration recipes needed to craft objects from Dragon's Stand.
-Components may require Guild Wars 2: Heart of Thorns.",
-A book of homestead decoration recipes needed to craft objects from Fractals of the Mists.,
+Components may require Guild Wars 2: Heart of Thorns.","Книга рецептов украшений усадьбы, нужных для изготовления: предметов из Драконьей Твердыни.
+Для компонентов может потребоваться Guild Wars 2: Heart of Thorns."
+A book of homestead decoration recipes needed to craft objects from Fractals of the Mists.,"Книга рецептов украшений усадьбы, нужных для изготовления: предметов из Фракталов Тумана."
 "A book of homestead decoration recipes needed to craft objects from Grothmar Valley.
-Components may require access to Prologue: Bound by Blood in the Icebrood Saga.",
+Components may require access to Prologue: Bound by Blood in the Icebrood Saga.","Книга рецептов украшений усадьбы, нужных для изготовления: предметов из Долины Гротмар.
+Для компонентов может потребоваться доступ к «Прологу: Узы крови» в «Саге о ледышках»."
 "A book of homestead decoration recipes needed to craft objects from Inner Nayos.
-Components may require Guild Wars 2: Secrets of the Obscure.",
+Components may require Guild Wars 2: Secrets of the Obscure.","Книга рецептов украшений усадьбы, нужных для изготовления: предметов из Внутреннего Найоса.
+Для компонентов может потребоваться Guild Wars 2: Secrets of the Obscure."
 "A book of homestead decoration recipes needed to craft objects from Skywatch Archipelago.
-Components may require Guild Wars 2: Secrets of the Obscure.",
-A book of homestead decoration recipes needed to craft paintings and shelves.,
-"A book of homestead decoration recipes needed to craft paintings, walls, and fountains.",
-A book of homestead decoration recipes needed to craft pillars.,
-A book of homestead decoration recipes needed to craft roller beetle racetrack parts.,
-A book of homestead decoration recipes needed to craft rugs.,
-A book of homestead decoration recipes needed to craft seer-themed objects.,
-A book of homestead decoration recipes needed to craft Solid Ocean Fractal items.,
-A book of homestead decoration recipes needed to craft some fractal decorations.,
-A book of homestead decoration recipes needed to craft statues and trophies.,
-A book of homestead decoration recipes needed to craft statues of the human gods.,
-A book of homestead decoration recipes needed to craft statues.,
-A book of homestead decoration recipes needed to craft summit banners.,
-A book of homestead decoration recipes needed to craft summit flags.,
-A book of homestead decoration recipes needed to craft Super Adventure Box items.,
-A book of homestead decoration recipes needed to craft tables and chairs.,
-A book of homestead decoration recipes needed to craft tables.,
-A book of homestead decoration recipes needed to craft trees.,
-A book of homestead decoration recipes needed to craft various light sources.,
-A book of homestead decoration recipes needed to craft various plants.,
-A book of homestead decoration recipes needed to craft Wintersday items.,
-A book of homestead decoration recipes needed to craft World vs. World items.,
-A book of recipes needed to craft Elegy armor.,
-A book of recipes needed to craft Mist Shard boots.,
-A book of recipes needed to craft Mist Shard coats.,
-A book of recipes needed to craft Mist Shard gloves.,
-A book of recipes needed to craft Mist Shard helms.,
-A book of recipes needed to craft Mist Shard leggings.,
-A book of recipes needed to craft Mist Shard shoulders.,
-A book of recipes needed to craft True Sight boots.,
-A book of recipes needed to craft True Sight coats.,
-A book of recipes needed to craft True Sight gloves.,
-A book of recipes needed to craft True Sight leggings.,
-A book of recipes needed to craft True Sight masks.,
-A book of recipes needed to craft True Sight shoulders.,
-"A bottle of stolen pirate rum. Duidda, east of the Greybeard's Landing, is collecting Pirate Rum.",
+Components may require Guild Wars 2: Secrets of the Obscure.","Книга рецептов украшений усадьбы, нужных для изготовления: предметов из архипелага Небесного Дозора.
+Для компонентов может потребоваться Guild Wars 2: Secrets of the Obscure."
+A book of homestead decoration recipes needed to craft paintings and shelves.,"Книга рецептов украшений усадьбы, нужных для изготовления: картин и полок."
+"A book of homestead decoration recipes needed to craft paintings, walls, and fountains.","Книга рецептов украшений усадьбы, нужных для изготовления: картин, стен и фонтанов."
+A book of homestead decoration recipes needed to craft pillars.,"Книга рецептов украшений усадьбы, нужных для изготовления: колонн."
+A book of homestead decoration recipes needed to craft roller beetle racetrack parts.,"Книга рецептов украшений усадьбы, нужных для изготовления: частей гоночной трассы для жука-роллера."
+A book of homestead decoration recipes needed to craft rugs.,"Книга рецептов украшений усадьбы, нужных для изготовления: ковров."
+A book of homestead decoration recipes needed to craft seer-themed objects.,"Книга рецептов украшений усадьбы, нужных для изготовления: предметов в стиле провидцев."
+A book of homestead decoration recipes needed to craft Solid Ocean Fractal items.,"Книга рецептов украшений усадьбы, нужных для изготовления: предметов фрактала «Твёрдый океан»."
+A book of homestead decoration recipes needed to craft some fractal decorations.,"Книга рецептов украшений усадьбы, нужных для изготовления: некоторых фрактальных украшений."
+A book of homestead decoration recipes needed to craft statues and trophies.,"Книга рецептов украшений усадьбы, нужных для изготовления: статуй и трофеев."
+A book of homestead decoration recipes needed to craft statues of the human gods.,"Книга рецептов украшений усадьбы, нужных для изготовления: статуй человеческих богов."
+A book of homestead decoration recipes needed to craft statues.,"Книга рецептов украшений усадьбы, нужных для изготовления: статуй."
+A book of homestead decoration recipes needed to craft summit banners.,"Книга рецептов украшений усадьбы, нужных для изготовления: знамён саммита."
+A book of homestead decoration recipes needed to craft summit flags.,"Книга рецептов украшений усадьбы, нужных для изготовления: флагов саммита."
+A book of homestead decoration recipes needed to craft Super Adventure Box items.,"Книга рецептов украшений усадьбы, нужных для изготовления: предметов Super Adventure Box."
+A book of homestead decoration recipes needed to craft tables and chairs.,"Книга рецептов украшений усадьбы, нужных для изготовления: столов и стульев."
+A book of homestead decoration recipes needed to craft tables.,"Книга рецептов украшений усадьбы, нужных для изготовления: столов."
+A book of homestead decoration recipes needed to craft trees.,"Книга рецептов украшений усадьбы, нужных для изготовления: деревьев."
+A book of homestead decoration recipes needed to craft various light sources.,"Книга рецептов украшений усадьбы, нужных для изготовления: разных источников света."
+A book of homestead decoration recipes needed to craft various plants.,"Книга рецептов украшений усадьбы, нужных для изготовления: разных растений."
+A book of homestead decoration recipes needed to craft Wintersday items.,"Книга рецептов украшений усадьбы, нужных для изготовления: предметов Зимнего дня."
+A book of homestead decoration recipes needed to craft World vs. World items.,"Книга рецептов украшений усадьбы, нужных для изготовления: предметов «Мир против мира»."
+A book of recipes needed to craft Elegy armor.,"Книга рецептов, нужных для изготовления: брони «Элегия»."
+A book of recipes needed to craft Mist Shard boots.,"Книга рецептов, нужных для изготовления: сапог «Осколок туманов»."
+A book of recipes needed to craft Mist Shard coats.,"Книга рецептов, нужных для изготовления: курток «Осколок туманов»."
+A book of recipes needed to craft Mist Shard gloves.,"Книга рецептов, нужных для изготовления: перчаток «Осколок туманов»."
+A book of recipes needed to craft Mist Shard helms.,"Книга рецептов, нужных для изготовления: шлемов «Осколок туманов»."
+A book of recipes needed to craft Mist Shard leggings.,"Книга рецептов, нужных для изготовления: поножей «Осколок туманов»."
+A book of recipes needed to craft Mist Shard shoulders.,"Книга рецептов, нужных для изготовления: наплечников «Осколок туманов»."
+A book of recipes needed to craft True Sight boots.,"Книга рецептов, нужных для изготовления: сапог «Истинное зрение»."
+A book of recipes needed to craft True Sight coats.,"Книга рецептов, нужных для изготовления: курток «Истинное зрение»."
+A book of recipes needed to craft True Sight gloves.,"Книга рецептов, нужных для изготовления: перчаток «Истинное зрение»."
+A book of recipes needed to craft True Sight leggings.,"Книга рецептов, нужных для изготовления: поножей «Истинное зрение»."
+A book of recipes needed to craft True Sight masks.,"Книга рецептов, нужных для изготовления: масок «Истинное зрение»."
+A book of recipes needed to craft True Sight shoulders.,"Книга рецептов, нужных для изготовления: наплечников «Истинное зрение»."
+"A bottle of stolen pirate rum. Duidda, east of the Greybeard's Landing, is collecting Pirate Rum.",Бутылка краденого пиратского рома. Дуидда к востоку от Причала Седобородого собирает пиратский ром.
 "A box salvaged from the Aetherblades containing various items from Shing Jea Monastery. A monk nearby is probably looking for this.
 
-This item has no use outside of a collection.",
-A Breath of Life,
-A Brief History of Cantha,
-A broken piece of a dwarven axe.,
-A broken piece of a dwarven dagger.,
-A broken piece of a dwarven shield.,
-A broken piece of a dwarven staff.,
-A broken piece of a dwarven war hammer.,
-A bubble of compressed baubles from Super Adventure Box. Trade these with Super Adventure Festival merchants.,
-A Burden,
-A Call to Action,
-A Capable Skyscale,
-A ceremonial trinket representing your mastery of bladesworn abilities.,
-A ceremonial trinket representing your mastery of catalyst abilities.,
-A ceremonial trinket representing your mastery of harbinger abilities.,
-A ceremonial trinket representing your mastery of mechanist abilities.,
-A ceremonial trinket representing your mastery of specter abilities.,
-A ceremonial trinket representing your mastery of untamed abilities.,
-A ceremonial trinket representing your mastery of vindicator abilities.,
-A ceremonial trinket representing your mastery of virtuoso abilities.,
-A ceremonial trinket representing your mastery of willbender abilities.,
+This item has no use outside of a collection.","Ящик, снятый у Эфирных Клинков, с разными предметами из монастыря Шинг Джея. Наверняка его ищет кто-то из здешних монахов.
+
+Вне коллекции этот предмет бесполезен."
+A Breath of Life,Дыхание жизни
+A Brief History of Cantha,Краткая история Канты
+A broken piece of a dwarven axe.,Обломок дворфского топора.
+A broken piece of a dwarven dagger.,Обломок дворфского кинжала.
+A broken piece of a dwarven shield.,Обломок дворфского щита.
+A broken piece of a dwarven staff.,Обломок дворфского посоха.
+A broken piece of a dwarven war hammer.,Обломок дворфского боевого молота.
+A bubble of compressed baubles from Super Adventure Box. Trade these with Super Adventure Festival merchants.,Пузырь со сжатыми блёстками из Super Adventure Box. Обменивайте их у торговцев Фестиваля супер-приключений.
+A Burden,Бремя
+A Call to Action,Призыв к действию
+A Capable Skyscale,Умелый скайскейл
+A ceremonial trinket representing your mastery of bladesworn abilities.,"Церемониальная безделушка, знаменующая ваше мастерское владение умениями клинковеда."
+A ceremonial trinket representing your mastery of catalyst abilities.,"Церемониальная безделушка, знаменующая ваше мастерское владение умениями катализатора."
+A ceremonial trinket representing your mastery of harbinger abilities.,"Церемониальная безделушка, знаменующая ваше мастерское владение умениями предвестника."
+A ceremonial trinket representing your mastery of mechanist abilities.,"Церемониальная безделушка, знаменующая ваше мастерское владение умениями механиста."
+A ceremonial trinket representing your mastery of specter abilities.,"Церемониальная безделушка, знаменующая ваше мастерское владение умениями призрака."
+A ceremonial trinket representing your mastery of untamed abilities.,"Церемониальная безделушка, знаменующая ваше мастерское владение умениями неукротимого."
+A ceremonial trinket representing your mastery of vindicator abilities.,"Церемониальная безделушка, знаменующая ваше мастерское владение умениями поборника."
+A ceremonial trinket representing your mastery of virtuoso abilities.,"Церемониальная безделушка, знаменующая ваше мастерское владение умениями виртуоза."
+A ceremonial trinket representing your mastery of willbender abilities.,"Церемониальная безделушка, знаменующая ваше мастерское владение умениями волеборца."
 "A Charr favorite snack!
-Purchased with Fractal Relics from BUY-4373 in Mistlock Observatory.",
-A Choya's Friends,
-A claw from a large griffon. This will make a worthy trophy.,
-A coin spent at your homestead café. Use this to purchase café upgrades or employee items.,
-A collection of dry roots that could be tied around something.,
-A collection of items in celebration of your dedication to the Eldvin Monastery Brew of the Month Club.,
-"A collection of items recovered from the cave. Contains a personal bandit chest for your home instance, obsidian shards, luck, and your choice of a Mordrem organ.",
+Purchased with Fractal Relics from BUY-4373 in Mistlock Observatory.","Любимое лакомство чарров!
+Покупается за фрактальные реликвии у BUY-4373 в Обсерватории Туманного Замка."
+A Choya's Friends,Друзья чойи
+A claw from a large griffon. This will make a worthy trophy.,Коготь крупного грифона. Из него выйдет достойный трофей.
+A coin spent at your homestead café. Use this to purchase café upgrades or employee items.,"Монета, потраченная в кафе твоей усадьбы. Используй её для покупки улучшений кафе или предметов для работников."
+A collection of dry roots that could be tied around something.,"Связка сухих кореньев, которой можно что-нибудь обвязать."
+A collection of items in celebration of your dedication to the Eldvin Monastery Brew of the Month Club.,Набор предметов в честь твоей верности «Клубу пива месяца» монастыря Элдвин.
+"A collection of items recovered from the cave. Contains a personal bandit chest for your home instance, obsidian shards, luck, and your choice of a Mordrem organ.","Набор предметов, добытых в пещере. Содержит личный бандитский сундук для домашней зоны, обсидиановые осколки, удачу и мордремский орган на твой выбор."
 "A collection of items to aid in the training of novice adventurers.
-Double-click to open.",
-A Collection of Parables of the Gods,
+Double-click to open.","Набор припасов в помощь обучению начинающих искателей приключений.
+Дважды щёлкните, чтобы открыть."
+A Collection of Parables of the Gods,Собрание притч о богах
 "A collection of supplies for any passionate coffee brewer!
-Contains 5 Mocha of the Mists Coffee Pitchers and 1 Metabolic Primer.",
-A collection of well-worn Luxon tools used for saddle construction prior to unification.,
-A Collective History Vol. 1,
-A Collective History Vol. 2,
-A Collective History Vol. 3,
-A Collective History Vol. 4,
-A Collective History Vol. 5,
-A compendium of knowledge of our lessers.,
-"A complete, first edition copy of ""The Shining Blade Manual,"" written by Master Exemplar Bartholos in 1089 A.E",
-"A completed memory of the Elder Dragon of Crystal and Fury, Kralkatorrik.",
-"A completed memory of the Elder Dragon of Fire and Destruction, Primordus.",
-"A completed memory of the Elder Dragon of Ice and Persuasion, Jormag.",
-"A completed memory of the Elder Dragon of Plant and Mind, Mordremoth.",
-"A completed memory of the Elder Dragon of Shadow and Death, Zhaitan.",
-"A completed memory of the Elder Dragon of Water and Life, Soo-Won.",
-A component for skyscale medicine.,
-A component used to create a Spirit Quest Tonic.,
-A Crab Clan keepsake.,
-A cracked blue stone that's cold to the touch. Scholar Inka is using these for her experiments.,
-A crate of supplies that should be taken to Ket'abatchk at Brightwater Inlet.,
-A crate of supplies that should be taken to Ollgi in Lommuld Kraal.,
-A crate of supplies that should be taken to Ouna in Diviner's Reach.,
+Contains 5 Mocha of the Mists Coffee Pitchers and 1 Metabolic Primer.","Набор припасов для всякого страстного любителя кофе!
+Содержит 5 кофейников «Мокко Туманов» и 1 обменник метаболизма."
+A collection of well-worn Luxon tools used for saddle construction prior to unification.,"Набор изрядно потёртых луксонских инструментов, которыми делали сёдла до объединения."
+A Collective History Vol. 1,"Общая история, том 1"
+A Collective History Vol. 2,"Общая история, том 2"
+A Collective History Vol. 3,"Общая история, том 3"
+A Collective History Vol. 4,"Общая история, том 4"
+A Collective History Vol. 5,"Общая история, том 5"
+A compendium of knowledge of our lessers.,"Свод знаний о тех, кто ниже нас."
+"A complete, first edition copy of ""The Shining Blade Manual,"" written by Master Exemplar Bartholos in 1089 A.E","Полный экземпляр первого издания «Наставления Сияющего Клинка», написанного мастером-образцом Бартолосом в 1089 ПИ"
+"A completed memory of the Elder Dragon of Crystal and Fury, Kralkatorrik.","Завершённое воспоминание о Старшем драконе Кристалла и Ярости, Кралькаторрика."
+"A completed memory of the Elder Dragon of Fire and Destruction, Primordus.","Завершённое воспоминание о Старшем драконе Огня и Разрушения, Примордуса."
+"A completed memory of the Elder Dragon of Ice and Persuasion, Jormag.","Завершённое воспоминание о Старшем драконе Льда и Убеждения, Джормага."
+"A completed memory of the Elder Dragon of Plant and Mind, Mordremoth.","Завершённое воспоминание о Старшем драконе Растений и Разума, Мордремота."
+"A completed memory of the Elder Dragon of Shadow and Death, Zhaitan.","Завершённое воспоминание о Старшем драконе Тени и Смерти, Жайтана."
+"A completed memory of the Elder Dragon of Water and Life, Soo-Won.","Завершённое воспоминание о Старшем драконе Воды и Жизни, Су-Вон."
+A component for skyscale medicine.,Компонент для лекарства скайскейлам.
+A component used to create a Spirit Quest Tonic.,Компонент для создания тоника духовного поиска.
+A Crab Clan keepsake.,Памятная вещица клана Краба.
+A cracked blue stone that's cold to the touch. Scholar Inka is using these for her experiments.,"Треснувший синий камень, холодный на ощупь. Учёная Инка использует такие для своих опытов."
+A crate of supplies that should be taken to Ket'abatchk at Brightwater Inlet.,"Ящик припасов, который нужно доставить Кет'абатчку в бухту Ясноводье."
+A crate of supplies that should be taken to Ollgi in Lommuld Kraal.,"Ящик припасов, который нужно доставить Оллги в Ломмулд-Крааль."
+A crate of supplies that should be taken to Ouna in Diviner's Reach.,"Ящик припасов, который нужно доставить Оуне в Предел Прорицателя."
 "A crystal from a Branded creature in Jahai.
 
-This item only has value as part of a collection.",
-A crystalline sliver that Vlast lost during combat. Follower Adisa is collecting them in the Ustulate Barrens in the Elon Riverlands.,
-A dagger roughly forged from Brand crystal using techniques learned from Forge Master Hilina.,
-A dagger skillfully forged from Brand crystal using techniques learned from Forge Master Hilina.,
-A data crystal that belongs to the Inquest. A Senior Researcher at the Old Golem Foundry might be interested in this.,
-A Day in Kryta,
-A decoration schematic that is processed by the guild's assembly device to make the decoration.,
-"A deeply corrupted censer, locked away behind a large door in a cave not far from the path to Orr.",
-A Desperate Need,
+This item only has value as part of a collection.","Кристалл клеймёного существа из Джахай.
+
+Вне коллекции этот предмет бесполезен."
+A crystalline sliver that Vlast lost during combat. Follower Adisa is collecting them in the Ustulate Barrens in the Elon Riverlands.,"Кристаллический осколок, потерянный Властом в бою. Последователь Адиса собирает их в Обугленных пустошах в Речных землях Элона."
+A dagger roughly forged from Brand crystal using techniques learned from Forge Master Hilina.,"Кинжал, грубо выкованный из кристалла Клейма по приёмам, перенятым у мастера горна Хилины."
+A dagger skillfully forged from Brand crystal using techniques learned from Forge Master Hilina.,"Кинжал, искусно выкованный из кристалла Клейма по приёмам, перенятым у мастера горна Хилины."
+A data crystal that belongs to the Inquest. A Senior Researcher at the Old Golem Foundry might be interested in this.,"Кристалл данных, принадлежащий Инквесту. Старший исследователь на Старой големной литейной может им заинтересоваться."
+A Day in Kryta,День в Крайте
+A decoration schematic that is processed by the guild's assembly device to make the decoration.,"Схема украшения, которую гильдейское сборочное устройство перерабатывает в само украшение."
+"A deeply corrupted censer, locked away behind a large door in a cave not far from the path to Orr.","Глубоко растлённое кадило, запертое за большой дверью в пещере неподалёку от дороги в Орр."
+A Desperate Need,Отчаянная нужда
 "A device for stabilizing unstable magic rifts.
 
-Double-click to equip.",
-A Dire Issue,
-A discarded tail feather from an owl griffon.,
-A discount voucher earned by aiding Ivy's Circus Spectacular.,
-A faint avian scent emanates from the bottle. Use its self-replenishing contents to transform into...something.,
-A faint canine scent emanates from the bottle. Use its self-replenishing contents to transform into...something.,
-A faint feline scent emanates from the bottle. Use its self-replenishing contents to transform into...something.,
-A faint meat scent emanates from the bottle. Use its self-replenishing contents to transform into...something.,
-A faint prickly scent emanates from the bottle. Use its self-replenishing contents to transform into...something.,
-A faint ursine scent emanates from the bottle. Use its self-replenishing contents to transform into...something.,
-"A faint, feline scent emanates from the bottle. Use its self-replenishing contents to transform into...something.",
-"A favorite treat of Astral Ward skyscales. Get enough and it should hide the taste of any medicine, no matter how awful.",
-A Fearful Message,
-A feather plucked from a harpy. Wode might find these useful.,
-A feline familiar frequently found following the footpaths of fallen foes.,
+Double-click to equip.","Устройство для стабилизации нестабильных магических разломов.
+
+Дважды щёлкните, чтобы экипировать."
+A Dire Issue,Тяжкое дело
+A discarded tail feather from an owl griffon.,Оброненное рулевое перо совиного грифона.
+A discount voucher earned by aiding Ivy's Circus Spectacular.,"Купон на скидку, полученный за помощь «Цирковому представлению Айви»."
+A faint avian scent emanates from the bottle. Use its self-replenishing contents to transform into...something.,"От бутылки исходит слабый птичий запах. Используйте её самопополняющееся содержимое, чтобы превратиться... во что-нибудь."
+A faint canine scent emanates from the bottle. Use its self-replenishing contents to transform into...something.,"От бутылки исходит слабый псиный запах. Используйте её самопополняющееся содержимое, чтобы превратиться... во что-нибудь."
+A faint feline scent emanates from the bottle. Use its self-replenishing contents to transform into...something.,"От бутылки исходит слабый кошачий запах. Используйте её самопополняющееся содержимое, чтобы превратиться... во что-нибудь."
+A faint meat scent emanates from the bottle. Use its self-replenishing contents to transform into...something.,"От бутылки исходит слабый мясной запах. Используйте её самопополняющееся содержимое, чтобы превратиться... во что-нибудь."
+A faint prickly scent emanates from the bottle. Use its self-replenishing contents to transform into...something.,"От бутылки исходит слабый колючий запах. Используйте её самопополняющееся содержимое, чтобы превратиться... во что-нибудь."
+A faint ursine scent emanates from the bottle. Use its self-replenishing contents to transform into...something.,"От бутылки исходит слабый медвежий запах. Используйте её самопополняющееся содержимое, чтобы превратиться... во что-нибудь."
+"A faint, feline scent emanates from the bottle. Use its self-replenishing contents to transform into...something.","От бутылки исходит слабый кошачий запах. Используйте её самопополняющееся содержимое, чтобы превратиться... во что-нибудь."
+"A favorite treat of Astral Ward skyscales. Get enough and it should hide the taste of any medicine, no matter how awful.","Любимое лакомство скайскейлов Астрального Дозора. Если набрать побольше, оно перебьёт вкус любого лекарства, каким бы мерзким оно ни было."
+A Fearful Message,Пугающее послание
+A feather plucked from a harpy. Wode might find these useful.,"Перо, выдернутое у гарпии. Воуду они могут пригодиться."
+A feline familiar frequently found following the footpaths of fallen foes.,"Кошачий питомец, что часто ходит по тропам павших врагов."
 "A fine egg specimen that Ploint is interested in.
-Event Item",
-A finely-crafted limited batch. It would make a nice gift for a kodan.,
+Event Item","Отличный образец яйца, которым интересуется Плойнт.
+Предмет события"
+A finely-crafted limited batch. It would make a nice gift for a kodan.,Изысканная малая партия. Из неё выйдет славный подарок для кодана.
 "A fluffy friend from across the Mists.
-Combine 2 Blue Shiba Inu and a Cream Shiba Inu with 12 Unidentified Dyes in the Mystic Forge to create a Mini Silver Shiba Inu.",
+Combine 2 Blue Shiba Inu and a Cream Shiba Inu with 12 Unidentified Dyes in the Mystic Forge to create a Mini Silver Shiba Inu.","Пушистый друг из-за Туманов.
+Соедините 2 синих сиба-ину и одного кремового сиба-ину с 12 неопознанными красителями в Мистической кузнице, чтобы создать мини-серебристого сиба-ину."
 "A fluffy friend from across the Mists.
-Combine 2 Crimson and a Red Shiba Inu with 12 Unidentified Dyes in the Mystic Forge to create a Mini Gold Shiba Inu.",
+Combine 2 Crimson and a Red Shiba Inu with 12 Unidentified Dyes in the Mystic Forge to create a Mini Gold Shiba Inu.","Пушистый друг из-за Туманов.
+Соедините 2 багровых и одного красного сиба-ину с 12 неопознанными красителями в Мистической кузнице, чтобы создать мини-золотого сиба-ину."
 "A fluffy friend from across the Mists.
 Combine 2 Sesame and a Red Shiba Inu with 4 Unidentified Dyes in the Mystic Forge to create a Mini Cream Shiba Inu.
-Combine 2 Sesame and a Black and Tan Shiba Inu with 8 Unidentified Dyes in the Mystic Forge to create a Mini Blue Shiba Inu.",
+Combine 2 Sesame and a Black and Tan Shiba Inu with 8 Unidentified Dyes in the Mystic Forge to create a Mini Blue Shiba Inu.","Пушистый друг из-за Туманов.
+Соедините 2 кунжутных и одного красного сиба-ину с 4 неопознанными красителями в Мистической кузнице, чтобы создать мини-кремового сиба-ину.
+Соедините 2 кунжутных и одного чёрно-подпалого сиба-ину с 8 неопознанными красителями в Мистической кузнице, чтобы создать мини-синего сиба-ину."
 "A fluffy friend from across the Mists.
-Combine 3 Red Shiba Inu with 2 Unidentified Dyes in the Mystic Forge to create a Black and Tan Shiba Inu.",
+Combine 3 Red Shiba Inu with 2 Unidentified Dyes in the Mystic Forge to create a Black and Tan Shiba Inu.","Пушистый друг из-за Туманов.
+Соедините 3 красных сиба-ину с 2 неопознанными красителями в Мистической кузнице, чтобы создать чёрно-подпалого сиба-ину."
 "A fluffy friend from across the Mists.
-Combine a Black and Tan Shiba Inu and 2 Red Shiba Inu with 4 Unidentified Dyes in the Mystic Forge to create a Mini Sesame Shiba Inu.",
+Combine a Black and Tan Shiba Inu and 2 Red Shiba Inu with 4 Unidentified Dyes in the Mystic Forge to create a Mini Sesame Shiba Inu.","Пушистый друг из-за Туманов.
+Соедините одного чёрно-подпалого и 2 красных сиба-ину с 4 неопознанными красителями в Мистической кузнице, чтобы создать мини-кунжутного сиба-ину."
 "A fluffy friend from across the Mists.
-Combine a Black and Tan, Cream, and Red Shiba Inu with 8 Unidentified Dyes in the Mystic Forge to create a Mini Crimson Shiba Inu.",
+Combine a Black and Tan, Cream, and Red Shiba Inu with 8 Unidentified Dyes in the Mystic Forge to create a Mini Crimson Shiba Inu.","Пушистый друг из-за Туманов.
+Соедините чёрно-подпалого, кремового и красного сиба-ину с 8 неопознанными красителями в Мистической кузнице, чтобы создать мини-багрового сиба-ину."
 "A fluffy friend from across the Mists.
-Combine a Gold, Crimson, and Cream Shiba Inu with 20 Unidentified Dyes in the Mystic Forge to create a Mini Blazing Shiba Inu.",
+Combine a Gold, Crimson, and Cream Shiba Inu with 20 Unidentified Dyes in the Mystic Forge to create a Mini Blazing Shiba Inu.","Пушистый друг из-за Туманов.
+Соедините золотого, багрового и кремового сиба-ину с 20 неопознанными красителями в Мистической кузнице, чтобы создать мини-пылающего сиба-ину."
 "A fluffy friend from across the Mists.
-Combine a Silver, Sesame, and Blue Shiba Inu with 20 Unidentified Dyes in the Mystic Forge to create a Mini Starry Shiba Inu.",
-A focus roughly forged from Brand crystal using techniques learned from Forge Master Hilina.,
-A focus skillfully forged from Brand crystal using techniques learned from Forge Master Hilina.,
-A focus taken from the husk of a fallen boneskinner.,
-A forgetten artifact the skritt left behind in the rush to escape the risen. Just what Crusader Aisling is looking for.,
+Combine a Silver, Sesame, and Blue Shiba Inu with 20 Unidentified Dyes in the Mystic Forge to create a Mini Starry Shiba Inu.","Пушистый друг из-за Туманов.
+Соедините серебристого, кунжутного и синего сиба-ину с 20 неопознанными красителями в Мистической кузнице, чтобы создать мини-звёздного сиба-ину."
+A focus roughly forged from Brand crystal using techniques learned from Forge Master Hilina.,"Фокус, грубо выкованный из кристалла Клейма по приёмам, перенятым у мастера горна Хилины."
+A focus skillfully forged from Brand crystal using techniques learned from Forge Master Hilina.,"Фокус, искусно выкованный из кристалла Клейма по приёмам, перенятым у мастера горна Хилины."
+A focus taken from the husk of a fallen boneskinner.,"Фокус, снятый с оболочки павшего костедёра."
+A forgetten artifact the skritt left behind in the rush to escape the risen. Just what Crusader Aisling is looking for.,"Забытый артефакт, брошенный скриттами в спешке при бегстве от восставших. Как раз то, что ищет крестоносец Айслинг."
 "A four-leaf clover from Club Canach. It makes those who wield it wonder if one can truly buy luck.
 
-This item is automatically consumed upon receiving it, and its only purpose is as part of a collection.",
-A fragment of air used to unlock the Sylvan Chest.,
-"A fragment of Aurene attuned to crystal and fury. Can be traded to Leivas in Seitung Province or, upon unlocking certain masteries, Arborstone.",
-"A fragment of Aurene attuned to fire and destruction. Can be traded to Leivas in Seitung Province or, upon unlocking certain masteries, Arborstone.",
-"A fragment of Aurene attuned to ice and persuasion. Can be traded to Leivas in Seitung Province or, upon unlocking certain masteries, Arborstone.",
-"A fragment of Aurene attuned to plant and mind. Can be traded to Leivas in Seitung Province or, after unlocking certain Masteries, in Arborstone.",
-A fragment of Aurene attuned to shadow and death. Can be traded to Leivas in Seitung Province or Arborstone. Double-click to select a Zhaitan-themed legendary weapon skin.,
-"A fragment of Aurene attuned to water and life. Can be traded to Leivas in Seitung Province or, upon unlocking certain masteries, Arborstone.",
-A fragment of earth used to unlock the Sylvan Chest.,
-A fragment of water used to unlock the Sylvan Chest.,
-A Fungus Among Us: Bronze,
-A ghostly captain commands a phantom army to trample your opponents with this finishing move in PvP and WvW.,
+This item is automatically consumed upon receiving it, and its only purpose is as part of a collection.","Четырёхлистный клевер из «Клуба Канаха». Тот, кто им владеет, невольно задумывается, правда ли удачу можно купить.
+
+Этот предмет поглощается сразу при получении, и его единственное назначение — быть частью коллекции."
+A fragment of air used to unlock the Sylvan Chest.,"Осколок воздуха, которым открывают Сильванский сундук."
+"A fragment of Aurene attuned to crystal and fury. Can be traded to Leivas in Seitung Province or, upon unlocking certain masteries, Arborstone.","Осколок Аурены, настроенный на кристалл и ярость. Можно обменять у Лейваса в Провинции Сейтун или, если открыты определённые мастерства, в Арборстоуне."
+"A fragment of Aurene attuned to fire and destruction. Can be traded to Leivas in Seitung Province or, upon unlocking certain masteries, Arborstone.","Осколок Аурены, настроенный на огонь и разрушение. Можно обменять у Лейваса в Провинции Сейтун или, если открыты определённые мастерства, в Арборстоуне."
+"A fragment of Aurene attuned to ice and persuasion. Can be traded to Leivas in Seitung Province or, upon unlocking certain masteries, Arborstone.","Осколок Аурены, настроенный на лёд и убеждение. Можно обменять у Лейваса в Провинции Сейтун или, если открыты определённые мастерства, в Арборстоуне."
+"A fragment of Aurene attuned to plant and mind. Can be traded to Leivas in Seitung Province or, after unlocking certain Masteries, in Arborstone.","Осколок Аурены, настроенный на растения и разум. Можно обменять у Лейваса в Провинции Сейтун или, после открытия определённых мастерств, в Арборстоуне."
+A fragment of Aurene attuned to shadow and death. Can be traded to Leivas in Seitung Province or Arborstone. Double-click to select a Zhaitan-themed legendary weapon skin.,"Осколок Аурены, настроенный на тень и смерть. Можно обменять у Лейваса в Провинции Сейтун или в Арборстоуне. Дважды щёлкните, чтобы выбрать облик легендарного оружия в стиле Жайтана."
+"A fragment of Aurene attuned to water and life. Can be traded to Leivas in Seitung Province or, upon unlocking certain masteries, Arborstone.","Осколок Аурены, настроенный на воду и жизнь. Можно обменять у Лейваса в Провинции Сейтун или, если открыты определённые мастерства, в Арборстоуне."
+A fragment of earth used to unlock the Sylvan Chest.,"Осколок земли, которым открывают Сильванский сундук."
+A fragment of water used to unlock the Sylvan Chest.,"Осколок воды, которым открывают Сильванский сундук."
+A Fungus Among Us: Bronze,Гриб среди нас: бронза
+A ghostly captain commands a phantom army to trample your opponents with this finishing move in PvP and WvW.,"Призрачный капитан ведёт фантомное войско, чтобы растоптать ваших противников — добивающий приём в PvP и WvW."
 "A gift bag!
-<c=@flavor>""Care is taken with every toy. A small gift given will bring great joy.""</c>",
-A gift from Anette Eymundrdottir. Bright Shore will be pleased.,
+<c=@flavor>""Care is taken with every toy. A small gift given will bring great joy.""</c>","Подарочный мешок!
+<c=@flavor>«О каждой игрушке заботятся с душой. Малый подарок принесёт радость большой».</c>"
+A gift from Anette Eymundrdottir. Bright Shore will be pleased.,Подарок от Анетты Эймундрдоттир. Ясный Берег будет доволен.
 "A gift from Kosmas to his broodling. Where did he find this?
 
-This item only has value as part of the Missing Brood collection.",
-A gift of blades used to create Tempered Spinal Blades.,
+This item only has value as part of the Missing Brood collection.","Подарок от Космаса его отпрыску. Где он такое нашёл?
+
+Этот предмет ценен лишь как часть коллекции «Пропавший выводок»."
+A gift of blades used to create Tempered Spinal Blades.,"Дар клинков, используемый для создания «Tempered Spinal Blades»."
 "A gift of color used to create The Bifrost.
 
-Purchase the recipe for this item from any Mystic Forge vendor and reach a chef rating of 400 to craft.",
+Purchase the recipe for this item from any Mystic Forge vendor and reach a chef rating of 400 to craft.","Дар цвета, используемый для создания «The Bifrost».
+
+Рецепт этого предмета покупается у любого торговца Мистической кузни; для изготовления нужен уровень повара 400."
 "A gift of darkness used to create Twilight.
 
-Purchase the recipe for this item from any Mystic Forge vendor and reach an armorsmith rating of 400 to craft.",
+Purchase the recipe for this item from any Mystic Forge vendor and reach an armorsmith rating of 400 to craft.","Дар тьмы, используемый для создания «Twilight».
+
+Рецепт этого предмета покупается у любого торговца Мистической кузни; для изготовления нужен уровень бронника 400."
 "A gift of energy used to create generation one and two legendary weapons and the legendary trinkets Vision and Aurora.
 
-Purchase the recipe for this item from any Mystic Forge vendor and reach an artificer rating of 400 to craft.",
+Purchase the recipe for this item from any Mystic Forge vendor and reach an artificer rating of 400 to craft.","Дар энергии, используемый для создания легендарного оружия первого и второго поколений, а также легендарных украшений «Vision» и «Aurora».
+
+Рецепт этого предмета покупается у любого торговца Мистической кузни; для изготовления нужен уровень артифактора 400."
 "A gift of entertainment used to create legendary weapons Quip and The Moot.
 
-Purchase the recipe for this item from any Mystic Forge vendor and reach an armorsmith rating of 400 to craft.",
+Purchase the recipe for this item from any Mystic Forge vendor and reach an armorsmith rating of 400 to craft.","Дар веселья, используемый для создания легендарного оружия «Quip» и «The Moot».
+
+Рецепт этого предмета покупается у любого торговца Мистической кузни; для изготовления нужен уровень бронника 400."
 "A gift of fortune used to create legendary weapons.
 
 Made by combining these items in the Mystic Forge:
 • 77 Mystic Clovers
 • 250 Globs of Ectoplasm
 • 1 Gift of Might
-• 1 Gift of Magic",
+• 1 Gift of Magic","Дар удачи, используемый для создания легендарного оружия.
+
+Создаётся соединением этих предметов в Мистической кузне:
+• 77 Mystic Clovers
+• 250 Globs of Ectoplasm
+• 1 Gift of Might
+• 1 Gift of Magic"
 "A gift of history used to create The Flameseeker Prophecies.
 
-Purchase the recipe for this item from any Mystic Forge vendor and reach a tailor rating of 400 to craft.",
+Purchase the recipe for this item from any Mystic Forge vendor and reach a tailor rating of 400 to craft.","Дар истории, используемый для создания «The Flameseeker Prophecies».
+
+Рецепт этого предмета покупается у любого торговца Мистической кузни; для изготовления нужен уровень портного 400."
 "A gift of ice used to create Frostfang.
 
-Purchase the recipe for this item from any Mystic Forge vendor and reach a jeweler rating of 400 to craft.",
+Purchase the recipe for this item from any Mystic Forge vendor and reach a jeweler rating of 400 to craft.","Дар льда, используемый для создания «Frostfang».
+
+Рецепт этого предмета покупается у любого торговца Мистической кузни; для изготовления нужен уровень ювелира 400."
 "A gift of light used to create Sunrise and Endless Summer.
 
-Purchase the recipe for this item from any Mystic Forge vendor and reach an armorsmith rating of 400 to craft.",
+Purchase the recipe for this item from any Mystic Forge vendor and reach an armorsmith rating of 400 to craft.","Дар света, используемый для создания «Sunrise» и «Endless Summer».
+
+Рецепт этого предмета покупается у любого торговца Мистической кузни; для изготовления нужен уровень бронника 400."
 "A gift of lightning used to create Bolt.
 
-Purchase the recipe for this item from any Mystic Forge vendor and reach an artificer rating of 400 to craft.",
+Purchase the recipe for this item from any Mystic Forge vendor and reach an artificer rating of 400 to craft.","Дар молнии, используемый для создания «Bolt».
+
+Рецепт этого предмета покупается у любого торговца Мистической кузни; для изготовления нужен уровень артифактора 400."
 "A gift of metal used to create generation one and two legendary weapons and the legendary back item Ad Infinitum.
 
-Purchase the recipe for this item from any Mystic Forge vendor and reach a weaponsmith rating of 400 to craft.",
+Purchase the recipe for this item from any Mystic Forge vendor and reach a weaponsmith rating of 400 to craft.","Дар металла, используемый для создания легендарного оружия первого и второго поколений, а также легендарного наспинного предмета «Ad Infinitum».
+
+Рецепт этого предмета покупается у любого торговца Мистической кузни; для изготовления нужен уровень оружейника 400."
 "A gift of music used to create The Minstrel.
 
-Purchase the recipe for this item from any Mystic Forge vendor and reach a jeweler rating of 400 to craft.",
+Purchase the recipe for this item from any Mystic Forge vendor and reach a jeweler rating of 400 to craft.","Дар музыки, используемый для создания «The Minstrel».
+
+Рецепт этого предмета покупается у любого торговца Мистической кузни; для изготовления нужен уровень ювелира 400."
 "A gift of nature used to create Kudzu.
 
-Purchase the recipe for this item from any Mystic Forge vendor and reach a leatherworker rating of 400 to craft.",
+Purchase the recipe for this item from any Mystic Forge vendor and reach a leatherworker rating of 400 to craft.","Дар природы, используемый для создания «Kudzu».
+
+Рецепт этого предмета покупается у любого торговца Мистической кузни; для изготовления нужен уровень кожевника 400."
 "A gift of stealth used to create The Predator.
 
-Purchase the recipe for this item from any Mystic Forge vendor and reach a leatherworker rating of 400 to craft.",
+Purchase the recipe for this item from any Mystic Forge vendor and reach a leatherworker rating of 400 to craft.","Дар скрытности, используемый для создания «The Predator».
+
+Рецепт этого предмета покупается у любого торговца Мистической кузни; для изготовления нужен уровень кожевника 400."
 "A gift of water used to craft Frenzy.
 
-Purchase the recipe for this item from any Mystic Forge vendor and reach a chef rating of 400 to craft.",
+Purchase the recipe for this item from any Mystic Forge vendor and reach a chef rating of 400 to craft.","Дар воды, используемый для создания «Frenzy».
+
+Рецепт этого предмета покупается у любого торговца Мистической кузни; для изготовления нужен уровень повара 400."
 "A gift of weather used to create Meteorlogicus.
 
-Purchase the recipe for this item from any Mystic Forge vendor and reach an armorsmith rating of 400 to craft.",
+Purchase the recipe for this item from any Mystic Forge vendor and reach an armorsmith rating of 400 to craft.","Дар погоды, используемый для создания «Meteorlogicus».
+
+Рецепт этого предмета покупается у любого торговца Мистической кузни; для изготовления нужен уровень бронника 400."
 "A gift of wood used to create generation one and two legendary weapons and the legendary back item Ad Infinitum.
 
-Purchase the recipe for this item from any Mystic Forge vendor and reach a huntsman rating of 400 to craft.",
-A gift that a dog thoughtfully brought for you. Double-click to open.,
+Purchase the recipe for this item from any Mystic Forge vendor and reach a huntsman rating of 400 to craft.","Дар дерева, используемый для создания легендарного оружия первого и второго поколений, а также легендарного наспинного предмета «Ad Infinitum».
+
+Рецепт этого предмета покупается у любого торговца Мистической кузни; для изготовления нужен уровень охотника 400."
+A gift that a dog thoughtfully brought for you. Double-click to open.,"Подарок, который пёс заботливо тебе принёс. Дважды щёлкните, чтобы открыть."
 "A gift used in legendary crafting.
 
 Acquired from the WvW Gift of Battle Item Reward Track.
@@ -668,186 +871,335 @@ Acquired from the WvW Gift of Battle Item Reward Track.
 To create the Gift of War Prosperity, combine this in the Mystic Forge with:
 • 15 Mystic Clovers
 • 1 Gift of Condensed Might
-• 1 Gift of Condensed Magic",
-A gift used to create legendary armor.,
-A gift used to create legendary jewelry.,
-A gift used to create legendary weapons.,
+• 1 Gift of Condensed Magic","Дар, используемый в создании легендарок.
+
+Получается на пути наград «Gift of Battle» в WvW.
+
+Чтобы создать Gift of War Prosperity, соедините его в Мистической кузне с:
+• 15 Mystic Clovers
+• 1 Gift of Condensed Might
+• 1 Gift of Condensed Magic"
+A gift used to create legendary armor.,"Дар, используемый для создания легендарной брони."
+A gift used to create legendary jewelry.,"Дар, используемый для создания легендарных украшений."
+A gift used to create legendary weapons.,"Дар, используемый для создания легендарного оружия."
 "A gift used to create legendary weapons.
 
-Acquired from fully exploring all Central Tyrian maps.",
+Acquired from fully exploring all Central Tyrian maps.","Дар, используемый для создания легендарного оружия.
+
+Получается за полное исследование всех карт Центральной Тирии."
 "A gift used to create legendary weapons.
 
 Made by combining these items in the Mystic Forge:
 • 1 Bloodstone Shard
 • 250 Obsidian Shards
 • 1 Gift of Exploration
-• 1 Gift of Battle",
+• 1 Gift of Battle","Дар, используемый для создания легендарного оружия.
+
+Создаётся соединением этих предметов в Мистической кузне:
+• 1 Bloodstone Shard
+• 250 Obsidian Shards
+• 1 Gift of Exploration
+• 1 Gift of Battle"
 "A gift used to create legendary weapons.
 
 Made by combining these items in the Mystic Forge:
 • 250 Vials of Powerful Blood
 • 250 Powerful Venom Sacs
 • 250 Elaborate Totems
-• 250 Piles of Crystalline Dust",
+• 250 Piles of Crystalline Dust","Дар, используемый для создания легендарного оружия.
+
+Создаётся соединением этих предметов в Мистической кузне:
+• 250 Vials of Powerful Blood
+• 250 Powerful Venom Sacs
+• 250 Elaborate Totems
+• 250 Piles of Crystalline Dust"
 "A gift used to create legendary weapons.
 
 Made by combining these items in the Mystic Forge:
 • 250 Vicious Fangs
 • 250 Armored Scales
 • 250 Vicious Claws
-• 250 Ancient Bones",
+• 250 Ancient Bones","Дар, используемый для создания легендарного оружия.
+
+Создаётся соединением этих предметов в Мистической кузне:
+• 250 Vicious Fangs
+• 250 Armored Scales
+• 250 Vicious Claws
+• 250 Ancient Bones"
 "A gift used to create legendary weapons.
 
-Purchased from dungeon vendors for 500 Tales of Dungeon Delving.",
-A gift used to create Mad King weapons.,
+Purchased from dungeon vendors for 500 Tales of Dungeon Delving.","Дар, используемый для создания легендарного оружия.
+
+Покупается у торговцев подземелий за 500 Tales of Dungeon Delving."
+A gift used to create Mad King weapons.,"Дар, используемый для создания оружия Безумного Короля."
 "A gift used to create the legendary axe Frostfang.
 
 Made by combining these items in the Mystic Forge:
 • 1 Gift of Metal
 • 1 Gift of Ice
 • 100 Icy Runestones
-• 1 Superior Sigil of Ice",
+• 1 Superior Sigil of Ice","Дар, используемый для создания легендарного топора «Frostfang».
+
+Создаётся соединением этих предметов в Мистической кузне:
+• 1 Gift of Metal
+• 1 Gift of Ice
+• 100 Icy Runestones
+• 1 Superior Sigil of Ice"
 "A gift used to create the legendary dagger Incinerator.
 
 Made by combining these items in the Mystic Forge:
 • 1 Gift of Metal
 • 1 Vial of Liquid Flame
 • 100 Icy Runestones
-• 1 Superior Sigil of Fire",
+• 1 Superior Sigil of Fire","Дар, используемый для создания легендарного кинжала «Incinerator».
+
+Создаётся соединением этих предметов в Мистической кузне:
+• 1 Gift of Metal
+• 1 Vial of Liquid Flame
+• 100 Icy Runestones
+• 1 Superior Sigil of Fire"
 "A gift used to create the legendary focus The Minstrel.
 
 Made by combining these items in the Mystic Forge:
 • 1 Gift of Energy
 • 1 Gift of Music
 • 100 Icy Runestones
-• 1 Superior Sigil of Energy",
+• 1 Superior Sigil of Energy","Дар, используемый для создания легендарного фокуса «The Minstrel».
+
+Создаётся соединением этих предметов в Мистической кузне:
+• 1 Gift of Energy
+• 1 Gift of Music
+• 100 Icy Runestones
+• 1 Superior Sigil of Energy"
 "A gift used to create the legendary greatsword Sunrise.
 
 Made by combining these items in the Mystic Forge:
 • 1 Gift of Metal
 • 1 Gift of Light
 • 100 Icy Runestones
-• 1 Superior Sigil of Strength",
+• 1 Superior Sigil of Strength","Дар, используемый для создания легендарного двуручного меча «Sunrise».
+
+Создаётся соединением этих предметов в Мистической кузне:
+• 1 Gift of Metal
+• 1 Gift of Light
+• 100 Icy Runestones
+• 1 Superior Sigil of Strength"
 "A gift used to create the legendary greatsword Twilight.
 
 Made by combining these items in the Mystic Forge:
 • 1 Gift of Metal
 • 1 Gift of Darkness
 • 100 Icy Runestones
-• 1 Superior Sigil of Blood",
+• 1 Superior Sigil of Blood","Дар, используемый для создания легендарного двуручного меча «Twilight».
+
+Создаётся соединением этих предметов в Мистической кузне:
+• 1 Gift of Metal
+• 1 Gift of Darkness
+• 100 Icy Runestones
+• 1 Superior Sigil of Blood"
 "A gift used to create the legendary hammer The Juggernaut.
 
 Made by combining these items in the Mystic Forge:
 • 1 Gift of Metal
 • 1 Vial of Quicksilver
 • 1 100 Icy Runestones
-• 1 Superior Sigil of Benevolence",
+• 1 Superior Sigil of Benevolence","Дар, используемый для создания легендарного молота «The Juggernaut».
+
+Создаётся соединением этих предметов в Мистической кузне:
+• 1 Gift of Metal
+• 1 Vial of Quicksilver
+• 1 100 Icy Runestones
+• 1 Superior Sigil of Benevolence"
 "A gift used to create the legendary harpoon gun Frenzy.
 
 Made by combining these items in the Mystic Forge:
 • 1 Gift of Wood
 • 1 Gift of Water
 • 100 Icy Runestones
-• 1 Superior Sigil of Rage",
+• 1 Superior Sigil of Rage","Дар, используемый для создания легендарного гарпунного ружья «Frenzy».
+
+Создаётся соединением этих предметов в Мистической кузне:
+• 1 Gift of Wood
+• 1 Gift of Water
+• 100 Icy Runestones
+• 1 Superior Sigil of Rage"
 "A gift used to create the legendary longbow Kudzu.
 
 Made by combining these items in the Mystic Forge:
 • 1 Gift of Wood
 • 1 Gift of Nature
 • 100 Icy Runestones
-• 1 Superior Sigil of Celerity",
+• 1 Superior Sigil of Celerity","Дар, используемый для создания легендарного длинного лука «Kudzu».
+
+Создаётся соединением этих предметов в Мистической кузне:
+• 1 Gift of Wood
+• 1 Gift of Nature
+• 100 Icy Runestones
+• 1 Superior Sigil of Celerity"
 "A gift used to create the legendary mace The Moot.
 
 Made by combining these items in the Mystic Forge:
 • 1 Gift of Metal
 • 1 Gift of Entertainment
 • 100 Icy Runestones
-• 1 Superior Sigil of Energy",
+• 1 Superior Sigil of Energy","Дар, используемый для создания легендарной булавы «The Moot».
+
+Создаётся соединением этих предметов в Мистической кузне:
+• 1 Gift of Metal
+• 1 Gift of Entertainment
+• 100 Icy Runestones
+• 1 Superior Sigil of Energy"
 "A gift used to create the legendary pistol Quip.
 
 Made by combining these items in the Mystic Forge:
 • 1 Gift of Wood
 • 1 Gift of Entertainment
 • 100 Icy Runestones
-• 1 Superior Sigil of Stamina",
+• 1 Superior Sigil of Stamina","Дар, используемый для создания легендарного пистолета «Quip».
+
+Создаётся соединением этих предметов в Мистической кузне:
+• 1 Gift of Wood
+• 1 Gift of Entertainment
+• 100 Icy Runestones
+• 1 Superior Sigil of Stamina"
 "A gift used to create the legendary rifle The Predator.
 
 Made by combining these items in the Mystic Forge:
 • 1 Gift of Wood
 • 1 Gift of Stealth
 • 100 Icy Runestones
-• 1 Superior Sigil of Force",
+• 1 Superior Sigil of Force","Дар, используемый для создания легендарного ружья «The Predator».
+
+Создаётся соединением этих предметов в Мистической кузне:
+• 1 Gift of Wood
+• 1 Gift of Stealth
+• 100 Icy Runestones
+• 1 Superior Sigil of Force"
 "A gift used to create the legendary scepter Meteorlogicus.
 
 Made by combining these items in the Mystic Forge:
 • 1 Gift of Energy
 • 1 Gift of Weather
 • 100 Icy Runestones
-• 1 Superior Sigil of Air",
+• 1 Superior Sigil of Air","Дар, используемый для создания легендарного скипетра «Meteorlogicus».
+
+Создаётся соединением этих предметов в Мистической кузне:
+• 1 Gift of Energy
+• 1 Gift of Weather
+• 100 Icy Runestones
+• 1 Superior Sigil of Air"
 "A gift used to create the legendary shield The Flameseeker Prophecies.
 
 Made by combining these items in the Mystic Forge:
 • 1 Gift of Metal
 • 1 Gift of History
 • 100 Icy Runestones
-• 1 Superior Sigil of Battle",
+• 1 Superior Sigil of Battle","Дар, используемый для создания легендарного щита «The Flameseeker Prophecies».
+
+Создаётся соединением этих предметов в Мистической кузне:
+• 1 Gift of Metal
+• 1 Gift of History
+• 100 Icy Runestones
+• 1 Superior Sigil of Battle"
 "A gift used to create the legendary short bow The Dreamer.
 
 Made by combining these items in the Mystic Forge:
 • 1 Gift of Wood
 • 1 Unicorn Statue
 • 100 Icy Runestones
-• 1 Superior Sigil of Purity",
+• 1 Superior Sigil of Purity","Дар, используемый для создания легендарного короткого лука «The Dreamer».
+
+Создаётся соединением этих предметов в Мистической кузне:
+• 1 Gift of Wood
+• 1 Unicorn Statue
+• 100 Icy Runestones
+• 1 Superior Sigil of Purity"
 "A gift used to create the legendary spear Kamohoali'i Kotaki.
 
 Made by combining these items in the Mystic Forge:
 • 1 Gift of Metal
 • 1 Shark Statue
 • 100 Icy Runestones
-• 1 Superior Sigil of Agony",
+• 1 Superior Sigil of Agony","Дар, используемый для создания легендарного копья «Kamohoali'i Kotaki».
+
+Создаётся соединением этих предметов в Мистической кузне:
+• 1 Gift of Metal
+• 1 Shark Statue
+• 100 Icy Runestones
+• 1 Superior Sigil of Agony"
 "A gift used to create the legendary staff The Bifrost.
 
 Made by combining these items in the Mystic Forge:
 • 1 Gift of Energy
 • 1 Gift of Color
 • 100 Icy Runestones
-• 1 Superior Sigil of Nullification",
+• 1 Superior Sigil of Nullification","Дар, используемый для создания легендарного посоха «The Bifrost».
+
+Создаётся соединением этих предметов в Мистической кузне:
+• 1 Gift of Energy
+• 1 Gift of Color
+• 100 Icy Runestones
+• 1 Superior Sigil of Nullification"
 "A gift used to create the legendary sword Bolt.
 
 Made by combining these items in the Mystic Forge:
 • 1 Gift of Metal
 • 1 Gift of Lightning
 • 100 Icy Runestones
-• 1 Superior Sigil of Air",
+• 1 Superior Sigil of Air","Дар, используемый для создания легендарного меча «Bolt».
+
+Создаётся соединением этих предметов в Мистической кузне:
+• 1 Gift of Metal
+• 1 Gift of Lightning
+• 100 Icy Runestones
+• 1 Superior Sigil of Air"
 "A gift used to create the legendary torch Rodgort.
 
 Made by combining these items in the Mystic Forge:
 • 1 Gift of Wood
 • 1 Vial of Liquid Flame
 • 100 Icy Runestones
-• 1 Superior Sigil of Fire",
+• 1 Superior Sigil of Fire","Дар, используемый для создания легендарного факела «Rodgort».
+
+Создаётся соединением этих предметов в Мистической кузне:
+• 1 Gift of Wood
+• 1 Vial of Liquid Flame
+• 100 Icy Runestones
+• 1 Superior Sigil of Fire"
 "A gift used to create the legendary trident Kraitkin.
 
 Made by combining these items in the Mystic Forge:
 • 1 Gift of Energy
 • 1 Eel Statue
 • 100 Icy Runestones
-• 1 Superior Sigil of Venom",
+• 1 Superior Sigil of Venom","Дар, используемый для создания легендарного трезубца «Kraitkin».
+
+Создаётся соединением этих предметов в Мистической кузне:
+• 1 Gift of Energy
+• 1 Eel Statue
+• 100 Icy Runestones
+• 1 Superior Sigil of Venom"
 "A gift used to create the legendary warhorn Howler.
 
 Made by combining these items in the Mystic Forge:
 • 1 Gift of Wood
 • 1 Wolf Statue
 • 100 Icy Runestones
-• 1 Superior Sigil of Accuracy",
-A glass mug made by jewelers from lumps of glass.,
-A Golden Wish,
-A great predator does not let themselves become the prey.,
-A greatsword roughly forged from Brand crystal using techniques learned from Forge Master Hilina.,
-A greatsword skillfully forged from Brand crystal using techniques learned from Forge Master Hilina.,
-A Growing Child,
-A guard at Steampipe Steading filed a report on an odd flash of light across the canyon.,
-A hammer roughly forged from Brand crystal using techniques learned from Forge Master Hilina.,
-A hammer skillfully forged from Brand crystal using techniques learned from Forge Master Hilina.,
-A handcrafted ship within a surprisingly spotless bottle. Etched into the boat's side is a tribute to the Spirits of the Wild. A refugee in Hoelbrak might want this back.,
-A hat to celebrate this new day in Tyria.,
+• 1 Superior Sigil of Accuracy","Дар, используемый для создания легендарного боевого рога «Howler».
+
+Создаётся соединением этих предметов в Мистической кузне:
+• 1 Gift of Wood
+• 1 Wolf Statue
+• 100 Icy Runestones
+• 1 Superior Sigil of Accuracy"
+A glass mug made by jewelers from lumps of glass.,"Стеклянная кружка, изготовленная ювелирами из кусков стекла."
+A Golden Wish,Золотое желание
+A great predator does not let themselves become the prey.,Великий хищник не позволяет себе стать добычей.
+A greatsword roughly forged from Brand crystal using techniques learned from Forge Master Hilina.,"Двуручный меч, грубо выкованный из кристалла Клейма по приёмам, перенятым у мастера горна Хилины."
+A greatsword skillfully forged from Brand crystal using techniques learned from Forge Master Hilina.,"Двуручный меч, искусно выкованный из кристалла Клейма по приёмам, перенятым у мастера горна Хилины."
+A Growing Child,Растущее дитя
+A guard at Steampipe Steading filed a report on an odd flash of light across the canyon.,Стражник в Паровом Подворье подал рапорт о странной вспышке света на той стороне каньона.
+A hammer roughly forged from Brand crystal using techniques learned from Forge Master Hilina.,"Молот, грубо выкованный из кристалла Клейма по приёмам, перенятым у мастера горна Хилины."
+A hammer skillfully forged from Brand crystal using techniques learned from Forge Master Hilina.,"Молот, искусно выкованный из кристалла Клейма по приёмам, перенятым у мастера горна Хилины."
+A handcrafted ship within a surprisingly spotless bottle. Etched into the boat's side is a tribute to the Spirits of the Wild. A refugee in Hoelbrak might want this back.,"Корабль ручной работы в на удивление чистой бутылке. Сбоку на лодке выгравирована дань Духам Дикой природы. Один беженец в Хоэльбраке, возможно, хочет получить его обратно."
+A hat to celebrate this new day in Tyria.,Шляпа в честь этого нового дня в Тирии.
