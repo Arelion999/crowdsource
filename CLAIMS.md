@@ -158,18 +158,18 @@
 | `ui_015.csv` | ui | 488 | 47,443 | %str1%%str2%Whisper's Secret Shield%str3%%str | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_016.csv` | ui | 492 | 118,085 | (Thief) Pickpocket | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_017.csv` | ui | 500 | 20,073 | +20 Vitality+14 Healing+14 Power |  |  |
-| `ui_018.csv` | ui | 496 | 34,417 | +7%% Strike Damage vs. Inquest+3%% Strike Dam |  |  |
-| `ui_019.csv` | ui | 497 | 38,123 | 24-Slot Cowrie League Locker |  |  |
+| `ui_018.csv` | ui | 496 | 34,417 | +7%% Strike Damage vs. Inquest+3%% Strike Dam | ✅ | Магистр Клод, Приорат Дурманд |
+| `ui_019.csv` | ui | 497 | 38,123 | 24-Slot Cowrie League Locker | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_020.csv` | ui | 492 | 51,871 | <c=@abilitytype>Chain.</c> Slash your foe, th | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_021.csv` | ui | 499 | 46,099 | <c=@flavor>"Minds, Words, Deeds."<br>—Ash Leg | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_022.csv` | ui | 499 | 21,223 | <c=@reminder>Unlock this finisher by purchasi |  |  |
 | `ui_023.csv` | ui | 491 | 49,386 | [lbracket]Lured[rbracket] | ✅ | Магистр Клод, Приорат Дурманд |
-| `ui_024.csv` | ui | 500 | 34,009 | A peasant approaches the commander with a dub |  |  |
+| `ui_024.csv` | ui | 500 | 34,009 | A peasant approaches the commander with a dub | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_025.csv` | ui | 497 | 28,712 | Achievements and lifetime statistics are not  |  |  |
-| `ui_026.csv` | ui | 496 | 34,547 | Aerial Master |  |  |
+| `ui_026.csv` | ui | 496 | 34,547 | Aerial Master | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_027.csv` | ui | 465 | 20,397 | Allied Heal |  |  |
 | `ui_028.csv` | ui | 445 | 22,537 | Ancient Scepter Core[s] |  |  |
-| `ui_029.csv` | ui | 478 | 33,745 | Area Weakness |  |  |
+| `ui_029.csv` | ui | 478 | 33,745 | Area Weakness | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_030.csv` | ui | 500 | 33,476 | Assist the asuran researchers in Ember Bay. | ✅ | Магистр Клод |
 | `ui_031.csv` | ui | 499 | 14,890 | Avatar Amulet |  |  |
 | `ui_032.csv` | ui | 498 | 24,063 | Base defenders killed |  |  |
@@ -178,16 +178,16 @@
 | `ui_035.csv` | ui | 499 | 15,324 | Bonefish[pl:"Bonefish"] |  |  |
 | `ui_036.csv` | ui | 499 | 16,979 | Bowl[s] of Green Chile Ice Cream |  |  |
 | `ui_037.csv` | ui | 500 | 21,652 | Brandstone Node[s] |  |  |
-| `ui_038.csv` | ui | 497 | 33,570 | Bug Bite |  |  |
+| `ui_038.csv` | ui | 497 | 33,570 | Bug Bite | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_039.csv` | ui | 496 | 20,852 | Call Destroyer |  |  |
 | `ui_040.csv` | ui | 498 | 17,761 | Carnage Orange Dye[s] |  |  |
 | `ui_041.csv` | ui | 497 | 26,959 | Chak Goop |  |  |
 | `ui_042.csv` | ui | 500 | 15,116 | Chase the Spirit beyond the Tears |  |  |
 | `ui_043.csv` | ui | 499 | 17,086 | Choya Wave |  |  |
 | `ui_044.csv` | ui | 485 | 50,541 | Collapse your star, creating a black hole. | ✅ | Магистр Клод, Приорат Дурманд |
-| `ui_045.csv` | ui | 489 | 34,673 | Community Goal Reward[s] Tier 3 |  |  |
-| `ui_046.csv` | ui | 495 | 31,040 | Complete the Glimmering Resin Weapon Collecti |  |  |
-| `ui_047.csv` | ui | 497 | 35,852 | Concoction of Transformation |  |  |
+| `ui_045.csv` | ui | 489 | 34,673 | Community Goal Reward[s] Tier 3 | ✅ | Магистр Клод, Приорат Дурманд |
+| `ui_046.csv` | ui | 495 | 31,040 | Complete the Glimmering Resin Weapon Collecti | ✅ | Магистр Клод, Приорат Дурманд |
+| `ui_047.csv` | ui | 497 | 35,852 | Concoction of Transformation | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_048.csv` | ui | 499 | 20,511 | Convergences: Mount Balrior (Public) |  |  |
 | `ui_049.csv` | ui | 499 | 19,295 | Create a repeatable instance. |  |  |
 | `ui_050.csv` | ui | 496 | 15,926 | Cup[s] of Bloodstone Soup |  |  |
@@ -208,7 +208,7 @@
 | `ui_065.csv` | ui | 497 | 23,725 | Find the grand chest in the Ship of Sorrows. |  |  |
 | `ui_066.csv` | ui | 499 | 14,161 | First Mate Horrik |  |  |
 | `ui_067.csv` | ui | 497 | 29,814 | Foefire Pistol Skin[s] |  |  |
-| `ui_068.csv` | ui | 500 | 33,230 | Found in the chest in the Volcanic Fractal. |  |  |
+| `ui_068.csv` | ui | 500 | 33,230 | Found in the chest in the Volcanic Fractal. | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_069.csv` | ui | 499 | 16,781 | Fractured Forged Magic |  |  |
 | `ui_070.csv` | ui | 499 | 31,686 | FXVille, Inc. |  |  |
 | `ui_071.csv` | ui | 500 | 16,497 | Gather supplies for the Astral Ward before ti |  |  |
@@ -239,7 +239,7 @@
 | `ui_096.csv` | ui | 491 | 13,794 | Mini Ley-Line Scavenger[s] |  |  |
 | `ui_097.csv` | ui | 499 | 16,721 | Minimum Players |  |  |
 | `ui_098.csv` | ui | 498 | 17,863 | Mithril Sword Blade[s] |  |  |
-| `ui_099.csv` | ui | 494 | 35,023 | Mortar Mastery IV: Increased Damage |  |  |
+| `ui_099.csv` | ui | 494 | 35,023 | Mortar Mastery IV: Increased Damage | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_100.csv` | ui | 497 | 16,552 | Mystical Beast Scepter Skin[s] |  |  |
 | `ui_101.csv` | ui | 498 | 23,733 | Nightmare Rewards |  |  |
 | `ui_102.csv` | ui | 498 | 15,171 | Number of Blades |  |  |
@@ -289,14 +289,14 @@
 | `ui_146.csv` | ui | 500 | 55,835 | The Only Way Season | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_147.csv` | ui | 500 | 52,852 | The Tower of Nightmares has been cleared! | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_148.csv` | ui | 492 | 57,060 | This bag contains six items in at least the m | ✅ | Магистр Клод, Приорат Дурманд |
-| `ui_149.csv` | ui | 495 | 31,890 | This panel displays all your available utilit |  |  |
+| `ui_149.csv` | ui | 495 | 31,890 | This panel displays all your available utilit | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_150.csv` | ui | 496 | 15,967 | Throw Jar |  |  |
-| `ui_151.csv` | ui | 489 | 37,826 | Timekeeper's Harvesting Sickle[s] |  |  |
+| `ui_151.csv` | ui | 489 | 37,826 | Timekeeper's Harvesting Sickle[s] | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_152.csv` | ui | 500 | 20,451 | Tower (Neutral)<brx>• 40 points on capture<br |  |  |
 | `ui_153.csv` | ui | 498 | 25,377 | Track[pl:"Copies of Track"] 5: Mountain March |  |  |
 | `ui_154.csv` | ui | 497 | 20,571 | Tray[s] of Rosemary Bread |  |  |
 | `ui_155.csv` | ui | 498 | 23,796 | Tyrian Fishing Reward[s] |  |  |
-| `ui_156.csv` | ui | 499 | 38,985 | Unlock the skin for Spearmarshal's Vambraces  |  |  |
+| `ui_156.csv` | ui | 499 | 38,985 | Unlock the skin for Spearmarshal's Vambraces  | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_157.csv` | ui | 494 | 41,867 | Use the Dwarven Spell Trap after gathering th | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_158.csv` | ui | 499 | 16,129 | Vault Transport[s] |  |  |
 | `ui_159.csv` | ui | 500 | 21,175 | Violent Outburst |  |  |
@@ -304,8 +304,8 @@
 | `ui_161.csv` | ui | 486 | 42,419 | Wayfinder,I found one of the Oracle Cards aft | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_162.csv` | ui | 497 | 27,994 | While airborne, rapidly dash forward. |  |  |
 | `ui_163.csv` | ui | 497 | 31,235 | Wisteria Arborscale Skyscale Skin now availab |  |  |
-| `ui_164.csv` | ui | 499 | 33,099 | WvW mission where members must capture an obj |  |  |
-| `ui_165.csv` | ui | 500 | 33,003 | You can't teleport while a player is on the c |  |  |
+| `ui_164.csv` | ui | 499 | 33,099 | WvW mission where members must capture an obj | ✅ | Магистр Клод, Приорат Дурманд |
+| `ui_165.csv` | ui | 500 | 33,003 | You can't teleport while a player is on the c | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_166.csv` | ui | 500 | 34,673 | You have received a fragment of Scarlet's Jou |  |  |
 | `ui_167.csv` | ui | 499 | 42,760 | You need an Exalted key to open this chest. | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_168.csv` | ui | 499 | 43,807 | You've unlocked your fourth weapon skill. Pre | ✅ | Магистр Клод, Приорат Дурманд |
