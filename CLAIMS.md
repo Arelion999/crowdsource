@@ -195,22 +195,22 @@
 | `ui_052.csv` | ui | 492 | 26,511 | Defeat and collect the bounty for the legenda |  |  |
 | `ui_053.csv` | ui | 500 | 17,195 | Defender's Chest[s] of Coats |  |  |
 | `ui_054.csv` | ui | 496 | 18,578 | Destroyer burrows |  |  |
-| `ui_055.csv` | ui | 497 | 30,251 | Dive deep where Dwayna meets the waterway. |  |  |
+| `ui_055.csv` | ui | 497 | 30,251 | Dive deep where Dwayna meets the waterway. | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_056.csv` | ui | 499 | 18,850 | Double-click to open.<br>Affected by magic fi |  |  |
 | `ui_057.csv` | ui | 499 | 18,167 | Drink Southsun Punch |  |  |
 | `ui_058.csv` | ui | 492 | 25,044 | Dwayna's Shield Skin[s] |  |  |
 | `ui_059.csv` | ui | 498 | 19,015 | Ein Valravn treibt sich beim Friedhof herum u |  |  |
-| `ui_060.csv` | ui | 497 | 31,024 | Enchanted Owl Griffon Skin[s] |  |  |
+| `ui_060.csv` | ui | 497 | 31,024 | Enchanted Owl Griffon Skin[s] | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_061.csv` | ui | 499 | 17,404 | Episode free with Guild Wars 2: End of Dragon |  |  |
 | `ui_062.csv` | ui | 499 | 21,603 | Every time you die, your armor becomes less d |  |  |
 | `ui_063.csv` | ui | 498 | 19,142 | Extended Potion[s] of Nightmare Court Slaying |  |  |
 | `ui_064.csv` | ui | 498 | 27,216 | Fen Rifle |  |  |
 | `ui_065.csv` | ui | 497 | 23,725 | Find the grand chest in the Ship of Sorrows. |  |  |
 | `ui_066.csv` | ui | 499 | 14,161 | First Mate Horrik |  |  |
-| `ui_067.csv` | ui | 497 | 29,814 | Foefire Pistol Skin[s] |  |  |
+| `ui_067.csv` | ui | 497 | 29,814 | Foefire Pistol Skin[s] | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_068.csv` | ui | 500 | 33,230 | Found in the chest in the Volcanic Fractal. | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_069.csv` | ui | 499 | 16,781 | Fractured Forged Magic |  |  |
-| `ui_070.csv` | ui | 499 | 31,686 | FXVille, Inc. |  |  |
+| `ui_070.csv` | ui | 499 | 31,686 | FXVille, Inc. | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_071.csv` | ui | 500 | 16,497 | Gather supplies for the Astral Ward before ti |  |  |
 | `ui_072.csv` | ui | 498 | 14,984 | Gift[s] of the Ursus |  |  |
 | `ui_073.csv` | ui | 500 | 19,052 | Gold Rank Chest |  |  |
@@ -221,7 +221,7 @@
 | `ui_078.csv` | ui | 500 | 20,542 | Hint: Plays amidst the monastery's landscapin |  |  |
 | `ui_079.csv` | ui | 496 | 23,606 | Honk the party horn at the attendees to stop  |  |  |
 | `ui_080.csv` | ui | 499 | 96,908 | I can't fathom how you were able to take out  | ✅ | Магистр Клод, Приорат Дурманд |
-| `ui_081.csv` | ui | 493 | 32,178 | Ignore Event |  |  |
+| `ui_081.csv` | ui | 493 | 32,178 | Ignore Event | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_082.csv` | ui | 498 | 20,761 | Increase Inflicted Bleeding Duration: 25%% |  |  |
 | `ui_083.csv` | ui | 500 | 18,443 | Inquest looting finished in: %str1% |  |  |
 | `ui_084.csv` | ui | 492 | 36,683 | Isgarren is higher in the tower. Dagda, a por | ✅ | Магистр Клод, Приорат Дурманд |
@@ -303,7 +303,7 @@
 | `ui_160.csv` | ui | 500 | 18,185 | Wanted: Morg |  |  |
 | `ui_161.csv` | ui | 486 | 42,419 | Wayfinder,I found one of the Oracle Cards aft | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_162.csv` | ui | 497 | 27,994 | While airborne, rapidly dash forward. |  |  |
-| `ui_163.csv` | ui | 497 | 31,235 | Wisteria Arborscale Skyscale Skin now availab |  |  |
+| `ui_163.csv` | ui | 497 | 31,235 | Wisteria Arborscale Skyscale Skin now availab | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_164.csv` | ui | 499 | 33,099 | WvW mission where members must capture an obj | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_165.csv` | ui | 500 | 33,003 | You can't teleport while a player is on the c | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_166.csv` | ui | 500 | 34,673 | You have received a fragment of Scarlet's Jou |  |  |
