@@ -1,6 +1,6 @@
 # Батчи перевода GW2 RU — доска захвата
 
-Всего батчей: **420** | строк: **206,253**. Чтобы забиндить батч — впиши свой ник и поставь 🔨 (в работе). Готово → ✅ + ссылка на файл/PR.
+Всего батчей: **430** | строк: **210,787**. Чтобы забиндить батч — впиши свой ник и поставь 🔨 (в работе). Готово → ✅ + ссылка на файл/PR.
 
 | Батч | Тип | Строк | Знаков | Первая строка | Статус | Кто взял |
 |---|---|---:|---:|---|:---:|---|
@@ -424,3 +424,13 @@
 | `new_112.csv` | new | 500 | 28,314 | Yo me encargo |  |  |
 | `new_113.csv` | new | 500 | 26,477 | You there! Lend me your ear for a moment. |  |  |
 | `new_114.csv` | new | 467 | 16,086 | Zaida |  |  |
+| `new_115.csv` | new | 500 | 13,852 | ![lbracket]alt text[rbracket](https://loading |  |  |
+| `new_116.csv` | new | 500 | 6,225 | Bash a foe with your shield and stun them. |  |  |
+| `new_117.csv` | new | 500 | 4,878 | Crafting |  |  |
+| `new_118.csv` | new | 500 | 4,607 | Finisher |  |  |
+| `new_119.csv` | new | 500 | 4,659 | Ingredient |  |  |
+| `new_120.csv` | new | 500 | 6,600 | Mini Axemaster Hareth |  |  |
+| `new_121.csv` | new | 500 | 4,637 | Overcharge |  |  |
+| `new_122.csv` | new | 500 | 5,359 | Saved |  |  |
+| `new_123.csv` | new | 500 | 5,032 | Th |  |  |
+| `new_124.csv` | new | 34 | 237 | humiliation. |  |  |
