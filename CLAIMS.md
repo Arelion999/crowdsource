@@ -165,7 +165,7 @@
 | `ui_022.csv` | ui | 499 | 21,223 | <c=@reminder>Unlock this finisher by purchasi |  |  |
 | `ui_023.csv` | ui | 491 | 49,386 | [lbracket]Lured[rbracket] | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_024.csv` | ui | 500 | 34,009 | A peasant approaches the commander with a dub | ✅ | Магистр Клод, Приорат Дурманд |
-| `ui_025.csv` | ui | 497 | 28,712 | Achievements and lifetime statistics are not  |  |  |
+| `ui_025.csv` | ui | 497 | 28,712 | Achievements and lifetime statistics are not  | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_026.csv` | ui | 496 | 34,547 | Aerial Master | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_027.csv` | ui | 465 | 20,397 | Allied Heal |  |  |
 | `ui_028.csv` | ui | 445 | 22,537 | Ancient Scepter Core[s] |  |  |
@@ -216,8 +216,8 @@
 | `ui_073.csv` | ui | 500 | 19,052 | Gold Rank Chest |  |  |
 | `ui_074.csv` | ui | 493 | 44,398 | Green Mine | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_075.csv` | ui | 492 | 25,067 | Guild Recruitment |  |  |
-| `ui_076.csv` | ui | 497 | 29,168 | Hatched Chili Pepper Home Instance Node[pl:"N |  |  |
-| `ui_077.csv` | ui | 494 | 28,542 | Help collect dwarven artifacts. |  |  |
+| `ui_076.csv` | ui | 497 | 29,168 | Hatched Chili Pepper Home Instance Node[pl:"N | ✅ | Магистр Клод, Приорат Дурманд |
+| `ui_077.csv` | ui | 494 | 28,542 | Help collect dwarven artifacts. | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_078.csv` | ui | 500 | 20,542 | Hint: Plays amidst the monastery's landscapin |  |  |
 | `ui_079.csv` | ui | 496 | 23,606 | Honk the party horn at the attendees to stop  |  |  |
 | `ui_080.csv` | ui | 499 | 96,908 | I can't fathom how you were able to take out  | ✅ | Магистр Клод, Приорат Дурманд |
@@ -251,7 +251,7 @@
 | `ui_108.csv` | ui | 500 | 18,725 | Places an asuran turret |  |  |
 | `ui_109.csv` | ui | 500 | 17,153 | Point de passage |  |  |
 | `ui_110.csv` | ui | 497 | 18,879 | Potted Tree[s] |  |  |
-| `ui_111.csv` | ui | 498 | 29,203 | Private Property of P.I. Joko |  |  |
+| `ui_111.csv` | ui | 498 | 29,203 | Private Property of P.I. Joko | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_112.csv` | ui | 499 | 24,326 | Purchase from Wark near Terra Combusta in Bla |  |  |
 | `ui_113.csv` | ui | 497 | 18,668 | QA Health 8 |  |  |
 | `ui_114.csv` | ui | 496 | 18,542 | Rally point is extremely distant. Clear nearb |  |  |
@@ -266,7 +266,7 @@
 | `ui_123.csv` | ui | 499 | 23,023 | Reload up to three stun bolts. |  |  |
 | `ui_124.csv` | ui | 496 | 20,688 | Respawn Type |  |  |
 | `ui_125.csv` | ui | 500 | 15,207 | Ring-Tailed Vulpine Jackal Skin[s] |  |  |
-| `ui_126.csv` | ui | 498 | 28,257 | Rune[s] of the Ogre |  |  |
+| `ui_126.csv` | ui | 498 | 28,257 | Rune[s] of the Ogre | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_127.csv` | ui | 494 | 23,659 | Satchel[s] of Valkyrie Exalted Armor |  |  |
 | `ui_128.csv` | ui | 498 | 22,043 | Sea Raider Door |  |  |
 | `ui_129.csv` | ui | 498 | 16,448 | Send mail |  |  |
