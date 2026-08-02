@@ -9,11 +9,11 @@
 | `items_003.csv` | items | 500 | 47,275 | <c=@flavor>"The greater the strike, the great | ✅ | Магистр Клод, Приорат Дурманд |
 | `items_004.csv` | items | 500 | 40,676 | <c=@flavor>A striking sample of a black moa's | ✅ | Магистр Клод, Приорат Дурманд |
 | `items_005.csv` | items | 500 | 49,597 | <c=@flavor>The inscription on the inside read | ✅ | Магистр Клод, Приорат Дурманд |
-| `items_006.csv` | items | 500 | 26,682 | A heated fragment of light used to unlock the |  |  |
-| `items_007.csv` | items | 500 | 43,160 | A recipe to make a Tengu Short Bow. |  |  |
-| `items_008.csv` | items | 500 | 53,267 | A recipe to make an ascended inscription for  |  |  |
-| `items_009.csv` | items | 500 | 49,800 | A recipe to make an ascended short bow with D |  |  |
-| `items_010.csv` | items | 500 | 45,182 | A recipe to make ascended heavy leggings with |  |  |
+| `items_006.csv` | items | 500 | 26,682 | A heated fragment of light used to unlock the | ✅ | Магистр Клод, Приорат Дурманд |
+| `items_007.csv` | items | 500 | 43,160 | A recipe to make a Tengu Short Bow. | ✅ | Магистр Клод, Приорат Дурманд |
+| `items_008.csv` | items | 500 | 53,267 | A recipe to make an ascended inscription for  | ✅ | Магистр Клод, Приорат Дурманд |
+| `items_009.csv` | items | 500 | 49,800 | A recipe to make an ascended short bow with D | ✅ | Магистр Клод, Приорат Дурманд |
+| `items_010.csv` | items | 500 | 45,182 | A recipe to make ascended heavy leggings with | ✅ | Магистр Клод, Приорат Дурманд |
 | `items_011.csv` | items | 500 | 30,675 | A recipe to make Trailblazer's Draconic Legs. |  |  |
 | `items_012.csv` | items | 500 | 20,463 | Advanced Harvesting Sickle |  |  |
 | `items_013.csv` | items | 500 | 12,145 | Ancient Boreal Focus Skin | ✅ | Магистр Клод, Приорат Дурманд |
