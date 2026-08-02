@@ -1,6 +1,6 @@
 # Батчи перевода GW2 RU — доска захвата
 
-Всего батчей: **339** | строк: **165,786**. Чтобы забиндить батч — впиши свой ник и поставь 🔨 (в работе). Готово → ✅ + ссылка на файл/PR.
+Всего батчей: **420** | строк: **206,253**. Чтобы забиндить батч — впиши свой ник и поставь 🔨 (в работе). Готово → ✅ + ссылка на файл/PR.
 
 | Батч | Тип | Строк | Знаков | Первая строка | Статус | Кто взял |
 |---|---|---:|---:|---|:---:|---|
@@ -343,3 +343,84 @@
 | `new_031.csv` | new | 500 | 25,475 | Weakness and Damage Extreme | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_032.csv` | new | 434 | 21,933 | You are losing health. | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_033.csv` | new | 50 | 1,955 | A team is attempting to drive the Risen from  | ✅ | Магистр Клод, Приорат Дурманд |
+| `new_034.csv` | new | 500 | 26,638 | "/Zittern"-Belohnungspfad |  |  |
+| `new_035.csv` | new | 500 | 29,079 | (cringe) That was close. |  |  |
+| `new_036.csv` | new | 500 | 19,127 | A very small siamoth. Or is it? |  |  |
+| `new_037.csv` | new | 500 | 18,137 | After visiting the eight Forgotten statues, r |  |  |
+| `new_038.csv` | new | 500 | 19,791 | Amabilidad correspondida |  |  |
+| `new_039.csv` | new | 500 | 20,441 | Arbiter Lo Loju |  |  |
+| `new_040.csv` | new | 500 | 15,607 | Asesino[f:"Asesina"] de raptores |  |  |
+| `new_041.csv` | new | 500 | 16,836 | Ayes |  |  |
+| `new_042.csv` | new | 500 | 14,627 | Benevolencia de año nuevo |  |  |
+| `new_043.csv` | new | 500 | 16,532 | Botín automático: recogida automática |  |  |
+| `new_044.csv` | new | 500 | 20,160 | But—I—am—certain—it—could—be—perfected—with—y |  |  |
+| `new_045.csv` | new | 500 | 16,121 | Cascade—failure—imminent. |  |  |
+| `new_046.csv` | new | 500 | 15,489 | Check on Peitha. |  |  |
+| `new_047.csv` | new | 500 | 20,020 | Commander Samuelsson |  |  |
+| `new_048.csv` | new | 500 | 14,240 | Cosas que es mejor olvidar |  |  |
+| `new_049.csv` | new | 500 | 15,692 | Dando pisotones |  |  |
+| `new_050.csv` | new | 500 | 15,531 | Deliver these to the work crews before the pr |  |  |
+| `new_051.csv` | new | 500 | 16,781 | Die Flammen-Legion besiegen |  |  |
+| `new_052.csv` | new | 500 | 17,980 | Don't come back. |  |  |
+| `new_053.csv` | new | 500 | 18,009 | Earthen Cyclone[s] |  |  |
+| `new_054.csv` | new | 500 | 13,840 | Einzelhaft |  |  |
+| `new_055.csv` | new | 500 | 16,704 | Engineer reporting. |  |  |
+| `new_056.csv` | new | 500 | 19,782 | Eternal Ember processing begins in: %str1% |  |  |
+| `new_057.csv` | new | 500 | 16,142 | Explotarbustos |  |  |
+| `new_058.csv` | new | 500 | 16,797 | Fine. Spit me. |  |  |
+| `new_059.csv` | new | 500 | 16,967 | Foul Tide |  |  |
+| `new_060.csv` | new | 500 | 13,918 | Gefangene des Drachen |  |  |
+| `new_061.csv` | new | 500 | 17,200 | Golem Repair End |  |  |
+| `new_062.csv` | new | 500 | 17,131 | Gut gepanzert |  |  |
+| `new_063.csv` | new | 500 | 20,471 | Heggel |  |  |
+| `new_064.csv` | new | 500 | 17,780 | Historian Symon |  |  |
+| `new_065.csv` | new | 500 | 28,124 | I admire passion, but you may want to tone it |  |  |
+| `new_066.csv` | new | 500 | 27,046 | I like your Braham miniature. |  |  |
+| `new_067.csv` | new | 500 | 24,981 | I'll deactivate tailor and become a huntsman. |  |  |
+| `new_068.csv` | new | 500 | 25,651 | I've got your back. |  |  |
+| `new_069.csv` | new | 500 | 17,085 | Indeed. Looks like I must've forgotten one. |  |  |
+| `new_070.csv` | new | 500 | 21,979 | Isn't traveling wonderful? |  |  |
+| `new_071.csv` | new | 500 | 16,089 | Jora. Mountain Walker, Kinslayer, Curse Break |  |  |
+| `new_072.csv` | new | 500 | 14,634 | Kill them quickly! |  |  |
+| `new_073.csv` | new | 500 | 14,540 | La gran evasión |  |  |
+| `new_074.csv` | new | 500 | 18,672 | Let me guess. Trouble? |  |  |
+| `new_075.csv` | new | 500 | 18,018 | Lionguard Moirin |  |  |
+| `new_076.csv` | new | 500 | 15,650 | Maestro[f:"Maestra"] de recuerdos del espejo |  |  |
+| `new_077.csv` | new | 500 | 16,081 | Medallion[s] of the Assassin |  |  |
+| `new_078.csv` | new | 500 | 16,591 | Misión especial: Recuperación de hierro |  |  |
+| `new_079.csv` | new | 500 | 14,311 | My show's a real killer, eh? |  |  |
+| `new_080.csv` | new | 500 | 19,347 | No hay dos sin tres |  |  |
+| `new_081.csv` | new | 500 | 23,533 | Oben wie unten |  |  |
+| `new_082.csv` | new | 500 | 18,187 | Optionen |  |  |
+| `new_083.csv` | new | 500 | 15,724 | People are breaking things, and I don't know  |  |  |
+| `new_084.csv` | new | 500 | 16,474 | Polar-Knochen |  |  |
+| `new_085.csv` | new | 500 | 15,845 | Prueba de salto del día: Caverna del Orbe |  |  |
+| `new_086.csv` | new | 500 | 18,287 | Reactor AI |  |  |
+| `new_087.csv` | new | 500 | 22,795 | Recipe[s]: Vigilant Pearl Sabre |  |  |
+| `new_088.csv` | new | 500 | 16,076 | Regenerates • Reduces Max Health |  |  |
+| `new_089.csv` | new | 500 | 13,905 | Retrospektives Runterspringen |  |  |
+| `new_090.csv` | new | 500 | 16,006 | Roll-Wettkämpfer[f:"Wettkämpferin"]: Tropenta |  |  |
+| `new_091.csv` | new | 500 | 14,438 | Sasha |  |  |
+| `new_092.csv` | new | 500 | 14,244 | Searching... Searching... Searching... Positi |  |  |
+| `new_093.csv` | new | 500 | 16,107 | She could help us. And, not to be a gossip or |  |  |
+| `new_094.csv` | new | 500 | 19,222 | Slayer Alanis |  |  |
+| `new_095.csv` | new | 500 | 15,302 | Southern Edge |  |  |
+| `new_096.csv` | new | 500 | 16,100 | Step through the Mists toward the next incurs |  |  |
+| `new_097.csv` | new | 500 | 14,618 | Supply Package[s] |  |  |
+| `new_098.csv` | new | 500 | 20,449 | Tartas de Debbie |  |  |
+| `new_099.csv` | new | 500 | 37,203 | That's Arabella's ship: the Kraken's Pride! S |  |  |
+| `new_100.csv` | new | 500 | 42,477 | The challenge is currently in progress. Short |  |  |
+| `new_101.csv` | new | 500 | 38,311 | The ward is healing, but it may take time for |  |  |
+| `new_102.csv` | new | 500 | 30,947 | This heat is beastly. Jim lad! Bring me my sn |  |  |
+| `new_103.csv` | new | 500 | 17,264 | Time to put some distance between us! |  |  |
+| `new_104.csv` | new | 500 | 18,421 | Travel to the Labyrinthine Cliffs |  |  |
+| `new_105.csv` | new | 500 | 19,513 | Täglicher[f:"Tägliche"] Eroberer[f:"Eroberin" |  |  |
+| `new_106.csv` | new | 500 | 17,322 | Unter Umständen nahrungsmittelähnlich |  |  |
+| `new_107.csv` | new | 500 | 15,528 | Veteran Destroyer Harpies |  |  |
+| `new_108.csv` | new | 500 | 29,072 | Wall 3 |  |  |
+| `new_109.csv` | new | 500 | 26,243 | We're proud that you have chosen to serve alo |  |  |
+| `new_110.csv` | new | 500 | 23,008 | What have you learned about the Kryptis here? |  |  |
+| `new_111.csv` | new | 500 | 20,119 | Wild Carrot Plant |  |  |
+| `new_112.csv` | new | 500 | 28,314 | Yo me encargo |  |  |
+| `new_113.csv` | new | 500 | 26,477 | You there! Lend me your ear for a moment. |  |  |
+| `new_114.csv` | new | 467 | 16,086 | Zaida |  |  |
