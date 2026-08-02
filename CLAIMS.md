@@ -145,11 +145,11 @@
 | `ui_002.csv` | ui | 500 | 15,699 | %str1% (%num1%/%num2% complete) | ✅ | Магистр Клод |
 | `ui_003.csv` | ui | 500 | 21,964 | %str1%%str2%Abyssal Fractal Dagger%str3%%str4 | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_004.csv` | ui | 500 | 21,277 | %str1%%str2%Beach Trunks%str3%%str4% | ✅ | Магистр Клод, Приорат Дурманд |
-| `ui_005.csv` | ui | 467 | 19,690 | %str1%%str2%Commander's Helm%str3%%str4% |  |  |
-| `ui_006.csv` | ui | 491 | 20,797 | %str1%%str2%Eagle Eye Shield%str3%%str4% |  |  |
-| `ui_007.csv` | ui | 491 | 20,474 | %str1%%str2%Full Moon Scepter%str3%%str4% |  |  |
-| `ui_008.csv` | ui | 491 | 19,855 | %str1%%str2%Heritage Mantle%str3%%str4% |  |  |
-| `ui_009.csv` | ui | 499 | 21,597 | %str1%%str2%Lightborne Focus%str3%%str4% |  |  |
+| `ui_005.csv` | ui | 467 | 19,690 | %str1%%str2%Commander's Helm%str3%%str4% | ✅ | Магистр Клод, Приорат Дурманд |
+| `ui_006.csv` | ui | 491 | 20,797 | %str1%%str2%Eagle Eye Shield%str3%%str4% | ✅ | Магистр Клод, Приорат Дурманд |
+| `ui_007.csv` | ui | 491 | 20,474 | %str1%%str2%Full Moon Scepter%str3%%str4% | ✅ | Магистр Клод, Приорат Дурманд |
+| `ui_008.csv` | ui | 491 | 19,855 | %str1%%str2%Heritage Mantle%str3%%str4% | ✅ | Магистр Клод, Приорат Дурманд |
+| `ui_009.csv` | ui | 499 | 21,597 | %str1%%str2%Lightborne Focus%str3%%str4% | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_010.csv` | ui | 488 | 19,793 | %str1%%str2%Mordrem Rifle%str3%%str4% |  |  |
 | `ui_011.csv` | ui | 492 | 21,204 | %str1%%str2%Pirate Flintlock%str3%%str4% |  |  |
 | `ui_012.csv` | ui | 482 | 21,167 | %str1%%str2%Saryx Mace%str3%%str4% |  |  |
