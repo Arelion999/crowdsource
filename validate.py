@@ -18,7 +18,8 @@
   - символ U+FFFD (битая кодировка);
   - потерян структурный префикс «Recipe[s]: », «Chest[s]: » и т.п. (в переводе нет двоеточия);
   - две формы в плюрал-группе, когда в оригинале [s]/[pl:…] — русскому нужно три (1 / 2-4 / 5+);
-  - «висячий» знак ударения (U+0301) не на гласной — след опечатки.
+  - «висячий» знак ударения (U+0301) не на гласной — след опечатки;
+  - латинская буква-двойник внутри русского слова («Лом Пактa»).
 
 ПРЕДУПРЕЖДЕНИЯ (не блокируют):
   - скобочная группа без | (подозрительно для плюрала);
@@ -47,6 +48,23 @@ PREFIX_EN = re.compile(r'^[A-Z][A-Za-z\' -]{2,30}(?:\[s\]|\[pl:"[^"]*"\]):\s')
 STRESS_OK = re.compile(r'[аеёиоуыэюяАЕЁИОУЫЭЮЯ]́')
 STRESS_ANY = re.compile(r'[̀-ͯ]')
 TY = re.compile(r'\b(ты|тебя|тебе|тобой|твой|твоя|твоё|твои|твоего|твоей|твоих|твою|твоим|твоём)\b', re.I)
+# Латинская буква-двойник внутри русского слова («Лом Пактa» — последняя 'a' латинская).
+# Глазом не видно, а слово уже не русское: ломается поиск и подстановка имён.
+# Ошибкой считаем только два случая — буква зажата кириллицей («кастoранской») или
+# строчная буква в конце русского слова («Пактa»). Заглавная латиница после кириллицы
+# обычно склеенное сокращение («ДеббиP.S.»), а латиница рядом с латиницей — имя («Kye»).
+HOMO = set('aceopxyABCEHKMOPTX')
+
+def homoglyph(s):
+    def cyr(ch):
+        return bool(ch) and ('а' <= ch.lower() <= 'я' or ch.lower() == 'ё')
+    for i, ch in enumerate(s):
+        if ch not in HOMO or not cyr(s[i-1] if i else ''):
+            continue
+        nxt = s[i+1] if i + 1 < len(s) else ''
+        if cyr(nxt) or (ch.islower() and not (nxt.isascii() and nxt.isalpha())):
+            return s[max(0, i-8):i+8]
+    return None
 VY = re.compile(r'\b(вы|вас|вам|вами|ваш|ваша|ваше|ваши|вашего|вашей|ваших|вашу|вашим|вашем)\b', re.I)
 
 def tokens(s):
@@ -85,6 +103,9 @@ def check_row(en, ru):
         errs.append(f"потерян префикс «{PREFIX_EN.match(en).group().strip()}» — в переводе нет двоеточия")
     if STRESS_ANY.search(STRESS_OK.sub('', ru)):
         errs.append("знак ударения не на гласной (мусор от набора)")
+    hg = homoglyph(ru)
+    if hg:
+        errs.append(f"латинская буква внутри русского слова: «{hg}»")
     if TY.search(ru) and VY.search(ru):
         warns.append("«ты» и «вы» в одной строке")
     if en.rstrip()[-1:] in '.!?' and ru.rstrip()[-1:] not in '.!?…»"\')%]>':
@@ -118,6 +139,10 @@ def validate_paths(paths):
             rows = list(csv.reader(open(fp, encoding='utf-8')))
         except Exception as e:
             errors.append((fp, 0, '', f"не читается: {e}")); continue
+        # Батч — это CSV с заголовком «english,translate». Служебные таблицы
+        # (отчёты синка, sync/reports/*.csv) пропускаем: у них другие колонки.
+        if not rows or not rows[0] or rows[0][0].strip().lower() != 'english':
+            continue
         for i, r in enumerate(rows[1:], start=2):  # line number in file
             if len(r) < 2 or not r[1].strip():
                 continue
