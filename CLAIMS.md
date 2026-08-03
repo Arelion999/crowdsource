@@ -358,11 +358,11 @@
 | `new_046.csv` | new | 500 | 15,489 | Check on Peitha. | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_047.csv` | new | 500 | 20,020 | Commander Samuelsson | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_048.csv` | new | 500 | 14,240 | Cosas que es mejor olvidar | ✅ | Магистр Клод, Приорат Дурманд |
-| `new_049.csv` | new | 500 | 15,692 | Dando pisotones |  |  |
-| `new_050.csv` | new | 500 | 15,531 | Deliver these to the work crews before the pr |  |  |
-| `new_051.csv` | new | 500 | 16,781 | Die Flammen-Legion besiegen |  |  |
-| `new_052.csv` | new | 500 | 17,980 | Don't come back. |  |  |
-| `new_053.csv` | new | 500 | 18,009 | Earthen Cyclone[s] |  |  |
+| `new_049.csv` | new | 500 | 15,692 | Dando pisotones | ✅ | Магистр Клод, Приорат Дурманд |
+| `new_050.csv` | new | 500 | 15,531 | Deliver these to the work crews before the pr | ✅ | Магистр Клод, Приорат Дурманд |
+| `new_051.csv` | new | 500 | 16,781 | Die Flammen-Legion besiegen | ✅ | Магистр Клод, Приорат Дурманд |
+| `new_052.csv` | new | 500 | 17,980 | Don't come back. | ✅ | Магистр Клод, Приорат Дурманд |
+| `new_053.csv` | new | 500 | 18,009 | Earthen Cyclone[s] | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_054.csv` | new | 500 | 13,840 | Einzelhaft |  |  |
 | `new_055.csv` | new | 500 | 16,704 | Engineer reporting. |  |  |
 | `new_056.csv` | new | 500 | 19,782 | Eternal Ember processing begins in: %str1% |  |  |
