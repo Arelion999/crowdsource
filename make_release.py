@@ -12,12 +12,12 @@ dictionary.bin. Инструкция по установке живёт в READM
 
 CSV-слой (dict_*.csv, main_strings.csv, pn_*.csv) удалён, поэтому bin больше
 не собирается из CSV — он сам является источником. Правки в него вносит
-tools/dict_tool.py:
+crowdsource/tools/dict_tool.py:
 
-    python tools/dict_tool.py frombatches --apply   # переводы батчей -> bin
-    python tools/dict_tool.py canon --apply         # канон терминов
-    python tools/dict_tool.py broken                # разбор битых строк
-    python tools/dict_tool.py export <папка>        # выгрузить bin в CSV
+    python crowdsource/tools/dict_tool.py frombatches --apply   # переводы батчей -> bin
+    python crowdsource/tools/dict_tool.py canon --apply         # канон терминов
+    python crowdsource/tools/dict_tool.py broken                # разбор битых строк
+    python crowdsource/tools/dict_tool.py export <папка>        # выгрузить bin в CSV
 
 Флаг --no-build оставлен, чтобы старые вызовы не падали, но ничего не делает.
 """
@@ -146,7 +146,7 @@ def lint(details):
         print("  (примеры: python make_release.py --lint-details)")
     if bad:
         return [f"линт нашёл {num(bad)} битых строк в словаре — "
-                f"они попадут в релиз как есть (разбор: tools/dict_tool.py broken)."]
+                f"они попадут в релиз как есть (разбор: crowdsource/tools/dict_tool.py broken)."]
     return []
 
 
@@ -160,11 +160,11 @@ def main():
         return 1
     if "--no-build" not in sys.argv:
         # CSV-слоя больше нет: bin — источник, а не результат сборки.
-        # Правки вносит tools/dict_tool.py, он же и записывает bin.
+        # Правки вносит crowdsource/tools/dict_tool.py, он же и записывает bin.
         print("Сборка из CSV больше не выполняется: CSV-слой удалён, "
               "dictionary.bin сам является источником.")
-        print("  правки: tools/dict_tool.py (frombatches, canon, broken, merge)")
-        print("  выгрузить обратно в CSV: tools/dict_tool.py export <папка>")
+        print("  правки: crowdsource/tools/dict_tool.py (frombatches, canon, broken, merge)")
+        print("  выгрузить обратно в CSV: crowdsource/tools/dict_tool.py export <папка>")
 
     try:
         warn = check_bin()
