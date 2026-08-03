@@ -1,497 +1,497 @@
 english,translate
-Cup[s] of Bloodstone Soup,
-Cup[s] of Light-Roasted Coffee,
-Cup[s] of Lotus Fries,
-Cup[s] of Potato Fries,
-Cup[s] of Spiced Apple Cider,
-Cupcake[s],
-Cure a condition every few seconds.,
-Cured Coarse Leather Square[s],
-Cured Hardened Leather Square[s],
-Cured Rugged Leather Square[s],
-Cured Thick Leather Square[s],
-Cured Thin Leather Square[s],
-Curious Artifact,
-Curious Bowl,
-Curious Creatures Mount Adoption License[s],
-Curious Creatures Mount Select License[s],
-Curious Lowland Honeycomb[s],
+Cup[s] of Bloodstone Soup,Чашк[а|и|ек] супа из кровавого камня
+Cup[s] of Light-Roasted Coffee,Чашк[а|и|ек] кофе слабой обжарки
+Cup[s] of Lotus Fries,Чашк[а|и|ек] фри из лотоса
+Cup[s] of Potato Fries,Чашк[а|и|ек] картофеля фри
+Cup[s] of Spiced Apple Cider,Чашк[а|и|ек] яблочного сидра с пряностями
+Cupcake[s],[Кекс|Кекса|Кексов]
+Cure a condition every few seconds.,Снимает одно состояние каждые несколько секунд.
+Cured Coarse Leather Square[s],[Квадрат|Квадрата|Квадратов] выделанной грубой кожи
+Cured Hardened Leather Square[s],[Квадрат|Квадрата|Квадратов] выделанной закалённой кожи
+Cured Rugged Leather Square[s],[Квадрат|Квадрата|Квадратов] выделанной прочной кожи
+Cured Thick Leather Square[s],[Квадрат|Квадрата|Квадратов] выделанной толстой кожи
+Cured Thin Leather Square[s],[Квадрат|Квадрата|Квадратов] выделанной тонкой кожи
+Curious Artifact,Любопытный артефакт
+Curious Bowl,Любопытная чаша
+Curious Creatures Mount Adoption License[s],[Лицензия|Лицензии|Лицензий] на приручение диковинных созданий
+Curious Creatures Mount Select License[s],[Лицензия|Лицензии|Лицензий] на выбор диковинного скакуна
+Curious Lowland Honeycomb[s],[Любопытный|Любопытного|Любопытных] низинный сот
 "Curious Mursaat Currency[pl:""Currencies""]",
-Curious Mursaat Ruin Shard[s],
-Curious Stones from Afar,
-Currency Exchange,
-Currency Exchange.<br>Your Gems...<br>for Their Gold!,
+Curious Mursaat Ruin Shard[s],[Любопытный|Любопытного|Любопытных] осколок руин мурсаатов
+Curious Stones from Afar,Любопытные камни издалека
+Currency Exchange,Обмен валюты
+Currency Exchange.<br>Your Gems...<br>for Their Gold!,Обмен валюты.<br>Ваши самоцветы...<br>за их золото!
 Currency Exchange<br>{gold} Gold for<br>{gems} Gems,
-Current Assigned Team: %str1%,
-Current Bonus,
-Current Color,
-Current Fashion,
-Current Handler: %str1%,
-Current Location,
-Current Map,
-Current Map Plans,
-Current Match Rewards,
-Current Name:,
-Current password:,
-Current Players,
-Current Points,
-Current prestige rank. Prestige rank can be gained or lost by winning or losing ranked matches in the legendary division.,
-Current Region,
-Current Reward:,
-Current Rewards,
-Current template: %str1%,
-Current Upgrades,
-Current Weapon Skills,
-Current World,
-Currently Active Build Template,
-Currently Active Track,
-Currently active upgrades and upgrades finished building ready to be activated.,
-Currently Active:,
-Currently Equipped,
-Currently following %str1%,
-Currently in: %str1%,
-Currently invisible.,
-Currently invisible. Temporarily removed while interacting with the world. Ends if you become detected.,
-Currently only obtainable as a rare reward by completing the A Concert for the Ages event in Grothmar Valley.,
-Currently only obtainable by completing open-world content from its respective expansion.,
+Current Assigned Team: %str1%,Текущая назначенная команда: %str1%
+Current Bonus,Текущий бонус
+Current Color,Текущий цвет
+Current Fashion,Текущий стиль
+Current Handler: %str1%,Текущий обработчик: %str1%
+Current Location,Текущее местоположение
+Current Map,Текущая карта
+Current Map Plans,Текущие планы карты
+Current Match Rewards,Текущие награды матча
+Current Name:,Текущее имя:
+Current password:,Текущий пароль:
+Current Players,Текущие игроки
+Current Points,Текущие очки
+Current prestige rank. Prestige rank can be gained or lost by winning or losing ranked matches in the legendary division.,"Текущий престиж-ранг. Престиж-ранг можно получить или потерять, выигрывая или проигрывая рейтинговые матчи в легендарном дивизионе."
+Current Region,Текущий регион
+Current Reward:,Текущая награда:
+Current Rewards,Текущие награды
+Current template: %str1%,Текущий шаблон: %str1%
+Current Upgrades,Текущие улучшения
+Current Weapon Skills,Текущие навыки оружия
+Current World,Текущий мир
+Currently Active Build Template,Текущий активный шаблон билда
+Currently Active Track,Текущий активный трек
+Currently active upgrades and upgrades finished building ready to be activated.,"Текущие активные улучшения и улучшения, завершившие строительство, готовые к активации."
+Currently Active:,Текущий активный:
+Currently Equipped,Текущая экипировка
+Currently following %str1%,Сейчас следуете за %str1%
+Currently in: %str1%,Сейчас в: %str1%
+Currently invisible.,Сейчас невидим.
+Currently invisible. Temporarily removed while interacting with the world. Ends if you become detected.,"Сейчас невидим. Временно удален при взаимодействии с миром. Заканчивается, если вас обнаруживают."
+Currently only obtainable as a rare reward by completing the A Concert for the Ages event in Grothmar Valley.,В настоящее время можно получить только как редкую награду за выполнение события «Концерт для веков» в долине Гротмар.
+Currently only obtainable by completing open-world content from its respective expansion.,В настоящее время можно получить только за выполнение открытого мира из соответствующего дополнения.
 Currently only obtainable by completing Super Adventure Box-related content.,
-Currently processing previous transactions. Please try again soon.,
-Currently Queued,
-Currently queued for:,
-Currently spawned monsters:,
+Currently processing previous transactions. Please try again soon.,"В настоящее время обрабатываются предыдущие транзакции. Пожалуйста, попробуйте позже."
+Currently Queued,В очереди
+Currently queued for:,В очереди на:
+Currently spawned monsters:,Текущие появившиеся монстры:
 "Currently this squad is being advertised in LFG. When a squad is being advertised in LFG, it cannot change its Join permission setting.",
 "Currently this squad is being advertised in LFG. When a squad is being advertised in LFG, it cannot change its maximum size.",
-Currently unable to apply Fashion Template.,
-Currently unable to change Build Template.,
-Currently unable to change Equipment Template.,
-Currently unable to change Fashion Template.,
-Currently unable to change templates.,
-Currently Usable Skills,
-Currently wearing armor,
-Currently wearing town clothes,
-Currently:,
-Curry Bun[s],
-Curse of Weakness,
-Curse you!,
-"Curse-Breaker, Historian Minna",
-Cursed Artifact,
-Cursed Artifact Trap,
-Cursed by Malefic Darkness!,
-"Cursed Fabric: High on the rocks of the central Commons, staring down on the forward bivouac.",
-Cursed Gloves,
-Cursed Grasp,
-Cursed Pirate Artifact[s],
-Cursed Purse,
+Currently unable to apply Fashion Template.,В настоящее время невозможно применить шаблон внешности.
+Currently unable to change Build Template.,В настоящее время невозможно изменить шаблон сборки.
+Currently unable to change Equipment Template.,В настоящее время невозможно сменить шаблон снаряжения.
+Currently unable to change Fashion Template.,В настоящее время невозможно сменить шаблон внешнего вида.
+Currently unable to change templates.,В настоящее время невозможно сменить шаблоны.
+Currently Usable Skills,Текущие доступные навыки
+Currently wearing armor,В настоящее время надето броня
+Currently wearing town clothes,В настоящее время надета городская одежда
+Currently:,В настоящее время:
+Curry Bun[s],[Пирожок|Пирожка|Пирожков] с карри
+Curse of Weakness,Проклятие слабости
+Curse you!,Проклятие!
+"Curse-Breaker, Historian Minna","Сниматель проклятий, историк Минна"
+Cursed Artifact,Проклятый артефакт
+Cursed Artifact Trap,Ловушка проклятого артефакта
+Cursed by Malefic Darkness!,Проклят зловещей тьмой!
+"Cursed Fabric: High on the rocks of the central Commons, staring down on the forward bivouac.","Проклятая ткань: Высоко на скалах центрального Общего зала, взирая на передовой бивуак."
+Cursed Gloves,Проклятые перчатки
+Cursed Grasp,Проклятая хватка
+Cursed Pirate Artifact[s],[Проклятый|Проклятого|Проклятых] пиратский артефакт
+Cursed Purse,Проклятый кошель
 "Cursed Shore: Azabe Qabar, the Royal Tombs",
-Cursed Shore: Cathedral of Silence,
-Cursed Shore: Cathedral of Verdance,
-Cursed Shore: Compass Plaza,
-Cursed Shore: Craven Blight,
-Cursed Shore: Desmina's Hallows,
-Cursed Shore: Fields of Gold,
-Cursed Shore: Graven Cay,
-Cursed Shore: Harrowed Sea,
-Cursed Shore: Mausollus Sea,
-Cursed Shore: Noose Road,
-Cursed Shore: Penitent Path,
-Cursed Shore: Promenade of the Gods,
-Cursed Shore: Pursuit Pass,
-Cursed Shore: The Artesian Waters,
-Cursed Shore: The Narthex,
-Cursed Shore: The Shipyard,
-Cursed Shore: Winterknell Isle,
-Cursed Shore: Winterknell Shore,
-Cursed Shot,
-Cursed Treasure Chest,
-Cursed Treasure of Hammarrararanan,
-Cursor Contrast,
-Cursor Contrast:,
-Curtain closes in: %str1%,
-Curve Bullet,
-Curved Pipe Segment,
-Curved Roof Corner[s],
-Curved Roof Dormer[s],
-Curved Roof[s] (600),
-Curved Roof[s] (960),
-Custodian Rustbane,
-Custom Arena Items,
-Custom Arena Starter Kit[s],
-Custom Arena Time Token[s],
+Cursed Shore: Cathedral of Silence,Проклятый берег: Собор Безмолвия
+Cursed Shore: Cathedral of Verdance,Проклятый берег: Собор Зелени
+Cursed Shore: Compass Plaza,Проклятый берег: Площадь Компаса
+Cursed Shore: Craven Blight,Проклятый берег: Удел Трусов
+Cursed Shore: Desmina's Hallows,Проклятый берег: Святилище Десмины
+Cursed Shore: Fields of Gold,Проклятый берег: Золотые поля
+Cursed Shore: Graven Cay,Проклятый берег: Могильный мыс
+Cursed Shore: Harrowed Sea,Проклятый берег: Море Страданий
+Cursed Shore: Mausollus Sea,Проклятый берег: Море Мавзолеев
+Cursed Shore: Noose Road,Проклятый берег: Дорога Петли
+Cursed Shore: Penitent Path,Проклятый берег: Путь Покаяния
+Cursed Shore: Promenade of the Gods,Проклятый берег: Променад богов
+Cursed Shore: Pursuit Pass,Проклятый берег: Перевал Погони
+Cursed Shore: The Artesian Waters,Проклятый берег: Артезианские воды
+Cursed Shore: The Narthex,Проклятый берег: Нартекс
+Cursed Shore: The Shipyard,Проклятый берег: Верфь
+Cursed Shore: Winterknell Isle,Проклятый берег: Остров Зимней Смерти
+Cursed Shore: Winterknell Shore,Проклятый берег: Берег Зимней Смерти
+Cursed Shot,Проклятый выстрел
+Cursed Treasure Chest,Проклятый сундук с сокровищами
+Cursed Treasure of Hammarrararanan,Проклятое сокровище Хаммаррараранана
+Cursor Contrast,Контраст курсора
+Cursor Contrast:,Контраст курсора:
+Curtain closes in: %str1%,Занавес закрывается через: %str1%
+Curve Bullet,Изогнутая пуля
+Curved Pipe Segment,Изогнутый сегмент трубы
+Curved Roof Corner[s],[Угол|Угла|Углов] изогнутой крыши
+Curved Roof Dormer[s],[Слуховое окно|Слухового окна|Слуховых окон] изогнутой крыши
+Curved Roof[s] (600),[Изогнутая крыша|Изогнутой крыши|Изогнутых крыш] (600)
+Curved Roof[s] (960),[Изогнутая крыша|Изогнутые крыши|Изогнутых крыш] (960)
+Custodian Rustbane,Хранитель Ржавоклык
+Custom Arena Items,Предметы пользовательской арены
+Custom Arena Starter Kit[s],[Набор|Набора|Наборов] для старта пользовательской арены
+Custom Arena Time Token[s],[Жетон|Жетона|Жетонов] времени пользовательской арены
 "Custom Arena[pl:""Arenas""]",
-Custom Channel,
-Custom Event (%num1%),
-Customer Support,
-Customer Support Lead,
-Customize active postprocessing effects.,
-Customize dynamic shadow parameters.,
-Customize from the neck up.,
-"Customize the appearance of your glider, mounts, skiff, and conjured doorway.Some features require Guild Wars 2 expansions.",
+Custom Channel,Пользовательский канал
+Custom Event (%num1%),Пользовательское событие (%num1%)
+Customer Support,Поддержка клиентов
+Customer Support Lead,Руководитель поддержки клиентов
+Customize active postprocessing effects.,Настройка активных эффектов постобработки.
+Customize dynamic shadow parameters.,Настройка параметров динамических теней.
+Customize from the neck up.,Настройка от шеи и выше.
+"Customize the appearance of your glider, mounts, skiff, and conjured doorway.Some features require Guild Wars 2 expansions.","Настройка внешнего вида вашего планера, скакунов, лодки и призванного портала. Некоторые функции требуют дополнений Guild Wars 2."
 Customize your appearance with this talking Replica Job-o-Tron Backpack. He has found gainful employment on your back. It does not increase your combat effectiveness but does provide moral support. Sometimes.,
-Customize your backpack with this plush charr backpack cover.,
-Customize your backpack with this plush quaggan backpack cover.,
-Customize your chin and jaw.,
-Customize your ears and head.,
-Customize your eyes.,
-Customize your face.,
-Customize your head.,
-Customize your look with the dyes you've found in the Dyes section of your Hero Panel.,
-Customize your mouth.,
-Customize your muzzle and nose.,
-Customize your nose.,
-Customize Your PvP Finisher,
-Customize<br>your backpack!,
-Customize<br>Your Combat!<br>With a New Look!,
-Customize<br>Your Glider!,
-Cut Free,
-Cut Lumber,
-Cut Magic Flow,
-Cut Ropes,
-Cut[s] of Quality Red Meat,
-Cute Angel Wings Backpack and Glider Combo now available!,
-Cute Angel Wings Backpack and Glider Combo[s],
-Cute Angel Wings Backpack[s],
-Cute Angel Wings Glider[s],
-Cute Demon Wings Backpack and Glider Combo now available!,
+Customize your backpack with this plush charr backpack cover.,Настройте свой рюкзак с помощью этого плюшевого чехла чара.
+Customize your backpack with this plush quaggan backpack cover.,Настройте свой рюкзак с помощью этого плюшевого чехла кваггана.
+Customize your chin and jaw.,Настройка подбородка и челюсти.
+Customize your ears and head.,Настройка ушей и головы.
+Customize your eyes.,Настройка глаз.
+Customize your face.,Настройка лица.
+Customize your head.,Настройка головы.
+Customize your look with the dyes you've found in the Dyes section of your Hero Panel.,"Настройте свой образ с помощью красок, найденных в разделе «Краски» панели героя."
+Customize your mouth.,Настройте рот.
+Customize your muzzle and nose.,Настройте морду и нос.
+Customize your nose.,Настройте нос.
+Customize Your PvP Finisher,Настроить свой финишер в PvP
+Customize<br>your backpack!,Настройте<br>ваш рюкзак!
+Customize<br>Your Combat!<br>With a New Look!,Настройте<br>Ваш бой!<br>С новым обликом!
+Customize<br>Your Glider!,Настройте<br>Ваш планер!
+Cut Free,Освободить
+Cut Lumber,Рубить древесину
+Cut Magic Flow,Разрезать магический поток
+Cut Ropes,Перерезать веревки
+Cut[s] of Quality Red Meat,[Кусок|Куска|Кусков] качественного красного мяса
+Cute Angel Wings Backpack and Glider Combo now available!,Милые крылья ангела: набор «Рюкзак и планер» теперь доступен!
+Cute Angel Wings Backpack and Glider Combo[s],[Комплект|Комплекта|Комплектов] «Милые ангельские крылья» (спина и планер)
+Cute Angel Wings Backpack[s],[Сумка|Сумки|Сумок] «Милые ангельские крылья»
+Cute Angel Wings Glider[s],[Планер|Планера|Планеров] «Милые ангельские крылья»
+Cute Demon Wings Backpack and Glider Combo now available!,Комплект «Милая сумка-крылья демона и планер» теперь доступен!
 Cute Demon Wings Backpack and Glider Combo[s],
-Cute Demon Wings Backpack[s],
-Cute Demon Wings Glider[s],
-Cute Poses Emote Tome now available!,
-Cute Poses Emote Tome[s],
+Cute Demon Wings Backpack[s],[Сумка|Сумки|Сумок] «Милые демонические крылья»
+Cute Demon Wings Glider[s],[Планер|Планера|Планеров] «Милые демонические крылья»
+Cute Poses Emote Tome now available!,Фолиант с милыми позами теперь доступен!
+Cute Poses Emote Tome[s],[Книга|Книги|Книг] эмоций «Милые позы»
 "Cutlass Fish[pl:""Fish""]",
-"Cuts of Quality Red Meat can be looted after learning charr butchery techniques, or they can be purchased via the Trading Post.",
-Cutter Burst,
-Cutthroat Pirate,
-Cutthroat Politics,
-Cutthroat Sapper,
-Cutthroat Sniper,
+"Cuts of Quality Red Meat can be looted after learning charr butchery techniques, or they can be purchased via the Trading Post.","Кусочки качественного красного мяса можно добыть, изучив техники разделки чарров, или купить на Торговом посту."
+Cutter Burst,Взрыв резака
+Cutthroat Pirate,Безжалостный пират
+Cutthroat Politics,Жестокая политика
+Cutthroat Sapper,Головорез-сапер
+Cutthroat Sniper,Головорез-снайпер
 "Cutthroat Trout[pl:""Trout""]",
-Cutthroat's Rest,
-Cutting Edge Devourer Research,
+Cutthroat's Rest,Отдых Жестокого
+Cutting Edge Devourer Research,Передовые исследования пожирателей
 "Cuttlefish[pl:""Cuttlefish""]",
-Cyanide Dye[s],
-Cyberhowl Greatsword Skin[s],
-Cyclone Attack,
-Cyclone Bow,
-Cyclone Spear,
-Cyclone Trigger,
-Cylow Outpost is under attack!,
-Cymbel's Glen,
-Cymbel's Trust,
-Cypress Sapling,
-Czech Republic,
-Cône de froid,
-D Major Chord,
-D Minor Chord,
-D Note,
-D#/Eb Note,
-Dab[s] of Destabilized Ectoplasm,
-Dabbling in Espionage,
-Dadga needs to speak with you in the Wizard's Tower.,
-Daemonspell Lake,
-Daffodil Dye[s],
-Dagda / Narcisse,
-Dagda's Coffer[s],
-Dagda's Magnificent Coffer[s],
-Dagger (Known),
-Dagger Fan,
-Dagger Mastery,
-Dagger Slash,
-Dagger Throw,
-Dagger Token[s],
-Dagonet / Greer / Mallyx,
-"Daigo Ward was named for the heroic efforts of Daigo, a tengu shaman who helped quell the Crimson Skull threat during the Crimson Battle at Haiju Lagoon.This plaque was placed by the Ministry of Archives to improve education efforts following the collapse of the Ministry of Purity.",
-Dailies—Halloween,
-Dailies—Lunar New Year,
+Cyanide Dye[s],[Краситель|Красителя|Красителей] «Цианид»
+Cyberhowl Greatsword Skin[s],[Облик|Облика|Обликов] большого меча «Кибервой»
+Cyclone Attack,Атака «Циклон»
+Cyclone Bow,Лук «Циклон»
+Cyclone Spear,Копьё «Циклон»
+Cyclone Trigger,Спусковой крючок «Циклон»
+Cylow Outpost is under attack!,Форт Сайлоу атакован!
+Cymbel's Glen,Ущелье Симбел
+Cymbel's Trust,Доверие Симбел
+Cypress Sapling,Саженец кипариса
+Czech Republic,Чехия
+Cône de froid,Конус холода
+D Major Chord,Аккорд ре мажор
+D Minor Chord,Ре минорный аккорд
+D Note,Нота ре
+D#/Eb Note,Нота ре-диез/ми-бемоль
+Dab[s] of Destabilized Ectoplasm,[Капля|Капли|Капель] дестабилизированной эктоплазмы
+Dabbling in Espionage,Попытки шпионажа
+Dadga needs to speak with you in the Wizard's Tower.,Дадге нужно поговорить с тобой в Башне Чародея.
+Daemonspell Lake,Озеро Демонического заклинания
+Daffodil Dye[s],[Краситель|Красителя|Красителей] «Нарцисс»
+Dagda / Narcisse,Дагда / Нарцисс
+Dagda's Coffer[s],[Сундук|Сундука|Сундуков] Дагды
+Dagda's Magnificent Coffer[s],[Великолепный сундук|Великолепного сундука|Великолепных сундуков] Дагды
+Dagger (Known),Кинжал (Известный)
+Dagger Fan,Любитель кинжалов
+Dagger Mastery,Мастерство кинжала
+Dagger Slash,Удар кинжалом
+Dagger Throw,Бросок кинжала
+Dagger Token[s],[Жетон|Жетона|Жетонов] кинжала
+Dagonet / Greer / Mallyx,Дагонет / Грир / Малликс
+"Daigo Ward was named for the heroic efforts of Daigo, a tengu shaman who helped quell the Crimson Skull threat during the Crimson Battle at Haiju Lagoon.This plaque was placed by the Ministry of Archives to improve education efforts following the collapse of the Ministry of Purity.","Район Дайго был назван в честь героических усилий Дайго, шамана тенгу, который помог подавить угрозу Багрового Черепа во время Багровой битвы в лагуне Хайдзю.Эта табличка была установлена Министерством архивов для улучшения образовательных усилий после краха Министерства чистоты."
+Dailies—Halloween,Ежедневки — Хэллоуин
+Dailies—Lunar New Year,Ежедневки — Лунный Новый год
 Dailies—PvE,
-Dailies—PvP,
-Dailies—Wintersday,
-Dailies—WvW,
-Daily Achievements,
-Daily achievements are now unlocked. Complete them every day to earn bonuses and rewards. Open the Hero panel and click on the Achievements tab to see today's tasks.,
+Dailies—PvP,Ежедневки — PvP
+Dailies—Wintersday,Ежедневки — Зимний день
+Dailies—WvW,Ежедневки — WvW
+Daily Achievements,Ежедневные достижения
+Daily achievements are now unlocked. Complete them every day to earn bonuses and rewards. Open the Hero panel and click on the Achievements tab to see today's tasks.,"Ежедневные достижения теперь разблокированы. Выполняйте их каждый день, чтобы получать бонусы и награды. Откройте панель героя и нажмите на вкладку «Достижения», чтобы увидеть сегодняшние задания."
 Daily Achievements Completed,
 Daily achievements reset at 0000 (UTC).,
 Daily achievements reset at 00:00 UTC.,
-Daily Calcified Gasp Exchanges,
-Daily Catch,
-Daily Champions,
-Daily Coin Cap Reached for Ranked Play,
-Daily Coin Cap Reached for Unranked Play,
-Daily Crafting Material Exchanges,
-Daily Current Events,
-Daily Expedition Yield,
-Daily Feat Awarded. %num1% Enemy Types Killed!,
-Daily Feat Awarded. %num1% Total Kills!,
-Daily Feat Awarded. %num1%x Slaughter Bonus!,
-Daily Feat Awarded. Killing Streak %num1%!,
-Daily Gathering Yield,
+Daily Calcified Gasp Exchanges,Ежедневные обмены окаменелого вздоха
+Daily Catch,Ежедневный улов
+Daily Champions,Ежедневные чемпионы
+Daily Coin Cap Reached for Ranked Play,Ежедневный лимит монет достигнут для рейтинговой игры
+Daily Coin Cap Reached for Unranked Play,Ежедневный лимит монет достигнут для нерейтинговой игры
+Daily Crafting Material Exchanges,Ежедневные обмены материалов для крафта
+Daily Current Events,Ежедневные текущие события
+Daily Expedition Yield,Ежедневная добыча экспедиции
+Daily Feat Awarded. %num1% Enemy Types Killed!,Ежедневный подвиг награжден. %num1% типов врагов убито!
+Daily Feat Awarded. %num1% Total Kills!,Ежедневный подвиг награжден. %num1% всего убийств!
+Daily Feat Awarded. %num1%x Slaughter Bonus!,Ежедневный подвиг награжден. %num1%x бонус за бойню!
+Daily Feat Awarded. Killing Streak %num1%!,Ежедневный подвиг награжден. Серия убийств %num1%!
+Daily Gathering Yield,Ежедневный сбор урожая
 "Daily Gnashbash ""Birthday"" Celebration",
-Daily Hunter Procurement,
-"Daily I hear whispers of your name, given with awe and gratitude. I'm confident that your impact on this world will be one worthy of all of Ventari's hopes, one that will aid all of the races. <br>—Gardener Leigheara",
-Daily Keycard Exchange,
-Daily Log,
-Daily Login Reward,
-Daily Material Donations,
-Daily Pinch of Stardust Exchanges,
-Daily Progress,
-Daily PvP,
-Daily Raid Encounter,
+Daily Hunter Procurement,Ежедневная закупка охотника
+"Daily I hear whispers of your name, given with awe and gratitude. I'm confident that your impact on this world will be one worthy of all of Ventari's hopes, one that will aid all of the races. <br>—Gardener Leigheara","Ежедневно: Я слышу шепот твоего имени, произносимого с трепетом и благодарностью. Я уверен, что твое влияние на этот мир будет достойно всех надежд Вентари, и поможет всем расам. <br>—Садовник Лейгира"
+Daily Keycard Exchange,Ежедневный обмен ключ-карт
+Daily Log,Ежедневный журнал
+Daily Login Reward,Ежедневная награда за вход
+Daily Material Donations,Ежедневные пожертвования материалов
+Daily Pinch of Stardust Exchanges,Ежедневные обмены щепотки звездной пыли
+Daily Progress,Ежедневный прогресс
+Daily PvP,Ежедневное PvP
+Daily Raid Encounter,Ежедневная рейдовая встреча
 Daily Return to End of Dragons,
 Daily Return to Heart of Thorns,
 Daily Return to Janthir Wilds,
 Daily Return to Path of Fire,
-Daily Return to Season 1,
-Daily Return to Season 2,
-Daily Return to Season 3,
-Daily Return to Season 4,
-Daily Return to Secrets of the Obscure,
-Daily Return to the Icebrood Saga,
-Daily Reward-Track-Points Cap Reached for Unranked Play,
-Daily Static Charge Exchanges,
-Daily Sunken Treasure Hunter,
-Daily Tournament,
-Daily Whisper of Jormag Raid Encounter,
-Daily Wizard's Vault Objectives,
-Daily: Flame Legion Donations,
-Daily: Flame Legion Enemies,
-Daily: Flame Legion Missions,
-Daily: Flame Legion Special,
-Dainty Bee Wings Backpack and Glider Combo now available!,
-Dainty Bee Wings Backpack and Glider Combo[s],
-Dainty Bee Wings Backpack[s],
-Dainty Bee Wings Glider[s],
-"Dalnim came back today. I made soup—she loves my soup. My face must've been red as a plum.There's something about her that I can't quite place... She's rough. I've seen her around town before, and I don't want to jump to conclusions, but I know the Am Fah when I see them. Their confidence, the scars. They make the Brotherhood look like a bunch of louts. Which isn't wrong, if I had to say.I don't want anything to do with that life. I saw what it did to Papa. I don't recognize him, not anymore. But maybe I can't hide from that life any longer, not with everything else going on. The attacks, the plots... Her.",
-"Dalnim's Field Notes, Page 1",
-"Dalnim's Field Notes, Page 10",
-"Dalnim's Field Notes, Page 4",
-"Dalnim's Field Notes, Page 5",
-"Dalnim,After reading your field report, I've decided that Yuhwa provides little to no vital use in our intel. I would like you to dispose of her—swiftly. I suspect that the gravity of her death will rattle the Jade Brotherhood more than any information she could provide us.Let me know when the job is done. And make it hurt, just a little.Mina",
-Damage all nearby foes.,
-Damage and apply conditions to nearby foes.,
-Damage and Blind target foe.,
-Damage and blind target foe.,
-Damage and blind up to three nearby foes. Heal and remove a condition from nearby allies.,
-Damage and Condition Duration Increase,
-Damage and knock down characters near you.,
-Damage at 50%% or Above,
-Damage Aura,
-Damage Below 25%%,
-Damage Below 50%%,
-Damage Boost,
-Damage Dealt,
-Damage Dealt: %num1% to %str1%,
-Damage enemies and structures by pulling on them with a chain.,
-Damage gates or walls by pulling on them with a chain that's attached to your warclaw.,
-Damage if foe is below 50%%.,
-Damage if Foe Is Stationary,
-Damage if Moving,
-Damage if Range is between 300-600,
-Damage if range is between 300-600,
-Damage if Range is between 600-900,
-Damage if range is between 600-900,
-Damage if Range is greater than 900,
-Damage if range is greater than 900,
-Damage if Range is less than 300,
-Damage if range is less than 300,
-Damage if Traited,
-Damage Increase vs. Downed Foes,
-Damage increased when above the health threshold.,
-Damage Inflicted,
-Damage Inflicted on Siege Weapons or Living Enemies,
-Damage Inflicted on Walls or Gates,
-"Damage is increased when wielding an axe, mace, or sword in your off hand.",
-Damage Mode,
-Damage Moving,
-Damage nearby enemies in a violent explosion.,
-Damage nearby foes and chill them for 1 second when you swap to this weapon while in combat.<br><c=@reminder>(Cooldown: 9 Seconds)</c>,
-Damage nearby foes and chill them for 1.5 seconds when you swap to this weapon while in combat.<br><c=@reminder>(Cooldown: 9 Seconds)</c>,
-Damage nearby foes and chill them for 2 seconds when you swap to this weapon while in combat.<br><c=@reminder>(Cooldown: 9 Seconds)</c>,
-Damage On Skill Use,
-"Damage over time conditions. (Bleeding, Burning, Confusion, Poison, Torment.)",
-Damage per Condition,
-Damage Received,
-Damage Stationary,
-Damage Style:,
-Damage Text Size:,
-Damage to Non-Players on Skill Use,
-Damage to Players on Skill Use,
-Damage to Self,
-Damage within 0-200 Range,
-Damage within 200-300 Range,
-Damage within 300-400 Range,
-Damage within 400-500 Range,
-Damage your foe by 1%% of their max health.,
-"Damage your foe with a forceful peck, or force open buried treasure chests.",
-Damage your foe with a powerful kick.,
-Damage your foe with a quick series of forceful pecks.,
-Damage your foe. Deal double damage if they are not attacking.,
-Damaged Beacon,
-Damaged Calibration Thumper,
-Damaged Cannon,
-Damaged Equipment,
-Damaged Portal,
-Damaged Tracking Device,
-Damages and burns.,
-Damages and finishes off stunned vines.,
-Damages foes and inflicts poison based on the time spent channeling the skill.,
-Damages foes in an area. Applies a long-duration stun if they are ghosts of Ascalon.,
-"Damages the target each second. Use ""Endure Agony"" to fight the effects and remain standing.",
-Damaging Conditions Converted,
-Damask Breather Padding[s],
-Damask Breather Strap[s],
-Damask Coat Lining[s],
-Damask Coat Panel[s],
-Damask Epaulet Padding[s],
-Damask Epaulet Panel[s],
-Damask Gloves Padding[s],
-Damask Gloves Panel[s],
-Damask Helm Padding[s],
-Damask Helm Strap[s],
-Damask Pants Lining[s],
-Damask Pants Panel[s],
+Daily Return to Season 1,Ежедневное возвращение в Сезон 1
+Daily Return to Season 2,Ежедневное возвращение в Сезон 2
+Daily Return to Season 3,Ежедневное возвращение в Сезон 3
+Daily Return to Season 4,Ежедневное возвращение к 4-му сезону
+Daily Return to Secrets of the Obscure,Ежедневное возвращение к «Секретам Запределья»
+Daily Return to the Icebrood Saga,Ежедневное возвращение к «Саге о Ледяном Племени»
+Daily Reward-Track-Points Cap Reached for Unranked Play,Достигнут дневной лимит очков дороги наград за нерейтинговую игру.
+Daily Static Charge Exchanges,Ежедневный обмен статических зарядов
+Daily Sunken Treasure Hunter,Ежедневный охотник за затонувшими сокровищами
+Daily Tournament,Ежедневный турнир
+Daily Whisper of Jormag Raid Encounter,Ежедневная встреча с Шёпотом Джормага в рейде
+Daily Wizard's Vault Objectives,Ежедневные задачи Хранилища Чародея
+Daily: Flame Legion Donations,Ежедневное: Пожертвования Легиона Пламени
+Daily: Flame Legion Enemies,Ежедневное: Враги Легиона Пламени
+Daily: Flame Legion Missions,Ежедневное: Миссии Легиона Пламени
+Daily: Flame Legion Special,Ежедневное: Особое задание Легиона Пламени
+Dainty Bee Wings Backpack and Glider Combo now available!,Комбо-набор «Крылья изящной пчелы» (рюкзак и планер) теперь доступен!
+Dainty Bee Wings Backpack and Glider Combo[s],[Набор|Набора|Наборов] «Изящные крылья пчелы» (спина и планер)
+Dainty Bee Wings Backpack[s],[Спинной предмет|Спинного предмета|Спинных предметов] «Изящные крылья пчелы»
+Dainty Bee Wings Glider[s],[Планер|Планера|Планеров] «Изящные крылья пчелы»
+"Dalnim came back today. I made soup—she loves my soup. My face must've been red as a plum.There's something about her that I can't quite place... She's rough. I've seen her around town before, and I don't want to jump to conclusions, but I know the Am Fah when I see them. Their confidence, the scars. They make the Brotherhood look like a bunch of louts. Which isn't wrong, if I had to say.I don't want anything to do with that life. I saw what it did to Papa. I don't recognize him, not anymore. But maybe I can't hide from that life any longer, not with everything else going on. The attacks, the plots... Her.","Далним вернулась сегодня. Я сварил суп — она обожает мой суп. Моё лицо, должно быть, покраснело, как слива. В ней есть что-то, что я не могу понять... Она грубовата. Я видел её в городе и раньше, и не хочу делать поспешных выводов, но я узнаю Ам Фах, когда их вижу. Их уверенность, шрамы. Они выставляют Братство кучкой грубиянов. Что, если честно, не так уж и неверно. Я не хочу иметь ничего общего с этой жизнью. Я видел, что она сделала с Папой. Я больше не узнаю его. Но, возможно, я больше не могу прятаться от этой жизни, учитывая всё остальное, что происходит. Атаки, заговоры... Она."
+"Dalnim's Field Notes, Page 1","Полевые заметки Далним, страница 1"
+"Dalnim's Field Notes, Page 10","Полевые заметки Далним, страница 10"
+"Dalnim's Field Notes, Page 4","Полевые заметки Далним, страница 4"
+"Dalnim's Field Notes, Page 5","Полевые заметки Далним, страница 5"
+"Dalnim,After reading your field report, I've decided that Yuhwa provides little to no vital use in our intel. I would like you to dispose of her—swiftly. I suspect that the gravity of her death will rattle the Jade Brotherhood more than any information she could provide us.Let me know when the job is done. And make it hurt, just a little.Mina","Далним, после прочтения твоего полевого отчета я решила, что Юхва не представляет никакой жизненно важной ценности для нашей разведки. Я хочу, чтобы ты избавилась от нее — быстро. Подозреваю, что тяжесть ее смерти потрясет Нефритовое Братство больше, чем любая информация, которую она могла бы нам предоставить. Дай мне знать, когда работа будет сделана. И сделай так, чтобы ей было больно, хоть немного. Мина"
+Damage all nearby foes.,Нанести урон всем ближайшим врагам.
+Damage and apply conditions to nearby foes.,Наносит урон и накладывает состояния на ближайших врагов.
+Damage and Blind target foe.,Нанести урон и ослепить цель.
+Damage and blind target foe.,Наносит урон и ослепляет выбранного врага.
+Damage and blind up to three nearby foes. Heal and remove a condition from nearby allies.,Наносит урон и ослепляет до трех ближайших врагов. Лечит и снимает одно состояние с ближайших союзников.
+Damage and Condition Duration Increase,Увеличение урона и длительности состояний
+Damage and knock down characters near you.,Наносит урон и сбивает с ног персонажей рядом с вами.
+Damage at 50%% or Above,Урон при 50%% или выше
+Damage Aura,Аура урона
+Damage Below 25%%,Урон ниже 25%%
+Damage Below 50%%,Урон ниже 50%%
+Damage Boost,Усиление урона
+Damage Dealt,Нанесенный урон
+Damage Dealt: %num1% to %str1%,Нанесено урона: %num1% по %str1%
+Damage enemies and structures by pulling on them with a chain.,"Наносит урон врагам и строениям, натягивая на них цепь."
+Damage gates or walls by pulling on them with a chain that's attached to your warclaw.,"Наносит урон воротам или стенам, натягивая цепь, прикрепленную к вашему боевому ящеру."
+Damage if foe is below 50%%.,"Урон, если у врага меньше 50%%."
+Damage if Foe Is Stationary,"Урон, если враг неподвижен"
+Damage if Moving,"Урон, если враг движется"
+Damage if Range is between 300-600,"Урон, если дистанция от 300 до 600"
+Damage if range is between 300-600,"Урон, если дистанция от 300 до 600"
+Damage if Range is between 600-900,"Урон, если дистанция от 600 до 900"
+Damage if range is between 600-900,"Урон, если дистанция от 600 до 900"
+Damage if Range is greater than 900,"Урон, если дистанция больше 900"
+Damage if range is greater than 900,"Урон, если дистанция больше 900"
+Damage if Range is less than 300,"Урон, если дистанция меньше 300"
+Damage if range is less than 300,"Урон, если дистанция меньше 300"
+Damage if Traited,"Урон, если есть черта"
+Damage Increase vs. Downed Foes,Увеличение урона по поверженным врагам
+Damage increased when above the health threshold.,"Урон увеличен, когда здоровье выше порога."
+Damage Inflicted,Нанесённый урон
+Damage Inflicted on Siege Weapons or Living Enemies,"Урон, нанесённый осадным орудиям или живым врагам"
+Damage Inflicted on Walls or Gates,"Урон, нанесённый стенам или воротам"
+"Damage is increased when wielding an axe, mace, or sword in your off hand.","Урон увеличен при использовании топора, булавы или меча в дополнительной руке."
+Damage Mode,Режим урона
+Damage Moving,Урон в движении
+Damage nearby enemies in a violent explosion.,Наносит урон ближайшим врагам в мощном взрыве.
+Damage nearby foes and chill them for 1 second when you swap to this weapon while in combat.<br><c=@reminder>(Cooldown: 9 Seconds)</c>,Наносит урон ближайшим врагам и замедляет их на 1 секунду при смене на это оружие в бою.<br><c=@reminder>(Перезарядка: 9 секунд)</c>
+Damage nearby foes and chill them for 1.5 seconds when you swap to this weapon while in combat.<br><c=@reminder>(Cooldown: 9 Seconds)</c>,Наносит урон ближайшим врагам и замедляет их на 1.5 секунды при смене на это оружие в бою.<br><c=@reminder>(Перезарядка: 9 секунд)</c>
+Damage nearby foes and chill them for 2 seconds when you swap to this weapon while in combat.<br><c=@reminder>(Cooldown: 9 Seconds)</c>,Наносит урон ближайшим врагам и замедляет их на 2 секунды при смене на это оружие в бою.<br><c=@reminder>(Перезарядка: 9 секунд)</c>
+Damage On Skill Use,Урон при использовании навыка
+"Damage over time conditions. (Bleeding, Burning, Confusion, Poison, Torment.)","Состояния урона с течением времени. (Кровотечение, Горение, Замешательство, Отравление, Мучение.)"
+Damage per Condition,Урон за состояние
+Damage Received,Полученный урон
+Damage Stationary,Урон в неподвижности
+Damage Style:,Стиль урона:
+Damage Text Size:,Размер текста урона:
+Damage to Non-Players on Skill Use,Урон по не-игрокам при использовании навыка
+Damage to Players on Skill Use,Урон по игрокам при использовании навыка
+Damage to Self,Урон по себе
+Damage within 0-200 Range,Урон в радиусе от 0 до 200
+Damage within 200-300 Range,Урон в радиусе 200-300
+Damage within 300-400 Range,Урон в радиусе 300-400
+Damage within 400-500 Range,Урон в радиусе 400-500
+Damage your foe by 1%% of their max health.,Наносит врагу урон в размере 1%% от его максимального запаса здоровья.
+"Damage your foe with a forceful peck, or force open buried treasure chests.",Наносит врагу урон сильным клювом или открывает зарытые сундуки с сокровищами.
+Damage your foe with a powerful kick.,Наносит врагу урон мощным пинком.
+Damage your foe with a quick series of forceful pecks.,Наносит врагу урон быстрой серией сильных ударов клювом.
+Damage your foe. Deal double damage if they are not attacking.,"Наносит урон врагу. Наносит двойной урон, если враг не атакует."
+Damaged Beacon,Поврежденный маяк
+Damaged Calibration Thumper,Поврежденный калибровочный трамбовщик
+Damaged Cannon,Поврежденная пушка
+Damaged Equipment,Поврежденное снаряжение
+Damaged Portal,Поврежденный портал
+Damaged Tracking Device,Поврежденное отслеживающее устройство
+Damages and burns.,Наносит урон и поджигает.
+Damages and finishes off stunned vines.,Наносит урон и добивает оглушённые лианы.
+Damages foes and inflicts poison based on the time spent channeling the skill.,Наносит урон врагам и накладывает отравление в зависимости от времени применения навыка.
+Damages foes in an area. Applies a long-duration stun if they are ghosts of Ascalon.,"Наносит урон врагам в области. Накладывает длительное оглушение, если это призраки Аскалона."
+"Damages the target each second. Use ""Endure Agony"" to fight the effects and remain standing.","Наносит урон цели каждую секунду. Используйте «Перенести агонию», чтобы противостоять эффектам и остаться на ногах."
+Damaging Conditions Converted,Преобразовано вредящих состояний
+Damask Breather Padding[s],[Прокладка|Прокладки|Прокладок] для дыхательной маски из дамаска
+Damask Breather Strap[s],[Ремешок|Ремешка|Ремешков] для дыхательной маски из дамаска
+Damask Coat Lining[s],[Подкладка|Подкладки|Подкладок] для пальто из дамаска
+Damask Coat Panel[s],[Панель|Панели|Панелей] для пальто из дамаска
+Damask Epaulet Padding[s],[Прокладка|Прокладки|Прокладок] для эполетов из дамаска
+Damask Epaulet Panel[s],[Панель|Панели|Панелей] для эполетов из дамаска
+Damask Gloves Padding[s],[Прокладка|Прокладки|Прокладок] для перчаток из дамаска
+Damask Gloves Panel[s],[Панель|Панели|Панелей] для перчаток из дамаска
+Damask Helm Padding[s],[Прокладка|Прокладки|Прокладок] для шлема из дамаска
+Damask Helm Strap[s],[Ремешок|Ремешка|Ремешков] дамасского шлема
+Damask Pants Lining[s],[Подкладка|Подкладки|Подкладок] дамасских штанов
+Damask Pants Panel[s],[Панель|Панели|Панелей] дамасских штанов
 "Damask Patch[pl:""Patches""]",
-Damask Shoe Sole[s],
-Damask Shoe Upper[s],
-Danach zog Caudecus am Rand des Schwärenden Beckens entlang weiter.,
-Dance among the choya.,
-Dance around the bonfire under the moon's glow.,
-"Dance for Balthazar at the Altar of Balthazar, in his Temple in Orr.",
-Dance for Dwayna,
-"Dance for Dwayna at the Altar of Dwayna, in her Temple in Orr.",
-Dance for Evon Gnashblade,
-Dance for Grenth,
-"Dance for Grenth at the Altar of Grenth, in his Temple in Orr.",
-Dance for Lyssa,
-"Dance for Lyssa at the Altar of Lyssa, in her Temple in Orr.",
-Dance for Melandru,
-"Dance for Melandru at the Altar of Melandru, in her Temple in Orr.",
-Dance for the Queen,
-Dance for the Skritt King,
-Dance in front of the statue of Abaddon in the Durmand Priory's secret archives.,
-Dance Like You Are Free,
-Dance Platform Package[s],
-Dance Skills,
-"Dance the ""Chase the Prey"" step.",
-"Dance the ""Collect the Harvest"" step.",
-"Dance the ""Praise the Sun"" step.",
-"Dance the ""Sow the Fields"" step.",
-Dance within the walls of a jail cell.,
-"Danced in the Vaults during the Gnashbash ""Birthday"" Celebration",
-Dancing Blade,
-Dancing Daggers,
-Dancing for Balthazar,
-Dancing Spirit,
-Dancing Torches,
-Dancing with Abaddon,
-Dancing with Death (Lion's Arch: Honored Guests),
-Dancing with Death by Snargle Goldclaw,
+Damask Shoe Sole[s],[Подошва|Подошвы|Подошв] дамасских ботинок
+Damask Shoe Upper[s],[Верх|Верха|Верхов] дамасских ботинок
+Danach zog Caudecus am Rand des Schwärenden Beckens entlang weiter.,Затем Каудекус двинулся дальше по краю Гноящегося Бассейна.
+Dance among the choya.,Танцуй среди чойя.
+Dance around the bonfire under the moon's glow.,Танцуй вокруг костра под сиянием луны.
+"Dance for Balthazar at the Altar of Balthazar, in his Temple in Orr.","Танцуй для Бальтазара у Алтаря Бальтазара, в его Храме в Орре."
+Dance for Dwayna,Танцуй для Двайны.
+"Dance for Dwayna at the Altar of Dwayna, in her Temple in Orr.","Танцуйте для Двайны у Алтаря Двайны, в её Храме в Орре."
+Dance for Evon Gnashblade,Танцуйте для Эвона Гнашблейда
+Dance for Grenth,Танцуйте для Грента
+"Dance for Grenth at the Altar of Grenth, in his Temple in Orr.","Танцуйте для Грента у Алтаря Грента, в его Храме в Орре."
+Dance for Lyssa,Танцуйте для Лиссы
+"Dance for Lyssa at the Altar of Lyssa, in her Temple in Orr.","Танцуйте для Лиссы у Алтаря Лиссы, в её Храме в Орре."
+Dance for Melandru,Танцуйте для Меландру
+"Dance for Melandru at the Altar of Melandru, in her Temple in Orr.","Танцуйте для Меландру у Алтаря Меландру, в её Храме в Орре."
+Dance for the Queen,Танцуйте для Королевы
+Dance for the Skritt King,Танцуйте для Короля скриттов
+Dance in front of the statue of Abaddon in the Durmand Priory's secret archives.,Танцуйте перед статуей Абаддона в секретных архивах Дурмандского Приората.
+Dance Like You Are Free,"Танцуй, как будто ты свободен"
+Dance Platform Package[s],[Набор|Набора|Наборов] танцевальной платформы
+Dance Skills,Танцевальные навыки
+"Dance the ""Chase the Prey"" step.",Танцуйте шаг «Погоня за добычей».
+"Dance the ""Collect the Harvest"" step.",Танцуйте шаг «Сбор урожая».
+"Dance the ""Praise the Sun"" step.",Танцуйте шаг «Восхваление Солнца».
+"Dance the ""Sow the Fields"" step.",Танцуйте шаг «Засевание полей».
+Dance within the walls of a jail cell.,Танцевать в стенах тюремной камеры.
+"Danced in the Vaults during the Gnashbash ""Birthday"" Celebration",Танцевал в Хранилищах во время «Дня рождения» Гнаша
+Dancing Blade,Танцующий клинок
+Dancing Daggers,Танцующие кинжалы
+Dancing for Balthazar,Танец для Бальтазара
+Dancing Spirit,Танцующий дух
+Dancing Torches,Танцующие факелы
+Dancing with Abaddon,Танец с Абаддоном
+Dancing with Death (Lion's Arch: Honored Guests),Танец со смертью (Львиная Арка: Почётные гости)
+Dancing with Death by Snargle Goldclaw,Танец со смертью Снаргла Золотого Когтя
 "Dandan[pl:""Dandans""]",
-Dandelion Blossom[s],
-Danger at the Crucible,
-Danger: Wild Jukeboxes,
-Dangerous Bridge Stock,
-"Dangerous lightning strikes threaten the area, and passages through the caverns have collapsed.",
-Dangerous Relic,
-Dangerous Secrets,
-Daniel Jennings,
-Daol Brol Shiol,
-Daol Brol Shiol Elegy Mosaic[s],
-Dapper Coat Skin[s],
-Dapper Pants now available!,
-Dapper Pants Skin[s],
-Dapper Suit Package,
-Dapper Wingtips now available!,
-Dapper Wingtips Skin[s],
-Dapple Dye[s],
-"Dare this historian say, the Moot should only be brandished by the most charismatic of warriors. When drawn, your foe may be blinded by its grandiose display of light and splendor.",
-Daredevil's Auric Sharpening Stone[s],
-Dark 1,
-Dark 2,
-Dark 3,
-Dark 4,
-Dark 5,
-Dark 6,
-Dark Amber Blond,
-Dark Armor,
-Dark Ash,
-Dark Attunement,
-Dark Binding,
-Dark Blond,
-Dark Blue,
-Dark Bobcat,
-Dark Bolas,
-dark bond,
-Dark Bond,
-Dark Boots Skin[s],
-Dark Brown,
-Dark Chocolate Candy,
-Dark Chocolate Dye[s],
-Dark Cloud,
-Dark Coat Skin[s],
-Dark Cotton Candy,
-Dark Cream,
-Dark creatures have emerged from the Wychmire Swamp in Caledon Forest.,
-Dark Explosion,
-Dark Gloves Skin[s],
-Dark Gold,
-Dark Gray,
-Dark Green,
-Dark Halting,
-Dark Helm Skin[s],
-Dark Inferno,
-Dark Iron Munitions,
-Dark Leggings Skin[s],
-Dark Lime,
-Dark Maple,
-Dark Matter Axe Skin[s],
-Dark Matter Cape[s],
-Dark Matter Dagger Skin[s],
-Dark Matter Focus Skin[s],
-Dark Matter Greatsword Skin[s],
-Dark Matter Hammer Skin[s],
-Dark Matter Longbow Skin[s],
-Dark Matter Mace Skin[s],
-Dark Matter Pistol Skin[s],
-Dark Matter Rifle Skin[s],
-Dark Matter Scepter Skin[s],
-Dark Matter Shield Skin[s],
-Dark Matter Short Bow Skin[s],
-Dark Matter Staff Skin[s],
-Dark Matter Sword Skin[s],
-Dark Matter Torch Skin[s],
-Dark Matter Warhorn Skin[s],
+Dandelion Blossom[s],Цветок одуванчик[а|а|ов]
+Danger at the Crucible,Опасность в Горниле
+Danger: Wild Jukeboxes,Опасность: дикие музыкальные автоматы
+Dangerous Bridge Stock,Опасный мостовой запас
+"Dangerous lightning strikes threaten the area, and passages through the caverns have collapsed.","Опасные удары молнии угрожают местности, и проходы через пещеры обрушились."
+Dangerous Relic,Опасная реликвия
+Dangerous Secrets,Опасные секреты
+Daniel Jennings,Дэниел Дженнингс
+Daol Brol Shiol,Даол Брол Шиол
+Daol Brol Shiol Elegy Mosaic[s],[Мозаика|Мозаики|Мозаик] элегии Даол Брол Шиол
+Dapper Coat Skin[s],[Облик|Облика|Обликов] пальто «Щёголь»
+Dapper Pants now available!,Элегантные штаны теперь доступны!
+Dapper Pants Skin[s],[Облик|Облика|Обликов] штанов «Щёголь»
+Dapper Suit Package,Набор элегантного костюма
+Dapper Wingtips now available!,Элегантные туфли с острым носком теперь доступны!
+Dapper Wingtips Skin[s],[Облик|Облика|Обликов] туфель «Щёголь»
+Dapple Dye[s],[Краска|Краски|Красок] «Пегий»
+"Dare this historian say, the Moot should only be brandished by the most charismatic of warriors. When drawn, your foe may be blinded by its grandiose display of light and splendor.","Осмелюсь сказать, историк, что Мут следует носить только самым харизматичным воинам. Когда он извлечён, ваш враг может быть ослеплён его грандиозным проявлением света и великолепия."
+Daredevil's Auric Sharpening Stone[s],[Точильный камень|Точильного камня|Точильных камней] ауры сорвиголовы
+Dark 1,Темный 1
+Dark 2,Темный 2
+Dark 3,Темный 3
+Dark 4,Темный 4
+Dark 5,Темный 5
+Dark 6,Темный 6
+Dark Amber Blond,Темный янтарный блонд
+Dark Armor,Темная броня
+Dark Ash,Темный пепел
+Dark Attunement,Темная настройка
+Dark Binding,Тёмная скованность
+Dark Blond,Темный блонд
+Dark Blue,Темно-синий
+Dark Bobcat,Темная рысь
+Dark Bolas,Темные болты
+dark bond,темная связь
+Dark Bond,Темная связь
+Dark Boots Skin[s],[Облик|Облика|Обликов] тёмных ботинок
+Dark Brown,Темно-коричневый
+Dark Chocolate Candy,Темная шоколадная конфета
+Dark Chocolate Dye[s],[Краска|Краски|Красок] «Тёмный шоколад»
+Dark Cloud,Темное облако
+Dark Coat Skin[s],[Облик|Облика|Обликов] тёмного пальто
+Dark Cotton Candy,Темная сахарная вата
+Dark Cream,Темный крем
+Dark creatures have emerged from the Wychmire Swamp in Caledon Forest.,Темные существа появились из болота Ведьмин Топь в лесу Каледон.
+Dark Explosion,Темный взрыв
+Dark Gloves Skin[s],Облик[|а|ов] темных перчаток
+Dark Gold,Темное золото
+Dark Gray,Темно-серый
+Dark Green,Темно-зеленый
+Dark Halting,Темное замедление
+Dark Helm Skin[s],Облик[|а|ов] темного шлема
+Dark Inferno,Темное пекло
+Dark Iron Munitions,Темные железные боеприпасы
+Dark Leggings Skin[s],Облик[|а|ов] темных поножей
+Dark Lime,Темный лайм
+Dark Maple,Темный клен
+Dark Matter Axe Skin[s],Облик[|а|ов] топора из темной материи
+Dark Matter Cape[s],Плащ[|а|ей] из темной материи
+Dark Matter Dagger Skin[s],Облик[|а|ов] кинжала из темной материи
+Dark Matter Focus Skin[s],Облик[|а|ов] фокуса из темной материи
+Dark Matter Greatsword Skin[s],Облик[|а|ов] большого меча из темной материи
+Dark Matter Hammer Skin[s],Облик[|а|ов] молота из темной материи
+Dark Matter Longbow Skin[s],Облик[|а|ов] длинного лука из темной материи
+Dark Matter Mace Skin[s],Облик[|а|ов] булавы из темной материи
+Dark Matter Pistol Skin[s],Облик[|а|ов] пистолета из темной материи
+Dark Matter Rifle Skin[s],Облик[|а|ов] винтовки из темной материи
+Dark Matter Scepter Skin[s],Облик[|а|ов] скипетра из темной материи
+Dark Matter Shield Skin[s],Облик[|а|ов] щита из темной материи
+Dark Matter Short Bow Skin[s],Облик[|а|ов] короткого лука «Темная материя»
+Dark Matter Staff Skin[s],Облик[|а|ов] посоха «Темная материя»
+Dark Matter Sword Skin[s],Облик[|а|ов] меча «Темная материя»
+Dark Matter Torch Skin[s],Облик[|а|ов] факела «Темная материя»
+Dark Matter Warhorn Skin[s],Облик[|а|ов] боевого рога «Темная материя»
 "Dark Matter Weapon Box[pl:""Boxes""]",
-Dark Matter Weapons,
-Dark Monarch Skyscale Skin[s],
-Dark Oak,
-Dark Olive Dye[s],
-Dark Orb,
-Dark Pauldrons Skin[s],
-Dark Peach,
-Dark Pine,
-Dark Purple,
-Dark Red,
-Dark Rose,
-Dark Sanctified Axe Skin[s],
-Dark Sanctified Dagger Skin[s],
-Dark Sanctified Focus Skin[s],
-Dark Sanctified Greatsword Skin[s],
-Dark Sanctified Hammer Skin[s],
-Dark Sanctified Longbow Skin[s],
-Dark Sanctified Mace Skin[s],
-Dark Sanctified Pistol Skin[s],
-Dark Sanctified Rifle Skin[s],
-Dark Sanctified Scepter Skin[s],
-Dark Sanctified Shield Skin[s],
-Dark Sanctified Short Bow Skin[s],
-Dark Sanctified Staff Skin[s],
-Dark Sanctified Sword Skin[s],
-Dark Sanctified Torch Skin[s],
-Dark Sanctified Warhorn Skin[s],
+Dark Matter Weapons,Оружие из тёмной материи
+Dark Monarch Skyscale Skin[s],Облик[|а|ов] скайскейла «Темный монарх»
+Dark Oak,Тёмный дуб
+Dark Olive Dye[s],Краситель[|я|ей] «Темно-оливковый»
+Dark Orb,Тёмная сфера
+Dark Pauldrons Skin[s],Облик[|а|ов] «Темные наплечники»
+Dark Peach,Тёмный персик
+Dark Pine,Тёмная сосна
+Dark Purple,Тёмно-фиолетовый
+Dark Red,Тёмно-красный
+Dark Rose,Тёмно-розовый
+Dark Sanctified Axe Skin[s],Облик[|а|ов] топора «Темный освященный»
+Dark Sanctified Dagger Skin[s],Облик[|а|ов] кинжала «Темный освященный»
+Dark Sanctified Focus Skin[s],Облик[|а|ов] фокуса «Темный освященный»
+Dark Sanctified Greatsword Skin[s],Облик[|а|ов] большого меча «Темный освященный»
+Dark Sanctified Hammer Skin[s],Облик[|а|ов] молота «Темный освященный»
+Dark Sanctified Longbow Skin[s],Облик[|а|ов] длинного лука «Темный освященный»
+Dark Sanctified Mace Skin[s],Облик[|а|ов] булавы «Темный освященный»
+Dark Sanctified Pistol Skin[s],Темный освященный облик[|а|ов] пистолета
+Dark Sanctified Rifle Skin[s],Темный освященный облик[|а|ов] винтовки
+Dark Sanctified Scepter Skin[s],Темный освященный облик[|а|ов] скипетра
+Dark Sanctified Shield Skin[s],Темный освященный облик[|а|ов] щита
+Dark Sanctified Short Bow Skin[s],Темный освященный облик[|а|ов] короткого лука
+Dark Sanctified Staff Skin[s],Темный освященный облик[|а|ов] посоха
+Dark Sanctified Sword Skin[s],Темный освященный облик[|а|ов] меча
+Dark Sanctified Torch Skin[s],Темный освященный облик[|а|ов] факела
+Dark Sanctified Warhorn Skin[s],Темный освященный облик[|а|ов] боевого рога
 "Dark Sanctified Weapon Skin Selection Box[pl:""Boxes""]",
-Dark Sanctified Weapons,
-Dark Sand,
+Dark Sanctified Weapons,Тёмное освящённое оружие
+Dark Sand,Тёмный песок
 "Dark Sleeper[pl:""Sleepers""]",
-Dark Stained Claw[s],
-Dark Stalker,
-Dark Teal,
-Dark times call for dark deeds.,
+Dark Stained Claw[s],Темный запятнанный когот[ь|я|ей]
+Dark Stalker,Темный сталкер
+Dark Teal,Тёмный бирюзовый
+Dark times call for dark deeds.,Темные времена требуют темных дел.

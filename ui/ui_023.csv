@@ -115,7 +115,7 @@ english,translate
 [lbracket]Snowball Mayhem Activity[rbracket],[lbracket]Активность «Снежная кутерьма»[rbracket]
 [lbracket]Snowflake Trader[rbracket],[lbracket]Торговец снежинок[rbracket]
 [lbracket]Somewhat Interested[rbracket],[lbracket]Немного интересует[rbracket]
-[lbracket]Sous-catégorie[rbracket],
+[lbracket]Sous-catégorie[rbracket],[lbracket]Sous-catégorie[rbracket]
 [lbracket]South[rbracket] Octovine has been defeated!,[lbracket]Юг[rbracket] Октолоза побеждена!
 [lbracket]Southsun Survival[rbracket],[lbracket]Выживание на Southsun[rbracket]
 [lbracket]Specialization Achievement Repair[rbracket],[lbracket]Починка достижения специализации[rbracket]
@@ -168,9 +168,9 @@ english,translate
 [lbracket]Turtle Banner[rbracket],[lbracket]Знамя черепахи[rbracket]
 [lbracket]Tutorials[rbracket],[lbracket]Обучение[rbracket]
 [lbracket]Unbound Magic Collector[rbracket],[lbracket]Собиратель несвязанной магии[rbracket]
-[lbracket]Unterernährt[rbracket],
+[lbracket]Unterernährt[rbracket],[lbracket]Недоедание[rbracket]
 [lbracket]Upgrades[rbracket],[lbracket]Улучшения[rbracket]
-[lbracket]Verletzt[rbracket],
+[lbracket]Verletzt[rbracket],[lbracket]Ранен[rbracket]
 [lbracket]Very Interested[rbracket],[lbracket]Очень интересует[rbracket]
 [lbracket]W[rbracket],[lbracket]W[rbracket]
 [lbracket]Wager Accepted[rbracket],[lbracket]Ставка принята[rbracket]
@@ -197,13 +197,13 @@ english,translate
 [lbracket]WvW[rbracket],[lbracket]WvW[rbracket]
 [lbracket]X[rbracket],[lbracket]X[rbracket]
 [lbracket]Y[rbracket],[lbracket]Y[rbracket]
-[M]Arc long séraphin,
+[M]Arc long séraphin,[M]Длинный лук серафима
 [M]Brasero[s] de la Légion de la Flamme,
-[M]Fusil séraphin,
-[M]Pilier de glace,
-[M]Pistolet séraphin,
+[M]Fusil séraphin,[M]Серафимская винтовка
+[M]Pilier de glace,[M]Ледяной столб
+[M]Pistolet séraphin,[M]Серафимский пистолет
 "[M]Piège[pl:""Pièges""] traceur[pl:""traceurs""] de cibles",
-[N]Orichalcum-Erz,
+[N]Orichalcum-Erz,[N]Орихалковая руда
 [nosep]%num1%,[nosep]%num1%
 [nosep]%num1% %str1%,[nosep]%num1% %str1%
 [nosep]%num1% karma,[nosep]%num1% кармы

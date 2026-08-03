@@ -12,3 +12,9 @@ sync/.snapshot.json
 sync/reports/
 sync/*.cache
 sync/*.raw
+
+# Бэкапы от tools/dict_tool.py — локальные
+.dict_bak/
+
+# Чужие словари, принесённые для сравнения/вливания (десятки МБ, не источник)
+dictionary_*.bin

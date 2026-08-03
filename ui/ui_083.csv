@@ -1,501 +1,501 @@
 english,translate
-Inquest looting finished in: %str1%,
-Inquest Magitech Component,
-Inquest Mark II Axe Skin[s],
-Inquest Mark II Dagger Skin[s],
-Inquest Mark II Focus Skin[s],
-Inquest Mark II Greatsword Skin[s],
-Inquest Mark II Hammer Skin[s],
-Inquest Mark II Longbow Skin[s],
-Inquest Mark II Mace Skin[s],
-Inquest Mark II Pistol Skin[s],
-Inquest Mark II Rifle Skin[s],
-Inquest Mark II Scepter Skin[s],
-Inquest Mark II Shield Skin[s],
-Inquest Mark II Short Bow Skin[s],
-Inquest Mark II Staff Skin[s],
-Inquest Mark II Sword Skin[s],
-Inquest Mark II Torch Skin[s],
-Inquest Mark II Warhorn Skin[s],
+Inquest looting finished in: %str1%,Мародёрство Инквеста закончится через: %str1%
+Inquest Magitech Component,Магитех-компонент Инквизиции
+Inquest Mark II Axe Skin[s],[Облик|Облика|Обликов] топора «Инквест Марк II»
+Inquest Mark II Dagger Skin[s],[Облик|Облика|Обликов] кинжала «Инквест Марк II»
+Inquest Mark II Focus Skin[s],[Облик|Облика|Обликов] фокуса «Инквест Марк II»
+Inquest Mark II Greatsword Skin[s],[Облик|Облика|Обликов] большого меча «Инквест Марк II»
+Inquest Mark II Hammer Skin[s],[Облик|Облика|Обликов] молота «Инквест Марк II»
+Inquest Mark II Longbow Skin[s],облик[|а|ов] длинного лука Марк II Инквеста
+Inquest Mark II Mace Skin[s],облик[|а|ов] булавы Марк II Инквеста
+Inquest Mark II Pistol Skin[s],облик[|а|ов] пистолета Марк II Инквеста
+Inquest Mark II Rifle Skin[s],облик[|а|ов] винтовки Марк II Инквеста
+Inquest Mark II Scepter Skin[s],облик[|а|ов] скипетра Марк II Инквеста
+Inquest Mark II Shield Skin[s],облик[|а|ов] щита Марк II Инквеста
+Inquest Mark II Short Bow Skin[s],облик[|а|ов] короткого лука Марк II Инквеста
+Inquest Mark II Staff Skin[s],облик[|а|ов] посоха Марк II Инквеста
+Inquest Mark II Sword Skin[s],облик[|а|ов] меча Марк II Инквеста
+Inquest Mark II Torch Skin[s],облик[|а|ов] факела Марк II Инквеста
+Inquest Mark II Warhorn Skin[s],облик[|а|ов] рога Марк II Инквеста
 "Inquest Mark II Weapon Box[pl:""Boxes""]",
-Inquest Mark II Weapons,
+Inquest Mark II Weapons,Оружие Инквест Mark II
 "Inquest Medium Armor Box[pl:""Boxes""]",
-Inquest Mine,
-Inquest Miner,
-Inquest motion controls enabled.,
-Inquest Note,
-Inquest Overseer Chair Glider Combo,
-Inquest Overseer Glider[s],
-Inquest Passcode[s],
-Inquest Pilot,
+Inquest Mine,Шахта Инквест
+Inquest Miner,Шахтёр Инквеста
+Inquest motion controls enabled.,Датчики движения Инквест активированы.
+Inquest Note,Записка Инквест
+Inquest Overseer Chair Glider Combo,Комбинация кресла-глайдера надзирателя Инквест
+Inquest Overseer Glider[s],глайдер[|а|ов] надзирателя Инквеста
+Inquest Passcode[s],пароль[|я|ей] Инквеста
+Inquest Pilot,Пилот Инквест
 "Inquest Pilot Loot Box[pl:""Boxes""]",
-Inquest Portal,
-Inquest power cells are used for portable energy. There are likely some lying around with other supplies at the Arcanological Survey Station.,
-Inquest Power Core[s],
-Inquest Power Generator,
-Inquest Power Suit,
+Inquest Portal,Портал Инквеста
+Inquest power cells are used for portable energy. There are likely some lying around with other supplies at the Arcanological Survey Station.,"Элементы питания Инквест используются для портативной энергии. Вероятно, некоторые из них валяются среди прочих припасов на Станции арканологических изысканий."
+Inquest Power Core[s],[силовое ядро|силовых ядра|силовых ядер] Инквеста
+Inquest Power Generator,Генератор энергии Инквест
+Inquest Power Suit,Силовой костюм Инквест
 Inquest Power Suit Mark III,
-Inquest reinforcements have arrived.,
-Inquest Researcher,
-Inquest Resources,
-Inquest Rifle Turret,
-Inquest Rubbish Pile,
-Inquest Senior Engineer,
-Inquest Skimmer Skin[s],
-Inquest Slayer,
-Inquest Spanner,
-Inquest Spy Equipment,
-Inquest Stash,
-Inquest Supply Crate,
-Inquest Technician,
+Inquest reinforcements have arrived.,Подкрепление Инквест прибыло.
+Inquest Researcher,Исследователь Инквеста
+Inquest Resources,Ресурсы Инквест
+Inquest Rifle Turret,Винтовочная турель Инквест
+Inquest Rubbish Pile,Куча мусора Инквест
+Inquest Senior Engineer,Старший инженер Инквеста
+Inquest Skimmer Skin[s],облик[|а|ов] скакуна Инквеста
+Inquest Slayer,Убийца Инквеста
+Inquest Spanner,Гаечный ключ Инквеста
+Inquest Spy Equipment,Шпионское оборудование Инквеста
+Inquest Stash,Тайник Инквеста
+Inquest Supply Crate,Ящик припасов Инквеста
+Inquest Technician,Техник Инквеста
 "Inquest Technician Loot Box[pl:""Boxes""]",
-Inquest Technological Frequency,
-Inquest Terminal,
-Inquest Thumper Turret,
-Inquest Turret,
-Inquest Virtual Reality Goggles,
-Inquest Wavehawk Trap,
-Inquest Weather Guns,
-Inquisitor Machalina's Journal,
-Inquisitor's Record,
-Inscribe a mark that chills foes when triggered and chains to nearby foes.,
-Inscribed Shard[s],
-Inscription[s] of the Spearmarshal,
-Inscrutable Ooze,
-Insect Larva,
+Inquest Technological Frequency,Технологическая частота Инквеста
+Inquest Terminal,Терминал Инквест
+Inquest Thumper Turret,Турель-глушитель Инквеста
+Inquest Turret,Турель Инквеста
+Inquest Virtual Reality Goggles,Очки виртуальной реальности Инквеста
+Inquest Wavehawk Trap,Ловушка на волноястребов Инквеста
+Inquest Weather Guns,Погодные пушки Инквеста
+Inquisitor Machalina's Journal,Дневник инквизитора Махалины
+Inquisitor's Record,Запись инквизитора
+Inscribe a mark that chills foes when triggered and chains to nearby foes.,"Нанести руну, которая замедляет врагов при срабатывании и цепляется за ближайших врагов."
+Inscribed Shard[s],[Осколок|Осколка|Осколков] с письменами
+Inscription[s] of the Spearmarshal,[Надпись|Надписи|Надписей] копьемаршала
+Inscrutable Ooze,Непостижимая слизь
+Insect Larva,Личинка насекомого
 "Insect Loot Box[pl:""Boxes""]",
-Insect Retreat,
-Insect[s],
-Insecticide Blossom,
-Insert Egg,
-Insert Power Node,
-Insert super coin to continue.,
-Inside a watery cave.,
-Inside the room.,
-Inside the ship that sits on both land and sea.,
-Inside the Tomb of Primeval Kings.,
-Insignia[s] of the Harrier,
-Insignia[s] of the Spearmarshal,
-Inspect contents.,
-Inspect Cosmetics,
-Inspect Soil,
-Inspect Ura's Corpse,
-Inspection Drone,
-"Inspector Kiel is investigating the karka threat, and anyone in Lion's Arch who may have been behind it. Find her in the Grand Piazza to aid her efforts.",
-"Inspire nearby allies, granting fury.",
-"Inspire nearby allies, granting swiftness.",
-"Inspire nearby allies, healing them.",
-Inspire nearby rebels with Isaak's words. Applies a random boon.,
-inspire them with structure and my strong sense of reason. Advance planning will bring victory.,
-Inspire to Increase Dignity,
-Inspires nearby Flame Legion charr.,
-Inspiring Banners,
-Inspiring Presence,
-Inspiring Shouts,
-Installing to HDD,
-Instance complete. Remain in the squad or leave?,
-Instance Entry,
-Instance owner has left the group.,
-Instance requested no longer exists.,
-"Instanced mission in which members work together to complete a large multiroom puzzle (similar to a mini dungeon), with various elements including jumping sections.",
+Insect Retreat,Убежище насекомых
+Insect[s],[Насекомое|Насекомых|Насекомых]
+Insecticide Blossom,Инсектицидный цветок
+Insert Egg,Вставить яйцо
+Insert Power Node,Вставить силовой узел
+Insert super coin to continue.,"Вставьте супер-монету, чтобы продолжить."
+Inside a watery cave.,Внутри водяной пещеры.
+Inside the room.,Внутри комнаты.
+Inside the ship that sits on both land and sea.,"Внутри корабля, который стоит и на суше, и на море."
+Inside the Tomb of Primeval Kings.,Внутри Гробницы Первобытных Королей.
+Insignia[s] of the Harrier,[Знак|Знака|Знаков] лунника
+Insignia[s] of the Spearmarshal,[Знак|Знака|Знаков] копьемаршала
+Inspect contents.,Осмотреть содержимое.
+Inspect Cosmetics,Осмотреть косметику
+Inspect Soil,Осмотреть почву
+Inspect Ura's Corpse,Осмотреть труп Уры
+Inspection Drone,Дрон-инспектор
+"Inspector Kiel is investigating the karka threat, and anyone in Lion's Arch who may have been behind it. Find her in the Grand Piazza to aid her efforts.","Инспектор Киль расследует угрозу карка и всех, кто мог стоять за этим в Львином Архиве. Найдите её на Большой площади, чтобы помочь ей."
+"Inspire nearby allies, granting fury.","Вдохновить ближайших союзников, даруя ярость."
+"Inspire nearby allies, granting swiftness.","Вдохновить ближайших союзников, даруя скорость."
+"Inspire nearby allies, healing them.","Вдохновляет ближайших союзников, исцеляя их."
+Inspire nearby rebels with Isaak's words. Applies a random boon.,Вдохновляет ближайших повстанцев словами Исаака. Применяет случайное благословение.
+inspire them with structure and my strong sense of reason. Advance planning will bring victory.,вдохновлять их структурой и моим сильным чувством разума. Заблаговременное планирование принесет победу.
+Inspire to Increase Dignity,Вдохновлять для повышения достоинства
+Inspires nearby Flame Legion charr.,Вдохновляет ближайших чаар из Легиона Пламени.
+Inspiring Banners,Вдохновляющие знамёна
+Inspiring Presence,Вдохновляющее присутствие
+Inspiring Shouts,Вдохновляющие крики
+Installing to HDD,Установка на жёсткий диск
+Instance complete. Remain in the squad or leave?,Инстанс пройден. Остаться в отряде или покинуть?
+Instance Entry,Вход в инстанс
+Instance owner has left the group.,Владелец инстанса покинул группу.
+Instance requested no longer exists.,Запрошенный инстанс больше не существует.
+"Instanced mission in which members work together to complete a large multiroom puzzle (similar to a mini dungeon), with various elements including jumping sections.","Инстанс-миссия, в которой участники совместно проходят большое многоэтапное задание (напоминающее мини-подземелье) с различными элементами, включая прыжковые участки."
 "Instanced mission in which members work together to overcome various tasks involving: protecting NPCs or objects, defeating hostile NPCs, destroying objects in rapid succession, or surviving for a set amount of time.",
-"Instanced mission. Members work together to complete a large multiroom puzzle (similar to a mini dungeon), with various elements including jumping sections. To enter a guild-mission instance, interact with the guild-mission flag in the open world. This will open a portal your guild can use to travel into the instance.",
+"Instanced mission. Members work together to complete a large multiroom puzzle (similar to a mini dungeon), with various elements including jumping sections. To enter a guild-mission instance, interact with the guild-mission flag in the open world. This will open a portal your guild can use to travel into the instance.","Инстансовая миссия. Участники работают вместе, чтобы пройти большую многокомнатную головоломку (похожую на мини-подземелье), с различными элементами, включая прыжковые секции. Чтобы войти в инстанс гильдейского задания, взаимодействуйте с флагом гильдейского задания в открытом мире. Это откроет портал, который ваша гильдия может использовать для перемещения в инстанс."
 "Instanced mission. Members work together to overcome various tasks involving: protecting NPCs or objects, defeating hostile NPCs, destroying objects in rapid succession, or surviving for a set amount of time. To enter a guild-mission instance, interact with the guild-mission flag in the open world. This will open a portal your guild can use to travel into the instance.",
-Instant Armor-Reinforcing Canister[s],
-Instant Regret,
-Instant Repair Canister,
-Instant Trait Reset[s],
-Instantly cast at your mouse cursor's location.,
-Instantly disconnects you from the server.,
+Instant Armor-Reinforcing Canister[s],[Мгновенный баллон|Мгновенного баллона|Мгновенных баллонов] усиления брони
+Instant Regret,Мгновенное сожаление
+Instant Repair Canister,Мгновенный канистр ремонта
+Instant Trait Reset[s],[Мгновенный сброс|Мгновенного сброса|Мгновенных сбросов] черт
+Instantly cast at your mouse cursor's location.,Мгновенно применяется в месте указателя мыши.
+Instantly disconnects you from the server.,Мгновенно отключает вас от сервера.
 "Instantly Level 80[pl:""Level""]",
-Instinctual Response,
-Instruct your griffon to dive by holding [lbracket]%str1%[rbracket].,
-Instruct your griffon to flap its wings and gain altitude using [lbracket]%str1%[rbracket]. Use this to reach the adventure starting point.,
-Instruct your skimmer to dive under the surface by holding [lbracket]%str1%[rbracket].,
-Instruction Manual,
+Instinctual Response,Инстинктивная реакция
+Instruct your griffon to dive by holding [lbracket]%str1%[rbracket].,"Заставьте вашего грифона пикировать, удерживая [lbracket]%str1%[rbracket]."
+Instruct your griffon to flap its wings and gain altitude using [lbracket]%str1%[rbracket]. Use this to reach the adventure starting point.,"Заставьте вашего грифона взмахнуть крыльями и набрать высоту с помощью [lbracket]%str1%[rbracket]. Используйте это, чтобы добраться до начальной точки испытания."
+Instruct your skimmer to dive under the surface by holding [lbracket]%str1%[rbracket].,"Заставьте вашего скиммера нырнуть под поверхность, удерживая [lbracket]%str1%[rbracket]."
+Instruction Manual,Инструкция по применению
 "Instructions for Defectors[pl:""Defectors""]",
-Instructor • Gives game info,
-Instructor<br>• Learn about the area<br>• Learn basic strategies,
-Insubordinates punished,
-Insubstantial Brand Crystal[s],
-Insufficient funds,
-"Insufficient funds in inventory, gold will be taken from account gold.",
-Insufficient gold to initiate upgrade,
-Insufficient gold.,
-Insufficient hold supply to initiate upgrade.,
-Insufficient karma to initiate upgrade,
-Insufficient Power,
-Insufficient Transmutation Charges,
-Insult to Increase Ferocity,
-Intact Memory Crystal,
-Intact Mosaic[s],
+Instructor • Gives game info,Инструктор • Дает информацию об игре
+Instructor<br>• Learn about the area<br>• Learn basic strategies,Инструктор<br>• Узнайте о местности<br>• Изучите базовые стратегии
+Insubordinates punished,Неподчинившиеся наказаны
+Insubstantial Brand Crystal[s],[Кристалл|Кристалла|Кристаллов] невесомого клейма
+Insufficient funds,Недостаточно средств
+"Insufficient funds in inventory, gold will be taken from account gold.","Недостаточно средств в инвентаре, золото будет взято с золота учётной записи."
+Insufficient gold to initiate upgrade,Недостаточно золота для начала улучшения
+Insufficient gold.,Недостаточно золота.
+Insufficient hold supply to initiate upgrade.,Недостаточно места в хранилище для начала улучшения.
+Insufficient karma to initiate upgrade,Недостаточно кармы для начала улучшения
+Insufficient Power,Недостаточно энергии
+Insufficient Transmutation Charges,Недостаточно зарядов трансмутации
+Insult to Increase Ferocity,Оскорбление для увеличения свирепости
+Intact Memory Crystal,Неповрежденный кристалл памяти
+Intact Mosaic[s],[Целый|Целого|Целых] мозаик[а|и|]
 "Integrated Circuitry[pl:""Circuitry""]",
 "Integrated Fractal Matrix[pl:""Matrices""]",
-Intel from Crecia,
-Intel from Crecia (The Command Core),
-Intel Report,
-Intelligence Report: Palawa Joko I Page 01[s],
-Intelligence Report: Palawa Joko I Page 02[s],
-Intelligence Report: Palawa Joko I Page 03[s],
-Intelligence Report: Palawa Joko I Page 04[s],
-Intelligence Report: Palawa Joko I Page 05[s],
-Intelligence Report: Palawa Joko I Page 06[s],
-Intelligence Report: Palawa Joko I Page 07[s],
-Intelligence: %num1%,
-Intense Flame Blast,
-Interact with a recipe book to obtain a recipe.,
-Interact with all four magic orbs to set checkpoints and track progress.,
-Interact with juvenile creatures to tame them. The pet panel above your skill bar opens a window where you can review and select your tamed pets.,
-Interact with non-player characters in the world by pressing [lbracket]%str1%[rbracket] when you get close to them.,
-"Interact with the aetheric assembly device in the workshop to open the assembly queue. Crafted schematics will appear here and can be queued for assembly, which takes a varying amount of time. This process can be cut short by spending resonance. When a schematic is fully assembled, it will appear in the guild's storage panel.",
-Interact with the Cauldron of Searing in the Iron Marches.,
-Interact with the Cluster of Winds in the Hidden Garden jumping puzzle in Mount Maelstrom.,
-Interact with the garden patch near Gardenroot Tunnel in the Grove.,
-Interact with the Guild Rush Banner to begin.,
-Interact with the Rift,
-Interacting with Gadget,
-Interactive Services,
-Intercept the wanted bandit leader.,
+Intel from Crecia,Разведданные от Креции
+Intel from Crecia (The Command Core),Разведданные от Креции (Командное ядро)
+Intel Report,Разведдонесение
+Intelligence Report: Palawa Joko I Page 01[s],"[Отчёт|Отчёта|Отчётов] разведки: Палава Джоко I, страница 01"
+Intelligence Report: Palawa Joko I Page 02[s],"[Отчёт|Отчёта|Отчётов] разведки: Палава Джоко I, страница 02"
+Intelligence Report: Palawa Joko I Page 03[s],"[Отчёт|Отчёта|Отчётов] разведки: Палава Джоко I, страница 03"
+Intelligence Report: Palawa Joko I Page 04[s],"[Отчёт|Отчёта|Отчётов] разведки: Палава Джоко I, страница 04"
+Intelligence Report: Palawa Joko I Page 05[s],"[Отчёт|Отчёта|Отчётов] разведки: Палава Джоко I, страница 05"
+Intelligence Report: Palawa Joko I Page 06[s],"[Отчёт|Отчёта|Отчётов] разведки: Палава Джоко I, страница 06"
+Intelligence Report: Palawa Joko I Page 07[s],Разведывательный доклад: Палава Джоко I Страниц[а|ы|] 07
+Intelligence: %num1%,Интеллект: %num1%
+Intense Flame Blast,Интенсивный огненный взрыв
+Interact with a recipe book to obtain a recipe.,"Взаимодействуйте с книгой рецептов, чтобы получить рецепт."
+Interact with all four magic orbs to set checkpoints and track progress.,"Взаимодействуйте со всеми четырьмя магическими сферами, чтобы установить контрольные точки и отслеживать прогресс."
+Interact with juvenile creatures to tame them. The pet panel above your skill bar opens a window where you can review and select your tamed pets.,"Взаимодействуйте с молодыми существами, чтобы приручить их. Панель питомцев над панелью навыков открывает окно, где вы можете просмотреть и выбрать прирученных питомцев."
+Interact with non-player characters in the world by pressing [lbracket]%str1%[rbracket] when you get close to them.,"Взаимодействуйте с неигровыми персонажами в мире, нажав [lbracket]%str1%[rbracket], когда подойдете к ним."
+"Interact with the aetheric assembly device in the workshop to open the assembly queue. Crafted schematics will appear here and can be queued for assembly, which takes a varying amount of time. This process can be cut short by spending resonance. When a schematic is fully assembled, it will appear in the guild's storage panel.","Взаимодействуйте с эфирным сборочным устройством в мастерской, чтобы открыть очередь сборки. Созданные схемы появятся здесь, и их можно будет поставить в очередь на сборку, которая занимает разное время. Этот процесс можно сократить, потратив резонанс. Когда схема будет полностью собрана, она появится на панели хранилища гильдии."
+Interact with the Cauldron of Searing in the Iron Marches.,Взаимодействуйте с Котлом Жжения в Железных Топях.
+Interact with the Cluster of Winds in the Hidden Garden jumping puzzle in Mount Maelstrom.,Взаимодействуйте со Скоплением Ветров в прыжковом лабиринте «Скрытый сад» на горе Мальстрем.
+Interact with the garden patch near Gardenroot Tunnel in the Grove.,Взаимодействуйте с садовым участком у тоннеля Садовый Корень в Роще.
+Interact with the Guild Rush Banner to begin.,"Взаимодействуйте со знаменем гильдейского забега, чтобы начать."
+Interact with the Rift,Взаимодействуйте с Разломом
+Interacting with Gadget,Взаимодействие с устройством
+Interactive Services,Интерактивные услуги
+Intercept the wanted bandit leader.,Перехватите разыскиваемого главаря бандитов.
 Interdisciplinary<br>Accessium,
-Interested in relics?,
-Interesting Enemies (1 not - 5 very),
-Interesting Plant,
-Interesting Times in Rata Novus,
-Interface Options,
-Interface Size:,
+Interested in relics?,Интересуетесь реликвиями?
+Interesting Enemies (1 not - 5 very),Интересные враги (1 нет - 5 очень)
+Interesting Plant,Интересное растение
+Interesting Times in Rata Novus,Интересные времена в Рата Новус
+Interface Options,Параметры интерфейса
+Interface Size:,Размер интерфейса:
 Interface utilisateur,
-Interior Ballistic Cannon,
+Interior Ballistic Cannon,Внутренняя баллистическая пушка
 Intermediate Music by the Strand Band,
-Internal Fire,
-Internal Security Review,
-International Districts,
-Internet (IP) address blocked. Please contact technical support at <a=1>%str1%</a>.,
-Interrogated Sylvari Suspects,
-Interrogation Log,
-Interrupt the Inquest's experiments.,
-Interrupt!,
-Intertwined Wood Band[s],
-Interview with Born from Thunder,
-Interview with Branwen,
-Interview with Paela,
-Interview with Rainless Meadow,
-"Interwoven with an impression of a dragon whose name Tyria has yet to learn, Bolt is imbued with the strength of a storm—swelling inside like a thunderous inferno, eager to aid its wielder in combat.",
-Intimidate creatures and tame them with a flute.,
-Intimidate to Increase Ferocity,
+Internal Fire,Внутренний огонь
+Internal Security Review,Внутренняя проверка безопасности
+International Districts,Международные районы
+Internet (IP) address blocked. Please contact technical support at <a=1>%str1%</a>.,"IP-адрес заблокирован. Пожалуйста, свяжитесь с технической поддержкой по адресу <a=1>%str1%</a>."
+Interrogated Sylvari Suspects,Допрошенные подозреваемые сильвари
+Interrogation Log,Журнал допроса
+Interrupt the Inquest's experiments.,Прервите эксперименты Инквеста.
+Interrupt!,Прерывание!
+Intertwined Wood Band[s],Переплетённое деревянное кольц[о|а|ец]
+Interview with Born from Thunder,Интервью с Рожденным из Грома
+Interview with Branwen,Интервью с Бранвен
+Interview with Paela,Интервью с Паэлой
+Interview with Rainless Meadow,Интервью с Бездождным Лугом
+"Interwoven with an impression of a dragon whose name Tyria has yet to learn, Bolt is imbued with the strength of a storm—swelling inside like a thunderous inferno, eager to aid its wielder in combat.","Переплетенный с отпечатком дракона, чье имя Тирия еще не узнала, Болт наделен силой бури — бурлящей внутри, как громовой огонь, стремящейся помочь своему владельцу в бою."
+Intimidate creatures and tame them with a flute.,Устрашайте существ и приручайте их с помощью флейты.
+Intimidate to Increase Ferocity,Запугивание для увеличения Свирепости
 Intimidate Widowmaker thugs.,
-Intimidate your foes with a new look!,
-Intimidator[s],
-"Into the dark echoes of Cantha's past,",
-Into the Fray,
-Into the Volcano,
-Intoxicated Ooze,
-Intradimensional Wave Aetherometer,
-Intricate Amethyst Jewel[s],
-Intricate Carnelian Jewel[s],
-Intricate Lapis Jewel[s],
-Intricate Peridot Jewel[s],
+Intimidate your foes with a new look!,Устрашайте врагов новым обликом!
+Intimidator[s],[Устрашитель|Устрашителя|Устрашителей]
+"Into the dark echoes of Cantha's past,","В темные отголоски прошлого Кантхи,"
+Into the Fray,В гущу боя
+Into the Volcano,В жерло вулкана
+Intoxicated Ooze,Опьяневшая слизь
+Intradimensional Wave Aetherometer,Внутримерный волновой эфирометр
+Intricate Amethyst Jewel[s],Замысловатый аметистовый самоцвет[|ы|ов]
+Intricate Carnelian Jewel[s],Замысловатый сердоликовый самоцвет[|ы|ов]
+Intricate Lapis Jewel[s],Замысловатый лазуритовый самоцвет[|ы|ов]
+Intricate Peridot Jewel[s],Замысловатый перидотовый самоцвет[|ы|ов]
 "Intricate Scribe's Tools[pl:""Tools""]",
-Intricate Snowflake[s],
-Intricate Spinel Jewel[s],
-Intricate Sunstone Jewel[s],
-Intricate Topaz Jewel[s],
-Intricate Totem[s],
-Intrusion Incarceration,
-intuition to guard the Mists,
-Invalid armor stand data.,
-Invalid conjured doorway location.,
-Invalid conjured doorway state.,
-Invalid decoration.,
-Invalid dye selected.,
-Invalid item type,
-Invalid item.,
-Invalid layout.,
-Invalid monument data.,
-Invalid PASSWORD,
-Invalid player name.,
-Invalid position.,
-Invalid quest reward specified,
-Invalid REWARD-ID,
-Invalid target. Attack a foe imbued with the essence weak to this ability.,
-Invalid target. Your target must be open to rending.,
-Invalid TROPHY-NAME,
-Invalid weapon display data.,
-Inventor's Sunglasses Skin[s],
-Inventory Dialog,
-Inventory Full,
-Inventory is full.,
-Inventory Sheet,
-Inventory Shuffle,
-Inventory Space,
-Inventory — Combat Items,
-Inventory — General,
-Inventory — Materials,
-Inventory — Quest Items,
-Inventory — Trophies,
-Inventory—Material Storage,
-Invert Camera Y-Axis,
-Invert gamepad control of camera,
-Inverted Blade Wings Backpack and Glider Combo,
-Inverted Blade Wings Backpack and Glider Combo now available!,
-Inverted Blade Wings Backpack[s],
-Inverts the camera vertical motion.,
-Investigate a strange cult in an unknown location.,
-Investigate Ancient Mechanism,
-Investigate Clue,
-Investigate Door,
-Investigate Evidence of Rift Activity,
-Investigate other areas of Lake Doric.,
-Investigate reality tears with your skyscale in Blazeridge Steppes.,
-Investigate reality tears with your skyscale in Bloodtide Coast.,
-Investigate reality tears with your skyscale in Crystal Oasis.,
-Investigate reality tears with your skyscale in Cursed Shore.,
-Investigate reality tears with your skyscale in Desert Highlands.,
-Investigate reality tears with your skyscale in Diessa Plateau.,
-Investigate reality tears with your skyscale in Dragonfall.,
-Investigate reality tears with your skyscale in Dredgehaunt Cliffs.,
-Investigate reality tears with your skyscale in Drytop.,
-Investigate reality tears with your skyscale in Elon Riverlands.,
-Investigate reality tears with your skyscale in Fireheart Rise.,
-Investigate reality tears with your skyscale in Frostgorge Sound.,
-Investigate reality tears with your skyscale in Harathi Hinterlands.,
-Investigate reality tears with your skyscale in Iron Marches.,
-Investigate reality tears with your skyscale in Jahai Bluffs.,
-Investigate reality tears with your skyscale in Lornar's Pass.,
-Investigate reality tears with your skyscale in Malchor's Leap.,
-Investigate reality tears with your skyscale in Mount Maelstrom.,
-Investigate reality tears with your skyscale in Sandswept Isles.,
-Investigate reality tears with your skyscale in Sparkfly Fen.,
-Investigate reality tears with your skyscale in Straits of Devastation.,
-Investigate reality tears with your skyscale in the Desolation.,
-Investigate reality tears with your skyscale in the Domain of Istan.,
-Investigate reality tears with your skyscale in the Domain of Kourna.,
-Investigate reality tears with your skyscale in the Domain of Vabbi.,
-Investigate reality tears with your skyscale in the Silverwastes.,
-Investigate reality tears with your skyscale in Thunderhead Peaks.,
-Investigate reality tears with your skyscale in Timberline Falls.,
-Investigate reports of a strange seer artifact in the Deepwood.,
-Investigate the aftermath.,
-Investigate the Centaur Totem in the Spiritholme.,
-Investigate the cliffs just north of Dreamdark Enclave.,
-Investigate the destabilization of the Mists.,
-Investigate the destruction of the Thaumanova Reactor.,
-Investigate the Dredge Furnace in Molevekian Delve.,
-Investigate the Harpy Nesting Grounds in Orgath Uplands.,
-Investigate the Heart of Stone inside Stonemist Castle.,
-Investigate the Krait Reliquary in Darkrait Inlet.,
-Investigate the monuments' destruction.,
-Investigate the mursaat fortress in Ember Bay.,
-Investigate the Mysterious Energy in Darra's Maze.,
-Investigate the ruined site.,
-Investigate the Skritt Shiny in the Titanpaw.,
-Investigate the strange creatures in the forest.,
-Investigate Wall Panel,
-"Investigation of foreign pirate activity has thus far encompassed Shing Jea Island. We're unable to ascertain the location of their hideout, but concerned citizens have reported sightings of suspicious markings. The common description seems to be a cog or skull with a sword in the foreground.This may be some form of communication for the criminals of this organization; sketches of these markings have been sent to the Ministry of Intelligence for analysis.",
-Invis Hero Lord Room,
-Invisible Berserker's Mushroom Spore[s],
-Invisible Blade,
+Intricate Snowflake[s],Замысловатая снежин[ка|ки|ок]
+Intricate Spinel Jewel[s],Замысловатый шпинелевый самоцвет[|ы|ов]
+Intricate Sunstone Jewel[s],Замысловатый солнечный самоцвет[|ы|ов]
+Intricate Topaz Jewel[s],Замысловатый топазовый самоцвет[|ы|ов]
+Intricate Totem[s],Замысловатый тотем[|ы|ов]
+Intrusion Incarceration,Тюремное заключение вторженцев
+intuition to guard the Mists,интуиция для защиты Туманностей
+Invalid armor stand data.,Неверные данные стойки для брони.
+Invalid conjured doorway location.,Неверное местоположение призванного дверного проема.
+Invalid conjured doorway state.,Неверное состояние призванного дверного проема.
+Invalid decoration.,Неверное украшение.
+Invalid dye selected.,Выбран неверный краситель.
+Invalid item type,Неверный тип предмета
+Invalid item.,Недействительный предмет.
+Invalid layout.,Недействительная раскладка.
+Invalid monument data.,Недействительные данные памятника.
+Invalid PASSWORD,Неверный ПАРОЛЬ
+Invalid player name.,Недействительное имя игрока.
+Invalid position.,Недействительная позиция.
+Invalid quest reward specified,Указана недействительная награда за задание.
+Invalid REWARD-ID,Неверный ID НАГРАДЫ
+Invalid target. Attack a foe imbued with the essence weak to this ability.,"Неверная цель. Атакуйте врага, наделённого сущностью, уязвимой к этой способности."
+Invalid target. Your target must be open to rending.,Неверная цель. Ваша цель должна быть открыта для разрыва.
+Invalid TROPHY-NAME,Неверное ИМЯ ТРОФЕЯ
+Invalid weapon display data.,Недействительные данные отображения оружия.
+Inventor's Sunglasses Skin[s],Облик[|а|ов] очков изобретателя
+Inventory Dialog,Диалог инвентаря
+Inventory Full,Инвентарь заполнен
+Inventory is full.,Инвентарь заполнен.
+Inventory Sheet,Лист инвентаря
+Inventory Shuffle,Перетасовка инвентаря
+Inventory Space,Место в инвентаре
+Inventory — Combat Items,Инвентарь — Боевые предметы
+Inventory — General,Инвентарь — Общее
+Inventory — Materials,Инвентарь — Материалы
+Inventory — Quest Items,Инвентарь — Предметы заданий
+Inventory — Trophies,Инвентарь — Трофеи
+Inventory—Material Storage,Инвентарь — Хранилище материалов
+Invert Camera Y-Axis,Инвертировать ось Y камеры
+Invert gamepad control of camera,Инвертировать управление камерой с геймпада
+Inverted Blade Wings Backpack and Glider Combo,Набор «Перевёрнутые крылья-лезвия»: рюкзак и планер
+Inverted Blade Wings Backpack and Glider Combo now available!,Набор «Перевёрнутые крылья-лезвия»: рюкзак и планер теперь доступен!
+Inverted Blade Wings Backpack[s],Ранец[|ы|ев] «Перевёрнутые крылья-лезвия»
+Inverts the camera vertical motion.,Инвертирует вертикальное движение камеры.
+Investigate a strange cult in an unknown location.,Исследовать странный культ в неизвестном месте.
+Investigate Ancient Mechanism,Осмотреть древний механизм
+Investigate Clue,Исследовать улику
+Investigate Door,Осмотреть дверь
+Investigate Evidence of Rift Activity,Исследовать свидетельства активности разлома
+Investigate other areas of Lake Doric.,Исследовать другие области озера Дорик.
+Investigate reality tears with your skyscale in Blazeridge Steppes.,Исследовать разрывы реальности с помощью скайскейла в Степях Блейзридж.
+Investigate reality tears with your skyscale in Bloodtide Coast.,Исследовать разрывы реальности с помощью скайскейла на Побережье Кровавого Прилива.
+Investigate reality tears with your skyscale in Crystal Oasis.,Исследовать разрывы реальности с помощью скайскейла в Хрустальном Оазисе.
+Investigate reality tears with your skyscale in Cursed Shore.,Исследовать разрывы реальности с помощью скайскейла на Проклятом Берегу.
+Investigate reality tears with your skyscale in Desert Highlands.,Исследовать разрывы реальности с помощью скайскейла в Пустынных Нагорьях.
+Investigate reality tears with your skyscale in Diessa Plateau.,Исследовать разрывы реальности с помощью скайскейла на Плато Дисса.
+Investigate reality tears with your skyscale in Dragonfall.,Исследовать разрывы реальности с помощью скайскейла в Драгонфолле.
+Investigate reality tears with your skyscale in Dredgehaunt Cliffs.,Исследовать разрывы реальности с помощью скайскейла в Утесах Дреджхаунт.
+Investigate reality tears with your skyscale in Drytop.,Исследовать разрывы реальности с помощью скайскейла в Драйтопе.
+Investigate reality tears with your skyscale in Elon Riverlands.,Исследовать разрывы реальности с помощью скайскейла в Элонских Речных Землях.
+Investigate reality tears with your skyscale in Fireheart Rise.,Исследовать разрывы реальности с помощью скайскейла на Восходе Огненного Сердца.
+Investigate reality tears with your skyscale in Frostgorge Sound.,Исследуйте разрывы реальности с помощью скайскейла в Ущелье Морозного Звука.
+Investigate reality tears with your skyscale in Harathi Hinterlands.,Исследуйте разрывы реальности с помощью скайскейла в Харатинских Задворках.
+Investigate reality tears with your skyscale in Iron Marches.,Исследуйте разрывы реальности с помощью скайскейла в Железных Топях.
+Investigate reality tears with your skyscale in Jahai Bluffs.,Исследуйте разрывы реальности с помощью скайскейла в Утёсах Джахай.
+Investigate reality tears with your skyscale in Lornar's Pass.,Исследуйте разрывы реальности с помощью скайскейла в Перевале Лорнара.
+Investigate reality tears with your skyscale in Malchor's Leap.,Исследуйте разрывы реальности с помощью скайскейла в Прыжке Мэлхора.
+Investigate reality tears with your skyscale in Mount Maelstrom.,Исследуйте разрывы реальности с помощью скайскейла на горе Мальстрём.
+Investigate reality tears with your skyscale in Sandswept Isles.,Исследуйте разрывы реальности с помощью скайскейла на Песчаных Островах.
+Investigate reality tears with your skyscale in Sparkfly Fen.,Исследуйте разрывы реальности с помощью скайскейла в Искромухе.
+Investigate reality tears with your skyscale in Straits of Devastation.,Исследуйте разрывы реальности с помощью скайскейла в Проливах Разорения.
+Investigate reality tears with your skyscale in the Desolation.,Исследуйте разрывы реальности с помощью скайскейла в Пустоши.
+Investigate reality tears with your skyscale in the Domain of Istan.,Исследуйте разрывы реальности с помощью скайскейла во Владениях Истана.
+Investigate reality tears with your skyscale in the Domain of Kourna.,Исследуйте разрывы реальности с помощью скайскейла во Владениях Курна.
+Investigate reality tears with your skyscale in the Domain of Vabbi.,Исследуйте разрывы реальности с помощью вашего скайскейла в Домене Вабби.
+Investigate reality tears with your skyscale in the Silverwastes.,Исследуйте разрывы реальности с помощью вашего скайскейла в Серебряных Пустошах.
+Investigate reality tears with your skyscale in Thunderhead Peaks.,Исследуйте разрывы реальности с помощью скайскейла в Грозовых Вершинах.
+Investigate reality tears with your skyscale in Timberline Falls.,Исследуйте разрывы реальности с помощью скайскейла в Лесоповальных Водопадах.
+Investigate reports of a strange seer artifact in the Deepwood.,Исследуйте сообщения о странном артефакте провидца в Глубоколесье.
+Investigate the aftermath.,Исследуйте последствия.
+Investigate the Centaur Totem in the Spiritholme.,Исследуйте тотем кентавров в Духовном Лугу.
+Investigate the cliffs just north of Dreamdark Enclave.,Исследуйте скалы к северу от Анклава Сновидений.
+Investigate the destabilization of the Mists.,Исследуйте дестабилизацию Туманностей.
+Investigate the destruction of the Thaumanova Reactor.,Исследуйте разрушение Таумановского реактора.
+Investigate the Dredge Furnace in Molevekian Delve.,Исследуйте печь дреджоутов в Молевекской Шахте.
+Investigate the Harpy Nesting Grounds in Orgath Uplands.,Исследуйте гнездовья гарпий в Нагорьях Оргат.
+Investigate the Heart of Stone inside Stonemist Castle.,Исследуйте Каменное Сердце внутри замка Стоунмист.
+Investigate the Krait Reliquary in Darkrait Inlet.,Исследуйте реликварий крайтов в Бухте Темных Крайтов.
+Investigate the monuments' destruction.,Исследуйте разрушение монументов.
+Investigate the mursaat fortress in Ember Bay.,Исследуйте крепость мурсаатов в бухте Эмбер.
+Investigate the Mysterious Energy in Darra's Maze.,Исследуйте таинственную энергию в Лабиринте Дарры.
+Investigate the ruined site.,Исследуйте разрушенное место.
+Investigate the Skritt Shiny in the Titanpaw.,Исследуйте блестяшку скриттов в Титанолапе.
+Investigate the strange creatures in the forest.,Исследуйте странных существ в лесу.
+Investigate Wall Panel,Исследовать стенную панель
+"Investigation of foreign pirate activity has thus far encompassed Shing Jea Island. We're unable to ascertain the location of their hideout, but concerned citizens have reported sightings of suspicious markings. The common description seems to be a cog or skull with a sword in the foreground.This may be some form of communication for the criminals of this organization; sketches of these markings have been sent to the Ministry of Intelligence for analysis.","Расследование деятельности иностранных пиратов до сих пор охватывало остров Шинг Джеа. Мы не можем установить местонахождение их убежища, но обеспокоенные граждане сообщали о наблюдении подозрительных знаков. Общее описание, похоже, представляет собой шестерню или череп с мечом на переднем плане. Это может быть формой связи для преступников этой организации; наброски этих знаков были отправлены в Министерство разведки для анализа."
+Invis Hero Lord Room,Комната невидимого героя-лорда
+Invisible Berserker's Mushroom Spore[s],Невидимая спор[а|ы|] гриба берсерка
+Invisible Blade,Невидимый клинок
 "Invisible Boot Box[pl:""Boxes""]",
-Invisible Chronomancer's Mushroom Spore[s],
-Invisible Daredevil's Mushroom Spore[s],
-Invisible Dragonhunter's Mushroom Spore[s],
-Invisible Druid's Mushroom Spore[s],
-Invisible Herald's Mushroom Spore[s],
-Invisible Reaper's Mushroom Spore[s],
-INVISIBLE Recently Attacked Mordant Crescent,
-INVISIBLE Rockfall Rush,
-Invisible Scrapper's Mushroom Spore[s],
-Invisible Tempest's Mushroom Spore[s],
-Invisible to foes.,
-Invitation to a Great House,
-Invitation to the Feast of Battle's Eve,
-Invitation to the Molten Furnace mission from Almorra.,
-Invitation to the Tyrian Alliance,
-Invitation[s],
-Invite Only,
-"Invite parties only allow members to join with the approval of the leader. However, any player can apply to join an invite party.",
-Invite Party,
-Invite to Party,
-Invite to Roster,
-Invite to Squad,
-Invited Five Furry Friends to the Ritual,
-Invited You,
-Invocation of Midday,
-"Invoke snowballs to circle around you, damaging and chilling foes.",
-Invoke the power of ancient fire to tear your foes asunder with searing flames.    INGREDIENTS:  —Flame of the First Inferno  —Bones of the Eldest Mountain  —Collection of Last Breaths,
-"Invoke the powers of a dervish, gaining bonus attributes. When you strike an enemy, a magical scythe spins, dealing damage to enemies around you.",
-"Invoke the powers of a mesmer, gaining bonus condition damage and expertise. Inflict a random damaging condition whenever you strike an enemy.",
-"Invoke the powers of a warrior, gaining additional toughness and concentration. Gain protection, resolution, or resistance whenever you strike a target.",
-Invoking a legend will now break stuns.,
-Invulnerability Duration,
-Invulnerable at Range • Counterattacks • Devours Magic,
-Invulnerable Dolyaks Tactic[s],
-Invulnerable Fighters,
-Invulnerable Fortification Tactic[s],
-Invulnerable!,
-Invulnerable: Unleashes True Sight When Stunned,
-Invulnerable; increased movement speed.,
-Ion Cannon,
-Ionic Supercharge,
-"Iowerth of the Durmand Priory claims to know a ritual that will let you see the last moments of a person's life. It is dangerous, but the risk is worth it if you can discover more about Riannoc's death.",
-Irascible Noble Skyscale,
-Irate Bull[s],
-Irin Watts,
+Invisible Chronomancer's Mushroom Spore[s],Невидимая спор[а|ы|] гриба хрономанта
+Invisible Daredevil's Mushroom Spore[s],Невидимая спор[а|ы|] гриба Лихого Сорвиголовы
+Invisible Dragonhunter's Mushroom Spore[s],Невидимая спор[а|ы|] гриба Ловца Драконов
+Invisible Druid's Mushroom Spore[s],Невидимая спор[а|ы|] гриба Друида
+Invisible Herald's Mushroom Spore[s],Невидимая спор[а|ы|] гриба Вестника
+Invisible Reaper's Mushroom Spore[s],Невидимая спор[а|ы|] гриба Жнеца
+INVISIBLE Recently Attacked Mordant Crescent,НЕВИДИМ Недавно атакован Полумесяцем Мордант
+INVISIBLE Rockfall Rush,НЕВИДИМЫй Камнепадный рывок
+Invisible Scrapper's Mushroom Spore[s],Невидимая спор[а|ы|] гриба Пустозвона
+Invisible Tempest's Mushroom Spore[s],Невидимая спор[а|ы|] гриба Бури
+Invisible to foes.,Невидима для врагов.
+Invitation to a Great House,Приглашение в Великий Дом
+Invitation to the Feast of Battle's Eve,Приглашение на Пир Кануна Битвы
+Invitation to the Molten Furnace mission from Almorra.,Приглашение на миссию «Плавильная печь» от Альморры.
+Invitation to the Tyrian Alliance,Приглашение в Тирийский Альянс
+Invitation[s],приглашени[е|я|й]
+Invite Only,Только по приглашению
+"Invite parties only allow members to join with the approval of the leader. However, any player can apply to join an invite party.",Пригласительные группы позволяют присоединиться только с одобрения лидера. Однако любой игрок может подать заявку на вступление в пригласительную группу.
+Invite Party,Пригласить группу
+Invite to Party,Пригласить в группу
+Invite to Roster,Пригласить в список
+Invite to Squad,Пригласить в отряд
+Invited Five Furry Friends to the Ritual,Приглашено пять пушистых друзей на ритуал
+Invited You,Пригласил вас
+Invocation of Midday,Призыв полудня
+"Invoke snowballs to circle around you, damaging and chilling foes.","Призовите снежки, чтобы они кружились вокруг вас, нанося урон и замораживая врагов."
+Invoke the power of ancient fire to tear your foes asunder with searing flames.    INGREDIENTS:  —Flame of the First Inferno  —Bones of the Eldest Mountain  —Collection of Last Breaths,"Призовите силу древнего огня, чтобы разорвать врагов палящим пламенем.    ИНГРЕДИЕНТЫ:  —Пламя первого ада  —Кости древнейшей горы  —Собрание последних вздохов"
+"Invoke the powers of a dervish, gaining bonus attributes. When you strike an enemy, a magical scythe spins, dealing damage to enemies around you.","Призовите силы дервиша, получая бонусные характеристики. Когда вы поражаете врага, магическая коса вращается, нанося урон врагам вокруг вас."
+"Invoke the powers of a mesmer, gaining bonus condition damage and expertise. Inflict a random damaging condition whenever you strike an enemy.","Призовите силы месмера, получая бонусный урон состояниями и мастерство. Накладывайте случайное наносящее урон состояние при каждом ударе по врагу."
+"Invoke the powers of a warrior, gaining additional toughness and concentration. Gain protection, resolution, or resistance whenever you strike a target.","Призовите силы воина, получая дополнительную стойкость и концентрацию. Получайте защиту, решимость или сопротивление при каждом ударе по цели."
+Invoking a legend will now break stuns.,Призыв легенды теперь снимает оглушение.
+Invulnerability Duration,Длительность неуязвимости
+Invulnerable at Range • Counterattacks • Devours Magic,Неуязвим на расстоянии • Контратаки • Поглощает магию
+Invulnerable Dolyaks Tactic[s],Неуязвимая тактик[а|и|] долиаков
+Invulnerable Fighters,Неуязвимые бойцы
+Invulnerable Fortification Tactic[s],Неуязвимая тактик[а|и|] укрепления
+Invulnerable!,Неуязвим!
+Invulnerable: Unleashes True Sight When Stunned,Неуязвим: Высвобождает Истинное зрение при оглушении
+Invulnerable; increased movement speed.,Неуязвимость; увеличена скорость передвижения.
+Ion Cannon,Ионная пушка
+Ionic Supercharge,Ионная перезарядка
+"Iowerth of the Durmand Priory claims to know a ritual that will let you see the last moments of a person's life. It is dangerous, but the risk is worth it if you can discover more about Riannoc's death.","Иоверт из Дурмандского Приората утверждает, что знает ритуал, который позволит вам увидеть последние мгновения жизни человека. Это опасно, но риск оправдан, если вы сможете узнать больше о смерти Рианнока."
+Irascible Noble Skyscale,Вспыльчивый знатный скайскейль
+Irate Bull[s],[Разъярённый бык|Разъярённого быка|Разъярённых быков]
+Irin Watts,Ирин Уоттс
 Iris Blush Dye[s],
 Iris Dye[s],
-Iris Size,
-Iron Axe Blade[s],
-Iron Beast Greatsword[s],
-Iron Bomb,
-Iron Cannon,
-Iron Casque Casing[s],
-Iron Casque Lining[s],
-Iron Chisel[s],
-Iron Column[s] 16 x 120 x 16,
-Iron Column[s] 16 x 120 x 30,
-Iron Column[s] 16 x 240 x 16,
-Iron Column[s] 16 x 240 x 30,
-Iron Column[s] 16 x 480 x 16,
-Iron Column[s] 16 x 480 x 30,
-Iron Column[s] 30 x 120 x 30,
-Iron Column[s] 30 x 240 x 30,
-Iron Column[s] 30 x 480 x 30,
-Iron Craftsman's Hammer[s],
-Iron Dagger Blade[s],
-Iron Dagger Hilt[s],
-Iron Division,
-Iron Door[s],
-Iron Doorway[s] 240 x 240,
-Iron Dye[s],
-Iron Floor[s] 960 x 600,
-Iron Floor[s] 960 x 840,
-Iron Greatsword Blade[s],
-Iron Greatsword Hilt[s],
-Iron Guards Improvement[s],
-Iron Hammer Head[s],
-Iron Hide,
-Iron Horn[s],
-Iron Ingot[s],
-Iron Legion Banner Skin[s],
-Iron Legion Cannon,
+Iris Size,Размер радужки
+Iron Axe Blade[s],лезви[е|я|й] железного топора
+Iron Beast Greatsword[s],большой меч[|а|ей] «Железный зверь»
+Iron Bomb,Железная бомба
+Iron Cannon,Железная пушка
+Iron Casque Casing[s],кожух[|а|ов] железного шлема
+Iron Casque Lining[s],Подкладк[а|и|ок] железного шлема
+Iron Chisel[s],[Железное зубило|Железных зубила|Железных зубил]
+Iron Column[s] 16 x 120 x 16,[Железная колонна|Железные колонны|Железных колонн] 16 x 120 x 16
+Iron Column[s] 16 x 120 x 30,[Железная колонна|Железные колонны|Железных колонн] 16 x 120 x 30
+Iron Column[s] 16 x 240 x 16,[Железная колонна|Железные колонны|Железных колонн] 16 x 240 x 16
+Iron Column[s] 16 x 240 x 30,[Железная колонна|Железные колонны|Железных колонн] 16 x 240 x 30
+Iron Column[s] 16 x 480 x 16,[Железная колонна|Железные колонны|Железных колонн] 16 x 480 x 16
+Iron Column[s] 16 x 480 x 30,[Железная колонна|Железные колонны|Железных колонн] 16 x 480 x 30
+Iron Column[s] 30 x 120 x 30,[Железная колонна|Железные колонны|Железных колонн] 30 x 120 x 30
+Iron Column[s] 30 x 240 x 30,[Железная колонна|Железные колонны|Железных колонн] 30 x 240 x 30
+Iron Column[s] 30 x 480 x 30,[Железная колонна|Железные колонны|Железных колонн] 30 x 480 x 30
+Iron Craftsman's Hammer[s],[Железный молот кузнеца|Железных молота кузнеца|Железных молотов кузнеца]
+Iron Dagger Blade[s],[Железное лезвие кинжала|Железных лезвия кинжала|Железных лезвий кинжала]
+Iron Dagger Hilt[s],[Железная рукоять кинжала|Железных рукояти кинжала|Железных рукоятей кинжала]
+Iron Division,Железная дивизия
+Iron Door[s],[Железная дверь|Железных двери|Железных дверей]
+Iron Doorway[s] 240 x 240,Железн[ый|ые|ых] дверн[ой|ые|ых] проем[|а|ов] 240 x 240
+Iron Dye[s],Железн[ая|ые|ых] крас[ка|ки|ок]
+Iron Floor[s] 960 x 600,Железн[ый|ые|ых] пол[|ы|ов] 960 x 600
+Iron Floor[s] 960 x 840,Железн[ый|ые|ых] пол[|ы|ов] 960 x 840
+Iron Greatsword Blade[s],Железн[ый|ые|ых] клинок[|и|ов] велик[ого|их|их] меч[а|ей|ей]
+Iron Greatsword Hilt[s],Железн[ая|ые|ых] рукоят[ь|и|ей] велик[ого|их|их] меч[а|ей|ей]
+Iron Guards Improvement[s],Улучшени[е|я|й] железных стражей
+Iron Hammer Head[s],Железн[ая|ые|ых] головк[а|и|ок] молот[а|ов|ов]
+Iron Hide,Железная шкура
+Iron Horn[s],Железн[ый|ые|ых] рог[|а|ов]
+Iron Ingot[s],Железн[ый|ые|ых] слиток[|и|ов]
+Iron Legion Banner Skin[s],Облик[|а|ов] знамени Железного легиона
+Iron Legion Cannon,Пушка Железного легиона
 "Iron Legion Claw Box[pl:""Boxes""]",
-Iron Legion Commendation[s],
-Iron Legion Commendations,
+Iron Legion Commendation[s],[Похвальная грамота Железного легиона|Похвальные грамоты Железного легиона|Похвальных грамот Железного легиона]
+Iron Legion Commendations,Награды Железного легиона
 "Iron Legion Crafting Box[pl:""Boxes""]",
-Iron Legion Delegation Aide,
-Iron Legion Engineer Steelhammer,
-Iron Legion Flamethrowers,
-Iron Legion Gearring,
+Iron Legion Delegation Aide,Помощник делегации Железного легиона
+Iron Legion Engineer Steelhammer,Инженер Сталебой из Стального легиона
+Iron Legion Flamethrowers,Огнемёты Железного легиона
+Iron Legion Gearring,Шестерня Железного легиона
 Iron Legion has completed their trials!,
-Iron Legion Key[s],
-Iron Legion Machine Gun,
-Iron Legion Machine Gunner,
-Iron Legion Marksman,
-Iron Legion Mine,
-Iron Legion Mortar[s],
+Iron Legion Key[s],Ключ[|а|ей] Железного легиона
+Iron Legion Machine Gun,Пулемет Железного Легиона
+Iron Legion Machine Gunner,Пулемётчик Железного Легиона
+Iron Legion Marksman,Стрелок Железного Легиона
+Iron Legion Mine,Мина Железного легиона
+Iron Legion Mortar[s],Мортир[а|ы|] Железного легиона
 "Iron Legion Onyx Materials Box[pl:""Boxes""]",
 "Iron Legion Ore Box[pl:""Boxes""]",
-Iron Legion Remote Charge,
+Iron Legion Remote Charge,Дистанционный заряд Железного Легиона
 "Iron Legion Reward Box[pl:""Boxes""]",
-Iron Legion Scout Steeltooth,
-Iron Legion Soldier,
-Iron Legion Soldier Truegrip,
+Iron Legion Scout Steeltooth,Разведчик Железного Легиона Стальной Зуб
+Iron Legion Soldier,Солдат Железного Легиона
+Iron Legion Soldier Truegrip,Солдат Легиона Железа Труэлаунч
 Iron Legion Special Mission Document[s],
-Iron Legion troops are building cannons to assist with the assault across the bridge. Defeat cache keepers until the cannons have been fully constructed!,
-Iron Legion Turret,
-Iron Legion War Banner,
-Iron Legion wins the derby!,
-Iron Legion<br>Arsenal,
-Iron Mace Head[s],
-Iron Marches Sunken Chest Looted,
-Iron Marches: Bloodfin Lake,
-Iron Marches: Champion's Shield,
-Iron Marches: Crystalwept Groves,
-Iron Marches: Ebbing Heart Run,
-Iron Marches: Echoslab Arches,
-Iron Marches: Gladefall Run,
-Iron Marches: Glory's Steps,
-Iron Marches: Harvester's Glade,
-Iron Marches: Hellion Forest,
-Iron Marches: Ironhead Lake,
-Iron Marches: Lake Carnifex,
-Iron Marches: Lake Desolann,
-Iron Marches: Lamprey Grottoes,
-Iron Marches: Monger's Sink,
-Iron Marches: Obsidian Run,
-Iron Marches: Scorchlands,
-Iron Marches: Scourgejaw's Vault,
-Iron Marches: Soldier Mesa,
-Iron Marches: Southshore Wastes,
-Iron Marches: Stonesheath Overlook,
-Iron Marches: Sunken Halls of Clarent,
-Iron Marches: The Granite Front,
-Iron Marches: The Infestation,
-Iron Marches: Victium Moors,
-Iron Marches: Viper's Run,
-Iron Marches: Western Bulwark,
-Iron Ore Mining Node[s],
-Iron Pauldron Casing[s],
-Iron Pauldron Lining[s],
-Iron Pistol Barrel[s],
-Iron Plated Dowel[s],
-Iron Rifle Barrel[s],
-Iron Rocket,
-Iron Scale Armguard Lining[s],
-Iron Scale Armguard Panel[s],
-Iron Scale Boot Lining[s],
-Iron Scale Boot Panel[s],
-Iron Scale Chest Padding[s],
-Iron Scale Chest Panel[s],
-Iron Scale Legging Lining[s],
-Iron Scale Legging Panel[s],
-Iron Shield Backing[s],
-Iron Siegecouch[s],
-Iron Siegesofa[s],
-Iron Siegethrone[s],
-Iron Spear Head[s],
-Iron Special Mission: Iron Rain,
-Iron Special Mission: Iron Scavenger,
-Iron Special Mission: Minesweeper,
-Iron Special Mission: Percussive Maintenance,
-Iron Special Mission: Recovery Operations,
+Iron Legion troops are building cannons to assist with the assault across the bridge. Defeat cache keepers until the cannons have been fully constructed!,"Войска Железного Легиона строят пушки, чтобы помочь с атакой через мост. Уничтожайте хранителей тайников, пока пушки не будут полностью построены!"
+Iron Legion Turret,Турель Железного легиона
+Iron Legion War Banner,Боевое знамя Железного Легиона
+Iron Legion wins the derby!,Железный Легион выигрывает дерби!
+Iron Legion<br>Arsenal,Железный Легион<br>Арсенал
+Iron Mace Head[s],[Головка|Головки|Головок] железной булавы
+Iron Marches Sunken Chest Looted,"Сундук, затонувший в Железных Топях, разграблен"
+Iron Marches: Bloodfin Lake,Железные Топи: Озеро Кровавого Плавника
+Iron Marches: Champion's Shield,Железные топи: Щит чемпиона
+Iron Marches: Crystalwept Groves,Железные топи: Хрустальные рощи
+Iron Marches: Ebbing Heart Run,Железные топи: Бег угасающего сердца
+Iron Marches: Echoslab Arches,Железные топи: Арки эхо-плит
+Iron Marches: Gladefall Run,Железные топи: Бег поляны падения
+Iron Marches: Glory's Steps,Железные топи: Ступени славы
+Iron Marches: Harvester's Glade,Железные топи: Поляна жнеца
+Iron Marches: Hellion Forest,Железные топи: Лес бесов
+Iron Marches: Ironhead Lake,Железные топи: Озеро Железная голова
+Iron Marches: Lake Carnifex,Железные топи: Озеро Карнифекс
+Iron Marches: Lake Desolann,Железные топи: Озеро Дезоланн
+Iron Marches: Lamprey Grottoes,Железные топи: Гроты миног
+Iron Marches: Monger's Sink,Железные топи: Топь торговца
+Iron Marches: Obsidian Run,Железные топи: Обсидиановый бег
+Iron Marches: Scorchlands,Железные топи: Выжженные земли
+Iron Marches: Scourgejaw's Vault,Железные походы: Хранилище Когтебивня
+Iron Marches: Soldier Mesa,Железные походы: Плато Солдата
+Iron Marches: Southshore Wastes,Железные походы: Южнобережные пустоши
+Iron Marches: Stonesheath Overlook,Железные походы: Смотровая Камнечехла
+Iron Marches: Sunken Halls of Clarent,Железные походы: Затонувшие залы Кларента
+Iron Marches: The Granite Front,Железные походы: Гранитный фронт
+Iron Marches: The Infestation,Железные походы: Заражение
+Iron Marches: Victium Moors,Железные походы: Топи Виктиума
+Iron Marches: Viper's Run,Железные походы: Бег Гадюки
+Iron Marches: Western Bulwark,Железные походы: Западный оплот
+Iron Ore Mining Node[s],[Узел|Узла|Узлов] железной руды
+Iron Pauldron Casing[s],[Обшивка|Обшивки|Обшивок] железного наплечника
+Iron Pauldron Lining[s],[Подкладка|Подкладки|Подкладок] железного наплечника
+Iron Pistol Barrel[s],[Ствол|Ствола|Стволов] железного пистолета
+Iron Plated Dowel[s],[Штифт|Штифта|Штифтов] железной пластины
+Iron Rifle Barrel[s],[Ствол|Ствола|Стволов] железной винтовки
+Iron Rocket,Железная ракета
+Iron Scale Armguard Lining[s],[Подкладка|Подкладки|Подкладок] наруча из железной чешуи
+Iron Scale Armguard Panel[s],[Панель|Панели|Панелей] наруча из железной чешуи
+Iron Scale Boot Lining[s],[Подкладка|Подкладки|Подкладок] сапога из железной чешуи
+Iron Scale Boot Panel[s],[Панель|Панели|Панелей] сапога из железной чешуи
+Iron Scale Chest Padding[s],[Прокладка|Прокладки|Прокладок] нагрудника из железной чешуи
+Iron Scale Chest Panel[s],[Панель|Панели|Панелей] нагрудника из железной чешуи
+Iron Scale Legging Lining[s],[Подкладка|Подкладки|Подкладок] наголенника из железной чешуи
+Iron Scale Legging Panel[s],[Панель|Панели|Панелей] наголенника из железной чешуи
+Iron Shield Backing[s],Железн[ая|ые|ых] основ[а|ы|] щита
+Iron Siegecouch[s],Железн[ая|ые|ых] осадн[ая|ые|ых] кушетк[а|и|ок]
+Iron Siegesofa[s],Железн[ая|ые|ых] осадн[ая|ые|ых] соф[а|ы|]
+Iron Siegethrone[s],Железн[ый|ых|ых] осадн[ый|ых|ых] трон[|а|ов]
+Iron Spear Head[s],Железн[ый|ых|ых] наконечник[|а|ов] копья
+Iron Special Mission: Iron Rain,Железная особая миссия: Железный дождь
+Iron Special Mission: Iron Scavenger,Железная особая миссия: Железный мусорщик
+Iron Special Mission: Minesweeper,Железная особая миссия: Сапёр
+Iron Special Mission: Percussive Maintenance,Железная особая миссия: Ударное обслуживание
+Iron Special Mission: Recovery Operations,Железная особая миссия: Восстановительные работы
 "Iron Stairs[pl:""Stairs""] (120 x 60)",
 "Iron Stairs[pl:""Stairs""] 120 x 120",
 "Iron Stairs[pl:""Stairs""] 120 x 60",
-Iron Sword Blade[s],
-Iron Sword Hilt[s],
-Iron Torch Head[s],
-Iron Trident Head[s],
-Iron Wall[s] (120 x 240),
-Iron Wall[s] (240 x 240),
-Iron Wall[s] (60 x 240),
-Iron Wall[s] (600 x 240),
-Iron Wall[s] (960 x 240),
-Iron Wall[s] 120 x 120,
-Iron Wall[s] 120 x 240,
-Iron Wall[s] 120 x 60,
-Iron Wall[s] 240 x 120,
-Iron Wall[s] 240 x 240,
-Iron Wall[s] 60 x 120,
-Iron Wall[s] 60 x 240,
-Iron Wall[s] 600 x 240,
-Iron Wall[s] 960 x 240,
-Iron Warhorn Mouthpiece[s],
-Iron Will,
-Iron Window[s],
-Ironclad Appearance Pack,
-Ironclad Glider[s],
-Ironclad Outfit[s],
-Irondock Viewpoint,
-Irradiated Light,
-Irradiated Ooze,
-Irresistible Javalinas (Level 65),
-Irresistible Javalinas (Level 68),
-Irukandji Tentacle[s],
-Is a Pirate's <br>Life for You?,
-Is it even a net gain to have to incorporate all these civilians into our operation?,
-Is it safe to drink from a celestial fountain?,
-Is it true?,
-Is That Bloodstone or Stoneblood?,
-Is that Lieutenant Myros the Spiteful?,
-Is there anything you can tell me about the life-fire I'm carrying?,
-Isgarren can only protect you from the agony if you stay close.,
+Iron Sword Blade[s],Железн[ый|ых|ых] клин[ок|ка|ков] меча
+Iron Sword Hilt[s],Железн[ая|ые|ых] рукоят[ь|и|ей] меча
+Iron Torch Head[s],Железн[ая|ые|ых] головк[а|и|ок] факела
+Iron Trident Head[s],Железн[ая|ые|ых] головк[а|и|ок] трезубца
+Iron Wall[s] (120 x 240),Железн[ая|ые|ых] стен[а|ы|] (120 x 240)
+Iron Wall[s] (240 x 240),Железн[ая|ые|ых] стен[а|ы|] (240 x 240)
+Iron Wall[s] (60 x 240),Железн[ая|ые|ых] стен[а|ы|] (60 x 240)
+Iron Wall[s] (600 x 240),Железн[ая|ые|ых] стен[а|ы|] (600 x 240)
+Iron Wall[s] (960 x 240),Железн[ая|ые|ых] стен[а|ы|] (960 x 240)
+Iron Wall[s] 120 x 120,Железн[ая|ые|ых] стен[а|ы|] 120 x 120
+Iron Wall[s] 120 x 240,Железная стен[а|ы|] 120 x 240
+Iron Wall[s] 120 x 60,Железная стен[а|ы|] 120 x 60
+Iron Wall[s] 240 x 120,Железная стен[а|ы|] 240 x 120
+Iron Wall[s] 240 x 240,Железная стен[а|ы|] 240 x 240
+Iron Wall[s] 60 x 120,Железная стен[а|ы|] 60 x 120
+Iron Wall[s] 60 x 240,Железная стен[а|ы|] 60 x 240
+Iron Wall[s] 600 x 240,Железная стен[а|ы|] 600 x 240
+Iron Wall[s] 960 x 240,Железная стен[а|ы|] 960 x 240
+Iron Warhorn Mouthpiece[s],Мундштук[|а|ов] железного горна
+Iron Will,Железная воля
+Iron Window[s],Железное окн[о|а|]
+Ironclad Appearance Pack,Набор внешности «Железный панцирь»
+Ironclad Glider[s],Броненосный планер[|а|ы]
+Ironclad Outfit[s],Броненосный костюм[|а|ы]
+Irondock Viewpoint,Смотровая площадка Железной Гавани
+Irradiated Light,Облучённый свет
+Irradiated Ooze,Облучённая слизь
+Irresistible Javalinas (Level 65),Неотразимые копьеметатели (65 ур.)
+Irresistible Javalinas (Level 68),Неотразимые копьеметатели (68 ур.)
+Irukandji Tentacle[s],Щупальц[е|а|] Ируканджи
+Is a Pirate's <br>Life for You?,Пиратская <br>жизнь для тебя?
+Is it even a net gain to have to incorporate all these civilians into our operation?,Является ли это вообще чистой выгодой — включать всех этих гражданских в нашу операцию?
+Is it safe to drink from a celestial fountain?,Безопасно ли пить из небесного фонтана?
+Is it true?,Это правда?
+Is That Bloodstone or Stoneblood?,Это кровавый камень или каменная кровь?
+Is that Lieutenant Myros the Spiteful?,Это лейтенант Мирос Злобный?
+Is there anything you can tell me about the life-fire I'm carrying?,"Можете ли вы рассказать мне что-нибудь о жизненном огне, который я несу?"
+Isgarren can only protect you from the agony if you stay close.,"Исгаррен может защитить тебя от агонии, только если ты будешь рядом."

@@ -110,7 +110,7 @@ def merge_file(fn, tmap, report, upgrade=False, conflicts=None):
     buf = io.StringIO(); csv.writer(buf, lineterminator=lt).writerows(rows)
     if buf.getvalue().encode('utf-8') != raw:
         print(f"  ПРОПУСК {os.path.basename(fn)}: не проходит round-trip (не трогаю)")
-        return 0
+        return 0, 0          # вызывающий код распаковывает пару: n, u = merge_file(...)
     changed = upgraded = 0
     for r in rows:
         if len(r) < 2:

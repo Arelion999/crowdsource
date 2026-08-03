@@ -1,41 +1,41 @@
 english,translate
-Base defenders killed,
-Base Difficulty,
-Base Duration,
-Base Fury,
-Base Protection Duration,
-Base Skills,
-Base Stability and Stability per Hit,
-Base Upgrades,
-"Based off information Taimi sent me, I headed to the Iron Marches to investigate reports of Mordrem activity. Vines and other plant creatures have been sighted as far east as Ascalon, choking everything in their path.<br><br>I assisted the charr and defended the area around Monger's Sink, killing Mordrem and helping soldiers where I could. I acquired samples of dragon minion tissue that may help us understand our enemy. Brutus Rendflesh sent me a Mordrem seed to keep. I may be able to cultivate it into something useful, but I'll probably need a variety of materials.",
-"Based on what you brought me, I think they should be around...here.",
-Bash a foe with illusory force to stun them.,
-Bash foes with the keg.,
-Bash target with metal detector with a 1%% chance to break.,
-Bash the target with the shovel. 10%% to break.,
-Bash your foe.,
-Bash your target.,
-Basic Ammo Damage,
-Basic Ammo Duration,
-Basic Ammo Radius,
-Basic Ammo Recharge,
-Basic Attack,
-Basic Axe Requisition[s],
-Basic Basket[s],
-Basic Book[s],
+Base defenders killed,Убитые защитники базы
+Base Difficulty,Базовая сложность
+Base Duration,Базовая длительность
+Base Fury,Базовая ярость
+Base Protection Duration,Базовая длительность защиты
+Base Skills,Базовые навыки
+Base Stability and Stability per Hit,Базовая стабильность и стабильность за попадание
+Base Upgrades,Базовые улучшения
+"Based off information Taimi sent me, I headed to the Iron Marches to investigate reports of Mordrem activity. Vines and other plant creatures have been sighted as far east as Ascalon, choking everything in their path.<br><br>I assisted the charr and defended the area around Monger's Sink, killing Mordrem and helping soldiers where I could. I acquired samples of dragon minion tissue that may help us understand our enemy. Brutus Rendflesh sent me a Mordrem seed to keep. I may be able to cultivate it into something useful, but I'll probably need a variety of materials.","Основываясь на информации, которую прислала мне Тайми, я отправилась в Железные пределы, чтобы расследовать сообщения об активности Мордремота. Усики и другие растительные существа были замечены далеко на востоке, в Аскалоне, уничтожая все на своем пути.<br><br>Я помогала чааррам и защищала район вокруг Топи Монгера, убивая Мордремотов и помогая солдатам, чем могла. Я раздобыла образцы тканей миньонов дракона, которые могут помочь нам понять нашего врага. Брутус Живодер отдал мне на хранение семя Мордремота. Возможно, я смогу вырастить из него что-то полезное, но, вероятно, мне понадобятся разнообразные материалы."
+"Based on what you brought me, I think they should be around...here.","Исходя из того, что вы принесли, я думаю, они должны быть где-то... здесь."
+Bash a foe with illusory force to stun them.,"Ударьте врага иллюзорной силой, чтобы оглушить его."
+Bash foes with the keg.,Ударьте врагов бочкой.
+Bash target with metal detector with a 1%% chance to break.,Ударьте цель металлоискателем с вероятностью поломки 1%%.
+Bash the target with the shovel. 10%% to break.,Ударьте цель лопатой. Вероятность поломки 10%%.
+Bash your foe.,Ударьте своего врага.
+Bash your target.,Ударьте свою цель.
+Basic Ammo Damage,Базовый урон боеприпасов
+Basic Ammo Duration,Базовая длительность боеприпасов
+Basic Ammo Radius,Базовый радиус боеприпасов
+Basic Ammo Recharge,Базовая перезарядка боеприпасов
+Basic Attack,Базовая атака
+Basic Axe Requisition[s],[Заявка|Заявки|Заявок] на простой топор
+Basic Basket[s],[Простая корзина|Простой корзины|Простых корзин]
+Basic Book[s],[Простая книга|Простой книги|Простых книг]
 "Basic Bookshelf[pl:""Bookshelves""]",
-Basic Boulder[s],
+Basic Boulder[s],[Простой валун|Простого валуна|Простых валунов]
 Basic Burning Oil attacks burn one supply from target,
-Basic Candle[s],
-Basic Chair[s],
-Basic Column[s],
-Basic Commemorative Statue[s],
-Basic Crate[s],
-Basic Decorations,
-Basic Decorations<br>• Buy Basic Guild Hall Decorations,
-Basic Elder Focus Requisition[s],
+Basic Candle[s],[Простая свеча|Простые свечи|Простых свечей]
+Basic Chair[s],[Простой стул|Простые стулья|Простых стульев]
+Basic Column[s],[Простая колонна|Простые колонны|Простых колонн]
+Basic Commemorative Statue[s],[Простая памятная статуя|Простые памятные статуи|Простых памятных статуй]
+Basic Crate[s],[Простой ящик|Простые ящики|Простых ящиков]
+Basic Decorations,Базовые украшения
+Basic Decorations<br>• Buy Basic Guild Hall Decorations,Базовые украшения<br>• Купить базовые украшения гильдейского зала
+Basic Elder Focus Requisition[s],[Простой заказ на оружие старейшины-фокусника|Простые заказы на оружие старейшины-фокусника|Простых заказов на оружие старейшины-фокусника]
 "Basic Elder Focus[pl:""Foci""]",
-Basic Elder Longbow Requisition[s],
+Basic Elder Longbow Requisition[s],[Простой заказ на длинный лук старейшины|Простые заказы на длинный лук старейшины|Простых заказов на длинный лук старейшины]
 Basic Elder Longbow[s],
 Basic Elder Short Bow Requisition[s],
 Basic Elder Short Bow[s],
@@ -46,237 +46,237 @@ Basic Elder Wood Warhorn[s],
 Basic Finishing Kit[s],
 Basic Flagpole[s],
 Basic Fountain[s],
-Basic Gathering Tools,
-Basic Glider,
+Basic Gathering Tools,Базовые инструменты для сбора
+Basic Glider,Базовый глайдер
 Basic Grave Marker[s],
 Basic Guild Cape[s],
-Basic Hammer attack,
-Basic hammer attack,
-Basic Ink Set[s],
-Basic Leather Rack[s],
-Basic Magnetite Exchange Operative,
-Basic Mithril Axe Requisition[s],
-Basic Mithril Axe[s],
-Basic Mithril Dagger Requisition[s],
-Basic Mithril Dagger[s],
-Basic Mithril Daysword Requisition[s],
-Basic Mithril Greatsword[s],
-Basic Mithril Hammer Requisition[s],
-Basic Mithril Hammer[s],
-Basic Mithril Mace Requisition[s],
-Basic Mithril Mace[s],
-Basic Mithril Nightsword Requisition[s],
-Basic Mithril Pistol Requisition[s],
-Basic Mithril Pistol[s],
-Basic Mithril Rifle Requisition[s],
-Basic Mithril Rifle[s],
-Basic Mithril Sword Requisition[s],
-Basic Mithril Sword[s],
-Basic Pedestal[s],
-Basic Pistol Requisition[s],
-Basic Planter[s],
-Basic Practice Dummy,
-Basic preparations for a warrior of Balthazar,
-Basic Recovery Golem[s],
-Basic Salvage Kit[s],
-Basic Scribing Kit[s],
-Basic Short-Bow Requisition[s],
-Basic Shot,
-Basic shots that hit enemy supply depots will destroy some of the objective's supply,
-Basic Shrub[s],
-Basic Signpost[s],
-Basic skill charge: %str1%Empowered skill charge: %str2%,
-Basic Slash,
-Basic Stab,
-Basic stab attack.,
-Basic Staff Requisition[s],
-Basic Swing,
-Basic Table[s],
+Basic Hammer attack,Атака базового молота
+Basic hammer attack,Базовая атака молотом
+Basic Ink Set[s],[Простой набор чернил|Простые наборы чернил|Простых наборов чернил]
+Basic Leather Rack[s],[Простая кожаная стойка|Простые кожаные стойки|Простых кожаных стоек]
+Basic Magnetite Exchange Operative,Базовый оперативник обмена магнетита
+Basic Mithril Axe Requisition[s],[Простой заказ на мифриловый топор|Простые заказы на мифриловый топор|Простых заказов на мифриловый топор]
+Basic Mithril Axe[s],[Простой мифриловый топор|Простые мифриловые топоры|Простых мифриловых топоров]
+Basic Mithril Dagger Requisition[s],[Простой заказ на мифриловый кинжал|Простые заказы на мифриловый кинжал|Простых заказов на мифриловый кинжал]
+Basic Mithril Dagger[s],[Простой мифриловый кинжал|Простые мифриловые кинжалы|Простых мифриловых кинжалов]
+Basic Mithril Daysword Requisition[s],[Простой заказ на мифриловый двуручный меч|Простые заказы на мифриловый двуручный меч|Простых заказов на мифриловый двуручный меч]
+Basic Mithril Greatsword[s],[Простой мифриловый двуручный меч|Простые мифриловые двуручные мечи|Простых мифриловых двуручных мечей]
+Basic Mithril Hammer Requisition[s],[Заявка|Заявки|Заявок] на молот «Базовый мифриловый»
+Basic Mithril Hammer[s],[Молот|Молота|Молотов] «Базовый мифриловый»
+Basic Mithril Mace Requisition[s],[Заявка|Заявки|Заявок] на булаву «Базовую мифриловую»
+Basic Mithril Mace[s],[Булава|Булавы|Булав] «Базовая мифриловая»
+Basic Mithril Nightsword Requisition[s],[Заявка|Заявки|Заявок] на ночной меч «Базовый мифриловый»
+Basic Mithril Pistol Requisition[s],[Заявка|Заявки|Заявок] на пистолет «Базовый мифриловый»
+Basic Mithril Pistol[s],[Пистолет|Пистолета|Пистолетов] «Базовый мифриловый»
+Basic Mithril Rifle Requisition[s],[Заявка|Заявки|Заявок] на винтовку «Базовую мифриловую»
+Basic Mithril Rifle[s],[Винтовка|Винтовки|Винтовок] «Базовая мифриловая»
+Basic Mithril Sword Requisition[s],[Заявка|Заявки|Заявок] на меч «Базовый мифриловый»
+Basic Mithril Sword[s],[Меч|Меча|Мечей] «Базовый мифриловый»
+Basic Pedestal[s],[Пьедестал|Пьедестала|Пьедесталов] «Базовый»
+Basic Pistol Requisition[s],[Заявка|Заявки|Заявок] на пистолет «Базовый»
+Basic Planter[s],[Кашпо|Кашпо|Кашпо] «Базовое»
+Basic Practice Dummy,Базовый тренировочный манекен
+Basic preparations for a warrior of Balthazar,Базовые приготовления для воина Бальтазара
+Basic Recovery Golem[s],[Базовый голем-спасатель|Базовых голема-спасателя|Базовых големов-спасателей]
+Basic Salvage Kit[s],[Набор|Набора|Наборов] для разбора «Базовый»
+Basic Scribing Kit[s],[Базовый набор|Базового набора|Базовых наборов] для гравировки
+Basic Short-Bow Requisition[s],[Базовый ордер|Базового ордера|Базовых ордеров] на короткий лук
+Basic Shot,Базовый выстрел
+Basic shots that hit enemy supply depots will destroy some of the objective's supply,"Базовые выстрелы, попадающие по вражеским складам припасов, уничтожат часть припасов цели"
+Basic Shrub[s],[Базовый куст|Базового куста|Базовых кустов]
+Basic Signpost[s],[Базовый указатель|Базового указателя|Базовых указателей]
+Basic skill charge: %str1%Empowered skill charge: %str2%,Базовый заряд умения: %str1%Усиленный заряд умения: %str2%
+Basic Slash,Базовый разрез
+Basic Stab,Базовый укол
+Basic stab attack.,Базовая атака уколом.
+Basic Staff Requisition[s],[Базовый ордер|Базового ордера|Базовых ордеров] на посох
+Basic Swing,Базовый взмах
+Basic Table[s],[Базовый стол|Базового стола|Базовых столов]
 "Basic Torch[pl:""Torches""]",
-Basic Tree[s],
-Basical Paintball Shot,
+Basic Tree[s],[Базовое дерево|Базового дерева|Базовых деревьев]
+Basical Paintball Shot,Базовый выстрел пейнтбольным шаром
 "Basil Leaf[pl:""Leaves""]",
-Basilisk Bowl,
-Basilisk Strike,
-Basilisk's Light,
-Basilisk[s],
-Basket Brawl,
-Basket of Banana Bread,
-Basket of Coconuts,
-Basket of Garlic Bread,
-Basket of Omnomberry Bread,
-Basket of Pumpkin Bread,
-Basket of Raspberry Peach Bread,
-Basket of Rosemary Bread,
-Basket of Saffron Bread,
-Basket of Spiced Bread,
-Basket of Tarragon Bread,
-Basket of Zucchini Bread,
-Basket[s],
-Basket[s] of Eggs,
-Bass Drum,
+Basilisk Bowl,Чаша василиска
+Basilisk Strike,Удар василиска
+Basilisk's Light,Свет василиска
+Basilisk[s],[Василиск|Василиска|Василисков]
+Basket Brawl,Бой корзин
+Basket of Banana Bread,Корзина бананового хлеба
+Basket of Coconuts,Корзина кокосов
+Basket of Garlic Bread,Корзина чесночного хлеба
+Basket of Omnomberry Bread,Корзина хлеба с омномберри
+Basket of Pumpkin Bread,Корзина тыквенного хлеба
+Basket of Raspberry Peach Bread,Корзина хлеба с малиной и персиком
+Basket of Rosemary Bread,Корзина хлеба с розмарином
+Basket of Saffron Bread,Корзина шафранового хлеба
+Basket of Spiced Bread,Корзина пряного хлеба
+Basket of Tarragon Bread,Корзина хлеба с эстрагоном
+Basket of Zucchini Bread,Корзина кабачкового хлеба
+Basket[s],[Корзина|Корзины|Корзин]
+Basket[s] of Eggs,Корзин[а/ы] для яиц
+Bass Drum,Большой барабан
 "Bastion Fish[pl:""Fish""]",
-Bastion of Balance: Looking up toward Lyhr's quarters.,
-Bastion of Balance: Playing above a medical plaza.,
-Bastion of Balance: Watching a pond from afar.,
-Bastion of Knowledge: Got thrown off a ley line.,
-Bastion of Knowledge: Loves to be lost among the books.,
-Bastion of Knowledge: Trying to throw things at the World Spire from a wizard's tower.,
-Bastion of Strength Recon Squad,
-Bastion of Strength Reconnaissance Lieutenant,
-Bastion of Strength: Pretending to be royalty inside a mighty tower.,
-Bastion of Strength: Racing to watch ritual performances.,
-Bastion of Strength: Strength training with Rift Hunters.,
-Bastion of Strength: Watches workshops and camps from up high.,
-Bastion of Strength: Watching the Astral Ward run up and down stairs.,
-Bastion of the Celestial: Demonstrated its mastery of the terrain of Amnytas.,
-Bastion of the Celestial: Napping near a shaded lagoon.,
-Bastion of the Natural: Fell off a platform and tumbled around.,
-Bastion of the Natural: Playing in a garden.,
-Bastion of the Natural: Pretending to spy on the concocters.,
-Bastion of the Natural: Reflecting on life from afar.,
-Bastion of the Natural: Sitting with the Astral Ward members.,
-Bastion of the Natural: Trying to disrupt a meditation session.,
-Bastion of the Obscure Recon Squad,
-Bastion of the Obscure: Hiding among the seaweed and chak.,
-Bastion of the Obscure: Hiding with boxes of relics.,
-Bastion of the Obscure: Loves jumping on platforms.,
-Bastion of the Penitent Rewards,
-Bastion of the Penitent: Cairn the Indomitable,
-Bastion of the Penitent: Deimos,
-Bastion of the Penitent: Mursaat Overseer,
-Bastion of the Penitent: Samarog,
-Bastion of the Penitent—Cairn the Indomitable,
-Bastion of the Penitent—Deimos,
-Bastion of the Penitent—Mursaat Overseer,
-Bastion of the Penitent—Samarog,
-Bastion Secured,
-BAT 9929,
-Bat at the air in front of you.,
+Bastion of Balance: Looking up toward Lyhr's quarters.,Бастион Равновесия: Взгляд в сторону покоев Лайра.
+Bastion of Balance: Playing above a medical plaza.,Бастион Равновесия: Игра над медицинской площадью.
+Bastion of Balance: Watching a pond from afar.,Бастион Равновесия: Наблюдение за прудом издалека.
+Bastion of Knowledge: Got thrown off a ley line.,Бастион Знаний: Сброшен с линии лей-энергии.
+Bastion of Knowledge: Loves to be lost among the books.,Бастион Знаний: Любит теряться среди книг.
+Bastion of Knowledge: Trying to throw things at the World Spire from a wizard's tower.,Бастион Знаний: Попытка бросать предметы в Мировой Шпиль с башни волшебника.
+Bastion of Strength Recon Squad,Разведывательный отряд Бастиона Силы
+Bastion of Strength Reconnaissance Lieutenant,Лейтенант-разведчик Бастиона Силы
+Bastion of Strength: Pretending to be royalty inside a mighty tower.,Бастион Силы: Притворство королевской особой внутри могучей башни.
+Bastion of Strength: Racing to watch ritual performances.,Бастион Силы: Гонка за просмотр ритуальных представлений.
+Bastion of Strength: Strength training with Rift Hunters.,Бастион Силы: Силовые тренировки с Охотниками за Разломами.
+Bastion of Strength: Watches workshops and camps from up high.,Бастион Силы: Наблюдает за мастерскими и лагерями с высоты.
+Bastion of Strength: Watching the Astral Ward run up and down stairs.,"Бастион Силы: Наблюдает, как Астральный Дозор бегает вверх и вниз по лестнице."
+Bastion of the Celestial: Demonstrated its mastery of the terrain of Amnytas.,Бастион Небесный: Продемонстрировал своё мастерство владения местностью Амнитаса.
+Bastion of the Celestial: Napping near a shaded lagoon.,Бастион Небесный: Дремлет у затенённой лагуны.
+Bastion of the Natural: Fell off a platform and tumbled around.,Бастион Природы: Упал с платформы и покатился.
+Bastion of the Natural: Playing in a garden.,Бастион Природы: Играет в саду.
+Bastion of the Natural: Pretending to spy on the concocters.,"Бастион Природы: Притворяется, что шпионит за создателями зелья."
+Bastion of the Natural: Reflecting on life from afar.,Бастион Природы: Размышляет о жизни издалека.
+Bastion of the Natural: Sitting with the Astral Ward members.,Бастион Природы: Сидит вместе с членами Астрального Дозора.
+Bastion of the Natural: Trying to disrupt a meditation session.,Бастион Природы: Пытается нарушить сеанс медитации.
+Bastion of the Obscure Recon Squad,Разведывательный отряд Бастиона Тайн
+Bastion of the Obscure: Hiding among the seaweed and chak.,Бастион Тайн: Прячется среди водорослей и чаков.
+Bastion of the Obscure: Hiding with boxes of relics.,Бастион Тайн: Прячется с ящиками реликвий.
+Bastion of the Obscure: Loves jumping on platforms.,Бастион Тайн: Любит прыгать по платформам.
+Bastion of the Penitent Rewards,Награды Бастиона Покаяния
+Bastion of the Penitent: Cairn the Indomitable,Бастион кающихся: Кэрн Неукротимый
+Bastion of the Penitent: Deimos,Бастион кающихся: Деймос
+Bastion of the Penitent: Mursaat Overseer,Бастион кающихся: Надзиратель мурсаатов
+Bastion of the Penitent: Samarog,Бастион кающихся: Самарок
+Bastion of the Penitent—Cairn the Indomitable,Бастион кающихся — Кэрн Неукротимый
+Bastion of the Penitent—Deimos,Бастион кающихся — Деймос
+Bastion of the Penitent—Mursaat Overseer,Бастион кающихся — Надзиратель мурсаатов
+Bastion of the Penitent—Samarog,Бастион кающихся — Самарок
+Bastion Secured,Бастион захвачен
+BAT 9929,BAT 9929
+Bat at the air in front of you.,Взмахните крыльями перед собой.
 "Bat Lanterns[pl:""Lanterns""]",
 "Bat Loot Box[pl:""Boxes""]",
-Bat Mother Cache[s],
-Bat Wings Backpack[s],
-Bat Wings Glider Combo[s],
-Bat Wings Glider[s],
-Bat Wings Headpiece Skin[s],
-Bat Wings<br>Backpack and Glider Set,
-Bat[s],
-Bathe your Raven Egg in the ley-infused waterfalls of the Tranquil Refuge of Deeproot Sink in the Tangled Depths.,
-Bathe your Raven Egg in the mineral waters of Southsun Cove.,
-Battered Book,
-Battered Tengu Refugee Journal,
-Battering Charge,
-Battery Transport,
-Battle against Tequatl the Sunless or any other World Boss,
-Battle beetles have joined the fight thanks to you!,
-Battle Box,
-Battle Club Merchant,
-Battle for Lion's Arch Entrance,
-Battle for the Mists,
-Battle Hollow Blue Team,
-Battle Hollow Green Team,
-Battle Hollow Neutral Team,
-Battle Hollow Red Team,
-Battle Maul deals increased damage to enemies who are in a downed state.,
-Battle of Kyhlo (Perf),
-Battle one of Scarlet's Assault Knights.,
-Battle Pit Caretaker Johan,
-Battle pit caretaker Johan appreciates your help.,
-Battle Rage,
+Bat Mother Cache[s],[Тайник|Тайника|Тайников] матери летучих мышей
+Bat Wings Backpack[s],[Рюкзак|Рюкзака|Рюкзаков] «Крылья летучей мыши»
+Bat Wings Glider Combo[s],[Комплект|Комплекта|Комплектов] «Крылья летучей мыши» (планер и рюкзак)
+Bat Wings Glider[s],[Планер|Планера|Планеров] «Крылья летучей мыши»
+Bat Wings Headpiece Skin[s],[Облик|Облика|Обликов] головного убора «Крылья летучей мыши»
+Bat Wings<br>Backpack and Glider Set,Крылья летучей мыши<br>Набор ранец и глайдер
+Bat[s],[Летучая мышь|Летучей мыши|Летучих мышей]
+Bathe your Raven Egg in the ley-infused waterfalls of the Tranquil Refuge of Deeproot Sink in the Tangled Depths.,Омойте яйцо ворона в пропитанных лей-линиями водопадах Безмятежного убежища Глубинного корня в Запутанных глубинах.
+Bathe your Raven Egg in the mineral waters of Southsun Cove.,Омойте яйцо ворона в минеральных водах бухты Саутсан.
+Battered Book,Потрепанная книга
+Battered Tengu Refugee Journal,Потрепанный дневник беженца-тенгу
+Battering Charge,Таранный удар
+Battery Transport,Транспортировка аккумулятора
+Battle against Tequatl the Sunless or any other World Boss,Сразитесь с Текватлом Безликим или любым другим мировым боссом
+Battle beetles have joined the fight thanks to you!,Благодаря вам в бой вступили боевые жуки!
+Battle Box,Боевой ящик
+Battle Club Merchant,Торговец боевого клуба
+Battle for Lion's Arch Entrance,Битва за вход в Львиный Шпиль
+Battle for the Mists,Битва за Бездну
+Battle Hollow Blue Team,Синяя команда Боевого ущелья
+Battle Hollow Green Team,Зеленая команда Боевого ущелья
+Battle Hollow Neutral Team,Нейтральная команда Боевого ущелья
+Battle Hollow Red Team,Красная команда Боевого ущелья
+Battle Maul deals increased damage to enemies who are in a downed state.,"Боевая палица наносит увеличенный урон врагам, находящимся в поверженном состоянии."
+Battle of Kyhlo (Perf),Битва за Кайло (Перф)
+Battle one of Scarlet's Assault Knights.,Сразитесь с одним из штурмовых рыцарей Скарлетт.
+Battle Pit Caretaker Johan,Смотритель боевой ямы Йохан
+Battle pit caretaker Johan appreciates your help.,Смотритель боевой ямы Йохан ценит вашу помощь.
+Battle Rage,Боевая ярость
 "Battle Regalia[pl:""Regalia""] of the Twin Dynasts",
-Battle Report: Duke Barradin,
-Battle Tequatl the Sunless,
-Battle the Ice Dragon's most persuasive servant deep under the mountains of Bjora Marches.,
-Battle Vision,
-Battle-Hardened Quaggan,
-Battlelord's Cape Hood Combo,
-Battlelord's Cape Hood Combo now available!,
-Battlelord's Cape Skin[s],
-Battlelord's Hood Helm Skin[s],
-Bauble Bubble[s],
-Bauble Exchange,
-Bauble Gathering System[s],
-Bauble Purse,
-Bauble Refinement,
-Bauble Tote Bag,
-Bauble[s],
-Bauer's Estate Blue Team,
-Bauer's Estate Green Team,
-Bauer's Estate Red Team,
-Bauer's Estate White Team,
-Bauer's Pass,
-"Bava Nisos eludes us so completely, and my weaker half wants to doubt its existence. But doubt is failure. I've sent my entourage along the path Saul described numerous times to no avail, but they continue to march.    Last trip, I sent the cook with them—the urchin that calls himself Judge. Upon the party's return a few days later, the boy described a debilitating headache that struck midway through their crossing to the next isle. Only he was afflicted, but the headache grew worse the further they rowed. Tatyanna turned them around when his nose started bleeding. This must be a test of some sort. A puzzle for me to unravel...",
-Bava Nisos Hoard[s],
-Bava Nisos Site Catalog,
-"Bava Nisos stands as the grandest city in all of Tyria, and it is thanks to our benevolent and uncompromising vision of a grand future with the mursaat as the rightful shepherds of this land and its denizens.    Though the other intelligent races of our world have contributed to the development of this world in their own small ways, it is only the gracious charity and industriousness of the mursaat that has ensured such a place could be built.    It shines out as an example to all beings with eyes to see that with the faith and steadfastness in the glory of the mursaat as the driving force in Tyria, all things may fall within our grasp.",
-Bava Nisos: A Marvel,
+Battle Report: Duke Barradin,Боевой отчёт: герцог Баррадин
+Battle Tequatl the Sunless,Сразитесь с Текватлом Безликим
+Battle the Ice Dragon's most persuasive servant deep under the mountains of Bjora Marches.,Сразитесь с самым убедительным слугой Ледяного Дракона глубоко под горами Бьора-Марш.
+Battle Vision,Боевое зрение
+Battle-Hardened Quaggan,Закаленный в боях квагган
+Battlelord's Cape Hood Combo,Комбинированный капюшон и плащ полководца
+Battlelord's Cape Hood Combo now available!,Комбинация капюшона и плаща Боевого лорда теперь доступна!
+Battlelord's Cape Skin[s],[Облик|Облика|Обликов] плаща «Полководец»
+Battlelord's Hood Helm Skin[s],[Облик|Облика|Обликов] шлема «Капюшон полководца»
+Bauble Bubble[s],[Пузырёк|Пузырька|Пузырьков] побрякушек
+Bauble Exchange,Обмен побрякушек
+Bauble Gathering System[s],[Система|Системы|Систем] сбора побрякушек
+Bauble Purse,Кошель для побрякушек
+Bauble Refinement,Очистка побрякушек
+Bauble Tote Bag,Сумка для побрякушек
+Bauble[s],[Побрякушка|Побрякушки|Побрякушек]
+Bauer's Estate Blue Team,Синяя команда поместья Бауэра
+Bauer's Estate Green Team,Зеленая команда поместья Бауэра
+Bauer's Estate Red Team,Красная команда поместья Бауэра
+Bauer's Estate White Team,Белая команда поместья Бауэра
+Bauer's Pass,Перевал Бауэра
+"Bava Nisos eludes us so completely, and my weaker half wants to doubt its existence. But doubt is failure. I've sent my entourage along the path Saul described numerous times to no avail, but they continue to march.    Last trip, I sent the cook with them—the urchin that calls himself Judge. Upon the party's return a few days later, the boy described a debilitating headache that struck midway through their crossing to the next isle. Only he was afflicted, but the headache grew worse the further they rowed. Tatyanna turned them around when his nose started bleeding. This must be a test of some sort. A puzzle for me to unravel...","Бава Нисос ускользает от нас так полностью, и моя слабая половина хочет усомниться в её существовании. Но сомнение — это провал. Я отправлял свою свиту по пути, описанному Саулом, бесчисленное количество раз безрезультатно, но они продолжают идти. В прошлый раз я отправил с ними повара — того беспризорника, что называет себя Судьёй. Когда группа вернулась несколько дней спустя, мальчик описал изнурительную головную боль, которая поразила его на полпути через переход к следующему острову. Пострадал только он, но боль усиливалась, чем дальше они гребли. Татьяна развернула их, когда у него пошла кровь из носа. Это должно быть каким-то испытанием. Загадкой, которую мне предстоит разгадать..."
+Bava Nisos Hoard[s],[Сокровище|Сокровища|Сокровищ] Бава Нисос
+Bava Nisos Site Catalog,Бава Нисос Каталог участков
+"Bava Nisos stands as the grandest city in all of Tyria, and it is thanks to our benevolent and uncompromising vision of a grand future with the mursaat as the rightful shepherds of this land and its denizens.    Though the other intelligent races of our world have contributed to the development of this world in their own small ways, it is only the gracious charity and industriousness of the mursaat that has ensured such a place could be built.    It shines out as an example to all beings with eyes to see that with the faith and steadfastness in the glory of the mursaat as the driving force in Tyria, all things may fall within our grasp.","Бава Нисос стоит как величайший город во всей Тирии, и это благодаря нашему доброжелательному и непреклонному видению великого будущего, где мурсааты являются законными пастырями этой земли и её обитателей. Хотя другие разумные расы нашего мира внесли свой вклад в развитие этого мира по-своему, только милосердная благотворительность и трудолюбие мурсаатов обеспечили возможность построить такое место. Оно сияет как пример для всех существ, у которых есть глаза, чтобы видеть, что с верой и стойкостью в славу мурсаатов как движущей силы Тирии всё может оказаться в наших руках."
+Bava Nisos: A Marvel,Бава Нисос: Чудо
 Bava Nisos: Commander's Choice Chest[s],
 "Bay Leaf Seed Pouch[pl:""Pouches""]",
 "Bay Leaf[pl:""Leaves""]",
-Bazaar Captured,
-Bazaar Docks. Click to teleport.,
-Bazaar Quaggan Mini Pack[s],
-Bazaar Trader,
-Bb Major Chord,
-Bb Minor Chord,
-Be a Thorn in Your Enemy's Side,
-be able to post to all forums.,
-Be careful. Do not aim at ally eyes.,
-Be careful... Don't let those giant towers see you.,
-"Be free, my soft omens of spring!  My eyes on a better world to come!  Shake paws with the grass o'er your lands  And stretch your roots to the soil,  An offering of peace.  The voice of your beauty speaks to JanthirLoud and clear,  A healing salve on a preserved scar.  May your offerings be welcomed  And prevail over strangers in a strange land.    —Rising Bloom",
-be honored by the Firstborn.,
-Be in the staging area before the transport leaves.,
-Be in the starting area by the time the race begins to qualify for the Great Choya Race.,
-Be in the starting area by the time the race begins to qualify for the Warclaw Run.,
-Be in the starting area by the time the race begins to qualify.,
-Be in the starting area by the time the recon run begins to qualify.,
-Be in the starting area when the Inner Keep opens to qualify.,
-"Be kind. Say, ""Great-Great-Great-Grandfather, it's good to see you."" Don't say, ""Your flesh is starting to smell.""Remind them of your name. Their memories aren't what they used to be!Ask what they like: Fishing? Flowers? Don't ask what they did while serving Joko.",
-be knighted by the queen.,
-Be mindful of the ingredients and quantities you add to the mix. Review the mixology book to start over.,
-Be mindful of the ingredients and quantities you add to the pot. Review the recipe book to start over.,
-Be Outcast,
-Be Prepared,
-Be sure to return to the Crown Pavilion for the closing ceremony. The Queen's Jubilee is sure to end with a bang.,
-Be the hit of your next event with some beats from this drum.,
-Be watchful at the Watchman's Roost.,
-Beach Bracelet Skin[s],
-Beach Hat Skin[s],
+Bazaar Captured,Базар захвачен
+Bazaar Docks. Click to teleport.,"Причал Базара. Нажмите, чтобы телепортироваться."
+Bazaar Quaggan Mini Pack[s],[Набор|Набора|Наборов] мини-квагганов «Базар»
+Bazaar Trader,Торговец Базара
+Bb Major Chord,Аккорд си-бемоль мажор
+Bb Minor Chord,Аккорд си-бемоль минор
+Be a Thorn in Your Enemy's Side,Будь занозой в боку врага
+be able to post to all forums.,иметь возможность писать на всех форумах.
+Be careful. Do not aim at ally eyes.,Будь осторожен. Не целься в глаза союзникам.
+Be careful... Don't let those giant towers see you.,Будьте осторожны... Не позволяйте этим гигантским башням заметить вас.
+"Be free, my soft omens of spring!  My eyes on a better world to come!  Shake paws with the grass o'er your lands  And stretch your roots to the soil,  An offering of peace.  The voice of your beauty speaks to JanthirLoud and clear,  A healing salve on a preserved scar.  May your offerings be welcomed  And prevail over strangers in a strange land.    —Rising Bloom","Будьте свободны, мои мягкие предвестники весны! Мои глаза устремлены к лучшему миру! Пожмите лапы с травой над вашими землями И протяните корни к почве, Приношение мира. Голос вашей красоты говорит с Джантиром Громко и ясно, Целебный бальзам на зажившем шраме. Пусть ваши дары будут приняты И одержат верх над чужаками в чужой земле. —Восходящий цветок"
+be honored by the Firstborn.,быть почтеным Перворождёнными.
+Be in the staging area before the transport leaves.,Будьте в зоне сбора до отправления транспорта.
+Be in the starting area by the time the race begins to qualify for the Great Choya Race.,"Будьте в стартовой зоне до начала гонки, чтобы пройти квалификацию на Великую гонку чойя."
+Be in the starting area by the time the race begins to qualify for the Warclaw Run.,"Будьте в стартовой зоне до начала гонки, чтобы пройти квалификацию на Забег боевых ящеров."
+Be in the starting area by the time the race begins to qualify.,"Будьте в стартовой зоне до начала гонки, чтобы пройти квалификацию."
+Be in the starting area by the time the recon run begins to qualify.,"Будьте в стартовой зоне до начала разведывательного забега, чтобы пройти квалификацию."
+Be in the starting area when the Inner Keep opens to qualify.,"Будьте в стартовой зоне, когда откроется Внутренняя крепость, чтобы пройти квалификацию."
+"Be kind. Say, ""Great-Great-Great-Grandfather, it's good to see you."" Don't say, ""Your flesh is starting to smell.""Remind them of your name. Their memories aren't what they used to be!Ask what they like: Fishing? Flowers? Don't ask what they did while serving Joko.","Будьте добры. Скажите: «Пра-пра-пра-прадедушка, рад вас видеть». Не говорите: «От вашей плоти начинает пахнуть». Напомните им ваше имя. Их память уже не та! Спросите, что им нравится: Рыбалка? Цветы? Не спрашивайте, чем они занимались, служа Джоко."
+be knighted by the queen.,быть посвящённым в рыцари королевой.
+Be mindful of the ingredients and quantities you add to the mix. Review the mixology book to start over.,"Следите за ингредиентами и их количеством, которые вы добавляете в смесь. Просмотрите книгу миксологии, чтобы начать заново."
+Be mindful of the ingredients and quantities you add to the pot. Review the recipe book to start over.,"Следите за ингредиентами и их количеством, которые вы добавляете в котел. Просмотрите книгу рецептов, чтобы начать заново."
+Be Outcast,Будь изгоем
+Be Prepared,Будь готов
+Be sure to return to the Crown Pavilion for the closing ceremony. The Queen's Jubilee is sure to end with a bang.,Обязательно вернитесь в Королевский павильон на церемонию закрытия. Юбилей королевы непременно завершится фейерверком.
+Be the hit of your next event with some beats from this drum.,Станьте хитом вашего следующего мероприятия с ритмами этого барабана.
+Be watchful at the Watchman's Roost.,Будьте бдительны в Пристанище Дозорного.
+Beach Bracelet Skin[s],[Облик|Облика|Обликов] браслета «Пляж»
+Beach Hat Skin[s],[Облик|Облика|Обликов] пляжной шляпы
 "Beach House Spiral Stairs[pl:""Stairs""]",
-Beach Sandals Skin[s],
-Beached Whale,
-"Beacon of Ages Record #2591, Tyria, 1070 AE",
-Beacon's Flame,
-Beacon's Flame Sacrifice,
+Beach Sandals Skin[s],[Облик|Облика|Обликов] пляжных сандалий
+Beached Whale,Выброшенный на берег кит
+"Beacon of Ages Record #2591, Tyria, 1070 AE","Запись «Маяк веков» №2591, Тирия, 1070 г.Э."
+Beacon's Flame,Пламя Маяка
+Beacon's Flame Sacrifice,Жертва Пламени Маяка
 "Beacon's Perch[pl:""Perch""]",
-Bead[s] of Liquid Karma,
-Beam Attack,
-Beam Attack • Waves of Energy,
-Beaming Chalen is about to show off some moves.,
-Bear Captured,
-Bear Cub[s],
-Bear Flank[s],
-Bear Form,
-Bear has ascended.,
-Bear is pleased with the help you provided her children. You have proven your strength to me and anyone else who saw you in action. Return to me soon so that I may bestow the blessings of Bear upon you.—Shaman Freygunn,
+Bead[s] of Liquid Karma,[Бусина|Бусины|Бусин] жидкой кармы
+Beam Attack,Лучевая атака
+Beam Attack • Waves of Energy,Лучевая атака • Волны энергии
+Beaming Chalen is about to show off some moves.,Сияющий Чален собирается продемонстрировать несколько движений.
+Bear Captured,Медведь захвачен
+Bear Cub[s],Медвежонок[|ка|ков]
+Bear Flank[s],[Бок|Бока|Боков] медведя
+Bear Form,Медвежья форма
+Bear has ascended.,Медведь вознёсся.
+Bear is pleased with the help you provided her children. You have proven your strength to me and anyone else who saw you in action. Return to me soon so that I may bestow the blessings of Bear upon you.—Shaman Freygunn,"Медведь доволен помощью, которую вы оказали её детёнышам. Вы доказали свою силу мне и всем, кто видел вас в деле. Возвращайтесь ко мне скорее, чтобы я мог даровать вам благословение Медведя. —Шаман Фрейгунн"
 "Bear Loot Box[pl:""Boxes""]",
-Bear Offering[s],
-Bear Shaman,
-Bear Token[s],
-Bear Totem[s],
-Bear Trap,
-"Bear's Brown Ale is the finest beer in Hoelbrak, and those Sons of Svanir won't turn it down. While they're drunk and disorderly, you can free the captive minotaurs.",
-Bear-Trap Bomb,
-Bear[s],
-Bearce Falls,
-Bearded Broadtail Raptor Skin[s],
+Bear Offering[s],[Подношение|Подношения|Подношений] медведя
+Bear Shaman,Медвежий шаман
+Bear Token[s],[Жетон|Жетона|Жетонов] медведя
+Bear Totem[s],[Тотем|Тотема|Тотемов] медведя
+Bear Trap,Медвежий капкан
+"Bear's Brown Ale is the finest beer in Hoelbrak, and those Sons of Svanir won't turn it down. While they're drunk and disorderly, you can free the captive minotaurs.","Коричневый эль Медведя — лучшее пиво в Хоэлбрейке, и Сыны Сванира от него не откажутся. Пока они пьяны и буйствуют, вы можете освободить пленных минотавров."
+Bear-Trap Bomb,Медвежий капкан-бомба
+Bear[s],[Медведь|Медведя|Медведей]
+Bearce Falls,Водопад Берс
+Bearded Broadtail Raptor Skin[s],[Облик|Облика|Обликов] ящера «Бородатый широкохвост»
 "Bearded Sunfish[pl:""Sunfish""]",
 "Bearkin War Helm Choice Box[pl:""Boxes""]",
-Bearkin War Helm Remnant[s],
-Beast Mastery,
-Beastfighting Ring,
-Beastmaster's Bond,
+Bearkin War Helm Remnant[s],[Остаток|Остатка|Остатков] боевого шлема медведеподобных
+Beast Mastery,Владение зверем
+Beastfighting Ring,Кольцо укротителя зверей
+Beastmaster's Bond,Узы повелителя зверей
 Beastslayer Axe Skin[s],
 Beastslayer Dagger Skin[s],
 Beastslayer Focus Skin[s],
@@ -285,215 +285,231 @@ Beastslayer Greatsword Skin[s],
 Beastslayer Hammer Skin[s],
 Beastslayer Longbow Skin[s],
 Beastslayer Mace Skin[s],
-Beastslayer Pistol Skin[s],
-Beastslayer Rifle Skin[s],
-Beastslayer Scepter Skin[s],
-Beastslayer Shield Skin[s],
-Beastslayer Short Bow Skin[s],
-Beastslayer Staff Skin[s],
-Beastslayer Sword Skin[s],
-Beastslayer Torch Skin[s],
-Beastslayer Warhorn Skin[s],
+Beastslayer Pistol Skin[s],[Облик|Облика|Обликов] пистолета «Убийца зверей»
+Beastslayer Rifle Skin[s],[Облик|Облика|Обликов] винтовки «Убийца зверей»
+Beastslayer Scepter Skin[s],[Облик|Облика|Обликов] скипетра «Убийца зверей»
+Beastslayer Shield Skin[s],[Облик|Облика|Обликов] щита «Убийца зверей»
+Beastslayer Short Bow Skin[s],[Облик|Облика|Обликов] короткого лука «Убийца зверей»
+Beastslayer Staff Skin[s],[Облик|Облика|Обликов] посоха «Убийца зверей»
+Beastslayer Sword Skin[s],[Облик|Облика|Обликов] меча «Убийца зверей»
+Beastslayer Torch Skin[s],[Облик|Облика|Обликов] факела «Убийца зверей»
+Beastslayer Warhorn Skin[s],[Облик|Облика|Обликов] боевого рога «Убийца зверей»
 "Beastslayer Weapon Box[pl:""Boxes""]",
-Beastslayer Weapons,
-Beautiful Gold-Leaf Festival Lantern[s],
-Beautiful Pendant[s],
-Because it's fun!,
-"Because of a recent arrival of players, this map is no longer a candidate to be closed.",
-"Because of your heroic efforts aiding our soldiers in their struggle against the Separatists, I feel that we may finally be turning the tide in this ongoing conflict. It seems at times as if our ongoing battles with the Human Separatists, the Flame Legion, and the Elder Dragons show no signs of ending. But I believe that we will, in time, emerge victorious. In addition, you should feel pride in the fact that your help has undoubtedly resulted in many charr lives being saved. Both those held captive by the Separatists, and those who will continue the fight against a now weakened enemy. Thank you again. —Mei Hawkslayer",
-"Because of your recent selfless efforts in helping to rid the cave of the Flame intruders and their equipment, I can now say with confidence that the area is Flame proof. Or, at least, Flame resistant. I will see to it that the brass is informed of your heroic actions. —Latera Painstorm",
-Because we are all in this together.,
-"Because you already had your condition removal skill unlocked, you've been granted five hero points instead. You should equip your previously unlocked condition removal skill now.",
-Beckon the Skies,
-"Become a ""fast"" zombie.",
-Become a Bear,
-Become a cat.<c=@Flavor>Meow.</c>,
-Become a Griffon,
-become a renowned crafter.,
-Become a Wolf,
-Become an Oakheart,
-Become encased in an ice prison caused by ice storms in Bitterfrost Frontier or during the Claw of Jormag world boss event.,
-Become encased in The Shatterer's Crystal.,
-Become ghostly from consuming a strawberry ghost.,
-Become ghostly from consuming an omnomberry ghost.,
-Become immobile and immovable.,
-"Become invisible, as long as you remain in place.",
-Become like the wind—unstoppable and uncatchable.,
-"Become stealthed and immobile and gain access to kneel skills, which have increased projectile velocity. You can still dodge roll while kneeling. Kneel is canceled if you swap weapons or become disabled.",
-"Become tall, do heroics, and gain rewards!",
-Become the<br>Monkey King,
-Become Whole,
-Become Whole (Disabled),
-Become your favorite detective with this package!Appearance skins override the look of your equipment and have no stats of their own.,
-Become your favorite genius with this package!Appearance skins override the look of your equipment and have no stats of their own.,
-Become your favorite gladium with this package!Appearance skins override the look of your equipment and have no stats of their own.,
-Become your favorite mesmer with this package!Appearance skins override the look of your equipment and have no stats of their own.,
-Become your favorite sniper with this package!Appearance skins override the look of your equipment and have no stats of their own.,
-Bed of Roses,
-Bedside Dresser,
+Beastslayer Weapons,Оружие «Зверобой»
+Beautiful Gold-Leaf Festival Lantern[s],[Красивый|Красивых|Красивых] позолоченный фестивальный фонарь
+Beautiful Pendant[s],[Красивая|Красивых|Красивых] подвеска
+Because it's fun!,Потому что это весело!
+"Because of a recent arrival of players, this map is no longer a candidate to be closed.",Из-за недавнего прибытия игроков эта карта больше не является кандидатом на закрытие.
+"Because of your heroic efforts aiding our soldiers in their struggle against the Separatists, I feel that we may finally be turning the tide in this ongoing conflict. It seems at times as if our ongoing battles with the Human Separatists, the Flame Legion, and the Elder Dragons show no signs of ending. But I believe that we will, in time, emerge victorious. In addition, you should feel pride in the fact that your help has undoubtedly resulted in many charr lives being saved. Both those held captive by the Separatists, and those who will continue the fight against a now weakened enemy. Thank you again. —Mei Hawkslayer","Благодаря вашим героическим усилиям, помогающим нашим солдатам в борьбе с сепаратистами, я чувствую, что мы, наконец, можем переломить ход этого затяжного конфликта. Временами кажется, что наши непрекращающиеся битвы с сепаратистами-людьми, Легионом Пламени и Древними Драконами не имеют конца. Но я верю, что со временем мы одержим победу. Кроме того, вы должны гордиться тем, что ваша помощь, несомненно, спасла множество жизней чарров. И тех, кто был в плену у сепаратистов, и тех, кто продолжит борьбу с теперь ослабленным врагом. Ещё раз спасибо. —Мэй Хокслейер"
+"Because of your recent selfless efforts in helping to rid the cave of the Flame intruders and their equipment, I can now say with confidence that the area is Flame proof. Or, at least, Flame resistant. I will see to it that the brass is informed of your heroic actions. —Latera Painstorm","Благодаря вашим недавним самоотверженным усилиям по очистке пещеры от вторженцев Пламени и их оборудования, я теперь с уверенностью могу сказать, что эта зона защищена от Пламени. Или, по крайней мере, устойчива к Пламени. Я позабочусь о том, чтобы начальство было проинформировано о ваших героических действиях. —Латера Пейнсторм"
+Because we are all in this together.,Потому что мы все в этом вместе.
+"Because you already had your condition removal skill unlocked, you've been granted five hero points instead. You should equip your previously unlocked condition removal skill now.","Поскольку у вас уже был разблокирован навык снятия состояний, вам вместо этого предоставлено пять очков героя. Теперь вам следует экипировать ранее разблокированный навык снятия состояний."
+Beckon the Skies,Призыв небес
+"Become a ""fast"" zombie.","Стать ""быстрым"" зомби."
+Become a Bear,Стать медведем
+Become a cat.<c=@Flavor>Meow.</c>,Стать кошкой.<c=@Flavor>Мяу.</c>
+Become a Griffon,Стать грифоном
+become a renowned crafter.,стать прославленным ремесленником.
+Become a Wolf,Стать волком
+Become an Oakheart,Стать дубосердцем
+Become encased in an ice prison caused by ice storms in Bitterfrost Frontier or during the Claw of Jormag world boss event.,"Оказаться заточенным в ледяной тюрьме, вызванной ледяными бурями в Пограничье Горького Мороза или во время события мирового босса Когтя Йормага."
+Become encased in The Shatterer's Crystal.,Оказаться заточенным в кристалле Разрушителя.
+Become ghostly from consuming a strawberry ghost.,"Стать призрачным, съев клубничного призрака."
+Become ghostly from consuming an omnomberry ghost.,"Стать призрачным, съев омномберри-призрака."
+Become immobile and immovable.,Стать неподвижным и недвижимым.
+"Become invisible, as long as you remain in place.","Стать невидимым, пока вы остаетесь на месте."
+Become like the wind—unstoppable and uncatchable.,Стать как ветер — неудержимым и неуловимым.
+"Become stealthed and immobile and gain access to kneel skills, which have increased projectile velocity. You can still dodge roll while kneeling. Kneel is canceled if you swap weapons or become disabled.","Стать скрытым и неподвижным, получив доступ к умениям коленопреклонения, которые имеют повышенную скорость снарядов. Вы все еще можете совершать перекаты-уклонения, стоя на коленях. Коленопреклонение отменяется, если вы меняете оружие или становитесь недееспособным."
+"Become tall, do heroics, and gain rewards!","Станьте высоким, совершайте героические поступки и получайте награды!"
+Become the<br>Monkey King,Станьте<br>Королём обезьян
+Become Whole,Стать целым
+Become Whole (Disabled),Стать целым (Отключено)
+Become your favorite detective with this package!Appearance skins override the look of your equipment and have no stats of their own.,Станьте вашим любимым детективом с этим набором!Облики внешности переопределяют вид вашего снаряжения и не имеют собственных характеристик.
+Become your favorite genius with this package!Appearance skins override the look of your equipment and have no stats of their own.,Станьте вашим любимым гением с этим набором!Облики внешности переопределяют вид вашего снаряжения и не имеют собственных характеристик.
+Become your favorite gladium with this package!Appearance skins override the look of your equipment and have no stats of their own.,Станьте вашим любимым гладиатором с этим набором!Облики внешности переопределяют вид вашего снаряжения и не имеют собственных характеристик.
+Become your favorite mesmer with this package!Appearance skins override the look of your equipment and have no stats of their own.,Станьте вашим любимым месмером с этим набором!Облики внешности переопределяют вид вашего снаряжения и не имеют собственных характеристик.
+Become your favorite sniper with this package!Appearance skins override the look of your equipment and have no stats of their own.,Станьте вашим любимым снайпером с этим набором!Облики внешности переопределяют вид вашего снаряжения и не имеют собственных характеристик.
+Bed of Roses,Ложе из роз
+Bedside Dresser,Прикроватный комод
 "Bee Dog Loot Box[pl:""Boxes""]",
-Bee Grenade,
-Bee Spear,
-Bee's Knees,
-"Been helping Aria with the injured the past few days. She's handling this better than most of us. None of the other ships' captains survived, supplies are scarce, and some of the older sailors are shouting curses at Dwayna herself.Tired of the survivors calling me ""first mate."" Title's not worth much, now.",
-"Been in Cantha for months now. Mai's out mixing it up with the locals, gathering information. The rest of us? Dying of boredom among the wreckage of human hubris.At least when we were trapped in the Mists, you'd never know what'd try and kill you.Here? It's just Risen. All day, every day....Mai's been gone for days now. Probably got herself caught—shouldn't have gone to Yong alone. Been talking to Renyak about what that means. What we should do with her gone.Spotted a Canthan necromancer in the ruins today. Did something to a Risen—stole its magic and put it in a bottle.Intriguing. Follow up later....Mai's back. Just like that. And according to Ivan, her little mishap gained her an ally. (Of course she talked to *him*, and not her first mate.)Mai wants us to continue lying low. Promises she's working to ""build us a better future."" Whatever that means....Mai's new ""ally"" is Joon. The *matriarch* of jade tech. I thought we were done serving wannabe gods.Learned more about the Canthan necromancers: ""harbingers."" Scavengers, mixing elixirs from whatever magic they find. Dragons. Spirits. The land itself. Theory: Using so many different magics dilutes the effect? Why not focus on one?There are so many Risen here. Time to make use of them....Renyak shot one of those crows that hang around today. I could *feel* its death. Such a small thing—and trivial to bring it back.Clearly the elixirs are working even better than expected. Some side effects, of course, but nothing that matters....I'll give Mai a bit of credit: she's using Joon well. We've left those ruins, set up a few other bases throughout Cantha. Part of her ""arrangement."" Still lying low, though. Always lying low. At least the caves in Shing Jea and the forests of Echovald provide a change of scenery. New targets to experiment on.Abilities are getting stronger. Hid in the trees. Raised a dead wallow in the middle of some Speakers. The looks on their faces...Need to organize the crew. May be time to act soon.",
+Bee Grenade,Пчелиная граната
+Bee Spear,Пчелиное копьё
+Bee's Knees,Коленки пчелы
+"Been helping Aria with the injured the past few days. She's handling this better than most of us. None of the other ships' captains survived, supplies are scarce, and some of the older sailors are shouting curses at Dwayna herself.Tired of the survivors calling me ""first mate."" Title's not worth much, now.","Помогал Арии с ранеными последние несколько дней. Она справляется с этим лучше большинства из нас. Ни один из капитанов других кораблей не выжил, припасы скудны, и некоторые старые моряки выкрикивают проклятия в адрес самой Двайны.
+Устал от того, что выжившие называют меня ""первым помощником."" Это звание теперь мало чего стоит."
+"Been in Cantha for months now. Mai's out mixing it up with the locals, gathering information. The rest of us? Dying of boredom among the wreckage of human hubris.At least when we were trapped in the Mists, you'd never know what'd try and kill you.Here? It's just Risen. All day, every day....Mai's been gone for days now. Probably got herself caught—shouldn't have gone to Yong alone. Been talking to Renyak about what that means. What we should do with her gone.Spotted a Canthan necromancer in the ruins today. Did something to a Risen—stole its magic and put it in a bottle.Intriguing. Follow up later....Mai's back. Just like that. And according to Ivan, her little mishap gained her an ally. (Of course she talked to *him*, and not her first mate.)Mai wants us to continue lying low. Promises she's working to ""build us a better future."" Whatever that means....Mai's new ""ally"" is Joon. The *matriarch* of jade tech. I thought we were done serving wannabe gods.Learned more about the Canthan necromancers: ""harbingers."" Scavengers, mixing elixirs from whatever magic they find. Dragons. Spirits. The land itself. Theory: Using so many different magics dilutes the effect? Why not focus on one?There are so many Risen here. Time to make use of them....Renyak shot one of those crows that hang around today. I could *feel* its death. Such a small thing—and trivial to bring it back.Clearly the elixirs are working even better than expected. Some side effects, of course, but nothing that matters....I'll give Mai a bit of credit: she's using Joon well. We've left those ruins, set up a few other bases throughout Cantha. Part of her ""arrangement."" Still lying low, though. Always lying low. At least the caves in Shing Jea and the forests of Echovald provide a change of scenery. New targets to experiment on.Abilities are getting stronger. Hid in the trees. Raised a dead wallow in the middle of some Speakers. The looks on their faces...Need to organize the crew. May be time to act soon.","Я в Канте уже несколько месяцев. Май смешивается с местными, собирает информацию. Остальные из нас? Умираем от скуки среди обломков человеческой гордыни.
+По крайней мере, когда мы были заперты в Туманных землях, ты никогда не знал, что попытается тебя убить.
+Здесь? Только Восставшие. Весь день, каждый день...
+Май уже несколько дней как пропала. Вероятно, её поймали — не следовало ей идти в Йонг одной. Говорил с Реняком о том, что это значит. Что нам делать без неё.
+Сегодня заметил в руинах кантского некроманта. Он сделал что-то с Восставшим — украл его магию и поместил в бутылку.
+Интригующе. Проследить позже...
+Май вернулась. Просто так. И по словам Ивана, её маленькая оплошность принесла ей союзника. (Конечно, она говорила с *ним*, а не со своим первым помощником.)
+Май хочет, чтобы мы продолжали затаиться. Обещает, что работает над тем, чтобы «построить нам лучшее будущее». Что бы это ни значило...
+Новый «союзник» Май — Джун. *Матриарх* джейд-технологий. Я думал, мы покончили со служением богам-самозванцам.
+Узнал больше о кантских некромантах: «предвестники». Мусорщики, смешивающие эликсиры из любой магии, которую находят. Драконы. Духи. Сама земля. Теория: использование такого количества разных магий ослабляет эффект? Почему не сосредоточиться на одной?
+Здесь так много Восставших. Пора использовать их...
+Реняк сегодня подстрелил одну из этих ворон, которые тут крутятся. Я *почувствовал* её смерть. Такая маленькая вещь — и тривиально вернуть её обратно.
+Очевидно, эликсиры работают даже лучше, чем ожидалось. Конечно, есть побочные эффекты, но ничего важного...
+Отдам Май должное: она хорошо использует Джун. Мы покинули те руины, устроили ещё несколько баз по всей Канте. Часть её «договорённости». Всё ещё затаиваемся, правда. Всегда затаиваемся. По крайней мере, пещеры в Шинг-Джеа и леса Эховальда дают смену обстановки. Новые цели для экспериментов.
+Способности становятся сильнее. Спрятался в деревьях. Поднял мёртвого кабана посреди каких-то Говорящих. Выражения их лиц...
+Нужно организовать команду. Возможно, скоро пора действовать."
 "Beet Seed Pouch[pl:""Pouches""]",
-Beet[s],
-Beetle Burrow,
-Beetle Feast,
-Beetle Larvae Hatchery,
+Beet[s],[Свекла|Свеклы|Свекол]
+Beetle Burrow,Нора жука
+Beetle Feast,Пир жуков
+Beetle Larvae Hatchery,Инкубатор личинок жуков
 "Beetle Loot Box[pl:""Boxes""]",
-Beetle Prod,
-Beetle Punt,
-Before a portal.,
-Before bombing an icicle.,
-"Before the Unseen could act, the duchess exposed them with the full power of the Veil. It was said that the mursaat attacked with powerful magics, killing the king's advisors and royal guard in seconds. Adelaide and her companions came to the king's defense with combined feedback spells, evacuating His Royal Highness through secret corridors at his direction.",
-Before them appeared the projection of a man who introduced himself as Obryn—a seemingly powerful spellcaster in his own right. Their mysterious savior would help them find proper shelter near the village of Shaemoor and keep them informed as best he could.,
-Befriend the dredge camp so they will join you as allies.,
-Befriend the hylek camp so they will join you as allies.,
-Befriend the ogre camp so they will join you as allies.,
-Beggar's Bindle,
-Begin Demo,
-Begin Encounter,
-Begin Excavating Your Aetherium Mine,
-Begin Loop #1,
-Begin Loop #2,
-Begin Next Track,
-Begin Restoring Your Arena,
-Begin Restoring Your Market,
-Begin Restoring Your Tavern,
-Begin Restoring Your War Room,
-Begin Restoring Your Workshop,
-Begin Riding,
-Begin taming the captured wild spirit by visiting the shrine to Raven in the Raven Lodge of Hoelbrak to bow and pay your respects.,
-Begin the hunt for Sorge the Zealot.,
-Begin the search for Balthazar in the Divinity's Reach palace temple.,
-Begin the search for Ginva the Butcher.,
-Begin This Story,
-Begin Trial,
-"Begin your Super Adventure in World 1! Travel through the Sunny Glade into the Dark Woods, and confront the ruler of the Kingdom of Fungus!",
-Beginner's Bag[s] of Crafting Supplies,
+Beetle Prod,Стимулятор жуков
+Beetle Punt,Пинок жука
+Before a portal.,Перед порталом.
+Before bombing an icicle.,Перед бомбардировкой сосульки.
+"Before the Unseen could act, the duchess exposed them with the full power of the Veil. It was said that the mursaat attacked with powerful magics, killing the king's advisors and royal guard in seconds. Adelaide and her companions came to the king's defense with combined feedback spells, evacuating His Royal Highness through secret corridors at his direction.","Прежде чем Невидимые успели действовать, герцогиня разоблачила их всей силой Завесы. Говорили, что мурсааты атаковали мощной магией, убив советников короля и королевскую стражу за секунды. Аделаида и её спутники встали на защиту короля с помощью комбинированных заклинаний обратной связи, эвакуировав Его Высочество через секретные коридоры по его указанию."
+Before them appeared the projection of a man who introduced himself as Obryn—a seemingly powerful spellcaster in his own right. Their mysterious savior would help them find proper shelter near the village of Shaemoor and keep them informed as best he could.,"Перед ними появилась проекция человека, представившегося как Обрин — сам по себе, по-видимому, могущественный заклинатель. Их таинственный спаситель должен был помочь им найти подходящее убежище недалеко от деревни Шеймур и держать их в курсе событий, насколько это было возможно."
+Befriend the dredge camp so they will join you as allies.,"Подружитесь с лагерем дредж, чтобы они присоединились к вам как союзники."
+Befriend the hylek camp so they will join you as allies.,"Подружитесь с лагерем хайлек, чтобы они присоединились к вам как союзники."
+Befriend the ogre camp so they will join you as allies.,"Подружитесь с лагерем огров, чтобы они присоединились к вам как союзники."
+Beggar's Bindle,Узелок нищего
+Begin Demo,Начать демо
+Begin Encounter,Начать столкновение
+Begin Excavating Your Aetherium Mine,Начать раскопки вашей шахты эфириума
+Begin Loop #1,Начать цикл #1
+Begin Loop #2,Начать цикл #2
+Begin Next Track,Начать следующий трек
+Begin Restoring Your Arena,Начать восстановление вашей арены
+Begin Restoring Your Market,Начать восстановление вашего рынка
+Begin Restoring Your Tavern,Начать восстановление вашей таверны
+Begin Restoring Your War Room,Начать восстановление вашей военной комнаты
+Begin Restoring Your Workshop,Начать восстановление вашей мастерской
+Begin Riding,Начать верховую езду
+Begin taming the captured wild spirit by visiting the shrine to Raven in the Raven Lodge of Hoelbrak to bow and pay your respects.,"Начать приручение пойманного дикого духа, посетив святилище Ворона в Логове Ворона в Хоэлбрейке, чтобы поклониться и отдать дань уважения."
+Begin the hunt for Sorge the Zealot.,Начать охоту на Сорге Фанатика.
+Begin the search for Balthazar in the Divinity's Reach palace temple.,Начните поиски Бальтазара в храме дворца Божественного Простора.
+Begin the search for Ginva the Butcher.,Начать поиски Гинвы Мясника.
+Begin This Story,Начать эту историю
+Begin Trial,Начать испытание
+"Begin your Super Adventure in World 1! Travel through the Sunny Glade into the Dark Woods, and confront the ruler of the Kingdom of Fungus!",Начните своё Суперприключение в Мире 1! Пройдите через Солнечную поляну в Тёмный лес и сразитесь с правителем Грибного королевства!
+Beginner's Bag[s] of Crafting Supplies,Мешок[|а|ов] начинающего с ремесленными припасами
 Beginner-Friendly Music by the Strand Band,
-Behavior Package: %str1%,
-Behavioral observations of tiger cub leisure time.,
-Behaviors of Risen Beasts,
-Behemoth's Gap Base Phase 1,
-Behemoth's Gap Base Phase 2,
-Behemoth's Gap Base Phase 3,
-Behemoth's Gap has reached tier 1!,
-Behemoth's Gap has reached tier 2!,
-Behemoth's Gap has reached tier 3!,
-Behemoth's Gap is under attack!,
-Behind a gigantic waterfall.,
-Behind a tree stump.,
-Behind the blacksmith's tent. (22),
-Behind the ruined rubble near Thoroughfare Ruins.,
-Bei den oberen Wasserfällen soll sich ein Valravn-Ritter versteckt halten.,
-Bei Events auf Janthir Syntri verdient.,
-"Beigarth predicted there were steel scraps in the jotun cave, but he failed to foresee the signs of dragon worship and the body of a ritually murdered hunter. If anyone knows what this means, it will be Eir Stegalkin, who once fought the dragons and knows more about them than anyone in Hoelbrak.",
-"Beigarth the Smith needs Deldrimor steel for his current project. He believes there are scraps of it in a local cave infested by jotun. As of yet, no one he sent to retrieve the scraps has returned.",
-Beigarth's Knight Inscription[s],
-Beigarth's Knight Insignia[s],
-Beige Dye[s],
-"Being Awakened changes you, they say. Can't have that. Here's what I need to remember:My father's side of the family. My sisters. My nephews.Baked fruit.Playing the lute, harp, and mariner's horn.The coarse softness of a lion cub's fur.Cool sand in the shade of a tree.Cold mint tea with extra ice.Tending plants—succulents are my favorite.The sound grain makes pouring out of a sack.Shaved ice with sugar syrup.My favorite color is green—true, pull-no-punches green.I used to sing, but something happened. It's better if I don't remember that part.",
-Being dragged along by a wild animal!,
-Being energized by Shukov,
-"Being in Maguuma, I... I feel sick just looking at it. Smelling it. Even if it's not...what happened. I'm not in the mood to write today.",
-Being this close to the artifact stings.,
-Belch (Charging),
-Belch (Selected),
-Belch is selected.<br>Let loose a belch. Reduces opponent's health depending on player's health percentage. No damage if used against Drink. Negates healing if used against Water. Punishes if used against Fake.,
-Belch will be ready after one more Drink.,
-Belch will be ready after three more Drinks.,
-Belch will be ready after two more Drinks.,
-Belched Upon,
-Belcher's Bluff Invitation,
+Behavior Package: %str1%,Пакет поведения: %str1%
+Behavioral observations of tiger cub leisure time.,Наблюдения за поведением тигрёнка во время досуга.
+Behaviors of Risen Beasts,Поведение восставших зверей
+Behemoth's Gap Base Phase 1,Базовая фаза 1 ущелья Бегемота
+Behemoth's Gap Base Phase 2,Базовая фаза 2 ущелья Бегемота
+Behemoth's Gap Base Phase 3,Базовая фаза 3 ущелья Бегемота
+Behemoth's Gap has reached tier 1!,Ущелье Бегемота достигло 1-го уровня!
+Behemoth's Gap has reached tier 2!,Ущелье Бегемота достигло 2-го уровня!
+Behemoth's Gap has reached tier 3!,Ущелье Бегемота достигло 3-го уровня!
+Behemoth's Gap is under attack!,Ущелье Бегемота атаковано!
+Behind a gigantic waterfall.,За гигантским водопадом.
+Behind a tree stump.,За пнём.
+Behind the blacksmith's tent. (22),За палаткой кузнеца. (22)
+Behind the ruined rubble near Thoroughfare Ruins.,За обломками руин у Руин Торгового пути.
+Bei den oberen Wasserfällen soll sich ein Valravn-Ritter versteckt halten.,"У верхних водопадов, как говорят, прячется рыцарь Вальравн."
+Bei Events auf Janthir Syntri verdient.,Заработано на событиях на Джантир Синтри.
+"Beigarth predicted there were steel scraps in the jotun cave, but he failed to foresee the signs of dragon worship and the body of a ritually murdered hunter. If anyone knows what this means, it will be Eir Stegalkin, who once fought the dragons and knows more about them than anyone in Hoelbrak.","Бейгарт предсказал, что в пещере йотунов есть обломки стали, но он не смог предвидеть знаки поклонения драконам и тело ритуально убитого охотника. Если кто-то знает, что это значит, то это Эйр Стегалкин, которая когда-то сражалась с драконами и знает о них больше, чем кто-либо в Хоэльброке."
+"Beigarth the Smith needs Deldrimor steel for his current project. He believes there are scraps of it in a local cave infested by jotun. As of yet, no one he sent to retrieve the scraps has returned.","Кузнец Бейгарт нуждается в стали Дельдримор для своего текущего проекта. Он считает, что её обломки находятся в местной пещере, кишащей йотунами. Пока никто из посланных им за обломками не вернулся."
+Beigarth's Knight Inscription[s],Надпис[ь|и|ей] рыцаря Бейгарта
+Beigarth's Knight Insignia[s],Инсигни[я|и|й] рыцаря Бейгарта
+Beige Dye[s],Бежевый красител[ь|и|ей]
+"Being Awakened changes you, they say. Can't have that. Here's what I need to remember:My father's side of the family. My sisters. My nephews.Baked fruit.Playing the lute, harp, and mariner's horn.The coarse softness of a lion cub's fur.Cool sand in the shade of a tree.Cold mint tea with extra ice.Tending plants—succulents are my favorite.The sound grain makes pouring out of a sack.Shaved ice with sugar syrup.My favorite color is green—true, pull-no-punches green.I used to sing, but something happened. It's better if I don't remember that part.","Пробуждение меняет тебя, говорят. Этого нельзя допустить. Вот что мне нужно помнить: Семья со стороны отца. Мои сестры. Мои племянники. Запеченные фрукты. Игра на лютне, арфе и морском рожке. Грубая мягкость меха львенка. Прохладный песок в тени дерева. Холодный мятный чай с дополнительным льдом. Уход за растениями — суккуленты мои любимые. Звук зерна, высыпающегося из мешка. Колотый лед с сахарным сиропом. Мой любимый цвет — зеленый, настоящий, без компромиссов зеленый. Я раньше пела, но что-то случилось. Лучше не вспоминать эту часть."
+Being dragged along by a wild animal!,Вас тащит дикое животное!
+Being energized by Shukov,Заряжен энергией Шукова.
+"Being in Maguuma, I... I feel sick just looking at it. Smelling it. Even if it's not...what happened. I'm not in the mood to write today.","Находясь в Магууме, я... меня тошнит от одного взгляда на это. От запаха. Даже если это не... то, что случилось. У меня нет настроения писать сегодня."
+Being this close to the artifact stings.,Быть так близко к артефакту причиняет боль.
+Belch (Charging),Отрыжка (Зарядка)
+Belch (Selected),Отрыжка (Выбрано)
+Belch is selected.<br>Let loose a belch. Reduces opponent's health depending on player's health percentage. No damage if used against Drink. Negates healing if used against Water. Punishes if used against Fake.,Отрыжка выбрана.<br>Испустить отрыжку. Уменьшает здоровье противника в зависимости от процента здоровья игрока. Не наносит урона при использовании против Напитка. Отменяет лечение при использовании против Воды. Наказывает при использовании против Подделки.
+Belch will be ready after one more Drink.,Отрыжка будет готова после ещё одного Напитка.
+Belch will be ready after three more Drinks.,Отрыжка будет готова после ещё трёх напитков.
+Belch will be ready after two more Drinks.,Отрыжка будет готова после ещё двух напитков.
+Belched Upon,Облитый отрыжкой
+Belcher's Bluff Invitation,Приглашение на игру 'Отрыжка-блеф'
 Belcher's Bluff Kit[s],
-Belief in Cantha,
-Belinda's Greatsword Skin[s],
-Belinda<br>Tribute Weapon<br>Skin,
-Belitea Mangouger,
-Bell Captured,
-Bell Choir,
-Bell Choir Concert,
-Bell Choir Main Hand,
-Bell Choir Off Hand,
-Bell Focus Skin[s],
-Bell Pepper[s],
-Bell Rung!,
-Bell tower (Blue)<brx>• Defeat bell ringer to hold and capture objective<br>• Ring bells to summon Spirits of Koda<br>• 30 points on capture<br>• 10 points per scoring tick,
-Bell tower (Green)<brx>• Defeat bell ringer to hold and capture objective<br>• Ring bells to summon Spirits of Koda<br>• 30 points on capture<br>• 10 points per scoring tick,
-Bell tower (Neutral)<brx>• Defeat bell ringer to hold and capture objective<br>• Ring bells to summon Spirits of Koda<br>• 30 points on capture<br>• 10 points per scoring tick,
-Bell tower (Red)<brx>• Defeat bell ringer to hold and capture objective<br>• Ring bells to summon Spirits of Koda<br>• 30 points on capture<br>• 10 points per scoring tick,
-Bella's Crown (Level 65),
-Bella's Crown (Level 68),
-Bellow!,
-Bellow...?,
-Bellower (Level 68),
-Bells Rung,
-Belly Flop,
-Belohnungen für Heimstatt-Beherrschung,
-Below 25 Percent,
-Below 25%%,
-Below 25%% Health,
-Below 50 Percent,
-Below 50%%,
-Below 50%% Health,
-Below 75 Percent,
-Below 75%% Health,
-Below the deadliest pagoda.,
-Below the stables. (12),
-Below very large tracks and the smell of crops.,
-Below where logs tumble down and frogs are gathered.,
-Belt Items,
+Belief in Cantha,Вера в Кантху
+Belinda's Greatsword Skin[s],Облик[|а|ов] двуручного меча Белинды
+Belinda<br>Tribute Weapon<br>Skin,Белинда<br>Оружие дани<br>Облик
+Belitea Mangouger,Белитея Мангугер
+Bell Captured,Колокол захвачен
+Bell Choir,Колокольный хор
+Bell Choir Concert,Концерт колокольного хора
+Bell Choir Main Hand,Колокольный хор (основная рука)
+Bell Choir Off Hand,Колокольный хор (дополнительная рука)
+Bell Focus Skin[s],Облик[|а|ов] фокуса «Колокол»
+Bell Pepper[s],Болгарский перец[|а|ев]
+Bell Rung!,Колокол прозвенел!
+Bell tower (Blue)<brx>• Defeat bell ringer to hold and capture objective<br>• Ring bells to summon Spirits of Koda<br>• 30 points on capture<br>• 10 points per scoring tick,"Колокольня (Синяя)<brx>• Победите звонаря, чтобы удерживать и захватывать цель<br>• Звоните в колокола, чтобы призвать духов Коды<br>• 30 очков за захват<br>• 10 очков за тик начисления"
+Bell tower (Green)<brx>• Defeat bell ringer to hold and capture objective<br>• Ring bells to summon Spirits of Koda<br>• 30 points on capture<br>• 10 points per scoring tick,"Колокольня (Зелёная)<brx>• Победите звонаря, чтобы удерживать и захватывать цель<br>• Звоните в колокола, чтобы призвать духов Коды<br>• 30 очков за захват<br>• 10 очков за тик начисления"
+Bell tower (Neutral)<brx>• Defeat bell ringer to hold and capture objective<br>• Ring bells to summon Spirits of Koda<br>• 30 points on capture<br>• 10 points per scoring tick,"Колокольня (Нейтральная)<brx>• Победите звонаря, чтобы удерживать и захватывать цель<br>• Звоните в колокола, чтобы призвать духов Коды<br>• 30 очков за захват<br>• 10 очков за тик начисления"
+Bell tower (Red)<brx>• Defeat bell ringer to hold and capture objective<br>• Ring bells to summon Spirits of Koda<br>• 30 points on capture<br>• 10 points per scoring tick,"Колокольня (Красная)<brx>• Победите звонаря, чтобы удерживать и захватывать цель<br>• Звоните в колокола, чтобы призвать духов Коды<br>• 30 очков за захват<br>• 10 очков за тик начисления"
+Bella's Crown (Level 65),Корона Беллы (Уровень 65)
+Bella's Crown (Level 68),Корона Беллы (Уровень 68)
+Bellow!,Рёв!
+Bellow...?,Рёв...?
+Bellower (Level 68),Ревун (Уровень 68)
+Bells Rung,Колокола прозвенели
+Belly Flop,Прыжок животом
+Belohnungen für Heimstatt-Beherrschung,Награды за владение домашним убежищем
+Below 25 Percent,Ниже 25 процентов
+Below 25%%,Ниже 25%%
+Below 25%% Health,Ниже 25%% здоровья
+Below 50 Percent,Ниже 50 процентов
+Below 50%%,Ниже 50%%
+Below 50%% Health,Ниже 50%% здоровья
+Below 75 Percent,Ниже 75 процентов
+Below 75%% Health,Ниже 75%% здоровья
+Below the deadliest pagoda.,Под самой смертоносной пагодой.
+Below the stables. (12),Под конюшнями. (12)
+Below very large tracks and the smell of crops.,Под очень большими следами и запахом урожая.
+Below where logs tumble down and frogs are gathered.,"Под тем местом, где падают брёвна и собираются лягушки."
+Belt Items,Предметы пояса
 "Beluga[pl:""Beluga""]",
-Bend light to become invisible for 30 seconds.,
-Beneath Champion's Gap,
-Beneath Skyward Reach,
-Beneath the hillbillies.,
-"Beneath the protective leaves of the Pale Tree, each Sylvari has one piece of ground that they are particularly comfortable in.",
-"Beneath the waves, in a grotto near the village of Hullgarden, an ancient shrine rests under a tree covered with red blossoms.",
-Beneath the wreckage north of Morningrise Prow.,
-Beneficent Light,
-Benevolence Dye[s],
-Bengt / Stoic Alder,
-Bent Circuit (Level 26),
-Bent Circuit (Level 51),
-Bent Lockpick[s],
+Bend light to become invisible for 30 seconds.,"Искривить свет, чтобы стать невидимым на 30 секунд."
+Beneath Champion's Gap,Под разрывом чемпиона
+Beneath Skyward Reach,Под Небесным Простором
+Beneath the hillbillies.,Под деревенщинами.
+"Beneath the protective leaves of the Pale Tree, each Sylvari has one piece of ground that they are particularly comfortable in.","Под защитными листьями Бледного Древа каждый Сильвари имеет один участок земли, на котором он чувствует себя особенно комфортно."
+"Beneath the waves, in a grotto near the village of Hullgarden, an ancient shrine rests under a tree covered with red blossoms.","Под волнами, в гроте недалеко от деревни Халлгарден, древнее святилище покоится под деревом, покрытым красными цветами."
+Beneath the wreckage north of Morningrise Prow.,Под обломками к северу от Утреннего Мыса.
+Beneficent Light,Благотворный Свет
+Benevolence Dye[s],Красител[ь|и|ей] «Благожелательность»
+Bengt / Stoic Alder,Бенгт / Стоический Ольха
+Bent Circuit (Level 26),Гнутая цепь (Уровень 26)
+Bent Circuit (Level 51),Гнутая цепь (Уровень 51)
+Bent Lockpick[s],Погнутая отмычк[а|и|ек]
 "Benthic Behemoth[pl:""Behemoths""]",
-Benyo's Expedition Renown Heart,
-"Bercilak seems invincible, but your Dream hinted at a way to stop him. If you can discover the source of the knight's power, perhaps you can end his brutality.",
-"Berddi resides in Rata Sum, where she's known for whipping the snap out of whippersnappers.",
-Berg Balrior,
-Berhanu [lbracket]Racer[rbracket],
-Bericht der Tyrianischen Allianz: Der Kommandeur,
-Bericht der Tyrianischen Allianz: Fragen,
-Bericht der Tyrianischen Allianz: Orr,
-Bericht der Tyrianischen Allianz: Wirtschaft,
-Berry Synthesizer,
-Berserker Amulet,
-Berserker Strain,
-Berserker's Auric Sharpening Stone[s],
-Berserker's Darksteel Imbued Inscription[s],
-Berserker's Darksteel Plated Inscription[s],
-Berserker's Elder Inscription[s],
-Berserker's Embroidered Linen Insignia[s],
-Berserker's Embroidered Silk Insignia[s],
-Berserker's Hard Inscription[s],
-Berserker's Intricate Gossamer Insignia[s],
-Berserker's Intricate Linen Insignia[s],
-Berserker's Intricate Silk Insignia[s],
-Berserker's Jewel[s],
-Berserker's Linen Insignia[s],
-Berserker's Mithril Imbued Inscription[s],
-Berserker's Mithril Plated Inscription[s],
-Berserker's Orichalcum Imbued Inscription[s],
-Berserker's Silk Insignia[s],
-Berserkers Spineguard,
-Beryl Crystal[s],
-Beryl Orb[s],
-Beryl Shard[s],
-Besiegt 10 Gegner in der Janthir-Region,
-Besiegt Titanenbrut- oder Elementar-Gegner,
-"Besiegt Titanenbrut- oder Elementar-Gegner. Veteranen-, Elite- und Champion-Gegner gewähren vermehrten Fortschritt.",
-Best Appearance,
+Benyo's Expedition Renown Heart,Сердце добрых дел «Экспедиция Беньо»
+"Bercilak seems invincible, but your Dream hinted at a way to stop him. If you can discover the source of the knight's power, perhaps you can end his brutality.","Берсилак кажется непобедимым, но твой Сон намекнул на способ его остановить. Если ты сможешь обнаружить источник силы рыцаря, возможно, ты положишь конец его жестокости."
+"Berddi resides in Rata Sum, where she's known for whipping the snap out of whippersnappers.","Бердди живёт в Рата-Суме, где известна тем, что выбивает дурь из наглецов."
+Berg Balrior,Берг Балриор
+Berhanu [lbracket]Racer[rbracket],Берхану [lbracket]Гонщик[rbracket]
+Bericht der Tyrianischen Allianz: Der Kommandeur,Отчет Тирийского Альянса: Командир
+Bericht der Tyrianischen Allianz: Fragen,Отчет Тирийского Альянса: Вопросы
+Bericht der Tyrianischen Allianz: Orr,Отчет Тирийского Альянса: Орр
+Bericht der Tyrianischen Allianz: Wirtschaft,Отчет Тирийского Альянса: Экономика
+Berry Synthesizer,Ягодный синтезатор
+Berserker Amulet,Амулет берсерка
+Berserker Strain,Штамм берсерка
+Berserker's Auric Sharpening Stone[s],Аурический точильный [камень|камня|камней] берсерка
+Berserker's Darksteel Imbued Inscription[s],Пропитанная темной сталью надпис[ь|и|ей] берсерка
+Berserker's Darksteel Plated Inscription[s],Облицованная темной сталью надпис[ь|и|ей] берсерка
+Berserker's Elder Inscription[s],Древняя надпис[ь|и|ей] берсерка
+Berserker's Embroidered Linen Insignia[s],[Вышитая льняная инсигния берсерка|Вышитая льняная инсигнии берсерка|Вышитая льняная инсигний берсерка]
+Berserker's Embroidered Silk Insignia[s],[Вышитая шёлковая инсигния берсерка|Вышитая шёлковая инсигнии берсерка|Вышитая шёлковая инсигний берсерка]
+Berserker's Hard Inscription[s],[Твёрдая надпись берсерка|Твёрдая надписи берсерка|Твёрдая надписей берсерка]
+Berserker's Intricate Gossamer Insignia[s],[Искусная паутинная инсигния берсерка|Искусная паутинная инсигнии берсерка|Искусная паутинная инсигний берсерка]
+Berserker's Intricate Linen Insignia[s],[Искусная льняная инсигния берсерка|Искусная льняная инсигнии берсерка|Искусная льняная инсигний берсерка]
+Berserker's Intricate Silk Insignia[s],[Искусная шёлковая инсигния берсерка|Искусная шёлковая инсигнии берсерка|Искусная шёлковая инсигний берсерка]
+Berserker's Jewel[s],[Самоцвет берсерка|Самоцвета берсерка|Самоцветов берсерка]
+Berserker's Linen Insignia[s],[Льняная инсигния берсерка|Льняная инсигнии берсерка|Льняная инсигний берсерка]
+Berserker's Mithril Imbued Inscription[s],[Пропитанная мифрилом надпись берсерка|Пропитанная мифрилом надписи берсерка|Пропитанная мифрилом надписей берсерка]
+Berserker's Mithril Plated Inscription[s],[Покрытая мифрилом надпись берсерка|Покрытая мифрилом надписи берсерка|Покрытая мифрилом надписей берсерка]
+Berserker's Orichalcum Imbued Inscription[s],[Пропитанная орихалком надпись берсерка|Пропитанная орихалком надписи берсерка|Пропитанная орихалком надписей берсерка]
+Berserker's Silk Insignia[s],[Шёлковая инсигния берсерка|Шёлковая инсигнии берсерка|Шёлковая инсигний берсерка]
+Berserkers Spineguard,Охранитель хребта берсерков
+Beryl Crystal[s],[Берилловый кристалл|Берилловый кристалла|Берилловый кристаллов]
+Beryl Orb[s],[Берилловая сфера|Берилловая сферы|Берилловая сфер]
+Beryl Shard[s],[Берилловый осколок|Берилловый осколка|Берилловый осколков]
+Besiegt 10 Gegner in der Janthir-Region,Победите 10 врагов в регионе Янтхир
+Besiegt Titanenbrut- oder Elementar-Gegner,Победите врагов-отродий титанов или элементалей
+"Besiegt Titanenbrut- oder Elementar-Gegner. Veteranen-, Elite- und Champion-Gegner gewähren vermehrten Fortschritt.","Победите врагов-отродий титанов или элементалей. Ветераны, элитные и чемпионские враги дают больше прогресса."
+Best Appearance,Лучший внешний вид
