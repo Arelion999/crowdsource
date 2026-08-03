@@ -343,21 +343,21 @@
 | `new_031.csv` | new | 500 | 25,475 | Weakness and Damage Extreme | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_032.csv` | new | 434 | 21,933 | You are losing health. | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_033.csv` | new | 50 | 1,955 | A team is attempting to drive the Risen from  | ✅ | Магистр Клод, Приорат Дурманд |
-| `new_034.csv` | new | 500 | 26,638 | "/Zittern"-Belohnungspfad |  |  |
-| `new_035.csv` | new | 500 | 29,079 | (cringe) That was close. |  |  |
-| `new_036.csv` | new | 500 | 19,127 | A very small siamoth. Or is it? |  |  |
-| `new_037.csv` | new | 500 | 18,137 | After visiting the eight Forgotten statues, r |  |  |
-| `new_038.csv` | new | 500 | 19,791 | Amabilidad correspondida |  |  |
-| `new_039.csv` | new | 500 | 20,441 | Arbiter Lo Loju |  |  |
-| `new_040.csv` | new | 500 | 15,607 | Asesino[f:"Asesina"] de raptores |  |  |
-| `new_041.csv` | new | 500 | 16,836 | Ayes |  |  |
-| `new_042.csv` | new | 500 | 14,627 | Benevolencia de año nuevo |  |  |
-| `new_043.csv` | new | 500 | 16,532 | Botín automático: recogida automática |  |  |
-| `new_044.csv` | new | 500 | 20,160 | But—I—am—certain—it—could—be—perfected—with—y |  |  |
-| `new_045.csv` | new | 500 | 16,121 | Cascade—failure—imminent. |  |  |
-| `new_046.csv` | new | 500 | 15,489 | Check on Peitha. |  |  |
-| `new_047.csv` | new | 500 | 20,020 | Commander Samuelsson |  |  |
-| `new_048.csv` | new | 500 | 14,240 | Cosas que es mejor olvidar |  |  |
+| `new_034.csv` | new | 500 | 26,638 | "/Zittern"-Belohnungspfad | ✅ | Магистр Клод, Приорат Дурманд |
+| `new_035.csv` | new | 500 | 29,079 | (cringe) That was close. | ✅ | Магистр Клод, Приорат Дурманд |
+| `new_036.csv` | new | 500 | 19,127 | A very small siamoth. Or is it? | ✅ | Магистр Клод, Приорат Дурманд |
+| `new_037.csv` | new | 500 | 18,137 | After visiting the eight Forgotten statues, r | ✅ | Магистр Клод, Приорат Дурманд |
+| `new_038.csv` | new | 500 | 19,791 | Amabilidad correspondida | ✅ | Магистр Клод, Приорат Дурманд |
+| `new_039.csv` | new | 500 | 20,441 | Arbiter Lo Loju | ✅ | Магистр Клод, Приорат Дурманд |
+| `new_040.csv` | new | 500 | 15,607 | Asesino[f:"Asesina"] de raptores | ✅ | Магистр Клод, Приорат Дурманд |
+| `new_041.csv` | new | 500 | 16,836 | Ayes | ✅ | Магистр Клод, Приорат Дурманд |
+| `new_042.csv` | new | 500 | 14,627 | Benevolencia de año nuevo | ✅ | Магистр Клод, Приорат Дурманд |
+| `new_043.csv` | new | 500 | 16,532 | Botín automático: recogida automática | ✅ | Магистр Клод, Приорат Дурманд |
+| `new_044.csv` | new | 500 | 20,160 | But—I—am—certain—it—could—be—perfected—with—y | ✅ | Магистр Клод, Приорат Дурманд |
+| `new_045.csv` | new | 500 | 16,121 | Cascade—failure—imminent. | ✅ | Магистр Клод, Приорат Дурманд |
+| `new_046.csv` | new | 500 | 15,489 | Check on Peitha. | ✅ | Магистр Клод, Приорат Дурманд |
+| `new_047.csv` | new | 500 | 20,020 | Commander Samuelsson | ✅ | Магистр Клод, Приорат Дурманд |
+| `new_048.csv` | new | 500 | 14,240 | Cosas que es mejor olvidar | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_049.csv` | new | 500 | 15,692 | Dando pisotones |  |  |
 | `new_050.csv` | new | 500 | 15,531 | Deliver these to the work crews before the pr |  |  |
 | `new_051.csv` | new | 500 | 16,781 | Die Flammen-Legion besiegen |  |  |
