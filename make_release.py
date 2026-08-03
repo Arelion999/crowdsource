@@ -1,19 +1,25 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Готовит релиз русификатора: пересобирает glyphCore/dictionary.bin из ТЕКУЩИХ CSV,
-проверяет его и печатает команду публикации. Архив не собирается — ассет релиза
-один: сам dictionary.bin. Инструкция по установке живёт в README.md.
+Готовит релиз русификатора: проверяет glyphCore/dictionary.bin и печатает
+команду публикации. Архив не собирается — ассет релиза один: сам
+dictionary.bin. Инструкция по установке живёт в README.md.
 
-    python make_release.py                 # версия = дата (v2026.08.02)
-    python make_release.py v2026.08.02     # свой тег
-    python make_release.py --no-build      # не пересобирать bin, только проверить
-    python make_release.py --no-lint       # не гонять линтер по игровым словарям
+    python make_release.py                 # версия = дата (v2026.08.03)
+    python make_release.py v2026.08.03     # свой тег
+    python make_release.py --no-lint       # не гонять линтер по словарю
     python make_release.py --lint-details  # показать примеры найденных линтом ошибок
 
-Сборка bin — тем же кодом, что кнопка «CSV в bin» в оверлее (csv_to_bin.py):
-dict_*.csv + pn_*.csv + main_strings.csv («основной») + discovered_strings.csv
-(«выученные»). Записи «только по хешу» из прежнего bin переносятся — см. csv_to_bin.
+CSV-слой (dict_*.csv, main_strings.csv, pn_*.csv) удалён, поэтому bin больше
+не собирается из CSV — он сам является источником. Правки в него вносит
+tools/dict_tool.py:
+
+    python tools/dict_tool.py frombatches --apply   # переводы батчей -> bin
+    python tools/dict_tool.py canon --apply         # канон терминов
+    python tools/dict_tool.py broken                # разбор битых строк
+    python tools/dict_tool.py export <папка>        # выгрузить bin в CSV
+
+Флаг --no-build оставлен, чтобы старые вызовы не падали, но ничего не делает.
 """
 import os, sys, csv, glob, struct, datetime, hashlib, collections
 
@@ -23,7 +29,6 @@ BIN   = os.path.join(GCDIR, "dictionary.bin")
 MAGIC = b"GCDCT2"
 
 sys.path.insert(0, HERE)
-import csv_to_bin                                          # noqa: E402
 import validate                                            # noqa: E402
 
 try:
@@ -56,81 +61,93 @@ def read_header(path):
     return total, cats
 
 
-def build_bin(carry):
-    print("Сборка dictionary.bin из текущих CSV…")
-    try:
-        cats, total, per_file, carried = csv_to_bin.build(GCDIR, BIN, carry=carry)
-    except PermissionError:
-        print(f"[!] {BIN} занят — закрой игру/прокси и повтори.")
-        return None
-    if not cats:
-        print(f"[!] В {GCDIR} не нашлось ни одной переведённой строки.")
-        return None
-    print(f"  категорий: {len(cats)} | пар: {num(total)}")
-    if carried:
-        print(f"  перенесено выученного из прежнего bin: {num(carried)} "
-              f"(этих строк нет ни в одном CSV)")
-    return per_file
+def read_entries(path):
+    """GCDCT2 -> [(имя категории, [(hash, english, русский), ...]), ...]."""
+    with open(path, "rb") as f:
+        b = f.read()
+    if b[:6] != MAGIC:
+        raise ValueError(f"сигнатура {b[:6]!r}, ожидалась {MAGIC.decode()}")
+    p = 8
+    struct.unpack_from("<I", b, p); p += 4
+    ncat, = struct.unpack_from("<H", b, p); p += 2
+    heads = []
+    for _ in range(ncat):
+        ln = b[p]; p += 1
+        name = b[p:p + ln].decode("utf-8", "replace"); p += ln
+        cnt, = struct.unpack_from("<I", b, p); p += 4
+        off, = struct.unpack_from("<Q", b, p); p += 8
+        heads.append((name, cnt, off))
+    out = []
+    for name, cnt, off in heads:
+        q, es = off, []
+        for _ in range(cnt):
+            q += 4
+            h, = struct.unpack_from("<Q", b, q); q += 8
+            l, = struct.unpack_from("<H", b, q); q += 2
+            en = b[q:q + l * 2].decode("utf-16-le", "replace"); q += l * 2
+            l, = struct.unpack_from("<H", b, q); q += 2
+            ru = b[q:q + l * 2].decode("utf-16-le", "replace"); q += l * 2
+            es.append((h, en, ru))
+        out.append((name, es))
+    return out
 
 
-def check_bin(per_file):
-    """Сверяет bin с CSV. Возвращает список предупреждений."""
+def check_bin():
+    """Статистика по самому bin. Возвращает список предупреждений.
+
+    CSV-слой удалён, поэтому сверять bin больше не с чем: он и есть источник.
+    Проверяем то, что видно изнутри файла."""
     warn = []
     total, cats = read_header(BIN)
     print(f"\ndictionary.bin: {os.path.getsize(BIN) / 1_048_576:.1f} МБ | "
           f"категорий: {len(cats)} | пар: {num(total)}")
-    print(f"  собран: {datetime.datetime.fromtimestamp(os.path.getmtime(BIN)):%Y-%m-%d %H:%M}")
+    print(f"  изменён: {datetime.datetime.fromtimestamp(os.path.getmtime(BIN)):%Y-%m-%d %H:%M}")
 
-    if per_file is None:                                   # запускались с --no-build
-        per_file = [(f, c, len(csv_to_bin.load_rows(csv_to_bin.read_text(os.path.join(GCDIR, f)))))
-                    for f, c in csv_to_bin.sources(GCDIR)]
+    names = {n.split("\x1f")[0] for n, _ in cats}
+    top = sorted(cats, key=lambda c: -c[1])[:6]
+    print("  крупнейшие категории: "
+          + ", ".join(f"{n.split(chr(31))[0]} {num(c)}" for n, c in top))
 
-    have = {n.split("\x1f")[0] for n, _ in cats}
-    missing = [f for f, cat, n in per_file if n and cat not in have]
-    if missing:
-        warn.append(f"в bin нет категорий для {len(missing)} CSV "
-                    f"({', '.join(sorted(missing)[:3])}) — их переводы в релиз не войдут.")
-    rows = sum(n for _, _, n in per_file)
-    print(f"  источники: {len(per_file)} CSV, {num(rows)} переведённых строк "
-          f"(в bin меньше — дубли сворачиваются по хешу)")
-
-    if not any(f.startswith("pn_") for f, _, n in per_file if n):
-        warn.append("pn_*.csv не найдены — имена и локации останутся английскими.")
+    if not any(n.startswith("pn_") for n in names):
+        warn.append("в bin нет категорий pn_* — имена и локации останутся английскими.")
+    if "основной" not in names:
+        warn.append("в bin нет категории «основной» — это основной слой перевода.")
     return warn
 
 
 def lint(details):
-    """Линтер по игровым словарям. Ошибки не блокируют релиз (они уже в игре),
-    но их видно до публикации. Возвращает список предупреждений."""
-    files = sorted(glob.glob(os.path.join(GCDIR, "dict_*.csv")))
-    ms = os.path.join(GCDIR, "main_strings.csv")
-    if os.path.exists(ms):
-        files.append(ms)
+    """Линтер по содержимому bin. Ошибки не блокируют релиз (они уже в игре),
+    но их видно до публикации. Возвращает список предупреждений.
+
+    Раньше читал dict_*.csv; CSV-слоя больше нет, поэтому идём по самому bin.
+    Записи «только по хешу» (english пустой) пропускаем: сравнивать не с чем."""
     kinds, examples, checked, bad = collections.Counter(), {}, 0, 0
-    for fp in files:
-        with open(fp, encoding="utf-8", newline="") as fh:
-            for i, r in enumerate(csv.reader(fh), start=1):
-                if len(r) < 2 or not r[1].strip() or r[0].lower() == "english":
-                    continue
-                checked += 1
-                errs, _ = validate.check_row(r[0], r[1])
-                if errs:
-                    bad += 1
-                for m in errs:
-                    k = m.split(":")[0].split("«")[0].strip()
-                    kinds[k] += 1
-                    examples.setdefault(k, (os.path.basename(fp), i, r[0][:70], r[1][:70]))
-    print(f"\nЛинт игровых словарей: проверено {num(checked)} строк, "
+    for name, entries in read_entries(BIN):
+        cat = name.split("\x1f")[0]
+        for h, en, ru in entries:
+            if not en or not ru.strip():
+                continue
+            checked += 1
+            errs, _ = validate.check_row(en, ru)
+            if errs:
+                bad += 1
+            for m in errs:
+                k = m.split(":")[0].split("«")[0].strip()
+                kinds[k] += 1
+                examples.setdefault(k, (cat, h, en[:70], ru[:70]))
+    print(f"\nЛинт словаря: проверено {num(checked)} строк, "
           f"битых {num(bad)}")
     for k, c in kinds.most_common():
         print(f"  {num(c):>7}  {k}")
         if details:
-            f, i, en, ru = examples[k]
-            print(f"           {f}:{i}\n             EN {en!r}\n             RU {ru!r}")
+            cat, h, en, ru = examples[k]
+            print(f"           [{cat}] hash={h:016x}\n             EN {en!r}\n             RU {ru!r}")
     if not details and kinds:
         print("  (примеры: python make_release.py --lint-details)")
-    return ([f"линт нашёл {num(bad)} битых строк в игровых словарях — "
-             f"они попадут в релиз как есть."] if bad else [])
+    if bad:
+        return [f"линт нашёл {num(bad)} битых строк в словаре — "
+                f"они попадут в релиз как есть (разбор: tools/dict_tool.py broken)."]
+    return []
 
 
 def main():
@@ -138,18 +155,19 @@ def main():
     if not ver:
         ver = "v" + datetime.date.today().strftime("%Y.%m.%d")
 
-    per_file = None
-    if "--no-build" not in sys.argv:
-        carry = None if "--no-carry" in sys.argv else (BIN if os.path.exists(BIN) else None)
-        per_file = build_bin(carry)
-        if per_file is None:
-            return 1
-    elif not os.path.exists(BIN):
-        print(f"[!] {BIN} не найден, а сборка отключена (--no-build).")
+    if not os.path.exists(BIN):
+        print(f"[!] {BIN} не найден.")
         return 1
+    if "--no-build" not in sys.argv:
+        # CSV-слоя больше нет: bin — источник, а не результат сборки.
+        # Правки вносит tools/dict_tool.py, он же и записывает bin.
+        print("Сборка из CSV больше не выполняется: CSV-слой удалён, "
+              "dictionary.bin сам является источником.")
+        print("  правки: tools/dict_tool.py (frombatches, canon, broken, merge)")
+        print("  выгрузить обратно в CSV: tools/dict_tool.py export <папка>")
 
     try:
-        warn = check_bin(per_file)
+        warn = check_bin()
     except ValueError as e:
         print(f"[!] dictionary.bin битый: {e}")
         return 1
