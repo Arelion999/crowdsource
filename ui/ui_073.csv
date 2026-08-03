@@ -6,7 +6,7 @@ Gold Tiger Chest,Золотой сундук тигра
 "Gold Tiger Loot Box[pl:""Boxes""]",
 Gold Trade Limit: %num1%,Лимит золотой торговли: %num1%
 "Gold Twin Largos Trophy[pl:""Trophies""]",
-"Gold Ura Trophy[pl:""Trophies""]",
+"Gold Ura Trophy[pl:""Trophies""]",Золотой Ура трофей[и]
 Gold Wall[s],[Золотая стена|Золотой стены|Золотых стен]
 Gold Wolf Chest,Золотой сундук волка
 "Gold Wolf Loot Box[pl:""Boxes""]",
@@ -82,7 +82,7 @@ Golden Snake Statue[s],Золотая стату[я|и|й] змеи
 Golden Springer Carving[s],Золотая резьб[а|ы|] спрингера
 Golden Talon Longbow[s],Золотой лук[|а|ов] когтя
 Golden Ticket[s],Золотой билет[|а|ов]
-"Golden Trout[pl:""Trout""]",
+"Golden Trout[pl:""Trout""]",Золотой Траха[а|и|ев]
 Golden Tuning Fork[s],Золотой камертон[|а|ов]
 Golden Vigil Buckle[s],Золотая пряжк[а|и|ек] Дозора
 Golden Whispers Buckle[s],Золотая пряжк[а|и|ек] Шепотов
@@ -150,7 +150,7 @@ Good to Go,Готов к отправке
 Good work with the rifts.,Хорошая работа с разломами.
 Good work! The Opticalium krewe appreciates your assistance.,Хорошая работа! Команда Оптиколиума ценит вашу помощь.
 Good work. The Separatist influence in Ebonhawke has been weakened.,Хорошая работа. Влияние сепаратистов в Эбонхоке ослаблено.
-"Googly-Eyed Squid[pl:""Squid""]",
+"Googly-Eyed Squid[pl:""Squid""]",Глазырь-Кальмар[и|и|ей]
 Goop-Covered Satchel[s],"[Сумка|Сумки|Сумок], покрытая слизью"
 Goopy Electrum,Липкий электрум
 Gorrik (Return To Season 4),Горрик (Возвращение к 4 сезону)
@@ -182,7 +182,7 @@ Gossamer Shoe Upper[s],Верх[|а|ов] обуви из паутины
 Gossamer Stuffing[s],Набивк[а|и|ок] из паутины
 Gossip and storyteller. May you spin your yarn eternally.,Сплетник и рассказчик. Пусть твоя пряжа вьется вечно.
 Gossiping Hunter,Болтливый Охотник
-"Got an interesting visitor today. Ex-Xunlai by the name of Mi Shen showed up, ranting about how Joon shut his program down and dismantled his prototype (sounds like her). If completed, it'd be the largest mech ever built. All he needed to do was finish the design of its central power core—or so he says. Pieces should have been sent to the junkyard. Gonna have a scavenging team poke around, see what they can find. In the meantime, I've set him up in a lab to show what he can do. Keeping an eye on him—I think that one's playing a few cards short of a full deck.",
+"Got an interesting visitor today. Ex-Xunlai by the name of Mi Shen showed up, ranting about how Joon shut his program down and dismantled his prototype (sounds like her). If completed, it'd be the largest mech ever built. All he needed to do was finish the design of its central power core—or so he says. Pieces should have been sent to the junkyard. Gonna have a scavenging team poke around, see what they can find. In the meantime, I've set him up in a lab to show what he can do. Keeping an eye on him—I think that one's playing a few cards short of a full deck.","Сегодня заглядывал интересный посетитель. Бывший житель Сюнлая по имени Ми Шэнь пришёл, жаловался, что Цзюнь закрыла его программу и разобрала его прототип (звучит как она). Если бы её завершили, это был бы самый большой мех, когда-либо построенный. Ему всего лишь нужно было закончить разработку его центрального ядра питания — по крайней мере, так он говорит. Детали должны были быть отправлены на свалку. Отправлю туда разведывательную группу, посмотрим, что они смогут найти. А пока я поселил его в лабораторию, чтобы он показал, на что способен. Буду за ним присматривать — думаю, у этого парня не все дома."
 Got away!,Ушёл!
 Got away.,Сбежал(а).
 Got Equipped with the Bauble Backpack,Экипирован рюкзаком с безделушками
@@ -255,7 +255,7 @@ Grandmaster Leatherworker's Mark[s],[Знак|Знака|Знаков] вели�
 Grandmaster Mark Shard[s],[Осколок|Осколка|Осколков] знака великого мастера
 Grandmaster Tailor's Mark[s],[Знак|Знака|Знаков] великого мастера-портного
 Grandmaster Weaponsmith's Mark[s],[Знак|Знака|Знаков] великого мастера-оружейника
-Grandmaster XIII Trait Track,
+Grandmaster XIII Trait Track,Трек черт Великого мастера XIII
 Grandmaster's Finishing Kit[s],[Набор|Набора|Наборов] финишной обработки великого мастера
 Grandmaster's Ink Set[s],[Набор|Набора|Наборов] чернил великого мастера
 Grandmaster's Scribing Kit[s],[Набор|Набора|Наборов] для письма великого мастера
@@ -338,7 +338,7 @@ Gravel Storm,Гравийная буря
 Gravel[s],[Гравий|Гравия|Гравиев]
 Gravelgun (Level 37),Гравийное ружьё (Ур. 37)
 Gravelgun (Level 60),Гравийное ружьё (Ур. 60)
-"Graveling Loot Box[pl:""Boxes""]",
+"Graveling Loot Box[pl:""Boxes""]",Ящик с Добычей Гравилинга
 Graveling[s],[Гравелинг|Гравелинга|Гравелингов]
 Graven Electrum,Гробный электрум
 Gravewater Ooze,Могильная слизь
@@ -443,7 +443,7 @@ Great Zehtuka's Horn[s],Рог[|а|ов] Великого Зехтуки
 "Great! Now locate the recipe for the Practice Herb Mix and create one of those using the ""Craft"" button.",Отлично! Теперь найдите рецепт тренировочной смеси трав и создайте её с помощью кнопки «Создать».
 "Great! Now locate the recipe for the Practice Rawhide Leather Square and create one of those using the ""Craft"" button.",Отлично! Теперь найдите рецепт тренировочного квадрата из сыромятной кожи и создайте его с помощью кнопки «Создать».
 "Great! Now, navigate to the skills and traits tab by selecting this tab.","Отлично! Теперь перейдите на вкладку умений и черт, выбрав эту вкладку."
-Great<br>Helix,
+Great<br>Helix,Великий<br>Спиральный узел
 Greater Arcane Chest,Большой тайный сундук
 Greater arcane treasures require Heart of the Obscure Research Mastery tier 5 to unlock.,Для получения больших тайных сокровищ требуется мастерство «Исследование Сердца Тьмы» 5-го уровня.
 Greater Gift[s] of Candy Corn,Большой дар[|а|ов] кукурузной конфеты

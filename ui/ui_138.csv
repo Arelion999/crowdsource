@@ -33,15 +33,15 @@ Strategic Location 2: Tucked under a charr vehicle in the central Dominion camp.
 Strategic Location 3: At the foot of a wooden tower behind stacked crates in the northern Dominion camp.,Стратегическое место 3: У подножия деревянной башни за составленными ящиками в северном лагере Доминиона.
 Strategic Location 4: Among some rocks below the northernmost comm tower.,Стратегическое место 4: Среди скал под самой северной коммуникационной вышкой.
 Strategic Location 5: In bushes just below the northeast exit from the cave system.,Стратегическое место 5: В кустах чуть ниже северо-восточного выхода из пещерной системы.
-Strategic Location 6: Near the northern artillery position at Canopy Crag.,
+Strategic Location 6: Near the northern artillery position at Canopy Crag.,Стратегическая точка №6: Возле северной артиллерийской позиции у Скалы Крона.
 Strategic Location 7: Near bushes by the central comm tower.,Стратегическая точка 7: Рядом с кустами у центральной коммуникационной вышки.
 Strategic Location 8: Next to the northern end of the bridge.,Стратегическая точка 8: Рядом с северным концом моста.
 "Strategic Location 9: Behind a tree high on a plateau in the southeast, facing the lighthouse.","Стратегическая точка 9: За деревом высоко на плато на юго-востоке, лицом к маяку."
-Strategic Scenario Response Proposal—Cardinal Blue—Astral Ward Eyes Only,
-Strategic Scenario Response Proposal—Cold Frame—Astral Ward Eyes Only,
+Strategic Scenario Response Proposal—Cardinal Blue—Astral Ward Eyes Only,Предложение по реагированию на стратегический сценарий — Кардинальный синий — Только для глаз Астрального дозора
+Strategic Scenario Response Proposal—Cold Frame—Astral Ward Eyes Only,Предложение по стратегическому сценарию — Холодная Рамка — Только для глаз Астрального Дозора
 Strategic Scenario Response Proposal—Glass Dragon—Astral Ward Eyes Only,Предложение ответа на стратегический сценарий — Стеклянный Дракон — Только для глаз Астрального Дозора
 Strategic Scenario Response Proposal—Hapless Ladder—Astral Ward Eyes Only,Предложение ответа на стратегический сценарий — Неудачная Лестница — Только для глаз Астрального Дозора
-Strategic Scenario Response Proposal—Mosaic Wrath—Astral Ward Eyes Only,
+Strategic Scenario Response Proposal—Mosaic Wrath—Astral Ward Eyes Only,Стратегическое предложение по реагированию на сценарий — Мозаичный гнев — Только для Астрального дозора
 Strategic Scenario Response Proposal—Rude Virus—Astral Ward Eyes Only,Предложение ответа на стратегический сценарий — Грубый Вирус — Только для глаз Астрального Дозора
 Straw Dye[s],[Краска|Краски|Красок] «Солома»
 Straw Effigy,Соломенное чучело
@@ -55,7 +55,7 @@ Strawberry Patch,Клубничная грядка
 Strawberry Pie[s],[Клубничный пирог|Клубничного пирога|Клубничных пирогов]
 "Strawberry Seed Pouch[pl:""Pouches""]",
 Strawberry Tart[s],[Клубничный тарт|Клубничного тарта|Клубничных тартов]
-"Strawberry[pl:""Strawberries""]",
+"Strawberry[pl:""Strawberries""]",Клубника[клубника|клубники|клубник]
 Strawweight Hatchling[s],[Детёныш соломенного веса|Детёныша соломенного веса|Детёнышей соломенного веса]
 Stream files as fast as possible.,Потоковая передача файлов максимально быстро.
 Stream files only while your connection is idle.,Потоковая передача файлов только при бездействии соединения.
@@ -132,7 +132,7 @@ Strip[s] of Dolyak Jerky,[Полоска|Полоски|Полосок] вяле
 Strip[s] of Venison Jerky,[Полоска|Полоски|Полосок] вяленой оленины
 "Striped Barracuda[pl:""Barracuda""]",
 "Striped Bass[pl:""Bass""]",
-"Striped Catfish[pl:""Catfish""]",
+"Striped Catfish[pl:""Catfish""]",Полосатый сомик[Сомик]
 Striped Fishing Rod[s],[Удочка|Удочки|Удочек] в полоску
 Strips Boons • Burns,Снимает благословения • Наносит ожог
 Strong Cotton Insignia[s],[Нашивка|Нашивки|Нашивок] из прочной хлопковой ткани
@@ -170,21 +170,21 @@ Strong Wool Insignia[s],Сильная шерстяная [накладка|на
 "Strongbox from ""Mellaggan's Valor""","Сундук из ""Доблести Меллаггана"""
 "Strongbox from ""Whitebear's Pride II""","Сундук из ""Гордости Белого Медведя II"""
 "Strongbox from the ""Cryptonym""","Сундук из ""Криптонима"""
-"Strongbox from the ""Endurance""",
-"Strongbox from the ""Glory of Tyria""",
-"Strongbox from the ""Legacy of Owl""",
-"Strongbox from the ""Lethal Vantage""",
-"Strongbox from the ""Obsidian Triumph""",
-"Strongbox from the ""Plains of Golghein""",
-"Strongbox from the ""Pride of Lion's Arch""",
-"Strongbox from the ""Scorchrazor II""",
-"Strongbox from the ""Shard of Brilliance""",
-"Strongbox from the ""Slice of Sky""",
-"Strongbox from the ""Straight and Narrow""",
-"Strongbox from the ""Sword of Smodur""",
-"Strongbox from the ""Thunderbreaker""",
-"Strongbox from the ""Unsolved Conundrum""",
-"Strongbox from the ""Vengeance Rising""",
+"Strongbox from the ""Endurance""",Сейф из «Выносливости»
+"Strongbox from the ""Glory of Tyria""",Сейф с корабля «Слава Тирии»
+"Strongbox from the ""Legacy of Owl""",Сейф из «Наследия Совы»
+"Strongbox from the ""Lethal Vantage""",Сейф из «Смертельного Смотрового Майданчика»
+"Strongbox from the ""Obsidian Triumph""",Сейф из «Обсидианового триумфа»
+"Strongbox from the ""Plains of Golghein""",Сейф из «Равнины Голгхейна»
+"Strongbox from the ""Pride of Lion's Arch""",Сейф из серии «Гордость Львиной Арки».
+"Strongbox from the ""Scorchrazor II""",Сейф из «Жало Скорча» II
+"Strongbox from the ""Shard of Brilliance""",Сейф из «Осколка Сияния»
+"Strongbox from the ""Slice of Sky""",Сейф из «Кусочка неба»
+"Strongbox from the ""Straight and Narrow""",Сейф из «Прямой и Узкой» тропы
+"Strongbox from the ""Sword of Smodur""",Сейф из «Меча Смодура»
+"Strongbox from the ""Thunderbreaker""",Сейф из «Громовержца»
+"Strongbox from the ""Unsolved Conundrum""",Сейф из «Нерешенной загадки»
+"Strongbox from the ""Vengeance Rising""",Сейф из «Восстание Мести»
 "Strongbox of the ""Dragonrender""",Сундук «Драконобойца»
 Stronger Together,Вместе сильнее
 Stronghold City—Mercs,Город-крепость — Наёмники
@@ -257,8 +257,8 @@ Stuns • Causes Vulnerability,Оглушает • Вызывает уязви�
 Stuns • Chills • Bleeds,Оглушения • Охлаждения • Кровотечения
 Sturdy Outdoor Rug[s],Прочный уличный ков[ер|ра|ров]
 Sturdy Petrified Bark Piece[s],Прочный кус[ок|ка|ков] окаменевшей коры
-"Sturdy Scribe's Tools[pl:""Tools""]",
-"Sturgeon[pl:""Sturgeon""]",
+"Sturdy Scribe's Tools[pl:""Tools""]",Прочные инструменты писца[ы]
+"Sturgeon[pl:""Sturgeon""]",Стерлядь[стерлядь|стерляди|стерлядей]
 Stygian Axe[s],Стигийский топ[ор|ора|оров]
 Stygian Deeps Animus,Анимус Стигийских глубин
 Stygian Deeps stands in the way of the assault vessels leaving Armada Harbor.,"Стигийские глубины преграждают путь десантным судам, покидающим гавань Армады."
@@ -273,19 +273,19 @@ Stylish Shoes now available!,Стильная обувь теперь досту
 Stylish Shoes Skin[s],Облик[|а|ов] «Стильные туфли»
 Stylish summer<br>Shorts and<br>gathered shirts,Стильные летние<br>шорты и<br>сборные рубашки
 Stylish top for a night out. Town clothes cannot be worn while in combat.,Стильный топ для вечеринки. Городскую одежду нельзя носить в бою.
-Sub Region Checked for NPCs,
-Sub Region Unchecked for NPCs,
+Sub Region Checked for NPCs,Подрегион проверен на наличие NPC
+Sub Region Unchecked for NPCs,Подрегион не проверен на наличие NPC
 Sub-Lieutenant Macy,Младший лейтенант Мейси
 Subdirector Blingg,Субдиректор Блингг
-Subdirector NULL has entered high-speed mode. Try using a caltrops mine.,
-Subdirector NULL has increased shielding to shrug off damage. Try using a land mine.,
-Subdirector NULL is beginning to electrolyze you. Defeat it before it kills you.,
-Subdirector NULL is entering self-repair mode. Try using a poison gas mine.,
-Subdirector NULL is preparing to detonate all of its mines to trigger a cave-in. Get to safety!,
-Subdirector NULL is summoning orbs of rampant energy. Avoid them.,
-Subdirector NULL is summoning repair turrets. Destroy them.,
-Subdirector NULL is working to rearm all of its mines.,
-Subdirector NULL Repair Turret,
+Subdirector NULL has entered high-speed mode. Try using a caltrops mine.,Субдиректор NULL перешёл в режим высокой скорости. Попробуйте использовать мину с шипами.
+Subdirector NULL has increased shielding to shrug off damage. Try using a land mine.,"Субдиректор NULL усилил защиту, чтобы игнорировать урон. Попробуйте использовать наземную мину."
+Subdirector NULL is beginning to electrolyze you. Defeat it before it kills you.,"Субдиректор NULL начинает электролизировать вас. Победите его, прежде чем он вас убьёт."
+Subdirector NULL is entering self-repair mode. Try using a poison gas mine.,Субдиректор NULL переходит в режим самовосстановления. Попробуйте использовать мину с ядовитым газом.
+Subdirector NULL is preparing to detonate all of its mines to trigger a cave-in. Get to safety!,"Субдиректор NULL готовится к детонации всех своих мин, чтобы вызвать обвал. Спасайтесь!"
+Subdirector NULL is summoning orbs of rampant energy. Avoid them.,Субдиректор NULL призывает сферы бушующей энергии. Уклоняйтесь от них.
+Subdirector NULL is summoning repair turrets. Destroy them.,Субдиректор NULL призывает ремонтные турели. Уничтожьте их.
+Subdirector NULL is working to rearm all of its mines.,Субдиректор NULL работает над повторной установкой всех своих мин.
+Subdirector NULL Repair Turret,Заместитель директора NULL Ремонтная турель
 Subdue and capture Bookworm Bwikki.,Усмирите и захватите Книжного Червя Бвикки.
 Subdue and capture Poobadoo.,Усмирите и захватите Пубаду.
 Subdue and capture Tricksy Trekksa.,Подавите и захватите Хитрую Трекксу.
@@ -308,7 +308,7 @@ Submit Sequences,Отправить последовательности
 Subterranean Observation Station,Подземная наблюдательная станция
 Subtract (NUM),Вычесть (ЧИСЛО)
 Subversion Rifle,Винтовка подрывника
-Succeed in the Skimmer-Net Scramble adventure.,
+Succeed in the Skimmer-Net Scramble adventure.,Выполните Приключение «Скиммер-Сеть: Схватка».
 Succesfully Upgraded Weekly Caps,Успешно улучшенные еженедельные лимиты
 Success! You have reduced the grawl threat to the valley.,Успех! Вы уменьшили угрозу граулов для долины.
 Successful Traps,Успешные ловушки
@@ -320,22 +320,22 @@ Successfully complete a Convergence with challenge mode active to log your compl
 Successfully complete a Convergence within Mount Balrior with challenge mode active and Decima chosen as the final boss to log your completion time.Scoring is based on completion time under or equal to target time.,"Успешно завершите Схождение на горе Балриор с активным режимом испытания и выбранной Децимой в качестве финального босса, чтобы записать время прохождения.Оценка основывается на времени прохождения, равном или меньшем целевого времени."
 Successfully complete a Convergence within Mount Balrior with challenge mode active and Greer chosen as the final boss to log your completion time.Scoring is based on completion time under or equal to target time.,"Успешно завершите Схождение на горе Балриор с активным режимом испытания и выбранным Гриром в качестве финального босса, чтобы записать время прохождения.Оценка основывается на времени прохождения, равном или меньшем целевого времени."
 Successfully complete a Convergence within Mount Balrior with challenge mode active and Ura chosen as the final boss to log your completion time.Scoring is based on completion time under or equal to target time.,"Успешно завершите Схождение на горе Балриор с активным режимом испытания и выбранной Урой в качестве финального босса, чтобы записать время прохождения.Оценка основывается на времени прохождения, равном или меньшем целевого времени."
-Successfully complete the Auric Basin map meta-event cycle.,
-Successfully complete the Hammerhart Rumble! world boss event.,
-Successfully complete the Of Mists and Monsters Meta-Event,
-Successfully complete the Of Mists and Monsters meta-event in Janthir Syntri.,
-Successfully complete the Tangled Depths map meta-event cycle.,
-Successfully complete the Verdant Brink map meta-event cycle.,
+Successfully complete the Auric Basin map meta-event cycle.,Успешно завершите цикл мета-события на карте Аурической котловины.
+Successfully complete the Hammerhart Rumble! world boss event.,Успешно завершите мирового босса «Битва Хаммерхарта»!
+Successfully complete the Of Mists and Monsters Meta-Event,Успешно завершите мета-событие «Из туманов и монстров».
+Successfully complete the Of Mists and Monsters meta-event in Janthir Syntri.,Успешно завершите мета-событие «Из туманов и чудовищ» в Джантире Синтри.
+Successfully complete the Tangled Depths map meta-event cycle.,Успешно завершите цикл мета-события карты Спутанных глубин.
+Successfully complete the Verdant Brink map meta-event cycle.,Успешно завершите цикл мета-события карты Изумрудного обрыва.
 Successfully completed the Ooze Pit trials while pledged to assist the Ash Legion.,"Успешно завершили испытания Озовой Ямы, будучи присягнувшими помогать Пепельному Легиону."
 Successfully completed the Ooze Pit trials while pledged to assist the Blood Legion.,"Успешно завершили испытания Озовой Ямы, будучи присягнувшими помогать Кровавому Легиону."
 Successfully completed the Ooze Pit trials while pledged to assist the Iron Legion.,"Успешно завершили испытания Озовой Ямы, будучи присягнувшими помогать Железному Легиону."
 Successfully completed the Ooze Pit while pledged to assist the Ash Legion.,"Успешно завершили Озовую Яму, будучи присягнувшими помогать Пепельному Легиону."
 Successfully completed the Ooze Pit while pledged to assist the Blood Legion.,"Успешно завершили Озовую Яму, будучи присягнувшими помогать Кровавому Легиону."
 Successfully completed the Ooze Pit while pledged to assist the Iron Legion.,"Успешно завершили Озовую Яму, будучи присягнувшими помогать Железному Легиону."
-Successfully drive the Mordrem from the Great Tree in Tangled Depths.,
+Successfully drive the Mordrem from the Great Tree in Tangled Depths.,Успешно избавьте Великое Древо в Спутанных глубинах от мордремов.
 Successfully escort  Ho-Ho-Tron's dolyak to the gate in Divinity's Reach.,
 Successfully hitting an enemy will cause an additional strike.,Успешное попадание по врагу вызовет дополнительный удар.
-Successfully make it through the stealth gauntlet in Tawny Ridge in Blazeridge Steppes.,
+Successfully make it through the stealth gauntlet in Tawny Ridge in Blazeridge Steppes.,Успешно пройдите полосу стелса в Тауни-Ридж в Равнинах Блейзера.
 Successfully Upgraded Material Conversion Rates,Успешно улучшенные скорости конвертации материалов
 Successfully Upgraded Yields of Nodes,Успешно улучшенные выходы ресурсов с узлов
 Successful—combat—requires—teamwork.,Успешный—бой—требует—командной—работы.
@@ -458,7 +458,7 @@ Summon a Mesmer henchman to aid you in combat. Equipped with Mesmer greatsword s
 Summon a Mesmer henchman to aid you in combat. Equipped with Mesmer staff skills.,Призвать наёмника-месмера для помощи в бою. Экипирован навыками месмера с посохом.
 Summon a Necromancer henchman to aid you in combat. Equipped with Necromancer dual dagger skills.,Призвать наёмника-некроманта для помощи в бою. Экипирован навыками некроманта с парными кинжалами.
 Summon a Necromancer henchman to aid you in combat. Equipped with Necromancer staff skills.,Призвать наёмника-некроманта для помощи в бою. Экипирован навыками некроманта с посохом.
-Summon a Power Suit which you or your allies can enter and use to combat foes.,
+Summon a Power Suit which you or your allies can enter and use to combat foes.,"Призовите боевой костюм, в который вы или ваши союзники сможете войти и использовать для борьбы с врагами."
 "Summon a Ranger henchman to aid you in combat, complete with a trusty Black Widow pet. Equipped with Ranger greatsword skills.","Призвать наёмника-рейнджера для помощи в бою, вместе с верным питомцем Чёрной Вдовой. Экипирован навыками рейнджера с большим мечом."
 "Summon a Ranger henchman to aid you in combat, complete with a trusty Black Widow pet. Equipped with Ranger longbow skills.","Призвать наёмника-рейнджера для помощи в бою, вместе с верным питомцем Чёрной Вдовой. Экипирован навыками рейнджера с длинным луком."
 Summon a rocket-powered golem to land on your downed foes and finish them off.   This works in WvW and PvP.This is a permanent account unlock.,"Призовите ракетного голема, чтобы он приземлился на поверженных врагов и добил их. Работает в WvW и PvP. Это постоянная разблокировка учётной записи."

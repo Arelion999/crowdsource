@@ -51,7 +51,7 @@ Awakened Garrison Keys,Пробуждённые ключи от гарнизон
 Awakened Grasp,Пробуждённая хватка
 Awakened Griffon Skin[s],[Облик|Облика|Обликов] грифона Пробуждённых
 Awakened Hoarder,Пробуждённый накопитель
-"Awakened Intel[pl:""Intel""]",
+"Awakened Intel[pl:""Intel""]",Пробуждённый Интеллект[ы][ов][ов]
 Awakened Invasions,Пробуждённые вторжения
 Awakened Jackal Skin[s],[Облик|Облика|Обликов] шакала Пробуждённых
 Awakened Memorial[s],[Мемориал|Мемориала|Мемориалов] Пробуждённых
@@ -166,7 +166,7 @@ Badge[s] of the Willbender,[Знак|Знака|Знаков] укротител
 Badge[s] of Tribute,Знак[|а|ов] дани
 Badjelly Kelpbed,Баджелли Ламинариевая грядка
 Badly Confused Ettin,Сильно сбитый с толку эттин
-"Baelfire's Armor Box[pl:""Boxes""]",
+"Baelfire's Armor Box[pl:""Boxes""]",Ящик с Доспехами Бэйлфайра
 "Baelfire's Token Loot Box[pl:""Boxes""]",
 "Baelfire's Weapons Box[pl:""Boxes""]",
 Bag of Shinies,Мешок блестяшек
@@ -279,7 +279,7 @@ Ballista Build Site,Место строительства баллисты
 Ballista Controller,Управление баллистой
 Ballista Mastery I: Skill—Spread Shot,Мастерство баллисты I: Навык — Разбросанный выстрел
 Ballista Mastery II: Increase ballista damage,Мастерство баллисты II: Увеличение урона баллисты
-Ballista Mastery III: Swift bolts,
+Ballista Mastery III: Swift bolts,Мастерство Баллисты III: Быстрые стрелы
 Ballista Mastery IV: Increased ballista range,Мастерство баллисты IV: Увеличенная дальность баллисты
 Ballista Mastery V: Increases Shatter Shot radius,Мастерство баллисты V: Увеличение радиуса Дробящего выстрела
 Ballista Repaired,Баллиста отремонтирована
@@ -291,8 +291,8 @@ Balloon to the Crown Pavilion,Воздушный шар до Королевск�
 Balloon to the Festival of the Four Winds,Воздушный шар до Фестиваля Четырёх Ветров
 Balthazar Back Item Reward Track,Трек наград для предмета спины Балтазара
 "Balthazar Backpack Box[pl:""Boxes""]",
-"Balthazar Statue <c=#a9a9a9>[lbracket]Uncontested[rbracket]</c><br>• Free of Zhaitan's influence, the statue lies dormant.",
-Balthazar Statue <c=#ff8c00>[lbracket]Contested[rbracket]</c><br>• Firestorms raze the area.,
+"Balthazar Statue <c=#a9a9a9>[lbracket]Uncontested[rbracket]</c><br>• Free of Zhaitan's influence, the statue lies dormant.","Статуя Балтазара <c=#a9a9a9>[lbracket]Не оспариваемая[rbracket]</c><br>• Освобожденная от влияния Зайтана, статуя покоится."
+Balthazar Statue <c=#ff8c00>[lbracket]Contested[rbracket]</c><br>• Firestorms raze the area.,Статуя Балтазара <c=#ff8c00>[lbracket]Оспариваемая[rbracket]</c><br>• Область охвачена огненными бурями.
 Balthazar Statue[s],Стату[я|и|й] Бальтазара
 Balthazar's Advance,Наступление Балтазара
 Balthazar's Axe Skin[s],Облик[|а|ов] топора Бальтазара
@@ -339,7 +339,7 @@ Bamboo Sapling,Саженец бамбука
 Bamboo Skin,Кожа бамбука
 Bamboo Wall[s] (240 x 240),[Бамбуковая стена|Бамбуковые стены|Бамбуковых стен] (240 x 240)
 Bamph QA,Бамф QA
-Bamph QA PBAoE,
+Bamph QA PBAoE,PBAoE Bamph QA
 Banana Cream Pie[s],[Банановый кремовый пирог|Банановые кремовые пироги|Банановых кремовых пирогов]
 Banana Dye[s],[Краска «Банан»|Краски «Банан»|Красок «Банан»]
 "Banana Loot Box[pl:""Boxes""]",
@@ -418,7 +418,7 @@ Bangar's rebuke.,Упрек Бангара.
 Banish Buff,Изгнание баффа
 Banish evil spirits from a dangerous swamp.,Изгнать злых духов из опасного болота.
 Bank Access,Доступ к банку
-"Bank Access Express[pl:""Expresses""]",
+"Bank Access Express[pl:""Expresses""]",Экспресс-доступ к банку[м]
 Bank Job Package,Набор банковских услуг
 Bank Tab %num1%,Вкладка банка %num1%
 Bank Tab Expansion[s],[Расширение|Расширения|Расширений] вкладки банка
@@ -474,7 +474,7 @@ Barracuda[s],[Барракуда|Барракуды|Барракуд]
 Barradin Family Crest (Infused),Фамильный герб Баррадинов (Усиленный)
 Barrage Attack,Шквальная атака
 Barrage target area with a hail of crippling arrows.,Обстреляйте целевую область градом калечащих стрел.
-"Barramundi[pl:""Barramundi""]",
+"Barramundi[pl:""Barramundi""]",Барамунди[барамунди|барамунди|барамундей]
 Barre Scorchmane,Барр Опалённая Грива
 Barrel of Documents,Бочка документов
 Barrel of Flamethrowers,Бочка огнемётов
@@ -482,7 +482,7 @@ Barrel of Mines,Бочка мин
 Barrel Roll,Бочка-переворот
 Barrel Toss,Бросок бочки
 Barrel[s] of Alliance Supplies,[Бочка|Бочки|Бочек] припасов Альянса
-Barren Outpost Emergency Waypoint,
+Barren Outpost Emergency Waypoint,"Бесплодный форпост, точка перехода"
 Barrens Freshwater Fish,Пресноводная рыба Пустошей
 Barricade Site,Место баррикады
 Barrier %num3%/%num4%Health %num1%/%num2%,Барьер %num3%/%num4%Здоровье %num1%/%num2%

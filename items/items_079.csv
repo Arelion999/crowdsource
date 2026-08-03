@@ -311,7 +311,7 @@ Problem Solver,Решатель проблем
 Processing-Line Control Bracer Skin,Облик напульсников «Технологическая линия»
 Processional Flame,Процессионное пламя
 Proclamation of Palawa Joko's Defeat,
-"Proclamations on the Risen Threat, 1730 CC",
+"Proclamations on the Risen Threat, 1730 CC","Провозглашения об угрозе восставших, 1730 г. до К.Э."
 Profane Armor Chest,Сундук доспехов «Нечестивый»
 Profane Gloves,Нечестивые перчатки
 Profane Greatcoat,Длиннополое пальто нечестивца
@@ -422,11 +422,17 @@ Purchase from Marcello DiGiacomo in Lion's Arch.,Купить у Марчелл�
 "Purchase Limit: 10
 Price increases when purchase limit is reached.
 This item grants an Anguished Tear of Alba, which can be consumed to grant 10 agony resistance for 1 hour.
-With Fractal Attunement Mastery, grants an additional 5 agony resistance.",
+With Fractal Attunement Mastery, grants an additional 5 agony resistance.","Лимит покупок: 5
+Цена увеличивается при достижении лимита покупок.
+Этот предмет даёт Печальную Слезу Альбы, которую можно использовать, чтобы получить 10 сопротивления агонии на 1 час.
+С Мастерством Фрактального Напряжения добавляется дополнительные 5 сопротивления агонии."
 "Purchase Limit: 15
 Price increases when purchase limit is reached.
 This item grants an Anguished Tear of Alba, which can be consumed to grant 10 agony resistance for 1 hour.
-With Fractal Attunement Mastery, grants an additional 5 agony resistance.",
+With Fractal Attunement Mastery, grants an additional 5 agony resistance.","Лимит покупки: 15
+Цена увеличивается по достижении лимита покупки.
+Этот предмет даёт Ангошированную Слезу Альбы, которую можно использовать, чтобы получить 10 сопротивления мучениям на 1 час.
+С Мастерством Фрактальной Адаптации даёт дополнительно 5 сопротивления мучениям."
 "Purchase Limit: 30 Deeply Discounted Fractal Encryption Keys per day.
 This item will grant a Fractal Encryption Key. Each key will unlock one Fractal Encryption containing bonus items from the fractals!
 Fractal Encryptions can be found in the final reward chest of any fractal inside the Fractals of the Mists.","Лимит покупки: 30 ключей шифрования фракталов со скидкой в день.
@@ -461,11 +467,11 @@ This item only has value as part of a collection.","Куплено у интен
 Purchased from the guild decoration trader.,Куплено у торговца гильдейскими украшениями.
 Purchased from Thegren Topjaw at the Tela Range in Plains of Ashford after helping to rid the training area of pests.,Куплено у Тегрена Топджо в хребте Тела на Равнинах Эшфорда после помощи в избавлении тренировочной зоны от вредителей.
 Purchased from vendors for Volatile Magic.,Куплено у торговцев за Нестабильную магию.
-Purchased with Fractal Relics from BUY-4373 in Mistlock Observatory.,
-Purchased with Fractal Relics from BUY-4373 in Mistlock Observatory. This item only has value as part of a collection.,
-Purchased with Pristine Fractal Relics from BUY-2046 PFR in Mistlock Observatory.,
+Purchased with Fractal Relics from BUY-4373 in Mistlock Observatory.,Приобретается за реликвии Фракталов у BUY-4373 в обсерватории Мистлок.
+Purchased with Fractal Relics from BUY-4373 in Mistlock Observatory. This item only has value as part of a collection.,Приобретается за осколки Фракталов у BUY-4373 в обсерватории Mistlock. Этот предмет имеет ценность только как часть коллекции.
+Purchased with Pristine Fractal Relics from BUY-2046 PFR in Mistlock Observatory.,Приобретено за чистые реликвии Фракталов у BUY-2046 PFR в обсерватории Мистлок.
 "Purchased with Pristine Fractal Relics from BUY-2046 PFR in Mistlock Observatory.
-This item only has value as part of a collection.",
+This item only has value as part of a collection.",Приобретается за Чистейшие фрактальные реликвии у BUY-2046 PFR в Мглистой обсерватории.
 "Purchasing the recipes in this tab instead of earning them by completing the respective Home Sweet Homestead achievements incurs a significant convenience fee. You cannot obtain a refund if you complete the achievements later on.
 
 <c=@flavor>""The best things in life are free, unless you want them now. In that case, pay for them, you will.""</c>","Покупка рецептов на этой вкладке вместо их получения за выполнение соответствующих достижений «Дом, милый дом» влечёт за собой значительную комиссию за удобство. Вы не сможете получить возмещение, если позже выполните достижения.

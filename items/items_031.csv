@@ -39,11 +39,11 @@ Common Charr Salvage,Обычная утилизация чаров
 Common Ingredients Pouch,Мешочек с обычными ингредиентами
 Communal Boost Bonfire,Костёр общего усиления
 Community Chest,Сундук сообщества
-Community Goal Reward Tier 1,
-Community Goal Reward Tier 2,
-Community Goal Reward Tier 3,
-Community Goal Reward Tier 4,
-Community Goal Reward Tier 5,
+Community Goal Reward Tier 1,"Награда за Общественный Целевой Задание, Уровень 1"
+Community Goal Reward Tier 2,"Награда за Цель Сообщества, Уровень 2"
+Community Goal Reward Tier 3,Уровень 3 Награды за общее достижение
+Community Goal Reward Tier 4,"Награда за общее достижение, 4-й уровень"
+Community Goal Reward Tier 5,Уровень 5 Награды за общее достижение
 Community Goal Reward: Tier 1,Награда за цель сообщества: уровень 1
 Community Goal Reward: Tier 2,Награда за цель сообщества: уровень 2
 Community Goal Reward: Tier 3,Награда за цель сообщества: уровень 3
@@ -217,7 +217,7 @@ Conjurer Pants of Rage,Штаны заклинателя ярости
 Conjurer Shoes of Lyssa,Башмаки заклинателя Лиссы
 Conjurer Shoes of the Grove,Ботинки заклинателя из Рощи
 Conjurer Shoes of the Lich,Сапоги заклинателя лича
-Connie's Lost Wedding Ring,
+Connie's Lost Wedding Ring,Потерянное обручальное кольцо Конни
 Conqueror's Mantle,Мантия завоевателя
 Conquest Boots Skin,Шкурка сапог завоевания
 Conquest Breastplate,Кираса завоевания
@@ -244,7 +244,8 @@ Consortium NDA,Соглашение о неразглашении Консорц
 Consumable Token,Расходуемый жетон
 Consume to deposit into wallet.,"Поглотить, чтобы положить в кошелек."
 "Consume to emit a pulse of magic that resets one each of Mist Band, Mist Pendant, and Mist Talisman if in your inventory.
-<c=@Warning>This will destroy any infusions socketed in those items.</c>",
+<c=@Warning>This will destroy any infusions socketed in those items.</c>","Используйте, чтобы испустить импульс магии, который сбросит характеристики одного из Предмета тумана, Кулона тумана и Талисмана тумана, если они есть в вашем инвентаре.
+<c=@Warning>Это уничтожит любые вложенные в эти предметы самоцветы.</c>"
 "Consume to emit a pulse of magic that resets one of each type of Blood Ruby gear in your inventory.
 <c=@Warning>This will destroy any infusions socketed in those items.</c>","Поглотить, чтобы испустить магический импульс, который сбрасывает по одному предмету каждого типа из экипировки Кровавого рубина в вашем инвентаре.
 <c=@Warning>Это уничтожит любые вставленные в эти предметы инфузии.</c>"
@@ -253,7 +254,7 @@ Consume to gain broadened vision.,"Поглотить, чтобы получит
 "Consume to gain the ""Scan"" special action skill, which allows you to uncover one of Zinn's stashes.","Поглотить, чтобы получить особое действие навыка ""Сканирование"", которое позволяет обнаружить один из тайников Зинна."
 Consume to receive Unbound Magic.,"Поглотить, чтобы получить несвязанную магию."
 Consume to regain anomalous visions.,"Поглотить, чтобы восстановить аномальные видения."
-Consume to turn your finishing move into a special Bear Finisher for 60 minutes.,
+Consume to turn your finishing move into a special Bear Finisher for 60 minutes.,"Используйте, чтобы на 60 минут превратить ваше завершающее умение в особый «Медвежий» финишёр."
 Consume to turn your finishing move into a special Deer Finisher for 60 minutes.,"Поглотить, чтобы превратить ваш финишный прием в особый финишер Медведя на 60 минут."
 Consume to turn your finishing move into a special Dolyak Finisher for 60 minutes.,"Поглотить, чтобы превратить ваш финишный прием в особый финишер Дольяка на 60 минут."
 Consume to turn your finishing move into a special Rabbit Finisher for 60 minutes.,"Съешьте, чтобы на 60 минут превратить свой добивающий приём в особый Драконий финишёр."
@@ -314,17 +315,25 @@ Consuming this tome will give you access to emotes!,При потреблени�
 "Consuming this will unlock one random armor skin in your wardrobe that you do not already have.
 
 <c=@Task>All unobtained skins have an equal chance of dropping.</c>
-<c=@flavor>""Skritt will collect just about everything at least once."" —Priory Notes on Primitive Races, page 422</c>",
+<c=@flavor>""Skritt will collect just about everything at least once."" —Priory Notes on Primitive Races, page 422</c>","Применение этого предмета откроет случайный облик брони в вашем гардеробе, которого у вас ещё нет.
+
+<c=@Task>Вероятность выпадения каждого неполученного облика одинакова.</c>
+<c=@flavor>«Скритты собирают практически всё хотя бы раз». — Заметки Приората о примитивных расах, страница 422</c>"
 Consuming this will unlock one random blue or green dye that you do not already have. Exclusive colors obtained through Gem Store dye kits are not included.,"При потреблении открывается один случайный синий или зелёный краситель, которого у вас ещё нет. Эксклюзивные цвета из наборов красителей из магазина самоцветов не включены."
 "Consuming this will unlock one random dye color in your wardrobe that you do not already have.
 
-<c=@Task>All unobtained dyes have an equal chance of dropping.</c>",
+<c=@Task>All unobtained dyes have an equal chance of dropping.</c>","Употребление этого предмета разблокирует один случайный цвет краски в вашем гардеробе, которого ещё нет.
+
+<c=@Task>Все не полученные краски имеют равные шансы выпадения.</c>"
 "Consuming this will unlock one random weapon skin in your wardrobe that you do not already have.
 
 <c=@Task>All unobtained skins have an equal chance of dropping.</c>
-<c=@flavor>""Skritt will collect just about everything at least once."" —Priory Notes on Primitive Races, page 422</c>",
+<c=@flavor>""Skritt will collect just about everything at least once."" —Priory Notes on Primitive Races, page 422</c>","Использование этого предмета откроет случайный облик Оружия в вашем гардеробе, которого у вас ещё нет.
+
+<c=@Task>Все необретенные облики имеют равные шансы выпадения.</c>
+<c=@flavor>«Скритты собирают практически всё хотя бы раз». — Записи Приората о примитивных расах, страница 422</c>"
 Contains 1 Communal Boost Bonfire and 2 Heroic Boosters.,Содержит 1 общий усиливающий костёр и 2 героических ускорителя.
-"Contains 1 Essence of Luck, 1 gold, and 20 Astral Acclaim. Includes PvP and WvW Reward Track bonuses for up to four completed daily competitive tasks.",
+"Contains 1 Essence of Luck, 1 gold, and 20 Astral Acclaim. Includes PvP and WvW Reward Track bonuses for up to four completed daily competitive tasks.","Содержит 1 Эссенцию удачи, 1 золото и 20 Астрального признания. Включает бонусы пути наград PvP и WvW за выполнение до четырёх ежедневных соревновательных заданий."
 Contains 1 Favor of the Festival and 1600 Festival Tokens. Use this wealth to purchase fabulous rewards in the Labyrinthine Cliffs or the Crown Pavilion.,Содержит 1 Благосклонность фестиваля и 1600 фестивальных жетонов. Используйте это богатство для покупки великолепных наград в Лабиринтовых утёсах или Королевском павильоне.
 "Contains 1 Gold Fractal Weapon Crate, 1 Transmutation Charge, and 10 Pristine Fractal Relics.","Содержит 1 золотой сундук с фрактальным оружием, 1 заряд трансмутации и 10 нетронутых фрактальных реликвий."
 Contains 1 lump of aurillium.,Содержит 1 кусок ауриллиума.
@@ -345,7 +354,13 @@ Each mini can be activated from your inventory to follow you around the world.",
 • Mini Aetherblade Admiral
 
 Each mini can be activated from your inventory to follow you around the world.
-Combine these three minis in the Mystic Forge with the Mini Mai Trin from the Black Lion Chest to create a Mini Scarlet Briar.",
+Combine these three minis in the Mystic Forge with the Mini Mai Trin from the Black Lion Chest to create a Mini Scarlet Briar.","Содержит 1 экземпляр каждого из этих мини-персонажей:
+• Мини-Токсичный Волхв
+• Мини-Расплавленный Берсерк
+• Мини-Аэтерблейд Адмирал
+
+Каждый мини можно активировать в инвентаре, чтобы он следовал за вами по миру.
+Объедините эти три мини в Мистической Кузне с Мини-Май Трин из Сундука Чёрного Лева, чтобы создать Мини-Скарлет Брайар."
 "Contains 1 Sip of Liquid Karma, 1 Blue Prophet Crystal, and 1 Scrap of Icebrood Saga Mastery (Autoconsume).",
 "Contains 1 Sip of Liquid Karma, 1 Green Prophet Crystal, and 1 Scrap of Icebrood Saga Mastery (Autoconsume).",
 "Contains 1 Sip of Liquid Karma, 1 Piece of Rare Unidentified Gear, and 1 Scrap of Icebrood Saga Mastery (Autoconsume).",
@@ -356,7 +371,7 @@ Contains 10 Bandit Crests.,Содержит 10 Знаков бандита.
 Contains 10 Geodes.,Содержит 10 Жеодов.
 Contains 10 gold.,Содержит 10 золота.
 "Contains 10 icy runestones, obsidian shards, essence of luck, and rare and exotic gear.","Содержит 10 ледяных рунических камней, обсидиановых осколков, сущности удачи, а также редкое и экзотическое снаряжение."
-"Contains 10 Laurels, 1 Celebration Booster, 1 Tome of Knowledge, and 450 Astral Acclaim.",
+"Contains 10 Laurels, 1 Celebration Booster, 1 Tome of Knowledge, and 450 Astral Acclaim.","Внутри 10 лавровых венков, 1 праздничный усилитель, 1 том знаний и 450 звёздной славы."
 Contains 10 ley-line crystals.,Содержит 10 кристаллов линии лей-линий.
 Contains 10 lumps of Aurillium.,Содержит 10 глыб Ауриллиума.
 Contains 10 Obsidian Shards,Содержит 10 Обсидиановых осколков.
@@ -388,7 +403,7 @@ Contains 25 Geodes.,Содержит 25 жеодов.
 Contains 25 ley-line crystals.,Содержит 25 кристаллов линии лей.
 Contains 25 lumps of aurillium.,Содержит 25 кусков ауриллиума.
 Contains 250 Tournament Claim Tickets.,Содержит 250 турнирных заявочных билетов.
-Contains 275 Tournament Claim Tickets.,
+Contains 275 Tournament Claim Tickets.,Содержит 275 билетов турнирного участия.
 Contains 3 airship parts.,Содержит 3 части дирижабля.
 Contains 3 Bandit Crests.,Содержит 3 знака бандита.
 Contains 3 Fractal Relics. Right-click to consume them all.,"Содержит 3 Реликта Осколков. Щелкните правой кнопкой мыши, чтобы использовать их все."
@@ -397,7 +412,7 @@ Contains 3 Obsidian Shards,Содержит 3 Обсидиановых Оско�
 "Contains 3 Pristine Fractal Relics, a Fractal Weapon Crate, and an Ascended Salvage Tool.","Содержит 3 Нетронутых Реликта Осколков, Ящик с Осколочным Оружием и Инструмент для Утилизации Вознесенного."
 Contains 3 Pristine Fractal Relics.,Содержит 3 Нетронутых Реликта Осколков.
 Contains 3 spirit shards.,Содержит 3 осколка духа.
-Contains 30 proofs of glory and 30 tournament vouchers.,
+Contains 30 proofs of glory and 30 tournament vouchers.,Содержит 30 доказательств славы и 30 турнирных ваучеров.
 Contains 35 Bandit Crests.,
 Contains 350 Tournament Claim Tickets.,Содержит 350 Билетов на Турнир.
 Contains 4 gold.,Содержит 4 золота.
@@ -418,8 +433,8 @@ Contains 5 Pristine Fractal Relics and 1 Golden Fractal Relic.,Содержит 
 Contains 5 Pristine Fractal Relics.,Содержит 5 Нетронутых Реликвий Фракталов.
 Contains 5 skirmish tickets.,Содержит 5 билетов на рейд.
 Contains 5 spirit shards.,Содержит 5 осколков духа.
-Contains 50 Ascended Shards of Glory and 5 PvP League tickets.,
-"Contains 50 Ascended Shards of Glory, 5 PvP League tickets, and 5 tournament vouchers.",
+Contains 50 Ascended Shards of Glory and 5 PvP League tickets.,Содержит 50 осколков славы Возвышенных и 5 билетов Лиги PvP.
+"Contains 50 Ascended Shards of Glory, 5 PvP League tickets, and 5 tournament vouchers.","Содержит 50 Возвышенных осколков славы, 5 билетов Лиги PvP и 5 турнирных ваучеров."
 Contains 50 Ascended Shards of Glory.,Содержит 50 Вознесенных Осколков Славы.
 Contains 50 badges of honor.,Содержит 50 значков чести.
 Contains 50 Bandit Crests.,Содержит 50 Гербов Бандитов.
@@ -485,7 +500,9 @@ Outfits are full sets of clothing that hide other armor. This will not change in
 Наряды — это полные комплекты одежды, скрывающие другую броню. Это не изменит отдельные части брони, и вы сохраните текущие характеристики брони."
 "Contains a Maguuma burl and a chest from which to pick your choice of items.
 
-<c=@flavor>Maybe you should help out at that octovine instead of standing around.</c>",
+<c=@flavor>Maybe you should help out at that octovine instead of standing around.</c>","Содержит бур Магуумы и сундук, из которого вы можете выбрать понравившиеся предметы.
+
+<c=@flavor>Может, вам лучше помочь у осьминогов, чем просто стоять в стороне.</c>"
 Contains a Memories of Scarlet Box or Arid Dusty Satchel.,Содержит коробку воспоминаний Скарлетт или сухую пыльную сумку.
 "Contains a Mystery Cooking Ingredient Box full of cooking supplies, including some for ascended cooking, and a random, sellable Guild Wars 2 commemorative item.",
 Contains a number of elemental materials and other salvaged items.,Содержит ряд элементальных материалов и других восстановленных предметов.
@@ -511,7 +528,7 @@ Contains a rare or exotic piece of level 78-80 gear for rangers. Double-click to
 Contains a rare or exotic piece of level 78-80 gear for thieves. Double-click to open.,"Содержит редкий или экзотический предмет экипировки 78-80 уровня для воров. Дважды щелкните, чтобы открыть."
 Contains a rare or exotic piece of level 78-80 gear for warriors. Double-click to open.,"Содержит редкий или экзотический предмет экипировки 78-80 уровня для воинов. Дважды щелкните, чтобы открыть."
 Contains a rare or exotic piece of level 78–80 gear for revenants. Double-click to open.,"Содержит редкий или экзотический предмет экипировки 78–80 уровня для ревенантов. Дважды щелкните, чтобы открыть."
-Contains a selection of crafting materials—hand selected for quality by highly trained Black Lion Buyers or gathered by licensed Black Lion Hunters from all across the world.,
+Contains a selection of crafting materials—hand selected for quality by highly trained Black Lion Buyers or gathered by licensed Black Lion Hunters from all across the world.,Содержит подборку ремесленных материалов — отобранных вручную опытными закупщиками Чёрного Льва или добытых лицензированными охотниками Чёрного Льва по всему миру.
 "Contains a selection of Fine Black Lion Dye Canisters: 2 blue, 2 green, and 2 red.","Содержит набор банок с краской «Черный лев» высокого качества: 2 синих, 2 зеленых и 2 красных."
 Contains a selection of Living World items that are highly valued by merchants across Tyria.,"Содержит набор предметов Живого мира, которые высоко ценятся торговцами по всей Тирии."
 Contains a selection of rewards including ascended items and valuable consumables.,"Содержит набор наград, включая вознесённые предметы и ценные расходуемые предметы."
@@ -569,7 +586,9 @@ Outfits are full sets of clothing that hide other armor. This will not change in
 • Связанные крылья"
 "Contains an Amalgamated Rift Essence and a Mystic Clover.
 
-<c=@Flavor>""Some wayfinders have made purified rift essence in error. A little wizard magic can undo that!""</c>",
+<c=@Flavor>""Some wayfinders have made purified rift essence in error. A little wizard magic can undo that!""</c>","Содержит амальгамированную сущность Разлома и мистический клевер.
+
+<c=@Flavor>«Некоторые путеводители ошибочно создали очищенную сущность Разлома. Немного волшебства волшебника может это исправить!»</c>"
 "Contains an auric weapon, dragonite ore, empyreal fragments, obsidian shards, and mystic clovers.","Содержит аурическое оружие, друзу драконита, эмпирейные фрагменты, обсидиановые осколки и мистические клеверы."
 Contains an Auric weapon.,Содержит аурическое оружие.
 Contains an Eldritch Horror Harvesting Tool and a Black Lion Glyph Selection Container.,Содержит инструмент сбора «Ужасное чудовище» и контейнер выбора глифа Черного льва.
@@ -614,9 +633,11 @@ Double-click to open.","Содержит эссенцию удачи и знак
 Дважды щёлкните, чтобы открыть."
 "Contains every Oracle Card collected.
 
-Double-click to read a card.",
+Double-click to read a card.","Содержит все собранные Карты Оракула.
+
+Дважды щёлкните, чтобы прочитать карту."
 Contains everything an adventurer needs to learn about agony and how to resist it.,"Содержит всё, что нужно искателю приключений, чтобы узнать об агонии и способах ей противостоять."
-Contains fifth-tier crafting materials. Double-click to open.,
+Contains fifth-tier crafting materials. Double-click to open.,"Содержит материалы для крафта пятого уровня. Дважды щёлкните, чтобы открыть."
 Contains fine and masterwork gear.,Содержит обычное и добротное снаряжение.
 Contains first- through sixth-tier bones. Double-click to open.,"Содержит кости с первого по шестой ранг. Дважды щёлкните, чтобы открыть."
 Contains first- through sixth-tier claws. Double-click to open.,"Содержит когти первого-шестого рангов. Дважды щелкните, чтобы открыть."
@@ -650,7 +671,9 @@ Double-click to open.","Содержит добычу, полезную для �
 Дважды щелкните, чтобы открыть."
 "Contains loot useful in exploring Verdant Brink.
 
-Double-click to open.",
+Double-click to open.","Содержит добычу, полезную для исследования Изумрудного обрыва.
+
+Дважды щёлкните, чтобы открыть."
 "Contains Lumps of Raw Ambrite, a Zephyrite Lockpick, and other loot.","Содержит куски сырой амбриты, отмычку зефиритов и прочую добычу."
 "Contains machetes and other items useful in exploring Dragon's Stand. 
 

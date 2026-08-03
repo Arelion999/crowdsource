@@ -260,19 +260,19 @@ Loaded Wagon[s],[Гружёная повозка|Гружёной повозки
 Loading Homestead Layout,Загрузка макета усадьбы
 Loading layout...,Загрузка макета...
 Loading purchase info. Please wait.,"Загрузка информации о покупке. Пожалуйста, подождите."
-Loading Valley Hill Map Clone!,
-"Loaf[pl:""Loaves""] of Banana Bread",
-"Loaf[pl:""Loaves""] of Bread",
+Loading Valley Hill Map Clone!,Загрузка клона карты Долины Холма!
+"Loaf[pl:""Loaves""] of Banana Bread",Хлеб[а|б|бов] бананового хлеба
+"Loaf[pl:""Loaves""] of Bread",Хлеб[а|б|бов]
 "Loaf[pl:""Loaves""] of Candy Cactus Cornbread",
-"Loaf[pl:""Loaves""] of Kodan Bread",
-"Loaf[pl:""Loaves""] of Omnomberry Bread",
-"Loaf[pl:""Loaves""] of Raspberry Peach Bread",
-"Loaf[pl:""Loaves""] of Rosemary Bread",
-"Loaf[pl:""Loaves""] of Saffron Bread",
+"Loaf[pl:""Loaves""] of Kodan Bread",Хлеб кодан[а|ов|ам]
+"Loaf[pl:""Loaves""] of Omnomberry Bread",Хлеб[а] из Омномберри[б]
+"Loaf[pl:""Loaves""] of Raspberry Peach Bread",Буханк[и|ки|ок] малиново-персикового хлеба
+"Loaf[pl:""Loaves""] of Rosemary Bread",Хлеб с Розмарином[хлеб]
+"Loaf[pl:""Loaves""] of Saffron Bread",Хлеб[а] из Шафрана[б]
 "Loaf[pl:""Loaves""] of Tarragon Bread",
-"Loaf[pl:""Loaves""] of Travelers Bread",
-"Loaf[pl:""Loaves""] of Walnut Sticky Bread",
-"Loaf[pl:""Loaves""] of Zucchini Bread",
+"Loaf[pl:""Loaves""] of Travelers Bread",Хлеб путешественника[а|б|ов]
+"Loaf[pl:""Loaves""] of Walnut Sticky Bread",Хлеб[ы|а|ев] из грецких орехов и клёвого сиропа
+"Loaf[pl:""Loaves""] of Zucchini Bread",Хлеб[а|б|бов] с цуккини
 Lob a bouncing ball of force at the target area. Knocks back and damages foes on impact.,Запустить подпрыгивающий шар силы в целевую область. Отбрасывает и наносит урон врагам при попадании.
 Lob a bouncing ball of force at the target area. Knocks back and damages foes on impact. Grants aegis to allies on impact.,Запустить подпрыгивающий шар силы в целевую область. Отбрасывает и наносит урон врагам при попадании. Дарует эгиду союзникам при попадании.
 Lob a glob of solvent at the target location to slow targets that pass through it.,"Запустить каплю растворителя в целевую точку, чтобы замедлить цели, проходящие через нее."
@@ -372,9 +372,9 @@ Locked %str1% Major Trait Slot,Заблокировано %str1% основно�
 Locked by Magic,Заблокировано магией
 Locked Door,Запертая дверь
 Locked Skill,Заблокированный навык
-Locked until acquiring rank 3 of the Jade Bots Mastery track from the End of Dragons expansion.,
-Locked until acquiring the Fishing Mastery track from the End of Dragons expansion.,
-Locked until acquiring the Skiff Piloting Mastery track from the End of Dragons expansion.,
+Locked until acquiring rank 3 of the Jade Bots Mastery track from the End of Dragons expansion.,Заблокировано до достижения 3-го ранга Мастерства «Нефритовые Боты» из дополнения «Закат Драконов».
+Locked until acquiring the Fishing Mastery track from the End of Dragons expansion.,Заблокировано до получения ветки Мастерства Пилотирования Скиффа из дополнения Закат Драконов.
+Locked until acquiring the Skiff Piloting Mastery track from the End of Dragons expansion.,Заблокировано до получения ветки Мастерства Пилотирования Скиффа из дополнения Закат Драконов.
 Locked until all previous steps are complete.,Заблокировано до завершения всех предыдущих шагов.
 Locked until the previous step is complete.,Заблокировано до завершения предыдущего шага.
 Locked until you've progressed the collection.,Заблокировано до продвижения по коллекции.
@@ -388,7 +388,7 @@ Locust Breath,Дыхание саранчи
 Locust Shield,Щит саранчи
 Locust Storm,Шторм саранчи
 Locust Trail,След саранчи
-LOD Distance:,
+LOD Distance:,Дальность отрисовки:
 Loew's Point,Точка Лоу
 Log 18204: Losing transmission_something went wrong_I'm_stranded__. I'm stuck in_Fractal. Floating. The whole island is_floating. Call themselves_Forgotten. Trees. I see_someone__? Can you hear_me?,Запись 18204: Потеря связи_что-то пошло не так_я застрял__. Я застрял в_Фрактале. Парю. Весь остров_парит. Называют себя_Забытые. Деревья. Я вижу_кого-то__? Ты меня_слышишь?
 Log boxes found: %num1%/%num2%,Найдено ящиков: %num1%/%num2%

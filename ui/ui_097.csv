@@ -19,7 +19,7 @@ Minis 3-Pack[s] (Set 1),[Набор из 3 мини (Набор 1)|Набора 
 Minis 3-Pack[s] (Set 2),[Набор из 3 мини (Набор 2)|Набора из 3 мини (Набор 2)|Наборов из 3 мини (Набор 2)]
 Minis 3-Pack[s] (Set 3),[Набор из 3 мини (Набор 3)|Набора из 3 мини (Набор 3)|Наборов из 3 мини (Набор 3)]
 Minis are tiny models of your favorite monsters and characters from the world of Tyria. Each mini can be activated from your inventory to follow you around the world.,"Миниатюры — это крошечные модели ваших любимых монстров и персонажей из мира Тирии. Каждую миниатюру можно активировать из инвентаря, чтобы она следовала за вами по миру."
-Minis LOD Distance:,
+Minis LOD Distance:,Расстояние отображения миниатюр:
 Minister Arton,Министр Артон
 "Minister Caudecus is not at home as repairs are being made to his manor. However, something is afoot.","Министр Кодекус отсутствует, так как в его особняке ведутся ремонтные работы. Однако что-то затевается."
 "Minister Caudecus,There's been a development of sorts. Those filthy Jackdaws claimed to have Demmi, but when we went to ""liberate"" the girl, someone had already absconded with her.","Министр Кодекас, тут некоторое развитие событий. Эти грязные Галки утверждали, что у них Демми, но когда мы пошли ""освобождать"" девушку, кто-то уже похитил её."
@@ -199,14 +199,14 @@ Minotaur Spirit Form,Форма духа Минотавра
 Minotaur Steak[s],[Стейк|Стейка|Стейков] минотавра
 Minotaur[s],[Минотавр|Минотавра|Минотавров]
 "Minotaurs have been behaving even more aggressively than usual, attacking norn caravans. Someone needs to find out what's going on and put a stop to it.","Минотавры ведут себя еще более агрессивно, чем обычно, нападая на караваны норнов. Кому-то нужно выяснить, что происходит, и положить этому конец."
-MinSec File 1,
-MinSec File 2,
-MinSec File 3,
-MinSec File 4,
-MinSec File 5,
-MinSec File 6,
-MinSec File 7,
-MinSec File 8,
+MinSec File 1,MinSec File 1
+MinSec File 2,Файл MinSec 2
+MinSec File 3,Файл MinSec 3
+MinSec File 4,MinSec File 4
+MinSec File 5,Файл MinSec 5
+MinSec File 6,MinSec File 6
+MinSec File 7,Файл MinSec 7
+MinSec File 8,Файл MinSec 8
 "Minster Caudecus, Lord Beetlestone, is hosting a party for celebrate the charr/human detente. Her majesty, Queen Jennah, will be attending.","Министр Кодек, лорд Битлстоун, устраивает прием в честь разрядки в отношениях между чаррами и людьми. Ее Величество королева Дженна будет присутствовать."
 "Minster Caudecus, Lord Beetlestone, is hosting a party to celebrate the charr/human detente. Her majesty, Queen Jennah, will be attending.","Министр Кодек, лорд Битлстоун, устраивает прием в честь разрядки в отношениях между чаррами и людьми. Ее Величество королева Дженна будет присутствовать."
 Minstrel's Amulet,Амулет менестреля
@@ -225,7 +225,7 @@ Mint Ice Dye[s],[Краска|Краски|Красок] «Мятный лёд»
 Mint Strawberry Cheesecake[s],[Мятно-клубничный чизкейк|Мятно-клубничного чизкейка|Мятно-клубничных чизкейков]
 Mint-Pear Cured Meat Flatbread[s],[Мятно-грушевая вяленая мясная лепёшка|Мятно-грушевой вяленой мясной лепёшки|Мятно-грушевых вяленых мясных лепёшек]
 Mintay Dye[s],[Краска «Минтай»|Краски «Минтай»|Красок «Минтай»]
-MinTel: Classified Dossier (Mai Trin),
+MinTel: Classified Dossier (Mai Trin),MinTel: Секретный досье (Май Трин)
 Minty Breath,Мятное дыхание
 minute[s],[минута|минуты|минут]
 Minutes survived,Минут выживания
@@ -234,7 +234,7 @@ Mire Sea Talisman[s],[Талисман Морской топи|Талисман�
 Mirror of Lyssa,Зеркало Лиссы
 Mirror[s],[Зеркало|Зеркала|Зеркал]
 Mirror[s] of Disenchantment,[Зеркало разочарования|Зеркала разочарования|Зеркал разочарования]
-MIS Application Acceptance Form 10-B,
+MIS Application Acceptance Form 10-B,Форма заявления № 10-Б
 Misaligned Telescope,Разрегулированный телескоп
 Miscellaneous cosmetics on sale this week!,Разная косметика в продаже на этой неделе!
 Miscellaneous Goods,Разные товары
@@ -300,7 +300,7 @@ Mist Field,Поле тумана
 Mist Frame[s]—Tier 4,[Основа|Основы|Основ] тумана — Уровень 4
 Mist Geyser,Гейзер тумана
 Mist Herald Back Item Skin[s],[Облик|Облика|Обликов] на спину «Глашатай тумана»
-"Mist Lord's Weapon Box[pl:""Boxes""]",
+"Mist Lord's Weapon Box[pl:""Boxes""]",Ящик с оружием Повелителя Тумана
 Mist Mobility Potion[s],[Зелье|Зелья|Зелий] мобильности тумана
 Mist Offensive Potion[s],[Зелье|Зелья|Зелий] атаки тумана
 Mist Pearl[s],[Жемчужина|Жемчужины|Жемчужин] тумана
@@ -309,8 +309,8 @@ Mist Potion Brewer,Зельевар туманов
 Mist Sentry Turret[s],[Турель|Турели|Турелей] часового тумана
 "Mist Shard Boot Box[pl:""Boxes""]",
 Mist Shard Boots Recipe Book[s],[Книга|Книги|Книг] рецептов «Сапоги из осколка тумана»
-"Mist Shard Coat Box[pl:""Boxes""]",
-"Mist Shard Glove Box[pl:""Boxes""]",
+"Mist Shard Coat Box[pl:""Boxes""]",Коробка Пальто из Осколков Тумана[ые|а|ых]
+"Mist Shard Glove Box[pl:""Boxes""]",Коробка Перчаток из Осколков Тумана[ые|а|ых]
 Mist Shard Gloves Recipe Book[s],[Книга|Книги|Книг] рецептов «Перчатки из осколка тумана»
 "Mist Shard Helm Box[pl:""Boxes""]",
 Mist Shard Helms Recipe Book[s],[Книга|Книги|Книг] рецептов «Шлем из осколка тумана»
@@ -339,7 +339,7 @@ Mist Warden Disruptors Active!,Глушители Стражей Тумана а
 Mist Warden Rewards,Награды Стражей Тумана
 Mist Warden Waypoint in Position!,Точка маршрута Стража Тумана на позиции!
 "Mist-Enhanced Mithril[pl:""Mithril""]",
-"Mist-Enhanced Orichalcum[pl:""Orichalcum""]",
+"Mist-Enhanced Orichalcum[pl:""Orichalcum""]",Обогащённый мистом орихалк[ум|а|ов]
 Mist-Hardened Lockbox Key[s],[Ключ|Ключа|Ключей] от закалённого туманом ларца
 "Mist-Hardened Lockbox[pl:""Lockboxes""]",
 Mist-Hardened Transcendent Chest[s],"[Сундук|Сундука|Сундуков] трансцендентности, закалённый туманом"
@@ -374,7 +374,7 @@ Mistburned Stench,Опалённое туманом зловоние
 Mistfire Storm,Шторм туманного огня
 "Mistforged Glorious Victor's Armor Box[pl:""Boxes""]",
 Mistforged Hero's Weapon Chest[s],Выкованный в тумане сундук[|а|ов] оружия героя
-"Mistforged Obsidian Weapon Box[pl:""Boxes""]",
+"Mistforged Obsidian Weapon Box[pl:""Boxes""]",Ящик с Кованым обсидиановым Оружием
 Mistforged Triumphant Ascended Armor,"Вознесённые доспехи триумфатора, скованные туманом"
 Mistlock Instability: Adrenaline Rush,Нестабильность Туманной Петли: Прилив адреналина
 Mistlock Instability: Afflicted,Нестабильность Туманной Заставы: Поражённые

@@ -277,9 +277,9 @@ Sabetha Flamethrower Fragment Piece,Фрагмент огнемёта Сабет
 Sabetha's Assaulter Boomstick,Бумстик штурмовика Сабеты
 Sabetha's Assaulter Breastplate,
 Sabetha's Assaulter Crucible,Тигель штурмовика Сабеты
-Sabetha's Assaulter Crucible (Infused),
+Sabetha's Assaulter Crucible (Infused),Инфузированный тигель «Нападающий Сабеты»
 Sabetha's Assaulter Doublet,
-Sabetha's Assaulter Guise,
+Sabetha's Assaulter Guise,Облик штурмовика Сабеты
 Sabetha's Coffer,
 Sabetha's Defender Boomstick,Бумстик защитника Сабеты
 Sabetha's Defender Breastplate,
@@ -444,7 +444,8 @@ Salvage Item,Разобрать предмет
 "Salvage Item
 <c=@Flavor> Elona's cobblers are probably deserving of more praise, considering the longevity of their works.</c>",
 "Salvage Item
-<c=@flavor>Chunks of metal used by the tortured spirits of Balthazar's Forged army.</c>",
+<c=@flavor>Chunks of metal used by the tortured spirits of Balthazar's Forged army.</c>","Предмет для разборки
+<c=@flavor>Куски металла, использованные в качестве пыток для душ кованых армии Балтазара.</c>"
 "Salvage Item
 <c=@flavor>The fused scrap remains from the forges of the Molten Alliance.</c>","Разобрать предмет
 <c=@flavor>Сплавленные остатки из кузниц Расплавленного Альянса.</c>"
@@ -458,18 +459,18 @@ Salvageable Intact Forged Scrap,Пригодный к разбору целый 
 Salvageable Metal Scrap,Металлолом для переработки
 Salvageable Pelt,Шкура для переработки
 Salvageable Twisted Watchwork Scrap,Переработанный скрученный часовой лом
-Salvaged Aetherblade Power Source,
+Salvaged Aetherblade Power Source,Извлечённый источник энергии Аэтерблейда
 Salvaged Brilliance,Утилизированное сияние
 Salvaged Compass,Утилизированный компас
 Salvaged Debris,Утилизированные обломки
 Salvaged Device Wreckage,Обломки утилизированного устройства
 Salvaged Dignity,Утилизированное достоинство
-Salvaged Dredge Backpack,
-Salvaged Dredge Inferno Backpack,
+Salvaged Dredge Backpack,Спасённый ранец дреджа
+Salvaged Dredge Inferno Backpack,Спасенный Рюкзак Дреджа «Инферно»
 Salvaged Excellence,Утилизированное превосходство
 Salvaged Forged Gloves Skin,Облик перчаток восстановленного кованого
 Salvaged Forged Helm Skin,Облик шлема «Кованый шлем»
-"Salvaged from ascended gear. Use Stabilizing Matrices to create Cubes of Stabilized Dark Energy, used to build the legendary backpack Ad Infinitum.",
+"Salvaged from ascended gear. Use Stabilizing Matrices to create Cubes of Stabilized Dark Energy, used to build the legendary backpack Ad Infinitum.","Получено от Возвышенной экипировки. Используйте Стабилизирующие матрицы для создания Кубов стабилизированной тёмной энергии, используемых для создания Легендарного ранца Ad Infinitum."
 Salvaged from Development.,Спасено из Разработки.
 Salvaged from Reclaimed weapons. Can be traded in to the Whispers Keeper in Dragon's Stand for plated weapons.,Спасено из оружия Восстановленных. Можно обменять у Хранителя Шёпота в Логове Дракона на пластинчатое оружие.
 Salvaged from Research.,Спасено из Исследования.

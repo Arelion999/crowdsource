@@ -63,7 +63,7 @@ Océano Sólido de rango 4 del día,
 Odd Device,
 Odd. Have you found anything else?,
 "Odd. Minor signs of interference from local ley fields. Tweaking the output to compensate. Now, let's start the test!",
-Oerus,
+Oerus,Оэрус
 "Of all the jobs in Claypool, I ended up working with the crazy bee lady.",
 Of course I believe you. You don't seem like one to discount hastily.,
 "Of course I do! We're Blood Legion, aren't we? Whatever they're doing needs to be stopped.",
@@ -87,7 +87,7 @@ Ofensiva oportuna,
 Off I go to...,
 Off hand for Deserter Sword,
 "Off the coasts of Shing Jea, where sea spills over into sky, an isle slumbers.",
-Off to run errands.,
+Off to run errands.,Пора по делам.
 Offenbarung des Adlers,
 Offenbarung des Ochsen,
 Offenbarung des Vielfraßes,
@@ -181,7 +181,7 @@ Oh! Krait. I definitely misheard that. I thought you said wait or fate or tate o
 Oh! You're the one who arrived with the Astral Ward! Can... Can I speak with you for a moment?,
 "Oh, %str4% %str1%. My report's on the table over there. Thanks to you, the Peacemakers can relegate this particular crisis to the documentation holos.",
 "Oh, Bear help me. Look, I don't like asking people for help with my job, but I'm tied up here. If you hunt some meat for me, I'll make it worth your while.",
-"Oh, I can't wait to explore this place.",
+"Oh, I can't wait to explore this place.","Ох, я не могу дождаться, чтобы исследовать это место."
 "Oh, I hate the hands-on approach.",
 "Oh, I see this is much too easy for you. Let's make it more exciting. With marbles!",
 "Oh, Wayfinder, I've missed our little talks.",
@@ -201,22 +201,22 @@ Oh! You're the one who arrived with the Astral Ward! Can... Can I speak with you
 "Oh, good find. This should scare the grawl.",
 "Oh, good. Phew. Heh.",
 "Oh, gosh, that's amazing. Look what you built!",
-"Oh, hello.",
+"Oh, hello.","О, здравствуйте."
 "Oh, hey there. How's it going?",
 "Oh, hey. What's up?",
 "Oh, hi.",
 "Oh, honestly. These've been gathering dust in the vault for years. Nobody wants them, so who'll care?",
 "Oh, how is she doing?",
 "Oh, how quaint.",
-"Oh, it's only you. I was having a wonderful dream.",
+"Oh, it's only you. I was having a wonderful dream.","О, это только ты. Мне снился чудесный сон."
 "Oh, look, it's %str1%. May Ventari's wisdom always be with you and the Dream bless you.",
 "Oh, look. He's here.",
-"Oh, many things. Uzolan has been extremely secretive about his new invention.",
+"Oh, many things. Uzolan has been extremely secretive about his new invention.","О, много чего. Узолан чрезвычайно скрытен в отношении своего нового изобретения."
 "Oh, my aching head!",
 "Oh, my back!",
 "Oh, my!",
-"Oh, my. Not good.",
-"Oh, no you don't.",
+"Oh, my. Not good.","Ох, чёрт. Плохо."
+"Oh, no you don't.",Не бывать этому.
 "Oh, no! Abort! Ab— Oh. No, wait. False alarm. All good!",
 "Oh, no! The maws are spewing toxic gas. It's going to attract other Mordrem!",
 "Oh, not good at all. Please, step back.",
@@ -240,8 +240,8 @@ Oh! You're the one who arrived with the Astral Ward! Can... Can I speak with you
 "Oh, we're having some fun now, aren't we?",
 "Oh, what a great spot for a mortar plant! How about one of the freezing briars?",
 "Oh, what a relief!",
-"Oh, why didn't I insure my inventory?",
-"Oh, yeah. That's my loot.",
+"Oh, why didn't I insure my inventory?","Ох, почему я не застраховал свои запасы?"
+"Oh, yeah. That's my loot.","О, да. Это моя добыча."
 "Oh, you know my spear paw. Quick as a journeykin's leap. Hah, was all sorts of silly-silly, you see—","О, ты же знаешь мою лапу с копьем. Быстрая, как прыжок джорникина. Ха, это было так глупо-глупо, понимаешь..."
 "Oh, you want a pillow? Maybe a cup of cocoa? Stop your yapping and get in there. The fight isn't over, meatface.",
 "Oh, you weren't—never mind! So, I need artifacts from this place. Care to lend a hand?",
@@ -260,14 +260,14 @@ Ohhhh! The golem's couplings are calibrated to channel ley energy. Now that's in
 Ohne Fesseln,
 Ohnmachts-Lager,
 Oho! Good question. Quaggan hadn't thought beyond making the pirates be nice. Maybe the pirates have ideas.,
-Oho! Nice teeth.,
+Oho! Nice teeth.,Ого! Какие зубы.
 Oho! That's no fish! Fish swim with style.,
 Oh—the famous commander. Agent Kito told us tales of how the two of you killed Balthazar.,
 "Oi! Captain Sayida the Sly, requesting entrance! I come with gifts!",
 Oi! Will you please just buy something? I just need enough money to buy passage home.,
-Oil Duration,
+Oil Duration,Длительность масла
 Oil Keg,
-Oil Radius,
+Oil Radius,Радиус действия масла
 Oily Skale Sac[s],
 Ojalá tuviésemos malvaviscos,
 Ojon's Lumbermill,Лесопилка Оджона
@@ -306,7 +306,7 @@ Olaf the Bloodwatcher,
 Old Armory,
 Old Bell Shrine,
 Old Bottle,
-Old Dolyak,
+Old Dolyak,Старый Доляк
 Old Jar,
 Old Journal,
 Old Mine,
@@ -324,7 +324,7 @@ Oleaje Silencioso de rango 1 del día,
 Oleaje Silencioso de rango 2 del día,
 Oleaje Silencioso de rango 3 del día,
 Oleaje Silencioso de rango 4 del día,
-Olla Sweptpurse,
+Olla Sweptpurse,Олла Свепперс
 Ollin,
 Olmakahn Farmer,
 Olmakhan Camp Tier,
@@ -354,9 +354,9 @@ On Tap,
 "On closer inspection, these appear to be flint stones.",
 "On display here is a copy of ""Johai Sohn: A Legacy of Coordination."" It tells the story of a respected Canthan figure, and the great works he achieved during his storied life.",
 On me. To the rooftops.,
-On my mark. Attack!,
+On my mark. Attack!,По моей команде. В атаку!
 On my signal! Attack!,
-On recon!,
+On recon!,На разведку!
 "On second thought, I'll wait for more friends.",
 "On second thought, I'm not ready for this.",
 "On second thought, this is all a bit much.","По зрелом размышлении, это всё слишком."
@@ -367,7 +367,7 @@ On that ice is where Knut Whitebear captured the giant wurm Issormir. You should
 "On that topic, then, where can I focus right now?",
 On the Fauna of the Echovald,
 "On the Weeping Isle in Ventry Bay, the Soundless seek to isolate themselves, to be alone with their thoughts. However, outside the protection of the Grove, they're endlessly harassed by the Nightmare Court of Hemlock Coil. They could use some help.",
-On the mend.,
+On the mend.,Иду на поправку.
 On the way!,
 "On these southern rocks, the view of wreckage stretching north makes it all too clear why the castaways dubbed this piece of the coastline ""Shipwreck Strand.""",
 On to more important things.,
@@ -404,7 +404,7 @@ One less to worry about.,
 One more dead coward!,
 "One more kick to the old gronk, and you'll be back in business!","Еще один пинок по старому gronk, и ты снова в деле."
 One more question.,
-One more thing for my list of accomplishments.,
+One more thing for my list of accomplishments.,Ещё одна строчка в списке моих достижений.
 One more time!,
 "One must have the capacity for contemplation, but also the insight to know when expediency is required.",
 "One of Isgarren's pets has found his way here, and he only seems interested in hearing from you.",
@@ -414,12 +414,12 @@ One of the displays shows a set of pulsing lines that all converge on the spot d
 One of the grawl tribes has been recruited.,
 "One of the sun's great beasts has awoken from its slumber. In order to honor the sun, the beast must be challenged and defeated.",
 One piece is more than enough. A strange odor makes you question where it gets its power.,
-One side! We're coming through!,
+One side! We're coming through!,На один бок! Мы идём!
 One step closer to the dragon!,
 One thousand two hundred fifty—huh?,
 One toast—to honor the most glorious Palawa Joko.,
 "One tourist claimed that she was attacked by a black moa after visiting a Kurzick gravesite. Calm creatures, now vicious.",
-One's knowledge cannot go beyond one's experience.,
+One's knowledge cannot go beyond one's experience.,Знания человека не могут выйти за рамки его опыта.
 "One, two, three, lift!",
 Oneiros-gesponnene Rüstung,
 Ones I have?,
@@ -431,7 +431,7 @@ Only Vulnerable While Attacking,
 "Only a few lines are readable. ""Neographic buttercups by order of Stumm—Designated use: Decoration, Durmand Priory—Designated greeting: Ogden, thanks for your continued support.""",
 Only a few more seconds... Anyone have a some gum? Never mind...,
 Only anguish and darkness...,
-Only death!,
+Only death!,Только смерть!
 "Only if you get a job, a haircut, and a clue. And maybe not even then.",
 Only one of the sun's great beasts remains. Defeat it to help the hylek honor the sun.,
 "Only one prize per winner! Sorry, kid. Go play, now. There's plenty to do here at the carnival!",
@@ -447,12 +447,12 @@ Only three serious injuries among the recruits so far.,
 "Only viable jade samples should be placed on this sled. Unsorted samples must be scanned by a nearby scan bot, and corrupted samples should be deposited in the disposal pit.",
 "Only you know what you need, but you will not find wares like this elsewhere.",
 Onnoir,
-On—guard.,
+On—guard.,По стойке смирно.
 OoOOoo! Teach that bully a lesson!,
 Oof! You're supposed to be protecting me!,
 Oof. That's some bulk right there.,
 Ooh hi!,
-Ooh-rah!,
+Ooh-rah!,Ура!
 Ooh. What's in here?,
 "Oola had an enviable talent for booby traps and ranged weaponry. I've given my golem a powerful shield to counter her security measures. Unfortunately, the power required leaves little for other functionality.",
 Oola's Notes,
@@ -470,11 +470,11 @@ Oot! Oot! The horrible undead are gone! Conquest Marina is clean! But the battle
 Ooze Processor,
 Ooze Queen,
 Ooze Storage Tank,
-Ooze Swallow Buff,
+Ooze Swallow Buff,Усиление «Поглощение слизи»
 Opciones,
 Opciones generales,
 Open Book,
-Open Gate,
+Open Gate,Открыть ворота
 Open Tomb,
 Open Trunk,
 Open the Gates to the Dragon's Domain,
@@ -482,7 +482,7 @@ Open the cells and free the prisoners.,
 Open the door and leave.,
 Open the door in the last stable.,
 Open the door.,
-Open the gate to the quarry.,
+Open the gate to the quarry.,Откройте ворота в каменоломню.
 Open the gates to the Dragon's Domain.,
 Open with 60 magnetite shards.,
 Opened Letter,

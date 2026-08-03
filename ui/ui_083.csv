@@ -17,9 +17,9 @@ Inquest Mark II Staff Skin[s],облик[|а|ов] посоха Марк II Ин
 Inquest Mark II Sword Skin[s],облик[|а|ов] меча Марк II Инквеста
 Inquest Mark II Torch Skin[s],облик[|а|ов] факела Марк II Инквеста
 Inquest Mark II Warhorn Skin[s],облик[|а|ов] рога Марк II Инквеста
-"Inquest Mark II Weapon Box[pl:""Boxes""]",
+"Inquest Mark II Weapon Box[pl:""Boxes""]",Ящик  с оружием Инквест Марка II
 Inquest Mark II Weapons,Оружие Инквест Mark II
-"Inquest Medium Armor Box[pl:""Boxes""]",
+"Inquest Medium Armor Box[pl:""Boxes""]",Сундук с броней Инквест (средняя)
 Inquest Mine,Шахта Инквест
 Inquest Miner,Шахтёр Инквеста
 Inquest motion controls enabled.,Датчики движения Инквест активированы.
@@ -98,9 +98,9 @@ Instance Entry,Вход в инстанс
 Instance owner has left the group.,Владелец инстанса покинул группу.
 Instance requested no longer exists.,Запрошенный инстанс больше не существует.
 "Instanced mission in which members work together to complete a large multiroom puzzle (similar to a mini dungeon), with various elements including jumping sections.","Инстанс-миссия, в которой участники совместно проходят большое многоэтапное задание (напоминающее мини-подземелье) с различными элементами, включая прыжковые участки."
-"Instanced mission in which members work together to overcome various tasks involving: protecting NPCs or objects, defeating hostile NPCs, destroying objects in rapid succession, or surviving for a set amount of time.",
+"Instanced mission in which members work together to overcome various tasks involving: protecting NPCs or objects, defeating hostile NPCs, destroying objects in rapid succession, or surviving for a set amount of time.","Инстанс-миссия, в которой участники сообща проходят разные испытания: защищают NPC или объекты, уничтожают враждебных NPC, крушат объекты один за другим на скорость или держатся заданное время."
 "Instanced mission. Members work together to complete a large multiroom puzzle (similar to a mini dungeon), with various elements including jumping sections. To enter a guild-mission instance, interact with the guild-mission flag in the open world. This will open a portal your guild can use to travel into the instance.","Инстансовая миссия. Участники работают вместе, чтобы пройти большую многокомнатную головоломку (похожую на мини-подземелье), с различными элементами, включая прыжковые секции. Чтобы войти в инстанс гильдейского задания, взаимодействуйте с флагом гильдейского задания в открытом мире. Это откроет портал, который ваша гильдия может использовать для перемещения в инстанс."
-"Instanced mission. Members work together to overcome various tasks involving: protecting NPCs or objects, defeating hostile NPCs, destroying objects in rapid succession, or surviving for a set amount of time. To enter a guild-mission instance, interact with the guild-mission flag in the open world. This will open a portal your guild can use to travel into the instance.",
+"Instanced mission. Members work together to overcome various tasks involving: protecting NPCs or objects, defeating hostile NPCs, destroying objects in rapid succession, or surviving for a set amount of time. To enter a guild-mission instance, interact with the guild-mission flag in the open world. This will open a portal your guild can use to travel into the instance.","Инстансное задание. Участники сообща преодолевают различные испытания: защита NPC или объектов, уничтожение вражеских NPC, быстрое разрушение объектов подряд или выживание в течение заданного времени. Чтобы войти в гильдейский инстанс задания, взаимодействуйте с флагом гильдейского задания в открытом мире. Это откроет портал, через который ваша гильдия сможет попасть в инстанс."
 Instant Armor-Reinforcing Canister[s],[Мгновенный баллон|Мгновенного баллона|Мгновенных баллонов] усиления брони
 Instant Regret,Мгновенное сожаление
 Instant Repair Canister,Мгновенный канистр ремонта
@@ -129,7 +129,7 @@ Insufficient Transmutation Charges,Недостаточно зарядов тр�
 Insult to Increase Ferocity,Оскорбление для увеличения свирепости
 Intact Memory Crystal,Неповрежденный кристалл памяти
 Intact Mosaic[s],[Целый|Целого|Целых] мозаик[а|и|]
-"Integrated Circuitry[pl:""Circuitry""]",
+"Integrated Circuitry[pl:""Circuitry""]",Интегрированная схема[ы|ем|ам]
 "Integrated Fractal Matrix[pl:""Matrices""]",
 Intel from Crecia,Разведданные от Креции
 Intel from Crecia (The Command Core),Разведданные от Креции (Командное ядро)
@@ -156,16 +156,16 @@ Interact with the Rift,Взаимодействуйте с Разломом
 Interacting with Gadget,Взаимодействие с устройством
 Interactive Services,Интерактивные услуги
 Intercept the wanted bandit leader.,Перехватите разыскиваемого главаря бандитов.
-Interdisciplinary<br>Accessium,
+Interdisciplinary<br>Accessium,Междисциплинарный<br>Акцессиум
 Interested in relics?,Интересуетесь реликвиями?
 Interesting Enemies (1 not - 5 very),Интересные враги (1 нет - 5 очень)
 Interesting Plant,Интересное растение
 Interesting Times in Rata Novus,Интересные времена в Рата Новус
 Interface Options,Параметры интерфейса
 Interface Size:,Размер интерфейса:
-Interface utilisateur,
+Interface utilisateur,Пользовательский интерфейс
 Interior Ballistic Cannon,Внутренняя баллистическая пушка
-Intermediate Music by the Strand Band,
+Intermediate Music by the Strand Band,Музыкальное сопровождение группы «Братья по Берегу» (средний уровень)
 Internal Fire,Внутренний огонь
 Internal Security Review,Внутренняя проверка безопасности
 International Districts,Международные районы
@@ -182,7 +182,7 @@ Interview with Rainless Meadow,Интервью с Бездождным Луго
 "Interwoven with an impression of a dragon whose name Tyria has yet to learn, Bolt is imbued with the strength of a storm—swelling inside like a thunderous inferno, eager to aid its wielder in combat.","Переплетенный с отпечатком дракона, чье имя Тирия еще не узнала, Болт наделен силой бури — бурлящей внутри, как громовой огонь, стремящейся помочь своему владельцу в бою."
 Intimidate creatures and tame them with a flute.,Устрашайте существ и приручайте их с помощью флейты.
 Intimidate to Increase Ferocity,Запугивание для увеличения Свирепости
-Intimidate Widowmaker thugs.,
+Intimidate Widowmaker thugs.,Запугайте головорезов-Оборотней.
 Intimidate your foes with a new look!,Устрашайте врагов новым обликом!
 Intimidator[s],[Устрашитель|Устрашителя|Устрашителей]
 "Into the dark echoes of Cantha's past,","В темные отголоски прошлого Кантхи,"
@@ -194,7 +194,7 @@ Intricate Amethyst Jewel[s],Замысловатый аметистовый са
 Intricate Carnelian Jewel[s],Замысловатый сердоликовый самоцвет[|ы|ов]
 Intricate Lapis Jewel[s],Замысловатый лазуритовый самоцвет[|ы|ов]
 Intricate Peridot Jewel[s],Замысловатый перидотовый самоцвет[|ы|ов]
-"Intricate Scribe's Tools[pl:""Tools""]",
+"Intricate Scribe's Tools[pl:""Tools""]",Искусные инструменты писца[ы]
 Intricate Snowflake[s],Замысловатая снежин[ка|ки|ок]
 Intricate Spinel Jewel[s],Замысловатый шпинелевый самоцвет[|ы|ов]
 Intricate Sunstone Jewel[s],Замысловатый солнечный самоцвет[|ы|ов]
@@ -340,8 +340,8 @@ Ionic Supercharge,Ионная перезарядка
 Irascible Noble Skyscale,Вспыльчивый знатный скайскейль
 Irate Bull[s],[Разъярённый бык|Разъярённого быка|Разъярённых быков]
 Irin Watts,Ирин Уоттс
-Iris Blush Dye[s],
-Iris Dye[s],
+Iris Blush Dye[s],Ирисовый румянец краситель[и|я|ев]
+Iris Dye[s],Ирисовый краситель[и|я|ев]
 Iris Size,Размер радужки
 Iron Axe Blade[s],лезви[е|я|й] железного топора
 Iron Beast Greatsword[s],большой меч[|а|ей] «Железный зверь»
@@ -385,7 +385,7 @@ Iron Legion Delegation Aide,Помощник делегации Железног
 Iron Legion Engineer Steelhammer,Инженер Сталебой из Стального легиона
 Iron Legion Flamethrowers,Огнемёты Железного легиона
 Iron Legion Gearring,Шестерня Железного легиона
-Iron Legion has completed their trials!,
+Iron Legion has completed their trials!,Легион Железа завершил свои испытания!
 Iron Legion Key[s],Ключ[|а|ей] Железного легиона
 Iron Legion Machine Gun,Пулемет Железного Легиона
 Iron Legion Machine Gunner,Пулемётчик Железного Легиона
@@ -460,7 +460,7 @@ Iron Special Mission: Percussive Maintenance,Железная особая ми�
 Iron Special Mission: Recovery Operations,Железная особая миссия: Восстановительные работы
 "Iron Stairs[pl:""Stairs""] (120 x 60)",
 "Iron Stairs[pl:""Stairs""] 120 x 120",
-"Iron Stairs[pl:""Stairs""] 120 x 60",
+"Iron Stairs[pl:""Stairs""] 120 x 60",Железные ступени 120 x 60
 Iron Sword Blade[s],Железн[ый|ых|ых] клин[ок|ка|ков] меча
 Iron Sword Hilt[s],Железн[ая|ые|ых] рукоят[ь|и|ей] меча
 Iron Torch Head[s],Железн[ая|ые|ых] головк[а|и|ок] факела

@@ -32,8 +32,8 @@ Gilded Lamp[s],[Лампа|Лампы|Ламп] с позолотой
 Gilded Lapis Jewel[s],[Украшение|Украшения|Украшений] из позолоченного лазурита
 "Gilded Loach[pl:""Loaches""]",
 Gilded Peridot Jewel[s],[Украшение|Украшения|Украшений] из позолоченного перидота
-"Gilded Reliquary[pl:""Reliquaries""] of the Bear",
-"Gilded Reliquary[pl:""Reliquaries""] of the Raven",
+"Gilded Reliquary[pl:""Reliquaries""] of the Bear",Позолоченные Реликвар[ии:«Реликварии»] Медведя
+"Gilded Reliquary[pl:""Reliquaries""] of the Raven",Позолочённый реликвар[ии:«реликварии»] ворона
 Gilded Scarab Shell[s],[Панцирь|Панциря|Панцирей] позолоченного скарабея
 Gilded Shipwreck Souvenir[s],[Сувенир|Сувенира|Сувениров] с позолоченного кораблекрушения
 Gilded Snowflake[s],[Снежинка|Снежинки|Снежинок] с позолотой
@@ -172,7 +172,7 @@ Glacial Wintersday Chest,Ледяной сундук Зимнего дня
 Glacier Overhang[s],[Ледник|Ледника|Ледников]
 Glad I could help!,"Рад, что смог помочь!"
 "Glad you could join us, Commander.","Рад, что вы присоединились к нам, Командир."
-"Gladiateur[f:""Gladiatrice""]",
+"Gladiateur[f:""Gladiatrice""]",Гладиатор[ж:Гладиатрица]
 Gladiator Axe,Топор гладиатора
 Gladiator Harpoon,Гарпун гладиатора
 Gladiator Longbow,Длинный лук гладиатора
@@ -190,9 +190,9 @@ Glamour skills cause confusion to foes who enter or exit their areas.,"Навы�
 Glamour Training,Обучение иллюзиям
 Glancing at a jade phoenix.,Скользящий взгляд на нефритового феникса.
 Glass Mug[s],[Стеклянная кружка|Стеклянные кружки|Стеклянных кружек]
-"Glass[pl:""Glasses""] of Buttered Spirits",
+"Glass[pl:""Glasses""] of Buttered Spirits",Стакан[ы] подслащенного духа
 "Glass[pl:""Glasses""] of Buttermilk",
-"Glass[pl:""Glasses""] of Melon Juice",
+"Glass[pl:""Glasses""] of Melon Juice",Стакан[ы|а|ев] сока дыни
 Glaukon's Greeting (Level 68),Приветствие Главкона (Уровень 68)
 Glazed Chocolate Raspberry Cookie[s],[Глазированное шоколадное печенье|Глазированные шоколадные печенья|Глазированных шоколадных печений] с малиной
 Glazed Peach Tart[s],[Глазированный персиковый тарт|Глазированные персиковые тарты|Глазированных персиковых тартов]
@@ -281,7 +281,7 @@ Globe[s] of Whispers,[Шар|Шара|Шаров] Шепота
 "Globefish[pl:""Globefish""]",
 Gloom Dye[s],[Мрачная Краска|Мрачные Краски|Мрачных Красок]
 "Glorious and noble beasts, the art of taming griffons for flight has only been recently recovered.","Славные и благородные звери, искусство укрощения грифонов для полета было недавно восстановлено."
-"Glorious Armor Box[pl:""Boxes""]",
+"Glorious Armor Box[pl:""Boxes""]",Благородный сунду[к|ки|ок] брони
 Glorious Canthan Chest,Славный кантанский сундук
 Glorious Charr Chest,Славный сундук чарров
 Glorious Chest,Славный сундук
@@ -396,12 +396,12 @@ Go look in some tide pools first!,Сначала загляни в прилив�
 Go Now,Иди сейчас
 Go Right,Иди направо
 Go Subsurface!<br>Sonic Tunneling<br>Movement!,Иди под поверхность!<br>Звуковое туннелирование<br>Движение!
-Go to buy.guildwars2.com to give them the gift of Guild Wars 2 now!,
+Go to buy.guildwars2.com to give them the gift of Guild Wars 2 now!,"Перейдите на buy.guildwars2.com, чтобы подарить им Guild Wars 2 прямо сейчас!"
 Go to Camp Resolve in the Silverwastes and tell your egg how you defeated Mordremoth.,"Иди в Лагерь Решимости в Серебряных Пустошах и расскажи своему яйцу, как ты победил Мордремота."
 Go to Fort Trinity in Straits of Devastation and tell your egg how you defeated Zhaitan.,"Иди в Форт Троицы в Проливах Опустошения и расскажи своему яйцу, как ты победил Жаитана."
 Go to GW2 Forums,Перейти на форумы GW2
 Go to King Joko's Sky Garden in the Domain of Vabbi and tell your egg how you defeated Balthazar.,"Отправляйтесь в Небесный сад короля Джоко в области Вабби и расскажите своему яйцу, как вы победили Бальтазара."
-Go to Pact Command in Dragonfall and tell your egg how you defeated Kralkatorrik.,
+Go to Pact Command in Dragonfall and tell your egg how you defeated Kralkatorrik.,"Отправляйтесь в Командование Пакт в Драгонфолле и расскажите своему яйцу, как вы победили Кралкаторрика."
 Go to Poll,Перейти к опросу
 Go to the Crown Pavilion in Divinity's Reach to take part in the festivities.,"Отправляйтесь в Королевский павильон в Оплоте Богов, чтобы принять участие в празднествах."
 Go to the entrance to Abaddon's reliquary.,Идите ко входу в усыпальницу Аббадона.
@@ -429,8 +429,8 @@ God-Slayer Bow Pack,Набор лука Убийцы богов
 God-Slayer Bow Pack now available!,Набор лука Убийцы богов теперь доступен!
 God-Slayer Longbow Skin[s],[Облик|Облика|Обликов] длинного лука «Богоубийца»
 God-Slayer Short Bow Skin[s],[Облик|Облика|Обликов] короткого лука «Богоубийца»
-"God[f:""Goddess""] of PvP",
-"God[f:""Goddess""] of WvW",
+"God[f:""Goddess""] of PvP",Бог[f:«Богиня»] PvP
+"God[f:""Goddess""] of WvW",Бог[f:«Богиня»] WvW
 Godless Dye[s],[Краска|Краски|Красок] «Безбожная»
 Godly Trickery,Божественное коварство
 Godrock Amulet (Infused),Амулет «Божественная скала» (насыщенный)
@@ -450,13 +450,13 @@ Gold Bear Chest,Золотой сундук медведя
 "Gold Cardinal Sabir Trophy[pl:""Trophies""]",
 Gold Ceremonial Platter,Золотое церемониальное блюдо
 Gold Chain[s],[Золотая цепь|Золотой цепи|Золотых цепей]
-"Gold Conjured Amalgamate Trophy[pl:""Trophies""]",
-"Gold Decima Trophy[pl:""Trophies""]",
+"Gold Conjured Amalgamate Trophy[pl:""Trophies""]",Золотой трофей из сконструированного амальгамата[й|и|ов]
+"Gold Decima Trophy[pl:""Trophies""]",Золотой трофей Децимы[и]
 "Gold Deer Loot Box[pl:""Boxes""]",
 Gold Dolyak Chest,Золотой сундук дольяка
 "Gold Dolyak Loot Box[pl:""Boxes""]",
 Gold Dragon Chest,Золотой сундук дракона
-Gold Dye[s],
+Gold Dye[s],Золотой краситель[и]
 Gold Essence Axe Skin[s],[Облик|Облика|Обликов] топора «Золотая сущность»
 Gold Essence Dagger Skin[s],[Облик|Облика|Обликов] кинжала «Золотая сущность»
 Gold Essence Focus Skin[s],[Облик|Облика|Обликов] фокуса «Золотая сущность»
@@ -482,7 +482,7 @@ Gold Firepit[s],[Золотой очаг|Золотого очага|Золот�
 Gold Fractal Weapon Crate[s],[Ящик|Ящика|Ящиков] фрактального оружия «Золото»
 Gold Fractal Weapons,Золотое фрактальное оружие
 Gold Fusion Dye[s],[Краска|Краски|Красок] «Золотой сплав»
-"Gold Greer Trophy[pl:""Trophies""]",
+"Gold Greer Trophy[pl:""Trophies""]",Золотой трофей Грира[и]
 Gold Hook[s],[Золотой крюк|Золотого крюка|Золотых крюков]
 Gold Ingot[s],[Золотой слиток|Золотого слитка|Золотых слитков]
 Gold League,Золотая лига
@@ -496,4 +496,4 @@ Gold Phoenix Chest,Золотой сундук феникса
 Gold Pillar[s],[Золотая колонна|Золотой колонны|Золотых колонн]
 "Gold Qadim Trophy[pl:""Trophies""]",
 Gold Rabbit Chest,Золотой сундук кролика
-"Gold Rabbit Loot Box[pl:""Boxes""]",
+"Gold Rabbit Loot Box[pl:""Boxes""]",Золотой сундук с кроликом

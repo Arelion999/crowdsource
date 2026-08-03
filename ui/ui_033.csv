@@ -21,8 +21,8 @@ Between two southerly rocks. (15),Между двумя южными скала�
 Between two trees below a pool.,Между двумя деревьями ниже пруда.
 Beware the Shooting Stars. Hide behind your allies!,Остерегайтесь падающих звезд. Прячьтесь за союзниками!
 Beware! Conflict on the shore has drawn something dangerous to Janthir's waters.,Остерегайтесь! Конфликт на берегу привлек нечто опасное в воды Джантира.
-"Bicuda[pl:""Bicuda""]",
-Bid 10 Aurillium,
+"Bicuda[pl:""Bicuda""]",Бикуда[бикуды|бикуды|бикуд]
+Bid 10 Aurillium,Сделать ставку 10 Ауриллиумов
 Bid 100 Aurillium,Ставка 100 Ауриллиума
 Bid 20 Aurillium,Ставка 20 Ауриллиума
 Bid 30 Aurillium,Ставка 30 Ауриллиума
@@ -79,7 +79,7 @@ Bioluminescent Staff Skin[s],Биолюминесцентный [облик|об
 Bioluminescent Sword Skin[s],Биолюминесцентный [облик|облика|обликов] меча
 Bioluminescent Torch Skin[s],Биолюминесцентный [облик|облика|обликов] факела
 Bioluminescent Warhorn Skin[s],Биолюминесцентный [облик|облика|обликов] боевого рога
-"Bioluminescent Weapon Box[pl:""Boxes""]",
+"Bioluminescent Weapon Box[pl:""Boxes""]",Ящик с Оружием Биолюминесцентного
 Bioluminescent Weapons,Биолюминесцентное оружие
 Bioluminescent Wreckage Sample[s],Биолюминесцентный [образец|образца|образцов] обломков
 "Bird Loot Box[pl:""Boxes""]",
@@ -151,7 +151,7 @@ Black Citadel: Praetor's Canton,Черная Цитадель: Кантон Пр
 Black Citadel: Ruins of Rin,Черная Цитадель: Руины Рин
 Black Citadel: The Bane,Черная Цитадель: Проклятие
 Black Citadel: War Wagon Prep Deck,Черная Цитадель: Подготовительная палуба боевой повозки
-Black Citadel<br>(Canton Deck),
+Black Citadel<br>(Canton Deck),Чёрная Цитадель<br>(Палуба Кантона)
 Black Cow[s],[Чёрная корова|Чёрной коровы|Чёрных коров]
 "Black Crappie[pl:""Crappies""]",
 Black Crocus,Черный крокус
@@ -228,7 +228,7 @@ Black Lion Glyph Selection Container[s],[Контейнер|Контейнера
 Black Lion Greeter,Встречающий Черного льва
 Black Lion Held Toy Voucher Preview,Предпросмотр ваучера на игрушку для удержания Черного льва
 Black Lion Held Toy Voucher[s],[Ваучер|Ваучера|Ваучеров] на ручную игрушку «Чёрный лев»
-"Black Lion Hero Point Scroll[pl:""Scrolls""]",
+"Black Lion Hero Point Scroll[pl:""Scrolls""]",Свиток Чёрного Льва на очко героя[ки]
 Black Lion Hunters Board,Доска охотников Черного льва
 Black Lion Industry Board,Доска промышленности Черного Льва
 Black Lion Industry Contract[s],[Промышленный контракт|Промышленного контракта|Промышленных контрактов] «Чёрный лев»
@@ -295,12 +295,12 @@ Black Lion Sea Raider Window Recipe[s],[Рецепт|Рецепта|Рецепт
 Black Lion Seal[s] of Approval,[Печать|Печати|Печатей] «Чёрный лев»: одобрение
 Black Lion Special Mount Selection License[s],[Лицензия|Лицензии|Лицензий] «Чёрный лев»: особый выбор ездового животного
 Black Lion Statuette Merchant,Торговец статуэтками Чёрного льва
-Black Lion Statuette[s],
+Black Lion Statuette[s],Статуэтки Чёрного льва[а|ы|ев]
 Black Lion Super Lord Vanquish Banner Recipe[s],
 Black Lion Super Lord Vanquish Brazier Recipe[s],
 Black Lion Super Lord Vanquish Rug Recipe[s],
 Black Lion Super Lord Vanquish Statue Recipe[s],
-Black Lion Super Lord Vanquish Thin Wall Recipe[s],
+Black Lion Super Lord Vanquish Thin Wall Recipe[s],Рецепт тонкой стены Черного Льва Супер Лорда Ванквиша[и]
 Black Lion Super Lord Vanquish Wall Recipe[s],
 Black Lion Support,Поддержка Чёрного льва
 Black Lion Toy Box Voucher Pack,Набор ваучеров на коробку игрушек Чёрного льва
@@ -309,13 +309,13 @@ Black Lion Trading Company Featured Items:,Рекомендуемые товар
 Black Lion Trading Company Office,Офис Торговой компании «Черный лев»
 Black Lion Trading Dialog,Диалог торговли «Черный лев»
 Black Lion Twisted Imaginarium Cabinet Recipe[s],
-Black Lion Twisted Imaginarium Choya Statue Recipe[s],
+Black Lion Twisted Imaginarium Choya Statue Recipe[s],Рецепт[ы] статуи Чойи из Искажённого Имагинариума Чёрного Льва
 Black Lion Twisted Imaginarium Entryway Recipe[s],
 Black Lion Twisted Imaginarium Mushroom Recipe[s],
 Black Lion Twisted Imaginarium Table Recipe[s],
-Black Lion Underwater Anemone Recipe[s],
+Black Lion Underwater Anemone Recipe[s],Рецепт подводного актинии Черного Льва[ы]
 Black Lion Underwater Coral Formation Recipe[s],
-Black Lion Underwater Frenzied Fish Recipe[s],
+Black Lion Underwater Frenzied Fish Recipe[s],Рецепт подводной яростной рыбы Чёрного Льва[ы]
 Black Lion Underwater Geothermal Vent Recipe[s],
 Black Lion Underwater Jellyfish Recipe[s],Рецепт[|а|ов] подводной медузы Черного льва
 Black Lion Underwater Kelp Grove Recipe[s],Рецепт[|а|ов] подводной рощи ламинарии Черного льва
@@ -383,10 +383,10 @@ Blackwicker Territory,Территория Блэквикера
 Blade Shard[s],[Осколок|Осколка|Осколков] клинка
 Blade Spin,Вращение клинка
 "Bladed Armor Box[pl:""Boxes""]",
-"Bladed Boot Box[pl:""Boxes""]",
+"Bladed Boot Box[pl:""Boxes""]",Коробка с клинковыми сапогами[ы]
 "Bladed Glove Box[pl:""Boxes""]",
 "Bladed Headgear Box[pl:""Boxes""]",
-"Bladed Leggings Box[pl:""Boxes""]",
+"Bladed Leggings Box[pl:""Boxes""]",Коробка с клинковыми наручами[ы]
 "Bladed Shoulders Box[pl:""Boxes""]",
 Bladed Softness,Клинковая Мягкость
 Bladed Softness appreciates your help.,Клинковая Мягкость ценит вашу помощь.
@@ -399,7 +399,7 @@ Blast Gyro Tag,Метка взрывного гиро
 Blast your foe repeatedly with both pistols.,Взрывайте своего врага многократно из обоих пистолетов.
 Blast your foe with a super powered punch.,Взрывайте своего врага супермощным ударом.
 Blast your foe with both pistols.,Взрывайте своего врага из обоих пистолетов.
-Blast your opponents away with a Super Adventure Box Super Bomb finishing move in PvP and WvW. This is a permanent account unlock.,
+Blast your opponents away with a Super Adventure Box Super Bomb finishing move in PvP and WvW. This is a permanent account unlock.,Обрушьте на противников фирменный приём «Супербомба» из Супер Приключенческой Коробки в ПвП и ЗПМ. Это постоянная разблокировка на весь аккаунт.
 Blasted Ogres,Взорванные огры
 Blasted Sepulchre,Взорванная гробница
 Blasting Black Peter,Взрывающий Чёрный Питер
@@ -413,7 +413,7 @@ Blayd Gutwrencher,Блэйд Кишкорез
 Blaze a path northward with the Steel Warband.,Проложите путь на север вместе со Стальным отрядом.
 Blaze Cannon,Пушечное пламя
 Blaze of Glory,Вспышка славы
-"Blaze your way through Elona on the back of your trusty mount, and fend off the forces of Balthazar, God of War and Fire.<br><c=@reminder>(Requires the Path of Fire expansion.)</c>",
+"Blaze your way through Elona on the back of your trusty mount, and fend off the forces of Balthazar, God of War and Fire.<br><c=@reminder>(Requires the Path of Fire expansion.)</c>","Прорвите путь сквозь Элону на вашем верном скакуне и отразите атаки сил Балтазара, бога войны и огня.<br><c=@reminder>(Требуется расширение Тропа Огня.)</c>"
 Blazeclaw Crag,Утёс Пламенного Когтя
 Blazeridge Defender,Защитник Пламенного Хребта
 Blazeridge Steppes: Agrak Kraal,Пламенные степи: Краал Аграк

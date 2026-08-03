@@ -109,21 +109,21 @@ Recipe[s]: Supplejack (Level 13),Рецепт[|а|ов]: Гибкий Джек (
 Recipe[s]: Supplejack (Level 8),Рецепт[|а|ов]: Гибкий Джек (Уровень 8)
 Recipe[s]: Suun's Artifact,Рецепт[|а|ов]: Артефакт Сууна
 Recipe[s]: Suun's Bastion,Рецепт[|а|ов]: Бастион Сууна
-Recipe[s]: Suun's Blade,
-Recipe[s]: Suun's Brazier,
-Recipe[s]: Suun's Breastplate,
-Recipe[s]: Suun's Breeches,
-Recipe[s]: Suun's Claymore,
-Recipe[s]: Suun's Doublet,
-Recipe[s]: Suun's Epaulets,
-Recipe[s]: Suun's Flanged Mace,
-Recipe[s]: Suun's Footwear,
-Recipe[s]: Suun's Greatbow,
-Recipe[s]: Suun's Greaves,
+Recipe[s]: Suun's Blade,Рецепт[ы]: Клинок Сууна
+Recipe[s]: Suun's Brazier,Рецепт[ы]: Жаровня Сууна
+Recipe[s]: Suun's Breastplate,Рецепт[ы]: Нагрудник Сууна
+Recipe[s]: Suun's Breeches,Рецепт[ы]: Штаны Сууна
+Recipe[s]: Suun's Claymore,Рецепт[ы]: Глефа Суна
+Recipe[s]: Suun's Doublet,Рецепт[ы]: Дублет Сууна
+Recipe[s]: Suun's Epaulets,Рецепт[ы]: Нарамники Сууна
+Recipe[s]: Suun's Flanged Mace,Рецепт[ы]: Боевой молот Сууна с зубчатой головкой
+Recipe[s]: Suun's Footwear,Рецепт[ы]: Обувь Сууна
+Recipe[s]: Suun's Greatbow,Рецепт[ы]: Великий лук Сууна
+Recipe[s]: Suun's Greaves,Рецепт[ы]: Поножи Сууна
 Recipe[s]: Suun's Grips,
-Recipe[s]: Suun's Guise,
-Recipe[s]: Suun's Harpoon Gun,
-Recipe[s]: Suun's Herald,
+Recipe[s]: Suun's Guise,Рецепт[ы]: Маскарад Сууна
+Recipe[s]: Suun's Harpoon Gun,Рецепт[ы]: Гарпунное ружьё Сууна
+Recipe[s]: Suun's Herald,Рецепт[ы]: Вестник Сууна
 Recipe[s]: Suun's Impaler,[Рецепт|Рецепта|Рецептов]: Пронзатель Сууна
 Recipe[s]: Suun's Inscription,[Рецепт|Рецепта|Рецептов]: Надпись Сууна
 Recipe[s]: Suun's Insignia,[Рецепт|Рецепта|Рецептов]: Нашивка Сууна
@@ -154,20 +154,20 @@ Recipe[s]: Svaard's Breastplate,[Рецепт|Рецепта|Рецептов]: 
 Recipe[s]: Svaard's Breeches,[Рецепт|Рецепта|Рецептов]: Штаны Сварда
 Recipe[s]: Svaard's Claymore,[Рецепт|Рецепта|Рецептов]: Клеймор Сварда
 Recipe[s]: Svaard's Doublet,[Рецепт|Рецепта|Рецептов]: Дуэль Сварда
-Recipe[s]: Svaard's Epaulets,
-Recipe[s]: Svaard's Flanged Mace,
+Recipe[s]: Svaard's Epaulets,Рецепт[ы]: Эпаулеты Сваарда
+Recipe[s]: Svaard's Flanged Mace,Рецепт[ы]: Боевой молот Сваарда с фланцами
 Recipe[s]: Svaard's Footwear,
-Recipe[s]: Svaard's Greatbow,
-Recipe[s]: Svaard's Greaves,
-Recipe[s]: Svaard's Grips,
+Recipe[s]: Svaard's Greatbow,Рецепт[ы]: Великий лук Сваарда
+Recipe[s]: Svaard's Greaves,Рецепт[ы]: Поножники Сварда
+Recipe[s]: Svaard's Grips,Рецепт[ы|ые|ых]: Грипы Сваарда
 Recipe[s]: Svaard's Guise,
-Recipe[s]: Svaard's Harpoon Gun,
-Recipe[s]: Svaard's Herald,
-Recipe[s]: Svaard's Impaler,
-Recipe[s]: Svaard's Leggings,
-Recipe[s]: Svaard's Marauder Inscription,
-Recipe[s]: Svaard's Marauder Insignia,
-Recipe[s]: Svaard's Masque,
+Recipe[s]: Svaard's Harpoon Gun,Рецепт[ы]: Гарпунная пушка Сварда
+Recipe[s]: Svaard's Herald,Рецепт[ы|ые|ых]: Герб Сваарда
+Recipe[s]: Svaard's Impaler,Рецепт[ы]: Копье Испеллера Сварда
+Recipe[s]: Svaard's Leggings,Рецепт[ы]: Поножи Сваарда
+Recipe[s]: Svaard's Marauder Inscription,Рецепт[ы]: Начертание Сваарда «Разрушитель»
+Recipe[s]: Svaard's Marauder Insignia,Рецепт[ы]: Знак Мародера Сварда
+Recipe[s]: Svaard's Masque,Рецепт[ы]: Маска Сваарда
 Recipe[s]: Svaard's Musket,
 Recipe[s]: Svaard's Pauldrons,[Рецепт|Рецепта|Рецептов]: наплечники Сварда
 Recipe[s]: Svaard's Razor,[Рецепт|Рецепта|Рецептов]: бритва Сварда
@@ -342,7 +342,7 @@ Recipe[s]: Tixx's Doublet,Рецепт[|а|ов]: Дублет Тикса
 Recipe[s]: Tixx's Epaulets,Рецепт[|а|ов]: Эполеты Тикса
 Recipe[s]: Tixx's Flanged Mace,Рецепт[|а|ов]: Фланцевая булава Тикса
 Recipe[s]: Tixx's Footwear,Рецепт[|а|ов]: Обувь Тикса
-Recipe[s]: Tixx's Giver's Inscription,
+Recipe[s]: Tixx's Giver's Inscription,Рецепт[ы]: Надпись Дарителя Тикса
 Recipe[s]: Tixx's Giver's Insignia,Рецепт[|а|ов]: Знак дарителя Тикса
 Recipe[s]: Tixx's Greatbow,Рецепт[|а|ов]: Большой лук Тикса
 Recipe[s]: Tixx's Greaves,Рецепт[|а|ов]: Поножи Тикса
@@ -371,7 +371,7 @@ Recipe[s]: Tixx's Warfists,[Рецепт|Рецепта|Рецептов]: Бо�
 Recipe[s]: Tixx's Warhammer,[Рецепт|Рецепта|Рецептов]: Боевой молот Тикса
 Recipe[s]: Tixx's Wristguards,[Рецепт|Рецепта|Рецептов]: Наручи Тикса
 Recipe[s]: Tizlak's Commander's Inscription,
-Recipe[s]: Tizlak's Commander's Insignia,
+Recipe[s]: Tizlak's Commander's Insignia,Рецепт[ы]: Знаки Командира Тислака
 Recipe[s]: Tlehco,[Рецепт|Рецепта|Рецептов]: Тлеко
 Recipe[s]: Togo's Artifact,[Рецепт|Рецепта|Рецептов]: Артефакт Того
 Recipe[s]: Togo's Bastion,[Рецепт|Рецепта|Рецептов]: Бастион Того
@@ -426,7 +426,7 @@ Recipe[s]: Tonn's Musket,[Рецепт|Рецепта|Рецептов]: Муш�
 Recipe[s]: Tonn's Razor,[Рецепт|Рецепта|Рецептов]: Бритва Тонна
 Recipe[s]: Tonn's Reaver,[Рецепт|Рецепта|Рецептов]: Опустошитель Тонна
 Recipe[s]: Tonn's Revolver,[Рецепт|Рецепта|Рецептов]: Револьвер Тонна
-Recipe[s]: Tonn's Sentinel Inscription,
+Recipe[s]: Tonn's Sentinel Inscription,Рецепт[ы]: Надпись Стража Тонна
 Recipe[s]: Tonn's Short Bow,[Рецепт|Рецепта|Рецептов]: Короткий лук Тонна
 Recipe[s]: Tonn's Spire,[Рецепт|Рецепта|Рецептов]: Шпиль Тонна
 Recipe[s]: Tonn's Trident,[Рецепт|Рецепта|Рецептов]: Трезубец Тонна
@@ -439,18 +439,18 @@ Recipe[s]: Toxic Sharpening Stone,[Рецепт|Рецепта|Рецептов]
 Recipe[s]: Toxic Tuning Crystal,[Рецепт|Рецепта|Рецептов]: Токсичный настраивающий кристалл
 Recipe[s]: Toxic Tuning Crystal Station,[Рецепт|Рецепта|Рецептов]: Станция токсичных настраивающих кристаллов
 Recipe[s]: Trackless Boots (Level 55),
-Recipe[s]: Trail Mix,
-Recipe[s]: Trailblazer's Intricate Gossamer Insignia,
+Recipe[s]: Trail Mix,Рецепт[ы]: Смесь для перекуса
+Recipe[s]: Trailblazer's Intricate Gossamer Insignia,Рецепт[ы]: Изысканный значок «Первопроходец» из тонкой паутины
 Recipe[s]: Trailblazer's Orichalcum Imbued Inscription,
-Recipe[s]: Treasure Hunter Protocol,
-Recipe[s]: Trickster's Cream Pie,
-Recipe[s]: Trident,
-Recipe[s]: Triktiki Omelet,
-Recipe[s]: Triple Trouble Tooth,
-Recipe[s]: Trust,
-Recipe[s]: Tuning Crystal Station,
-Recipe[s]: Tuning Icicle,
-Recipe[s]: Turrón Slice,
+Recipe[s]: Treasure Hunter Protocol,Рецепт[ы]: Протокол Охотника за Сокровищами
+Recipe[s]: Trickster's Cream Pie,Рецепт[ы]: Крем-Пирог Обманщика
+Recipe[s]: Trident,Рецепт[ы]: Трезубец
+Recipe[s]: Triktiki Omelet,Рецепт[ы]: Омлет Триктики
+Recipe[s]: Triple Trouble Tooth,Рецепт[ы]: Зуб Тройной Беды
+Recipe[s]: Trust,Рецепт[ы]: Сапоги Охотника на Наград
+Recipe[s]: Tuning Crystal Station,Рецепт[ы]: Станция настройки кристаллов
+Recipe[s]: Tuning Icicle,Рецепт[ы]: Настройка ледяного шипа
+Recipe[s]: Turrón Slice,Рецепт[ы]: Кусок Туррона
 Recipe[s]: Turtle Pilot Booster,
 Recipe[s]: Turtle Siege Enhancer,Рецепт[|а|ов]: Усилитель осады черепахи
 Recipe[s]: Twin Largos' Token,Рецепт[|а|ов]: Жетон близнецов Ларгос
@@ -463,9 +463,9 @@ Recipe[s]: Upper Bound,Рецепт[|а|ов]: Верхняя граница
 Recipe[s]: Ura's Token,Рецепт[|а|ов]: Жетон Уры
 Recipe[s]: Vale Guardian Pieces,Рецепт[|а|ов]: Части стража долины
 Recipe[s]: Valkyrie Darksteel Imbued Inscription,
-Recipe[s]: Valkyrie Intricate Gossamer Insignia,
+Recipe[s]: Valkyrie Intricate Gossamer Insignia,Рецепт[ы]: Изысканный паутинный знак валькирии
 Recipe[s]: Valkyrie Intricate Linen Insignia,
-Recipe[s]: Valkyrie Intricate Silk Insignia,
+Recipe[s]: Valkyrie Intricate Silk Insignia,Рецепт[ы]: Изысканный шелковый знак валькирии
 Recipe[s]: Valkyrie Mithril Imbued Inscription,
 Recipe[s]: Valkyrie Orichalcum Imbued Inscription,
 Recipe[s]: Veldrunner Apothecary Insignia,Рецепт[|а|ов]: Знак аптекаря вельдраннера

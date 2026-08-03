@@ -28,21 +28,21 @@ Sixth Pulse,Шестой импульс
 Sixth Visage of Pellentia,Шестой лик Пеллентии
 Sizhou Hall Renown Heart,Сердце признания зала Сичжоу
 Sizza appreciates your help with disrupting grawl aggression.,Сизза ценит вашу помощь в срыве агрессии граулов.
-SJW shard 9004,
-SJW shard 9005,
-SJW shard 9006,
-SJW shard 9007,
-SJW shard 9008,
-SJW shard 9009,
-SJW shard 9010,
-SJW shard 9011,
-SJW shard 9012,
-SJW shard 9013,
-SJW shard 9014,
-SJW shard 9015,
-SJW shard 9016,
-SJW shard 9017,
-SJW shard 9018,
+SJW shard 9004,Фрагмент SJW 9004
+SJW shard 9005,Фрагмент SJW 9005
+SJW shard 9006,Фрагмент SJW 9006
+SJW shard 9007,Фрагмент SJW 9007
+SJW shard 9008,Фрагмент SJW 9008
+SJW shard 9009,Фрагмент SJW 9009
+SJW shard 9010,Фрагмент SJW 9010
+SJW shard 9011,Фрагмент SJW 9011
+SJW shard 9012,Осколок SJW 9012
+SJW shard 9013,Фрагмент SJW 9013
+SJW shard 9014,Фрагмент SJW 9014
+SJW shard 9015,Осколок SJW 9015
+SJW shard 9016,Фрагмент SJW 9016
+SJW shard 9017,Осколок SJW 9017
+SJW shard 9018,Фрагмент SJW 9018
 Skaald Fearin,Скаальд Феарин
 Skaald Ofeig,Скальд Офейг
 Skaald Stjarna,Скаальд Стьярна
@@ -71,7 +71,7 @@ Skelknest Borehole,Скелковая нора
 Sketchbook[s]: Uzolan's Mechanical Orchestra,
 Skewer Me Timbers,Вертел мне в рёбра
 Skibo Hall Dormitory,Общежитие Скибо Холл
-Skibo<br>Hall,
+Skibo<br>Hall,Зал Скибо<br>
 Skies of Nightfall,Небеса Сумерек
 Skiff cannot be summoned here.,Скифф нельзя призвать здесь.
 Skiff Fishing Party,Рыболовная вечеринка на скиффе
@@ -82,7 +82,7 @@ Skiff Speed,Скорость скиффа
 Skiff Stool,Табурет скиффа
 "Skiff, Boat, Ship","Скифф, лодка, корабль"
 "Skiffs are a great way to get around the waters of Tyria. When anchored, they can be used as a platform to fish from.",Скиффы — отличный способ передвигаться по водам Тирии. На якоре их можно использовать как платформу для рыбалки.
-Skiffs are locked until acquiring the Skiff Piloting Mastery track from the End of Dragons expansion.,
+Skiffs are locked until acquiring the Skiff Piloting Mastery track from the End of Dragons expansion.,Скифы заблокированы до получения ветки Мастерства «Управление скифом» из дополнения Закат Драконов.
 "Skiffs can be ridden by up to 5 players. The owner is the pilot, and up to 4 other party members or squadmates can join as passengers.","На шхуне могут разместиться до 5 игроков. Владелец является пилотом, и до 4 других участников группы или отряда могут присоединиться в качестве пассажиров."
 Skiffs Unlocked,Скиффы разблокированы
 Skill Bar,Панель навыков
@@ -224,7 +224,7 @@ Skritt stealer<br>• Retrieve the telescope stolen by the skritt,"Скритт-
 Skritt Stealth,Скрытность скриттов
 Skritt Stew,Похлёбка скриттов
 Skritt stowaways have taken over the princesses' hamlet!,Скритты-безбилетники захватили деревню принцесс!
-"Skritt Supply Box[pl:""Boxes""]",
+"Skritt Supply Box[pl:""Boxes""]",Ящик с припасами скритт[ов|а|ов]
 Skritt Support Mark[s],Знак[|а|ов] поддержки скриттов
 Skritt support marks exchanged:,Обменяно очков поддержки скриттов:
 Skritt Swarmmind Scepter Skin[s],Облик[|а|ов] скипетра «Роевой разум скриттов»
@@ -393,10 +393,10 @@ Skyscale Longbow Skin[s],[Облик|Облика|Обликов] длинног
 "Skyscale Lost[pl:""Lost""] — Inquest Golem Mark II",
 "Skyscale Lost[pl:""Lost""] — Maculate Fringe",
 "Skyscale Lost[pl:""Lost""]—Branded Ley-Line Anomaly",
-"Skyscale Lost[pl:""Lost""]—Buried Archives",
+"Skyscale Lost[pl:""Lost""]—Buried Archives",Скайскейл Потерян[ые|а|ых] — Забытые Архивы
 "Skyscale Lost[pl:""Lost""]—City above the Flats",
-"Skyscale Lost[pl:""Lost""]—Displaced Tower",
-"Skyscale Lost[pl:""Lost""]—Eastern Complex",
+"Skyscale Lost[pl:""Lost""]—Displaced Tower",Скайскейл потерян[о|ы|ые] — Перемещённая Башня
+"Skyscale Lost[pl:""Lost""]—Eastern Complex",Скайскейл Потерян[ые|а|ых] — Восточный Комплекс
 "Skyscale Lost[pl:""Lost""]—Fawcett's Bounty",
 "Skyscale Lost[pl:""Lost""]—Goemm's Lab",
 "Skyscale Lost[pl:""Lost""]—Griffonrook Run",
@@ -407,7 +407,7 @@ Skyscale Longbow Skin[s],[Облик|Облика|Обликов] длинног
 "Skyscale Lost[pl:""Lost""]—Shadow Behemoth",
 "Skyscale Lost[pl:""Lost""]—Shattered Ice Ruins",
 "Skyscale Lost[pl:""Lost""]—Skimshallow Cove Spire",
-"Skyscale Lost[pl:""Lost""]—Skipping Stones",
+"Skyscale Lost[pl:""Lost""]—Skipping Stones",Потерянный скайскейл — Перепрыгивание через камни
 "Skyscale Lost[pl:""Lost""]—Spider King",
 Skyscale Mace Skin[s],[Облик|Облика|Обликов] булавы небесного дракона
 "Skyscale Medicine[pl:""Medicine""]",
