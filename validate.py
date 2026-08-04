@@ -141,7 +141,7 @@ def numbers(s):
     # «0330 hours» по-русски пишут «03:30» — это то же число, а не потеря.
     s = re.sub(r'(?<=\d):(?=\d)', '', s)
     # «120 x 240» и «120x240» — одно и то же, знак умножения не часть числа.
-    s = re.sub(r'(?<=\d)\s*[xх×]\s*(?=\d)', ' ', s)
+    s = re.sub(r'(?<=\d)\s*[xх×]\s*(?=\d)', ';', s)
     return {re.sub(r'[, ]', '', m.group()) for m in NUMBER.finditer(s)}
 
 # По-русски число часто пишут словом — «season 1» -> «первого сезона», «1 chance» ->
@@ -166,9 +166,27 @@ WORD_NUM = {
 }
 WORD_NUM_RE = re.compile('|'.join(sorted(WORD_NUM, key=len, reverse=True)), re.I)
 
+# Разряды по-русски отбивают пробелом («100 000»), по-английски запятой
+# («100,000»). Пробел разрешаем только на стороне перевода: в оригинале
+# «1 500-Point Essence» — это 1 и 500, а вовсе не 1500.
+NUMBER_RU = re.compile(_NB + r'\d{1,3}(?:[,  ]\d{3})+(?![A-Za-z0-9])|'
+                       + _NB + r'\d+(?![A-Za-z0-9])')
+
 def numbers_ru(s):
-    """Числа в переводе: и цифрами, и словом."""
-    return numbers(s) | {WORD_NUM[m.group().lower()] for m in WORD_NUM_RE.finditer(s)}
+    """Числа в переводе: цифрами (в том числе с пробелом в разрядах) и словом."""
+    s = re.sub(r'%\w+%|<[^>]+>|\[pl:"[^"]*"\]', ' ', s)
+    s = re.sub(r'(?<=\d):(?=\d)', '', s)
+    s = re.sub(r'(?<=\d)\s*[xх×]\s*(?=\d)', ';', s)
+    # Строгое (английское) прочтение тоже засчитываем: иначе на одинаковых
+    # строках «76 554,326» стороны разошлись бы сами с собой.
+    out = numbers(s)
+    for m in NUMBER_RU.finditer(s):
+        # «100 000» — это сто тысяч, а «31 254 13 56» — четыре числа подряд.
+        # Отличить по виду нельзя, поэтому засчитываем оба прочтения: настоящую
+        # подмену не спасёт ни одно из них, а ложную тревогу снимут оба.
+        out.add(re.sub(r'[,  ]', '', m.group()))
+        out |= set(re.findall(r'\d+', m.group()))
+    return out | {WORD_NUM[m.group().lower()] for m in WORD_NUM_RE.finditer(s)}
 
 LOWER_WORDS = set()          # заполняется в validate_paths, если корпус достаточно большой
 TC_MIN_N, TC_MIN_SHARE, TC_MIN_ROWS = 12, 0.93, 20000
@@ -235,7 +253,7 @@ def check_row(en, ru):
             # Подменой считаем только когда списки чисел выровнены — их поровну.
             # В длинном тексте с россыпью чисел «потерялось одно, зато есть другие»
             # ещё не значит, что одно подменили другим.
-            if extra and len(NUMBER.findall(en)) == len(NUMBER.findall(ru)):
+            if extra and len(NUMBER.findall(en)) == len(NUMBER_RU.findall(ru)):
                 errs.append(f"число подменено: в оригинале {'/'.join(sorted(lost))}, "
                             f"в переводе {'/'.join(sorted(extra))}")
             else:

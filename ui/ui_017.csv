@@ -98,7 +98,7 @@ english,translate
 +28 Agony Resistance,+28 Сопротивление агонии
 +29 Agony Infusion[s],+29 [инкрустация|инкрустации|инкрустаций] агонии
 +29 Agony Resistance,+29 к сопротивляемости боли
-+3 Agony Infusion Upgrades,+3 улучшений Насмешки
++3 Agony Infusion Upgrades,+3 улучшения инфузии агонии
 +3 Agony Infusion[s],+3 [инкрустация|инкрустации|инкрустаций] агонии
 +3 Agony Resistance,+3 к сопротивляемости боли
 +3 Condition Damage,+3 к урону от состояний
@@ -258,7 +258,7 @@ english,translate
 +40 Vitality+15%% Experience from Kills,+40 к Живучести+15%% к опыту за убийства
 +45 Power+45 Precision+45 Condition Damage+45 Toughness+45 Vitality+45 Healing+5%% Critical Damage,+45 к Силе+45 к Точности+45 к урону от состояний+45 к Стойкости+45 к Живучести+45 к Исцелению+5%% к критическому урону
 +45 to All Attributes+20%% Magic Find+10%% Experience from Kills,+45 ко всем атрибутам+20%% к поиску магии+10%% к опыту за убийства
-+5 Agony Infusion Upgrades,+5 усиления агонии
++5 Agony Infusion Upgrades,+5 улучшений инфузии агонии
 +5 Agony Infusion[s],+5 [инкрустация|инкрустации|инкрустаций] агонии
 +5 Agony Resistance,+5 к сопротивлению агонии
 "+5 Agony ResistanceThe next time you would be downed, instead heal 25%% of your total health.",+5 к сопротивлению агонииПри следующем падении вы исцеляете 25%% от максимального запаса здоровья.
@@ -446,7 +446,7 @@ english,translate
 +65 Precision,+65 к точности
 +65 Toughness,+65 к стойкости
 +65 Vitality,+65 к живучести
-+7 Agony Infusion Upgrades,+7 улучшений Насмешки
++7 Agony Infusion Upgrades,+7 улучшений инфузии агонии
 +7 Agony Infusion[s],+7 инкрустаци[я|и|й] агонии
 +7 Agony Resistance,+7 к сопротивлению агонии
 +7 Attack,+7 к атаке
