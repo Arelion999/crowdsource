@@ -146,13 +146,13 @@ The taste of April Fools.","+5%% к удаче
 <c=@reminder>Будет удалено при входе в соревновательный PvP или рейд.</c>"
 "+50 Concentration
 +24%% Magic Find while under the Effect of a Boon
-+10%% Experience from Kills","+100 Концентрация
-+40%% Поиск магии под действием благодати
++10%% Experience from Kills","+50 Концентрация
++24%% Поиск магии под действием благодати
 +10%% Опыт за убийства"
 "+50 Condition Damage
 +40 Precision
-+10%% Experience from Kills","+100 Урон от состояний
-+70 Точность
++10%% Experience from Kills","+50 Урон от состояний
++40 Точность
 +10%% Опыт за убийства"
 "+50 Condition Damage
 +40 Vitality
@@ -161,8 +161,8 @@ The taste of April Fools.","+5%% к удаче
 +10%% опыта за убийства"
 "+50 Expertise
 +40 Condition Damage
-+10%% Experience from Kills","+100 Экспертиза
-+70 Урон от состояний
++10%% Experience from Kills","+50 Экспертиза
++40 Урон от состояний
 +10%% Опыт за убийства"
 "+50 Ferocity
 Day: 20%% Chance to Burn on Critical Hit
@@ -173,8 +173,8 @@ Night: 20%% Chance to Steal Life on Critical Hit
 +10%% опыта за убийства"
 "+50 Healing
 +40 Condition Damage
-+10%% Experience from Kills","+100 Исцеление
-+70 Урон от состояний
++10%% Experience from Kills","+50 Исцеление
++40 Урон от состояний
 +10%% Опыт за убийства"
 "+50 Healing
 +40 Precision
@@ -183,13 +183,13 @@ Night: 20%% Chance to Steal Life on Critical Hit
 +10%% опыта за убийства"
 "+50 Healing
 +40 Precision
-+15%% Experience from Kills","+100 Исцеление
-+70 Точность
-+10%% Опыт за убийства"
++15%% Experience from Kills","+50 Исцеление
++40 Точность
++15%% Опыт за убийства"
 "+50 Healing
 +40 Vitality
-+10%% Experience from Kills","+100 Исцеление
-+70 Живучесть
++10%% Experience from Kills","+50 Исцеление
++40 Живучесть
 +10%% Опыт за убийства"
 "+50 Healing Power
 +40 Toughness
@@ -198,18 +198,18 @@ Night: 20%% Chance to Steal Life on Critical Hit
 +5%% кармы"
 "+50 Power
 +40 Condition Damage
-+10%% Experience from Kills","+100 Сила
-+70 Урон от состояний
++10%% Experience from Kills","+50 Сила
++40 Урон от состояний
 +10%% Опыт за убийства"
 "+50 Power
 +40 Precision
-+10%% Experience from Kills","+100 Сила
-+70 Точность
++10%% Experience from Kills","+50 Сила
++40 Точность
 +10%% Опыт за убийства"
 "+50 Power
 +40 Vitality
-+10%% Experience from Kills","+100 Сила
-+70 Живучесть
++10%% Experience from Kills","+50 Сила
++40 Живучесть
 +10%% Опыт за убийства"
 "+50 Power
 +50 Condition Damage
@@ -220,43 +220,43 @@ Gain Might When Using a Heal Skill
 +10%% опыта за убийства"
 "+50 Precision
 +40 Condition Damage
-+10%% Experience from Kills","+100 Точность
-+70 Урон от состояний
++10%% Experience from Kills","+50 Точность
++40 Урон от состояний
 +10%% Опыт за убийства"
 "+50 Precision
 +40 Ferocity
-+10%% Experience from Kills","+100 Точность
-+70 Свирепость
++10%% Experience from Kills","+50 Точность
++40 Свирепость
 +10%% Опыт за убийства"
 "+50 Precision
 +40 Vitality
-+10%% Experience from Kills","+100 Точность
-+70 Живучесть
++10%% Experience from Kills","+50 Точность
++40 Живучесть
 +10%% Опыт за убийства"
 "+50 Toughness
 +40 Condition Damage
-+10%% Experience from Kills","+100 Стойкость
-+70 Урон от состояний
++10%% Experience from Kills","+50 Стойкость
++40 Урон от состояний
 +10%% Опыт за убийства"
 "+50 Toughness
 +40 Precision
-+10%% Experience from Kills","+100 Стойкость
-+70 Точность
++10%% Experience from Kills","+50 Стойкость
++40 Точность
 +10%% Опыт за убийства"
 "+50 Vitality
 +40 Toughness
-+10%% Experience from Kills","+100 Живучесть
-+70 Стойкость
++10%% Experience from Kills","+50 Живучесть
++40 Стойкость
 +10%% Опыт за убийства"
 "+50 Vitality
 +80 Power When Health below 50%%
-+10%% Experience from Kills","+100 Живучесть
-+200 Сила когда здоровье ниже 50%%
++10%% Experience from Kills","+50 Живучесть
++80 Сила когда здоровье ниже 50%%
 +10%% Опыт за убийства"
 "+50%% Downed Health
 +6%% Damage while Downed
-+10%% Experience from Kills","+100%% Здоровье поверженного
-+20%% Урон в поверженном состоянии
++10%% Experience from Kills","+50%% Здоровье поверженного
++6%% Урон в поверженном состоянии
 +10%% Опыт за убийства"
 "+50%% Magic Find
 +50%% Chance of Critical Crafting Experience Gain
@@ -404,78 +404,78 @@ Summons a Black Lion Merchant If Your Inventory Is Full after Gathering (20-Minu
 +10%% опыта за убийства"
 "+7%% Damage vs. Centaur
 -4%% Damage from Centaur
-+10%% Experience from Kills","+10%% Урон против кентавров
--10%% урон от кентавров
++10%% Experience from Kills","+7%% Урон против кентавров
+-4%% урон от кентавров
 +10%% Опыт за убийства"
 "+7%% Damage vs. Demons
 -4%% Damage from Demons
-+10%% Experience from Kills","+8%% урона против демонов
--6%% урона от демонов
++10%% Experience from Kills","+7%% урона против демонов
+-4%% урона от демонов
 +10%% опыта за убийства"
 "+7%% Damage vs. Destroyers
 -4%% Damage from Destroyers
-+10%% Experience from Kills","+10%% Урон против разрушителей
--10%% урон от разрушителей
++10%% Experience from Kills","+7%% Урон против разрушителей
+-4%% урон от разрушителей
 +10%% Опыт за убийства"
 "+7%% Damage vs. Dredge
 -4%% Damage from Dredge
-+10%% Experience from Kills","+10%% Урон против дреджей
--10%% урон от дреджей
++10%% Experience from Kills","+7%% Урон против дреджей
+-4%% урон от дреджей
 +10%% Опыт за убийства"
 "+7%% Damage vs. Flame Legion
 -4%% Damage from Flame Legion
-+10%% Experience from Kills","+10%% Урон против Легиона Пламени
--10%% урон от Легиона Пламени
++10%% Experience from Kills","+7%% Урон против Легиона Пламени
+-4%% урон от Легиона Пламени
 +10%% Опыт за убийства"
 "+7%% Damage vs. Grawl
 -4%% Damage from Grawl
-+10%% Experience from Kills","+10%% Урон против гролов
--10%% урон от гролов
++10%% Experience from Kills","+7%% Урон против гролов
+-4%% урон от гролов
 +10%% Опыт за убийства"
 "+7%% Damage vs. Halloween Creatures
 -4%% Damage from Halloween Creatures
-+10%% Experience from Kills","+10%% Урон против созданий Хэллоуина
--10%% урон от созданий Хэллоуина
++10%% Experience from Kills","+7%% Урон против созданий Хэллоуина
+-4%% урон от созданий Хэллоуина
 +10%% Опыт за убийства"
 "+7%% Damage vs. Ice Brood
 -4%% Damage from Ice Brood
-+10%% Experience from Kills","+10%% Урон против Ледяного выводка
--10%% урон от Ледяного выводка
++10%% Experience from Kills","+7%% Урон против Ледяного выводка
+-4%% урон от Ледяного выводка
 +10%% Опыт за убийства"
 "+7%% Damage vs. Inquest
 -4%% Damage from Inquest
-+10%% Experience from Kills","+10%% Урон против Инквеста
--10%% урон от Инквеста
++10%% Experience from Kills","+7%% Урон против Инквеста
+-4%% урон от Инквеста
 +10%% Опыт за убийства"
 "+7%% Damage vs. Krait
 -4%% Damage from Krait
-+10%% Experience from Kills","+10%% Урон против краитов
--10%% урон от краитов
++10%% Experience from Kills","+7%% Урон против краитов
+-4%% урон от краитов
 +10%% Опыт за убийства"
 "+7%% Damage vs. Nightmare Court
 -4%% Damage from Nightmare Court
-+10%% Experience from Kills","+10%% Урон против Двора Кошмара
--10%% урон от Двора Кошмара
++10%% Experience from Kills","+7%% Урон против Двора Кошмара
+-4%% урон от Двора Кошмара
 +10%% Опыт за убийства"
 "+7%% Damage vs. Ogre
 -4%% Damage from Ogre
-+10%% Experience from Kills","+10%% Урон против огров
--10%% урон от огров
++10%% Experience from Kills","+7%% Урон против огров
+-4%% урон от огров
 +10%% Опыт за убийства"
 "+7%% Damage vs. Outlaws
 -4%% Damage from Outlaws
-+10%% Experience from Kills","+10%% Урон против разбойников
--10%% урон от разбойников
++10%% Experience from Kills","+7%% Урон против разбойников
+-4%% урон от разбойников
 +10%% Опыт за убийства"
 "+7%% Damage vs. Sons of Svanir
 -4%% Damage from Sons of Svanir
-+10%% Experience from Kills","+10%% Урон против Сынов Сванира
--10%% урон от Сынов Сванира
++10%% Experience from Kills","+7%% Урон против Сынов Сванира
+-4%% урон от Сынов Сванира
 +10%% Опыт за убийства"
 "+7%% Damage vs. Undead
 -4%% Damage from Undead
-+10%% Experience from Kills","+10%% Урон против нежити
--10%% урон от нежити
++10%% Experience from Kills","+7%% Урон против нежити
+-4%% урон от нежити
 +10%% Опыт за убийства"
 "+7%% Poison Duration
 +40 Precision
@@ -528,8 +528,8 @@ Summons a Black Lion Merchant If Your Inventory Is Full after Gathering (20-Minu
 +3%% Strike Damage","+7%% урона против нежити
 +3%% обычного урона"
 "+7%% damage vs elementals
--4%% damage from elementals","+8%% урона против элементалей
--6%% урона от элементалей"
+-4%% damage from elementals","+7%% урона против элементалей
+-4%% урона от элементалей"
 "+8 Condition Damage
 +4 Precision","+8 к урону от состояний
 +4 к Точности"
@@ -716,8 +716,8 @@ Summons a Black Lion Merchant If Your Inventory Is Full after Gathering (20-Minu
 +10%% опыта за убийства"
 "+80 Power
 +60 Ferocity
-+10%% Experience from Kills","+100 Сила
-+70 Свирепость
++10%% Experience from Kills","+80 Сила
++60 Свирепость
 +10%% Опыт за убийства"
 "+80 Power
 +60 Precision","+80 Силы
@@ -836,8 +836,8 @@ Summons a Black Lion Merchant If Your Inventory Is Full after Gathering (20-Minu
 +10%% опыта за убийства"
 "+9%% Damage vs. Demons, Kryptis, and Titanspawn
 -8%% Damage from Demons, Kryptis, and Titanspawn
-+10%% Experience from Kills","+10%% Урон против демонов, криптис и порождений титанов
--10%% урон от демонов, криптис и порождений титанов
++10%% Experience from Kills","+9%% Урон против демонов, криптис и порождений титанов
+-8%% урон от демонов, криптис и порождений титанов
 +10%% Опыт за убийства"
 "+9%% Damage vs. Destroyers
 -8%% Damage from Destroyers
@@ -851,8 +851,8 @@ Summons a Black Lion Merchant If Your Inventory Is Full after Gathering (20-Minu
 +10%% опыта за убийства"
 "+9%% Damage vs. Elementals
 -8%% Damage from Elementals
-+10%% Experience from Kills","+10%% Урон против элементалей
--10%% урон от элементалей
++10%% Experience from Kills","+9%% Урон против элементалей
+-8%% урон от элементалей
 +10%% Опыт за убийства"
 "+9%% Damage vs. Flame Legion
 -8%% Damage from Flame Legion

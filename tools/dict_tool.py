@@ -301,6 +301,14 @@ def defects(en, ru):
         d.append("без кириллицы")
     elif stray_latin(ru, en):
         d.append("латиница")
+    # Число в переводе не должно расходиться с оригиналом: «Contains 200» ->
+    # «Содержит 300» игра покажет как враньё. Правило и его оговорки (числа
+    # словом, римские, «03:30» вместо «0330») живут в линтере батчей — берём
+    # оттуда, чтобы гейт словаря и гейт батчей не разъезжались.
+    if _validate is not None and ru.strip():
+        en_num = _validate.numbers(en)
+        if en_num and (en_num - _validate.numbers_ru(ru)) and                 len(_validate.NUMBER.findall(en)) == len(_validate.NUMBER.findall(ru)):
+            d.append("числа")
     return d
 
 

@@ -2767,8 +2767,8 @@ Night: 8%% Chance to Steal Life on Critical Hit
 +10%% опыта за убийства"
 "+200 Condition Damage for 30 Seconds on Kill
 +70 Precision
-+10%% Experience from Kills","+100 Урон от состояний на 30 секунд при убийстве
-+40 Точность
++10%% Experience from Kills","+200 Урон от состояний на 30 секунд при убийстве
++70 Точность
 +10%% Опыт за убийства"
 "+200 Healing Power for 10 Seconds on Using a Heal Skill (Cooldown: 20 seconds)
 +10%% Healing to Other Allies
@@ -2842,7 +2842,7 @@ Night: 8%% Chance to Steal Life on Critical Hit
 +13 к стойкости"
 "+22%% Magic Find
 +150 Fishing Power
-+10%% Experience from Kills","+18%% Поиск магии
++10%% Experience from Kills","+22%% Поиск магии
 +150 Сила рыбалки
 +10%% Опыт за убийства"
 "+25 Condition Damage
@@ -3076,12 +3076,12 @@ Night: 8%% Chance to Steal Life on Critical Hit
 "+30 Ferocity
 Day: 12%% Chance to Burn on Critical Hit
 Night: 12%% Chance to Steal Life on Critical Hit
-+10%% Experience from Kills",+20 СвирепостьДень: 14%% шанс поджечь при крит. удареНочь: 14%% шанс украсть жизнь при крит. ударе+10%% Опыт за убийства
++10%% Experience from Kills",+30 СвирепостьДень: 12%% шанс поджечь при крит. удареНочь: 12%% шанс украсть жизнь при крит. ударе+10%% Опыт за убийства
 "+30 Healing
 +10%% Experience from Kills","+30 к исцелению
 +10%% опыта за убийства"
 "+30 Healing Power
-+5%% Karma","+20 Сила исцеления
++5%% Karma","+30 Сила исцеления
 +5%% Карма"
 "+30 Power
 +10%% Experience from Kills","+30 к силе
@@ -3298,7 +3298,7 @@ Night: 12%% Chance to Steal Life on Critical Hit
 +10%% Experience from Kills","+40 Урона состояниями на 30 секунд при убийстве
 +10%% Опыта за убийства"
 "+40 Expertise
-+10%% Experience from Kills","+20 Экспертиза
++10%% Experience from Kills","+40 Экспертиза
 +10%% Опыт за убийства"
 "+40 Ferocity
 Day: 18%% Chance to Burn on Critical Hit
@@ -3316,8 +3316,8 @@ Night: 18%% Chance to Steal Life on Critical Hit
 +10%% Experience from Kills","+40 Силы на 30 секунд при убийстве
 +10%% Опыта за убийства"
 "+40 Vitality
-+15%% Experience from Kills","+20 Живучесть
-+10%% Опыт за убийства"
++15%% Experience from Kills","+40 Живучесть
++15%% Опыт за убийства"
 "+45 Power
 +45 Precision
 +45 Condition Damage
@@ -3388,7 +3388,7 @@ Night: 18%% Chance to Steal Life on Critical Hit
 +1%% Damage to Guards, Lords, and Supervisors","+5 к силе
 +1%% урона по стражам, лордам и надзирателям"
 "+5 Power
-+2 Condition Damage","+7 к силе, +5 к урону от состояний"
++2 Condition Damage","+5 к силе, +2 к урону от состояний"
 "+5 Power
 +5 Agony Resistance","+5 к силе
 +5 к сопротивлению мучениям"
