@@ -1,6 +1,6 @@
 # Батчи перевода GW2 RU — доска захвата
 
-Всего батчей: **636** | строк: **313,701**. Чтобы забиндить батч — впиши свой ник и поставь 🔨 (в работе). Готово → ✅ + ссылка на файл/PR.
+Всего батчей: **882** | строк: **433,052**. Чтобы забиндить батч — впиши свой ник и поставь 🔨 (в работе). Готово → ✅ + ссылка на файл/PR.
 
 > ✅ с подписью «Автозаполнение из словаря» — строки подставлены машинно из `dictionary.bin` и **не вычитаны человеком**; второй проход обязателен.
 
@@ -130,6 +130,10 @@
 | `items_122.csv` | items | 500 | 10,236 | White Bass | ✅ | Автозаполнение из словаря + PR #1 — черновик, 500/500 (100%), нужна вычитка |
 | `items_123.csv` | items | 500 | 12,285 | Wurm's Gilded Blessing Enrichment | ✅ | Автозаполнение из словаря + PR #1 — черновик, 496/500 (99%), нужна вычитка |
 | `items_124.csv` | items | 71 | 1,228 | Zodiac Medium Helmet | ✅ | Автозаполнение из словаря — черновик, 71/71 (100%), нужна вычитка |
+| `items_125.csv` | items | 500 | 40,808 | "/BloodstoneBoogie" Emote Tome | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `items_126.csv` | items | 500 | 70,148 | <c=@flavor>"Used strictly for religious purpo | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `items_127.csv` | items | 500 | 70,432 | Double-click to open., 'Choose an account-bou | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `items_128.csv` | items | 174 | 3,680 | —Kamma</c>" | ✅ | Автозаполнение из словаря — черновик, 174/174 (100%), нужна вычитка |
 | `skins_001.csv` | skins | 500 | 16,489 | <c=@flavor>"Caution: Contents extremely volat | ✅ | Автозаполнение из словаря + PR #1 — черновик, 500/500 (100%), нужна вычитка |
 | `skins_002.csv` | skins | 500 | 10,330 | Beastslayer Scepter | ✅ | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
 | `skins_003.csv` | skins | 500 | 8,768 | Crystal Bloom Axe | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
@@ -139,10 +143,42 @@
 | `skins_007.csv` | skins | 500 | 10,248 | Researcher's Shoes | ✅ | Автозаполнение из словаря + PR #1 — черновик, 499/500 (100%), нужна вычитка |
 | `skins_008.csv` | skins | 499 | 9,085 | Soo-Won's Gaze | ✅ | Автозаполнение из словаря — черновик, 498/499 (100%), нужна вычитка |
 | `skins_009.csv` | skins | 296 | 5,596 | Villainous Cape | ✅ | Автозаполнение из словаря — черновик, 295/296 (100%), нужна вычитка |
+| `skins_010.csv` | skins | 3 | 226 | <c=@flavor>This artifact was recovered from d | ✅ | Автозаполнение из словаря — черновик, 3/3 (100%), нужна вычитка |
 | `guild_001.csv` | guild | 497 | 25,200 | A magnificent depiction of the Spirit of Rave | ✅ | Автозаполнение из словаря + PR #1 — черновик, 496/497 (100%), нужна вычитка |
 | `guild_002.csv` | guild | 32 | 1,792 | Unlock a weekly mission slot that will only g | ✅ | Автозаполнение из словаря + PR #1 — черновик, 32/32 (100%), нужна вычитка |
 | `minis_001.csv` | minis | 49 | 4,457 | Combine 3 Mini Baron von Scrufflebutts in the | ✅ | Автозаполнение из словаря + PR #1 — черновик, 49/49 (100%), нужна вычитка |
+| `minis_002.csv` | minis | 7 | 445 | <c=@reminder>This mini can be found inside Bl | ✅ | Автозаполнение из словаря — черновик, 7/7 (100%), нужна вычитка |
 | `misc_001.csv` | misc | 0 | 0 |  | ✅ | (переведено напрямую) |
+| `misc_002.csv` | misc | 500 | 23,168 | "/Barbecue" Emote Tome | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `misc_003.csv` | misc | 500 | 31,253 | 3. The Dragon's Reach: Part 1 |  | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
+| `misc_004.csv` | misc | 500 | 68,512 | After an emotional showdown, I defeated Zafir | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `misc_005.csv` | misc | 500 | 43,420 | Assault Eventide's March and confront Queen L | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `misc_006.csv` | misc | 500 | 29,221 | Bring the golem repair kit to PTM. | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `misc_007.csv` | misc | 500 | 24,393 | Choose between searching for the prisoners an | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `misc_008.csv` | misc | 500 | 22,081 | Creamsicle | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `misc_009.csv` | misc | 500 | 24,901 | Defend yourself from the swarm of demons! | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `misc_010.csv` | misc | 500 | 19,688 | Elegant Canthan Outfit | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `misc_011.csv` | misc | 500 | 23,188 | Excuse me, Minister. I must be going. | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `misc_012.csv` | misc | 500 | 26,228 | Follow Exemplar Kerida. | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `misc_013.csv` | misc | 500 | 28,164 | Gorrik and Marjory managed to corner one of t |  | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
+| `misc_014.csv` | misc | 500 | 94,382 | Hmmm... I don't know if I'd be able to. I don |  | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
+| `misc_015.csv` | misc | 500 | 74,603 | I regrouped with our allies, checking in on e | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `misc_016.csv` | misc | 500 | 44,696 | Improved Jump Jets | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `misc_017.csv` | misc | 500 | 33,283 | Jormag tempts those who seek power. Whispers  | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `misc_018.csv` | misc | 500 | 29,729 | Lighting the Beacons | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `misc_019.csv` | misc | 500 | 27,414 | Meet Navan at Nika's Blade Sushi Restaurant. | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `misc_020.csv` | misc | 500 | 48,862 | Night Watch Stool | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `misc_021.csv` | misc | 500 | 28,208 | Pass the Trial of Wisdom. | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `misc_022.csv` | misc | 500 | 18,761 | Reach Gorrik's Lab. | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `misc_023.csv` | misc | 500 | 32,410 | Roadblock |  | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
+| `misc_024.csv` | misc | 500 | 25,954 | Shield Magic Disabled | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `misc_025.csv` | misc | 500 | 26,098 | Speak with engineer Elora. | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `misc_026.csv` | misc | 500 | 38,722 | Talk to Rox. |  | Автозаполнение из словаря — черновик, 498/500 (100%), нужна вычитка |
+| `misc_027.csv` | misc | 500 | 70,627 | The countess asked if I'd travel with the que | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `misc_028.csv` | misc | 500 | 31,301 | Travel to the Domain of Istan to unlock. | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `misc_029.csv` | misc | 500 | 83,802 | Wait for Scarlet's shield to drop and attack  |  | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
+| `misc_030.csv` | misc | 500 | 61,330 | While I lingered at camp, Frode introduced me |  | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
+| `misc_031.csv` | misc | 192 | 13,258 | You're crazy. Anise would never let Scarlet g | ✅ | Автозаполнение из словаря — черновик, 192/192 (100%), нужна вычитка |
 | `ui_001.csv` | ui | 488 | 50,970 | [null] | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_002.csv` | ui | 500 | 15,699 | %str1% (%num1%/%num2% complete) | ✅ | Магистр Клод |
 | `ui_003.csv` | ui | 500 | 21,964 | %str1%%str2%Abyssal Fractal Dagger%str3%%str4 | ✅ | Магистр Клод, Приорат Дурманд |
@@ -642,3 +678,213 @@
 | `zone_204.csv` | zone | 500 | 36,871 | You're the best. The probes were in a chamber |  | Автозаполнение из словаря — черновик, 432/500 (86%), нужна вычитка |
 | `zone_205.csv` | zone | 500 | 36,810 | Young charr aren't raised by their parents. T |  | Автозаполнение из словаря — черновик, 433/500 (87%), нужна вычитка |
 | `zone_206.csv` | zone | 414 | 26,448 | Your timing was perfect, Warmaster Kernsson.  |  | Автозаполнение из словаря — черновик, 341/414 (82%), нужна вычитка |
+| `zone_207.csv` | zone | 500 | 28,703 | "Act with wisdom, but act." What's the meanin | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `zone_208.csv` | zone | 500 | 34,744 | A notorious Branded griffon is showing signs  | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `zone_209.csv` | zone | 500 | 29,206 | And I say that if we attack them today, then  | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `zone_210.csv` | zone | 500 | 32,185 | As always, direct any safety issues or emerge | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `zone_211.csv` | zone | 500 | 31,987 | But I died in that box! | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `zone_212.csv` | zone | 500 | 29,877 | Come one, come all! The Super Adventure Box h | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `zone_213.csv` | zone | 500 | 29,805 | Do you remember what brought you to the Lair  | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `zone_214.csv` | zone | 500 | 31,839 | Ever been down to Ranik Roadcamp? They've got | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `zone_215.csv` | zone | 500 | 29,043 | Get a hold of yourself! Chul-Moo ordered you— | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `zone_216.csv` | zone | 500 | 30,826 | Have you heard any news about Logan Thackeray | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `zone_217.csv` | zone | 500 | 25,347 | Hey, you're OK. You know that? | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `zone_218.csv` | zone | 500 | 32,544 | Huh. I thought a Captain's Councillor had bet | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `zone_219.csv` | zone | 500 | 32,161 | I don't know. Zojja scares me. I ran into her | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `zone_220.csv` | zone | 500 | 33,932 | I hope not. I’ve heard whispers about the tri | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `zone_221.csv` | zone | 500 | 32,996 | I see it. Looks like the Nightmare Court has  | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `zone_222.csv` | zone | 500 | 31,573 | I won't, Father. | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `zone_223.csv` | zone | 500 | 35,706 | I'm never going to be able to get all this sa | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `zone_224.csv` | zone | 500 | 34,131 | If I'd known this job was going to involve so | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `zone_225.csv` | zone | 500 | 34,920 | Isn't that the investigator who caught the co | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `zone_226.csv` | zone | 500 | 29,513 | It's tough to see it from here, boss. | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `zone_227.csv` | zone | 500 | 30,819 | Let's find that shark. | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `zone_228.csv` | zone | 500 | 32,144 | Me? I'm looking into this shimmer in the mids | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `zone_229.csv` | zone | 500 | 29,854 | Next time she does that, you tell Uta her fea | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `zone_230.csv` | zone | 500 | 30,253 | Not in a long time. Prophecy or not, he's wor | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `zone_231.csv` | zone | 500 | 30,884 | Oh, they will. | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `zone_232.csv` | zone | 500 | 30,262 | Palawa Joko welcomes you. | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `zone_233.csv` | zone | 500 | 32,602 | Recruits, my tonics are for medicinal purpose | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `zone_234.csv` | zone | 500 | 31,313 | Should we not, well... You've all seen Isgarr | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `zone_235.csv` | zone | 500 | 28,663 | Sorry. My sister did too. Guess there's more  |  | Автозаполнение из словаря — черновик, 498/500 (100%), нужна вычитка |
+| `zone_236.csv` | zone | 500 | 32,723 | That Gamli is a really great guy. Don't you t | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `zone_237.csv` | zone | 500 | 36,139 | The Spirits are wise, and you are wiser for s | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `zone_238.csv` | zone | 500 | 34,787 | The voice! It sounded like it was calling my  | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `zone_239.csv` | zone | 500 | 33,129 | They only know our king as some "far-off tyra |  | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
+| `zone_240.csv` | zone | 500 | 29,739 | Those two guilds? Yeah. If looks could kill.. | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `zone_241.csv` | zone | 500 | 31,994 | Want to take down a legendary bounty? You'll  | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `zone_242.csv` | zone | 500 | 34,199 | We'll figure it out, Isgarren. | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `zone_243.csv` | zone | 500 | 26,926 | What are we even looking for? | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `zone_244.csv` | zone | 500 | 28,240 | When can we see the queen? | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `zone_245.csv` | zone | 500 | 31,321 | Wish I had time to oversee the retrofit of th | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `zone_246.csv` | zone | 500 | 28,990 | Yes, my friend. I am here. Join me. | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `zone_247.csv` | zone | 500 | 27,839 | You know. Big. Dumb. Furry. Dolyaks. | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `zone_248.csv` | zone | 334 | 19,648 | You're kidding! Did he get in any fights? | ✅ | Автозаполнение из словаря — черновик, 334/334 (100%), нужна вычитка |
+| `ach_001.csv` | ach | 500 | 26,826 | "..." | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `ach_002.csv` | ach | 500 | 19,957 | A Season of Merriment |  | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
+| `ach_003.csv` | ach | 500 | 19,086 | Artillery Specialist |  | Автозаполнение из словаря — черновик, 495/500 (99%), нужна вычитка |
+| `ach_004.csv` | ach | 500 | 15,531 | Bolt III: Zap |  | Автозаполнение из словаря — черновик, 498/500 (100%), нужна вычитка |
+| `ach_005.csv` | ach | 500 | 27,500 | Chasing Tales: Warrior Poet |  | Автозаполнение из словаря — черновик, 497/500 (99%), нужна вычитка |
+| `ach_006.csv` | ach | 500 | 29,762 | Complete Return to Whisper in the Dark achiev |  | Автозаполнение из словаря — черновик, 448/500 (90%), нужна вычитка |
+| `ach_007.csv` | ach | 500 | 33,103 | Complete all of the "Clear out the elementals |  | Автозаполнение из словаря — черновик, 498/500 (100%), нужна вычитка |
+| `ach_008.csv` | ach | 500 | 31,158 | Complete the Shaman's Rookery jumping puzzle  |  | Автозаполнение из словаря — черновик, 498/500 (100%), нужна вычитка |
+| `ach_009.csv` | ach | 500 | 15,270 | Court Is Adjourned | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `ach_010.csv` | ach | 500 | 15,008 | Daily Maguuma Jungle Lumberer | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `ach_011.csv` | ach | 500 | 32,596 | Defeat Queen's Gauntlet opponent. |  | Автозаполнение из словаря — черновик, 482/500 (96%), нужна вычитка |
+| `ach_012.csv` | ach | 500 | 25,141 | Defeat the grand champion in the Ooze Pit. |  | Автозаполнение из словаря — черновик, 495/500 (99%), нужна вычитка |
+| `ach_013.csv` | ach | 500 | 24,110 | Do not trigger any Gravitational Waves during |  | Автозаполнение из словаря — черновик, 487/500 (97%), нужна вычитка |
+| `ach_014.csv` | ach | 500 | 18,113 | Egg Protector |  | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
+| `ach_015.csv` | ach | 500 | 24,175 | Find a record of Ankka's early days. | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `ach_016.csv` | ach | 500 | 23,260 | Freebooter Initiate |  | Автозаполнение из словаря — черновик, 491/500 (98%), нужна вычитка |
+| `ach_017.csv` | ach | 500 | 21,727 | Harvest plants times in Drizzlewood Coast. |  | Автозаполнение из словаря — черновик, 486/500 (97%), нужна вычитка |
+| `ach_018.csv` | ach | 500 | 17,480 | Incinerator III: Spark |  | Автозаполнение из словаря — черновик, 498/500 (100%), нужна вычитка |
+| `ach_019.csv` | ach | 500 | 18,637 | Journal: Strange Observations Completed | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `ach_020.csv` | ach | 500 | 16,863 | League Conqueror—Conquest Season Forty-Four |  | Автозаполнение из словаря — черновик, 482/500 (96%), нужна вычитка |
+| `ach_021.csv` | ach | 500 | 15,452 | Look in the face of death... |  | Автозаполнение из словаря — черновик, 488/500 (98%), нужна вычитка |
+| `ach_022.csv` | ach | 500 | 18,174 | Mists Merc Camp Vanquisher |  | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
+| `ach_023.csv` | ach | 500 | 23,375 | Open trick-or-treat bags. |  | Автозаполнение из словаря — черновик, 460/500 (92%), нужна вычитка |
+| `ach_024.csv` | ach | 500 | 18,785 | Protector of the Skyward Marches |  | Автозаполнение из словаря — черновик, 492/500 (98%), нужна вычитка |
+| `ach_025.csv` | ach | 500 | 17,328 | Repel the Branded from the Free City of Amnoo |  | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
+| `ach_026.csv` | ach | 500 | 16,731 | Scavenge for supplies times. |  | Автозаполнение из словаря — черновик, 495/500 (99%), нужна вычитка |
+| `ach_027.csv` | ach | 500 | 20,892 | Slay champion Emperor Mattake near Ancient Ho | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `ach_028.csv` | ach | 500 | 23,891 | Still Waters Run Deep |  | Автозаполнение из словаря — черновик, 482/500 (96%), нужна вычитка |
+| `ach_029.csv` | ach | 500 | 22,648 | Take down tier 1, tier 2, and tier 3 rift hun |  | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
+| `ach_030.csv` | ach | 500 | 21,199 | They honestly thought they picked the winning | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `ach_031.csv` | ach | 500 | 31,614 | Unlock Sunspear skins in your wardrobe by cra |  | Автозаполнение из словаря — черновик, 494/500 (99%), нужна вычитка |
+| `ach_032.csv` | ach | 500 | 21,385 | Visions of the Past: Canach's Lair |  | Автозаполнение из словаря — черновик, 486/500 (97%), нужна вычитка |
+| `ach_033.csv` | ach | 466 | 27,919 | Wintersday Skritt Hit V | ✅ | Автозаполнение из словаря — черновик, 466/466 (100%), нужна вычитка |
+| `events_001.csv` | events | 500 | 23,102 | "Assistant Fanatic Remove Specialist" seems l | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `events_002.csv` | events | 500 | 15,029 | Ash Horizon |  | Автозаполнение из словаря — черновик, 497/500 (99%), нужна вычитка |
+| `events_003.csv` | events | 500 | 15,718 | Brewing Potion in: x:xx |  | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
+| `events_004.csv` | events | 500 | 18,062 | Champion Icebrood Norn |  | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
+| `events_005.csv` | events | 500 | 16,629 | Consortium Item |  | Автозаполнение из словаря — черновик, 498/500 (100%), нужна вычитка |
+| `events_006.csv` | events | 500 | 21,059 | Defeat the Champion Svanir Brute | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `events_007.csv` | events | 500 | 21,346 | Defeat the light-infused Inquest golem blocki | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `events_008.csv` | events | 500 | 21,643 | Defend the seal until the Pact cannon is back |  | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
+| `events_009.csv` | events | 500 | 18,218 | Drive back Underworld creatures by destroying |  | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
+| `events_010.csv` | events | 500 | 19,118 | Escort the PAC-7000 golem along its northern  |  | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
+| `events_011.csv` | events | 500 | 18,665 | Force Malchor's ghost to reveal itself. |  | Автозаполнение из словаря — черновик, 498/500 (100%), нужна вычитка |
+| `events_012.csv` | events | 500 | 24,116 | Help Ashwah search for his missing daughter i |  | Автозаполнение из словаря — черновик, 498/500 (100%), нужна вычитка |
+| `events_013.csv` | events | 500 | 27,600 | I can do some archaeological research on this |  | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
+| `events_014.csv` | events | 500 | 21,509 | Iron Legion Challenger |  | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
+| `events_015.csv` | events | 500 | 17,075 | Koris |  | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
+| `events_016.csv` | events | 500 | 21,498 | Moas wrangled |  | Автозаполнение из словаря — черновик, 498/500 (100%), нужна вычитка |
+| `events_017.csv` | events | 500 | 19,850 | Okay... but I don't actually know how to pain |  | Автозаполнение из словаря — черновик, 495/500 (99%), нужна вычитка |
+| `events_018.csv` | events | 500 | 20,555 | Prevent the dredge from constructing a barric |  | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
+| `events_019.csv` | events | 500 | 15,848 | Recover the sunken Consortium cargo polluting |  | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
+| `events_020.csv` | events | 500 | 16,922 | Safe journey, sister. Oh—and Brenda? |  | Автозаполнение из словаря — черновик, 492/500 (98%), нужна вычитка |
+| `events_021.csv` | events | 500 | 19,932 | Soma's Rage |  | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
+| `events_022.csv` | events | 500 | 22,209 | Supply Dolyak |  | Автозаполнение из словаря — черновик, 496/500 (99%), нужна вычитка |
+| `events_023.csv` | events | 500 | 29,104 | The boss jungle tendril is defeated, but the  | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `events_024.csv` | events | 500 | 16,298 | Time left before Vanak retreats: 10:00 |  | Автозаполнение из словаря — черновик, 492/500 (98%), нужна вычитка |
+| `events_025.csv` | events | 500 | 19,115 | Use debris in the environment to help destroy |  | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
+| `events_026.csv` | events | 500 | 25,943 | We have morals, unlike some people! Speaking  |  | Автозаполнение из словаря — черновик, 498/500 (100%), нужна вычитка |
+| `events_027.csv` | events | 175 | 9,785 | You krewe will be assigned to one of three ne |  | Автозаполнение из словаря — черновик, 174/175 (99%), нужна вычитка |
+| `npc_001.csv` | npc | 500 | 41,122 | "...The crowd, they cheered, they clapped, th |  | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
+| `npc_002.csv` | npc | 500 | 42,197 | A squad of Pact Vigil has just attacked Barro | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `npc_003.csv` | npc | 500 | 31,439 | All the basic plants: vegetables, herbs, chic | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `npc_004.csv` | npc | 500 | 35,870 | Appearances! Plan's perfect: you find the rod |  | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
+| `npc_005.csv` | npc | 500 | 42,808 | Battle in the Mists? | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `npc_006.csv` | npc | 500 | 36,815 | Can I try some? | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `npc_007.csv` | npc | 500 | 34,345 | Cozy place, under the circumstances. | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `npc_008.csv` | npc | 500 | 39,840 | Don't bother. | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `npc_009.csv` | npc | 500 | 40,588 | Excellent. He'll likely be back home in Rata  | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `npc_010.csv` | npc | 500 | 27,567 | Get them done early, and you'll have free tim | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `npc_011.csv` | npc | 500 | 41,642 | Grab a water bucket and refill the springer's | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `npc_012.csv` | npc | 500 | 43,274 | He used to tell me I make the best pies in Kr | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `npc_013.csv` | npc | 500 | 24,960 | Hmm, I wonder where the Ulgadis has gone? No  | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `npc_014.csv` | npc | 500 | 32,305 | How is it working with Logan and Rytlock? | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `npc_015.csv` | npc | 500 | 35,322 | I can take you! | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `npc_016.csv` | npc | 500 | 32,136 | I feel the loss of Mordremoth—relief more tha | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `npc_017.csv` | npc | 500 | 37,790 | I hope they uncover something for you. | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `npc_018.csv` | npc | 500 | 32,219 | I saw Palawa Joko freed to reconquer Elona. I | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `npc_019.csv` | npc | 500 | 32,109 | I want to check out some local flavor. | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `npc_020.csv` | npc | 500 | 18,607 | I'll be sure not to cast any spells at you. | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `npc_021.csv` | npc | 500 | 30,905 | I'll watch for them. | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `npc_022.csv` | npc | 500 | 38,749 | I'm not sure myself. | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `npc_023.csv` | npc | 500 | 48,377 | I've lost people before, but Belinda... I was | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `npc_024.csv` | npc | 500 | 34,604 | In groups, skritt become. Lone skritt will be | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `npc_025.csv` | npc | 500 | 47,502 | It is rare that I am surprised. Well done, tr | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `npc_026.csv` | npc | 500 | 40,815 | It's okay. You didn't go through with it. Tha | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `npc_027.csv` | npc | 500 | 39,974 | Knut broke up a bar fight once, a quarrel bet | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `npc_028.csv` | npc | 500 | 39,470 | Makes sense. Farewell. | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `npc_029.csv` | npc | 500 | 42,605 | My enemies balk when I bring their weakness t | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `npc_030.csv` | npc | 500 | 37,043 | No time to talk. We've got a delivery to make | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `npc_031.csv` | npc | 500 | 42,568 | Not yet. The trick is harvesting the harpy sw | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `npc_032.csv` | npc | 500 | 42,365 | Oh, so since this is a scrapyard, you decided | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `npc_033.csv` | npc | 500 | 45,651 | Our field-workers need protection during thei | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `npc_034.csv` | npc | 500 | 40,538 | Quaggan is very tired. | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `npc_035.csv` | npc | 500 | 40,207 | Secret facility, huh? Tell me more. | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `npc_036.csv` | npc | 500 | 33,136 | So much to do, not enough help to get it done | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `npc_037.csv` | npc | 500 | 29,782 | Sounds amazing! I can't wait to test one. | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `npc_038.csv` | npc | 500 | 23,704 | Sure, I can do that. | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `npc_039.csv` | npc | 500 | 36,332 | Tell me more about the dogs. | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `npc_040.csv` | npc | 500 | 28,848 | Thanks, and keep up the good work. | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `npc_041.csv` | npc | 500 | 42,332 | That's enough sabotage for today. We should l | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `npc_042.csv` | npc | 500 | 59,122 | The Mordant Crescent were always in it for th |  | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
+| `npc_043.csv` | npc | 500 | 55,340 | The helm I lost exploring a cave in the east  | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `npc_044.csv` | npc | 500 | 51,788 | Then I'll save you the trouble and not cheat. |  | Автозаполнение из словаря — черновик, 498/500 (100%), нужна вычитка |
+| `npc_045.csv` | npc | 500 | 51,267 | They dig at strange angles? | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `npc_046.csv` | npc | 500 | 44,576 | This is the way it ends, isn't it? Dragons on | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `npc_047.csv` | npc | 500 | 36,673 | True enough, so what's your story? | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `npc_048.csv` | npc | 500 | 60,045 | Watch yourself. All the Branded around here h | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `npc_049.csv` | npc | 500 | 54,937 | We'll take all the help we can get. | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `npc_050.csv` | npc | 500 | 30,853 | Well, after our generous assistance to rebuil | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `npc_051.csv` | npc | 500 | 19,223 | What can I help with? | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `npc_052.csv` | npc | 500 | 19,384 | What is this cauldron, anyway? | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `npc_053.csv` | npc | 500 | 31,716 | What's this operation about? | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `npc_054.csv` | npc | 500 | 23,162 | Who knows. | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `npc_055.csv` | npc | 500 | 42,028 | With all the chaos in the far corners of the  | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `npc_056.csv` | npc | 500 | 42,582 | Yes, our Zephyrite friend Pepperseed is ready | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `npc_057.csv` | npc | 500 | 34,479 | You had a sandstorm here? | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `npc_058.csv` | npc | 500 | 36,540 | You sound very busy. I'll let you get back to | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `npc_059.csv` | npc | 431 | 34,103 | You're serious about this? Fine. |  | Автозаполнение из словаря — черновик, 430/431 (100%), нужна вычитка |
+| `story_001.csv` | story | 500 | 26,160 | "The Blight" is going down. Let's mop up the  |  | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
+| `story_002.csv` | story | 500 | 46,120 | And to do that, we must shut down the ossuary | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `story_003.csv` | story | 500 | 26,877 | Defeat Ol' Skabfin. | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `story_004.csv` | story | 500 | 37,066 | Explore the hidden sub-level. | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `story_005.csv` | story | 500 | 72,372 | I agree, but I haven't decided yet. I'll let  | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `story_006.csv` | story | 500 | 34,325 | I've said my piece. Shodd's a dangerous fool, | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `story_007.csv` | story | 500 | 39,655 | Meet Josir and his contact east of the Hezran | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `story_008.csv` | story | 500 | 28,229 | Reach the far end of the trap-filled hallway. | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `story_009.csv` | story | 500 | 39,077 | Speak with Riot Alice. | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `story_010.csv` | story | 500 | 54,186 | They sound like good folk. | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `story_011.csv` | story | 226 | 24,533 | Word is spreading that you're quickly making  | ✅ | Автозаполнение из словаря — черновик, 226/226 (100%), нужна вычитка |
+| `hearts_001.csv` | hearts | 500 | 39,681 | %str1%, The theater productions are moving al |  | Автозаполнение из словаря — черновик, 498/500 (100%), нужна вычитка |
+| `hearts_002.csv` | hearts | 500 | 47,090 | Great job, %str1% | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `hearts_003.csv` | hearts | 500 | 46,179 | Kill centaurs, destroy centaur siege weapons, |  | Автозаполнение из словаря — черновик, 498/500 (100%), нужна вычитка |
+| `hearts_004.csv` | hearts | 500 | 41,058 | The Celebration Continues | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `hearts_005.csv` | hearts | 94 | 7,810 | Your Help Is Appreciated |  | Автозаполнение из словаря — черновик, 93/94 (99%), нужна вычитка |
+| `skills_001.csv` | skills | 500 | 53,788 | "Advance!" |  | Автозаполнение из словаря — черновик, 486/500 (97%), нужна вычитка |
+| `skills_002.csv` | skills | 500 | 68,893 | <c=@abilitytype>Legendary Alliance.</c> Heal  |  | Автозаполнение из словаря — черновик, 427/500 (85%), нужна вычитка |
+| `skills_003.csv` | skills | 500 | 20,436 | A bolt of power pierces through the barrier a | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `skills_004.csv` | skills | 500 | 19,137 | Bleed multiple foes in a line with a piercing | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `skills_005.csv` | skills | 500 | 25,390 | Confusing Images |  | Автозаполнение из словаря — черновик, 494/500 (99%), нужна вычитка |
+| `skills_006.csv` | skills | 500 | 16,425 | Destroys tiles and chains attacks to allies w |  | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
+| `skills_007.csv` | skills | 500 | 23,150 | Fiery Frost | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `skills_008.csv` | skills | 500 | 17,619 | Grenade Barrage | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `skills_009.csv` | skills | 500 | 17,447 | Knock back foes with a wave of magical energy |  | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
+| `skills_010.csv` | skills | 500 | 18,202 | Mist-Charged Chop |  | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
+| `skills_011.csv` | skills | 500 | 21,024 | Quickening Screech | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `skills_012.csv` | skills | 500 | 18,309 | Shadow Gouge |  | Автозаполнение из словаря — черновик, 498/500 (100%), нужна вычитка |
+| `skills_013.csv` | skills | 500 | 31,149 | Stone Sweep |  | Автозаполнение из словаря — черновик, 497/500 (99%), нужна вычитка |
+| `skills_014.csv` | skills | 500 | 19,899 | The whispering shadow summons multiple freezi |  | Автозаполнение из словаря — черновик, 498/500 (100%), нужна вычитка |
+| `skills_015.csv` | skills | 141 | 6,265 | Whirlpool |  | Автозаполнение из словаря — черновик, 139/141 (99%), нужна вычитка |
+| `traits_001.csv` | traits | 500 | 29,187 | 1 second |  | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
+| `traits_002.csv` | traits | 500 | 33,084 | Cull the Weak | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `traits_003.csv` | traits | 500 | 28,477 | Gain might when you block attacks. | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `traits_004.csv` | traits | 500 | 21,072 | Mental Anguish | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `traits_005.csv` | traits | 406 | 30,238 | Strike up the band and unleash a wave of soni | ✅ | Автозаполнение из словаря — черновик, 406/406 (100%), нужна вычитка |
+| `main_001.csv` | main | 500 | 128,769 | ! | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `main_002.csv` | main | 500 | 5,164 | ((1005053)) | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `main_003.csv` | main | 500 | 4,987 | ((318363)) | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `main_004.csv` | main | 500 | 67,292 | ((587875)) | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `main_005.csv` | main | 500 | 123,428 | **Lyhr, the Wizard of Balance** Something pre | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `main_006.csv` | main | 500 | 46,284 | +5%% Burning Duration +10%% Experience from K | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `main_007.csv` | main | 500 | 148,058 | 66%% Chance to Steal Life on Critical Hit +70 | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `main_008.csv` | main | 500 | 216,098 | Bloodcoast Ward: This karka has taken root at |  | Автозаполнение из словаря — черновик, 493/500 (99%), нужна вычитка |
+| `main_009.csv` | main | 500 | 196,511 | Durmand Priory Excavators Remaining | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `main_010.csv` | main | 500 | 249,458 | Hundreds of people flow in and out through th |  | Автозаполнение из словаря — черновик, 498/500 (100%), нужна вычитка |
+| `main_011.csv` | main | 500 | 195,183 | On this day, the mantle of leadership weighs  | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `main_012.csv` | main | 500 | 242,282 | The Toxic Alliance have temporarily retreated |  | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
+| `main_013.csv` | main | 202 | 79,316 | White Crane Terrace: Explore the cavern where |  | Автозаполнение из словаря — черновик, 191/202 (95%), нужна вычитка |
