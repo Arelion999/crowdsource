@@ -11,7 +11,7 @@ english,translate
 <c=@warning>Claiming %str1% will cause you to give up your claim on %str2%.</c>,"<c=@warning>Забрав %str1%, вы откажетесь от %str2%.</c>"
 <c=@warning>Scarlet's minions are not attacking this world.Please return to your home world when prompted.</c>,"<c=@warning>Миньоны Скарлет не атакуют этот мир.Пожалуйста, вернитесь в свой родной мир, когда будет предложено.</c>"
 <c=@warning>The invasion is not active in this overflow. Keep vigilant for Scarlet's next attack.</c>,<c=@warning>Вторжение не активно в этом переполнении. Будьте бдительны к следующей атаке Скарлет.</c>
-"<c=flavor>""For the millionth time, there are no culinary applications for bloodstone dust. None.""<br>—Chef Robertus</c>",
+"<c=flavor>""For the millionth time, there are no culinary applications for bloodstone dust. None.""<br>—Chef Robertus</c>","<c=flavor>«Миллион раз повторяю, у пыли кровавого камня нет никакого кулинарного применения. Никакого!»<br>—Шеф Робертус</c>"
 "<center>%str1%: ""And Braham's bow.""</center>",<center>%str1%: «И лук Брахама».</center>
 <center>Aurene: But you must use it.</center>,<center>Аурене: Но ты должен использовать его.</center>
 <center>Aurene: No more questions. Go!</center>,<center>Аурене: Больше никаких вопросов. Иди!</center>
@@ -300,7 +300,7 @@ english,translate
 [lbracket]Char.[rbracket],[lbracket]Персонаж.[rbracket]
 [lbracket]Cinematic Replay[rbracket],[lbracket]Повтор кинематографической сцены[rbracket]
 [lbracket]Clueless[rbracket],[lbracket]Невежественный[rbracket]
-[lbracket]Collector of Unusual Coins[rbracket],
+[lbracket]Collector of Unusual Coins[rbracket],[lbracket]Коллекционер необычных монет[rbracket]
 [lbracket]Collector[rbracket],[lbracket]Коллекционер[rbracket]
 [lbracket]Commissioner of Basket Brawl[rbracket],[lbracket]Комиссар корзинной потасовки[rbracket]
 [lbracket]Competitor[rbracket],[lbracket]Соперник[rbracket]
@@ -349,71 +349,71 @@ english,translate
 [lbracket]Factions[rbracket],[lbracket]Фракции[rbracket]
 [lbracket]Favor Broker[rbracket],[lbracket]Брокер благосклонности[rbracket]
 [lbracket]Festival Merchant[rbracket],[lbracket]Фестивальный торговец[rbracket]
-[lbracket]Firecracker Lighting 2[rbracket],
-[lbracket]Firecracker Lighting[rbracket],
+[lbracket]Firecracker Lighting 2[rbracket],[lbracket]Зажигалка «Фейерверк» 2[rbracket]
+[lbracket]Firecracker Lighting[rbracket],[lbracket]Огни фейерверков[rbracket]
 [lbracket]Fishing Supplies[rbracket],[lbracket]Рыболовные принадлежности[rbracket]
 [lbracket]Fishmonger[rbracket],[lbracket]Рыботорговец[rbracket]
 [lbracket]Flight Training[rbracket],[lbracket]Обучение полетам[rbracket]
 [lbracket]Follower[rbracket],[lbracket]Последователь[rbracket]
 [lbracket]Food Service[rbracket],[lbracket]Пищевое обслуживание[rbracket]
 [lbracket]Food[rbracket],[lbracket]Еда[rbracket]
-[lbracket]Fossilized-Insect Collector[rbracket],
+[lbracket]Fossilized-Insect Collector[rbracket],[lbracket]Коллекционер ископаемых насекомых[rbracket]
 [lbracket]Frenzied[rbracket],[lbracket]Неистовый[rbracket]
 [lbracket]Frightened[rbracket],[lbracket]Испуганный[rbracket]
 [lbracket]Frustrated[rbracket],[lbracket]Разочарованный[rbracket]
-[lbracket]FTT 100[rbracket] Intro to Field Tech Turret Dynamics,
-[lbracket]FTT 101-107[rbracket] Core Turret Dynamics,
-[lbracket]FTT 201[rbracket] Intermediate Dynamics—Direct Damage Level 2,
-[lbracket]FTT 201–407[rbracket] Practicum in Advanced Dynamics,
-[lbracket]FTT 202[rbracket] Intermediate Dynamics—Area Damage Level 2,
-[lbracket]FTT 203[rbracket] Intermediate Dynamics—Healing Aura Level 2,
-[lbracket]FTT 204[rbracket] Intermediate Dynamics—Shield Bubble Level 2,
-[lbracket]FTT 205[rbracket] Intermediate Dynamics—Boon Wave Level 2,
-[lbracket]FTT 206[rbracket] Intermediate Dynamics—Speed Wall Level 2,
-[lbracket]FTT 301[rbracket] Proficient Dynamics—Direct Damage Level 3,
-[lbracket]FTT 302[rbracket] Proficient Dynamics—Area Damage Level 3,
-[lbracket]FTT 303[rbracket] Proficient Dynamics—Healing Aura Level 3,
-[lbracket]FTT 304[rbracket] Proficient Dynamics—Shield Bubble Level 3,
-[lbracket]FTT 305[rbracket] Proficient Dynamics—Boon Wave Level 3,
-[lbracket]FTT 306[rbracket] Proficient Dynamics—Speed Wall Level 3,
-[lbracket]FTT 401[rbracket] Advanced Dynamics—Direct Damage Level 4,
-[lbracket]FTT 402[rbracket] Advanced Dynamics—Area Damage Level 4,
-[lbracket]FTT 403[rbracket] Advanced Dynamics—Healing Aura Level 4,
-[lbracket]FTT 404[rbracket] Advanced Dynamics—Shield Bubble Level 4,
-[lbracket]FTT 405[rbracket] Advanced Dynamics—Boon Wave 4,
-[lbracket]FTT 406[rbracket] Advanced Dynamics—Speed Wall Level 4,
-[lbracket]FTT[rbracket] Area-of-Effect Damage Level 1,
-[lbracket]FTT[rbracket] Area-of-Effect Damage Level 2,
-[lbracket]FTT[rbracket] Area-of-Effect Damage Level 3,
-[lbracket]FTT[rbracket] Area-of-Effect Damage Level 4,
-[lbracket]FTT[rbracket] Boon Field Level 1,
-[lbracket]FTT[rbracket] Boon Field Level 2,
-[lbracket]FTT[rbracket] Boon Field Level 3,
-[lbracket]FTT[rbracket] Boon Field Level 4,
-[lbracket]FTT[rbracket] Configuring,
+[lbracket]FTT 100[rbracket] Intro to Field Tech Turret Dynamics,[lbracket]FTT 100[rbracket] Введение в динамику турельных технологий поля
+[lbracket]FTT 101-107[rbracket] Core Turret Dynamics,[lbracket]FTT 101-107[rbracket] Основная Динамика Турелей
+[lbracket]FTT 201[rbracket] Intermediate Dynamics—Direct Damage Level 2,[lbracket]FTT 201[rbracket] Средняя Динамика — Прямой Урон 2-го уровня
+[lbracket]FTT 201–407[rbracket] Practicum in Advanced Dynamics,[lbracket]FTT 201–407[rbracket] Практикум по Продвинутой Динамике
+[lbracket]FTT 202[rbracket] Intermediate Dynamics—Area Damage Level 2,[lbracket]FTT 202[rbracket] Средняя Динамика — Урон по Площади 2-го уровня
+[lbracket]FTT 203[rbracket] Intermediate Dynamics—Healing Aura Level 2,[lbracket]FTT 203[rbracket] Средний уровень динамики — Аура исцеления 2-го уровня
+[lbracket]FTT 204[rbracket] Intermediate Dynamics—Shield Bubble Level 2,[lbracket]FTT 204[rbracket] Средняя Динамика — Щитовая Пузырь 2-го уровня
+[lbracket]FTT 205[rbracket] Intermediate Dynamics—Boon Wave Level 2,[lbracket]FTT 205[rbracket] Средняя Динамика — Волна Благословений 2-го уровня
+[lbracket]FTT 206[rbracket] Intermediate Dynamics—Speed Wall Level 2,[lbracket]FTT 206[rbracket] Средняя Динамика — Стена Скорости 2-го уровня
+[lbracket]FTT 301[rbracket] Proficient Dynamics—Direct Damage Level 3,[lbracket]FTT 301[rbracket] Искусная Динамика — Прямой Урон 3-го уровня
+[lbracket]FTT 302[rbracket] Proficient Dynamics—Area Damage Level 3,[lbracket]FTT 302[rbracket] Искусная Динамика — Урон по Площади 3-го уровня
+[lbracket]FTT 303[rbracket] Proficient Dynamics—Healing Aura Level 3,[lbracket]FTT 303[rbracket] Совершенная динамика — Аура исцеления 3-го уровня
+[lbracket]FTT 304[rbracket] Proficient Dynamics—Shield Bubble Level 3,[lbracket]FTT 304[rbracket] Совершенная динамика — Щитовидный пузырь 3-го уровня
+[lbracket]FTT 305[rbracket] Proficient Dynamics—Boon Wave Level 3,[lbracket]FTT 305[rbracket] Искусная Динамика — Волна Благословений 3-го уровня
+[lbracket]FTT 306[rbracket] Proficient Dynamics—Speed Wall Level 3,[lbracket]FTT 306[rbracket] Искусная Динамика — Стена Скорости 3-го уровня
+[lbracket]FTT 401[rbracket] Advanced Dynamics—Direct Damage Level 4,[lbracket]FTT 401[rbracket] Продвинутая Динамика — Прямой Урон 4-го уровня
+[lbracket]FTT 402[rbracket] Advanced Dynamics—Area Damage Level 4,[lbracket]FTT 402[rbracket] Продвинутая Динамика — Урон по Площади 4-го уровня
+[lbracket]FTT 403[rbracket] Advanced Dynamics—Healing Aura Level 4,[lbracket]FTT 403[rbracket] Продвинутая динамика — Аура исцеления 4-го уровня
+[lbracket]FTT 404[rbracket] Advanced Dynamics—Shield Bubble Level 4,[lbracket]FTT 404[rbracket] Продвинутая Динамика — Щитовая Пузырь 4-го уровня
+[lbracket]FTT 405[rbracket] Advanced Dynamics—Boon Wave 4,[lbracket]FTT 405[rbracket] Продвинутая Динамика — Волна Благословений 4
+[lbracket]FTT 406[rbracket] Advanced Dynamics—Speed Wall Level 4,[lbracket]FTT 406[rbracket] Продвинутая Динамика — Стена Скорости 4-го уровня
+[lbracket]FTT[rbracket] Area-of-Effect Damage Level 1,"[lbracket]FTT[rbracket] Урон по области, уровень 1"
+[lbracket]FTT[rbracket] Area-of-Effect Damage Level 2,"[lbracket]FTT[rbracket] Урон по области, уровень 2"
+[lbracket]FTT[rbracket] Area-of-Effect Damage Level 3,[lbracket]FTT[rbracket] Урон по области 3 уровня
+[lbracket]FTT[rbracket] Area-of-Effect Damage Level 4,[lbracket]FTT[rbracket] Урон по области 4 уровня
+[lbracket]FTT[rbracket] Boon Field Level 1,[lbracket]FTT[rbracket] Поле Благодати 1 уровня
+[lbracket]FTT[rbracket] Boon Field Level 2,[lbracket]FTT[rbracket] Поле Благодати 2 уровня
+[lbracket]FTT[rbracket] Boon Field Level 3,[lbracket]FTT[rbracket] Поле Благословения 3 уровня
+[lbracket]FTT[rbracket] Boon Field Level 4,[lbracket]FTT[rbracket] Поле благословений 4 уровня
+[lbracket]FTT[rbracket] Configuring,[lbracket]FTT[rbracket] Настройка
 [lbracket]FTT[rbracket] Deployment Kit[s],
-[lbracket]FTT[rbracket] Direct Damage Level 1,
-[lbracket]FTT[rbracket] Direct Damage Level 2,
-[lbracket]FTT[rbracket] Direct Damage Level 3,
-[lbracket]FTT[rbracket] Direct Damage Level 4,
-[lbracket]FTT[rbracket] Gravimetric Tunneling Field Oscillator Level 1,
-[lbracket]FTT[rbracket] Gravimetric Tunneling Field Oscillator Level 2,
-[lbracket]FTT[rbracket] Gravimetric Tunneling Field Oscillator Level 3,
-[lbracket]FTT[rbracket] Gravimetric Tunneling Field Oscillator Level 4,
-[lbracket]FTT[rbracket] Healing Level 1,
-[lbracket]FTT[rbracket] Healing Level 2,
-[lbracket]FTT[rbracket] Healing Level 3,
-[lbracket]FTT[rbracket] Healing Level 4,
-[lbracket]FTT[rbracket] Inactive Turret,
-[lbracket]FTT[rbracket] Shielding Level 1,
-[lbracket]FTT[rbracket] Shielding Level 2,
-[lbracket]FTT[rbracket] Shielding Level 3,
-[lbracket]FTT[rbracket] Shielding Level 4,
-[lbracket]FTT[rbracket] Speed Wall Level 1,
-[lbracket]FTT[rbracket] Speed Wall Level 2,
-[lbracket]FTT[rbracket] Speed Wall Level 3,
-[lbracket]FTT[rbracket] Speed Wall Level 4,
-[lbracket]FTT[rbracket] Turret Site,
+[lbracket]FTT[rbracket] Direct Damage Level 1,"[lbracket]FTT[rbracket] Прямой урон, уровень 1"
+[lbracket]FTT[rbracket] Direct Damage Level 2,"[lbracket]FTT[rbracket] Прямой урон, уровень 2"
+[lbracket]FTT[rbracket] Direct Damage Level 3,[lbracket]FTT[rbracket] Прямой урон 3 уровня
+[lbracket]FTT[rbracket] Direct Damage Level 4,"[lbracket]FTT[rbracket] Прямой урон, уровень 4"
+[lbracket]FTT[rbracket] Gravimetric Tunneling Field Oscillator Level 1,[lbracket]FTT[rbracket] Осциллятор гравиметрического туннелирования 1 уровня
+[lbracket]FTT[rbracket] Gravimetric Tunneling Field Oscillator Level 2,[lbracket]FTT[rbracket] Осциллятор гравиметрического туннелирования уровня 2
+[lbracket]FTT[rbracket] Gravimetric Tunneling Field Oscillator Level 3,[lbracket]FTT[rbracket] Осциллятор гравиметрического туннелирования уровня 3
+[lbracket]FTT[rbracket] Gravimetric Tunneling Field Oscillator Level 4,[lbracket]FTT[rbracket] Осциллятор гравиметрического туннельного поля 4 уровня
+[lbracket]FTT[rbracket] Healing Level 1,[lbracket]FTT[rbracket] Уровень лечения 1
+[lbracket]FTT[rbracket] Healing Level 2,[lbracket]FTT[rbracket] Уровень исцеления 2
+[lbracket]FTT[rbracket] Healing Level 3,[lbracket]FTT[rbracket] Уровень Исцеления 3
+[lbracket]FTT[rbracket] Healing Level 4,[lbracket]FTT[rbracket] Уровень исцеления 4
+[lbracket]FTT[rbracket] Inactive Turret,[lbracket]FTT[rbracket] Неактивная турель
+[lbracket]FTT[rbracket] Shielding Level 1,[lbracket]FTT[rbracket] Уровень защиты 1
+[lbracket]FTT[rbracket] Shielding Level 2,"[lbracket]FTT[rbracket] Защита, уровень 2"
+[lbracket]FTT[rbracket] Shielding Level 3,[lbracket]FTT[rbracket] Уровень защиты 3
+[lbracket]FTT[rbracket] Shielding Level 4,[lbracket]FTT[rbracket] Уровень защиты 4
+[lbracket]FTT[rbracket] Speed Wall Level 1,[lbracket]FTT[rbracket] Скоростная стена 1 уровня
+[lbracket]FTT[rbracket] Speed Wall Level 2,[lbracket]FTT[rbracket] Стена скорости 2 уровня
+[lbracket]FTT[rbracket] Speed Wall Level 3,[lbracket]FTT[rbracket] Скоростная стена 3 уровня
+[lbracket]FTT[rbracket] Speed Wall Level 4,[lbracket]FTT[rbracket] Ускоряющая Стена 4-го уровня
+[lbracket]FTT[rbracket] Turret Site,[lbracket]FTT[rbracket] Узел турели
 [lbracket]G1[rbracket],[lbracket]G1[rbracket]
 [lbracket]G2[rbracket],[lbracket]G2[rbracket]
 [lbracket]G3[rbracket],[lbracket]G3[rbracket]
@@ -458,7 +458,7 @@ english,translate
 [lbracket]Guild Treasurer[rbracket],[lbracket]Казначей гильдии[rbracket]
 [lbracket]Guild Weaponsmith[rbracket],[lbracket]Оружейник гильдии[rbracket]
 [lbracket]Guild[rbracket],[lbracket]Гильдия[rbracket]
-[lbracket]GwTest-only[rbracket] I don't have any skills!,
+[lbracket]GwTest-only[rbracket] I don't have any skills!,[lbracket]GwTest-only[rbracket] У меня нет умений!
 [lbracket]Haunted Weaponsmith[rbracket],[lbracket]Оружейник с привидениями[rbracket]
 [lbracket]Haywire[rbracket],[lbracket]Неисправный[rbracket]
 [lbracket]Hazed[rbracket],[lbracket]Затуманенный[rbracket]

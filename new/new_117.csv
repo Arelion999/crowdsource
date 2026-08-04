@@ -108,8 +108,8 @@ Defeat,Поражение
 Defeat 1 Legendary-Rank Enemy,Победите 1 врага легендарного ранга
 Defeat 10 Champion-Rank Enemies,Победите 10 врагов ранга Чемпион
 Defeat 25 Enemy Guards in World vs. World,Победите 25 вражеских стражей в Мир против Мира
-Defeat 3 Enemy Players in a Structured PvP Match,
-Defeat 3 enemy invaders in World vs. World.,
+Defeat 3 Enemy Players in a Structured PvP Match,Победите 3 игрока в рейтинговом PvP-матче
+Defeat 3 enemy invaders in World vs. World.,Победите 3 вражеских захватчика в PvP.
 Defeat 50 Veteran-Rank Enemies,Победите 50 врагов ранга Ветеран
 Defeat Cinder Steeltemper,Одолейте Искру Сталекала
 "Defeat Decima, the Stormsinger","Победите Дециму, Певицу Штормов"
@@ -295,7 +295,7 @@ EMP,ЭМП
 ENRAGED,В ЯРОСТИ
 Earn 1 reward from a PvP Reward Track,Получить 1 награду из трека наград PvP
 Earn 5 Rewards from Structured Player vs. Player Reward Tracks,Получите 5 наград из треков наград в структурированном режиме «Игрок против Игрока»
-Earn 50 Rank Points in PvP Matches,
+Earn 50 Rank Points in PvP Matches,Заработайте 50 Очков Ранга в PvP Матчах
 Earned and spent in the Fractals of the Mists. Used to purchase ascended rings.,Заработано и потрачено в Туманных Осколках. Используется для покупки вознесённых колец.
 Earring,Серьга
 Ears,Уши
@@ -362,7 +362,7 @@ Energized,Заряжен
 Energy,Энергия
 Enflame,Воспламенение
 Enforcer,Силовик
-English,
+English,Английский
 Enhancement,Улучшение
 Enlarge,Увеличить
 Enlargement,Увеличение
@@ -442,7 +442,8 @@ F,F
 F%num1%,F%num1%
 FIX-0255,FIX-0255
 "FPS: %num1%
-Ping: %num2% (Avg: %num3%)",
+Ping: %num2% (Avg: %num3%)","FPS: %num1%
+Ping: %num2% (Avg: %num3%)"
 FXAA,FXAA
 Fa,Fa
 Fabeltier-Fokus,Фокус фабельтира

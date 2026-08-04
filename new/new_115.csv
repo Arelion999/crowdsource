@@ -1,10 +1,10 @@
 english,translate
-![lbracket]alt text[rbracket](https://loadinginfo.staticwars.com/uploads/2026/02/04/10-40-39-003-SeerTablet01.png),
-![lbracket]alt text[rbracket](https://loadinginfo.staticwars.com/uploads/2026/02/26/08-42-16-828-SeerTablet02.png),
-![lbracket]alt text[rbracket](https://loadinginfo.staticwars.com/uploads/2026/02/26/08-42-16-829-SeerTablet03.png),
-![lbracket]alt text[rbracket](https://loadinginfo.staticwars.com/uploads/2026/02/26/08-42-16-831-SeerTablet04.png),
-![lbracket]alt text[rbracket](https://loadinginfo.staticwars.com/uploads/2026/02/26/08-42-16-832-SeerTablet05.png),
-![lbracket]alt text[rbracket](https://loadinginfo.staticwars.com/uploads/2026/02/26/08-42-16-834-SeerTablet00.png),
+![lbracket]alt text[rbracket](https://loadinginfo.staticwars.com/uploads/2026/02/04/10-40-39-003-SeerTablet01.png),![lbracket]alt text[rbracket](https://loadinginfo.staticwars.com/uploads/2026/02/04/10-40-39-003-SeerTablet01.png)
+![lbracket]alt text[rbracket](https://loadinginfo.staticwars.com/uploads/2026/02/26/08-42-16-828-SeerTablet02.png),![lbracket]alt text[rbracket](https://loadinginfo.staticwars.com/uploads/2026/02/26/08-42-16-828-SeerTablet02.png)
+![lbracket]alt text[rbracket](https://loadinginfo.staticwars.com/uploads/2026/02/26/08-42-16-829-SeerTablet03.png),![lbracket]alt text[rbracket](https://loadinginfo.staticwars.com/uploads/2026/02/26/08-42-16-829-SeerTablet03.png)
+![lbracket]alt text[rbracket](https://loadinginfo.staticwars.com/uploads/2026/02/26/08-42-16-831-SeerTablet04.png),![lbracket]alt text[rbracket](https://loadinginfo.staticwars.com/uploads/2026/02/26/08-42-16-834-SeerTablet00.png)
+![lbracket]alt text[rbracket](https://loadinginfo.staticwars.com/uploads/2026/02/26/08-42-16-832-SeerTablet05.png),![lbracket]alt text[rbracket](https://loadinginfo.staticwars.com/uploads/2026/02/26/08-42-16-832-SeerTablet05.png)
+![lbracket]alt text[rbracket](https://loadinginfo.staticwars.com/uploads/2026/02/26/08-42-16-834-SeerTablet00.png),![lbracket]alt text[rbracket](https://loadinginfo.staticwars.com/uploads/2026/02/26/08-42-16-834-SeerTablet00.png)
 """I carry the wind.""
 
 Archers from the Dominion of the Winds have learned to harness the powerful squall magic of their forests to weave a bow made of pure wind. That bow in hand, the galeshot manipulates the gusts around them to gracefully maneuver the battlefield and carry their arrows.","""Я несу ветер.""
@@ -68,7 +68,9 @@ Marksmanship augments and improves ranged combat, utilizing a powerful opening s
 %str1%: No! No! No!,Нет! Нет! Нет %str1%!
 "+11 Vitality
 +8 Healing
-+8 Power",
++8 Power","+11 Жизнеспособности
++8 Исцеления
++8 Силы"
 "+3%% Strike Damage vs. Centaurs
 +1%% Strike Damage","+3%% Урон от ударов против Центавров
 +1%% Урон от ударов"
@@ -82,12 +84,13 @@ Marksmanship augments and improves ranged combat, utilizing a powerful opening s
 +2 Precision","+5 к урону от условий
 +2 к точности"
 "+5 Condition Damage
-+2 Vitality",
++2 Vitality","+5 Урона состоянию
++2 Жизнеспособности"
 "+5 Healing
 +2 Power","+5 к исцелению
 +2 к силе"
 "+5 Healing
-+2 Vitality",
++2 Vitality",Бафф от видового окружения
 "+5 Power
 +2 Ferocity","+5 к силе
 +2 к свирепости"

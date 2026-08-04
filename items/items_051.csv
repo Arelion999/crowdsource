@@ -191,7 +191,7 @@ Gourmet Feast: Double-click to serve Plates of Peppered Clear Truffle Ravioli to
 Gourmet Feast: Double-click to serve Plates of Poultry Aspic with Mint Garnish to anyone nearby. Feast stays active for 5 minutes.,"Гурманский пир: Дважды щелкните, чтобы подать тарелки с птичьим заливным с мятным гарниром любому рядом. Пир активен в течение 5 минут."
 Gourmet Feast: Double-click to serve Plates of Poultry Aspic with Salsa Garnish to anyone nearby. Feast stays active for 5 minutes.,"Гурманский пир: Дважды щелкните, чтобы подать тарелки с птичьим заливным с сальсой любому рядом. Пир активен в течение 5 минут."
 Gourmet Feast: Double-click to serve Plates of Sesame Poultry Aspic to anyone nearby. Feast stays active for 5 minutes.,"Гурманский пир: Дважды щелкните, чтобы подать тарелки с кунжутным птичьим заливным любому рядом. Пир активен в течение 5 минут."
-Gourmet Feast: Double-click to serve Plates of Sesame-Crusted Coq Au Vin to anyone nearby. Feast stays active for 5 minutes.,
+Gourmet Feast: Double-click to serve Plates of Sesame-Crusted Coq Au Vin to anyone nearby. Feast stays active for 5 minutes.,"Пир гурмана: дважды щёлкните, чтобы подать тарелки с курицей в соевом соусе кому-либо рядом. Пир длится 5 минут."
 Gourmet Feast: Double-click to serve Plates of Sesame-Ginger Beef Carpaccio to anyone nearby. Feast stays active for 5 minutes.,"Гурманский пир: Дважды щелкните, чтобы подать тарелки с кунжутно-имбирным карпаччо из говядины любому рядом. Пир активен в течение 5 минут."
 Gourmet Feast: Double-click to serve Salsa Eggs Benedicts to anyone nearby. Feast stays active for 5 minutes.,"Гурманский пир: Дважды щелкните, чтобы подать яйца Бенедикт с сальсой любому рядом. Пир активен в течение 5 минут."
 Gourmet Feast: Double-click to serve Salsa-Topped Veggie Flatbreads to anyone nearby. Feast stays active for 5 minutes.,"Гурманский пир: Дважды щелкните, чтобы подать вегетарианские лепёшки с сальсой любому рядом. Пир активен в течение 5 минут."
@@ -249,7 +249,7 @@ Grant might and fury to nearby allies after using a healing skill.,Дает мо
 "Grant might and fury to nearby allies when you disable an enemy. 
 <c=@reminder>Disables include stun, taunt, daze, knockback, pull, knockdown, sink, float, fear, and launch.</c>",
 Grant protection and magnetic aura to allies after using an elite skill.,Дает защиту и магнитную ауру союзникам после использования элитного умения.
-Grant superspeed to nearby allies after using an elite skill.,
+Grant superspeed to nearby allies after using an elite skill.,Наделите союзников вокруг себя сверхскоростью после применения умения элиты.
 "Grant superspeed, might, and fury to nearby allies after using an elite skill.","Даруйте сверхскорость, могущество и ярость союзникам поблизости после использования элитного умения."
 "Grant yourself aegis, quickness, swiftness, resistance, and might when striking an enemy with your mount's <c=@abilitytype>engage</c> skill.","Даруйте себе эгиду, быстроту, скорость, сопротивление и могущество, когда поражаете врага умением <c=@abilitytype>атаки</c> вашего скакуна."
 Grant yourself and nearby allies superspeed when you enter or exit stealth.,"Даруйте себе и союзникам поблизости сверхскорость, когда вы входите или выходите из скрытности."
@@ -315,9 +315,9 @@ Grants a large amount of Visions of Eternity Mastery experience.,Дает бол
 "Grants a moderate amount of karma.
 <c=@Flavor>The Elon River School of Painting flourished until an ill-fated salon questioned official narratives.</c>",
 Grants a percentage of renown for the current renown heart region upon purchase.,При покупке дает процент известности для текущей зоны известности.
-Grants a permanent 1%% increase to account gold find.,
+Grants a permanent 1%% increase to account gold find.,Даёт постоянное увеличение на 1% к шансу найти золото.
 Grants a permanent 2%% increase to account gold find.,Дает постоянное увеличение поиска золота учетной записью на 2%%.
-Grants a player five lives inside the Super Adventure Box. See Moto in Rata Sum for details on how to play.,
+Grants a player five lives inside the Super Adventure Box. See Moto in Rata Sum for details on how to play.,"Даёт игроку пять жизней внутри Супер-Приключенческого Ящика. Обратитесь к Мото в Рата Сум для получения подробной информации о том, как играть."
 Grants a small amount of Castora Mastery experience.,Дает небольшое количество опыта мастерства Касторы.
 Grants a small amount of Central Tyria Mastery experience.,Дает небольшое количество опыта мастерства Центральной Тирии.
 Grants a small amount of Crystal Desert Mastery experience.,Дает небольшое количество опыта мастерства Кристальной пустыни.
@@ -423,7 +423,7 @@ Grants a small amount of WvW Reward Track progress.,Дает небольшое 
 "Grants a tiny amount of karma.
 <c=@Flavor>This sliver dust should be scattered across the lands that Vlast once protected.</c>","Даёт крошечное количество кармы.
 <c=@Flavor>Эту серебряную пыль следует развеять по землям, которые когда-то защищал Власт.</c>"
-Grants access to Champion's Rest in the PvP Lobby.,
+Grants access to Champion's Rest in the PvP Lobby.,Даёт доступ к Отдыху Чемпиона в лобби PvP.
 Grants access to Champion's Rest in the PvP Lobby. Redeemable at any time. Expires two weeks after first use. Double-click to display the pass.,"Даёт доступ к Покою Чемпиона в зале ожидания PvP. Можно активировать в любое время. Истекает через две недели после первого использования. Дважды щёлкните, чтобы показать пропуск."
 Grants access to the Havoc's Heir airship. Double-click to travel to the airship.,"Даёт доступ к дирижаблю «Наследник Раздора». Дважды щёлкните, чтобы переместиться на дирижабль."
 Grants access to the Havoc's Heir over Gendarran Fields. Redeemable at any time. Expires two weeks after first use. Double-click to use.,"Даёт доступ к дирижаблю «Наследник Раздора» над Гендарранскими полями. Можно активировать в любое время. Истекает через две недели после первого использования. Дважды щёлкните, чтобы использовать."
@@ -468,7 +468,8 @@ Grants credit toward collecting a Branded Trophy.,Дает вклад в пол�
 Grants credit toward the Experimentation collection.,Зачисляется в счет коллекции «Экспериментирование».
 Grants experience on receipt.,Даёт опыт при получении.
 "Grants one character level if below level 80 or one spirit shard if level 80.
-Only usable in PvE and WvW.",
+Only usable in PvE and WvW.","Даёт один уровень персонажа, если ниже 80-го, или один осколок духа, если 80-й.
+Используется только в PvE и WvW."
 "Grants progress toward the Significant Otter achievement. If the achievement is complete, reveals a vision of Otter.
 <c=@flavor>The norn may have fled these lands, but their memories remain.</c>","Даёт прогресс в достижении «Значимая выдра». Если достижение завершено, открывает видение Выдры.
 <c=@flavor>Норны могли покинуть эти земли, но их воспоминания остались.</c>"

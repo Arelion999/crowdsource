@@ -62,7 +62,7 @@ Along an eastern Uplands cliff. (11),Вдоль восточного утёса 
 Along for the Ride,Вместе в путь
 "Along the River of Rilohn sits a large orange tree; with a view of the fortress, true love's flowers be.","Вдоль реки Рилон растёт большое апельсиновое дерево; с видом на крепость, там цветы истинной любви."
 Alpha Call,Альфа-вызов
-Alpha CRC,
+Alpha CRC,Альфа-контроль качества
 Alpha Experiment<br>Reserve,Альфа-эксперимент<br>Резерв
 Alpha Follower,Последователь альфы
 Alpha Siege Golem,Осадный голем-альфа
@@ -88,7 +88,7 @@ Already enrolled in a tournament.,Уже зарегистрирован в ту�
 Already in a roster,Уже в составе
 Already in use by: %str1% - %str2%,Уже используется: %str1% - %str2%
 Already registered,Уже зарегистрирован
-Alt + left-click to place a personal marker.<br>Shift + left-click to leave a ping.<br>Shift + right-drag to draw on your map.,
+Alt + left-click to place a personal marker.<br>Shift + left-click to leave a ping.<br>Shift + right-drag to draw on your map.,Alt + левая кнопка мыши — установить личный маркер.<br>Shift + левая кнопка мыши — отправить сигнал.<br>Shift + правая кнопка мыши с перетаскиванием — нарисовать на карте.
 Altar (Blue)<brx>• Defeat greater elemental to hold and capture objective<br>• Defeat elementals to power altar<br>• Commune with powered altar to receive immunity boon<br>• 30 points on capture<br>• 10 points per scoring tick,"Алтарь (синий)<brx>• Победите великого элементаля, чтобы захватить и удержать цель<br>• Победите элементалей, чтобы зарядить алтарь<br>• Взаимодействуйте с заряженным алтарём, чтобы получить усиление неуязвимости<br>• 30 очков за захват<br>• 10 очков за каждый отсчёт"
 Altar (Green)<brx>• Defeat greater elemental to hold and capture objective<br>• Defeat elementals to power altar<br>• Commune with powered altar to receive immunity boon<br>• 30 points on capture<br>• 10 points per scoring tick,"Алтарь (зелёный)<brx>• Победите великого элементаля, чтобы захватить и удержать цель<br>• Победите элементалей, чтобы зарядить алтарь<br>• Взаимодействуйте с заряженным алтарём, чтобы получить усиление неуязвимости<br>• 30 очков за захват<br>• 10 очков за каждый отсчёт"
 Altar (Neutral)<brx>• Defeat greater elemental to hold and capture objective<br>• Defeat elementals to power altar<br>• Commune with powered altar to receive immunity boon<br>• 30 points on capture<br>• 10 points per scoring tick,"Алтарь (нейтральный)<brx>• Победите великого элементаля, чтобы захватить и удержать цель<br>• Победите элементалей, чтобы зарядить алтарь<br>• Взаимодействуйте с заряженным алтарём, чтобы получить усиление неуязвимости<br>• 30 очков за захват<br>• 10 очков за каждый отсчёт"
@@ -102,7 +102,7 @@ Alternate Aquatic Weapon,Альтернативное водное оружие
 Alternate Main-Hand Weapon,Альтернативное основное оружие
 Alternate Off-Hand Weapon,Альтернативное дополнительное оружие
 Alternative shop exit.,Альтернативный выход из магазина.
-"Alternatively, purchase <c=#E5C973>Guild Wars 2: Path of Fire</c> and <c=#E5C973>Living World Season 4</c> and unlock the <c=#E5C973>Skyscale Mount</c> Mastery track to access the skyscale permanently.",
+"Alternatively, purchase <c=#E5C973>Guild Wars 2: Path of Fire</c> and <c=#E5C973>Living World Season 4</c> and unlock the <c=#E5C973>Skyscale Mount</c> Mastery track to access the skyscale permanently.","В качестве альтернативы приобретите <c=#E5C973>Guild Wars 2: Тропа Огня</c> и <c=#E5C973>Живая Сага: Сезон 4</c> и откройте ветку Мастерства <c=#E5C973>Скайскейл</c>, чтобы получить постоянный доступ к этому ездовому зверю."
 "Alternatively, you can visit your profession trainer in a major city to purchase this trait.","В качестве альтернативы, вы можете посетить своего тренера профессии в крупном городе, чтобы приобрести эту черту."
 "Alters the energy color of the left Eikasia, Mists-Grasper hand.+5 Power+9 Agony Resistance","Изменяет цвет энергии левой руки Эйкасии, Хватающей Туман.+5 к силе+9 к сопротивлению страданию"
 "Alters the energy color of the right Eikasia, Mists-Grasper hand.+5 Power+9 Agony Resistance","Изменяет цвет энергии правой руки Эйкасии, Хватающей Туман.+5 к силе+9 к сопротивлению страданию"
@@ -143,7 +143,7 @@ Amber Sandfall has been taken by the Pact.,Янтарный водопад за�
 Amber Sandfall is under attack!,Янтарный водопад под атакой!
 "Amber Trout[pl:""Trout""]",
 Amber Wurm,Янтарный червь
-"Amberjack[pl:""Amberjack""]",
+"Amberjack[pl:""Amberjack""]",Янтарный тунец[тунца|тунца|тунцов]
 Ambient Audio,Звуки окружения
 Ambient Occlusion,Затенение фонового света
 Ambient Species Buff,Усиление окружающих видов
@@ -166,7 +166,7 @@ Ambrite Fossilized Millipede[s],Янтарная окаменелая много
 Ambrite Fossilized Spider[s],Янтарный окаменелый паук[|а|ов]
 Ambrite Fossilized Termite[s],Янтарный окаменелый термит[|а|ов]
 "Ambrite Stash[pl:""Stashes""]",
-Ambulatory<br>Preparation Facility,
+Ambulatory<br>Preparation Facility,Передвижной<br>Подготовительный Комплекс
 Ambush 1,Засада 1
 Ambush 2,Засада 2
 Ambush 3,Засада 3
@@ -204,10 +204,10 @@ Amnytas Feathered Raptors Mounts Pack now available!,Набор ездовых �
 "Amnytas Gear Box[pl:""Boxes""]",
 Amnytas Hoard[s],Клад[|а|ов] Амнитаса
 "Amnytas is suffering, but those who seek balance are suffering worst of all. Why debate it? Break open the hall and help them find peace.","Амнит страдает, но те, кто ищет равновесия, страдают больше всех. Зачем спорить? Взломайте зал и помогите им обрести покой."
-"Amnytas Strongbox[pl:""Strongboxes""]",
+"Amnytas Strongbox[pl:""Strongboxes""]",Сейф[ы|а|ов] Амнитас
 Amnytas Supply Run,Доставка припасов Амнит
-Amnytas: Commander's Choice Chest[s],
-Amnytas: Hero's Choice Chest[s],
+Amnytas: Commander's Choice Chest[s],Амнитас: Сундук на выбор командира[ов|а|ов]
+Amnytas: Hero's Choice Chest[s],Амнитас: Сундук Героя[ев]
 Among tents staked above the stables. (20),"Среди палаток, разбитых над конюшнями. (20)"
 "Among the choya, the title of Sage is probably important. But who could say? It's not an exhaustively researched field.","Среди чойя титул Мудреца, вероятно, важен. Но кто может сказать? Это не досконально изученная область."
 Among the dead.,Среди мёртвых.
@@ -308,7 +308,7 @@ An Onyx Bouquet for Broadleaf,Ониксовый букет для Бродли�
 "An Order of Whispers agent, Benn Tenstrikes, was imprisoned by legate Minister Caudecus. The crime? Benn helped the minister's daughter Demmi escape Kryta—and her father's iron grasp.","Агент Ордена Шепота, Бенн Десять Ударов, был заключен в тюрьму легатом министром Каудекусом. Преступление? Бенн помог дочери министра, Демми, сбежать из Криты — и из железной хватки ее отца."
 An orichalcum node has been added to your home instance.,В вашу домашнюю локацию добавлен орихалковый узел.
 "An ornamental skull from Lagula's mantle, not Lagula's head.","Декоративный череп с каминной полки Лагулы, а не череп Лагулы."
-An Orrian truffle node has been added to your home instance.,
+An Orrian truffle node has been added to your home instance.,Узел Оррского трюфеля добавлен в вашу домашнюю инстанцию.
 An Unchained wave appeared!,Появилась волна Неприкованных!
 An undying terror grips you.,Вас охватывает бессмертный ужас.
 An Update on Our Mother,Новости о нашей матери
@@ -343,7 +343,7 @@ Ancient Bust,Древний бюст
 Ancient Canthan Armors,Древние кантанские доспехи
 Ancient Canthan Boot Skins,Облики древних кантанских сапог
 Ancient Canthan Coat Skins,Облики древних кантанских курток
-Ancient Canthan Glove Skins,
+Ancient Canthan Glove Skins,Облики древних кантановских перчаток
 Ancient Canthan Headgear Skins,Облики древних кантанских головных уборов
 Ancient Canthan Leggings Skin[s],
 Ancient Chest,Древний сундук

@@ -30,7 +30,7 @@ WvW Tournament Claim Ticket,Билет получения награды тур�
 WvW Weapons Locker,Оружейный сейф ПвП-мира
 WXP Booster,
 WxP Enrichment,
-WXP Mini-Booster,
+WXP Mini-Booster,Мини-усилитель опыта
 Wyld Greatsword,Дикий большой меч
 Wyld Hunt Training Bow,Тренировочный лук Дикой Охоты
 Wyld Hunt Training Short Bow,Тренировочный короткий лук Дикой Охоты
@@ -51,10 +51,10 @@ Xera's Coffer,
 Xera's Mask Skin,
 Xera's Ribbon Scrap,Обрывок ленты Ксеры
 XI: The Inevitable,XI: Неизбежный
-XII: The Endless,
-XIII: The Templar,
-XIV: Patience,
-XIX: Sunrise,
+XII: The Endless,XII: Бесконечность
+XIII: The Templar,XIII: Рыцарь
+XIV: Patience,XIV: Терпение
+XIX: Sunrise,XIX: Рассвет
 Xoul Igra Zhoss Elegy Mosaic,
 Xunlai Aether Detector,Детектор эфира Сюньлай
 Xunlai Deep-Mining Hand Drill,Ручная дрель для глубокой добычи Сюньлай
@@ -62,11 +62,11 @@ Xunlai Electrum Ingot,Слиток ксунлайского электрума
 Xunlai Nephrite Crusher,Дробилка нефрита Сюньлай
 Xunlai Security Stun Club,Электрошоковая дубинка Службы безопасности Сунлай
 XV: The Fiend,XV: Демон
-XVI: The Tower of Secrets,
-XVII: The Cosmos,
-XVIII: Twilight,
+XVI: The Tower of Secrets,XVI: Башня Тайн
+XVII: The Cosmos,XVII: Космос
+XVIII: Twilight,XVIII: Сумерки
 XX: The Young Dragon,XX: Юный Дракон
-XXI: The Eye,
+XXI: The Eye,XXI: Око
 Yakkington's Chestguard,Нагрудник Яккингтона
 Yakkington's Gauntlets,Рукавицы Яккингтона
 Yakkington's Greaves,Наголенники Яккингтона
@@ -154,7 +154,9 @@ You become a Grawl Snowman for 5 min.,Вы становитесь Снегови
 <c=@flavor>""Помни Сову""</c>"
 "You cannot help but hide this jar from others.
 
-<c=@flavor>Impulsive choices can cause regret to crystallize.</c>",
+<c=@flavor>Impulsive choices can cause regret to crystallize.</c>","Ты не можешь удержаться от того, чтобы прятать эту банку от других.
+
+<c=@flavor>Импульсивные решения могут заставить сожаление кристаллизоваться.</c>"
 You consulted an expert.,Вы проконсультировались со специалистом.
 You fed the skyscale Gorrik's medicine.,Вы скормили скайскейлу лекарство Горрика.
 You feel a tremendous weight holding this vessel—one of regret and uncertainty.,"Вы чувствуете огромную тяжесть, удерживающую этот сосуд — тяжесть сожаления и неуверенности."
@@ -173,10 +175,14 @@ You rescued your skyscale.,Вы спасли своего скайскейля.
 You should return this letter to Dessa.,Тебе следует вернуть это письмо Дессе.
 "You simply cannot wait to find the material that belongs in this jar.
 
-<c=@flavor>Who would have thought education could be so thrilling?</c>",
+<c=@flavor>Who would have thought education could be so thrilling?</c>","Вы не можете дождаться, чтобы найти материал, который должен быть в этой банке.
+
+<c=@flavor>Кто бы мог подумать, что образование может быть таким захватывающим?</c>"
 "You would much rather not be carrying this jar.
 
-<c=@flavor>The searing fire of rage bubbles over into a cauldron of contempt.</c>",
+<c=@flavor>The searing fire of rage bubbles over into a cauldron of contempt.</c>","Вам бы очень не хотелось тащить эту банку.
+
+<c=@flavor>Обжигающая ярость переливается в котёл презрения.</c>"
 You'd be surprised how many pumpkins he goes through to get it just right.,"Вы удивитесь, сколько тыкв он перебирает, чтобы добиться идеального результата."
 "You've attacked a lot of neutral creatures this year, haven't you?","Вы напали на много нейтральных существ в этом году, не так ли?"
 "You've done very well not to tear the paper. You're sure you'll reuse it, but you won't.","Вы очень хорошо постарались не порвать бумагу. Вы уверены, что переиспользуете её, но не сделаете этого."
@@ -184,12 +190,14 @@ You'd be surprised how many pumpkins he goes through to get it just right.,"Вы
 Your admirable performance merits greater recognition. This letter will grant 400 Influence to the guild you represent when you use it.,"Ваше восхитительное выступление заслуживает большего признания. Это письмо принесет 400 влияния гильдии, которую вы представляете, когда вы его используете."
 "Your annual chance to pick your account-wide achievement rewards!
 
-Double-click to open.",
+Double-click to open.","Ваша ежегодная возможность выбрать награды за Достижения для всего аккаунта!
+
+Дважды щелкните, чтобы открыть."
 Your Awakened Ancestor and You,Ваш Пробуждённый Предок и Вы
 Your connection to Otter has granted you extra rewards.,Ваша связь с Выдрой дала вам дополнительные награды.
-"Your generous ""donation"" merits greater recognition. This letter grants 1,000 Influence to the guild you represent when you use it.",
-"Your generous ""donation"" merits greater recognition. This letter grants 10 Influence to the guild you represent when you use it.",
-"Your generous ""donation"" merits greater recognition. This letter grants 100 Influence to the guild you represent when you use it.",
+"Your generous ""donation"" merits greater recognition. This letter grants 1,000 Influence to the guild you represent when you use it.","Ваше щедрое «пожертвование» заслуживает большего признания. При использовании это письмо приносит 10 000 влияния гильдии, которую вы представляете."
+"Your generous ""donation"" merits greater recognition. This letter grants 10 Influence to the guild you represent when you use it.","Ваше щедрое «пожертвование» заслуживает большего признания. При использовании это письмо приносит 10 000 влияния гильдии, которую вы представляете."
+"Your generous ""donation"" merits greater recognition. This letter grants 100 Influence to the guild you represent when you use it.","Ваше щедрое «пожертвование» заслуживает большего признания. Это письмо дарует 100 Влияния гильдии, которую вы представляете, когда вы его используете."
 "Your jade bot enhances your skiff's engine, increasing the speed by 15%%.","Ваш джед-бот улучшает двигатель вашего скифа, увеличивая скорость на 15%%."
 "Your jade bot enhances your skiff's engine, increasing the speed by 20%%.","Ваш джед-бот улучшает двигатель вашего скифа, увеличивая скорость на 20%%."
 "Your jade bot enhances your skiff's engine, increasing the speed by 25%%.","Ваш джед-бот улучшает двигатель вашего скифа, увеличивая скорость на 25%%."

@@ -11,7 +11,7 @@ Show All,Показать всё
 "Show all characters, the environment, and all objects in reflections.","Показать всех персонажей, окружение и все объекты в отражениях."
 Show All Commander Tags,Показать все метки командира
 Show All Enemy Names,Показать все имена врагов
-Show All NPC Names,
+Show All NPC Names,Показывать имена всех NPC
 Show All Party Names,Показать все имена группы
 Show All Pet/Minion/Etc. Names,Показать все имена питомцев/миньонов/и т.д.
 Show All Player Names,Показать все имена игроков
@@ -31,7 +31,7 @@ Show Enemy Names,Показать имена врагов
 Show enemy names as overhead text.,Показать имена врагов в виде текста над головой.
 Show floating status for your player's info,Показывать плавающий статус для информации о вашем персонаже
 Show floating status for your target's info,Показывать плавающий статус для информации о вашей цели
-Show FPS,
+Show FPS,Показать FPS
 Show guides for known skills,Показывать подсказки для известных умений
 Show Helm,Показать шлем
 Show In-world Bubbles,Показать пузыри в мире
@@ -43,7 +43,7 @@ Show Me,Показать меня
 Show Mercy,Показать милосердие
 Show Moto an Infinite Continue Coin in Rata Sum to acquire this mail carrier. You'll need to purchase an Infinite Continue Coin if you don't already own one.,"Покажите Мото Бесконечную монету продолжения в Рата Суме, чтобы получить этого почтового курьера. Вам нужно будет приобрести Бесконечную монету продолжения, если у вас её ещё нет."
 Show New Item Highlights,Показывать подсветку новых предметов
-Show NPC names as overhead text.,
+Show NPC names as overhead text.,Отображать имена NPC над головой.
 Show of Support[s]: Skimmer Ranch,Демонстраци[я|и|й] поддержки: Скопаранч
 Show Off,Отключить
 Show off the item you're holding to a nearby art enthusiast to receive a hint.,"Продемонстрируйте предмет, который вы держите, находящемуся рядом ценителю искусства, чтобы получить подсказку."
@@ -62,7 +62,7 @@ Show or hide the entire UI.,Показать или скрыть весь инт
 Show penitence at the Tree of Solitude.,Показать покаяние у Древа Одиночества.
 Show player names as overhead text.,Показывать имена игроков как текст над головой.
 Show Prop IDs,Показать ID объектов
-Show PvE Equipment,
+Show PvE Equipment,Показать Снаряжение для PvE
 Show PvP Equipment,Показать PvP снаряжение
 Show range indicator on first press; cast on second.,Показывать индикатор дальности при первом нажатии; применение при втором.
 Show range indicator on key press; cast on key release.,Показывать индикатор дальности при нажатии клавиши; применение при отпускании.
@@ -217,12 +217,12 @@ Siege equipment can be constructed while participating in World vs. World.,Ос�
 Siege Golem,Осадный голем
 Siege Golem Blueprint[s],[Чертёж|Чертежа|Чертежей] осадного голема
 Siege Golem Build Site,Место сборки осадного голема
-Siege Golem Mastery III: Shield Bubble heals allies,
+Siege Golem Mastery III: Shield Bubble heals allies,Мастерство Осадного Голема III: Щитовой пузырь лечит союзников.
 Siege Golem Mastery V: Eject when destroyed,Мастерство осадного голема V: Катапультирование при уничтожении
 Siege Merchant<br>• Purchase siege weapon blueprints,Торговец осадными орудиями<br>• Купить чертежи осадных орудий
 Siege Might I,Осадная мощь I
 Siege Might II,Осадная мощь II
-Siege Might III,
+Siege Might III,Осадная Сила III
 Siege Might IV,Осадная мощь IV
 Siege Might V,Осадная мощь V
 Siege Novice's Guide[s],[Руководство|Руководства|Руководств] новичка по осадным орудиям
@@ -393,17 +393,17 @@ Silver Bolt,Серебряный болт
 Silver Chain[s],[Серебряная цепь|Серебряной цепи|Серебряных цепей]
 "Silver Conjured Amalgamate Trophy[pl:""Trophies""]",
 Silver Cowbell[s],[Серебряный колокольчик|Серебряного колокольчика|Серебряных колокольчиков]
-"Silver Decima Trophy[pl:""Trophies""]",
+"Silver Decima Trophy[pl:""Trophies""]",Серебряный Децима трофей[и]
 Silver Deer Chest,Серебряный олений сундук
 Silver Dolyak Chest,Серебряный сундук дольяка
 Silver Doubloon[s],[Серебряный дублон|Серебряных дублона|Серебряных дублонов]
 Silver Dragon Chest,Серебряный драконий сундук
 Silver Dragon Scale Replica[s],[Копия|Копии|Копий] чешуи Серебряного дракона
-"Silver Drum[pl:""Drums""]",
+"Silver Drum[pl:""Drums""]",Серебряный Барабан[ы|а|ан]
 Silver Dye[s],[Серебряный краситель|Серебряного красителя|Серебряных красителей]
 "Silver Ether Djinn Trophy[pl:""Trophies""]",
 Silver Filigree[s],[Серебряная филигрань|Серебряной филиграни|Серебряных филиграней]
-"Silver Greer Trophy[pl:""Trophies""]",
+"Silver Greer Trophy[pl:""Trophies""]",Серебряный трофей Грира[и]
 Silver Hook[s],[Серебряный крюк|Серебряного крюка|Серебряных крюков]
 Silver Ingot[s],[Серебряный слиток|Серебряного слитка|Серебряных слитков]
 Silver Lead Dye[s],[Серебряный свинцовый краситель|Серебряного свинцового красителя|Серебряных свинцовых красителей]
@@ -411,7 +411,7 @@ Silver League,Серебряная лига
 Silver Medal,Серебряная медаль
 Silver medal earned!,Серебряная медаль получена!
 Silver medal earned.,Серебряная медаль получена.
-"Silver Moony[pl:""Moonies""]",
+"Silver Moony[pl:""Moonies""]",Серебряный лунный[лунного|лунного|лунных]
 Silver Mordremoth Trophy[s],[Трофей|Трофея|Трофеев] Серебряного Мордремота
 Silver Nib[s],[Серебряное перо|Серебряного пера|Серебряных перьев]
 Silver Phoenix Chest,Сундук Серебряного Феникса
@@ -423,10 +423,10 @@ Silver Setting[s],[Серебряная оправа|Серебряной опр
 Silver Shark Chest,Сундук Серебряной акулы
 Silver Tiger Chest,Сундук Серебряного тигра
 "Silver Twin Largos Trophy[pl:""Trophies""]",
-"Silver Ura Trophy[pl:""Trophies""]",
+"Silver Ura Trophy[pl:""Trophies""]",Серебряный Ура трофей[и]
 Silver Wolf Chest,Сундук Серебряного Волка
 Silver WvW Rank (620–1394),Серебряный ранг WvW (620–1394)
-"Silverfish[pl:""Silverfish""]",
+"Silverfish[pl:""Silverfish""]",Серебрянка[ы|ые|их]
 Silverwastes Chest,Сундук Серебряных Пустошей
 Silverwastes Reward Track,Трек наград Серебряных Пустошей
 Silverwastes Shovel[s],[Лопата|Лопаты|Лопат] Серебряных Пустошей
@@ -445,7 +445,7 @@ Simple Party UI,Простой интерфейс группы
 "Simple Scribe's Tools[pl:""Tools""]",
 Simple Scribing Kit[s],[Простой набор для скрибинга|Простых набора для скрибинга|Простых наборов для скрибинга]
 Simple Sharpening Stone[s],[Простой точильный камень|Простых точильных камня|Простых точильных камней]
-"Simple Shelf[pl:""Shelves""]",
+"Simple Shelf[pl:""Shelves""]",Простая полка[полки]
 Simple Stool Unlocked,Простой табурет разблокирован
 Simple Table[s],[Простой стол|Простых стола|Простых столов]
 Simple Window[s],[Простое окно|Простых окна|Простых окон]

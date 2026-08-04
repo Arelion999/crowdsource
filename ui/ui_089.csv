@@ -24,7 +24,7 @@ Lesson: Hunting,Урок: Охота
 Lesson: Remembrance,Урок: Память
 Lesson: The Way of the Jungle,Урок: Путь джунглей
 "Lessons[pl:""Lessons""] in Arbology",
-"Lessons[pl:""Lessons""] in Metallurgy",
+"Lessons[pl:""Lessons""] in Metallurgy",Уроки[ы] Металлургии
 Lest die Titanen-Geschichtsbücher in Sammlersruh.,Пусть книги истории титанов покоятся в Саммлерсру.
 "Let loose a belch to damage your opponent. The lower your health, the more powerful it is.","Испустите отрыжку, чтобы нанести урон противнику. Чем меньше ваше здоровье, тем она сильнее."
 Let loose a belch. Reduces opponent's health depending on player's health percentage. No damage if used against Drink. Negates healing if used against Water. Punishes if used against Bluff.,"Испустите отрыжку. Снижает здоровье противника в зависимости от процента здоровья игрока. Не наносит урон, если используется против Напитка. Отменяет лечение, если используется против Воды. Наказывает, если используется против Блефа."
@@ -139,7 +139,7 @@ Letters 1–4,Письма 1–4
 Letters 5–8,Письма 5–8
 Letters 9–12,Письма 9–12
 Letters of Influence,Письма влияния
-"Lettuce Seed Pouch[pl:""Pouches""]",
+"Lettuce Seed Pouch[pl:""Pouches""]",Мешочек с семенами салата[ы]
 Level %num1%,Уровень %num1%
 Level %num1% %str1%,Уровень %num1% %str1%
 Level %num1% %str1% %str2%,Уровень %num1% %str1% %str2%
@@ -247,7 +247,7 @@ Ley-Infused Ghost Flayer,Лей-насыщенный призрачный жив
 Ley-Infused Heart,Лей-насыщенное сердце
 Ley-Infused Hydra,Лей-насыщенная гидра
 Ley-Infused Lodestone[s],Магнетит[|а|ов] пропитанный магией линий
-"Ley-Infused Matrix[pl:""Matrices""]",
+"Ley-Infused Matrix[pl:""Matrices""]","Матрица, пропитанная леем[матрицы|матриц|матриц]"
 Ley-Infused Sand[s],Песок[|а|ов] пропитанный магией линий
 Ley-Infused Shadow Elemental,Лей-насыщенный теневой элементаль
 Ley-Jade Crystal,Лей-нефритовый кристалл
@@ -299,9 +299,9 @@ Ley-Magic Nodes,Узлы магии линий
 "Leystone Boot Box[pl:""Boxes""]",
 "Leystone Coat Box[pl:""Boxes""]",
 "Leystone Glove Box[pl:""Boxes""]",
-"Leystone Headgear Box[pl:""Boxes""]",
+"Leystone Headgear Box[pl:""Boxes""]",Головной Убор с Лейстоуном [мн:«Уборы»]
 "Leystone Legging Box[pl:""Boxes""]",
-"Leystone Shoulder Box[pl:""Boxes""]",
+"Leystone Shoulder Box[pl:""Boxes""]",Ящик для плечевой руны[и|ы|ок]
 LFG System Abuse,Злоупотребление системой поиска группы
 "Lhezza has decrypted a number of seer enchantments that she believes will help realign the Stewards of Galdra when they are compromised by Inquest interference.    If a steward appears unresponsive, perform the following spell:  *Frusto Lieve Sonno*     If a steward appears overwhelmed, perform the following spell:  *Sonno Frusto Lieve*",
 Li'l Letter Opener (Level 18),Маленький открыватель писем (18 уровень)

@@ -41,8 +41,8 @@ Synergetics Torch Skin[s],[Облик|Облика|Обликов] факела 
 Synergetics Warhorn Skin[s],[Облик|Облика|Обликов] боевого рога «Синергетика»
 Synergetics Weapons,Оружие «Синергетика»
 Synergetics<br>Union,Синергетика<br>Союз
-Syntax: /.collectoradd REWARD-ID PASSWORD [lbracket]TROPHY_COUNT[rbracket] [lbracket]TROPHY_NAME[rbracket],
-Syntax: /.mark [lbracket]event #[rbracket] [lbracket]player name[rbracket],
+Syntax: /.collectoradd REWARD-ID PASSWORD [lbracket]TROPHY_COUNT[rbracket] [lbracket]TROPHY_NAME[rbracket],Синтаксис: /.collectoradd ID_НАГРАДЫ ПАРОЛЬ [lbracket]КОЛИЧЕСТВО_ТРОФЕЕВ[rbracket] [lbracket]НАЗВАНИЕ_ТРОФЕЯ[rbracket]
+Syntax: /.mark [lbracket]event #[rbracket] [lbracket]player name[rbracket],Синтаксис: /.mark [lbracket]событие #[rbracket] [lbracket]имя игрока[rbracket]
 Syska's Greatsword,Большой меч Сыски
 System & Network Engineering,Системная и сетевая инженерия
 System Architect Repro 2.0,
@@ -120,7 +120,7 @@ Tailoring Bench,Портновский верстак
 Tailoring Station,Портновский станок
 Tails: Convert boons on yourself into conditions.,Хвосты: Преобразуйте свои благословения в состояния.
 Tails: Gain initiative and remove conditions on yourself.,Хвосты: Получите инициативу и снимите с себя состояния.
-"Taimen[pl:""Taimens""]",
+"Taimen[pl:""Taimens""]",Таймень[таймень|таймени|тайменей]
 "Taimi doesn't always understand me, but she helps other people understand me since she can hold a conversation with me by herself. Although...I wouldn't miss it if she stopped giving me a squeaky voice.","Тайми не всегда понимает меня, но она помогает другим людям понимать меня, так как сама может поддерживать со мной разговор. Хотя... я бы не скучал, если бы она перестала давать мне писклявый голос."
 "Taimi has requested your presence in Rata Novus. Apparently, Rata Sum has a secret gate that will take you there.","Тайми просит вашего присутствия в Рата Новус. По-видимому, у Рата Сум есть секретные врата, которые приведут вас туда."
 Taimi's Dye Kit[s],Набор[|а|ов] красителей Тайми
@@ -193,13 +193,13 @@ Take a torch from the campfire in Sootberme in Mount Maelstrom and use it to kil
 Take a torch from the grawl village near Safewatch Vale in Frostgorge Sound and use it to kill a Veteran Alpine Stalker.,"Возьмите факел из деревни граулов у Безопасной Долины в Звуках Морозного Ущелья и используйте его, чтобы убить Ветерана-Альпийского Хищника."
 Take a torch from the grawl village near Safewatch Vale in Frostgorge Sound and use it to kill a Veteran Arctodus.,"Возьмите факел из деревни граулов у Безопасной Долины в Звуках Морозного Ущелья и используйте его, чтобы убить Ветерана-Арктодуса."
 Take a torch from the grawl village near Safewatch Vale in Frostgorge Sound and use it to kill a Veteran Eagle Griffon.,"Возьмите факел из деревни граулов у Безопасной Долины в Звуках Морозного Ущелья и используйте его, чтобы убить Ветерана-Орлиного Грифона."
-Take a torch from the grawl village near Safewatch Vale in Frostgorge Sound and use it to kill a Veteran Longhorn Sheep.,
-Take a torch from the grawl village near Safewatch Vale in Frostgorge Sound and use it to kill a Veteran Pinesoul.,
-Take a torch from the grawl villages in Fireheart Rise and use it to kill a Veteran Black Bear.,
-Take a torch from the grawl villages in Fireheart Rise and use it to kill a Veteran Marmox.,
-Take a torch from the grawl villages in Fireheart Rise and use it to kill a Veteran Moose.,
-Take a torch from the grawl villages in Fireheart Rise and use it to kill a Veteran Oakheart.,
-Take a torch from the grawl villages in Fireheart Rise and use it to kill a Veteran Tar Elemental.,
+Take a torch from the grawl village near Safewatch Vale in Frostgorge Sound and use it to kill a Veteran Longhorn Sheep.,"Возьмите факел из деревни гроулов возле Долины Безопасности в Звучном Леднике и используйте его, чтобы убить Ветерана длиннорогого барана."
+Take a torch from the grawl village near Safewatch Vale in Frostgorge Sound and use it to kill a Veteran Pinesoul.,"Возьмите факел из деревни гроул возле Безопасной Долины в Звуке Фростгорж и используйте его, чтобы убить ветерана Пайнсоула."
+Take a torch from the grawl villages in Fireheart Rise and use it to kill a Veteran Black Bear.,"Возьмите факел из поселений гроулов в Огненном Подъёме и используйте его, чтобы убить ветерана-медведя."
+Take a torch from the grawl villages in Fireheart Rise and use it to kill a Veteran Marmox.,"Возьмите факел из деревень гроулов в Огненном подъёме и используйте его, чтобы убить ветерана-мармокса."
+Take a torch from the grawl villages in Fireheart Rise and use it to kill a Veteran Moose.,"Возьмите факел из деревень гроулов в Огненном подъёме и используйте его, чтобы убить Ветерана Лося."
+Take a torch from the grawl villages in Fireheart Rise and use it to kill a Veteran Oakheart.,"Возьмите факел в поселениях гроулов в Подъёмном Сердце и используйте его, чтобы убить Ветерана Оакхарта."
+Take a torch from the grawl villages in Fireheart Rise and use it to kill a Veteran Tar Elemental.,"Возьмите факел из деревень гроулов в Огненном Подъёме и используйте его, чтобы убить Ветерана Элементаля Смолы."
 Take Aim,Прицелиться
 Take aim with the Arcane Marksman Rifle!,Прицельтесь из Таинственной винтовки стрелка!
 Take aim with the Exo-Rifle!,Прицельтесь из Экзо-винтовки!
@@ -252,7 +252,7 @@ Take or throw this piece of fractured magic to a nearby Forged bait site to help
 Take Out Ball,Достать мяч
 Take Out Toy Car,Достать игрушечную машинку
 Take out your fishing rod.,Достаньте вашу удочку.
-Take over the Inquest base at Bauxite Alchemicals in Malchor's Leap.,
+Take over the Inquest base at Bauxite Alchemicals in Malchor's Leap.,Захватите базу Инквест в Баукситных алхимических лабораториях в Скачке Малхора.
 Take Package,Взять посылку
 Take Personal Target,Взять личную цель
 Take Pistol,Взять пистолет
@@ -270,7 +270,7 @@ Take Spears,Взять копья
 Take Supplies,Взять припасы
 Take supplies to any calibration thumper location to help construct or repair them. They cannot be used to repair the tectonic thumper.,"Отнесите припасы к любому месту калибровочного трамбовщика, чтобы помочь построить или отремонтировать их. Их нельзя использовать для ремонта тектонического трамбовщика."
 Take Target,Взять цель
-"Take the ""Elder Dragons and Star Navigation Theories Vol. III,"" the Skritt Salvaged Compass, the Ancient Orrian Compass, and the Damaged Airship Compass to Scarlet's home in Dry Top, and use her workbench to create the Wondrous Compass.",
+"Take the ""Elder Dragons and Star Navigation Theories Vol. III,"" the Skritt Salvaged Compass, the Ancient Orrian Compass, and the Damaged Airship Compass to Scarlet's home in Dry Top, and use her workbench to create the Wondrous Compass.","Отнесите «Теории о Древних Драконах и звёздной навигации, том III», Скриттский спасённый компас, Древний оррианский компас и Повреждённый воздушный компас домой к Скарлет в Сухой вершине и используйте её верстак, чтобы создать Чудесный компас."
 "Take the Ancient Charting Device, Ancient Planetarium Slide, Finely Tuned Watchwork Mechanism, and Flawless Ancient Karka Husk to the Durmand Priory and use the Cartographer's Workbench to craft an Astrolabe.","Возьмите Древнее картографическое устройство, Древний планетарийный слайд, Тонко настроенный часовой механизм и Безупречную древнюю оболочку карки в Приорат Дурманда и используйте верстак картографа, чтобы создать Астролябию."
 "Take the Ancient Cultists Texts to Sage Salim in Tarir, the Forgotten City of Auric Basin, so that he might put it to rest.","Отнесите тексты древних культистов мудрецу Салиму в Тарир, Забытый город бассейна Аурик, чтобы он мог успокоить их."
 Take the Ancient Dwarven Texts from the mists to Ogden so that he may put them to rest.,"Отнесите древние дварфийские тексты из туманов Огдену, чтобы он мог успокоить их."
@@ -357,29 +357,29 @@ Talk to Caithe after the meeting.,Поговорите с Кейт после в
 Talk to Chief Mognoll.,Поговорите с вождём Могноллом.
 Talk to Cymbel at Cymbel's Rescue in the Fields of Ruin after completing any event involving her hounds.,Поговорите с Симбел в Спасении Симбел на Полях Разрушения после завершения любого события с участием её гончих.
 Talk to Cymbel in Fields of Ruin after obtaining the Baby Book.,Поговорите с Симбел на Полях Разрушения после получения Книги малыша.
-Talk to Cymbel in Fields of Ruin after obtaining the Tiger Den Map.,
-Talk to Cymbel in Fields of Ruin after scouting all of the locations.,
-Talk to Cymbel in Fields of Ruin.,
-Talk to Dagda and Waiting Sorrow.,
+Talk to Cymbel in Fields of Ruin after obtaining the Tiger Den Map.,Поговорите с Симбелем в Полях Руин после получения Карты Тигриного логова.
+Talk to Cymbel in Fields of Ruin after scouting all of the locations.,Поговорите с Симбелем в Полях Руин после разведки всех локаций.
+Talk to Cymbel in Fields of Ruin.,Поговорите с Симбелом в Полях Разрушения.
+Talk to Dagda and Waiting Sorrow.,Поговорите с Дагдой и Ждущей скорби.
 Talk to Dameer.,Поговорите с Дамиром.
 Talk to Deputy Hamad.,Поговорите с заместителем Хамадом.
-Talk to Dierdre in the Hidden Garden jumping puzzle upon its completion.,
+Talk to Dierdre in the Hidden Garden jumping puzzle upon its completion.,Поговорите с Диэрдрой в головоломке «Скрытый Сад» после её завершения.
 Talk to Diviner Asho.,Поговорите с прорицателем Ашо.
 Talk to Drolgg.,Поговорите с Дролггом.
-Talk to Echoes of Night in Harvest Den.,
+Talk to Echoes of Night in Harvest Den.,Поговори с Эхом Ночи в Урожаиной Пещере.
 Talk to either Tradesman Maezz or Historian Tranton.,Поговорите с торговцем Маэцц или историком Тон.
-Talk to Ellen Kiel in Lion's Arch.,
+Talk to Ellen Kiel in Lion's Arch.,Поговорите с Эллен Кил в Львиной Арке.
 Talk to Erran about the coming prison break.,Поговорите с Эрраном о предстоящем побеге из тюрьмы.
-Talk to Evon Gnashblade in Lion's Arch.,
+Talk to Evon Gnashblade in Lion's Arch.,Поговорите с Эвоном Гнашблейдом в Львиной Арке.
 Talk to Explorer Jeppa.,Поговорить с исследователем Джеппой.
-Talk to Flowering Meadow at Harvest Den.,
-Talk to Gorrik in Dragonfall.,
-Talk to Gorrik in Sun's Refuge.,
+Talk to Flowering Meadow at Harvest Den.,Поговорите с Цветущей Поляной в Урожайной Долине.
+Talk to Gorrik in Dragonfall.,Поговорите с Горриком в Драконьем Падении.
+Talk to Gorrik in Sun's Refuge.,Поговори с Горриком в Солнечном Убежище.
 Talk to Halstein to begin the event.,"Поговорите с Хальстейном, чтобы начать событие."
-Talk to Hiberus Mythseeker.,
-Talk to Honor's Claw.,
-Talk to Hortensia in the Wizard's Tower Infirmary.,
-Talk to Isgarren after the meeting.,
+Talk to Hiberus Mythseeker.,Поговорите с Хиберусом Искателем Мифов.
+Talk to Honor's Claw.,Поговорите с Клыком Чести.
+Talk to Hortensia in the Wizard's Tower Infirmary.,Поговорите с Хортензией в Инфирмерии Башни Волшебника.
+Talk to Isgarren after the meeting.,Поговорите с Исгарреном после собрания.
 Talk to Jorvik Jorundsson in Bava Nisos to give him his sensor back.,"Поговорите с Йорвиком Йорундссоном в Бава-Нисос, чтобы вернуть ему его сенсор."
 Talk to Jorvik Jorundsson in Bava Nisos to give him the attuned crystal.,"Поговорите с Йорвиком Йорундссоном в Бава-Нисос, чтобы передать ему настроенный кристалл."
 Talk to Jorvik Jorundsson in Bava Nisos to learn how you can help further their research.,"Поговорите с Йорвиком Йорундссоном в Бава-Нисос, чтобы узнать, как вы можете помочь в их исследованиях."
@@ -439,7 +439,7 @@ Talk to Yumna.,Поговорите с Юмной.
 Talk with friends about the situation.,Поговорите с друзьями о ситуации.
 Talk with kodan cubs about the coolest toys. These four cubs love to chat around the local watering hole.,Поговорите с детенышами коданов о самых классных игрушках. Эти четверо детенышей обожают болтать у местного водопоя.
 "Talking about the oath won't kill me. Just telling the secrets. Besides, he wouldn't shut up about it.","Разговор о клятве меня не убьёт. Просто рассказываю секреты. К тому же, он не мог заткнуться об этом."
-"Tall Academic Arch[pl:""Arches""]",
+"Tall Academic Arch[pl:""Arches""]",Высокий Академический Арк[ы|арки|арков]
 Tall Candlestick[s],[Высокий подсвечник|Высокого подсвечника|Высоких подсвечников]
 Tall Lattice[s],[Высокая решётка|Высокой решётки|Высоких решёток]
 Tall Shield,Высокий щит
@@ -483,7 +483,7 @@ Tangled Depths: SCAR Lane,"Тропа ОПК, Запутанные глубин�
 Tangled Depths<br>(Flooded Tunnels),Запутанные глубины<br>(Затопленные тоннели)
 Tangled Depths<br>(Hive Tunnels),Запутанные глубины<br>(Ульевые тоннели)
 Tangled Depths<br>(Jungle Floor),Запутанные глубины<br>(Полог джунглей)
-Tangled Depths<br>(Undergrowth),
+Tangled Depths<br>(Undergrowth),Спутанные глубины<br>(Подлесок)
 Tangled Net[s],[Спутанная сеть|Спутанной сети|Спутанных сетей]
 Tanglewood Backpack and Glider Combo,Комбо-набор рюкзака и планера «Тэнглвуд»
 Tanglewood Copse,Роща Тэнглвуд

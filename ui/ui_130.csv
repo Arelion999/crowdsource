@@ -108,7 +108,7 @@ Shatter your illusions with [lbracket]%str1%[rbracket] and create additional eff
 Shattered Atoll—Tiraeus the Everlasting,Разрушенный атолл — Тирей Бессмертный
 Shattered Bloodstone Ascender Combo,Комбо осколка кровавого камня восхождения
 Shattered Bloodstone Circlet Skin[s],Облик[|а|ов] диадемы из разбитого кровавого камня
-"Shattered Bloodstone Circlet[pl:""Circlets""]",
+"Shattered Bloodstone Circlet[pl:""Circlets""]",Разбитый Ободок из Кровавого Камня[и]
 Shattered Conditions,Разбитые состояния
 Shattered Dye[s],Разбитый краситель[|я|ей]
 Shattered Fishing Cage[s],Разбитая рыболовная клетка[|и|ок]
@@ -153,23 +153,23 @@ She'll teach you what you need to know in order to seek discoveries of your own.
 "She's already spotted new, more advanced clockwork monsters all over the city. The first one is at Gunnery Range.","Она уже заметила новых, более продвинутых заводных монстров по всему городу. Первый находится на Стрелковом полигоне."
 "Sheaf[pl:""Sheaves""] of Recipes: Dragon's Argument",
 "Sheaf[pl:""Sheaves""] of Recipes: Dragon's Bite",
-"Sheaf[pl:""Sheaves""] of Recipes: Dragon's Breath",
-"Sheaf[pl:""Sheaves""] of Recipes: Dragon's Claw",
-"Sheaf[pl:""Sheaves""] of Recipes: Dragon's Fang",
+"Sheaf[pl:""Sheaves""] of Recipes: Dragon's Breath",Сноп[ы] рецептов: «Дыхание Дракона».
+"Sheaf[pl:""Sheaves""] of Recipes: Dragon's Claw",Сноп[ы] Рецептов: «Коготь дракона»
+"Sheaf[pl:""Sheaves""] of Recipes: Dragon's Fang",Сноп рецепт[ов]: Клык Дракона
 "Sheaf[pl:""Sheaves""] of Recipes: Dragon's Flight",
-"Sheaf[pl:""Sheaves""] of Recipes: Dragon's Gaze",
-"Sheaf[pl:""Sheaves""] of Recipes: Dragon's Horn",
-"Sheaf[pl:""Sheaves""] of Recipes: Dragon's Insight",
-"Sheaf[pl:""Sheaves""] of Recipes: Dragon's Persuasion",
+"Sheaf[pl:""Sheaves""] of Recipes: Dragon's Gaze",Сноп[ы] Рецептов: «Взор дракона»
+"Sheaf[pl:""Sheaves""] of Recipes: Dragon's Horn",Сноп[ы] рецептов: «Рог дракона».
+"Sheaf[pl:""Sheaves""] of Recipes: Dragon's Insight",Сноп[ы] Рецептов: Прозрение Дракона
+"Sheaf[pl:""Sheaves""] of Recipes: Dragon's Persuasion",Сборник рецептов: «Убеждение дракона»
 "Sheaf[pl:""Sheaves""] of Recipes: Dragon's Rending",
-"Sheaf[pl:""Sheaves""] of Recipes: Dragon's Scale",
+"Sheaf[pl:""Sheaves""] of Recipes: Dragon's Scale",Сноп рецепт[ов|ов|ов]: Чешуя Дракона
 "Sheaf[pl:""Sheaves""] of Recipes: Dragon's Tail",
 "Sheaf[pl:""Sheaves""] of Recipes: Dragon's Weight",
-"Sheaf[pl:""Sheaves""] of Recipes: Dragon's Wing",
-"Sheaf[pl:""Sheaves""] of Recipes: Dragon's Wisdom",
+"Sheaf[pl:""Sheaves""] of Recipes: Dragon's Wing",Сноп[ы] Рецептов: «Крыло дракона»
+"Sheaf[pl:""Sheaves""] of Recipes: Dragon's Wisdom",Сноп рецепт[ов|ов|ов]: Мудрость Дракона
 "Sheatfish[pl:""Sheatfish""]",
 Shed Gargoyle Claw[s],Коготь[|тя|тей] сброшенной горгульи
-"Sheepshead[pl:""Sheepshead""]",
+"Sheepshead[pl:""Sheepshead""]",Сетгубоно[ы|ые|ых]
 Sheet Music Glider[s],Планер[|а|ов] «Нотный лист»
 Sheet of Metal,Лист металла
 Sheet[s] of Ambrite,Лист[|а|ов] амбрита
@@ -212,8 +212,8 @@ Shield Generator,Генератор щита
 Shield Generator Blueprint[s],[Чертеж|Чертежа|Чертежей] генератора щита
 Shield Generator Build Site,Площадка строительства генератора щита
 Shield Generator Mastery I: Force Ball grants aegis to allies on impact,«Силовой шар» при попадании даёт союзникам эгиду
-Shield Generator Mastery II: Force Dome grants twice as much stability per pulse,
-Shield Generator Mastery III: Increases radius for all shield generator skills,
+Shield Generator Mastery II: Force Dome grants twice as much stability per pulse,Защитный купол даёт вдвое больше устойчивости с каждым импульсом.
+Shield Generator Mastery III: Increases radius for all shield generator skills,Увеличивает радиус действия всех умений генератора щита
 "Shield Generator Mastery IV: Increases duration for Force Wall and Force Dome, and increases the average number of Force Ball bounces","Щитовой генератор. Мастерство IV: Увеличивает длительность «Силовой стены» и «Силового купола», а также среднее количество отскоков «Силового шара»"
 Shield Generator Mastery V: Prevents damage from arrow cart fire to allies inside Force Dome,Щитовой генератор. Мастерство V: Предотвращает урон от стрелковых барж для союзников внутри «Силового купола»
 Shield of Earth,Щит земли
@@ -502,7 +502,7 @@ Short Guild Banquet Table[s],[Короткий банкетный стол ги�
 Short Guild Bar[s],[Короткий бар гильдии|Коротких бара гильдии|Коротких баров гильдии]
 Short Hornbow,Короткий роговой лук
 Short Letter[s],[Короткое письмо|Короткие письма|Коротких писем]
-Short quick throw that is easily intercepted.,
+Short quick throw that is easily intercepted.,"Короткий и быстрый бросок, который легко перехватить."
 Short Temper,Вспыльчивость
 Short waterfall.,Короткий водопад.
 Shosa's Hollow,Логово Шосы

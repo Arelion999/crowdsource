@@ -115,7 +115,7 @@ Rank Points,Очки ранга
 Rank Too Low,Слишком низкий ранг
 Ranked Arena,Рейтинговая арена
 Ranked Arena Games by Profession,Игры на нерейтинговой арене по профессиям
-Ranked Arena Games Played,
+Ranked Arena Games Played,Количество сыгранных матчей в рейтинговых аренах
 Ranked Arena Games Won,Побед на рейтинговой арене
 Ranked Arena Wins by Profession,Победы на нерейтинговой арене по профессиям
 "Ranked Arena[pl:""Arenas""]",
@@ -141,7 +141,7 @@ Raptor Access Expired,Доступ к раптору истек
 Raptor Available,Раптор доступен
 Raptor Egg[s],[Яйцо|Яйца|Яиц] раптора
 Raptor Food Basket,Корзина с едой для раптора
-"Raptor Loot Box[pl:""Boxes""]",
+"Raptor Loot Box[pl:""Boxes""]",Ящик с добычей Раптора[мн. Ящики]
 Raptor Mount Trial,Испытание ездового раптора
 Raptor Mount Unlocked,Ездовой раптор разблокирован
 Raptor Mount/Dismount,Раптор: сесть/спешиться
@@ -162,12 +162,12 @@ Rare Black Lion Dye Canister[s]—Green,[Редкая|Редкой|Редких]
 Rare Black Lion Dye Canister[s]—Red,[Редкая|Редкой|Редких] банк[а|и|ок] красителя «Черный лев» — красный
 Rare Black Lion Dye Canister[s]—Yellow,[Редкая|Редкой|Редких] банк[а|и|ок] красителя «Черный лев» — желтый
 Rare chance of one of the following:,Редкий шанс получить одно из следующего:
-"Rare Charr Salvage[pl:""Salvage""]",
+"Rare Charr Salvage[pl:""Salvage""]",Редкие трофеи чарр[а|ев|ей]
 Rare Collectibles and Delights for Collectors,Редкие предметы коллекционирования и удовольствия для коллекционеров
 Rare drop from the Secrets of the Weald meta-event or purchased from completed renown heart vendors in Starlit Weald.,Редкий предмет из мета-события «Тайны Веальда» или куплен у торговцев после выполнения заданий уважения в Звёздной Чаще.
 Rare Dyes,Редкие краски
 Rare Equipment,Редкое снаряжение
-"Rare Essence[pl:""Essence""] of Luck",
+"Rare Essence[pl:""Essence""] of Luck",Редкий сущ[ество|ства|ств] удачи
 Rare Extract[s] of Nourishment,[Редкий|Редкого|Редких] экстракт[|а|ов] питания
 Rare Fish,Редкая рыба
 Rare Flower Seed[s],[Редкое|Редкого|Редких] сем[я|ени|ян] цветка
@@ -189,7 +189,7 @@ Raspberry Peach Bar[s],[Малиново-персиковый|Малиново-�
 Raspberry Peach Compote[s],Компот[|а|ов] из малины и персика
 Raspberry Pie[s],[Малиновый|Малинового|Малиновых] пирог[|а|ов]
 "Raspberry Seed Pouch[pl:""Pouches""]",
-"Raspberry[pl:""Raspberries""]",
+"Raspberry[pl:""Raspberries""]",Малина[малина|малины|малин]
 Rat Cache,Крысиный тайник
 Rat Infestation,Нашествие крыс
 Rat Leap,Крысиный прыжок
@@ -223,7 +223,7 @@ Rata Stool[s] Model 34,"[Табурет|Табурета|Табуретов] Р�
 Rata Stool[s] Model 4,"[Табурет|Табурета|Табуретов] Рата, модель 4"
 Rata Sum Asura Gate,Асурские врата Рата Сума
 Rata Sum Port Authority Official Memo,Официальная памятка администрации порта Раты Сум
-Rata Sum: Advanced Metamystics Lab,
+Rata Sum: Advanced Metamystics Lab,Рата Сум: Лаборатория Продвинутой Метамистики
 Rata Sum: Apprentice Carrels,Рата Сум: Кабинки учеников
 Rata Sum: Arkentia Valley,Рата Сум: Долина Аркентии
 Rata Sum: Auxiliary Study Rooms,Рата Сум: Вспомогательные учебные комнаты
@@ -236,7 +236,7 @@ Rata Sum: Dynamics Union,Рата Сум: Союз Динамики
 Rata Sum: Err on the side of caution for this one.,Рата Сум: Лучше перестраховаться.
 Rata Sum: Frick Hall,Рата Сум: Зал Фрика
 Rata Sum: Idea Incubation lab,Рата Сум: Лаборатория инкубации идей
-Rata Sum: Interdisciplinary Accessium,
+Rata Sum: Interdisciplinary Accessium,Рата Сум: Междисциплинарный Доступ
 Rata Sum: Lower Research Stacks,Рата Сум: Нижние исследовательские стеллажи
 Rata Sum: Magus Valley,Рата Сум: Долина Магов
 Rata Sum: Polymock Arenas,Рата Сум: Арены Полимок
@@ -248,7 +248,7 @@ Rata Sum: Statics Union,Рата Сум: Союз статики
 Rata Sum: Synergetics Union,Рата Сум: Союз синергетики
 Rata Sum: Tark Hall,Рата Сум: Зал Тарка
 Rata Sum: The Golem Mines,Рата Сум: Големовые шахты
-Rata Sum<br>(College Commons),
+Rata Sum<br>(College Commons),Рата Сум<br>(Общественный кампус)
 Rata Sum<br>(Council Floor),Рата Сум<br>(Зал Совета)
 Rata Sum<br>(Substrata),Рата Сум<br>(Субстрата)
 Rata Sum<br>(Union Accessium),Рата Сум<br>(Аксессиум союза)
@@ -409,7 +409,7 @@ Read the journal and learn about the fallen Astral Ward members.,Прочита�
 Read the letter from Chief Inspector Lutze.,Прочитать письмо от главного инспектора Лутце.
 Read the letter from Zizel.,Прочитать письмо от Зизель.
 Read the memory left by the Kryptis.,"Прочитать воспоминание, оставленное Криптис."
-Read the note on the World 3 entrance door inside the Super Adventure Box.,
+Read the note on the World 3 entrance door inside the Super Adventure Box.,Прочитайте записку на двери входа в Мир 3 внутри Супер Приключенческой Коробки.
 Read the titan history books at Forager's Hunt.,Прочитайте книги по истории титанов в Охоте Собирателя.
 Read the Wind,Прочитать Ветер
 Reading Glasses Skin[s],[Облик|Облика|Обликов] очков для чтения
@@ -475,7 +475,7 @@ Rebooting [lbracket]▓▓▓▓▓▓▓▓▓▓[rbracket],Перезагру�
 Rebuilding the Order,Восстановление Ордена
 Rebuke to Increase Dignity,Упрек для повышения достоинства
 Recall Dye[s],[Краска|Краски|Красок] «Отзыв»
-Recall your mech for repairs. The cooldown of Crash Down is determined by the amount of damage your mech has taken.<br><br><c=@reminder>Right-click to rename your mech.</c>,
+Recall your mech for repairs. The cooldown of Crash Down is determined by the amount of damage your mech has taken.<br><br><c=@reminder>Right-click to rename your mech.</c>,"Отзовите своего меха для ремонта. Время восстановления умения «Рывок вниз» зависит от полученного мехом урона.<br><br><c=@reminder>Щёлкните правой кнопкой мыши, чтобы переименовать меха.</c>"
 Receive 5 dyes of your choice.,Получите 5 красителей на ваш выбор.
 receive a commendation from my legion.,получить похвалу от моего легиона.
 Receive a Free Level-80 Boost<br>Buy Now!,Получите бесплатное повышение до 80-го уровня<br>Купить сейчас!

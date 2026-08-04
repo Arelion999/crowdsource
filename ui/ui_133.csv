@@ -16,7 +16,7 @@ Slash the target. Does extra damage if the commander has ordered melee attacks.,
 "Slash with your blade and fire a grenade shell that shatters on impact, releasing a series of explosions.","Рассеките врага клинком и выпустите гранату, которая при ударе разрывается серией взрывов."
 Slash with your starfish to bleed your foe. Chance of breaking starfish.,"Рассеките врага морской звездой, чтобы вызвать кровотечение. Есть шанс сломать морскую звезду."
 Slash with your tentacle.,Рассеките врага щупальцем.
-Slash your foe and make them bleed.,
+Slash your foe and make them bleed.,Рассеките врага и заставьте его истекать кровью.
 "Slash your foe once, then again on the backswing.","Рассеките врага один раз, затем ещё раз на обратном замахе."
 Slash your foe twice.,Рассеките врага дважды.
 Slash your foe with your claws.,Рассеките врага когтями.
@@ -30,7 +30,7 @@ Slate Dye[s],[Краска|Краски|Красок] «Сланец»
 Slate-Bound Star (Level 37),Сланцевая звезда (ур. 37)
 Slate-Bound Star (Level 60),Сланцевая звезда (60-й уровень)
 Slaughtered Sandfish,Забитый песчаный окунь
-"Slaughterfish[pl:""Slaughterfish""]",
+"Slaughterfish[pl:""Slaughterfish""]",Рыба-убийца[рыбы-убийцы|рыбы-убийцы|рыб-убийц]
 Slave Remains,Останки раба
 Slaver's Deeps Animus,Анимус глубин работорговца
 "Slay as many White Mantle as you can: <c=""%str3%"">%num1%</c>","Убей как можно больше Белых Плащей: <c=""%str3%"">%num1%</c>"
@@ -129,9 +129,9 @@ Slumbering Lightborne Assisted Crafting,Дремлющее светоносно�
 Slumbering Mistforged Glorious Hero's Breastplate Skin[s],[Облик дремлющего туманного славного нагрудника героя|Облика дремлющего туманного славного нагрудника героя|Обликов дремлющего туманного славного нагрудника героя]
 Slumbering Mistforged Glorious Hero's Brigandine Skin[s],Дремлющая Туманнокованая Славная Бригандина Героя [Облик|Облика|Обликов]
 Slumbering Mistforged Glorious Hero's Raiment Skin[s],Дремлющее Туманнокованое Славное Одеяние Героя [Облик|Облика|Обликов]
-SMAA High,
-SMAA Low,
-SMAA Medium,
+SMAA High,SMAA Высокий
+SMAA Low,SMAA Низкий
+SMAA Medium,SMAA Средний
 Smack a foe down with the grawl food sack. There is a chance that the bag will burst and be destroyed.,"Ударьте врага мешком с едой граула. Есть шанс, что мешок лопнет и будет уничтожен."
 Smack a foe. There is a chance that the package will burst and be destroyed.,"Ударьте врага. Есть шанс, что посылка лопнет и будет уничтожена."
 Smack some poor foe with a cow leg.,Ударьте какого-нибудь бедного врага коровьей ногой.
@@ -254,8 +254,8 @@ Smooth Book Cover[s],[Обложка|Обложки|Обложек] «Гладк
 Smooth Scale[s],[Чешуя|Чешуи|Чешуй] «Гладкая»
 Smothered Flames,Задушенное пламя
 Smouldering Concoction[s],[Снадобье|Снадобья|Снадобий] «Тлеющее»
-SMS verification or additional authentication has been added to the account.,
-SMS verification or additional authentication is required before you can use this feature.,
+SMS verification or additional authentication has been added to the account.,К учётной записи добавлена SMS-верификация или дополнительная аутентификация.
+SMS verification or additional authentication is required before you can use this feature.,Для использования этой функции требуется SMS-подтверждение или дополнительная аутентификация.
 Smudged Charcoal Map,Испачканная углем карта
 Smug Troublemaker,Самодовольный смутьян
 Snack Feast: Double-click to set out a Feast of Sauteed Zucchini with Nutmeg to share with anyone in the area. Feast stays active for 5 minutes.,"Пир Закусок: Дважды щелкните, чтобы накрыть Пир тушеных цукини с мускатным орехом для всех в округе. Пир активен 5 минут."
@@ -293,7 +293,7 @@ Snow Barrage,Снежный залп
 Snow Barrier,Снежный барьер
 Snow Cherry Sapling,Саженец снежной вишни
 Snow Chunk,Кусок снега
-"Snow Crab[pl:""Crabs""]",
+"Snow Crab[pl:""Crabs""]",Снежный Краб[ы|а|ов]
 Snow Diamond Infusion[s],[Инкрустация|Инкрустации|Инкрустаций] «Снежный алмаз»
 Snow Diamond Ornament[s],[Украшение|Украшения|Украшений] «Снежный алмаз»
 Snow Diamond[s],[Снежный алмаз|Снежного алмаза|Снежных алмазов]
@@ -425,7 +425,7 @@ Social — Blocked,Социальное — Заблокированные
 Social — Channels,Социальное — Каналы
 Social — Contacts,Социальное — Контакты
 Society of Coin Collectors Announcement,Объявление Общества коллекционеров монет
-"Sockeye[pl:""Sockeyes""]",
+"Sockeye[pl:""Sockeyes""]",Соке[и|и|ев]
 Sodar Closemaul,Содар Клоусмаул
 Sodden Heart,Промокшее сердце
 Soft Blue,Мягкий синий

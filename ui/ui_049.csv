@@ -14,7 +14,7 @@ Create a roster to compete in a single-round match against another team. Paid to
 Create a Seed Turret at your location which will attack nearby enemies.,"Создайте на своем месте семенную турель, которая атакует ближайших врагов."
 Create a shield that will protect against intense heat.,"Создайте щит, который защитит от сильного жара."
 Create a smoke screen that causes missiles to miss and blinds foes.,"Создайте дымовую завесу, которая заставляет снаряды промахиваться и ослепляет врагов."
-"Create a Spirit Quest Tonic by combining Arcane Dust, Mushroom Medley, a Giant Beehive, and a Vial of Forsaken Thicket Waters.",
+"Create a Spirit Quest Tonic by combining Arcane Dust, Mushroom Medley, a Giant Beehive, and a Vial of Forsaken Thicket Waters.","Создайте Тоник Духовного Квеста, объединив Арканную пыль, Грибное ассорти, Гигантский улей и Флакон вод Заброщенной Рощи."
 "Create a spring that heals you, your pet, and your allies. It also cures conditions on allies.","Создайте источник, который исцеляет вас, вашего питомца и союзников. Также снимает состояния с союзников."
 Create a storm at target location that applies random conditions to foes and random boons to allies.,"Создайте бурю в указанной области, которая накладывает случайные состояния на врагов и случайные благословения на союзников."
 "Create a unique, personalized character by choosing from a huge variety of faces, colors, and body elements. Pick from millions of possible combinations across the five races to look exactly the way you want to look!","Создайте уникального персонажа, выбрав из огромного разнообразия лиц, цветов и элементов тела. Выберите из миллионов возможных комбинаций среди пяти рас, чтобы выглядеть именно так, как вы хотите!"
@@ -117,14 +117,14 @@ creature\bipedlongarm\orrianabomination\orrianabomination - pointing,creature\bi
 creature\snaketwoarms\orrianwraith\orrianwraith - area attack anim,creature\snaketwoarms\orrianwraith\orrianwraith - area attack anim
 creature\snaketwoarms\orrianwraith\orrianwraith - taunting,creature\snaketwoarms\orrianwraith\orrianwraith - taunting
 creature\snaketwoarms\orrianwraith\orrianwraith - threatening,creature\snaketwoarms\orrianwraith\orrianwraith - threatening
-Creatures / Combat NPCs,
+Creatures / Combat NPCs,Существа / Боевые NPC
 Creatures saved:,Сохранённые существа:
 Crecia / Ms. Jeeves,Кресия / мисс Дживз
 Crecia / Uenno / Labriss,Кресия / Уэнно / Лабрисс
 "Crecia Stoneglow's concern is as raw as ours—Bangar has her tracking the dredge and Flame Legion's movements too. She says that they're calling themselves the ""Molten Alliance."" We think they've been operating out of some old dredge mines. Haven't been able to pinpoint where exactly those are (if I had to guess, somewhere beneath the Shiverpeak Mountains), but that does explain why the attacks have been so abrupt.    Crecia did confirm one of my main suspicions, though: the Flame Legion is divided. Not all of them are participating in this alliance. Tribune Greetsglory is one of its biggest contenders, but he doesn't carry enough weight to sway many more yet. They're floundering without Gaheron. We don't have a ton of insight into their leadership with that hot mess out of the picture.    For now, I've got my warband watching every known entrance to the mines. I'm headed up north myself—gonna see if I can gather more intel. I'm not sure who's pulling the strings, but they've got some very powerful hands ready to carry their sword.    Morva Baeldancer","Беспокойство Креции Стоунглоу так же глубоко, как наше — Бангар поручил ей следить за передвижениями дреджей и Легиона Пламени. Она говорит, что они называют себя ""Расплавленный Альянс"". Мы думаем, что они действуют из старых шахт дреджей. Не удалось точно определить, где они находятся (если бы мне пришлось гадать, где-то под Дрожащими вершинами), но это объясняет, почему атаки были такими внезапными.    Креция также подтвердила одно из моих главных подозрений: Легион Пламени разделён. Не все из них участвуют в этом альянсе. Трибун Приветслава — один из главных противников, но он пока недостаточно влиятелен, чтобы перетянуть многих на свою сторону. Они барахтаются без Гахерона. У нас нет особого понимания их руководства после того, как этот горячий беспорядок выбыл из игры.    Пока что мой отряд следит за каждым известным входом в шахты. Я сам направляюсь на север — посмотрю, смогу ли собрать больше разведданных. Я не уверен, кто дёргает за ниточки, но у них есть очень могущественные руки, готовые нести их меч.    Морва Плясунья"
 Crecia weighs in.,Креция высказывается.
 Creeping Flame,Ползучее пламя
-"Creeping Stone Fungus[pl:""Fungi""]",
+"Creeping Stone Fungus[pl:""Fungi""]",Поползлый Каменный Гриб[ы|бов|ов]
 Creepy Crawlies,Жуткие твари
 creepy crawlies!,жуткие ползучие твари!
 Creepy Jack-o'-Lantern[s],[Страшный фонарь Джека|Страшных фонаря Джека|Страшных фонарей Джека]
@@ -249,7 +249,7 @@ Critically strike an enemy for 3 seconds after swapping to this weapon in combat
 Critically striking foes within range grants fury.,Критические удары по врагам в радиусе действия даруют ярость.
 Critique (Locked),Критика (Заблокировано)
 Critique (Unselected),Критика (Не выбрано)
-"Croaker[pl:""Croakers""]",
+"Croaker[pl:""Croakers""]",Квакер[и]
 Crooked Mushroom[s],[Кривой гриб|Кривые грибы|Кривых грибов]
 Crooked Thorny Mushroom[s],[Кривой колючий гриб|Кривые колючие грибы|Кривых колючих грибов]
 Cross Blast,Перекрестный взрыв
@@ -269,7 +269,7 @@ Crucible Explorable—Teleporter Path,Исследуемое Горнило — 
 "Crucible of Eternity Armor Box[pl:""Boxes""]",
 Crucible of Eternity Dungeon Track,Трек подземелья «Горнило Вечности»
 Crucible of Eternity Story,История «Горнило Вечности»
-"Crucible of Eternity Token Loot Box[pl:""Boxes""]",
+"Crucible of Eternity Token Loot Box[pl:""Boxes""]",Ящик с добычей: Токен Испепелителя
 "Crucible of Eternity Weapons Box[pl:""Boxes""]",
 Crucible of EternityStory recommended level: <c=#CC9900>78</c>Explorable recommended level: <c=#CC9900>80</c>,Горнило ВечностиРекомендуемый уровень для истории: <c=#CC9900>78</c>Рекомендуемый уровень для исследования: <c=#CC9900>80</c>
 Crude Drawing[s],[Грубый рисунок|Грубые рисунки|Грубых рисунков]
@@ -335,7 +335,7 @@ Crystal Arbiter Glider[s],Планер[|а|ов] кристального арб
 Crystal Arbiter Outfit[s],Наряд[|а|ов] кристального арбитра
 Crystal Block[s] of the Solid Ocean,Кристальный блок[|а|ов] Твердого океана
 Crystal Bloom,Хрустальный расцвет
-Crystal Bloom Axe Skin[s],
+Crystal Bloom Axe Skin[s],Облик топора Кристал-Блум
 Crystal Bloom Camp Tier 1,"Лагерь «Хрустальный расцвет», уровень 1"
 Crystal Bloom Camp Tier 2,"Лагерь «Хрустальный расцвет», уровень 2"
 Crystal Bloom Camp Tier 3,"Лагерь «Хрустальный расцвет», уровень 3"
@@ -346,7 +346,7 @@ Crystal Bloom Hunter,Охотник Кристального Цветения
 Crystal Bloom Proof[s] of Allegiance,
 Crystal Bloom Rewards,Награды «Хрустального расцвета»
 "Crystal Bloom Supply Box[pl:""Boxes""]",
-Crystal Bloom Support Mark[s],
+Crystal Bloom Support Mark[s],Отметки поддержки «Кристального цветения»
 Crystal Bloom Supporter: Tier 4,Сторонник Кристального Цветка: Уровень 4
 Crystal Bloom Supporter: Tier 5,Сторонник Кристального Цветка: Уровень 5
 Crystal Bloom Waypoint in Position!,Точка маршрута Кристального Цветка на позиции!
@@ -455,8 +455,8 @@ Crystallographer Smoxxi,Кристаллограф Смокси
 Crystals collected,Собрано кристаллов
 Créature,Créature
 CS Manager,Менеджер CS
-Ctrl-right-click a skill on your bar to set it to autoattack.<br><br>Does not work with bundle items.,
-"Cub[pl:""Cubs""]",
+Ctrl-right-click a skill on your bar to set it to autoattack.<br><br>Does not work with bundle items.,"Нажмите правой кнопкой мыши на умение на панели, чтобы установить его для автоматической атаки.<br><br>Не работает с наборами предметов."
+"Cub[pl:""Cubs""]",Детёныш[и]
 Cube Matrix Glider[s],[Планер|Планера|Планеров] «Кубовая матрица»
 Cube[s] of Snow,[Куб|Куба|Кубов] снега
 Cube[s] of Stabilized Dark Energy,[Куб|Куба|Кубов] стабилизированной тёмной энергии

@@ -1,43 +1,67 @@
 english,translate
 "Used to chop down all saplings.
 
-Grants a 33%% chance to gain an extra strike while gathering.",
+Grants a 33%% chance to gain an extra strike while gathering.","Используется для вырубки всех саженцев.
+
+Даёт 33%% шанс получить дополнительный удар при сборе ресурсов."
 "Used to chop down all saplings.
 
-Grants a chance to receive a bonus crafting material on each swing in addition to your gathering results.",
+Grants a chance to receive a bonus crafting material on each swing in addition to your gathering results.","Используется для рубки всех саженцев.
+
+Даёт шанс получить бонусный материал для ремесла при каждом ударе, в дополнение к результатам сбора."
 "Used to chop down all saplings.
 
-Grants a chance to receive a bonus watchwork sprocket on each swing in addition to gathering results.",
+Grants a chance to receive a bonus watchwork sprocket on each swing in addition to gathering results.","Используется для рубки всех саженцев.
+
+Даёт шанс получить бонусную шестерню часов в механизме при каждом ударе, в дополнение к результатам сбора."
 "Used to chop down all saplings.
 
-Grants a chance to receive bonus cloth scraps in addition to your gathering results. Material types are determined by your character level and location in the world.",
+Grants a chance to receive bonus cloth scraps in addition to your gathering results. Material types are determined by your character level and location in the world.","Используется для вырубки всех саженцев.
+
+Даёт шанс получить дополнительные лоскуты ткани в дополнение к результатам сбора. Типы материалов определяются уровнем вашего персонажа и местоположением в мире."
 "Used to chop down all saplings.
 
-Grants a chance to receive bonus harvesting materials in addition to your gathering results. Material types are determined by your character level and location in the world.",
+Grants a chance to receive bonus harvesting materials in addition to your gathering results. Material types are determined by your character level and location in the world.","Используется для рубки всех саженцев.
+
+Даёт шанс получить дополнительные материалы при сборе, в дополнение к обычным результатам. Типы материалов определяются уровнем вашего персонажа и местоположением в мире."
 "Used to chop down all saplings.
 
-Grants a chance to receive bonus leather scraps in addition to your gathering results. Material types are determined by your character level and location in the world.",
+Grants a chance to receive bonus leather scraps in addition to your gathering results. Material types are determined by your character level and location in the world.","Срубить все саженцы
+
+Даёт шанс получить дополнительные кожаные обрезки помимо результатов сбора. Типы материалов определяются уровнем вашего персонажа и местоположением в мире."
 "Used to chop down all saplings.
 
-Grants a chance to receive bonus ores in addition to your gathering results. Material types are determined by your character level and location in the world.",
+Grants a chance to receive bonus ores in addition to your gathering results. Material types are determined by your character level and location in the world.","Используется для рубки всех саженцев.
+
+Даёт шанс получить бонусные руды в дополнение к результатам собирательства. Типы материалов определяются уровнем вашего персонажа и местоположением в мире."
 "Used to chop down all saplings.
 
-Grants a chance to receive bonus wood logs in addition to your gathering results. Material types are determined by your character level and location in the world.",
+Grants a chance to receive bonus wood logs in addition to your gathering results. Material types are determined by your character level and location in the world.","Используется для вырубки всех саженцев.
+
+Даёт шанс получить бонусные брёвна в дополнение к результатам сбора. Типы материалов определяются уровнем твоего персонажа и местоположением в мире."
 "Used to chop down all saplings.
 
-Increases movement speed by 100%% for 5 seconds after gathering completes.",
+Increases movement speed by 100%% for 5 seconds after gathering completes.","Используется для вырубки всех саженцев.
+
+После завершения сбора увеличивает скорость передвижения на 100%% в течение 5 секунд."
 "Used to chop down all saplings.
 
 Replaces gathering results with logs used in higher-level crafting recipes. Material types are determined by the type of node gathered from. Elder wood can be improved a limited number of times each day.",
 "Used to chop down all saplings.
 
-Rewards unbound magic on each swing in addition to logging results.",
+Rewards unbound magic on each swing in addition to logging results.","Используется для вырубки всех саженцев.
+
+Даёт не связанную магию каждым взмахом в дополнение к результатам заготовки древесины."
 "Used to chop down all saplings.
 
-Rewards Volatile Magic on each swing in addition to logging results.",
+Rewards Volatile Magic on each swing in addition to logging results.","Используется для вырубки всех саженцев.
+
+Даёт нестабильную магию каждым взмахом в дополнение к результатам заготовки древесины."
 "Used to chop down all saplings. Rewards unbound magic on each swing in addition to logging results. Unlimited use.
 
-<c=@Reminder>This item can be exchanged for an updated version at the Black Lion Exchange Specialist.</c>",
+<c=@Reminder>This item can be exchanged for an updated version at the Black Lion Exchange Specialist.</c>","Использовался для вырубки всех саженцев. Даёт не связанную магию с каждым ударом в дополнение к результатам рубки. Неограниченное использование.
+
+<c=@Reminder>Этот предмет можно обменять на обновлённую версию у специалиста по обмену в «Чёрном льве».</c>"
 Used to chop down all saplings. Unlimited use.,Используется для рубки всех саженцев. Неограниченное использование.
 "Used to chop down Aspen Saplings, Kertch Saplings, and Ekku Saplings.","Используется для рубки саженцев осины, кертча и экку."
 "Used to chop down Aspen Saplings, Kertch Saplings, and Ekku saplings.","Используется для рубки саженцев осины, кертча и экку."
@@ -236,21 +260,21 @@ Used to craft Storm.,Используется для создания Шторм
 Used to craft Stormcaller weapons.,Используется для создания оружия Зовущего бурю.
 Used to craft Swords.,Используется для создания мечей.
 Used to craft swords.,Используется для создания мечей.
-Used to craft the axe Lepidoptera.,
-Used to craft the backpack Finite Result. Extras can be purchased from the Aetherblade Quartermaster in the Captain Mai Trin Boss fractal for Balls of Dark Energy.,
-Used to craft the backpack Upper Bound. Extras can be purchased from the Aetherblade Quartermaster in the Captain Mai Trin Boss fractal for Balls of Dark Energy.,
+Used to craft the axe Lepidoptera.,Используется для создания топора Lepidoptera.
+Used to craft the backpack Finite Result. Extras can be purchased from the Aetherblade Quartermaster in the Captain Mai Trin Boss fractal for Balls of Dark Energy.,Используется для создания рюкзака «Конечный результат». Дополнительные экземпляры можно приобрести у квартирмейстера Эфирного клинка во фрактале «Босс капитан Май Трин» за шары тёмной энергии.
+Used to craft the backpack Upper Bound. Extras can be purchased from the Aetherblade Quartermaster in the Captain Mai Trin Boss fractal for Balls of Dark Energy.,Используется для создания рюкзака «Предел». Дополнительные экземпляры можно приобрести у интенданта Эфирных Клинков во фрактале «Босс: капитан Май Трин» за шары тёмной энергии.
 Used to craft The Bard.,Используется для создания Барда.
 Used to craft The Colossus.,Используется для создания Колосса.
-Used to craft the dagger Blattodea.,
+Used to craft the dagger Blattodea.,Используется для создания кинжала Blattodea.
 Used to craft The Energizer.,Используется для создания Энерджайзера.
 Used to craft The Flameseeker Prophecies.,Используется для создания Пророчеств Ищущего Пламя.
-Used to craft the focus Spirobolidae.,
+Used to craft the focus Spirobolidae.,Используется для создания фокусировки Spirobolidae.
 Used to craft the Gift of Astralaria.,Используется для создания Да́ра Астраларии.
 Used to craft the Gift of Chuka and Champawat.,Используется для создания Да́ра Чуки и Чампавата.
 Used to craft the Gift of HOPE.,Используется для создания Да́ра НАДЕЖДЫ.
 Used to craft the Gift of Nevermore.,Используется для создания Да́ра Никогдабольше.
-Used to craft the greatsword Scorpiones.,
-Used to craft the hammer Diptera.,
+Used to craft the greatsword Scorpiones.,Используется для создания великого меча Скорпионы.
+Used to craft the hammer Diptera.,Используется для создания молота Diptera.
 Used to craft The Hunter.,Используется для создания Охотника.
 Used to craft The Legend.,Используется для создания Легенды.
 "Used to craft the Legendary backpack, the Ascension.",Используется для создания легендарного рюкзака «Вознесение».
@@ -259,49 +283,59 @@ Used to craft the legendary dagger Claw of the Khan-Ur.,Используется
 Combine in the Mystic Forge with Mystic Runestones, a Gift of Metal, and a Gift of the Mists to create the Gift of the Four Legions.","Используется для создания предшественника легендарного кинжала Коготь Решимости.
 Соедините в Мистической кузне с Мистическими руническими камнями, Даром Металла и Даром Туманов, чтобы создать Дар Четырёх Легионов."
 "Used to craft the legendary focus precursor Ars Goetia.
-Combine in the Mystic Forge with Mystic Runestones, a Gift of Energy, and a Gift of the Mists to create the Gift of Ipos.",
+Combine in the Mystic Forge with Mystic Runestones, a Gift of Energy, and a Gift of the Mists to create the Gift of Ipos.","Используется для создания прецедента легендарного фокуса Арс Гоэтия.
+Совместите в Мистической Кузне с Мистическими Рунными Камнями, Подарком Энергии и Подарком Туманов, чтобы создать Подарок Ипоса."
 "Used to craft the legendary focus, the Binding of Ipos.",Используется для создания легендарного фокуса — «Связка Ипоса».
 Used to craft the legendary greatsword Exordium.,Используется для создания легендарного большого меча Экзордиум.
 "Used to craft the legendary greatsword precursor Exitare.
-Combine in the Mystic Forge with Mystic Runestones, a Gift of Metal, and a Gift of the Mists to create the Gift of Exordium.",
+Combine in the Mystic Forge with Mystic Runestones, a Gift of Metal, and a Gift of the Mists to create the Gift of Exordium.","Используется для создания предшественника Легендарного двуручного меча «Exitare».
+Соедините в Мистической кузне с Мистическими рунами, Даром металла и Даром Туманов, чтобы создать Дар Экзордиума."
 "Used to craft the legendary hammer precursor Might of Arah.
 Combine in the Mystic Forge with Mystic Runestones, a Gift of Metal , and a Gift of the Mists to create the Gift of Arah.","Используется для создания предшественника легендарного молота Могущество Араха.
 Соедините в Мистической кузне с Мистическими руническими камнями, Даром Металла , и Даром Туманов, чтобы создать Дар Араха."
 Used to craft the legendary longbow Pharus.,Используется для создания легендарного длинного лука Фарус.
 "Used to craft the legendary longbow precursor Spero.
-Combine in the Mystic Forge with Mystic Runestones, a Gift of Wood, and a Gift of the Mists to create the Gift of Pharus.",
+Combine in the Mystic Forge with Mystic Runestones, a Gift of Wood, and a Gift of the Mists to create the Gift of Pharus.","Используется для создания прекурсора Легендарного длинного лука Сперо.
+Соедините в Мистической Кузне с Мистическими Рунами, Даром Дерева и Даром Туманов, чтобы создать Дар Фаруса."
 "Used to craft the legendary mace precursor Endeavor.
-Combine in the Mystic Forge with Mystic Runestones, a Gift of Metal, and a Gift of the Mists to create the Gift of Eureka.",
+Combine in the Mystic Forge with Mystic Runestones, a Gift of Metal, and a Gift of the Mists to create the Gift of Eureka.","Используется для создания предшественника Легендарного булавы «Усилие».
+Соедините в Мистической Кузне с Мистическими Рунами, Даром Металла и Даром Туманов, чтобы создать Дар Эврики."
 "Used to craft the legendary rifle precursor Man o' War.
-Combine in the Mystic Forge with Mystic Runestones, a Gift of Wood, and a Gift of the Mists to create the Gift of Divinity.",
+Combine in the Mystic Forge with Mystic Runestones, a Gift of Wood, and a Gift of the Mists to create the Gift of Divinity.","Используется для создания прецедента легендарного винтовки Ман о' Вар.
+Совместите в Мистической Кузне с Мистическими Рунными Камнями, Подарком из Дерева и Подарком Туманов, чтобы создать Подарок Божественности."
 Used to craft the legendary rifle the HMS Divinity.,
 "Used to craft the legendary scepter precursor Tlehco.
-Combine in the Mystic Forge with Mystic Runestones, a Gift of Energy, and a Gift of the Mists to create the Gift of Xiuquatl.",
+Combine in the Mystic Forge with Mystic Runestones, a Gift of Energy, and a Gift of the Mists to create the Gift of Xiuquatl.","Используется для создания прекурсора легендарного скипетра Тлехко.
+Совместите в Мистической Кузне с мистическими руническими камнями, Даром Энергии и Даром Туманов, чтобы создать Дар Сиуакатля."
 Used to craft the legendary scepter Xiuquatl.,
 Used to craft the legendary shield Shooshadoo.,
 Used to craft the legendary sword the Shining Blade.,
 Used to craft the legendary torch Flames of War.,
 "Used to craft the legendary torch precursor Liturgy.
-Combine in the Mystic Forge with Mystic Runestones, a Gift of Wood, and a Gift of the Mists to create the Gift of Balthazar.",
+Combine in the Mystic Forge with Mystic Runestones, a Gift of Wood, and a Gift of the Mists to create the Gift of Balthazar.","Используется для создания Легендарного предшественника факела «Литания».
+Соедините в Мистической Кузне с Мистическими Рунами, Даром Дерева и Даром Туманов, чтобы создать Дар Балтазара."
 "Used to craft the legendary warhorn precursor Call of the Void.
-Combine in the Mystic Forge with Mystic Runestones, a Gift of Wood, and a Gift of the Mists to create the Gift of Verdarach.",
+Combine in the Mystic Forge with Mystic Runestones, a Gift of Wood, and a Gift of the Mists to create the Gift of Verdarach.","Используется для создания предшественника легендарного рога Зов Пустоты.
+Совместите в Мистической Кузне с Мистическими Рунными Камнями, Подарком Дерева и Подарком Туманов, чтобы создать Подарок Вердараха."
 Used to craft the legendary warhorn the Verdarach.,
 "Used to craft the legendary-shield precursor, Friendship.
-Combine in the Mystic Forge with Mystic Runestones, a Gift of Metal, and a Gift of the Mists to create the Gift of Shooshadoo.",
+Combine in the Mystic Forge with Mystic Runestones, a Gift of Metal, and a Gift of the Mists to create the Gift of Shooshadoo.","Используется для создания прекурсора легендарного щита «Дружба».
+Соедините в Мистической Кузне с Мистическими Рунами, Даром Металла и Даром Туманов, чтобы создать Дар Шушадо."
 "Used to craft the legendary-sword precursor, Save the Queen.
-Combine in the Mystic Forge with Mystic Runestones, a Gift of Metal, and a Gift of the Mists to create the Gift of the Blade.",
-Used to craft the longbow Odonata.,
+Combine in the Mystic Forge with Mystic Runestones, a Gift of Metal, and a Gift of the Mists to create the Gift of the Blade.","Используется для создания предшественника легендарного меча «Спаси Королеву».
+Соедините в Мистической Кузне с Мистическими Рунами, Даром Металла и Даром Туманов, чтобы создать Дар Клинка."
+Used to craft the longbow Odonata.,Используется для создания длинного лука Odonata.
 Used to craft The Lover.,Используется для создания Возлюбленного.
-Used to craft the mace Blattellidae.,
-Used to craft the pistol Apidae.,
-Used to craft the rifle Mantodea.,
-Used to craft the scepter Latrodectus.,
-Used to craft the shield Coleoptera.,
-Used to craft the short bow Culicidae.,
-Used to craft the staff Hymenoptera.,
-Used to craft the sword Cryptopidae.,
-Used to craft the torch Lampyridae.,
-Used to craft the warhorn Orthoptera.,
+Used to craft the mace Blattellidae.,Используется для создания боевого молота Blattellidae.
+Used to craft the pistol Apidae.,Используется для создания пистолета Apidae.
+Used to craft the rifle Mantodea.,Используется для создания винтовки Mantodea.
+Used to craft the scepter Latrodectus.,Используется для создания скипетра Latrodectus.
+Used to craft the shield Coleoptera.,Используется для создания щита Coleoptera.
+Used to craft the short bow Culicidae.,Используется для создания короткого лука Culicidae.
+Used to craft the staff Hymenoptera.,Используется для создания посоха Hymenoptera.
+Used to craft the sword Cryptopidae.,Используется для создания меча Cryptopidae.
+Used to craft the torch Lampyridae.,Используется для создания факела «Лампириды».
+Used to craft the warhorn Orthoptera.,Используется для создания боевого рога «Ортоптера».
 Used to craft Thick Boots.,Используется для создания толстых сапог.
 Used to craft Thick Coats.,Используется для создания толстых курток.
 Used to craft Thick Gloves.,Используется для создания толстых перчаток.
@@ -319,7 +353,7 @@ Used to craft Torches.,Используется для создания факе
 Used to craft torches.,Используется для создания факелов.
 Used to craft Tridents.,Используется для создания трезубцев.
 Used to craft tridents.,Используется для создания трезубцев.
-"Used to craft Unbound, the precursor to the legendary backpack Ad Infinitum. Extras can be purchased from the Aetherblade Quartermaster in the Captain Mai Trin Boss fractal for Balls of Dark Energy.",
+"Used to craft Unbound, the precursor to the legendary backpack Ad Infinitum. Extras can be purchased from the Aetherblade Quartermaster in the Captain Mai Trin Boss fractal for Balls of Dark Energy.","Необходим для создания Неограниченного, предшественника Легендарного ранца Ad Infinitum. Дополнительные экземпляры можно приобрести у Кварталмейстера Эфирных Клинков во Фрактале «Босс капитан Май Трин» за Шары Тёмной Энергии."
 Used to craft Venom.,Используется для создания Яда.
 Used to craft Warbeast Orichalcum Shoulders.,Используется для создания Варбист-Орихалковых Наплечников.
 Used to craft Warhorns.,Используется для создания Рогов.
@@ -334,16 +368,24 @@ Used to craft Wool Shoulders.,Используется для создания �
 Used to craft Zap and The Mechanism.,Используется для создания Зап и Механизма.
 "Used to create a Gift of Galdra.
 
-Acquired by completing the Forge Guard's armor collection. Purchased from Visions of Eternity map vendors afterward.",
+Acquired by completing the Forge Guard's armor collection. Purchased from Visions of Eternity map vendors afterward.","Используется для создания дара Галдры.
+
+Получается за завершение коллекции брони Стражей Кузницы. Позже приобретается у торговцев на карте «Видения Вечности»."
 "Used to create a Gift of Galdra.
 
-Earned by completing the Eternity's Garden Mastery achievement. Additional copies can be purchased from Visions of Eternity map vendors.",
+Earned by completing the Eternity's Garden Mastery achievement. Additional copies can be purchased from Visions of Eternity map vendors.","Используется для создания Подарка Галдры.
+
+Получен за выполнение Достижения «Мастерство Сада Вечности». Дополнительные копии можно приобрести у торговцев картой «Видения Вечности»."
 "Used to create a Gift of Galdra.
 
-Earned by fully exploring Eternity's Garden. Additional copies can be purchased from Visions of Eternity map vendors.",
+Earned by fully exploring Eternity's Garden. Additional copies can be purchased from Visions of Eternity map vendors.","Используется для создания Дара Галдры.
+
+Получено за полное исследование Сада Вечности. Дополнительные копии можно приобрести у торговцев картой «Видения Вечности»."
 "Used to create a Gift of Shadowstones.
 
-Acquired by completing the Glimmering Resin weapon collection. Purchased from Visions of Eternity map vendors afterward.",
+Acquired by completing the Glimmering Resin weapon collection. Purchased from Visions of Eternity map vendors afterward.","Используется для создания Дара теневых камней.
+
+Получается за завершение коллекции Оружия мерцающей смолы. Позже приобретается у торговцев на картах «Видения Вечности»."
 "Used to create a Gift of Shadowstones.
 
 Purchased from the renown heart vendor in Artificer's Islet in Eternity's Garden.","Используется для создания Дары Теневых камней.
@@ -362,13 +404,20 @@ Acquired by completing the Visions of Eternity launch story the first time. Purc
 "Used to create a Gift of the People.
 
 Earned by completing the Starlit Weald Mastery achievement. 
-Additional copies can be purchased from Visions of Eternity vendors afterward.",
+Additional copies can be purchased from Visions of Eternity vendors afterward.","Используется для создания Дара Народа.
+
+Получено за выполнение Достижения «Мастерство Звёздной Рощи».
+Дополнительные копии можно приобрести у торговцев «Видения Вечности» после этого."
 "Used to create a Gift of the People.
 
-Earned by fully exploring Starlit Weald. Additional copies can be purchased from Visions of Eternity map vendors.",
+Earned by fully exploring Starlit Weald. Additional copies can be purchased from Visions of Eternity map vendors.","Используется для создания Дара народа.
+
+Получается за полное исследование Звёздной Рощи. Дополнительные копии можно приобрести у торговцев картой «Видения Вечности»."
 "Used to create a Gift of the People.
 
-Purchased from Huntmaster Arnorr in Untamed Crags in Starlit Weald after completing the Starlit Weald Mastery achievement.",
+Purchased from Huntmaster Arnorr in Untamed Crags in Starlit Weald after completing the Starlit Weald Mastery achievement.","Используется для создания Дара народа.
+
+Приобретается у Охотника Арнорда в Неукротимых скалах в Звёздной роще после завершения Достижения «Мастерство Звёздной рощи»."
 "Used to create a Gift of the Survivors.
 
 Earned by completing the Shipwreck Strand Mastery achievement.
@@ -378,10 +427,14 @@ Additional copies can be purchased from Visions of Eternity vendors afterward.",
 Дополнительные копии можно приобрести у торговцев «Видения вечности» после этого."
 "Used to create a Gift of the Survivors.
 
-Earned by fully exploring Shipwreck Strand. Additional copies can be purchased from Visions of Eternity map vendors.",
+Earned by fully exploring Shipwreck Strand. Additional copies can be purchased from Visions of Eternity map vendors.","Используется для создания Подарка выживших.
+
+Получается при полном исследовании Обломков берега. Дополнительные копии можно купить у торговцев на карте Видений Вечности."
 "Used to create a Gift of the Survivors.
 
-Purchased from Tyrian Alliance Representative Sharpwhisker in Glimmering Arches in Shipwreck Strand after completing the Shipwreck Strand Mastery achievement.",
+Purchased from Tyrian Alliance Representative Sharpwhisker in Glimmering Arches in Shipwreck Strand after completing the Shipwreck Strand Mastery achievement.","Используется для создания Дара выживших.
+
+Приобретается у представителя Тирийского Альянса Шарпвискера в Сияющих Арках на Пляже кораблекрушений после выполнения Достижения «Мастерство Пляжа кораблекрушений»."
 "Used to create a new PvP Custom Arena with 30 days of playing time. Double-click to open the ""Create a Custom Arena"" panel.","Используется для создания новой PvP-арены с 30 днями игрового времени. Дважды щёлкните, чтобы открыть панель «Создать арену»."
 "Used to create legendary equipment.
 
@@ -398,7 +451,9 @@ Can be purchased from some vendors, earned from some reward tracks, and randomly
 • Философские камни или Мистические кристаллы"
 "Used to create legendary weapon and trinket gift items.
 
-Purchased from Rojan the Penitent in Frostgorge Sound after successfully defeating the Claw of Jormag.",
+Purchased from Rojan the Penitent in Frostgorge Sound after successfully defeating the Claw of Jormag.","Используется для создания легендарного оружия и украшений-подарков.
+
+Покупается у Ро́джана Покаянного в Звучании Ледяных Отрёпов после победы над Когтём Йормага."
 Used to create the PvP legendary backpack.,Используется для создания легендарного ранца PvP.
 "Used to create Visions of Eternity legendary items.
 
@@ -418,43 +473,87 @@ Used to gather all plants.,Используется для сбора всех �
 33%% шанс мгновенно завершить сбор."
 "Used to gather all plants.
 
-Gathering completes 50%% faster.",
+Gathering completes 50%% faster.","Используется для сбора всех растений.
+
+Сбор ресурсов завершается на 50%% быстрее."
 "Used to gather all plants.
 
-Grants a 33%% chance to gain an extra strike while gathering.",
+Grants a 33%% chance to gain an extra strike while gathering.","Используется для сбора всех растений.
+
+Даёт 33%% шанс получить дополнительный удар при сборе."
 "Used to gather all plants.
 
-Grants a chance to receive a bonus watchwork sprocket after gathering in addition to your harvesting results.",
+Grants a chance to receive a bonus watchwork sprocket after gathering in addition to your harvesting results.","Раньше использовался для сбора всех растений.
+
+Даёт шанс получить бонусную шестерню часовничного механизма после сбора, кроме результатов урожая."
 "Used to gather all plants.
 
-Grants a chance to receive bonus cloth scraps in addition to your gathering results. Material types are determined by your character level and location in the world.",
+Grants a chance to receive bonus cloth scraps in addition to your gathering results. Material types are determined by your character level and location in the world.","Используется для сбора всех растений.
+
+Даёт шанс получить дополнительные тряпки из ткани в дополнение к результатам сбора. Типы материалов определяются уровнем вашего персонажа и местоположением в мире."
 "Used to gather all plants.
 
-Grants a chance to receive bonus harvesting materials in addition to your gathering results. Material types are determined by your character level and location in the world.",
+Grants a chance to receive bonus harvesting materials in addition to your gathering results. Material types are determined by your character level and location in the world.","Используется для сбора всех растений.
+
+Даёт шанс получить дополнительные материалы для сбора в дополнение к результатам сбора. Типы материалов определяются уровнем вашего персонажа и местоположением в мире."
 "Used to gather all plants.
 
-Grants a chance to receive bonus leather scraps in addition to your gathering results. Material types are determined by your character level and location in the world.",
+Grants a chance to receive bonus leather scraps in addition to your gathering results. Material types are determined by your character level and location in the world.","Используется для сбора всех растений.
+
+Даёт шанс получить дополнительные тряпки из кожи в дополнение к результатам сбора. Типы материалов определяются уровнем вашего персонажа и местоположением в мире."
 "Used to gather all plants.
 
-Grants a chance to receive bonus ores in addition to your gathering results. Material types are determined by your character level and location in the world.",
+Grants a chance to receive bonus ores in addition to your gathering results. Material types are determined by your character level and location in the world.","Используется для сбора всех растений.
+
+Даёт шанс получить дополнительные руды вместе с результатами сбора. Типы материалов определяются уровнем вашего персонажа и местоположением в мире."
 "Used to gather all plants.
 
-Grants a chance to receive bonus wood logs in addition to your gathering results. Material types are determined by your character level and location in the world.",
+Grants a chance to receive bonus wood logs in addition to your gathering results. Material types are determined by your character level and location in the world.","Тысяча лет назад я был волшебником, но потом стал магом. Всё изменилось. Я не могу позволить себе потерять это. Вот что мне нужно помнить:
+
+Моя родня — отец и сестры, племянники.
+
+Выпечка из фруктов.
+
+Игра на лютне, арфе и морском роге.
+
+Грубая мягкость шерсти львёнка.
+
+Холодный песок в тени дерева.
+
+Холодный мята-чай с большим количеством льда.
+
+Уход за растениями — суккуленты — мои любимцы.
+
+Звук зерна, высыпающегося из мешка.
+Мороженое с сахарным сиропом.
+Мой любимый цвет — зелёный — настоящий, без компромиссов зелёный.
+
+Я когда-то пел, но что-то случилось. Лучше не вспоминать эту часть."
 "Used to gather all plants.
 
-Grants a small chance to receive a bonus crafting material after gathering in addition to your gathering results.",
+Grants a small chance to receive a bonus crafting material after gathering in addition to your gathering results.","Раньше использовался для сбора всех растений.
+
+Даёт небольшой шанс получить бонусный материал для ремесла после сбора, кроме результатов сбора."
 "Used to gather all plants.
 
-Increases movement speed by 100%% for 5 seconds after gathering completes.",
+Increases movement speed by 100%% for 5 seconds after gathering completes.","Используется для сбора всех растений.
+
+Увеличивает скорость передвижения на 100%% в течение 5 секунд после завершения сбора."
 "Used to gather all plants.
 
-Rewards unbound magic in addition to harvesting results.",
+Rewards unbound magic in addition to harvesting results.","Используется для сбора всех растений.
+
+Даёт несвязанную магию в дополнение к результатам сбора."
 "Used to gather all plants.
 
-Rewards Volatile Magic in addition to harvesting results.",
+Rewards Volatile Magic in addition to harvesting results.","Используется для сбора всех растений.
+
+Даёт Волатильную Магию в дополнение к результатам сбора."
 "Used to gather all plants. Rewards unbound magic in addition to harvesting results. Unlimited use.
 
-<c=@Reminder>This item can be exchanged for an updated version at the Black Lion Exchange Specialist.</c>",
+<c=@Reminder>This item can be exchanged for an updated version at the Black Lion Exchange Specialist.</c>","Использовался для сбора всех растений. Даёт не связанную магию в дополнение к результатам сбора. Неограниченное использование.
+
+<c=@Reminder>Этот предмет можно обменять на обновлённую версию у специалиста по обмену в «Чёрном льве».</c>"
 Used to gather all plants. Unlimited use.,Используется для сбора всех растений. Неограниченное использование.
 "Used to gather Asparagus, Cayenne Peppers, Leeks, Winter Root Vegetables, Verdant Herbs, Raspberries, Butternut Squash, Artichokes, and all other lesser edible plants.","Используется для сбора спаржи, кайенского перца, лука-порея, зимних корнеплодов, зелёных трав, малины, мускатной тыквы, артишоков и всех других менее ценных съедобных растений."
 "Used to gather Blackberries, Variegated Taproots, Scallions, Portobello Mushrooms, Mature Herbs, Sugar Pumpkins, Cauliflower, and all other lesser edible plants. Can also harvest Coral.","Используется для сбора ежевики, пёстрых корнеплодов, зелёного лука, портобелло, зрелых трав, сахарных тыкв, цветной капусты и всех других менее ценных съедобных растений. Также можно собирать кораллы."
@@ -466,7 +565,9 @@ Used to grind flax seeds and cassava roots.,Используется для по
 Used to grow ascended-quality herbs.,Используется для выращивания трав вознесённого качества.
 "Used to harvest all plants.
 
-Gathers from all nearby plants when harvesting.",
+Gathers from all nearby plants when harvesting.","Используется для сбора всех растений.
+
+Собирает все ближайшие растения при сборе урожая."
 "Used to harvest all plants.
 
 Replaces gathering results with ingredients used in higher-level crafting recipes. Material types are determined by the type of node gathered from. Select cooking ingredients can be improved a limited number of times each day.",
@@ -475,7 +576,9 @@ Gain snowflakes when gathering.",
 Used to harvest all plants. Unlimited use.,Используется для сбора всех растений. Безлимитное использование.
 "Used to harvest all plants. Unlimited use. In addition to your harvesting results, this tool has a small chance to reward additional items after gathering completes.
 
-<c=@Reminder>This item can be exchanged for an upgraded version at the Black Lion Exchange Specialist.</c>",
+<c=@Reminder>This item can be exchanged for an upgraded version at the Black Lion Exchange Specialist.</c>","Используется для сбора всех растений. Неограниченное использование. Помимо обычных результатов сбора, этот инструмент имеет небольшой шанс получить дополнительные предметы после завершения сбора.
+
+<c=@Reminder>Этот предмет можно обменять на улучшенную версию у специалиста Чёрного льва.</c>"
 Used to make a Gift of Stormy Skies.,Используется для создания Даров штормовых небес.
 Used to make a recording of a heroic deed.,Используется для создания записи героического деяния.
 Used to make books.,Используется для создания книг.
@@ -488,56 +591,116 @@ Used to make weapon etchings from tengu carvings.,Используется дл�
 Used to mine all metals.,Используется для добычи всех металлов.
 "Used to mine all metals.
 
-33%% chance to complete gathering instantly.",
+33%% chance to complete gathering instantly.","Использовалось для добычи всех металлов.
+
+33%% шанс мгновенно завершить сбор."
 "Used to mine all metals.
 
-Gathering completes 50%% faster.",
+Gathering completes 50%% faster.","Используется для добычи всех металлов.
+
+Сбор происходит на 50%% быстрее."
 "Used to mine all metals.
 
-Gathers from all nearby ore deposits when mining.",
+Gathers from all nearby ore deposits when mining.","Используется для добычи всех металлов.
+
+Собирает ресурсы со всех близлежащих месторождений при добыче."
 "Used to mine all metals.
 
-Grants a 33%% chance to gain an extra strike while gathering.",
+Grants a 33%% chance to gain an extra strike while gathering.","Используется для добычи всех металлов.
+
+Даёт 33%% шанс получить дополнительный удар при сборе ресурсов."
 "Used to mine all metals.
 
-Grants a chance to receive a bonus crafting material on each swing in addition to your gathering results.",
+Grants a chance to receive a bonus crafting material on each swing in addition to your gathering results.","Раньше использовался для добычи всех металлов.
+
+Даёт шанс получить бонусный материал для ремесла при каждом ударе, кроме результатов сбора."
 "Used to mine all metals.
 
-Grants a chance to receive a bonus watchwork sprocket on each swing in addition to your gathering results.",
+Grants a chance to receive a bonus watchwork sprocket on each swing in addition to your gathering results.","Раньше использовался для добычи всех металлов.
+
+Даёт шанс получить бонусную шестерню часовничного механизма при каждом ударе, кроме результатов сбора."
 "Used to mine all metals.
 
-Grants a chance to receive bonus cloth scraps in addition to your gathering results. Material types are determined by your character level and location in the world.",
+Grants a chance to receive bonus cloth scraps in addition to your gathering results. Material types are determined by your character level and location in the world.","Используется для добычи всех металлов.
+
+Даёт шанс получить бонусные тряпки при добыче, в дополнение к результатам сбора. Типы материалов определяются уровнем вашего персонажа и местоположением в мире."
 "Used to mine all metals.
 
-Grants a chance to receive bonus harvesting materials in addition to your gathering results. Material types are determined by your character level and location in the world.",
+Grants a chance to receive bonus harvesting materials in addition to your gathering results. Material types are determined by your character level and location in the world.","Используется для добычи всех металлов.
+
+Даёт шанс получить дополнительные материалы для сбора в дополнение к результатам сбора. Типы материалов определяются уровнем вашего персонажа и местоположением в мире."
 "Used to mine all metals.
 
-Grants a chance to receive bonus leather scraps in addition to your gathering results. Material types are determined by your character level and location in the world.",
+Grants a chance to receive bonus leather scraps in addition to your gathering results. Material types are determined by your character level and location in the world.","Используется для добычи всех металлов.
+
+Даёт шанс получить дополнительные кожаные обрезки помимо результатов сбора. Типы материалов определяются уровнем вашего персонажа и местоположением в мире."
 "Used to mine all metals.
 
-Grants a chance to receive bonus ores in addition to your gathering results. Material types are determined by your character level and location in the world.",
+Grants a chance to receive bonus ores in addition to your gathering results. Material types are determined by your character level and location in the world.","Используется для добычи всех металлов.
+
+Даёт шанс получить бонусные руды в дополнение к результатам собирательства. Типы материалов определяются уровнем вашего персонажа и местоположением в мире."
 "Used to mine all metals.
 
-Grants a chance to receive bonus wood logs in addition to your gathering results. Material types are determined by your character level and location in the world.",
+Grants a chance to receive bonus wood logs in addition to your gathering results. Material types are determined by your character level and location in the world.","Вот список идей для легендарного оружия и других реликтов, который написал Зомморос. Среди него много пометок и зачёркнутых пунктов.
+
+«Живой»
+
+Идея: Стреляющее огненным кулаком живое ружьё, способное говорить со своим владельцем, поскольку оно разумно и изготовлено из органических материалов.
+
+Прототип: «Живой» ничего не делает, кроме как вопит от боли, осознавая бесполезность своей жизни. Не понимаю, почему я позволил ему испытывать боль. Не думаю, что буду продолжать эту идею.
+
+«Лёгкий»
+
+Идея: Кинжал, наполненный мощной магией маскировки и способный создавать три клонированных копии, которые летают в воздухе вокруг владельца и атакуют все воспринимаемые угрозы.
+
+Прототип: Похоже, я не подумал о последствиях наличия трёх невидимых ножей, плавающих вокруг меня постоянно. Особенно проблематично оказалось то, что «воспринимаемые угрозы» — любые скритты, подходящие ко мне с вопросом, убегают от невидимых ножей. Это не способствует профессиональной атмосфере. Пока что считаю эту идею потерянной.
+
+«Двойной клинок»
+
+Идея: Ультрагранд-меч, расщепляющийся на два обычных гранда — по одному на пару рук.
+
+Прототип: На самом деле, две проблемы. Во-первых, я забыл, что джинны имеют четыре руки, а наша целевая аудитория обычно имеет только две, поэтому они могут держать только ОДИН гранд. Во-вторых, и, возможно, важнее, ультрагранд-меч весит много. И «много» означает, что испытуемые падали на землю, застревая под тяжестью двойного клинка, барахтя, как перевёрнутый черепаха. Забавно, но не практично.
+
+«Цефалокус»
+
+Идея: Фокус, принимающий форму живого осьминога, поддерживаемого его настоящими функционирующими щупальцами!
+
+Прототип: Это сработало — в некотором смысле. Проблема была в том, что все, кого мы тестировали, чувствовали себя некомфортно, когда магический, извивающийся осьминог обвивал руку владельца. Было как минимум два случая, когда Цефалокус пытался съесть своего владельца, что группа фокусов описала как «неидеально» и «абсолютно пугающе». Пока что отложу эту идею.
+
+«Сифонный двигатель»
+
+Идея: Посох, высасывающий энергию жизни из побеждённых врагов, создавая великолепную ауру света вокруг оружия.
+
+Прототип: Как я уже говорил не раз, магия — не точная наука. Думаю, я пропустил что-то в своих начальных формулах, потому что посох, похоже, высасывает энергию жизни у владельца, а не побеждённых врагов. Сразу же после прикосновения к Сифонному двигателю испытуемые чувствовали слабость, а затем падали в кому. В результате фокусные группы оценили его очень плохо."
 "Used to mine all metals.
 
-Increases movement speed by 100%% for 5 seconds after gathering completes.",
+Increases movement speed by 100%% for 5 seconds after gathering completes.","Используется для сбора всех растений.
+
+Увеличивает скорость передвижения на 100%% в течение 5 секунд после завершения сбора."
 "Used to mine all metals.
 
 Replaces gathering results with ores used in higher-level crafting recipes. Material types are determined by the type of node gathered from. Mithril ore can be improved a limited number of times each day.",
 "Used to mine all metals.
 
-Rewards unbound magic on each swing in addition to mining results.",
+Rewards unbound magic on each swing in addition to mining results.","Используется для добычи всех металлов.
+
+Даёт несвязанную магию с каждым ударом в дополнение к результатам добычи."
 "Used to mine all metals.
 
-Rewards Volatile Magic on each swing in addition to mining results.",
+Rewards Volatile Magic on each swing in addition to mining results.","Используется для добычи всех металлов.
+
+Даёт Волшебную Нестабильность при каждом взмахе в дополнение к результатам добычи."
 "Used to mine all metals. Rewards unbound magic on each swing in addition to mining results. Unlimited use.
 
-<c=@Reminder>This item can be exchanged for an upgraded version at the Black Lion Exchange Specialist.</c>",
+<c=@Reminder>This item can be exchanged for an upgraded version at the Black Lion Exchange Specialist.</c>","Использовался для добычи всех металлов. Даёт не связанную магию с каждым ударом в дополнение к результатам добычи. Неограниченное использование.
+
+<c=@Reminder>Этот предмет можно обменять на улучшенную версию у специалиста по обмену в «Чёрном льве».</c>"
 Used to mine all metals. Unlimited use.,Используется для добычи всех металлов. Неограниченное использование.
 "Used to mine all metals. Unlimited uses. This tool has a small chance to reward a watchwork sprocket on each swing in addition to your mining results.
 
-<c=@Reminder>This item can be exchanged for an upgraded version at the Black Lion Exchange Specialist.</c>",
+<c=@Reminder>This item can be exchanged for an upgraded version at the Black Lion Exchange Specialist.</c>","Используется для добычи всех металлов. Неограниченное количество применений. Этот инструмент имеет небольшой шанс вознаградить вас шестерёнкой часового механизма при каждом взмахе, в дополнение к результатам добычи.
+
+<c=@Reminder>Этот предмет можно обменять на улучшенную версию у специалиста Чёрного Льва.</c>"
 Used to mine Copper Ore.,Используется для добычи медной руды.
 "Used to mine Gold Ore, and all other lesser metals.",Используется для добычи золотой руды и всех других менее ценных металлов.
 "Used to mine Iron Ore, Silver Ore, and all other lesser metals.","Используется для добычи железной руды, серебряной руды и всех других менее ценных металлов."
@@ -593,8 +756,8 @@ Used with Platinum to refine Darksteel. Can be purchased from Master Craftsmen.,
 Using a signet skill reduces the recharge of all signet skills.,Использование навыка-печати сокращает время восстановления всех навыков-печатей.
 Using an elite skill summons a pool on the target enemy that inflicts poison and cripple. Pool duration scales with the recharge of the elite skill.,"Использование элитного навыка призывает лужу на врага-цель, которая наносит отравление и хромоту. Длительность лужи зависит от времени восстановления элитного навыка."
 Using this item will allow you to unlock all the waypoints in a region of your choosing for one character. You can only choose regions within Central Tyria.,Использование этого предмета позволит вам открыть все точки маршрута в выбранном регионе для одного персонажа. Вы можете выбирать только регионы в Центральной Тирии.
-"Using this item will allow you to unlock all the waypoints in Guild Wars 2: Heart of Thorns maps (Verdant Brink, Auric Basin, Tangled Depths, and Dragon's Stand).",
-"Using this item will allow you to unlock all the waypoints in Guild Wars 2: Path of Fire maps (Crystal Oasis, Desert Highlands, Elon Riverlands, the Desolation, and Domain of Vabbi).",
+"Using this item will allow you to unlock all the waypoints in Guild Wars 2: Heart of Thorns maps (Verdant Brink, Auric Basin, Tangled Depths, and Dragon's Stand).","Использование этого предмета позволит вам открыть все точки перехода на картах Guild Wars 2: Сердце Терний (Изумрудный обрыв, Аурическая котловина, Спутанные глубины и Оплот Дракона)."
+"Using this item will allow you to unlock all the waypoints in Guild Wars 2: Path of Fire maps (Crystal Oasis, Desert Highlands, Elon Riverlands, the Desolation, and Domain of Vabbi).","Использование этого предмета позволит вам открыть все точки перехода на картах Guild Wars 2: Тропа Огня (Кристальная Оаза, Пустынные Высоты, Речные Земли Элон, Пустошь и Владения Ваббаи)."
 "Using this item will allow you to unlock all the waypoints in the Ascalon Region. (Blazeridge Steppes, Diessa Plateau, Fields of Ruin, Fireheart Rise, Iron Marches, and Plains of Ashford)","Использование этого предмета позволит вам открыть все точки маршрута в регионе Аскалон. (Огненные степи, Плато Дьесса, Поля руин, Огненное сердце, Железные марши и Равнины Эшфорда)"
 "Using this item will allow you to unlock all the waypoints in the Kryta Region. (Bloodtide Coast, Gendarran Fields, Harathi Hinterlands, Kessex Hills, and Queensdale)","Использование этого предмета позволит вам открыть все точки маршрута в регионе Крита. (Побережье Кровавого прилива, Поля Гендаррана, Глушь Харати, Холмы Кессекса и Квинсдейл)"
 "Using this item will allow you to unlock all the waypoints in the Maguuma Region. (Brisban Wildlands, Caledon Forest, Dry Top, Metrica Province, and The Silverwastes)","Использование этого предмета позволит вам открыть все точки маршрута в регионе Магуума. (Брисбанские пустоши, Лес Каледон, Сухая вершина, Провинция Метрика и Серебряные пустоши)"

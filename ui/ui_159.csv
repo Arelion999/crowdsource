@@ -29,7 +29,7 @@ Viper's Medium-Armor Skin[s],Облик[|а|ов] среднего доспех�
 Viper's Monocle[s],Монокл[ь|я|ей] гадюки
 Viper's Orichalcum Imbued Inscription[s],[Пропитанная орихалком гравировка|Пропитанных орихалком гравировки|Пропитанных орихалком гравировок] Прорицателя
 Viper's Weapon Recipe Book[s],
-"Viperfish[pl:""Viperfish""]",
+"Viperfish[pl:""Viperfish""]",Угорь-огнецвет[и: Угри-огнецветы]
 Vir's Waypoint,Точка перемещения Вира
 "Viridian Agony Lens[pl:""Lenses""] (Left)",
 "Viridian Agony Lens[pl:""Lenses""] (Right)",
@@ -242,7 +242,7 @@ Void's Coffer[s],[Сундук|Сундука|Сундуков] Пустоты
 Void's Magnificent Coffer[s],[Великолепный сундук|Великолепного сундука|Великолепных сундуков] Пустоты
 Voided WvW Tournament Claim Ticket[s],[Билет|Билета|Билетов] на турнир WvW «Пустота»
 Voidflame Assassin Dagger Skin[s],[Облик|Облика|Обликов] кинжала убийцы «Пламя Пустоты»
-VOIP Ducking:,
+VOIP Ducking:,VOIP Уклонение:
 Volante Tornpaw,Воланте Торнпау
 Volatile Bloodstone Elemental[s],[Нестабильный кроваво-каменный элементаль|Нестабильного кроваво-каменного элементаля|Нестабильных кроваво-каменных элементалей]
 Volatile Blossom,Нестабильный цветок
@@ -296,13 +296,13 @@ Vote for Champion's Dusk today in PvP's Unranked Arena and help test the new Str
 Vote!,Голосуйте!
 Voted Nay,Проголосовал «против»
 Voted Yea,Проголосовал «за»
-Voting for Match MVP: %num1%,
+Voting for Match MVP: %num1%,Голосование за MVP матча: %num1%
 Voucher Dealer<br>• Exchanges Black Lion Vouchers for Select Items,Торговец ваучерами<br>• Обменивает ваучеры Черного льва на избранные предметы
 Vous avez %num1% partisan(s),У вас есть %num1% сторонник(ов)
 Vous devenez un bonhomme de neige grawl pendant 5 min.,Вы становитесь снеговиком граул на 5 мин.
 Vous devez remplir tous les champs et sélectionner l'option adéquate dans chaque menu déroulant avant d'envoyer votre rapport.,Вы должны заполнить все поля и выбрать подходящий вариант в каждом раскрывающемся меню перед отправкой отчета.
 Vous ne pouvez pas utiliser cet objet lorsque vous êtes transformé ou hors de l'eau.,"Вы не можете использовать этот предмет, когда вы трансформированы или находитесь вне воды."
-"Vous êtes Commandant[f:""Commandante""]",
+"Vous êtes Commandant[f:""Commandante""]",Вы — Командир[а]
 Vow of the Warden,Обет Хранителя
 Vulnerability below threshold,Уязвимость ниже порога
 Vulnerability Bite,Укус уязвимости
@@ -390,7 +390,7 @@ Wall[s] (60 x 120),[Стена|Стены|Стен] (60 x 120)
 Wall[s] (60 x 240),[Стена|Стены|Стен] (60 x 240)
 Wall[s] (600 x 240),Стен[а|ы|] (600 x 240)
 Wall[s] (960 x 240),Стен[а|ы|] (960 x 240)
-"Walleye[pl:""Walleyes""]",
+"Walleye[pl:""Walleyes""]",Угорь-окунь[угри-окуня|угря-окуня|угря-окуней]
 Wallow[s],Топляк[|а|ов]
 Wallows: The Definitive Defense,Валлоу: Определяющая оборона
 Walnut Dye[s],Краск[а|и|ок] «Грецкий орех»
@@ -399,7 +399,7 @@ Wanderer Amulet,Амулет Странника
 Wanderer's Armor Chest,Сундук с броней странника
 Wanderer's Intricate Gossamer Insignia[s],Знак[|а|ов] странника из замысловатого паучьего шелка
 Wanderer's Orichalcum Imbued Inscription[s],"Надпис[ь|и|ей] странника, пропитанная орихалком"
-"Wanderer[f:""Wanderin""]",
+"Wanderer[f:""Wanderin""]",Странник[ца]
 Wandering Cloud Chair and Glider Combo[s],[Комбо|Комбо|Комбо] «Парящее облако» (стул и планер)
 Wandering Island,Блуждающий остров
 Wandering Memory,Блуждающее воспоминание
@@ -426,7 +426,7 @@ Wanted for terrorizing innocents.,Разыскивается за террори
 "Wanted for theft, public intoxication, and lewdness. Target is known to ""spirit"" himself around the region north of Lion's Arch in stolen barrels of ale.","Разыскивается за кражу, публичное опьянение и непристойное поведение. Известно, что цель «перемещается» по региону к северу от Львиного Шрама в украденных бочках с элем."
 "Wanted in connection with multiple harassment and public-nuisance complaints. Last seen pestering tengu merchants at their trading post, though target may have moved elsewhere in the region.","Разыскивается в связи с многочисленными жалобами на приставания и нарушение общественного порядка. Последний раз замечен докучающим торговцам тенгу на их торговом посту, хотя цель могла переместиться в другое место в регионе."
 Wanted in connection with several property-damage suits. Last seen behaving aggressively at Meatoberfest. This Separatist keeps clear of Flame Legion territory but could be anywhere else in area.,"Разыскивается в связи с несколькими исками о нанесении ущерба имуществу. Последний раз замечен агрессивно ведущим себя на Мясо-октоберфесте. Этот сепаратист держится подальше от территории Легиона Пламени, но может быть где угодно в этой местности."
-"Wanted: Adal, Unyielding Firmament",
+"Wanted: Adal, Unyielding Firmament","Разыскивается: Адаль, Непоколебимый Свод."
 Wanted: Agasaya,Разыскивается: Агасая
 Wanted: Angry Pet Rock,Разыскивается: Злой камень-питомец
 Wanted: Asphodel,Разыскивается: Асфодель

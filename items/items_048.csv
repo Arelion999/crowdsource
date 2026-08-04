@@ -208,7 +208,9 @@ Full Wall Bracket (960),Полный настенный кронштейн (960)
 Full Wall Bracket Corner,Угловой кронштейн для полной стены
 "Fulla
 733 Tide VIXV
-Unsworn",
+Unsworn","Фулла
+733 Прилив VIXV
+Неприсягнувший"
 Fullweight Hatchling,Тяжеловесный детёныш
 "Fully charged with experiences, this rune can be turned in to Conri to create a piece of Suffused Obsidian armor.","Полностью заряженная опытом, эта руна может быть передана Конри для создания части брони из Пропитанного обсидиана."
 Fun Balloon Bundle,Связка веселых шаров
@@ -310,7 +312,9 @@ Gain 50%% endurance after using a healing skill. <c=@reminder>(Cooldown: 20 Seco
 Gain a mount skin of your choice from the Black Lion Stables. Right-click to preview available mount skins.,"Получите облик скакуна на ваш выбор из Конюшен Чёрного Льва. Щёлкните правой кнопкой мыши, чтобы просмотреть доступные облики скакунов."
 "Gain a random mount skin that you do not already own from the Black Lion Stables. Right-click to preview available mount skins.
 
-<c=#F8C56E>All unobtained skins have an equal chance of dropping.</c>",
+<c=#F8C56E>All unobtained skins have an equal chance of dropping.</c>","Получите случайный облик для скакуна, которого у вас ещё нет, в стойлах Чёрного льва. Правый клик для предпросмотра доступных обликов скакунов.
+
+<c=#F8C56E>Все не полученные облики имеют равные шансы выпадения.</c>"
 Gain a Signet of the Astral Ward after using a signet skill. Using a signet skill while this signet is active consumes it to remove conditions from nearby allies and grant them resistance.,"Получите Печать Астрального дозора после использования навыка печати. Использование навыка печати, пока эта печать активна, расходует её, чтобы снять состояния с ближайших союзников и дать им сопротивление."
 Gain alacrity and regeneration at the end of your dodge roll.,Получайте быстроту и регенерацию в конце вашего уклонения кувырком.
 Gain barrier when you successfully combo a field with a leap finisher.,Получите барьер при успешном комбо поля с финишером прыжка.
@@ -338,7 +342,7 @@ Gain increased condition duration when inflicting weakness or vulnerability on a
 Gain increased critical-hit chance for a duration after inflicting blindness or weakness.,Получите увеличенный шанс критического удара на некоторое время после наложения слепоты или слабости.
 "Gain increased movement speed, which is further increased while out of combat. When you enter combat, gain a burst of speed.","Увеличивает скорость передвижения, которая дополнительно возрастает вне боя. При входе в бой дает рывок скорости."
 Gain might and weaken nearby enemies when you use a healing skill. Gain additional might for each enemy struck.,"Получайте могущество и ослабляйте ближайших врагов, когда используете навык лечения. Получайте дополнительное могущество за каждого поражённого врага."
-Gain protection and regeneration after using a healing skill.,
+Gain protection and regeneration after using a healing skill.,Получите защиту и восстановление после использования умения исцеления.
 Gain protection when you use a <c=@abilitytype>well</c> or <c=@abilitytype>consecration</c> skill.,"Получите защиту, когда используете навык <c=@abilitytype>колодца</c> или <c=@abilitytype>освящения</c>."
 "Gain protection, regeneration, and resolution after using a healing skill.","Получите защиту, регенерацию и решимость после использования навыка лечения."
 Gain quickness when you disable a foe.,"Получите скорость, когда обездвижите врага."

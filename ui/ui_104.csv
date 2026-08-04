@@ -4,7 +4,7 @@ One Deadhouse Prisoner Freed,Один узник Мертвого дома ос�
 "One Down, Two to Go","Один готов, двое осталось"
 One Extract of Nourishment:,Один экстракт питания:
 One Forgotten Light remains.,Один Забытый Свет остался.
-"One Hundred Racing Medallions[pl:""Medallions""]",
+"One Hundred Racing Medallions[pl:""Medallions""]",Сто медалионов гонщика[ов]
 One less enemy on the battlefield. Good going!,Одним врагом на поле боя меньше. Отличная работа!
 "One maw has died, but more remain! Try splitting up to take them all out.","Одна пасть погибла, но остались ещё! Попробуйте разделиться, чтобы одолеть их всех."
 One minute until lab detonation.,Одна минута до взрыва лаборатории.
@@ -147,7 +147,7 @@ Ooze Vacuum,Вакуум слизи
 Ooze Whip,Плеть слизи
 Ooze[s],[Слизь|Слизи|Слизей]
 Oozone Alternator,Генератор озона
-"Opah[pl:""Opah""]",
+"Opah[pl:""Opah""]",Опа[а|ы|ев]
 Opal Crystal[s],Кристалл[|а|ов] опала
 Opal Orb[s],Шар[|а|ов] опала
 Opal Shard[s],[Осколок|Осколка|Осколков] опала
@@ -241,11 +241,11 @@ Opened the Sunken Chest in Lornar's Pass,Открыл Затонувший су�
 Opened the Sunken Chest in Mount Maelstrom,Открыл Затонувший сундук на Горе Мальстрем
 Opened the Sunken Chest in Snowden Drifts,Открыл Затонувший сундук в Сноуденских сугробах
 Opened the Sunken Chest in Timberline Falls,Открыл Затонувший сундук в Водопадах Тимберлайн
-"Opening [the] %str1% reveals [an] %str2%, which your party reserves for %str3%.",
-Opening [the] %str1% reveals [an] %str2%.,
-"Opening [the] %str1% reveals a rare %str2%, which your party reserves for %str3%.",
-Opening [the] %str1% reveals a rare %str2%.,
-Opening a portal to your home location. Talk to the Host NPC to return to this portal location.,
+"Opening [the] %str1% reveals [an] %str2%, which your party reserves for %str3%.","Открытие [the] %str1% открывает [an] %str2%, который ваша группа резервирует на %str3%."
+Opening [the] %str1% reveals [an] %str2%.,Открытие [the] %str1% открывает [an] %str2%.
+"Opening [the] %str1% reveals a rare %str2%, which your party reserves for %str3%.","Открытие [the] %str1% открывает редкий %str2%, который ваша группа резервирует на %str3%."
+Opening [the] %str1% reveals a rare %str2%.,Открытие [the] %str1% открывает редкую %str2%.
+Opening a portal to your home location. Talk to the Host NPC to return to this portal location.,"Открытие портала в вашу домашнюю локацию. Поговорите с Хостом, чтобы вернуться к этому порталу."
 Opens at %str1%,Открывается в %str1%
 Opens in %str1%,Откроется через %str1%
 Opens rare and unusual chests. Needed to unlock treasures from treasure maps.,Открывает редкие и необычные сундуки. Требуется для получения сокровищ по картам сокровищ.
@@ -357,7 +357,7 @@ Order of Whispers Emblem,Эмблема Ордена Шепотов
 Order of Whispers Equipment Guide[s],[Руководство|Руководства|Руководств] по снаряжению Ордена Шепотов
 Order of Whispers Honing Crystal[s],[Точильный кристалл|Точильных кристалла|Точильных кристаллов] Ордена Шепотов
 Order of Whispers Maintenance Oil[s],[Техническое масло|Технических масла|Технических масел] Ордена Шепотов
-"Order of Whispers Rations[pl:""Rations""]",
+"Order of Whispers Rations[pl:""Rations""]",Рацион Ордена Шёпота
 Order of Whispers Weapon Container[s],[Контейнер|Контейнера|Контейнеров] для оружия Ордена Шепотов
 Order Pistol,Приказ: Пистолет
 Order Rifle,Приказ: Винтовка
@@ -395,7 +395,7 @@ Ore Node 8,Рудная жила 8
 Ore Node 9,Рудная жила 9
 Ore Synthesizer,Синтезатор руды
 Orecart Hoist,Рудовозная лебёдка
-"Oregano Leaf[pl:""Leaves""]",
+"Oregano Leaf[pl:""Leaves""]",Лист орегано[лист|листа|листов]
 "Oregano Seed Pouch[pl:""Pouches""]",
 Organ Grinder,Органный шлифовальщик
 Organ Toss,Органный бросок

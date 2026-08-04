@@ -25,7 +25,7 @@ Basic Basket[s],[Простая корзина|Простой корзины|П�
 Basic Book[s],[Простая книга|Простой книги|Простых книг]
 "Basic Bookshelf[pl:""Bookshelves""]",
 Basic Boulder[s],[Простой валун|Простого валуна|Простых валунов]
-Basic Burning Oil attacks burn one supply from target,
+Basic Burning Oil attacks burn one supply from target,Базовое горючее масло при атаке сжигает одну единицу боеприпасов цели.
 Basic Candle[s],[Простая свеча|Простые свечи|Простых свечей]
 Basic Chair[s],[Простой стул|Простые стулья|Простых стульев]
 Basic Column[s],[Простая колонна|Простые колонны|Простых колонн]
@@ -34,16 +34,16 @@ Basic Crate[s],[Простой ящик|Простые ящики|Простых
 Basic Decorations,Базовые украшения
 Basic Decorations<br>• Buy Basic Guild Hall Decorations,Базовые украшения<br>• Купить базовые украшения гильдейского зала
 Basic Elder Focus Requisition[s],[Простой заказ на оружие старейшины-фокусника|Простые заказы на оружие старейшины-фокусника|Простых заказов на оружие старейшины-фокусника]
-"Basic Elder Focus[pl:""Foci""]",
+"Basic Elder Focus[pl:""Foci""]",Базовый древний фокус[ы|а|ов]
 Basic Elder Longbow Requisition[s],[Простой заказ на длинный лук старейшины|Простые заказы на длинный лук старейшины|Простых заказов на длинный лук старейшины]
-Basic Elder Longbow[s],
+Basic Elder Longbow[s],Основн[ой|ые|ые] Древн[ий|ие|ии] лук[и|ка|ок]
 Basic Elder Short Bow Requisition[s],
 Basic Elder Short Bow[s],
-Basic Elder Staff Requisition[s],
+Basic Elder Staff Requisition[s],Запрос[ы|а|ов] на Основн[ой|ые|ые] Древн[ий|ие|ии] Посох[и|а|ов]
 "Basic Elder Staff[pl:""Staves""]",
 Basic Elder Wood Warhorn Requisition[s],
 Basic Elder Wood Warhorn[s],
-Basic Finishing Kit[s],
+Basic Finishing Kit[s],Набор для Начальной Обработки[и]
 Basic Flagpole[s],
 Basic Fountain[s],
 Basic Gathering Tools,Базовые инструменты для сбора
@@ -95,7 +95,7 @@ Basic Table[s],[Базовый стол|Базового стола|Базовы
 "Basic Torch[pl:""Torches""]",
 Basic Tree[s],[Базовое дерево|Базового дерева|Базовых деревьев]
 Basical Paintball Shot,Базовый выстрел пейнтбольным шаром
-"Basil Leaf[pl:""Leaves""]",
+"Basil Leaf[pl:""Leaves""]",Лист базилика[лист|листа|листов]
 Basilisk Bowl,Чаша василиска
 Basilisk Strike,Удар василиска
 Basilisk's Light,Свет василиска
@@ -184,7 +184,7 @@ Battle one of Scarlet's Assault Knights.,Сразитесь с одним из �
 Battle Pit Caretaker Johan,Смотритель боевой ямы Йохан
 Battle pit caretaker Johan appreciates your help.,Смотритель боевой ямы Йохан ценит вашу помощь.
 Battle Rage,Боевая ярость
-"Battle Regalia[pl:""Regalia""] of the Twin Dynasts",
+"Battle Regalia[pl:""Regalia""] of the Twin Dynasts",Боевое облачение Двойных Династий
 Battle Report: Duke Barradin,Боевой отчёт: герцог Баррадин
 Battle Tequatl the Sunless,Сразитесь с Текватлом Безликим
 Battle the Ice Dragon's most persuasive servant deep under the mountains of Bjora Marches.,Сразитесь с самым убедительным слугой Ледяного Дракона глубоко под горами Бьора-Марш.
@@ -211,9 +211,9 @@ Bava Nisos Hoard[s],[Сокровище|Сокровища|Сокровищ] Б�
 Bava Nisos Site Catalog,Бава Нисос Каталог участков
 "Bava Nisos stands as the grandest city in all of Tyria, and it is thanks to our benevolent and uncompromising vision of a grand future with the mursaat as the rightful shepherds of this land and its denizens.    Though the other intelligent races of our world have contributed to the development of this world in their own small ways, it is only the gracious charity and industriousness of the mursaat that has ensured such a place could be built.    It shines out as an example to all beings with eyes to see that with the faith and steadfastness in the glory of the mursaat as the driving force in Tyria, all things may fall within our grasp.","Бава Нисос стоит как величайший город во всей Тирии, и это благодаря нашему доброжелательному и непреклонному видению великого будущего, где мурсааты являются законными пастырями этой земли и её обитателей. Хотя другие разумные расы нашего мира внесли свой вклад в развитие этого мира по-своему, только милосердная благотворительность и трудолюбие мурсаатов обеспечили возможность построить такое место. Оно сияет как пример для всех существ, у которых есть глаза, чтобы видеть, что с верой и стойкостью в славу мурсаатов как движущей силы Тирии всё может оказаться в наших руках."
 Bava Nisos: A Marvel,Бава Нисос: Чудо
-Bava Nisos: Commander's Choice Chest[s],
+Bava Nisos: Commander's Choice Chest[s],Сундук выбора командира Бавы Нисос[ов|ов|ов]
 "Bay Leaf Seed Pouch[pl:""Pouches""]",
-"Bay Leaf[pl:""Leaves""]",
+"Bay Leaf[pl:""Leaves""]",Лавровый лист[лист|листа|листов]
 Bazaar Captured,Базар захвачен
 Bazaar Docks. Click to teleport.,"Причал Базара. Нажмите, чтобы телепортироваться."
 Bazaar Quaggan Mini Pack[s],[Набор|Набора|Наборов] мини-квагганов «Базар»
@@ -277,14 +277,14 @@ Bearkin War Helm Remnant[s],[Остаток|Остатка|Остатков] б�
 Beast Mastery,Владение зверем
 Beastfighting Ring,Кольцо укротителя зверей
 Beastmaster's Bond,Узы повелителя зверей
-Beastslayer Axe Skin[s],
-Beastslayer Dagger Skin[s],
-Beastslayer Focus Skin[s],
+Beastslayer Axe Skin[s],Облик топора Истребителя Зверей
+Beastslayer Dagger Skin[s],Облик кинжала Истребителя Зверей
+Beastslayer Focus Skin[s],Облик фокусировки Истребителя Зверей
 Beastslayer Glider[s],
-Beastslayer Greatsword Skin[s],
-Beastslayer Hammer Skin[s],
-Beastslayer Longbow Skin[s],
-Beastslayer Mace Skin[s],
+Beastslayer Greatsword Skin[s],Облик Великого меча Истребителя Зверей
+Beastslayer Hammer Skin[s],Облик молота Истребителя Зверей
+Beastslayer Longbow Skin[s],Облик лука Истребителя Зверей
+Beastslayer Mace Skin[s],Облик боевого молота Истребителя Зверей
 Beastslayer Pistol Skin[s],[Облик|Облика|Обликов] пистолета «Убийца зверей»
 Beastslayer Rifle Skin[s],[Облик|Облика|Обликов] винтовки «Убийца зверей»
 Beastslayer Scepter Skin[s],[Облик|Облика|Обликов] скипетра «Убийца зверей»
@@ -353,7 +353,7 @@ Bee's Knees,Коленки пчелы
 Отдам Май должное: она хорошо использует Джун. Мы покинули те руины, устроили ещё несколько баз по всей Канте. Часть её «договорённости». Всё ещё затаиваемся, правда. Всегда затаиваемся. По крайней мере, пещеры в Шинг-Джеа и леса Эховальда дают смену обстановки. Новые цели для экспериментов.
 Способности становятся сильнее. Спрятался в деревьях. Поднял мёртвого кабана посреди каких-то Говорящих. Выражения их лиц...
 Нужно организовать команду. Возможно, скоро пора действовать."
-"Beet Seed Pouch[pl:""Pouches""]",
+"Beet Seed Pouch[pl:""Pouches""]",Мешочек с семенами свеклы[ы]
 Beet[s],[Свекла|Свеклы|Свекол]
 Beetle Burrow,Нора жука
 Beetle Feast,Пир жуков
@@ -389,7 +389,7 @@ Begin This Story,Начать эту историю
 Begin Trial,Начать испытание
 "Begin your Super Adventure in World 1! Travel through the Sunny Glade into the Dark Woods, and confront the ruler of the Kingdom of Fungus!",Начните своё Суперприключение в Мире 1! Пройдите через Солнечную поляну в Тёмный лес и сразитесь с правителем Грибного королевства!
 Beginner's Bag[s] of Crafting Supplies,Мешок[|а|ов] начинающего с ремесленными припасами
-Beginner-Friendly Music by the Strand Band,
+Beginner-Friendly Music by the Strand Band,Музыка для начинающих от группы Strand Band
 Behavior Package: %str1%,Пакет поведения: %str1%
 Behavioral observations of tiger cub leisure time.,Наблюдения за поведением тигрёнка во время досуга.
 Behaviors of Risen Beasts,Поведение восставших зверей
@@ -462,7 +462,7 @@ Below the stables. (12),Под конюшнями. (12)
 Below very large tracks and the smell of crops.,Под очень большими следами и запахом урожая.
 Below where logs tumble down and frogs are gathered.,"Под тем местом, где падают брёвна и собираются лягушки."
 Belt Items,Предметы пояса
-"Beluga[pl:""Beluga""]",
+"Beluga[pl:""Beluga""]",Белуга
 Bend light to become invisible for 30 seconds.,"Искривить свет, чтобы стать невидимым на 30 секунд."
 Beneath Champion's Gap,Под разрывом чемпиона
 Beneath Skyward Reach,Под Небесным Простором

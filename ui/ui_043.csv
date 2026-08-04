@@ -10,20 +10,20 @@ Chromatic Assassin Longbow Skin[s],
 Chromatic Assassin Mace Skin[s],Облик булавы «Хроматический убийца»
 Chromatic Assassin Pistol Skin[s],
 Chromatic Assassin Rifle Skin[s],Облик винтовки «Хроматический убийца»
-Chromatic Assassin Scepter Skin[s],
+Chromatic Assassin Scepter Skin[s],Облик Скипетра Хроматического Убийцы
 Chromatic Assassin Shield Skin[s],
 Chromatic Assassin Short Bow Skin[s],Облик хроматического короткого лука убийцы
 Chromatic Assassin Spear Skin[s],[Облик|Облика|Обликов] копья «Хроматический убийца»
 Chromatic Assassin Staff Skin[s],[Облик|Облика|Обликов] посоха «Хроматический убийца»
 Chromatic Assassin Sword Skin[s],
-Chromatic Assassin Torch Skin[s],
+Chromatic Assassin Torch Skin[s],Облик Факела Хроматического Убийцы
 Chromatic Assassin Warhorn Skin[s],
 Chromatic Assassin Weapons,Оружие хроматического убийцы
 Chromatic Bubble Wand[s],
 "Chromatic Bubbles[pl:""Bubbles""]",
 Chromatic Ooze,Хроматическая слизь
 Chromatic Resin Axe Skin[s],
-"Chromatic Resin Box[pl:""Boxes""]",
+"Chromatic Resin Box[pl:""Boxes""]",Коробка хроматической смолы[ы|ы|ов]
 Chromatic Resin Dagger Skin[s],[Облик|Облика|Обликов] кинжала из хроматической смолы
 Chromatic Resin Focus Skin[s],[Облик|Облика|Обликов] фокуса из хроматической смолы
 Chromatic Resin Greatsword Skin[s],[Облик|Облика|Обликов] большого меча из хроматической смолы
@@ -77,7 +77,7 @@ Cinematic Kneel Shoot,Кинематографичная стрельба с к�
 Cinematic Rifle Basic,Кинематографичная винтовка базовая
 Cinematic Shield Bash,Кинематографичный удар щитом
 Cinematic Shield Block,Кинематографичный блок щитом
-Cinematic Weapon Short Bow Longface,
+Cinematic Weapon Short Bow Longface,Оружейный Кинематографический Длинный Лук Лонгфейс
 Cinematics Volume,Громкость кинематографических сцен
 Cinnamon Apple[s],[Яблоко|Яблока|Яблок] с корицей
 Cinnamon Dye[s],[Краситель|Красителя|Красителей] корицы
@@ -164,11 +164,11 @@ Claw Slash,Удар когтем
 Claw Swipe,Взмах когтем
 Claw's Roost (Dominion),Гнездо Когтя (Доминион)
 Claw's Roost (United Legions),Гнездо Когтя (Объединенные Легионы)
-Claw[s],
+Claw[s],Коготь[и]
 "Clawfish[pl:""Clawfish""]",
 "Clawing Shadow Greaves Box[pl:""Boxes""]",
 Clawing Shadow Plate[s],
-Clay Pot[s],
+Clay Pot[s],Глиняный горшок[и]
 Claypool Bailey,Клейпул Бейли
 Clean Nest,Чистое гнездо
 Clean Oil,Чистое масло
@@ -204,7 +204,7 @@ Cleansing Light,Очищающий свет
 Cleansing Lotus,Очищающий лотос
 Cleansing of Kormir,Очищение Кормир
 Cleansing of this beacon is already in progress.,Очищение этого маяка уже выполняется.
-Clear (NUM),
+Clear (NUM),Очистить (ЧИСЛО)
 Clear a path through Qadim's minions to the Mythwright Cauldron.,Проложите путь через приспешников Кадима к Мифическому Котлу.
 Clear All,Очистить всё
 Clear All Decorations,Очистить все украшения
@@ -295,7 +295,7 @@ Click the checkboxes to toggle interface elements on and off.,"Нажмите н
 Click the hero button [lbracket]%str1%[rbracket] to assign specializations in the build tab.,"Нажмите кнопку героя [lbracket]%str1%[rbracket], чтобы назначить специализации на вкладке сборки."
 "Click the hero button [lbracket]%str1%[rbracket] to assign unspent trait points.<br><br>Earn trait points as you level up, which can be spent to improve yourself.","Нажмите кнопку героя [lbracket]%str1%[rbracket], чтобы распределить неиспользованные очки черт.<br><br>Зарабатывайте очки черт по мере повышения уровня, которые можно потратить на улучшение себя."
 Click the potion button [lbracket]%str1%[rbracket] to regain energy during combat.,"Нажмите кнопку зелья [lbracket]%str1%[rbracket], чтобы восстановить энергию во время боя."
-Click the Upgrade Now! button on your screen or visit buy.guildwars2.com to upgrade now!,
+Click the Upgrade Now! button on your screen or visit buy.guildwars2.com to upgrade now!,"Нажмите кнопку «Обновить Сейчас» на экране или посетите buy.guildwars2.com, чтобы обновить игру!"
 Click this button to open your wallet and view more info about your currencies.,"Нажмите эту кнопку, чтобы открыть кошелек и просмотреть дополнительную информацию о валютах."
 Click to add the currently displayed Build Template to account Build Storage. This space is shared by all characters.,"Нажмите, чтобы добавить отображаемый шаблон сборки в хранилище сборок учетной записи. Это пространство используется всеми персонажами."
 Click to airdrop into the first level of the Tower of Nightmares.,"Нажмите, чтобы высадиться на первый уровень Башни Кошмаров."
@@ -463,14 +463,14 @@ Coax entangling roots out of the ground with a powerful smash.,Выманите 
 Cobalt Dye[s],Кобальтов[ая|ые|ых] краска
 Cobalt Wurm,Кобальтовый вурм
 Cobble Court,Мощеный двор
-"Cobia[pl:""Cobia""]",
+"Cobia[pl:""Cobia""]",Кобия[и|и|ями]
 Cobolt Dye[s],Коболтов[ая|ые|ых] краска
 Cocoa Brown,Какао-коричневый
 Cocoa Dye[s],Какаов[ая|ые|ых] краска
 Coconut Tree,Кокосовая пальма
 Coconut[s],Кокос[|а|ов]
 Codex Of Svanir,Кодекс Сванира
-"Codmander[pl:""Codmanders""]",
+"Codmander[pl:""Codmanders""]",Кодан[ы|а|ов]
 Coffee Crate,Ящик с кофе
 Coffer[s] of the Dragon Ball Champion,Жетон[|а|ов] Чемпиона Драконьего Мяча
 Coffer[s] of the Lion's Champion,Сундук[|а|ов] львиного чемпиона

@@ -175,7 +175,7 @@ Ignis Heart,Сердце Игнис
 Ignis Runestone,Рунический камень Игнис
 Ignus Fatuus,Ignus Fatuus
 II: The Minister Illuminate,II: Министр Просвещения
-III: The Mother Sovereign,
+III: The Mother Sovereign,III: Мать-государыня
 Ilex of Dreams,Илекс снов
 Illegible Siege Blueprint,Нечитаемый чертёж осадного орудия
 Illuminated Boreal Axe,Озаренный бореальный топор
@@ -273,7 +273,9 @@ Imbued Staff Head,Пропитанная Головка Посоха
 <c=@flavor>Посетители кафе будут сидеть здесь, чтобы сделать заказ!</c>"
 "Immediately receive 150 research notes.
 
-<c=@Flavor>""A donation of materials to help craftspeople, plus a reward of research notes!""</c>",
+<c=@Flavor>""A donation of materials to help craftspeople, plus a reward of research notes!""</c>","Немедленно получите 150 записей исследований.
+
+<c=@Flavor>«Пожертвование материалов мастерам, а также награда в виде записей исследований!»</c>"
 Immelhoof's Heart,Сердце Иммельхуфа
 Immense Lion Statue,Огромная статуя льва
 Immobilization you inflict lasts longer. Weaken foes when you immobilize them.,"Накладываемое вами обездвиживание длится дольше. Ослабляйте врагов, когда обездвиживаете их."
@@ -455,7 +457,13 @@ A Gift of Relics is made by combining these items in the Mystic Forge:
 • Selachimorpha—Gift of Castoran Mastery and the Precursor Agaleus
 • Endless Summer—Gift of the Hylek and Gift of Rays
 
-Purchased from Canach at Pub Canach in Shipwreck Strand.",
+Purchased from Canach at Pub Canach in Shipwreck Strand.","В Мистической Кузне сочетайте Подарок выживших и Подарок народа с двумя другими легендарными подарками, чтобы создать легендарный предмет:
+
+• Аэтерическая якорь—Подарок Прозрения и Подарок древних
+• Селахиморфа—Подарок Мастерства Касторана и Предшественник Агалиус
+• Бесконечное лето—Подарок Хилека и Подарок лучей
+
+Покупается у Канака в Пабе Канака на Обломках берега."
 "In the Mystic Forge, combine a Gift of the Survivors and a Gift of the People with two other legendary gifts to create a legendary item:
 
 • Aetheric Anchor—Gift of Insight and Gift of the Elders

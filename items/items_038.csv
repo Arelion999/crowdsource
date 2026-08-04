@@ -53,7 +53,7 @@ Double-click to choose an exclusive city-themed backpack and receive an annivers
 Double-click to choose an exclusive tenth anniversary weapon.,"Дважды щелкните, чтобы выбрать эксклюзивное оружие десятой годовщины."
 Double-click to choose an exotic inscription.,"Дважды щелкните, чтобы выбрать экзотическую надпись."
 Double-click to choose an exotic insignia.,"Дважды щелкните, чтобы выбрать экзотическую эмблему."
-Double-click to choose an orange Super Adventure Box weapon skin.,
+Double-click to choose an orange Super Adventure Box weapon skin.,"Дважды щёлкните, чтобы выбрать облик «Супер Приключение» для оранжевого ящика с оружием."
 Double-click to choose either a Gift of Might or Gift of Magic.,"Дважды щелкните, чтобы выбрать Дар Мощи или Дар Магии."
 "Double-click to choose from a full suit of either heavy, medium, or light armor.","Дважды щелкните, чтобы выбрать полный комплект тяжелой, средней или легкой брони."
 Double-click to choose from a large selection of account-bound dyes.,"Дважды щелкните, чтобы выбрать из большого набора красок, привязанных к учетной записи."
@@ -140,7 +140,7 @@ Double-click to create a mortar at your location.,"Дважды щелкните
 "Double-click to create a sprocket generator node in your home instance and homestead. The node can be gathered from once per day. If the node is already unlocked, awards karma.","Дважды щелкните, чтобы создать генератор узла с зубчатками в вашем домашнем экземпляре и усадьбе. Узел можно собирать раз в день. Если узел уже открыт, награждает кармой."
 "Double-click to create a United Legions Waystation at your location. Lasts 15 minutes.
 
-This item can only be used in open-world PvE maps.",
+This item can only be used in open-world PvE maps.","Дважды щёлкните, чтобы создать Путевую станцию Объединённых легионов в вашем текущем месте. Действует 15 минут."
 Double-click to create an account-bound Endless Cloudseeker Tonic.,"Дважды щелкните, чтобы создать привязанный к учетной записи бесконечный тоник «Облакоискатель»."
 "Double-click to create copper, silver, and gold mining nodes in your home instance and homestead. Each node can be mined once per day.","Дважды щелкните, чтобы создать узлы добычи меди, серебра и золота в вашем домашнем экземпляре и усадьбе. Каждый узел можно добывать раз в день."
 Double-click to deposit 1 Bandit Crest in your wallet.,
@@ -180,7 +180,9 @@ Double-click to display your Champion's Skull.<br><c=@flavor>This was earned by 
 <c=@flavor>«Настоятельно рекомендуются холодостойкие перчатки».</c>"
 "Double-click to draw charge.
 
-<c=@Flavor>A completely clean crystal capable of holding vast amounts of energy.</c>",
+<c=@Flavor>A completely clean crystal capable of holding vast amounts of energy.</c>","Двойной щелчок, чтобы зарядить.
+
+<c=@Flavor>Абсолютно чистый кристалл, способный удерживать огромное количество энергии.</c>"
 Double-click to drink and transform into a slubling for 5 minutes. You are unable to fight while transformed.,"Дважды щелкните, чтобы выпить и превратиться в слизневика на 5 минут. В облике вы не можете сражаться."
 "Double-click to drink, transforming you into a Aetherblade Cannoneer for 5 minutes. You will be unable to fight while transformed.","Дважды щелкните, чтобы выпить, превратившись в канонира Эфирного клинка на 5 минут. В облике вы не сможете сражаться."
 "Double-click to drink, transforming you into a Molten berserker for 5 minutes. You will be unable to fight while transformed.","Дважды щелкните, чтобы выпить, превращая вас в безумца Магмы на 5 минут. Вы не сможете сражаться в облике."
@@ -242,10 +244,14 @@ Double-click to feed desired food from your inventory to the chick.,"Дважд�
 Double-click to feed it the food it desires.,"Дважды щелкните, чтобы накормить его желаемой едой."
 "Double-click to feed this tasty treat to your roller beetle.
 
-Gives bonus Mastery experience once per day.",
+Gives bonus Mastery experience once per day.","Дважды щелкните, чтобы дать эту вкуснятину вашему жуку-каталке.
+
+Дает бонусный опыт Мастерства раз в день."
 "Double-click to feed this to your raptor, who is sure to enjoy this meaty treat.
 
-Gives bonus Mastery experience once per day.",
+Gives bonus Mastery experience once per day.","Двойной щелчок, чтобы скормить это вашему Раптору, который наверняка оценит это лакомство.
+
+Дает бонусный опыт Мастерства раз в день."
 "Double-click to feed to a Cultivated Seedling.
 
 <c=@flavor>Dusted with Ley Line power to nourish a growing magical carnivorous plant.</c>",
@@ -446,7 +452,9 @@ Double-click to gain a pot of hylek poison,"Дважды щелкните, чт�
 Double-click to gain a random amount of bait.,"Дважды щелкните, чтобы получить случайное количество наживки."
 "Double-click to gain a random deathly dye color. Includes a chance at 1 of 6 exclusive colors.
 
-<c=#FFC957>All dyes have an equal chance to drop.</c>",
+<c=#FFC957>All dyes have an equal chance to drop.</c>","Двойной щелчок для получения случайного смертельного цвета краски. Включает шанс получить один из 6 эксклюзивных цветов.
+
+<c=#FFC957>Все краски имеют равные шансы выпасть.</c>"
 Double-click to gain a reward.,"Дважды щелкните, чтобы получить награду."
 Double-click to gain a rock to throw.,"Дважды щелкните, чтобы получить камень для метания."
 Double-click to gain a rock.,"Дважды щелкните, чтобы получить камень."
@@ -498,7 +506,7 @@ Double-click to gain an Ascalon Tome,"Дважды щелкните, чтобы 
 Double-click to gain an enhancement that gives an additional 50%% Magic Find for one hour.,"Дважды щелкните, чтобы получить улучшение, дающее дополнительные 50%% к поиску магии на один час."
 Double-click to gain an enhancement that grants an additional 50%% experience from kills for one hour.,"Дважды щелкните, чтобы получить улучшение, дающее дополнительные 50%% опыта за убийства на один час."
 Double-click to gain an enhancement that increases karma gained by 50%% for one hour. Does not affect karma gained from consumable items.,"Дважды щелкните, чтобы получить улучшение, увеличивающее получаемую карму на 50%% на один час. Не влияет на карму, полученную от расходуемых предметов."
-Double-click to gain an enhancement that increases karma gained by 50%% for one hour. Does not affect karma gained from consumable items. <c=@Flavor>Proceeds donated to Extra Life!</c>,
+Double-click to gain an enhancement that increases karma gained by 50%% for one hour. Does not affect karma gained from consumable items. <c=@Flavor>Proceeds donated to Extra Life!</c>,"Двойной щелчок для получения усиления, увеличивающего получаемую карму на 50%% на один час. Не влияет на карму, полученную от расходных предметов. <c=@Flavor>Средства, перечисленные на Extra Life!</c>"
 Double-click to gain an enhancement that increases the value of your support tokens for 30 minutes.,"Дважды щелкните, чтобы получить улучшение, увеличивающее ценность ваших жетонов поддержки на 30 минут."
 Double-click to gain an enhancement that increases your chance to gain bonus experience from crafting by 50%% for one hour.,"Дважды щелкните, чтобы получить улучшение, увеличивающее шанс получения бонусного опыта от ремесла на 50%% на один час."
 Double-click to gain an enhancement that increases your coins from kills by 30%% for one hour.,"Дважды щелкните, чтобы получить улучшение, увеличивающее получаемые монеты за убийства на 30%% на один час."
@@ -567,7 +575,7 @@ Double-click to gain luck.,"Дважды щелкните, чтобы получ
 Double-click to gain one Anniversary Backpack Pack and two Anniversary Weapon Packs.,"Дважды щелкните, чтобы получить один набор рюкзаков «Годовщина» и два набора оружия «Годовщина»."
 Double-click to gain one character level. <c=@reminder>(Usable below level 80)</c>,"Дважды щелкните, чтобы получить один уровень персонажа. <c=@reminder>(Можно использовать ниже 80 уровня)</c>"
 Double-click to gain one character level. Can only be used on characters at least one level below the highest-level character on your account.,"Дважды щелкните, чтобы получить один уровень персонажа. Можно использовать только на персонажах, которые как минимум на один уровень ниже самого высокоуровневого персонажа на вашей учетной записи."
-Double-click to gain one level. Only usable by characters under level 80. Only usable in PvE and WvW.,
+Double-click to gain one level. Only usable by characters under level 80. Only usable in PvE and WvW.,"Двойной щелчок, чтобы получить уровень. Используется только персонажами ниже 80 уровня. Используется только в PvE и WvW."
 "Double-click to gain one of 25 random colors commemorating Lion's Arch of old. Includes six exclusive colors.
 
 <c=#FFC957>All dyes have an equal chance to drop.</c>","Дважды щелкните, чтобы получить один из 25 случайных цветов в память о старом Заливе Льва. Включает шесть эксклюзивных цветов.
@@ -582,28 +590,42 @@ Double-click to gain one of each of 30 different dye kits.,"Дважды щел�
 Double-click to gain one random blue dye color and one random yellow dye color.,"Дважды щелкните, чтобы получить один случайный синий цвет и один случайный желтый цвет."
 "Double-click to gain one random color. Includes six exclusive bloodstone colors.
 
-<c=#FFC957>All dyes have an equal chance to drop.</c>",
+<c=#FFC957>All dyes have an equal chance to drop.</c>","Двойной щелчок для получения случайного цвета. Включает шесть эксклюзивных оттенков кровавого камня.
+
+<c=#FFC957>У всех красителей одинаковая вероятность выпадения.</c>"
 "Double-click to gain one random color. Includes six exclusive Mad King colors.
 
-<c=#FFC957>All dyes have an equal chance to drop.</c>",
+<c=#FFC957>All dyes have an equal chance to drop.</c>","Дважды щёлкните, чтобы получить один случайный цвет. Включает шесть эксклюзивных цветов Короля Безумца.
+
+<c=#FFC957>Все красители имеют равные шансы выпадения.</c>"
 Double-click to gain one random flame-inspired color. Includes a chance at 1 of 6 exclusive colors.,"Дважды щёлкните, чтобы получить один случайный цвет, вдохновлённый пламенем. Включает шанс получить 1 из 6 эксклюзивных цветов."
 "Double-click to gain one random flame-inspired color. Includes a chance at 1 of 6 exclusive colors.
 
-<c=#FFC957>All dyes have an equal chance to drop.</c>",
+<c=#FFC957>All dyes have an equal chance to drop.</c>","Двойной щелчок, чтобы получить случайный цвет, вдохновлённый пламенем. Включает шанс получить один из 6 эксклюзивных цветов.
+
+<c=#FFC957>Все красители имеют равные шансы выпадения.</c>"
 Double-click to gain one random frost-inspired color. Includes a chance at 1 of 6 exclusive colors.,"Дважды щёлкните, чтобы получить один случайный цвет, вдохновлённый морозом. Включает шанс получить 1 из 6 эксклюзивных цветов."
 "Double-click to gain one random frost-inspired color. Includes a chance at 1 of 6 exclusive colors.
 
-<c=#FFC957>All dyes have an equal chance to drop.</c>",
+<c=#FFC957>All dyes have an equal chance to drop.</c>","Дважды щелкните, чтобы получить случайный цвет в стиле льда. Есть шанс получить один из 6 эксклюзивных цветов.
+
+<c=#FFC957>Все красители имеют равную вероятность выпадения.</c>"
 "Double-click to gain one random metal-themed color. Includes six exclusive colors.
 
-<c=#FFC957>All dyes have an equal chance to drop.</c>",
+<c=#FFC957>All dyes have an equal chance to drop.</c>","Двойной щелчок для получения одного случайного цвета в тематике металла. Включает шесть эксклюзивных цветов.
+
+<c=#FFC957>Все красители имеют равные шансы выпадения.</c>"
 Double-click to gain one random red dye color and one random green dye color.,"Дважды щёлкните, чтобы получить один случайный красный и один случайный зелёный красители."
 "Double-click to gain one random toxic-inspired color. Includes a chance at 1 of 6 exclusive colors.
 
-<c=#FFC957>All dyes have an equal chance to drop.</c>",
+<c=#FFC957>All dyes have an equal chance to drop.</c>","Дважды щёлкните, чтобы получить один случайный токсичный цвет. Включает шанс получить один из 6 эксклюзивных цветов.
+
+<c=#FFC957>Все красители имеют равные шансы выпадения.</c>"
 "Double-click to gain one random vibrant color. Includes a chance at 1 of 6 exclusive colors.
 
-<c=#FFC957>All dyes have an equal chance to drop.</c>",
+<c=#FFC957>All dyes have an equal chance to drop.</c>","Двойным щелчком получите случайный яркий цвет. Есть шанс получить один из 6 эксклюзивных цветов.
+
+<c=#FFC957>Все красители имеют равную вероятность выпадения.</c>"
 Double-click to gain one spirit shard.,"Дважды щелкните, чтобы получить один осколок духа."
 Double-click to gain Silky Sand and loot.,"Дважды щелкните, чтобы получить Шелковистый песок и добычу."
 "Double-click to gain the ability to extract a specific part from underground Mordrem bosses.

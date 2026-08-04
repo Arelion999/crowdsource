@@ -163,7 +163,9 @@ Dropped by Flame Legion.,Сброшено Легионом Пламени.
 Dropped by Krait Hypnoss.,Сброшено Крайтом Гипноссом.
 "Dropped by Mossman in the Swampland Fractal.
 
-<c=@flavor>It stinks. Real bad.<c>",
+<c=@flavor>It stinks. Real bad.<c>","Выпадает с Моссмена во Фрактале Болот.
+
+<c=@flavor>Ужасно воняет.<c>"
 Dropped by the Beak of Darkness in Snowden Drifts.,Сброшено Клювом Тьмы в Дрифтах Сноудена.
 Dropped by the fire elemental in the Scorchlands of the Iron Marches.,Сброшено огненным элементалем в Опалённых Землях Железных Марок.
 Dropped by the Fire Elementals in Metrica Province and Iron Marches.,Сброшено Огненными Элементалями в Провинции Метрика и Железных Марках.
@@ -355,7 +357,7 @@ Dynamics Extractor Harvesting Tool,Собирающий инструмент э�
 Dynamics Extractor Logging Tool,Инструмент лесозаготовки экстрактора «Динамика»
 Dynamics Extractor Mining Tool,Горный инструмент экстрактора «Динамика»
 Dynamics Hoverboard Backpack,Рюкзак-ховерборд «Динамика»
-Dynamics Hoverboard Chair,
+Dynamics Hoverboard Chair,Динамическое Кресло-Ховерборд
 Dynamics Hoverboard Glider,Планер «Дайнамикс Ховерборд»
 Dynamics Projector Module,Модуль динамического проектора
 Dynamics Racing Skiff Skin,
@@ -427,7 +429,7 @@ Earned by completing the Auric Weapons collection.,Зарабатывается 
 Earned by playing Fractals of the Mists scales 1–20.,Зарабатывается за прохождение шкал Фракталов Туманностей 1–20.
 Earned by playing Fractals of the Mists scales 21–50.,Зарабатывается за прохождение шкал Фракталов Туманностей 21–50.
 Earned by playing Fractals of the Mists scales 51–100.,Зарабатывается за прохождение шкал Фракталов Туманностей 51–100.
-Earned by winning rounds of Dragon Ball. Grants the bearer the right to purchase additional lucky envelopes.,
+Earned by winning rounds of Dragon Ball. Grants the bearer the right to purchase additional lucky envelopes.,Получено за победы в раундах «Шары Дракона». Даёт владельцу право приобретать дополнительные счастливые конверты.
 "Earned for aiding the Pact while proving yourself a hero of the wastes.
 Double-click to open.",
 Earned for completing guild missions. Can be traded to Tyrian Explorer Olread in Lion's Arch for rewards.,
