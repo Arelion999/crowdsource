@@ -94,28 +94,41 @@ def main():
         mark_done(per_batch)
 
 def mark_done(per_batch):
+    """✅ ровно там, где заполнено 100%.
+
+    Галочку не только ставим, но и СНИМАЕМ: раньше она только добавлялась, и
+    после массового автозаполнения ✅ висела на батчах с 1% заполнения — доска
+    показывала «готово» там, где работы почти не начиналось. Ручной статус
+    (🔨 «в работе») не трогаем, его ставит человек.
+    """
     if not os.path.exists(CLAIMS):
         print("CLAIMS.md не найден."); return
     lines = open(CLAIMS, encoding="utf-8").read().split("\n")
-    changed = 0
+    added = removed = 0
     for i, line in enumerate(lines):
         m = re.match(r"\| `([^`]+\.csv)` \|", line)
         if not m:
             continue
         rt = per_batch.get(m.group(1))
-        if not rt or not (rt[0] and rt[1] == rt[0]):
+        if not rt:
             continue
         parts = line.split("|")            # ['', ' `x` ', тип, строк, знаков, образец, статус, ник, '']
         if len(parts) < 9:
             continue
-        if parts[-3].strip() == "✅":
+        cur = parts[-3].strip()
+        if cur not in ("", "✅"):           # 🔨 и прочие ручные пометки — не наше дело
             continue
-        parts[-3] = " ✅ "
+        done = bool(rt[0]) and rt[1] == rt[0]
+        want = "✅" if done else ""
+        if cur == want:
+            continue
+        parts[-3] = f" {want} " if want else "  "
         lines[i] = "|".join(parts)
-        changed += 1
-    if changed:
+        added += done
+        removed += not done
+    if added or removed:
         open(CLAIMS, "w", encoding="utf-8", newline="").write("\n".join(lines))
-    print(f"\nCLAIMS.md: проставлено ✅ готовым батчам: {changed}")
+    print(f"\nCLAIMS.md: ✅ проставлено {added}, снято {removed} (батч не на 100%)")
 
 if __name__ == "__main__":
     main()
