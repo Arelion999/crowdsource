@@ -904,6 +904,48 @@ def cmd_enbroken(a):
     print("бэкап: %s" % os.path.relpath(bak, ROOT))
 
 
+def cmd_batchdiff(a):
+    """Где батч и bin расходятся, а придраться не к чему.
+
+    `frombatches` заменяет наш перевод только когда он битый, поэтому пара
+    «обе версии чисты, но текст разный» никуда не течёт: человек вычитал строку
+    в батче, а в игре остался машинный вариант. Отчёт складываем в
+    sync/reports/ (он не версионируется — регенерируется этой командой).
+    """
+    if _validate is None:
+        sys.exit("не найден crowdsource/validate.py")
+    ours = load_map(OUR_BIN)
+    by_en = {en: ru for _h, (en, ru, _c) in ours.items() if en}
+    rows = []
+    for fp in batch_files():
+        data = list(csv.reader(io.StringIO(open(fp, "rb").read().decode("utf-8"))))
+        if not data or data[0][:1] != ["english"]:
+            continue
+        rel = os.path.relpath(fp, CROWD).replace("\\", "/")
+        for i, r in enumerate(data[1:], start=2):
+            if len(r) < 2 or not r[0].strip() or not r[1].strip():
+                continue
+            o = by_en.get(r[0])
+            if o is None or r[1].strip() == o.strip():
+                continue
+            if _validate.check_row(r[0], r[1])[0] or _validate.check_row(r[0], o)[0]:
+                continue
+            rows.append((round(difflib.SequenceMatcher(None, r[1], o).ratio(), 3),
+                         rel, i, r[0], r[1], o))
+    rows.sort()                                   # самые расходящиеся сверху
+    out = a.out or os.path.join(CROWD, "sync", "reports", "batch_vs_bin.csv")
+    os.makedirs(os.path.dirname(out), exist_ok=True)
+    with open(out, "w", encoding="utf-8-sig", newline="") as f:
+        w = csv.writer(f, lineterminator="\n")
+        w.writerow(["сходство", "файл батча", "строка", "english",
+                    "перевод в батче (человек)", "перевод в bin (сейчас в игре)"])
+        w.writerows(rows)
+    print("расхождений: %d -> %s" % (len(rows), os.path.relpath(out, ROOT)))
+    print("  совсем разные (<0.8): %d" % sum(1 for r in rows if r[0] < 0.8))
+    print("  близкие (0.8-0.95)  : %d" % sum(1 for r in rows if 0.8 <= r[0] < 0.95))
+    print("  почти одинаковые    : %d" % sum(1 for r in rows if r[0] >= 0.95))
+
+
 def cmd_learnen(a):
     """Вернуть английский записям «только по хешу».
 
@@ -2127,6 +2169,8 @@ def main():
         (("--oracle",), {"default": None,
                          "help": "чужой bin: где следов шва нет, спросить его перевод"}),
         (("--apply",), {"action": "store_true"}))
+    add("batchdiff", "где батч и bin расходятся при чистом линте", cmd_batchdiff,
+        (("--out",), {"default": None}))
     add("learnen", "вернуть английский записям только по хешу", cmd_learnen,
         (("--apply",), {"action": "store_true"}))
     add("segments", "вернуть сегменты, потерянные переводом", cmd_segments,
