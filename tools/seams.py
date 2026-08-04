@@ -30,6 +30,8 @@ except Exception:
     pass
 
 NOSPACE = re.compile(r"\s+")
+# Пробельный блок с переносами между сегментами оригинала.
+RUN = re.compile(r"[ \t]*\n[ \t\n]*")
 
 
 def bare(s):
@@ -114,7 +116,11 @@ def cmd_anchors(a):
             bad.append((parts[0], "записи нет в bin"))
             continue
         en, ru = ours[h][0], ours[h][1]
-        runs = [r for _p, r in T.nl_flat(en)[1]]
+        # Разрывы, разделённые только пробелами («…в деле.   \n   \nЯ отправлю»),
+        # в переводе соответствуют ОДНОМУ месту: там абзацный отступ, а не две
+        # разные строки. Поэтому берём пробельный блок целиком и вставляем как
+        # есть — вёрстка оригинала воспроизводится дословно.
+        runs = RUN.findall(en)
         anchors = [p for p in parts[1:] if p.strip()]
         if len(anchors) != len(runs):
             bad.append((parts[0], "якорей %d, разрывов в оригинале %d"
