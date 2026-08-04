@@ -96,6 +96,8 @@ def tokens(s):
 # [M]/[F] — родовой маркер в начале строки, корпус его всегда сохраняет.
 KNOWN_TOKENS = re.compile(r'\[(?:lbracket|rbracket|null|plur|nosep|topic-[fm]|f|an|the|[MF])\]|\[pl:"[^"]*"\]')
 GENDER_MARK = re.compile(r'^\[([MF])\]')
+# Слово перед группой, которое в группе же и повторено (см. проверку ниже).
+DUP_WORD = re.compile(r'([А-Яа-яЁё-]{4,})\[([^\]\[]*\|[^\]\[]*)\]')
 
 def strip_known(s):
     s = re.sub(r'%\w+%', '', s)
@@ -231,6 +233,14 @@ def check_row(en, ru):
                 warns.append(f"скобка без | : {grp}")
     if PREFIX_EN.match(en) and ':' not in ru:
         errs.append(f"потерян префикс «{PREFIX_EN.match(en).group().strip()}» — в переводе нет двоеточия")
+    # «Лавровый лист[лист|листа|листов]» — движок склеит в «Лавровый листлист».
+    # Формы задают либо окончанием («Ящик[|а|ов]»), либо словом целиком
+    # («[Ящик|Ящика|Ящиков]»); машина смешала режимы и оставила слово снаружи.
+    for m in DUP_WORD.finditer(rs):
+        w, forms = m.group(1), m.group(2).split('|')
+        if any(w[:4].lower() in f.lower() for f in forms):
+            errs.append(f"слово «{w}» продублировано внутри группы: {m.group()[:40]}")
+            break
     gm = GENDER_MARK.match(en)
     if gm and not ru.startswith(f'[{gm.group(1)}]'):
         errs.append(f"потерян родовой маркер [{gm.group(1)}] в начале строки")
