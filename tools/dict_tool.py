@@ -904,6 +904,47 @@ def cmd_enbroken(a):
     print("бэкап: %s" % os.path.relpath(bak, ROOT))
 
 
+def cmd_learnen(a):
+    """Вернуть английский записям «только по хешу».
+
+    Прокси собирает строки на лету и кладёт их в категорию «выученные»: хеш и
+    перевод есть, английского нет. Такая запись работает в игре, но невидима для
+    всего остального — линтер её не проверит, `frombatches` не сравнит с батчем,
+    `charscan` пропустит. Английский берём из батчей: совпадение доказано хешем,
+    гадать не приходится, поэтому правка безопасна — хеш и перевод не меняются.
+    """
+    oracle = {}
+    for en in batch_english():
+        oracle.setdefault(fnv1a_u16(en), en)
+    sections = read_sections(OUR_BIN)
+    out, filled, left = [], 0, 0
+    ex = []
+    for name, es in sections:
+        keep = []
+        for h, en, ru in es:
+            if not en and h in oracle:
+                keep.append((h, oracle[h], ru))
+                filled += 1
+                if len(ex) < 5:
+                    ex.append((oracle[h], ru))
+            else:
+                keep.append((h, en, ru))
+                if not en:
+                    left += 1
+        out.append((name, keep))
+    print("записей только по хешу: %d | английский найден в батчах: %d | осталось: %d"
+          % (filled + left, filled, left))
+    for en, ru in ex:
+        print("\n  EN %r\n  RU %r" % (en[:85], ru[:85]))
+    if not a.apply:
+        print("\n(для записи --apply)")
+        return
+    bak = backup(OUR_BIN)
+    ncat, total = write_bin(OUR_BIN, out)
+    print("\nзаписано: %d категорий, %d записей | бэкап: %s"
+          % (ncat, total, os.path.relpath(bak, ROOT)))
+
+
 def cmd_escapes(a):
     """Развернуть литеральные escape в переводах.
 
@@ -2085,6 +2126,8 @@ def main():
         (("--weak",), {"action": "store_true", "help": "и вставки без сверки с оригиналом"}),
         (("--oracle",), {"default": None,
                          "help": "чужой bin: где следов шва нет, спросить его перевод"}),
+        (("--apply",), {"action": "store_true"}))
+    add("learnen", "вернуть английский записям только по хешу", cmd_learnen,
         (("--apply",), {"action": "store_true"}))
     add("segments", "вернуть сегменты, потерянные переводом", cmd_segments,
         (("--apply",), {"action": "store_true"}))
