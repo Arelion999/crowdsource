@@ -77,9 +77,9 @@ Block the next incoming attack.,Блокирует следующую входя
 "Block Topiary[pl:""Topiaries""]",Блокировка Топиари[и|ие|и]
 Block!,Блокировать!
 "Block, then counter with a kick and a quick retreat.","Блокирует, затем контратакует пинком и быстрым отступлением."
-Block[s] of Stone,Глыб[а/ы] камня
-Block[s] of the Solid Ocean,Глыб[а/ы] Твердого океана
-Block[s] of Tofu,Глыб[а/ы] тофу
+Block[s] of Stone,Глыб камня
+Block[s] of the Solid Ocean,Глыб Твердого океана
+Block[s] of Tofu,Глыб тофу
 Blocked You,Заблокировал вас
 "Blocked, absorbed, or reflected 20 attacks while wielding a shield in Thunderhead Peaks.","Заблокировал, поглотил или отразил 20 атак, используя щит в Пиках Громовой Головы."
 Blocking Progress,Блокировка прогресса
@@ -153,7 +153,7 @@ Bloodflame Sword[s],Меч[|а|ей] «Кровавое пламя»
 Bloodied Journal,Окровавленный дневник
 Bloodied Journal Entry,Окровавленная запись дневника
 Bloodied Journal Entry (Molten Furnace),Окровавленная запись дневника (Расплавленная печь)
-Bloodline of Kryta,Кровная линия Криты
+Bloodline of Kryta,Кровная линия Крайты
 "Bloodlust has been enhanced during this event! Gain bloodlust by capturing the ruins in each map. The effect is magnified if you control ruins in more than one map! Additionally, earn increased reward-track progress, increased magic find, and double the amount of World Experience!","Жажда крови была усилена в ходе этого события! Получайте жажду крови, захватывая руины на каждой карте. Эффект усиливается, если вы контролируете руины более чем на одной карте! Кроме того, вы получаете ускоренный прогресс по линии наград, увеличенную удачу и удвоенное количество опыта мира!"
 Bloodsaw Mill Tree Sapling,Саженец Кровопильной Мельницы
 Bloodstained Journal Entry,Окровавленная запись в дневнике
@@ -170,7 +170,7 @@ Bloodstone Capacitor[s],Кровавокаменн[ый|ых|ых] конден�
 Bloodstone Chest,Сундук из кровавого камня
 Bloodstone Corridor Survey Result Chest[s],[Сундук|Сундука|Сундуков] с результатами исследования Кровавокаменного коридора
 Bloodstone Crazed,Одержимый кровавым камнем
-"Bloodstone Crown Box[pl:""Boxes""]",Коробка с Кровавым Короной[ы]
+"Bloodstone Crown Box[pl:""Boxes""]",Коробка с кровавым Короной
 Bloodstone Crystal Node[s],[Узел|Узла|Узлов] кристалла кровавого камня
 Bloodstone Crystals,Кристаллы кровавого камня
 Bloodstone Dagger Skin[s],Облик[|а|ов] кинжала «Кровавый камень»
@@ -377,13 +377,13 @@ Blueberry Cookie[s],Черничное [печенье|печенья|печен
 Blueberry Dye[s],[Краска|Краски|Красок] «Черника»
 Blueberry Muffin[s],Черничный [маффин|маффина|маффинов]
 Blueberry Pie[s],Черничный [пирог|пирога|пирогов]
-"Blueberry Seed Pouch[pl:""Pouches""]",Мешочек с семенами черники[ы]
+"Blueberry Seed Pouch[pl:""Pouches""]",Мешочек с семенами черники
 Blueberry Tart[s],Черничный [тарт|тарта|тартов]
 "Blueberry[pl:""Blueberries""]",Черника[черника|черники|черник]
 "Bluefin Barratuna[pl:""Barratuna""]",
 "Bluefin Trevally[pl:""Trevallies""]",Голубой тревалли[я|и|й]
 "Bluefin Tuna[pl:""Tuna""]",Синий Тунец[и|и|ей]
-"Bluegill[pl:""Bluegills""]",Голавль[и]
+"Bluegill[pl:""Bluegills""]",Голавль
 Bluelake Tower,Башня Синего Озера
 Blueprint[s] for Winter's Presence,[Чертёж|Чертежа|Чертежей] «Присутствие зимы»
 Blueprints (Badge),Чертежи (Значок)
@@ -479,7 +479,7 @@ Bone Column,Костяная колонна
 Bone Crack,Треск костей
 Bone Dragon Staff Skin[s],[Облик|Облика|Обликов] посоха «Костяной дракон»
 Bone Fiend Toggle,Переключение костяного чудовища
-Bone Fiend[s],Костяное чудовище[а]
+Bone Fiend[s],Костяное чудовище
 Bone Gate,Костяные врата
 Bone Horn,Костяной рог
 Bone Longbow,Костяной длинный лук

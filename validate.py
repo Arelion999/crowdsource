@@ -12,17 +12,23 @@
 
 ОШИБКИ (блокируют релиз):
   - набор плейсхолдеров/тегов (%str1%, <c=…>, [lbracket]/[rbracket]/[null]) не совпадает с оригиналом;
-  - число %% не совпадает;
+  - число %% не совпадает (одиночный % движок примет за начало спецификатора);
   - в переводе остался литерал [s] или [pl:"…"] (не преобразован в [форма1|форма2|форма3]);
   - несбалансированные скобки [ ] или теги <c>…</c>;
   - символ U+FFFD (битая кодировка);
   - потерян структурный префикс «Recipe[s]: », «Chest[s]: » и т.п. (в переводе нет двоеточия);
   - две формы в плюрал-группе, когда в оригинале [s]/[pl:…] — русскому нужно три (1 / 2-4 / 5+);
+  - скобочная группа вообще без | при [s]/[pl:…] в оригинале («Ящик[и]» вместо
+    «[Ящик|Ящика|Ящиков]») — в игре отрендерится литералом вместе со скобками;
+  - потерян родовой маркер [M]/[F] в начале строки;
+  - запрещённая GLOSSARY.md форма имени, когда оригинал именно про этот термин
+    («Crystal Oasis» -> ~~Хрустальный Оазис~~); «хрустальная банка» не трогается;
   - «висячий» знак ударения (U+0301) не на гласной — след опечатки;
   - латинская буква-двойник внутри русского слова («Лом Пактa»).
 
 ПРЕДУПРЕЖДЕНИЯ (не блокируют):
-  - скобочная группа без | (подозрительно для плюрала);
+  - скобочная группа без | там, где в оригинале нет [s]/[pl:…];
+  - английский Title Case, перенесённый в русский («Знамя Поиска Магии»);
   - zero-width символы;
   - перевод дословно равен английскому предложению (возможно, не переведено);
   - «ты» и «вы» в одной строке (разнобой обращения);
@@ -72,12 +78,54 @@ def tokens(s):
 
 # Служебные токены движка в квадратных скобках — это НЕ плюрал-группы [a|b|c],
 # поэтому перед проверкой скобок их убираем (иначе ложное «скобка без |»).
-KNOWN_TOKENS = re.compile(r'\[(?:lbracket|rbracket|null|plur|nosep|topic-[fm]|f|an|the)\]|\[pl:"[^"]*"\]')
+# [M]/[F] — родовой маркер в начале строки, корпус его всегда сохраняет.
+KNOWN_TOKENS = re.compile(r'\[(?:lbracket|rbracket|null|plur|nosep|topic-[fm]|f|an|the|[MF])\]|\[pl:"[^"]*"\]')
+GENDER_MARK = re.compile(r'^\[([MF])\]')
 
 def strip_known(s):
     s = re.sub(r'%\w+%', '', s)
     s = re.sub(r'<[^>]+>', '', s)
     return KNOWN_TOKENS.sub('', s)
+
+# Запрещённые формы имён берём прямо из GLOSSARY.md — из колонки «НЕ так» (~~форма~~).
+# Правило привязано к оригиналу: ругаемся на «Хрустальный оазис» только когда в EN
+# действительно Crystal Oasis, иначе поймали бы честную хрустальную банку.
+def load_glossary_bans(path=None):
+    path = path or os.path.join(os.path.dirname(os.path.abspath(__file__)), 'GLOSSARY.md')
+    rules = []
+    try:
+        lines = open(path, encoding='utf-8').read().splitlines()
+    except OSError:
+        return rules
+    for line in lines:
+        cells = [c.strip() for c in line.strip().strip('|').split('|')]
+        if len(cells) < 3 or cells[0] in ('EN', '---'):
+            continue
+        ens = [re.sub(r'\(.*?\)', '', x).strip() for x in cells[0].split('/')]
+        ens = [e for e in ens if re.fullmatch(r"[A-Za-z' ]{3,}", e)]
+        bans = []
+        for m in re.finditer(r'~~([^~]+)~~', cells[2]):
+            bans += [x.strip() for x in m.group(1).split('/') if len(x.strip()) > 3]
+        if ens and bans:
+            en_re = re.compile('|'.join(r'\b' + re.escape(e) + r'\w{0,3}\b' for e in ens), re.I)
+            # Если «НЕ так» отличается от канона только регистром («Дозор Духов» /
+            # «Дозор духов») — правило про регистр, ищем точно. Иначе регистр не важен.
+            ban_re = [(b, re.compile(r'(?<![А-Яа-яЁё])' + re.escape(b) + r'(?![А-Яа-яЁё])',
+                                     0 if b.lower() == cells[1].lower() else re.I))
+                      for b in bans]
+            rules.append((en_re, cells[1], ban_re))
+    return rules
+
+GLOSSARY_BANS = load_glossary_bans()
+
+# Русский текст не пишут английским Title Case («Знамя Поиска Магии»). Отличить
+# перенесённую капитализацию от имени собственного по одной строке нельзя, поэтому
+# спрашиваем у самого корпуса: если слово в середине фразы 160k строк почти всегда
+# строчное — заглавная в нём подозрительна; имена собственные так защищены сами.
+TITLE_CASE = re.compile(r'(?<=[а-яё] )[А-ЯЁ][а-яё]{2,}')
+MID_WORD = re.compile(r'(?<=[а-яё] )[А-Яа-яЁё]{3,}')
+LOWER_WORDS = set()          # заполняется в validate_paths, если корпус достаточно большой
+TC_MIN_N, TC_MIN_SHARE, TC_MIN_ROWS = 12, 0.93, 20000
 
 def check_row(en, ru):
     errs, warns = [], []
@@ -90,17 +138,29 @@ def check_row(en, ru):
         errs.append("несбалансированные скобки [ ]")
     else:
         groups = re.findall(r'\[[^\]]*\]', rs)
-        for grp in groups:
-            if '|' not in grp:
-                warns.append(f"скобка без | : {grp}")
         # Три формы нужны именно там, где оригинал склоняет по числу: 1 / 2-4 / 5+.
         # Две формы — только для рода ([|а] в «готов[|а]»), там [s] в оригинале нет.
-        if PLURAL_EN.search(en):
-            for grp in groups:
-                if grp.count('|') == 1:
+        plural_src = bool(PLURAL_EN.search(en))
+        for grp in groups:
+            if '|' in grp:
+                if plural_src and grp.count('|') == 1:
                     errs.append(f"в группе две формы, для числа нужно три (1 / 2-4 / 5+): {grp}")
+            elif plural_src:
+                # «Ящик[и]» уедет в игру вместе со скобками — это не «подозрительно», это брак.
+                errs.append(f"группа без | при [s]/[pl:…] в оригинале — нужны три формы: {grp}")
+            else:
+                warns.append(f"скобка без | : {grp}")
     if PREFIX_EN.match(en) and ':' not in ru:
         errs.append(f"потерян префикс «{PREFIX_EN.match(en).group().strip()}» — в переводе нет двоеточия")
+    gm = GENDER_MARK.match(en)
+    if gm and not ru.startswith(f'[{gm.group(1)}]'):
+        errs.append(f"потерян родовой маркер [{gm.group(1)}] в начале строки")
+    for en_re, canon, bans in GLOSSARY_BANS:
+        if not en_re.search(en):
+            continue
+        for bad, bad_re in bans:
+            if bad_re.search(ru):
+                errs.append(f"форма «{bad}» запрещена глоссарием, канон — «{canon}»")
     if STRESS_ANY.search(STRESS_OK.sub('', ru)):
         errs.append("знак ударения не на гласной (мусор от набора)")
     hg = homoglyph(ru)
@@ -112,8 +172,14 @@ def check_row(en, ru):
         warns.append("оригинал кончается точкой/!/?, перевод — нет")
     if re.search(r'\s[,.;:!?](?=\s|$)', ru):
         warns.append("пробел перед знаком препинания")
+    # Процент в оригинале всегда экранирован как %%. Одиночный % в переводе движок
+    # разберёт как начало спецификатора формата и съест соседний текст.
     if en.count('%%') != ru.count('%%'):
-        warns.append(f"число %% не совпадает ({en.count('%%')} / {ru.count('%%')})")
+        errs.append(f"число %% не совпадает ({en.count('%%')} / {ru.count('%%')})")
+    if LOWER_WORDS:
+        tc = [w for w in TITLE_CASE.findall(ru) if w.lower() in LOWER_WORDS]
+        if tc:
+            warns.append(f"английский Title Case в русском: {' '.join(tc[:3])}")
     if '�' in ru:
         errs.append("символ U+FFFD (битая кодировка)")
     if ZW.search(ru):
@@ -131,9 +197,40 @@ def iter_csv(paths):
             files.append(p)
     return sorted(set(files))
 
+def read_batch(fp):
+    """Строки батча или None, если это не батч (у служебных таблиц другие колонки)."""
+    rows = list(csv.reader(open(fp, encoding='utf-8')))
+    if not rows or not rows[0] or rows[0][0].strip().lower() != 'english':
+        return None
+    return rows
+
+def build_case_model(files):
+    """Как корпус пишет слово в середине фразы: строчным или с заглавной."""
+    stat, rows_seen = {}, 0
+    for fp in files:
+        try:
+            rows = read_batch(fp)
+        except Exception:
+            continue
+        if not rows:
+            continue
+        for r in rows[1:]:
+            if len(r) < 2 or not r[1].strip():
+                continue
+            rows_seen += 1
+            for w in MID_WORD.findall(r[1]):
+                s = stat.setdefault(w.lower(), [0, 0])
+                s[0 if w[0].islower() else 1] += 1
+    if rows_seen < TC_MIN_ROWS:      # на одном файле модель недостоверна — проверку не включаем
+        return set()
+    return {w for w, (lo, up) in stat.items()
+            if lo + up >= TC_MIN_N and lo / (lo + up) >= TC_MIN_SHARE}
+
 def validate_paths(paths):
     """Возвращает (rows_checked, [(file,line,en,msg)] ошибок, [...] предупреждений)."""
     errors, warnings, checked = [], [], 0
+    global LOWER_WORDS
+    LOWER_WORDS = build_case_model(iter_csv(paths))
     for fp in iter_csv(paths):
         try:
             rows = list(csv.reader(open(fp, encoding='utf-8')))

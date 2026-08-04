@@ -43,7 +43,7 @@ Carrion's Earring,Серьга трупоеда
 Carrion's Ring,Кольцо трупоеда
 "Carrot Seed Pouch[pl:""Pouches""]",
 Carrot Soufflé[s],[Суфле|Суфле|Суфле] из моркови
-Carrot[s],Морковь[ь]
+Carrot[s],Морковь
 carry a bigger weapon.,нести более крупное оружие.
 Carry frogs across the river.,Перенесите лягушек через реку.
 Carry on without me.,Продолжай без меня.
@@ -147,13 +147,13 @@ Cat's Shadow,Тень кошки
 Cat-Ear Hood now available!,Шапка с кошачьими ушами теперь доступна!
 Cat-Ear Hood Skin[s],Облик[|а|ов] капюшона с кошачьими ушами
 Cat[s],Кошк[а|и|ек]
-"Catacombs Armor Box[pl:""Boxes""]",Ящик с Броней Катакомб[ов|а|ов]
+"Catacombs Armor Box[pl:""Boxes""]",Ящик с броней Катакомб[ов|а|ов]
 Catacombs cleared,Катакомбы пройдены
 Catacombs Explorable—Detha's Path,Катакомбы: Исследование — Путь Деты
 Catacombs Explorable—Hodgins's Path,Катакомбы: Исследование — Путь Ходжинса
 Catacombs Explorable—Tzark's Path,Катакомбы: Исследование — Путь Царка
 "Catacombs Token Loot Box[pl:""Boxes""]",Ящик с Токенами Катакомб[ов|а|ов]
-"Catacombs Weapons Box[pl:""Boxes""]",Ящик с Оружием Катакомб[ов|а|ов]
+"Catacombs Weapons Box[pl:""Boxes""]",Ящик с оружием Катакомб[ов|а|ов]
 Catalyst %str1%,Катализатор %str1%
 Catalyst's Cache[s],Сундук[|а|ов] катализатора
 Catalyze a reaction in the target.,Катализируйте реакцию в цели.
@@ -167,7 +167,7 @@ Catapult Load Basic Shot wall damage and increase radius.,Катапульта: 
 Catapult Load Basic Shot wall damage.,Катапульта: загрузка базового выстрела — урон по стенам.
 Catapult Mastery I: Increases wall damage,Мастерство катапульты I: Увеличивает урон по стенам
 Catapult Mastery II: Gravel shot now applies bleeding,Мастерство катапульты II: Выстрел гравием теперь накладывает кровотечение
-Catapult Mastery III: Increases radius of all catapult skills,Мастерство Катапульты III: Увеличивает радиус действия всех умений катапульты.
+Catapult Mastery III: Increases radius of all catapult skills,Мастерство катапульты III: Увеличивает радиус действия всех умений катапульты.
 Catapult Mastery IV: Increase catapult damage,Мастерство катапульты IV: Увеличивает урон катапульты
 Catapult Mastery V: Skill—Siege Bubble,Мастерство катапульты V: Умение—Осадный пузырь
 Catapult Pieces,Части катапульты
@@ -194,7 +194,7 @@ Catch me up.,Введи меня в курс дела.
 Catch of the Day,Улов дня
 Catch the Leaping Band Member,Поймайте прыгающего участника группы
 Catch up with Aurene.,Догоните Аурен.
-"Catch up with Braham, Logan, Taimi, Marjory, and Kasmeer.","Догоните Брахама, Логана, Тайми, Марджори и Касмир."
+"Catch up with Braham, Logan, Taimi, Marjory, and Kasmeer.","Догоните Брейхама, Логана, Тайми, Марджори и Касмир."
 Catch up with Kasmeer and Marjory.,Догоните Касмир и Марджори.
 Catch up with Taimi.,Догоните Тайми.
 "Catfish[pl:""Catfish""]",
@@ -215,11 +215,11 @@ Caudecus's Manor (Upstairs),Поместье Кодекуса (Верхний э
 Caudecus's Manor Dungeon Track,Трек подземелья Поместья Кодекуса
 Caudecus's Manor Story,История Поместья Кодекуса
 Caudecus's ManorStory recommended level: <c=#CC9900>40</c>Explorable recommended level: <c=#CC9900>45</c>,Поместье КодекусаРекомендуемый уровень для истории: <c=#CC9900>40</c>Рекомендуемый уровень для исследования: <c=#CC9900>45</c>
-"Caudecus's Mask Box[pl:""Boxes""]",Ящик[и] с маской Каудекуса
+"Caudecus's Mask Box[pl:""Boxes""]",[Ящик|Ящика|Ящиков] с маской Каудекуса
 "Caudecus's Token Loot Box[pl:""Boxes""]",
 "Caudecus's Weapons Box[pl:""Boxes""]",
 "Caudecus, I'm told that I'm to stand trial for treason in the coming days. You need to act quickly. Work your connections. Make this go away.","Кодек, мне сказали, что в ближайшие дни меня будут судить за измену. Вам нужно действовать быстро. Используйте свои связи. Сделайте так, чтобы это исчезло."
-"Caught up with Kiel at the bar after they took Mai Trin back to Fort Marriner—that woman can hold down her ale. Our nefarious little pirate named a possible ringleader before her arrest: Scarlet. Might be the hand behind the cleaver. Did a little digging in Divinity's Reach but didn't come up with much (only two Scarlets in the city register, and they're three and eighty-seven years old...doubt we've got our suspect). Kiel's had even less luck getting any meaty intel from Trin.    I've asked a couple contacts to keep an ear open outside of Kryta. Between the incident in Lion's Arch and the unprovoked attacks to the north, this case smells like a steaming pile of dolyak dung.","Перехватил Кила в баре после того, как Май Трин увезли в форт Марринер — эта женщина умеет пить эль. Наш зловредный маленький пират назвал возможного зачинщика до ареста: Скарлет. Возможно, это рука, держащая топор. Немного покопался в Божественном Пределе, но мало что нашёл (только две Скарлет в городском реестре, и им три и восемьдесят семь лет... сомневаюсь, что это наш подозреваемый). У Кила ещё меньше удачи получить полезную информацию от Трин. Я попросил пару контактов держать ухо востро за пределами Крита. С учётом инцидента в Львином Шпиле и неспровоцированных атак на севере, это дело воняет как куча навоза дольяка."
+"Caught up with Kiel at the bar after they took Mai Trin back to Fort Marriner—that woman can hold down her ale. Our nefarious little pirate named a possible ringleader before her arrest: Scarlet. Might be the hand behind the cleaver. Did a little digging in Divinity's Reach but didn't come up with much (only two Scarlets in the city register, and they're three and eighty-seven years old...doubt we've got our suspect). Kiel's had even less luck getting any meaty intel from Trin.    I've asked a couple contacts to keep an ear open outside of Kryta. Between the incident in Lion's Arch and the unprovoked attacks to the north, this case smells like a steaming pile of dolyak dung.","Перехватил Кила в баре после того, как Май Трин увезли в форт Марринер — эта женщина умеет пить эль. Наш зловредный маленький пират назвал возможного зачинщика до ареста: Скарлет. Возможно, это рука, держащая топор. Немного покопался в Божественном Пределе, но мало что нашёл (только две Скарлет в городском реестре, и им три и восемьдесят семь лет... сомневаюсь, что это наш подозреваемый). У Кила ещё меньше удачи получить полезную информацию от Трин. Я попросил пару контактов держать ухо востро за пределами Крайта. С учётом инцидента в Львином Шпиле и неспровоцированных атак на севере, это дело воняет как куча навоза дольяка."
 "Cauliflower Seed Pouch[pl:""Pouches""]",
 Caulle's Crossing,Переправа Колля
 Caulle's Crossing [lbracket]D[rbracket],Переправа Колля [lbracket]D[rbracket]
@@ -334,7 +334,7 @@ Celestial Backpack Strap,Лямка небесного ранца
 Celestial Blue Dye[s],[Краска|Краски|Красок] «Небесно-голубой»
 Celestial Compass Skin[s],[Облик|Облика|Обликов] небесного компаса
 Celestial Dye[s],[Небесный краситель|Небесного красителя|Небесных красителей]
-"Celestial Fish[pl:""Fish""]",Небесная Рыба[рыб]
+"Celestial Fish[pl:""Fish""]",Небесная рыба
 Celestial Infusion Chest[s],[Небесный сундук инфузии|Небесного сундука инфузии|Небесных сундуков инфузии]
 Celestial Infusion[s] (Blue),[Небесная инфузия (Синяя)|Небесной инфузии (Синяя)|Небесных инфузий (Синяя)]
 Celestial Infusion[s] (Red),[Небесная инфузия (Красная)|Небесной инфузии (Красная)|Небесных инфузий (Красная)]
@@ -387,7 +387,7 @@ Central Tyrian and Maguuma Ascended Trinkets,Центрально-тирийск
 Central Tyrian and Maguuma Ascended Weaponsmithing Weapons,Центрально-тирийское и Магуумское вознесённое оружейное дело (мечи)
 Central Tyrian and Maguuma Band<br><c=@flavor>Crafted from the blood of your enemies.</c>,Центральное Тирийское и Магууминское кольцо<br><c=@flavor>Создано из крови ваших врагов.</c>
 Central Tyrian and Maguuma Pendant<br><c=@flavor>Worn by seasoned mist walkers.</c>,Центральный медальон Тирии и Магуумы<br><c=@flavor>Носится опытными туманоходами.</c>
-"Central Tyrian and Maguuma Talisman<br><c=@flavor>If you listen carefully, you can hear the Mists calling you back.</c>","Центральный Талисман Тирии и Магуумы<br><c=@flavor>Если прислушаться, можно услышать зов Туманов.</c>"
+"Central Tyrian and Maguuma Talisman<br><c=@flavor>If you listen carefully, you can hear the Mists calling you back.</c>","Центральный талисман Тирии и Магуумы<br><c=@flavor>Если прислушаться, можно услышать зов Туманов.</c>"
 Central Tyrian Ascended Armguards,Центральные тирийские вознесённые наручи
 Central Tyrian Ascended Artificer Weapons,Центральное тирийское вознесённое оружие изобретателя
 Central Tyrian Ascended Breastplate,Центральная тирийская вознесённая нагрудная броня
@@ -413,8 +413,8 @@ Central Tyrian Ascended Weaponsmithing Weapons,Центрально-тирийс
 Central Tyrian Ascended Wristplates,Центрально-тирийские вознесённые наручи
 Central Tyrian Band<br><c=@flavor>Crafted from the blood of your enemies.</c>,Центральная Тирийская повязка<br><c=@flavor>Создана из крови ваших врагов.</c>
 Central Tyrian Fauna,Центрально-тирийская фауна
-Central Tyrian Pendant<br><c=@flavor>Worn by seasoned mist walkers.</c>,Центральный Тирийский Кулон<br><c=@flavor>Носится опытными туманоходами.</c>
-"Central Tyrian Talisman<br><c=@flavor>If you listen carefully, you can hear the Mists calling you back.</c>","Центральный Талисман Тирии<br><c=@flavor>Если прислушаться, можно услышать, как Туманы зовут тебя обратно.</c>"
+Central Tyrian Pendant<br><c=@flavor>Worn by seasoned mist walkers.</c>,Центральный Тирийский кулон<br><c=@flavor>Носится опытными туманоходами.</c>
+"Central Tyrian Talisman<br><c=@flavor>If you listen carefully, you can hear the Mists calling you back.</c>","Центральный талисман Тирии<br><c=@flavor>Если прислушаться, можно услышать, как Туманы зовут тебя обратно.</c>"
 Central Tyria—Parties,Центральная Тирия — Группы
 Central Tyria—Squads,Центральная Тирия — Отряды
 Central<br>Ladders,Центральные<br>Лестницы

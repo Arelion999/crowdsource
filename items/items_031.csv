@@ -39,11 +39,11 @@ Common Charr Salvage,Обычная утилизация чаров
 Common Ingredients Pouch,Мешочек с обычными ингредиентами
 Communal Boost Bonfire,Костёр общего усиления
 Community Chest,Сундук сообщества
-Community Goal Reward Tier 1,"Награда за Общественный Целевой Задание, Уровень 1"
-Community Goal Reward Tier 2,"Награда за Цель Сообщества, Уровень 2"
-Community Goal Reward Tier 3,Уровень 3 Награды за общее достижение
+Community Goal Reward Tier 1,"Награда за Общественный целевой задание, Уровень 1"
+Community Goal Reward Tier 2,"Награда за цель сообщества, Уровень 2"
+Community Goal Reward Tier 3,Уровень 3 награды за общее достижение
 Community Goal Reward Tier 4,"Награда за общее достижение, 4-й уровень"
-Community Goal Reward Tier 5,Уровень 5 Награды за общее достижение
+Community Goal Reward Tier 5,Уровень 5 награды за общее достижение
 Community Goal Reward: Tier 1,Награда за цель сообщества: уровень 1
 Community Goal Reward: Tier 2,Награда за цель сообщества: уровень 2
 Community Goal Reward: Tier 3,Награда за цель сообщества: уровень 3
@@ -133,7 +133,7 @@ Completed Hunter's Journal,Завершено Охотничий журнал
 Completed Journal,Завершенный журнал
 Completed List of Artifacts,Завершенный список артефактов
 Completed Memory of Jormag,Завершенное воспоминание о Джормаге
-Completed Memory of Kralkatorrik,Завершенное воспоминание о Кралкаторрике
+Completed Memory of Kralkatorrik,Завершенное воспоминание о Кралькаторрике
 Completed Memory of Mordremoth,Завершенное воспоминание о Мордремоте
 Completed Memory of Primordus,Завершенное воспоминание о Примордусе
 Completed Memory of Soo-Won,Завершенное воспоминание о Су-Вон
@@ -244,7 +244,7 @@ Consortium NDA,Соглашение о неразглашении Консорц
 Consumable Token,Расходуемый жетон
 Consume to deposit into wallet.,"Поглотить, чтобы положить в кошелек."
 "Consume to emit a pulse of magic that resets one each of Mist Band, Mist Pendant, and Mist Talisman if in your inventory.
-<c=@Warning>This will destroy any infusions socketed in those items.</c>","Используйте, чтобы испустить импульс магии, который сбросит характеристики одного из Предмета тумана, Кулона тумана и Талисмана тумана, если они есть в вашем инвентаре.
+<c=@Warning>This will destroy any infusions socketed in those items.</c>","Используйте, чтобы испустить импульс магии, который сбросит характеристики одного из предмета тумана, Кулона тумана и Талисмана тумана, если они есть в вашем инвентаре.
 <c=@Warning>Это уничтожит любые вложенные в эти предметы самоцветы.</c>"
 "Consume to emit a pulse of magic that resets one of each type of Blood Ruby gear in your inventory.
 <c=@Warning>This will destroy any infusions socketed in those items.</c>","Поглотить, чтобы испустить магический импульс, который сбрасывает по одному предмету каждого типа из экипировки Кровавого рубина в вашем инвентаре.
@@ -328,7 +328,7 @@ Consuming this will unlock one random blue or green dye that you do not already 
 "Consuming this will unlock one random weapon skin in your wardrobe that you do not already have.
 
 <c=@Task>All unobtained skins have an equal chance of dropping.</c>
-<c=@flavor>""Skritt will collect just about everything at least once."" —Priory Notes on Primitive Races, page 422</c>","Использование этого предмета откроет случайный облик Оружия в вашем гардеробе, которого у вас ещё нет.
+<c=@flavor>""Skritt will collect just about everything at least once."" —Priory Notes on Primitive Races, page 422</c>","Использование этого предмета откроет случайный облик оружия в вашем гардеробе, которого у вас ещё нет.
 
 <c=@Task>Все необретенные облики имеют равные шансы выпадения.</c>
 <c=@flavor>«Скритты собирают практически всё хотя бы раз». — Записи Приората о примитивных расах, страница 422</c>"
@@ -360,7 +360,7 @@ Combine these three minis in the Mystic Forge with the Mini Mai Trin from the Bl
 • Мини-Аэтерблейд Адмирал
 
 Каждый мини можно активировать в инвентаре, чтобы он следовал за вами по миру.
-Объедините эти три мини в Мистической Кузне с Мини-Май Трин из Сундука Чёрного Лева, чтобы создать Мини-Скарлет Брайар."
+Объедините эти три мини в Мистической кузне с Мини-Май Трин из сундука Чёрного Лева, чтобы создать Мини-Скарлет Брайар."
 "Contains 1 Sip of Liquid Karma, 1 Blue Prophet Crystal, and 1 Scrap of Icebrood Saga Mastery (Autoconsume).",
 "Contains 1 Sip of Liquid Karma, 1 Green Prophet Crystal, and 1 Scrap of Icebrood Saga Mastery (Autoconsume).",
 "Contains 1 Sip of Liquid Karma, 1 Piece of Rare Unidentified Gear, and 1 Scrap of Icebrood Saga Mastery (Autoconsume).",
@@ -633,7 +633,7 @@ Double-click to open.","Содержит эссенцию удачи и знак
 Дважды щёлкните, чтобы открыть."
 "Contains every Oracle Card collected.
 
-Double-click to read a card.","Содержит все собранные Карты Оракула.
+Double-click to read a card.","Содержит все собранные карты Оракула.
 
 Дважды щёлкните, чтобы прочитать карту."
 Contains everything an adventurer needs to learn about agony and how to resist it.,"Содержит всё, что нужно искателю приключений, чтобы узнать об агонии и способах ей противостоять."

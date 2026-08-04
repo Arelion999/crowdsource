@@ -68,8 +68,8 @@ Marksmanship augments and improves ranged combat, utilizing a powerful opening s
 %str1%: No! No! No!,Нет! Нет! Нет %str1%!
 "+11 Vitality
 +8 Healing
-+8 Power","+11 Жизнеспособности
-+8 Исцеления
++8 Power","+11 Живучести
++8 исцеления
 +8 Силы"
 "+3%% Strike Damage vs. Centaurs
 +1%% Strike Damage","+3%% Урон от ударов против Центавров
@@ -84,13 +84,14 @@ Marksmanship augments and improves ranged combat, utilizing a powerful opening s
 +2 Precision","+5 к урону от условий
 +2 к точности"
 "+5 Condition Damage
-+2 Vitality","+5 Урона состоянию
-+2 Жизнеспособности"
++2 Vitality","+5 урона состоянию
++2 Живучести"
 "+5 Healing
 +2 Power","+5 к исцелению
 +2 к силе"
 "+5 Healing
-+2 Vitality",Бафф от видового окружения
++2 Vitality","+5 к исцелению
++2 к живучести"
 "+5 Power
 +2 Ferocity","+5 к силе
 +2 к свирепости"

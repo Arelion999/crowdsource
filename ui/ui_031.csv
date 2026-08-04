@@ -51,7 +51,7 @@ Awakened Garrison Keys,Пробуждённые ключи от гарнизон
 Awakened Grasp,Пробуждённая хватка
 Awakened Griffon Skin[s],[Облик|Облика|Обликов] грифона Пробуждённых
 Awakened Hoarder,Пробуждённый накопитель
-"Awakened Intel[pl:""Intel""]",Пробуждённый Интеллект[ы][ов][ов]
+"Awakened Intel[pl:""Intel""]",Пробуждённый Интеллект
 Awakened Invasions,Пробуждённые вторжения
 Awakened Jackal Skin[s],[Облик|Облика|Обликов] шакала Пробуждённых
 Awakened Memorial[s],[Мемориал|Мемориала|Мемориалов] Пробуждённых
@@ -166,7 +166,7 @@ Badge[s] of the Willbender,[Знак|Знака|Знаков] укротител
 Badge[s] of Tribute,Знак[|а|ов] дани
 Badjelly Kelpbed,Баджелли Ламинариевая грядка
 Badly Confused Ettin,Сильно сбитый с толку эттин
-"Baelfire's Armor Box[pl:""Boxes""]",Ящик с Доспехами Бэйлфайра
+"Baelfire's Armor Box[pl:""Boxes""]",Ящик с доспехами Бэйлфайра
 "Baelfire's Token Loot Box[pl:""Boxes""]",
 "Baelfire's Weapons Box[pl:""Boxes""]",
 Bag of Shinies,Мешок блестяшек
@@ -256,13 +256,13 @@ Balance the bar in the highlighted center section by using the left and right ar
 Balance the Signal,Сбалансировать сигнал
 Balance warning: You just took %num1% damage from skill %num2% (damage base %num3% modifier %num4% adjustment %num5%).,Предупреждение о балансе: вы только что получили %num1% урона от навыка %num2% (базовый урон %num3% модификатор %num4% корректировка %num5%).
 Balanced (1 not - 5 very),"Сбалансирован (1 — нет, 5 — очень)"
-Balanced Axe Haft[s],Сбалансированное топорище[а]
+Balanced Axe Haft[s],Сбалансированное топорище
 Balanced Counterweight[s],[Уравновешенный противовес|Уравновешенного противовеса|Уравновешенных противовесов]
 Balanced Dagger Hilt[s],[Уравновешенная рукоять кинжала|Уравновешенной рукояти кинжала|Уравновешенных рукоятей кинжала]
 Balanced Daysword Hilt[s],[Уравновешенная рукоять дневного меча|Уравновешенной рукояти дневного меча|Уравновешенных рукоятей дневного меча]
-Balanced Hammer Haft[s],Сбалансированное топорище молота[а]
-Balanced Horn[s],Сбалансированный рог[а]
-Balanced Longbow Stave[s],Сбалансированное древко длинного лука[а]
+Balanced Hammer Haft[s],Сбалансированное топорище молота
+Balanced Horn[s],Сбалансированный рог
+Balanced Longbow Stave[s],Сбалансированное древко длинного лука
 Baldur Kjerstrum,Бальдур Кьерструм
 Baleful Dragon Pistol Skin now available!,Облик пистолета «Зловещий дракон» теперь доступен!
 Baleful Dragon Pistol Skin[s],Облик[|а|ов] пистолета «Зловещий дракон»
@@ -279,7 +279,7 @@ Ballista Build Site,Место строительства баллисты
 Ballista Controller,Управление баллистой
 Ballista Mastery I: Skill—Spread Shot,Мастерство баллисты I: Навык — Разбросанный выстрел
 Ballista Mastery II: Increase ballista damage,Мастерство баллисты II: Увеличение урона баллисты
-Ballista Mastery III: Swift bolts,Мастерство Баллисты III: Быстрые стрелы
+Ballista Mastery III: Swift bolts,Мастерство баллисты III: Быстрые стрелы
 Ballista Mastery IV: Increased ballista range,Мастерство баллисты IV: Увеличенная дальность баллисты
 Ballista Mastery V: Increases Shatter Shot radius,Мастерство баллисты V: Увеличение радиуса Дробящего выстрела
 Ballista Repaired,Баллиста отремонтирована
@@ -348,7 +348,7 @@ Banana Peel,Банановая кожура
 Banana[s],[Банан|Банана|Бананов]
 Band Member Down!,Участник группы повержен!
 Bandages Packed,Бинты упакованы
-"Bandit Archer Loot Box[pl:""Boxes""]","Сундук бандита-лучника[пл:""Сундуки""]"
+"Bandit Archer Loot Box[pl:""Boxes""]",Сундук бандита-лучника
 Bandit Archer[s],[Бандит-лучник|Бандита-лучника|Бандитов-лучников]
 Bandit Barricade,Бандитский баррикад
 Bandit Battle Orders,Боевые приказы бандитов
@@ -418,7 +418,7 @@ Bangar's rebuke.,Упрек Бангара.
 Banish Buff,Изгнание баффа
 Banish evil spirits from a dangerous swamp.,Изгнать злых духов из опасного болота.
 Bank Access,Доступ к банку
-"Bank Access Express[pl:""Expresses""]",Экспресс-доступ к банку[м]
+"Bank Access Express[pl:""Expresses""]",Экспресс-доступ к банку
 Bank Job Package,Набор банковских услуг
 Bank Tab %num1%,Вкладка банка %num1%
 Bank Tab Expansion[s],[Расширение|Расширения|Расширений] вкладки банка

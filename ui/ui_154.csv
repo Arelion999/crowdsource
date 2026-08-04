@@ -60,7 +60,7 @@ Trebuchet Master I: Increases damage of skills by 20%%,Мастер требуш
 Trebuchet Master V: Base shot now drains supply from hit supply depots,Мастер требушета V: Базовый выстрел теперь расходует ресурсы из пораженных складов
 Trebuchet Mastery I: Increases damage,Владение требушетом I: Увеличивает урон
 Trebuchet Mastery II: Cow ammo now applies a stacking damaging effect to enemy players,Владение требушетом II: Боеприпасы «Корова» теперь накладывают накапливающийся эффект урона на вражеских игроков
-Trebuchet Mastery III: Increases radius of all trebuchet skills,Мастерство Требушета III: Увеличивает радиус действия всех умений требушета
+Trebuchet Mastery III: Increases radius of all trebuchet skills,Мастерство требушета III: Увеличивает радиус действия всех умений требушета
 Trebuchet Mastery IV: Skill—Healing Oasis,Мастерство требушета IV: Умение — Оазис исцеления
 Trebuchet Mastery V: Basic shot now drains supply from hit supply depots,Мастерство требушета V: Базовый выстрел теперь забирает ресурсы из поражённых складов
 Trebuchet Repaired,Требушет отремонтирован
@@ -226,15 +226,15 @@ Trophies redeemed:,Трофеи выкуплены:
 Trophy Bag[s],Трофейная сумк[а|и|ок]
 Trophy Shipment[s],Трофейная парти[я|и|й]
 Trophy Turn-in Reward[s],Наград[а|ы|] за сдачу трофея
-"Trophy[pl:""Trophies""] of the Champion Deadeye",Трофей[и]: Трофеи чемпиона-снайпера
+"Trophy[pl:""Trophies""] of the Champion Deadeye",[Трофей|Трофея|Трофеев]: Трофеи чемпиона-снайпера
 "Trophy[pl:""Trophies""] of the Champion Firebrand",
-"Trophy[pl:""Trophies""] of the Champion Holosmith",Трофей[и] чемпиона Голосмита
-"Trophy[pl:""Trophies""] of the Champion Mirage",Трофей[и:«Трофеи»] чемпиона-Миража.
-"Trophy[pl:""Trophies""] of the Champion Renegade",Трофей[и] чемпиона-отступника
-"Trophy[pl:""Trophies""] of the Champion Scourge",Трофей[и] чемпиона Пожирателя.
-"Trophy[pl:""Trophies""] of the Champion Soulbeast",Трофе[и] Чемпиона Душезверя
-"Trophy[pl:""Trophies""] of the Champion Spellbreaker",Трофей[и|я|ей] чемпиона Разрушителя Заклинаний
-"Trophy[pl:""Trophies""] of the Champion Weaver",Трофей[и] чемпиона Ткача
+"Trophy[pl:""Trophies""] of the Champion Holosmith",[Трофей|Трофея|Трофеев] чемпиона Голосмита
+"Trophy[pl:""Trophies""] of the Champion Mirage",[Трофей|Трофея|Трофеев] чемпиона-Миража.
+"Trophy[pl:""Trophies""] of the Champion Renegade",[Трофей|Трофея|Трофеев] чемпиона-отступника
+"Trophy[pl:""Trophies""] of the Champion Scourge",[Трофей|Трофея|Трофеев] чемпиона Пожирателя.
+"Trophy[pl:""Trophies""] of the Champion Soulbeast",Трофе Чемпиона Душезверя
+"Trophy[pl:""Trophies""] of the Champion Spellbreaker",Трофей[и|я|ей] чемпиона Разрушителя заклинаний
+"Trophy[pl:""Trophies""] of the Champion Weaver",[Трофей|Трофея|Трофеев] чемпиона Ткача
 Tropical Beach Gear Bag[s],Тропическая пляжная сумк[а|и|ок] для снаряжения
 Tropical Beach Pack[s],Тропический пляжный рюкзак[|а|ов]
 Tropical Bridge[s],Тропический мост[|а|ов]
@@ -465,7 +465,7 @@ Two-Ammo Damage,Урон от двух боеприпасов
 Two-Handed Skyscale Weapon Skin Chest[s],[Сундук|Сундука|Сундуков] облика двуручного оружия скайскейля
 Twoloop Friendship Bracelet[s],[Браслет|Браслета|Браслетов] дружбы с двумя петлями
 "Tybalt drops apples on his enemies heads, stunning enemies and poisoning them over time.","Тибальт сбрасывает яблоки на головы врагов, оглушая их и отравляя с течением времени."
-"Tybalt Leftpaw, your contact in the Order of Whispers, was cryptic. He said only that the Order was sending you both on a mission in the Krytan town of Applenook Hamlet, and that he'd finish your briefing there.","Тибальт Леволап, ваш контакт в Ордене Шепотов, был загадочен. Он сказал лишь, что Орден отправляет вас обоих на задание в кританский городок Яблочный Уголок, и что он закончит ваш инструктаж там."
+"Tybalt Leftpaw, your contact in the Order of Whispers, was cryptic. He said only that the Order was sending you both on a mission in the Krytan town of Applenook Hamlet, and that he'd finish your briefing there.","Тибальт Леволап, ваш контакт в Ордене Шепотов, был загадочен. Он сказал лишь, что Орден отправляет вас обоих на задание в крайтанский городок Яблочный Уголок, и что он закончит ваш инструктаж там."
 Tybalt Leftpaw[s],[Тибальт Леволап|Тибальта Леволапа|Тибальтов Леволапов]
 Type here,Введите здесь
 Type message here.Type message here. You may only send messages to mutual friends. Upgrade your account with a Guild Wars 2 expansion to send mail to anyone.,"Введите сообщение здесь.Введите сообщение здесь. Вы можете отправлять сообщения только взаимным друзьям. Обновите свою учетную запись с дополнением Guild Wars 2, чтобы отправлять почту кому угодно."
