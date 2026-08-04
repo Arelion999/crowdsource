@@ -1,6 +1,6 @@
 # Батчи перевода GW2 RU — доска захвата
 
-Всего батчей: **430** | строк: **210,787**. Чтобы забиндить батч — впиши свой ник и поставь 🔨 (в работе). Готово → ✅ + ссылка на файл/PR.
+Всего батчей: **636** | строк: **313,701**. Чтобы забиндить батч — впиши свой ник и поставь 🔨 (в работе). Готово → ✅ + ссылка на файл/PR.
 
 > ✅ с подписью «Автозаполнение из словаря» — строки подставлены машинно из `dictionary.bin` и **не вычитаны человеком**; второй проход обязателен.
 
@@ -436,3 +436,209 @@
 | `new_122.csv` | new | 500 | 5,359 | Saved | ✅ | Автозаполнение из словаря — черновик, 494/500 (99%), нужна вычитка |
 | `new_123.csv` | new | 500 | 5,032 | Th | ✅ | Автозаполнение из словаря — черновик, 498/500 (100%), нужна вычитка |
 | `new_124.csv` | new | 34 | 237 | humiliation. | ✅ | Автозаполнение из словаря — черновик, 34/34 (100%), нужна вычитка |
+| `zone_001.csv` | zone | 500 | 35,812 | " Wouldn't tell me who they're working with,  |  | Автозаполнение из словаря — черновик, 390/500 (78%), нужна вычитка |
+| `zone_002.csv` | zone | 500 | 30,761 | "Without fear or hesitation." |  | Автозаполнение из словаря — черновик, 449/500 (90%), нужна вычитка |
+| `zone_003.csv` | zone | 500 | 25,985 | (scoffs) Hollow as his own righteousness. I c |  | Автозаполнение из словаря — черновик, 377/500 (75%), нужна вычитка |
+| `zone_004.csv` | zone | 500 | 38,114 | <Warband survivor> salutes <Character name>. |  | Автозаполнение из словаря — черновик, 427/500 (85%), нужна вычитка |
+| `zone_005.csv` | zone | 500 | 39,564 | A lot of us scholars are eager to explore Orr |  | Автозаполнение из словаря — черновик, 407/500 (81%), нужна вычитка |
+| `zone_006.csv` | zone | 500 | 33,314 | ARRRGH! |  | Автозаполнение из словаря — черновик, 408/500 (82%), нужна вычитка |
+| `zone_007.csv` | zone | 500 | 37,822 | After everything that's happened, I don't kno |  | Автозаполнение из словаря — черновик, 440/500 (88%), нужна вычитка |
+| `zone_008.csv` | zone | 500 | 39,060 | Ah, no! Pain! |  | Автозаполнение из словаря — черновик, 426/500 (85%), нужна вычитка |
+| `zone_009.csv` | zone | 500 | 32,824 | All clear? Good. We're already behind schedul |  | Автозаполнение из словаря — черновик, 450/500 (90%), нужна вычитка |
+| `zone_010.csv` | zone | 500 | 36,091 | All right. That should do it. |  | Автозаполнение из словаря — черновик, 440/500 (88%), нужна вычитка |
+| `zone_011.csv` | zone | 500 | 36,170 | An actual anchor? I expected something more.. |  | Автозаполнение из словаря — черновик, 431/500 (86%), нужна вычитка |
+| `zone_012.csv` | zone | 500 | 33,766 | And it looks hungry. Let us spoil its appetit |  | Автозаполнение из словаря — черновик, 448/500 (90%), нужна вычитка |
+| `zone_013.csv` | zone | 500 | 30,268 | And what would you do with that power? |  | Автозаполнение из словаря — черновик, 431/500 (86%), нужна вычитка |
+| `zone_014.csv` | zone | 500 | 29,261 | Any slower and I'd mistake you for the Claw's |  | Автозаполнение из словаря — черновик, 420/500 (84%), нужна вычитка |
+| `zone_015.csv` | zone | 500 | 35,518 | Are you kidding? I took my first steps as a g |  | Автозаполнение из словаря — черновик, 444/500 (89%), нужна вычитка |
+| `zone_016.csv` | zone | 500 | 37,508 | As saviors of Cantha? Pretty sure Kas could n |  | Автозаполнение из словаря — черновик, 415/500 (83%), нужна вычитка |
+| `zone_017.csv` | zone | 500 | 30,966 | Aurene dies. |  | Автозаполнение из словаря — черновик, 456/500 (91%), нужна вычитка |
+| `zone_018.csv` | zone | 500 | 37,262 | Balthazar's people didn't offer me miracles.  |  | Автозаполнение из словаря — черновик, 427/500 (85%), нужна вычитка |
+| `zone_019.csv` | zone | 500 | 34,043 | Behold: the Chamber of the Sun. |  | Автозаполнение из словаря — черновик, 416/500 (83%), нужна вычитка |
+| `zone_020.csv` | zone | 500 | 30,087 | Boo! Boooooooo! |  | Автозаполнение из словаря — черновик, 439/500 (88%), нужна вычитка |
+| `zone_021.csv` | zone | 500 | 40,020 | Busy? |  | Автозаполнение из словаря — черновик, 437/500 (87%), нужна вычитка |
+| `zone_022.csv` | zone | 500 | 36,700 | But then, I met one whose life-fire shone so  |  | Автозаполнение из словаря — черновик, 438/500 (88%), нужна вычитка |
+| `zone_023.csv` | zone | 500 | 27,822 | C'mon, let's make quick work of this. |  | Автозаполнение из словаря — черновик, 418/500 (84%), нужна вычитка |
+| `zone_024.csv` | zone | 500 | 32,721 | Can you talk to the Spirits, like in Bjora Ma |  | Автозаполнение из словаря — черновик, 438/500 (88%), нужна вычитка |
+| `zone_025.csv` | zone | 500 | 32,931 | Caution! You two are a bunch of babies. Let's |  | Автозаполнение из словаря — черновик, 437/500 (87%), нужна вычитка |
+| `zone_026.csv` | zone | 500 | 32,546 | Collect sputum samples from the infected, and |  | Автозаполнение из словаря — черновик, 444/500 (89%), нужна вычитка |
+| `zone_027.csv` | zone | 500 | 37,839 | Commander, have you ever seen such a pathetic |  | Автозаполнение из словаря — черновик, 449/500 (90%), нужна вычитка |
+| `zone_028.csv` | zone | 500 | 32,007 | Continue your prayers! Eagle is shaking herse |  | Автозаполнение из словаря — черновик, 425/500 (85%), нужна вычитка |
+| `zone_029.csv` | zone | 500 | 29,924 | D |  | Автозаполнение из словаря — черновик, 423/500 (85%), нужна вычитка |
+| `zone_030.csv` | zone | 500 | 30,014 | Destiny's Edge. Our guild! You destroyed it.  |  | Автозаполнение из словаря — черновик, 434/500 (87%), нужна вычитка |
+| `zone_031.csv` | zone | 500 | 28,326 | Distant Memory was glad to have the wayfinder |  | Автозаполнение из словаря — черновик, 418/500 (84%), нужна вычитка |
+| `zone_032.csv` | zone | 500 | 32,979 | Does it also demand selfishness? You help you |  | Автозаполнение из словаря — черновик, 454/500 (91%), нужна вычитка |
+| `zone_033.csv` | zone | 500 | 32,350 | Don't mind me. I'll let you go back to your w |  | Автозаполнение из словаря — черновик, 456/500 (91%), нужна вычитка |
+| `zone_034.csv` | zone | 500 | 35,812 | Dont worry. You're one of the good ones. |  | Автозаполнение из словаря — черновик, 409/500 (82%), нужна вычитка |
+| `zone_035.csv` | zone | 500 | 30,084 | Eir! Thurkill! And you must be the Slayer of  |  | Автозаполнение из словаря — черновик, 417/500 (83%), нужна вычитка |
+| `zone_036.csv` | zone | 500 | 36,565 | Especially if we want them as our allies. |  | Автозаполнение из словаря — черновик, 447/500 (89%), нужна вычитка |
+| `zone_037.csv` | zone | 500 | 33,708 | Excellent choice. You're on your way to getti |  | Автозаполнение из словаря — черновик, 424/500 (85%), нужна вычитка |
+| `zone_038.csv` | zone | 500 | 32,236 | Fall back! |  | Автозаполнение из словаря — черновик, 429/500 (86%), нужна вычитка |
+| `zone_039.csv` | zone | 500 | 34,355 | Fine joke! Half the points are mine alone! |  | Автозаполнение из словаря — черновик, 441/500 (88%), нужна вычитка |
+| `zone_040.csv` | zone | 500 | 34,261 | Foo! Quaggans couldn't do it. |  | Автозаполнение из словаря — черновик, 441/500 (88%), нужна вычитка |
+| `zone_041.csv` | zone | 500 | 32,774 | Free! Yes! Friends, where are they? I can hea |  | Автозаполнение из словаря — черновик, 440/500 (88%), нужна вычитка |
+| `zone_042.csv` | zone | 500 | 29,696 | Get out of here, Kurzick whelp! |  | Автозаполнение из словаря — черновик, 449/500 (90%), нужна вычитка |
+| `zone_043.csv` | zone | 500 | 29,805 | Glad you're getting a second chance. |  | Автозаполнение из словаря — черновик, 442/500 (88%), нужна вычитка |
+| `zone_044.csv` | zone | 500 | 29,423 | Good idea. I'll find something. |  | Автозаполнение из словаря — черновик, 433/500 (87%), нужна вычитка |
+| `zone_045.csv` | zone | 500 | 30,491 | Good. Could've made better time, but we aren' |  | Автозаполнение из словаря — черновик, 451/500 (90%), нужна вычитка |
+| `zone_046.csv` | zone | 500 | 34,869 | Great shot! It can't take more of that. Close |  | Автозаполнение из словаря — черновик, 431/500 (86%), нужна вычитка |
+| `zone_047.csv` | zone | 500 | 31,275 | Ha! That makes two of us that "don't fit the  |  | Автозаполнение из словаря — черновик, 437/500 (87%), нужна вычитка |
+| `zone_048.csv` | zone | 500 | 37,186 | Have you been getting any rest? |  | Автозаполнение из словаря — черновик, 417/500 (83%), нужна вычитка |
+| `zone_049.csv` | zone | 500 | 35,406 | He was right in front of me, Commander. Just. |  | Автозаполнение из словаря — черновик, 443/500 (89%), нужна вычитка |
+| `zone_050.csv` | zone | 500 | 33,077 | Heh. You don't have to shout, cub. I'm not TH |  | Автозаполнение из словаря — черновик, 417/500 (83%), нужна вычитка |
+| `zone_051.csv` | zone | 500 | 32,246 | Here you go. That's a map to the key's locati |  | Автозаполнение из словаря — черновик, 445/500 (89%), нужна вычитка |
+| `zone_052.csv` | zone | 500 | 34,189 | Hey, that's what friends are for. Besides, di |  | Автозаполнение из словаря — черновик, 442/500 (88%), нужна вычитка |
+| `zone_053.csv` | zone | 500 | 32,018 | Hmm. That has potential. I'll run it past the |  | Автозаполнение из словаря — черновик, 384/500 (77%), нужна вычитка |
+| `zone_054.csv` | zone | 500 | 24,126 | Hopefully this is the end of it. |  | Автозаполнение из словаря — черновик, 431/500 (86%), нужна вычитка |
+| `zone_055.csv` | zone | 500 | 27,454 | How is everyone feeling? Do we need a recess? |  | Автозаполнение из словаря — черновик, 450/500 (90%), нужна вычитка |
+| `zone_056.csv` | zone | 500 | 37,831 | Hye again. Glad you could make it. Wintersday |  | Автозаполнение из словаря — черновик, 429/500 (86%), нужна вычитка |
+| `zone_057.csv` | zone | 500 | 38,460 | I appreciate you taking most of the risk. If  |  | Автозаполнение из словаря — черновик, 431/500 (86%), нужна вычитка |
+| `zone_058.csv` | zone | 500 | 34,491 | I can't argue with your decision. Kodan or no |  | Автозаполнение из словаря — черновик, 448/500 (90%), нужна вычитка |
+| `zone_059.csv` | zone | 500 | 36,686 | I couldn't reach him, and none of the others  |  | Автозаполнение из словаря — черновик, 437/500 (87%), нужна вычитка |
+| `zone_060.csv` | zone | 500 | 38,510 | I don't know how you get any rest on this ves |  | Автозаполнение из словаря — черновик, 442/500 (88%), нужна вычитка |
+| `zone_061.csv` | zone | 500 | 36,891 | I dunno. We're not as young as we used to be. |  | Автозаполнение из словаря — черновик, 425/500 (85%), нужна вычитка |
+| `zone_062.csv` | zone | 500 | 36,564 | I hate to ask more of you, Commander, but our |  | Автозаполнение из словаря — черновик, 417/500 (83%), нужна вычитка |
+| `zone_063.csv` | zone | 500 | 37,075 | I hear what you're saying, love. But this is  |  | Автозаполнение из словаря — черновик, 438/500 (88%), нужна вычитка |
+| `zone_064.csv` | zone | 500 | 42,678 | I killed a dozen of the attackers! |  | Автозаполнение из словаря — черновик, 447/500 (89%), нужна вычитка |
+| `zone_065.csv` | zone | 500 | 32,071 | I like the sound of that. |  | Автозаполнение из словаря — черновик, 437/500 (87%), нужна вычитка |
+| `zone_066.csv` | zone | 500 | 36,701 | I need some time to think about this. |  | Автозаполнение из словаря — черновик, 446/500 (89%), нужна вычитка |
+| `zone_067.csv` | zone | 500 | 34,297 | I saw that little grin. (laugh) |  | Автозаполнение из словаря — черновик, 434/500 (87%), нужна вычитка |
+| `zone_068.csv` | zone | 500 | 35,474 | I stopped recognizing him as my father long a |  | Автозаполнение из словаря — черновик, 417/500 (83%), нужна вычитка |
+| `zone_069.csv` | zone | 500 | 37,663 | I thought I'd done all I could for Tyria. You |  | Автозаполнение из словаря — черновик, 434/500 (87%), нужна вычитка |
+| `zone_070.csv` | zone | 500 | 35,487 | I was escorting a group of refugees north of  |  | Автозаполнение из словаря — черновик, 429/500 (86%), нужна вычитка |
+| `zone_071.csv` | zone | 500 | 34,023 | I wish I could enjoy anything as much as they |  | Автозаполнение из словаря — черновик, 431/500 (86%), нужна вычитка |
+| `zone_072.csv` | zone | 500 | 28,318 | I'd like to know more about the orders. |  | Автозаполнение из словаря — черновик, 441/500 (88%), нужна вычитка |
+| `zone_073.csv` | zone | 500 | 25,385 | I'll do what I can with the portal, but the r |  | Автозаполнение из словаря — черновик, 436/500 (87%), нужна вычитка |
+| `zone_074.csv` | zone | 500 | 27,688 | I'll leave you to...whatever you're up to. |  | Автозаполнение из словаря — черновик, 450/500 (90%), нужна вычитка |
+| `zone_075.csv` | zone | 500 | 33,826 | I'll tear you apart! |  | Автозаполнение из словаря — черновик, 428/500 (86%), нужна вычитка |
+| `zone_076.csv` | zone | 500 | 35,097 | I'm glad I got here in time. |  | Автозаполнение из словаря — черновик, 461/500 (92%), нужна вычитка |
+| `zone_077.csv` | zone | 500 | 34,713 | I'm just glad everyone's all right. |  | Автозаполнение из словаря — черновик, 446/500 (89%), нужна вычитка |
+| `zone_078.csv` | zone | 500 | 33,566 | I'm only seeking information. Have you acquir |  | Автозаполнение из словаря — черновик, 434/500 (87%), нужна вычитка |
+| `zone_079.csv` | zone | 500 | 39,123 | I'm sure it'll work out. Now, let's celebrate |  | Автозаполнение из словаря — черновик, 441/500 (88%), нужна вычитка |
+| `zone_080.csv` | zone | 500 | 42,302 | I've cross-referenced the waveform of jade po |  | Автозаполнение из словаря — черновик, 435/500 (87%), нужна вычитка |
+| `zone_081.csv` | zone | 500 | 37,549 | I've told you all I know. The rest is up to y |  | Автозаполнение из словаря — черновик, 418/500 (84%), нужна вычитка |
+| `zone_082.csv` | zone | 500 | 42,083 | If dragon magic can really be used for good,  |  | Автозаполнение из словаря — черновик, 445/500 (89%), нужна вычитка |
+| `zone_083.csv` | zone | 500 | 41,785 | If we lose the snares, there will be no way t |  | Автозаполнение из словаря — черновик, 440/500 (88%), нужна вычитка |
+| `zone_084.csv` | zone | 500 | 40,563 | In Joko's name, stand your ground! |  | Автозаполнение из словаря — черновик, 409/500 (82%), нужна вычитка |
+| `zone_085.csv` | zone | 500 | 25,705 | Interesting krewe you've got there. Quite a d |  | Автозаполнение из словаря — черновик, 430/500 (86%), нужна вычитка |
+| `zone_086.csv` | zone | 500 | 39,670 | Is this the supply detail? We're from the Vig |  | Автозаполнение из словаря — черновик, 435/500 (87%), нужна вычитка |
+| `zone_087.csv` | zone | 500 | 38,947 | It isn't winning if we become monsters in the |  | Автозаполнение из словаря — черновик, 416/500 (83%), нужна вычитка |
+| `zone_088.csv` | zone | 500 | 37,394 | It wasn't easy... Yet I'm not sure we could'v |  | Автозаполнение из словаря — черновик, 450/500 (90%), нужна вычитка |
+| `zone_089.csv` | zone | 500 | 36,448 | It's been hard for cartographers to keep up.  |  | Автозаполнение из словаря — черновик, 428/500 (86%), нужна вычитка |
+| `zone_090.csv` | zone | 500 | 36,736 | It's not over yet. Stand by for orders. |  | Автозаполнение из словаря — черновик, 446/500 (89%), нужна вычитка |
+| `zone_091.csv` | zone | 500 | 33,898 | It's what we came here to do. Now let's get y |  | Автозаполнение из словаря — черновик, 429/500 (86%), нужна вычитка |
+| `zone_092.csv` | zone | 500 | 31,742 | Just another reason for us to keep alert. We  |  | Автозаполнение из словаря — черновик, 429/500 (86%), нужна вычитка |
+| `zone_093.csv` | zone | 500 | 30,273 | Keep fighting! We can't let them take all the |  | Автозаполнение из словаря — черновик, 446/500 (89%), нужна вычитка |
+| `zone_094.csv` | zone | 500 | 34,004 | Knock down those ice turrets, fool! TooOOoo c |  | Автозаполнение из словаря — черновик, 409/500 (82%), нужна вычитка |
+| `zone_095.csv` | zone | 500 | 25,381 | Leave it to me. I'll start with the lumber ca |  | Автозаполнение из словаря — черновик, 424/500 (85%), нужна вычитка |
+| `zone_096.csv` | zone | 500 | 26,084 | Let's do this. |  | Автозаполнение из словаря — черновик, 432/500 (86%), нужна вычитка |
+| `zone_097.csv` | zone | 500 | 34,573 | Let's take that gate down and drive the Flame |  | Автозаполнение из словаря — черновик, 421/500 (84%), нужна вычитка |
+| `zone_098.csv` | zone | 500 | 33,162 | Logan, don't let him get to you. He's trying  |  | Автозаполнение из словаря — черновик, 433/500 (87%), нужна вычитка |
+| `zone_099.csv` | zone | 500 | 35,110 | Looks like I spoke too soon. (when the Risen  |  | Автозаполнение из словаря — черновик, 435/500 (87%), нужна вычитка |
+| `zone_100.csv` | zone | 500 | 33,099 | Mai, there are people looking at us. |  | Автозаполнение из словаря — черновик, 440/500 (88%), нужна вычитка |
+| `zone_101.csv` | zone | 500 | 33,909 | Maybe later, Braham. First I need to smooth s |  | Автозаполнение из словаря — черновик, 450/500 (90%), нужна вычитка |
+| `zone_102.csv` | zone | 500 | 33,380 | Minister Caudecus wants to steal the throne f |  | Автозаполнение из словаря — черновик, 435/500 (87%), нужна вычитка |
+| `zone_103.csv` | zone | 500 | 36,864 | Most objectives are still listed as "open." A |  | Автозаполнение из словаря — черновик, 428/500 (86%), нужна вычитка |
+| `zone_104.csv` | zone | 500 | 39,946 | My golem wouldn't kill people. It couldn't! I |  | Автозаполнение из словаря — черновик, 429/500 (86%), нужна вычитка |
+| `zone_105.csv` | zone | 500 | 31,680 | Nasty magic. |  | Автозаполнение из словаря — черновик, 440/500 (88%), нужна вычитка |
+| `zone_106.csv` | zone | 500 | 32,552 | Nicely done, I'll admit. But what about the g |  | Автозаполнение из словаря — черновик, 447/500 (89%), нужна вычитка |
+| `zone_107.csv` | zone | 500 | 31,554 | No way. I'm determined to see Mikkel lying in |  | Автозаполнение из словаря — черновик, 453/500 (91%), нужна вычитка |
+| `zone_108.csv` | zone | 500 | 34,397 | No, we're not. Kas, start preparing a— |  | Автозаполнение из словаря — черновик, 435/500 (87%), нужна вычитка |
+| `zone_109.csv` | zone | 500 | 34,061 | Normally, I'd joke about how you throw a grea |  | Автозаполнение из словаря — черновик, 436/500 (87%), нужна вычитка |
+| `zone_110.csv` | zone | 500 | 33,196 | Not since I left it, probably. |  | Автозаполнение из словаря — черновик, 448/500 (90%), нужна вычитка |
+| `zone_111.csv` | zone | 500 | 34,930 | Now let's find Gorr. As General Soulkeeper sa |  | Автозаполнение из словаря — черновик, 450/500 (90%), нужна вычитка |
+| `zone_112.csv` | zone | 500 | 36,921 | Obviously, the ducks those other ducks ducked |  | Автозаполнение из словаря — черновик, 434/500 (87%), нужна вычитка |
+| `zone_113.csv` | zone | 500 | 34,915 | Oh yeah? What a ruckus that would be... |  | Автозаполнение из словаря — черновик, 428/500 (86%), нужна вычитка |
+| `zone_114.csv` | zone | 500 | 32,566 | Oh, no. What? |  | Автозаполнение из словаря — черновик, 431/500 (86%), нужна вычитка |
+| `zone_115.csv` | zone | 500 | 30,413 | Okay, I'm right behind you. |  | Автозаполнение из словаря — черновик, 450/500 (90%), нужна вычитка |
+| `zone_116.csv` | zone | 500 | 39,786 | On the contrary—stress testing is always the  |  | Автозаполнение из словаря — черновик, 423/500 (85%), нужна вычитка |
+| `zone_117.csv` | zone | 500 | 35,145 | Only two more machines to find. Next on the l |  | Автозаполнение из словаря — черновик, 431/500 (86%), нужна вычитка |
+| `zone_118.csv` | zone | 500 | 36,292 | Our latest dune rollers have limited stealth  |  | Автозаполнение из словаря — черновик, 428/500 (86%), нужна вычитка |
+| `zone_119.csv` | zone | 500 | 33,165 | Pay attention. What you are watching is the p |  | Автозаполнение из словаря — черновик, 400/500 (80%), нужна вычитка |
+| `zone_120.csv` | zone | 500 | 32,945 | Please don't kill me! I've given you everythi |  | Автозаполнение из словаря — черновик, 418/500 (84%), нужна вычитка |
+| `zone_121.csv` | zone | 500 | 33,782 | Prepare yourself, and rest your mounts; soon  |  | Автозаполнение из словаря — черновик, 404/500 (81%), нужна вычитка |
+| `zone_122.csv` | zone | 500 | 33,479 | Quaggans are nearing the end of the race, and |  | Автозаполнение из словаря — черновик, 445/500 (89%), нужна вычитка |
+| `zone_123.csv` | zone | 500 | 29,767 | Raven lenses reveal the spirit essence we lea |  | Автозаполнение из словаря — черновик, 405/500 (81%), нужна вычитка |
+| `zone_124.csv` | zone | 500 | 30,574 | Remember, one group keeps that monster in pla |  | Автозаполнение из словаря — черновик, 414/500 (83%), нужна вычитка |
+| `zone_125.csv` | zone | 500 | 28,880 | Right. Just don't make me regret this, or you |  | Автозаполнение из словаря — черновик, 447/500 (89%), нужна вычитка |
+| `zone_126.csv` | zone | 500 | 39,750 | Salwa is militant; she won't admit anyone unt |  | Автозаполнение из словаря — черновик, 404/500 (81%), нужна вычитка |
+| `zone_127.csv` | zone | 500 | 31,236 | Sea hag? My mother was a good woman! You take |  | Автозаполнение из словаря — черновик, 436/500 (87%), нужна вычитка |
+| `zone_128.csv` | zone | 500 | 40,962 | Sharp? I'll cut through them like a razor! |  | Автозаполнение из словаря — черновик, 411/500 (82%), нужна вычитка |
+| `zone_129.csv` | zone | 500 | 33,859 | She's glad to see you too, but we can't stop  |  | Автозаполнение из словаря — черновик, 443/500 (89%), нужна вычитка |
+| `zone_130.csv` | zone | 500 | 34,073 | Sir! Reporting for duty, sir! |  | Автозаполнение из словаря — черновик, 441/500 (88%), нужна вычитка |
+| `zone_131.csv` | zone | 500 | 33,288 | So many in our warband killed. I tried to tel |  | Автозаполнение из словаря — черновик, 450/500 (90%), нужна вычитка |
+| `zone_132.csv` | zone | 500 | 35,246 | So, what are you going to do now? |  | Автозаполнение из словаря — черновик, 424/500 (85%), нужна вычитка |
+| `zone_133.csv` | zone | 500 | 28,358 | Something must have malfunctioned. Keep them  |  | Автозаполнение из словаря — черновик, 431/500 (86%), нужна вычитка |
+| `zone_134.csv` | zone | 500 | 30,227 | Sounds important. I'll tell you what. You wer |  | Автозаполнение из словаря — черновик, 422/500 (84%), нужна вычитка |
+| `zone_135.csv` | zone | 500 | 27,715 | Stand back. You're crowding our commander and |  | Автозаполнение из словаря — черновик, 460/500 (92%), нужна вычитка |
+| `zone_136.csv` | zone | 500 | 31,443 | Still trying to tune out those voices from th |  | Автозаполнение из словаря — черновик, 424/500 (85%), нужна вычитка |
+| `zone_137.csv` | zone | 500 | 29,028 | Suppose I'll just have to turn to some of you |  | Автозаполнение из словаря — черновик, 419/500 (84%), нужна вычитка |
+| `zone_138.csv` | zone | 500 | 26,194 | Take a sample of the force of the wind. |  | Автозаполнение из словаря — черновик, 401/500 (80%), нужна вычитка |
+| `zone_139.csv` | zone | 500 | 32,511 | Tell me more about helping the needy. |  | Автозаполнение из словаря — черновик, 438/500 (88%), нужна вычитка |
+| `zone_140.csv` | zone | 500 | 31,702 | Thank you, Captain. We'll end the dragon's co |  | Автозаполнение из словаря — черновик, 463/500 (93%), нужна вычитка |
+| `zone_141.csv` | zone | 500 | 26,846 | Thanks for the save, Commander. |  | Автозаполнение из словаря — черновик, 455/500 (91%), нужна вычитка |
+| `zone_142.csv` | zone | 500 | 35,501 | That appears to have worked! And to think, al |  | Автозаполнение из словаря — черновик, 450/500 (90%), нужна вычитка |
+| `zone_143.csv` | zone | 500 | 33,485 | That sandstorm hid this Sunspear sigil for a  |  | Автозаполнение из словаря — черновик, 448/500 (90%), нужна вычитка |
+| `zone_144.csv` | zone | 500 | 31,586 | That would be the wind. |  | Автозаполнение из словаря — черновик, 457/500 (91%), нужна вычитка |
+| `zone_145.csv` | zone | 500 | 32,614 | That's it! Raven! Lend us your aid, and drive |  | Автозаполнение из словаря — черновик, 454/500 (91%), нужна вычитка |
+| `zone_146.csv` | zone | 500 | 40,236 | That's the way to be! Go, go, go! |  | Автозаполнение из словаря — черновик, 431/500 (86%), нужна вычитка |
+| `zone_147.csv` | zone | 500 | 46,780 | The Flame Legion are no match for the power o |  | Автозаполнение из словаря — черновик, 431/500 (86%), нужна вычитка |
+| `zone_148.csv` | zone | 500 | 44,992 | The Raven lens showed us your past. What is i |  | Автозаполнение из словаря — черновик, 425/500 (85%), нужна вычитка |
+| `zone_149.csv` | zone | 500 | 42,467 | The biggest test is yet to come. |  | Автозаполнение из словаря — черновик, 396/500 (79%), нужна вычитка |
+| `zone_150.csv` | zone | 500 | 40,220 | The destroyers came out of nowhere! My friend |  | Автозаполнение из словаря — черновик, 419/500 (84%), нужна вычитка |
+| `zone_151.csv` | zone | 500 | 43,704 | The guardian is the All Seer. |  | Автозаполнение из словаря — черновик, 416/500 (83%), нужна вычитка |
+| `zone_152.csv` | zone | 500 | 43,895 | The more of these we turn on, the more chak t |  | Автозаполнение из словаря — черновик, 391/500 (78%), нужна вычитка |
+| `zone_153.csv` | zone | 500 | 42,522 | The rest is this way. I'm excited to be reuni |  | Автозаполнение из словаря — черновик, 387/500 (77%), нужна вычитка |
+| `zone_154.csv` | zone | 500 | 38,646 | The time has come to take the fight to them.  |  | Автозаполнение из словаря — черновик, 426/500 (85%), нужна вычитка |
+| `zone_155.csv` | zone | 500 | 34,972 | Then I'll have to stop the dragon before he c |  | Автозаполнение из словаря — черновик, 438/500 (88%), нужна вычитка |
+| `zone_156.csv` | zone | 500 | 36,328 | There are three different types of arcane sca |  | Автозаполнение из словаря — черновик, 413/500 (83%), нужна вычитка |
+| `zone_157.csv` | zone | 500 | 37,696 | There's a rift here, but Mordremoth is blocki |  | Автозаполнение из словаря — черновик, 426/500 (85%), нужна вычитка |
+| `zone_158.csv` | zone | 500 | 39,995 | These artifacts are amazing! The prince's nam |  | Автозаполнение из словаря — черновик, 420/500 (84%), нужна вычитка |
+| `zone_159.csv` | zone | 500 | 40,597 | They gave no warning, and many of our stronge |  | Автозаполнение из словаря — черновик, 444/500 (89%), нужна вычитка |
+| `zone_160.csv` | zone | 500 | 37,530 | They're all... Oh, Spirits. My friends. My gu |  | Автозаполнение из словаря — черновик, 439/500 (88%), нужна вычитка |
+| `zone_161.csv` | zone | 500 | 46,351 | Think you're mistaking me for somebody else,  |  | Автозаполнение из словаря — черновик, 326/500 (65%), нужна вычитка |
+| `zone_162.csv` | zone | 500 | 38,927 | This human is stabilized. She'll likely survi |  | Автозаполнение из словаря — черновик, 441/500 (88%), нужна вычитка |
+| `zone_163.csv` | zone | 500 | 38,868 | This is terrible. What do we do? Find Trahear |  | Автозаполнение из словаря — черновик, 399/500 (80%), нужна вычитка |
+| `zone_164.csv` | zone | 500 | 37,700 | This place looks promising. Let's set up camp |  | Автозаполнение из словаря — черновик, 407/500 (81%), нужна вычитка |
+| `zone_165.csv` | zone | 500 | 37,094 | Those Risen will be nothing more than wormy c |  | Автозаполнение из словаря — черновик, 434/500 (87%), нужна вычитка |
+| `zone_166.csv` | zone | 500 | 35,079 | Time to sweep out some Risen trash! |  | Автозаполнение из словаря — черновик, 441/500 (88%), нужна вычитка |
+| `zone_167.csv` | zone | 500 | 30,923 | Toxic waste disposal protocol initiating in T |  | Автозаполнение из словаря — черновик, 391/500 (78%), нужна вычитка |
+| `zone_168.csv` | zone | 500 | 29,668 | Try to stay out of danger. |  | Автозаполнение из словаря — черновик, 435/500 (87%), нужна вычитка |
+| `zone_169.csv` | zone | 500 | 31,980 | Um... |  | Автозаполнение из словаря — черновик, 415/500 (83%), нужна вычитка |
+| `zone_170.csv` | zone | 500 | 35,937 | Usually I prefer to handle these matters in p |  | Автозаполнение из словаря — черновик, 408/500 (82%), нужна вычитка |
+| `zone_171.csv` | zone | 500 | 29,264 | WAVE! |  | Автозаполнение из словаря — черновик, 435/500 (87%), нужна вычитка |
+| `zone_172.csv` | zone | 500 | 35,641 | Was it just me, or was the Countess acting... |  | Автозаполнение из словаря — черновик, 430/500 (86%), нужна вычитка |
+| `zone_173.csv` | zone | 500 | 36,463 | We are always learning. I awakened on the fir |  | Автозаполнение из словаря — черновик, 456/500 (91%), нужна вычитка |
+| `zone_174.csv` | zone | 500 | 39,750 | We did well, Euryale. No doubt about it. |  | Автозаполнение из словаря — черновик, 441/500 (88%), нужна вычитка |
+| `zone_175.csv` | zone | 500 | 38,394 | We haven't found any extra batteries, though. |  | Автозаполнение из словаря — черновик, 454/500 (91%), нужна вычитка |
+| `zone_176.csv` | zone | 500 | 40,348 | We need to light a few beacons to lead our re |  | Автозаполнение из словаря — черновик, 455/500 (91%), нужна вычитка |
+| `zone_177.csv` | zone | 500 | 32,423 | We were too spread out, and ghosts were every |  | Автозаполнение из словаря — черновик, 458/500 (92%), нужна вычитка |
+| `zone_178.csv` | zone | 500 | 33,681 | We'll make him pay for that, buddy. My word o |  | Автозаполнение из словаря — черновик, 458/500 (92%), нужна вычитка |
+| `zone_179.csv` | zone | 500 | 37,524 | We're in for a fight. |  | Автозаполнение из словаря — черновик, 451/500 (90%), нужна вычитка |
+| `zone_180.csv` | zone | 500 | 41,259 | We've got White Mantle incoming! |  | Автозаполнение из словаря — черновик, 436/500 (87%), нужна вычитка |
+| `zone_181.csv` | zone | 500 | 40,503 | Well done, <Character name>! With that Flame  |  | Автозаполнение из словаря — черновик, 443/500 (89%), нужна вычитка |
+| `zone_182.csv` | zone | 500 | 38,892 | Well, look at that. Terrill Tinkerclaw. I tho |  | Автозаполнение из словаря — черновик, 423/500 (85%), нужна вычитка |
+| `zone_183.csv` | zone | 500 | 23,742 | What a lovely party! Regretfully, I can't sta |  | Автозаполнение из словаря — черновик, 420/500 (84%), нужна вычитка |
+| `zone_184.csv` | zone | 500 | 22,234 | What did the asura say? Tighten these screws. |  | Автозаполнение из словаря — черновик, 423/500 (85%), нужна вычитка |
+| `zone_185.csv` | zone | 500 | 24,367 | What happens to the Inquest now? |  | Автозаполнение из словаря — черновик, 420/500 (84%), нужна вычитка |
+| `zone_186.csv` | zone | 500 | 21,917 | What will Chalen perform next? |  | Автозаполнение из словаря — черновик, 424/500 (85%), нужна вычитка |
+| `zone_187.csv` | zone | 500 | 37,150 | What...is happening to...? |  | Автозаполнение из словаря — черновик, 435/500 (87%), нужна вычитка |
+| `zone_188.csv` | zone | 500 | 28,298 | When we breach the door, be ready for anythin |  | Автозаполнение из словаря — черновик, 431/500 (86%), нужна вычитка |
+| `zone_189.csv` | zone | 500 | 29,931 | Which piece of Drizzlewood Coast enemy intel  |  | Автозаполнение из словаря — черновик, 421/500 (84%), нужна вычитка |
+| `zone_190.csv` | zone | 500 | 26,676 | Who— Ah. |  | Автозаполнение из словаря — черновик, 421/500 (84%), нужна вычитка |
+| `zone_191.csv` | zone | 500 | 35,598 | Why? Why do you want me so badly that you wou |  | Автозаполнение из словаря — черновик, 445/500 (89%), нужна вычитка |
+| `zone_192.csv` | zone | 500 | 31,978 | Wolf knows I would never turn my back on a fr |  | Автозаполнение из словаря — черновик, 428/500 (86%), нужна вычитка |
+| `zone_193.csv` | zone | 500 | 31,738 | Yeah! They'll be so busy fighting, no one wil |  | Автозаполнение из словаря — черновик, 443/500 (89%), нужна вычитка |
+| `zone_194.csv` | zone | 500 | 34,420 | Yes! The smaller chak have been calmed. |  | Автозаполнение из словаря — черновик, 439/500 (88%), нужна вычитка |
+| `zone_195.csv` | zone | 500 | 34,535 | Yes. I should've known as soon as it introduc |  | Автозаполнение из словаря — черновик, 434/500 (87%), нужна вычитка |
+| `zone_196.csv` | zone | 500 | 32,008 | You are sworn enemies. Best not turn your bac |  | Автозаполнение из словаря — черновик, 437/500 (87%), нужна вычитка |
+| `zone_197.csv` | zone | 500 | 32,166 | You did great! I knew you could do it. |  | Автозаполнение из словаря — черновик, 419/500 (84%), нужна вычитка |
+| `zone_198.csv` | zone | 500 | 36,800 | You handled that well. Learn to tend that spa |  | Автозаполнение из словаря — черновик, 434/500 (87%), нужна вычитка |
+| `zone_199.csv` | zone | 500 | 36,033 | You left us behind, boss. Left us to die...ju |  | Автозаполнение из словаря — черновик, 438/500 (88%), нужна вычитка |
+| `zone_200.csv` | zone | 500 | 34,185 | You refuse to help me stop the existential th |  | Автозаполнение из словаря — черновик, 435/500 (87%), нужна вычитка |
+| `zone_201.csv` | zone | 500 | 32,569 | You think the ward did this? There's foul mag |  | Автозаполнение из словаря — черновик, 448/500 (90%), нужна вычитка |
+| `zone_202.csv` | zone | 500 | 33,869 | You'd do well to listen to Forgal. He's a wis |  | Автозаполнение из словаря — черновик, 450/500 (90%), нужна вычитка |
+| `zone_203.csv` | zone | 500 | 33,911 | You're going to go looking for it, aren't you |  | Автозаполнение из словаря — черновик, 439/500 (88%), нужна вычитка |
+| `zone_204.csv` | zone | 500 | 36,871 | You're the best. The probes were in a chamber |  | Автозаполнение из словаря — черновик, 432/500 (86%), нужна вычитка |
+| `zone_205.csv` | zone | 500 | 36,810 | Young charr aren't raised by their parents. T |  | Автозаполнение из словаря — черновик, 433/500 (87%), нужна вычитка |
+| `zone_206.csv` | zone | 414 | 26,448 | Your timing was perfect, Warmaster Kernsson.  |  | Автозаполнение из словаря — черновик, 341/414 (82%), нужна вычитка |
