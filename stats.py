@@ -93,6 +93,38 @@ def main():
     if "--mark-done" in sys.argv:
         mark_done(per_batch)
 
+def update_header(per_batch, lines):
+    """Переписать сводку в шапке CLAIMS.md.
+
+    Считаем два разных числа, потому что их постоянно путают: ЗАПОЛНЕНО — что
+    в ячейках вообще что-то есть (почти всё это машинный автофилл из bin), а
+    ВЫЧИТАНО — строки батчей, у которых в «Кто взял» стоит живой человек.
+    """
+    rows = done = 0
+    human = 0
+    for i, line in enumerate(lines):
+        m = re.match(r"\| `([^`]+\.csv)` \|", line)
+        if not m:
+            continue
+        rt = per_batch.get(m.group(1))
+        if not rt:
+            continue
+        rows += rt[0]; done += rt[1]
+        who = line.split("|")[-2].strip()
+        if who and not who.startswith("Автозаполнение"):
+            human += rt[1]
+    nb = sum(1 for l in lines if re.match(r"\| `[^`]+\.csv` \|", l))
+    head = (f"Всего батчей: **{nb}** | строк: **{rows:,}** | "
+            f"заполнено: **{done:,}** ({100*done/rows:.1f}%), пусто **{rows-done:,}** | "
+            f"вычитано человеком: **{human:,}** ({100*human/rows:.1f}%).")
+    for i, line in enumerate(lines):
+        if line.startswith("Всего батчей:"):
+            tail = line.split(". ", 1)
+            lines[i] = head + (" " + tail[1] if len(tail) > 1 else "")
+            return head
+    return None
+
+
 def mark_done(per_batch):
     """✅ ровно там, где заполнено 100%.
 
@@ -126,9 +158,11 @@ def mark_done(per_batch):
         lines[i] = "|".join(parts)
         added += done
         removed += not done
-    if added or removed:
-        open(CLAIMS, "w", encoding="utf-8", newline="").write("\n".join(lines))
+    head = update_header(per_batch, lines)
+    open(CLAIMS, "w", encoding="utf-8", newline="").write("\n".join(lines))
     print(f"\nCLAIMS.md: ✅ проставлено {added}, снято {removed} (батч не на 100%)")
+    if head:
+        print("шапка: " + head.replace("**", ""))
 
 if __name__ == "__main__":
     main()
