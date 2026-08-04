@@ -5,7 +5,7 @@ Double-click to teleport to the Fractals of the Mists entrance in Lion's Arch. T
 Double-click to teleport to the Pride of the Pact in Bloodstone Fen. <c=@Warning>This item cannot be used while in combat.</c>,"Дважды щелкните, чтобы телепортироваться к «Гордости Договора» в Каменной Крови. <c=@Warning>Этот предмет нельзя использовать в бою.</c>"
 Double-click to teleport to the Sorrow's Eclipse Sanctuary in Bitterfrost Frontier. <c=@Warning>This item cannot be used while in combat.</c>,"Дважды щелкните, чтобы телепортироваться в Убежище «Печали Затмения» в Горьком Пограничье. <c=@Warning>Этот предмет нельзя использовать в бою.</c>"
 Double-click to teleport to the universal dungeon entrance in Lion's Arch. This item cannot be used while in combat.,"Дважды щёлкните, чтобы телепортироваться к универсальному входу в подземелье в Львином Шпиле. Этот предмет нельзя использовать в бою."
-Double-click to teleport to the Vaults entrance in Lion's Arch. This item cannot be used while in combat.,
+Double-click to teleport to the Vaults entrance in Lion's Arch. This item cannot be used while in combat.,"«Дважды щелкните, чтобы телепортироваться ко входу в хранилища во Львином Амфитеатре. Этот предмет нельзя использовать во время боя.»"
 Double-click to teleport to the World vs. World and Player vs. Player entrances in Lion's Arch. This item cannot be used while in combat.,"Дважды щёлкните, чтобы телепортироваться ко входам в «Мир против мира» и «Игрок против игрока» в Львином Когте. Этот предмет нельзя использовать в бою."
 Double-click to teleport to this city. This item cannot be used while in combat.,"Дважды щелкните, чтобы телепортироваться в этот город. Этот предмет нельзя использовать в бою."
 Double-click to teleport to Thunderhead Peaks. <c=@Warning>This item cannot be used while in combat.</c>,"Дважды щелкните, чтобы телепортироваться в Громовые Вершины. <c=@Warning>Этот предмет нельзя использовать в бою.</c>"
@@ -120,7 +120,7 @@ Double-click to transform into casual clothes for fifteen minutes. You will be u
 Double-click to transform into Yagon.,"Дважды щелкните, чтобы превратиться в Ягона."
 Double-click to travel to the ruins of the Hall of Monuments.,"Дважды щелкните, чтобы переместиться к руинам Зала Памятников."
 Double-click to travel to various areas around Tyria. Destination options are based on progress in the Teleportation Gizmos Collector achievements.,"Дважды щелкните, чтобы переместиться в различные области Тирии. Варианты назначения зависят от прогресса в достижениях коллекционера телепортационных устройств."
-Double-click to turn 10 Ancient Surveyor's Tools into an Imperial Cadastral Suite.,
+Double-click to turn 10 Ancient Surveyor's Tools into an Imperial Cadastral Suite.,'Дважды щелкните
 Double-click to turn 10 Bunches of Rare Grapes into a Bushel of Ancient Elon Grapes.,"Дважды щелкните, чтобы превратить 10 гроздей редкого винограда в бушель древнего элонского винограда."
 Double-click to turn 10 Chunks of Granite into a Slab of Architecture-Grade Granite.,"Дважды щёлкните, чтобы превратить 10 кусков гранита в плиту архитектурного гранита."
 Double-click to turn 10 Late-Blooming Elon Lilies into a Florid Bouquet.,"Дважды щелкните, чтобы превратить 10 поздноцветущих элонских лилий в пышный букет."
@@ -343,7 +343,7 @@ Draconis Mons Portal Scroll,Свиток портала: Драконий Мон
 Draft of a Love Letter (Page 2),Черновик любовного письма (Страница 2)
 Dragon Ball Champion's Chest of 10 Divine Lucky Envelopes,
 Dragon Ball Champion's Divine Lucky Envelope,
-Dragon Ball Champion's Stack of 5 Divine Lucky Envelopes,
+Dragon Ball Champion's Stack of 5 Divine Lucky Envelopes,«Стопка из 5 божественных счастливых конвертов чемпиона по драконьему мячу»
 Dragon Banner Tactic,Тактика знамени дракона
 Dragon Bash Banner,Баннер Пляски Дракона
 Dragon Bash Firework Launcher,Пусковая установка фейерверков «Танец дракона»
@@ -427,83 +427,83 @@ Dragon Spirit Focus Skin,Облик фокуса «Дух дракона»
 Dragon Statue,Статуя дракона
 Dragon's Argument,Драконий довод
 Dragon's Bite,Драконий укус
-Dragon's Breath Bun,
+Dragon's Breath Bun,Булочка «Драконье дыхание»
 Dragon's Breath Lantern,Фонарь «Дыхание дракона»
 Dragon's Claw,Когти дракона
-Dragon's End Fishing License,
-Dragon's End Fishing Reward,
+Dragon's End Fishing License,Лицензия на рыбалку в Логове Дракона
+Dragon's End Fishing Reward,«Награда за рыбалку в Логове Дракона»
 Dragon's End's First Spirit Portal,Первый портал духов в Драконьем Пределе
 Dragon's End's Second Spirit Portal,Второй портал духов в Драконьем Пределе
-Dragon's End: Commander's Choice Chest,
-Dragon's End: Hero's Choice Chest,
+Dragon's End: Commander's Choice Chest,"Сундук ""Конец Дракона: Выбор командира"""
+Dragon's End: Hero's Choice Chest,Сундук выбора героя «Конец дракона»
 Dragon's Eye Circlet,Венец Драконьего Ока
 Dragon's Fang,Клык Дракона
 Dragon's Flight,Полет Дракона
 Dragon's Fortune Fireworks,Фейерверк удачи дракона
 Dragon's Insight,Проницательность Дракона
-Dragon's Intricate Gossamer Insignia,
-Dragon's Jade Aspect Skin,
+Dragon's Intricate Gossamer Insignia,Замысловатая паутинная нашивка дракона
+Dragon's Jade Aspect Skin,Облик «Драконье око из нефрита»
 Dragon's Jade Avenger,Нефритовый мститель дракона
-Dragon's Jade Avenger Skin,
-Dragon's Jade Blunderbuss Skin,
+Dragon's Jade Avenger Skin,«Нефритовый облик Мстителя Дракона»
+Dragon's Jade Blunderbuss Skin,Облик нефритового бландербасса дракона
 Dragon's Jade Claim Ticket,Билет на нефритовое требование дракона
-Dragon's Jade Cudgel Skin,
-Dragon's Jade Flame Skin,
-Dragon's Jade Flintlock Skin,
-Dragon's Jade Harbinger Skin,
-Dragon's Jade Hornbow Skin,
+Dragon's Jade Cudgel Skin,Облик «Нефритовый короткий посох дракона»
+Dragon's Jade Flame Skin,Облик нефритового пламени дракона
+Dragon's Jade Flintlock Skin,Облик кремневого пистолета «Драконий нефрит»
+Dragon's Jade Harbinger Skin,Облик нефритового вестника дракона
+Dragon's Jade Hornbow Skin,Облик «Драконий нефритовый роголук»
 Dragon's Jade Kris,Драконий нефритовый крис
-Dragon's Jade Kris Skin,
+Dragon's Jade Kris Skin,Облик нефритового криса дракона
 Dragon's Jade Lacerator,Драконий нефритовый раздиратель
-Dragon's Jade Lacerator Skin,
+Dragon's Jade Lacerator Skin,«Облик драконьего нефритового раздирателя»
 Dragon's Jade Needler,Драконий нефритовый игольник
-Dragon's Jade Needler Skin,
+Dragon's Jade Needler Skin,Облик иглодротика из нефрита дракона
 Dragon's Jade Quarterstaff,Драконий нефритовый посох
-Dragon's Jade Quarterstaff Skin,
+Dragon's Jade Quarterstaff Skin,Облик нефритового посоха дракона
 Dragon's Jade Reaver,Драконий нефритовый рейвер
-Dragon's Jade Reaver Skin,
-Dragon's Jade Tech Coat,
-Dragon's Jade Tech Cuirass,
-Dragon's Jade Tech Gauntlets,
-Dragon's Jade Tech Hat,
-Dragon's Jade Tech Heavy Boots,
-Dragon's Jade Tech Heavy Leggings,
-Dragon's Jade Tech Helm,
-Dragon's Jade Tech Light Boots,
-Dragon's Jade Tech Light Gloves,
-Dragon's Jade Tech Light Shoulderpads,
-Dragon's Jade Tech Masque,
-Dragon's Jade Tech Medium Boots,
-Dragon's Jade Tech Medium Gloves,
-Dragon's Jade Tech Medium Leggings,
-Dragon's Jade Tech Medium Shoulderpads,
-Dragon's Jade Tech Pauldrons,
-Dragon's Jade Tech Skirt,
-Dragon's Jade Tech Vest,
-Dragon's Jade Truncheon Skin,
+Dragon's Jade Reaver Skin,Облик нефритового рассекателя дракона
+Dragon's Jade Tech Coat,Драконья нефритовая техно-куртка
+Dragon's Jade Tech Cuirass,Драконий нагрудник из джейд-технологий
+Dragon's Jade Tech Gauntlets,Перчатки «Драконьей нефритовой технологии»
+Dragon's Jade Tech Hat,Шляпа джад-технологии дракона
+Dragon's Jade Tech Heavy Boots,«Тяжёлые сапоги из джад-теха дракона»
+Dragon's Jade Tech Heavy Leggings,Тяжёлые поножи «Драконья нефритовая техника»
+Dragon's Jade Tech Helm,«Шлем дракона из джед-технологий»
+Dragon's Jade Tech Light Boots,«Драконьи лёгкие сапоги из джад-технологий»
+Dragon's Jade Tech Light Gloves,[Перчатки|Перчаток|Перчаток] лёгкой джедайской техники дракона
+Dragon's Jade Tech Light Shoulderpads,«Драконьи джедайские световые наплечники»
+Dragon's Jade Tech Masque,«Маска из джад-технологий дракона»
+Dragon's Jade Tech Medium Boots,«Драконьи джедайские средние ботинки»
+Dragon's Jade Tech Medium Gloves,Средние нефритовые техноперчатки дракона
+Dragon's Jade Tech Medium Leggings,Средние поножи Драконьей нефритовой технологии
+Dragon's Jade Tech Medium Shoulderpads,Драконьи средние наплечники джетеха
+Dragon's Jade Tech Pauldrons,«Драконьи наплечники из джад-теха»
+Dragon's Jade Tech Skirt,Драконий нефритовый техно-килт
+Dragon's Jade Tech Vest,Жилет нефритовой технологии Дракона
+Dragon's Jade Truncheon Skin,Облик дубинки «Нефритовый дракон»
 Dragon's Jade Wall,Драконий нефритовый щит
-Dragon's Jade Wall Skin,
+Dragon's Jade Wall Skin,Облик стены «Нефритовый дракон»
 Dragon's Jade Warhammer,Драконий нефритовый боевой молот
-Dragon's Jade Warhammer Skin,
-Dragon's Jade Weapon Box,
-Dragon's Orichalcum Imbued Inscription,
+Dragon's Jade Warhammer Skin,«Облик нефритового боевого молота дракона»
+Dragon's Jade Weapon Box,Шкатулка с нефритовым оружием дракона
+Dragon's Orichalcum Imbued Inscription,Драконья пропитанная орихалком надпись
 Dragon's Persuasion,Убеждение дракона
 Dragon's Rending,Разрыв дракона
-Dragon's Revelry Starcake,
+Dragon's Revelry Starcake,«Звёздный пирог драконьего веселья»
 Dragon's Scale,Чешуя дракона
-Dragon's Stand: Commander's Choice Chest,
-Dragon's Stand: Hero's Choice Chest,
+Dragon's Stand: Commander's Choice Chest,Горнило Дракона: сундук выбора командира
+Dragon's Stand: Hero's Choice Chest,Логово Дракона: Сундук выбора героя
 Dragon's Tail,Хвост дракона
 Dragon's Tooth Lantern,Фонарь «Зуб дракона»
 Dragon's Voice,Голос дракона
-Dragon's Void-Corrupted Orb,
+Dragon's Void-Corrupted Orb,"«Сфера Дракона, искаженная Бездной»"
 Dragon's Watch Backpack Voucher,Ваучер на рюкзак Дозора дракона
 Dragon's Watch Cape,Плащ Дозора дракона
 Dragon's Watch Dye Set,Набор красителей Дозора дракона
 Dragon's Watch Glider Voucher,Ваучер на планер «Дозор Дракона»
 Dragon's Watch Mount Skin Voucher,Ваучер на облик ездового животного «Дозор Дракона»
 Dragon's Watch Outfit Voucher,Ваучер на наряд «Дозор Дракона»
-Dragon's Watch Regalia Outfit,
+Dragon's Watch Regalia Outfit,«Наряд ордена Стражи Дракона»
 Dragon's Watch Weapon Voucher,Ваучер на оружие «Дозор Дракона»
 Dragon's Weight,Вес Дракона
 Dragon's Wing,Крыло Дракона
@@ -534,7 +534,7 @@ Dragonfish Candy,Конфета «Рыба-дракон»
 Dragonfly Cupcake,Кекс со стрекозой
 Dragonfly Steaks,Стрекозиные стейки
 Dragonfly-Wing Earrings,Серьги из крыльев стрекозы
-Dragonhunter's Auric Sharpening Stone,
+Dragonhunter's Auric Sharpening Stone,«Точильный камень Ауры Охотника на драконов»
 Dragonhunter's Gauntlet,Перчатка охотника на драконов
 Dragonhunter's Inscription,Надпись охотника на драконов
 Dragonhunter's Longbow,Длинный лук охотника на драконов

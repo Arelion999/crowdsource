@@ -322,6 +322,29 @@ EXPANSIONS = (("Секреты Недр", "Тайны Сокрытого"),
               ("Ледяная Сага", "Сага о Ледоклыках"),
               ("Коробка супер-приключений", "Супер Приключенческая Коробка"))
 
+# Запрещённые GLOSSARY.md формы имён. Правило привязано к оригиналу: «хрустальная
+# банка» останется хрустальной, а «Crystal Oasis -> Хрустальный оазис» починится.
+# Меняем основу, окончание оставляем — формы русские и склоняются.
+GLOSSARY_FIX = (
+    (re.compile(r"\bKrytan?s?\b", re.I), (
+        (re.compile(r"(?<![А-Яа-яЁё])([Кк])рит(?=ск)"), r"\1райтан"),   # критский  -> крайтанский
+        (re.compile(r"(?<![А-Яа-яЁё])([Кк])рит(?=ан)"), r"\1райт"),     # кританский -> крайтанский
+        (re.compile(r"(?<![А-Яа-яЁё])([Кк])рит(?=[аыуе]|ой)(?=[А-Яа-яЁё]{0,3}(?![А-Яа-яЁё]))"), r"\1райт"),
+    )),
+    (re.compile(r"\bKralkatorrik", re.I), (
+        (re.compile(r"Кра(?:л|к)ь?каторр?ик"), "Кралькаторрик"),
+    )),
+    (re.compile(r"\bBraham\b"), ((re.compile(r"([Бб])рахам"), r"\1рейхам"),)),
+    (re.compile(r"\bCrystal Oasis\b"), (
+        (re.compile(r"([Хх])рустальн(\w*) ([Оо])азис"), r"Кристальн\2 оазис"),
+    )),
+    (re.compile(r"\bCrystal Desert\b"), (
+        (re.compile(r"([Хх])рустальн"), r"\1ристальн"),
+        (re.compile(r"([Кк])ристаллическ"), r"\1ристальн"),
+    )),
+    (re.compile(r"\bSpirit Watch\b"), ((re.compile(r"Дозор Духов"), "Дозор духов"),)),
+)
+
 
 def _skin(m):
     w = m.group(1) + m.group(2)
@@ -348,8 +371,17 @@ def fix_homoglyphs(s):
         lat = sum(1 for c in w if c.isascii() and c.isalpha())
         if not cyr or lat >= cyr:
             return w
-        return "".join(LAT2CYR.get(c, c) if c.isascii() and c.isalpha() else c
-                       for c in w)
+        # Сплошная латиница от трёх букв — это приклеенное английское слово или
+        # аббревиатура («МыMINSECПоддерживаем»), а не буква-двойник. Такой кусок
+        # правило калечит: MINSEC превращался в МINSЕС. Опечатка выглядит иначе —
+        # одна-две латинские буквы, зажатые кириллицей («кастoранской»).
+        out = []
+        for part in re.findall(r'[A-Za-z]+|[^A-Za-z]+', w):
+            if part[:1].isascii() and part[:1].isalpha() and len(part) >= 3:
+                out.append(part)
+            else:
+                out.append("".join(LAT2CYR.get(c, c) for c in part))
+        return "".join(out)
     return WORD.sub(rep, s)
 
 
@@ -404,6 +436,10 @@ def normalize(en, ru):
     out = out.replace("Жайтан", "Зайтан")          # решение пользователя 2026-08-03
     for a, b in EXPANSIONS:
         out = out.replace(a, b)
+    for en_re, subs in GLOSSARY_FIX:
+        if en_re.search(en):
+            for pat, rep in subs:
+                out = pat.sub(rep, out)
     # ascended -> вознесённый, но Exalted -> возвышенный оставляем как есть
     if "ascend" in en.lower():
         out = re.sub(r"(?<![А-Яа-яЁё])([Вв])озвышенн",
