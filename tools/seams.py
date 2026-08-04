@@ -30,6 +30,7 @@ except Exception:
     pass
 
 NOSPACE = re.compile(r"\s+")
+TOK = re.compile(r"%\w+%|<[^>]+>")
 # Пробельный блок с переносами между сегментами оригинала.
 RUN = re.compile(r"[ \t]*\n[ \t\n]*")
 
@@ -79,6 +80,11 @@ def cmd_apply(a):
             if fixed.count("\n") != en.count("\n"):
                 bad.append((r["hash"], "переносов %d, в оригинале %d"
                             % (fixed.count("\n"), en.count("\n"))))
+                continue
+            # Шов внутри «%str1%» или «<c=…>» текст не меняет — сверка выше его
+            # пропускает, — но токен разваливается пополам и игра его не узнает.
+            if sorted(TOK.findall(fixed)) != sorted(TOK.findall(ru)):
+                bad.append((r["hash"], "шов разрывает плейсхолдер или тег"))
                 continue
             if fixed == ru:
                 empty += 1

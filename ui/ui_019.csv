@@ -367,7 +367,7 @@ english,translate
 <c=#006eff>Ally Target:</c><br>No charges: Grant might to linked ally.<br>One charge: Additionally grants fury.<br>Three charges: All previous effects spread to allies around linked target.,<c=#006eff>Цель-союзник:</c><br>Без зарядов: даёт Мощь связанному союзнику.<br>Один заряд: дополнительно даёт Ярость.<br>Три заряда: все предыдущие эффекты распространяются на союзников вокруг связанной цели.
 <c=#00FF00>True</c>,<c=#00FF00>Истина</c>
 <c=#00FF00>Unlocked</c>,<c=#00FF00>Разблокировано</c>
-<c=#26c2eb>            </c>,<c=#26c2eb>            </c>
+<c=#26c2eb>            </c>,<c=#26c2eb> </c>
 <c=#29AF9E>Purchase Guild Wars 2: Path of Fire</c> to explore the Crystal Desert with five unique mounts in the second critically acclaimed Guild Wars 2 expansion.,"<c=#29AF9E>Купите Guild Wars 2: Path of Fire</c>, чтобы исследовать Кристальную пустыню на пяти уникальных ездовых животных во втором дополнении Guild Wars 2, отмеченном критиками."
 <c=#29AF9E>Purchase the full collection</c> for the above expansion and Guild Wars 2: End of Dragons to travel to the beautiful Canthan continent for all-new adventures.,"<c=#29AF9E>Купите полный набор</c> из дополнения выше и Guild Wars 2: End of Dragons, чтобы отправиться на прекрасный континент Кантха за новыми приключениями."
 <c=#A0A0A0>Accessory</c>,<c=#A0A0A0>Аксессуар</c>
@@ -386,16 +386,16 @@ english,translate
 <c=#AAAAFF>Quantity Remaining: %num1%</c>,<c=#AAAAFF>Осталось: %num1%</c>
 <c=#AC73E5>Placeholder_Title_0013</c>,<c=#AC73E5>Placeholder_Title_0013</c>
 <c=#AC73E5>Placeholder_Title_0014</c>,<c=#AC73E5>Placeholder_Title_0014</c>
-<c=#AC73E5>    </c>,<c=#AC73E5>    </c>
-<c=#AC73E5>     </c>,<c=#AC73E5>     </c>
-<c=#AC73E5>      </c>,<c=#AC73E5>      </c>
-<c=#AC73E5>       </c>,<c=#AC73E5>       </c>
-<c=#AC73E5>        </c>,<c=#AC73E5>        </c>
-<c=#AC73E5>         </c>,<c=#AC73E5>         </c>
-<c=#AC73E5>          </c>,<c=#AC73E5>          </c>
-<c=#AC73E5>                      </c>,<c=#AC73E5>                      </c>
-<c=#AC73E5>                       </c>,<c=#AC73E5>                       </c>
-<c=#AC73E5>                         </c>,<c=#AC73E5>                         </c>
+<c=#AC73E5>    </c>,<c=#AC73E5> </c>
+<c=#AC73E5>     </c>,<c=#AC73E5> </c>
+<c=#AC73E5>      </c>,<c=#AC73E5> </c>
+<c=#AC73E5>       </c>,<c=#AC73E5> </c>
+<c=#AC73E5>        </c>,<c=#AC73E5> </c>
+<c=#AC73E5>         </c>,<c=#AC73E5> </c>
+<c=#AC73E5>          </c>,<c=#AC73E5> </c>
+<c=#AC73E5>                      </c>,<c=#AC73E5> </c>
+<c=#AC73E5>                       </c>,<c=#AC73E5> </c>
+<c=#AC73E5>                         </c>,<c=#AC73E5> </c>
 <c=#B0B0B0>Heat generated to maintain:</c> <c=#F8C56E>1</c>You look like a tree. Stay still to avoid detection.<c=@warning>Note:</c> Gliding is currently unavailable.,"<c=#B0B0B0>Тепла на поддержание:</c> <c=#F8C56E>1</c>Вы выглядите как дерево. Стойте неподвижно, чтобы вас не обнаружили.<c=@warning>Примечание:</c> планирование сейчас недоступно."
 <c=#B0B0B0>Heat generated:</c> <c=#F8C56E>0</c>Stun your target with a nonlethal compression bolt. The launcher holds three bolts and can be reloaded when empty.<c=@warning>Note:</c> Reloading the launcher generates heat.,"<c=#B0B0B0>Выработано тепла:</c> <c=#F8C56E>0</c>Оглушите цель несмертельным сжимающим болтом. В пусковом устройстве три болта, и его можно перезарядить, когда оно опустеет.<c=@warning>Примечание:</c> перезарядка устройства вырабатывает тепло."
 "<c=#B0B0B0>Heat generated:</c> <c=#F8C56E>1–3</c>Compress up to three new stun bolts.<c=@warning>Note:</c> Should the heat capacity allow it, the arm will only produce three bolts to prevent itself from overheating. If it's close to overheating, fewer bolts will be produced.","<c=#B0B0B0>Выработано тепла:</c> <c=#F8C56E>1–3</c>Сожмите до трёх новых оглушающих болтов.<c=@warning>Примечание:</c> если позволит запас тепла, рука произведёт лишь три болта, чтобы не перегреться. Если перегрев близок, болтов будет меньше."
@@ -475,7 +475,7 @@ english,translate
 "<c=@abilitytype>Backfire.</c> You drop the potion on yourself, healing for more. The cooldown of this skill is increased, and you cannot reactivate this skill until it is fully recharged again.","<c=@abilitytype>Осечка.</c> Вы роняете зелье на себя, исцеляясь сильнее. Перезарядка этого умения увеличивается, и вы не сможете применить его снова, пока оно полностью не перезарядится."
 <c=@abilitytype>Beast. </c>Gain regeneration.,<c=@abilitytype>Зверь. </c>Даёт Регенерацию.
 "<c=@abilitytype>Beast. </c>Jump up and slam the ground beneath you, severely damaging nearby foes.","<c=@abilitytype>Зверь. </c>Подпрыгните и обрушьтесь на землю под собой, тяжело раня ближайших врагов."
-<c=@abilitytype>Beast.  </c>Freeze the water around your foe.,<c=@abilitytype>Зверь.  </c>Заморозьте воду вокруг врага.
+<c=@abilitytype>Beast.  </c>Freeze the water around your foe.,<c=@abilitytype>Зверь. </c>Заморозьте воду вокруг врага.
 <c=@abilitytype>Berserker Strain.</c> Evolving grants you stability and heals you based on a percentage of damage dealt to enemies.,"<c=@abilitytype>Штамм берсерка.</c> Эволюция даёт вам Устойчивость и исцеляет вас на долю урона, нанесённого врагам."
 "<c=@abilitytype>Burst. Chant. </c>Applies boons to allies in an area around you.<br><c=@abilitytype>Refrain. </c>After activation, continually applies boons to allies while removing motivation every interval. This effect lasts until you run out of motivation stacks or another chant is activated. Gain increased effects depending on motivation stacks:","<c=@abilitytype>Всплеск. Песнопение. </c>Накладывает боны на союзников в области вокруг вас.<br><c=@abilitytype>Рефрен. </c>После активации постоянно накладывает боны на союзников, каждый интервал расходуя побуждение. Эффект длится, пока не кончатся стаки побуждения или пока не будет активировано другое песнопение. Эффекты усиливаются в зависимости от стаков побуждения:"
 "<c=@abilitytype>Burst. Chant. </c>Breaks stun from allies in an area around you. <br><c=@abilitytype>Refrain. </c>When activated, continually applies swiftness to allies while removing motivation stacks every interval. This effect lasts until you run out of motivation stacks or another chant is activated. Gains increased effects depending on motivation stacks:","<c=@abilitytype>Всплеск. Песнопение. </c>Снимает Оглушение с союзников в области вокруг вас. <br><c=@abilitytype>Рефрен. </c>При активации постоянно накладывает Быстроту на союзников, каждый интервал расходуя стаки побуждения. Эффект длится, пока не кончатся стаки побуждения или пока не будет активировано другое песнопение. Эффекты усиливаются в зависимости от стаков побуждения:"
