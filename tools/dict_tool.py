@@ -577,6 +577,21 @@ def cmd_merge(a):
         print("(план; для записи --apply)")
 
 
+def _linter_broken(en_cur, ru_cur, en_batch, ru_batch):
+    """Наш перевод не проходит линтер батчей, а батчевый проходит.
+
+    Гейт `defects` смотрит на своё (латиница, токены, числа) и не видит того,
+    что видит `validate.py`: группу склонения без «|» («топорище[а]» уедет в
+    игру вместе со скобками), запрещённую глоссарием форму имени, потерянный
+    префикс. В таких строках батч — заведомо лучше, даже когда он всего лишь
+    снял битую разметку и деградировал до единственного числа.
+    """
+    if _validate is None:
+        return False
+    return bool(_validate.check_row(en_cur, ru_cur)[0]) and \
+        not _validate.check_row(en_batch, ru_batch)[0]
+
+
 def cmd_frombatches(a):
     """Батчи -> bin. Замена merge_back.py, который работал через CSV.
 
@@ -602,7 +617,8 @@ def cmd_frombatches(a):
         cur = ours.get(h)
         if cur is None:
             added[h] = (en, ru, "основной")
-        elif cur[1].strip() != ru.strip() and defects(cur[0], cur[1]):
+        elif cur[1].strip() != ru.strip() and (
+                defects(cur[0], cur[1]) or _linter_broken(cur[0], cur[1], en, ru)):
             changes[h] = ru
     print("из батчей: добавить %d | заменить наши битые %d | отклонено гейтами %d"
           % (len(added), len(changes), rejected))
