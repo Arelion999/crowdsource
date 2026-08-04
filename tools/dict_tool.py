@@ -1452,6 +1452,21 @@ def cmd_tidy(a):
 # Пачку переносов берём целиком: перед подписью часто стоит пустая строка,
 # и вернуть надо ровно её, а не один перенос.
 SIGN = re.compile(r"(\n+)([ \t]*[—–-][ \t]*)([^\n]{2,40}?)((?:</c>)?)[ \t]*$")
+# Не всякая строка с дефисом в начале — подпись. В рецептах и списках последний
+# пункт («- Carrot») выглядит так же, а строка-разделитель («------») тем более:
+# один прогон дописал «-Carrot» в перевод рецепта, пока это не проверялось.
+SIGN_LIST = re.compile(r"\n[ \t]*-[ \t]*\S")
+SIGN_RULE = re.compile(r"^[-—–_=*]{3,}$")
+
+
+def is_signature(en, m):
+    """Хвост оригинала — подпись, а не пункт списка и не разделитель."""
+    name = m.group(3).strip()
+    if SIGN_RULE.match(name):
+        return False
+    if m.group(2).strip() == "-" and len(SIGN_LIST.findall(en)) > 1:
+        return False                              # список: таких «подписей» много
+    return True
 
 
 def name_map():
@@ -1479,7 +1494,7 @@ def cmd_signatures(a):
         if not en or not ru or en.count("\n") <= ru.count("\n"):
             continue
         m = SIGN.search(en)
-        if not m:
+        if not m or not is_signature(en, m):
             continue
         if re.search(r"[—–]\s*\S", ru.strip()[-45:]):
             continue                              # подпись на месте
