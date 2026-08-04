@@ -1495,6 +1495,96 @@ def cmd_signatures(a):
         print("\n(для записи --apply)")
 
 
+def segment_canon(ours):
+    """«английский сегмент -> русский сегмент» из выровненных записей корпуса.
+
+    Там, где переносов в оригинале и переводе поровну, сегменты стоят друг
+    против друга один в один — это готовый канон для служебных строк вроде
+    «Account bound on use.». Одиночные записи корпуса добавляем туда же.
+    """
+    tab = collections.defaultdict(collections.Counter)
+    for _h, (en, ru, _c) in ours.items():
+        if not en or not ru:
+            continue
+        if "\n" in en:
+            es, rs = en.split("\n"), ru.split("\n")
+            if len(es) != len(rs):
+                continue
+            for e, r in zip(es, rs):
+                if e.strip() and r.strip() and len(e.strip()) > 6:
+                    tab[e.strip()][r.strip()] += 1
+        elif "\n" not in ru and len(en) > 6:
+            tab[en.strip()][ru.strip()] += 1
+    return {k: v.most_common(1)[0][0] for k, v in tab.items()}
+
+
+def split_segments(en):
+    """Оригинал -> (сегменты, пачки переносов между ними)."""
+    segs, runs, buf, run = [], [], "", ""
+    for ch in en:
+        if ch == "\n":
+            run += ch
+        else:
+            if run:
+                segs.append(buf); runs.append(run); buf, run = "", ""
+            buf += ch
+    segs.append(buf)
+    return segs, runs
+
+
+def cmd_segments(a):
+    """Вернуть сегменты, потерянные переводом целиком.
+
+    Перенос строки тут не при чём: пропала не разметка, а текст — обращение
+    «Commander,», служебная строка «Account bound on use.», подпись. Перевод
+    не выдумываем, берём канон из самого корпуса.
+
+    Главное — сначала опознать, КАКОМУ сегменту отвечает наш текст. Наивное
+    «наш текст — это первый сегмент, дописываем хвост» даёт дубль: в половине
+    записей перевод как раз хвостовой, а потеряна голова.
+    """
+    ours = load_map(OUR_BIN)
+    canon = segment_canon(ours)
+    changes, stat, ex = {}, collections.Counter(), []
+    for h, (en, ru, _c) in ours.items():
+        if not en or not ru or en.count("\n") <= ru.count("\n") or "\n" in ru:
+            continue
+        segs, runs = split_segments(en)
+        if len(segs) < 2:
+            continue
+        cans = [canon.get(s.strip()) for s in segs]
+        scores = sorted(((difflib.SequenceMatcher(None, (c or "").lower(),
+                                                  ru.lower()).ratio(), i)
+                         for i, c in enumerate(cans)), reverse=True)
+        best, idx = scores[0]
+        if best < 0.55:
+            stat["наш текст не опознан ни как один сегмент"] += 1
+            continue
+        if len(scores) > 1 and scores[1][0] > best - 0.15:
+            stat["наш текст похож сразу на два сегмента"] += 1
+            continue
+        if any(c is None for i, c in enumerate(cans) if i != idx):
+            stat["канона на недостающие сегменты нет"] += 1
+            continue
+        parts = [ru if i == idx else cans[i] for i in range(len(segs))]
+        new = parts[0]
+        for run, p in zip(runs, parts[1:]):
+            new += run + p
+        changes[h] = new
+        stat["восстановлено"] += 1
+        if len(ex) < 5:
+            ex.append((en, ru, new, idx))
+    for k, v in stat.most_common():
+        print("%6d  %s" % (v, k))
+    for en, ru, new, idx in ex:
+        print("\n  EN    %r\n  было  %r  (это сегмент %d)\n  стало %r"
+              % (en[:95], ru[:80], idx + 1, new[:95]))
+    if a.apply:
+        apply_changes(changes, {}, "возврат сегментов")
+    elif changes:
+        print("\nготово к записи: %d (для записи --apply)" % len(changes))
+
+
 def cmd_trunc(a):
     now, base = load_map(OUR_BIN), load_map(a.baseline)
     sus = [(h, en, ru, cat) for h, (en, ru, cat) in now.items()
@@ -1618,7 +1708,14 @@ def cmd_verify(a):
 
 
 def cmd_fillbatches(a):
-    """Закрыть пустые строки батчей переводами, которые уже есть в словаре."""
+    """Закрыть пустые строки батчей переводами, которые уже есть в словаре.
+
+    С --repair дополнительно чинит НЕпустые ячейки: если линтер ругается на
+    ячейку батча, а в bin для той же строки лежит чистый перевод, ячейка
+    отстала от словаря — её надо подтянуть, иначе батчи и bin разъедутся
+    (мы починили переносы и сегменты в bin, а на вычитку человек получит
+    прежний склеенный текст).
+    """
     if _validate is None:
         sys.exit("не найден crowdsource/validate.py — без линтера не заполняю")
     by_en = {}
@@ -1626,6 +1723,8 @@ def cmd_fillbatches(a):
         if en and ru.strip():
             by_en[en] = ru
     tot_empty = tot_fill = tot_rej = 0
+    tot_broken = tot_repair = tot_worse = 0
+    ex = []
     for fp in batch_files():
         raw = open(fp, "rb").read().decode("utf-8")
         rows = list(csv.reader(io.StringIO(raw)))
@@ -1635,7 +1734,26 @@ def cmd_fillbatches(a):
         for r in rows[1:]:
             if len(r) < 2:
                 r += [""] * (2 - len(r))
-            if not r[0].strip() or r[1].strip():
+            if not r[0].strip():
+                continue
+            if r[1].strip():
+                if not a.repair:
+                    continue
+                errs = _validate.check_row(r[0], r[1])[0]
+                if not errs:
+                    continue
+                tot_broken += 1
+                ru = by_en.get(r[0])
+                # Меняем только на заведомо лучшее: перевод из bin обязан быть
+                # чистым по линтеру. Иначе меняли бы шило на мыло.
+                if not ru or ru == r[1] or _validate.check_row(r[0], ru)[0]:
+                    tot_worse += 1
+                    continue
+                if len(ex) < 5:
+                    ex.append((r[0], r[1], ru, errs[0]))
+                r[1] = ru
+                fill += 1
+                tot_repair += 1
                 continue
             tot_empty += 1
             ru = by_en.get(r[0])
@@ -1652,7 +1770,13 @@ def cmd_fillbatches(a):
             open(fp, "wb").write(buf.getvalue().encode("utf-8"))
         tot_fill += fill
     print("пустых строк в батчах: %d | заполнено: %d | отклонено линтером: %d"
-          % (tot_empty, tot_fill, tot_rej))
+          % (tot_empty, tot_fill - tot_repair, tot_rej))
+    if a.repair:
+        print("битых ячеек: %d | подтянуто из bin: %d | в bin не лучше: %d"
+              % (tot_broken, tot_repair, tot_worse))
+        for en, was, now, why in ex:
+            print("\n  EN    %r\n  было  %r  (%s)\n  стало %r"
+                  % (en[:85], was[:85], why, now[:85]))
     if not a.apply:
         print("(для записи --apply)")
 
@@ -1916,6 +2040,7 @@ def main():
         (("--min-len",), {"type": int, "default": 25}))
     add("verify", "сверить с прежним bin", cmd_verify, (("baseline",), {}))
     add("fillbatches", "закрыть строки батчей переводами из bin", cmd_fillbatches,
+        (("--repair",), {"action": "store_true", "help": "чинить и непустые битые ячейки"}),
         (("--apply",), {"action": "store_true"}))
     add("unglue", "починить гомоглифы в склейках", cmd_unglue,
         (("--apply",), {"action": "store_true"}))
@@ -1929,6 +2054,8 @@ def main():
         (("--weak",), {"action": "store_true", "help": "и вставки без сверки с оригиналом"}),
         (("--oracle",), {"default": None,
                          "help": "чужой bin: где следов шва нет, спросить его перевод"}),
+        (("--apply",), {"action": "store_true"}))
+    add("segments", "вернуть сегменты, потерянные переводом", cmd_segments,
         (("--apply",), {"action": "store_true"}))
     add("tidy", "мелкие починки: края, невидимки, %%, знак конца", cmd_tidy,
         (("--apply",), {"action": "store_true"}))
