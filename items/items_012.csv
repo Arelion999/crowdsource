@@ -1,16 +1,18 @@
 english,translate
-Advanced Harvesting Sickle,
+Advanced Harvesting Sickle,Улучшенный серп для сбора ресурсов
 Advanced Ingredients Pouch,Продвинутый мешочек с ингредиентами
 Advanced Leather Rack,Продвинутая стойка для кожи
-Advanced Logging Axe,
-Advanced Mining Pick,
+Advanced Logging Axe,Улучшенный топор для рубки леса
+Advanced Mining Pick,Улучшенная кирка для добычи руды
 Advanced Skimmer Course: Bronze,Продвинутый курс скакуна: бронза
 Advanced Skimmer Course: Gold,Продвинутый курс скакуна: золото
 Advanced Skimmer Course: Silver,Продвинутый курс скакуна: серебро
 Advanced Spinal Blades,Продвинутые спинные лезвия
 "Advances the current character to level 80. Grants a starting set of exotic gear and a box of items to get you started. 
 
-<c=@flavor>Use for details. You will be able to confirm/cancel.</c>",
+<c=@flavor>Use for details. You will be able to confirm/cancel.</c>","Повышает уровень текущего персонажа до 80-го. Предоставляет начальный набор экзотического снаряжения и коробку с предметами, чтобы помочь вам начать игру.
+
+<c=@flavor>Нажмите для получения подробной информации. Вы сможете подтвердить или отменить действие.</c>"
 Adventure Experience Award: Volume Five,Награда за опыт приключений: Том пятый
 Adventure Experience Award: Volume Four,Награда за опыт приключений: Том четвёртый
 Adventure Experience Award: Volume One,Награда за опыт в приключениях: Том первый
@@ -23,7 +25,7 @@ Adventurous Melody,Авантюрная мелодия
 Aerial Assault,Воздушный штурм
 Aeronotics Labs Medal,Медаль лаборатории аэронотики
 Aestus Heart,Сердце Аэстуса
-Aestus Runestone,
+Aestus Runestone,Рунный камень Эстус
 Aether from a strong Branded enemy. It must be purified to be usable.,"Эфир от сильного Клейменого врага. Его нужно очистить, чтобы использовать."
 Aether from a strong destroyer enemy. It must be purified to be usable.,"Эфир от сильного врага-Разрушителя. Его нужно очистить, чтобы использовать."
 Aether from a strong Icebrood enemy. It must be purified to be usable.,"Эфир от сильного врага-Ледоклыка. Его нужно очистить, чтобы использовать."
@@ -500,7 +502,8 @@ An intangible material crucial to the restoration of a living weapon.,"Нема�
 "An item from the Sly crew used by the Corsair, Mehdi, to craft his famous tainted grog in the Domain of Istan.","Предмет из команды «Хитрецов», использованный корсаром Мехди для создания его знаменитого отравленного грога в Области Истана."
 "An item from the Stonefist crew used by the Corsair, Mehdi, to craft his famous tainted grog in the Domain of Istan.","Предмет из команды «Каменного кулака», использованный корсаром Мехди для создания его знаменитого отравленного грога в Области Истана."
 "An odd blue wurm husk
-<c=@flavor>""This may have come from a Bug!""</c>",
+<c=@flavor>""This may have come from a Bug!""</c>","Странная синяя оболочка червя.
+<c=@flavor>«Возможно, она появилась из-за ошибки!»</c>"
 An odd-looking item that Timin Blastburl seems to be interested in.,"Странный предмет, которым, кажется, интересуется Тимин Взрывной."
 An offering used in dungeon recipes.,"Подношение, используемое в рецептах подземелий."
 "An oil painting, simply done.","Картина маслом, выполненная просто."

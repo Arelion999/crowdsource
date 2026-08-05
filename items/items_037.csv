@@ -39,10 +39,14 @@ Don't really have a need for these anymore.,Они мне больше не ну
 Don't try eating it.,Не пытайся это есть.
 "Donate these to Hall Director Soohee outside of Sizhou Hall to help feed the local villagers.
 <c=@Flavor>These fish are only found in the waters of Shinota Shore.</c>
-Renown Item",
+Renown Item","Отнесите их директору зала Сухи, которая находится возле зала Сичжоу, чтобы помочь накормить местных жителей.
+<c=@Flavor>Эту рыбу можно найти только в водах Шинота-Шор.</c>
+Предмет, дающий очки репутации."
 "Donate these to the village stores at Daijun Bay to impress the residents.
 <c=@Flavor>These rare fish are only found in the waters of Daijun Bay.</c>
-Renown Item",
+Renown Item","Отнесите эти вещи в лавки деревни Дайцзюнь, чтобы произвести впечатление на жителей.
+<c=@Flavor>Этих редких рыб можно найти только в водах бухты Дайцзюнь.</c>
+Предмет для повышения репутации."
 Donation Packaging,Упаковка пожертвований
 Donation Receipt,Квитанция о пожертвовании
 Doolsileep's Seashell Charm,Амулет из ракушки Дулсилипа
@@ -130,17 +134,23 @@ Double-click to access your account bank from anywhere. Single use.,"Дважд�
 Double-click to acquire 25 bait in bulk.,"Дважды щелкните, чтобы получить 25 наживок оптом."
 "Double-click to acquire a random amount of bait worms.
 
-<c=@flavor>""Careful opening that. It can be a real, well, you know...""</c>",
+<c=@flavor>""Careful opening that. It can be a real, well, you know...""</c>","Дважды щелкните, чтобы получить случайное количество наживки для червей.
+
+<c=@flavor>""Будьте осторожны при открытии. Внутри может быть что-то... ну, вы понимаете.""</c>"
 "Double-click to acquire a random assortment of bait.
 
-<c=@flavor>""Guaranteed to give you something creepy, something crawly, or both!""</c>",
+<c=@flavor>""Guaranteed to give you something creepy, something crawly, or both!""</c>","Дважды щелкните, чтобы получить случайный набор приманок.
+
+<c=@flavor>""Гарантированно содержит что-нибудь жуткое, что-нибудь ползающее или и то, и другое!""</c>"
 Double-click to acquire a set of ascended armor.,"Дважды щелкните, чтобы получить комплект вознесенной брони."
 Double-click to acquire an account-bound demonic infusion.,"Дважды щелкните, чтобы получить привязанную к учетной записи демоническую инкрустацию."
 Double-click to acquire an item that unlocks a unique chair.,"Дважды щелкните, чтобы получить предмет, открывающий уникальный стул."
 "Double-click to acquire the account-bound forms of Ancora.
 
-<c=@flavor>With this relic and through our rites, you shall become eternal—an anchor for the people in times of war and peace.</c>",
-Double-click to acquire the account-bound legendary aquabreather Selachimorpha in all weights.,
+<c=@flavor>With this relic and through our rites, you shall become eternal—an anchor for the people in times of war and peace.</c>","Дважды щелкните, чтобы получить привязанные к учетной записи версии «Алькоры».
+
+<c=@flavor>С помощью этого реликта и наших ритуалов вы станете бессмертными — оплотом для народа во времена войны и мира.</c>"
+Double-click to acquire the account-bound legendary aquabreather Selachimorpha in all weights.,"Дважды щелкните, чтобы получить легендарный акваланговый артефакт «Селахиморфа», привязанный к учетной записи, во всех вариантах расцветки."
 Double-click to activate a one-time firework. Best effects when representing a guild. Cannot be used in WvW.,"Дважды щелкните, чтобы активировать одноразовый фейерверк. Наилучший эффект при представлении гильдии. Нельзя использовать в WvW."
 Double-click to activate a one-time firework. Best effects when representing a guild. Cannot be used in WvW. Grants a small bonus to experience from all sources when activated.,"Дважды щелкните, чтобы активировать одноразовый фейерверк. Наилучший эффект при представлении гильдии. Нельзя использовать в WvW. При активации дает небольшой бонус к опыту из всех источников."
 Double-click to activate a one-time firework. Cannot be used in WvW.,"Дважды щелкните, чтобы активировать одноразовый фейерверк. Нельзя использовать в WvW."
@@ -150,7 +160,9 @@ Double-click to activate a one-time firework. Cannot be used in WvW. Grants a sm
 <c=@Flavor>Элонианцы и Тирийцы ищут исторические артефакты.</c>"
 "Double-click to activate a single-use firework.
 Cannot be used in WvW.
-Grants 2 stacks of a small bonus to experience from all sources when activated.",
+Grants 2 stacks of a small bonus to experience from all sources when activated.","Дважды щелкните, чтобы активировать фейерверк одноразового использования.
+Нельзя использовать в PvP-режиме «Захват территорий».
+При активации дает 2 стака небольшого бонуса к опыту, получаемому из всех источников."
 "Double-click to activate the relic. It can offer wishes in exchange for Eyes of Kormir, and it can also return you to Spearmarshal's Lament.","Дважды щелкните, чтобы активировать реликвию. Она может предлагать желания в обмен на Глаза Кормир, а также может вернуть вас в Скорбь Копьемаршала."
 Double-click to activate your effigy fragment.,"Дважды щелкните, чтобы активировать фрагмент вашего чучела."
 Double-click to activate.,"Дважды щелкните, чтобы активировать."
@@ -539,58 +551,92 @@ Double-click to become a young karka for 5 minutes.,"Дважды щелкнит
 <c=@flavor>""Мы сделали это, чтобы изучать их."" — Брамм</c>"
 "Double-click to bind this glyph to your account.
 
-33% chance to complete gathering instantly.",
+33% chance to complete gathering instantly.","Дважды щелкните, чтобы привязать этот глиф к своей учетной записи.
+
+33 % шанс мгновенно завершить сбор."
 "Double-click to bind this glyph to your account.
 
-Applies the Overload special action skill when fully charged, which grants +100% chance of extra gathering strikes for a limited time. Gather from resource nodes to build charges. Harvesting nodes consume additional charges.",
+Applies the Overload special action skill when fully charged, which grants +100% chance of extra gathering strikes for a limited time. Gather from resource nodes to build charges. Harvesting nodes consume additional charges.","Дважды щелкните, чтобы привязать этот глиф к вашей учетной записи.
+
+При полном заряде активирует специальное умение «Перегрузка», которое на короткое время дает +100% шанс дополнительных ударов при сборе ресурсов. Собирайте ресурсы из узлов, чтобы накапливать заряд. Сбор ресурсов с узлов потребляет дополнительные заряды."
 "Double-click to bind this glyph to your account.
 
-Gathering completes 50% faster.",
+Gathering completes 50% faster.","Дважды щелкните, чтобы привязать этот глиф к своей учетной записи.
+
+Сбор ресурсов происходит на 50% быстрее."
 "Double-click to bind this glyph to your account.
 
-Gathers from all nearby resource nodes this tool can gather from.",
+Gathers from all nearby resource nodes this tool can gather from.","Дважды щелкните, чтобы привязать этот глиф к своей учетной записи.
+
+Собирает ресурсы со всех ближайших узлов, с которых данный инструмент может собирать."
 "Double-click to bind this glyph to your account.
 
-Grants a 33% chance to gain an extra strike while gathering.",
+Grants a 33% chance to gain an extra strike while gathering.","Дважды щелкните, чтобы привязать этот глиф к своей учетной записи.
+
+Дает 33%-ный шанс получить дополнительный удар при сборе ресурсов."
 "Double-click to bind this glyph to your account.
 
-Grants a 33% chance to receive a bonus fine crafting material after gathering in addition to your gathering results.",
+Grants a 33% chance to receive a bonus fine crafting material after gathering in addition to your gathering results.","Дважды щелкните, чтобы привязать этот глиф к своей учетной записи.
+
+Дает 33%-ный шанс получить дополнительный материал для тонкой обработки после сбора ресурсов в дополнение к обычным результатам сбора."
 "Double-click to bind this glyph to your account.
 
-Grants a 33% chance to receive bonus ores while gathering in addition to your gathering results. Material types are determined by your character level and location in the world.",
+Grants a 33% chance to receive bonus ores while gathering in addition to your gathering results. Material types are determined by your character level and location in the world.","Дважды щелкните, чтобы привязать этот глиф к своей учетной записи.
+
+Дает 33%-ный шанс получить дополнительные руды во время сбора ресурсов в дополнение к обычным результатам. Типы материалов определяются уровнем вашего персонажа и местоположением в мире."
 "Double-click to bind this glyph to your account.
 
-Grants a 33% chance to reward a bonus watchwork sprocket while gathering, in addition to the gathering results.",
+Grants a 33% chance to reward a bonus watchwork sprocket while gathering, in addition to the gathering results.","Дважды щелкните, чтобы привязать этот глиф к своей учетной записи.
+
+Дает 33%-ный шанс получить дополнительный шестеренку часового механизма во время сбора ресурсов, помимо обычных результатов."
 "Double-click to bind this glyph to your account.
 
-Grants a 33% chance to reward bonus harvesting ingredient pouches in addition to gathering results. Ingredient pouch types are determined by your character level and location in the world.",
+Grants a 33% chance to reward bonus harvesting ingredient pouches in addition to gathering results. Ingredient pouch types are determined by your character level and location in the world.","Дважды щелкните, чтобы привязать этот глиф к вашей учетной записи.
+
+Дает 33%-ный шанс получить дополнительные мешочки с ингредиентами для крафта вместе с обычными результатами сбора ресурсов. Типы мешочков с ингредиентами определяются уровнем вашего персонажа и местоположением в мире."
 "Double-click to bind this glyph to your account.
 
-Grants a 33% chance to reward bonus wood logs while gathering, in addition to gathering results. Material types are determined by your character level and location in the world.",
+Grants a 33% chance to reward bonus wood logs while gathering, in addition to gathering results. Material types are determined by your character level and location in the world.","Дважды щелкните, чтобы привязать этот глиф к вашей учетной записи.
+
+Дает 33%-ный шанс получить дополнительные бревна во время сбора ресурсов, помимо обычных результатов. Типы материалов определяются уровнем вашего персонажа и местоположением в мире."
 "Double-click to bind this glyph to your account.
 
-Grants a 33%% chance to reward bonus cloth scraps while gathering, in addition to your gathering results. Material types are determined by your character level and location in the world.",
+Grants a 33%% chance to reward bonus cloth scraps while gathering, in addition to your gathering results. Material types are determined by your character level and location in the world.","Дважды щелкните, чтобы привязать этот глиф к своей учетной записи.
+
+Дает 33%% шанс получить дополнительные обрывки ткани во время сбора ресурсов, в дополнение к обычным результатам. Типы материалов определяются уровнем вашего персонажа и местоположением в мире."
 "Double-click to bind this glyph to your account.
 
 Grants a 33%% chance to reward bonus leather scraps while gathering, in addition to gathering results. Material types are determined by your character level and location in the world.",
 "Double-click to bind this glyph to your account.
 
-Increases movement speed by 100% for 5 seconds after gathering completes.",
+Increases movement speed by 100% for 5 seconds after gathering completes.","Дважды щелкните, чтобы привязать этот глиф к своей учетной записи.
+
+Увеличивает скорость передвижения на 100 % в течение 5 секунд после завершения сбора ресурсов."
 "Double-click to bind this glyph to your account.
 
-Replaces gathering results with materials used in higher-level crafting recipes. Material types are determined by the type of node gathered from. Mithril ore, elder wood, and select cooking ingredients can be improved a limited number of times each day.",
+Replaces gathering results with materials used in higher-level crafting recipes. Material types are determined by the type of node gathered from. Mithril ore, elder wood, and select cooking ingredients can be improved a limited number of times each day.","Дважды щелкните, чтобы привязать этот глиф к своей учетной записи.
+
+Заменяет результаты сбора материалами, используемыми в рецептах крафта более высокого уровня. Типы материалов определяются типом собранного ресурса. Мифриловую руду, древесину древних деревьев и некоторые кулинарные ингредиенты можно улучшить ограниченное количество раз в день."
 "Double-click to bind this glyph to your account.
 
-Replaces gathering results with materials used in lower-level crafting recipes. Material types are determined by the type of node gathered from.",
+Replaces gathering results with materials used in lower-level crafting recipes. Material types are determined by the type of node gathered from.","Дважды щелкните, чтобы привязать этот глиф к своей учетной записи.
+
+Заменяет результаты сбора материалами, используемыми в рецептах крафта более низкого уровня. Типы материалов определяются типом собранного узла."
 "Double-click to bind this glyph to your account.
 
-Rewards bonus karma while gathering, in addition to the gathering results.",
+Rewards bonus karma while gathering, in addition to the gathering results.","Дважды щелкните, чтобы привязать этот глиф к своей учетной записи.
+
+При сборе ресурсов вы будете получать дополнительную карму в дополнение к результатам сбора."
 "Double-click to bind this glyph to your account.
 
-Rewards bonus unbound magic while gathering, in addition to the gathering results.",
+Rewards bonus unbound magic while gathering, in addition to the gathering results.","Дважды щелкните, чтобы привязать этот глиф к своей учетной записи.
+
+При сборе ресурсов вы будете получать дополнительную награду в виде не связанной магии, помимо обычных результатов сбора."
 "Double-click to bind this glyph to your account.
 
-Rewards bonus Volatile Magic while gathering, in addition to the gathering results.",
+Rewards bonus Volatile Magic while gathering, in addition to the gathering results.","Дважды щелкните, чтобы привязать этот глиф к своей учетной записи.
+
+При сборе ресурсов вы будете получать дополнительный бонус в виде нестабильной магии, помимо обычных результатов сбора."
 Double-click to bind this item to your account.,"Дважды щелкните, чтобы привязать этот предмет к вашей учетной записи."
 "Double-click to bind this item to your account.
 Allows you to access basic supplies and sell loot. Reusable.","Дважды щелкните, чтобы привязать этот предмет к вашей учетной записи.
@@ -616,7 +662,7 @@ Double-click to channel the wolf spirit.,"Дважды щелкните, что�
 "Double-click to choose a Black Lion Chest exclusive item. Once chosen, the item will be account bound.
 Last Update: August 2023.","Дважды щелкните, чтобы выбрать эксклюзивный предмет из сундука «Черный лев». После выбора предмет станет привязанным к учетной записи.
 Последнее обновление: август 2023 г."
-Double-click to choose a blue Super Adventure Box weapon skin.,
+Double-click to choose a blue Super Adventure Box weapon skin.,"Дважды щелкните, чтобы выбрать синий внешний вид для оружия из серии «Супер приключение»."
 Double-click to choose a box of ascended armor.,"Дважды щелкните, чтобы выбрать сундук с вознесенной броней."
 Double-click to choose a box of ascended weapons.,"Дважды щелкните, чтобы выбрать сундук с вознесенным оружием."
 Double-click to choose a Caustic Nightmare weapon skin.,"Дважды щелкните, чтобы выбрать облик оружия «Едкий кошмар»."
@@ -663,24 +709,24 @@ Double-click to choose a recipe for crafting a single weight of Titanplate Glove
 Double-click to choose a recipe for crafting a single weight of Titanplate Headpiece.,"Дважды щелкните, чтобы выбрать рецепт для создания одного веса титанового головного убора."
 Double-click to choose a recipe for crafting a single weight of Titanplate Leggings.,"Дважды щелкните, чтобы выбрать рецепт для создания одного веса титановых поножей."
 Double-click to choose a recipe for crafting a single weight of Titanplate Shoulders.,"Дважды щелкните, чтобы выбрать рецепт для создания одного веса титановых наплечников."
-Double-click to choose a recipe for crafting gear with the Commander's stat combination.,
+Double-click to choose a recipe for crafting gear with the Commander's stat combination.,"Дважды щелкните, чтобы выбрать рецепт для создания экипировки со статистическими характеристиками командира."
 Double-click to choose a recipe for crafting gear with the Diviner's stat combination.,"Дважды щелкните, чтобы выбрать рецепт для создания снаряжения с комбинацией характеристик Предсказателя."
 Double-click to choose a recipe for crafting gear with the Dragon's stat combination.,"Дважды щелкните, чтобы выбрать рецепт для создания снаряжения с комбинацией характеристик Дракона."
-Double-click to choose a recipe for crafting gear with the Minstrel's stat combination.,
+Double-click to choose a recipe for crafting gear with the Minstrel's stat combination.,"Дважды щелкните, чтобы выбрать рецепт для создания экипировки со статистическими характеристиками менестреля."
 Double-click to choose a recipe for crafting gear with the Plaguedoctor's stat combination.,"Дважды щелкните, чтобы выбрать рецепт для создания снаряжения с комбинацией характеристик Чумного доктора."
 Double-click to choose a recipe for crafting gear with the Ritualist's stat combination.,"Дважды щелкните, чтобы выбрать рецепт для создания снаряжения с комбинацией характеристик Ритуалиста."
 Double-click to choose a recipe for crafting gear with the Seraph stat combination.,"Дважды щелкните, чтобы выбрать рецепт для создания снаряжения с комбинацией характеристик Серафима."
 Double-click to choose a recipe for crafting gear with the Sinister stat combination.,"Дважды щелкните, чтобы выбрать рецепт для создания снаряжения с комбинацией характеристик Зловещего."
-Double-click to choose a recipe for crafting gear with the Trailblazer's stat combination.,
-Double-click to choose a recipe for crafting gear with the Vigilant stat combination.,
+Double-click to choose a recipe for crafting gear with the Trailblazer's stat combination.,"Дважды щелкните, чтобы выбрать рецепт для создания экипировки со статистическими показателями ""Первопроходца""."
+Double-click to choose a recipe for crafting gear with the Vigilant stat combination.,"Дважды щелкните, чтобы выбрать рецепт для создания экипировки с комбинацией характеристик «Бдительный»."
 Double-click to choose a recipe for crafting gear with the Viper's stat combination.,"Дважды щелкните, чтобы выбрать рецепт для создания снаряжения с комбинацией характеристик Гадюки."
-Double-click to choose a recipe for crafting gear with the Wanderer's stat combination.,
+Double-click to choose a recipe for crafting gear with the Wanderer's stat combination.,"Дважды щелкните, чтобы выбрать рецепт для создания экипировки со статистическими показателями «Странника»."
 Double-click to choose a red celestial infusion.,"Дважды щелкните, чтобы выбрать красную небесную инфузию."
 Double-click to choose a relic container.,"Дважды щелкните, чтобы выбрать контейнер с реликвией."
 Double-click to choose a relic.,"Дважды щелкните, чтобы выбрать реликвию."
-Double-click to choose a reward from the selection.,
+Double-click to choose a reward from the selection.,"Дважды щелкните, чтобы выбрать награду из предложенных вариантов."
 Double-click to choose a set of ascended armor.,"Дважды щелкните, чтобы выбрать набор вознесенной брони."
-Double-click to choose a set of legacy-inspired armor.,
+Double-click to choose a set of legacy-inspired armor.,"Дважды щелкните, чтобы выбрать набор брони в стиле прошлых дополнений."
 Double-click to choose a stat-selectable ascended Special Ops armor piece.,"Дважды щёлкните, чтобы выбрать предмет брони Возвышенного специального подразделения с настраиваемыми характеристиками."
 Double-click to choose a two-week pass to one of the lounges.,"Дважды щелкните, чтобы выбрать двухнедельный пропуск в один из лаунжей."
 Double-click to choose a vigil weapon.,"Дважды щелкните, чтобы выбрать оружие Дозора."

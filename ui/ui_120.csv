@@ -120,7 +120,7 @@ Recipe[s]: Suun's Flanged Mace,[Рецепт|Рецепта|Рецептов]: �
 Recipe[s]: Suun's Footwear,[Рецепт|Рецепта|Рецептов]: Обувь Сууна
 Recipe[s]: Suun's Greatbow,[Рецепт|Рецепта|Рецептов]: Великий лук Сууна
 Recipe[s]: Suun's Greaves,[Рецепт|Рецепта|Рецептов]: Поножи Сууна
-Recipe[s]: Suun's Grips,
+Recipe[s]: Suun's Grips,Рецепт[|а|ов]: перчатки Сууна
 Recipe[s]: Suun's Guise,[Рецепт|Рецепта|Рецептов]: Маскарад Сууна
 Recipe[s]: Suun's Harpoon Gun,[Рецепт|Рецепта|Рецептов]: Гарпунное ружьё Сууна
 Recipe[s]: Suun's Herald,[Рецепт|Рецепта|Рецептов]: Вестник Сууна
@@ -156,11 +156,11 @@ Recipe[s]: Svaard's Claymore,[Рецепт|Рецепта|Рецептов]: К�
 Recipe[s]: Svaard's Doublet,[Рецепт|Рецепта|Рецептов]: Дуэль Сварда
 Recipe[s]: Svaard's Epaulets,[Рецепт|Рецепта|Рецептов]: Эпаулеты Сваарда
 Recipe[s]: Svaard's Flanged Mace,[Рецепт|Рецепта|Рецептов]: Боевой молот Сваарда с фланцами
-Recipe[s]: Svaard's Footwear,
+Recipe[s]: Svaard's Footwear,Рецепт[|а|ов]: обувь Сваарда
 Recipe[s]: Svaard's Greatbow,[Рецепт|Рецепта|Рецептов]: Великий лук Сваарда
 Recipe[s]: Svaard's Greaves,[Рецепт|Рецепта|Рецептов]: Поножники Сварда
 Recipe[s]: Svaard's Grips,Рецепт[ы|ые|ых]: Грипы Сваарда
-Recipe[s]: Svaard's Guise,
+Recipe[s]: Svaard's Guise,Рецепт[|а|ов]: облик Сваарда
 Recipe[s]: Svaard's Harpoon Gun,[Рецепт|Рецепта|Рецептов]: Гарпунная пушка Сварда
 Recipe[s]: Svaard's Herald,Рецепт[ы|ые|ых]: Герб Сваарда
 Recipe[s]: Svaard's Impaler,[Рецепт|Рецепта|Рецептов]: Копье Испеллера Сварда
@@ -168,7 +168,7 @@ Recipe[s]: Svaard's Leggings,[Рецепт|Рецепта|Рецептов]: П�
 Recipe[s]: Svaard's Marauder Inscription,[Рецепт|Рецепта|Рецептов]: Начертание Сваарда «Разрушитель»
 Recipe[s]: Svaard's Marauder Insignia,[Рецепт|Рецепта|Рецептов]: Знак Мародера Сварда
 Recipe[s]: Svaard's Masque,[Рецепт|Рецепта|Рецептов]: Маска Сваарда
-Recipe[s]: Svaard's Musket,
+Recipe[s]: Svaard's Musket,Рецепт[|а|ов]: мушкет Сваарда
 Recipe[s]: Svaard's Pauldrons,[Рецепт|Рецепта|Рецептов]: наплечники Сварда
 Recipe[s]: Svaard's Razor,[Рецепт|Рецепта|Рецептов]: бритва Сварда
 Recipe[s]: Svaard's Reaver,[Рецепт|Рецепта|Рецептов]: рейвер Сварда
@@ -270,8 +270,8 @@ Recipe[s]: Thackeray's Pauldrons,Рецепт[|а|ов]: Наплечники Т
 Recipe[s]: Thackeray's Pillar,Рецепт[|а|ов]: Столб Теккерея
 Recipe[s]: Thackeray's Rifle,Рецепт[|а|ов]: Винтовка Теккерея
 Recipe[s]: Thackeray's Rod,Рецепт[|а|ов]: Жезл Теккерея
-Recipe[s]: Thackeray's Seraph Inscription,
-Recipe[s]: Thackeray's Seraph Insignia,
+Recipe[s]: Thackeray's Seraph Inscription,"Рецепт[|а|ов]: руна ""Серафим Тэкерэя"""
+Recipe[s]: Thackeray's Seraph Insignia,Рецепт[|а|ов]: знамя Серафимов Тэкерэя
 Recipe[s]: Thackeray's Shoulderguard,Рецепт[|а|ов]: Наплечник Теккерея
 Recipe[s]: Thackeray's Skewer,Рецепт[|а|ов]: Вертел Теккерея
 Recipe[s]: Thackeray's Slicer,[Рецепт|Рецепта|Рецептов]: Резак Теккерея
@@ -370,7 +370,7 @@ Recipe[s]: Tixx's Wand,[Рецепт|Рецепта|Рецептов]: Жезл 
 Recipe[s]: Tixx's Warfists,[Рецепт|Рецепта|Рецептов]: Боевые рукавицы Тикса
 Recipe[s]: Tixx's Warhammer,[Рецепт|Рецепта|Рецептов]: Боевой молот Тикса
 Recipe[s]: Tixx's Wristguards,[Рецепт|Рецепта|Рецептов]: Наручи Тикса
-Recipe[s]: Tizlak's Commander's Inscription,
+Recipe[s]: Tizlak's Commander's Inscription,Рецепт[|а|ов]: надпись командования Тизлака
 Recipe[s]: Tizlak's Commander's Insignia,[Рецепт|Рецепта|Рецептов]: Знаки Командира Тислака
 Recipe[s]: Tlehco,[Рецепт|Рецепта|Рецептов]: Тлеко
 Recipe[s]: Togo's Artifact,[Рецепт|Рецепта|Рецептов]: Артефакт Того
@@ -438,10 +438,10 @@ Recipe[s]: Toxic Maintenance Oil,[Рецепт|Рецепта|Рецептов]:
 Recipe[s]: Toxic Sharpening Stone,[Рецепт|Рецепта|Рецептов]: Токсичный точильный камень
 Recipe[s]: Toxic Tuning Crystal,[Рецепт|Рецепта|Рецептов]: Токсичный настраивающий кристалл
 Recipe[s]: Toxic Tuning Crystal Station,[Рецепт|Рецепта|Рецептов]: Станция токсичных настраивающих кристаллов
-Recipe[s]: Trackless Boots (Level 55),
+Recipe[s]: Trackless Boots (Level 55),Рецепт[|а|ов]: бесследные сапоги (уровень 55)
 Recipe[s]: Trail Mix,[Рецепт|Рецепта|Рецептов]: Смесь для перекуса
 Recipe[s]: Trailblazer's Intricate Gossamer Insignia,[Рецепт|Рецепта|Рецептов]: Изысканный значок «Первопроходец» из тонкой паутины
-Recipe[s]: Trailblazer's Orichalcum Imbued Inscription,
+Recipe[s]: Trailblazer's Orichalcum Imbued Inscription,Рецепт[|а|ов]: орхалковая инскрипция для исследователя
 Recipe[s]: Treasure Hunter Protocol,[Рецепт|Рецепта|Рецептов]: Протокол Охотника за сокровищами
 Recipe[s]: Trickster's Cream Pie,[Рецепт|Рецепта|Рецептов]: Крем-Пирог Обманщика
 Recipe[s]: Trident,[Рецепт|Рецепта|Рецептов]: Трезубец
@@ -451,7 +451,7 @@ Recipe[s]: Trust,[Рецепт|Рецепта|Рецептов]: Сапоги О
 Recipe[s]: Tuning Crystal Station,[Рецепт|Рецепта|Рецептов]: Станция настройки кристаллов
 Recipe[s]: Tuning Icicle,[Рецепт|Рецепта|Рецептов]: Настройка ледяного шипа
 Recipe[s]: Turrón Slice,[Рецепт|Рецепта|Рецептов]: Кусок Туррона
-Recipe[s]: Turtle Pilot Booster,
+Recipe[s]: Turtle Pilot Booster,Рецепт[|а|ов]: ускоритель для пилота черепахи
 Recipe[s]: Turtle Siege Enhancer,Рецепт[|а|ов]: Усилитель осады черепахи
 Recipe[s]: Twin Largos' Token,Рецепт[|а|ов]: Жетон близнецов Ларгос
 Recipe[s]: Twisted Watchwork Portal Device,Рецепт[|а|ов]: Искривленное часовое портальное устройство
@@ -462,12 +462,12 @@ Recipe[s]: Unicorn Statue,Рецепт[|а|ов]: Статуя единорог�
 Recipe[s]: Upper Bound,Рецепт[|а|ов]: Верхняя граница
 Recipe[s]: Ura's Token,Рецепт[|а|ов]: Жетон Уры
 Recipe[s]: Vale Guardian Pieces,Рецепт[|а|ов]: Части стража долины
-Recipe[s]: Valkyrie Darksteel Imbued Inscription,
+Recipe[s]: Valkyrie Darksteel Imbued Inscription,Рецепт[|а|ов]: валькирийская темная стальная инкрустация
 Recipe[s]: Valkyrie Intricate Gossamer Insignia,[Рецепт|Рецепта|Рецептов]: Изысканный паутинный знак валькирии
-Recipe[s]: Valkyrie Intricate Linen Insignia,
+Recipe[s]: Valkyrie Intricate Linen Insignia,Рецепт[|а|ов]: изысканный льняной знак валькирии
 Recipe[s]: Valkyrie Intricate Silk Insignia,[Рецепт|Рецепта|Рецептов]: Изысканный шелковый знак валькирии
-Recipe[s]: Valkyrie Mithril Imbued Inscription,
-Recipe[s]: Valkyrie Orichalcum Imbued Inscription,
+Recipe[s]: Valkyrie Mithril Imbued Inscription,Рецепт[|а|ов]: валькирийская мифриловая инкрустация
+Recipe[s]: Valkyrie Orichalcum Imbued Inscription,Рецепт[|а|ов]: валькирийская орахалковая инкрустация
 Recipe[s]: Veldrunner Apothecary Insignia,Рецепт[|а|ов]: Знак аптекаря вельдраннера
 Recipe[s]: Veldrunner Breastplate,Рецепт[|а|ов]: Нагрудник вельдраннера
 Recipe[s]: Veldrunner Breeches,Рецепт[|а|ов]: Штаны вельдраннера

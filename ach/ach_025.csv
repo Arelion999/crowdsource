@@ -270,7 +270,9 @@ Revive  ally.,Воскресите союзника.
 Revive  players.,Воскресите игроков.
 "Revive %num2% ally[pl:""allies""].
 
-<c=@reminder>Downed or defeated players and allies can be revived by approaching and interacting with them to restore their health. Multiple people can revive the same ally at once to restore health faster.</c>",
+<c=@reminder>Downed or defeated players and allies can be revived by approaching and interacting with them to restore their health. Multiple people can revive the same ally at once to restore health faster.</c>","Возродить %num2% союзника[|а|ов].
+
+<c=@reminder>Падших или поверженных игроков и союзников можно возродить, подойдя к ним и взаимодействуя с ними для восстановления здоровья. Несколько человек могут одновременно возрождать одного союзника, чтобы быстрее восстановить его здоровье.</c>"
 Revive a downed or defeated NPC or player.,Воскресите сбитого с ног или поверженного NPC или игрока.
 Revive guards in the Upper City.,Воскресите стражников в Верхнем городе.
 Reviving Allies,Воскрешение союзников

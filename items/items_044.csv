@@ -131,7 +131,8 @@ Enduring Infinite Light Skin,Стойкий облик «Бесконечный 
 Enduring Protector is looking for meat to feed his refugees.,"Стойкий Защитник ищет мясо, чтобы накормить своих беженцев."
 "Enemies hit by your trap skills become hunted by you, increasing your strike damage and condition duration against them.","Враги, поражённые вашими навыками-ловушками, становятся вашей добычей, увеличивая ваш урон от ударов и длительность накладываемых состояний против них."
 "Enemies you interrupt are inflicted with Agony of the Choir.
-<c=@reminder>This trait can only affect enemies with defiance bars once per interval.</c>",
+<c=@reminder>This trait can only affect enemies with defiance bars once per interval.</c>","Враги, прерванные вами, получают эффект «Агония хора».
+<c=@reminder>Эта черта может воздействовать на врагов с полосками сопротивления не чаще одного раза за интервал.</c>"
 Enemy of the Inquest,Враг Инквизиции
 Enemy of the Svanir,Враг Сваниров
 Energetic Chak Goop,Энергичная чакская слизь

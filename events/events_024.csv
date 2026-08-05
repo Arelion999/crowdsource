@@ -178,17 +178,17 @@ Time until White Mantle retreat: 6:00,Время до отступления Б�
 Time until Zuri returns: 5:00,Время до возвращения Zuri: 5:00
 Time until area is beyond saving: 7:59,"Время до того, как область будет потеряна: 7:59"
 Time until artifacts vanish: 10:00,Время до исчезновения артефактов: 10:00
-Time until attack begins: X:XX,
+Time until attack begins: X:XX,Время до начала атаки: X:XX
 Time until base assault: 5:00,Время до штурма базы: 5:00
 Time until blitz round ends: 5:00,Время до конца блиц-раунда: 5:00
 Time until camp is overwhelmed by wildlife: 8:00,"Время до того, как лагерь будет захвачен дикими зверями: 8:00"
 Time until closing: 3:00,Время до закрытия: 3:00
 Time until competition: x:xx,Время до начала соревнования: x:xx
-Time until contamination corrupts C.L.E.A.N. 5000: %str1%,
+Time until contamination corrupts C.L.E.A.N. 5000: %str1%,До момента заражения установки C.L.E.A.N. 5000 осталось: %str1%.
 Time until contamination corrupts C.L.E.A.N. 5000: 15:00,"Время до того, как загрязнение испортит C.L.E.A.N. 5000: 15:00"
 Time until creatures scatter: 15:00,"Время до того, как существа разбегутся: 15:00"
 Time until detonation: 5:00,Время до детонации: 5:00
-Time until escape with casino coins: x:xx,
+Time until escape with casino coins: x:xx,Время до побега с казино-монетами: х:хх
 Time until execution: 10:00,Время до казни: 10:00
 Time until execution: 20:00 / 30:00,Время до выполнения: 20:00 / 30:00
 Time until extraction: 10:00,Время до эвакуации: 10:00
@@ -286,9 +286,9 @@ Tosun,Tosun
 Total Grade Points Earned,Всего заработано баллов
 Total Meat Gathered,Всего собрано мяса
 Total devices cleared: x,Всего очищено устройств: x
-Total fish caught: x,
+Total fish caught: x,Всего поймано рыб: x
 Total racers finished: 0,Всего финишировало гонщиков: 0
-Total racers finished: x,
+Total racers finished: x,"Всего участников, финишировавших: x"
 Totem foci destroyed,Тотемные фокусы уничтожены
 "Touch me, you die! Call me ""ma'am"" again, you die! Again!",Тронешь меня — умрешь! Назовешь меня «мэм» еще раз — умрешь! Снова!
 "Touch one? You're kidding, right? I get that close, I'm raking and slashing with my claws. No touching.","Коснуться? Ты шутишь, да? Если я подхожу так близко, я рву и кромсаю когтями. Никаких касаний."
@@ -326,7 +326,7 @@ Toypocalypse Level,Уровень Игрушечного апокалипсис�
 Track down and kill the effigies in Amduat Point with Grathzion,Выследите и убейте чучела в Amduat Point вместе с Grathzion
 "Track down the missing tengu, Tateo.","Разыщите пропавшего тенгу, Татэо."
 Tracked down where they're comin' from. But it ain't for the faint of heart. Too much for us to handle. You up for it?,"Выследил, откуда они приходят. Но это не для слабонервных. Нам самим не справиться. Готовы рискнуть?"
-Trained Skelk Remaining: x,
+Trained Skelk Remaining: x,Обученных скелков осталось: x
 Training time remaining: 10:00,Осталось времени на тренировку: 10:00
 Trample scarabs with your mount to contain the outbreak,"Растопчите скарабеев своим маунтом, чтобы сдержать вспышку"
 Transcription Progress,Прогресс расшифровки
@@ -347,7 +347,7 @@ Traverse the Twisted Castle,Пройдите через Twisted Castle
 Treasure Hunter Gilbert,Охотник за сокровищами Gilbert
 Treasure Stolen,Сокровищ украдено
 Treasure discovered,Сокровища найдены
-Treasure finders: x,
+Treasure finders: x,Искатели сокровищ: x
 Treasure remaining,Осталось сокровищ
 Treasured... Treasure is what you desire? Hrm...,Ценных... Сокровища — вот чего ты жаждешь? Хм...
 Trebuchet,Требушет
@@ -374,7 +374,7 @@ Troops alive,Живых солдат
 Troops are defending Aurene's prismatic crystals while she goes to help additional forces arrive before nightfall.,"Войска защищают призматические кристаллы Aurene, пока она отправляется помочь прибывающим подкреплениям до наступления темноты."
 Trouble,Trouble
 Troublemaker Leader,Главарь смутьянов
-Troublemakers remaining,
+Troublemakers remaining,Осталось нарушителей
 Trounce the veteran corrupted wolf and its pack,Разгромите veteran corrupted wolf и его стаю
 Trunt,Trunt
 Trust Gained,Доверие завоевано

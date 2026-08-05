@@ -1,12 +1,12 @@
 english,translate
-<Warband survivor> salutes <Character name>.,
+<Warband survivor> salutes <Character name>.,<Character name> приветствует <Warband survivor>.
 <nowiki />'Bye.,
 <nowiki/>'Tis a thing of beauty. A magical raptor egg!,<nowiki/>Это нечто прекрасное. Магическое яйцо ящера!
-==[ FIELD TECH TURRET ACCESS DETECTED ]==,
-==[ FIELD TECH TURRET SYSTEMS INITIALIZING ]==,
-==[ INITIALIZING TURRET DIAGNOSTIC & REPAIR MODULE ]==,
-==[ INITIALIZING TURRET SYSTEMS-UPGRADE MODULE ]==,
-==[INITIALIZING TURRET RECONFIGURATION MODULE ]==,
+==[ FIELD TECH TURRET ACCESS DETECTED ]==,==ОБНАРУЖЕН ДОСТУП К ТЕХНИЧЕСКОМУ ТУРЕЛЮ==
+==[ FIELD TECH TURRET SYSTEMS INITIALIZING ]==,==[СИСТЕМЫ ПОЛЕВЫХ ТЕХНИЧЕСКИХ УСТАНОВОК АКТИВИРУЮТСЯ]==
+==[ INITIALIZING TURRET DIAGNOSTIC & REPAIR MODULE ]==,==[ ИНИЦИАЛИЗАЦИЯ МОДУЛЯ ДИАГНОСТИКИ И РЕМОНТА ТУРЕЛИ ]==
+==[ INITIALIZING TURRET SYSTEMS-UPGRADE MODULE ]==,==[ ИНИЦИАЛИЗАЦИЯ СИСТЕМ ТУРЕЛЕЙ - МОДУЛЬ УЛУЧШЕНИЯ ]==
+==[INITIALIZING TURRET RECONFIGURATION MODULE ]==,==[ИНИЦИАЛИЗАЦИЯ МОДУЛЯ ПЕРЕКОНФИГУРАЦИИ ТУРЕЛИ]==
 > Barrier Wall Status,> Статус барьерной стены
 > Central Asura Gate Destination,> Пункт назначения центральных врат Асура
 > Error Details,> Детали ошибки
@@ -33,17 +33,17 @@ A B E D F C,A B E D F C
 A Big-Hatted Man appears with soldiers and looks thoughtful as he takes a closer look at the Commander from the Commander's point of view before the scene fades to black.,"Человек в большой шляпе появляется с солдатами и задумчиво смотрит на Коммандира с его точки зрения, прежде чем сцена гаснет."
 A Brandstorm! It's right on top of us!,Брандшторм! Прямо над нами!
 A Brandstorm? Again? I don't see any sign of Kralkatorrik.,Брандшторм? Опять? Я не вижу никаких следов Kralkatorrik.
-A Deep Bruise has been inflicted on the various peoples that have called Janthir home.,
+A Deep Bruise has been inflicted on the various peoples that have called Janthir home.,"Глубокая рана нанесена всем народам, которые когда-либо жили в Янтире."
 A Forever Tree? I know about Forever Trees. This forest is better off without them.,Forever Tree? Я знаю о Forever Trees. Этому лесу будет лучше без них.
 "A High Kryptis intervenes. Anchor your thoughts. Focus on its destruction. Determination, not hatred.","Высший Криптис вмешивается. Закрепите свои мысли. Сосредоточьтесь на его уничтожении. Решимость, а не ненависть."
 A High Kryptis. You told me so? You gloat? A gloating Louse in my head?,Высший Криптис. Ты сам мне сказал? Ты злорадствуешь? Злорадствующая Вша у меня в голове?
-A Inquest Golem Mark II has been known to haunt this swamp. Maybe that creature is at fault.,
+A Inquest Golem Mark II has been known to haunt this swamp. Maybe that creature is at fault.,"Говорят, по этому болоту бродит Голем-исследователь второго поколения из «Инквизиции». Возможно, именно он виноват."
 A Jade Mech passes by the group.,Jade Mech проезжает мимо группы.
 "A Klakka salute to you! You're a pirate in the rough, and that's the best kind to be.","Салют от Klakka! Ты пират в душе, а это лучшее, что может быть."
 A Lionguard field hospital.,Полевой госпиталь Львиной стражи.
 "A Lionguard fortress, created as a first line of defense against an Orrian invasion. They need to know what's coming.","Крепость Lionguard, созданная как первая линия обороны против вторжения Orrian. Им нужно знать, что приближается."
 A Mordant Crescent is heading to the east grave!,Mordant Crescent направляется к восточной могиле!
-A Nightmare Courtier! Quite an employment history.,
+A Nightmare Courtier! Quite an employment history.,Служитель Ночного двора! У вас весьма интересная биография.
 "A Pact camp, all the way out here?","Лагерь Pact, здесь, так далеко?"
 "A Practical Guide to Hylek Tribes says this one is friendly, but insular.","В «Практическом руководстве по племенам Hylek» сказано, что это дружелюбное, но замкнутое племя."
 A Priory mentor has been assigned to you and will be standing by. They'll help you settle in and adjust to your new duties.,"За тобой закреплён наставник из Priory, он будет на связи. Он поможет тебе освоиться и приспособиться к новым обязанностям."
@@ -56,12 +56,12 @@ A Sunspear in public? Their alliance with Amnoon must be going well.,"Sunspear �
 A Vigil member has been assigned to you and will be standing by. They'll help you settle in and adjust to your new duties.,"К тебе приставлен член Vigil, он будет наготове. Он поможет тебе освоиться и привыкнуть к новым обязанностям."
 "A Vigil squad punches through the undead sieging the haven. Once we've liberated the haven, a combined assault will be plenty to mop up the enemy.","Отряд Vigil прорывается сквозь нежить, осаждающую убежище. Как только мы освободим его, объединённой атаки хватит, чтобы добить врага."
 A White Mantle badge. Looks like Tatyanna's.,"Значок Белой Мантии. Похоже, принадлежит Tatyanna."
-"A barrel from one of the recent shipwrecks, likely connected to the creature that attacked Lion's Arch.",
+"A barrel from one of the recent shipwrecks, likely connected to the creature that attacked Lion's Arch.","Бочка с одного из недавних кораблекрушений, вероятно, связана с существом, напавшим на Королевскую гавань."
 A barrel o' grog to the one who takes out those guns.,"Бочонок грога тому, кто уничтожит эти пушки."
 A barrier. I think...it's being powered by these machines. And that blue liquid.,Барьер. Думаю... он питается от этих машин. И от этой синей жидкости.
 "A bashing mission. My favorite. I got this. Stand back and watch me, boss!","Миссия по избиению. Мое любимое. Я справлюсь. Отойди и смотри на меня, босс!"
 "A bath? hardly. He's bigger, stronger, meaner. I gave him a double dose of fierce. Show her, Max.","Искупал? Едва ли. Он стал больше, сильнее, злее. Я дал ему двойную дозу свирепости. Покажи ей, Max."
-A beast.,
+A beast.,Зверь.
 A beast. Beware the beast.,Зверь. Остерегайся зверя.
 A beast?,Зверь?
 "A beautiful day for mortar shelling. First, fire the cannon, then kick in the door. Simple.","Прекрасный день для артиллерийского обстрела. Сначала выстрели из пушки, потом вышиби дверь. Просто."
@@ -73,7 +73,7 @@ A better world is waiting to be born.,Лучший мир ждет своего 
 "A big, quiet old library is exactly the kind of environment I need right now. It'll take my mind off things. We have to get Mordremoth, my friend.","Большая, тихая старая библиотека — это именно то, что мне сейчас нужно. Это отвлечет меня от дурных мыслей. Мы должны одолеть Mordremoth, мой друг."
 "A big, scary statue that is currently slaughtering our forces, yes.","Большую страшную статую, которая сейчас истребляет наши силы, да."
 A bit eccentric. But she stood up to Mordremoth the only way she knew how. At least...that's how she started.,Немного эксцентрична. Но она противостояла Mordremoth единственным известным ей способом. По крайней мере... так она начала.
-"A bit of both, but the main reason seems to be, he need a steady supply of spirits he can turn into Forged.",
+"A bit of both, but the main reason seems to be, he need a steady supply of spirits he can turn into Forged.","В этом есть доля правды, но главная причина, кажется, в том, что ему нужен постоянный источник душ, из которых он может создавать Закованных."
 "A bit pissy that you offed her mate, based on how many she sent. Managed to take down most of 'em before you got back.","Немного злится, что ты прикончил её дружка, судя по тому, сколько их она прислала. Удалось перебить большинство, пока ты не вернулся."
 A bit. Turns out ghostfire works a little too well in these conditions. Thanks for the sharp eye and the quick save.,"Немного. Оказалось, что призрачный огонь работает слишком хорошо в таких условиях. Спасибо за зоркий глаз и быструю помощь."
 A bitter chill. The whispers on the wind. Prepare yourself. Ox grows restless.,Горький холод. Шепот на ветру. Приготовьтесь. Ox становится беспокойным.
@@ -81,7 +81,7 @@ A bitter chill. The whispers on the wind. Prepare yourself. Ox grows restless.,�
 A black sun.,Черное солнце.
 "A blade in the night, a secret in the dark—we are all this and more. Come with me, Slayer. Join the Order of Whispers.","Клинок в ночи, тайна во тьме — мы все это и многое другое. Идем со мной, Slayer. Вступай в Order of Whispers."
 A blade? For what?,Клинок? Зачем?
-A blood-speckled ornate dagger.,
+A blood-speckled ornate dagger.,"Искусно украшенный кинжал, забрызганный кровью."
 A bloodstone? Then how are we still alive?,Кровавый камень? Тогда как мы все еще живы?
 A blue cog.,Синяя шестеренка.
 "A blueprint of your VAL-A golem, modified by Councillor Haia, is on the table. Activate the holoprojector for a closer look.","Чертеж твоего голема VAL-A, модифицированный Councillor Haia, лежит на столе. Активируй голопроектор для более детального осмотра."
@@ -106,7 +106,7 @@ A breach just opened up. Get in there!,Только что открылся пр
 A breach of promise! A blatant disregard of trust!,Нарушение обещания! Вопиющее пренебрежение доверием!
 "A breach. Get in there, now!","Прорыв. Входите туда, сейчас же!"
 "A break already? What, do the kitties need their naps?","Уже перерыв? Что, котятам нужно поспать?"
-"A break? That's not very patriotic. I'm afraid I must ask you to stop interfering with our progress, friend.",
+"A break? That's not very patriotic. I'm afraid I must ask you to stop interfering with our progress, friend.","Перерыв? Это совсем не по-патриотичному. Боюсь, я должен попросить вас прекратить мешать нашему прогрессу, друг."
 "A breath of fresh air, when you ignore the circumstances that brought us here. I'm eager to explore; it already reminds me so much of home. So much so that I'm feeling kind of homesick.","Глоток свежего воздуха, если не обращать внимания на обстоятельства, которые нас сюда привели. Мне не терпится всё осмотреть; здесь всё так напоминает дом. Настолько, что я даже заскучал по дому."
 "A bribe? Why, I'd never—My word, that is a lot of coin. Right! Victory to ale!","Взятка? Ну, я бы никогда... Боже мой, это куча монет. Ладно! Победа за элем!"
 A brief flicker caught my eye's corner. But it vanished before I got a closer look.,"Короткая вспышка мелькнула у меня в поле зрения. Но она исчезла, прежде чем я успел присмотреться."
@@ -118,9 +118,9 @@ A building makes more sense. The dredge stole a book about ancient architecture 
 A bunch of cubs could have done that better.,Кучка детенышей справилась бы лучше.
 "A bunch of ettins blew themselves sky high with explosives they stole from us. You're looking at the aftermath, and I'm clearing it. Hey, I need a hand. Help my buddies watch my back.","Кучка эттинов подорвала себя взрывчаткой, которую украли у нас. Ты видишь последствия, а я их разгребаю. Эй, мне нужна помощь. Прикрой моих приятелей."
 A bunch of my skimmer friends went missin' recently...I looked far and wide 'til I found 'em here. Could you help me rescue 'em. Please? They're like family to me.,"Недавно пропала куча моих друзей-скатов... Я искал их повсюду, пока не нашел здесь. Не поможешь мне их спасти? Пожалуйста? Они мне как семья."
-A bunch of tasty dishes are listed.,
+A bunch of tasty dishes are listed.,Здесь представлен список разнообразных вкусных блюд.
 "A busy figure, you must be. Don't worry. Poky tells me of the positive impression you've made in town.","Должно быть, ты очень занятая персона. Не волнуйся. Poky рассказал мне, какое положительное впечатление ты произвел в городе."
-"A cache of supplies is nestled in a hiding place. Upon closer inspection, it appears to contain miscellaneous components used by the Brotherhood to craft explosives.",
+"A cache of supplies is nestled in a hiding place. Upon closer inspection, it appears to contain miscellaneous components used by the Brotherhood to craft explosives.","В укромном месте спрятан тайник со снаряжением. При ближайшем рассмотрении становится ясно, что в нем хранятся различные компоненты, используемые Братством для изготовления взрывчатки."
 A calculated choice. Lion's Arch is neutral territory.,Расчетливый выбор. Lion's Arch — нейтральная территория.
 A camp! I can make it from here. Thank you for all your help.,Лагерь! Дальше я сам. Спасибо за помощь.
 A capable effort. Let's waste no more time here.,Достойная работа. Не будем терять здесь больше времени.
@@ -155,7 +155,7 @@ A choir of broken souls swelling in despair. Such a lovely sound.,"Хор раз
 A choya.,Чойя.
 A choya? Here? Are you sure?,Чойя? Здесь? Ты уверен?
 A circus. On the Fire Islands. This definitely merits investigation.,Цирк. На Огненных островах. Это определенно стоит расследования.
-"A city founded by pirates is bound to have smugglers, but it's gotten so out of hand, a charr could have his tail stolen right out from under him.",
+"A city founded by pirates is bound to have smugglers, but it's gotten so out of hand, a charr could have his tail stolen right out from under him.","В городе, основанном пиратами, контрабандисты всегда найдутся, но сейчас их стало так много, что у чарра могут украсть хвост прямо из-под носа."
 "A city named Kesho? Can't say that I have. Sounds more like an asura name, if you ask me.","Город по имени Kesho? Не могу сказать, что слышал. Если спросите меня, звучит скорее как асурское имя."
 "A city of good fortune, and of heroes. We will find our future there, and I...will confront my past with Destiny's Edge. Then we will see if Tyra can truly be saved.","Город удачи и героев. Мы найдём там своё будущее, и я... встречусь со своим прошлым в Destiny's Edge. Тогда мы увидим, можно ли действительно спасти Tyra."
 "A city of good fortune, and of heroes. We will find our future there, and I...will confront my past with Destiny's Edge. Then we will see if Tyria can truly be saved.","Город удачи и героев. Мы найдем там свое будущее, а я... встречусь со своим прошлым в Destiny's Edge. Тогда мы увидим, можно ли действительно спасти Tyria."
@@ -166,15 +166,15 @@ A climbing fatality rate for the refugees...and perhaps Scarlet's ultimate weapo
 A closer inspection reveals signs of prior experimentation. It would appear Scarlet was trying to hybridize a more resilient casing.,"Более тщательный осмотр выявляет следы предыдущих экспериментов. Похоже, Scarlet пыталась вывести более устойчивую оболочку."
 A clown has two key functions: to make people laugh and to star in their nightmares. We'll start with the laughs. Prove you've got what it takes. Tell me your best joke.,"У клоуна две основные функции: смешить людей и становиться их ночным кошмаром. Начнем со смеха. Докажи, что у тебя есть то, что нужно. Расскажи мне свою лучшую шутку."
 A clump of matted grawl hair is lodged in the blade. Someone used this sword for defense.,В лезвии застрял клок свалявшейся шерсти grawl. Кто-то использовал этот меч для защиты.
-"A clutch of spider eggs, packed with protein.",
+"A clutch of spider eggs, packed with protein.","Кладка паучьих яиц, богатая белком."
 A commendation and a roll-out. Blood Legion's already got ideas how to put your upgrade to use.,"Благодарность и внедрение. У Кровавого легиона уже есть идеи, как использовать ваше улучшение."
-A confessional tool for cowards. Hmph.,
+A confessional tool for cowards. Hmph.,Инструмент для исповеди трусов. Хмф.
 "A console in a locked vault, huh? Probably some juicy stuff in there. A prompt suggests a four-character password is needed.","Консоль в запертом хранилище, да? Наверняка там есть что-то интересное. Подсказка указывает на необходимость ввода четырехсимвольного пароля."
-A construct lies crumpled on the ground. It was once living armor.,
+A construct lies crumpled on the ground. It was once living armor.,На земле лежит разрушенный механизм. Когда-то это была живая броня.
 A convincing illusion. You want me to pity you. But everyone knows djinn can't be Branded.,"Убедительная иллюзия. Ты хочешь, чтобы я тебя пожалел. Но все знают, что djinn не могут быть Branded."
 "A corrupted avatar of Balthazar, the god of war. Zhaitan's power was immense to have corrupted an aspect of the gods.","Коррумпированный аватар Balthazar, бога войны. Сила Zhaitan была огромна, раз он смог осквернить аспект богов."
-"A corrupted avatar of Lyssa, the twin godgoddess of beauty and illusion. No wonder my gods fled this world.",
-"A corrupted avatar of Melandru, the godgoddess of nature. How powerful are these Elder Dragons?",
+"A corrupted avatar of Lyssa, the twin godgoddess of beauty and illusion. No wonder my gods fled this world.","Искажённое воплощение Лиссы, богини-близнеца, покровительницы красоты и иллюзий. Неудивительно, что мои боги бежали из этого мира."
+"A corrupted avatar of Melandru, the godgoddess of nature. How powerful are these Elder Dragons?","Искажённое воплощение Меландру, богини природы. Насколько же могущественны эти Старшие драконы?"
 "A corrupted avatar of the death-god, Grenth. Someone must find our gods and tell them of this atrocity!","Коррумпированный аватар бога смерти, Grenth. Кто-то должен найти наших богов и рассказать им об этом злодеянии!"
 "A corsair ship crash-landed to the south, beyond the barriers. Survivors are largely human, and the enemy's pressing in.","Корабль корсаров разбился на юге, за барьерами. Выжившие в основном люди, и враг наступает."
 "A couple hundred years ago, Sohothin was wielded by Rurik, son of King Adelbern. He was killed by a Stone Summit dwarf. It came into my care several years ago.","Пару сотен лет назад Sohothin владел Rurik, сын King Adelbern. Он был убит дворфом из Stone Summit. Ко мне в руки меч попал несколько лет назад."
@@ -183,15 +183,15 @@ A crate half filled with foodstuffs and medical supplies. The Vigil and their al
 A crate spawns in front of the gate between the Iron Legion soldiers.,Перед воротами между солдатами Железного Легиона появляется ящик.
 A creature of questionable intentions approaches!,Приближается существо с сомнительными намерениями!
 "A criminal? A coward? Well, so far, he's proving both.","Преступник? Трус? Ну, пока что он доказывает и то, и другое."
-"A crumpled piece of paper lies on the ground. On closer inspection, it is a lost page of notes penned by the Jade Brotherhood, tracking tengu scout patrol routes.",
+"A crumpled piece of paper lies on the ground. On closer inspection, it is a lost page of notes penned by the Jade Brotherhood, tracking tengu scout patrol routes.","На земле лежит скомканный листок бумаги. При ближайшем рассмотрении оказывается, что это утерянная страница записей, сделанных членами Изумрудного Братства, в которой отслеживаются маршрулы патрулей тенгу."
 A cunning idea. Does the weapon work?,Хитрая идея. Оружие работает?
 "A curious mind! Galeshots are infamous archers of the Great Houses. We weave our bows from squalls. As an act of diplomacy, I've traveled to share this craft. Maybe one day you can visit our great canopy to practice.","Любознательный ум! Ветряные стрелки — известные лучники Великих Домов. Мы плетем наши луки из шквалов. В качестве дипломатического жеста я приехал, чтобы поделиться этим ремеслом. Может, однажды ты посетишь наш великий полог, чтобы попрактиковаться."
 A cursory visual examination tells me it's part of something larger. Something that was accidentally broken or intentionally modular.,"Беглый визуальный осмотр говорит мне, что это часть чего-то большего. Того, что было случайно сломано или намеренно сделано модульным."
-"A customer, hello...! Oh, did Hui send you? Gods, he stopped by the shop every day for a month last time...",
+"A customer, hello...! Oh, did Hui send you? Gods, he stopped by the shop every day for a month last time...","Клиент, здравствуйте! Ох, это Хуй вас прислал? Боги, в прошлый раз он заходил в лавку каждый день целую неделю..."
 "A cutscene pans out of the bar, displaying ""To be continued…"", ending the instance and making the rewards appear.","Катсцена отдаляется от бара, показывая «Продолжение следует…», завершая инстанс и отображая награды."
 A darkness coalesces inside the mirror and rushes toward you!,Тьма сгущается внутри зеркала и бросается на тебя!
 A darkness that threatened to consume us all.,"Тьму, которая грозила поглотить нас всех."
-A dash of burnt wood will give this stew a smoky flavor. So get it for me!,
+A dash of burnt wood will give this stew a smoky flavor. So get it for me!,Щепотка обугленной древесины придаст этому рагу дымный аромат. Так что достань ее для меня!
 A dead body.,Труп.
 "A dead end. I could open the way, if you truly want to talk.","Тупик. Я могу открыть путь, если вы действительно хотите поговорить."
 "A dead end? That can't be right. We need to lighten up this room, see where we are.","Тупик? Этого не может быть. Нам нужно осветить эту комнату, чтобы понять, где мы."
@@ -203,7 +203,7 @@ A deception? But why would he... I see it now. An empty promise. The illusion of
 "A definite understatement. I've reviewed reams of recovered Inquest records, and according to them no one has ever been un-fused from a golem.","Мягко сказано. Я просмотрел горы восстановленных записей Inquest, и, судя по ним, еще никто не был успешно отделен от голема."
 "A demonstration that we need to work together to defeat Zhaitan. Commander, it's your mission. Lead on.","Это доказательство того, что нам нужно работать вместе, чтобы победить Zhaitan. Коммандир, это ваша миссия. Ведите."
 A demonstration. They need a demonstration of the potential power... Then they will see. I'll make them see it.,Демонстрация. Им нужна демонстрация потенциальной мощи... Тогда они увидят. Я заставлю их увидеть.
-"A desperate and angry Flame Legion. Ever since Baelfire was killed, it's been like they've got nothing to lose. Which makes them more dangerous than ever.",
+"A desperate and angry Flame Legion. Ever since Baelfire was killed, it's been like they've got nothing to lose. Which makes them more dangerous than ever.","Отчаявшиеся и разъяренные члены Пламенного легиона. С тех пор как Баэльфайр был убит, кажется, будто им нечего терять. А это делает их опаснее, чем когда-либо."
 "A devourer could POP your head right off your neck before you could even scream, so no goofin' around.","Devourer может СНЕСТИ вам голову с плеч раньше, чем вы успеете крикнуть, так что без дурачеств."
 A devouring force threatens all of Tyria. I will stand against that danger.,Пожирающая сила угрожает всей Тирии. Я выступлю против этой опасности.
 A difference of opinions.,Разногласия.
@@ -213,12 +213,12 @@ A difficult choice: your friend or the people of Divinity's Reach. Friendship or
 A direct assault on Jormag puts a lot of lives on the line. I think the Pact can tell you that may not be the best idea.,"Прямая атака на Jormag ставит на кон множество жизней. Думаю, Pact может подтвердить, что это не лучшая идея."
 A direct attack worked before. Let's put that strategy to work again.,Прямая атака уже срабатывала раньше. Давайте снова пустим эту стратегию в ход.
 "A direct attack. Take some Seraph with us to Gnashar's Hills, attack one of the White Mantle's strongholds near there, and raze the place to the ground. Simple, violent, and effective.","Прямая атака. Возьмем с собой немного Серафимов в Холмы Гнэшара, нападем на одну из твердынь Белой Мантии поблизости и сравняем это место с землей. Просто, жестоко и эффективно."
-A discarded asuran datapad. It's unresponsive.,
+A discarded asuran datapad. It's unresponsive.,Брошенный асурийский датапад. Он не реагирует.
 A discussion? That's what you call that tirade of yours earlier? Think they heard you in the Shiverpeaks!,"Дискуссию? Это ты называешь той тирадой, что была раньше? Думаю, тебя было слышно даже в Shiverpeaks!"
 A disguise to fool those Flame Legion jerks? Why all the sneaking? Why not just skip to the murder?,"Маскировка, чтобы одурачить этих придурков из Flame Legion? К чему эти прятки? Почему бы сразу не перейти к убийствам?"
 "A disguise...and tricked them. Oh, no... I'll have to send Taimi's sample by courier. I need to find Braham.",Маскировка... и обманул их. О нет... Мне придется отправить образец Taimi курьером. Мне нужно найти Braham.
 "A disgusting, worthless little vermin! Yet you deem Mabon the coward?","Отвратительная, никчемная мелкая тварь! И ты еще смеешь называть Mabon трусом?"
-"A display shows a set of pulsing lines all converging on the spot directly below the drill. According to the way it's set up, it's the probe sending the image.",
+"A display shows a set of pulsing lines all converging on the spot directly below the drill. According to the way it's set up, it's the probe sending the image.","На дисплее отображается набор пульсирующих линий, которые сходятся в одной точке прямо под буровой установкой. Судя по всему, именно зонд передаёт изображение."
 "A distant shore—and darkness. A root, a cave...you. You are the seed. What Ronan knew and never told still lingers in the Dream.","Далекий берег — и тьма. Корень, пещера... ты. Ты — семя. То, что знал Ronan и никогда не рассказывал, все еще таится в Сне."
 A disturbance in the air...,Возмущение в воздухе...
 "A diversion would help clear the way. See those supply crates all along the route? A few well-placed explosive charges, and boom. Diversion.",Отвлекающий манёвр помог бы расчистить путь. Видишь те ящики с припасами вдоль маршрута? Несколько удачно заложенных зарядов взрывчатки — и бум. Отвлекающий манёвр.
@@ -235,7 +235,7 @@ A dragon!,Дракон!
 A dragon! That must be it!,"Дракон! Должно быть, это она!"
 A dragon! Zhaitan sicced a dragon on us!,Дракон! Zhaitan натравил на нас дракона!
 A dragon. Of course it's a dragon. Help!,"Дракон. Конечно, это дракон. Помогите!"
-A drakologist? Studying the Branded? She—,
+A drakologist? Studying the Branded? She—,Драконолог? Изучает помеченных? Она…
 "A dredge attack too? If we live though this, I'm putting a gag on Markus.","И атака Dredge тоже? Если мы переживем это, я заткну рот Markus."
 A drinking competition? What are you doing?,Соревнование по выпивке? Что ты творишь?
 A drunken disorderly brawl ensues.,Начинается пьяная потасовка.
@@ -250,7 +250,7 @@ A farmer being tended to. That charr mentioned they were being looked after by..
 "A farmer maintains a den of twelve beasts. One night, a great chill comes and kills all but nine of the beasts. How many beasts will he find in the den the next morning?","Фермер содержит логово из двенадцати зверей. Однажды ночью наступает сильный холод и убивает всех, кроме девяти зверей. Сколько зверей он найдет в логове на следующее утро?"
 A fascinating mix of magic and architecture. It even utilizes natural forces to great effect.,Удивительное сочетание магии и архитектуры. Оно даже эффективно использует природные силы.
 "A fearsome death howl from a fearsome foe, the likes of such has never been seen!","Грозный вой смерти от грозного врага, подобного которому еще никто не видел!"
-A feeling of tranquility washes over you.,
+A feeling of tranquility washes over you.,Вас охватывает чувство умиротворения.
 "A feeling! If I've learned anything, it's not to trust your feelings!","Предчувствие! Если я чему-то и научился, так это не доверять твоим предчувствиям!"
 A fellow savant of the sciences! Hello. Professor Twikk here. Of the... (sniffs),Коллега-ученый! Привет. Профессор Twikk здесь. Из... (принюхивается)
 "A fellow spore-seeking champion! Greetings, friend. I've been waiting for a mushroom maestro like you to stroll into my neck of the woods.","Еще один чемпион по поиску спор! Приветствую, друг. Я как раз ждал, когда такой мастер грибов, как ты, заглянет в мои края."
@@ -260,13 +260,13 @@ A few Risen can't slow our progress.,Несколько Risen не замедл�
 "A few attacks on Awakened camps, some conspicuously placed Sunspear banners...","Несколько атак на лагеря Awakened, несколько демонстративно расставленных знамен Sunspear..."
 "A few decades back, when I was a spry acolyte of Raven and had fostered a talent for mesmer magic...","Несколько десятилетий назад, когда я был молодым послушником Raven и развивал талант к магии иллюзий..."
 A few drinks.,Немного выпивки.
-A few ingrates tried to run off with bloodstone shards. Valis claims they had a major breakthrough during the chaos.,
-"A few minutes worth of work, and we'll be laughing about this over drinks in Lion's Arch.",
+A few ingrates tried to run off with bloodstone shards. Valis claims they had a major breakthrough during the chaos.,"Несколько неблагодарных типов попытались сбежать с осколками кровавого камня. Валис утверждает, что во время хаоса им удалось сделать важный прорыв."
+"A few minutes worth of work, and we'll be laughing about this over drinks in Lion's Arch.","Немного поработаем, и мы будем смеяться над этим за кружкой эля в Королевском Архипелаге."
 "A few more modifications and the Ettin-Proof Suit, Mark II, will be...foolproof.","Еще пара модификаций, и костюм «Ettin-Proof Suit, Mark II» станет... дуракоустойчивым."
 A few nights ago I hear arguing outside Sabil's house. Wonder if there's a connection.,"Несколько ночей назад я слышал спор возле дома Sabil. Интересно, есть ли тут связь."
 "A few of her crew are still alive, camped near the wreckage of their ship. She might have told them more about what's going on.","Несколько членов ее команды все еще живы, они разбили лагерь рядом с обломками корабля. Возможно, она рассказала им больше о том, что происходит."
 A few of our shamans joined Dominion. They use the cores to fuel their burning effigies.,Некоторые из наших шаманов примкнули к Доминиону. Они используют ядра для питания своих огненных чучел.
-"A few of the scouts saw some intact seer relics scattered throughout the temple. Please, would you mind escorting me to take a better look? This place is menacing.",
+"A few of the scouts saw some intact seer relics scattered throughout the temple. Please, would you mind escorting me to take a better look? This place is menacing.","Несколько разведчиков заметили уцелевшие реликвии провидцев, разбросанные по всему храму. Не могли бы вы проводить меня, чтобы мы смогли их получше рассмотреть? Здесь очень жутко."
 A few of them went to perform recon. Never heard back from them.,Несколько из них отправились на разведку. Больше мы о них ничего не слышали.
 "A few samples won't hurt anyone. Besides, we have all these other fine artifacts. They aren't going anywhere.","Несколько образцов никому не повредят. К тому же, у нас полно других отличных артефактов. Они никуда не денутся."
 "A few scraps of discarded armor. Might be able to use these to look the part, at least from a distance.","Несколько обрывков брошенной брони. Может, удастся использовать их, чтобы сойти за своего, хотя бы издалека."
@@ -279,11 +279,11 @@ A few scraps of the extractor. There is nothing usable here.,Несколько 
 A few weeks? Unacceptable. Who knows how many waypoints we'll have lost by then!,"Несколько недель? Неприемлемо. Кто знает, сколько путевых точек мы потеряем к тому времени!"
 "A few will die now, but we'd be saving many in the long run. The Order of Whispers is prepared to make that exchange.","Несколько человек погибнут сейчас, но в долгосрочной перспективе мы спасем многих. Order of Whispers готов пойти на такой обмен."
 "A few, but I'm shy. Can we talk where others will not see?","Несколько, но я стесняюсь. Мы можем поговорить там, где другие не увидят?"
-"A few, but they weren't meant for this. It's all in disarray.",
+"A few, but they weren't meant for this. It's all in disarray.","Немного есть, но они не для этого предназначены. Всё в беспорядке."
 "A field agent at last! Congratulations, Tybalt. I know how much you wanted that.","Наконец-то полевой агент! Поздравляю, Tybalt. Я знаю, как сильно ты этого хотел."
 A field test? There's no way he was able to build this device on his own.,Полевые испытания? Он никак не мог построить это устройство в одиночку.
 "A fight? All right. You watch the prisoners, I'll go join the fun... er, I mean... do my duty and break up the fight.","Драка? Ладно. Ты присмотри за заключенными, а я пойду присоединюсь к веселью... э-э, в смысле... исполню долг и разниму их."
-"A figure bursts from this final stone and roars, ""And now, you die!""",
+"A figure bursts from this final stone and roars, ""And now, you die!""",Из последней каменной статуи появляется фигура и рычит: «А теперь ты умрёшь!»
 "A fine battle! You fought with such skill, such precision. The dredge were no match for you.","Отличная битва! Ты сражался с таким мастерством, с такой точностью. Дреджи не шли тебе в сравнение."
 A fine choice. Report to Galina and prepare the Ghostbore Cannon for combat.,Отличный выбор. Доложи Galina и подготовь пушку Ghostbore к бою.
 A fine choice. Report to Snarl and prepare the Ghostbore turrets for combat.,Отличный выбор. Доложи Snarl и подготовь турели Ghostbore к бою.
@@ -293,16 +293,16 @@ A fine example of Pact ingenuity. I can see our mission objective ahead. Follow 
 A fine job. Follow me back to the lodge and I'll make the best meal you'll ever have.,"Отличная работа. Иди за мной в лодж, и я приготовлю лучшую еду, которую ты когда-либо пробовал."
 "A fine plan. I'll tell you all about Korag's defeat later, over a pint of ale!","Отличный план. Я расскажу тебе все о поражении Korag позже, за кружкой эля!"
 "A fine point from the first fiddle. Move out, before I de-string you.","Отличное замечание от «первой скрипки». Убирайся, пока я не вырвал тебе струны."
-"A fine story. Thanks, captain.",
+"A fine story. Thanks, captain.","Хорошая история. Спасибо, капитан."
 A fine weapon—worthy of Glint's forge.,Отличное оружие — достойно кузни Glint.
 A fire spreads through Tyria's greatest library.,Огонь распространяется по величайшей библиотеке Тирии.
 A fire stone and the whereabouts of hot springs.,Огненный камень и местонахождение горячих источников.
 "A fire stone? The grawl have them, but you'll have to earn their respect or they'll never give you one.","Огненный камень? Он есть у grawl, но тебе придется заслужить их уважение, иначе они его не отдадут."
 "A firm ""nay.""",Твердое «против».
 A firstborn. The pleasure is mine. Have we crossed paths?,Перворожденный. Мне очень приятно. Мы уже встречались?
-"A fish! Well, mostly. Certainly made ya swim really good! But this captain, he was greedy. Feared mutiny. Dunno why, but he did! So he hid the mask! And the parts needed to make it... All 'round...",
+"A fish! Well, mostly. Certainly made ya swim really good! But this captain, he was greedy. Feared mutiny. Dunno why, but he did! So he hid the mask! And the parts needed to make it... All 'round...","Рыба! Ну, почти. По крайней мере, она помогла тебе отлично плавать! Но у этого капитана была жадность. Он боялся бунта. Не знаю, почему, но он действительно этого боялся! Поэтому он спрятал маску! И детали, необходимые для её создания... В общем..."
 "A fitting choice, Wayfinder. One of many to come, I'm sure.","Достойный выбор, Проводник. Уверен, их будет еще немало."
-A fitting end to such a terrible weapon.,
+A fitting end to such a terrible weapon.,"Похоже, это достойный конец для такого ужасного оружия."
 A fleet of Dead Ships has launched from the Straits of Devastation. The Risen sail beneath a cloak of stealth.,Флот Мертвых Кораблей вышел из Проливов Разрушения. Risen плывут под покровом скрытности.
 A fleeting moment of clarity before the end.,Миг ясности перед самым концом.
 A flimsy lock secures this door. One good kick might break it.,Дверь держится на хлипком замке. Один хороший удар может ее выбить.
@@ -313,24 +313,24 @@ A foe draws near.,Враг приближается.
 "A fool's world, Tiachren, built upon delusions. Love until your heart breaks; it will not change the truth.","Мир глупца, Tiachren, построенный на иллюзиях. Люби, пока сердце не разорвётся; это не изменит правды."
 "A fool, am I? I'll tell you what I am; tired of your mouth.","Глупец, говоришь? Скажу тебе, кто я; я устал от твоей болтовни."
 A forgemaster reduced to working with this rubbish... That's enough from here. Let's go.,"Кузнец, вынужденный работать с этим мусором... Здесь больше делать нечего. Пошли."
-A formal agreement should precede any exchange of magic. How else can we set forth mutually agreeable terms?,
+A formal agreement should precede any exchange of magic. How else can we set forth mutually agreeable terms?,"Прежде чем обмениваться магией, необходимо заключить формальное соглашение. Как иначе мы можем установить взаимовыгодные условия?"
 "A formal challenge, Steelbane. This soldier's willing to fight to the death. How about you?","Официальный вызов, Steelbane. Этот солдат готов сражаться насмерть. Что скажешь?"
 A former wizard of the Astral Ward—or his memory—guided us. Without him... We may not be here today.,Бывший волшебник Астрального Дозора — или его память — направлял нас. Без него... нас могло бы здесь сегодня не быть.
 A formidable attacker who took them down single-handed.,"Грозный противник, который расправился с ними в одиночку."
 A formula for success. I'm ready for the next question.,Формула успеха. Я готов к следующему вопросу.
 "A fort, eh? Makes some sense, I suppose. Though I'd rather we handled this campaign less...obviously.","Форт, значит? В этом есть смысл, полагаю. Хотя я бы предпочел, чтобы мы вели эту кампанию менее... очевидно."
 "A fortress, and right on Orr's doorstep as it were. A bold move. I just hope it's an effective one.","Крепость, да еще и прямо на пороге Orr. Смелый шаг. Надеюсь, он будет эффективным."
-A fraud. A swindler with a snake's heart. The most twisted mind in the Inquest. He stole my master's discoveries.,
+A fraud. A swindler with a snake's heart. The most twisted mind in the Inquest. He stole my master's discoveries.,"Мошенник. Аферист с сердцем змеи. Самый извращенный ум в ""Инквизиции"". Он украл открытия моего наставника."
 A friend gives you a bouquet of withered flowers...,Друг дарит тебе букет увядших цветов...
 A friend of Braham's is a friend of mine.,Друг Braham — мой друг.
 "A friend returns! I'm so glad you're back, li'l guy.","Друг вернулся! Я так рад, что ты снова с нами, малыш."
 A frightened little bookworm hiding in his library. Kick him a few times. Maybe he'll learn to fight.,"Напуганный маленький книжный червь, прячущийся в своей библиотеке. Пни его пару раз. Может, научится драться."
 A full belly would calm my own temper.,Полный живот успокоил бы и мой нрав.
 A fundamental resonance that makes them vulnerable...,"Фундаментальный резонанс, который делает их уязвимыми..."
-A gate alchemeter.,
+A gate alchemeter.,Алхиметрический портал.
 "A gazillion times, verging on the obsessive. I just want them to power this golem.","Миллиард раз, граничит с одержимостью. Я просто хочу, чтобы они питали этого голема."
 "A general marches to war with the soldiers she's got. If that's just us, then we'll do the best we can.","Генерал идет на войну с теми солдатами, что у него есть. Если это только мы, значит, сделаем все, что в наших силах."
-"A ghost lingers nearby, perhaps belonging to one of the deceased.",
+"A ghost lingers nearby, perhaps belonging to one of the deceased.","Рядом бродит призрак, возможно, это один из усопших."
 A ghost torch? Nice. Goreblade will love that.,Призрачный факел? Отлично. Goreblade это понравится.
 A ghost torch? Outstanding. I look great in blue light.,Призрачный факел? Выдающийся выбор. Я отлично смотрюсь в синем свете.
 A ghost! Stand back!,Призрак! Назад!
@@ -341,13 +341,13 @@ A giant tank.,Гигантский танк.
 A giant... bug... thing.,Гигантскую... жуко... тварь.
 A gift for murderers! Bombs!,Подарок для убийц! Бомбы!
 A gift from a dear friend. For two young lovers embarking upon a life together. Hm...,"Подарок от дорогого друга. Для двух юных влюбленных, начинающих совместную жизнь. Хм..."
-A gildless approaches...,
-A glint in Mai Trin's eye leaves little doubt to the outcome of confronting her. Is your squad prepared?,
+A gildless approaches...,К вам приближается персонаж без гильдии...
+A glint in Mai Trin's eye leaves little doubt to the outcome of confronting her. Is your squad prepared?,"Искорка в глазах Май Трин не оставляет сомнений в том, чем закончится встреча с ней. Готова ли ваша команда?"
 A goblet of blood.,Кубок крови.
 A goddamn murderer?,Чертова убийца?
 A gold for a good cause.,Золотой на благое дело.
 "A golem and a norn lad with a fearsome mace. After Mai entered the portal, the golem went after her.","Голем и парень-норн с грозным молотом. После того как Mai вошла в портал, голем последовал за ней."
-"A golem could do this work in half the time, and it wouldn't complain.",
+"A golem could do this work in half the time, and it wouldn't complain.",Голем справился бы с этой работой в два раза быстрее и не жаловался бы.
 "A golem, huh? I'm looking for a different challenge.","Голем, да? Я ищу испытание посложнее."
 A good death...but too soon.,Достойная смерть... но слишком ранняя.
 "A good effort, but there is room for improvement. Let me know if you want to go another round.","Неплохая попытка, но есть куда расти. Дайте знать, если захотите повторить."
@@ -365,13 +365,13 @@ A good question. But I know one thing... I'm going to use every bit of it to bre
 A good start. Do not relent.,Хорошее начало. Не сбавляй темп.
 A good story can bolster your allies or threaten your enemies. In battle and out.,Хорошая история может поддержать твоих союзников или пригрозить врагам. В бою и вне его.
 A good strategist knows that sometimes you need to accept collateral damage to get what you want.,"Хороший стратег знает, что иногда нужно смириться с сопутствующим ущербом, чтобы получить желаемое."
-"A gravesite... No, a memorial. For Belinda.",
+"A gravesite... No, a memorial. For Belinda.","Здесь могила… Нет, это мемориал. В память о Белинде."
 A great kodan hero fell here long ago. Jormag mocks her—desecrates this place.,Великий герой kodan пал здесь давным-давно. Jormag насмехается над ней — оскверняет это место.
 A great many. All searching for the treasures of the lost city.,Очень много. Все ищут сокровища затерянного города.
 A great story for a great statue. Thank you for your time.,Отличная история для отличной статуи. Спасибо за уделенное время.
 "A great victory for the hylek, but remain vigilant. The krait will surely return, and we must be ready.","Великая победа для hylek, но сохраняйте бдительность. Krait наверняка вернутся, и мы должны быть готовы."
-"A group of bandits attacked us, dragged off another soldier and my sergeant. Made me drink a potion, Lyssa's Tongue. Made me talk. Made me say things, even when I fought against it.",
-"A group of heroes drove Theshould be lowercase 'the' Nightmare Court from here not long ago, but a handful of them have returned for some terrible purpose.",
+"A group of bandits attacked us, dragged off another soldier and my sergeant. Made me drink a potion, Lyssa's Tongue. Made me talk. Made me say things, even when I fought against it.","На нас напала группа бандитов, они схватили еще одного солдата и моего сержанта. Заставили меня выпить зелье, ""Язык Лиссы"". Оно заставило меня говорить. Я говорил даже тогда, когда сопротивлялся."
+"A group of heroes drove Theshould be lowercase 'the' Nightmare Court from here not long ago, but a handful of them have returned for some terrible purpose.","Недавно группа героев изгнала отсюда Призрачный двор, но несколько его приспешников вернулись с какой-то зловещей целью."
 "A group of invulnerable ghosts spawn, consisting of Ascalonian Healer, Ascalonian Fighter, and 2 Ascalonian Archers","Появляется группа неуязвимых призраков, состоящая из Ascalonian Healer, Ascalonian Fighter и 2 Ascalonian Archers"
 A guild officer needs to activate this mission for you before you can take part in the challenge.,"Офицер гильдии должен активировать эту миссию, чтобы вы могли принять участие в испытании."
 A guild officer needs to activate this race for you before you can participate.,"Офицер гильдии должен активировать эту гонку, прежде чем вы сможете принять участие."
@@ -381,20 +381,20 @@ A hammer might fix this thing.,Молот мог бы это починить.
 A hand constantly held by Eir Stegalkin and your precious commander.,"Рука, которую постоянно держали Eir Stegalkin и твой драгоценный Коммандир."
 "A hard job, but one you did well.","Тяжелая работа, но ты справился отлично."
 "A hard-enough fight, and who knows what vile thoughts Eparch has equipped her with. We move with caution.","Бой будет тяжелым, и кто знает, какими гнусными мыслями наделил её Eparch. Двигаемся осторожно."
-"A hardy fellow force for good! What a treat to see you. Sit, enjoy the fire, and let's savor our victory!",
+"A hardy fellow force for good! What a treat to see you. Sit, enjoy the fire, and let's savor our victory!","Какой крепкий духом союзник и защитник добра! Рад тебя видеть. Присаживайся, погрейся у огня, и давайте вместе порадуемся нашей победе!"
 "A harpoon gun is not a toy, young one. You are not yet ready. But, soon.","Гарпунное ружье — не игрушка, малышка. Ты еще не готова. Но скоро будешь."
-"A hastily scribbled sign reads, ""Warning: largeShould be capitalized devourer nest. Do not proceed unless you're looking for a fight.""",
+"A hastily scribbled sign reads, ""Warning: largeShould be capitalized devourer nest. Do not proceed unless you're looking for a fight.""","Наспех написанная табличка гласит: «Внимание: здесь гнездо огромного пожирателя. Не подходите ближе, если не хотите сражаться»."
 A hawkeye griffon is trying to steal away our cubs! Take care of it.,Ястребиный грифон пытается украсть наших детенышей! Разберись с ним.
-"A heart that might not be free to love, but that is instead fighting for the ability to do so one day.",
+"A heart that might not be free to love, but that is instead fighting for the ability to do so one day.","Сердце, которое, возможно, ещё не готово любить, но вместо этого борется за то, чтобы однажды обрести эту способность."
 "A hearty stew made with tomatoes, rice, vegetables, and beef.","Сытное рагу из помидоров, риса, овощей и говядины."
 A heavy crate is stacked on top of this chest. Neither can be opened.,"На этом сундуке стоит тяжелый ящик. Ни то, ни другое открыть нельзя."
 "A heavy force of soldiers meets the lich and his Risen head-on. It will take strategy, and courage, but it will be glorious.","Мощный отряд солдат встретит лича и его Risen лицом к лицу. Потребуется стратегия и мужество, но это будет славно."
-A hero after my own heart.,
-A hero of legend. What a moment this has become... I am intrigued.,
+A hero after my own heart.,"Герой, достойный уважения."
+A hero of legend. What a moment this has become... I am intrigued.,Герой легенд… Каким важным моментом это стало… Меня это заинтриговало.
 "A heroic but nearly impossible task, against great odds and an unrelenting enemy. This, my friend, is a death worthy of legend.","Героическая, но почти невыполнимая задача против огромных сил и неумолимого врага. Это, мой друг, смерть, достойная легенды."
 A hiccup? More like tuberculosis. Tribune Desertgrave's been taken hostage. Griefblade captured Fengar and tortured him to get information on the tribune.,"Заминка? Скорее туберкулез. Tribune Desertgrave взяли в заложники. Griefblade захватил Fengar и пытал его, чтобы выведать информацию о трибуне."
 A hidden treasure and the chance to kill Ascalonian ghosts? This is my favorite mission yet.,Скрытые сокровища и шанс убить призраков Ascalon? Это моя любимая миссия.
-"A hide-bound journal is lying on the ground beside the fallen Whispers Agent. It is badly charred, as if someone had made a hurried attempt to destroy it.",
+"A hide-bound journal is lying on the ground beside the fallen Whispers Agent. It is badly charred, as if someone had made a hurried attempt to destroy it.","На земле рядом с поверженным агентом «Шепчущих» лежит старая книга в кожаном переплете. Она сильно обгорела, словно кто-то поспешно пытался её уничтожить."
 A high concentration of bloodstone residue could explain it.,Высокая концентрация остатков кровавого камня могла бы это объяснить.
 "A hint of pride, a drop of joy...","Капля гордости, крупица радости..."
 A history lesson? After you trespassed on our sacred ground and attacked my loyal subjects? The nerve.,Урок истории? После того как вы вторглись на нашу священную землю и напали на моих верных подданных? Какая наглость.
@@ -409,14 +409,14 @@ A huge thank you on behalf of the Council and Zalambur for your participation an
 A human-made smithing hammer.,Кузнечный молот человеческой работы.
 "A hunter! Glad you're here, I am. Thought Barbed Vale was sendin' me on an easy hunt, just bein' a reindeer and all...","Охотник! Рад, что ты здесь. Думал, Barbed Vale отправил меня на легкую охоту, просто олень и все такое..."
 A jackal? Interesting choice. You may find my standards are higher than the djinn who granted it to you.,"Шакал? Интересный выбор. Возможно, ты обнаружишь, что мои стандарты выше, чем у джинна, который даровал его тебе."
-A jade statue would be great!,
-"A job? How curious. Perhaps we can make a deal, hmm? One small taste of that nectarous-smelling blood of yours, and I will offer my assistance. Just a bit, mind you; do not worry...",
+A jade statue would be great!,Статуя из нефрита была бы отличной идеей!
+"A job? How curious. Perhaps we can make a deal, hmm? One small taste of that nectarous-smelling blood of yours, and I will offer my assistance. Just a bit, mind you; do not worry...","Работа? Как интересно. Возможно, мы сможем заключить сделку, хм? Немного этой восхитительно пахнущей крови, и я предложу свою помощь. Совсем немного, не волнуйтесь..."
 A job? Where?,Работу? Где?
-"A jotun corpse, impaled and preserved like the other bodies in the vicinity.",
+"A jotun corpse, impaled and preserved like the other bodies in the vicinity.","Труп йотуна, приколотый и забальзамированный, как и другие тела поблизости."
 A jotun wizard?,Волшебница-йотун?
 "A journeykin roams the countryside, addled. A danger to others. Perhaps to itself. Perhaps to all...","Спутник бродит по округе, обезумев. Опасность для других. Возможно, для самого себя. Возможно, для всех..."
 "A joyous day, indeed. I'll see you at Fort Trinity.",Воистину радостный день. Увидимся в Fort Trinity.
-"A junundu wurm! It lives right over there, in that ring to the south! If I can get close enough, I'm going to try and get a sample. Er, you wouldn't happen to be headed that way, would you?",
+"A junundu wurm! It lives right over there, in that ring to the south! If I can get close enough, I'm going to try and get a sample. Er, you wouldn't happen to be headed that way, would you?","Джундудский червь! Он живет прямо там, в том кольце на юге! Если я смогу подобраться достаточно близко, я попробую взять образец. Эм, вы случайно не собираетесь туда идти?"
 A kid that was right about Concordia and that warned us about Fort Salma.,"Ребенок, который оказался прав насчет Concordia и предупредил нас о Fort Salma."
 A kind interaction and a gift is sometimes all it needs to learn trust.,"Доброе отношение и угощение — это иногда всё, что нужно, чтобы научиться доверять."
 "A kind soul at last! Please, help me!","Наконец-то добрая душа! Пожалуйста, помогите мне!"
@@ -426,9 +426,9 @@ A knight in full armor—attacking defenseless innocents? That isn't right. Why 
 "A large chunk of the bloodstone, still intact. And these foul things!","Большой кусок кровавого камня, все еще цел. И эти мерзкие твари!"
 A large swarm? We need golem support! I'll run and get some!,Большая орда? Нам нужна поддержка големов! Я сбегаю за ними!
 "A large, parabolic dish...",Большая параболическая антенна...
-"A larger part of the same crate. It has more writing on it, and the symbol could be a logo. There may be more parts along the beach.",
+"A larger part of the same crate. It has more writing on it, and the symbol could be a logo. There may be more parts along the beach.","Бо́льшая часть того же ящика. На нём больше надписей, и символ может быть логотипом. Возможно, на пляже есть и другие части."
 "A larva's digging in! Quick, use a shovel to dig it out before it damages the roots.","Личинка зарывается! Скорее, используйте лопату, чтобы выкопать ее, пока она не повредила корни."
-A latent power is exciting the lava.,
+A latent power is exciting the lava.,Скрытая сила пробуждает лаву.
 A launch pad? Really?,Пусковая площадка? Серьезно?
 "A leader like that always gets what she deserves. But today, it's Vallus's turn.",Такой лидер всегда получает по заслугам. Но сегодня очередь Vallus.
 A least now we can tell them she is at rest.,"По крайней мере, теперь мы можем сказать им, что она обрела покой."
@@ -439,49 +439,49 @@ A legion founded by a master of their craft. Any more questions?,"Легион, 
 A letter from the Black Citadel. You must've really brushed some higher-ups the wrong way.,"Письмо из Black Citadel. Должно быть, ты сильно насолил кому-то из начальства."
 "A letter? Unexpected, but better than the alternative...","Письмо? Неожиданно, но лучше, чем альтернатива..."
 A leviathan!,Левиафан!
-A lewd sketch covers the rest of the text.,
+A lewd sketch covers the rest of the text.,Непристойный рисунок закрывает остальной текст.
 A ley line.,Магическая линия.
 A lich from the Crystal Desert thinks he can mess with our territory. He won't be the first human king the Legions have beaten down.,"Лич из Crystal Desert думает, что может соваться на нашу территорию. Он будет не первым человеческим королем, которого разбили Legions."
 A lieutenant broke through our defensive line!,Лейтенант прорвал нашу линию обороны!
 A life free from Void coming out of your every orifice.,"Жизнь без Пустоты, выходящей из каждого твоего отверстия."
 "A likely excuse, this VAL-A of yours. Let's just match our golemancy in the throwdown, and then we'll discuss my technique.","Веское оправдание, этот твой VAL-A. Давай просто сравним наших големов в бою, а потом обсудим мою технику."
-A limerick?,
+A limerick?,Хотите лимерик?
 "A listening device to fix, and a bush to check out by it. Oh, and the trail signs! That will help.","Починить устройство прослушки и проверить куст рядом с ним. О, и дорожные знаки! Это поможет."
-"A little added protection from the Crystal Bloom: nifty Aurene crystals. Charge 'em up, and watch 'em go.",
+"A little added protection from the Crystal Bloom: nifty Aurene crystals. Charge 'em up, and watch 'em go.","Немного дополнительной защиты от Кристального Цветения: полезные кристаллы Аурене. Заряжайте их и смотрите, как они работают."
 A little backup and we can take 'em!,"Немного поддержки, и мы их одолеем!"
 A little backup please! These druid markings won't translate themselves!,Нужна поддержка! Эти друидские письмена сами себя не переведут!
 A little bird told me there was a battle brewing.,"Птичка нашептала, что назревает битва."
-A little busy here! Collect those essences!,
+A little busy here! Collect those essences!,Здесь довольно оживлённо! Соберите эти эссенции!
 "A little caution can't hurt. Though ""free to venture northward"" isn't exactly covert language.",Немного осторожности не помешает. Хотя «свободны отправиться на север» — это не совсем скрытый язык.
 "A little caution can't hurt. Though ""free to venture northward"" isn't exactly unbreakable code.",Немного осторожности не помешает. Хотя «свободны отправиться на север» — это не совсем неразгаданный код.
 A little fear's healthy. Keeps us sharp. Keeps us safe.,Немного страха полезно. Помогает держать ухо востро. Помогает оставаться в безопасности.
-"A little force, a little fortitude! Cheers for Commander <Character name> and for Marshal Trahearne!",
+"A little force, a little fortitude! Cheers for Commander <Character name> and for Marshal Trahearne!","Немного силы, немного мужества! За командующего <Character name> и маршала Трахарна!"
 A little help here!,Нужна помощь!
 A little help?,Нужна помощь?
 "A little mail bird told me of your victory, so I thought I'd fly down and congratulate you myself. Amnoon is even more beautiful than I'd heard. I just might take some time off to enjoy the sights.","Маленькая почтовая птичка принесла весть о твоей победе, и я решил прилететь лично, чтобы поздравить тебя. Амнун даже красивее, чем я слышал. Возможно, я даже возьму отпуск, чтобы осмотреть достопримечательности."
 "A little more of that, perhaps.","Может, еще немного того."
 "A little of this. Maybe a little of that. Someone needs to keep tabs on Zalambur, right?","Немного того, немного сего. Кто-то же должен присматривать за Zalambur, верно?"
-"A little rest might be in order first, don't you think?",
+"A little rest might be in order first, don't you think?","Может, сначала немного отдохнём?"
 A little rock salt'd go great on that.,Немного каменной соли отлично бы подошло.
 "A little scary, but I agree.","Немного жутко, но я согласен."
 "A little spot of trouble along the way, but the gods saw fit to spare us.","Небольшие неприятности по пути, но боги сочли нужным пощадить нас."
-"A little too much about too little. We've been spending more time keeping them from attacking and killing each other. Both blame the other for their defeat. You're welcome to give it a shot, though.",
+"A little too much about too little. We've been spending more time keeping them from attacking and killing each other. Both blame the other for their defeat. You're welcome to give it a shot, though.","Слишком много внимания уделяем слишком незначительным проблемам. Мы тратим больше времени на то, чтобы не дать им начать драку и убивать друг друга. Оба винят другого в своем поражении. Но вы можете попробовать решить эту проблему, если хотите."
 "A little turn-up, and Finn's back to his old self after deprogramming some...learned behaviors...","Немного настройки, и Finn снова стал самим собой после удаления некоторых... приобретенных моделей поведения..."
-"A little, but what do you need?",
+"A little, but what do you need?","Немного, но что тебе нужно?"
 "A little. Been spending more time keeping them from killing each other. Both blame the other for their defeat. Any comradery the Molten Alliance had is gone. You're welcome to give it a shot, though.","Немного. Больше времени уходит на то, чтобы они не перебили друг друга. Оба винят другого в своем поражении. От былого товарищества Molten Alliance не осталось и следа. Но можешь попробовать, если хочешь."
 A little. Mabon seems to think they're tracking something...or someone here in central Tyria.,"Немного. Mabon, кажется, думает, что они выслеживают что-то... или кого-то здесь, в центральной Tyria."
 "A little. With Balthazar gone, the number of refugees flooding in has lessened slightly. Also, many come to Amnoon to flee Joko, Only to find Amnoon has allied with him—so they leave.","Немного. С уходом Balthazar поток беженцев немного иссяк. К тому же многие бегут в Amnoon от Joko, но обнаруживают, что Amnoon заключил с ним союз, — и уходят."
-A local kodan is risking their life to save a fawn.,
-A local kodan might benefit from some assistance foraging mushrooms.,
+A local kodan is risking their life to save a fawn.,"Местный кодан рискует жизнью, чтобы спасти оленёнка."
+A local kodan might benefit from some assistance foraging mushrooms.,Местному кодану может пригодиться помощь в сборе грибов.
 "A local plant, when properly prepared, makes for an incredibly powerful explosive.",Местное растение при правильной подготовке превращается в невероятно мощную взрывчатку.
 A lone scouting mission? Not for me.,Одиночная разведка? Не по мне.
 "A long shot, Reeva. But you can dream.","Маловероятно, Reeva. Но мечтать не вредно."
-A long time ago I...I made a mistake. I left when I should have stayed.,
+A long time ago I...I made a mistake. I left when I should have stayed.,"Давно это было… Я совершил ошибку. Ушёл тогда, когда нужно было остаться."
 "A long time, but not long enough. Never long enough. As long as the world is learning, more knowledge is added to the library shelves.","Давно, но недостаточно долго. Никогда не бывает достаточно. Пока мир учится, на полках библиотеки прибавляется знаний."
 "A long time, yeah.","Много времени, да."
 A long way from saving ambassadors and fighting Renegades. This battle's a lot harder—and the stakes are much higher.,Далеко от спасения послов и сражений с Renegades. Эта битва намного сложнее — и ставки гораздо выше.
 "A long way. The high priestess built her cloister in a sacred spot revealed to her in a vision. There, she meditates in the Sun God's light and receives the Sun God's wisdom.","Путь неблизкий. Верховная жрица построила свою обитель в священном месте, открывшемся ей в видении. Там она медитирует в свете Бога Солнца и обретает его мудрость."
-A long-dead Awakened soldier. A note is tucked inside its clothing.,
+A long-dead Awakened soldier. A note is tucked inside its clothing.,Давно погибший пробужденный солдат. В его одежде спрятана записка.
 "A long-dead memory, I'm afraid. The man led a pilgrimage from Elona to the Crystal Desert to seek Ascension, but he and all of his followers failed.","Боюсь, это давно забытое воспоминание. Этот человек возглавил паломничество из Elona в Crystal Desert в поисках Вознесения, но он и все его последователи потерпели неудачу."
 A lost city... That must be what we're looking for. I'd better check with the locals.,"Затерянный город... Должно быть, это то, что мы ищем. Лучше расспрошу местных."
 "A lost city? Can't help you. But if you find it, and dangerous things live there, let me know and I'll come running!","Затерянный город? Ничем не могу помочь. Но если найдешь его, и там обитают опасные твари, дай знать, и я примчусь!"

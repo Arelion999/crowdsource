@@ -84,7 +84,7 @@ Complete events at Southwatch.,Пройдите события в Южном д�
 Complete events at Westwatch.,Завершайте события в Западном Дозоре.
 Complete Hylek Alchemy Tome,Завершите фолиант алхимии хайликов
 Complete Oracle Deck,Завершите колоду Оракула
-"Complete preliminary survey map of the Consortium's new venture, Southsun Cove.",
+"Complete preliminary survey map of the Consortium's new venture, Southsun Cove.",Завершите предварительное картографирование новой территории Консорциума – Южного залива Саншайн.
 "Complete the Aetherblade challenge (scale 51–100). Beat Engineer Frizz with an 80%% reduction to all healing.
 To activate challenge mode, speak with the challenge mote near the beginning of the fractal. A party vote is required to activate. This item only has value as part of a collection.","Пройдите испытание Эфирокрылых (уровень 51–100). Победите инженера Фризза при снижении всего лечения на 80%%.
 Чтобы активировать режим испытания, поговорите с частицей испытания в начале фрактала. Требуется голосование группы. Этот предмет имеет ценность только как часть коллекции."
@@ -263,41 +263,58 @@ Consume to turn your finishing move into a special Wolf Finisher for 60 minutes.
 Consume to unlock this Mist Champion for your account.,"Используйте, чтобы разблокировать этого чемпиона Тумана для вашей учётной записи."
 Consume to unlock this unique Mist Champion skin on your account.,"Используйте, чтобы разблокировать этот уникальный облик чемпиона Тумана для вашей учётной записи."
 "Consumed automatically when acquired. Grants a small amount of volatile magic.
-<c=@flavor>""Djinn, like most subasuran species, crudely approximate feelings like our own. Use this.""</c>",
+<c=@flavor>""Djinn, like most subasuran species, crudely approximate feelings like our own. Use this.""</c>","Автоматически используется при получении. Даёт небольшое количество нестабильной магии.
+<c=@flavor>""Джинны, как и большинство видов асура, грубо имитируют наши чувства. Используйте это.""</c>"
 "Consumed automatically when acquired. Grants a small amount of volatile magic.
-<c=@flavor>""My darling Nakis, my tender Nakis, my clever Nakis...you're right. Let's go. We'll flee tomorrow.""</c>",
+<c=@flavor>""My darling Nakis, my tender Nakis, my clever Nakis...you're right. Let's go. We'll flee tomorrow.""</c>","Автоматически используется при получении. Даёт небольшое количество нестабильной магии.
+<c=@flavor>""Мой дорогой Накис, мой нежный Накис, мой умный Накис... ты прав. Пойдём. Мы сбежим завтра.""</c>"
 "Consumed automatically when acquired. Grants a small amount of volatile magic.
-<c=@flavor>A massive karka shell, and an impressive trophy. Tastes great with butter.</c>",
+<c=@flavor>A massive karka shell, and an impressive trophy. Tastes great with butter.</c>","Автоматически уничтожается при получении. Даёт небольшое количество нестабильной магии.
+<c=@flavor>Огромная раковина карка, впечатляющий трофей. Отлично сочетается с маслом.</c>"
 "Consumed automatically when acquired. Grants a small amount of volatile magic.
-<c=@flavor>A small vase, reminiscent of work from Vabbi.</c>",
+<c=@flavor>A small vase, reminiscent of work from Vabbi.</c>","Автоматически уничтожается при получении. Даёт небольшое количество нестабильной магии.
+<c=@flavor>Небольшая ваза, напоминающая работы Вабби.</c>"
 "Consumed automatically when acquired. Grants a small amount of volatile magic.
-<c=@flavor>Nakis's simple prayer beads, stolen from him by the Inquest.</c>",
+<c=@flavor>Nakis's simple prayer beads, stolen from him by the Inquest.</c>","Автоматически уничтожается при получении. Даёт небольшое количество нестабильной магии.
+<c=@flavor>Простые чётки Накиса, украденные у него Инквизицией.</c>"
 "Consumed automatically when acquired. Grants a small amount of volatile magic.
-<c=@flavor>Probably best handled from long distance and behind aegis.</c>",
+<c=@flavor>Probably best handled from long distance and behind aegis.</c>","Автоматически уничтожается при получении. Даёт небольшое количество нестабильной магии.
+<c=@flavor>Вероятно, лучше использовать на большом расстоянии и под защитой эгиды.</c>"
 "Consumed automatically when acquired. Grants a small amount of volatile magic.
-<c=@flavor>Small rocks, blasted by magical fire and force. Probably worthless.</c>",
+<c=@flavor>Small rocks, blasted by magical fire and force. Probably worthless.</c>","Автоматически уничтожается при получении. Даёт небольшое количество нестабильной магии.
+<c=@flavor>Небольшие камни, испепелённые магическим огнём и силой. Скорее всего, бесполезны.</c>"
 "Consumed automatically when acquired. Grants a small amount of volatile magic.
-<c=@flavor>The powerful mummy wore this locket, with a picture of an unknown child inside.</c>",
+<c=@flavor>The powerful mummy wore this locket, with a picture of an unknown child inside.</c>","Автоматически уничтожается при получении. Даёт небольшое количество нестабильной магии.
+<c=@flavor>Этот мощный мумифицированный персонаж носил этот медальон, внутри которого была фотография неизвестного ребёнка.</c>"
 "Consumed automatically when acquired. Grants a small amount of volatile magic.
-<c=@flavor>This book contains records of Olmakhan songs about all stages of life. </c>",
+<c=@flavor>This book contains records of Olmakhan songs about all stages of life. </c>","Автоматически уничтожается при получении. Даёт небольшое количество нестабильной магии.
+<c=@flavor>В этой книге содержатся записи ольмаханских песен, повествующих обо всех этапах жизни.</c>"
 "Consumed automatically when acquired. Grants a small amount of volatile magic.
-<c=@flavor>This ornery beast had been trampling crops and attacking Olmakhan herd animals.</c>",
+<c=@flavor>This ornery beast had been trampling crops and attacking Olmakhan herd animals.</c>","Автоматически уничтожается при получении. Даёт небольшое количество нестабильной магии.
+<c=@flavor>Этот злобный зверь топтал посевы и нападал на стада олмакханцев.</c>"
 "Consumed automatically when acquired. Grants a small amount of volatile magic.
-<c=@flavor>This volatile flotsam makes for a strange sight on the shoreline.</c>",
+<c=@flavor>This volatile flotsam makes for a strange sight on the shoreline.</c>","Автоматически уничтожается при получении. Даёт небольшое количество нестабильной магии.
+<c=@flavor>Этот неустойчивый обломок — странное зрелище на берегу.</c>"
 "Consumed automatically when acquired. Grants a small amount of volatile magic.
-<c=@flavor>Two lovers embrace, solace in a dangerous world. May all lovers be free someday.</c>",
+<c=@flavor>Two lovers embrace, solace in a dangerous world. May all lovers be free someday.</c>","Автоматически уничтожается при получении. Даёт небольшое количество нестабильной магии.
+<c=@flavor>Двое влюблённых обнимаются, находя утешение в опасном мире. Пусть все влюблённые когда-нибудь будут свободны.</c>"
 "Consumed automatically when acquired. Grants a small amount of volatile magic.
-Traditional Olmakhan song. <c=@flavor>""As shadows fall, the sun only rises higher...""</c>",
+Traditional Olmakhan song. <c=@flavor>""As shadows fall, the sun only rises higher...""</c>","Автоматически используется при получении. Даёт небольшое количество нестабильной магии.
+Традиционная песня олмаханцев. ""<c=@flavor>«Когда падают тени, солнце поднимается всё выше...»</c>"""
 "Consumed automatically when acquired. Grants a small amount of volatile magic.
-Traditional Olmakhan song. <c=@flavor>""May the sun shine on all our tomorrows, once this storm passes...""</c>",
+Traditional Olmakhan song. <c=@flavor>""May the sun shine on all our tomorrows, once this storm passes...""</c>","Автоматически используется при получении. Даёт небольшое количество нестабильной магии.
+Традиционная песня олмакханцев. ""<c=@flavor>""Пусть солнце осветит все наши грядущие дни, когда эта буря утихнет...""</c>"
 "Consumed automatically when acquired. Grants a small amount of volatile magic.
-Traditional Olmakhan song. <c=@flavor>""No song so sweet as a young cub's laugh...""</c>",
+Traditional Olmakhan song. <c=@flavor>""No song so sweet as a young cub's laugh...""</c>","Автоматически используется при получении. Даёт небольшое количество нестабильной магии.
+Традиционная песня олмакхан. ""<c=@flavor>""Нет песни слаще, чем смех молодого детёныша...""</c>"
 "Consumed automatically when acquired. Grants a small amount of volatile magic.
-Traditional Olmakhan song. <c=@flavor>""None should carry a burden alone, where others can help...""</c>",
+Traditional Olmakhan song. <c=@flavor>""None should carry a burden alone, where others can help...""</c>","Автоматически используется при получении. Даёт небольшое количество нестабильной магии.
+Традиционная песня олмакханцев. <c=@flavor>""Никто не должен нести бремя в одиночку, когда другие могут помочь...""</c>"
 "Consumed automatically when acquired. Grants a small amount of volatile magic.
 Traditional Olmakhan song. <c=@flavor>""The skies know no rage like love that became hate...""</c>",
 "Consumed automatically when acquired. Grants a small amount of volatile magic.
-Traditional Olmakhan song. <c=@flavor>""We sing her to rest, in Nature's arms...""</c>",
+Traditional Olmakhan song. <c=@flavor>""We sing her to rest, in Nature's arms...""</c>","Автоматически уничтожается при получении. Даёт небольшое количество нестабильной магии.
+Традиционная песня олмакханцев. <c=@flavor>""Мы поём ей колыбельную, чтобы она обрела покой в объятиях природы...""</c>"
 Consumed immediately when acquired. This will unlock the skin in your wardrobe and grant a transmutation charge.,Потребляется немедленно при получении. Это откроет облик в вашем гардеробе и даст заряд трансмутации.
 Consumed immediately when acquired. This will unlock the skin in your wardrobe.,Потребляется немедленно при получении. Это откроет облик в вашем гардеробе.
 Consumed immediately. Grants credit towards Daily: Tengu Special.,Потребляется немедленно. Дает зачет в ежедневное задание: «Особая тенгу».
@@ -361,10 +378,10 @@ Combine these three minis in the Mystic Forge with the Mini Mai Trin from the Bl
 
 Каждый мини можно активировать в инвентаре, чтобы он следовал за вами по миру.
 Объедините эти три мини в Мистической кузне с Мини-Май Трин из сундука Чёрного Лева, чтобы создать Мини-Скарлет Брайар."
-"Contains 1 Sip of Liquid Karma, 1 Blue Prophet Crystal, and 1 Scrap of Icebrood Saga Mastery (Autoconsume).",
-"Contains 1 Sip of Liquid Karma, 1 Green Prophet Crystal, and 1 Scrap of Icebrood Saga Mastery (Autoconsume).",
-"Contains 1 Sip of Liquid Karma, 1 Piece of Rare Unidentified Gear, and 1 Scrap of Icebrood Saga Mastery (Autoconsume).",
-"Contains 1 Sip of Liquid Karma, 1 Red Prophet Crystal, and 1 Scrap of Icebrood Saga Mastery (Autoconsume).",
+"Contains 1 Sip of Liquid Karma, 1 Blue Prophet Crystal, and 1 Scrap of Icebrood Saga Mastery (Autoconsume).","Содержит 1 порцию жидкой кармы, 1 кристалл синего пророка и 1 фрагмент знаний о ледяном братстве (автоматическое использование)."
+"Contains 1 Sip of Liquid Karma, 1 Green Prophet Crystal, and 1 Scrap of Icebrood Saga Mastery (Autoconsume).","Содержит 1 порцию жидкой кармы, 1 кристалл зелёного пророка и 1 фрагмент знаний о саге Ледяной Броды (автоматическое использование)."
+"Contains 1 Sip of Liquid Karma, 1 Piece of Rare Unidentified Gear, and 1 Scrap of Icebrood Saga Mastery (Autoconsume).","Содержит 1 порцию жидкой кармы, 1 единицу редкого неопознанного снаряжения и 1 фрагмент опыта для развития в рамках «Саги о Ледяном Братстве» (автоматическое использование)."
+"Contains 1 Sip of Liquid Karma, 1 Red Prophet Crystal, and 1 Scrap of Icebrood Saga Mastery (Autoconsume).","Содержит 1 порцию жидкой кармы, 1 кристалл красного пророка и 1 фрагмент знаний о саге Ледяной Броды (автоматическое использование)."
 "Contains 1 Sip of Liquid Karma, 1 Scrap of Icebrood Saga Mastery (Autoconsume). The first 3 per week also contain 1 Prophet Crystal.","Содержит 1 глоток жидкой кармы, 1 фрагмент мастерства саги о Ледяном отродье (автопотребление). Первые 3 в неделю также содержат 1 кристалл пророка."
 Contains 10 airship parts.,Содержит 10 деталей дирижабля.
 Contains 10 Bandit Crests.,Содержит 10 Знаков бандита.
@@ -413,7 +430,7 @@ Contains 3 Obsidian Shards,Содержит 3 Обсидиановых Оско�
 Contains 3 Pristine Fractal Relics.,Содержит 3 Нетронутых Реликта Осколков.
 Contains 3 spirit shards.,Содержит 3 осколка духа.
 Contains 30 proofs of glory and 30 tournament vouchers.,Содержит 30 доказательств славы и 30 турнирных ваучеров.
-Contains 35 Bandit Crests.,
+Contains 35 Bandit Crests.,Содержит 35 знаков бандитов.
 Contains 350 Tournament Claim Tickets.,Содержит 350 Билетов на Турнир.
 Contains 4 gold.,Содержит 4 золота.
 Contains 40 Bandit Crests.,Содержит 40 Знаков Разбойников.
@@ -424,9 +441,9 @@ Contains 5 airship parts.,Содержит 5 частей дирижабля.
 Contains 5 Bandit Crests.,Содержит 5 Знаков Разбойников.
 "Contains 5 Black Lion Claim Ticket Scraps, 5 Black Lion Chest Keys, 5 Enchanted Combat Boosts, 1 Home Portal Stone, 1 Captain's Airship Pass (2 weeks), 2 Revive Orbs, and 10 Silverwastes Shovels","Содержит 5 Обрывков Билетов Чёрного Льва, 5 Ключей от Сундука Чёрного Льва, 5 Зачарованных Боевых Усилений, 1 Домашний Камень Портал, 1 Пропуск на Дирижабль Капитана (2 недели), 2 Сферы Возрождения и 10 Лопат Серебряных Пустошей"
 Contains 5 Black Lion Miniature Claim Tickets and 5 Black Lion Chest Keys.,Содержит 5 билетов на получение миниатюры Черного Льва и 5 ключей от сундуков Черного Льва.
-"Contains 5 Black Lion Weapon Scraps, 5 Black Lion Keys, 5 Metabolic Primers, 5 WXP Boosters, 3 Utility Primers, 1 Armor Booster, 1 Speed Booster, 1 Strength Booster, and Early Access to 10 Uses of the Grave Finisher.",
+"Contains 5 Black Lion Weapon Scraps, 5 Black Lion Keys, 5 Metabolic Primers, 5 WXP Boosters, 3 Utility Primers, 1 Armor Booster, 1 Speed Booster, 1 Strength Booster, and Early Access to 10 Uses of the Grave Finisher.","Содержит 5 фрагментов оружия Чёрного Льва, 5 ключей Чёрного Льва, 5 метаболических активаторов, 5 ускорителей опыта, 3 универсальных активатора, 1 усилитель брони, 1 усилитель скорости и 1 усилитель силы, а также ранний доступ к 10 применениям смертельного удара."
 Contains 5 Fractal Relics.,Содержит 5 Реликвий Фракталов.
-Contains 5 fractal relics. Right-click to consume them all.,
+Contains 5 fractal relics. Right-click to consume them all.,"Содержит 5 фрактальных реликвий. Щелкните правой кнопкой мыши, чтобы использовать их все сразу."
 Contains 5 Geodes.,Содержит 5 Геодов.
 Contains 5 Obsidian Shards,Содержит 5 Осколков Обсидиана
 Contains 5 Pristine Fractal Relics and 1 Golden Fractal Relic.,Содержит 5 Нетронутых Реликвий Фракталов и 1 Золотую Реликвию Фракталов.
@@ -445,7 +462,9 @@ Contains 50 Piles of Bloodstone Dust.,Содержит 50 Куч Кроваво�
 Contains 500 Tournament Claim Tickets.,Содержит 500 билетов на турнир.
 "Contains 5000 Karma.
 
-<c=@flavor>Thank you for all of your support over the years!</c>",
+<c=@flavor>Thank you for all of your support over the years!</c>","Содержит 5000 единиц кармы.
+
+<c=@flavor>Спасибо за вашу поддержку на протяжении многих лет!</c>"
 Contains 75 Legendary Shards of your choice.,Содержит 75 легендарных осколков на ваш выбор.
 Contains a 28 Slot Bag and a Bag Slot Expansion.,Содержит сумку на 28 ячеек и расширение слота сумки.
 Contains a Block of Tofu and Piles of Soybeans.,Содержит блок тофу и кучи соевых бобов.
@@ -482,7 +501,7 @@ Double-click to read.","Содержит коллекцию приказов Б�
 Outfits are full sets of clothing that hide other armor. This will not change individual armor pieces, and you will still receive your current armor stats.","Содержит наряд повара, который можно использовать в бою, и игрушечную сковороду для костюмных потасовок.
 
 Наряды — это полные комплекты одежды, скрывающие другую броню. Это не изменит отдельные части брони, и вы сохраните текущие характеристики брони."
-"Contains a Fairy Dust Mining Tool, a Fairy Dust Logging Tool, a Fairy Dust Harvesting Tool, and three Black Lion Glyph Selection Containers.",
+"Contains a Fairy Dust Mining Tool, a Fairy Dust Logging Tool, a Fairy Dust Harvesting Tool, and three Black Lion Glyph Selection Containers.","Содержит шахтерский инструмент для добычи волшебной пыли, лесорубный инструмент для добычи волшебной пыли, сельскохозяйственный инструмент для сбора волшебной пыли и три контейнера для выбора глифов Черного Льва."
 Contains a fifth-tier rare crafting trophy.,Содержит редкий трофей для крафта пятого уровня.
 "Contains a full set of exotic weapons, armor, and trinkets from the Level-80 Boost.","Содержит полный набор экзотического оружия, брони и аксессуаров из усиления до 80-го уровня."
 "Contains a full set of exotic weapons, armor, and trinkets from the Level-80 Boost. All of these items are salvageable.","Содержит полный набор экзотического оружия, брони и аксессуаров из усиления до 80-го уровня. Все эти предметы можно разобрать."
@@ -504,7 +523,7 @@ Outfits are full sets of clothing that hide other armor. This will not change in
 
 <c=@flavor>Может, вам лучше помочь у осьминогов, чем просто стоять в стороне.</c>"
 Contains a Memories of Scarlet Box or Arid Dusty Satchel.,Содержит коробку воспоминаний Скарлетт или сухую пыльную сумку.
-"Contains a Mystery Cooking Ingredient Box full of cooking supplies, including some for ascended cooking, and a random, sellable Guild Wars 2 commemorative item.",
+"Contains a Mystery Cooking Ingredient Box full of cooking supplies, including some for ascended cooking, and a random, sellable Guild Wars 2 commemorative item.","Содержит таинственную коробку с ингредиентами для готовки, в которой есть различные кулинарные принадлежности, включая некоторые для приготовления блюд повышенного уровня, а также случайный предмет из серии ""Guild Wars 2"", который можно продать."
 Contains a number of elemental materials and other salvaged items.,Содержит ряд элементальных материалов и других восстановленных предметов.
 "Contains a Pirate Outfit, which is usable in combat, and a Wooden Sword toy for costume brawl.
 
@@ -603,7 +622,7 @@ Outfits are full sets of clothing that hide other armor. This will not change in
 Костюмы — это полные комплекты одежды, скрывающие другую броню. Это не изменит отдельные элементы брони, и вы по-прежнему будете получать текущие характеристики брони."
 Contains barbed thorns and a chest from which to pick your choice of items.,"Содержит колючие шипы и сундук, из которого можно выбрать предметы."
 Contains basic crafting materials with a chance to get ascended materials.,Содержит базовые материалы для крафта с шансом получить вознесённые материалы.
-Contains boosters and a legacy suit of armor.,
+Contains boosters and a legacy suit of armor.,Содержит усилители и комплект доспехов из прошлых дополнений.
 "Contains boosts to increase karma gained, experience gained by killing enemies, and chance to find magic items. Each lasts one hour. Use all three at once, or each one individually!","Содержит усиления для увеличения получаемой кармы, опыта за убийство врагов и шанса найти магические предметы. Каждое действует один час. Используйте все три сразу или каждое по отдельности!"
 Contains both left and right versions of Magnus's eye patch.,Содержит левую и правую версии повязки на глаз Магнуса.
 "Contains Bronze Guild Challenger Trophy; Potions of PvP Reward; and Guild Challenger Decoration token, coin, and items that help restore your guild arena.","Содержит бронзовый трофей гильдейского претендента; зелья награды PvP; и жетон украшения гильдейского претендента, монету и предметы, помогающие восстановить арену гильдии."

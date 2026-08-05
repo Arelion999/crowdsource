@@ -10,8 +10,8 @@ John C's Happy Fun Land,Весёлая страна Джона Си
 Join %str1%,Присоединиться к %str1%
 Join %str1%'s story: %str2%.,Присоединиться к истории %str1%: %str2%.
 Join a public mission to be grouped with others. Suitable for 1 to 5 players.,"Присоединиться к публичной миссии, чтобы объединиться с другими. Подходит для 1–5 игроков."
-Join a public version of Convergences in Mount Balrior with your party and other players.Difficulty scales based on group size.NOTE: This contains spoilers for Guild Wars 2: Janthir Wilds Chapter 13: Balrior Peak.,
-Join a public version of Convergences in Mount Balrior with your party and other players.NOTE: This content contains spoilers for Guild Wars 2: Janthir Wilds Chapter 13: Balrior Peak,
+Join a public version of Convergences in Mount Balrior with your party and other players.Difficulty scales based on group size.NOTE: This contains spoilers for Guild Wars 2: Janthir Wilds Chapter 13: Balrior Peak.,"Присоединитесь к другим игрокам и своей группе в публичной версии «Слияний» на горе Бальриор. Сложность подстраивается под размер группы. ВНИМАНИЕ: это содержит спойлеры к сюжету Guild Wars 2: Janthir Wilds, глава 13: Вершина Бальриора."
+Join a public version of Convergences in Mount Balrior with your party and other players.NOTE: This content contains spoilers for Guild Wars 2: Janthir Wilds Chapter 13: Balrior Peak,Присоединяйтесь к другим игрокам и своей группе в публичной версии «Схождения» на горе Бальриор. ВНИМАНИЕ: этот контент содержит спойлеры к главе 13 игры Guild Wars 2: Janthir Wilds — «Вершина Бальриора».
 Join a public version of Convergences with your party and other players.,Присоединиться к публичной версии Схождений со своей группой и другими игроками.
 Join a public version of Dragonstorm with your party and other players.,Присоединиться к публичной версии Драконьего Шторма со своей группой и другими игроками.
 Join a public version of Forging Steel. Player limit: 10.,Присоединиться к публичной версии Ковки Стали. Лимит игроков: 10.
@@ -94,7 +94,7 @@ Jormag Hologram Generator[s],[Генератор|Генератора|Генер
 Jormag is drawing magic from ley lines!,Джормаг вытягивает магию из линий магии!
 Jormag Left Eye Infusion[s],[Инкрустация|Инкрустации|Инкрустаций] левого глаза Йормага
 Jormag Legendary Weapon Skins,Облики легендарного оружия Джормага
-"Jormag Minion Loot Box[pl:""Boxes""]",
+"Jormag Minion Loot Box[pl:""Boxes""]",Ящик с добычей от прислужника Йормаг[|и|а]
 Jormag Prism,Призма Джормага
 Jormag Right Eye Infusion[s],[Инкрустация|Инкрустации|Инкрустаций] правого глаза Йормага
 Jormag's Argument Skin[s],[Облик|Облика|Обликов] «Довод Йормага»
@@ -125,7 +125,7 @@ Jot Something Down,Записать что-нибудь
 Jotun Flurry,Шквал Йотуна
 Jotun has been killed.,Йотун убит.
 Jotun Infusion[s],Инкрустаци[я|и|й] ётуна
-"Jotun Loot Box[pl:""Boxes""]",
+"Jotun Loot Box[pl:""Boxes""]",Ящик джунов[|а|ы]
 Jotun Slash,Рубящий удар Йотуна
 Jotun Slice,Рассечение Йотуна
 Jotun Sweep,Взмах Йотуна
@@ -222,15 +222,15 @@ Jumping puzzles are jumping-based mini dungeons hidden throughout Tyria. Each ju
 Junction Haven Food Sack,Мешок с едой из Убежища Перекрестка
 "Jundia[pl:""Jundia""]",[Юндия|юндии|юндий]
 Junge Kräuter,Молодые травы
-"Jungle Bear Finisher Box[pl:""Boxes""]",
+"Jungle Bear Finisher Box[pl:""Boxes""]",Коробка с джунглевый медведем[|и|ов]
 Jungle Bear Rank Reward Track,Трек наград ранга «Джунглевый медведь»
 Jungle Boar[s],[Джунглевый кабан|Джунглевых кабана|Джунглевых кабанов]
 "Jungle Bush[pl:""Bushes""]",Джунглевый куст
-"Jungle Deer Finisher Box[pl:""Boxes""]",
+"Jungle Deer Finisher Box[pl:""Boxes""]",Коробка с оленем из джунглей[|и|ей]
 Jungle Deer Rank Reward Track,Трек наград ранга «Джунглевый олень»
-"Jungle Dolyak Finisher Box[pl:""Boxes""]",
+"Jungle Dolyak Finisher Box[pl:""Boxes""]",Коробка с обликом для дольяка из джунглей[|и|и]
 Jungle Dolyak Rank Reward Track,Трек наград ранга «Джунглевый долйак»
-"Jungle Dragon Finisher Box[pl:""Boxes""]",
+"Jungle Dragon Finisher Box[pl:""Boxes""]",Коробка[|и|бок] завершающего удара джунглевого дракона
 Jungle Dragon Husk Unarmed,Оболочка джунглевого дракона (без оружия)
 Jungle Dragon Rank Reward Track,Трек наград ранга «Джунглевый дракон»
 Jungle Dye[s],[Краска|Краски|Красок] «Джунгли»
@@ -265,24 +265,24 @@ Jungle Magics: Torch Edition,"Джунглевая магия: Факел, из�
 Jungle Magics: Trident Edition,"Джунглевая магия: Трезубец, издание"
 Jungle Magics: Warhorn Edition,"Джунглевая магия: Рог войны, издание"
 Jungle Material Donations,Пожертвования материалов джунглей
-"Jungle Phoenix Finisher Box[pl:""Boxes""]",
+"Jungle Phoenix Finisher Box[pl:""Boxes""]","Ящик с обликом ""Джунглевый феникс""[|и|я]"
 Jungle Phoenix Rank Reward Track,Трек наград ранга Джунглевый Феникс
 Jungle Plant[s],[Растение|Растения|Растений] джунглей
 Jungle Plants,Джунглевые растения
-"Jungle Rabbit Finisher Box[pl:""Boxes""]",
+"Jungle Rabbit Finisher Box[pl:""Boxes""]",Коробка с джунглевой кроликом[|и|ок]
 Jungle Rabbit Rank Reward Track,Трек наград ранга Джунглевый кролик
 Jungle Raptor,Джунглевый раптор
-"Jungle Shark Finisher Box[pl:""Boxes""]",
+"Jungle Shark Finisher Box[pl:""Boxes""]",Коробка с финишером «Джунглевая акула»[|ы|ов]
 Jungle Shark Rank Reward Track,Трек наград ранга Джунглевая акула
 Jungle Skelk,Джунглевый скелк
 Jungle Skelk Lurker,Джунглевый скелк-скрытень
 Jungle Spider,Джунглевый паук
 Jungle Spider Hatchling,Детеныш джунглевого паука
 Jungle Tendril Root,Корень джунглевой лианы
-"Jungle Tiger Finisher Box[pl:""Boxes""]",
+"Jungle Tiger Finisher Box[pl:""Boxes""]",Коробка с убийцей из джунглей[|и|ей]
 Jungle Tiger Rank Reward Track,Трек наград ранга Джунглевый тигр
 Jungle Troll,Джунглевый тролль
-"Jungle Wolf Finisher Box[pl:""Boxes""]",
+"Jungle Wolf Finisher Box[pl:""Boxes""]",Ящик[|а|ов] финального удара джунглевого волка
 Jungle Wolf Rank Reward Track,Трек наград ранга Джунглевый волк
 Jungle Wurm,Джунглевый червь
 Jungle Wurm Egg[s],[Яйцо|Яйца|Яиц] джунглевого червя
@@ -301,7 +301,7 @@ Junundu Siege,Осада Джунунду
 Junundu Smash,Сокрушение Джунунду
 Junundu Wail,Вопль Джунунду
 Junundu Wurm,Червь Джунунду
-"Just a ""City Tengu"":  A Story of Comeuppance in New Kaineng City",
+"Just a ""City Tengu"":  A Story of Comeuppance in New Kaineng City",Просто «Город Тэнгу»: история о возмездии в Новом Кайненге.
 "Just a quick note to thank you for helping protect Crossroads Haven from those dastardly Sons of Svanir. It's critical that we keep the road open, despite their attacks. —Sheriff Asta","Просто короткая заметка, чтобы поблагодарить вас за помощь в защите Убежища Перекрестка от этих гнусных Сыновей Сванира. Крайне важно держать дорогу открытой, несмотря на их атаки. —Шериф Аста"
 Just because an enemy is down doesn't mean they're out of the fight. Finish off your foes!,"То, что враг повержен, не значит, что он выбыл из боя. Добейте врагов!"
 Just beyond the ruined threshold.,Прямо за разрушенным порогом.
@@ -324,7 +324,7 @@ Jute Epaulet Padding[s],[Прокладка|Прокладки|Прокладо�
 Jute Epaulet Panel[s],[Панель|Панели|Панелей] для эполет из джута
 Jute Headpiece Padding[s],[Прокладка|Прокладки|Прокладок] для головного убора из джута
 Jute Headpiece Strap[s],Лямк[а|и|] головного убора из джута
-"Jute Patch[pl:""Patches""]",
+"Jute Patch[pl:""Patches""]",[Лоскут из джута|Лоскуты из джута|Лоскутов из джута]
 Jute Sandal Sole[s],Подошв[а|ы|] сандалии из джута
 Jute Sandal Upper[s],Верх[|а|ов] сандалии из джута
 Jute Scrap[s],Обрезок[|ка|ков] джута
@@ -346,7 +346,7 @@ Juvenile Fanged Iboga[s],[Детеныш|Детеныша|Детенышей] к
 Juvenile Fern Hound[s],[Детеныш|Детеныша|Детенышей] папоротниковой гончей
 Juvenile Fire Wyvern[s],[Детеныш|Детеныша|Детенышей] огненного виверна
 Juvenile Forest Spider[s],[Детеныш|Детеныша|Детенышей] лесного паука
-"Juvenile Frogfish[pl:""Frogfish""]",
+"Juvenile Frogfish[pl:""Frogfish""]",[Маленькая лягушковая рыба|Маленькие лягушковые рыбы|Маленьких лягушковых рыб]
 Juvenile Hawk[s],[Детеныш|Детеныша|Детенышей] ястреба
 Juvenile Hyena[s],[Детеныш|Детеныша|Детенышей] гиены
 Juvenile Ice Drake[s],[Детеныш|Детеныша|Детенышей] ледяного дракона
@@ -413,12 +413,12 @@ Kaiser Snake Rifle Skin[s],Облик[|а|ов] винтовки «Змея Ка
 Kaiser Snake Scepter Skin[s],Облик[|а|ов] скипетра «Змея Кайзера»
 Kaiser Snake Shield Skin[s],Облик[|а|ов] щита «Змея Кайзера»
 Kaiser Snake Short Bow Skin[s],Облик[|а|ов] короткого лука «Змея Кайзера»
-Kaiser Snake Staff Skin[s],
-Kaiser Snake Sword Skin[s],
-Kaiser Snake Torch Skin[s],
-Kaiser Snake Warhorn Skin[s],
+Kaiser Snake Staff Skin[s],"Кожа для посоха ""Императорская змея""[|и|ий|их]"
+Kaiser Snake Sword Skin[s],Кинжал императорской змеи[|а|ы|ок]
+Kaiser Snake Torch Skin[s],"Скины для факела ""Императорская змея""[|а|ов]"
+Kaiser Snake Warhorn Skin[s],"Военный рог ""Императорская змея""[|и|ий|их]"
 "Kale Leaf[pl:""Leaves""]",Лист капусты кале
-"Kale Seed Pouch[pl:""Pouches""]",
+"Kale Seed Pouch[pl:""Pouches""]",Мешочек с семенами капусты[|а|и|ов]
 Kalla's Fervor per Hit,Рвение Каллы за удар
 "Kaluga[pl:""Kaluga""]",
 "Kameela, Black Lion Trader","Камила, торговец Чёрного Льва"
@@ -455,13 +455,13 @@ Karma Points,Очки кармы
 Karma: %num1%,Карма: %num1%
 Karma—Requires Supply-Line Management Mastery,Карма — требуется владение управлением линиями снабжения
 Karmic Enrichment[s],[Обогащение|Обогащения|Обогащений] кармы
-"Karmic Retribution[pl:""Retributions""]",
+"Karmic Retribution[pl:""Retributions""]",Кармическое возмездие[|я|дия|дий]
 Karmic Retribution[s],[Воздаяние|Воздаяния|Воздаяний] кармы
 Karstadt Village is under attack!,Деревня Карштадт подверглась нападению!
 Kasmeer's Barrier,Барьер Касмир
 Kasmeer's Package,Посылка Казмир
 Kasmeer's Package now available!,Посылка Казмир теперь доступна!
-Kasmeer's Regal Outfit[s],
+Kasmeer's Regal Outfit[s],Костюм Касмир[|а|ов]
 Kasmeer's Regalia Cape[s],Плащ Касмира
 Kasmeer's Staff Skin[s],[Облик|Облика|Обликов] посоха Касмир
 Kastaz Roasted Poultry[s],Кастаз [жареная птица|жареной птицы|жареных птиц]

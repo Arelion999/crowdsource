@@ -5,24 +5,24 @@ Chromatic Assassin Axe Skin[s],[Облик|Облика|Обликов] топо
 Chromatic Assassin Dagger Skin[s],[Облик|Облика|Обликов] кинжала «Хроматический убийца»
 Chromatic Assassin Focus Skin[s],[Облик|Облика|Обликов] фокуса «Хроматический убийца»
 Chromatic Assassin Greatsword Skin[s],[Облик|Облика|Обликов] большого меча «Хроматический убийца»
-Chromatic Assassin Hammer Skin[s],
-Chromatic Assassin Longbow Skin[s],
+Chromatic Assassin Hammer Skin[s],Хроматический ассасинский молот[|а|ы|ов]
+Chromatic Assassin Longbow Skin[s],"Длинный лук ""Хроматический убийца""[|а|ов]"
 Chromatic Assassin Mace Skin[s],Облик булавы «Хроматический убийца»
-Chromatic Assassin Pistol Skin[s],
+Chromatic Assassin Pistol Skin[s],Хроматический ассасинский пистолет[|а|ы|ов]
 Chromatic Assassin Rifle Skin[s],Облик винтовки «Хроматический убийца»
 Chromatic Assassin Scepter Skin[s],Облик скипетра Хроматического Убийцы
-Chromatic Assassin Shield Skin[s],
+Chromatic Assassin Shield Skin[s],"Хроматический щит убийцы[|та|ты|""]"
 Chromatic Assassin Short Bow Skin[s],Облик хроматического короткого лука убийцы
 Chromatic Assassin Spear Skin[s],[Облик|Облика|Обликов] копья «Хроматический убийца»
 Chromatic Assassin Staff Skin[s],[Облик|Облика|Обликов] посоха «Хроматический убийца»
-Chromatic Assassin Sword Skin[s],
+Chromatic Assassin Sword Skin[s],Хроматический меч ассасина[|а|ов]
 Chromatic Assassin Torch Skin[s],Облик факела Хроматического Убийцы
-Chromatic Assassin Warhorn Skin[s],
+Chromatic Assassin Warhorn Skin[s],Хроматический боевой рог убийцы[|а|ов]
 Chromatic Assassin Weapons,Оружие хроматического убийцы
-Chromatic Bubble Wand[s],
-"Chromatic Bubbles[pl:""Bubbles""]",
+Chromatic Bubble Wand[s],Хроматическая палочка-пузыредел[ка|ки|ок]
+"Chromatic Bubbles[pl:""Bubbles""]",Хроматические пузыри[|рь|ря|рей]
 Chromatic Ooze,Хроматическая слизь
-Chromatic Resin Axe Skin[s],
+Chromatic Resin Axe Skin[s],Хроматический топор из смолы[|а|ов]
 "Chromatic Resin Box[pl:""Boxes""]",Коробка хроматической смолы[ы|ы|ов]
 Chromatic Resin Dagger Skin[s],[Облик|Облика|Обликов] кинжала из хроматической смолы
 Chromatic Resin Focus Skin[s],[Облик|Облика|Обликов] фокуса из хроматической смолы
@@ -41,7 +41,7 @@ Chromatic Resin Sword Skin[s],Облик[|а|ов] меча «Хроматиче
 Chromatic Resin Torch Skin[s],Облик[|а|ов] факела «Хроматическая смола»
 Chromatic Resin Warhorn Skin[s],Облик[|а|ов] рога «Хроматическая смола»
 Chromatic Resin Weapon Skin Choice,[Ларец|Ларца|Ларцов] выбора обликов оружия из хроматической смолы
-"Chromatic Sap[pl:""Sap""]",
+"Chromatic Sap[pl:""Sap""]",Хроматический сок[|а|и]
 Chromecurve (Level 26),Хромокривая (Уровень 26)
 Chromecurve (Level 51),Хромокривая (Уровень 51)
 Chronomancer's Auric Sharpening Stone[s],Золотой точильный камень[|камня|камней] хрономанта
@@ -105,7 +105,7 @@ Citadel of Flame Story,История Цитадели Пламени
 Citadel of Flame – Nemesis,Цитадель Пламени – Немезида
 Citadel of FlameStory recommended level: <c=#CC9900>70</c>Explorable recommended level: <c=#CC9900>75</c>,Цитадель ПламениРекомендуемый уровень для истории: <c=#CC9900>70</c>Рекомендуемый уровень для исследования: <c=#CC9900>75</c>
 Citadel of Zakiros,Цитадель Закироса
-Citadel of Zakiros: Commander's Choice Chest[s],
+Citadel of Zakiros: Commander's Choice Chest[s],Цитадель Закироса: Сундук командира[|а|ов]
 Citadel Prison Key,Ключ от тюрьмы Цитадели
 Citadel Undercroft,Подземелье Цитадели
 "Citizen,The streets of Lion's Arch are quiet in the wake of the events at Dragon Bash. While the festival didn't go as well as planned, Lion's Arch is still standing. You helped protect our fair city, so you have my thanks.Clear skies,Captain Magnus, Ship's Council","Гражданин,Улицы Львиного Шпиля затихли после событий Драконьего Побоища. Хотя фестиваль прошёл не так, как планировалось, Львиный Шпиль всё ещё стоит. Вы помогли защитить наш прекрасный город, за что я вам благодарен.Ясного неба,Капитан Магнус, Городской совет"
@@ -140,7 +140,7 @@ Clark's Chukkas (Level 68),Чукки Кларка (Уровень 68)
 Clash of Rivals,Столкновение соперников
 Class I Magic Rift,Магический разрыв класса I
 Class II Magic Rift,Магический разрыв класса II
-Class III Magic Rift,
+Class III Magic Rift,Магический разлом III класса
 Class IV Magic Rift,Магический разрыв класса IV
 Class V Magic Rift,Магический разрыв класса V
 Classic Cosmetics,Классическая косметика
@@ -165,9 +165,9 @@ Claw Swipe,Взмах когтем
 Claw's Roost (Dominion),Гнездо Когтя (Доминион)
 Claw's Roost (United Legions),Гнездо Когтя (Объединенные Легионы)
 Claw[s],Коготь
-"Clawfish[pl:""Clawfish""]",
-"Clawing Shadow Greaves Box[pl:""Boxes""]",
-Clawing Shadow Plate[s],
+"Clawfish[pl:""Clawfish""]",Клешня[|и|й]
+"Clawing Shadow Greaves Box[pl:""Boxes""]",Ящик с панцирными теневыми поножами[|ы|ов]
+Clawing Shadow Plate[s],Пластина когтя тени[|а|ы|ей]
 Clay Pot[s],Глиняный горшок
 Claypool Bailey,Клейпул Бейли
 Clean Nest,Чистое гнездо
@@ -382,12 +382,12 @@ Cloth Shipment[s],[Поставка ткани|Поставки ткани|По�
 Cloth Shirt,Тканевая рубашка
 Cloth Shoes,Тканевые туфли
 Cloth Synthesizer,Синтезатор ткани
-"Cloud Cuirass[pl:""Cuirasses""]",
+"Cloud Cuirass[pl:""Cuirasses""]",Нагрудник из облака[|а|ов]
 "Clouded still, the air chills your exhalations, which linger like hanged phantoms.","Всё ещё облачно, воздух охлаждает твои выдохи, которые задерживаются, как повешенные призраки."
 Clout Shot,Ударный выстрел
 Clove and Veggie Flatbread[s],[Лепешка с гвоздикой и овощами|Лепешки с гвоздикой и овощами|Лепешек с гвоздикой и овощами]
 Clove Dye[s],[Краска «Гвоздика»|Краски «Гвоздика»|Красок «Гвоздика»]
-"Clove Seed Pouch[pl:""Pouches""]",
+"Clove Seed Pouch[pl:""Pouches""]",Сумочка для семян клена[|и|ей]
 Clove-Spiced Creme Brulee[s],[Гвоздичное крем-брюле|Гвоздичного крем-брюле|Гвоздичных крем-брюле]
 Clove-Spiced Eggs Benedict[s],[Гвоздичное яйцо Бенедикт|Гвоздичного яйца Бенедикт|Гвоздичных яиц Бенедикт]
 Clove-Spiced Pear and Cured Meat Flatbread[s],[Гвоздичная лепёшка с грушей и вяленым мясом|Гвоздичной лепёшки с грушей и вяленым мясом|Гвоздичных лепёшек с грушей и вяленым мясом]

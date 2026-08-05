@@ -217,16 +217,16 @@ Soulfire Lantern Torch Skin,Облик факела «Фонарь души»
 Soundless Hammer,Беззвучный молот
 Soundtrack Single—End of Dragons,Саундтрек-сингл—Конец драконов
 Soundtrack Single—Guild Wars 2,Сингл саундтрека — Guild Wars 2
-Soundtrack Single—Heart of Thorns,
+Soundtrack Single—Heart of Thorns,Саундтрек—Сердце терновника
 Soundtrack Single—Icebrood Saga,Сингл саундтрека — Сага о Ледяном Чудовище
-Soundtrack Single—Janthir Wilds,
+Soundtrack Single—Janthir Wilds,Музыкальный трек — Янтрийские пустоши
 Soundtrack Single—Living World Season 2,"Сингл саундтрека — Живой мир, сезон 2"
 Soundtrack Single—Living World Season 3,Сингл из саундтрека — Живой мир. Сезон 3
 Soundtrack Single—Living World Season 4,"Саундтрек-сингл — Живой мир, сезон 4"
-Soundtrack Single—Metal Legion,
+Soundtrack Single—Metal Legion,Звуковая дорожка—Металлическая легион
 Soundtrack Single—Path of Fire,Саундтрек-сингл — Путь огня
 Soundtrack Single—Secrets of the Obscure,Сингл из саундтрека — «Тайны Сокрытого»
-Soundtrack Single—Super Adventure Box,
+Soundtrack Single—Super Adventure Box,Музыкальный трек — Super Adventure Box
 Soup Feast: Double-click to set out a Pot of Artichoke Soup to share with anyone in the area. Pot stays active for 5 minutes.,"Супный пир: Дважды щёлкните, чтобы выставить горшок супа из артишоков, которым можно поделиться с любым в округе. Горшок активен в течение 5 минут."
 Soup Feast: Double-click to set out a Pot of Beet and Bean Stew to share with anyone in the area. Pot stays active for 5 minutes.,"Супный пир: Дважды щёлкните, чтобы выставить горшок рагу из свёклы и бобов, которым можно поделиться с любым в округе. Горшок активен в течение 5 минут."
 Soup Feast: Double-click to set out a Pot of Butternut Squash Soup to share with anyone in the area. Pot stays active for 5 minutes.,"Супный пир: Дважды щёлкните, чтобы выставить горшок супа из мускатной тыквы, которым можно поделиться с любым в округе. Горшок активен в течение 5 минут."
@@ -285,7 +285,9 @@ Southwatch Torch,Факел Южного дозора
 Souvenir Eir Statue,Сувенирная статуя Эйр
 "Souvenir tooth taken from a ""Big lizard! Saurian!""
 
-This item only has value as part of the Missing Brood collection.",
+This item only has value as part of the Missing Brood collection.","Зуб-сувенир, взятый у «Большой ящерицы! Сауриана!»
+
+Этот предмет имеет ценность только как часть коллекции «Пропавшая стая»."
 Sovereign Arquebus,Владычная аркебуза
 Sovereign Arquebus Skin,Облик суверенной аркебузы
 Sovereign Artifact,Владычный артефакт
@@ -323,7 +325,8 @@ Sparkling Effervescence,Искристая шипучесть
 Sparkling Tinsel Ornament,Сверкающее мишурное украшение
 Sparse Drizzlewood Coast Tree Token,Жетон редкого дерева Разреженного побережья Дризлвуд
 "Spawn a laboratory that you and your friends can interact with.
-Adding this item to your wardrobe may slightly adjust its functionality.",
+Adding this item to your wardrobe may slightly adjust its functionality.","Создайте лабораторию, с которой вы и ваши друзья сможете взаимодействовать.
+Добавление этого предмета в ваш гардероб может незначительно изменить его функциональность."
 "Spawns a banquet table, keg and various other party items which players can eat and drink from. Lasts 1 hour.","Создает банкетный стол, бочонок и различные другие предметы для вечеринки, из которых игроки могут есть и пить. Длится 1 час."
 "Spawns a banquet table, keg, and various other party items that players can eat and drink from. Lasts 1 hour.","Создаёт банкетный стол, бочонок и различные праздничные предметы, с которыми игроки могут взаимодействовать, поедая и выпивая. Длится 1 час."
 Spawns a guild banner for 30 minutes that will give a +5%% karma boost to any ally who touches it.,"Создаёт гильдейское знамя на 30 минут, дающее +5%% бонус к карме любому союзнику, коснувшемуся его."
@@ -337,20 +340,20 @@ Spawns a guild banner that will give a +10%% boost to gold from kills and a +15%
 Spawns a guild banner that will give a +15%% gathering chance and 10%% movement-speed boost to any ally that touches it for 30 minutes. Does not stack with other gathering or speed banners.,"Создает гильдейское знамя, дающее +15%% к шансу сбора и +10%% к скорости передвижения любому союзнику, коснувшемуся его, на 30 минут. Не суммируется с другими знаменами сбора или скорости."
 Spawns a guild banner that will give a +5%% boost to gold earned from monster kills for any ally that touches it for 30 minutes. Does not stack with other gold banners.,"Создает гильдейское знамя, дающее +5%% к золоту, получаемому за убийство монстров, любому союзнику, коснувшемуся его, на 30 минут. Не суммируется с другими знаменами золота."
 Spawns a guild road marker that will give 20 seconds of swiftness to any ally that touches it.,"Создает гильдейский дорожный маркер, дающий 20 секунд быстроты любому союзнику, коснувшемуся его."
-"Spawns field crafting stations for armorsmith, leatherworker, tailor, and jeweler. Lasts for 1 hour.",
-"Spawns field crafting stations for weaponsmith, huntsman, artificer, and chef. Lasts for 1 hour.",
+"Spawns field crafting stations for armorsmith, leatherworker, tailor, and jeweler. Lasts for 1 hour.","Создаёт полевые станки для изготовления брони, кожи, ткани и ювелирных изделий. Действует в течение 1 часа."
+"Spawns field crafting stations for weaponsmith, huntsman, artificer, and chef. Lasts for 1 hour.","Создаёт полевые станции для крафта оружия, снаряжения, инструментов и еды. Действует в течение 1 часа."
 Speak with Amira.,Поговорите с Амирой.
 Speak with Snargle Goldclaw.,Поговорите с Снарглом Золотым Когтем.
 Speak with the Sunspear's superior.,Поговорите с начальником Копья Солнца.
-Speaker Supply,
+Speaker Supply,Запас динамиков
 Speaker's Dawncord,Рассветный шнур Говорящего
-Speakers Cache,
+Speakers Cache,Кэш динамиков
 Speakers Propaganda,Пропаганда Говорящих
-Spear of Accuracy,
-Spear of Force,
-Spear of Smoldering,
-Spear of Venom,
-Spear Token,
+Spear of Accuracy,Копьё точности
+Spear of Force,Копьё Силы
+Spear of Smoldering,Копьё Тлеющего Пламени
+Spear of Venom,Копьё Яда
+Spear Token,Жето́н копья
 Speargun of the Dragon's Deep,Гарпун драконьей глубины
 Spearmarshal's Boots,Сапоги копьемаршала
 Spearmarshal's Breastplate,Нагрудник копьемаршала
@@ -371,86 +374,86 @@ Spearmarshal's Shoulderpads,Наплечники копьемаршала
 Spearmarshal's Tassets,Набедренники копьемаршала
 Spearmarshal's Vambraces,Наручи копьемаршала
 Spearmarshal's Vestments,Одеяние копьемаршала
-Spearmint Dye,
-Special Forces Training Gate Link,
-Special Mission Document,
+Spearmint Dye,Краситель «Мятная свежесть»
+Special Forces Training Gate Link,Связь с тренировочным порталом спецназа
+Special Mission Document,Специальный документ для миссии
 Special Mission Satchel,Сумка специального задания
 Special Mission Scroll Case,Футляр для свитков специального задания
-Special Ops Badge,
+Special Ops Badge,Значок специального подразделения
 Special Ops Boot Locker,Шкафчик сапог спецназа
-Special Ops Captain's Helmet Skin,
+Special Ops Captain's Helmet Skin,Шлем капитана спецназа
 Special Ops Chestpiece Locker,Шкафчик нагрудника спецназа
 Special Ops Glove Locker,Шкафчик перчаток спецназа
-Special Ops Heavy Boots Skin,
-Special Ops Heavy Chestpiece Skin,
-Special Ops Heavy Gloves Skin,
-Special Ops Heavy Helm Skin,
-Special Ops Heavy Pants Skin,
-Special Ops Heavy Pauldrons Skin,
+Special Ops Heavy Boots Skin,Тяжёлые ботинки специального назначения (облик)
+Special Ops Heavy Chestpiece Skin,Броня специального подразделения (тяжёлая)
+Special Ops Heavy Gloves Skin,Тяжёлые перчатки для спецназа
+Special Ops Heavy Helm Skin,Шлем особого назначения (тяжёлый)
+Special Ops Heavy Pants Skin,Броня специального назначения (тяжёлые штаны)
+Special Ops Heavy Pauldrons Skin,Наплечники особого назначения (тяжёлые)
 Special Ops Helmet Locker,Шкафчик шлема спецназа
-Special Ops Light Boots Skin,
-Special Ops Light Chestpiece Skin,
-Special Ops Light Gloves Skin,
-Special Ops Light Helm Skin,
-Special Ops Light Pants Skin,
-Special Ops Light Pauldrons Skin,
-Special Ops Medium Boots Skin,
-Special Ops Medium Chestpiece Skin,
-Special Ops Medium Gloves Skin,
-Special Ops Medium Helm Skin,
-Special Ops Medium Pants Skin,
-Special Ops Medium Pauldrons Skin,
+Special Ops Light Boots Skin,Лёгкие ботинки спецназа
+Special Ops Light Chestpiece Skin,Броня специального назначения (лёгкая)
+Special Ops Light Gloves Skin,Лёгкие перчатки специального назначения
+Special Ops Light Helm Skin,Лёгкий шлем спецназа
+Special Ops Light Pants Skin,Лёгкие штаны спецназа (облик)
+Special Ops Light Pauldrons Skin,Наплечники особого назначения (легкий вариант)
+Special Ops Medium Boots Skin,Средние ботинки специального назначения
+Special Ops Medium Chestpiece Skin,Средняя нагрудная броня особого назначения
+Special Ops Medium Gloves Skin,Средние перчатки для спецназа
+Special Ops Medium Helm Skin,Средний шлем специального назначения
+Special Ops Medium Pants Skin,Средние штаны особого назначения
+Special Ops Medium Pauldrons Skin,Средние наручи особого назначения
 Special Ops Pants Locker,Шкафчик штанов спецназа
 Special Ops Pauldrons Locker,Шкафчик наплечников спецназа
-Special Ops Requisition: Boots,
-Special Ops Requisition: Chestpiece,
-Special Ops Requisition: Gloves,
-Special Ops Requisition: Helmet,
-Special Ops Requisition: Pants,
-Special Ops Requisition: Pauldrons,
-Special Root,
-Speckled Perch,
-Spectacled Lumper,
+Special Ops Requisition: Boots,Запрос на спецзадание: сапоги
+Special Ops Requisition: Chestpiece,Запрос на специальное задание: нагрудная броня
+Special Ops Requisition: Gloves,Заявка для спецназа: перчатки.
+Special Ops Requisition: Helmet,Запрос на спецзадание: шлем
+Special Ops Requisition: Pants,Специальное задание: штаны.
+Special Ops Requisition: Pauldrons,Заявка для спецназа: наплечники.
+Special Root,Особый корень
+Speckled Perch,Пёстрая окунь
+Spectacled Lumper,Очковый толстопёр
 Specter's Authorization Papers,Разрешительные документы призрака
-Specter's Cache,
+Specter's Cache,Сундук призрака
 Specter's Feat,Подвиг призрака
 Specter's Ring,Кольцо призрака
 Specter's Scepter,Скипетр призрака
 Specter's Stamp,Печать призрака
 Specter's Trinket,Безделушка призрака
-Spectral Axe Skin,
+Spectral Axe Skin,Призрачный топорик
 Spectral Balm,Призрачный бальзам
-Spectral Dagger Skin,
-Spectral Focus Skin,
-Spectral Greatsword Skin,
-Spectral Hammer Skin,
-Spectral Jellyfish,
+Spectral Dagger Skin,Призрачный кинжал
+Spectral Focus Skin,Призрачный облик
+Spectral Greatsword Skin,Скипетр призрачного великана
+Spectral Hammer Skin,Призрачный молот (внешний вид)
+Spectral Jellyfish,Призрачная медуза
 Spectral Juju,Призрачная джуджу
-Spectral Longbow Skin,
-Spectral Mace Skin,
-Spectral Pistol Skin,
-Spectral Rifle Skin,
-Spectral Scepter Skin,
-Spectral Shield Skin,
-Spectral Short Bow Skin,
-Spectral Staff Skin,
-Spectral Sword Skin,
+Spectral Longbow Skin,Призрачный длинный лук
+Spectral Mace Skin,Призрачный скипетр
+Spectral Pistol Skin,Ски́н для спектра́льного пистоле́та
+Spectral Rifle Skin,Ски́н для спектра́льного винтовки.
+Spectral Scepter Skin,Скипетр призрачного вида
+Spectral Shield Skin,"Ски́н ""Призрачный щит"""
+Spectral Short Bow Skin,Призрачный короткий лук
+Spectral Staff Skin,Призрачная оправа для посоха
+Spectral Sword Skin,Призрачный меч
 Spectral Talisman,Призрачный талисман
-Spectral Torch Skin,
+Spectral Torch Skin,Призрачный факел
 Spectral Ward,Призрачный дозор
-Spectral Warhorn Skin,
+Spectral Warhorn Skin,Призрачный боевой рог
 Spectral Wave Modulator,Модулятор призрачных волн
-Spectral Weapon Box,
-Speed Booster,
+Spectral Weapon Box,Спектральная коробка с оружием
+Speed Booster,Ускоритель скорости
 Speed-Loading Manual,Руководство по быстрой загрузке
-Speedy Dolyak Improvement,
-Spellbound Skiff Skin,
-Spellbreaker's Cache,
+Speedy Dolyak Improvement,Улучшение скорости доляка
+Spellbound Skiff Skin,Околдованная шхуна (облик)
+Spellbreaker's Cache,Скрынь заклинателя
 Spellbreaker's Dagger,Кинжал разрушителя заклинаний
 Spellbreaker's Redoubt,Редут Заклинателя
-Spellfire Torch Skin,
+Spellfire Torch Skin,"Внешний вид: факел ""Огненное заклинание"""
 Spellforged Backpack,Зачарованный рюкзак
-Spellforged Backpack and Glider Combo,
+Spellforged Backpack and Glider Combo,Связанный заклинанием рюкзак и дельтаплан
 "Spelunking Air Filter, Treasure Hunter","Воздушный фильтр для спелеологии, искатель сокровищ"
 Spend these in shops inside the Super Adventure Box.,Потратьте их в магазинах внутри Супер приключения.
 Sphere Topiary,Сферический топиарий

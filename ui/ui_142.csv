@@ -63,12 +63,12 @@ Tarir's sanctum will be breached in: %str1%,Святилище Тарира бу
 Tarir<br>The Forgotten City,Тарир<br>Забытый город
 Tark<br>Hall,Тарк<br>Зал
 Tarnish Dye[s],[Краска|Краски|Красок] «Тарниш»
-"Tarnished Brass Compass[pl:""Compasses""]",
+"Tarnished Brass Compass[pl:""Compasses""]",Искажённый латунный компас[|а|ы]
 Tarnished Bronze Astrolabe[s],[Потускневший бронзовый астролябий|Потускневшего бронзового астролябия|Потускневших бронзовых астролябиев]
 Tarnished Burnisher,Потускневшая полировальница
 Tarnished Chest,Потускневший сундук
 Tarnished Coast & Steamspur Mountains,Потускневший берег и Шпоровые горы
-"Tarnished Coast Weapon Skins Box[pl:""Boxes""]",
+"Tarnished Coast Weapon Skins Box[pl:""Boxes""]",Ящик скинов оружия Осквернённого побережья[|а|ов]
 Tarnished Hewer (Level 37),Потускневший тесак (Ур. 37)
 Tarnished Hewer (Level 60),Потускневший тесак (Ур. 60)
 Tarnished Memory Crystal[s],[Потускневший кристалл памяти|Потускневшего кристалла памяти|Потускневших кристаллов памяти]
@@ -79,7 +79,7 @@ Tarnished Treetop: Keep an eye out on the lower canopy near fungi royalty.,По�
 Tarnished Treetop: Look on the southern-canopy tree branches for this mask.,Потускневшая верхушка дерева: Ищите эту маску на ветвях южного полога.
 Taro Dye[s],[Краска|Краски|Красок] «Таро»
 "Tarpon[pl:""Tarpon""]",Тарпон[ы|ые|их]
-"Tarragon Seed Pouch[pl:""Pouches""]",
+"Tarragon Seed Pouch[pl:""Pouches""]",Сумочка для семян таргона[|и|ей]
 Tarragon Stuffed Poultry[s],[Фаршированная эстрагоном птица|Фаршированной эстрагоном птицы|Фаршированных эстрагоном птиц]
 Tarred Bandage,Просмолённый бинт
 Tarstar Chief,Вождь Тарстар
@@ -163,14 +163,14 @@ Tasting Platter of Sushi,Дегустационная тарелка суши
 Tasty Bug,Вкусный жук
 Tasty Cake[s],[Вкусный пирог|Вкусного пирога|Вкусных пирогов]
 Tasty Carrot[s],[Вкусная морковка|Вкусной морковки|Вкусных морковок]
-"Tasty Chak Legs[pl:""Legs""]",
+"Tasty Chak Legs[pl:""Legs""]",Вкусные чак-ноги[|а|и|]
 Tasty Coconut,Вкусный кокос
 Tasty Devourer Carapace[s],Вкусный панцир[ь|я|ей] пожирателя
 Tasty Fish Scraps,Вкусные рыбные обрезки
 Tasty Golden Carrot[s],[Вкусная золотая морковка|Вкусной золотой морковки|Вкусных золотых морковок]
 Tasty Herb[s],[Вкусная трава|Вкусной травы|Вкусных трав]
 Tasty Kryptis Skin[s],Вкусная шкур[а|ы|] криптиса
-"Tasty Moss-Covered Bark[pl:""Bark""]",
+"Tasty Moss-Covered Bark[pl:""Bark""]",Вкусная покрытая мхом кора[|ы|]
 Tasty Mushroom Creatures,Вкусные грибные существа
 Tasty Trail Ration[s],Вкусный походный па[ек|йка|йков]
 Tateos's Cleric Insignia[s],Инсигни[я|и|й] клирика Татеоса
@@ -249,7 +249,7 @@ Teal Shade,Бирюзовый оттенок
 Team %str1% vs. Team %str2%,Команда %str1% против команды %str2%
 Team Arena Games Played,Сыграно игр на командной арене
 Team Arena Games Won,Выиграно игр на командной арене
-"Team Arena[pl:""Arenas""]",
+"Team Arena[pl:""Arenas""]",Командная арена[|ы|и]
 Team Bayou Drakes,Команда Болотных Драконов
 Team Bayou Undead,Команда Болотных Нежитей
 "Team captains are allowed to add and remove members from the team, as are guild members with the Team Administrator permission. There can only be one captain.","Капитанам команд разрешено добавлять и удалять участников из команды, как и членам гильдии с правом администратора команды. Может быть только один капитан."
@@ -368,7 +368,7 @@ Tempest Staff Skin[s],[Облик|Облика|Обликов] посоха «Б
 Tempest Sword Skin[s],[Облик|Облика|Обликов] меча «Буря»
 Tempest Torch Skin[s],[Облик|Облика|Обликов] факела «Буря»
 Tempest Warhorn Skin[s],[Облик|Облика|Обликов] рога «Буря»
-"Tempest Weapon Box[pl:""Boxes""]",
+"Tempest Weapon Box[pl:""Boxes""]",Ящик оружия бури[|а|ов] / Ящики оружия бури
 Tempest Weapons,Оружие Темпеста
 Tempest's Auric Sharpening Stone[s],[Точильный камень|Точильного камня|Точильных камней] аурической заточки Бури
 Temple Captured,Храм захвачен
@@ -434,7 +434,7 @@ Tengu Echo Blade[s],[Эхо-клинок|Эхо-клинка|Эхо-клинко
 Tengu Echo Weapon Box,Сундук с оружием эха тенгу
 Tengu Relics,Реликвии тенгу
 Tengu Shrine,Святилище тенгу
-"Tengu Supply Box[pl:""Boxes""]",
+"Tengu Supply Box[pl:""Boxes""]",Ящик с припасами тенгу[|и|и]
 Tengu Support Mark[s],[Метка|Метки|Меток] поддержки тенгу
 Tengu support marks exchanged:,Обменяно знаков поддержки тенгу:
 Tengu Weapons,Оружие тенгу
@@ -482,7 +482,7 @@ Terrain:,Рельеф:
 Terrifying Blast,Ужасающий взрыв
 Terrifying Screech,Ужасающий визг
 Terror caused,Вызванный ужас
-Terror Toppler's Treasure[s],
+Terror Toppler's Treasure[s],Сокровище[|а|щ] Ужасного Разрушителя
 Terror Trap,Ловушка ужаса
 Terror-Seven Krewe Leader,Лидер отряда «Ужас-Семь»
 Terrors of the Deep,Ужасы глубин

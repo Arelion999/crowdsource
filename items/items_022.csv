@@ -114,7 +114,9 @@ Event Item","Принесите это заместителю Хамаду в С
 Предмет события"
 "Bring these to Drojkor at Sand Jackal Run to help the djinn in their efforts.
 <c=@Flavor>These runes crackle with warmth in your hand.</c>
-Renown Item",
+Renown Item","Отнесите их Дрожкору в Песчаную Ящерицу, чтобы помочь джиннам в их начинаниях.
+<c=@Flavor>Эти руны приятно согревают вашу руку.</c>
+Предмет для повышения репутации."
 "Bring these to Harbormaster Yousra by the Amnoon docks to help stop the pollution of the harbor.
 Event Item","Принесите это начальнику порта Юсре у доков Амнуна, чтобы помочь остановить загрязнение гавани.
 Предмет события"
@@ -425,7 +427,7 @@ Burl Orichalcum Ring,Кольцо из плетеного орихалка
 Burlap Sack,Мешок из мешковины
 Burlap Sack Pile,Куча мешков из мешковины
 Burn nearby enemies when you successfully combo a water field with a blast or leap finisher.,Подожгите ближайших врагов при успешной комбинации водного поля с финишером взрыва или рывка.
-Burned Out M-PEC,
+Burned Out M-PEC,Выгоревший М-ПЭК
 Burning Ember,Горящий уголёк
 Burning Forest Crest,Герб горящего леса
 Burning Frozen Core,Горящее замёрзшее ядро

@@ -56,7 +56,7 @@ Download the software module from an Inquest terminal and use it to update the s
     Мой друг. Мой властелин веков. Моя дражайшая Сидони.
     Прощай, Твой Рауль"
 DPI Scaling,Масштабирование DPI
-DPS: %num1%Damage: %num2%Time: %num3%,
+DPS: %num1%Damage: %num2%Time: %num3%,"Урон: %num1%, Повреждения: %num2%, Время: %num3%"
 Draconic Aether Cleanser[s],[Очиститель|Очистителя|Очистителей] драконьего эфира
 Draconic Axe Skin[s],[Облик|Облика|Обликов] драконьего топора
 Draconic Dagger Skin[s],[Облик|Облика|Обликов] драконьего кинжала
@@ -76,7 +76,7 @@ Draconic Sword Skin[s],Облик[|а|ов] драконьего меча
 Draconic Torch Skin[s],Облик[|а|ов] драконьего факела
 Draconic Tribute[s],[Драконья дань|Драконьи дани|Драконьих даней]
 Draconic Warhorn Skin[s],Облик[|а|ов] драконьего рога
-"Draconic Weapon Box[pl:""Boxes""]",
+"Draconic Weapon Box[pl:""Boxes""]",Драконья коробка с оружием[|а|и|и]
 Draconic Weapons,Драконье оружие
 Draconic Wings Backpack and Glider Combo[s],Комплект[|а|ов] «Драконьи крылья» (ранец и планер)
 Draconic Wings Backpack[s],Ранец[|а|ов] «Драконьи крылья»
@@ -177,7 +177,7 @@ Dragon Essence Sword Skin[s],[Облик|Облика|Обликов] меча �
 Dragon Essence Torch Skin[s],[Облик|Облика|Обликов] факела «Сущность дракона»
 Dragon Essence Warhorn Skin[s],[Облик|Облика|Обликов] рога «Сущность дракона»
 Dragon Essence Weapons,Оружие «Сущность дракона»
-"Dragon Eye Infusion Box[pl:""Boxes""]",
+"Dragon Eye Infusion Box[pl:""Boxes""]",Ящик с усилением «Глаз дракона»[|а|ов]
 Dragon Eye Infusions,Инфузии «Глаз дракона»
 Dragon fight bad. Lose many skritt. But we fight! Go to Eye and lend hand. Maybe two. Then we help you.—Ftokchak,Дракон драка плохо. Потерять много скритт. Но мы драться! Иди к Глазу и дай руку. Может две. Тогда мы помогать тебе.—Фтокчак
 Dragon Finale,Финал дракона
@@ -190,7 +190,7 @@ Dragon Hatchling Doll Hide[s],[Шкурка|Шкурки|Шкурок] кукл�
 Dragon Hatchling Doll[s],[Кукла|Куклы|Кукол]-дракончик[а|ов|ов]
 Dragon Hologram,Драконий голограмма
 Dragon Hologram Generator[s],[Генератор|Генератора|Генераторов] голограммы дракона
-"Dragon Horns[pl:""Horns""]",
+"Dragon Horns[pl:""Horns""]",[Драконьи рога|Драконовы рога|Драконовых рогов]
 Dragon Kama Skin[s],Облик[|а|ов] драконьего кама
 Dragon Kick,Удар дракона
 Dragon Launch,Запуск дракона
@@ -219,7 +219,7 @@ Dragon Talon,Драконий коготь
 Dragon Token[s],Жетон[|а|ов] дракона
 Dragon Trigger can only be used while wielding the gunsaber.,Драконий спуск можно использовать только с оружием-мечом.
 Dragon Trigger—Locked,Драконий спуск — заблокирован
-"Dragon Watch's Regalia[pl:""Regalia""]",
+"Dragon Watch's Regalia[pl:""Regalia""]",Драконья регалия[|и|й]
 Dragon's Breath Bun[s],Булочк[а|и|ек] «Дыхание дракона»
 Dragon's Breath Lantern[s],Фонар[ь|я|ей] «Дыхание дракона»
 Dragon's Challenge,Испытание дракона
@@ -228,13 +228,13 @@ Dragon's End Contributor,Помощник Края Дракона
 Dragon's End Fishing License[s],Лицензи[я|и|й] на рыбалку в Драконьем конце
 Dragon's End Fishing Reward[s],[Награда|Награды|Наград] за рыбалку в Логове дракона
 Dragon's End Reward Track,Трек наград «Конец Дракона»
-Dragon's End: Commander's Choice Chest[s],
+Dragon's End: Commander's Choice Chest[s],Сундук командира из Dragon’s End[|а|и|ов]
 Dragon's End: Hero's Choice Chest[s],[Сундук|Сундука|Сундуков] выбора героя в Логове дракона
 Dragon's Eye Circlet[s],[Венец|Венца|Венцов] Драконьего ока
 Dragon's Fury,Ярость Дракона
 Dragon's Grove,Роща Дракона
 Dragon's Grove [lbracket]D[rbracket],Роща Дракона [lbracket]D[rbracket]
-Dragon's Intricate Gossamer Insignia[s],
+Dragon's Intricate Gossamer Insignia[s],Сложная драконья инсигния из тончайшей паутины[|и|ий|ий]
 Dragon's Jade Aspect Skin[s],[Облик|Облика|Обликов] нефритового аспекта дракона
 Dragon's Jade Avenger Skin[s],[Облик|Облика|Обликов] нефритового мстителя дракона
 Dragon's Jade Blunderbuss Skin[s],[Облик|Облика|Обликов] нефритового мушкетона дракона
@@ -251,7 +251,7 @@ Dragon's Jade Reaver Skin[s],Облик[|а|ов] «Драконий нефри�
 Dragon's Jade Truncheon Skin[s],Облик[|а|ов] «Драконья нефритовая дубинка»
 Dragon's Jade Wall Skin[s],Облик[|а|ов] «Драконий нефритовый щит»
 Dragon's Jade Warhammer Skin[s],Облик[|а|ов] «Драконий нефритовый боевой молот»
-"Dragon's Jade Weapon Box[pl:""Boxes""]",
+"Dragon's Jade Weapon Box[pl:""Boxes""]",Ящик с оружием из драконьего нефрита[|и|я]
 Dragon's Jade Weapons,Оружие Драконьего нефрита
 Dragon's Might,Драконья мощь
 Dragon's Orichalcum Imbued Inscription[s],
@@ -261,7 +261,7 @@ Dragon's Stand (Pact Base Camp),Оплот Дракона (Базовый лаг
 Dragon's Stand Respite,Приют Оплота Дракона
 Dragon's Stand Tiger Refuge Sign,Вывеска тигриного убежища Оплота Дракона
 Dragon's Stand: Broken Altar,Оплот Дракона: Разрушенный алтарь
-Dragon's Stand: Commander's Choice Chest[s],
+Dragon's Stand: Commander's Choice Chest[s],Сундук командира из Драконьей заставы[|а|и|ов]
 Dragon's Tooth Lantern[s],Фонар[ь|я|ей] «Зуб дракона»
 Dragon's Watch Backpack Voucher Preview,Предпросмотр ваучера на ранец Дозора Дракона
 Dragon's Watch Cape now available!,Плащ Дозора Дракона теперь доступен!
@@ -285,8 +285,8 @@ Dragonfall (Underground),Падение дракона (Подземелье)
 Dragonfall Coffer[s],Ларец[|а|ов] Падения Дракона
 Dragonfall Empowerment[s],[Укрепление|Укрепления|Укреплений] Драконьего падения
 Dragonfall Reward Track,Трек наград «Падение дракона»
-"Dragonfish Candy[pl:""Candies""]",
-"Dragonfish[pl:""Dragonfish""]",
+"Dragonfish Candy[pl:""Candies""]",Леденец из драконьей рыбы[|а|ов]
+"Dragonfish[pl:""Dragonfish""]",[Драконья рыба|Драконьи рыбы|Драконьих рыб]
 Dragonfly Cupcake[s],[Кекс|Кекса|Кексов] «Стрекоза»
 Dragonhunter's Auric Sharpening Stone[s],[Точильный камень|Точильного камня|Точильных камней] драконоборца с ауриком
 Dragonite Ingot[s],[Слиток|Слитка|Слитков] драконита
@@ -299,7 +299,7 @@ Dragonsblood Shrapnel Bolt,Картечный болт из драконьей �
 Dragonsblood Spear,Копьё из драконьей крови
 Dragonsblood Spears,Копья из драконьей крови
 Dragonsblood Weapon Recipe Book[s],[Книга рецептов|Книги рецептов|Книг рецептов] оружия из крови дракона
-"Dragonscale Epaulettes Box[pl:""Boxes""]",
+"Dragonscale Epaulettes Box[pl:""Boxes""]",Коробка драконьей чешуи[|коробки|коробок]
 Dragonstorm Entry,Вход в Драконий шторм
 Dragonstorm Sector,Сектор Драконий Шторм
 Dragonvine Priory Strap[s],[Ремень|Ремня|Ремней] Приората из лозы дракона
@@ -396,7 +396,7 @@ Dreamthistle Sword Skin[s],[Облик|Облика|Обликов] меча «�
 Dreamthistle Torch Skin[s],[Облик|Облика|Обликов] факела «Снотополох»
 Dreamthistle Trident Skin[s],[Облик|Облика|Обликов] трезубца «Снотополох»
 Dreamthistle Warhorn Skin[s],[Облик|Облика|Обликов] боевого рога «Снотополох»
-"Dreamthistle Weapon Box[pl:""Boxes""]",
+"Dreamthistle Weapon Box[pl:""Boxes""]",Коробка с оружием из лунного чертополоха[|ки|и]
 Dreamthistle Weapons,Оружие «Грезы чертополоха»
 Dreamwalker Dagger Skin[s],[Облик|Облика|Обликов] кинжала «Сноходец»
 Dreamwalker Longbow Skin[s],[Облик|Облика|Обликов] длинного лука «Сноходец»
@@ -408,7 +408,7 @@ Dreamwalker Wings Backpack[s],[Сумка|Сумки|Сумок] «Крылья 
 Dredge Aggro Tracker,Трекер агро дреджей
 Dredge Automated Cannon,Автоматическая пушка дредж
 Dredge Automated Turret,Автоматическая турель дредж
-"Dredge Bomber Loot Box[pl:""Boxes""]",
+"Dredge Bomber Loot Box[pl:""Boxes""]",Ящик с добычей от диггера-подрывника[|щики|щиков]
 Dredge Bomber[s],[Подрывник|Подрывника|Подрывников] дредж
 Dredge Camp,Лагерь дредж
 Dredge Cannon,Пушка Дредж
@@ -433,14 +433,14 @@ Dredge Mining Suit,Горнодобывающий костюм Дредж
 Dredge Mining Suit[s],[Шахтёрский костюм дреджей|Шахтёрского костюма дреджей|Шахтёрских костюмов дреджей]
 Dredge Mortar,Мортира дреджоутов
 Dredge Mortars,Дреджутовые мортиры
-"Dredge Oscillator Loot Box[pl:""Boxes""]",
+"Dredge Oscillator Loot Box[pl:""Boxes""]","Ящик с добычей ""Дредж-осциллятор""[|щики|щиков]"
 Dredge Oscillator[s],[Осциллятор|Осциллятора|Осцилляторов] дредж
 Dredge Personnel Carrier,Транспорт для перевозки личного состава Дредж
-"Dredge Resonator Loot Box[pl:""Boxes""]",
+"Dredge Resonator Loot Box[pl:""Boxes""]",Ящик с добычей из Дредж-резонатора[|щики|щиков]
 Dredge Resonator[s],[Резонатор|Резонатора|Резонаторов] дредж
-"Dredge Reverberant Loot Box[pl:""Boxes""]",
+"Dredge Reverberant Loot Box[pl:""Boxes""]",Ящик с добычей Дреджа-Реверберанта[|и|а|ов]
 Dredge Reverberant[s],[Ревербератор|Ревербератора|Ревербераторов] дредж
-"Dredge Sonic Reverberant Loot Box[pl:""Boxes""]",
+"Dredge Sonic Reverberant Loot Box[pl:""Boxes""]","Ящик с добычей Дреджа ""Сонический Ревербератор""[|щики|щиков]"
 Dredge Sonic Rifle,Звуковая винтовка дреджей
 Dredge Spiral Drill[s],[Спиральное сверло|Спирального сверла|Спиральных свёрл] дредж
 Dredge Storm Generator,Генератор бури дреджей

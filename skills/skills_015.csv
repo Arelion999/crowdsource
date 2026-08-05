@@ -112,9 +112,11 @@ Your next weapon skill will recharge faster.,Ваш следующий навы�
 Your outgoing damage is reduced by 25% per stack.,Ваш исходящий урон снижен на 25% за каждый стак.
 Your outgoing strikes deal additional damage and restore your health.,Ваши исходящие удары наносят дополнительный урон и восстанавливают ваше здоровье.
 "Your pet strikes nearby enemies with vines, removing boons. Disabled or defiant enemies are also slowed.
-<c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>",
+<c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Ваш питомец атакует ближайших врагов лозами, снимая благословения. Ослабленные или сопротивляющиеся враги также замедляются.
+<c=@reminder>Ослабление включает в себя оглушение, ошеломление, отбрасывание, притягивание, сбивание с ног, погружение, подъем, отталкивание, насмешку и страх.</c>"
 "Your pet teleports to your target and lashes out, poisoning enemies and applying vulnerability to disabled or defiant enemies.
-<c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>",
+<c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Ваш питомец телепортируется к цели и наносит удар, отравляя врагов и применяя эффект уязвимости к обездвиженным или находящимся в состоянии защиты противникам.
+<c=@reminder>Обездвиживание включает оглушение, ошеломление, отбрасывание, притягивание, сбивание с ног, погружение, подъем, отталкивание, насмешку и страх.</c>"
 "Your shattered illusion reforms into a mirror. Touching the mirror shatters it, granting mirage cloak to you and weakening foes.","Ваша разбитая иллюзия превращается в зеркало. Касание зеркала разбивает его, даруя вам «плащ миража» и ослабляя врагов."
 Your shot splits into a spread of harpoons that each bleed your target.,"Ваш выстрел распадается на веер гарпунов, каждый из которых вызывает кровотечение у цели."
 Your skin freezes through as death takes hold.,"Ваша кожа леденеет, когда смерть берет свое."

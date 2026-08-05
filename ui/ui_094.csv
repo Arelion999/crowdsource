@@ -110,7 +110,7 @@ Medium Consortium Breathing Mask[s],[Средняя дыхательная ма�
 Medium Crafting Bag[s],[Средняя сумка|Средних сумки|Средних сумок] для ремесла
 Medium Dancing Spark,Средняя танцующая искра
 Medium Dark,Средний тёмный
-Medium Donation Receipt[s] (Value: 25),
+Medium Donation Receipt[s] (Value: 25),Квитанция о средней сумме пожертвования[|ий|я] (стоимость: 25)
 Medium Fancy Mask[s],Средняя причудливая [маска|маски|масок]
 Medium Gloves Token[s],Средний [жетон|жетона|жетонов] перчаток
 Medium Gray,Средний серый
@@ -232,7 +232,7 @@ Melandru Garden,Сад Меландру
 Melandru Statue <c=#ff8c00>[lbracket]Contested[rbracket]</c><br>• Sharp brambles cover the area.,Статуя Меландру <c=#ff8c00>[lbracket]Конфликтная[rbracket]</c><br>• Острые колючки покрывают местность.
 Melandru Statue[s],[Статуя|Статуи|Статуй] Меландру
 Melandru's Fount,Источник Меландру
-"Melandru's Lurker[pl:""Lurkers""]",
+"Melandru's Lurker[pl:""Lurkers""]",[Скрывающийся Меландру|Скрывающиеся Меландру|Скрывающихся Меландру]
 Melandru's Matchup,Противостояние Меландру
 Melandru's Orchard[s],[Сад|Сада|Садов] Меландру
 Melandru's Tear[s],[Слеза|Слезы|Слез] Меландру
@@ -291,7 +291,7 @@ Memorial[s] for a Soldier,[Мемориал|Мемориала|Мемориал�
 Memorial[s] for a Wanderer,[Мемориал|Мемориала|Мемориалов] страннику
 Memorial[s] for a Wife and Son,[Мемориал|Мемориала|Мемориалов] жене и сыну
 Memories of Life as a Choya,Воспоминания о жизни чойя
-"Memories of Scarlet Box[pl:""Boxes""]",
+"Memories of Scarlet Box[pl:""Boxes""]",Сундук воспоминаний о Скарлет[|а|ов]
 Memories of the Father,Воспоминания об отце
 Memories of the Mother,Воспоминания о матери
 Memory 1.,Воспоминание 1.
@@ -339,8 +339,8 @@ Memory Snares Active,Искажающие ловушки памяти актив
 "Memory[pl:""Memories""] of Battle",[Воспоминание|Воспоминания|Воспоминаний] о битве
 "Memory[pl:""Memories""] of Bearkin's Adversaries",Воспоминания о врагах медведолюдей
 "Memory[pl:""Memories""] of Otter",Воспоминание[я|ия|ий] об Оттере
-"Memory[pl:""Memories""] of the Bearkin's Hunts",
-"Memory[pl:""Memories""] of the Bearkin's Victories",
+"Memory[pl:""Memories""] of the Bearkin's Hunts",Память[|и|ей] о Охотах Медвежьего племени
+"Memory[pl:""Memories""] of the Bearkin's Victories",Память[|и|ей] о победах Медвежьего племени
 "Memory[pl:""Memories""] of the Zodiac",Мини-мошпойпой[и|ок|ов]
 Menacing Statue,Угрожающая статуя
 Mender Amulet,Амулет целителя
@@ -353,7 +353,7 @@ Mentor mode enabled.,Режим наставника включён.
 Mentor's Kit[s],[Набор|Набора|Наборов] наставника
 Menu Bar,Панель меню
 Menzies's Agony Skin[s],[Облик|Облика|Обликов] агонии Мензиса
-"Menzies's Agony[pl:""Agonies""]",
+"Menzies's Agony[pl:""Agonies""]",Мучения Мензиса[|ия|ий]
 "Meow meow meow meow meow. Meow meow meow!  Meow nya mew meow meow? Rowr meow mra meow.—His Royal Majesty, First Claw of the Realms and Conqueror of the Sunbeam Throne, the King of All Cats","Мяу мяу мяу мяу мяу. Мяу мяу мяу!  Мяу няу мяв мяу мяу? Ррр мяу мра мяу.—Его Королевское Величество, Первый Коготь Миров и Завоеватель Солнечного Трона, Король Всех Кошек"
 Merc Camp,Лагерь наёмников
 Mercenary Amulet,Амулет наёмника
@@ -365,7 +365,7 @@ Mercenary Pistoleer,Наёмный пистолетчик
 Mercenary Quickshot,Наёмный скорострел
 Mercenary Requisitioner,Запросчик наёмников
 Mercenary Skirmisher,Наёмный застрельщик
-"Merchant Express[pl:""Expresses""]",
+"Merchant Express[pl:""Expresses""]",[Купеческая повозка|Купеческие повозки|Купеческих повозок]
 Merchant Ket'abatchk,Торговец Кет'абатчк
 Merchant Unlocked: %str1%,Торговец разблокирован: %str1%
 Merchant's Cart,Тележка торговца
@@ -390,7 +390,7 @@ Merciless Staff Skin[s],[Облик|Облика|Обликов] посоха «
 Merciless Sword Skin[s],[Облик|Облика|Обликов] меча «Безжалостный»
 Merciless Torch Skin[s],[Облик|Облика|Обликов] факела «Безжалостный»
 Merciless Warhorn Skin[s],[Облик|Облика|Обликов] рога «Безжалостный»
-"Merciless Weapon Box[pl:""Boxes""]",
+"Merciless Weapon Box[pl:""Boxes""]",Ящик беспощадного оружия[|а|и|ия]
 Merciless Weapons,Беспощадное оружие
 Mergath Flarekin,Мергат Пламекин
 "Mergath Flarekin used to be just your father's second. In Forktail's absence, he has risen to legionnaire of his Flame Legion warband. Now he's ready to initiate a powerful ritual and destroy the Black Citadel's highest-ranking officers.",Мергат Пламекин когда-то был всего лишь заместителем твоего отца. В отсутствие Вилохвоста он возвысился до легионера своего отряда Легиона Пламени. Теперь он готов провести мощный ритуал и уничтожить высших офицеров Черной Цитадели.
@@ -430,7 +430,7 @@ Metal Crate,Металлический ящик
 Metal Detector,Металлоискатель
 Metal Forest,Металлический лес
 Metal Helm,Металлический шлем
-Metal Legion Band T-Shirt Skin[s],
+Metal Legion Band T-Shirt Skin[s],Футболка с изображением группы Metal Legion[|а|ы|ок]
 Metal Legion Concert,Концерт Металлистов
 Metal Legion Gathering Tools now available!,Инструменты для сбора Металлического Легиона уже в продаже!
 Metal Rod[s],[Металлический стержень|Металлического стержня|Металлических стержней]
@@ -474,7 +474,7 @@ Metrica Province: The Hinterlabs,Провинция Метрика: Хинтер
 Metrica Province: The Serpentwind,Провинция Метрика: Змеиный Ветер
 Metrica Province: Voloxian Passage,Провинция Метрика: Воложский проход
 Metrica Province: Wildflame Caverns,Провинция Метрика: Пещеры Дикого Пламени
-Metrica Sports T-Shirt Skin[s],
+Metrica Sports T-Shirt Skin[s],Футболка Metrica Sports[|а|ы|ок]
 Miasma Canister,Канистра миазмов
 Michotl Dartgun,Дротиковое ружьё Мичотль
 Micro Cloud,Микрооблако

@@ -15,7 +15,7 @@ Sea Scallop[s],[Морской гребешок|Морских гребешка|
 Sea Scorpion's Eye,Глаз морского скорпиона
 "Sea Trout[pl:""Trout""]",Трофейная [форель|форели|форелей]
 Sea Turtle,Морская черепаха
-"Sea-Glass Wave Weapon Box[pl:""Boxes""]",
+"Sea-Glass Wave Weapon Box[pl:""Boxes""]",Ящик оружия «Волна из морского стекла»[|а|ов]
 Seafarer's Rest,Приют морехода
 Seafoam Dye[s],[Краска|Краски|Красок] «Морская пена»
 "Seahorse[pl:""Seahorses""]",Морской конёк[морского конька|морского конька|морских коньков]
@@ -92,7 +92,7 @@ Search Pile,Куча для поиска
 Search piles of rubble and suspicious trees for Stone Summit. (Event 1 of 2),Обыскать груды камней и подозрительные деревья в поисках Каменной Вершины. (Событие 1 из 2)
 Search Players,Игроки
 Search the archives for Xiaobo's family history.,Поищите в архивах семейную историю Сяобо.
-"Search the area and match the lost Kryptis to their guardians before time runs out.Keep an eye out for swiftspike plants, and get near them for a boost!",
+"Search the area and match the lost Kryptis to their guardians before time runs out.Keep an eye out for swiftspike plants, and get near them for a boost!","Обыщите местность и соедините потерявшихся криптисов с их хранителями до истечения времени. Будьте внимательны к растениям-свифтшпикам и подходите к ним, чтобы получить усиление!"
 Search the area for clues.,Обыщите местность в поисках улик.
 Search the area to find the stolen item.,"Обыщите местность, чтобы найти украденный предмет."
 Search the buried chests of Dry Top once they have been uncovered during a sandstorm.,"Обыщите закопанные сундуки в Сухой Вершине, когда они будут раскопаны во время песчаной бури."
@@ -117,7 +117,7 @@ Searching Drakehound,Поиск Дрейкхаунда
 Seared Beef Steak[s],[Стейк|Стейка|Стейков] из говядины с прожаркой
 Seared Electrum,Обожженный электрум
 Searing Cauldron,Раскаленный котел
-"Searing Chain Gloves[pl:""Gloves""]",
+"Searing Chain Gloves[pl:""Gloves""]",Жгучие цепные перчатки[|а|и]
 Searing Concoction[s],[Смесь|Смеси|Смесей] для обжига
 Searing Crystal,Пылающий кристалл
 Searing Crystals,Пылающие кристаллы
@@ -140,13 +140,13 @@ Seaside Scholar's Sandals Skin[s],[Облик|Облика|Обликов] са�
 Seaside Scholar's Sash Skin[s],[Облик|Облика|Обликов] пояса приморского учёного
 Seaside Scholar's Shorts Skin[s],[Облик|Облика|Обликов] шорт приморского учёного
 Season 1 History Lesson,Урок истории Сезона 1
-"Season 1 Memory Box[pl:""Boxes""]—Flame and Festivals",
+"Season 1 Memory Box[pl:""Boxes""]—Flame and Festivals",Сундук воспоминаний сезона 1[|а|ов] — Пламя и фестивали
 "Season 1 Memory Box[pl:""Boxes""]—Scarlet vs. Lion's Arch",Ящик с воспоминаниями Сезона 1 — Алая против Львиной Арки
 Season 1 Recap,Обзор Сезона 1
 Season 3 Expedition Board,Доска экспедиций Сезона 3
 Season 3 Expedition Contract[s],[Контракт|Контракта|Контрактов] экспедиции Сезона 3
-"Season 4 Currency Box[pl:""Boxes""]",
-"Season 4 Currency Box[pl:""Boxes""] Preview",
+"Season 4 Currency Box[pl:""Boxes""]",Сезонная валюта сезона 4[Ящик|Ящика|Ящиков]
+"Season 4 Currency Box[pl:""Boxes""] Preview",Предпросмотр коробки валюты сезона 4[|и|ей]
 Season 4 Expedition Board,Доска экспедиций Сезона 4
 Season 4 Expedition Contract[s],[Контракт|Контракта|Контрактов] экспедиции Сезона 4
 Season begins on %str1%.,Сезон начинается %str1%.
@@ -266,7 +266,7 @@ Secret of Southsun Cove,Тайна бухты Южного Солнца
 Secret Reactor Treasure,Секретное сокровище реактора
 Secret Sauce,Секретный соус
 Secret Shopped,Секретный шопинг
-"Secret Squid[pl:""Squid""]",
+"Secret Squid[pl:""Squid""]",Секретный кальмар[|а|ы]
 "SECRETS OF THE GODS by Yorlik, Priest of Abaddon.","ТАЙНЫ БОГОВ от Йорлика, жреца Абаддона."
 Secrets of the Ley Line,Тайны линии магии
 Secrets of the Obscure Chapter Complete,Тайны Затмения: глава завершена
@@ -365,7 +365,7 @@ Seer Table[s] Large,[Стол|Стола|Столов] провидца боль
 Seer Table[s] Small,[Стол|Стола|Столов] провидца маленький
 Seer Tablet,Табличка провидца
 Seer Tome,Фолиант провидца
-"Seer Transcendence[pl:""Transcendence""]",
+"Seer Transcendence[pl:""Transcendence""]",Провидец[|ица|ицы]
 Seer Trap,Ловушка провидца
 Seer Wall[s],Стен[а|ы|] провидца
 Seer Wreath[s] of Service,[Венок|Венка|Венков] провидца службы
@@ -383,9 +383,9 @@ Seismic Assault,Сейсмический штурм
 Seitung Bridge[s],Мост[|а|ов] Сейтун
 Seitung Province Fishing License[s],Лицензи[я|и|й] на рыбалку в провинции Сейтун
 Seitung Province Fishing Reward[s],[Награда|Награды|Наград] за рыбалку в провинции Сейтун
-"Seitung Province Keepsake Box[pl:""Boxes""]",
+"Seitung Province Keepsake Box[pl:""Boxes""]",Шкатулка с памятью о провинции Сейтунг[|а|и|ок]
 Seitung Province Reward Track,Трек наград провинции Сейтун
-Seitung Province: Commander's Choice Chest[s],
+Seitung Province: Commander's Choice Chest[s],Провинция Сейтунг: Сундук командира[|а|ов]
 Seitung Province: Hero's Choice Chest[s],Сундук[|а|ов] выбора героя провинции Сейтун
 Seize the Awkward,Улови неловкость
 Seize the Awkward Potion[s],Зель[е|я|й] «Ухватить неловкость»

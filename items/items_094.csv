@@ -100,7 +100,7 @@ Rejuvenating Dredge Pulverizer,Омолаживающий измельчител
 Rejuvenating Dredge Reflex Bow,Омолаживающий рефлекторный лук дреджа
 Rejuvenating Dredge Short Bow,Омолаживающий короткий лук дредж
 Rejuvenating Dredge Spear,Восстанавливающее копье дредноута
-Rejuvenating Dredge Sunderer,
+Rejuvenating Dredge Sunderer,Восстанавливающий Дредж-Разрушитель
 Rejuvenating Dredge Trident,Восстанавливающий трезубец дредж
 Rejuvenating Embroidered Cotton Insignia,«Омолаживающий вышитый хлопковый знак»
 Rejuvenating Embroidered Wool Insignia,Омолаживающая вышитая шерстяная нашивка
@@ -145,7 +145,7 @@ Rejuvenating Noble Mask,Омолаживающая благородная мас
 Rejuvenating Noble Pants,Омолаживающие благородные штаны
 Rejuvenating Noble Shoulders,Восстанавливающие дворянские наплечники
 Rejuvenating OooOoo Shooter,Омолаживающий стрелок ОооОоо
-Rejuvenating OooOoo Shooter of Force,
+Rejuvenating OooOoo Shooter of Force,Восстанавливающий ОооОоо Стрелок Силы
 Rejuvenating Outlaw Boots,Омолаживающие сапоги изгоя
 Rejuvenating Outlaw Coat,Омолаживающий костюм
 Rejuvenating Outlaw Gloves,Восстанавливающие перчатки изгоя
@@ -382,7 +382,9 @@ Renegade's Casque,Шлем отступника
 Renegade's Short Bow,Короткий лук ренегата
 "Renown Item
 Deposit into food baskets to help the Makali community of the Desert Highlands.
-<c=@Flavor>Despite the hardscrabble nature of nomadic life, the generosity on display is immense.</c>",
+<c=@Flavor>Despite the hardscrabble nature of nomadic life, the generosity on display is immense.</c>","Предмет почёта
+Поместите его в корзины с едой, чтобы помочь общине макали в Высокогорье пустыни.
+<c=@Flavor>Несмотря на суровые условия кочевой жизни, здесь можно увидеть невероятную щедрость.</c>"
 "Repackages boosts in your inventory to take up less space and allows you to change boosts to another similar type.
 
 Each powder will grant one Enchanted Boost in exchange for the following boosts in the quantity listed in the parentheses:
@@ -416,33 +418,33 @@ Repair Hammer,Ремонтный молот
 Repair materials used by the skritt brewmaster in Quandry Scratch.,"Материалы для ремонта, используемые скриттом-пивоваром в Царапине Недоумения."
 "Replaces Elonian wine in some Mystic Forge recipes involving slivers, fragments, shards, and cores.","Заменяет элонийское вино в некоторых рецептах Мистической кузни, включающих осколки, фрагменты, обломки и ядра."
 Replica Job-o-Tron Backpack,Рюкзак-реплика «Джоб-о-Трон»
-Replica Mirror of Lyssa Skin,
+Replica Mirror of Lyssa Skin,Реплика зеркала Лиссы
 Replica of the Jade Throne,Копия Нефритового трона
 Replica Oni Arms,Реплика рук они
-Replica Oni Left Arm,
-Replica Oni Right Arm,
+Replica Oni Left Arm,Реплика левой руки Они
+Replica Oni Right Arm,Реплика правой руки Они
 Represent an empire's security with this combat tonic.,Представляйте безопасность империи с помощью этого боевого тоника.
 Repurposed Drill Leveler,Переоборудованный нивелир
 Repurposed Nail Gun,Переоборудованный гвоздезабивной пистолет
-Requiem Boots Skin,
-Requiem Bracers Skin,
-Requiem Breeches Skin,
-Requiem Chestguard Skin,
-Requiem Coronet Skin,
-Requiem Epaulets Skin,
-Requiem Gambeson Skin,
-Requiem Gauntlets Skin,
-Requiem Gloves Skin,
-Requiem Greaves Skin,
-Requiem Helm Skin,
-Requiem Leggings Skin,
-Requiem Pauldrons Skin,
-Requiem Plate Skin,
-Requiem Shoulders Skin,
-Requiem Tassets Skin,
-Requiem Visage Skin,
-Requiem Walkers Skin,
-Required for the achievement A Study In Gold.,
+Requiem Boots Skin,"Скины обуви ""Реквием"""
+Requiem Bracers Skin,"Скины для наручей ""Реквием"""
+Requiem Breeches Skin,"Скины для штанов ""Реквием"""
+Requiem Chestguard Skin,"Одеяние ""Реквием"""
+Requiem Coronet Skin,"Корона ""Реквием"""
+Requiem Epaulets Skin,"Наплечники ""Реквием"""
+Requiem Gambeson Skin,"Кожуха ""Реквием"""
+Requiem Gauntlets Skin,"Кожа для перчаток ""Реквием"""
+Requiem Gloves Skin,"Скины перчаток ""Реквием"""
+Requiem Greaves Skin,"Облик: Сапоги ""Реквием"""
+Requiem Helm Skin,"Облик брони: ""Реквием"""
+Requiem Leggings Skin,"Скины для поношей ""Реквием"""
+Requiem Pauldrons Skin,"Оплечье ""Реквием"""
+Requiem Plate Skin,Реквиемная пластина
+Requiem Shoulders Skin,"Наплечники ""Реквием"""
+Requiem Tassets Skin,"Скины для поножей ""Реквием"""
+Requiem Visage Skin,"Облик ""Реквием"""
+Requiem Walkers Skin,"Облик ""Погребальные странники"""
+Required for the achievement A Study In Gold.,Требуется для достижения «Изучение золота».
 Required for the Gandaran Service Medal achievement.,Требуется для достижения «Медаль за службу в Гандаре».
 "Requires purchase of Heart of Thorns: Deluxe.
 
@@ -520,7 +522,7 @@ Resilient Krytan Axe of Force,Крайтанский топор силы «Ст�
 Resilient Krytan Bow,Прочный крюковый лук Крайта
 Resilient Krytan Bow of Agony,Устойчивый крайтанский лук агонии
 Resilient Krytan Bow of Force,Стойкий крайтанский лук силы
-Resilient Krytan Dagger,
+Resilient Krytan Dagger,Прочный крытский кинжал
 Resilient Krytan Dagger of Agony,Устойчивый крайтанский кинжал агонии
 Resilient Krytan Dagger of Force,Прочный крайтанский кинжал силы
 Resilient Krytan Focus,Упругий крайтанский фокус

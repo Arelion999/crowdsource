@@ -176,7 +176,7 @@ Lost Lavish Emperor Llama,Утерянная роскошная императо
 Lost Lavish Gold Llama,Утерянная роскошная золотая лама
 Lost Locket[s],[Потерянный медальон|Потерянных медальона|Потерянных медальонов]
 Lost Orrian Caches,Утерянные оррианские тайники
-"Lost Orrian Jewelry Box[pl:""Boxes""]",
+"Lost Orrian Jewelry Box[pl:""Boxes""]",[Утерянная шкатулка с украшениями оррианцев|Утерянные шкатулки с украшениями оррианцев|Утерянных шкатулок с украшениями оррианцев]
 Lost Package,Утерянная посылка
 Lost Pilgrim,Затерянный паломник
 Lost Rat,Потерянная Крыса
@@ -235,7 +235,7 @@ Lovestruck Scepter Skin[s],Облик[|а|ов] скипетра «Влюблё�
 Lovestruck Short Bow Skin[s],Облик[|а|ов] короткого лука «Влюблённый»
 Lovestruck Staff Skin[s],Облик[|а|ов] посоха «Влюблённый»
 Lovestruck Sword Skin[s],Облик[|а|ов] меча «Влюблённый»
-"Lovestruck Weapon Box[pl:""Boxes""]",
+"Lovestruck Weapon Box[pl:""Boxes""]",Шкатулка оружия влюблённых[|и|ей]
 Lovestruck Weapons,Оружие «Влюблённый»
 "Lovingly crafted in the authentic New Kaineng style, now with fresh, local braised gnarled boar!    INGREDIENTS:  - Pork - Herbs  - Noodles  - Cabbage","С любовью приготовлено в аутентичном стиле Нового Кайнэнга, теперь со свежей, тушёной местной корявой свининой!    ИНГРЕДИЕНТЫ:  - Свинина - Травы  - Лапша  - Капуста"
 Low A,Низкий А
@@ -270,7 +270,7 @@ Lowland Pine Log[s],Низменное сосновое бревн[о|а|ен]
 Lowland Pine Sapling,Низменный сосновый саженец
 Lowland Shore Fish,Рыба Низинного Берега
 Lowland Shore Renown Token[s],Жетон[|а|ов] славы Низменного берега
-"Lowland Shore Strongbox[pl:""Strongboxes""]",
+"Lowland Shore Strongbox[pl:""Strongboxes""]",Низменный берег[|говой сундук|говых сундуков|говых сундуков]
 Lowland Shore: Harvest Shore Salmon Run,Низинный Берег: Лососевый забег на Берегу Урожая
 Lowland Shore: Hide-and-Seek Challenge,Низинный Берег: Испытание «Прятки»
 Lowland Shore: Moon Camp Covert Salmon Run,Низинный Берег: Лососевый забег в Тайнике Лунного лагеря
@@ -295,13 +295,22 @@ Lucky Red Bag[s],[Счастливый красный мешок|Счастли�
 Ludo's Invitation,Приглашение Людо
 Ludo's Paperwork,Бумаги Людо
 Ludwig's Anthology of Ward Spells,Антология защитных заклинаний Людвига
-"Luka TomasdottirBe quiet.Please.Stop.You don't listen to me anymore. It's like I'm talking to a wall. Words won't do. I've screamed at you for so long that I have no voice. There are no more words. I will never speak again. So I write, hoping you will read these words and leave me alone.Day after day you speak to me. At first, I thought you were Aiding Thunder. Even when the kodan outside the village said he was gone.Actually, no—they only said his voice wasn't his own. I thought maybe he was still out there. I thought the warriors of Still Waters Speaking had rashly exiled one of their own in an act of paranoid delusion. Surely the same kodan I met in Frostgorge Sound, the kodan I shared stories with by the fire in Safewatch Vale, could not have turned to madness so easily.So I followed the voice. His voice. I followed it west, across the lake where Svanir was turned.The voice asked me if I wanted to see Aiding Thunder again. Asked me if I wanted to learn the secrets of the kodan.I said yes. Raven's eyes, I said yes. I didn't even stop to ask why Aiding Thunder's voice would ask such things of me. I didn't stop to think.Aiding Thunder emerged from the passage leading down into the frozen lake. He told me to follow him, and we journeyed through the valley unhindered. The creatures that had nipped at my heels not hours before were now granting safe passage. I thought that was strange, to be sure, but I paid it no mind. Perhaps they feared the mighty kodan that was guiding me. Perhaps they had just feasted on some other unfortunate creature, and I was spared simply by a lack of appetite.The kodan took me to these ruins and told me everything I'd ever wanted to know. Not just about the kodan, but about every race in Tyria. The Mists. All that was past, and all that is present. I had asked for knowledge, and I received it. I received so much that I was forced to stop writing as my hands bled.But the voice continued to speak. I looked up and Aiding Thunder was gone. The voice remained. The voice began to change. It was no longer Aiding Thunder's.It was yours.Jormag. I beg of you. Stop whispering to me.I can listen no longer.",
+"Luka TomasdottirBe quiet.Please.Stop.You don't listen to me anymore. It's like I'm talking to a wall. Words won't do. I've screamed at you for so long that I have no voice. There are no more words. I will never speak again. So I write, hoping you will read these words and leave me alone.Day after day you speak to me. At first, I thought you were Aiding Thunder. Even when the kodan outside the village said he was gone.Actually, no—they only said his voice wasn't his own. I thought maybe he was still out there. I thought the warriors of Still Waters Speaking had rashly exiled one of their own in an act of paranoid delusion. Surely the same kodan I met in Frostgorge Sound, the kodan I shared stories with by the fire in Safewatch Vale, could not have turned to madness so easily.So I followed the voice. His voice. I followed it west, across the lake where Svanir was turned.The voice asked me if I wanted to see Aiding Thunder again. Asked me if I wanted to learn the secrets of the kodan.I said yes. Raven's eyes, I said yes. I didn't even stop to ask why Aiding Thunder's voice would ask such things of me. I didn't stop to think.Aiding Thunder emerged from the passage leading down into the frozen lake. He told me to follow him, and we journeyed through the valley unhindered. The creatures that had nipped at my heels not hours before were now granting safe passage. I thought that was strange, to be sure, but I paid it no mind. Perhaps they feared the mighty kodan that was guiding me. Perhaps they had just feasted on some other unfortunate creature, and I was spared simply by a lack of appetite.The kodan took me to these ruins and told me everything I'd ever wanted to know. Not just about the kodan, but about every race in Tyria. The Mists. All that was past, and all that is present. I had asked for knowledge, and I received it. I received so much that I was forced to stop writing as my hands bled.But the voice continued to speak. I looked up and Aiding Thunder was gone. The voice remained. The voice began to change. It was no longer Aiding Thunder's.It was yours.Jormag. I beg of you. Stop whispering to me.I can listen no longer.","Лука Томасдоттир: Замолчи, пожалуйста. Прекрати. Ты больше не слушаешь меня. Словно я разговариваю со стеной. Слова уже не помогут. Я так долго кричала на тебя, что у меня пропал голос. Больше нет слов. Я никогда больше не заговорю. Поэтому я пишу, надеясь, что ты прочитаешь это и оставишь меня в покое. День за днем ты говоришь со мной. Сначала я думала, что это Эйдинг Тандер. Даже когда кодан за пределами деревни сказал, что его больше нет. Точнее, они просто сказали, что это не его голос. Я подумала, может быть, он все еще там. Я подумала, что воины Старых Вод могли опрометчиво изгнать одного из своих в приступе параноидальной мании. Неужели тот самый кодан, которого я встретила в Фростгорж-Саунд, с которым я делилась историями у костра в Сейфвотч-Вейл, мог так легко сойти с ума?
+
+Поэтому я последовала за голосом. За его голосом. Я пошла на запад, через озеро, где был повержен Сванир. Голос спросил меня, хочу ли я снова увидеть Эйдинга Тандера. Спросил, хочу ли я узнать секреты кодан.
+Я сказала «да». Клянусь вороном, я сказала «да». Я даже не остановилась, чтобы спросить, почему голос Эйдинга Тандера задает мне такие вопросы. Я не стала думать.
+Эйдинг Тандер вышел из прохода, ведущего в замерзшее озеро. Он сказал мне следовать за ним, и мы отправились через долину, ничем не обремененные. Существа, которые еще несколько часов назад покусывали меня за пятки, теперь пропускали нас без проблем. Я подумала, что это странно, конечно, но я не придала этому значения. Может быть, они боялись могущественного кодан, который вел меня. Может быть, они просто насытились какой-то другой несчастной жертвой, и мне повезло просто из-за отсутствия аппетита.
+Кодан привел меня к этим руинам и рассказал мне все, что я когда-либо хотела знать. Не только о кодан, но и обо всех расах Тирии. О Туманах. Обо всем прошлом и настоящем. Я просила знаний, и я их получила. Я получила так много, что была вынуждена прекратить писать, потому что мои руки начали кровоточить.
+Но голос продолжал говорить. Я подняла глаза, и Эйдинга Тандера уже не было. Голос остался. Голос начал меняться. Это был больше не голос Эйдинга Тандера.
+Это был твой голос.
+Йормаг, я умоляю тебя. Перестань шептать мне.
+Я больше не могу слушать."
 Lumber Synthesizer,Синтезатор древесины
 Lumberjack Dara,Лесоруб Дара
 Lumberjack Patron,Покровитель Лесорубов
 Lumbermill Saw,Пила лесопилки
 Luminate Illumination,Иллюминация Люмината
-Luminate's Cache[s],
+Luminate's Cache[s],Ларцы Лумината[|а|ов]
 Luminate's Keepsake[s],Реликвия Люмината
 Luminate's Throne: The Jungle Grows Even Up Here,Трон Луминаты: Джунгли растут даже здесь
 Luminescent Boots Skin[s],[Облик светящихся сапог|Облики светящихся сапог|Обликов светящихся сапог]
@@ -310,7 +319,7 @@ Luminescent Gloves Skin[s],[Облик светящихся перчаток|О�
 Luminescent Helm Skin[s],[Облик светящегося шлема|Облики светящегося шлема|Обликов светящегося шлема]
 Luminescent Leggings Skin[s],[Облик светящихся понож|Облики светящихся понож|Обликов светящихся понож]
 Luminescent Pollen Cloud,Светящееся облако пыльцы
-"Luminescent Seams[pl:""Seams""]",
+"Luminescent Seams[pl:""Seams""]",Швы[|а|ов] люминесценции
 Luminescent Shoulders Skin[s],[Облик светящихся наплечников|Облики светящихся наплечников|Обликов светящихся наплечников]
 Luminous Bastion Siege Turtle Skin[s],[Облик боевой черепахи «Светящийся бастион»|Облики боевой черепахи «Светящийся бастион»|Обликов боевой черепахи «Светящийся бастион»]
 Luminous Electrum,Светлый электрон
@@ -355,7 +364,7 @@ Lump[s] of Mizin,кусок[|а|ов] мизина
 Lump[s] of Primordium,кусок[|а|ов] примордиума
 Lump[s] of Raw Ambrite,кусок[|а|ов] сырого амбрита
 Lump[s] of Tin,кусок[|а|ов] олова
-"Lunar Arch[pl:""Arches""]",
+"Lunar Arch[pl:""Arches""]",[Лунный арх|Лунные архи|Лунных архов]
 Lunar Astrolabe Axe Skin[s],облик[|а|ов] топора «Лунная астролябия»
 Lunar Astrolabe Dagger Skin[s],облик[|а|ов] кинжала «Лунная астролябия»
 Lunar Astrolabe Focus Skin[s],облик[|а|ов] фокуса «Лунная астролябия»
@@ -366,7 +375,7 @@ Lunar Astrolabe Mace Skin[s],облик[|а|ов] булавы «Лунная а
 Lunar Astrolabe Pistol Skin[s],облик[|а|ов] пистолета «Лунная астролябия»
 Lunar Astrolabe Rifle Skin[s],облик[|а|ов] винтовки «Лунная астролябия»
 Lunar Astrolabe Scepter Skin[s],[Облик|Облика|Обликов] жезла «Лунная астролябия»
-"Lunar Astrolabe Selection Box[pl:""Boxes""]",
+"Lunar Astrolabe Selection Box[pl:""Boxes""]","Лунный астролябий, коробка[|ки|]"
 Lunar Astrolabe Shield Skin[s],[Облик|Облика|Обликов] щита «Лунная астролябия»
 Lunar Astrolabe Short Bow Skin[s],[Облик|Облика|Обликов] короткого лука «Лунная астролябия»
 Lunar Astrolabe Staff Skin[s],[Облик|Облика|Обликов] посоха «Лунная астролябия»
@@ -377,7 +386,7 @@ Lunar Astrolabe Weapons,Оружие «Лунная астролябия»
 Lunar Backpack and Glider Combo[s],[Комплект|Комплекта|Комплектов] «Лунный рюкзак и планер»
 Lunar Backpack[s],[Рюкзак|Рюкзака|Рюкзаков] «Лунный»
 Lunar Display,Лунная витрина
-"Lunar Gift Box[pl:""Boxes""]",
+"Lunar Gift Box[pl:""Boxes""]",Лунный подарок[|ок|ка|ков]
 Lunar Maned Skyscale Skin[s],[Облик|Облика|Обликов] скайскейльда «Лунная грива»
 Lunar New Year Armor,Броня Лунного Нового года
 Lunar New Year Card,Новогодняя открытка Лунного Нового года
@@ -393,19 +402,19 @@ Lunar Rabbit Helm Skin[s],[Облик|Облика|Обликов] шлема «
 Lunar Rabbit Stompers Skin[s],[Облик|Облика|Обликов] сапог «Лунный кролик»
 "Lunar, Chinese, Year, New Year, Zodiac","Лунный, Китайский, Год, Новый год, Зодиак"
 Lunatic After-Action Report[s],[Отчёт|Отчёта|Отчётов] о действиях безумца
-"Lunatic Boot Box[pl:""Boxes""]",
-"Lunatic Coat Box[pl:""Boxes""]",
+"Lunatic Boot Box[pl:""Boxes""]",[Безумная коробка с сапогами|Безумные коробки с сапогами|Безумных коробок с сапогами]
+"Lunatic Coat Box[pl:""Boxes""]",Шкатулка с безумным пальто[|ы|ов]
 Lunatic Courtier Gear,Снаряжение безумного придворного
 Lunatic Courtiers,Безумные придворные
 "Lunatic Courtiers have been spotted in Queensdale, Kessex Hills, and Gendarran Fields. Lion's Arch has been experiencing severe paranormal disturbances.","Безумные придворные были замечены в Куинсдейле, Кессекс-Хиллз и Гендарранских полях. В Львиной Арке наблюдаются сильные паранормальные возмущения."
 "Lunatic Courtiers have been spotted in Queensdale, Kessex Hills, and Gendarran Fields. There is also a severe paranormal disturbance in the Grand Piazza.","Безумные придворные были замечены в Куинсдейле, Кессекс-Хиллз и Гендарранских полях. Также сильное паранормальное возмущение наблюдается на Большой площади."
-"Lunatic Glove Box[pl:""Boxes""]",
+"Lunatic Glove Box[pl:""Boxes""]",[Безумная перчаточная коробка|Безумные перчаточные коробки|Безумных перчаточных коробок]
 Lunatic Gossamer Insignia[s],[Знак|Знака|Знаков] паутины безумца
 Lunatic Guard Outfit[s],[Наряд|Наряда|Нарядов] стража безумца
 "Lunatic Hat Box[pl:""Boxes""]",Коробка с безумной шляпой
 Lunatic Inquisition Pill,Пилюля безумной инквизиции
 "Lunatic Pants Box[pl:""Boxes""]",Коробка с безумными штанами
-"Lunatic Shoulder Box[pl:""Boxes""]",
+"Lunatic Shoulder Box[pl:""Boxes""]",Ящик с плечом безумца[|и|а]
 Lunatic Villager Gear,Снаряжение безумного селянина
 Lunch order: I want smashed beef loin with liver bits. AND PICK OUT THE BONES THIS TIME!!!,Заказ на обед: хочу толченую говяжью вырезку с кусочками печени. И ВЫТАЩИ КОСТИ НА ЭТОТ РАЗ!!!
 Lung Capacity,Объем легких
@@ -419,7 +428,7 @@ Lunge forward and snap at your target.,Рваните вперёд и укуси
 Lunges & Bites • Howls,Рывки и укусы • Вой
 Lunges and Bites,Рывки и укусы
 Lunges and Bites • Inflicts Chill,Выпады и укусы • Накладывает холод
-"Lungfish[pl:""Lungfish""]",
+"Lungfish[pl:""Lungfish""]",[Легочная рыба|Легочные рыбы|Легочных рыб]
 Lunging Wolf Slam,Волчий прыжок с ударом
 Lupine Blast,Волчий взрыв
 Lure Turtle,Приманить черепаху
@@ -478,7 +487,7 @@ Mabon's Journal: The Mursaat,Дневник Мейбона: Мурсааты
 Mabon's Strength,Сила Мейбона
 "Mabon, we need to expel them from this plane. I hate to ask more of you, but please. Lend me what little strength remains.","Мейбон, нам нужно изгнать их из этого плана. Мне ненавистно просить тебя о большем, но, пожалуйста. Одолжи мне ту малую силу, что осталась."
 Mabon. Isgarren. Pick a god and thank her for your survival...,Мейбон. Исгаррен. Выберите бога и поблагодарите её за своё спасение...
-Mac version developed by TransGaming Inc. using Cider™. Cider is Copyright © 2000-2013 TransGaming Inc. Additional copyright and license information for sub-components of Cider can be found online at http://transgaming.com/ciderlicense.,
+Mac version developed by TransGaming Inc. using Cider™. Cider is Copyright © 2000-2013 TransGaming Inc. Additional copyright and license information for sub-components of Cider can be found online at http://transgaming.com/ciderlicense.,Версия для Mac разработана компанией TransGaming Inc. с использованием Cider™. Авторские права на Cider принадлежат компании TransGaming Inc. и действуют с 2000 по 2013 год. Дополнительная информация об авторских правах и лицензиях на отдельные компоненты Cider доступна в Интернете по адресу http://transgaming.com/ciderlicense.
 Macaw Wings Backpack[s],Рюкзак[|а|ов] «Крылья ара»
 Macaw Wings Glider[s],Планер[|а|ов] «Крылья ара»
 Mace (Known),Булава (Известно)
