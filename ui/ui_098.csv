@@ -1,7 +1,7 @@
 english,translate
 Mithril Sword Blade[s],[Клинок|Клинка|Клинков] мифрилового меча
 Mithril Sword Hilt[s],[Рукоять|Рукояти|Рукоятей] мифрилового меча
-Mithril Torch Head[s],
+Mithril Torch Head[s],Мифриловая головка для факела
 Mithril Trident Head[s],[Наконечник|Наконечника|Наконечников] трезубца из мифрила
 Mithril Warhorn Mouthpiece[s],[Мундштук|Мундштука|Мундштуков] мифрилового рога
 Mithril WvW Rank (4095–6444),Мифриловый ранг WvW (4095–6444)
@@ -23,7 +23,7 @@ Moa Carver (Level 18),Резчик моа (18 уровень)
 Moa Egg Omelet[s],[Омлет|Омлета|Омлетов] из яиц моа
 Moa Feathers,Перья моа
 "Moa Haunch[pl:""Haunches""]",Окорок моа[а|ороков|ороков]
-"Moa Loot Box[pl:""Boxes""]",
+"Moa Loot Box[pl:""Boxes""]",Ящик с добычей от моа[|и|и]
 Moa Morph,Морф моа
 Moa Race Bet: Logan's Lover,Ставка на гонку моа: Возлюбленная Логана
 Moa Race Bet: Meep the Second,Ставка на гонку моа: Мип Второй
@@ -142,7 +142,7 @@ Molten Shard[s],[Осколок|Осколка|Осколков] расплав�
 Molten Shield Skin[s],[Облик|Облика|Обликов] щита «Расплавленный»
 Molten Short Bow Skin[s],[Облик|Облика|Обликов] короткого лука «Расплавленный»
 Molten Sliver[s],[Чешуйка|Чешуйки|Чешуек] расплава
-Molten Speargun Skin[s],
+Molten Speargun Skin[s],Копьё-огнемет[|ё|я|]|
 Molten Spray,Расплавленный спрей
 Molten Staff Skin[s],Облик[|а|ов] посоха «Расплавленный»
 Molten Stalker,Расплавленный сталкер
@@ -393,7 +393,7 @@ Mordrem Researcher Marivelle,Исследователь мордрема Мар�
 Mordrem Researcher Marivelle is stationed near Ireko Tradecamp near Viathan Lake.,Исследователь мордрема Маривелль находится рядом с Торговым лагерем Иреко у озера Виатан.
 Mordrem Rifle Skin[s],Облик[|а|ов] Мордрем-винтовки
 Mordrem Scepter Skin[s],Облик[|а|ов] Мордрем-скипетра
-"Mordrem Seed Pouch[pl:""Pouches""]",
+"Mordrem Seed Pouch[pl:""Pouches""]",Мешочек с семенем мордрема
 Mordrem Shard[s],Мордрем-осколок[|а|ов]
 Mordrem Shield Skin[s],Облик[|а|ов] Мордрем-щита
 Mordrem Short Bow Skin[s],Облик[|а|ов] Мордрем-короткого лука
@@ -404,7 +404,7 @@ Mordrem Staff Skin[s],[Облик|Облика|Обликов] посоха мо
 Mordrem Sword Skin[s],[Облик|Облика|Обликов] меча мордрема
 Mordrem Tendon Extraction Device[s],[Устройство|Устройства|Устройств] извлечения сухожилия мордрема
 Mordrem Tendrils,Усики Мордрема
-Mordrem Teragriff Bladder[s],
+Mordrem Teragriff Bladder[s],Пузырь мордрем-терагрифа
 Mordrem Teragriff Eye[s],[Глаз|Глаза|Глаз] терогрифа мордрема
 Mordrem Teragriff Fang[s],[Клык|Клыка|Клыков] терогрифа мордрема
 Mordrem Teragriff Kidney[s],[Почка|Почки|Почек] терогрифа мордрема
@@ -465,7 +465,7 @@ Mordremoth's Voice Skin[s],Облик[|а|ов] голоса Мордремот�
 Mordremoth's Weight Skin[s],Облик[|а|ов] веса Мордремота
 Mordremoth's Wing Skin[s],Облик[|а|ов] крыла Мордремота
 Mordremoth's Wisdom Skin[s],Облик[|а|ов] мудрости Мордремота
-"Mordy Plush[pl:""Plushes""]",
+"Mordy Plush[pl:""Plushes""]",Морди Плюшевый[|ые|ых]
 More Coins!<br>More Lives!<br>More Super Fun!,Больше монет!<br>Больше жизней!<br>Больше супервеселья!
 More damage to moving targets.,Увеличенный урон по движущимся целям.
 "More detailed examinations made of the key structures today. The style shares similarities with the few other seer examples we have, but while those showed evidence of integration with other early Tyrian cultures, the designs here are truly unique. It'll take time to ascertain their precise age, but it looks like these really do predate everything else we've found before.   And yet, they appear even more complex and detailed than the structures that came later. This suggests a decline in craftsmanship, but why? Possible theories:  1. The mainland examples represent a divergent group of seers who broke off and lived separately and thus developed a different culture.    2. The mainland examples we've found were from a remnant of the overall culture that survived for an undetermined period after the destruction of their civilization.    3. The mainland examples are really just evidence of non-seers adapting the ruins for their own purposes.    Further study will be needed to determine which of these hypotheses is most likely.","Сегодня были проведены более детальные исследования ключевых структур. Стиль имеет сходство с немногими другими образцами провидцев, которые у нас есть, но если те демонстрировали признаки интеграции с другими ранними тирийскими культурами, то здешние орнаменты поистине уникальны. Потребуется время, чтобы установить их точный возраст, но похоже, что они действительно предшествуют всему остальному, что мы находили ранее. И всё же они выглядят даже более сложными и детализированными, чем строения, созданные позже. Это предполагает упадок мастерства, но почему? Возможные теории: 1. Материковые образцы представляют собой ответвление провидцев, которые отделились и жили обособленно, что привело к развитию другой культуры. 2. Найденные нами материковые образцы были остатками общей культуры, сохранившейся на неопределенный срок после уничтожения их цивилизации. 3. Материковые образцы на самом деле являются лишь свидетельством того, что не-провидцы адаптировали руины для своих целей. Чтобы определить, какая из этих гипотез наиболее вероятна, потребуются дальнейшие исследования."
@@ -478,7 +478,7 @@ More Than She Bergen For—Snargle Goldclaw,"Больше, чем она про�
 More Tracked Achievements,Больше отслеживаемых достижений
 More victims!,Больше жертв!
 Morghar Bonebreaker,Моргар Костолом
-Morgooroo Friendship Bracelet[s],
+Morgooroo Friendship Bracelet[s],Браслет дружбы Моргору[|а|ов]
 Mori Village Renown Heart,Сердце возрождения: Деревня Мори
 Morning Glory Dye[s],Красител[ь|я|ей] «Утренняя слава»
 Morning Sea Dye[s],Красител[ь|я|ей] «Утреннее море»

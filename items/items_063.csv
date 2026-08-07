@@ -86,24 +86,24 @@ Lionguard-Issue Greatsword,Большой меч Стражей Льва
 Lionguard-Issue Shield,Щит Стражей Льва
 Lionguard-Issue Sword,Меч Стражей Льва
 Lionscout Medal,Медаль львиного разведчика
-Lipstick Dye,
-Liquid Aurillium Infusion,
+Lipstick Dye,Краситель для губной помады
+Liquid Aurillium Infusion,Жидкая ауриллиевая эссенция
 List of Artifacts,Список артефактов
 List of Secluded Locations,Список уединённых мест
 List of White Mantle Hideouts,Список укрытий Белого Пламени
-Listening-Device Sweeper,
+Listening-Device Sweeper,Устройство для обнаружения прослушивающих устройств
 Lit Wagon,Зажженная телега
-Little Lucky Envelope,
+Little Lucky Envelope,Маленький счастливый конверт
 Little Norn Figurine,Статуэтка маленького норна
 Little Sharpshooter Badge,Значок маленького меткого стрелка
 Little Smirk,Маленькая усмешка
-Live Crawdad,
-Live Plague Scarab,
-Liverwort Seedling,
+Live Crawdad,Живой рак
+Live Plague Scarab,Живой чумной жук-скарабей
+Liverwort Seedling,Саженец печеночника
 Living Bloodstone,Живой кровавый камень
-Living Crystal,
+Living Crystal,Живой кристалл
 Living Druid Stone,Живой камень друидов
-Living Flame,
+Living Flame,Живое пламя
 Living Short Bow,Живой короткий лук
 Living Water Axe,Топор живой воды
 Living Water Dagger,Кинжал живой воды
@@ -124,23 +124,23 @@ Living Water Warhorn,Рог живой воды
 Living World Season 3 Cache,Тайник «Живой мир. Сезон 3»
 Living World Season 4 Cache,Тайник «Живой мир. Сезон 4»
 Living-Water Spear,Копьё живой воды
-Llama Mini Choice Box,
-Loaded Clump of Ore,
+Llama Mini Choice Box,"Мини-набор ""Лама"""
+Loaded Clump of Ore,Загруженная глыба руды
 Loaded Wagon,Загруженная повозка
-Loaf of Banana Bread,
-Loaf of Bread,
-Loaf of Candy Cactus Cornbread,
-Loaf of Kodan Bread,
-Loaf of Omnomberry Bread,
-Loaf of Raspberry Peach Bread,
-Loaf of Rosemary Bread,
-Loaf of Saffron Bread,
-Loaf of Shaemoor Bread,
-Loaf of Tarragon Bread,
-Loaf of Travelers Bread,
-Loaf of Walnut Sticky Bread,
-Loaf of Zucchini Bread,
-Local Writ of Renown,
+Loaf of Banana Bread,Буханка бананового хлеба
+Loaf of Bread,Буханка хлеба
+Loaf of Candy Cactus Cornbread,Буханка кукурузного хлеба с карамельным кактусом
+Loaf of Kodan Bread,Буханка коданского хлеба
+Loaf of Omnomberry Bread,Буханка хлеба с всеягодной начинкой
+Loaf of Raspberry Peach Bread,Буханка персиково-малинового хлеба
+Loaf of Rosemary Bread,Буханка хлеба с розмарином
+Loaf of Saffron Bread,Буханка хлеба с шафраном
+Loaf of Shaemoor Bread,Буханка хлеба из Шеймура
+Loaf of Tarragon Bread,Буханка хлеба с тархуном
+Loaf of Travelers Bread,Буханка дорожного хлеба
+Loaf of Walnut Sticky Bread,Буханка клейкого хлеба с грецкими орехами
+Loaf of Zucchini Bread,Буханка цукиниевого хлеба
+Local Writ of Renown,Местный указ о признании заслуг
 "Located high in the mountains of the Bitterfrost Frontier, the vantage point offers an amazing view of the land.
 Vantage points do not host any services.
 Requires ""A Crack in the Ice.""","Расположенная высоко в горах Горького Ледяного Предела, эта смотровая точка открывает потрясающий вид на окрестности.
@@ -152,7 +152,13 @@ Requires ""A Crack in the Ice.""","Расположенная высоко в г
 • Bank and Guild Bank Access
 • Mystic Forge
 • Merchants
-• And more! All within easy reach, for those who enjoy the ultimate convenience.",
+• And more! All within easy reach, for those who enjoy the ultimate convenience.","Расположен в Кристальной Оазе:
+• Быстрое перемещение между всеми городами
+• Ремесленные станции
+• Доступ к личному и гильдийскому банкам
+• Мистическая кузница
+• Торговцы
+• И многое другое! Всё это находится в пределах досягаемости, для тех, кто ценит максимальное удобство."
 "Located in Ember Bay.
 • Quick Travel to All Cities
 • Crafting Stations
@@ -171,7 +177,12 @@ Requires ""A Crack in the Ice.""","Расположенная высоко в г
 • Bank and Guild-Bank Access
 • Mystic Forge
 • Merchants
-<c=@Flavor>A handwritten invitation to ""Elona's most luxurious retreat,"" the Lily of the Elon.</c>",
+<c=@Flavor>A handwritten invitation to ""Elona's most luxurious retreat,"" the Lily of the Elon.</c>","Находится в Кристальной Оазе.
+• Ремесленные станки
+• Доступ к личному и гильдийскому банкам
+• Мистическая кузница
+• Торговцы
+<c=@Flavor>Рукописное приглашение на ""самый роскошный курорт Элоны"" — Лилию Элона.</c>"
 "Located in Verdant Brink.
 • Quick Travel to All Cities
 • Crafting Stations
@@ -207,7 +218,8 @@ Longhorn Boxfish,Длиннорогий кузовок
 Looks like it would open a very big lock.,"Похоже, этим можно открыть очень большой замок."
 Looks like someone managed to lose the same leg twice.,"Похоже, кто-то умудрился потерять одну и ту же ногу дважды."
 "Looks perfect for one of Farmer Eda's pies!
-Event Item",
+Event Item","Идеально подходит для одного из пирогов фермерши Эды!
+Предмет события."
 Loot Bag,Сумка с добычей
 Loot Sack,Мешок с добычей
 Looted from a fallen tar elemental.,Добыто из павшего смоляного элементаля.
@@ -397,7 +409,7 @@ Luminous Claymore,Сияющий клеймор
 Luminous Curio,Сияющий курьез
 Luminous Dirk,Сияющий кинжал
 Luminous Flange,Сияющий фланец
-Luminous Heavy Armor Skin,
+Luminous Heavy Armor Skin,Сверкающая тяжелая броня
 Luminous Heavy Gauntlets Skin,Облик светящихся тяжелых перчаток
 Luminous Heavy Legplates Skin,Облик: Светящиеся тяжелые набедренники
 Luminous Heavy Pauldrons Skin,Облик светящихся тяжёлых наплечников

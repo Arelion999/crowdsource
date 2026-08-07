@@ -57,7 +57,7 @@ Sentinel's Intricate Gossamer Insignia[s],Знак[|а|ов] искусной г
 Sentinel's Intricate Silk Insignia[s],Знак[|а|ов] искусного шёлка стража
 Sentinel's Mithril Imbued Inscription[s],"Надпись[|и|ей] стража, пропитанная мифрилом"
 Sentinel's Mithril Plated Inscription[s],"Надпись[|и|ей] стража, покрытая мифриловой пластиной"
-Sentinel's Orichalcum Imbued Inscription[s],
+Sentinel's Orichalcum Imbued Inscription[s],Скрипт из орихалкового рунического камня
 Sentinel's Silk Insignia[s],[Знак|Знака|Знаков] стража из шёлка
 Sentry Beam,Луч часового
 Sentry Triktiki,Часовой Триктики
@@ -85,8 +85,8 @@ Separatist Lieutenant,Сепаратистский лейтенант
 Separatist Propaganda,Сепаратистская пропаганда
 Separatist Scepter,Сепаратистский скипетр
 Separatist Sniper,Сепаратистский снайпер
-"Separatist Sniper Loot Box[pl:""Boxes""]",
-"Separatist Stalker Loot Box[pl:""Boxes""]",
+"Separatist Sniper Loot Box[pl:""Boxes""]",Ящик разрозненных снайперов[|а|ов]
+"Separatist Stalker Loot Box[pl:""Boxes""]",Сундук[|а|ов] с добычей отступника-следопыта
 Separatist Sympathizer,Сочувствующий сепаратистам
 Separatist Thief,Сепаратист-вор
 Sephis Axe,Топор Сефиса
@@ -190,7 +190,7 @@ Serpent's Wrath Sword Skin[s],[Облик|Облика|Обликов] меча 
 Serpent's Wrath Torch Skin[s],[Облик|Облика|Обликов] факела «Гнев змея»
 Serpent's Wrath Warhorn Skin[s],[Облик|Облика|Обликов] боевого рога «Гнев змея»
 Serpent's Wrath Weapon Choice,Гнев змея: выбор оружия
-"Serpent's Wrath Weapon Choice Box[pl:""Boxes""]",
+"Serpent's Wrath Weapon Choice Box[pl:""Boxes""]","Ящик выбора оружия ""Гнев змеи""[|ящики|]"
 Serpent's Wrath Weapon Skin Choice,Гнев змея: выбор облика оружия
 Serpentine Tattoo Chest Skin[s],[Облик|Облика|Обликов] нагрудника «Змеиная татуировка»
 Serpentine Tattoo Legs Skin[s],[Облик|Облика|Обликов] поножей «Змеиная татуировка»
@@ -230,7 +230,7 @@ Sesame Cheesecake[s],[Чизкейк|Чизкейка|Чизкейков] с к�
 Sesame Creme Brulee[s],[Крем-брюле|Крем-брюле|Крем-брюле] с кунжутом
 Sesame Eggs Benedict[s],[Бенедикт|Бенедикта|Бенедиктов] из яиц с кунжутом
 Sesame Seed Bun[s],[Булочка|Булочки|Булочек] с кунжутом
-"Sesame Seed Pouch[pl:""Pouches""]",
+"Sesame Seed Pouch[pl:""Pouches""]",Сумочк[а|и|из] с кунжутом
 Sesame Seed[s],[Семечко|Семечка|Семечек] кунжута
 Sesame Veggie Flatbread[s],[Лепёшка|Лепёшки|Лепёшек] с овощами и кунжутом
 Sesame-Asparagus and Cured Meat Flatbread[s],[Лепёшка|Лепёшки|Лепёшек] со спаржей и вяленым мясом с кунжутом
@@ -270,7 +270,7 @@ Set Jade Bot Waypoint,Установить Точку Пути Джейд-Бот
 Set Materials,Установить Материалы
 "Set nearby foes on fire and cleanse conditions. Become a mobile fire field. When the field expires, it explodes, damaging foes and burning them again.","Поджигает ближайших врагов и снимает состояния. Превращает вас в мобильное огненное поле. Когда поле исчезает, оно взрывается, нанося урон врагам и снова поджигая их."
 Set Nickname,Установить Прозвище
-"Set of Wayfinder's Versatile Table Recipes[pl:""Recipes""]",
+"Set of Wayfinder's Versatile Table Recipes[pl:""Recipes""]",Набор рецептов универсального стола Вайфайндера
 Set off %num2% Lunar New Year fireworks.,Запустить %num2% фейерверков Лунного Нового года.
 "Set off an explosive booby trap, damaging nearby foes.","Запустить взрывную ловушку-сюрприз, нанося урон ближайшим врагам."
 Set off as many fireworks as you can before you land on the ground to gain approval.,"Запустите как можно больше фейерверков, прежде чем коснуться земли, чтобы получить одобрение."
@@ -350,7 +350,7 @@ Seventh Cache,Седьмой тайник
 Seventh Pulse,Седьмой импульс
 Seventh Visage of Pellentia,Седьмой лик Пеллентии
 Several books are on display here. There isn't anything noteworthy or interesting in the lot.,Здесь выставлено несколько книг. В этой подборке нет ничего примечательного или интересного.
-"Several historical books are available here, including copies of ""The Day Night Fell,"" and ""Of Greatness, of Madness: The Life of Turai Ossa.""",
+"Several historical books are available here, including copies of ""The Day Night Fell,"" and ""Of Greatness, of Madness: The Life of Turai Ossa.""","Здесь можно найти несколько исторических книг, включая экземпляры «В день, когда наступила ночь» и «О величии, о безумии: жизнь Турая Оссы»."
 Severed Dagger Skin[s],[Облик|Облика|Обликов] отрубленного кинжала
 Severely Crippled,Тяжёлое увечье
 Sewage Dig Site,Раскопки сточных вод
@@ -419,7 +419,7 @@ Shadow Focus Skin[s],[Облик|Облика|Обликов] теневого �
 Shadow Force %num1% / %num2% (%num3%%%)<br>Gain Shadow Force by Spending Initiative or Using Siphon on Enemies,"Теневая сила %num1% / %num2% (%num3%%%)<br>Получайте теневую силу, тратя инициативу или используя сифон на врагах"
 Shadow Force Gain,Получение теневой силы
 Shadow Greatsword Skin[s],[Облик|Облика|Обликов] теневого большого меча
-Shadow Green Dye[s],
+Shadow Green Dye[s],"краситель ""тёмный изумруд""[|я|и|ов]"
 Shadow Hammer Skin[s],[Облик|Облика|Обликов] «Теневой молот»
 Shadow Imp[s],[Теневой бес|Теневые бесы|Теневых бесов]
 Shadow Leap,Теневой прыжок
@@ -431,7 +431,7 @@ Shadow of the Dragon Gloves Skin[s],[облик|облика|обликов] п�
 Shadow of the Dragon Helmet Skin[s],[облик|облика|обликов] шлема тени дракона
 Shadow of the Dragon Shoulder Skin[s],[облик|облика|обликов] наплечников тени дракона
 Shadow of the Dragon Value Pack,Набор «Тень дракона»
-"Shadow of the Mad King Weapon Box[pl:""Boxes""]",
+"Shadow of the Mad King Weapon Box[pl:""Boxes""]","Ящик с оружием из ""Тени Безумного Короля""[|щики|щиков]"
 Shadow Orange Dye[s],[Краска|Краски|Красок] «Теневая оранжевая краска»
 Shadow Orb,Теневая сфера
 Shadow Pistol Skin[s],[Облик|Облика|Обликов] «Теневой пистолет»
@@ -465,7 +465,7 @@ Shadow Violet Dye[s],[краска|краски|красок] теневого �
 Shadow Walk,Теневая походка
 Shadow Warhorn Skin[s],[облик|облика|обликов] теневого боевого рога
 Shadow Warp,Теневое искажение
-"Shadow Weapon Box[pl:""Boxes""]",
+"Shadow Weapon Box[pl:""Boxes""]",Ящик с теневым оружием[|я|я]
 Shadow Weapons,Теневое оружие
 Shadow Yellow Dye[s],[краска|краски|красок] теневого желтого
 Shadowcraft and the Nisosian Mirrors,Теневая резьба и Нисосийские зеркала

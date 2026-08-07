@@ -273,7 +273,9 @@ This item is purchased from Deft Lahar in your homestead.","Объедините
 Этот предмет покупается у Ловкого Лахара в вашей усадьбе."
 "Combine 3 key fragments to open the Mad King's Chest in the Grand Piazza of Lion's Arch.
 
-<c=@flavor>Gain key fragments by participating in Mad King Says. Only 3 fragments may be earned per day.</c>",
+<c=@flavor>Gain key fragments by participating in Mad King Says. Only 3 fragments may be earned per day.</c>","Соедините 3 осколка ключа, чтобы открыть сундук Безумного Короля на главной площади Ората.
+
+<c=@flavor>Получайте осколки ключей за участие в игре «Безумный король говорит». В день можно получить не более 3 осколков.</c>"
 Combine 3 of these items in the Mystic Forge with a Mist-Infused Jade Catalyst to create a Salvaged Dredge Inferno Backpack.,"Объедините 3 таких предмета в Мистической кузнице с пропитанным туманом нефритовым катализатором, чтобы создать рюкзак «Спасённый дрэджский инферно»."
 Combine 5 Energized Spirit Threads to create a Spirit Weave.,"Соедините 5 заряженных нитей духа, чтобы создать сплетение духа."
 "Combine 5 of these in the Mystic Forge with 2 Vision Crystals, 250 Shards of Glory, and a Perfect Mist Core to create the Gift of Skirmishing.","Объедините 5 таких предметов в Таинственной кузнице с 2 Кристаллами видений, 250 Осколками славы и Идеальным туманным ядром, чтобы создать Дар стычки."
@@ -578,7 +580,13 @@ Created by combining the following in the Mystic Forge:
 • A Gift of Adventure
 • A Gift of the Seas
 • A Bloodstone Shard
-• 250 Obsidian Shards",
+• 250 Obsidian Shards","Соедините «Подарок выживших», «Подарок народа», «Дары мастерства Касторана» и прекурсор «Агалей» в мистической кузнице, чтобы создать легендарный акваланговый костюм «Селахиморфа».
+
+Создан путем объединения следующих предметов в мистической кузнице:
+• «Подарок искателя приключений»
+• «Подарок морей»
+• Осколок кровавого камня
+• 250 осколков обсидиана"
 "Combine a Gift of the Survivors, a Gift of the People, a Gift of Insight, and a Gift of the Elders in the Mystic Forge to create the Aetheric Anchor.
 
 Purchased from Magister Sirkk in Crumbling Precipice in Starlit Weald in exchange for:
@@ -607,38 +615,38 @@ Purchased from the Foothold Bivouac renown heart vendor in Starlit Weald in exch
 • 1 Дар Туманов"
 "Combine all 4 Wings of Glory to obtain Wings of Ascension, precursor to the Ascension.","Объедините все 4 Крыла Славы, чтобы получить Крылья Вознесения — предшественника Вознесения."
 Combine all four Blueprint Scraps in the Mystic Forge to obtain the Spinal Blade Pack Blueprint.,"Объедините все четыре фрагмента чертежа в Таинственной кузнице, чтобы получить чертёж набора спинных лезвий."
-"Combine at the Mystic Forge with 100 Mystic Runestones, a Gift of Research, and a Gift of the Mists to create the Gift of Dragon's Argument.",
-"Combine at the Mystic Forge with 100 Mystic Runestones, a Gift of Research, and a Gift of the Mists to create the Gift of Dragon's Bite.",
-"Combine at the Mystic Forge with 100 Mystic Runestones, a Gift of Research, and a Gift of the Mists to create the Gift of Dragon's Breath.",
-"Combine at the Mystic Forge with 100 Mystic Runestones, a Gift of Research, and a Gift of the Mists to create the Gift of Dragon's Claw.",
-"Combine at the Mystic Forge with 100 Mystic Runestones, a Gift of Research, and a Gift of the Mists to create the Gift of Dragon's Fang.",
-"Combine at the Mystic Forge with 100 Mystic Runestones, a Gift of Research, and a Gift of the Mists to create the Gift of Dragon's Flight.",
-"Combine at the Mystic Forge with 100 Mystic Runestones, a Gift of Research, and a Gift of the Mists to create the Gift of Dragon's Gaze.",
-"Combine at the Mystic Forge with 100 Mystic Runestones, a Gift of Research, and a Gift of the Mists to create the Gift of Dragon's Horn.",
-"Combine at the Mystic Forge with 100 Mystic Runestones, a Gift of Research, and a Gift of the Mists to create the Gift of Dragon's Insight.",
-"Combine at the Mystic Forge with 100 Mystic Runestones, a Gift of Research, and a Gift of the Mists to create the Gift of Dragon's Persuasion.",
-"Combine at the Mystic Forge with 100 Mystic Runestones, a Gift of Research, and a Gift of the Mists to create the Gift of Dragon's Rending.",
-"Combine at the Mystic Forge with 100 Mystic Runestones, a Gift of Research, and a Gift of the Mists to create the Gift of Dragon's Scale.",
-"Combine at the Mystic Forge with 100 Mystic Runestones, a Gift of Research, and a Gift of the Mists to create the Gift of Dragon's Tail.",
-"Combine at the Mystic Forge with 100 Mystic Runestones, a Gift of Research, and a Gift of the Mists to create the Gift of Dragon's Weight.",
-"Combine at the Mystic Forge with 100 Mystic Runestones, a Gift of Research, and a Gift of the Mists to create the Gift of Dragon's Wing.",
-"Combine at the Mystic Forge with 100 Mystic Runestones, a Gift of Research, and a Gift of the Mists to create the Gift of Dragon's Wisdom.",
-"Combine at the Mystic Forge with Dragon's Argument, a Gift of Jade Mastery, and a Draconic Tribute to create the legendary pistol Aurene's Argument.",
-"Combine at the Mystic Forge with Dragon's Bite, a Gift of Jade Mastery, and a Draconic Tribute to create the legendary greatsword Aurene's Bite.",
-"Combine at the Mystic Forge with Dragon's Breath, a Gift of Jade Mastery, and a Draconic Tribute to create the legendary torch Aurene's Breath.",
-"Combine at the Mystic Forge with Dragon's Claw, a Gift of Jade Mastery, and a Draconic Tribute to create the legendary dagger Aurene's Claw.",
-"Combine at the Mystic Forge with Dragon's Fang, a Gift of Jade Mastery, and a Draconic Tribute to create the legendary sword Aurene's Fang.",
-"Combine at the Mystic Forge with Dragon's Flight, a Gift of Jade Mastery, and a Draconic Tribute to create the legendary longbow Aurene's Flight.",
-"Combine at the Mystic Forge with Dragon's Gaze, a Gift of Jade Mastery, and a Draconic Tribute to create the legendary focus Aurene's Gaze.",
-"Combine at the Mystic Forge with Dragon's Horn, a Gift of Jade Mastery, and a Draconic Tribute to create the legendary warhorn Aurene's Horn.",
-"Combine at the Mystic Forge with Dragon's Insight, a Gift of Jade Mastery, and a Draconic Tribute to create the legendary staff Aurene's Insight.",
-"Combine at the Mystic Forge with Dragon's Persuasion, a Gift of Jade Mastery, and a Draconic Tribute to create the legendary rifle Aurene's Persuasion.",
-"Combine at the Mystic Forge with Dragon's Rending, a Gift of Jade Mastery, and a Draconic Tribute to create the legendary axe Aurene's Rending.",
-"Combine at the Mystic Forge with Dragon's Scale, a Gift of Jade Mastery, and a Draconic Tribute to create the legendary shield Aurene's Scale.",
-"Combine at the Mystic Forge with Dragon's Tail, a Gift of Jade Mastery, and a Draconic Tribute to create the legendary mace Aurene's Tail.",
-"Combine at the Mystic Forge with Dragon's Weight, a Gift of Jade Mastery, and a Draconic Tribute to create the legendary hammer Aurene's Weight.",
-"Combine at the Mystic Forge with Dragon's Wing, a Gift of Jade Mastery, and a Draconic Tribute to create the legendary short bow Aurene's Wing.",
-"Combine at the Mystic Forge with Dragon's Wisdom, a Gift of Jade Mastery, and a Draconic Tribute to create the legendary scepter Aurene's Wisdom.",
+"Combine at the Mystic Forge with 100 Mystic Runestones, a Gift of Research, and a Gift of the Mists to create the Gift of Dragon's Argument.","Создайте «Дар аргумента дракона», объединив в Мистической кузнице 100 мистических рун, «Подарок исследователя» и «Подарок Туманов»."
+"Combine at the Mystic Forge with 100 Mystic Runestones, a Gift of Research, and a Gift of the Mists to create the Gift of Dragon's Bite.","Объедините в Мистической кузнице со 100 мистическими рунами, даром исследователя и даром туманов, чтобы создать дар Драконьего укуса."
+"Combine at the Mystic Forge with 100 Mystic Runestones, a Gift of Research, and a Gift of the Mists to create the Gift of Dragon's Breath.","Соедините в Мистической кузнице со 100 мистическими рунами, даром исследователя и даром туманов, чтобы создать дар Драконьего дыхания."
+"Combine at the Mystic Forge with 100 Mystic Runestones, a Gift of Research, and a Gift of the Mists to create the Gift of Dragon's Claw.","Создайте «Подарок Драконьей Когтя», объединив его в Мистической Кузнице со 100 мистическими рунами, «Даром Исследователя» и «Даром Туманов»."
+"Combine at the Mystic Forge with 100 Mystic Runestones, a Gift of Research, and a Gift of the Mists to create the Gift of Dragon's Fang.","Создайте «Подарок Клыка Дракона», объединив в Мистической кузнице 100 мистических рун, «Подарок для исследований» и «Подарок Туманов»."
+"Combine at the Mystic Forge with 100 Mystic Runestones, a Gift of Research, and a Gift of the Mists to create the Gift of Dragon's Flight.","Создайте «Подарок Драконьего Полёта», объединив в Мистической Кузнице 100 мистических рун, «Подарок Исследователя» и «Подарок Туманов»."
+"Combine at the Mystic Forge with 100 Mystic Runestones, a Gift of Research, and a Gift of the Mists to create the Gift of Dragon's Gaze.","Создайте «Подарок Драконьего Взгляда», объединив в Мистической Кузне 100 мистических рун, «Подарок Исследователя» и «Подарок Туманов»."
+"Combine at the Mystic Forge with 100 Mystic Runestones, a Gift of Research, and a Gift of the Mists to create the Gift of Dragon's Horn.","Создайте «Подарок Рога Дракона», объединив в Мистической Кузнице 100 мистических рун, «Подарок Исследователя» и «Подарок Туманов»."
+"Combine at the Mystic Forge with 100 Mystic Runestones, a Gift of Research, and a Gift of the Mists to create the Gift of Dragon's Insight.","Соедините в Мистической кузнице со 100 мистическими рунами, даром исследователя и даром туманов, чтобы создать дар драконьей проницательности."
+"Combine at the Mystic Forge with 100 Mystic Runestones, a Gift of Research, and a Gift of the Mists to create the Gift of Dragon's Persuasion.","Создайте «Дар убеждения дракона», объединив в Мистической кузнице 100 мистических рун, «Подарок исследователя» и «Подарок Туманов»."
+"Combine at the Mystic Forge with 100 Mystic Runestones, a Gift of Research, and a Gift of the Mists to create the Gift of Dragon's Rending.","Создайте «Подарок Драконьего Разрушения», объединив в Мистической Кузнице 100 мистических рун, «Подарок Исследователя» и «Подарок Туманов»."
+"Combine at the Mystic Forge with 100 Mystic Runestones, a Gift of Research, and a Gift of the Mists to create the Gift of Dragon's Scale.","Создайте «Подарок чешуи дракона», объединив в Мистической кузнице 100 мистических рун, «Дары исследований» и «Дары туманов»."
+"Combine at the Mystic Forge with 100 Mystic Runestones, a Gift of Research, and a Gift of the Mists to create the Gift of Dragon's Tail.","Создайте «Подарок Драконьего Хвоста», объединив в Мистической Кузнице 100 мистических рун, «Подарок Исследователя» и «Подарок Туманов»."
+"Combine at the Mystic Forge with 100 Mystic Runestones, a Gift of Research, and a Gift of the Mists to create the Gift of Dragon's Weight.","Создайте «Подарок веса дракона», объединив его в Мистической кузнице со 100 мистическими рунами, «Даром исследований» и «Даром туманов»."
+"Combine at the Mystic Forge with 100 Mystic Runestones, a Gift of Research, and a Gift of the Mists to create the Gift of Dragon's Wing.","Соедините в Мистической кузнице со 100 мистическими рунами, даром исследователя и даром туманов, чтобы создать дар драконьего крыла."
+"Combine at the Mystic Forge with 100 Mystic Runestones, a Gift of Research, and a Gift of the Mists to create the Gift of Dragon's Wisdom.","Создайте «Дар мудрости дракона», объединив в Мистической кузнице 100 мистических рун, «Дар исследований» и «Дар туманов»."
+"Combine at the Mystic Forge with Dragon's Argument, a Gift of Jade Mastery, and a Draconic Tribute to create the legendary pistol Aurene's Argument.","Соедините в Мистической кузнице с ""Аргументом Дракона"", ""Даром Искушения Нефритового"" и ""Драконьей Данью"", чтобы создать легендарный пистолет ""Аргумент Аурене""."
+"Combine at the Mystic Forge with Dragon's Bite, a Gift of Jade Mastery, and a Draconic Tribute to create the legendary greatsword Aurene's Bite.","Соедините в Мистической кузнице с «Укусом дракона», «Даром мастерства из нефрита» и «Драконьей данью», чтобы создать легендарный двуручный меч «Укус Аурене»."
+"Combine at the Mystic Forge with Dragon's Breath, a Gift of Jade Mastery, and a Draconic Tribute to create the legendary torch Aurene's Breath.","Соедините в Мистической кузнице с Драконьим дыханием, Даром совершенного владения и Драконическим подношением, чтобы создать легендарный факел «Дыхание Аурене»."
+"Combine at the Mystic Forge with Dragon's Claw, a Gift of Jade Mastery, and a Draconic Tribute to create the legendary dagger Aurene's Claw.","Соедините в Мистической кузнице с ""Коготь Дракона"", ""Даром мастерства из нефрита"" и ""Драконьей данью"", чтобы создать легендарный кинжал ""Коготь Аурене""."
+"Combine at the Mystic Forge with Dragon's Fang, a Gift of Jade Mastery, and a Draconic Tribute to create the legendary sword Aurene's Fang.","Соедините в Мистической кузнице с Клыком Дракона, Даром Искушения Нефритового и Драконьей Данью, чтобы создать легендарный меч «Клык Аурене»."
+"Combine at the Mystic Forge with Dragon's Flight, a Gift of Jade Mastery, and a Draconic Tribute to create the legendary longbow Aurene's Flight.","Соедините в Мистической кузнице с ""Полëтом дракона"", ""Даром совершенства из нефрита"" и ""Драконьей данью"", чтобы создать легендарный длинный лук ""Полёт Аурене""."
+"Combine at the Mystic Forge with Dragon's Gaze, a Gift of Jade Mastery, and a Draconic Tribute to create the legendary focus Aurene's Gaze.","Соедините в Мистической кузнице с ""Взором дракона"", ""Даром мастерства из нефрита"" и ""Драконьей данью"", чтобы создать легендарный фокус ""Взор Аурене""."
+"Combine at the Mystic Forge with Dragon's Horn, a Gift of Jade Mastery, and a Draconic Tribute to create the legendary warhorn Aurene's Horn.","Соедините в Мистической кузнице с Рогом Дракона, Даром Искушения Нефритового и Драконьей Данью, чтобы создать легендарный боевой рог «Рог Аурене»."
+"Combine at the Mystic Forge with Dragon's Insight, a Gift of Jade Mastery, and a Draconic Tribute to create the legendary staff Aurene's Insight.","Соедините в Мистической кузнице с «Прозрением дракона», «Даром мастерства из нефрита» и «Драконьей данью», чтобы создать легендарный посох «Прозрение Аурене»."
+"Combine at the Mystic Forge with Dragon's Persuasion, a Gift of Jade Mastery, and a Draconic Tribute to create the legendary rifle Aurene's Persuasion.","Соедините в Мистической кузнице с «Убеждением дракона», «Даром мастерства из нефрита» и «Драконьей данью», чтобы создать легендарную винтовку «Убеждение Аурене»."
+"Combine at the Mystic Forge with Dragon's Rending, a Gift of Jade Mastery, and a Draconic Tribute to create the legendary axe Aurene's Rending.","Соедините в Мистической кузнице с «Драконьим разрывом», «Даром мастерства из нефрита» и «Драконьей данью», чтобы создать легендарный топор «Разрыв Аурене»."
+"Combine at the Mystic Forge with Dragon's Scale, a Gift of Jade Mastery, and a Draconic Tribute to create the legendary shield Aurene's Scale.","Соедините в Мистической кузнице с чешуей дракона, даром ""Искусство нефрита"" и драконьим подношением, чтобы создать легендарный щит ""Чешуя Аурене""."
+"Combine at the Mystic Forge with Dragon's Tail, a Gift of Jade Mastery, and a Draconic Tribute to create the legendary mace Aurene's Tail.","Соедините в Мистической кузнице с ""Хвостом Дракона"", ""Даром мастерства из нефрита"" и ""Драконьей данью"", чтобы создать легендарный боевой молот ""Хвост Аурене""."
+"Combine at the Mystic Forge with Dragon's Weight, a Gift of Jade Mastery, and a Draconic Tribute to create the legendary hammer Aurene's Weight.","Соедините в Мистической кузнице с ""Весом Дракона"", ""Даром мастерства из нефрита"" и ""Драконьей данью"", чтобы создать легендарный молот ""Вес Аурене""."
+"Combine at the Mystic Forge with Dragon's Wing, a Gift of Jade Mastery, and a Draconic Tribute to create the legendary short bow Aurene's Wing.","Соедините у Мистической кузницы с Драконьим крылом, Даром совершенства из нефрита и Драконическим подношением, чтобы создать легендарный короткий лук «Крыло Аурене»."
+"Combine at the Mystic Forge with Dragon's Wisdom, a Gift of Jade Mastery, and a Draconic Tribute to create the legendary scepter Aurene's Wisdom.","Соедините в Мистической кузнице с помощью «Мудрости дракона», «Дара мастерства из нефрита» и «Драконьей дани», чтобы создать легендарный скипетр «Мудрость Аурене»."
 "Combine in the Mystic Forge a Gift of Sharpened Tip, a Gift of Metal, a Standing Stones Timepiece (or Remnant), and any weight of the Bearkin War Helm (or Remnant) to create Nyr Hrammr. 
 Remnants can be bought from renown heart vendors if you lost the items.
 
@@ -660,19 +668,23 @@ Created in the Mystic Forge by combining:
 "Combine in the Mystic Forge in Lion's Arch with a Mystic Core, a Mystic Casing, and a Mystic Essence to create a Mystic Forge Node.","Объедините в Таинственной кузнице в Львином Архиве Мистическое ядро, Мистическую оболочку и Мистическую сущность, чтобы создать Узел Таинственной кузницы."
 "Combine in the Mystic Forge in Lion's Arch with a Mystic Core, a Mystic Tube, and a Mystic Casing to create a Mystic Forge Node.","Объедините в Таинственной кузнице в Львином Архиве Мистическое ядро, Мистическую трубку и Мистическую оболочку, чтобы создать Узел Таинственной кузницы."
 "Combine in the Mystic Forge in Lion's Arch with a Mystic Core, a Mystic Tube, and a Mystic Essence to create a Mystic Forge Node.","Объедините в Таинственной кузнице в Львином Архиве Мистическое ядро, Мистическую трубку и Мистическую сущность, чтобы создать Узел Таинственной кузницы."
-"Combine in the Mystic Forge with 2 Vision Crystals, 250 Shards of Glory, and 5 Certificates of Support to create the Gift of Skirmishing.",
-"Combine in the Mystic Forge with 250 Mystical Cogs, Wads of Enchanted Stuffing, and Drops of Magic Glue to make a Mini Plush Griffon.",
-"Combine in the Mystic Forge with 250 Mystical Cogs, Wads of Enchanted Stuffing, and Drops of Magic Glue to make a Mini Princess Doll.",
+"Combine in the Mystic Forge with 2 Vision Crystals, 250 Shards of Glory, and 5 Certificates of Support to create the Gift of Skirmishing.","Соедините в Мистической кузнице с 2 кристаллами видения, 250 осколками славы и 5 сертификатами поддержки, чтобы создать «Подарок для сражений»."
+"Combine in the Mystic Forge with 250 Mystical Cogs, Wads of Enchanted Stuffing, and Drops of Magic Glue to make a Mini Plush Griffon.","Соедините в Мистической кузнице с 250 мистическими шестерёнками, комками зачарованного наполнителя и каплями волшебного клея, чтобы создать миниатюрную плюшевую грифонию."
+"Combine in the Mystic Forge with 250 Mystical Cogs, Wads of Enchanted Stuffing, and Drops of Magic Glue to make a Mini Princess Doll.","Соедините в Мистической кузнице с 250 мистическими шестерёнками, связками зачарованного наполнителя и каплями волшебного клея, чтобы создать миниатюрную куклу принцессы."
 "Combine in the Mystic Forge with 250 Mystical Cogs, Wads of Enchanted Stuffing, and Drops of Magic Glue to make a Mini Toy Golem.","Объедините в Таинственной кузнице 250 мистических шестеренок, комки волшебной начинки и капли магического клея, чтобы создать мини-игрушечного голема."
-"Combine in the Mystic Forge with 250 Mystical Cogs, Wads of Enchanted Stuffing, and Drops of Magic Glue to make a Mini Toy Ventari.",
+"Combine in the Mystic Forge with 250 Mystical Cogs, Wads of Enchanted Stuffing, and Drops of Magic Glue to make a Mini Toy Ventari.","Соедините в Мистической кузнице с 250 мистическими шестерёнками, комками зачарованного наполнителя и каплями волшебного клея, чтобы создать миниатюрную игрушку Вентари."
 "Combine in the Mystic Forge with 250 Petrified Echovald Resin, an Echovald Spire Backpiece, and an Anthology of Heroes to create an Echovald Cathedral Backpiece.","Объедините в Таинственной кузнице 250 окаменевшей эховальдской смолы, спинной щит Эховальдского шпиля и Антологию героев, чтобы создать спинной щит Эховальдского собора."
 "Combine in the Mystic Forge with 250 Stained Glass Shards, Petrified Echovald Resin, and an Anthology of Heroes to create an Echovald Cathedral Backpiece.","Объедините в Таинственной кузнице 250 осколков витража, окаменевшую эховальдскую смолу и Антологию героев, чтобы создать спинной щит Эховальдского собора."
 "Combine in the Mystic Forge with a Clay Pot, Bloodstone Dust, and Foxfire Clusters to create a Chaos Infused Clay Pot.
 
-<c=@flavor>This orb is clearly very powerful. It buzzes and warbles as if it can't contain its mirth.</c>",
+<c=@flavor>This orb is clearly very powerful. It buzzes and warbles as if it can't contain its mirth.</c>","Соедините в Мистической кузнице с глиняным горшком, пылью кровавого камня и скоплениями лисьего огня, чтобы создать хаотичный глиняный горшок.
+
+<c=@flavor>Этот шар явно обладает огромной силой. Он гудит и вибрирует, словно не может сдержать свой восторг.</c>"
 "Combine in the Mystic Forge with a Clay Pot, Bloodstone Dust, and Foxfire Clusters to create a Ley Line Infused Clay Pot.
 
-<c=@flavor>It's very difficult to focus your eyes on this stone. The space around it is rich with magical energy.<c>",
+<c=@flavor>It's very difficult to focus your eyes on this stone. The space around it is rich with magical energy.<c>","Соедините в Мистической кузнице с глиняным горшком, кровяной пылью и скоплениями лисьего огня, чтобы создать глиняный горшок, пропитанный энергией лей-линий.
+
+<c=@flavor>Очень сложно сосредоточить взгляд на этом камне. Пространство вокруг него насыщено магической энергией.<c>"
 "Combine in the Mystic Forge with a Clay Pot, Bloodstone Dust, and Foxfire Clusters to create a Mists Infused Clay Pot.
 
 <c=@flavor>A stone taken from the Mists, steeped in its power.</c>","Соедините в Мистической кузнице с Глиняным горшком, Кровавой каменной пылью и Сгустками лисьего огня, чтобы создать Пропитанный туманом глиняный горшок.
@@ -685,7 +697,9 @@ Created in the Mystic Forge by combining:
 <c=@flavor>Каждая трещина в её контейнере светится от света внутри.</c>"
 "Combine in the Mystic Forge with a Grow Lamp, Bloodstone Bricks, and exotic Essence of Luck to create an Attuned Grow Lamp.
 
-<c=@flavor>A large and potent cluster of Foxfire.</c>",
+<c=@flavor>A large and potent cluster of Foxfire.</c>","Соедините в Мистической кузнице с Большим источником света, Кирпичами из кровавого камня и экзотической Эссенцией удачи, чтобы создать Настроенный источник света.
+
+<c=@flavor>Крупное и мощное скопление лисьего огня.</c>"
 "Combine in the Mystic Forge with a Heat Stone, Bloodstone Bricks, and a +5 Agony Infusion to create a Destroyer Heated Stone.
 
 <c=@flavor>A steaming hot stone from the core of a powerful Destroyer.</c>","Соедините в Мистической кузнице с Камнем тепла, Кровавыми каменными кирпичами и +5 Инфузией агонии, чтобы создать Разогретый камень Разрушителя.
@@ -739,7 +753,9 @@ Combine in the Mystic Forge with llama minis to increase their elegance.,"Сое
 <c=@flavor>Потрескивающая куча элементально заряженной эссенции.</c>"
 "Combine in the Mystic Forge with Meaty Plant Food, Bloodstone Dust, and Thick Leather Sections to create a Package of Ley Line Dusted Plant Food.
 
-<c=@flavor>This dust crackles and pops with magical energy.</c>",
+<c=@flavor>This dust crackles and pops with magical energy.</c>","Соедините в Мистической кузнице с Питательной смесью для растений, Кровяной пылью и Толстыми кожаными полосками, чтобы создать Упаковку пыли для подкормки лей-линий.
+
+<c=@flavor>Эта пыль потрескивает и искрится магической энергией.</c>"
 "Combine in the Mystic Forge with Meaty Plant Food, Bloodstone Dust, and Thick Leather Sections to create a Package of Sacred Plant Food.
 
 <c=@flavor>This cool, clear mineral water from a sacred glacier could purify and nourish a magically growing plant.<c>","Соедините в Мистической кузнице с Мясным растительным кормом, Кровавой каменной пылью и Толстыми кожаными отрезками, чтобы создать Упаковку священного растительного корма.
@@ -762,15 +778,15 @@ Combine in the Mystic Forge with llama minis to increase their elegance.,"Сое
 <c=@flavor>Источник Ранда известен как очень магическое место.</c>"
 "Combine King Toad Z-1, Z-2, Z-3, and a Moto Weapon Design in the Mystic Forge.","Объедините Короля Жаб Z-1, Z-2, Z-3 и Проект оружия Мото в Таинственной кузнице."
 "Combine Mystic Essence of Determination, Mystic Essence of Challenge, Mystic Essence of Discipline, and Mystic Essence of Success in the Mystic Forge to create the Vial of Salt.","Объедините Таинственную сущность решимости, Таинственную сущность вызова, Таинственную сущность дисциплины и Таинственную сущность успеха в Таинственной кузнице, чтобы создать Склянку соли."
-"Combine Mystic Essence of Strategy, Mystic Essence of Animosity, Mystic Essence of Carnage, and Mystic Essence of Annihilation in the Mystic Forge to create the Gift of Warfare.",
+"Combine Mystic Essence of Strategy, Mystic Essence of Animosity, Mystic Essence of Carnage, and Mystic Essence of Annihilation in the Mystic Forge to create the Gift of Warfare.","Соедините мистическую эссенцию стратегии, мистическую эссенцию враждебности, мистическую эссенцию кровопролития и мистическую эссенцию уничтожения в мистической кузнице, чтобы создать дар войны."
 "Combine Princess Miya's Wig, Dress, and Tiara with Mini Moto in the Mystic Forge.","Объедините Парик, Платье и Тиару принцессы Мии с Мини-Мото в Таинственной кузнице."
 Combine Raven and Spirit,Объедините Ворона и Духа
 "Combine Storm Wizard Z-1, Z-2, Z-3, and a Moto Weapon Design in the Mystic Forge.","Объедините Штормового чародея Z-1, Z-2, Z-3 и одно оружейное начертание Мото в Таинственной кузнице."
 Combine the 3 colored keys to be able to open the tri-key chest within the tower rubble. This key is primarily found in the central area of Kessex Hills.,"Соедините 3 цветных ключа, чтобы открыть сундук с тремя ключами в руинах башни. Этот ключ в основном находится в центральной части Кессексских холмов."
 Combine the 3 colored keys to be able to open the tri-key chest within the tower rubble. This key is primarily found in the eastern area of Kessex Hills.,"Соедините 3 цветных ключа, чтобы открыть сундук с тремя ключами в руинах башни. Этот ключ в основном находится в восточной части Кессексских холмов."
 Combine the 3 colored keys to be able to open the tri-key chest within the tower rubble. This key is primarily found in the western area of Kessex Hills.,"Соедините 3 цветных ключа, чтобы открыть сундук с тремя ключами в руинах башни. Этот ключ в основном находится в западной части Кессексских холмов."
-Combine the 4 key fragments to open the grand chest at the end of the Troll's Revenge jumping puzzle.,
-"Combine the Gift of Fortune, Warcry, Gift of Warfare, and Gift of Conquering in the Mystic Forge to create Warbringer.",
+Combine the 4 key fragments to open the grand chest at the end of the Troll's Revenge jumping puzzle.,"Соедините все 4 фрагмента ключа, чтобы открыть большой сундук в конце полосы препятствий «Месть тролля»."
+"Combine the Gift of Fortune, Warcry, Gift of Warfare, and Gift of Conquering in the Mystic Forge to create Warbringer.","Соедините «Дара удачи», «Боевого клича», «Дара войны» и «Дара завоевания» в мистической кузнице, чтобы создать «Воителя»."
 Combine the Jotun Star Fragments in the ruins of Leaning Grade in Dredgehaunt Cliffs.,Соедините осколки звёзд ётунов в руинах Наклонного перевала в Утёсах Дреджхаунта.
 "Combine the Legendary Spike, 4 Gifts of Battle, 250 Memories of Battle, and 2 Vision Crystals in the Mystic Forge to create the Gift of Conquering.","Соедините Легендарный шип, 4 Даров битвы, 250 Воспоминаний о битве и 2 Кристалла видения в Мистической кузнице, чтобы создать Дар завоевания."
 "Combine the Recruit's, Soldier's, General's, and Commander's Wings of War to obtain Warcry, precursor to Warbringer.","Соедините Крылья войны новобранца, солдата, генерала и командира, чтобы получить Боевой клич — предшественник Зачинщика войны."
@@ -787,18 +803,18 @@ Combine the Jotun Star Fragments in the ruins of Leaning Grade in Dredgehaunt Cl
 "Combine with 20 Vials of Powerful Blood, 50 Vials of Potent Blood, and 250 Piles of Bloodstone Dust in the Mystic Forge to create a Mystic Essence of Strategy.","Соедините с 20 Склянками Мощной Крови, 50 Склянками Сильной Крови и 250 Глыбами Пыли Кровавого Камня в Мистической Кузнице, чтобы создать Мистическую Эссенцию Стратегии."
 "Combine with 20 Vicious Claws, 50 Large Claws, and 10 Globs of Dark Matter in the Mystic Forge to create a Mystic Essence of Annihilation.","Соедините с 20 Злобными Когтями, 50 Большими Когтями и 10 Шарами Темной Материи в Мистической Кузнице, чтобы создать Мистическую Эссенцию Уничтожения."
 "Combine with 20 Vicious Claws, 50 Large Claws, and 10 Globs of Dark Matter in the Mystic Forge to create a Mystic Essence of Success.","Соедините с 20 Злобными Когтями, 50 Большими Когтями и 10 Шарами Темной Материи в Мистической Кузнице, чтобы создать Мистическую Эссенцию Успеха."
-Combine with 3 Mini Misters Mittens in the Mystic Forge to create a Mini Baron von Scrufflebutt.,
+Combine with 3 Mini Misters Mittens in the Mystic Forge to create a Mini Baron von Scrufflebutt.,"Соедините 3 миниатюрных мистера Миттенса в мистической кузнице, чтобы создать мини-барона фон Скраффлбатта."
 Combine with 3 Mini Professor Mews in the Mystic Forge to create a Mini Mister Mittens.,"Соедините с 3 Мини-профессорами Мью в Таинственной кузнице, чтобы создать Мини-мистера Миттенса."
 Combine with 3 stacks of 250 Cured Thick Leather Square(s) to create a Mystic Chest.,"Соедините с 3 стопками по 250 Выделанных Толстых Квадратов Кожи, чтобы создать Мистический Сундук."
 "Combine with a Gift of the Mists, a Gift of Competitive Dedication, and a Salt-Forged Mist Diamond in the Mystic Forge to create the Gift of the Champion.","Соедините с Даром Туманов, Даром Соревновательной Преданности и Алмазом Туманов, Кованным Солью, в Мистической Кузнице, чтобы создать Дар Чемпиона."
 "Combine with Certificate of Heroics, Condensed Spirit Energy, and 250 Memories of Battle in the Mystic Forge to create the Gift of War Dedication.","Соедините с Сертификатом Героики, Сгущенной Энергией Духа и 250 Воспоминаниями о Битве в Мистической Кузнице, чтобы создать Дар Военной Преданности."
 "Combine with Condensed Spirit Energy, Star of Glory, and Jar of Distilled Glory in the Mystic Forge to create the Gift of Competitive Dedication.","Соедините с Сгущенной Энергией Духа, Звездой Славы и Сосудом Дистиллированной Славы в Мистической Кузнице, чтобы создать Дар Соревновательной Преданности."
-"Combine with Essence of Lion's Arch, Essence of the East, and Mystic Coins in the Mystic Forge to create a Lion's Arch Portal Scroll.",
-"Combine with Essence of Lion's Arch, Essence of the West, and Mystic Coins in the Mystic Forge to create a Lion's Arch Portal Scroll.",
-"Combine with Essence of the East, Essence of the West, and Mystic Coins in the Mystic Forge to create a Lion's Arch Portal Scroll.",
-"Combine with Mystic Keystone Crystal, Mystic Coins, and Piles of Mystic Dust in the Mystic Forge to create a city portal scroll.",
-"Combine with Mystic Keystone Crystal, Mystic Coins, and the essence of a city in the Mystic Forge to create a city portal scroll.",
-"Combine with Piles of Mystic Dust, Mystic Coins, and the essense of a city in the Mystic Forge to create a city portal scroll.",
+"Combine with Essence of Lion's Arch, Essence of the East, and Mystic Coins in the Mystic Forge to create a Lion's Arch Portal Scroll.","Соедините с «Эссенцией Лайон-Арча», «Эссенцией Востока» и мистическими монетами в Мистической кузнице, чтобы создать свиток портала в Лайон-Арч."
+"Combine with Essence of Lion's Arch, Essence of the West, and Mystic Coins in the Mystic Forge to create a Lion's Arch Portal Scroll.","Соедините с «Эссенцией Лайон-Арча», «Эссенцией Запада» и мистическими монетами в мистической кузнице, чтобы создать свиток портала в Лайон-Арч."
+"Combine with Essence of the East, Essence of the West, and Mystic Coins in the Mystic Forge to create a Lion's Arch Portal Scroll.","Соедините в Мистической кузнице «Эссенцию Востока», «Эссенцию Запада» и мистические монеты, чтобы создать свиток портала в Ишкал."
+"Combine with Mystic Keystone Crystal, Mystic Coins, and Piles of Mystic Dust in the Mystic Forge to create a city portal scroll.","Соедините Мистический Кристалл, Мистические Монеты и Груды Мистической Пыли в Мистической Кузнице, чтобы создать свиток для портала в город."
+"Combine with Mystic Keystone Crystal, Mystic Coins, and the essence of a city in the Mystic Forge to create a city portal scroll.","Соедините мистический кристалл, мистические монеты и сущность города в мистической кузнице, чтобы создать свиток городского портала."
+"Combine with Piles of Mystic Dust, Mystic Coins, and the essense of a city in the Mystic Forge to create a city portal scroll.","Соедините груды мистической пыли, мистические монеты и сущность города в Мистической кузнице, чтобы создать свиток городского портала."
 "Combine with Record of League Participation, Jar of Distilled Glory, and Condensed Spirit Energy in the Mystic Forge to create the Gift of Competitive Dedication.","Соедините с Записью об Участии в Лиге, Сосудом Дистиллированной Славы и Сгущенной Энергией Духа в Мистической Кузнице, чтобы создать Дар Соревновательной Преданности."
 "Combine with Record of League Participation, Star of Glory, and Condensed Spirit Energy in the Mystic Forge to create the Gift of Competitive Dedication.","Соедините с Записью об Участии в Лиге, Звездой Славы и Сгущенной Энергией Духа в Мистической Кузнице, чтобы создать Дар Соревновательной Преданности."
 "Combine with the Gift of Glory, Gift of Battle, and a Cube of Stabilized Dark Energy in the Mystic Forge to create the Gift of the Mists.","Соедините с Даром Славы, Даром Битвы и Кубом Стабилизированной Темной Энергии в Мистической Кузнице, чтобы создать Дар Туманов."

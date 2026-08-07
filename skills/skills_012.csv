@@ -183,7 +183,8 @@ Sinister Stab,Зловещий удар
 Sink,Погружение
 Sink enemies around your target with an illusionary anchor.,Погрузите врагов вокруг вашей цели с помощью иллюзорного якоря.
 "Sink your foe with the weight of justice, inflicting damage continuously. 
-<c=@reminder>Damage ceases if the stun is broken.</c>",
+<c=@reminder>Damage ceases if the stun is broken.</c>","Обрушьте на врага всю тяжесть правосудия, непрерывно нанося урон.
+<c=@reminder>Урон прекращается при снятии оглушения.</c>"
 Sink your foe.,Погрузите врага.
 Sinking Tomb,Погружающая гробница
 Siphon,Вытягивание
@@ -274,7 +275,8 @@ Smash the ground before you with primal strength.,Разбейте землю п
 "Smash the ground with your radiant hammer, dazing nearby foes and granting boons to nearby allies. Gain light aura if this skill finishes a combo.","Ударьте по земле своим сияющим молотом, оглушая ближайших врагов и даруя благословения союзникам поблизости. Получите световную ауру, если это умение завершает комбо."
 "Smash the ground, creating three expanding shock waves that apply conditions.","Разбейте землю, создав три расширяющиеся ударные волны, накладывающие состояния."
 "Smash the ground, creating three shock waves that deal damage. Deal increased damage to disabled enemies, defiant enemies, and enemies with conditions.
-<c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>",
+<c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Ударьтесь о землю, создавая три ударные волны, наносящие урон. Наносите увеличенный урон ослабленным, непоколебимым противникам и противникам с эффектами.
+<c=@reminder>Ослабление включает в себя оглушение, дезориентацию, отбрасывание, притягивание, повал, погружение, подъем, отброс, насмешку и страх.</c>"
 Smash your foe with the magnetic shield.,Разбейте врага магнитным щитом.
 Smash your hammer into the ground to bleed and immobilize your enemies.,"Разбейте молотом землю, чтобы вызвать кровотечение и обездвижить врагов."
 "Smash your mace into the ground, causing flames to erupt from the Mists. The first strike of this attack is more powerful.","Разбейте булавой землю, вызывая извержение пламени из Туманов. Первый удар этой атаки более мощный."

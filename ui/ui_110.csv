@@ -1,14 +1,14 @@
 english,translate
 Potted Tree[s],[Дерево|Дерева|Деревьев] в горшке
-"Pouch[pl:""Pouches""] of Black Pigment",
+"Pouch[pl:""Pouches""] of Black Pigment",[Мешочек|Мешочки|Мешочков] чёрного пигмента
 "Pouch[pl:""Pouches""] of Blue Pigment",Мешочки с синим пигментом
 "Pouch[pl:""Pouches""] of Brown Pigment",[Мешочек|Мешочка|Мешочков] коричневого Пигмента
 "Pouch[pl:""Pouches""] of Green Pigment",[Мешочек|Мешочка|Мешочков] зелёной пигментированной краски
 "Pouch[pl:""Pouches""] of Orange Pigment",Мешочк[и|очка|ов] оранжевого пигмента
-"Pouch[pl:""Pouches""] of Purple Pigment",
+"Pouch[pl:""Pouches""] of Purple Pigment",[Мешочек|Мешочки|Мешочков] пурпурного пигмента
 "Pouch[pl:""Pouches""] of Red Pigment",Мешочек[и|чка|ов] красного пигмента
 "Pouch[pl:""Pouches""] of Stardust",[Мешочек|Мешочка|Мешочков] звездной пыли
-"Pouch[pl:""Pouches""] of White Pigment",
+"Pouch[pl:""Pouches""] of White Pigment",[Мешочек|Мешочки|Мешочков] белого пигмента
 "Pouch[pl:""Pouches""] of Yellow Pigment",Мешочк[и|очка|ов] жёлтого пигмента
 "Pounce on foes, dealing increased damage to foes who are in a downed state.","Набрасывайтесь на врагов, нанося повышенный урон тем, кто находится в состоянии нокдауна."
 Pounce on foes. Enemies within close range receive a second strike and are stunned.,Набрасывайтесь на врагов. Противники в ближнем радиусе получают второй удар и оглушаются.
@@ -60,7 +60,7 @@ Power Grab,Захват силы
 Power has been restored to the cannons guarding the command post.,"Питание пушек, охраняющих командный пост, восстановлено."
 Power Increased,Сила увеличена
 Power Livia's spell with titanspawn energy.,Напитайте заклинание Ливии энергией титанозародыша.
-"Power Matrix[pl:""Matrices""]",
+"Power Matrix[pl:""Matrices""]",Матрица силы
 Power of Bloodstone,Сила кровавого камня
 Power of Inertia,Сила инерции
 Power over Barradin,Власть над Баррадином
@@ -143,7 +143,7 @@ PR&T Red Flower,PR&T Красный цветок
 PR&T Senior Investigator Hrouda,PR&T Старший следователь Хроуда
 PR&T Senior Researcher Takka,Старший исследователь PR&T Такка
 PR&T Yellow Flower,Жёлтый цветок PR&T
-"Practical Scribe's Tools[pl:""Tools""]",
+"Practical Scribe's Tools[pl:""Tools""]",Практичный набор писца
 Practice Chase the Prey,Практика: Погоня за добычей
 Practice Collect the Harvest,Практика: Сбор урожая
 Practice Crystal,Тренировочный кристалл
@@ -199,7 +199,7 @@ Prayer Strip Focus Skin[s],Облик[|а|ов] фокуса «Молитвен�
 Prayer to Minotaur,Молитва Минотавру
 Prayer to Otter (Infused),Молитва Выдре (насыщенная)
 Praying Mantis,Богомол
-"Precious Lowland Shore Gear Box[pl:""Boxes""]",
+"Precious Lowland Shore Gear Box[pl:""Boxes""]",Ящик с экипировкой для прибрежных низин[|а|и|ов]
 Precise +5 Agony Infusion[s],Точн[ая|ых|ых] +5 инкрустаци[я|и|й] агонии
 Precise +7 Agony Infusion[s],+7 [инкрустация|инкрустации|инкрустаций] агонии «Меткость»
 Precise +9 Agony Infusion[s],+9 [инкрустация|инкрустации|инкрустаций] агонии «Меткость»
@@ -315,7 +315,7 @@ Press to throw a super mega bomb; hold to place one. Costs baubles.,"Нажми�
 Press when over deep water to dive under the surface. Hold while in water to descend.,"Нажмите над глубокой водой, чтобы нырнуть под поверхность. Удерживайте в воде, чтобы опуститься."
 "Pressing [lbracket]%str1%[rbracket] can be used to engage enemies. When used, you will automatically be dismounted. Mastering this ability will put a shield on allies.",Нажатие [lbracket]%str1%[rbracket] позволяет вступить в бой с врагами. При использовании вы автоматически спешитесь. Освоение этой способности наложит щит на союзников.
 "Pressing [lbracket]%str1%[rbracket] will cause the jackal to turn into sand and blink forward a short distance, consuming energy. This blink can even be done while in the air.","Нажатие [lbracket]%str1%[rbracket] заставит шакала превратиться в песок и моргнуть вперёд на небольшое расстояние, расходуя энергию. Этот рывок можно выполнять даже в воздухе."
-Pressure plates must be activated in the specified order to initiate the corresponding mechanism function. Modes progressively unlock.Consult machine console for the next function in the sequence.REPLAERI: 135462EXHIERE: 236514CILEFEO: 654213FRIDAE: 541362VICCIMA: 416325DEICEPIS: 362145,
+Pressure plates must be activated in the specified order to initiate the corresponding mechanism function. Modes progressively unlock.Consult machine console for the next function in the sequence.REPLAERI: 135462EXHIERE: 236514CILEFEO: 654213FRIDAE: 541362VICCIMA: 416325DEICEPIS: 362145,"Нажимные плиты необходимо активировать в указанном порядке, чтобы запустить соответствующую функцию механизма. Режимы открываются постепенно. Информацию о следующей функции в последовательности можно найти на консоли устройства.РЕПЛАЕРИ: 135462ЭКСИЕРЕ: 236514ЦИЛЕФЕО: 654213ФРИДАЕ: 541362ВИККИМА: 416325ДЕЙСЕПИС: 362145"
 Prestige Items,Предметы престижа
 Prestige rank is gained each time a player reaches a new legendary division.  Prestige rank can be lost.,"Ранг престижа получается каждый раз, когда игрок достигает нового легендарного дивизиона.  Ранг престижа может быть потерян."
 Prestigious Legend,Престижная легенда
@@ -349,7 +349,7 @@ Previous Tick (%num1%),Предыдущий тик (%num1%)
 Price increases with each purchase.,Цена увеличивается с каждой покупкой.
 Price invalid.,Недопустимая цена.
 Prickleberry Plant,Колючее растение
-"Prickleberry[pl:""Prickleberries""]",
+"Prickleberry[pl:""Prickleberries""]",Колючая ягода
 Pricklepatch Hollow Springer Treat[s],[Лакомство|Лакомства|Лакомств] для спрингера из Колючей лощины
 Prickly Fruit,Колючий плод
 Prickly Pear Pie[s],[Пирог|Пирога|Пирогов] с опунцией
@@ -362,7 +362,7 @@ Priest Endu,Жрец Энду
 Priest Hakim,Жрец Хаким
 Priest Idrissa,Жрица Идрисса
 Priest of Balthazar,Жрец Бальтазара
-"Priest of Balthazar Loot Box[pl:""Boxes""]",
+"Priest of Balthazar Loot Box[pl:""Boxes""]",Ящик жреца Балтазара
 Priestess Card[s],[Карта|Карты|Карт] жрицы
 Priestess Jessyka,Жрица Джессика
 Priestess Karima,Жрица Карима
@@ -377,7 +377,7 @@ Primal Spirit Jackal Skin[s],[Шкура|Шкуры|Шкур] духа-шака�
 Primal Warden Appearance Package,Набор внешности первородного стража
 Primal Warden Appearance Package now available!,Набор внешности первородного стража теперь доступен!
 Primal Warden Outfit[s],[Наряд|Наряда|Нарядов] изначального стража
-"Primary ApplicantName: GorrikSecondary ApplicantName: RamaCompany Name: The Friends Detective AgencyThe Ministry of Investigatory Services hereby grants The Friends Detective Agency, a Dually Recognized Partnership, authority to perform all duties, functions, and obligations pertaining to the operation and administration of a private investigation agency, subject to the laws, rules, and regulations set forth in MIS Private Investigation Agency Laws, Rules, and Regulations Code 512-PIA (attached).",
+"Primary ApplicantName: GorrikSecondary ApplicantName: RamaCompany Name: The Friends Detective AgencyThe Ministry of Investigatory Services hereby grants The Friends Detective Agency, a Dually Recognized Partnership, authority to perform all duties, functions, and obligations pertaining to the operation and administration of a private investigation agency, subject to the laws, rules, and regulations set forth in MIS Private Investigation Agency Laws, Rules, and Regulations Code 512-PIA (attached).","Основной заявитель: Горрик. Второстепенный заявитель: Рама. Название компании: «Друзья — детективное агентство». Министерство следственных служб настоящим предоставляет организации «Друзья — детективное агентство», являющейся официально зарегистрированным партнёрством, право выполнять все обязанности и функции, связанные с деятельностью частного детективного агентства, в соответствии с законами, правилами и нормами, изложенными в Кодексе о частных детективных агентствах Министерства следственных служб (MIS) № 512-PIA (прилагается)."
 Primary Attack Torment,Первичная атака: Мучение
 Primary Rally Point,Первичная точка сбора
 Primary Rally Point Contested,Первичная точка сбора оспаривается
@@ -411,7 +411,7 @@ Primordus Hologram Generator[s],[Генератор|Генераторы|Ген�
 Primordus is drawing magic from ley lines!,Примордус вытягивает магию из линий лей!
 Primordus Left Eye Infusion[s],[Инкрустация|Инкрустации|Инкрустаций] левого глаза Примордуса
 Primordus Legendary Weapon Skins,Облики легендарного оружия Примордуса
-"Primordus Minion Loot Box[pl:""Boxes""]",
+"Primordus Minion Loot Box[pl:""Boxes""]",Коробка с добычей прислуги Примордуса
 Primordus Prism,Призма Примордуса
 Primordus Right Eye Infusion[s],[Инкрустация|Инкрустации|Инкрустаций] правого глаза Примордуса
 Primordus's Argument Skin[s],[Облик|Облики|Обликов] аргумента Примордуса
@@ -440,7 +440,7 @@ Prince Rurik's Vanguard Cape[s],[Плащ|Плаща|Плащей] аванга�
 Prince's Daze,Принцев дурман
 Prince's Grasp,Хватка принца
 Princess dolls are malfunctioning and trying to ride Ventari toys!,Куклы принцессы дали сбой и пытаются оседлать игрушки Вентари!
-"Princess Miya's Dress[pl:""Dresses""]",
+"Princess Miya's Dress[pl:""Dresses""]",Платье принцессы Мии[|тья|тья]
 Princess Miya's Tiara[s],[Тиара|Тиары|Тиар] принцессы Мии
 Princess Miya's Wig[s],[Парик|Парика|Париков] принцессы Мии
 Princess Wand Skin[s],[Облик|Облика|Обликов] палочки принцессы

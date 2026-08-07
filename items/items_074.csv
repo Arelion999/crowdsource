@@ -38,7 +38,7 @@ Oiled Orichalcum Warhorn Mouthpiece,Масляный мундштук боево
 Oiled Small Ancient Haft,Маслянистая древняя короткая рукоять
 Oily Fish Meat,Жирное рыбное мясо
 Oily Skale Sac,Маслянистый мешок скайла
-Okarinoo Friendship Bracelet,
+Okarinoo Friendship Bracelet,Браслет дружбы Окариноо
 "Olava Skumasdottir
 403 Bloom XXX0
 Obscure","Олава Скумасдоттир
@@ -142,10 +142,13 @@ On the Banks of the Elon,На берегах Элона
 On Wings of Gold: Bronze,На золотых крыльях: Бронза
 One Hundred Racing Medallions,Сто гоночных медальонов
 "One of the forbidden texts requested by Balam Ri. Double-click to read.
-<c=@Flavor>This item is not required to complete the collection and can be discarded.</c >",
+<c=@Flavor>This item is not required to complete the collection and can be discarded.</c >","Один из запретных текстов, запрошенных Балам Ри. Дважды щелкните, чтобы прочитать.
+<c=@Flavor>Этот предмет не требуется для завершения коллекции и может быть удален.</c >"
 "One wrong move and this will crumble to pieces.
 
-This item only has value as part of the Missing Brood collection.",
+This item only has value as part of the Missing Brood collection.","Одно неверное движение, и всё это рассыплется в прах.
+
+Этот предмет имеет ценность только как часть коллекции «Пропавшее потомство»."
 One-Crystal Emissary Chest,Сундук эмиссара с одним кристаллом
 One-Handed Skyscale Weapon Box,Одноручный сундук с оружием скайскейля
 One-Handed Skyscale Weapon Skin Chest,Сундук с обликом скайскейла для одной руки
@@ -261,9 +264,11 @@ Open to choose a High Legion Banner skin.,"Откройте, чтобы выбр
 Open to choose a Houndskin Mantle.,"Откройте, чтобы выбрать плащ из шкуры гончей."
 Open to choose a new weapon skin to unlock for your account.,"Откройте, чтобы выбрать новый облик оружия для разблокировки на вашей учетной записи."
 "Open to choose a new weapon skin to unlock for your account.
-<c=@Flavor>A gift from a friend, in hope that you will carry on our struggle.</c>",
+<c=@Flavor>A gift from a friend, in hope that you will carry on our struggle.</c>","Открой, чтобы выбрать новый внешний вид оружия и добавить его в свою учетную запись.
+<c=@Flavor>Это подарок от друга, сделанный с надеждой на то, что ты продолжишь наше дело.</c>"
 "Open to choose a new weapon skin to unlock for your account.
-<c=@Flavor>A gift from an unknown friend across the seas, in hopes that you will be a useful ally.</c>",
+<c=@Flavor>A gift from an unknown friend across the seas, in hopes that you will be a useful ally.</c>","Откройте, чтобы выбрать новый вид оружия для разблокировки на вашей учетной записи.
+<c=@Flavor>Это подарок от неизвестного друга из-за моря, в надежде, что вы станете полезным союзником.</c>"
 Open to choose a pair of Corsair leggings.,"Откройте, чтобы выбрать пару корсарских поножей."
 Open to choose a pair of invisible boots.,"Откройте, чтобы выбрать пару невидимых сапог."
 Open to choose a Season 4 currency.,"Откройте, чтобы выбрать валюту 4-го сезона."
@@ -409,7 +414,7 @@ Orichalcum Trident Head,«Наконечник трезубца из ориха�
 Orichalcum Warhorn Mouthpiece,Орихалковый мундштук рога
 "Originally given as gifts by the naga, these tridents represented peace and solidarity, as the three prongs become one shaft. They were thought to all have been destroyed when the Ministry of Purity came to power.","Изначально подаренные нагами, эти трезубцы символизировали мир и единство, так как три зубца сходятся в единое древко. Считалось, что все они были уничтожены, когда к власти пришло Министерство Чистоты."
 Orison of Salma,Молитва Салмы
-Ornamental Golden Trophy,
+Ornamental Golden Trophy,Декоративный золотой трофей
 Ornamented Bearkin Claw,Украшенный коготь медведеподобного
 Ornamented Focus,Украшенный фокус
 Ornamented Shield,Украшенный щит
@@ -420,12 +425,12 @@ Ornate Armorsmith's Tools,Инструменты искусного бронек
 Ornate Artificer's Backpack,Рюкзак искусного ремесленника
 Ornate Artificer's Tools,Инструменты искусного алхимика
 Ornate Bed,Искусная кровать
-Ornate Beryl Jewel,
-Ornate Chrysocola Jewel,
-Ornate Coral Jewel,
-Ornate Emerald Jewel,
+Ornate Beryl Jewel,Искусный изумрудный самоцвет
+Ornate Chrysocola Jewel,Искусно выполненное украшение из хрисоколы
+Ornate Coral Jewel,Изысканный коралловый самоцвет
+Ornate Emerald Jewel,Искусный изумрудный самоцвет
 Ornate Feather Duster,Искусная метелка из перьев
-Ornate Grand Piano Chair,
+Ornate Grand Piano Chair,Изящное большое кресло в виде рояля
 Ornate Guild Boots,Украшенные гильдейские сапоги
 Ornate Guild Breastplate,Украшенный гильдейский нагрудник
 Ornate Guild Cowl,Украшенный гильдейский капюшон
@@ -450,61 +455,61 @@ Ornate Jeweler's Backpack,Орнаментированный рюкзак юве
 Ornate Jeweler's Tools,Инструменты искусного ювелира
 Ornate Leatherworker's Backpack,Ранец искусного кожевника
 Ornate Leatherworker's Tools,Инструменты искусного кожевника
-Ornate Opal Jewel,
-Ornate Pistol Frame,
-Ornate Ruby Jewel,
+Ornate Opal Jewel,Искусный опаловый самоцвет
+Ornate Pistol Frame,Изящная рамка пистолета
+Ornate Ruby Jewel,Искусный рубиновый самоцвет
 Ornate Ruched Shirt,Искусная рубашка с оборками
-Ornate Rusted Key,
-Ornate Sapphire Jewel,
+Ornate Rusted Key,Изысканный ржавый ключ
+Ornate Sapphire Jewel,Искусный сапфировый самоцвет
 Ornate Scribe's Backpack,Изысканный рюкзак писаря
-Ornate Scribe's Tools,
-Ornate Snowflake,
+Ornate Scribe's Tools,Искусные инструменты писца
+Ornate Snowflake,Искусная снежинк[а|и|ок]
 Ornate Tailor's Backpack,Рюкзак Портного с отделкой
 Ornate Tailor's Tools,Инструменты искусного портного
-Ornate Watchwork Box,
+Ornate Watchwork Box,Искусно выполненная шкатулка с часовым механизмом
 Ornate Weaponsmith's Backpack,Украшенный рюкзак оружейника
 Ornate Weaponsmith's Tools,Инструменты искусного оружейника
 Orphan Laine's Letter,Письмо сироты Лэйн
 Orphan's Generous Gift,Щедрый подарок сироты
 Orr's Fall,Падение Орра
 Orrax Contained,Орракс в заточении
-Orrax Contained Homestead Decoration,
-Orrax Manifested Backpack and Glider Combo,
-Orrax Manifested Glider,
-Orrian Anglerfish,
-Orrian Armor Tybalt,
-Orrian Artifact Shards,
+Orrax Contained Homestead Decoration,"Декорация ""Охранное поместье Орракса"""
+Orrax Manifested Backpack and Glider Combo,Проявленный рюкзак и планирующий модуль Орракс
+Orrax Manifested Glider,Проявленный планерист Орракс
+Orrian Anglerfish,Орианская удильщиковая рыба
+Orrian Armor Tybalt,Доспех Тибальта из Орриана
+Orrian Artifact Shards,Осколки артефакта Орриана
 Orrian Axe,Оррианский топор
-Orrian Axe of Accuracy,
-Orrian Axe of Air,
-Orrian Axe of Earth,
-Orrian Axe of Energy,
-Orrian Axe of Vision,
-Orrian Axe Skin,
+Orrian Axe of Accuracy,Топор Орриана с бонусом к точности
+Orrian Axe of Air,Орианский топор воздуха
+Orrian Axe of Earth,Топор земли из Орриана
+Orrian Axe of Energy,Орианский топор энергии
+Orrian Axe of Vision,Орианский топор провидения
+Orrian Axe Skin,Орианская кирка
 Orrian Blade,Оррианский клинок
 Orrian Bow,Оррианский лук
-Orrian Bow of Accuracy,
-Orrian Bow of Air,
-Orrian Bow of Bloodlust,
-Orrian Bow of Earth,
-Orrian Bow of Energy,
-Orrian Bow of the Geomancer,
-Orrian Bow of Vision,
-Orrian Bow of Water,
-Orrian Bow Skin,
+Orrian Bow of Accuracy,"Лук Орриана, дающий точность"
+Orrian Bow of Air,Орианский лук воздуха
+Orrian Bow of Bloodlust,"Лук Орриана, пробуждающий жажду крови"
+Orrian Bow of Earth,Лук Орриана Земли
+Orrian Bow of Energy,Орианский лук энергии
+Orrian Bow of the Geomancer,Лук Орриана геоманта
+Orrian Bow of Vision,Лук Ориана Прозрения
+Orrian Bow of Water,Лук Ориана Воды
+Orrian Bow Skin,Орианский лук
 Orrian Building Materials,Оррианские строительные материалы
 Orrian Celestial Codex,Оррианский небесный кодекс
-Orrian Coffer,
+Orrian Coffer,Орианский ларец
 Orrian Dagger,Оррианский кинжал
-Orrian Dagger of Air,
-Orrian Dagger of Bloodlust,
-Orrian Dagger of Earth,
-Orrian Dagger of Energy,
-Orrian Dagger of Rage,
-Orrian Dagger Skin,
+Orrian Dagger of Air,Орианский кинжал воздуха
+Orrian Dagger of Bloodlust,Орианский кинжал жажды крови
+Orrian Dagger of Earth,Орианский кинжал земли
+Orrian Dagger of Energy,Орианский кинжал энергии
+Orrian Dagger of Rage,Орианский кинжал ярости
+Orrian Dagger Skin,Орианский кинжал
 Orrian Drake Scale,Оррианская чешуя драка
 Orrian Driftwood,Оррианский плавник
 Orrian Energy Source,Оррианский источник энергии
-Orrian Fishing Reward,
+Orrian Fishing Reward,Награда за рыбалку в Орриане
 Orrian Focus,Оррианский фокус
-Orrian Focus of Accuracy,
+Orrian Focus of Accuracy,Орианский фокус точности

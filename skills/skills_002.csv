@@ -42,30 +42,36 @@ english,translate
 <c=@abilitytype>Legendary Renegade.</c> Summon Centurion Jas Razorclaw from the Mists to strike nearby enemies and enhance the attacks of your allies.,"<c=@abilitytype>Легендарный ренегат.</c> Призовите центуриона Джаса Острокогтя из Туманных земель, чтобы поразить врагов поблизости и усилить атаки союзников."
 <c=@abilitytype>Legendary Renegade.</c> Summon Era Breakrazor to heal your allies while shielding them from condition damage.,"<c=@abilitytype>Легендарный ренегат.</c> Призовите Эру Разрезающего, чтобы исцелить союзников и защитить их от урона от состояний."
 "<c=@abilitytype>Legendary Renegade.</c> Summon Lieutenant Ofela Soulcleave to grant your allies' strikes incredible bloodthirst, inflicting damage and restoring health. Soulcleave will also strike enemies and heal allies in the area when you use a <c=@abilitytype>Legendary Renegade</c> skill.
-<c=@reminder>Lieutenant Soulcleave can only empower players to siphon life once per interval, and this does not benefit nonplayers.</c>",
+<c=@reminder>Lieutenant Soulcleave can only empower players to siphon life once per interval, and this does not benefit nonplayers.</c>","<c=@abilitytype>Легендарный Изгой.</c> Призовите лейтенанта Офелу Соулклив, чтобы наделить союзников невероятной жаждой крови, нанося урон и восстанавливая здоровье. Соулклив также будет атаковать врагов и исцелять союзников в области действия при использовании вами навыка <c=@abilitytype>Легендарный Изгой</c>.
+<c=@reminder>Лейтенант Соулклив может усиливать способность игроков к поглощению жизненной силы только один раз за интервал, и это не распространяется на неигроков.</c>"
 <c=@abilitytype>Legendary Renegade.</c> Summon Visk Icerazor from the Mists to magically bombard your enemies with debilitating conditions.,"<c=@abilitytype>Легендарный ренегат.</c> Призовите Виска Ледореза из Туманных земель, чтобы магически бомбардировать врагов ослабляющими состояниями."
 "<c=@abilitytype>Manipulation.</c> Give allies Illusion of Life at the target location, allowing them to get up from downed state and keep fighting. Fully revives allies if they kill a foe.","<c=@abilitytype>Манипуляция.</c> Даруйте союзникам Иллюзию жизни в указанной области, позволяя им подняться из состояния поверженного и продолжать сражение. Полностью воскрешает союзников, если они убивают врага."
 "<c=@abilitytype>Manipulation.</c> Reflect projectiles, and heal yourself.",<c=@abilitytype>Манипуляция.</c> Отражайте снаряды и исцеляйте себя.
 <c=@abilitytype>Manipulation.</c> Send conditions you have to your foe and steal their boons. Successfully hitting your target inflicts slow on them while granting you quickness.,<c=@abilitytype>Манипуляция.</c> Передайте свои состояния врагу и украдите его благословения. При успешном попадании накладывает замедление на цель и даёт вам быстроту.
 <c=@abilitytype>Manipulation.</c> Teleport to a target location.,<c=@abilitytype>Манипуляция.</c> Телепортируйтесь в указанную область.
 "<c=@abilitytype>Manipulation.</c> The next utility skill you use has significantly reduced recharge, and Mimic's recharge is increased by the original recharge of the affected skill.
-<c=@reminder>Mimic's recharge cannot be reset by other mesmer skills.</c>",
+<c=@reminder>Mimic's recharge cannot be reset by other mesmer skills.</c>","<c=@abilitytype>Манипуляция.</c> Время перезарядки следующего используемого умения значительно сокращается, а время перезарядки «Мимикрии» увеличивается на величину исходного времени перезарядки затронутого умения.
+<c=@reminder>Время перезарядки «Мимикрии» нельзя сбросить другими умениями иллюзиониста.</c>"
 <c=@abilitytype>Manipulation.</c> You and all your allies gain stealth for a short time.,<c=@abilitytype>Манипуляция.</c> Вы и все ваши союзники получаете невидимость на короткое время.
 "<c=@abilitytype>Mantra.</c> Chant the ritual of cleansing, removing conditions and speeding recovery.
-<c=@reminder>The final charge of this skill is more powerful.</c>",
+<c=@reminder>The final charge of this skill is more powerful.</c>","<c=@abilitytype>Мантра.</c> Воспроизнесите ритуал очищения, снимающий негативные эффекты и ускоряющий восстановление.
+<c=@reminder>Последний заряд этой способности обладает большей силой.</c>"
 "<c=@abilitytype>Mantra.</c> Echo remnants of an ancient pamphlet from Vabbi that urged Elonians to freedom. Grant stability and resolution to allies while breaking stun.
-<c=@reminder>The final charge of this skill is more powerful.</c>",
+<c=@reminder>The final charge of this skill is more powerful.</c>","<c=@abilitytype>Мантра.</c> Эхо отрывка из древнего памфлета Вабби, призывавшего элони к свободе. Дарует союзникам устойчивость и решимость, а также снимает оглушение.
+<c=@reminder>Последний заряд этой способности обладает большей силой.</c>"
 "<c=@abilitytype>Mantra.</c> Meditate, charging a spell that will break stuns and grant stability to nearby allies. Grant boons to nearby allies when this spell fully charges.","<c=@abilitytype>Мантра.</c> Медитируйте, заряжая заклинание, которое снимет оглушение и дарует стабильность ближайшим союзникам. Даруйте благословения ближайшим союзникам, когда заклинание полностью зарядится."
 "<c=@abilitytype>Mantra.</c> Meditate, charging a spell that will cure conditions for you and nearby allies. Cure conditions on yourself and nearby allies when this spell is fully charged.","<c=@abilitytype>Мантра.</c> Медитируйте, заряжая заклинание, которое исцелит состояния у вас и ближайших союзников. Исцелите состояния у себя и ближайших союзников, когда заклинание полностью зарядится."
 "<c=@abilitytype>Mantra.</c> Meditate, charging a spell that will damage your target. Grant might to nearby allies when this spell is fully charged.","<c=@abilitytype>Мантра.</c> Медитируйте, заряжая заклинание, которое нанесет урон вашей цели. Даруйте силу ближайшим союзникам, когда заклинание полностью зарядится."
 "<c=@abilitytype>Mantra.</c> Meditate, charging a spell that will daze your target. Shatter skill 3's recharge time is partially refunded when this spell fully charges.","<c=@abilitytype>Мантра.</c> Медитируйте, заряжая заклинание, которое оглушит вашу цель. Время восстановления умения «Разрушение 3» частично возвращается, когда заклинание полностью зарядится."
 "<c=@abilitytype>Mantra.</c> Meditate, charging a spell that will instantly heal you when activated. Heal yourself and nearby allies when this spell fully charges.","<c=@abilitytype>Мантра.</c> Медитируйте, заряжая заклинание, которое мгновенно исцелит вас при активации. Исцелите себя и ближайших союзников, когда заклинание полностью зарядится."
 "<c=@abilitytype>Mantra.</c> Prepare a chant to sear your enemies. 
-<c=@reminder>The final charge of this skill is more powerful.</c>",
+<c=@reminder>The final charge of this skill is more powerful.</c>","<c=@abilitytype>Мантра.</c> Подготовьте заклинание, чтобы испепелить врагов.
+<c=@reminder>Последняя активация этой способности наносит больше урона.</c>"
 "<c=@abilitytype>Mantra.</c> Prepare the tenets of truth to debilitate your foes.</c>
 <c=@reminder>The final charge of this skill is more powerful.</c>",
 "<c=@abilitytype>Mantra.</c> Prepare to heal yourself and grant boons to allies. 
-<c=@reminder>The final charge of this skill is more powerful.</c>",
+<c=@reminder>The final charge of this skill is more powerful.</c>","<c=@abilitytype>Мантра.</c> Подготовьтесь к исцелению себя и наложению благословений на союзников.
+<c=@reminder>Последняя активация этого умения имеет усиленный эффект.</c>"
 "<c=@abilitytype>Mantra.</c> Recite a hymn from the annals of Turai to quicken yourself and your allies.
 <c=@reminder>The final charge of this skill is more powerful.",
 "<c=@abilitytype>Mark.</c> Inscribe a mark that bleeds foes when they trigger it, and grants regeneration to allies.","<c=@abilitytype>Метка.</c> Начертите метку, которая наносит кровотечение врагам при активации и дарует регенерацию союзникам."
@@ -111,13 +117,17 @@ english,translate
 "<c=@abilitytype>Morph.</c> Spin around a hunk of metal, then finish with a forward smash.","<c=@abilitytype>Морф.</c> Вращается вокруг куска металла, затем завершает ударом вперёд."
 "<c=@abilitytype>Morph.</c> Thrust forward with a spike, piercing the defense of your foe.","<c=@abilitytype>Морф.</c> Выпад вперёд с шипом, пронзающий защиту врага."
 "<c=@abilitytype>Overload.</c> Create a surge of accumulated water magic, healing and cleansing allies. When the cast ends, heal the area and apply regeneration.
-<c=@reminder>Using this skill causes the attunement to have a longer recharge.</c>",
+<c=@reminder>Using this skill causes the attunement to have a longer recharge.</c>","<c=@abilitytype>Перегрузка.</c> Создайте мощный поток накопленной водной магии, исцеляющей и очищающей союзников. По окончании действия заклинания восстановите здоровье в области применения и наложите эффект регенерации.
+<c=@reminder>Использование этого умения увеличивает время перезарядки гармонии.</c>"
 "<c=@abilitytype>Overload.</c> Ride your stored earth magic around, granting protection to other allies you move over and crippling enemies, then deliver a final immobilizing blast of power to the area, leaving behind a dust cyclone that delivers the same effects as the overload.
-<c=@reminder>Using this skill causes the attunement to have a longer recharge.</c>",
+<c=@reminder>Using this skill causes the attunement to have a longer recharge.</c>","<c=@abilitytype>Перегрузка.</c> Используйте накопленную энергию земли, чтобы перемещаться и защищать союзников, над которыми проезжаете, а также наносить урон врагам. В конце выпустите мощный поток энергии, который обездвижит противников в области действия, оставив после себя пылевой вихрь с аналогичными эффектами перегрузки.
+<c=@reminder>Использование этого умения увеличивает время перезарядки гармонии.</c>"
 "<c=@abilitytype>Overload.</c> Unleash your flames, granting might to allies and burning enemies. Finishing the cast creates a tornado that continues to grant might and burn foes.
-<c=@reminder>Using this skill causes the attunement to have a longer recharge.</c>",
+<c=@reminder>Using this skill causes the attunement to have a longer recharge.</c>","<c=@abilitytype>Перегрузка.</c> Высвободите пламя, даруя союзникам мощь и поджигая врагов. Завершение применения создаёт торнадо, который продолжает даровать мощь и обжигать противников.
+<c=@reminder>Использование этого умения увеличивает время перезарядки специализации.</c>"
 "<c=@abilitytype>Overload.</c> Use your air magic to summon a nimbus that repeatedly strikes nearby enemies. When this ability is complete, imbue your allies with electricity and create a lingering static region that strikes enemies at the same interval.
-<c=@reminder>Using this skill causes the attunement to have a longer recharge.</c>",
+<c=@reminder>Using this skill causes the attunement to have a longer recharge.</c>","<c=@abilitytype>Перегрузка.</c> Используйте свою магию воздуха, чтобы призвать нимб, который многократно атакует находящихся поблизости врагов. Когда действие этой способности завершится, наделите своих союзников электричеством и создайте остаточное статическое поле, которое будет поражать врагов с той же периодичностью.
+<c=@reminder>Использование этого умения увеличивает время перезарядки аттюнмента.</c>"
 "<c=@abilitytype>Phantasm.</c> Block incoming attacks for a short duration. If this skill fully channels, summon a phantasm that slows enemies and grants protection to allies. If an attack is blocked, Deja Vu is usable for a short time and the phantasm is summoned immediately.","<c=@abilitytype>Фантом.</c> Блокирует входящие атаки на короткое время. Если навык полностью канализируется, призывает фантома, который замедляет врагов и дарует защиту союзникам. Если атака заблокирована, «Дежавю» становится доступным на короткое время, и фантом призывается немедленно."
 "<c=@abilitytype>Phantasm.</c> Block incoming attacks for a short duration. If this skill fully channels, summon a phantasm that slows enemies and grants protection to allies. If an attack is blocked, the phantasm is summoned immediately.","<c=@abilitytype>Фантом.</c> Блокирует входящие атаки на короткое время. Если навык полностью канализируется, призывает фантома, который замедляет врагов и даёт защиту союзникам. Если атака заблокирована, фантом призывается немедленно."
 <c=@abilitytype>Phantasm.</c> Cast Siren's Call on nearby foes and create an illusion that confuses foes with a harpoon gun.,"<c=@abilitytype>Фантом.</c> Накладывает Зов сирены на ближайших врагов и создаёт иллюзию, которая сбивает врагов с толку гарпунным ружьём."
@@ -179,7 +189,8 @@ english,translate
 <c=@abilitytype>Psionic.</c> Channel to gain distortion and stock up to the maximum number of blades.,<c=@abilitytype>Псионика.</c> Концентрация для получения искажения и накопления максимального количества клинков.
 "<c=@abilitytype>Psionic.</c> Create a storm of blades that attacks a large area, damaging and applying vulnerability to targets.","<c=@abilitytype>Псионика.</c> Создает бурю клинков, атакующую большую область, нанося урон и накладывая уязвимость на цели."
 "<c=@abilitytype>Psionic.</c> Drop a massive blade on a location, immobilizing enemies. This attack deals increased damage against controlled, downed, or defiant foes. <c=@reminder>Does bonus defiance-bar damage to defiant foes.</c>
-<c=@reminder>Controls include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>",
+<c=@reminder>Controls include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","<c=@abilitytype>Псионический.</c> Обрушивает на цель огромный клинок, обездвиживая врагов. Эта атака наносит увеличенный урон целям, находящимся под контролем, в состоянии оглушения или сопротивления. <c=@reminder>Наносит дополнительный урон шкале сопротивления врагам, находящимся в состоянии сопротивления.</c>
+<c=@reminder>Эффекты контроля включают оглушение, ошеломление, отбрасывание, притягивание, сбивание с ног, погружение, подъем, бросок, вызов и страх.</c>"
 "<c=@abilitytype>Psionic.</c> Heal yourself, lose conditions, and throw two blades at your target. If the first blade hits, you gain aegis. If the second blade hits, you gain vigor.","<c=@abilitytype>Псионика.</c> Исцеляет себя, снимает состояния и бросает два клинка в цель. Если первый клинок попадает, вы получаете эгиду. Если второй клинок попадает, вы получаете рвение."
 <c=@abilitytype>Psionic.</c> Knock back nearby foes with a psychic blade and gain boons.,<c=@abilitytype>Псионика.</c> Отбрасывает ближайших врагов психическим клинком и получает благословения.
 <c=@abilitytype>Psionic.</c> Open a portal that devastates targets in a line in front of you with a flurry of blades.,"<c=@abilitytype>Псионика.</c> Откройте портал, который уничтожает цели линией перед вами шквалом клинков."
@@ -199,16 +210,21 @@ english,translate
 "<c=@abilitytype>Rage.</c> Summon a rock that blocks attacks, then shatter it to send out rock fragments that inflict bleeding on all foes in front of you. Extends the duration of berserk mode if it hits.","<c=@abilitytype>Ярость.</c> Призовите камень, блокирующий атаки, затем разбейте его, чтобы разослать осколки, накладывающие кровотечение на всех врагов перед вами. Продлевает длительность режима берсерка при попадании."
 <c=@abilitytype>Reflects Missiles</c>,<c=@abilitytype>Отражает снаряды</c>
 "<c=@abilitytype>Shade.</c> Enter the desert shroud, gaining a powerful barrier and pulsing necrotic energy around your sand shades.
-<c=@reminder>Targets affected by this ability can only be affected once per pulse.</c>",
+<c=@reminder>Targets affected by this ability can only be affected once per pulse.</c>","<c=@abilitytype>Тень.</c> Войдите в пустынный саван, получив мощный барьер и излучая некротическую энергию вокруг своих песчаных теней.
+<c=@reminder>Цели, на которых действует эта способность, могут быть затронуты только один раз за импульс.</c>"
 "<c=@abilitytype>Shade.</c> Enter the final shroud, pulsing barrier to allies around yourself and priming the shroud for a powerful detonation that damages enemies and bolsters allies.
-<c=@reminder>Targets can only be affected by the detonation once per activation.</c>",
+<c=@reminder>Targets can only be affected by the detonation once per activation.</c>","<c=@abilitytype>Тень.</c> Войдите в финальный саван, создайте пульсирующий барьер вокруг союзников и подготовьте саван к мощному взрыву, который наносит урон врагам и усиливает союзников.
+<c=@reminder>На цель можно воздействовать взрывом только один раз за активацию.</c>"
 "<c=@abilitytype>Shade.</c> Induce fear in enemies around your sand shades.
-<c=@reminder>Targets affected by this ability can only be affected once per cast.</c>",
+<c=@reminder>Targets affected by this ability can only be affected once per cast.</c>","<c=@abilitytype>Тень.</c> Вселяет страх во врагов вокруг ваших песчаных теней.
+<c=@reminder>Цели, на которых действует эта способность, могут быть затронуты только один раз за применение.</c>"
 <c=@abilitytype>Shade.</c> Manifest a sand shade using some of your life force. Using a <c=@abilitytype>shade</c> ability strikes enemies near you and your shades.,"<c=@abilitytype>Тень.</c> Проявите песчаную тень, используя часть вашей жизненной силы. Использование способности <c=@abilitytype>тени</c> наносит урон врагам рядом с вами и вашими тенями."
 "<c=@abilitytype>Shade.</c> Sand rises up near your shades to shield nearby allies.
-<c=@reminder>Targets affected by this ability can only be affected once per cast.</c>",
+<c=@reminder>Targets affected by this ability can only be affected once per cast.</c>","<c=@abilitytype>Тень.</c> Песок поднимается вокруг ваших теней, создавая щит для находящихся рядом союзников.
+<c=@reminder>Цели, на которых применена эта способность, могут быть затронуты ею только один раз за применение.</c>"
 "<c=@abilitytype>Shade.</c> Your shades convert a condition on nearby allies into a boon.
-<c=@reminder>Targets affected by this ability can only be affected once per cast.</c>",
+<c=@reminder>Targets affected by this ability can only be affected once per cast.</c>","<c=@abilitytype>Тень.</c> Ваши тени преобразуют негативное состояние на ближайших союзниках в благотворное.
+<c=@reminder>Цели, затронутые этой способностью, могут быть подвержены её воздействию только один раз за применение.</c>"
 "<c=@abilitytype>Shatter.</c> Destroy all your clones, confusing nearby foes and recharging this skill for each clone shattered.","<c=@abilitytype>Разрушение.</c> Уничтожьте всех своих клонов, сбивая с толку ближайших врагов и восстанавливая это умение за каждого уничтоженного клона."
 "<c=@abilitytype>Shatter.</c> Destroy all your clones, confusing nearby foes. The shatter effect also occurs at your location.","<c=@abilitytype>Разрушение.</c> Уничтожьте всех своих клонов, сбивая с толку ближайших врагов. Эффект разрушения также происходит в вашем местоположении."
 "<c=@abilitytype>Shatter.</c> Destroy all your clones, damaging nearby foes. Strikes again after a delay.
@@ -259,99 +275,143 @@ english,translate
 <c=@abilitytype>Shroud.</c> You and any active spirits shadowstep to the target area. Any spirits that aren't currently using their initial skill will immediately use an additional skill.,"<c=@abilitytype>Саван.</c>Вы и любые активные духи совершаете теневой шаг к целевой области. Любые духи, которые в данный момент не используют свой начальный навык, немедленно используют дополнительный навык."
 <c=@abilitytype>Signet Active:</c> Strike and remove boons from nearby foes. Heal for each foe you strike and for each boon removed.,<c=@abilitytype>Активный эффект печати:</c>Ударьте и снимите благословения с ближайших врагов. Исцелитесь за каждого пораженного врага и за каждое снятое благословение.
 "<c=@abilitytype>Signet Passive:</c> Creates a clone every few seconds.
-<c=@abilitytype>Signet Active:</c> Recharges shatter skills.",
+<c=@abilitytype>Signet Active:</c> Recharges shatter skills.","<c=@abilitytype>Пассивная способность знака:</c> Создает клон каждые несколько секунд.
+<c=@abilitytype>Активная способность знака:</c> Восстанавливает навыки, наносящие урон от осколков."
 "<c=@abilitytype>Signet Passive:</c> Faster endurance regeneration.
-<c=@abilitytype>Signet Active:</c> Cure all conditions and gain endurance. Gain additional endurance for each condition cured.",
+<c=@abilitytype>Signet Active:</c> Cure all conditions and gain endurance. Gain additional endurance for each condition cured.","<c=@abilitytype>Пассивный навык ""Знамя"":</c> Ускоренная регенерация выносливости.
+<c=@abilitytype>Активный навык ""Знамя"":</c> Снимает все негативные эффекты и восстанавливает выносливость. Восстанавливает дополнительную выносливость за каждый снятый эффект."
 "<c=@abilitytype>Signet Passive:</c> Generates life force while in combat.
-<c=@abilitytype>Signet Active:</c> Sacrifice health to revive one downed ally in a target area.",
+<c=@abilitytype>Signet Active:</c> Sacrifice health to revive one downed ally in a target area.","<c=@abilitytype>Пассивный навык ""Знамя"":</c> Генерирует жизненную силу во время боя.
+<c=@abilitytype>Активный навык ""Знамя"":</c> Пожертвуйте здоровьем, чтобы воскресить одного поверженного союзника в выбранной области."
 "<c=@abilitytype>Signet Passive:</c> Generates life force while in combat.
-<c=@abilitytype>Signet Active:</c> Sacrifice health to revive one nearby downed ally.",
+<c=@abilitytype>Signet Active:</c> Sacrifice health to revive one nearby downed ally.","<c=@abilitytype>Пассивный навык знака:</c> Генерирует жизненную силу во время боя.
+<c=@abilitytype>Активный навык знака:</c> Пожертвуйте здоровьем, чтобы воскресить одного из находящихся рядом союзников."
 "<c=@abilitytype>Signet Passive:</c> Grant swiftness and an additional random boon every ten seconds.
-<c=@abilitytype>Signet Active:</c> Extends the duration of all boons on yourself.",
+<c=@abilitytype>Signet Active:</c> Extends the duration of all boons on yourself.","<c=@abilitytype>Пассивный навык ""Знамя"":</c> Каждые десять секунд даёт быстроту и случайное дополнительное благословение.
+<c=@abilitytype>Активный навык ""Знамя"":</c> Увеличивает длительность всех активных благословений на себе."
 "<c=@abilitytype>Signet Passive:</c> Grants 25%% increased movement speed to you and your pet.
-<c=@abilitytype>Signet Active:</c> Attacks from you and your pet become unblockable, and you both gain superspeed.",
+<c=@abilitytype>Signet Active:</c> Attacks from you and your pet become unblockable, and you both gain superspeed.","<c=@abilitytype>Пассивная способность знака:</c> Увеличивает скорость передвижения вас и вашего питомца на 25%%.
+<c=@abilitytype>Активная способность знака:</c> Атаки, совершаемые вами и вашим питомцем, становятся непробиваемыми, и вы оба получаете эффект «сверхскорости»."
 "<c=@abilitytype>Signet Passive:</c> Grants a 25%% increase in movement speed.
-<c=@abilitytype>Signet Active:</c> Blind your target and nearby foes.",
+<c=@abilitytype>Signet Active:</c> Blind your target and nearby foes.","<c=@abilitytype>Пассивная способность знака:</c> Даёт 25%%-ное увеличение скорости передвижения.
+<c=@abilitytype>Активная способность знака:</c> Ослепляет цель и ближайших врагов."
 "<c=@abilitytype>Signet Passive:</c> Grants adrenaline while in combat.
-<c=@abilitytype>Signet Active:</c> Gain fury, might, and swiftness.",
+<c=@abilitytype>Signet Active:</c> Gain fury, might, and swiftness.","<c=@abilitytype>Пассивный навык знака:</c> Даёт адреналин во время боя.
+<c=@abilitytype>Активный навык знака:</c> Даёт ярость, мощь и быстроту."
 "<c=@abilitytype>Signet Passive:</c> Grants health every time you cast a spell. 
 <c=@abilitytype>Signet Active:</c> Heal yourself.","<c=@abilitytype>Signet Passive:</c> Дает здоровье каждый раз, когда вы применяете заклинание.
 <c=@abilitytype>Signet Active:</c> Исцелите себя."
 "<c=@abilitytype>Signet Passive:</c> Grants increased power.
-<c=@abilitytype>Signet Active:</c> Power is massively increased for a short duration.",
+<c=@abilitytype>Signet Active:</c> Power is massively increased for a short duration.","<c=@abilitytype>Пассивный навык ""Знамя"":</c> Даёт увеличение силы.
+<c=@abilitytype>Активный навык ""Знамя"":</c> Значительно увеличивает силу на короткое время."
 "<c=@abilitytype>Signet Passive:</c> Grants increased precision.
-<c=@abilitytype>Signet Active:</c> Refill endurance and cleanse conditions from nearby allies.",
+<c=@abilitytype>Signet Active:</c> Refill endurance and cleanse conditions from nearby allies.","<c=@abilitytype>Пассивный навык знака:</c> Даёт увеличение точности.
+<c=@abilitytype>Активный навык знака:</c> Восстанавливает выносливость и снимает негативные эффекты с ближайших союзников."
 "<c=@abilitytype>Signet Passive:</c> Grants you increased condition damage.
-<c=@abilitytype>Signet Active:</c> Immobilize and burn your target.",
+<c=@abilitytype>Signet Active:</c> Immobilize and burn your target.","<c=@abilitytype>Пассивный навык: Знамя:</c> Даёт бонус к урону от состояний.
+<c=@abilitytype>Активный навык: Знамя:</c> Оглушает и поджигает цель."
 "<c=@abilitytype>Signet Passive:</c> Heal yourself and your mech every second.
-<c=@abilitytype>Signet Active:</c> Heal yourself and your mech.",
+<c=@abilitytype>Signet Active:</c> Heal yourself and your mech.","<c=@abilitytype>Пассивная способность знака:</c> Каждую секунду восстанавливает здоровье вам и вашему механизму.
+<c=@abilitytype>Активная способность знака:</c> Восстанавливает здоровье вам и вашему механизму."
 "<c=@abilitytype>Signet Passive:</c> Heal yourself whenever you summon an illusion.
-<c=@abilitytype>Signet Active:</c> Heal yourself and reduce the recharge of phantasm skills.",
+<c=@abilitytype>Signet Active:</c> Heal yourself and reduce the recharge of phantasm skills.","<c=@abilitytype>Пассивный навык ""Знамя"":</c> Восстанавливайте здоровье каждый раз, когда призываете иллюзию.
+<c=@abilitytype>Активный навык ""Знамя"":</c> Восстановите своё здоровье и уменьшите время перезарядки умений ""Фантом""."
 "<c=@abilitytype>Signet Passive:</c> Heals when you attack.
-<c=@abilitytype>Signet Active:</c> Gain health.",
+<c=@abilitytype>Signet Active:</c> Gain health.","<c=@abilitytype>Пассивный навык: знак</c>: исцеляет при атаке.
+<c=@abilitytype>Активный навык: знак</c>: восстанавливает здоровье."
 "<c=@abilitytype>Signet Passive:</c> Improved Power
-<c=@abilitytype>Signet Active:</c> Knock down and damage your foe.",
+<c=@abilitytype>Signet Active:</c> Knock down and damage your foe.","<c=@abilitytype>Пассивный навык талисмана:</c> Увеличенная мощь.
+<c=@abilitytype>Активный навык талисмана:</c> Сбивает противника с ног и наносит урон."
 "<c=@abilitytype>Signet Passive:</c> Improved condition damage.
-<c=@abilitytype>Signet Active:</c> Stun your foe.",
+<c=@abilitytype>Signet Active:</c> Stun your foe.","<c=@abilitytype>Пассивный навык талисмана:</c> Увеличенный урон от состояний.
+<c=@abilitytype>Активный навык талисмана:</c> Оглушите врага."
 "<c=@abilitytype>Signet Passive:</c> Improves concentration.
-<c=@abilitytype>Signet Active:</c> Revive a nearby downed ally.",
+<c=@abilitytype>Signet Active:</c> Revive a nearby downed ally.","<c=@abilitytype>Пассивная способность знака:</c> Улучшает концентрацию.
+<c=@abilitytype>Активная способность знака:</c> Воскрешает ближайшего союзника, находящегося в состоянии оглушения."
 "<c=@abilitytype>Signet Passive:</c> Improves critical chance.
-<c=@abilitytype>Signet Active:</c> Burn your target and nearby foes.",
+<c=@abilitytype>Signet Active:</c> Burn your target and nearby foes.","<c=@abilitytype>Пассивный навык: Знамя:</c> Увеличивает шанс критического удара.
+<c=@abilitytype>Активный навык: Знамя:</c> Поджигает цель и ближайших врагов."
 "<c=@abilitytype>Signet Passive:</c> Improves expertise.
-<c=@abilitytype>Signet Active:</c> Blind nearby foes and stealth yourself.",
+<c=@abilitytype>Signet Active:</c> Blind nearby foes and stealth yourself.","<c=@abilitytype>Пассивный навык: Знамя:</c> Улучшает мастерство.
+<c=@abilitytype>Активный навык: Знамя:</c> Ослепляет врагов поблизости и делает вас невидимым."
 "<c=@abilitytype>Signet Passive:</c> Improves power.
-<c=@abilitytype>Signet Active:</c> Attacks are unblockable and you gain might.",
+<c=@abilitytype>Signet Active:</c> Attacks are unblockable and you gain might.","<c=@abilitytype>Пассивный навык ""Знамя"":</c> Увеличивает силу.
+<c=@abilitytype>Активный навык ""Знамя"":</c> Атаки становятся неблокируемыми, и вы получаете эффект ""Мощь""."
 "<c=@abilitytype>Signet Passive:</c> Improves power.
-<c=@abilitytype>Signet Active:</c> Inflict bleeding, blindness, crippled, poison, vulnerability, and weakness on your foe.",
+<c=@abilitytype>Signet Active:</c> Inflict bleeding, blindness, crippled, poison, vulnerability, and weakness on your foe.","<c=@abilitytype>Пассивный навык: знак</c>: увеличивает силу.
+<c=@abilitytype>Активный навык: знак</c>: наносит кровотечение, ослепление, хромоту, отравление, уязвимость и слабость врагу."
 "<c=@abilitytype>Signet Passive:</c> Improves precision.
-<c=@abilitytype>Signet Active:</c> Gain adrenaline and improve your precision and ferocity.",
+<c=@abilitytype>Signet Active:</c> Gain adrenaline and improve your precision and ferocity.","<c=@abilitytype>Пассивный навык ""Знамя"":</c> Увеличивает точность.
+<c=@abilitytype>Активный навык ""Знамя"":</c> Даёт адреналин и увеличивает вашу точность и ярость."
 "<c=@abilitytype>Signet Passive:</c> Improves toughness for you and your pet. 
-<c=@abilitytype>Signet Active:</c> You and your pet take no damage from attacks. You and your pet are still susceptible to conditions and control effects.",
+<c=@abilitytype>Signet Active:</c> You and your pet take no damage from attacks. You and your pet are still susceptible to conditions and control effects.","<c=@abilitytype>Пассивная способность «Знамя»:</c> Увеличивает живучесть для вас и вашего питомца.
+<c=@abilitytype>Активная способность «Знамя»:</c> Вы и ваш питомец не получаете урон от атак. Вы и ваш питомец по-прежнему восприимчивы к эффектам состояний и контроля."
 "<c=@abilitytype>Signet Passive:</c> Increases condition damage dealt.
-<c=@abilitytype>Signet Active:</c> Creates a damaging field around you that applies conditions to nearby foes. If your mech is active, the field instead radiates from and follows the mech.",
+<c=@abilitytype>Signet Active:</c> Creates a damaging field around you that applies conditions to nearby foes. If your mech is active, the field instead radiates from and follows the mech.","<c=@abilitytype>Пассивная способность знака:</c> Увеличивает урон от состояний.
+<c=@abilitytype>Активная способность знака:</c> Создаёт вокруг вас область действия, наносящую урон и применяющую состояния к ближайшим врагам. Если ваш механизм активен, то вместо этого область будет исходить от механизма и следовать за ним."
 "<c=@abilitytype>Signet Passive:</c> Increases movement speed. Boons you gain are copied to your mech.
-<c=@abilitytype>Signet Active:</c> You and your mech shadowstep to the target location. Remove conditions on you and your mech.",
+<c=@abilitytype>Signet Active:</c> You and your mech shadowstep to the target location. Remove conditions on you and your mech.","<c=@abilitytype>Пассивный навык ""Знамя"":</c> Увеличивает скорость передвижения. Благоприятные эффекты, которые вы получаете, также применяются к вашему механизму.
+<c=@abilitytype>Активный навык ""Знамя"":</c> Вы и ваш механизм совершаете рывок в указанную точку. С вас и с вашего механизма снимаются негативные эффекты."
 "<c=@abilitytype>Signet Passive:</c> Increases strike damage dealt.
-<c=@abilitytype>Signet Active:</c> Knock foes away from yourself and away from your mech.",
+<c=@abilitytype>Signet Active:</c> Knock foes away from yourself and away from your mech.","<c=@abilitytype>Пассивный навык «Знамя»:</c> увеличивает урон от атак.
+<c=@abilitytype>Активный навык «Знамя»:</c> отбрасывает врагов от вас и от вашего меха."
 "<c=@abilitytype>Signet Passive:</c> Increases the ferocity of you and your pet. 
-<c=@abilitytype>Signet Active:</c> Tap into the land to root foes around you.",
+<c=@abilitytype>Signet Active:</c> Tap into the land to root foes around you.","<c=@abilitytype>Пассивный навык: Знамя:</c> Увеличивает свирепость вас и вашего питомца.
+<c=@abilitytype>Активный навык: Знамя:</c> Используйте силу земли, чтобы обездвижить врагов вокруг себя."
 "<c=@abilitytype>Signet Passive:</c> Periodically heal allies in an area around you while in combat.
-<c=@abilitytype>Signet Active:</c> Channel healing and boons in a large area around you, concluding with a large heal if this skill is not interrupted.",
+<c=@abilitytype>Signet Active:</c> Channel healing and boons in a large area around you, concluding with a large heal if this skill is not interrupted.","<c=@abilitytype>Пассивный навык «Знамя»:</c> Периодически исцеляет союзников в области вокруг вас во время боя.
+<c=@abilitytype>Активный навык «Знамя»:</c> Направляет поток исцеления и благословений на большую область вокруг вас, завершаясь мощным исцелением, если этот навык не прервать."
 "<c=@abilitytype>Signet Passive:</c> Reduce incoming condition damage.
-<c=@abilitytype>Signet Active:</c> Send your conditions to a foe.",
+<c=@abilitytype>Signet Active:</c> Send your conditions to a foe.","<c=@abilitytype>Пассивный навык: знак</c>: уменьшает входящий урон от состояний.
+<c=@abilitytype>Активный навык: знак</c>: передает ваши состояния врагу."
 "<c=@abilitytype>Signet Passive:</c> Reduce incoming strike damage.
-<c=@abilitytype>Signet Active:</c> Immobilize and bleed your foe.",
+<c=@abilitytype>Signet Active:</c> Immobilize and bleed your foe.","<c=@abilitytype>Пассивный навык «Сигил»:</c> Уменьшает входящий урон от атак.
+<c=@abilitytype>Активный навык «Сигил»:</c> Оглушает и вызывает кровотечение у противника."
 "<c=@abilitytype>Signet Passive:</c> Reduces all incoming damage.
-<c=@abilitytype>Signet Active:</c> Grant resolution and protection to nearby allies while debilitating nearby enemies.",
+<c=@abilitytype>Signet Active:</c> Grant resolution and protection to nearby allies while debilitating nearby enemies.","<c=@abilitytype>Пассивный навык ""Сигил"":</c> Снижает весь входящий урон.
+<c=@abilitytype>Активный навык ""Сигил"":</c> Дарует решимость и защиту ближайшим союзникам, ослабляя при этом ближайших врагов."
 "<c=@abilitytype>Signet Passive:</c> Reduces duration of incoming stuns, dazes, fears, and taunts.
 <c=@abilitytype>Signet Active:</c> Transform your foe into a moa bird.
-<c=@reminder>(Defiant foes will have their defiant bar reduced instead.)</c>",
+<c=@reminder>(Defiant foes will have their defiant bar reduced instead.)</c>","<c=@abilitytype>Пассивная способность знака:</c> Уменьшает длительность входящих оглушений, ошеломлений, испугов и насмешек.
+<c=@abilitytype>Активная способность знака:</c> Превращает врага в птицу моа.
+<c=@reminder>(У непокорных противников вместо этого уменьшается шкала сопротивления.)</c>"
 "<c=@abilitytype>Signet Passive:</c> Reduces incoming condition duration.
-<c=@abilitytype>Signet Active:</c> Damage and chill foes while healing and reviving allies in an area.",
+<c=@abilitytype>Signet Active:</c> Damage and chill foes while healing and reviving allies in an area.","<c=@abilitytype>Пассивный навык ""Знамя"":</c> Уменьшает длительность отрицательных эффектов.
+<c=@abilitytype>Активный навык ""Знамя"":</c> Наносит урон и замедляет врагов, одновременно исцеляя и воскрешая союзников в области действия."
 "<c=@abilitytype>Signet Passive:</c> Reduces incoming damage.
-<c=@abilitytype>Signet Active:</c> Heal yourself and gain stability.",
+<c=@abilitytype>Signet Active:</c> Heal yourself and gain stability.","<c=@abilitytype>Пассивный навык: знак</c>: уменьшает входящий урон.
+<c=@abilitytype>Активный навык: знак</c>: восстанавливает здоровье и даёт устойчивость."
 "<c=@abilitytype>Signet Passive:</c> Reduces recharge of other signets.
-<c=@abilitytype>Signet Active:</c> Order your mech to fire its ultimate weapon, the jade buster cannon. If your mech is not present, instead your mech is summoned, even if Crash Down is on cooldown.",
+<c=@abilitytype>Signet Active:</c> Order your mech to fire its ultimate weapon, the jade buster cannon. If your mech is not present, instead your mech is summoned, even if Crash Down is on cooldown.","<c=@abilitytype>Пассивная способность знака:</c> Уменьшает время перезарядки других знаков.
+<c=@abilitytype>Активная способность знака:</c> Приказывает вашему механизму открыть огонь из его главного оружия — пушки «Нефритовый разрушитель». Если ваш механизм отсутствует, вместо этого он будет вызван, даже если способность «Крушение» находится на перезарядке."
 "<c=@abilitytype>Signet Passive:</c> Regenerate health.
-<c=@abilitytype>Signet Active:</c> Heal yourself, and grant yourself resistance.",
+<c=@abilitytype>Signet Active:</c> Heal yourself, and grant yourself resistance.","<c=@abilitytype>Пассивный навык: знак</c>: Восстанавливает здоровье.
+<c=@abilitytype>Активный навык: знак</c>: Лечит вас и даёт сопротивление."
 "<c=@abilitytype>Signet Passive:</c> Regenerates one extra initiative every ten seconds.
-<c=@abilitytype>Signet Active:</c> Shadowstep to your foe.",
+<c=@abilitytype>Signet Active:</c> Shadowstep to your foe.","<c=@abilitytype>Пассивный навык «Знамя»:</c> Восстанавливает одно дополнительное очко инициативы каждые десять секунд.
+<c=@abilitytype>Активный навык «Знамя»:</c> Используйте «Теневой шаг», чтобы переместиться к врагу."
 "<c=@abilitytype>Signet Passive:</c> Remove a condition from yourself every few seconds.
-<c=@abilitytype>Signet Active:</c> Heal yourself and remove conditions.",
+<c=@abilitytype>Signet Active:</c> Heal yourself and remove conditions.","<c=@abilitytype>Пассивный эффект талисмана:</c> Каждые несколько секунд снимает с вас одно негативное состояние.
+<c=@abilitytype>Активный эффект талисмана:</c> Восстанавливает вам здоровье и снимает негативные состояния."
 "<c=@abilitytype>Signet Passive:</c> Steal health from nearby foes while in combat.
-<c=@abilitytype>Signet Active:</c> Heal yourself and mark a foe. Allied players will siphon life from the marked enemy.",
+<c=@abilitytype>Signet Active:</c> Heal yourself and mark a foe. Allied players will siphon life from the marked enemy.","<c=@abilitytype>Пассивный навык знака:</c> Во время боя похищайте здоровье у ближайших врагов.
+<c=@abilitytype>Активный навык знака:</c> Исцелите себя и пометьте врага. Союзники будут вытягивать жизнь из отмеченного врага."
 "<c=@abilitytype>Signet Passive:</c> You and your pet recover health. 
-<c=@abilitytype>Signet Active:</c> Grant resistance and resolution to your pet; it pulls conditions from nearby allies to itself.",
+<c=@abilitytype>Signet Active:</c> Grant resistance and resolution to your pet; it pulls conditions from nearby allies to itself.","<c=@abilitytype>Пассивная способность знака:</c> Вы и ваш питомец восстанавливаете здоровье.
+<c=@abilitytype>Активная способность знака:</c> Даёт вашему питомцу сопротивляемость и решимость; он переносит негативные эффекты с ближайших союзников на себя."
 "<c=@abilitytype>Signet Passive:</c> Your movement speed is increased.
-<c=@abilitytype>Signet Active:</c>Strike and remove boons from nearby foes. Heal for each foe you strike and for each boon removed.",
+<c=@abilitytype>Signet Active:</c>Strike and remove boons from nearby foes. Heal for each foe you strike and for each boon removed.","<c=@abilitytype>Пассивный навык ""Знамя"":</c> Ваша скорость передвижения увеличена.
+<c=@abilitytype>Активный навык ""Знамя"":</c> Нанесите удар и снимите благословения с ближайших врагов. Восстановите здоровье за каждого пораженного врага и за каждое снятое благословение."
 <c=@abilitytype>Signet.</c> Immobilize your target.,<c=@abilitytype>Знак.</c> Обездвиживает вашу цель.
 <c=@abilitytype>Signet.</c> You and your pet take no damage from attacks. You and your pet are still susceptible to conditions and control effects.,<c=@abilitytype>Знак.</c> Вы и ваш питомец не получаете урона от атак. Вы и ваш питомец по-прежнему подвержены состояниям и эффектам контроля.
 <c=@abilitytype>Signet.</c> Your attacks become unblockable.,<c=@abilitytype>Печать.</c> Ваши атаки становятся неблокируемыми.
 "<c=@abilitytype>Spectral.</c> Assume the form of a lich for a brief time, improving your precision and vitality. Gain life force when this skill ends.
-<c=@reminder>Entering this form removes other spectral effects.</c>",
+<c=@reminder>Entering this form removes other spectral effects.</c>","<c=@abilitytype>Призрачный.</c> На короткое время принимайте облик лича, повышая точность и жизненную силу. По окончании действия навыка получайте жизненную энергию.
+<c=@reminder>Принятие этой формы снимает другие призрачные эффекты.</c>"
 "<c=@abilitytype>Spectral.</c> Create a shadowy tether and become spectral, consuming conditions for life force. You may return to your initial position by using Spectral Recall.","<c=@abilitytype>Призрачный.</c> Создайте теневую привязь и станьте призрачным, поглощая состояния для жизненной силы. Вы можете вернуться на исходную позицию, используя Призрачный возврат."
 "<c=@abilitytype>Spectral.</c> Create a spectral ring that protects allies and inflicts fear on foes. Gain life force when a foe is inflicted by fear from this skill.
-<c=@reminder>This skill can only inflict fear on the same foe once per interval.</c>",
+<c=@reminder>This skill can only inflict fear on the same foe once per interval.</c>","<c=@abilitytype>Призрачный.</c> Создайте призрачное кольцо, которое защищает союзников и вселяет страх во врагов. Получайте жизненную силу, когда враг оказывается под воздействием страха от этого умения.
+<c=@reminder>Это умение может накладывать эффект страха на одного и того же врага только один раз за интервал.</c>"
 <c=@abilitytype>Spectral.</c> Gain life force as you take damage.,<c=@abilitytype>Призрачный.</c> Получайте жизненную силу при получении урона.
 "<c=@abilitytype>Spectral.</c> Pull target foe and all nearby foes to you, chill them, and gain life force.","<c=@abilitytype>Призрачный.</c> Притяните к себе выбранного врага и всех врагов поблизости, наложите на них холод и получите жизненную силу."
 <c=@abilitytype>Spirit Weapon.</c> Command the Bow of Truth to barrage a location with healing arrows.,<c=@abilitytype>Духовное оружие.</c> Прикажите Луку Истины обстрелять место исцеляющими стрелами.
@@ -379,7 +439,8 @@ english,translate
 "<c=@abilitytype>Stance.</c> Enter a stance that heals when you remove conditions from yourself, then heal nearby allies and remove conditions from them.","<c=@abilitytype>Стойка.</c> Переходит в стойку, которая лечит при снятии с себя состояний, затем лечит ближайших союзников и снимает с них состояния."
 "<c=@abilitytype>Stance.</c> Enter an earthen state, gaining barrier periodically over the course of the stance.","<c=@abilitytype>Стойка.</c> Переходит в земное состояние, периодически получая барьер в течение действия стойки."
 "<c=@abilitytype>Stance.</c> Evade and gain endurance. Your endurance recovery is greatly improved. You gain might and superspeed when you evade attacks.
-<c=@reminder>Evasion bonuses can occur once per interval.</c>",
+<c=@reminder>Evasion bonuses can occur once per interval.</c>","<c=@abilitytype>Стойка.</c> Уклоняйтесь и получайте выносливость. Скорость восстановления вашей выносливости значительно увеличивается. При уклонении от атак вы получаете мощь и сверхскорость.
+<c=@reminder>Бонусы от уклонения могут срабатывать не чаще одного раза за интервал.</c>"
 "<c=@abilitytype>Stance.</c> For a period of time, you forego your weaver training, choosing to fully attune to elements instead. Gain boons based on your primary attunement, and reduce all attunement cooldowns.","<c=@abilitytype>Стойка.</c> На некоторое время вы отказываетесь от обучения ткача, предпочитая полностью настроиться на стихии. Получает благословения в зависимости от основной настройки и сокращает время восстановления всех настроек."
 <c=@abilitytype>Stance.</c> Frenzy to gain quickness and might.,"<c=@abilitytype>Стойка.</c> Впадает в неистовство, получая скорость и силу."
 <c=@abilitytype>Stance.</c> Gain adrenaline for a short time. Gain pulsing resistance.,<c=@abilitytype>Стойка.</c> Получает адреналин на короткое время. Получает пульсирующую сопротивляемость.
@@ -396,11 +457,13 @@ english,translate
 <c=@abilitytype>Stance.</c> Take no damage from attacks. You are still susceptible to conditions and control effects.,<c=@abilitytype>Стойка.</c> Не получайте урона от атак. Вы всё ещё уязвимы к состояниям и эффектам контроля.
 <c=@abilitytype>Stance.</c> Temporarily reduce the recharge time of attunements while gaining bonuses for attuning to new elements. Successfully attuning to all elements ends this stance and grants Perfect Weave.,"<c=@abilitytype>Стойка.</c> Временно сократите время перезарядки настроек, получая бонусы за настройку на новые стихии. Успешная настройка на все стихии завершает эту стойку и даёт «Идеальное плетение»."
 "<c=@abilitytype>Stance.</c> While in this stance, striking a foe inflicts poison and grants you might.
-<c=@reminder>This effect can occur once per interval.</c>",
+<c=@reminder>This effect can occur once per interval.</c>","<c=@abilitytype>Стойка.</c> Находясь в этой стойке, нанесение удара по противнику вызывает отравление и даёт вам мощь.
+<c=@reminder>Этот эффект может произойти не чаще одного раза за интервал времени.</c>"
 "<c=@abilitytype>Stance.</c> Your slime rapidly spins around you, creating a magnetic field. Pull in nearby enemies as a metallic storm swirls around you.","<c=@abilitytype>Стойка.</c> Ваша слизь быстро вращается вокруг вас, создавая магнитное поле. Притягивайте ближайших врагов, пока металлический шторм кружится вокруг вас."
 "<c=@abilitytype>Stance.</c> Your slime stimulates your cells to regenerate, healing you rapidly over time. The healing is increased while you have barrier.","<c=@abilitytype>Стойка.</c> Ваша слизь стимулирует регенерацию клеток, быстро исцеляя вас со временем. Исцеление увеличивается, пока у вас есть барьер."
 "<c=@abilitytype>Stance.</c> Your successful attacks will trigger a second strike while in this stance.
-<c=@reminder>This effect can occur once per interval.</c>",
+<c=@reminder>This effect can occur once per interval.</c>","<c=@abilitytype>Стойка.</c> Во время действия этой стойки ваши успешные атаки будут вызывать дополнительный удар.
+<c=@reminder>Этот эффект может произойти не чаще одного раза за интервал времени.</c>"
 "<c=@abilitytype>Stance.</c>Flow like water, gaining endurance. Striking a foe causes water to erupt from them, healing your nearby allies.","<c=@abilitytype>Стойка.</c> Теките как вода, получая выносливость. Удар по врагу вызывает извержение воды из него, исцеляя ваших ближайших союзников."
 "<c=@abilitytype>Stealth Attack.</c> Leap to a target location, dazing enemies. Deal increased damage to foes below the health threshold.","<c=@abilitytype>Атака из скрытности.</c> Прыжок к цели, оглушение врагов. Наносит повышенный урон врагам ниже порога здоровья."
 "<c=@abilitytype>Stealth Attack.</c> Reveal yourself and fire a powerful shot at your target that pierces but deals less damage to unmarked foes. If this attack hits your mark, it consumes all malice and deals increased damage for each malice consumed.","<c=@abilitytype>Атака из скрытности.</c> Обнаружьте себя и выстрелите мощным снарядом, который пробивает, но наносит меньше урона немеченым врагам. Если атака попадает по вашей метке, она расходует всю злобу и наносит повышенный урон за каждую единицу израсходованной злобы."
@@ -498,7 +561,8 @@ english,translate
 <c=@abilitytype>Unleashed Ambush.</c> Shadowstep behind your target and unleash a burst of toxic spores.,<c=@abilitytype>Освобожденная засада.</c> Телепортируйтесь за спину цели и выпустите взрыв ядовитых спор.
 "<c=@abilitytype>Unleashed Ambush.</c> Spin and attack nearby foes, moving faster while channeling. Create a spore when striking an enemy for the first time.","<c=@abilitytype>Освобожденная засада.</c> Кружитесь и атакуйте ближайших врагов, двигаясь быстрее во время применения. Создавайте спору при первом попадании по врагу."
 "<c=@abilitytype>Unleashed Ambush.</c> Strike the ground with your mace, creating a cascade of verdant growth that immobilizes targets struck and heals nearby allies. Gain Nature's Strength if you hit an enemy.
-<c=@reminder>This skill cannot activate Force of Nature.</c>",
+<c=@reminder>This skill cannot activate Force of Nature.</c>","<c=@abilitytype>Яростный засада.</c> Ударьте землю булавой, создавая каскад буйной растительности, который обездвиживает поражённых цели и лечит близлежащих союзников. Получите эффект «Сила природы», если вы попали по врагу.
+<c=@reminder>Эта способность не активирует умение «Сила природы».</c>"
 "<c=@abilitytype>Unleashed Ambush.</c> Throw multiple axes at nearby enemies, inflicting conditions.","<c=@abilitytype>Освобожденная засада.</c> Бросайте несколько топоров в ближайших врагов, накладывая эффекты."
 <c=@abilitytype>Unleashed Ambush.</c>Spin and strike foes repeatedly. The final attack creates a spore under targets it strikes.,<c=@abilitytype>Освобожденная засада.</c> Кружитесь и многократно поражайте врагов. Финальная атака создаёт спору под поражёнными целями.
 <c=@abilitytype>Velocity Increase above 50%% Heat</c>,<c=@abilitytype>Увеличение скорости выше 50%% Тепло</c>
@@ -508,9 +572,11 @@ english,translate
 <c=@abilitytype>Venom.</c> Your attacks are unblockable and turn foes to stone.,<c=@abilitytype>Яд.</c> Ваши атаки неблокируемы и превращают врагов в камень.
 <c=@abilitytype>Venom.</c> Your next few attacks immobilize foes.,<c=@abilitytype>Яд.</c> Ваши следующие несколько атак обездвиживают врагов.
 "<c=@abilitytype>Virtue.</c> Burn foes every few attacks.
-<c=@abilitytype>Activate:</c> Hurl a spear of light that passes through foes. Enemies struck become tethered and receive conditions periodically.",
+<c=@abilitytype>Activate:</c> Hurl a spear of light that passes through foes. Enemies struck become tethered and receive conditions periodically.","<c=@abilitytype>Добродетель.</c> Поджигает врагов каждые несколько атак.
+<c=@abilitytype>Активация:</c> Бросает копье света, пронзающее врагов. Пораженные враги привязываются и периодически получают эффекты."
 "<c=@abilitytype>Virtue.</c> Grants aegis periodically.
-<c=@abilitytype>Activate:</c> Grant aegis to nearby allies and create a shield in front of you that blocks attacks. You are vulnerable from the sides and behind while this shield is active.",
+<c=@abilitytype>Activate:</c> Grant aegis to nearby allies and create a shield in front of you that blocks attacks. You are vulnerable from the sides and behind while this shield is active.","<c=@abilitytype>Добродетель.</c> Периодически дарует эгиду.
+<c=@abilitytype>Активация:</c> Дарует эгиду ближайшим союзникам и создает перед вами щит, блокирующий атаки. Пока активен этот щит, вы уязвимы с боков и сзади."
 <c=@abilitytype>Virtue.</c> Remove conditions and gain Flowing Resolve. Rush forward and evade attacks while leaving <c=@abilitytype>Willbender Flames</c> in your wake.,"<c=@abilitytype>Добродетель.</c> Снимает состояния и даёт Поток решимости. Устремляйтесь вперёд и уклоняйтесь от атак, оставляя за собой <c=@abilitytype>Пламя Карателя</c>."
 "<c=@abilitytype>Virtue.</c> Rush toward your target and gain Justice, delivering a strike and emanating <c=@abilitytype>Willbender Flames</c>.","<c=@abilitytype>Добродетель.</c> Устремляйтесь к цели и получайте Правосудие, нанося удар и испуская <c=@abilitytype>Пламя Карателя</c>."
 <c=@abilitytype>Virtue.</c> Shadowstep a short distance while gaining boons and emanating <c=@abilitytype>Willbender Flames</c> from your location. Gain courage.,"<c=@abilitytype>Добродетель.</c> Теневым шагом переместитесь на небольшое расстояние, получая благословения и испуская <c=@abilitytype>Пламя Карателя</c> из своего местоположения. Получите мужество."
@@ -524,7 +590,8 @@ english,translate
 <c=@abilitytype>Activate: </c>Draw forth an enchanted tome that recounts the trials undergone by the people of Vabbi.","<c=@abilitytype>Добродетель: </c>Регенерирует здоровье.
 <c=@abilitytype>Активация:</c> Призывает зачарованный фолиант, повествующий об испытаниях, выпавших на долю народа Vabbi."
 "<c=@abilitytype>Virtue:</c> Burn foes every few attacks.
-<c=@abilitytype>Activate:</c> Gain quickness. The next time you use Dazzling Hammer, it creates a delayed secondary impact.",
+<c=@abilitytype>Activate:</c> Gain quickness. The next time you use Dazzling Hammer, it creates a delayed secondary impact.","<c=@abilitytype>Добродетель:</c> Поджигает врагов каждые несколько атак.
+<c=@abilitytype>Активация:</c> Получает проворство. При следующем использовании умения «Ослепительный молот» оно создаст отложенный вторичный удар."
 "<c=@abilitytype>Virtue:</c> Burn foes every few attacks.
 <c=@abilitytype>Activate:</c> You and your allies inflict burning on the next attack.","<c=@abilitytype>Добродетель:</c> Сжигает врагов каждые несколько атак.
 <c=@abilitytype>Активация:</c> Вы и ваши союзники накладываете горение следующей атакой."
@@ -533,11 +600,14 @@ english,translate
 <c=@abilitytype>Активация:</c> Дает эгиду вам и ближайшим союзникам."
 "<c=@abilitytype>Virtue:</c> Gain aegis periodically.
 <c=@abilitytype>Activate:</c> Grant aegis, resistance, and Luminary's Blessing to yourself and nearby allies. 
-The next time you use Gleaming Blade, it deals increased damage and immobilizes enemies. The next time you use Radiant Bulwark, it grants barrier to nearby allies.",
+The next time you use Gleaming Blade, it deals increased damage and immobilizes enemies. The next time you use Radiant Bulwark, it grants barrier to nearby allies.","<c=@abilitytype>Добродетель:</c> Периодически получайте эгиду.
+<c=@abilitytype>Активация:</c> Дарует вам и ближайшим союзникам эгиду, сопротивление и благословение Луминарии.
+При следующем использовании умения «Сияющий клинок» оно нанесёт увеличенный урон и обездвижит врагов. При следующем использовании умения «Лучезарный бастион» ближайшие союзники получат барьер."
 "<c=@abilitytype>Virtue:</c> Regenerates health.</c>
 <c=@abilitytype>Activate:</c> Dart forward, healing allies in the area when you stop.",
 "<c=@abilitytype>Virtue:</c> Regenerates health.</c>
-<c=@abilitytype>Activate:</c> Heal yourself and nearby allies while granting light aura. The next time you use Luminous Staff, it heals allies and grants them regeneration.",
+<c=@abilitytype>Activate:</c> Heal yourself and nearby allies while granting light aura. The next time you use Luminous Staff, it heals allies and grants them regeneration.","<c=@abilitytype>Добродетель:</c> Восстанавливает здоровье.</c>
+<c=@abilitytype>Активация:</c> Лечит вас и ближайших союзников, а также дарует им эффект ""Светлый щит"". При следующем использовании ""Сияющего посоха"" он лечит союзников и дарует им регенерацию."
 "<c=@abilitytype>Virtue:</c> Regenerates health.</c>
 <c=@abilitytype>Activate:</c> Heal yourself and nearby allies.",
 "<c=@abilitytype>Virtue:</c> Regenerates health.</c>

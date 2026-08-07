@@ -23,7 +23,7 @@ Lesson: Gathering,Урок: Сбор
 Lesson: Hunting,Урок: Охота
 Lesson: Remembrance,Урок: Память
 Lesson: The Way of the Jungle,Урок: Путь джунглей
-"Lessons[pl:""Lessons""] in Arbology",
+"Lessons[pl:""Lessons""] in Arbology",Уроки в арбологии
 "Lessons[pl:""Lessons""] in Metallurgy",Уроки Металлургии
 Lest die Titanen-Geschichtsbücher in Sammlersruh.,Пусть книги истории титанов покоятся в Саммлерсру.
 "Let loose a belch to damage your opponent. The lower your health, the more powerful it is.","Испустите отрыжку, чтобы нанести урон противнику. Чем меньше ваше здоровье, тем она сильнее."
@@ -226,7 +226,7 @@ Ley Line Sword Skin[s],Облик[|а|ов] меча Лей-линии
 Ley Line Torch Skin[s],Облик[|а|ов] факела Лей-линии
 Ley Line Trace,След линий магии
 Ley Line Warhorn Skin[s],Облик[|а|ов] боевого рога Лей-линии
-"Ley Line Weapon Box[pl:""Boxes""]",
+"Ley Line Weapon Box[pl:""Boxes""]",Ящик с оружием из линии лей[|и|ий]
 Ley Line Weapon Cache[s],Тайник[|а|ов] оружия Лей-линии
 Ley Line Weapons,Оружие линий магии
 Ley Lines for the Layman: An Examination of World Magic,Линии магии для непосвящённых: Исследование мировой магии
@@ -295,22 +295,22 @@ Ley-Line Torch Core[s],[Ядро|Ядра|Ядер] факела магичес�
 Ley-Line Treatment,Обработка линий магии
 Ley-Line Warhorn Core[s],[Ядро|Ядра|Ядер] боевого рога магических линий
 Ley-Magic Nodes,Узлы магии линий
-"Leystone Armor Box[pl:""Boxes""]",
-"Leystone Boot Box[pl:""Boxes""]",
-"Leystone Coat Box[pl:""Boxes""]",
-"Leystone Glove Box[pl:""Boxes""]",
+"Leystone Armor Box[pl:""Boxes""]",Ящик доспехов из лейстоуна
+"Leystone Boot Box[pl:""Boxes""]",Коробка с сапогами из лейстоуна
+"Leystone Coat Box[pl:""Boxes""]",Ящик с леевым камнем[|и|я]
+"Leystone Glove Box[pl:""Boxes""]",[Лейстоуновая перчаточная коробка|Лейстоуновые перчаточные коробки|Лейстоуновых перчаточных коробок]
 "Leystone Headgear Box[pl:""Boxes""]",Головной убор с Лейстоуном
-"Leystone Legging Box[pl:""Boxes""]",
+"Leystone Legging Box[pl:""Boxes""]",Коробка легстоновых поножей[|и|ей]
 "Leystone Shoulder Box[pl:""Boxes""]",Ящик для плечевой руны[и|ы|ок]
 LFG System Abuse,Злоупотребление системой поиска группы
-"Lhezza has decrypted a number of seer enchantments that she believes will help realign the Stewards of Galdra when they are compromised by Inquest interference.    If a steward appears unresponsive, perform the following spell:  *Frusto Lieve Sonno*     If a steward appears overwhelmed, perform the following spell:  *Sonno Frusto Lieve*",
+"Lhezza has decrypted a number of seer enchantments that she believes will help realign the Stewards of Galdra when they are compromised by Inquest interference.    If a steward appears unresponsive, perform the following spell:  *Frusto Lieve Sonno*     If a steward appears overwhelmed, perform the following spell:  *Sonno Frusto Lieve*","Лхезза расшифровала несколько заклинаний провидцев, которые, по её мнению, помогут восстановить контроль над Хранителями Галдры в случае их компрометации из-за вмешательства Инквизиции. Если Хранитель кажется невосприимчивым к воздействию, произнесите следующее заклинание: *Frusto Lieve Sonno*. Если Хранитель кажется перегруженным, произнесите следующее заклинание: *Sonno Frusto Lieve*."
 Li'l Letter Opener (Level 18),Маленький открыватель писем (18 уровень)
 Liberate Food,Освободить еду
 Liberate Supplies,Освободить припасы
 Liberate the dredge workers.,Освободить рабочих-землероев.
 Liberator of Lion's Arch Chest[s],[Сундук|Сундука|Сундуков] освободителя Львиного Архива
 Library of Lost Learnings,Библиотека утраченных знаний
-"Library Shelf[pl:""Shelves""]",
+"Library Shelf[pl:""Shelves""]",Книжн[ая полка|ые полки|ых полок]
 "License, Mount License, Select, Adoption","Лицензия, Лицензия на скакуна, Выбрать, Усыновление"
 "Liebevoll ausgebrütet.<br>Kombiniert in der Mystischen Schmiede 1 gelbes, 1 weißes und 1 braunes Kuckuck-Junges mit 20 nicht identifizierten Farben, um ein himmlisches Kuckuck-Junges zu erschaffen.","Высижено с любовью.<br>Смешайте в Таинственной кузнице 1 жёлтого, 1 белого и 1 коричневого птенца кукушки с 20 неопознанными красителями, чтобы создать небесного птенца кукушки."
 "Liebevoll ausgebrütet.<br>Kombiniert in der Mystischen Schmiede 2 blaue Kuckuck-Junge und 1 hellblau-violettes Kuckuck-Junges mit 4 nicht identifizierten Farben, um ein braunes Kuckuck-Junges zu erschaffen.","Высижено с любовью.<br>Смешайте в Таинственной кузнице 2 синих птенцов кукушки и 1 сине-фиолетового птенца кукушки с 4 неопознанными красителями, чтобы создать коричневого птенца кукушки."
@@ -441,7 +441,7 @@ Light Zephyrite Wind Helm Skin[s],[Облик|Облика|Обликов] шл�
 Light-Blue Wintersday Gift[s],[Подарок|Подарка|Подарков] «Светло-голубой день зимы»
 Lightbinder Blade Sword Skin[s],[Облик|Облика|Обликов] меча «Клинок светосвязующего»
 Lightbinder Blades Backpack and Glider Combo[s],[Комплект|Комплекта|Комплектов] «Спины и планера светосвязующих клинков»
-"Lightbinder Blades Wings[pl:""Wings""]",
+"Lightbinder Blades Wings[pl:""Wings""]",Крылья клиньев Светоплетения
 Lightborne Weapon Recipes and Components,Рецепты и компоненты оружия Светоносного
 Lightbringer Krentch,Светоносец Кренч
 Lightbringer Osa has fallen! Revive her before the Pact retreats.,"Светоносец Оса пала! Оживите её, пока Орден не отступил."
@@ -482,7 +482,7 @@ Lightning Form,Форма молнии
 Lightning Fragment,Фрагмент молнии
 Lightning Hammer,Молот Молнии
 Lightning Jolt,Разряд молнии
-Lightning Kite[s],
+Lightning Kite[s],молниеносный воздушный змей[|я|и]
 Lightning Leap Combo,Комбо: молниеносный прыжок
 Lightning Prison,Тюрьма молний
 Lightning Pull,Притяжение молнии

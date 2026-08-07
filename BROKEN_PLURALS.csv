@@ -234,3 +234,758 @@ PR #1,ui/ui_169.csv,231,"Zucchini Seed Pouch[pl:""Pouches""]",Мешочек с 
 корпус,ui/ui_043.csv,490,Cold Potion[s],Холодное зелье[я],Холодное зелье
 корпус,ui/ui_043.csv,493,Cold Stone[s],Холодный камень[ни],Холодный камень
 корпус,ui/ui_136.csv,177,Spoke with Naja[s],Поговорил[а] с Наджой,Поговорил с Наджой
+PR #2,ach/ach_011.csv,78,"Defeat %num2% centaur, Sons of Svanir, Inquest, Nightmare Court, or Flame Legion enemy[pl:""enemies""].","Победи %num2% врага[|а|ов] из числа кентавров, сыновей Сванира, Инквеста, Дворца Кошмаров или Легиона Пламени.","Победи %num2% врага из числа кентавров, сыновей Сванира, Инквеста, Дворца Кошмаров или Легиона Пламени."
+PR #2,ach/ach_016.csv,67,Gain %num2% Dragon Damage power-up[s] in the Dragon Ball arena. Achievement can be completed once per year.,Получите %num2% усиление[|я|й] урона дракона в арене Драконьего шара. Достижение можно выполнить один раз в год.,Получите %num2% усиление урона дракона в арене Драконьего шара. Достижение можно выполнить один раз в год.
+PR #2,ach/ach_016.csv,68,Gain %num2% invisibility power-up[s] in the Dragon Ball arena. Achievement can be completed once per year.,Получите %num2% усиление[|я|й] невидимости в арене Драконьего Шара. Достижение можно выполнить один раз в год.,Получите %num2% усиление невидимости в арене Драконьего Шара. Достижение можно выполнить один раз в год.
+PR #2,ach/ach_025.csv,271,"Revive %num2% ally[pl:""allies""].
+
+<c=@reminder>Downed or defeated players and allies can be revived by approaching and interacting with them to restore their health. Multiple people can revive the same ally at once to restore health faster.</c>","Возродить %num2% союзника[|а|ов].
+
+<c=@reminder>Падших или поверженных игроков и союзников можно возродить, подойдя к ним и взаимодействуя с ними для восстановления здоровья. Несколько человек могут одновременно возрождать одного союзника, чтобы быстрее восстановить его здоровье.</c>","Возродить %num2% союзника.
+
+<c=@reminder>Падших или поверженных игроков и союзников можно возродить, подойдя к ним и взаимодействуя с ними для восстановления здоровья. Несколько человек могут одновременно возрождать одного союзника, чтобы быстрее восстановить его здоровье.</c>"
+PR #2,items/items_033.csv,139,Crystal Fragment,кристал[|л|лы],кристал
+PR #2,new/new_054.csv,261,Embellished White Mantle Badge[s],Эмблемы белых мантий с узорами[|а|ов],Эмблемы белых мантий с узорами
+PR #2,new/new_054.csv,264,Emberclaw's impling[s],Имплинг Огненного Когтя[|а|ов],Имплинг Огненного Когтя
+PR #2,new/new_054.csv,290,"Emotional Residue[pl:""Residue""]",Эмоциональный отпечаток[|ки|ки],Эмоциональный отпечаток
+PR #2,new/new_054.csv,417,Endless Common Clothing Tonic[s],Эссенция бесконечной обычной одежды[|и|й|ей],Эссенция бесконечной обычной одежды
+PR #2,new/new_054.csv,445,Enemy Wave[s] Defeated,Волна врагов побеждена[|ы|ы],Волна врагов побеждена
+PR #2,new/new_055.csv,12,Enhanced Mark I Phalanx Golem[s],Улучшенный голе́м-фаланга I уровня[|а|ов],Улучшенный голе́м-фаланга I уровня
+PR #2,new/new_055.csv,13,Enhanced Mark II Ballista Golem[s],Улучшенный голе́м-баллиста́ II мо́дели[|а|ов],Улучшенный голе́м-баллиста́ II мо́дели
+PR #2,new/new_055.csv,442,Essence[s] of Divinity's Reach,Эссенция[|и|ии|ий] Божественного Предела,Эссенция Божественного Предела
+PR #2,new/new_055.csv,443,Essence[s] of Nightmares,Эссенция[|и|ии|ий] кошмаров,Эссенция кошмаров
+PR #2,new/new_056.csv,249,Executioner's Coin Purse[s],Кошелек палача[|а|ов],Кошелек палача
+PR #2,new/new_057.csv,54,Extracted Mordrem Troll Part[s],Извлечённая часть мордремского тролля[|и|ей],Извлечённая часть мордремского тролля
+PR #2,new/new_057.csv,124,Fallen Pinipal[s],падающая пинипа[|а|ы|],падающая пинипа
+PR #2,new/new_057.csv,134,False Vision Crystal[s],Кристалл фальшивого видения[|я|и|й],Кристалл фальшивого видения
+PR #2,new/new_057.csv,145,Fancy Winter Hat[s],Изысканная зимняя шапка[|ки|пок],Изысканная зимняя шапка
+PR #2,new/new_058.csv,439,"Forgotten Nourys Reward Box[pl:""Boxes""]",Забытая шкатулка Нури[|с|ы],Забытая шкатулка Нури
+PR #2,new/new_058.csv,500,Fossilized Wurm Spoor[s],Окаменелый след червя[|и|ей],Окаменелый след червя
+PR #2,new/new_060.csv,296,Giant Jacaranda[s],Гигантская жакаранда[|ды|д],Гигантская жакаранда
+PR #2,new/new_060.csv,305,Gift[s] of Aurene's Wisdom,Подарок[|ок|ка|ков] мудрости Аурене,Подарок мудрости Аурене
+PR #2,new/new_060.csv,307,Gift[s] of Conquering,Подарок[|ок|ка|ков] завоевателя,Подарок завоевателя
+PR #2,new/new_060.csv,308,Gift[s] of Draconic Mastery,Подарок[|ок|ка|ков] Драконьего Мастерства,Подарок Драконьего Мастерства
+PR #2,new/new_060.csv,310,Gift[s] of Jade Mastery,Подарок[|ок|ка|ков] мастерства из нефрита,Подарок мастерства из нефрита
+PR #2,new/new_060.csv,412,Glyph[s] of Industry (Unused),Руны[|ы|ов] промышленности (неиспользованные),Руны промышленности (неиспользованные)
+PR #2,new/new_060.csv,416,Glyph[s] of the Forester (Unused),Глиф[|ф|фы] Лесника (не используется),Глиф Лесника (не используется)
+PR #2,new/new_060.csv,417,Glyph[s] of the Prospector (Unused),Руны[|ы|ов] Пропейсера (Неиспользованные),Руны Пропейсера (Неиспользованные)
+PR #2,new/new_060.csv,499,Golem Energy Core[s],Ядро энергии голема[|м|],Ядро энергии голема
+PR #2,new/new_061.csv,348,Griffon Claw[s],Коготь грифона[|а|ов],Коготь грифона
+PR #2,new/new_062.csv,484,Heavy Consortium Breathing Mask Skin[s],Маска для дыхания тяжёлого консорциума[|а|ов],Маска для дыхания тяжёлого консорциума
+PR #2,new/new_062.csv,491,Heavy Stolen Supplies Bag[s],Тяжёлый мешок с украденными припасами[|а|ов],Тяжёлый мешок с украденными припасами
+PR #2,new/new_064.csv,143,Honeycomb[s],Соты[|а|ов],Соты
+PR #2,new/new_068.csv,74,Icebrood Intel[s],Ледяной разведданные[|ые|ых],Ледяной разведданные
+PR #2,new/new_070.csv,353,Jagged Fused Metal Scrap[s],Осколок сплавленного металла[|ка|ки|ков],Осколок сплавленного металла
+PR #2,new/new_071.csv,314,Keg[s] of Instant World Experience,Бочонок[|ки|ков] мгновенного опыта мира,Бочонок мгновенного опыта мира
+PR #2,new/new_073.csv,146,"Landscape Study[pl:""Studies""]: Diverting the Elon",Исследование ландшафта[|а|ов]: изменение русла реки Илон,Исследование ландшафта: изменение русла реки Илон
+PR #2,new/new_073.csv,158,Large Bag[s] of Skritt Shinies,Большой мешок[|шки|ков] со всякой блестящей ерундой от скриттов,Большой мешок со всякой блестящей ерундой от скриттов
+PR #2,new/new_073.csv,162,Large Rank-Up Chest[s],Большой сундук для повышения ранга[|а|ов],Большой сундук для повышения ранга
+PR #2,new/new_073.csv,163,Large Stolen Supplies Bag[s],Большой мешок с награбленными припасами[|ами|ами],Большой мешок с награбленными припасами
+PR #2,new/new_073.csv,482,Lesser Ember[s],меньший уголёк[|ь|ки|ков],меньший уголёк
+PR #2,new/new_074.csv,409,Light of Deldrimor Plate[s],Доспех из светящегося металла Делдримора[|а|ов],Доспех из светящегося металла Делдримора
+PR #2,new/new_074.csv,410,Light of Deldrimor Plate[s]—Bottom Half,Доспех из дельдриморского света[|а|ов] — нижняя часть,Доспех из дельдриморского света — нижняя часть
+PR #2,new/new_074.csv,411,Light of Deldrimor Plate[s]—Top Half,Доспех из дельдриморского света[|а|ов] — верхняя часть,Доспех из дельдриморского света — верхняя часть
+PR #2,new/new_074.csv,467,Limited-Use Spectre Finisher[s],Одноразовый завершитель призрака[|а|ов],Одноразовый завершитель призрака
+PR #2,new/new_075.csv,425,Mad King's Chest Key Fragment[s],Осколок ключа от сундука Короля-Мученица[|а|ов],Осколок ключа от сундука Короля-Мученица
+PR #2,new/new_075.csv,426,Mad King's Coat[s],Плащ Безумного Короля[|я|и|ей],Плащ Безумного Короля
+PR #2,new/new_075.csv,427,Mad King's Hat[s],Шляпа Безумного Короля[|я|и|],Шляпа Безумного Короля
+PR #2,new/new_076.csv,133,Maguuma Peacekeeper[s],Магумский миротворец[|и|цы],Магумский миротворец
+PR #2,new/new_076.csv,137,Maguuma hatchlings%num1%,Магумские птенцы[|ы|а] %num1%,Магумские птенцы %num1%
+PR #2,new/new_076.csv,208,Malignant Grub[s],злобная личинк[а|ки|ок],злобная личинка
+PR #2,new/new_076.csv,300,Mark IV Mobile Bomb[s],Марк IV Мобильная бомба[|ы|ы]|,Марк IV Мобильная бомба|
+PR #2,new/new_077.csv,17,Medium Consortium Breathing Mask Skin[s],Средняя маска для дыхания Консорциума[|а|ов],Средняя маска для дыхания Консорциума
+PR #2,new/new_077.csv,18,Medium Island Shoulder Skin[s],Наплечник средней островной шкуры[|а|ы|ок],Наплечник средней островной шкуры
+PR #2,new/new_077.csv,421,Minstrel's Armor Recipe Book[s],Книга рецептов брони менестреля[|я|и],Книга рецептов брони менестреля
+PR #2,new/new_077.csv,422,Minstrel's Weapon Recipe Book[s],Книга рецептов оружия менестреля[|я|и],Книга рецептов оружия менестреля
+PR #2,new/new_078.csv,216,Mordrem Toxin Gland[s],"Железа мордремской токсины[|а|ы|""]",Железа мордремской токсины
+PR #2,new/new_078.csv,376,Mushed Spore Sample[s],Проба спорового гриба[|ы|ов],Проба спорового гриба
+PR #2,new/new_079.csv,59,Mystic Tribute[s],Мистическая дань[|ь|и|и],Мистическая дань
+PR #2,new/new_079.csv,184,Nature Elemental[s],Природный элементаль[|ь|и],Природный элементаль
+PR #2,new/new_079.csv,427,Nightmare Court Spider[s],Паук кошмарного двора[|а|ы|ов],Паук кошмарного двора
+PR #2,new/new_082.csv,196,Overloaded Mark I Golem[s],Перегруженный голе́м I моде́ли[|я|и|и],Перегруженный голе́м I моде́ли
+PR #2,new/new_083.csv,156,Phantom's Hood[s],Капюшон Фантома[|а|ов],Капюшон Фантома
+PR #2,new/new_083.csv,197,Piece[s] of Purist Propaganda,Кусок[|ки|ков] пуристской пропаганды,Кусок пуристской пропаганды
+PR #2,new/new_084.csv,311,Pristine Devourer Fang[s],Безупречный клык пожирателя[|а|ов],Безупречный клык пожирателя
+PR #2,new/new_084.csv,441,Protector Sentinel Suit[s],Защитный доспех стража[|а|ов],Защитный доспех стража
+PR #2,new/new_084.csv,474,Prototype Golem[s],Прототип голема[|ы|ов],Прототип голема
+PR #2,new/new_084.csv,475,Prototype Incinerator Golem[s],Прототип испепеляющего голема[|ы|ы],Прототип испепеляющего голема
+PR #2,new/new_087.csv,30,"Recipes[pl:""Recipes""] of the Dwarven Armor Trader",Рецепты[|а|ы] дварфского торговца доспехами,Рецепты дварфского торговца доспехами
+PR #2,new/new_087.csv,31,"Recipes[pl:""Recipes""] of the Dwarven Cloth Trader",Рецепты[|а|ов] торговца дварфийской тканью,Рецепты торговца дварфийской тканью
+PR #2,new/new_087.csv,108,Recovered Priory Expedition Chest[s],Восстановленный сундук экспедиции Приори[|та|ты|тов],Восстановленный сундук экспедиции Приори
+PR #2,new/new_087.csv,163,Red Summoning Stone[s],Красный камень призыва[|я|],Красный камень призыва
+PR #2,new/new_087.csv,175,Reef Drake Broodmother[s],Рифовая драконья матка[|и|ицы|иц],Рифовая драконья матка
+PR #2,new/new_087.csv,176,Reef Hatchling[s],детёныш рифового краба[|а|ы]|,детёныш рифового краба|
+PR #2,new/new_089.csv,334,Risen Spider Queen[s],Воскресшая королева-паучиха[|и|ихи|их],Воскресшая королева-паучиха
+PR #2,new/new_089.csv,467,Rolan's Key Fragment[s] (2/4),Осколок ключа Ролана[|а|ов] (2/4),Осколок ключа Ролана (2/4)
+PR #2,new/new_089.csv,468,Rolan's Key Fragment[s] (4/4),Осколок ключа Ролана[|а|ов] (4/4),Осколок ключа Ролана (4/4)
+PR #2,new/new_089.csv,469,Rolan's Master Key[s],Ключ мастера Ролана[|ч|чи|чей],Ключ мастера Ролана
+PR #2,new/new_091.csv,79,Scavenger Bag[s]: Magic Trophies,Сумка собирателя[|я|и]: магические трофеи,Сумка собирателя: магические трофеи
+PR #2,new/new_091.csv,80,Scavenger Bag[s]: Might Trophies,Сумка с трофеями[|и|ев]: Трофеи мощи,Сумка с трофеями: Трофеи мощи
+PR #2,new/new_092.csv,248,Sentient Seed[s],Разумное семя[|я|ни],Разумное семя
+PR #2,new/new_092.csv,421,Shadi's Shopping List[s],Список покупок Шади[|я|й],Список покупок Шади
+PR #2,new/new_093.csv,78,Shing Jea Mosaic Cape[s],Плащ из мозаики Шин Джеа[|я|и|ей],Плащ из мозаики Шин Джеа
+PR #2,new/new_093.csv,83,Shining Blade Bounty Notice[s]: Aerl the Silent,Извещение о награде за Клинок Света[|о|а]: Эерл Молчаливый,Извещение о награде за Клинок Света: Эерл Молчаливый
+PR #2,new/new_093.csv,246,Siege Weapon[s],Осадная установка[|и|ы],Осадная установка
+PR #2,new/new_093.csv,303,Simple Infusion[s],Простое усиление[|я|и|ний],Простое усиление
+PR #2,new/new_093.csv,333,Single-Use Eye of the North Portal Scroll[s],Свиток одноразового портала в Глаз Севера[|ка|ки|ок],Свиток одноразового портала в Глаз Севера
+PR #2,new/new_093.csv,473,Slab[s] of Wurm Meat,Плита[|ы|]|ов мяса вурма,Плита|ов мяса вурма
+PR #2,new/new_094.csv,42,Small Rank-Up Chest[s],Маленький сундук повышения ранга[|а|ов],Маленький сундук повышения ранга
+PR #2,new/new_094.csv,43,Small Stolen Supplies Bag[s],Маленький украденный мешок с припасами[|а|ов],Маленький украденный мешок с припасами
+PR #2,new/new_095.csv,130,Spectral Bear[s],спектральный медведь[|ь|и|и],спектральный медведь
+PR #2,new/new_095.csv,397,Statue[s] of Joko Smiting Abaddon,"Статуя[|и|и] Джоко, поражающего Аббадона","Статуя Джоко, поражающего Аббадона"
+PR #2,new/new_096.csv,139,Story Unlock[s]: Complete Living World,"Разблокировка сюжета[|а|ов]: завершите сюжетную линию ""Живой мир"".","Разблокировка сюжета: завершите сюжетную линию ""Живой мир""."
+PR #2,new/new_096.csv,215,"Strong Echo[pl:""Echoes""] of Drizzlewood Coast",Сильное эхо[|а|ов] побережья Дризлвуда,Сильное эхо побережья Дризлвуда
+PR #2,new/new_096.csv,217,"Strong Echo[pl:""Echoes""] of Raven Sanctum",Сильное эхо[|а|ов] Равен-Сэнктума,Сильное эхо Равен-Сэнктума
+PR #2,new/new_096.csv,218,"Strong Echo[pl:""Echoes""] of the Shiverpeaks",Сильное эхо[|а|ов] Шиверпикс,Сильное эхо Шиверпикс
+PR #2,new/new_097.csv,43,Surly Crab[s],Краб-скряга[|а|ов],Краб-скряга
+PR #2,new/new_097.csv,447,Tangle Weed[s],Танглистая трава[|а|ы|ы],Танглистая трава
+PR #2,new/new_097.csv,458,"Tar Flakes[pl:""Flakes""]",Снежинка[|и|ок],Снежинка
+PR #2,new/new_098.csv,19,"Tasty Insect Larva[pl:""Larvae""]",Вкусная личинка насекомого[|их|ых],Вкусная личинка насекомого
+PR #2,new/new_099.csv,392,The Wurm's Bronze Chest[s],Бронзовый сундук Вурма[|а|ов],Бронзовый сундук Вурма
+PR #2,new/new_099.csv,393,The Wurm's Golden Chest[s],Золотой сундук Вурма[|а|ов],Золотой сундук Вурма
+PR #2,new/new_099.csv,394,The Wurm's Silver Chest[s],Серебряный сундук Вурма[|а|ы|ов],Серебряный сундук Вурма
+PR #2,new/new_103.csv,84,"Titanspawn Larva[pl:""Larvae""]",Личинка титана[|ы|],Личинка титана
+PR #2,new/new_103.csv,206,Top Hat[s],цилиндр[|ры|ов],цилиндр
+PR #2,new/new_105.csv,294,Unchained Gorilla[s],несвободная горилла[|ы|и],несвободная горилла
+PR #2,new/new_105.csv,446,Unopened Prosperity Mine Kite[s],Неоткрытый воздушный змей из шахты процветания[|я|и|ей],Неоткрытый воздушный змей из шахты процветания
+PR #2,new/new_105.csv,447,Unopened Ventari Follower Kite[s],Неоткрытый змей Вентари[|я|и|ей],Неоткрытый змей Вентари
+PR #2,new/new_107.csv,5,Veteran Fanged Iboga[s],Ветеранская клыкастая ибога[|а|и],Ветеранская клыкастая ибога
+PR #2,new/new_107.csv,188,Visage of the Great Rooster Firework[s],Фигура Великого петуха[|а|ов] фейерверк,Фигура Великого петуха фейерверк
+PR #2,new/new_107.csv,301,Void Melter[s],растворитель пустоты[|и|я],растворитель пустоты
+PR #2,new/new_107.csv,304,"Void Rimewolf[pl:""rimewolves""]",Пустотный морозный волк[|ки|ки],Пустотный морозный волк
+PR #2,new/new_107.csv,387,"Vortex Scintilla[pl:""Scintillae""]",Вихревая Искорка[|искирки|искры],Вихревая Искорка
+PR #2,new/new_108.csv,34,Warclaw Cub[s],Детёныш варклока[|а|ов],Детёныш варклока
+PR #2,new/new_108.csv,173,Water pipe[s],Водопроводная труба[|ы|ых],Водопроводная труба
+PR #2,new/new_110.csv,317,White Mantle Badge[s],знак Белого Мантии[|и|й|ей],знак Белого Мантии
+PR #2,new/new_111.csv,85,Witch's Coat[s],Мантия ведьмы[|и|ий|их],Мантия ведьмы
+PR #2,new/new_111.csv,134,Wizard's Infinite Mist Omnipotion[s],Бесконечное зелье тумана волшебника[|а|ов],Бесконечное зелье тумана волшебника
+PR #2,new/new_121.csv,232,Queensdale Academy Outfit[s],Наряд из Академии Квинсдейла[|а|ов],Наряд из Академии Квинсдейла
+PR #2,ui/ui_013.csv,388,"%str1%%str2%Tempest Staff[pl:""Staves""]%str3%%str4%",%str1%%str2%Посох бури[||Бурь]%str3%%str4%,%str1%%str2%Посох бури%str3%%str4%
+PR #2,ui/ui_027.csv,80,"Alpine Lily[pl:""Lilies""]",альпийская лили[я|и|и],альпийская лилия
+PR #2,ui/ui_027.csv,133,"Amber Agony Lens[pl:""Lenses""] (Left)",Янтарная линза агонии[|ы|] (левая),Янтарная линза агонии (левая)
+PR #2,ui/ui_027.csv,134,"Amber Agony Lens[pl:""Lenses""] (Right)",Янтарная линза агонии[|и|ей] (правая),Янтарная линза агонии (правая)
+PR #2,ui/ui_027.csv,154,"Ambrite Fossilized Butterfly[pl:""Butterflies""]",Янтарная окаменелая бабочка[|и|ки|ок],Янтарная окаменелая бабочка
+PR #2,ui/ui_027.csv,159,"Ambrite Fossilized Dragonfly[pl:""Dragonflies""]",Янтарная окаменелая стрекоза[|ы|],Янтарная окаменелая стрекоза
+PR #2,ui/ui_027.csv,163,"Ambrite Fossilized Mantis[pl:""Mantises""]",Янтарная окаменелая богомолка[|и|и],Янтарная окаменелая богомолка
+PR #2,ui/ui_027.csv,204,"Amnytas Gear Box[pl:""Boxes""]",Ящик Амитаса[|а|ов],Ящик Амитаса
+PR #2,ui/ui_027.csv,348,Ancient Canthan Leggings Skin[s],Древние кантанские поножи[|и|я],Древние кантанские поножи
+PR #2,ui/ui_028.csv,285,"Arah Armor Box[pl:""Boxes""]",Ящик доспехов Араха[|а|ов],Ящик доспехов Араха
+PR #2,ui/ui_028.csv,290,"Arah Token Loot Box[pl:""Boxes""]",Ящик с добычей Араха[|и|а],Ящик с добычей Араха
+PR #2,ui/ui_028.csv,291,"Arah Weapons Box[pl:""Boxes""]",Ящик с оружием Араха[|и|и],Ящик с оружием Араха
+PR #2,ui/ui_028.csv,294,"Arapaima[pl:""Arapaimas""]",Арапаима[|а|ы|ы],Арапаима
+PR #2,ui/ui_031.csv,115,"Azure Agony Lens[pl:""Lenses""] (Left)",Азуриновая линза агонии[|и|ей] (левая),Азуриновая линза агонии (левая)
+PR #2,ui/ui_031.csv,116,"Azure Agony Lens[pl:""Lenses""] (Right)",Азурная линза агонии[|ы|] (правая),Азурная линза агонии (правая)
+PR #2,ui/ui_031.csv,171,"Baelfire's Weapons Box[pl:""Boxes""]",Ящик оружия Бэлфайра[|а|ов],Ящик оружия Бэлфайра
+PR #2,ui/ui_031.csv,254,"Balance Fish[pl:""Fish""]",Сбалансированная рыба[|и|ы],Сбалансированная рыба
+PR #2,ui/ui_031.csv,293,"Balthazar Backpack Box[pl:""Boxes""]",Ящик с рюкзаком Бальтазара[|и|а],Ящик с рюкзаком Бальтазара
+PR #2,ui/ui_031.csv,330,"Balthazar's Weapon Box[pl:""Boxes""]",Ящик с оружием Бальтазара[|а|ы],Ящик с оружием Бальтазара
+PR #2,ui/ui_031.csv,367,"Bandit Cutpurse Loot Box[pl:""Boxes""]",Ящик с добычей от бандита-карманника[|и|а],Ящик с добычей от бандита-карманника
+PR #2,ui/ui_031.csv,378,"Bandit Loot Box[pl:""Boxes""]",Ящик с добычей бандита[|я|и|и],Ящик с добычей бандита
+PR #2,ui/ui_031.csv,404,"Bandit Thug Loot Box[pl:""Boxes""]",Ящик с добычей бандитского головореза[|и|а],Ящик с добычей бандитского головореза
+PR #2,ui/ui_032.csv,26,"Basic Bookshelf[pl:""Bookshelves""]",Базовая книжная полка[|ки|ок],Базовая книжная полка
+PR #2,ui/ui_032.csv,44,Basic Elder Wood Warhorn Requisition[s],Базовый боевой рог Древнего леса[|а|ов],Базовый боевой рог Древнего леса
+PR #2,ui/ui_032.csv,45,Basic Elder Wood Warhorn[s],Простой боевой рог Древней Рощи[|а|и|ов],Простой боевой рог Древней Рощи
+PR #2,ui/ui_032.csv,51,Basic Grave Marker[s],Простой надгробный камень[|ья|и],Простой надгробный камень
+PR #2,ui/ui_032.csv,52,Basic Guild Cape[s],Базовый плащ гильдии[|и|ий|ей],Базовый плащ гильдии
+PR #2,ui/ui_032.csv,118,"Bastion Fish[pl:""Fish""]",Бастинская рыба[|и|ей],Бастинская рыба
+PR #2,ui/ui_032.csv,157,"Bat Loot Box[pl:""Boxes""]",Ящик с добычей из пещеры[|и|а],Ящик с добычей из пещеры
+PR #2,ui/ui_032.csv,215,"Bay Leaf Seed Pouch[pl:""Pouches""]",Сумочка с семенами лавра[|и|ей],Сумочка с семенами лавра
+PR #2,ui/ui_032.csv,246,"Beach House Spiral Stairs[pl:""Stairs""]",Балконная лестница на спирали[|и|],Балконная лестница на спирали
+PR #2,ui/ui_032.csv,263,"Bear Loot Box[pl:""Boxes""]",Ящик с добычей от медведя[|и|я],Ящик с добычей от медведя
+PR #2,ui/ui_032.csv,275,"Bearkin War Helm Choice Box[pl:""Boxes""]",Ящик выбора шлема воина из медвежьей кожи[|а|ов],Ящик выбора шлема воина из медвежьей кожи
+PR #2,ui/ui_033.csv,120,"Bittersweet Omnomberry[pl:""Omnomberries""]",Горько-сладкая всеягодка[|и|],Горько-сладкая всеягодка
+PR #2,ui/ui_033.csv,156,"Black Crappie[pl:""Crappies""]",Черный краппи[|а|ы],Черный краппи
+PR #2,ui/ui_033.csv,343,"Black Lionfish[pl:""Lionfish""]",Черный лев-рыба[|ы|],Черный лев-рыба
+PR #2,ui/ui_033.csv,350,"Black Peppercorn Seed Pouch[pl:""Pouches""]",Мешочек семян чёрного перца[|а|ов],Мешочек семян чёрного перца
+PR #2,ui/ui_033.csv,352,"Black Phoenix Loot Box[pl:""Boxes""]",Чёрный феникс[|с|сы|ов],Чёрный феникс
+PR #2,ui/ui_033.csv,368,"Blackberry Seed Pouch[pl:""Pouches""]",Сумочка с семенами черники[|и|ок],Сумочка с семенами черники
+PR #2,ui/ui_033.csv,385,"Bladed Armor Box[pl:""Boxes""]",Коробка с броней с лезвиями[|и|ы],Коробка с броней с лезвиями
+PR #2,ui/ui_033.csv,387,"Bladed Glove Box[pl:""Boxes""]",Ящик с лезвиями[|я|я],Ящик с лезвиями
+PR #2,ui/ui_034.csv,108,"Blood Legion Blood Box[pl:""Boxes""]",Кровавая коробка легиона Кровавого Легиона[|и|ей],Кровавая коробка легиона Кровавого Легиона
+PR #2,ui/ui_034.csv,111,"Blood Legion Charged Materials Box[pl:""Boxes""]",Ящик с материалами Кровавого легиона[|и|а],Ящик с материалами Кровавого легиона
+PR #2,ui/ui_034.csv,114,"Blood Legion Crafting Box[pl:""Boxes""]",Коробка[|и|бок] крафта Легиона Крови,Коробка крафта Легиона Крови
+PR #2,ui/ui_034.csv,119,"Blood Legion Reward Box[pl:""Boxes""]",Коробка наград Легиона Крови[|ы|ов],Коробка наград Легиона Крови
+PR #2,ui/ui_034.csv,124,"Blood Legion Wood Box[pl:""Boxes""]",Кроваво-легионная деревянная шкатулка[|и|ки],Кроваво-легионная деревянная шкатулка
+PR #2,ui/ui_034.csv,129,"Blood Moon Weapon Box[pl:""Boxes""]",Коробка с оружием Кровавой луны[|ы|],Коробка с оружием Кровавой луны
+PR #2,ui/ui_034.csv,134,"Blood Ruby Strongbox[pl:""Strongboxes""]",Кроваво-рубиновая шкатулка[|ка|ки|ок],Кроваво-рубиновая шкатулка
+PR #2,ui/ui_034.csv,150,"Bloodfish[pl:""Bloodfish""]",Кровавая рыба[|ы|ок],Кровавая рыба
+PR #2,ui/ui_034.csv,165,"Bloodstone Bearclaw Pastry[pl:""Pastries""]",Пирожок с медвежьими когтями из кровяного камня[|и|я|и],Пирожок с медвежьими когтями из кровяного камня
+PR #2,ui/ui_034.csv,217,"Bloodstone Weapon Box[pl:""Boxes""]",Коробка с оружием из кровяного камня[|и|ей],Коробка с оружием из кровяного камня
+PR #2,ui/ui_034.csv,314,"Blue Dorado[pl:""Dorado""]",Синий дорадо[||],Синий дорадо
+PR #2,ui/ui_034.csv,407,"Boar Loot Box[pl:""Boxes""]",Ящик с добычей из кабана[|я|и],Ящик с добычей из кабана
+PR #2,ui/ui_034.csv,432,"Body Topiary[pl:""Topiaries""]",Бодиботаника[|и|к],Бодиботаника
+PR #2,ui/ui_035.csv,14,"Bonus Box[pl:""Boxes""] of Goods",Бонусная коробка[|и|ки|ок] с товарами,Бонусная коробка с товарами
+PR #2,ui/ui_035.csv,275,"Bootleg VIP Pass[pl:""Passes""]",Поддельный VIP-пропуск[|ки|и],Поддельный VIP-пропуск
+PR #2,ui/ui_035.csv,400,"Bounty[pl:""Bounties""] of Seitung Province",Награда[|ы|ах] провинции Сейтун,Награда провинции Сейтун
+PR #2,ui/ui_035.csv,409,"Bow Wings[pl:""Wings""]",Крылья лука[|а|ев],Крылья лука
+PR #2,ui/ui_036.csv,135,"Box of Purified Rift Essence Components[pl:""Boxes""]",Ящик компонентов очищенной эссенции разлома[|а|ов],Ящик компонентов очищенной эссенции разлома
+PR #2,ui/ui_037.csv,91,"Breezeborne Pyxis[pl:""Pyxides""]",Ветророжденная пиксида[|ы|ы],Ветророжденная пиксида
+PR #2,ui/ui_037.csv,137,"Bright Inquisitor Weapon Box[pl:""Boxes""]",Ящик с оружием яркого инквизитора[|щики|щиков],Ящик с оружием яркого инквизитора
+PR #2,ui/ui_037.csv,385,"Bronze Cardinal Adina Trophy[pl:""Trophies""]",Бронзовая статуэтка кардинала Адины[|ы|],Бронзовая статуэтка кардинала Адины
+PR #2,ui/ui_037.csv,387,Bronze Chain Boot Lining[s],Подкладка из бронзовой цепи[|и|ей],Подкладка из бронзовой цепи
+PR #2,ui/ui_037.csv,389,Bronze Chain Chest Padding[s],Бронзовая подкладка для нагрудника[|а|ов],Бронзовая подкладка для нагрудника
+PR #2,ui/ui_037.csv,390,Bronze Chain Chest Panel[s],Бронзовая пластина для нагрудника[|а|ов],Бронзовая пластина для нагрудника
+PR #2,ui/ui_037.csv,402,"Bronze Ether Djinn Trophy[pl:""Trophies""]",Трофей из бронзового эфирного джинна[|и|я],Трофей из бронзового эфирного джинна
+PR #2,ui/ui_037.csv,421,"Bronze Qadim Trophy[pl:""Trophies""]",Бронзовая статуэтка Кадима[|а|и|ок],Бронзовая статуэтка Кадима
+PR #2,ui/ui_037.csv,430,"Bronze Twin Largos Trophy[pl:""Trophies""]",Кубок близнецов из бронзовых ларго[|а|ов],Кубок близнецов из бронзовых ларго
+PR #2,ui/ui_037.csv,436,"Brook Trout[pl:""Trout""]",Ручейная форель[|ь|и|ей],Ручейная форель
+PR #2,ui/ui_037.csv,450,"Brown Bear Loot Box[pl:""Boxes""]",Коричневый медведь[|ь|и|и],Коричневый медведь
+PR #2,ui/ui_037.csv,454,"Brown Phoenix Loot Box[pl:""Boxes""]",Коричневый сундук Феникса[|а|и|ов],Коричневый сундук Феникса
+PR #2,ui/ui_037.csv,456,"Brown Shark Loot Box[pl:""Boxes""]",Коробка с добычей коричневой акулы[|и|],Коробка с добычей коричневой акулы
+PR #2,ui/ui_039.csv,289,"Canthan Glass Bottle[pl:""Bottles""]",Бутылка из Канты[|а|ы|ок],Бутылка из Канты
+PR #2,ui/ui_039.csv,387,"Captain's Airship Pass[pl:""Passes""]",Пропуск на воздушный корабль капитана[|а|ов],Пропуск на воздушный корабль капитана
+PR #2,ui/ui_039.csv,468,"Carapace Armor Box[pl:""Boxes""]",Ящик доспехов из панциря[|а|ов],Ящик доспехов из панциря
+PR #2,ui/ui_039.csv,469,"Carapace Boot Box[pl:""Boxes""]",Коробка с панцирными ботинками[|и|ок],Коробка с панцирными ботинками
+PR #2,ui/ui_040.csv,44,"Carrot Seed Pouch[pl:""Pouches""]",Мешочек для семян моркови[|мешочки| мешочков],Мешочек для семян моркови
+PR #2,ui/ui_040.csv,119,"Castoran Aquatic Treasure Box[pl:""Boxes""]",Ящик с подводными сокровищами Касторана[|и|а],Ящик с подводными сокровищами Касторана
+PR #2,ui/ui_040.csv,120,"Castoran Bicorn[pl:""Bicorn""]",Бикорн Касторана[|а|ов],Бикорн Касторана
+PR #2,ui/ui_040.csv,126,"Castoran Freebooter Treasure Box[pl:""Boxes""]",Сундук с сокровищами Касторана Свободного Корсара[|а|ы],Сундук с сокровищами Касторана Свободного Корсара
+PR #2,ui/ui_040.csv,135,"Castoran Saurian Treasure Box[pl:""Boxes""]",Ящик с сокровищами Касторана[|и|],Ящик с сокровищами Касторана
+PR #2,ui/ui_040.csv,136,"Castoran Sea Bass[pl:""Bass""]",Кастороранский морской окунь[|ь|и|и],Кастороранский морской окунь
+PR #2,ui/ui_040.csv,210,"Caudecus's Armor Box[pl:""Boxes""]",Ящик доспехов Каудека[с|а|ов],Ящик доспехов Каудекас
+PR #2,ui/ui_040.csv,219,"Caudecus's Token Loot Box[pl:""Boxes""]",Ящик с добычей от Каудекуса[|и|а],Ящик с добычей от Каудекуса
+PR #2,ui/ui_040.csv,220,"Caudecus's Weapons Box[pl:""Boxes""]",Ящик с оружием Каудекуса[|и|а],Ящик с оружием Каудекуса
+PR #2,ui/ui_040.csv,223,"Cauliflower Seed Pouch[pl:""Pouches""]",Сумочка для семян цветной капусты[|и|ок],Сумочка для семян цветной капусты
+PR #2,ui/ui_040.csv,289,"Cayenne Pepper Seed Pouch[pl:""Pouches""]",Пакет с семенами кайенского перца[|а|ы],Пакет с семенами кайенского перца
+PR #2,ui/ui_041.csv,63,"Champion Advanced Assault Golem Noko Loot Box[pl:""Boxes""]",Сундук с добычей: продвинутый боевой голем Ноко[|а|ов],Сундук с добычей: продвинутый боевой голем Ноко
+PR #2,ui/ui_041.csv,69,"Champion Asmund the White Dolyak Loot Box[pl:""Boxes""]",Сундук с добычей чемпиона Асмунда Белого Доляка[|а|ов],Сундук с добычей чемпиона Асмунда Белого Доляка
+PR #2,ui/ui_041.csv,70,"Champion Asta the Black Dolyak Loot Box[pl:""Boxes""]",Лутбокс с трофеями чемпиона Асты Чёрной Дойляка[|а|ов],Лутбокс с трофеями чемпиона Асты Чёрной Дойляка
+PR #2,ui/ui_041.csv,75,"Champion Blade the White Shark Loot Box[pl:""Boxes""]",Лутбокс с добычей Блейда Белой Акулы[|а|ов],Лутбокс с добычей Блейда Белой Акулы
+PR #2,ui/ui_041.csv,76,"Champion Bloated Creeper Loot Box[pl:""Boxes""]",Ящик с добычей из чемпиона-раздутого ползуна[|щики|щиков],Ящик с добычей из чемпиона-раздутого ползуна
+PR #2,ui/ui_041.csv,79,"Champion Brangoire Loot Box[pl:""Boxes""]",Сундук чемпиона Рангуара[|а|ов],Сундук чемпиона Рангуара
+PR #2,ui/ui_041.csv,81,"Champion Centaur Loot Box[pl:""Boxes""]",Сундук с добычей чемпиона-кентавра[|а|ы],Сундук с добычей чемпиона-кентавра
+PR #2,ui/ui_041.csv,92,"Champion Dredge Loot Box[pl:""Boxes""]",Ящик с добычей от чемпиона-копателя[|и|я],Ящик с добычей от чемпиона-копателя
+PR #2,ui/ui_041.csv,95,"Champion Flame Effigy Loot Box[pl:""Boxes""]",Ларец трофейного пламенного тотема[|а|ов],Ларец трофейного пламенного тотема
+PR #2,ui/ui_041.csv,98,"Champion Grawl Loot Box[pl:""Boxes""]",Ящик с добычей чемпиона гроула[|и|],Ящик с добычей чемпиона гроула
+PR #2,ui/ui_041.csv,99,"Champion Head Scientist Loot Box[pl:""Boxes""]",Ящик с добычей от главного учёного-чемпиона[|щики|я],Ящик с добычей от главного учёного-чемпиона
+PR #2,ui/ui_041.csv,102,"Champion Hound of Balthazar Loot Box[pl:""Boxes""]",Сундук с добычей чемпиона-пса Бальтазара[|а|ов],Сундук с добычей чемпиона-пса Бальтазара
+PR #2,ui/ui_041.csv,110,"Champion Inspector Snik Loot Box[pl:""Boxes""]",Лутбокс инспектора-чемпиона Сника[|а|ов],Лутбокс инспектора-чемпиона Сника
+PR #2,ui/ui_041.csv,112,"Champion Kasha Loot Box[pl:""Boxes""]",Коробка с добычей чемпиона Каша[|и|ей],Коробка с добычей чемпиона Каша
+PR #2,ui/ui_041.csv,113,"Champion Kralkatorrik the Crystal Dragon Loot Box[pl:""Boxes""]","Сундук с добычей Кралькаторрика, Хрустального дракона[|а|ов]","Сундук с добычей Кралькаторрика, Хрустального дракона"
+PR #2,ui/ui_041.csv,117,"Champion Lamar the Black Tiger Loot Box[pl:""Boxes""]",Лутбокс чемпиона Ламара Чёрного Тигра[|а|ов],Лутбокс чемпиона Ламара Чёрного Тигра
+PR #2,ui/ui_041.csv,118,"Champion Lani Winterfist Loot Box[pl:""Boxes""]",Ларец чемпиона Лани Зимнего кулака[|а|ов],Ларец чемпиона Лани Зимнего кулака
+PR #2,ui/ui_041.csv,119,"Champion Mac the Black Deer Loot Box[pl:""Boxes""]",Лутбокс с трофеями Чемпиона Мака Чёрного Оленя[|а|ов],Лутбокс с трофеями Чемпиона Мака Чёрного Оленя
+PR #2,ui/ui_041.csv,131,"Champion Mouth of Zhaitan Loot Box[pl:""Boxes""]",Ящик с добычей из логова Зайтана[|щики|щиков],Ящик с добычей из логова Зайтана
+PR #2,ui/ui_041.csv,132,"Champion Mutated Fish Loot Box[pl:""Boxes""]",Сундук с добычей мутантской рыбы[|а|ов],Сундук с добычей мутантской рыбы
+PR #2,ui/ui_041.csv,135,"Champion of Blood[pl:""Blood""]",Хранитель крови[|и|ей],Хранитель крови
+PR #2,ui/ui_041.csv,139,"Champion Ogre Loot Box[pl:""Boxes""]",Ящик с добычей от чемпиона-огра[|а|ов],Ящик с добычей от чемпиона-огра
+PR #2,ui/ui_041.csv,140,"Champion Prototype Golem Loot Box[pl:""Boxes""]",Ящик с прототипом чемпиона-голема[|и|а],Ящик с прототипом чемпиона-голема
+PR #2,ui/ui_041.csv,142,"Champion Rico the Black Shark Loot Box[pl:""Boxes""]",Лутбокс с трофеями Чемпиона Рико Чёрной Акулы[|а|ов],Лутбокс с трофеями Чемпиона Рико Чёрной Акулы
+PR #2,ui/ui_041.csv,144,"Champion Risen Shark Loot Box[pl:""Boxes""]",Ящик с добычей от чемпиона-акулы-воскрешенного[|щики|щиков],Ящик с добычей от чемпиона-акулы-воскрешенного
+PR #2,ui/ui_041.csv,146,"Champion Risen Wraith Loot Box[pl:""Boxes""]",Лутбокс с трофеями чемпиона-восставшего призрака[|а|ов],Лутбокс с трофеями чемпиона-восставшего призрака
+PR #2,ui/ui_041.csv,147,"Champion Rozgar the Forge Loot Box[pl:""Boxes""]",Лутбокс с трофеями Розгара-Кузнеца[|а|ов],Лутбокс с трофеями Розгара-Кузнеца
+PR #2,ui/ui_041.csv,163,"Champion Undergrowth Spider Queen Loot Box[pl:""Boxes""]",Лутбокс королевы пауков-паучих из подлеска[|а|ов],Лутбокс королевы пауков-паучих из подлеска
+PR #2,ui/ui_041.csv,166,"Champion Waffle the White Bear Loot Box[pl:""Boxes""]",Лутбокс с трофеями Чемпиона Вафли Белого Медведя[|а|ов],Лутбокс с трофеями Чемпиона Вафли Белого Медведя
+PR #2,ui/ui_041.csv,169,"Champion Wurm Loot Box[pl:""Boxes""]",Сундук с добычей чемпиона[|а|ов],Сундук с добычей чемпиона
+PR #2,ui/ui_041.csv,172,Champion's Snowball[s],Чемпионский снежок[|ок|ка|ков],Чемпионский снежок
+PR #2,ui/ui_041.csv,466,"Charr Salvage[pl:""Salvage""]",Чаррская разборка[|и|ек],Чаррская разборка
+PR #2,ui/ui_041.csv,470,Charr Summit Flag[s],Флаг чаррского саммита[|а|ов],Флаг чаррского саммита
+PR #2,ui/ui_041.csv,473,Charr Tank Token[s],Жетон чарр-танка[|а|ов],Жетон чарр-танка
+PR #2,ui/ui_041.csv,475,"Charr Tier 1 Heavy Armor Box[pl:""Boxes""]",Ящик тяжёлой брони чарр первого уровня[|а|ы],Ящик тяжёлой брони чарр первого уровня
+PR #2,ui/ui_041.csv,476,"Charr Tier 1 Light Armor Box[pl:""Boxes""]",Ящик лёгкой брони чарр I уровня[|а|ов],Ящик лёгкой брони чарр I уровня
+PR #2,ui/ui_041.csv,478,"Charr Tier 2 Heavy Armor Box[pl:""Boxes""]",Ящик тяжёлой брони чарров II уровня[|а|ов],Ящик тяжёлой брони чарров II уровня
+PR #2,ui/ui_041.csv,479,"Charr Tier 2 Light Armor Box[pl:""Boxes""]",Ящик лёгкой брони чарров 2-го уровня[|а|ов],Ящик лёгкой брони чарров 2-го уровня
+PR #2,ui/ui_041.csv,480,"Charr Tier 2 Medium Armor Box[pl:""Boxes""]",Ящик средних доспехов чарр второго уровня[|а|ы],Ящик средних доспехов чарр второго уровня
+PR #2,ui/ui_041.csv,481,"Charr Tier 3 Heavy Armor Box[pl:""Boxes""]",Ящик тяжёлой брони чарр 3-го уровня[|а|ов],Ящик тяжёлой брони чарр 3-го уровня
+PR #2,ui/ui_041.csv,482,"Charr Tier 3 Light Armor Box[pl:""Boxes""]",Ящик лёгкой брони чарр 3-го уровня[|а|ов],Ящик лёгкой брони чарр 3-го уровня
+PR #2,ui/ui_042.csv,120,"Cherry Salmon[pl:""Salmon""]",Лосось из вишнёвой реки[|и|ей],Лосось из вишнёвой реки
+PR #2,ui/ui_042.csv,354,"Chili Pepper Seed Pouch[pl:""Pouches""]",Мешочек с семенами чили перца[|а|ов],Мешочек с семенами чили перца
+PR #2,ui/ui_043.csv,14,Chromatic Assassin Shield Skin[s],"Хроматический щит убийцы[|та|ты|""]",Хроматический щит убийцы
+PR #2,ui/ui_043.csv,18,Chromatic Assassin Sword Skin[s],Хроматический меч ассасина[|а|ов],Хроматический меч ассасина
+PR #2,ui/ui_043.csv,20,Chromatic Assassin Warhorn Skin[s],Хроматический боевой рог убийцы[|а|ов],Хроматический боевой рог убийцы
+PR #2,ui/ui_043.csv,23,"Chromatic Bubbles[pl:""Bubbles""]",Хроматические пузыри[|рь|ря|рей],Хроматические пузыри
+PR #2,ui/ui_043.csv,25,Chromatic Resin Axe Skin[s],Хроматический топор из смолы[|а|ов],Хроматический топор из смолы
+PR #2,ui/ui_043.csv,108,Citadel of Zakiros: Commander's Choice Chest[s],Цитадель Закироса: Сундук командира[|а|ов],Цитадель Закироса: Сундук командира
+PR #2,ui/ui_043.csv,168,"Clawfish[pl:""Clawfish""]",Клешня[|и|й],Клешня
+PR #2,ui/ui_043.csv,169,"Clawing Shadow Greaves Box[pl:""Boxes""]",Ящик с панцирными теневыми поножами[|ы|ов],Ящик с панцирными теневыми поножами
+PR #2,ui/ui_043.csv,170,Clawing Shadow Plate[s],Пластина когтя тени[|а|ы|ей],Пластина когтя тени
+PR #2,ui/ui_043.csv,385,"Cloud Cuirass[pl:""Cuirasses""]",Нагрудник из облака[|а|ов],Нагрудник из облака
+PR #2,ui/ui_043.csv,390,"Clove Seed Pouch[pl:""Pouches""]",Сумочка для семян клена[|и|ей],Сумочка для семян клена
+PR #2,ui/ui_048.csv,124,"Coriander Seed Pouch[pl:""Pouches""]",Мешочек с семенами кориандра[|а|ов],Мешочек с семенами кориандра
+PR #2,ui/ui_048.csv,127,"Corner Stairs[pl:""Stairs""] 120 x 240",Угловая лестница[|и|ницы|ниц] 120 x 240,Угловая лестница 120 x 240
+PR #2,ui/ui_048.csv,129,"Corner Stairs[pl:""Stairs""] 120 x 360",Угловая лестница[|ы|ницы] 120 x 360,Угловая лестница 120 x 360
+PR #2,ui/ui_048.csv,236,"Corsair Boot Box[pl:""Boxes""]",Коробка с ботинками пирата[|и|ок],Коробка с ботинками пирата
+PR #2,ui/ui_048.csv,238,"Corsair Jerkin Box[pl:""Boxes""]",Корсарская куртка[|а|и] в коробке,Корсарская куртка в коробке
+PR #2,ui/ui_048.csv,293,"Cotton Patch[pl:""Patches""]",Хлопчатобумажная заплатка[|и|ей],Хлопчатобумажная заплатка
+PR #2,ui/ui_048.csv,319,"Countess's Testimony[pl:""Testimonies""]",Свидетельство графини[|и|я],Свидетельство графини
+PR #2,ui/ui_048.csv,326,"Courage in the Face of Death[pl:""Death""]",Храбрость перед лицом смерти[|и|ей],Храбрость перед лицом смерти
+PR #2,ui/ui_048.csv,327,"Courage in the Face of Lost Will[pl:""Will""]",Мужество перед лицом утраченной воли[|и|ей],Мужество перед лицом утраченной воли
+PR #2,ui/ui_048.csv,329,"Courage in the Face of One's Self[pl:""Self""]",Мужество перед лицом собственной сущности[|и|ей],Мужество перед лицом собственной сущности
+PR #2,ui/ui_048.csv,330,"Courage in the Face of Shattered Faith[pl:""Faith""]",Смелость перед лицом разорванной веры[||вер],Смелость перед лицом разорванной веры
+PR #2,ui/ui_048.csv,336,"Courtier's Testimony[pl:""Testimonies""]",Свидетельство придворного[|а|ов],Свидетельство придворного
+PR #2,ui/ui_049.csv,146,"Crimson Agony Lens[pl:""Lenses""] (Left)",Алый окуляр агонии[|и|ия] (левый),Алый окуляр агонии (левый)
+PR #2,ui/ui_049.csv,147,"Crimson Agony Lens[pl:""Lenses""] (Right)",Алый окуляр агонии[|а|ы] (правый),Алый окуляр агонии (правый)
+PR #2,ui/ui_049.csv,269,"Crucible of Eternity Armor Box[pl:""Boxes""]",Ящик доспехов Вечной Кузницы[|а|ов],Ящик доспехов Вечной Кузницы
+PR #2,ui/ui_049.csv,273,"Crucible of Eternity Weapons Box[pl:""Boxes""]",Ящик с оружием из Кручи Вечности[|и|я],Ящик с оружием из Кручи Вечности
+PR #2,ui/ui_049.csv,346,Crystal Bloom Proof[s] of Allegiance,Кристаллическое доказательство верности[|а|ов],Кристаллическое доказательство верности
+PR #2,ui/ui_049.csv,348,"Crystal Bloom Supply Box[pl:""Boxes""]",Кристальная шкатулка с семенами[|ка|ки|ок],Кристальная шкатулка с семенами
+PR #2,ui/ui_049.csv,399,"Crystal Oasis Strongbox[pl:""Strongboxes""]",Кристальный оазис[|с|ы],Кристальный оазис
+PR #2,ui/ui_049.csv,400,Crystal Oasis: Commander's Choice Chest[s],Кристальная Оаза: Сундук командира[|а|ов],Кристальная Оаза: Сундук командира
+PR #2,ui/ui_049.csv,446,"Crystallized Ley-Energy[pl:""Energies""]",Кристаллизованная лей-энергия[|ия|гии|гии],Кристаллизованная лей-энергия
+PR #2,ui/ui_049.csv,480,"Cultivated Cilantro Leaf[pl:""Leaves""]",Лист культивированной кинзы[|а|ы|],Лист культивированной кинзы
+PR #2,ui/ui_050.csv,160,"Cutlass Fish[pl:""Fish""]",Рыба-сабля[|и|],Рыба-сабля
+PR #2,ui/ui_050.csv,170,"Cuttlefish[pl:""Cuttlefish""]",Каракатица[|и|ц],Каракатица
+PR #2,ui/ui_050.csv,462,"Dark Matter Weapon Box[pl:""Boxes""]",Ящик с оружием из тёмной материи[|я|щи],Ящик с оружием из тёмной материи
+PR #2,ui/ui_050.csv,490,"Dark Sanctified Weapon Skin Selection Box[pl:""Boxes""]",Коробка с темным освященным обликом оружия[|ки|],Коробка с темным освященным обликом оружия
+PR #2,ui/ui_053.csv,66,"Defiant Glass Weapon Box[pl:""Boxes""]",Ящик стеклянного оружия сопротивления[|а|ов],Ящик стеклянного оружия сопротивления
+PR #2,ui/ui_053.csv,82,"Delavan Guppy[pl:""Guppies""]",Делаванская гуппи[|и|и],Делаванская гуппи
+PR #2,ui/ui_053.csv,178,"Deluxe Wyvern Trophy[pl:""Trophies""]",Делюксная статуэтка виверны[|ы|и],Делюксная статуэтка виверны
+PR #2,ui/ui_054.csv,132,"Devourer Loot Box[pl:""Boxes""]",Ящик с добычей от Пожирателя[|щики|щиков],Ящик с добычей от Пожирателя
+PR #2,ui/ui_054.csv,161,"Dhuum's Torch[pl:""Torches""]",Факел Дхума[|ы|ов],Факел Дхума
+PR #2,ui/ui_054.csv,252,"Dill Herb Seed Pouch[pl:""Pouches""]",Мешочек с семенами трав дилла[|а|ов],Мешочек с семенами трав дилла
+PR #2,ui/ui_054.csv,355,"Disciple of Balthazar Loot Box[pl:""Boxes""]",Ларец последователя Балтазара[|а|ы],Ларец последователя Балтазара
+PR #2,ui/ui_056.csv,219,"Dragon Watch's Regalia[pl:""Regalia""]",Драконья регалия[|и|й],Драконья регалия
+PR #2,ui/ui_056.csv,234,Dragon's Intricate Gossamer Insignia[s],Сложная драконья инсигния из тончайшей паутины[|и|ий|ий],Сложная драконья инсигния из тончайшей паутины
+PR #2,ui/ui_056.csv,251,"Dragon's Jade Weapon Box[pl:""Boxes""]",Ящик с оружием из драконьего нефрита[|и|я],Ящик с оружием из драконьего нефрита
+PR #2,ui/ui_056.csv,261,Dragon's Stand: Commander's Choice Chest[s],Сундук командира из Драконьей заставы[|а|и|ов],Сундук командира из Драконьей заставы
+PR #2,ui/ui_056.csv,285,"Dragonfish Candy[pl:""Candies""]",Леденец из драконьей рыбы[|а|ов],Леденец из драконьей рыбы
+PR #2,ui/ui_056.csv,299,"Dragonscale Epaulettes Box[pl:""Boxes""]",Коробка драконьей чешуи[|коробки|коробок],Коробка драконьей чешуи
+PR #2,ui/ui_056.csv,396,"Dreamthistle Weapon Box[pl:""Boxes""]",Коробка с оружием из лунного чертополоха[|ки|и],Коробка с оружием из лунного чертополоха
+PR #2,ui/ui_056.csv,408,"Dredge Bomber Loot Box[pl:""Boxes""]",Ящик с добычей от диггера-подрывника[|щики|щиков],Ящик с добычей от диггера-подрывника
+PR #2,ui/ui_056.csv,436,"Dredge Resonator Loot Box[pl:""Boxes""]",Ящик с добычей из Дредж-резонатора[|щики|щиков],Ящик с добычей из Дредж-резонатора
+PR #2,ui/ui_056.csv,438,"Dredge Reverberant Loot Box[pl:""Boxes""]",Ящик с добычей Дреджа-Реверберанта[|и|а|ов],Ящик с добычей Дреджа-Реверберанта
+PR #2,ui/ui_057.csv,300,"Duke's Testimony[pl:""Testimonies""]",Свидетельство герцога[|а|ов],Свидетельство герцога
+PR #2,ui/ui_057.csv,342,"Dungeon Token Loot Box[pl:""Boxes""]",Ящик с добычей из подземелья[|я|я],Ящик с добычей из подземелья
+PR #2,ui/ui_057.csv,386,"Duskk's World 1 Super Boom Box[pl:""Boxes""]",Супер-бумбокс мира Даска[|ы|],Супер-бумбокс мира Даска
+PR #2,ui/ui_058.csv,12,"Dwayna's Weapon Box[pl:""Boxes""]",Ящик с оружием Двайны[|я|и],Ящик с оружием Двайны
+PR #2,ui/ui_058.csv,423,"Echovald Wilds Strongbox[pl:""Strongboxes""]",Сундук Эховальда[|а|ы],Сундук Эховальда
+PR #2,ui/ui_058.csv,424,Echovald Wilds: Commander's Choice Chest[s],Дикие земли Эховальда: Сундук командира[|а|ов],Дикие земли Эховальда: Сундук командира
+PR #2,ui/ui_059.csv,25,"Elaborate Fur Pouch[pl:""Pouches""]",Изысканный меховой кошелек[|и|ки],Изысканный меховой кошелек
+PR #2,ui/ui_059.csv,84,"Electric Fish Tooth[pl:""Teeth""]",Зуб электрической рыбы[|ы|],Зуб электрической рыбы
+PR #2,ui/ui_059.csv,115,"Elegant Scribe's Tools[pl:""Tools""]",Изысканный набор писца[|а|и],Изысканный набор писца
+PR #2,ui/ui_059.csv,229,"Elonian Glove Box[pl:""Boxes""]",Элонийский ящик[и|ки|ки],Элонийский ящики
+PR #2,ui/ui_059.csv,243,"Elonian Matrix[pl:""Matrices""]",Элонская матрица[|ы|],Элонская матрица
+PR #2,ui/ui_059.csv,401,"Emperor Fish[pl:""Fish""]",Императорская рыба[|императорские рыбы|императорских рыб],Императорская рыба
+PR #2,ui/ui_059.csv,418,"Empress Fish[pl:""Empress Fish""]",Императорская рыба[|императорские рыбы|императорских рыб],Императорская рыба
+PR #2,ui/ui_061.csv,26,"Equinox Weapon Box[pl:""Boxes""]",Ящик с оружием Равноденствия[|я|щики],Ящик с оружием Равноденствия
+PR #2,ui/ui_061.csv,301,Estate Fancy Chair[s],Изысканный стул для поместья[|я|я],Изысканный стул для поместья
+PR #2,ui/ui_061.csv,356,"Eternal Forged Weapon Box[pl:""Boxes""]",Вечная кованая коробка оружия[|коробка|коробки|коробок],Вечная кованая коробка оружия
+PR #2,ui/ui_062.csv,121,"Exclusive Color Swatch[pl:""Swatches""]: 2017–2021",Образец цвета[|а|ов]: 2017–2021,Образец цвета: 2017–2021
+PR #2,ui/ui_062.csv,302,"Experimental Warbeast Apparatus[pl:""Apparatus""]",Экспериментальное устройство боевого зверя[|а|ов],Экспериментальное устройство боевого зверя
+PR #2,ui/ui_062.csv,309,Expert's Bag[s] of Crafting Supplies,Сумка[|и|ах] эксперта с припасами для крафта,Сумка эксперта с припасами для крафта
+PR #2,ui/ui_062.csv,500,Extended Potion[s] of Inquest Slaying,Расширенные зелья[|о|ов] исследования убийства,Расширенные зелья исследования убийства
+PR #2,ui/ui_065.csv,367,"Fire Orchid Strongbox[pl:""Strongboxes""]",Огненный ящик с орхидеями[|и|а],Огненный ящик с орхидеями
+PR #2,ui/ui_065.csv,471,"Fires of a God[pl:""God""]",Огонь[|а|ев] бога | Огни[|я|ей] богов,Огонь[|а|ев] бога | Огни богов
+PR #2,ui/ui_065.csv,473,"Fires of the Legion[pl:""Legion""]",Огни легиона[|а|ов],Огни легиона
+PR #2,ui/ui_066.csv,119,"Flame Jelly[pl:""Jellies""]",Огненная медуза[|ы|ы],Огненная медуза
+PR #2,ui/ui_066.csv,134,"Flame Legion Cloth Box[pl:""Boxes""]",Коробка ткани Легиона Пламени[|ы|ов],Коробка ткани Легиона Пламени
+PR #2,ui/ui_066.csv,140,"Flame Legion Dust Box[pl:""Boxes""]",Коробка пыли Легиона Пламени[|ы|ов],Коробка пыли Легиона Пламени
+PR #2,ui/ui_066.csv,145,"Flame Legion Heavy Armor Box[pl:""Boxes""]",Коробка тяжёлой брони Легиона Пламени[|ы|ов],Коробка тяжёлой брони Легиона Пламени
+PR #2,ui/ui_066.csv,148,"Flame Legion Lava Shaman Loot Box[pl:""Boxes""]","Ящик с добычей огненного легиона, шаман лавы[|щики|щиков]","Ящик с добычей огненного легиона, шаман лавы"
+PR #2,ui/ui_066.csv,150,"Flame Legion Light Armor Box[pl:""Boxes""]",Ящик легкой брони огненной легиона[|и|а],Ящик легкой брони огненной легиона
+PR #2,ui/ui_066.csv,151,"Flame Legion Medium Armor Box[pl:""Boxes""]",Коробка средних доспехов Легиона Пламени[|ы|ов],Коробка средних доспехов Легиона Пламени
+PR #2,ui/ui_066.csv,152,"Flame Legion Molten Materials Box[pl:""Boxes""]",Ящик материалов расплава Легиона Пламени[|а|ов],Ящик материалов расплава Легиона Пламени
+PR #2,ui/ui_066.csv,155,"Flame Legion Reward Box[pl:""Boxes""]",Ящик легиона пламени[|а|ов],Ящик легиона пламени
+PR #2,ui/ui_066.csv,157,"Flame Legion Shadowblade Loot Box[pl:""Boxes""]",Ящик с добычей от Тенистого легиона Пламени[|щики|щиков],Ящик с добычей от Тенистого легиона Пламени
+PR #2,ui/ui_066.csv,166,"Flame Legion Supply Box[pl:""Boxes""]",Ящик с припасами Пламенного легиона[|и|а],Ящик с припасами Пламенного легиона
+PR #2,ui/ui_066.csv,324,"Flexible Sticks[pl:""Sticks""]",Гибкая палка[|ки|ки],Гибкая палка
+PR #2,ui/ui_066.csv,425,"Flying Fish[pl:""Fish""]",Летающая рыба[|рыбы|рыб],Летающая рыба
+PR #2,ui/ui_069.csv,131,"Fresh Winterberry[pl:""Winterberries""]",Свежая зимняя ягода[|ы|],Свежая зимняя ягода
+PR #2,ui/ui_069.csv,145,"Fried Oyster Sandwich[pl:""Sandwiches""]",Сэндвич с жареными устрицами[|и|ами],Сэндвич с жареными устрицами
+PR #2,ui/ui_069.csv,221,"Frost Legion Corrupt Materials Box[pl:""Boxes""]",Ящик материалов Коррумпированной ледяной орды[|а|ов] | Ящики материалов Коррумпированной ледяной орды | Ящиков материалов Коррумпированной ледяной орды,Ящик материалов Коррумпированной ледяной орды | Ящики материалов Коррумпированной ледяной орды | Ящиков материалов Коррумпированной ледяной орды
+PR #2,ui/ui_069.csv,225,"Frost Legion Resource Box[pl:""Boxes""]",Ящик ресурсов Легиона Льда[|а|ов],Ящик ресурсов Легиона Льда
+PR #2,ui/ui_069.csv,226,"Frost Legion Spoils Box[pl:""Boxes""]",Ящик трофеев Легиона Снега[|а|ов],Ящик трофеев Легиона Снега
+PR #2,ui/ui_069.csv,227,"Frost Legion Trophy Box[pl:""Boxes""]",Ящик трофеев Легиона Снега[|а|ов],Ящик трофеев Легиона Снега
+PR #2,ui/ui_069.csv,447,"Furnace Heavy Armor Box[pl:""Boxes""]",Ящик тяжёлой брони для печи[|и|я],Ящик тяжёлой брони для печи
+PR #2,ui/ui_069.csv,448,"Furnace Light Armor Box[pl:""Boxes""]",Ящик лёгкой брони из печи[|и|я],Ящик лёгкой брони из печи
+PR #2,ui/ui_069.csv,449,"Furnace Medium Armor Box[pl:""Boxes""]",Ящик средней брони для печи[|и|я],Ящик средней брони для печи
+PR #2,ui/ui_069.csv,478,"Fused Weapon Box[pl:""Boxes""]",Ящик слитого оружия[|а|ов],Ящик слитого оружия
+PR #2,ui/ui_071.csv,250,"Geyser Batfin[pl:""Batfins""]",Гейзерная летучая рыба[|и|ей],Гейзерная летучая рыба
+PR #2,ui/ui_071.csv,323,"Giant Gourami[pl:""Gourami""]",Гигантский гурами[|а|и],Гигантский гурами
+PR #2,ui/ui_071.csv,335,"Giant Shark Tooth[pl:""Teeth""]",Гигантский зуб акулы[|ьи|ья],Гигантский зуб акулы
+PR #2,ui/ui_072.csv,33,"Gilded Loach[pl:""Loaches""]",золотая змейка[|и|ки],золотая змейка
+PR #2,ui/ui_072.csv,124,Giver's Orichalcum-Imbued Inscription[s],Надпись из орикалума дарителя[|и|ей],Надпись из орикалума дарителя
+PR #2,ui/ui_072.csv,139,"Glacial Gauntlets Box[pl:""Boxes""]",Ледяные наручи[|и|я],Ледяные наручи
+PR #2,ui/ui_072.csv,159,"Glacial Snakehead[pl:""Snakeheads""]",Ледяная змееголовка[|ые|ых],Ледяная змееголовка
+PR #2,ui/ui_072.csv,292,"Glorious Victor's Armor Box[pl:""Boxes""]",Ящик доспехов славного победителя[|а|ы],Ящик доспехов славного победителя
+PR #2,ui/ui_072.csv,300,"Glossophobia[pl:""Glossophobia""]",Глоссофобия[|и|ий],Глоссофобия
+PR #2,ui/ui_072.csv,324,"Glutfish[pl:""Glutfish""]",Глуторыба[|ы|],Глуторыба
+PR #2,ui/ui_072.csv,448,"Gold Bound Matrix[pl:""Matrices""]",Золотая связанная матрица[|ы|],Золотая связанная матрица
+PR #2,ui/ui_072.csv,449,"Gold Cardinal Adina Trophy[pl:""Trophies""]",Золотая кардинальская статуэтка Адины[|ы|],Золотая кардинальская статуэтка Адины
+PR #2,ui/ui_072.csv,450,"Gold Cardinal Sabir Trophy[pl:""Trophies""]",Золотой кардинальский трофей Сабира[|я|и|ей],Золотой кардинальский трофей Сабира
+PR #2,ui/ui_072.csv,457,"Gold Dolyak Loot Box[pl:""Boxes""]",Золотая шкатулка с добычей от дольяка[|и|ки|ок],Золотая шкатулка с добычей от дольяка
+PR #2,ui/ui_072.csv,477,"Gold Ether Djinn Trophy[pl:""Trophies""]",Золотой эфирный джинн[|н|ны|нов],Золотой эфирный джинн
+PR #2,ui/ui_072.csv,495,"Gold Phoenix Loot Box[pl:""Boxes""]",Золотая шкатулка Феникса[|а|ы|ок],Золотая шкатулка Феникса
+PR #2,ui/ui_072.csv,497,"Gold Qadim Trophy[pl:""Trophies""]",Золотой кубок Кадима[|а|и|ов],Золотой кубок Кадима
+PR #2,ui/ui_073.csv,6,"Gold Tiger Loot Box[pl:""Boxes""]",Золотая тигровая шкатулка[|и|ки|ок],Золотая тигровая шкатулка
+PR #2,ui/ui_073.csv,12,"Gold Wolf Loot Box[pl:""Boxes""]",Золотая волчья шкатулка[|а|и|ок],Золотая волчья шкатулка
+PR #2,ui/ui_073.csv,27,"Golden Dorado[pl:""Dorado""]",Золотой дорадо[|а|ы],Золотой дорадо
+PR #2,ui/ui_073.csv,90,"Goldfish[pl:""Goldfish""]",Золотая рыбка[|и|ик],Золотая рыбка
+PR #2,ui/ui_073.csv,109,"Golem Loot Box[pl:""Boxes""]",Ящик с добычей голема[|и|а],Ящик с добычей голема
+PR #2,ui/ui_073.csv,192,"Gourami[pl:""Gourami""]",Гурами[|и|ев],Гурами
+PR #2,ui/ui_073.csv,302,"Grape Seed Pouch[pl:""Pouches""]",Мешочек с виноградными косточками[|а|и],Мешочек с виноградными косточками
+PR #2,ui/ui_073.csv,425,"Great Lodge Bench[pl:""Benches""]",Большая скамья для отдыха[|ьи|ьи],Большая скамья для отдыха
+PR #2,ui/ui_075.csv,125,"Gummy Wurms[pl:""Wurms""]",Жевательные черви[|вь|ви],Жевательные черви
+PR #2,ui/ui_075.csv,304,"Hanging Brazier[pl:""Braziers""]",Подвесной жаровня[|и|и],Подвесной жаровня
+PR #2,ui/ui_075.csv,427,"Harpy Loot Box[pl:""Boxes""]",Ящик с добычей гарпии[|я |ьи |и],Ящик с добычей гарпии
+PR #2,ui/ui_075.csv,436,"Harrower's Testimony[pl:""Testimonies""]",Свидетельство Погибели[|ья|ья],Свидетельство Погибели
+PR #2,ui/ui_075.csv,442,"Harsh Words[pl:""Words""]",Жесткие слова[|а|],Жесткие слова
+PR #2,ui/ui_078.csv,89,"Hitzekern-Infusion[pl:""Infusionen""]",Настой жара[|а|ов],Настой жара
+PR #2,ui/ui_078.csv,233,"Holographic Dragon Greaves Box[pl:""Boxes""]",Ящик с голографическими драконьими поножами[|я|ев],Ящик с голографическими драконьими поножами
+PR #2,ui/ui_078.csv,344,"Homestead Decoration Box[pl:""Boxes""]: Café Console",Коробка с предметами для украшения дома[|ки|]: консоль для кафе,Коробка с предметами для украшения дома: консоль для кафе
+PR #2,ui/ui_078.csv,434,"Homestead Recipe Book[s]: Super Adventure Box, Volume 5","Книга рецептов для дома[|а|ов]: Супер-приключенческий сундук, том 5","Книга рецептов для дома: Супер-приключенческий сундук, том 5"
+PR #2,ui/ui_079.csv,78,"Hound of Balthazar Loot Box[pl:""Boxes""]",Ящик с добычей пса Бальтазара[|а|ов],Ящик с добычей пса Бальтазара
+PR #2,ui/ui_082.csv,237,"Indigo Drakefish[pl:""Drakefish""]",Индиговая дракорыба[|ы|],Индиговая дракорыба
+PR #2,ui/ui_082.csv,291,Infinirarium Deck[s],Колода Инфинитариума[|ум|а|ов],Колода Инфинитариума
+PR #2,ui/ui_082.csv,441,Inner Nayos: Commander's Choice Chest[s],Внутренний Найос: Сундук командира[|а|ов],Внутренний Найос: Сундук командира
+PR #2,ui/ui_082.csv,449,"Inquest Assassin Loot Box[pl:""Boxes""]",Ящик с добычей убийцы Инквеста[|и|ей],Ящик с добычей убийцы Инквеста
+PR #2,ui/ui_082.csv,482,"Inquest Golemcaster Loot Box[pl:""Boxes""]",Ящик с добычей от големотворца Инквизиции[|щики|щиков],Ящик с добычей от големотворца Инквизиции
+PR #2,ui/ui_082.csv,489,"Inquest Heavy Armor Box[pl:""Boxes""]",Коробка тяжёлой брони Инквеста[|ы|ов],Коробка тяжёлой брони Инквеста
+PR #2,ui/ui_082.csv,499,"Inquest Loot Box[pl:""Boxes""]",Ящик с добычей Инквизиции[|ящик|ящики|ящиков],Ящик с добычей Инквизиции
+PR #2,ui/ui_083.csv,31,"Inquest Pilot Loot Box[pl:""Boxes""]",Ящик с добычей пилота Инквеста[|и|ей],Ящик с добычей пилота Инквеста
+PR #2,ui/ui_083.csv,51,"Inquest Technician Loot Box[pl:""Boxes""]",Ящик с добычей техника Инквеста[|ы|ов],Ящик с добычей техника Инквеста
+PR #2,ui/ui_083.csv,66,"Insect Loot Box[pl:""Boxes""]",Ящик с насекомыми[|а|ов],Ящик с насекомыми
+PR #2,ui/ui_083.csv,133,"Integrated Fractal Matrix[pl:""Matrices""]",Интегрированная фрактальная матрица[|ы|],Интегрированная фрактальная матрица
+PR #2,ui/ui_083.csv,380,"Iron Legion Claw Box[pl:""Boxes""]",Железный коготь легиона[|и|я],Железный коготь легиона
+PR #2,ui/ui_083.csv,383,"Iron Legion Crafting Box[pl:""Boxes""]",Ящик Железного Легиона[|и|а],Ящик Железного Легиона
+PR #2,ui/ui_083.csv,395,"Iron Legion Onyx Materials Box[pl:""Boxes""]",Ящик материалов оникса Легиона Железа[|а|ы],Ящик материалов оникса Легиона Железа
+PR #2,ui/ui_083.csv,396,"Iron Legion Ore Box[pl:""Boxes""]",Ящик руды Легиона Железа[|а|ов],Ящик руды Легиона Железа
+PR #2,ui/ui_083.csv,398,"Iron Legion Reward Box[pl:""Boxes""]",Ящик награды Легиона Железа[|а|ов],Ящик награды Легиона Железа
+PR #2,ui/ui_083.csv,461,"Iron Stairs[pl:""Stairs""] (120 x 60)",Железные лестницы[|а|ы] (120 x 60),Железные лестницы (120 x 60)
+PR #2,ui/ui_085.csv,233,"Jungle Dragon Finisher Box[pl:""Boxes""]",Коробка[|и|бок] завершающего удара джунглевого дракона,Коробка завершающего удара джунглевого дракона
+PR #2,ui/ui_085.csv,417,Kaiser Snake Sword Skin[s],Кинжал императорской змеи[|а|ы|ок],Кинжал императорской змеи
+PR #2,ui/ui_085.csv,421,"Kale Seed Pouch[pl:""Pouches""]",Мешочек с семенами капусты[|а|и|ов],Мешочек с семенами капусты
+PR #2,ui/ui_085.csv,458,"Karmic Retribution[pl:""Retributions""]",Кармическое возмездие[|я|дия|дий],Кармическое возмездие
+PR #2,ui/ui_086.csv,56,Kela's Magnificent Coffer[s],Великолепный ларец Келы[|рца|рцы|рцов],Великолепный ларец Келы
+PR #2,ui/ui_086.csv,295,"King Toad Loot Box[pl:""Boxes""]",Коробка с добычей короля-лягушки[|и|ок],Коробка с добычей короля-лягушки
+PR #2,ui/ui_086.csv,436,"Koda Heavy Armor Box[pl:""Boxes""]",Ящик тяжёлой брони Кода[|и|я],Ящик тяжёлой брони Кода
+PR #2,ui/ui_086.csv,437,"Koda Light Armor Box[pl:""Boxes""]",Коробка лёгкой брони Коды[|коробки|коробок],Коробка лёгкой брони Коды
+PR #2,ui/ui_086.csv,438,"Koda Medium Armor Box[pl:""Boxes""]",Коробка средних доспехов Коды[|и|ок],Коробка средних доспехов Коды
+PR #2,ui/ui_086.csv,440,"Koda's Blossom Seed Pouch[pl:""Pouches""]",Мешочек с семенами цветка Коды[|а|ы],Мешочек с семенами цветка Коды
+PR #2,ui/ui_086.csv,448,"Kodan Bone Bookshelf[pl:""Bookshelves""]",Книжный шкаф из кости кодана[|а|ы],Книжный шкаф из кости кодана
+PR #2,ui/ui_086.csv,491,"Kodan Ivory Couch[pl:""Couches""]",Диван из слоновой кости Кодана[|а|ы],Диван из слоновой кости Кодана
+PR #2,ui/ui_087.csv,34,"Kodan Vanity[pl:""Vanities""]",Коданский предмет роскоши[|ый|ые|ых],Коданский предмет роскоши
+PR #2,ui/ui_087.csv,124,"Kormir Prayer Books[pl:""Books""]",Кормирская молитвенная книга[|и|ей],Кормирская молитвенная книга
+PR #2,ui/ui_087.csv,165,"Kralkatorrik Minion Loot Box[pl:""Boxes""]",Коробка с добычей слуг Кралькаторрика[|и|ов],Коробка с добычей слуг Кралькаторрика
+PR #2,ui/ui_087.csv,208,"Kryptis Loot Box[pl:""Boxes""]",Криптисская шкатулка[|ка|ки|ок],Криптисская шкатулка
+PR #2,ui/ui_087.csv,240,"Krytan Crawfish[pl:""Crawfish""]",Крытанский рак[|и|ки],Крытанский рак
+PR #2,ui/ui_087.csv,261,"Krytan Simple Bench[pl:""Benches""]",Крытанская простая скамья[|и|ьи],Крытанская простая скамья
+PR #2,ui/ui_087.csv,266,"Krytan Spiderwort Seed Pouch[pl:""Pouches""]",Крытанская сумка для семян паучей травы[|ы|ов],Крытанская сумка для семян паучей травы
+PR #2,ui/ui_088.csv,299,"Leek Seed Pouch[pl:""Pouches""]",Сумочка с семенами лука[|и|ок],Сумочка с семенами лука
+PR #2,ui/ui_088.csv,352,"Legendary Captain DeLana Loot Box[pl:""Boxes""]",Легендарный ящик капитана Деланы[|я|щики],Легендарный ящик капитана Деланы
+PR #2,ui/ui_088.csv,376,"Legendary Elder Dragon Zhaitan Loot Box[pl:""Boxes""]",Легендарный ящик Старшего дракона Зайтана[/|а|ов],Легендарный ящик Старшего дракона Зайтана/
+PR #2,ui/ui_088.csv,380,"Legendary Gaheron Baelfire Loot Box[pl:""Boxes""]",Легендарный ящик Гахерона Бейлфайра[|и|а],Легендарный ящик Гахерона Бейлфайра
+PR #2,ui/ui_088.csv,486,"Lemongrass Seed Pouch[pl:""Pouches""]",Сумочка для семян лимонной травы[|и|ей],Сумочка для семян лимонной травы
+PR #2,ui/ui_088.csv,491,"Lentil Seed Pouch[pl:""Pouches""]",Сумочка с семенами чечевицы[|и|ок],Сумочка с семенами чечевицы
+PR #2,ui/ui_089.csv,26,"Lessons[pl:""Lessons""] in Arbology",Уроки[|а|ов] в арбологии,Уроки в арбологии
+PR #2,ui/ui_089.csv,256,"Leystone Armor Box[pl:""Boxes""]",Ящик доспехов из лейстоуна[|а|ов],Ящик доспехов из лейстоуна
+PR #2,ui/ui_089.csv,257,"Leystone Boot Box[pl:""Boxes""]",Коробка с сапогами из лейстоуна[|и|ок],Коробка с сапогами из лейстоуна
+PR #2,ui/ui_089.csv,402,"Lightbinder Blades Wings[pl:""Wings""]",Крылья клиньев Светоплетения[|а|ов],Крылья клиньев Светоплетения
+PR #2,ui/ui_090.csv,266,"Loaf[pl:""Loaves""] of Candy Cactus Cornbread",Буханка[|и|ки] кукурузного хлеба из конфетных кактусов,Буханка кукурузного хлеба из конфетных кактусов
+PR #2,ui/ui_090.csv,440,"Longevity Noodles[pl:""Noodles""]",Лапша для долголетия[|и|ей],Лапша для долголетия
+PR #2,ui/ui_091.csv,273,"Lowland Shore Strongbox[pl:""Strongboxes""]",Низменный берег[|говой сундук|говых сундуков|говых сундуков],Низменный берег
+PR #2,ui/ui_091.csv,304,Luminate's Cache[s],Ларцы Лумината[|а|ов],Ларцы Лумината
+PR #2,ui/ui_091.csv,369,"Lunar Astrolabe Selection Box[pl:""Boxes""]","Лунный астролябий, коробка[|ки|]","Лунный астролябий, коробка"
+PR #2,ui/ui_091.csv,380,"Lunar Gift Box[pl:""Boxes""]",Лунный подарок[|ок|ка|ков],Лунный подарок
+PR #2,ui/ui_091.csv,397,"Lunatic Coat Box[pl:""Boxes""]",Шкатулка с безумным пальто[|ы|ов],Шкатулка с безумным пальто
+PR #2,ui/ui_091.csv,408,"Lunatic Shoulder Box[pl:""Boxes""]",Ящик с плечом безумца[|и|а],Ящик с плечом безумца
+PR #2,ui/ui_092.csv,8,"Mackerel[pl:""Mackerel""]",Скумбрия[|и|ей],Скумбрия
+PR #2,ui/ui_092.csv,254,"Maguuma Jack[pl:""Jacks""]",Магума-джак[|и|ки],Магума-джак
+PR #2,ui/ui_092.csv,265,Maguuma Jungle Fishing License[s],Лицензия на рыбалку в джунглях Магумы[|и|ий|ий],Лицензия на рыбалку в джунглях Магумы
+PR #2,ui/ui_092.csv,267,Maguuma Jungle Waypoint Unlock[s],Разблокировка путевой точки в джунглях Магумы[|а|ов],Разблокировка путевой точки в джунглях Магумы
+PR #2,ui/ui_092.csv,270,"Maguuma Lily[pl:""Lilies""]",Магумская лилия[|ии|ии],Магумская лилия
+PR #2,ui/ui_092.csv,279,Maguuma Scepter Skin[s],Скипетр Магуумы[| |],Скипетр Магуумы
+PR #2,ui/ui_092.csv,294,"Maguuma Weapon Box[pl:""Boxes""]",Ящик с оружием Магумы[|я|и|и],Ящик с оружием Магумы
+PR #2,ui/ui_093.csv,46,Malign Embroidered Jute Insignia[s],Зловещий вышитый знак из джута[|а|ов],Зловещий вышитый знак из джута
+PR #2,ui/ui_093.csv,235,"Mashed Purple Potatoes[pl:""Potatoes""]",Пюре из фиолетогого картофеля[|а|ов],Пюре из фиолетогого картофеля
+PR #2,ui/ui_093.csv,418,"Masticated Tasty Dried Hoof[pl:""Hooves""]",Жеваный вкусный сушёный копыто[|о|а]в | Жеваное вкусное сушёное копытц[е|а|ов],Жеваный вкусный сушёный копытов | Жеваное вкусное сушёное копытц[е|а|ов]
+PR #2,ui/ui_093.csv,419,"Masticated Tasty Dried Shark[pl:""Shark""]",Измельченная вкусная сушеная акула[|а|и|ы],Измельченная вкусная сушеная акула
+PR #2,ui/ui_094.csv,113,Medium Donation Receipt[s] (Value: 25),Квитанция о средней сумме пожертвования[|ий|я] (стоимость: 25),Квитанция о средней сумме пожертвования (стоимость: 25)
+PR #2,ui/ui_094.csv,356,"Menzies's Agony[pl:""Agonies""]",Мучения Мензиса[|ия|ий],Мучения Мензиса
+PR #2,ui/ui_094.csv,393,"Merciless Weapon Box[pl:""Boxes""]",Ящик беспощадного оружия[|а|и|ия],Ящик беспощадного оружия
+PR #2,ui/ui_095.csv,145,"Mini Angry Snowman[pl:""Snowmen""]",Маленький злой снеговик[и|ки|ков],Маленький злой снеговики
+PR #2,ui/ui_095.csv,186,Mini Black Griffon Hatchling[s],миниатюрный чёрный грифончик[и|ки|ка],миниатюрный чёрный грифончики
+PR #2,ui/ui_095.csv,349,"Mini Fire Tornado[pl:""Tornadoes""]",Миниатюрный огненный торнадо[|ды|а],Миниатюрный огненный торнадо
+PR #2,ui/ui_095.csv,372,"Mini Ghoul Legs[pl:""Legs""]",Мини-ноги гуля[|и|],Мини-ноги гуля
+PR #2,ui/ui_095.csv,448,"Mini Janthiri Floppy Fish[pl:""Fish""]",Мини-янтхири плавающая рыба[|ы|ы],Мини-янтхири плавающая рыба
+PR #2,ui/ui_095.csv,462,"Mini Krait Witch[pl:""Witches""]",Маленькая крайтийская ведьма[|ы|и],Маленькая крайтийская ведьма
+PR #2,ui/ui_096.csv,12,"Mini Lucky Lantern Puppy[pl:""Puppies""]",Маленький счастливый щенок-фонарик[|и|ки|ков],Маленький счастливый щенок-фонарик
+PR #2,ui/ui_096.csv,57,"Mini Oni[pl:""Oni""]",Мини-они[|и|],Мини-они
+PR #2,ui/ui_096.csv,85,"Mini Plush Fox[pl:""Foxes""]",Миниатюрная плюшевая лиса[|и|ы],Миниатюрная плюшевая лиса
+PR #2,ui/ui_096.csv,105,Mini Red Griffon Hatchling[s],миниатюрный красный грифончик[и|ки|ка],миниатюрный красный грифончики
+PR #2,ui/ui_096.csv,223,"Mini Tanuki[pl:""Tanuki""]",Маленький тануки[|и|],Маленький тануки
+PR #2,ui/ui_096.csv,295,"Mini Zaishen Puppy[pl:""Puppies""]",Щенок мини-зайшена[|ки|ков],Щенок мини-зайшена
+PR #2,ui/ui_096.csv,300,"Mini[pl:""Miniatures of""] Adolescent Aurene",Миниатюра[|ы|] юной Аурены,Миниатюра юной Аурены
+PR #2,ui/ui_096.csv,301,"Mini[pl:""Miniatures of""] Almorra Soulkeeper",Миниатюра[|ы|] хранительницы души Альморры,Миниатюра хранительницы души Альморры
+PR #2,ui/ui_096.csv,303,"Mini[pl:""Miniatures of""] Bangar Ruinbringer",Миниатюра[|ы|Болванчиков Бангара Разорителя Руин],Миниатюра
+PR #2,ui/ui_096.csv,316,"Mini[pl:""Miniatures of""] Lone Wolf Braham",Миниатюра[|ы|] одинокого волка Брейхам,Миниатюра одинокого волка Брейхам
+PR #2,ui/ui_096.csv,341,"Mini[pl:""Minis of""] Cerus",Мини[|цера|цы|цев] Церуса,Мини Церуса
+PR #2,ui/ui_096.csv,350,"Mini[pl:""Minis of""] Corrupted Trahearne",Мини[|й|е|их] Коррумпированный Траирен,Мини Коррумпированный Траирен
+PR #2,ui/ui_096.csv,351,"Mini[pl:""Minis of""] Dagda",Мини[|й|е|их] Дагды,Мини Дагды
+PR #2,ui/ui_096.csv,365,"Mini[pl:""Minis of""] Freezie",Мини[|я|и|и] Фризи,Мини Фризи
+PR #2,ui/ui_096.csv,372,"Mini[pl:""Minis of""] Ghost Snaff",Мини[|й|е|их] призрачный снафф,Мини призрачный снафф
+PR #2,ui/ui_096.csv,376,"Mini[pl:""Minis of""] Goedulf",Мини[|й|е|их] Гёдульф,Мини Гёдульф
+PR #2,ui/ui_096.csv,381,"Mini[pl:""Minis of""] Halloween Gourdon",Мини-фигурка[|а|ов] Гудона из Хэллоуина,Мини-фигурка Гудона из Хэллоуина
+PR #2,ui/ui_096.csv,394,"Mini[pl:""Minis of""] Kappa",Мини[|а|и] Каппа,Мини Каппа
+PR #2,ui/ui_096.csv,395,"Mini[pl:""Minis of""] Kela",Мини[|Келы|Келы|Келы],Мини
+PR #2,ui/ui_096.csv,397,"Mini[pl:""Minis of""] Kenut",Мини[|й|я|е]: Кенут,Мини: Кенут
+PR #2,ui/ui_096.csv,406,"Mini[pl:""Minis of""] Madam Cookie",Мини-фигурка[|мастерская|мастерских] мадам Кукы,Мини-фигурка мадам Кукы
+PR #2,ui/ui_096.csv,409,"Mini[pl:""Minis of""] Mister Mittens",Мини[|ы|ов] мистера Миттенса,Мини мистера Миттенса
+PR #2,ui/ui_096.csv,417,"Mini[pl:""Minis of""] Olmakhan Rox",Мини[|ока|ока] Оламахана Рокс,Мини Оламахана Рокс
+PR #2,ui/ui_096.csv,420,"Mini[pl:""Minis of""] Peitha",Мини[|й|я|е] Пейта,Мини Пейта
+PR #2,ui/ui_096.csv,424,"Mini[pl:""Minis of""] Prisca",Мини[|й|я|ей] Приски из мини-фигурок,Мини Приски из мини-фигурок
+PR #2,ui/ui_096.csv,429,"Mini[pl:""Minis of""] Qadim the Peerless",Мини[|й|е|х] Мини из Кадима Безупречного,Мини Мини из Кадима Безупречного
+PR #2,ui/ui_096.csv,430,"Mini[pl:""Minis of""] Queen Jennah",Мини[|й|е|х] королевы Дженны,Мини королевы Дженны
+PR #2,ui/ui_096.csv,431,"Mini[pl:""Minis of""] R'tchikk",Мини[|ы|ов] Р'тчикк,Мини Р'тчикк
+PR #2,ui/ui_096.csv,441,"Mini[pl:""Minis of""] Sebb",Мини[|я|и] Себба,Мини Себба
+PR #2,ui/ui_096.csv,442,"Mini[pl:""Minis of""] Sentient Conduit",Мини[|ы|ов] разумного проводника,Мини разумного проводника
+PR #2,ui/ui_096.csv,444,"Mini[pl:""Minis of""] Skritta Claws",Мини[|е|и] Когти Скригги,Мини Когти Скригги
+PR #2,ui/ui_096.csv,445,"Mini[pl:""Minis of""] Snuggles",Мини-фигурка[|шки|шек] Снугглз,Мини-фигурка Снугглз
+PR #2,ui/ui_096.csv,446,"Mini[pl:""Minis of""] Sophia",Мини[|й|е|х] Софии,Мини Софии
+PR #2,ui/ui_096.csv,447,"Mini[pl:""Minis of""] Southsun Faren",Мини[|фигурка|фигурки|фигурок] Фарена из Южного Солнца,Мини Фарена из Южного Солнца
+PR #2,ui/ui_096.csv,453,"Mini[pl:""Minis of""] Thailog the Gargoyle",Мини[|й|е|их] из «Тайлог-горгулья»,Мини из «Тайлог-горгулья»
+PR #2,ui/ui_096.csv,454,"Mini[pl:""Minis of""] Tixx",Мини[|й|я|е] Тикса,Мини Тикса
+PR #2,ui/ui_096.csv,458,"Mini[pl:""Minis of""] Uenno",Мини[|й|е|х] Уэнно,Мини Уэнно
+PR #2,ui/ui_096.csv,459,"Mini[pl:""Minis of""] Varinia Stormsounder",Мини[|й|е|их] Вариния Штормозвучающая,Мини Вариния Штормозвучающая
+PR #2,ui/ui_096.csv,465,"Mini[pl:""Minis of""] Wrathbringer",Мини[|й|е|х] Гнева Злобного,Мини Гнева Злобного
+PR #2,ui/ui_096.csv,467,"Mini[pl:""Minis of""] Yaotl the Fierce",Мини[|й|я|е] Яотла Свирепого,Мини Яотла Свирепого
+PR #2,ui/ui_096.csv,468,"Mini[pl:""Minis of""] Zafirah",Мини[|й|я|ев] Зифарах,Мини Зифарах
+PR #2,ui/ui_096.csv,469,"Mini[pl:""Minis of""] Zizel",Мини[|й|я|е] Зизель,Мини Зизель
+PR #2,ui/ui_096.csv,470,"Mini[pl:""Minis of""] Zommoros",Мини[|й|е|х] Зоммороса,Мини Зоммороса
+PR #2,ui/ui_097.csv,310,"Mist Shard Boot Box[pl:""Boxes""]",Ящик с осколком тумана[|и|а],Ящик с осколком тумана
+PR #2,ui/ui_097.csv,344,"Mist-Hardened Lockbox[pl:""Lockboxes""]",Ларь[|ь|и] из тумана,Ларь из тумана
+PR #2,ui/ui_098.csv,4,Mithril Torch Head[s],Мифриловая головка для факела[|ы|и],Мифриловая головка для факела
+PR #2,ui/ui_098.csv,396,"Mordrem Seed Pouch[pl:""Pouches""]",Мешочек с семенем мордрема[|а|ов],Мешочек с семенем мордрема
+PR #2,ui/ui_098.csv,407,Mordrem Teragriff Bladder[s],Пузырь мордрем-терагрифа[|я|и|ей],Пузырь мордрем-терагрифа
+PR #2,ui/ui_100.csv,43,Nadijeh's Marshal Inscription[s],"Надидже, надпись маршала[|а|ов]","Надидже, надпись маршала"
+PR #2,ui/ui_100.csv,44,Nadijeh's Marshal Insignia[s],Надидже[|х|ей] маршальская эмблема,Надидже маршальская эмблема
+PR #2,ui/ui_100.csv,301,New Kaineng City: Commander's Choice Chest[s],Новый Кайненг: Сундук командира[|а|ов],Новый Кайненг: Сундук командира
+PR #2,ui/ui_100.csv,315,"New Kaineng Strongbox[pl:""Strongboxes""]",Новый сундук Кайнэнга[|и|а],Новый сундук Кайнэнга
+PR #2,ui/ui_100.csv,456,"Nightmare Court Archer Loot Box[pl:""Boxes""]",Ящик с добычей из Ночного суда[|и|а],Ящик с добычей из Ночного суда
+PR #2,ui/ui_100.csv,459,"Nightmare Court Cultist Loot Box[pl:""Boxes""]",Ящик культа Ночного суда[|а|ов],Ящик культа Ночного суда
+PR #2,ui/ui_100.csv,482,"Nightmare Fish Loot Box[pl:""Boxes""]",Ящик с добычей от кошмарной рыбы[|а|ов],Ящик с добычей от кошмарной рыбы
+PR #2,ui/ui_100.csv,486,"Nightmare Husk Loot Box[pl:""Boxes""]",Ящик с добычей из кошмарной оболочки[|и|ки|ок],Ящик с добычей из кошмарной оболочки
+PR #2,ui/ui_101.csv,8,"Nightmare Vine Worm Loot Box[pl:""Boxes""]",Ящик с добычей из кошмарного виноградного червя[|и|я],Ящик с добычей из кошмарного виноградного червя
+PR #2,ui/ui_101.csv,10,"Nightmare's Heavy Armor Box[pl:""Boxes""]",Ящик тяжёлой брони из кошмара[|и|а],Ящик тяжёлой брони из кошмара
+PR #2,ui/ui_101.csv,11,"Nightmare's Light Armor Box[pl:""Boxes""]",Коробка ночного света для лёгкой брони[|коробки|коробок],Коробка ночного света для лёгкой брони
+PR #2,ui/ui_101.csv,12,"Nightmare's Medium Armor Box[pl:""Boxes""]",Ящик со средней броней из кошмара[|ики|ов],Ящик со средней броней из кошмара
+PR #2,ui/ui_101.csv,121,"Noble's Folly Pass[pl:""Passes""] (2 weeks)",Перевал Благородной Ошибки[|а|и|] (2 недели),Перевал Благородной Ошибки (2 недели)
+PR #2,ui/ui_101.csv,122,"Nobleman's Heavy Armor Box[pl:""Boxes""]",Ящик тяжелой брони дворянина[|а|ов],Ящик тяжелой брони дворянина
+PR #2,ui/ui_101.csv,123,"Nobleman's Light Armor Box[pl:""Boxes""]",Коробка благородной лёгкой брони[|ы|],Коробка благородной лёгкой брони
+PR #2,ui/ui_101.csv,124,"Nobleman's Medium Armor Box[pl:""Boxes""]",Шкатулка благородного среднего доспеха[|и|ей],Шкатулка благородного среднего доспеха
+PR #2,ui/ui_101.csv,200,"Norn Tier 1 Heavy Armor Box[pl:""Boxes""]",Коробка тяжёлой брони норнов I уровня[|ы|ов],Коробка тяжёлой брони норнов I уровня
+PR #2,ui/ui_101.csv,201,"Norn Tier 1 Light Armor Box[pl:""Boxes""]",Коробка лёгкой брони норнов I уровня[|ы|ов],Коробка лёгкой брони норнов I уровня
+PR #2,ui/ui_101.csv,203,"Norn Tier 2 Heavy Armor Box[pl:""Boxes""]",Ящик тяжелой брони норнов второго уровня[|а|ы],Ящик тяжелой брони норнов второго уровня
+PR #2,ui/ui_101.csv,205,"Norn Tier 2 Medium Armor Box[pl:""Boxes""]",Коробка средней брони норов второго уровня[|ы|ов],Коробка средней брони норов второго уровня
+PR #2,ui/ui_101.csv,206,"Norn Tier 3 Heavy Armor Box[pl:""Boxes""]",Ящик тяжёлой брони норнов третьего тира[|а|ов],Ящик тяжёлой брони норнов третьего тира
+PR #2,ui/ui_101.csv,207,"Norn Tier 3 Light Armor Box[pl:""Boxes""]",Коробка лёгкой брони норов 3-го уровня[|ы|ов],Коробка лёгкой брони норов 3-го уровня
+PR #2,ui/ui_101.csv,246,"Northern Pike[pl:""Pike""]",Щука[|и|],Щука
+PR #2,ui/ui_101.csv,431,"Noxious Seed Pouch[pl:""Pouches""]",Ядовитый мешок с семенами[|а|ов],Ядовитый мешок с семенами
+PR #2,ui/ui_102.csv,34,"Oarfish[pl:""Oarfish""]",Острица[|ы|],Острица
+PR #2,ui/ui_103.csv,222,"Oiled Orichalcum Gauntlet Plates[pl:""Plates""]",Позолоченные пластины из орихалкового нарукавника[|а|ы|],Позолоченные пластины из орихалкового нарукавника
+PR #2,ui/ui_103.csv,344,"Olmakhan Mantle Box[pl:""Boxes""]",Ящик Олмакхана[|и|а],Ящик Олмакхана
+PR #2,ui/ui_103.csv,347,"Olmakhan Supply Box[pl:""Boxes""]",Ящик снабжения Олмакхана[|а|ы],Ящик снабжения Олмакхана
+PR #2,ui/ui_103.csv,401,"Ominous Fortress Buttress[pl:""Buttresses""]",Зловещий форпост[|т|ы],Зловещий форпост
+PR #2,ui/ui_103.csv,403,"Ominous Fortress Ruins[pl:""Ruins""]—Right",Зловещие руины крепости[|Руины|Руин],Зловещие руины крепости
+PR #2,ui/ui_103.csv,418,"Omnomberry[pl:""Omnomberries""]",Омном ягода[|ы|],Омном ягода
+PR #2,ui/ui_104.csv,45,"Onion Seed Pouch[pl:""Pouches""]",Мешочек с семенами лука[|а|и|ов],Мешочек с семенами лука
+PR #2,ui/ui_104.csv,125,"Onyx Spider's Selection Box[pl:""Boxes""]",Ящик отбора чёрного паука[|а|ов],Ящик отбора чёрного паука
+PR #2,ui/ui_104.csv,139,"Ooze Loot Box[pl:""Boxes""]",Ящик с добычей из слизи[|я|и|и],Ящик с добычей из слизи
+PR #2,ui/ui_104.csv,165,"Open Arena[pl:""Arenas""]",Открытая арена[|ы|и],Открытая арена
+PR #2,ui/ui_104.csv,289,"Orangefish Sushi[pl:""Sushi""]",Суши из оранжевой рыбки[|и|],Суши из оранжевой рыбки
+PR #2,ui/ui_104.csv,399,"Oregano Seed Pouch[pl:""Pouches""]",Мешочек с семенами орегано[|о|а],Мешочек с семенами орегано
+PR #2,ui/ui_104.csv,402,"Organized Frostbitten Toolbox[pl:""Toolboxes""]",Организованный ящик с инструментами для работы в условиях сильного мороза[|а|ы|ов],Организованный ящик с инструментами для работы в условиях сильного мороза
+PR #2,ui/ui_104.csv,469,"Ornate Scribe's Tools[pl:""Tools""]",Искусный набор писца[|а|ов],Искусный набор писца
+PR #2,ui/ui_104.csv,474,"Orrian Anglerfish[pl:""Anglerfish""]",Орианская удильщиковая рыба[|удилищные рыбы|удильщиковых рыб],Орианская удильщиковая рыба
+PR #2,ui/ui_104.csv,492,"Orrian Heavy Armor Box[pl:""Boxes""]",Орионская коробка тяжёлой брони[|ы|],Орионская коробка тяжёлой брони
+PR #2,ui/ui_104.csv,494,"Orrian Light Armor Box[pl:""Boxes""]",Ящик лёгкой брони из Орриана[|и|а],Ящик лёгкой брони из Орриана
+PR #2,ui/ui_104.csv,497,"Orrian Medium Armor Box[pl:""Boxes""]",Ящик с доспехами средней тяжести из Орриана[|я|ки|ков],Ящик с доспехами средней тяжести из Орриана
+PR #2,ui/ui_105.csv,11,"Orrian Sea Urchin Roe[pl:""Roe""]",Икра оррийской морской ежи[ка|и|к],Икра оррийской морской ежика
+PR #2,ui/ui_105.csv,290,"Pact Fleet Weapon Box[pl:""Boxes""]",Ящик оружия флота Пакта[|а|ов],Ящик оружия флота Пакта
+PR #2,ui/ui_105.csv,322,"Pact Scout's Mapping Materials[pl:""Materials""]",Материалы для составления карт пакта[|а|ов],Материалы для составления карт пакта
+PR #2,ui/ui_105.csv,452,"Palawa's Personal Tapestry[pl:""Tapestries""]",Ковёр Палавы[|а|ов],Ковёр Палавы
+PR #2,ui/ui_105.csv,453,"Palawan Phylactery[pl:""Phylacteries""]",Филактерий Палавана[|и|ия],Филактерий Палавана
+PR #2,ui/ui_106.csv,57,"Parsley Seed Pouch[pl:""Pouches""]",Сумочка с семенами петрушки[|и|ок],Сумочка с семенами петрушки
+PR #2,ui/ui_106.csv,62,"Partial Academic Arch[pl:""Arches""]",Частичная академическая арка[|ки|ки],Частичная академическая арка
+PR #2,ui/ui_106.csv,64,"Partially Chewed Box[pl:""Boxes""]",Частично обглоданная коробка[|ки|ки],Частично обглоданная коробка
+PR #2,ui/ui_106.csv,118,"Passion Fruit Seed Pouch[pl:""Pouches""]",Сумочка для семян маракуйи[|ы|],Сумочка для семян маракуйи
+PR #2,ui/ui_106.csv,167,Path of Fire Waypoint Unlock[s],Разблокировка контрольной точки Пути огня[|и|ей],Разблокировка контрольной точки Пути огня
+PR #2,ui/ui_106.csv,206,"Peaceful Rainbows Homestead Sky[pl:""Skies""]",Мирное Радужное Небо[|а|я],Мирное Радужное Небо
+PR #2,ui/ui_106.csv,245,"Pearlshell Selection Box[pl:""Boxes""]",Жемчужная ракушка[|и|],Жемчужная ракушка
+PR #2,ui/ui_107.csv,115,"Phoenix Weapon Box[pl:""Boxes""]",Фениксовый ящик для оружия[|я|ов],Фениксовый ящик для оружия
+PR #2,ui/ui_107.csv,177,"Piece[pl:""Pieces""] of Skyscale Food",Кусок[|ки|ков] еды для скайскала,Кусок еды для скайскала
+PR #2,ui/ui_107.csv,295,"Pilfered Exalted Remnants[pl:""Remnants""]",Украденные остатки элиты[|а|ов],Украденные остатки элиты
+PR #2,ui/ui_109.csv,399,"Potato Eyes Pouch[pl:""Pouches""]",Мешочек с картофельными глазками[|ки|ков],Мешочек с картофельными глазками
+PR #2,ui/ui_109.csv,487,"Potted Maguuma Lily[pl:""Lilies""] (Double Bloom)",Горшечное магумское лилие[|я|и] (двойное цветение),Горшечное магумское лилие (двойное цветение)
+PR #2,ui/ui_110.csv,63,"Power Matrix[pl:""Matrices""]",Матрица[|а|ы] силы,Матрица силы
+PR #2,ui/ui_110.csv,146,"Practical Scribe's Tools[pl:""Tools""]",Практичный набор писца[|я|и],Практичный набор писца
+PR #2,ui/ui_110.csv,352,"Prickleberry[pl:""Prickleberries""]",Колючая ягода[|ы|],Колючая ягода
+PR #2,ui/ui_110.csv,365,"Priest of Balthazar Loot Box[pl:""Boxes""]",Ящик жреца Балтазара[|а|ы],Ящик жреца Балтазара
+PR #2,ui/ui_110.csv,414,"Primordus Minion Loot Box[pl:""Boxes""]",Коробка с добычей прислуги Примордуса[|ы|ов],Коробка с добычей прислуги Примордуса
+PR #2,ui/ui_114.csv,51,Rampart Heavy Gauntlet Skin[s],Наруч Рампарта[|и|ов],Наруч Рампарта
+PR #2,ui/ui_114.csv,52,Rampart Heavy Legplate Skin[s],Наполубенник тяжёлой защиты[|а|ов],Наполубенник тяжёлой защиты
+PR #2,ui/ui_114.csv,54,Rampart Heavy Warboot Skin[s],"Рампарт, тяжёлые военные сапоги[|а|ов]","Рампарт, тяжёлые военные сапоги"
+PR #2,ui/ui_114.csv,121,"Ranked Arena[pl:""Arenas""]",Рейтинговая арена[|ы|и],Рейтинговая арена
+PR #2,ui/ui_114.csv,191,"Raspberry Seed Pouch[pl:""Pouches""]",Сумочка с семенами малины[|и|ей],Сумочка с семенами малины
+PR #2,ui/ui_114.csv,341,"Raw Fish[pl:""Fish""]",Рыба[|ры|ры],Рыба
+PR #2,ui/ui_121.csv,449,"Recovered Black Lion Goods[pl:""Goods""]",Восстановленные предметы Чёрного Льва[|предмет|предмета|предметов],Восстановленные предметы Чёрного Льва
+PR #2,ui/ui_121.csv,459,"Recovered Tool Box[pl:""Boxes""]",Ящик с инструментами[|а|ы],Ящик с инструментами
+PR #2,ui/ui_122.csv,93,"Red-Eyed Piranha[pl:""Piranhas""]",Красная пиранья[|ьи|ьи],Красная пиранья
+PR #2,ui/ui_122.csv,183,"Refined Homestead Wood[pl:""Wood""]",Изысканная древесина для дома[|а|],Изысканная древесина для дома
+PR #2,ui/ui_122.csv,297,"Reindeer Saddle Polish[pl:""Polishes""]",Полироль для седла оленя[|а|ов],Полироль для седла оленя
+PR #2,ui/ui_123.csv,190,"Replica Oni Arms[pl:""Arms""]",Рукоять Онии[|и|й],Рукоять Онии
+PR #2,ui/ui_124.csv,287,"Revered Shrine Guardian Ears[pl:""Ears""]",Уши почитаемого хранителя святыни[|я|и],Уши почитаемого хранителя святыни
+PR #2,ui/ui_124.csv,449,"Rift Hunter Armor Box[pl:""Boxes""]",Ящик доспехов охотника на разломы[|а|ы],Ящик доспехов охотника на разломы
+PR #2,ui/ui_125.csv,36,"Risen Elementalist Loot Box[pl:""Boxes""]",Ларец с добычей от воскрешённого элементалиста[|а|ов],Ларец с добычей от воскрешённого элементалиста
+PR #2,ui/ui_125.csv,51,"Risen Mage Loot Box[pl:""Boxes""]",Ящик с добычей восставшего мага[|и|а],Ящик с добычей восставшего мага
+PR #2,ui/ui_125.csv,97,River Drake Broodmother Scale[s],Чешуя речной драконицы-матери[|и|ий|ий],Чешуя речной драконицы-матери
+PR #2,ui/ui_125.csv,107,"Riverlands Strongbox[pl:""Strongboxes""]",Речная шкатулка[|и|ки],Речная шкатулка
+PR #2,ui/ui_125.csv,149,Rock Drake Broodmother Scale[s],Чешуя каменного дракона-самки[|а|и|ок],Чешуя каменного дракона-самки
+PR #2,ui/ui_125.csv,246,"Rooster Statues[pl:""Statues""]",Статуя петуха[|и|ы],Статуя петуха
+PR #2,ui/ui_125.csv,259,"Rose Agony Lens[pl:""Lenses""] (Left)",Линза агонии из розы[|ы|](левая),Линза агонии из розы(левая)
+PR #2,ui/ui_125.csv,272,"Rosemary Seed Pouch[pl:""Pouches""]",Сумочка с семенами розмарина[|ы|],Сумочка с семенами розмарина
+PR #2,ui/ui_125.csv,342,"Royal Funerary Glove Box[pl:""Boxes""]",Королевская погребальная шкатулка[|ка|ки|ок],Королевская погребальная шкатулка
+PR #2,ui/ui_127.csv,495,"Sea Perch[pl:""Perch""]",Морской окунь[|ь|ни],Морской окунь
+PR #2,ui/ui_128.csv,120,"Searing Chain Gloves[pl:""Gloves""]",Жгучие цепные перчатки[|а|и],Жгучие цепные перчатки
+PR #2,ui/ui_128.csv,385,Seitung Province: Commander's Choice Chest[s],Провинция Сейтунг: Сундук командира[|а|ов],Провинция Сейтунг: Сундук командира
+PR #2,ui/ui_129.csv,60,Sentinel's Orichalcum Imbued Inscription[s],Скрипт из орихалкового рунического камня[|и|а],Скрипт из орихалкового рунического камня
+PR #2,ui/ui_129.csv,273,"Set of Wayfinder's Versatile Table Recipes[pl:""Recipes""]",Набор рецептов универсального стола Вайфайндера[|а|ов],Набор рецептов универсального стола Вайфайндера
+PR #2,ui/ui_130.csv,154,"Sheaf[pl:""Sheaves""] of Recipes: Dragon's Argument",Связка[|и|ей] рецептов: аргумент дракона,Связка рецептов: аргумент дракона
+PR #2,ui/ui_130.csv,191,"Shell Pouch[pl:""Pouches""]",Сумка для ракушек[|ка|ки|ок],Сумка для ракушек
+PR #2,ui/ui_130.csv,258,"Shimmering Aurora Homestead Sky[pl:""Skies""]",Сияющее северное небо для дома[|а|ев],Сияющее северное небо для дома
+PR #2,ui/ui_130.csv,283,"Shing Jea Orchid Seed Pouch[pl:""Pouches""]",Мешочек с семенами цветка Шин Джеа[|ы|ов],Мешочек с семенами цветка Шин Джеа
+PR #2,ui/ui_130.csv,368,"Shiverpeak Mountains Weapon Skins Box[pl:""Boxes""]",Ящик скинов оружия Гор Снежной Бороды[|а|ов],Ящик скинов оружия Гор Снежной Бороды
+PR #2,ui/ui_131.csv,152,"Shrine Guardian Ears[pl:""Ears""]",Уши святилища[|а|ов],Уши святилища
+PR #2,ui/ui_131.csv,365,"Silent Symphony[pl:""Symphonies""]",Тихая симфония[|ии|ий],Тихая симфония
+PR #2,ui/ui_131.csv,391,"Silver Cardinal Adina Trophy[pl:""Trophies""]",Серебряный кардинал Адина[|л|лы|лов],Серебряный кардинал Адина
+PR #2,ui/ui_131.csv,392,"Silver Cardinal Sabir Trophy[pl:""Trophies""]",Серебряный кардинальский трофей Сабира[|я|и|ей],Серебряный кардинальский трофей Сабира
+PR #2,ui/ui_131.csv,394,"Silver Conjured Amalgamate Trophy[pl:""Trophies""]",Серебряный трофей из сотворённого слитка[|и|ей],Серебряный трофей из сотворённого слитка
+PR #2,ui/ui_131.csv,404,"Silver Ether Djinn Trophy[pl:""Trophies""]",Серебряный трофей эфирного джинна[|и|я],Серебряный трофей эфирного джинна
+PR #2,ui/ui_131.csv,418,"Silver Qadim Trophy[pl:""Trophies""]",Серебряная статуэтка Кадима[|а|ы|],Серебряная статуэтка Кадима
+PR #2,ui/ui_131.csv,445,"Simple Scribe's Tools[pl:""Tools""]",Простые инструменты писца[|а|и],Простые инструменты писца
+PR #2,ui/ui_132.csv,53,"Skale Loot Box[pl:""Boxes""]",Ящик с добычей Скале[|я|и],Ящик с добычей Скале
+PR #2,ui/ui_132.csv,67,"Skelk Loot Box[pl:""Boxes""]",Ящик с добычей Скелка[|и|а],Ящик с добычей Скелка
+PR #2,ui/ui_132.csv,173,"Skipjack Tuna[pl:""Tuna""]",Скумбрия[|я|и|и],Скумбрия
+PR #2,ui/ui_132.csv,219,"Skritt Shinies Loot Box[pl:""Boxes""]",Ящик с блестящими шриттами[|а|ов],Ящик с блестящими шриттами
+PR #2,ui/ui_132.csv,375,"Skyscale Fever[pl:""Fever""]",Лихорадка Скайскейлера[|ы|],Лихорадка Скайскейлера
+PR #2,ui/ui_132.csv,376,"Skyscale Flight[pl:""Flight""]",Полёт на скайлейле[|а|е],Полёт на скайлейле
+PR #2,ui/ui_132.csv,413,"Skyscale Medicine[pl:""Medicine""]",Лекарство для скайскейла[|е|а],Лекарство для скайскейла
+PR #2,ui/ui_132.csv,457,"Skyscale Scales[pl:""Scales""]",Чешуя скайскала[|и|и],Чешуя скайскала
+PR #2,ui/ui_132.csv,476,"Skyscale Treats[pl:""Treats""]",Лакомство для скайскейла[|а|ов],Лакомство для скайскейла
+PR #2,ui/ui_132.csv,479,"Skyscale Weapon Box[pl:""Boxes""]",Ящик оружия Скайскейлера[|а|ов],Ящик оружия Скайскейлера
+PR #2,ui/ui_133.csv,128,"Slumbering Lightborne Weapon Box[pl:""Boxes""]",Сундук с оружием Спящего светорождённого[|а|ов],Сундук с оружием Спящего светорождённого
+PR #2,ui/ui_133.csv,383,"Snowflake Eel[pl:""Eels""]",снежная угри[|ь|и|и],снежная угри
+PR #2,ui/ui_133.csv,421,"Soaring Weapon Box[pl:""Boxes""]",Ящик парящего оружия[|а|ов],Ящик парящего оружия
+PR #2,ui/ui_134.csv,18,"Solo Arena[pl:""Arenas""]",Соло-арена[|ы|и],Соло-арена
+PR #2,ui/ui_134.csv,217,"Sorrow's Embrace Armor Box[pl:""Boxes""]",Сундук доспехов Скорби[|а|ов],Сундук доспехов Скорби
+PR #2,ui/ui_134.csv,342,"Southsun Remembrance Package[pl:""Packages""]",Пакет воспоминаний о Южном солнце[|ет|а|ов],Пакет воспоминаний о Южном солнце
+PR #2,ui/ui_135.csv,176,"Speaker Supplies[pl:""Supplies""]",Припасы докладчика[|а|ов],Припасы докладчика
+PR #2,ui/ui_135.csv,384,"Sphere Topiary[pl:""Topiaries""]",Сферическая топиарная скульптура[|и|ы],Сферическая топиарная скульптура
+PR #2,ui/ui_135.csv,463,"Spinach Seed Pouch[pl:""Pouches""]",Сумочка с семенами шпината[|и|ок],Сумочка с семенами шпината
+PR #2,ui/ui_136.csv,422,"Stairs[pl:""Stairs""] (Clockwise Corner)",Лестница[|ы|ицы] (поворот по часовой стрелке),Лестница (поворот по часовой стрелке)
+PR #2,ui/ui_136.csv,475,"Starry Flounder[pl:""Flounder""]",Звёздный камбала[|ы|],Звёздный камбала
+PR #2,ui/ui_136.csv,500,"Stash[pl:""Stashes""] of Crimson Skull Coins","Запасы[|ас|ы] монет ""Кровавый череп""","Запасы монет ""Кровавый череп"""
+PR #2,ui/ui_137.csv,108,"Stealthy Journeyman[pl:""Journeyman""]",Скрытный подмастерье[|и|я],Скрытный подмастерье
+PR #2,ui/ui_137.csv,214,"Steel Warband Weapon Box[pl:""Boxes""]",Ящик оружия Стального боевого братства[|а|ов],Ящик оружия Стального боевого братства
+PR #2,ui/ui_137.csv,306,"Stone Guiyu[pl:""Guiyus""]",Каменный гуйю[||],Каменный гуйю
+PR #2,ui/ui_137.csv,316,"Stone Summit Helm Box[pl:""Boxes""]",Коробка с шлемом каменной вершины[|и|ок],Коробка с шлемом каменной вершины
+PR #2,ui/ui_137.csv,317,"Stone Summit Loot Box[pl:""Boxes""]",Ящик с добычей из Каменного пика[|и|ки|ков],Ящик с добычей из Каменного пика
+PR #2,ui/ui_137.csv,318,"Stone Summit Shoulder Box[pl:""Boxes""]",Коробка плеча каменной вершины[|коробки|коробок],Коробка плеча каменной вершины
+PR #2,ui/ui_137.csv,330,"Stone-Growth Selection Box[pl:""Boxes""]",Ящик выбора роста камня[|а|ов],Ящик выбора роста камня
+PR #2,ui/ui_137.csv,342,Stonecleaver's Valkyrie Inscription[s],Руна валькирии Стонекливера[|а|ов],Руна валькирии Стонекливера
+PR #2,ui/ui_137.csv,428,"Storm Wizard Loot Box[pl:""Boxes""]",Ящик с добычей от штормового мага[|и|а],Ящик с добычей от штормового мага
+PR #2,ui/ui_138.csv,56,"Strawberry Seed Pouch[pl:""Pouches""]",Мешочек с семенами клубники[|и|а],Мешочек с семенами клубники
+PR #2,ui/ui_138.csv,64,"Strength Fish[pl:""Fish""]",Рыба силы[|и|],Рыба силы
+PR #2,ui/ui_138.csv,133,"Striped Barracuda[pl:""Barracuda""]",Баракуда[|ы|д],Баракуда
+PR #2,ui/ui_138.csv,134,"Striped Bass[pl:""Bass""]",Барабушка[|и|],Барабушка
+PR #2,ui/ui_138.csv,377,"Sugar Pumpkin Seed Pouch[pl:""Pouches""]",Мешочек с семенами сахарной тыквы[|а|ов],Мешочек с семенами сахарной тыквы
+PR #2,ui/ui_139.csv,203,"Sunspear Reliquary[pl:""Reliquaries""]",Реликварий Солнцекопья[|и|я],Реликварий Солнцекопья
+PR #2,ui/ui_139.csv,235,Super Angry Cloud[s],Суперзлое облако[|о|а],Суперзлое облако
+PR #2,ui/ui_139.csv,239,Super Bridge Plank[s],доска супер-моста[|а|ы|ок],доска супер-моста
+PR #2,ui/ui_139.csv,289,"Super Pagoda Arch[pl:""Arches""]",Супер Пагода Арка[|и|и],Супер Пагода Арка
+PR #2,ui/ui_140.csv,165,"Surveillance Data[pl:""Data""]",Данные наблюдения[|ые|ых],Данные наблюдения
+PR #2,ui/ui_140.csv,192,"Survivor's Enchanted Compass[pl:""Compasses""]",Волшебный компас выжившего[|ые|ых],Волшебный компас выжившего
+PR #2,ui/ui_140.csv,480,"Sylvari Tier 1 Heavy Armor Box[pl:""Boxes""]",Коробка тяжёлой брони силвари первого уровня[|ы|ов],Коробка тяжёлой брони силвари первого уровня
+PR #2,ui/ui_140.csv,481,"Sylvari Tier 1 Light Armor Box[pl:""Boxes""]",Коробка лёгкой брони первого уровня силвари[|ы|ов],Коробка лёгкой брони первого уровня силвари
+PR #2,ui/ui_140.csv,482,"Sylvari Tier 1 Medium Armor Box[pl:""Boxes""]",Ящик средней брони сильвари 1-го уровня[|и|я|ки],Ящик средней брони сильвари 1-го уровня
+PR #2,ui/ui_140.csv,483,"Sylvari Tier 2 Heavy Armor Box[pl:""Boxes""]",Коробка тяжёлой брони силвари второго уровня[|ы|ов],Коробка тяжёлой брони силвари второго уровня
+PR #2,ui/ui_140.csv,484,"Sylvari Tier 2 Light Armor Box[pl:""Boxes""]",Ящик легкой брони сильвари 2-го уровня[|я|и|и],Ящик легкой брони сильвари 2-го уровня
+PR #2,ui/ui_140.csv,485,"Sylvari Tier 2 Medium Armor Box[pl:""Boxes""]",Коробка[|средней брони сиралиров среднего уровня|],Коробка
+PR #2,ui/ui_140.csv,486,"Sylvari Tier 3 Heavy Armor Box[pl:""Boxes""]",Коробка тяжёлой брони силвари 3-го уровня[|ы|ов],Коробка тяжёлой брони силвари 3-го уровня
+PR #2,ui/ui_140.csv,487,"Sylvari Tier 3 Light Armor Box[pl:""Boxes""]",Коробка лёгкой брони третьего уровня силвари[|ы|ов],Коробка лёгкой брони третьего уровня силвари
+PR #2,ui/ui_141.csv,325,"Taker of Blood[pl:""Blood""]",Вор крови[|и|ей],Вор крови
+PR #2,ui/ui_142.csv,71,"Tarnished Coast Weapon Skins Box[pl:""Boxes""]",Ящик скинов оружия Осквернённого побережья[|а|ов],Ящик скинов оружия Осквернённого побережья
+PR #2,ui/ui_142.csv,82,"Tarragon Seed Pouch[pl:""Pouches""]",Сумочка для семян таргона[|и|ей],Сумочка для семян таргона
+PR #2,ui/ui_142.csv,166,"Tasty Chak Legs[pl:""Legs""]",Вкусные чак-ноги[|а|и|],Вкусные чак-ноги
+PR #2,ui/ui_142.csv,173,"Tasty Moss-Covered Bark[pl:""Bark""]",Вкусная покрытая мхом кора[|ы|],Вкусная покрытая мхом кора
+PR #2,ui/ui_142.csv,252,"Team Arena[pl:""Arenas""]",Командная арена[|ы|и],Командная арена
+PR #2,ui/ui_142.csv,371,"Tempest Weapon Box[pl:""Boxes""]",Ящик оружия бури[|а|ов] / Ящики оружия бури,Ящик оружия бури / Ящики оружия бури
+PR #2,ui/ui_142.csv,471,Terror Toppler's Treasure[s],Сокровище[|а|щ] Ужасного Разрушителя,Сокровище Ужасного Разрушителя
+PR #2,ui/ui_150.csv,242,"Thyme Seed Pouch[pl:""Pouches""]",Мешочек с семенами чабреца[|и|а],Мешочек с семенами чабреца
+PR #2,ui/ui_150.csv,496,"Timekeeper Weapon Box[pl:""Boxes""]",Ящик с оружием Хранителя времени[|щики|щиков],Ящик с оружием Хранителя времени
+PR #2,ui/ui_152.csv,102,Toxinshell Torch Skin[s],Оболочка ядовитого факела[|ы|ов],Оболочка ядовитого факела
+PR #2,ui/ui_153.csv,29,"Track[pl:""Copies of Track""] 6: The Beast Emerges",Трек[|к|ки]: Зверь пробуждается,Трек: Зверь пробуждается
+PR #2,ui/ui_153.csv,136,"Trail of Memory[pl:""Memories""]",След памяти[|а|ев],След памяти
+PR #2,ui/ui_154.csv,230,"Trophy[pl:""Trophies""] of the Champion Firebrand",Достижение[|а|ов] чемпиона-огненного знаменосца,Достижение чемпиона-огненного знаменосца
+PR #2,ui/ui_154.csv,252,"Tropical Shark Tooth[pl:""Teeth""]",Зуб тропической акулы[|а|и],Зуб тропической акулы
+PR #2,ui/ui_154.csv,364,"Turnip Seed Pouch[pl:""Pouches""]",Мешочек с семенами репы[|а|ов],Мешочек с семенами репы
+PR #2,ui/ui_154.csv,398,"Twilight Arbor Armor Box[pl:""Boxes""]",Коробка с доспехами Сумеречной Рощи[|и|и],Коробка с доспехами Сумеречной Рощи
+PR #2,ui/ui_154.csv,401,"Twilight Arbor Token Loot Box[pl:""Boxes""]",Ящик с добычей из Сумеречного Арбора[|и|а],Ящик с добычей из Сумеречного Арбора
+PR #2,ui/ui_154.csv,402,"Twilight Arbor Weapons Box[pl:""Boxes""]",Ящик с оружием из Сумеречной Рощи[|и|я],Ящик с оружием из Сумеречной Рощи
+PR #2,ui/ui_154.csv,439,"Twisted Watchwork[pl:""Twisted Watchworks""]",Искажённые часы[|а|ов],Искажённые часы
+PR #2,ui/ui_154.csv,464,"Two-Handed Skyscale Weapon Box[pl:""Boxes""]",Двухручное оружие скайскейла[|а|ов] / Коробка[|и|ок] → Двухручное оружие скайскейла: коробка для оружия [Большой ящик|Большие ящики|Больших ящиков],Двухручное оружие скайскейла / Коробка → Двухручное оружие скайскейла: коробка для оружия [Большой ящик|Большие ящики|Больших ящиков]
+PR #2,ui/ui_155.csv,143,"Undead Animal Loot Box[pl:""Boxes""]",Ящик с добычей из нежити[|и|я],Ящик с добычей из нежити
+PR #2,ui/ui_155.csv,157,"Undead Humanoid Loot Box[pl:""Boxes""]",Ящик с наградами за победу над нежитью[|и|а],Ящик с наградами за победу над нежитью
+PR #2,ui/ui_155.csv,160,"Undead Krait Loot Box[pl:""Boxes""]",Ящик с добычей нежити-крайта[|и|а],Ящик с добычей нежити-крайта
+PR #2,ui/ui_155.csv,168,"Undead Spider Loot Box[pl:""Boxes""]",Ящик с добычей из нежити-паука[|и|а],Ящик с добычей из нежити-паука
+PR #2,ui/ui_158.csv,79,"Venomfish[pl:""Venomfish""]",Ядовитая рыба[|и|],Ядовитая рыба
+PR #2,ui/ui_158.csv,195,"Veteran Air Elemental Loot Box[pl:""Boxes""]",Ящик ветеранского воздушного элементаля[|а|ов],Ящик ветеранского воздушного элементаля
+PR #2,ui/ui_158.csv,196,"Veteran Anchor the Gold Shark Loot Box[pl:""Boxes""]",Ветеранский якорь: сундук лута Золотой акулы[|а|ов],Ветеранский якорь: сундук лута Золотой акулы
+PR #2,ui/ui_158.csv,199,"Veteran Ascalonian Ghost Loot Box[pl:""Boxes""]",Ящик с добычей ветерана-аскалонца[|и|а],Ящик с добычей ветерана-аскалонца
+PR #2,ui/ui_158.csv,200,"Veteran Bane's Teeth Loot Box[pl:""Boxes""]",Ящик с добычей из зубов ветерана Бейна[|и|а],Ящик с добычей из зубов ветерана Бейна
+PR #2,ui/ui_158.csv,202,"Veteran Blu the Brown Shark Loot Box[pl:""Boxes""]","Ящик с добычей от ветерана Блу, коричневого акулы[|и|а]","Ящик с добычей от ветерана Блу, коричневого акулы"
+PR #2,ui/ui_158.csv,207,"Veteran Destroyer Loot Box[pl:""Boxes""]",Ящик с добычей ветерана-разрушителя[|я|щи],Ящик с добычей ветерана-разрушителя
+PR #2,ui/ui_158.csv,211,"Veteran Earth Elemental Loot Box[pl:""Boxes""]",Ящик с добычей от старшего земляного элементаля[|а|ов],Ящик с добычей от старшего земляного элементаля
+PR #2,ui/ui_158.csv,213,"Veteran Ettin Loot Box[pl:""Boxes""]",Ящик с добычей ветерана-эттина[|и|а],Ящик с добычей ветерана-эттина
+PR #2,ui/ui_158.csv,215,"Veteran Evil Logan Loot Box[pl:""Boxes""]",Ящик лута Эви Логана[|а|ов],Ящик лута Эви Логана
+PR #2,ui/ui_158.csv,216,"Veteran Evil Rytlock Loot Box[pl:""Boxes""]",Ларец с добычей Ритлока-ветерана[|а|ов],Ларец с добычей Ритлока-ветерана
+PR #2,ui/ui_158.csv,217,"Veteran Evil Zojja Loot Box[pl:""Boxes""]",Ящик с добычей ветерана Зойя[|щики|],Ящик с добычей ветерана Зойя
+PR #2,ui/ui_158.csv,220,"Veteran Fire Elemental Loot Box[pl:""Boxes""]",Ящик ветеранского огненного элементаля[|а|ы|ов],Ящик ветеранского огненного элементаля
+PR #2,ui/ui_158.csv,221,"Veteran Flame Acolyte Loot Box[pl:""Boxes""]",Ящик с добычей от ветерана-адепта Пламени[|щики|щиков],Ящик с добычей от ветерана-адепта Пламени
+PR #2,ui/ui_158.csv,222,"Veteran Flame Legion Effigy Loot Box[pl:""Boxes""]",Ларец трофея Огненного легиона[|а|ов],Ларец трофея Огненного легиона
+PR #2,ui/ui_158.csv,223,"Veteran Fye the Brown Phoenix Loot Box[pl:""Boxes""]",Ларец ветерана Фье Коричневого Феникса[|а|ов],Ларец ветерана Фье Коричневого Феникса
+PR #2,ui/ui_158.csv,225,"Veteran Gudbrand the Gold Dolyak Loot Box[pl:""Boxes""]",Ящик с добычей золотого долияка-ветерана[|а|ов],Ящик с добычей золотого долияка-ветерана
+PR #2,ui/ui_158.csv,230,"Veteran Icebrood Seer Loot Box[pl:""Boxes""]",Ящик с добычей от ветерана Ледяного Братства[|щики|я],Ящик с добычей от ветерана Ледяного Братства
+PR #2,ui/ui_158.csv,233,"Veteran Jormag the Ice Dragon Loot Box[pl:""Boxes""]",Ящик с добычей от ветерана Йормига Ледяного Дракона[|а|ов],Ящик с добычей от ветерана Йормига Ледяного Дракона
+PR #2,ui/ui_158.csv,234,"Veteran Judah the Brown Deer Loot Box[pl:""Boxes""]",Сундук с добычей Ветерана Иуды Брауна Оленя[|а|ов],Сундук с добычей Ветерана Иуды Брауна Оленя
+PR #2,ui/ui_158.csv,239,"Veteran Largos Loot Box[pl:""Boxes""]",Ларец ветеранов Ларгоса[|ца|цев],Ларец ветеранов Ларгоса
+PR #2,ui/ui_158.csv,247,"Veteran Nightmare Court Loot Box[pl:""Boxes""]",Ящик с добычей из Ветеранского кошмара[|ящик|ящики|ящиков],Ящик с добычей из Ветеранского кошмара
+PR #2,ui/ui_158.csv,248,"Veteran Ogre Loot Box[pl:""Boxes""]",Ящик с добычей ветерана-огра[|а|ы],Ящик с добычей ветерана-огра
+PR #2,ui/ui_158.csv,249,"Veteran Ooze Loot Box[pl:""Boxes""]",Ящик с добычей ветерана-слизняка[|я|ки|ков],Ящик с добычей ветерана-слизняка
+PR #2,ui/ui_158.csv,254,"Veteran Prototype T-IV Golem Loot Box[pl:""Boxes""]",Ящик с прототипом ветерана Т-IV голема[|и|а|ей],Ящик с прототипом ветерана Т-IV голема
+PR #2,ui/ui_158.csv,258,"Veteran Risen Grub Loot Box[pl:""Boxes""]",Ящик с добычей от ветерана-поднявшегося[|щики|щиков],Ящик с добычей от ветерана-поднявшегося
+PR #2,ui/ui_158.csv,260,"Veteran Separatist Fighter Loot Box[pl:""Boxes""]",Ящик с добычей ветерана-сепаратиста[|я|ев],Ящик с добычей ветерана-сепаратиста
+PR #2,ui/ui_158.csv,261,"Veteran Sergeant Carrot Brown Rabbit Loot Box[pl:""Boxes""]",Ящик с добычей от ветерана-сержанта Морковного Кролика[|а|ов],Ящик с добычей от ветерана-сержанта Морковного Кролика
+PR #2,ui/ui_158.csv,264,"Veteran Wurm Loot Box[pl:""Boxes""]",Лутбокс ветеранского вурма[|а|ов],Лутбокс ветеранского вурма
+PR #2,ui/ui_158.csv,386,"Vigil Rations[pl:""Rations""]",Паек Вахты[|паека|паев],Паек Вахты
+PR #2,ui/ui_159.csv,31,Viper's Weapon Recipe Book[s],Книга рецептов оружия Випера[|а|ов],Книга рецептов оружия Випера
+PR #2,ui/ui_159.csv,34,"Viridian Agony Lens[pl:""Lenses""] (Left)",Зелёная линза агонии[|ы|](слева),Зелёная линза агонии(слева)
+PR #2,ui/ui_159.csv,35,"Viridian Agony Lens[pl:""Lenses""] (Right)",Зелёная линза агонии[|ы|](правая),Зелёная линза агонии(правая)
+PR #2,ui/ui_159.csv,262,"Volatile Magic[pl:""Magic""]",Неустойчивая магия[|ия|гии],Неустойчивая магия
+PR #2,ui/ui_159.csv,330,"Wahoo[pl:""Wahoos""]",Ваху[|у|ы],Ваху
+PR #2,ui/ui_160.csv,60,"War God's Weapon Box[pl:""Boxes""]",Ящик оружия бога войны[|а|ов],Ящик оружия бога войны
+PR #2,ui/ui_160.csv,88,"War Machine Staff[pl:""Staves""]",Посох военной машины[|а|ы],Посох военной машины
+PR #2,ui/ui_160.csv,108,Warbeast Gossamer Epaulet Padding[s],Наплечник из гобеленовой ткани для боевого зверя[|а|ов],Наплечник из гобеленовой ткани для боевого зверя
+PR #2,ui/ui_160.csv,135,"Warbeast Orichalcum Gauntlet Plates[pl:""Plates""]",Пластины из орихалковой перчатки боевого зверя[|и|ы],Пластины из орихалковой перчатки боевого зверя
+PR #2,ui/ui_160.csv,152,"Warclaw Horn Spikes[pl:""Warclaw Horn Spikes""]",Шипы рогов варклова[|а|ов],Шипы рогов варклова
+PR #2,ui/ui_160.csv,216,"Warg Loot Box[pl:""Boxes""]",Ящик с добычей варга[|и|а],Ящик с добычей варга
+PR #2,ui/ui_160.csv,221,"Warlord's Armor Box[pl:""Boxes""]",Ящик доспехов воеводы[|а|ы],Ящик доспехов воеводы
+PR #2,ui/ui_160.csv,383,"Water Station Parts[pl:""Parts""]",Части для водоснабжения[|ия|ий],Части для водоснабжения
+PR #2,ui/ui_162.csv,104,"White Bear Loot Box[pl:""Boxes""]",Белый медведь[|ь|и|и],Белый медведь
+PR #2,ui/ui_162.csv,115,"White Deer Loot Box[pl:""Boxes""]",Белый олень[|ь|и|я],Белый олень
+PR #2,ui/ui_162.csv,116,"White Dolyak Loot Box[pl:""Boxes""]",Белый ящик доляка[|а|ов],Белый ящик доляка
+PR #2,ui/ui_162.csv,156,"White Phoenix Loot Box[pl:""Boxes""]",Белый лутбокс феникса[|а|ов],Белый лутбокс феникса
+PR #2,ui/ui_162.csv,158,"White Shark Loot Box[pl:""Boxes""]",Белая акула[|а|ы|и],Белая акула
+PR #2,ui/ui_162.csv,171,"White Tiger Loot Box[pl:""Boxes""]",Белая тигрица[|а|ы|и],Белая тигрица
+PR #2,ui/ui_162.csv,188,"White Wolf Loot Box[pl:""Boxes""]",Ящик с добычей от Белого Волка[|я|щи],Ящик с добычей от Белого Волка
+PR #2,ui/ui_162.csv,189,"Whitefish Sushi[pl:""Sushi""]",Белая рыба суши[|а|ы],Белая рыба суши
+PR #2,ui/ui_162.csv,481,"Wise Words of Joko[pl:""Joko""]",Мудрые слова Джоко[|а|].,Мудрые слова Джоко.
+PR #2,ui/ui_162.csv,484,"Wish[pl:""Wishes""] for Fortitude",Желание[|я|й] для стойкости,Желание для стойкости
+PR #2,ui/ui_162.csv,487,"Wish[pl:""Wishes""] for Harmony",Желание[|я|й] для Гармонии,Желание для Гармонии
+PR #2,ui/ui_169.csv,17,"Zephyr Canopy[pl:""Canopies""]",Завеса Зефира[|ы|],Завеса Зефира
+PR #2,ui/ui_169.csv,27,"Zephyr Sanctum Supply Box[pl:""Boxes""]",Сундук припасов Святилища Зефира[|а|ов],Сундук припасов Святилища Зефира
+PR #2,ui/ui_169.csv,38,"Zephyrite Color Swatch[pl:""Swatches""]: Blue",Образец цвета зефирита[|а|ов]: синий,Образец цвета зефирита: синий
+PR #2,ui/ui_169.csv,39,"Zephyrite Color Swatch[pl:""Swatches""]: Green",Образец цвета зефирита[|а|ов]: зелёный,Образец цвета зефирита: зелёный
+PR #2,ui/ui_169.csv,40,"Zephyrite Color Swatch[pl:""Swatches""]: Red",Цветовая палитра зефирита[|а|ов]: красный,Цветовая палитра зефирита: красный
+PR #2,ui/ui_169.csv,41,"Zephyrite Color Swatch[pl:""Swatches""]: Yellow",Образец зефиритового цвета[|а|ов]: жёлтый,Образец зефиритового цвета: жёлтый
+PR #2,ui/ui_169.csv,78,"Zhaitan Minion Loot Box[pl:""Boxes""]",Ящик с добычей прислуги Зайтана[|а|ов],Ящик с добычей прислуги Зайтана

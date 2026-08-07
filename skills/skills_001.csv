@@ -54,7 +54,8 @@ english,translate
 "<c=@abilitytype>Ambush.</c> Lunge at your foe and strike them with your sword, briefly dazing them. Leave behind a clone at your original location.","<c=@abilitytype>Засада.</c> Рывок к врагу и удар мечом, ненадолго оглушая его. Оставляет фантома на исходной позиции."
 "<c=@abilitytype>Ambush.</c> Pierce targets in front of you in a flurry of blows, leaving them vulnerable.","<c=@abilitytype>Засада.</c> Пронзайте врагов перед собой серией ударов, делая их уязвимыми."
 "<c=@abilitytype>Ambush.</c> Release a vortex of chaos energy that inflicts damaging conditions on foes. Allies near you gain boons. 
-<c=@reminder>Clones using this attack grant their boons around you instead of themselves. </c>",
+<c=@reminder>Clones using this attack grant their boons around you instead of themselves. </c>","<c=@abilitytype>Засада.</c> Выпускает вихрь энергии хаоса, накладывающий негативные эффекты на врагов. Близлежащие союзники получают благословения.
+<c=@reminder>Клоны, использующие эту атаку, распространяют свои благословения вокруг вас, а не на себя.</c>"
 <c=@abilitytype>Ambush.</c> Release a wave of energy that interrupts and confuses foes.,"<c=@abilitytype>Засада.</c> Выпустите волну энергии, прерывающую и сбивающую с толку врагов."
 "<c=@abilitytype>Ambush.</c> Shoot a beam at a targeted foe, and secondary beams at foes near your target.",<c=@abilitytype>Засада.</c> Выстрелите лучом в выбранную цель и вторичными лучами во врагов рядом с ней.
 <c=@abilitytype>Ambush.</c> Slice your foe with a flurry of blades. Each blade inflicts different conditions.,<c=@abilitytype>Засада.</c> Разрежьте врага градом клинков. Каждый клинок накладывает разные состояния.
@@ -110,7 +111,8 @@ english,translate
 <c=@abilitytype>Beast. </c>Fire a missile that roots foes for a period of time.,"<c=@abilitytype>Зверь. </c>Выпускает снаряд, который обездвиживает врагов на время."
 "<c=@abilitytype>Beast. </c>Fires a sweeping breath attack, damaging foes.","<c=@abilitytype>Зверь. </c>Совершает размашистую атаку дыханием, нанося урон врагам."
 "<c=@abilitytype>Beast. </c>Gain stealth and increased critical-strike chance and ferocity for a short duration. Grant your ranger stealth.
-<c=@reminder>This skill will not grant your ranger stealth if they are downed.</c>",
+<c=@reminder>This skill will not grant your ranger stealth if they are downed.</c>","<c=@abilitytype>Зверь.</c> Получите эффект невидимости и увеличьте шанс критического удара и ярость на короткое время. Предоставьте вашему рейнджеру эффект невидимости.
+<c=@reminder>Этот навык не даст вашему рейнджеру эффект невидимости, если он обездвижен.</c>"
 <c=@abilitytype>Beast. </c>Give extreme might to nearby allies.,<c=@abilitytype>Зверь. </c>Дарует экстремальную мощь союзникам поблизости.
 <c=@abilitytype>Beast. </c>Howl at foes to chill them.,"<c=@abilitytype>Зверь. </c>Воет на врагов, накладывая на них холод."
 <c=@abilitytype>Beast. </c>Howl at foes to immobilize them.,"<c=@abilitytype>Зверь. </c>Воет на врагов, чтобы обездвижить их."
@@ -274,21 +276,27 @@ english,translate
 "<c=@abilitytype>Clone.</c> Surge toward your foe, striking enemies on the way and creating a clone upon reaching your initial target.","<c=@abilitytype>Клон.</c> Устремитесь к врагу, поражая врагов на пути и создавая клона при достижении изначальной цели."
 "<c=@abilitytype>Clone.</c> Teleport away from your target, summoning a clone that casts Winds of Chaos.","<c=@abilitytype>Клон.</c> Телепортируйтесь от цели, призвав клона, который использует «Ветры хаоса»."
 "<c=@abilitytype>Command. </c> Heal yourself and allies in an area around you. 
-<c=@abilitytype>Echo. </c> Heals again and removes conditions on allies after a set interval or after you use a burst skill.",
+<c=@abilitytype>Echo. </c> Heals again and removes conditions on allies after a set interval or after you use a burst skill.","<c=@abilitytype>Команда.</c> Исцелите себя и союзников в области вокруг вас.
+<c=@abilitytype>Эхо.</c> Снова исцеляет и снимает эффекты с союзников через определенный промежуток времени или после использования умения, наносящего большой урон."
 "<c=@abilitytype>Command. </c>Apply barrier to yourself and allies around you. 
-<c=@abilitytype>Echo. </c> Apply barrier again to allies after a set interval or after you use a burst skill.",
+<c=@abilitytype>Echo. </c> Apply barrier again to allies after a set interval or after you use a burst skill.","<c=@abilitytype>Команда.</c> Наложите барьер на себя и союзников вокруг вас.
+<c=@abilitytype>Эхо.</c> Через определенный промежуток времени или после использования умения, наносящего большой урон, снова наложите барьер на союзников."
 "<c=@abilitytype>Command.</c> Break stun while granting boons to nearby allies. The cooldown of this skill is increased if used to break a stun.
-<c=@abilitytype>Echo.</c> Grant additional boons to nearby allies after a set interval or after you use a burst skill.",
+<c=@abilitytype>Echo.</c> Grant additional boons to nearby allies after a set interval or after you use a burst skill.","<c=@abilitytype>Команда.</c> Снимает оглушение и накладывает благословения на близлежащих союзников. Время перезарядки этого умения увеличивается, если оно используется для снятия оглушения.
+<c=@abilitytype>Эхо.</c> Накладывает дополнительные благословения на близлежащих союзников через определенный промежуток времени или после использования умения с эффектом взрыва."
 "<c=@abilitytype>Command.</c> Damage and apply conditions to enemies around you.
-<c=@abilitytype>Echo.</c> Damage and immobilize enemies after a set interval or after you use a burst skill.",
+<c=@abilitytype>Echo.</c> Damage and immobilize enemies after a set interval or after you use a burst skill.","<c=@abilitytype>Команда.</c> Наносит урон и применяет эффекты к врагам вокруг вас.
+<c=@abilitytype>Эхо.</c> Наносит урон и обездвиживает врагов через определенный промежуток времени или после использования умения с быстрой атакой."
 <c=@abilitytype>Command.</c> Gain protection and barrier while breaking allies out of stuns.,"<c=@abilitytype>Команда.</c> Получите защиту и барьер, выводя союзников из оглушения."
 <c=@abilitytype>Command.</c> Heal yourself and your pet. You each gain copies of the other's boons.,<c=@abilitytype>Команда.</c> Исцелите себя и своего питомца. Каждый из вас получает копии благословений другого.
 <c=@abilitytype>Command.</c> Order your pet to guard nearby allies; your pet takes damage on behalf of those allies. Gain might when your pet receives damage.,"<c=@abilitytype>Команда.</c> Прикажите питомцу охранять союзников поблизости; питомец получает урон вместо этих союзников. Получите силу, когда питомец получает урон."
 "<c=@abilitytype>Command.</c> Rampage with your pet, gaining stability, fury, and swiftness. You and your pet also grant might to each other when you attack.","<c=@abilitytype>Команда.</c> Беснуйтесь вместе с питомцем, получая стабильность, ярость и быстроту. Вы и ваш питомец также даруете друг другу могущество при атаке."
 "<c=@abilitytype>Command.</c> Strike enemies around your target, inflicting vulnerability and spreading vulnerability from your original target to nearby enemies.
-<c=@abilitytype>Echo.</c> Apply might to allies and gain adrenaline based on the number of enemies struck after a set interval or after you use a burst skill.",
+<c=@abilitytype>Echo.</c> Apply might to allies and gain adrenaline based on the number of enemies struck after a set interval or after you use a burst skill.","<c=@abilitytype>Команда.</c> Наносите урон врагам вокруг цели, вызывая уязвимость и распространяя её с вашей основной цели на ближайших врагов.
+<c=@abilitytype>Эхо.</c> Даруйте союзникам благословение «Мощь» и получайте адреналин в зависимости от количества поражённых врагов через определённые промежутки времени или после использования умения, требующего затрат энергии."
 "<c=@abilitytype>Command.</c> Your allies' health cannot be reduced below zero for a short period of time. After this effect ends, grant barrier proportionate to their missing health. <c=@reminder>Certain boss skills may bypass the effect of this skill.</c>
-<c=@abilitytype>Echo.</c> Grant superspeed to nearby allies after a set interval or after you use a burst skill.",
+<c=@abilitytype>Echo.</c> Grant superspeed to nearby allies after a set interval or after you use a burst skill.","<c=@abilitytype>Команда.</c> В течение короткого времени здоровье ваших союзников не может опускаться ниже нуля. По истечении этого эффекта даруйте им барьер, пропорциональный потерянному здоровью. <c=@reminder>Некоторые способности боссов могут игнорировать эффект этой способности.</c>
+<c=@abilitytype>Эхо.</c> Даруйте находящимся рядом союзникам эффект «сверхскорости» через определенный промежуток времени или после использования вами умения с эффектом «рывок»."
 "<c=@abilitytype>Command.</c> Your pet rushes at your foe, dealing increased damage.","<c=@abilitytype>Команда.</c> Ваш питомец бросается на врага, нанося повышенный урон."
 "<c=@abilitytype>Command.</c> Your pet rushes at your foe, revealing them and dealing increased damage.","<c=@abilitytype>Команда.</c> Ваш питомец бросается на врага, раскрывая его и нанося повышенный урон."
 <c=@abilitytype>Command.</c> Your pet will seek out and revive a downed ally.,<c=@abilitytype>Команда.</c> Ваш питомец найдёт и оживит поверженного союзника.
@@ -436,15 +444,18 @@ english,translate
 "<c=@abilitytype>Finisher.</c> Strike foes in front of you and remove boons from them, then enter stealth. Remove additional boons from weakened foes.","<c=@abilitytype>Финишер.</c> Поразите врагов перед собой и снимите с них благословения, затем войдите в скрытность. Снимите дополнительные благословения с ослабленных врагов."
 "<c=@abilitytype>Finisher.</c> Strike nearby enemies, inflicting multiple conditions. Deal more damage and inflict additional conditions against controlled and immobilized foes.","<c=@abilitytype>Финишер.</c> Поразите ближайших врагов, накладывая несколько состояний. Нанесите больше урона и наложите дополнительные состояния на подконтрольных и обездвиженных врагов."
 "<c=@abilitytype>Follow Up.</c> Poison your foe with a sweeping strike. Movement-impaired foes are immobilized.
-<c=@reminder>Striking an enemy with a follow-up attack enables finisher attacks.</c>",
+<c=@reminder>Striking an enemy with a follow-up attack enables finisher attacks.</c>","<c=@abilitytype>Последующая атака.</c> Отравьте врага широким ударом. Враги, чья подвижность ограничена, будут обездвижены.
+<c=@reminder>Атака по противнику последующей атакой позволяет использовать завершающие приёмы.</c>"
 "<c=@abilitytype>Follow Up.</c> Strike your foes and siphon health from them. Siphon additional health from vulnerable foes.
-<c=@reminder>Striking an enemy with a follow-up attack enables finisher attacks.</c>",
+<c=@reminder>Striking an enemy with a follow-up attack enables finisher attacks.</c>","<c=@abilitytype>Последующая атака.</c> Нанесите удар по врагам и восстановите здоровье. Восстановите дополнительное здоровье, атакуя уязвимых врагов.
+<c=@reminder>Атака врага с помощью последующей атаки позволяет использовать завершающие приёмы.</c>"
 "<c=@abilitytype>Gadget.</c> Activate your A.E.D., enabling the system to heal you after a brief period of time. If you take lethal damage while A.E.D. is active, it ends and heals you for a large amount and removes conditions.","<c=@abilitytype>Устройство.</c> Активируйте свой А.Э.Д., позволяя системе исцелить вас через короткое время. Если вы получите смертельный урон, пока А.Э.Д. активен, он завершится и исцелит вас на большую величину, а также снимет состояния."
 "<c=@abilitytype>Gadget.</c> Activate your A.E.D., enabling the system to heal you after a brief period of time. If you take lethal damage while A.E.D. is active, it ends and heals you for a large amount, grants shock aura, and removes conditions.","<c=@abilitytype>Устройство.</c> Активируйте свой А.Э.Д., позволяя системе исцелить вас через короткое время. Если вы получите смертельный урон, пока А.Э.Д. активен, он завершится и исцелит вас на большую величину, даст шоковую ауру и снимет состояния."
 "<c=@abilitytype>Gadget.</c> Break out of stun, gaining resistance, clearing blindness, and removing damaging conditions.","<c=@abilitytype>Устройство.</c> Выйдите из оглушения, получая сопротивление, снимая слепоту и удаляя наносящие урон состояния."
 "<c=@abilitytype>Gadget.</c> Fly forward, damaging foes with your rocket exhaust. Cures immobilized, crippled, and chilled. Gain superspeed when this skill ends.","<c=@abilitytype>Устройство.</c> Летите вперед, нанося урон врагам выхлопом ракеты. Лечит обездвиживание, хромоту и холод. Получите сверхскорость, когда навык завершится."
 "<c=@abilitytype>Gadget.</c> Fly forward, removing movement-impairing conditions and damaging foes with your rocket exhaust. 
-<c=@reminder>Movement-impairing conditions include cripple, chill, and immobilize.</c>",
+<c=@reminder>Movement-impairing conditions include cripple, chill, and immobilize.</c>","<c=@abilitytype>Гаджет.</c> Летите вперед, снимая эффекты, снижающие скорость передвижения, и нанося урон врагам струей ракетного двигателя.
+<c=@reminder>Эффекты, снижающие скорость передвижения, включают в себя хромоту, заморозку и неподвижность.</c>"
 "<c=@abilitytype>Gadget.</c> Gain resistance, clear blindness, and remove damaging conditions.","<c=@abilitytype>Устройство.</c> Получите сопротивление, снимите слепоту и удалите наносящие урон состояния."
 <c=@abilitytype>Gadget.</c> Launch a target foe with a concealed ram head.,<c=@abilitytype>Устройство.</c> Подбросьте выбранного врага скрытой бараньей головой.
 "<c=@abilitytype>Gadget.</c> Launch a target foe with a concealed ram head. The ram explodes on contact, burning foes.","<c=@abilitytype>Устройство.</c> Подбросьте выбранного врага скрытой бараньей головой. Голова взрывается при контакте, поджигая врагов."
@@ -459,7 +470,8 @@ english,translate
 "<c=@abilitytype>Glamour.</c> Create an area that warps time, granting you and your allies quickness while slowing enemies.","<c=@abilitytype>Иллюзия.</c> Создаёт область, искажающую время, даруя вам и союзникам быстроту и замедляя врагов."
 "<c=@abilitytype>Glamour.</c> Create an area that warps time, granting you and your allies quickness. Enemies in the field are slowed.","<c=@abilitytype>Иллюзия.</c> Создаёт область, искажающую время, даруя вам и союзникам быстроту. Враги в поле замедляются."
 "<c=@abilitytype>Glamour.</c> Create an entry portal at your location that teleports allies to your exit portal.
-<c=@reminder>(Creating a new entrance portal while you have an active portal will destroy the active portal.)</c>",
+<c=@reminder>(Creating a new entrance portal while you have an active portal will destroy the active portal.)</c>","<c=@abilitytype>Иллюзия.</c> Создаёт входной портал в вашем местоположении, который телепортирует союзников к выходному порталу.
+<c=@reminder>(Создание нового входного портала при наличии активного уничтожит текущий.)</c>"
 <c=@abilitytype>Glamour.</c> Create an exit portal.,<c=@abilitytype>Иллюзия.</c> Создаёт портал выхода.
 <c=@abilitytype>Glyph. </c>Pulls enemies toward you.,<c=@abilitytype>Глиф. </c>Притягивает врагов к вам.
 <c=@abilitytype>Glyph. </c>Push nearby enemies away from you.,<c=@abilitytype>Глиф. </c>Отталкивает ближайших врагов от вас.
@@ -517,9 +529,11 @@ The drum will then consume all notes to continue playing in the background. The 
 <c=@abilitytype>Kneel.</c> Shadowstep forward while granting yourself stealth.,"<c=@abilitytype>Встать на колено.</c> Сделайте теневой шаг вперед, накладывая на себя скрытность."
 "<c=@abilitytype>Kneel.</c> Stop kneeling and move freely. If you used at least one kneel skill, gain swiftness.","<c=@abilitytype>Встать на колени.</c> Прекратить стоять на коленях и свободно двигаться. Если вы использовали хотя бы одно умение на коленях, получите быстроту."
 "<c=@abilitytype>Lead Attack.</c> Cripple your foe with a quick strike.
-<c=@reminder>Striking an enemy with a lead attack enables follow-up attacks.</c>",
+<c=@reminder>Striking an enemy with a lead attack enables follow-up attacks.</c>","<c=@abilitytype>Ведущая атака.</c> Оглушите врага быстрым ударом.
+<c=@reminder>Атака, нанесённая в качестве ведущей, позволяет выполнить последующие атаки.</c>"
 "<c=@abilitytype>Lead Attack.</c> Leap at your foe and inflict conditions. Inflict additional stacks against foes above the health threshold.
-<c=@reminder>Striking an enemy with a lead attack enables follow-up attacks.</c>",
+<c=@reminder>Striking an enemy with a lead attack enables follow-up attacks.</c>","<c=@abilitytype>Ведущая атака.</c> Совершите прыжок на врага и наложите эффекты. Накладывайте дополнительные стаки на врагов, у которых уровень здоровья ниже определенного порога.
+<c=@reminder>Удар по врагу с помощью ведущей атаки позволяет выполнять последующие атаки.</c>"
 "<c=@abilitytype>Legendary Alliance.</c> Become the Urn of Saint Viktor, taking continuous damage while healing nearby allies. You take reduced damage while in this state, but you cannot be healed.","<c=@abilitytype>Легендарный союз.</c> Станьте Урной Святого Виктора, получая постоянный урон, исцеляя союзников поблизости. Вы получаете уменьшенный урон в этом состоянии, но вас нельзя исцелить."
 "<c=@abilitytype>Legendary Alliance.</c> Break stun and attack nearby enemies, gaining stability for each target struck.","<c=@abilitytype>Легендарный союз.</c> Снимите оглушение и атакуйте врагов поблизости, получая стабильность за каждую поражённую цель."
 <c=@abilitytype>Legendary Alliance.</c> Break stun on nearby allies and grant protection.,<c=@abilitytype>Легендарный союз.</c> Снимите оглушение с союзников поблизости и даруйте защиту.

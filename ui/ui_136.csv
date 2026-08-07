@@ -45,7 +45,7 @@ Spirit Surge,Прилив духа
 Spirit Training,Тренировка духа
 Spirit Vale Reward Track,Трек наград «Духовная долина»
 Spirit Vale Rewards,Награды «Духовная долина»
-Spirit Vale: Gorseval the Multifarious (CM),
+Spirit Vale: Gorseval the Multifarious (CM),Духовная Долина: Горсеваль Многоликий (КМ)
 Spirit Vale: Sabetha the Saboteur (CM),Духовная долина: Сабета Диверсантка (СР)
 Spirit Vale: Vale Guardian (CM),Духовная долина: Страж долины (СР)
 Spirit Walk,Шествие духа
@@ -209,8 +209,8 @@ Spotted Axolotl Skyscale,Пятнистая аксолотль-скайскей�
 "Spotted Flounder[pl:""Flounder""]",Пятнистый [язык|языка|языков]
 Spotted Hyena,Пятнистая гиена
 Spotted Hyena[s],[Пятнистая гиена|Пятнистые гиены|Пятнистых гиен]
-"Spotted Pufferfish[pl:""Pufferfish""]",
-"Spotted Stingray[pl:""Stingrays""]",
+"Spotted Pufferfish[pl:""Pufferfish""]",Пёстрая рыба-иглобрюх[|а|и]
+"Spotted Stingray[pl:""Stingrays""]",Пятнистая скат[а|ы|ов]
 "Spotted the person of interest moving north along the western bank, avoiding the Inquest presence at the forge. Maybe she'll be seen at the Deepwood camp... Regardless, I should contact Choole as soon as possible.","Заметила, что интересующее лицо движется на север вдоль западного берега, избегая присутствия Инквестов у кузницы. Возможно, её увидят в лагере Глубоколесья... В любом случае, мне нужно как можно скорее связаться с Чулом."
 "Spray a cone of elixir fumes, poisoning foes and curing conditions on allies.","Распылить конус паров эликсира, отравляя врагов и снимая состояния с союзников."
 Spray a cone of herbicide that weakens bramble vines.,"Распылить конус гербицида, ослабляющего колючие лозы."
@@ -374,7 +374,7 @@ Stabilizing Magics: Sword Edition,Стабилизирующая магия: и�
 Stabilizing Magics: Torch Edition,Стабилизирующая магия: издание с факелом
 Stabilizing Magics: Trident Edition,Стабилизирующая магия: издание с трезубцем
 Stabilizing Magics: Warhorn Edition,Стабилизирующая магия: издание с боевым рогом
-"Stabilizing Matrix[pl:""Matrices""]",
+"Stabilizing Matrix[pl:""Matrices""]",Стабилизирующая матрица|стабилизующие матрицы|стабилизирующих матриц
 Stabilizing Rifts,Стабилизация разломов
 Stable Fence[s],[Устойчивый забор|Устойчивых забора|Устойчивых заборов]
 Stable Master,Смотритель стойл
@@ -414,12 +414,12 @@ Stained Brand Crystal[s],Запятнанный [кристалл|кристал
 Stained Glass Shard[s],[Осколок|Осколка|Осколков] витража
 Stained Glass Wings Backpack and Glider Combo[s],[Набор|Набора|Наборов] ранца и дельтаплана «Крылья из витража»
 Stained Glass Wings Backpack Skin[s],[Облик|Облика|Обликов] ранца «Крылья из витража»
-"Stained Glass[pl:""Glasses""]",
+"Stained Glass[pl:""Glasses""]",Витраж[|и|и]
 Stairs Down,Лестница вниз
 Stairs Up,Лестница вверх
 "Stairs[pl:""Stairs""] (120 x 120)",Лестница(120 x 120)
 "Stairs[pl:""Stairs""] (120 x 60)",Лестница(120 x 60)
-"Stairs[pl:""Stairs""] (Clockwise Corner)",
+"Stairs[pl:""Stairs""] (Clockwise Corner)",Лестница (поворот по часовой стрелке)
 Stake Thrower,Метатель кольев
 Stake your claim on your defeated enemy's location in PvP or WvW.,Заявите права на место поверженного врага в PvP или WvW.
 Stalagmite Bash,Удар сталагмитом
@@ -467,12 +467,12 @@ Starborn Outfit[s],[Наряд|Наряда|Нарядов] «Звёздорож
 Stare into space deep in though.,"Смотреть в пустоту, глубоко задумавшись."
 Stare into space thoughtfully.,Задумчиво смотреть в пустоту.
 Starfish Souvenir[s],[Сувенир|Сувенира|Сувениров] «Морская звезда»
-"Stargazer[pl:""Stargazers""]",
+"Stargazer[pl:""Stargazers""]",Звездоглядатель[|а|и]
 Staring at underground crystals.,Смотрит на подземные кристаллы.
 Starlight Wings Backpack and Glider Combo[s],[Комплект|Комплекта|Комплектов] «Крылья звёздного света: спина и планер»
 Starlight Wings Backpack[s],[Сумка|Сумки|Сумок] «Крылья звёздного света»
 Starlit Weald Cache[s],[Тайник|Тайника|Тайников] «Звёздная роща»
-"Starry Flounder[pl:""Flounder""]",
+"Starry Flounder[pl:""Flounder""]",Звёздный камбала
 Starry Grotto,Звездный грот
 Starry Night Dye[s],[Краска|Краски|Красок] «Звёздная ночь»
 Start Authentication Puzzle,Начать головоломку аутентификации
@@ -497,5 +497,5 @@ Starts the mine-arming sequence when close to target.,Запускает пос�
 Starving Seraph Soldier,Голодающий солдат Серафимов
 "Stash[pl:""Stashes""] of Astral Coins",Скрытые места с астральными монетами
 "Stash[pl:""Stashes""] of Carved Lowland Pine Coins",Спрятан запасы монет из резной низинной сосны.
-"Stash[pl:""Stashes""] of Crimson Skull Coins",
+"Stash[pl:""Stashes""] of Crimson Skull Coins","Запасы монет ""Кровавый череп"""
 "Stash[pl:""Stashes""] of Kournan Coins",Скрывал[ища|ище|ищ] кодана

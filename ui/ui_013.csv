@@ -385,7 +385,7 @@ english,translate
 %str1%%str2%Tempest Scepter%str3%%str4%,%str1%%str2%Скипетр бури%str3%%str4%
 %str1%%str2%Tempest Shield%str3%%str4%,%str1%%str2%Щит Инквеста%str3%%str4%
 %str1%%str2%Tempest Short Bow%str3%%str4%,%str1%%str2%Короткий лук бури%str3%%str4%
-"%str1%%str2%Tempest Staff[pl:""Staves""]%str3%%str4%",
+"%str1%%str2%Tempest Staff[pl:""Staves""]%str3%%str4%",%str1%%str2%Посох бури%str3%%str4%
 %str1%%str2%Tempest Sword%str3%%str4%,%str1%%str2%Меч бури%str3%%str4%
 "%str1%%str2%Tempest Torch[pl:""Torches""]%str3%%str4%",
 %str1%%str2%Tempest Warhorn%str3%%str4%,%str1%%str2%Рог бури%str3%%str4%

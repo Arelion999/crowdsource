@@ -194,7 +194,7 @@ Minotaur Bull[s],[Бык минотавра|Быка минотавра|Быко
 Minotaur Calf[s],[Теленок минотавра|Теленка минотавра|Телят минотавров]
 Minotaur Charge,Заряд Минотавра
 Minotaur Gun,Ружье Минотавра
-"Minotaur Loot Box[pl:""Boxes""]",
+"Minotaur Loot Box[pl:""Boxes""]",[Ящик с добычей минотавра|Ящики с добычей минотавра|Ящиков с добычей минотавра]
 Minotaur Spirit Form,Форма духа Минотавра
 Minotaur Steak[s],[Стейк|Стейка|Стейков] минотавра
 Minotaur[s],[Минотавр|Минотавра|Минотавров]
@@ -307,16 +307,16 @@ Mist Pearl[s],[Жемчужина|Жемчужины|Жемчужин] тума�
 Mist Portals Opening,Открытие порталов тумана
 Mist Potion Brewer,Зельевар туманов
 Mist Sentry Turret[s],[Турель|Турели|Турелей] часового тумана
-"Mist Shard Boot Box[pl:""Boxes""]",
+"Mist Shard Boot Box[pl:""Boxes""]",Ящик с осколком тумана
 Mist Shard Boots Recipe Book[s],[Книга|Книги|Книг] рецептов «Сапоги из осколка тумана»
 "Mist Shard Coat Box[pl:""Boxes""]",Коробка пальто из Осколков Тумана[ые|а|ых]
 "Mist Shard Glove Box[pl:""Boxes""]",Коробка перчаток из Осколков Тумана[ые|а|ых]
 Mist Shard Gloves Recipe Book[s],[Книга|Книги|Книг] рецептов «Перчатки из осколка тумана»
-"Mist Shard Helm Box[pl:""Boxes""]",
+"Mist Shard Helm Box[pl:""Boxes""]",Ящик[|а|ов] с осколком Туманов
 Mist Shard Helms Recipe Book[s],[Книга|Книги|Книг] рецептов «Шлем из осколка тумана»
 "Mist Shard Leggings Box[pl:""Boxes""]",
 Mist Shard Leggings Recipe Book[s],[Книга|Книги|Книг] рецептов «Поножи из осколка тумана»
-"Mist Shard Shoulders Box[pl:""Boxes""]",
+"Mist Shard Shoulders Box[pl:""Boxes""]",Ящик осколков Туманов[|а|ов]
 Mist Shard Shoulders Recipe Book[s],[Книга|Книги|Книг] рецептов «Наплечники из осколка тумана»
 Mist Stranger,Незнакомец из тумана
 Mist Stranger (Fractal Quickplay),Незнакомец из тумана (Быстрая игра во Фракталах)
@@ -338,10 +338,10 @@ Mist Warden Camp Upgrades Complete!,Улучшения лагеря Страже
 Mist Warden Disruptors Active!,Глушители Стражей Тумана активны!
 Mist Warden Rewards,Награды Стражей Тумана
 Mist Warden Waypoint in Position!,Точка маршрута Стража Тумана на позиции!
-"Mist-Enhanced Mithril[pl:""Mithril""]",
+"Mist-Enhanced Mithril[pl:""Mithril""]",Мистический мифриловый[|ый|ые]
 "Mist-Enhanced Orichalcum[pl:""Orichalcum""]",Обогащённый мистом орихалк[ум|а|ов]
 Mist-Hardened Lockbox Key[s],[Ключ|Ключа|Ключей] от закалённого туманом ларца
-"Mist-Hardened Lockbox[pl:""Lockboxes""]",
+"Mist-Hardened Lockbox[pl:""Lockboxes""]",Ларь из тумана
 Mist-Hardened Transcendent Chest[s],"[Сундук|Сундука|Сундуков] трансцендентности, закалённый туманом"
 Mist-Infused Jade Catalyst[s],[Катализатор|Катализатора|Катализаторов] из тумана
 Mist-Infused Maintenance Oil[s],"[Масло|Масла|Масла] для ухода, пропитанное туманом"
@@ -359,7 +359,7 @@ Mistborn Mote[s],[Частица|Частицы|Частиц] из тумана
 Mistborn Mount Adoption License[s],[Лицензия|Лицензии|Лицензий] на скакуна из тумана
 Mistborn Mount Select License[s],Туманнорождённая лицензи[я|и|й] на выбор скакуна
 Mistburned Barrens Asura Gate,Врата асуров Выжженных туманом Пустошей
-"Mistburned Barrens Strongbox[pl:""Strongboxes""]",
+"Mistburned Barrens Strongbox[pl:""Strongboxes""]",[Сундук из Иссохших Пустошей|Сундуки из Иссохших Пустошей|Сундуков из Иссохших Пустошей]
 Mistburned Barrens: Hazardous Research,Пустоши Опаленные Туманом: Опасное исследование
 Mistburned Barrens: Search-and-Rescue Challenge,Пустоши Опаленные Туманом: Задание поиска и спасения
 Mistburned Beehive,Улей Опаленных Туманом ос
@@ -372,7 +372,7 @@ Mistburned Reindeer,Опалённый туманом олень
 Mistburned Renown Chest[s],Опалённый туманом сундук[|а|ов] славы
 Mistburned Stench,Опалённое туманом зловоние
 Mistfire Storm,Шторм туманного огня
-"Mistforged Glorious Victor's Armor Box[pl:""Boxes""]",
+"Mistforged Glorious Victor's Armor Box[pl:""Boxes""]",Коробка доспехов славного победителя Mistforged[|и|ок]
 Mistforged Hero's Weapon Chest[s],Выкованный в тумане сундук[|а|ов] оружия героя
 "Mistforged Obsidian Weapon Box[pl:""Boxes""]",Ящик с Кованым обсидиановым оружием
 Mistforged Triumphant Ascended Armor,"Вознесённые доспехи триумфатора, скованные туманом"

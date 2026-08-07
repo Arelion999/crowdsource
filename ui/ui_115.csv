@@ -52,7 +52,7 @@ Recipe: Banner of the Dauntless Commander[s],[Рецепт|Рецепта|Рец
 Recipe: Banner Pennon[s],[Рецепт|Рецепта|Рецептов]: знамя с вымпелом
 Recipe[s]: %str1%,[Рецепт|Рецепта|Рецептов]: %str1%
 Recipe[s]: 10 Slot Ogre Bag,[Рецепт|Рецепта|Рецептов]: сумка огра на 10 ячеек
-Recipe[s]: 20-Slot Equipment Pact Box,
+Recipe[s]: 20-Slot Equipment Pact Box,Рецепт[|а|ов]: 20-слотная коробка для снаряжения
 Recipe[s]: Aetherblade Hideout Banner,[Рецепт|Рецепта|Рецептов]: Знамя убежища «Кромблейд»
 Recipe[s]: Ahamid's Breastplate,Рецепт[|а|ов]: Нагрудник Ахамида
 Recipe[s]: Ahamid's Breeches,Рецепт[|а|ов]: Бриджи Ахамида
@@ -250,7 +250,7 @@ Recipe[s]: Beigarth's Brazier,[Рецепт|Рецепта|Рецептов]: К
 Recipe[s]: Beigarth's Breastplate,[Рецепт|Рецепта|Рецептов]: Нагрудник Бейгарта
 Recipe[s]: Beigarth's Breeches,[Рецепт|Рецепта|Рецептов]: Штаны Бейгарта
 Recipe[s]: Beigarth's Claymore,[Рецепт|Рецепта|Рецептов]: Клеймор Бейгарта
-Recipe[s]: Beigarth's Cloth Breather,
+Recipe[s]: Beigarth's Cloth Breather,Рецепт[|а|ов]: тканевая прокладка Бэйгарта
 Recipe[s]: Beigarth's Doublet,[Рецепт|Рецепта|Рецептов]: Двойка Бейгарта
 Recipe[s]: Beigarth's Epaulets,[Рецепт|Рецепта|Рецептов]: Эпаулеты Бейгарта
 Recipe[s]: Beigarth's Flanged Mace,[Рецепт|Рецепта|Рецептов]: Булава Бейгарта с бортиками
@@ -286,23 +286,23 @@ Recipe[s]: Beigarth's Warfists,[Рецепт|Рецепта|Рецептов]: �
 Recipe[s]: Beigarth's Warhammer,[Рецепт|Рецепта|Рецептов]: Боевой молот Бигарта
 Recipe[s]: Beigarth's Wristguards,[Рецепт|Рецепта|Рецептов]: Наручи Бигарта
 Recipe[s]: Bella's Crown (Level 71),[Рецепт|Рецепта|Рецептов]: Корона Беллы (Уровень 71)
-Recipe[s]: Berserker's Darksteel Imbued Inscription,
+Recipe[s]: Berserker's Darksteel Imbued Inscription,Рецепт[|а|ов]: тёмная стальная руна берсерка
 Recipe[s]: Berserker's Intricate Gossamer Insignia,[Рецепт|Рецепта|Рецептов]: Изысканный паутинный знак берсерка
-Recipe[s]: Berserker's Intricate Linen Insignia,
+Recipe[s]: Berserker's Intricate Linen Insignia,Рецепт[|а|ов]: искусно расшитый льняной знак берсерка
 Recipe[s]: Berserker's Intricate Silk Insignia,[Рецепт|Рецепта|Рецептов]: Изысканный шелковый знак берсерка
-Recipe[s]: Berserker's Mithril Imbued Inscription,
+Recipe[s]: Berserker's Mithril Imbued Inscription,Рецепт[|а|ов]: мифриловая руна берсерка
 Recipe[s]: Berserker's Orichalcum Imbued Inscription,Рецепт[|а|ов]: пропитанная орихалком надпись командира
 Recipe[s]: Beryllium Copper,[Рецепт|Рецепта|Рецептов]: Бериллиевая Медь
 Recipe[s]: Birdhouse,[Рецепт|Рецепта|Рецептов]: Домик для птиц
-Recipe[s]: Black Diamond Orichalcum Amulet,
-Recipe[s]: Black Diamond Orichalcum Earring,
+Recipe[s]: Black Diamond Orichalcum Amulet,Рецепт[|а|ов]: амулет из чёрного алмазного орихалкового сплава
+Recipe[s]: Black Diamond Orichalcum Earring,Рецепт[|а|ов]: чёрная алмазная орийхалковая серьга
 Recipe[s]: Black Diamond Orichalcum Ring,[Рецепт|Рецепта|Рецептов]: Кольцо из чёрного алмазного орихалка
 Recipe[s]: Black Pepper Cactus Salad,[Рецепт|Рецепта|Рецептов]: Салат из кактуса с чёрным перцем
 Recipe[s]: Blattellidae,[Рецепт|Рецепта|Рецептов]: Блателлы
 Recipe[s]: Blattodea,[Рецепт|Рецепта|Рецептов]: Таракановые
-Recipe[s]: Blessed Steps (Level 55),
-Recipe[s]: Blind Ed's Longbow (Level 13),
-Recipe[s]: Blind Ed's Longbow (Level 8),
+Recipe[s]: Blessed Steps (Level 55),Рецепт[|а|ов]: Благословенные сапоги (55-го уровня)
+Recipe[s]: Blind Ed's Longbow (Level 13),Рецепт[|а|ов]: длинный лук Слепого Эда (13-й уровень)
+Recipe[s]: Blind Ed's Longbow (Level 8),Рецепт[|а|ов]: длинный лук Слепого Эда (8 уровень)
 Recipe[s]: Bloodsaw work Boots,[Рецепт|Рецепта|Рецептов]: Рабочие ботинки «Кровавый пила»
 Recipe[s]: Bloodsaw work Coat,[Рецепт|Рецепта|Рецептов]: Рабочий плащ Кровопильщиков
 Recipe[s]: Bloodsaw work gloves,[Рецепт|Рецепта|Рецептов]: Перчатки работяги Кровопилы
@@ -310,12 +310,12 @@ Recipe[s]: Bloodsaw work helm,[Рецепт|Рецепта|Рецептов]: Ш
 Recipe[s]: Bloodsaw work pants,[Рецепт|Рецепта|Рецептов]: Рабочие штаны Бладсо
 Recipe[s]: Bloodsaw work shoulders,[Рецепт|Рецепта|Рецептов]: Наплечники работяги Кровопилы
 Recipe[s]: Bloodstone Turret Fragment,[Рецепт|Рецепта|Рецептов]: Осколок Кровавого Бастиона
-Recipe[s]: Bloomboom (Level 71),
-Recipe[s]: Boots of Barca (Level 20),
-Recipe[s]: Boots of Barca (Level 31),
+Recipe[s]: Bloomboom (Level 71),Рецепт[|а|ов]: взрывной цветок (71 уровень)
+Recipe[s]: Boots of Barca (Level 20),Рецепт[|а|ов]: сапоги Барки (20-го уровня)
+Recipe[s]: Boots of Barca (Level 31),Рецепт[|а|ов]: сапоги Барки (уровень 31)
 Recipe[s]: Bough of Melandru,[Рецепт|Рецепта|Рецептов]: Ветвь Меландру
-Recipe[s]: Bountiful Maintenance Oil,
-Recipe[s]: Bountiful Maintenance Oil Station,
+Recipe[s]: Bountiful Maintenance Oil,Рецепт[|а|ов]: обильное масло для ухода
+Recipe[s]: Bountiful Maintenance Oil Station,Рецепт[|а|ов]: обильная смазочная станция для обслуживания
 Recipe[s]: Bountiful Sharpening Stone,[Рецепт|Рецепта|Рецептов]: Обильный камень заточки
 Recipe[s]: Bountiful Tuning Crystal,[Рецепт|Рецепта|Рецептов]: Обильный кристалл настройки
 Recipe[s]: Bounty Hunter's Boots,[Рецепт|Рецепта|Рецептов]: Сапоги охотника за головами
@@ -362,11 +362,11 @@ Recipe[s]: Brandspark Amulet,Рецепт[|а|ов]: Амулет[|а|ов] «Б
 Recipe[s]: Brandspark Earring,Рецепт[|а|ов]: [Серьга|Серьги|Серёг] «Брендспарк»
 Recipe[s]: Brandspark Jewel,Рецепт[|а|ов]: Драгоценност[ь|и|ей] «Брендспарк»
 Recipe[s]: Brandspark Ring,[Рецепт|Рецепта|Рецептов]: Кольцо Брэндспарка
-Recipe[s]: Breezy Backplate (Level 71),
-Recipe[s]: Brightcarved Breastplate (Level 55),
+Recipe[s]: Breezy Backplate (Level 71),Рецепт[|а|ов]: лёгкая спинная пластина (71 уровень)
+Recipe[s]: Brightcarved Breastplate (Level 55),Рецепт[|а|ов]: ярко украшенная нагрудная броня (уровень 55)
 Recipe[s]: Bringer's Intricate Gossamer Insignia,Рецепт[|а|ов]: витиеватая тонкотканая инсигния Прорицателя
 Recipe[s]: Bringer's Orichalcum-Imbued Inscription,"[Рецепт|Рецепта|Рецептов]: Рунический знак призывателя, пропитанный орихалковым"
-Recipe[s]: Bronze Cairn the Indomitable Trophy,
+Recipe[s]: Bronze Cairn the Indomitable Trophy,"Рецепт[|а|ов]: трофей ""Бронзовый Каирн Непоколебимый"""
 Recipe[s]: Bronze Cardinal Adina Trophy,Рецепт[|а|ов]: Бронзовый трофей Кардинал Адина
 Recipe[s]: Bronze Cardinal Sabir Trophy,Рецепт[|а|ов]: Бронзовый трофей Кардинал Сабир
 Recipe[s]: Bronze Chak Gerent Trophy,Рецепт[|а|ов]: Бронзовый трофей Чак Герент
@@ -441,7 +441,7 @@ Recipe[s]: Celestial Exalted Gloves,[Рецепт|Рецепта|Рецепто�
 Recipe[s]: Celestial Exalted Mantle,[Рецепт|Рецепта|Рецептов]: Небесный Подъёмный плащ
 Recipe[s]: Celestial Exalted Masque,[Рецепт|Рецепта|Рецептов]: Небесная Подъёмная маска
 Recipe[s]: Celestial Exalted Pants,[Рецепт|Рецепта|Рецептов]: Небесные Подъёмные штаны
-Recipe[s]: Celestial Intricate Gossamer Insignia,
+Recipe[s]: Celestial Intricate Gossamer Insignia,Рецепт[|а|ов]: небесный изящный гобеленовый знак
 Recipe[s]: Celestial Orichalcum Imbued Inscription,[Рецепт|Рецепта|Рецептов]: Небесная орихалковая гравировка
 Recipe[s]: Celestial Pearl Bludgeoner,[Рецепт|Рецепта|Рецептов]: Небесная жемчужная дубинка
 Recipe[s]: Celestial Pearl Blunderbuss,[Рецепт|Рецепта|Рецептов]: Небесная жемчужная мушкета
@@ -464,8 +464,8 @@ Recipe[s]: Celestial Pearl Stinger,[Рецепт|Рецепта|Рецептов
 Recipe[s]: Celestial Pearl Trident,[Рецепт|Рецепта|Рецептов]: Небесная жемчужная трезубец
 Recipe[s]: Chak Gerent Eye,[Рецепт|Рецепта|Рецептов]: Глаз Чака Герента
 Recipe[s]: Chaos of Lyssa,[Рецепт|Рецепта|Рецептов]: Хаос Лиссы
-Recipe[s]: Charged Ambrite Orichalcum Amulet,
-Recipe[s]: Charged Ambrite Orichalcum Earring,
+Recipe[s]: Charged Ambrite Orichalcum Amulet,Рецепт[|а|ов]: заряженный амулет из орихалкового амбрита
+Recipe[s]: Charged Ambrite Orichalcum Earring,Рецепт[|а|ов]: заряженная янтарная орьхалковая серьга
 Recipe[s]: Charged Ambrite Orichalcum Ring,рецепт[|а|ов]: Заряженное кольцо из амбрита и орихалка
 Recipe[s]: Charged Quartz Orichalcum Amulet,рецепт[|а|ов]: Заряженное ожерелье из кварца и орихалка
 Recipe[s]: Charged Quartz Orichalcum Earring,рецепт[|а|ов]: Заряженная серьга из кварца и орихалка

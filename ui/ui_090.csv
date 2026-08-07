@@ -8,7 +8,7 @@ Linen Helm Padding[s],[Прокладка|Прокладки|Прокладок]
 Linen Helm Strap[s],[Ремешок|Ремешка|Ремешков] льняного шлема
 Linen Pants Lining[s],[Подкладка|Подкладки|Подкладок] льняных штанов
 Linen Pants Panel[s],[Панель|Панели|Панелей] льняных штанов
-"Linen Patch[pl:""Patches""]",
+"Linen Patch[pl:""Patches""]",Льняная заплат[а|и|]
 Linen Rope[s],[Веревка|Веревки|Веревок] из льна
 Linen Scrap[s],[Лоскут|Лоскута|Лоскутов] льна
 Linen Shoe Sole[s],[Подошва|Подошвы|Подошв] льняной обуви
@@ -263,13 +263,13 @@ Loading purchase info. Please wait.,"Загрузка информации о п
 Loading Valley Hill Map Clone!,Загрузка клона карты Долины Холма!
 "Loaf[pl:""Loaves""] of Banana Bread",Хлеб[а|б|бов] бананового хлеба
 "Loaf[pl:""Loaves""] of Bread",Хлеб[а|б|бов]
-"Loaf[pl:""Loaves""] of Candy Cactus Cornbread",
+"Loaf[pl:""Loaves""] of Candy Cactus Cornbread",Буханка кукурузного хлеба из конфетных кактусов
 "Loaf[pl:""Loaves""] of Kodan Bread",Хлеб кодан[а|ов|ам]
 "Loaf[pl:""Loaves""] of Omnomberry Bread",Хлеб из омномберри
 "Loaf[pl:""Loaves""] of Raspberry Peach Bread",Буханк[и|ки|ок] малиново-персикового хлеба
 "Loaf[pl:""Loaves""] of Rosemary Bread",Хлеб с Розмарином
 "Loaf[pl:""Loaves""] of Saffron Bread",Хлеб из Шафрана
-"Loaf[pl:""Loaves""] of Tarragon Bread",
+"Loaf[pl:""Loaves""] of Tarragon Bread",Буханк[|а|и|ок] хлеба с тархуном
 "Loaf[pl:""Loaves""] of Travelers Bread",Хлеб путешественника[а|б|ов]
 "Loaf[pl:""Loaves""] of Walnut Sticky Bread",Хлеб[ы|а|ев] из грецких орехов и клёвого сиропа
 "Loaf[pl:""Loaves""] of Zucchini Bread",Хлеб[а|б|бов] с цуккини
@@ -358,7 +358,7 @@ Location 7,Локация 7
 Location 8,Локация 8
 Location 9,Локация 9
 Location:,Локация:
-LOCATION: XUNLAI JADE JUNKYARD OUTPOST E-1,
+LOCATION: XUNLAI JADE JUNKYARD OUTPOST E-1,"ЛОКАЦИЯ: АВАНПОСТ E-1, СВАЛКА ИЗУМРУДОВОГО ХАОСА СЮНЛАЙ"
 Locations of Known Magic in Central Tyria,Места известной магии в Центральной Тирии
 Lock All Subgroups,Заблокировать все подгруппы
 Lock and Key by Archivist Orestes,Замок и ключ архивариуса Ореста
@@ -432,16 +432,16 @@ Long-Lost Tahkayun Weapons Reward Track,Путь наград за давно у
 Long-Lost Tahkayun's Weapon Bag[s],[Сумка|Сумки|Сумок] с оружием давно потерянного Тахкаюна
 Long-Lost Tahkayun's Weapons,Оружие давно утерянного Тахкаюна
 Long-View Enhancement,Улучшение дальнего обзора
-"Longbeak Parrotfish[pl:""Parrotfish""]",
+"Longbeak Parrotfish[pl:""Parrotfish""]",[Длинноклювая попугаевая рыба|Длинноклювые попугаевые рыбы|Длинноклювых попугаевых рыб]
 Longbow (Known),Длинный лук (известный)
 Longbow Token[s],[Жетон|Жетона|Жетонов] длинного лука
 Longbow[s],[Длинный лук|Длинных лука|Длинных луков]
 "Longer charge, explosive knockback when hit that causes burn","Более долгий заряд, взрывной отбрасывание при попадании, вызывающее горение"
-"Longevity Noodles[pl:""Noodles""]",
+"Longevity Noodles[pl:""Noodles""]",Лапша для долголетия
 Longeye's Ledge,Уступ Длинноглаза
 Longface Bow,Лук Длинноликого
 Longface Short Bow,Короткий лук Длинноликого
-"Longhorn Boxfish[pl:""Boxfish""]",
+"Longhorn Boxfish[pl:""Boxfish""]",[Длиннорогая рыбка-коробка|Длиннорогие рыбки-коробки|Длиннорогих рыбок-коробок]
 Longhorn Sheep,Длиннорогий баран
 Longview Tower,Башня Дальнего Обзора
 Look around Isgarren's Office in the Wizard's Tower,Осмотрите кабинет Исгаррена в Башне Чародея

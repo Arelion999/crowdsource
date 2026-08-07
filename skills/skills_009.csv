@@ -426,7 +426,8 @@ Med Pack Drop,Сброс медпакета
 Medium-Range Daze,Ошеломление средней дальности
 Medium-Range Radius,Радиус средней дальности
 "Meld with your other pet. 
-<c=@reminder>This counts as swapping pets.</c>",
+<c=@reminder>This counts as swapping pets.</c>","Объединитесь со своим другим питомцем.
+<c=@reminder>Это считается заменой питомца.</c>"
 Meld with your pet.,Слейтесь с вашим питомцем.
 Melee Radius,Радиус ближнего боя
 "Melee. Hurl your weapon at your foe. If you are in close range, swing your weapon at them instead. Striking a foe reduces the cooldown of Abyssal Raze once per skill use.","Ближний бой. Метните оружие во врага. Если вы находитесь на близком расстоянии, вместо этого ударьте его оружием. Попадание по врагу сокращает время перезарядки Abyssal Raze один раз за использование навыка."

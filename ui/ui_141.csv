@@ -45,7 +45,7 @@ Syntax: /.collectoradd REWARD-ID PASSWORD [lbracket]TROPHY_COUNT[rbracket] [lbra
 Syntax: /.mark [lbracket]event #[rbracket] [lbracket]player name[rbracket],Синтаксис: /.mark [lbracket]событие #[rbracket] [lbracket]имя игрока[rbracket]
 Syska's Greatsword,Большой меч Сыски
 System & Network Engineering,Системная и сетевая инженерия
-System Architect Repro 2.0,
+System Architect Repro 2.0,"Архитектор системы, повторное изготовление 2.0."
 System Purge,Очистка системы
 System Secure,Система защищена
 Système des tournois automatisés,Система автоматизированных турниров
@@ -322,7 +322,7 @@ Take your raven to Dredgehaunt Cliffs and traverse the Tribulation Caverns to pr
 Take your time within this place. To reach this one takes double the pace.,"Не торопитесь в этом месте. Чтобы добраться до этого, нужно вдвое больше времени."
 Taken from the risen quaggan village in the Drowned Brine of Malchor's Leap.,Взято из восставшей деревни квагганов в Утопленном рассоле Прыжка Малхора.
 Taken out back.,Вынесен на задворки.
-"Taker of Blood[pl:""Blood""]",
+"Taker of Blood[pl:""Blood""]",Вор крови
 Takes effect immediately upon receipt.,Действует немедленно после получения.
 Takes effect on game restart.,Действует после перезапуска игры.
 Takes Flight,Взлетает
@@ -443,7 +443,7 @@ Talk with kodan cubs about the coolest toys. These four cubs love to chat around
 Tall Candlestick[s],[Высокий подсвечник|Высокого подсвечника|Высоких подсвечников]
 Tall Lattice[s],[Высокая решётка|Высокой решётки|Высоких решёток]
 Tall Shield,Высокий щит
-"Tall Ship Stairs[pl:""Stairs""]",
+"Tall Ship Stairs[pl:""Stairs""]",[Большая лестница|Большие лестницы|Больших лестниц]
 Tall Wall,Высокая стена
 Tall Wide Wall,Высокая широкая стена
 Tally Reckoner (Level 18),Счетчик Талли (18 уровень)
@@ -477,7 +477,7 @@ Tangerine Dye[s],[Краска «Мандарин»|Краски «Мандар�
 Tangled Darkness,Спутанная тьма
 Tangled Depths Bonus,Бонус «Запутанные глубины»
 Tangled Depths Reward Track,Трек награды «Запутанные глубины»
-Tangled Depths: Commander's Choice Chest[s],
+Tangled Depths: Commander's Choice Chest[s],Сундук командира из запутанных глубин[|а|ов]
 Tangled Depths: Rata Novus Lane,"Тропа Рата Новус, Запутанные глубины"
 Tangled Depths: SCAR Lane,"Тропа ОПК, Запутанные глубины"
 Tangled Depths<br>(Flooded Tunnels),Запутанные глубины<br>(Затопленные тоннели)
@@ -497,5 +497,5 @@ Tap Don't Care Hold,"Нажми, не заботься, держи"
 Tap into the power of Mordemoth to kill your target.,"Воспользуйтесь силой Мордемота, чтобы убить вашу цель."
 Tap into your inner beauty with makeover kits!,Воспользуйтесь своей внутренней красотой с помощью наборов для преображения!
 Tap into your processing unit to gain alacrity.,"Подключитесь к своему процессорному блоку, чтобы получить проворство."
-"Tapestry[pl:""Tapestries""] of Sacrifice",
+"Tapestry[pl:""Tapestries""] of Sacrifice",Гобелен[а|ы|ов] Жертвоприношения
 Tapped Out,Истощён

@@ -9,12 +9,12 @@ Firebringer,Огненосец
 Firecracker,Петарда
 Firefly,Светлячок
 Firelighter,Огниво
-Firemouth,
+Firemouth,Огненная пасть
 Fireplace,Камин
 Firespin,Огневерт
 Firewall,Огненная стена
 Firewave,Огненная волна
-Firework,
+Firework,Фейерверк
 Fireworks,Фейерверки
 Fisch,Рыба
 Fisher,Fisher
@@ -31,9 +31,9 @@ Flamewaker,Пробудитель пламени
 Flangeflare,Фланжвспышка
 Flash,Вспышка
 Flat,Плоский
-Flatbread,
+Flatbread,Лепешка
 Flax,Флакс
-Flayfin,
+Flayfin,Флейфин
 Fleeing,Бегство
 Fleshgorge,Плотояд
 Flex,Гибкость
@@ -46,7 +46,7 @@ Flip,Переворот
 Flop,Плюх
 Flour,Мука
 Flower,Цветок
-Flowerhead,
+Flowerhead,Цветочная головка
 Flying,Полет
 Foci,Фокусы
 Focus,Фокус
@@ -188,7 +188,7 @@ Ginger,Имбирь
 Ginnfast,Гиннфаст
 Gisla,Гисла
 Give,Дать
-"Give me a bomb, and I'll get there.",
+"Give me a bomb, and I'll get there.","Дайте мне бомбу, и я туда доберусь."
 Gizmo,Гизмо
 Gizmometer,Гизмометр
 Glacier,Ледник
@@ -339,7 +339,7 @@ Hatchet,Топорик
 Haters,Ненавистники
 Haul,Перевозка
 Hauser,Хаузер
-"Have you ever seen a finer griffon? No, you haven't. That's because Beaker is the best. He has the sharpest talons and the toughest beak.",
+"Have you ever seen a finer griffon? No, you haven't. That's because Beaker is the best. He has the sharpest talons and the toughest beak.","Вы когда-нибудь видели более прекрасного грифона? Нет, не видели. Потому что Бикер — лучший. У него самые острые когти и самый крепкий клюв."
 Havocwreaker,Разрушитель Хаоса
 Hay,Сено
 Haymaker,Хук
@@ -438,8 +438,8 @@ Hylek,Хилек
 Hymenoptera,Перепончатокрылые
 Hypothesis,Гипотеза
 I,Я
-"I see the rookery's bested you. If you'd like to try again, I can heal your wounds and transport you to my location.",
-I was just about to go to sleep.,
+"I see the rookery's bested you. If you'd like to try again, I can heal your wounds and transport you to my location.","Похоже, гнездо оказалось для тебя слишком сложной задачей. Если хочешь попробовать еще раз, я могу залечить твои раны и телепортировать к себе."
+I was just about to go to sleep.,Я как раз собирался ложиться спать.
 I'm %str2% %str3%.,Я %str2% %str3%.
 II,II
 III,III

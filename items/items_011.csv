@@ -57,12 +57,16 @@ A recipe to refine Watchwork Sprockets.,Рецепт переработки Ча
 A recipe to smelt Prismatium Ingots.,Рецепт выплавки Призматиевых слитков.
 A recipe to turn yourself into an Ascalon Ghost,Рецепт превращения себя в призрака Аскалона.
 "A recollection of the afterlife and deeds of Mad King Thorn, as told by his loyal subjects and friends. Contains an authoritative account of King Oswald Thorn's unlife, from gruesome death to enlightened rule of the Mad Realm.
-<c=@flavor>Your Mad King says: Wear this at all times.</c>",
+<c=@flavor>Your Mad King says: Wear this at all times.</c>","Воспоминания о загробной жизни и деяниях Безумного короля Торна, рассказанные его верными подданными и друзьями. Содержит достоверный рассказ о нежизни короля Освальда Торна, от его ужасной смерти до мудрого правления в Безумном королевстве.
+<c=@flavor>Ваш Безумный король говорит: Носите это всегда.</c>"
 "A recollection of the life and deeds of Mad King Thorn, as recounted by his loyal subjects and friends. The volume ends with the coronation of King Thorn. It seems incomplete.
-<c=@flavor>—Stories yet untold despite the tower that marks a spooky site. When humans flee their home of old, where they settle cannot be told.</c>",
+<c=@flavor>—Stories yet untold despite the tower that marks a spooky site. When humans flee their home of old, where they settle cannot be told.</c>","Воспоминания о жизни и деяниях Безумного короля Торна, рассказанные его верными подданными и друзьями. Книга заканчивается коронацией короля Торна. Похоже, она неполная.
+<c=@flavor>—Истории, которые еще предстоит рассказать, несмотря на башню, отмечающую жуткое место. Когда люди покидают свой старый дом, невозможно предсказать, где они поселятся.</c>"
 "A recollection of the life and deeds of Mad King Thorn, as told by his loyal subjects and friends. Contains a complete account of King Oswald Thorn's life, from boyhood to gruesome death.
 <c=@flavor>""Even after death, I shall return! And all my enemies will burn, burn, BURN!""
-—Mad King Thorn</c>",
+—Mad King Thorn</c>","Воспоминания о жизни и деяниях безумного короля Торна, рассказанные его верными подданными и друзьями. Содержит полный рассказ о жизни короля Освальда Торна, от юности до ужасной смерти.
+<c=@flavor>""Даже после смерти я вернусь! И все мои враги сгорят, сгорят, СГОРЯТ!""
+— Безумный король Торн</c>"
 "A record of your exploits as a hunter.
 Double-click to read.","Запись о ваших подвигах в качестве охотника.
 Дважды щелкните, чтобы прочитать."
@@ -81,7 +85,7 @@ A reward bag for a good deed.,Сумка с наградой за доброе �
 A reward for finding all of Shadi's missing Sunspear equipment.,Награда за поиск всего потерянного снаряжения Солнечного Копья Шади.
 A rifle roughly forged from Brand crystal using techniques learned from Forge Master Hilina.,"Винтовка, грубо выкованная из клеймёного кристалла с использованием техник, которым обучила Мастер Кузнец Хилина."
 A rifle skillfully forged from Brand crystal using techniques learned from Forge Master Hilina.,"Винтовка искусно кованая из кристалла Бран, с использованием техник, которым обучил Мастер кузнец Хилина."
-"A ritual vial used to convert kodan into boneskinners. Combine this with a Boneskinner Weapon, Amalgamated Draconic Lodestones, and Gifts of Bones in the Mystic Forge to unleash their full potential.",
+"A ritual vial used to convert kodan into boneskinners. Combine this with a Boneskinner Weapon, Amalgamated Draconic Lodestones, and Gifts of Bones in the Mystic Forge to unleash their full potential.","Ритуальный сосуд, используемый для превращения кодан в костяных охотников. Соедините его с оружием костяного охотника, объединенными драконическими самоцветами и дарами костей в мистической кузнице, чтобы раскрыть их полный потенциал."
 "A rod that can't bend will break. There's probably some wisdom in there, or at least physics.","Стержень, который не гнется, сломается. Возможно, в этом есть мудрость, или хотя бы физика."
 A rough hunk of amber from the Altrumm Mines. This requires processing and polishing before it is of any use to anyone.,"Грубый кусок янтаря из шахт Альтрумма. Его необходимо обработать и отполировать, прежде чем он станет кому-то полезен."
 A roughly made book. Bring this to an expert to create a journal.,"Грубо сделанная книга. Отнесите это эксперту, чтобы создать дневник."
@@ -106,20 +110,28 @@ A scepter skillfully forged from Brand crystal using techniques learned from For
 A scepter wrought from the husk of a boneskinner.,"Скипетр, выкованный из оболочки костесдирателя."
 "A script for a play written by celebrated director Abioye Bayu of the Lyssan Fools acting troupe.
 <c=@Flavor>The Greatest Love Story Ever Told...about a Mime</c>
-Renown Item",
+Renown Item","Сценарий пьесы, написанный знаменитым режиссёром Абиое Баю из театральной труппы «Лиссанские шуты».
+<c=@Flavor>Величайшая история любви… о миме.</c>
+Известный предмет."
 A seal etched with forgotten glyphs. Follower Xunn at Scattered Remnants in Elon Riverlands is looking for them.,Печать с забытыми глифами. Последователь Ксунн у «Разбросанных остатков» в реке Элон ищет их.
 "A secret letter for Aisha Jedgok, who is undercover among the ghosts of the Lair of the Forgotten.","Секретное письмо для Айши Джедгок, работающей под прикрытием среди призраков Логова Забытых."
 "A secret letter for Aisha Jedgok, who is undercover among the ghosts of the Lair of the Forgotten.
 
-Double-click to locate.",
+Double-click to locate.","Секретное письмо для Айши Джедгок, которая тайно действует среди призраков в Логове Забытых.
+
+Дважды щелкните, чтобы найти."
 "A secret letter for Nori Mahat, who is currently undercover in the village of Purity among local villagers.","Секретное письмо для Нори Махат, которая в настоящее время находится под прикрытием в деревне Чистоты среди местных жителей."
 "A secret letter for Nori Mahat, who is currently undercover in the village of Purity among local villagers.
 
-Double-click to locate.",
+Double-click to locate.","Секретное письмо для Нори Махат, которая сейчас под прикрытием в деревне Чистота среди местных жителей.
+
+Дважды щелкните, чтобы найти."
 "A secret letter that should be brought to Ahel Nakat, who is undercover in the Ruination among the Order of Shadows.","Секретное письмо, которое следует доставить Ахел Накат, работающему под прикрытием в Руинации среди Ордена Теней."
 "A secret letter that should be brought to Ahel Nakat, who is undercover in the Ruination among the Order of Shadows.
 
-Double-click to locate.",
+Double-click to locate.","Секретное письмо, которое нужно доставить Ахелю Накату, действующему под прикрытием в Руинах среди Ордена Теней.
+
+Дважды щелкните, чтобы найти."
 "A seemingly ancient item, though not much can be discerned from it. There are symbols across its surface... Perhaps someone who has studied Seers could help.","Казалось бы, древний предмет, хотя о нём мало что можно узнать. На его поверхности есть символы... Возможно, тот, кто изучал Провидиц, сможет помочь."
 A sentinel's rifle loaded with an experimental bullet for use against branded creatures.,"Винтовка стража, заряженная экспериментальной пулей для использования против клеймёных существ."
 A Shade's Blindspot,Слепое пятно тени
@@ -153,15 +165,19 @@ A skritt thief rifles through your opponent's pockets with this finishing move i
 A skyscale egg. Perhaps you can hatch it?,"Яйцо небесной чешуйницы. Возможно, вы сможете высидеть его?"
 A Skyscale's Choice,Выбор скайскейла
 "A skyscale's strength is strongly tied to the amount of care it receives as a hatchling.
-Combine 1 Blue Skyscale Hatchling with 2 Gray Skyscale Hatchlings and 4 Unidentified Dyes in the Mystic Forge to create a Green Skyscale Hatchling.",
+Combine 1 Blue Skyscale Hatchling with 2 Gray Skyscale Hatchlings and 4 Unidentified Dyes in the Mystic Forge to create a Green Skyscale Hatchling.","Сила скайскаля напрямую зависит от того, насколько хорошо о нём заботятся в период его роста.
+Соедините 1 голубого детёныша небесной чешуйки, 2 серых детёныша небесной чешуйки и 4 неопознанных красителя в мистической кузнице, чтобы создать зелёного детёныша небесной чешуйки."
 "A skyscale's strength is strongly tied to the amount of care it receives as a hatchling.
-Combine 1 Gold, 1 Red, and 1 White Skyscale Hatchling with 20 Unidentified Dyes in the Mystic Forge to create an Ember Skyscale Hatchling.",
+Combine 1 Gold, 1 Red, and 1 White Skyscale Hatchling with 20 Unidentified Dyes in the Mystic Forge to create an Ember Skyscale Hatchling.","Сила скайскаля напрямую зависит от того, насколько хорошо о нём заботятся в период его роста.
+Соедините 1 золотого, 1 красного и 1 белого детёныша скайске в Мистической кузнице с 20 неопознанными красителями, чтобы создать детёныша огненного скайске."
 "A skyscale's strength is strongly tied to the amount of care it receives as a hatchling.
-Combine 1 Gray, 1 Blue, and 1 Green Skyscale Hatchling with 4 Unidentified Dyes in the Mystic Forge to create a Red Skyscale Hatchling.",
+Combine 1 Gray, 1 Blue, and 1 Green Skyscale Hatchling with 4 Unidentified Dyes in the Mystic Forge to create a Red Skyscale Hatchling.","Сила скайскаля напрямую зависит от того, сколько внимания ему уделяют в период его роста.
+Объедините 1 серого, 1 синего и 1 зеленого детеныша Скайскейла с 4 неизвестными красителями в Мистической кузнице, чтобы создать красного детеныша Скайскейла."
 "A skyscale's strength is strongly tied to the amount of care it receives as a hatchling.
 Combine 1 Red and 2 Gray Skyscale Hatchlings with 8 Unidentified Dyes in the Mystic Forge to create a Copper Skyscale Hatchling.",'Сила скайскейла сильно зависит от заботы
 "A skyscale's strength is strongly tied to the amount of care it receives as a hatchling.
-Combine 1 Silver, 1 Blue, and 1 White Skyscale Hatchling with 20 Unidentified Dyes in the Mystic Forge to create a Bioluminescent Skyscale Hatchling.",
+Combine 1 Silver, 1 Blue, and 1 White Skyscale Hatchling with 20 Unidentified Dyes in the Mystic Forge to create a Bioluminescent Skyscale Hatchling.","Сила скайскаля напрямую зависит от того, сколько внимания ему уделяют в период его роста.
+Соедините 1 серебряного, 1 голубого и 1 белого птенца скайскала с 20 неопознанными красителями в мистической кузнице, чтобы создать биолюминесцентного птенца скайскала."
 "A skyscale's strength is strongly tied to the amount of care it receives as a hatchling.
 Combine 1 White and 2 Copper Skyscale Hatchlings with 12 Unidentified Dyes in the Mystic Forge to create a Silver Skyscale Hatchling.",'Сила скайскейла сильно зависит от заботы
 "A skyscale's strength is strongly tied to the amount of care it receives as a hatchling.
@@ -173,7 +189,11 @@ Combine 3 Gray Skyscale Hatchlings with 2 Unidentified Dyes in the Mystic Forge 
 
 Use 12 petals to crystalize a Teal Bloom.
 
-<c=@reminder>May be sold to vendors.</c>",
+<c=@reminder>May be sold to vendors.</c>","Крошечная частица потенциала материализовалась из Туманов.
+
+Используйте 12 лепестков, чтобы кристаллизовать бирюзовый цветок.
+
+<c=@reminder>Может быть продано торговцам.</c>"
 A small data crystal filled with knowledge.,"Маленький кристалл данных, наполненный знаниями."
 A small idol in the image of Baelfire.,Маленький идол в образе Бэйлфайра.
 A small packet of vegetable seeds. This could help feed hungry villagers in Yatendi.,Маленький пакетик овощных семян. Это может помочь накормить голодных жителей Ятенди.
@@ -190,7 +210,7 @@ A souvenir from the lands of the norn. Bring this to Aurene to show her an examp
 A souvenir from the lands of the sylvari. Bring this to Aurene to show her an example of sylvari life.,"Сувенир из земель сильвари. Принеси его Аурен, чтобы показать ей пример жизни сильвари."
 A souvenir of the Zephyrites. Bring this to Aurene to show her how Tyria cared for her before she was born.,"Сувенир зефиритов. Принеси его Аурен, чтобы показать ей, как Тирия заботилась о ней до её рождения."
 A Spark of Knowledge,Искра знания
-"A special explosive that destroys steam creatures. Remember, don't use too much.",
+"A special explosive that destroys steam creatures. Remember, don't use too much.","Специальная взрывчатка, уничтожающая паровых существ. Помните, не используйте слишком много."
 A special kit used by the Zaishen Order when serving Lord Balthazar in the field.,"Особый набор, используемый орденом Зайшенов при служении лорду Бальтазару в полевых условиях."
 A special mystic item able to communicate directly with Zommoros.,"Особый мистический предмет, способный напрямую общаться с Зомморосом."
 A special variety of Omnomberry that Byanca is particularly interested in.,"Особая разновидность омномберри, которая особенно интересует Бьянку."
@@ -279,7 +299,9 @@ A wooden roller beetle.,Деревянный жук-каток.
 A worn object resembling a sword of an ancient make.,"Потёртый предмет, напоминающий меч древней работы."
 "A worn plush doll with a single gem on its head. A child surely would be looking for this.
 
-This item has no use outside of a collection.",
+This item has no use outside of a collection.","Потёртая плюшевая кукла с одним драгоценным камнем на голове. Наверняка какой-то ребёнок ищет её.
+
+Этот предмет не имеет практического применения, кроме как для коллекции."
 "A worn, handwritten letter. Inside its folds rests a heart-shaped locket. It's a bit rough around the edges, but it seems to have been a handmade gift.","Потёртое письмо, написанное от руки. В его складках покоится сердцевидный медальон. Он немного грубоват по краям, но, похоже, был сделан вручную в качестве подарка."
 Abaddon Axe,Топор Абаддона
 Abaddon Dagger,Кинжал Абаддона
@@ -298,7 +320,7 @@ Abaddon Sword,Меч Абаддона
 Abaddon Talisman,Талисман Абаддона
 Abaddon Torch,Факел Абаддона
 Abaddon Warhorn,Рог Абаддона
-Abaddon Weapon Box,
+Abaddon Weapon Box,Ящик с оружием из Предела
 Abaddon's Cowl,Капюшон Абаддона
 Abaddon's Mask Skin,Облик маски Абаддона
 Abasi's Envenomed Cleaver,Отравленный тесак Абаси
@@ -307,7 +329,7 @@ Abasi's Envenomed Cleaver,Отравленный тесак Абаси
 Celestial","Абелин Фавр
 543 Блум X011
 Небесный"
-Aberrant Warg Meat Chunk,
+Aberrant Warg Meat Chunk,Кусок мяса аберрантного варга
 Ability Reset Guide,Руководство по сбросу способностей
 Abomination Hammer,Молот Чудовища
 Abomination Weapon Box,Сундук оружия Чудовища
@@ -425,29 +447,41 @@ This item is used to craft or purchase Slumbering Lightborne weapons, which she 
 
 <c=@flavor>От этой искры исходит слабое свечение.</c>"
 "Acquired occasionally by earning a silver medal or better in Shipwreck Strand adventures.
-Trade to alliance field quartermasters in Castora for a pair of Restless Captain's Leggings.",
+Trade to alliance field quartermasters in Castora for a pair of Restless Captain's Leggings.","Иногда можно получить, заняв одно из первых трёх мест в приключении на Острове кораблекрушений.
+Обменяйте у полевых командиров Альянса в Касторе на пару ""Неутомимых штанов капитана""."
 "Acquired occasionally by earning a silver medal or better in Starlit Weald adventures.
-Trade to alliance field quartermasters in Castora for a pair of Extremis Leggings.",
+Trade to alliance field quartermasters in Castora for a pair of Extremis Leggings.","Иногда можно получить, завоевывая серебряную медаль или более высокую награду в приключениях в Звёздной Роще.
+Отнесите это предмет полевым мастерам альянса в Касторе, чтобы обменять на пару понож Extremis."
 "Acquired occasionally from events in Shipwreck Strand.
-Trade to alliance field quartermasters in Castora for a pair of Restless Captain's Gloves.",
+Trade to alliance field quartermasters in Castora for a pair of Restless Captain's Gloves.","Иногда можно получить, участвуя в событиях в локации «Пляж кораблекрушений».
+Отнесите предмет полевым мастерам альянса в Касторе, чтобы обменять его на пару перчаток «Беспокойный капитан»."
 "Acquired occasionally from events in Starlit Weald.
-Trade to alliance field quartermasters in Castora for a pair of Extremis Gloves.",
+Trade to alliance field quartermasters in Castora for a pair of Extremis Gloves.","Иногда можно получить в награду за участие в событиях в Звёздной Роще.
+Отнесите предмет полевым мастерам альянса в Касторе, чтобы обменять его на пару перчаток ""Экстремис""."
 "Acquired occasionally from jumping puzzles in Shipwreck Strand.
-Trade to alliance field quartermasters in Castora for a pair of Restless Captain's Boots.",
+Trade to alliance field quartermasters in Castora for a pair of Restless Captain's Boots.","Иногда можно получить, выполняя головоломки с прыжками в локации «Затонувший берег».
+Обменяйте их у полевых командиров союза в Касторе на пару «Неугомонных сапог капитана»."
 "Acquired occasionally from jumping puzzles in Starlit Weald.
-Trade to alliance field quartermasters in Castora for a pair of Extremis Boots.",
+Trade to alliance field quartermasters in Castora for a pair of Extremis Boots.","Иногда можно получить, проходя головоломки в Звёздной Роще.
+Отнесите их полевым мастерам альянса в Касторе и обменяйте на пару сапог «Экстремис»."
 "Acquired occasionally from mystery mirrors in Shipwreck Strand.
-Trade to alliance field quartermasters in Castora for a Restless Captain's Mantle.",
+Trade to alliance field quartermasters in Castora for a Restless Captain's Mantle.","Иногда можно получить из таинственных зеркал в Затонувшем Прибрежье.
+Обменяйте его у полевых снабженцев Альянса в Касторе на Накидку Неугомонного Капитана."
 "Acquired occasionally from mystery mirrors in Starlit Weald.
-Trade to alliance field quartermasters in Castora for an Extremis Mantle.",
+Trade to alliance field quartermasters in Castora for an Extremis Mantle.","Иногда можно получить из таинственных зеркал в Звёздной Роще.
+Отнесите это предмет полевым мастерам альянса в Касторе, чтобы обменять на «Экстремистскую накидку»."
 "Acquired occasionally from obscured chests in Shipwreck Strand.
-Trade to alliance field quartermasters in Castora for a Restless Captain's Veil.",
+Trade to alliance field quartermasters in Castora for a Restless Captain's Veil.","Иногда можно найти в скрытых сундуках на Пляже кораблекрушений.
+Отнесите это полевым мастерам альянса в Касторе, чтобы получить Вуаль беспокойного капитана."
 "Acquired occasionally from obscured chests in Starlit Weald.
-Trade to alliance field quartermasters in Castora for an Extremis Hood.",
+Trade to alliance field quartermasters in Castora for an Extremis Hood.","Иногда можно найти в скрытых сундуках в Звёздной Роще.
+Отнесите это полевым командирам альянса в Касторе, чтобы получить капюшон ""Экстремис""."
 "Acquired occasionally from the Hammerhart Rumble! world boss event in Shipwreck Strand.
-Trade to alliance field quartermasters in Castora for a Restless Captain's Coat.",
+Trade to alliance field quartermasters in Castora for a Restless Captain's Coat.","Иногда можно получить в награду за победу над мировым боссом «Hammerhart Rumble» в локации Shipwreck Strand.
+Отнесите его полевым командирам альянса в Касторе, чтобы обменять на «Неспокойный капитанский плащ»."
 "Acquired occasionally from the Secrets of the Weald meta-event in Starlit Weald.
-Trade to alliance field quartermasters in Castora for an Extremis Coat.",
+Trade to alliance field quartermasters in Castora for an Extremis Coat.","Иногда можно получить в ходе мета-события «Тайны Веалда» в Звёздной Роще.
+Отнесите предмет полевым мастерам альянса в Касторе, чтобы обменять его на «Экстремистский плащ»."
 Acquired while tracking and training your skyscale.,Получено во время выслеживания и обучения скайскейля.
 Acquiring this item expands your knowledge in the Dragon Slayer Mastery track and instantly grants you karma.,Получение этого предмета расширяет ваши знания в ветке мастерства «Убийца драконов» и мгновенно даёт карму.
 Acquiring this item unlocks a quest from the Wizard's Vault to acquire the Falling Star Spear and Meteor-Wielder's Glove.,'При получении этого предмета открывается задание из Хранилища волшебника на получение копья «Падающая звезда» и перчатки владельца метеора.'
@@ -471,17 +505,25 @@ Activate this Tactic to temporarily summon a fleet of airships that will protect
 Activate this tactic to temporarily summon mist machines that will heal allies at the objective.,"Активируйте эту тактику, чтобы временно призвать туманные машины, которые будут исцелять союзников у цели."
 "Activate this to unlock a Spiritwood Fishing Rod skin.
 
-<c=@flavor>""A rod fit for only the greatest of fisherfolk!"" —Ukyo</c>",
+<c=@flavor>""A rod fit for only the greatest of fisherfolk!"" —Ukyo</c>","Активируйте, чтобы получить внешний вид «Рыболовный посох из Духовного леса».
+
+<c=@flavor>«Этот посох достоин лишь самых искусных рыбаков!» — Укё.</c>"
 "Activate this to unlock a Striped Fishing Rod skin.
 
-<c=@flavor>""Very much a classic bamboo rod, but with a splash of colorful red and green stripes!"" —Lin</c>",
+<c=@flavor>""Very much a classic bamboo rod, but with a splash of colorful red and green stripes!"" —Lin</c>","Активируйте это, чтобы получить внешний вид «Полосатая удочка».
+
+<c=@flavor>«Это классическая бамбуковая удочка, но с яркими красными и зелеными полосками!» — Лин</c>"
 "Activate this to unlock the ability to use a glider. 
 
-With access to Guild Wars 2: Heart of Thorns, you can further improve your gliding abilities.",
+With access to Guild Wars 2: Heart of Thorns, you can further improve your gliding abilities.","Активируйте эту опцию, чтобы получить возможность использовать дельтаплан.
+
+Приобретя дополнение Guild Wars 2: Heart of Thorns, вы сможете улучшить свои навыки полёта на дельтаплане."
 Activate this to unlock the base raptor skin.,"Активируйте, чтобы разблокировать базовый облик раптора."
 "Activate this to unlock the raptor mount. 
 
-With access to Guild Wars 2: Path of Fire, you can improve your raptor abilities.",
+With access to Guild Wars 2: Path of Fire, you can improve your raptor abilities.","Активируйте это, чтобы получить возможность использовать раптора в качестве ездового животного.
+
+С дополнением Guild Wars 2: Path of Fire вы сможете улучшить способности своего раптора."
 Activate this to unlock your mount and the associated Mastery track.,"Активируйте это, чтобы открыть вашего скакуна и соответствующую ветку Мастерства."
 Activate to choose a combat boost that will last for one hour.,"Активируйте, чтобы выбрать боевое усиление, которое продлится один час."
 Activate to choose a reward boost that will last for one hour.,"Активируйте, чтобы выбрать усиление награды, которое продлится один час."
@@ -545,8 +587,8 @@ Equipment Template tabs allow a character to swap to an additional set of equipm
 Вкладки «Шаблоны снаряжения» позволяют персонажу переключаться на дополнительный набор снаряжения."
 Adder's Hiss,Змеиное шипение
 "Addiction, loss, determination... The one lost to the abyss; her father mourns. Perhaps a clue can be found at the scene of the tragedy.","Зависимость, потеря, решимость... Та, что потеряна в бездне; её отец скорбит. Возможно, улику можно найти на месте трагедии."
-Additional Crafting License,
-Additional Gold,
+Additional Crafting License,Дополнительная лицензия на крафт
+Additional Gold,Дополнительное золото
 Additional Spectrum Filter,Дополнительный спектральный фильтр
 Adds 10 calcified gasps to your wallet.,Добавляет 10 окаменевших вздохов в ваш кошелек.
 Adds 10 pinches of stardust to your wallet.,Добавляет 10 щепоток звездной пыли в ваш кошелек.
@@ -567,7 +609,7 @@ Adds an artificing station to Eye of the North.,Добавляет станци�
 Adds bank access to Eye of the North.,Добавляет доступ к банку в Око Севера.
 Adds Divinity's Reach as a destination to the Eye of the North gate.,Добавляет Обитель Божества как пункт назначения в врата Ока Севера.
 Adds Hoelbrak as a destination to the Eye of the North gate.,Добавляет Хоэльбрак как пункт назначения в врата Ока Севера.
-Adds Imperial Favor to your wallet.,
+Adds Imperial Favor to your wallet.,Добавляет имперскую благосклонность в ваш кошелёк.
 Adds Lion's Arch as a destination to the Eye of the North gate.,Добавляет Львиный Архипелаг как пункт назначения в врата Ока Севера.
 Adds new items to the employee perks shop.,Добавляет новые предметы в магазин привилегий для сотрудников.
 Adds Rata Sum as a destination to the Eye of the North gate.,Добавляет Рата Сум как пункт назначения в врата Ока Севера.
@@ -577,16 +619,16 @@ Adds the Black Citadel as a destination to the Eye of the North gate.,Добав
 Adds the Grove as a destination to the Eye of the North gate.,Добавляет Рощу как пункт назначения для врат Ока Севера.
 Adds the Special Forces Training Area as a destination to the Eye of the North gate.,Добавляет Тренировочную зону спецназа как пункт назначения для врат Ока Севера.
 Adds trading post access to Eye of the North.,Добавляет доступ к торговому посту в Око Севера.
-Adds Unusual Coin to your wallet.,
+Adds Unusual Coin to your wallet.,Добавляет необычную монету в ваш кошелёк.
 Adds ursus obliges to your wallet.,Добавляет «Урсус обязуется» в ваш кошелёк.
 Adds your home as a destination to the Eye of the North gate.,Добавляет ваш дом как пункт назначения для врат Ока Севера.
 Adelbern's Burden,Бремя Адельберна
 Adelbern's Royal Signet Ring,Королевский перстень-печатка Адельберна
 Adelbern's Royal Signet Ring (Infused),Королевский перстень-печатка Адельберна (насыщенный)
-Adept Chest of the Mists,
+Adept Chest of the Mists,Искусный сундук из Туманов
 Adept Coat,Куртка подмастерья
 Adept Helm,Шлем адепта
-Adept's Bag of Crafting Supplies,
+Adept's Bag of Crafting Supplies,Сумка опытного мастера с материалами для крафта
 Adept's Training Manual,Учебное пособие ученика
 Adina's Nexus of the Assaulter,Узел Адины штурмовика
 Adina's Nexus of the Defender,Узел Адины защитника
@@ -597,30 +639,30 @@ Adina's Rifle of the Defender,Винтовка Адины защитника
 Adina's Rifle of the Healer,Винтовка Адины целителя
 Adina's Rifle of the Malicious,Винтовка Адины злобного
 Admit one competitor into a Queen's Gauntlet arena.,Допустить одного участника на арену Королевского турнира.
-Adobe Dye,
-Adobe Sunset Dye,
-Adorned Amber Jewel,
+Adobe Dye,Краситель Adobe
+Adobe Sunset Dye,"Краситель ""Закат от Adobe"""
+Adorned Amber Jewel,Украшенный янтарный самоцвет
 Adorned Axe,Украшенный топор
-Adorned Book,
+Adorned Book,Украшенный том
 Adorned Dirk,Украшенный кинжал
-Adorned Garnet Jewel,
+Adorned Garnet Jewel,Украшенный гранатовый самоцвет
 Adorned Harpoon Gun,Украшенный гарпуномет
 Adorned Highlander Sword,Украшенный меч хайлендера
 Adorned Mace,Украшенная булава
-Adorned Malachite Jewel,
+Adorned Malachite Jewel,Украшенный малахитовый самоцвет
 Adorned Musket,Украшенный мушкет
-Adorned Pearl,
+Adorned Pearl,Изысканная жемчужина
 Adorned Pistol,Украшенный пистолет
 Adorned Rinblade,Украшенный ринблейд
 Adorned Sconce,Украшенный факел
-Adorned Snowflake,
+Adorned Snowflake,Украшенная снежин[ка|ки|ок]
 Adorned Staff,Украшенный посох
-Adorned Tiger's Eye Jewel,
+Adorned Tiger's Eye Jewel,Украшенный тигровый глаз
 Adorned Trident,Украшенный трезубец
-Adorned Turquoise Jewel,
+Adorned Turquoise Jewel,Искусно украшенный бирюзовый самоцвет
 Adorned Virge,Украшенный жезл
 Adorned Warhammer,Украшенный боевой молот
 Adorned Warhorn,Украшенный рог войны
 Advanced Ammunition Cylinder,Продвинутый баллон с боеприпасами
 Advanced Cloth Rack,Продвинутая стойка для ткани
-Advanced Control Board,
+Advanced Control Board,Усовершенствованная панель управления

@@ -247,7 +247,8 @@ Granite Staff,Гранитный посох
 Grant barrier to yourself and nearby allies after you use a healing skill.,Наложение барьера на себя и ближайших союзников после использования навыка лечения.
 Grant might and fury to nearby allies after using a healing skill.,Дает могущество и ярость союзникам поблизости после использования лечащего умения.
 "Grant might and fury to nearby allies when you disable an enemy. 
-<c=@reminder>Disables include stun, taunt, daze, knockback, pull, knockdown, sink, float, fear, and launch.</c>",
+<c=@reminder>Disables include stun, taunt, daze, knockback, pull, knockdown, sink, float, fear, and launch.</c>","Даруйте союзникам рядом мощь и ярость при обездвиживании врага.
+<c=@reminder>Обездвиживание включает в себя оглушение, насмешку, ошеломление, отбрасывание, подтягивание, сбивание с ног, погружение, поднятие в воздух, страх и отброс.</c>"
 Grant protection and magnetic aura to allies after using an elite skill.,Дает защиту и магнитную ауру союзникам после использования элитного умения.
 Grant superspeed to nearby allies after using an elite skill.,Наделите союзников вокруг себя сверхскоростью после применения умения элиты.
 "Grant superspeed, might, and fury to nearby allies after using an elite skill.","Даруйте сверхскорость, могущество и ярость союзникам поблизости после использования элитного умения."
@@ -302,18 +303,25 @@ Grants a large amount of Secrets of the Obscure Mastery experience.,Дает б�
 Grants a large amount of Visions of Eternity Mastery experience.,Дает большой опыт мастерства в Видениях Вечности.
 "Grants a moderate amount of karma.
 
-<c=@Flavor>Considered an incredible act of faith, the blindfolded pilgrimage is rarely undertaken in these times. </c>",
+<c=@Flavor>Considered an incredible act of faith, the blindfolded pilgrimage is rarely undertaken in these times. </c>","Даёт умеренное количество кармы.
+
+<c=@Flavor>Считается невероятным проявлением веры, поэтому слепой паломнический путь редко совершается в наше время.</c>"
 "Grants a moderate amount of karma.
 
 <c=@Flavor>Elders tell tales of the giants that used to roam this far south.  </c>",
 "Grants a moderate amount of karma.
 
-<c=@Flavor>Preying on seekers of Ascension is a timeworn grift for both local hustlers and foreign mountebanks.</c>",
+<c=@Flavor>Preying on seekers of Ascension is a timeworn grift for both local hustlers and foreign mountebanks.</c>","Даёт умеренное количество кармы.
+
+<c=@Flavor>Наживаться на тех, кто ищет просветление, — это старая схема как для местных жуликов, так и для приезжих шарлатанов.</c>"
 "Grants a moderate amount of karma.
 
-<c=@Flavor>The bangle is both large and said to be excellent at distracting the giants that roam the Highlands. </c>",
+<c=@Flavor>The bangle is both large and said to be excellent at distracting the giants that roam the Highlands. </c>","Даёт умеренное количество кармы.
+
+<c=@Flavor>Этот браслет довольно большой, и говорят, что он отлично отвлекает гигантов, которые бродят по Высокогорью.</c>"
 "Grants a moderate amount of karma.
-<c=@Flavor>The Elon River School of Painting flourished until an ill-fated salon questioned official narratives.</c>",
+<c=@Flavor>The Elon River School of Painting flourished until an ill-fated salon questioned official narratives.</c>","Даёт умеренное количество кармы.
+<c=@Flavor>Школа живописи при реке Элон процветала, пока злополучный салон не поставил под сомнение официальную точку зрения.</c>"
 Grants a percentage of renown for the current renown heart region upon purchase.,При покупке дает процент известности для текущей зоны известности.
 Grants a permanent 1%% increase to account gold find.,Даёт постоянное увеличение на 1%% к шансу найти золото.
 Grants a permanent 2%% increase to account gold find.,Дает постоянное увеличение поиска золота учетной записью на 2%%.
@@ -323,7 +331,9 @@ Grants a small amount of Central Tyria Mastery experience.,Дает неболь
 Grants a small amount of Crystal Desert Mastery experience.,Дает небольшое количество опыта мастерства Кристальной пустыни.
 "Grants a small amount of Crystal Desert Mastery experience.
 
-<c=@Flavor>Formerly traded across Elona, but banned under Palawa Joko. These are still valued by collectors, scholars, and thieves.</c>",
+<c=@Flavor>Formerly traded across Elona, but banned under Palawa Joko. These are still valued by collectors, scholars, and thieves.</c>","Даёт небольшое количество опыта для повышения уровня владения навыками Кристальной пустыни.
+
+<c=@Flavor>Раньше их активно обменивали в Элоне, но Палава Джоко запретил это. Тем не менее, коллекционеры, учёные и воры по-прежнему ценят эти предметы.</c>"
 Grants a small amount of End of Dragons Mastery experience.,Дает небольшое количество опыта мастерства «Конец Драконов».
 Grants a small amount of experience. Trade 20 writs to Miyani in Lion's Arch for a tome of knowledge.,Дает небольшое количество опыта. Обменяйте 20 свитков у Мияни в Львином Архиве на фолиант знаний.
 Grants a small amount of Heart of Maguuma Mastery experience.,Дает небольшое количество опыта мастерства Сердца Магуумы.
@@ -333,18 +343,25 @@ Grants a small amount of Icebrood Saga Mastery experience.,Дает неболь
 Grants a small amount of Janthir Wilds Mastery experience.,Дает небольшое количество опыта мастерства Джантирских дебрей.
 "Grants a small amount of karma.
 
-<c=@Flavor>A hardened clump of necrotic energy, it almost pulses in your hand. </c>",
+<c=@Flavor>A hardened clump of necrotic energy, it almost pulses in your hand. </c>","Даёт небольшое количество кармы.
+
+<c=@Flavor>Это затвердевший сгусток некротической энергии, который почти пульсирует у вас в руке.</c>"
 "Grants a small amount of karma.
 
-<c=@Flavor>Sometimes, these are brought because they're valuable, but often, a connection to home and better times is reason enough. </c>",
+<c=@Flavor>Sometimes, these are brought because they're valuable, but often, a connection to home and better times is reason enough. </c>","Даёт небольшое количество кармы.
+
+<c=@Flavor>Иногда их приносят из-за ценности, но чаще — ради связи с домом и воспоминаний о лучших временах.</c>"
 "Grants a small amount of karma.
 
-<c=@Flavor>These claws are still sharp enough to be used as rock-carving tools—or for self-defense, in a bind. </c>",
+<c=@Flavor>These claws are still sharp enough to be used as rock-carving tools—or for self-defense, in a bind. </c>","Даёт небольшое количество кармы.
+
+<c=@Flavor>Эти когти всё ещё достаточно острые, чтобы использовать их в качестве инструментов для резьбы по камню — или для самообороны, если потребуется.</c>"
 "Grants a small amount of karma.
 <c=@Flavor>An old superstition, now with the force of ritual, says that for every lie, a price must be paid.</c>","Дает небольшое количество кармы.
 <c=@Flavor>Старое суеверие, теперь обладающее силой ритуала, гласит, что за каждую ложь нужно платить.</c>"
 "Grants a small amount of karma.
-<c=@Flavor>Official portraiture is expensive and highly scrutinized, but artists skilled enough to depict Joko flatteringly are accorded great respect.</c>",
+<c=@Flavor>Official portraiture is expensive and highly scrutinized, but artists skilled enough to depict Joko flatteringly are accorded great respect.</c>","Даёт небольшое количество кармы.
+<c=@Flavor>Официальные портреты стоят дорого и подвергаются тщательному контролю, но художники, достаточно талантливые, чтобы выгодно изобразить Джоко, пользуются большим уважением.</c>"
 "Grants a small amount of karma.
 <c=@Flavor>The choya seemed very excited to present you with this clump of glistening earth.</c>","Дает небольшое количество кармы.
 <c=@Flavor>Чоя, казалось, был очень взволнован, вручая вам этот комок блестящей земли.</c>"
@@ -352,7 +369,8 @@ Grants a small amount of Janthir Wilds Mastery experience.,Дает неболь
 <c=@Flavor>These are much crunchier than the non-golden version, and decidedly less delicious.</c>","Дает небольшое количество кармы.
 <c=@Flavor>Они намного хрустящее, чем незолотая версия, и определенно менее вкусные.</c>"
 "Grants a small amount of karma.
-<c=@Flavor>These things never work, but that hasn't stopped people from trying.</c>",
+<c=@Flavor>These things never work, but that hasn't stopped people from trying.</c>","Даёт небольшое количество кармы.
+<c=@Flavor>Эти штуки никогда не работают, но это не останавливает людей от попыток.</c>"
 "Grants a small amount of karma.
 <c=@Flavor>This collection of Joko's teachings seems of dubious value.</c>","Дает небольшое количество кармы.
 <c=@Flavor>Это собрание учений Джоко кажется сомнительной ценности.</c>"
@@ -376,15 +394,20 @@ Grants a small amount of WvW Reward Track progress.,Дает небольшое 
 <c=@Flavor>Кормир любима по всей Тирии, но элонцы, знающие ее историю, часто гордятся тем, что один из их пантеона — их соотечественник.</c>"
 "Grants a tiny amount of karma.
 
-<c=@Flavor>These were unseen for a generation, but lately the warrior-monks of Balthazar have been placing these to signify their return.</c>",
+<c=@Flavor>These were unseen for a generation, but lately the warrior-monks of Balthazar have been placing these to signify their return.</c>","Даёт небольшое количество кармы.
+
+<c=@Flavor>Эти предметы не видели уже целое поколение, но в последнее время воины-монахи из ордена Бальтазара стали использовать их, чтобы отметить своё возвращение.</c>"
 "Grants a tiny amount of karma.
 
-<c=@Flavor>Whatever wisdom or desperate pleas this once held have been erased by sand, time, and war.</c>",
+<c=@Flavor>Whatever wisdom or desperate pleas this once held have been erased by sand, time, and war.</c>","Даёт небольшое количество кармы.
+
+<c=@Flavor>Вся мудрость и отчаянные мольбы, что когда-то здесь были, стёрты песком, временем и войной.</c>"
 "Grants a tiny amount of karma.
 <c=@Flavor>A mere handful of this effervescent glitter weighs immensely in your hand. </c>","Дает крошечное количество кармы.
 <c=@Flavor>Горсть этого шипучего блеска кажется невероятно тяжелой в вашей руке. </c>"
 "Grants a tiny amount of karma.
-<c=@Flavor>Difficult to catch, but edible. And better in a pot than under your foot.</c>",
+<c=@Flavor>Difficult to catch, but edible. And better in a pot than under your foot.</c>","Даёт небольшое количество кармы.
+<c=@Flavor>Сложно поймать, но съедобно. И лучше в кастрюле, чем под твоей ногой.</c>"
 "Grants a tiny amount of karma.
 <c=@Flavor>In exchange for fresh djinn artifacts, the nobles will gladly part with some barely smudged treasures.</c>","Дает крошечное количество кармы.
 <c=@Flavor>В обмен на свежие артефакты джиннов дворяне с радостью расстанутся с некоторыми едва испачканными сокровищами.</c>"
@@ -410,7 +433,8 @@ Grants a small amount of WvW Reward Track progress.,Дает небольшое 
 <c=@Flavor>The Order of Shadows holds many, many secrets in the desert, and will part with them for a price.</c>","Дает крошечное количество кармы.
 <c=@Flavor>Орден Теней хранит много-много секретов в пустыне и расстанется с ними за определенную плату.</c>"
 "Grants a tiny amount of karma.
-<c=@Flavor>The statue, like the story it tells, is hollow and underwhelming.</c>",
+<c=@Flavor>The statue, like the story it tells, is hollow and underwhelming.</c>","Даёт небольшое количество кармы.
+<c=@Flavor>Статуя, как и история, которую она повествует, кажется пустой и не вызывает особого восторга.</c>"
 "Grants a tiny amount of karma.
 <c=@Flavor>These badges are given by Cavaliers to deputize trustworthy allies. Now you've got a gold star, too!</c>","Даёт крошечное количество кармы.
 <c=@Flavor>Эти значки выдаются кавалерами, чтобы уполномочить доверенных союзников. Теперь и у тебя есть золотая звезда!</c>"
@@ -474,7 +498,7 @@ Only usable in PvE and WvW.","Даёт один уровень персонаж�
 <c=@flavor>The norn may have fled these lands, but their memories remain.</c>","Даёт прогресс в достижении «Значимая выдра». Если достижение завершено, открывает видение Выдры.
 <c=@flavor>Норны могли покинуть эти земли, но их воспоминания остались.</c>"
 Grants the ability to purchase Carapace boot boxes from bandit crest collectors.,Даёт возможность купить шкатулки с ботинками Панциря у коллекционеров значков разбойников.
-"Grants the combined full effects of the Mist Offensive Potion, Mist Defensive Potion, and Mist Mobility Potion.",
+"Grants the combined full effects of the Mist Offensive Potion, Mist Defensive Potion, and Mist Mobility Potion.","Предоставляет все эффекты зелий «Туманное наступление», «Туманная защита» и «Туманное передвижение»."
 "Grants the combined full effects of the Mist Offensive Potion, Mist Defensive Potion, and Mist Mobility Potion. Using this potion in the Fractals of the Mists applies the effect to your entire group.","Даёт суммарный полный эффект от Мистического зелья нападения, Мистического зелья защиты и Мистического зелья мобильности. Использование этого зелья в Туманных Осколках применяет эффект на всю вашу группу."
 "Grants the following benefits for 2 hours:
 • +50%% Experience in All Game Types
@@ -522,7 +546,8 @@ Grants the ability to purchase Carapace boot boxes from bandit crest collectors.
 • 10 секунд быстроты после сбора
 • призыв торговца «Чёрный лев», если инвентарь полон после сбора (перезарядка 20 мин.)"
 "Grants you a bundle item that has 10 charges of red-, blue-, green-, and yellow-colored fireworks and a one-time Dragon Finale firework that grants a 50%% Magic Find boost to all nearby allies.
-<c=@flavor>""Fortune favors the bold!""</c>",
+<c=@flavor>""Fortune favors the bold!""</c>","Даёт предмет, содержащий 10 зарядов красных, синих, зелёных и жёлтых фейерверков, а также один уникальный фейерверк «Драконий финал», который дарует всем находящимся рядом союзникам бонус к шансу выпадения магических предметов в размере 50%%.
+<c=@flavor>""Удача сопутствует смелым!""</c>"
 "Grants you a bundle item that has 10 charges of red-, blue-, green-, and yellow-colored fireworks and a one-time finale firework that grants a 50%% magic-find boost to all nearby allies.
 <c=@flavor>""No tricks—just treats and colors that can't be beat.""</c>",
 Grape Dye,Краска «Виноград»
@@ -610,58 +635,58 @@ Greater Rune of Holding,Великая руна хранения
 Greater Understanding,Великое понимание
 "Greatly reduces non-siege weapon damage to cannons, mortars, and oil pots.","Сильно уменьшает урон от неосадного оружия по пушкам, мортирам и горшкам с маслом."
 Greatly reduces nonsiege weapon damage to gates.,Сильно уменьшает урон от неосадного оружия по воротам.
-Greatsaw Greatsword Skin,
-Greatsword of Energy,
-Greatsword of Fire,
-Greatsword of Leeching,
+Greatsaw Greatsword Skin,Великопильный облик меча
+Greatsword of Energy,Двуручный меч энергии
+Greatsword of Fire,Великий меч огня
+Greatsword of Leeching,Великий меч вампира
 Greatsword of the Dragon's Deep,Большой меч глубин дракона
-Greatsword Sword of Force,
-Greatsword Token,
-Green Apple Dye,
+Greatsword Sword of Force,Двуручный меч силы
+Greatsword Token,Жето́н большо́го меча́
+Green Apple Dye,"Краситель ""Зелёное яблоко"""
 Green Ball Ornament,Зеленое шарообразное украшение
 Green Balloon,Зелёный воздушный шар
 Green Bean,Зеленая фасоль
 Green Beans in Bulk,Зеленая фасоль оптом
 Green Color Study,Изучение зеленого цвета
-Green Commander's Compendium,
+Green Commander's Compendium,Сборник командира-зеленокожего
 Green Cushion,Зеленая подушка
-Green Dye,
+Green Dye,Зеленый краситель
 Green Fireworks,Зеленые фейерверки
-Green Focus Casing,
-Green Focus Core,
-Green Harpoon,
+Green Focus Casing,Зелёная фокусирующая оболочка
+Green Focus Core,Зелёный фокусирующий кристалл
+Green Harpoon,Зелёный гарпун
 Green Leather Bag,Зеленая кожаная сумка
-Green Lion Dye,
-Green Longbow Stave,
+Green Lion Dye,"Краска ""Зелёный Лев"""
+Green Longbow Stave,Зелёный длинный лук
 Green Lucky Rabbit's Foot,Зеленая лапка удачливого кролика
-Green Onion,
+Green Onion,Зелёный лук
 Green Pirate Flag,Зеленый пиратский флаг
-Green Pistol Frame,
+Green Pistol Frame,Рама зелёного пистолета
 Green Quaggan Backpack,Зеленый рюкзак кваггана
-Green Quaggan Backpack Cover,
-Green Quaggan Backpack Set,
-Green Quaggan Tonic,
-Green Rifle Stock,
-Green Rock,
-Green Sawfish,
-Green Scepter Core,
-Green Scepter Rod,
-Green Shade Dye,
-Green Short-Bow Stave,
-Green Staff Head,
-Green Staff Shaft,
+Green Quaggan Backpack Cover,Зелёный чехол для рюкзака Куаггана
+Green Quaggan Backpack Set,"Набор ""Зелёный квакканский рюкзак"""
+Green Quaggan Tonic,Зеленый квагганский тоник
+Green Rifle Stock,Зелёная ложа для винтовки
+Green Rock,Зелёный камень
+Green Sawfish,Зелёная пила-рыба
+Green Scepter Core,Ядро зелёного скипетра
+Green Scepter Rod,Зелёный скипетр-посох
+Green Shade Dye,Зеленый оттенок
+Green Short-Bow Stave,Зелёный короткий лук
+Green Staff Head,Наконечник для посоха (зелёный)
+Green Staff Shaft,Древень зелёного посоха
 Green Stinkhorn,Зеленый вонючий рожок
-Green Tint Dye,
-Green Torch Handle,
+Green Tint Dye,Зелёный краситель
+Green Torch Handle,Рукоять зелёного факела
 Green Tree,Зелёное дерево
-Green Trident Shaft,
+Green Trident Shaft,Зелёный древко трезубца
 Green Wintersday Gift,Зеленый подарок Зимнего дня
 "Green with life, Caladbolg adapts to your hand. Double-click to select its form.","Зеленый от жизни, Каладболг подстраивается под твою руку. Дважды щелкни, чтобы выбрать его форму."
-Green Wood Dowel,
-Green Wood Log,
-Green Wood Pen,
-Green Wood Plank,
-Green Wood Pulp,
+Green Wood Dowel,Зелёная деревянная шпилька
+Green Wood Log,Бревно зелёного дерева
+Green Wood Pen,Зелёная деревянная ручка
+Green Wood Plank,Зелёная деревянная доска
+Green Wood Pulp,Зелёная древесная масса
 Greenflin Seraph Breastplate,Зеленый нагрудник серафимов
 Greenflin Seraph Coat,Зеленый плащ серафимов
 Greenflin Seraph Heavy Leggings,Зеленые тяжелые поножи серафимов

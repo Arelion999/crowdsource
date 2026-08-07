@@ -314,7 +314,9 @@ Gathers from all nearby plants when harvesting.,Собирает урожай с
 Gathers from all nearby saplings when logging.,Собирает со всех ближайших саженцев при рубке.
 "Gideon Hawthorn II,
 003 Tide IIX0,
-Natural",
+Natural","Гидеон Хоторн II,
+003 Тид IIX0,
+Натуральный"
 Gives bonus Mastery experience once per day.,Раз в день даёт дополнительный опыт мастерства.
 "Gives bonus Mastery experience once per day.""","Дает дополнительный опыт мастерства один раз в день."""
 "Gives one standalone homestead decoration of Orrax Contained.,Даёт одно отдельное украшение жилища «Орракс заточён».
@@ -1270,7 +1272,9 @@ Second Drop:,Второе выпадение:
 Seize the Awkward Clothing Outfit,Костюм «Ухвати неловкую одежду»
 "Silque ,
 109 Tide 00XX,
-Natural",
+Natural","Сильк,
+109 Прилив 00XX,
+Натуральный"
 "Skins have no stats of their own.
 Can only be used by characters who wear heavy armor.","Облики не имеют собственных характеристик.
 Может использоваться только персонажами, носящими тяжелую броню."
@@ -1894,7 +1898,9 @@ Vantage points do not host any services.,Смотровые площадки н�
 <c=@flavor>«Это чудо, что мне удалось достать их, не намочив!»</c>"
 "Vaulz Baelwalker,
 576 Frost 0X0I,576 Мороз 0X0I
-Knowledge",
+Knowledge","Вольц Бэйлуокер,
+576 морозных кристаллов 0X0I, 576 морозных кристаллов 0X0I
+Знания"
 Ventari Follower Kite,Воздушный змей последователя Вентари
 What better than to see and be seen?,"Что может быть лучше, чем видеть и быть увиденным?"
 "Whatever power this scroll had is gone now. Near its bottom is an inscription in antique script: ""No refunds!—Kohn.""","Какая бы сила ни была у этого свитка, теперь она исчезла. Внизу есть надпись старинным шрифтом: ""Возврату не подлежит!—Кон""."
@@ -1921,7 +1927,9 @@ Mystery Box","Зима летом
 "WvW Season Reward Chests are awarded at the end of a WvW season to all players who achieved the meta-achievement for the season.""","Сундуки с наградами за сезон WvW выдаются в конце сезона WvW всем игрокам, выполнившим мета-достижение сезона."""
 "Yexxi the Stern,
 092 Tide 00XI,
-Knowledge",
+Knowledge","Йеккси Строгий,
+092 Прилив 00XI,
+Знания."
 "You become an owl.,Вы превращаетесь в сову.","Вы превращаетесь в сову.,Вы превращаетесь в сову."
 You cannot help but hide this jar from others.,"Вы не можете удержаться, чтобы не спрятать эту банку от других."
 You simply cannot wait to find the material that belongs in this jar.,"Тебе не терпится найти материал, который должен быть в этой банке."

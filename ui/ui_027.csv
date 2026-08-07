@@ -35,7 +35,7 @@ Allows you to purchase a portable provisioner from any WvW outfitter. This item 
 Allows you to summon a Black Lion Delivery Agent anywhere. This agent allows you to pick up trading-post profits. The agent is usable by anyone and remains in the world for 15 minutes.,Позволяет призвать агента Чёрного льва в любом месте. Этот агент позволяет забирать прибыль с торговой площадки. Агент может быть использован кем угодно и остаётся в мире на 15 минут.
 Allows you to summon a Black Lion Merchant anywhere. This merchant has some basic items for sale and will buy any items you have. The merchant is usable by anyone and remains in the world for 15 minutes.,"Позволяет призвать торговца Чёрного льва в любом месте. У этого торговца есть несколько основных предметов для продажи, и он купит любые ваши предметы. Торговец может быть использован кем угодно и остаётся в мире на 15 минут."
 Alloyed Cobalt Warclaw,Сплавленный кобальтовый боевой коготь
-"Allspice Shrub Seed Pouch[pl:""Pouches""]",
+"Allspice Shrub Seed Pouch[pl:""Pouches""]",Сумка с семенами кустарника Allspice[|и|ок]
 Alluring Silk Outfit[s],Соблазнительный шелковый наряд[|а|ов]
 Ally Follower,Союзник-последователь
 Ally Fury,Ярость союзника
@@ -74,10 +74,10 @@ Alpine Blossom,Альпийский цветок
 Alpine Blossom Basket,Корзина альпийских цветов
 Alpine Blossom[s],[Альпийский цветок|Альпийских цветка|Альпийских цветков]
 Alpine Bow,Альпийский лук
-"Alpine Char[pl:""Char""]",
+"Alpine Char[pl:""Char""]",Альпийский шар[|а|ы]
 Alpine Dye[s],[Альпийская краска|Альпийских краски|Альпийских красок]
 Alpine Hatchet,Альпийский топор
-"Alpine Lily[pl:""Lilies""]",
+"Alpine Lily[pl:""Lilies""]",альпийская лилия
 Alpine Lumber Core[s],[Альпийское ядро пиломатериала|Альпийских ядра пиломатериала|Альпийских ядер пиломатериалов]
 Alpine Minotaur[s],[Альпийский минотавр|Альпийского минотавра|Альпийских минотавров]
 Alpine Skelk,Альпийский скельк
@@ -130,8 +130,8 @@ Amassed Corruption,Накопленная порча
 Ambassador Duran,Посол Дюран
 Ambassador Ikkhit'ch,Посол Икхит'ч
 Ambassador Steelcrusher,Посол Сокрушитель Стали
-"Amber Agony Lens[pl:""Lenses""] (Left)",
-"Amber Agony Lens[pl:""Lenses""] (Right)",
+"Amber Agony Lens[pl:""Lenses""] (Left)",Янтарная линза агонии (левая)
+"Amber Agony Lens[pl:""Lenses""] (Right)",Янтарная линза агонии (правая)
 Amber Blond,Янтарный блонд
 Amber Dye[s],[Янтарная краска|Янтарных краски|Янтарных красок]
 Amber Keystone,Янтарный краеугольный камень
@@ -141,7 +141,7 @@ Amber Runestone[s],[Янтарный рунический камень|Янта�
 Amber Sandfall has been lost to the Mordrem.,Янтарный водопад был потерян для Мордрема.
 Amber Sandfall has been taken by the Pact.,Янтарный водопад захвачен Пактом.
 Amber Sandfall is under attack!,Янтарный водопад под атакой!
-"Amber Trout[pl:""Trout""]",
+"Amber Trout[pl:""Trout""]",Амбер-форель[|и|ей]
 Amber Wurm,Янтарный червь
 "Amberjack[pl:""Amberjack""]",Янтарный тунец[тунца|тунца|тунцов]
 Ambient Audio,Звуки окружения
@@ -151,21 +151,21 @@ Ambr's krewe appreciates your help.,Команда Амбра ценит ваш�
 Ambrite Cache[s],[Амбритовый тайник|Амбритовых тайника|Амбритовых тайников]
 Ambrite Fossilized Bee[s],[Амбритовая окаменелая пчела|Амбритовых окаменелых пчелы|Амбритовых окаменелых пчёл]
 Ambrite Fossilized Beetle[s],[Амбритовый окаменелый жук|Амбритовых окаменелых жука|Амбритовых окаменелых жуков]
-"Ambrite Fossilized Butterfly[pl:""Butterflies""]",
+"Ambrite Fossilized Butterfly[pl:""Butterflies""]",Янтарная окаменелая бабочка
 Ambrite Fossilized Centipede[s],[Амбритовая окаменелая сороконожка|Амбритовых окаменелых сороконожки|Амбритовых окаменелых сороконожек]
-"Ambrite Fossilized Cockroach[pl:""Cockroaches""]",
+"Ambrite Fossilized Cockroach[pl:""Cockroaches""]",[Янтарный окаменелый таракан|Янтарные окаменелые тараканы|Янтарных окаменелых тараканов]
 Ambrite Fossilized Cricket[s],[Амбритовый окаменелый сверчок|Амбритовых окаменелых сверчка|Амбритовых окаменелых сверчков]
 Ambrite Fossilized Devourer[s],Янтарный окаменелый пожирател[ь|я|ей]
-"Ambrite Fossilized Dragonfly[pl:""Dragonflies""]",
-"Ambrite Fossilized Firefly[pl:""Fireflies""]",
+"Ambrite Fossilized Dragonfly[pl:""Dragonflies""]",Янтарная окаменелая стрекоза
+"Ambrite Fossilized Firefly[pl:""Fireflies""]",Янтарная окаменелая светляч[|ка|ки|ок]
 Ambrite Fossilized Grub[s],Янтарная окаменелая личинк[а|и|ок]
 Ambrite Fossilized Hornet[s],Янтарный окаменелый шершн[ь|я|ей]
-"Ambrite Fossilized Mantis[pl:""Mantises""]",
+"Ambrite Fossilized Mantis[pl:""Mantises""]",Янтарная окаменелая богомолка
 Ambrite Fossilized Millipede[s],Янтарная окаменелая многоножк[а|и|ек]
-"Ambrite Fossilized Mosquito[pl:""Mosquitoes""]",
+"Ambrite Fossilized Mosquito[pl:""Mosquitoes""]",Янтарный окаменелый комар[|и|и]
 Ambrite Fossilized Spider[s],Янтарный окаменелый паук[|а|ов]
 Ambrite Fossilized Termite[s],Янтарный окаменелый термит[|а|ов]
-"Ambrite Stash[pl:""Stashes""]",
+"Ambrite Stash[pl:""Stashes""]",Ящик с янтарем[|и|я]
 Ambulatory<br>Preparation Facility,Передвижной<br>Подготовительный комплекс
 Ambush 1,Засада 1
 Ambush 2,Засада 2
@@ -201,7 +201,7 @@ Amnoon Refugee Recording[s],Запис[ь|и|ей] беженца из Амну�
 "Amnoon, Crystal Oasis","Амнун, Кристальный оазис"
 Amnytas Feathered Raptors Mounts Pack,Набор ездовых животных: пернатые рапторы Амнит
 Amnytas Feathered Raptors Mounts Pack now available!,Набор ездовых животных: пернатые рапторы Амнит уже в продаже!
-"Amnytas Gear Box[pl:""Boxes""]",
+"Amnytas Gear Box[pl:""Boxes""]",Ящик Амитаса
 Amnytas Hoard[s],Клад[|а|ов] Амнитаса
 "Amnytas is suffering, but those who seek balance are suffering worst of all. Why debate it? Break open the hall and help them find peace.","Амнит страдает, но те, кто ищет равновесия, страдают больше всех. Зачем спорить? Взломайте зал и помогите им обрести покой."
 "Amnytas Strongbox[pl:""Strongboxes""]",Сейф[ы|а|ов] Амнитас
@@ -333,7 +333,7 @@ Ancient Ascalonian Tome,Древний аскалонский фолиант
 Ancient Ascalonian Wine Cask,Древняя аскалонская винная бочка
 Ancient Asuran Power Source[s],[Источник|Источника|Источников] силы древних асуров
 Ancient Axe,Древний топор
-"Ancient Barracuda Tooth[pl:""Teeth""]",
+"Ancient Barracuda Tooth[pl:""Teeth""]",Зуб древней барракуды|зуба|зубов
 Ancient Bolt Turret,Древняя болтовая турель
 Ancient Bone[s],[Древняя кость|Древней кости|Древних костей]
 Ancient Boreal Axe Skin[s],[Облик|Облика|Обликов] топора «Древний бореальный»
@@ -345,7 +345,7 @@ Ancient Canthan Boot Skins,Облики древних кантанских са
 Ancient Canthan Coat Skins,Облики древних кантанских курток
 Ancient Canthan Glove Skins,Облики древних кантановских перчаток
 Ancient Canthan Headgear Skins,Облики древних кантанских головных уборов
-Ancient Canthan Leggings Skin[s],
+Ancient Canthan Leggings Skin[s],Древние кантанские поножи
 Ancient Chest,Древний сундук
 Ancient Cipher,Древний шифр
 Ancient Coin[s],[Древняя монета|Древней монеты|Древних монет]

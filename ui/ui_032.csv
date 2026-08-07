@@ -23,7 +23,7 @@ Basic Attack,Базовая атака
 Basic Axe Requisition[s],[Заявка|Заявки|Заявок] на простой топор
 Basic Basket[s],[Простая корзина|Простой корзины|Простых корзин]
 Basic Book[s],[Простая книга|Простой книги|Простых книг]
-"Basic Bookshelf[pl:""Bookshelves""]",
+"Basic Bookshelf[pl:""Bookshelves""]",Базовая книжная полка
 Basic Boulder[s],[Простой валун|Простого валуна|Простых валунов]
 Basic Burning Oil attacks burn one supply from target,Базовое горючее масло при атаке сжигает одну единицу боеприпасов цели.
 Basic Candle[s],[Простая свеча|Простые свечи|Простых свечей]
@@ -37,19 +37,19 @@ Basic Elder Focus Requisition[s],[Простой заказ на оружие с
 "Basic Elder Focus[pl:""Foci""]",Базовый древний фокус[ы|а|ов]
 Basic Elder Longbow Requisition[s],[Простой заказ на длинный лук старейшины|Простые заказы на длинный лук старейшины|Простых заказов на длинный лук старейшины]
 Basic Elder Longbow[s],Основн[ой|ые|ые] Древн[ий|ие|ии] лук[и|ка|ок]
-Basic Elder Short Bow Requisition[s],
-Basic Elder Short Bow[s],
+Basic Elder Short Bow Requisition[s],Рецепт[|а|ов]: простой короткий лук древних
+Basic Elder Short Bow[s],Простой короткий лук древних[|а|ов]
 Basic Elder Staff Requisition[s],Запрос[ы|а|ов] на Основн[ой|ые|ые] Древн[ий|ие|ии] посох[и|а|ов]
-"Basic Elder Staff[pl:""Staves""]",
-Basic Elder Wood Warhorn Requisition[s],
-Basic Elder Wood Warhorn[s],
+"Basic Elder Staff[pl:""Staves""]",Простой посох[|и|и]
+Basic Elder Wood Warhorn Requisition[s],Базовый боевой рог Древнего леса
+Basic Elder Wood Warhorn[s],Простой боевой рог Древней Рощи
 Basic Finishing Kit[s],Набор для Начальной обработки
-Basic Flagpole[s],
-Basic Fountain[s],
+Basic Flagpole[s],Обычный флагшток[|и|и]
+Basic Fountain[s],Фонтан[|а|ов]
 Basic Gathering Tools,Базовые инструменты для сбора
 Basic Glider,Базовый глайдер
-Basic Grave Marker[s],
-Basic Guild Cape[s],
+Basic Grave Marker[s],Простой надгробный камень
+Basic Guild Cape[s],Базовый плащ гильдии
 Basic Hammer attack,Атака базового молота
 Basic hammer attack,Базовая атака молотом
 Basic Ink Set[s],[Простой набор чернил|Простые наборы чернил|Простых наборов чернил]
@@ -92,7 +92,7 @@ Basic stab attack.,Базовая атака уколом.
 Basic Staff Requisition[s],[Базовый ордер|Базового ордера|Базовых ордеров] на посох
 Basic Swing,Базовый взмах
 Basic Table[s],[Базовый стол|Базового стола|Базовых столов]
-"Basic Torch[pl:""Torches""]",
+"Basic Torch[pl:""Torches""]",Простой факел[|ы|ов]
 Basic Tree[s],[Базовое дерево|Базового дерева|Базовых деревьев]
 Basical Paintball Shot,Базовый выстрел пейнтбольным шаром
 "Basil Leaf[pl:""Leaves""]",Лист базилика[лист|листа|листов]
@@ -115,7 +115,7 @@ Basket of Zucchini Bread,Корзина кабачкового хлеба
 Basket[s],[Корзина|Корзины|Корзин]
 Basket[s] of Eggs,Корзин для яиц
 Bass Drum,Большой барабан
-"Bastion Fish[pl:""Fish""]",
+"Bastion Fish[pl:""Fish""]",Бастинская рыба
 Bastion of Balance: Looking up toward Lyhr's quarters.,Бастион Равновесия: Взгляд в сторону покоев Лайра.
 Bastion of Balance: Playing above a medical plaza.,Бастион Равновесия: Игра над медицинской площадью.
 Bastion of Balance: Watching a pond from afar.,Бастион Равновесия: Наблюдение за прудом издалека.
@@ -153,8 +153,8 @@ Bastion of the Penitent—Samarog,Бастион кающихся — Самар
 Bastion Secured,Бастион захвачен
 BAT 9929,BAT 9929
 Bat at the air in front of you.,Взмахните крыльями перед собой.
-"Bat Lanterns[pl:""Lanterns""]",
-"Bat Loot Box[pl:""Boxes""]",
+"Bat Lanterns[pl:""Lanterns""]",[Летучие мыши-фонари|Летучие мыши-фонарики|Летучих мышей-фонарей]
+"Bat Loot Box[pl:""Boxes""]",Ящик с добычей из пещеры
 Bat Mother Cache[s],[Тайник|Тайника|Тайников] матери летучих мышей
 Bat Wings Backpack[s],[Рюкзак|Рюкзака|Рюкзаков] «Крылья летучей мыши»
 Bat Wings Glider Combo[s],[Комплект|Комплекта|Комплектов] «Крылья летучей мыши» (планер и рюкзак)
@@ -212,7 +212,7 @@ Bava Nisos Site Catalog,Бава Нисос Каталог участков
 "Bava Nisos stands as the grandest city in all of Tyria, and it is thanks to our benevolent and uncompromising vision of a grand future with the mursaat as the rightful shepherds of this land and its denizens.    Though the other intelligent races of our world have contributed to the development of this world in their own small ways, it is only the gracious charity and industriousness of the mursaat that has ensured such a place could be built.    It shines out as an example to all beings with eyes to see that with the faith and steadfastness in the glory of the mursaat as the driving force in Tyria, all things may fall within our grasp.","Бава Нисос стоит как величайший город во всей Тирии, и это благодаря нашему доброжелательному и непреклонному видению великого будущего, где мурсааты являются законными пастырями этой земли и её обитателей. Хотя другие разумные расы нашего мира внесли свой вклад в развитие этого мира по-своему, только милосердная благотворительность и трудолюбие мурсаатов обеспечили возможность построить такое место. Оно сияет как пример для всех существ, у которых есть глаза, чтобы видеть, что с верой и стойкостью в славу мурсаатов как движущей силы Тирии всё может оказаться в наших руках."
 Bava Nisos: A Marvel,Бава Нисос: Чудо
 Bava Nisos: Commander's Choice Chest[s],Сундук выбора командира Бавы Нисос[ов|ов|ов]
-"Bay Leaf Seed Pouch[pl:""Pouches""]",
+"Bay Leaf Seed Pouch[pl:""Pouches""]",Сумочка с семенами лавра
 "Bay Leaf[pl:""Leaves""]",Лавровый [лист|листа|листов]
 Bazaar Captured,Базар захвачен
 Bazaar Docks. Click to teleport.,"Причал Базара. Нажмите, чтобы телепортироваться."
@@ -243,13 +243,13 @@ Be the hit of your next event with some beats from this drum.,Станьте х�
 Be watchful at the Watchman's Roost.,Будьте бдительны в Пристанище Дозорного.
 Beach Bracelet Skin[s],[Облик|Облика|Обликов] браслета «Пляж»
 Beach Hat Skin[s],[Облик|Облика|Обликов] пляжной шляпы
-"Beach House Spiral Stairs[pl:""Stairs""]",
+"Beach House Spiral Stairs[pl:""Stairs""]",Балконная лестница на спирали
 Beach Sandals Skin[s],[Облик|Облика|Обликов] пляжных сандалий
 Beached Whale,Выброшенный на берег кит
 "Beacon of Ages Record #2591, Tyria, 1070 AE","Запись «Маяк веков» №2591, Тирия, 1070 г.Э."
 Beacon's Flame,Пламя Маяка
 Beacon's Flame Sacrifice,Жертва Пламени Маяка
-"Beacon's Perch[pl:""Perch""]",
+"Beacon's Perch[pl:""Perch""]",[Сторожевая башня|Сторожевые башни|Сторожевых башен]
 Bead[s] of Liquid Karma,[Бусина|Бусины|Бусин] жидкой кармы
 Beam Attack,Лучевая атака
 Beam Attack • Waves of Energy,Лучевая атака • Волны энергии
@@ -260,7 +260,7 @@ Bear Flank[s],[Бок|Бока|Боков] медведя
 Bear Form,Медвежья форма
 Bear has ascended.,Медведь вознёсся.
 Bear is pleased with the help you provided her children. You have proven your strength to me and anyone else who saw you in action. Return to me soon so that I may bestow the blessings of Bear upon you.—Shaman Freygunn,"Медведь доволен помощью, которую вы оказали её детёнышам. Вы доказали свою силу мне и всем, кто видел вас в деле. Возвращайтесь ко мне скорее, чтобы я мог даровать вам благословение Медведя. —Шаман Фрейгунн"
-"Bear Loot Box[pl:""Boxes""]",
+"Bear Loot Box[pl:""Boxes""]",Ящик с добычей от медведя
 Bear Offering[s],[Подношение|Подношения|Подношений] медведя
 Bear Shaman,Медвежий шаман
 Bear Token[s],[Жетон|Жетона|Жетонов] медведя
@@ -271,8 +271,8 @@ Bear-Trap Bomb,Медвежий капкан-бомба
 Bear[s],[Медведь|Медведя|Медведей]
 Bearce Falls,Водопад Берс
 Bearded Broadtail Raptor Skin[s],[Облик|Облика|Обликов] ящера «Бородатый широкохвост»
-"Bearded Sunfish[pl:""Sunfish""]",
-"Bearkin War Helm Choice Box[pl:""Boxes""]",
+"Bearded Sunfish[pl:""Sunfish""]",[Бородатая рыбка-солнце|Бородатые рыбки-солнца|Бородатых рыбок-солнца]
+"Bearkin War Helm Choice Box[pl:""Boxes""]",Ящик выбора шлема воина из медвежьей кожи
 Bearkin War Helm Remnant[s],[Остаток|Остатка|Остатков] боевого шлема медведеподобных
 Beast Mastery,Владение зверем
 Beastfighting Ring,Кольцо укротителя зверей
@@ -280,7 +280,7 @@ Beastmaster's Bond,Узы повелителя зверей
 Beastslayer Axe Skin[s],Облик топора истребителя зверей
 Beastslayer Dagger Skin[s],Облик кинжала истребителя зверей
 Beastslayer Focus Skin[s],Облик фокусировки истребителя зверей
-Beastslayer Glider[s],
+Beastslayer Glider[s],Планер истребителя зверей[|я|и|ей]
 Beastslayer Greatsword Skin[s],Облик Великого меча истребителя зверей
 Beastslayer Hammer Skin[s],Облик молота истребителя зверей
 Beastslayer Longbow Skin[s],Облик лука истребителя зверей
@@ -294,7 +294,7 @@ Beastslayer Staff Skin[s],[Облик|Облика|Обликов] посоха 
 Beastslayer Sword Skin[s],[Облик|Облика|Обликов] меча «Убийца зверей»
 Beastslayer Torch Skin[s],[Облик|Облика|Обликов] факела «Убийца зверей»
 Beastslayer Warhorn Skin[s],[Облик|Облика|Обликов] боевого рога «Убийца зверей»
-"Beastslayer Weapon Box[pl:""Boxes""]",
+"Beastslayer Weapon Box[pl:""Boxes""]",Ящик оружия охотника на зверей[|а|ов]
 Beastslayer Weapons,Оружие «Зверобой»
 Beautiful Gold-Leaf Festival Lantern[s],[Красивый|Красивых|Красивых] позолоченный фестивальный фонарь
 Beautiful Pendant[s],[Красивая|Красивых|Красивых] подвеска
@@ -331,7 +331,7 @@ Become your favorite mesmer with this package!Appearance skins override the look
 Become your favorite sniper with this package!Appearance skins override the look of your equipment and have no stats of their own.,Станьте вашим любимым снайпером с этим набором!Облики внешности переопределяют вид вашего снаряжения и не имеют собственных характеристик.
 Bed of Roses,Ложе из роз
 Bedside Dresser,Прикроватный комод
-"Bee Dog Loot Box[pl:""Boxes""]",
+"Bee Dog Loot Box[pl:""Boxes""]",Коробка с добычей пчелиных собак[|ы|]
 Bee Grenade,Пчелиная граната
 Bee Spear,Пчелиное копьё
 Bee's Knees,Коленки пчелы
@@ -358,7 +358,7 @@ Beet[s],[Свекла|Свеклы|Свекол]
 Beetle Burrow,Нора жука
 Beetle Feast,Пир жуков
 Beetle Larvae Hatchery,Инкубатор личинок жуков
-"Beetle Loot Box[pl:""Boxes""]",
+"Beetle Loot Box[pl:""Boxes""]",Жучиная шкатулка с добычей[|шкатулки|шкатулок]
 Beetle Prod,Стимулятор жуков
 Beetle Punt,Пинок жука
 Before a portal.,Перед порталом.
@@ -424,7 +424,7 @@ Belch will be ready after three more Drinks.,Отрыжка будет гото�
 Belch will be ready after two more Drinks.,Отрыжка будет готова после ещё двух напитков.
 Belched Upon,Облитый отрыжкой
 Belcher's Bluff Invitation,Приглашение на игру 'Отрыжка-блеф'
-Belcher's Bluff Kit[s],
+Belcher's Bluff Kit[s],"Комплект ""Обманщик Белчера""[|а|ов]"
 Belief in Cantha,Вера в Кантху
 Belinda's Greatsword Skin[s],Облик[|а|ов] двуручного меча Белинды
 Belinda<br>Tribute Weapon<br>Skin,Белинда<br>Оружие дани<br>Облик
@@ -476,7 +476,7 @@ Bengt / Stoic Alder,Бенгт / Стоический Ольха
 Bent Circuit (Level 26),Гнутая цепь (Уровень 26)
 Bent Circuit (Level 51),Гнутая цепь (Уровень 51)
 Bent Lockpick[s],Погнутая отмычк[а|и|ек]
-"Benthic Behemoth[pl:""Behemoths""]",
+"Benthic Behemoth[pl:""Behemoths""]",[Бентийский бегемот|Бентийские бегемоты|Бентийских бегемотов]
 Benyo's Expedition Renown Heart,Сердце добрых дел «Экспедиция Беньо»
 "Bercilak seems invincible, but your Dream hinted at a way to stop him. If you can discover the source of the knight's power, perhaps you can end his brutality.","Берсилак кажется непобедимым, но твой Сон намекнул на способ его остановить. Если ты сможешь обнаружить источник силы рыцаря, возможно, ты положишь конец его жестокости."
 "Berddi resides in Rata Sum, where she's known for whipping the snap out of whippersnappers.","Бердди живёт в Рата-Суме, где известна тем, что выбивает дурь из наглецов."

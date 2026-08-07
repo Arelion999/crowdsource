@@ -1,5 +1,5 @@
 english,translate
-Dando pisotones,
+Dando pisotones,Топает ногами
 Danger,ОПАСНОСТЬ
 Danger!,Опасность!
 Dangerous Insect Swarms • Inflicts Bleeding,Опасные рои насекомых • Вызывает Кровотечение
@@ -7,7 +7,7 @@ Dangerous Insect Swarms • Knocks Back • Cripples,Опасные рои на�
 "Dangerous wildlife, huh? I'm interested.","Опасная живность, значит? Мне интересно."
 Daniel,Даниэль
 Dann Sharpclaw,Данн Острый Коготь
-Dann muss man eben mitmachen ...,
+Dann muss man eben mitmachen ...,"Ну что ж, придётся участвовать..."
 Dannach,Даннах
 Dara Everburn,Дара Вечный Огонь
 Dark Chaos,Тёмный хаос
@@ -21,29 +21,29 @@ Darkrime skelk slain: %num1%,Убито скелков Тёмного Инея: 
 Darkwing defenders,Защитники Тёмного Крыла
 Darthula,Дартула
 Das A und O,
-Das Abenteuer beginnt,
-Das Auge vorbereiten,
-Das Ende,
+Das Abenteuer beginnt,Приключение начинается.
+Das Auge vorbereiten,Подготовить глаз.
+Das Ende,Конец
 Das Ende der Belagerung,
 Das Ende des Albtraums,
 Das Ende des Beichtvaters,
 Das Ende des Himmlischen Ministeriums,
 Das Ende des Weges,
-Das Fehler-Abenteuer,
-Das Geheimversteck,
-Das Gericht ist vertagt,
+Das Fehler-Abenteuer,Приключение об ошибках
+Das Geheimversteck,Тайник
+Das Gericht ist vertagt,Заседание отложено.
 Das Getriebe ölen,
-Das Goldene Huhn,
+Das Goldene Huhn,Золотая курица
 Das Inhaltshandbuch hebt automatisch eine Reihe von Zielen hervor.,
-Das Land bewahren,
-Das Ley-Linien-Rennen: Gold,
-Das Ley-Linien-Rennen: Silber,
-Das Messer umdrehen,
-Das Opfer,
-Das Raubtier I: Das Experimentelle Gewehr,
+Das Land bewahren,Защитить землю
+Das Ley-Linien-Rennen: Gold,Гонка по линиям силы: золото
+Das Ley-Linien-Rennen: Silber,Гонка по линиям силы: серебро.
+Das Messer umdrehen,Перевернуть нож.
+Das Opfer,Жертва
+Das Raubtier I: Das Experimentelle Gewehr,Хищник I: Экспериментальная винтовка
 Das Schicksal des Hauses zu Heltzer,
 Das Spiel mit der Gefahr,
-Das Super Adventure,
+Das Super Adventure,Супер приключение
 Das System ist aus,
 Das Tal ausspähen: Bronze,
 Das Tal ausspähen: Gold,
@@ -51,12 +51,12 @@ Das Tal ausspähen: Silber,
 Das Tödlichste auf zwei Beinen,
 Das Unbekannte zu kennen,
 Das Vermächtnis erhellen,
-Das Versuchsobjekt,
-Das bedeutet nichts Gutes,
+Das Versuchsobjekt,Подопытный объект
+Das bedeutet nichts Gutes,Это ничего хорошего не предвещает.
 Das beruht auf Gegenseitigkeit,
 Das eigensinnige Irrlicht: Das Irrlicht willkommen heißen,
 Das eigensinnige Irrlicht: Gewölbe-Auftrag,
-Das eigensinnige Irrlicht: Irrlicht-Kontaktaufnahme,
+Das eigensinnige Irrlicht: Irrlicht-Kontaktaufnahme,Упрямое призрачное пламя: установление контакта с призрачным пламенем.
 Das eigensinnige Irrlicht: Irrlicht-Sichtung,
 Das eingestürzte Observatorium,
 "Das erste Super Adventure des Explorators[f:""der Exploratorin""]",
@@ -64,13 +64,13 @@ Das frischeste Wasser vom Strand der Wracks,
 Das geheime Gewölbe,
 Das große Fressen,
 Das ist Qualitätsrüstung,
-Das ist meine Geschichte.,
-Das kann er nie ungeschehen machen,
+Das ist meine Geschichte.,Это моя история.
+Das kann er nie ungeschehen machen,Он никогда не сможет это отменить.
 Das kürzere Ende gezogen,
 Das lässt Euch kalt,
 Das machen wir lieber nicht nochmal,
 Das nenne ich mal einen Pilz,
-Das war knapp,
+Das war knapp,Это было близко.
 Das war zu knapp,
 Das wird ein langer Tag,
 "Das zweite Super Adventure des Explorators[f:""der Exploratorin""]",
@@ -82,11 +82,11 @@ Data Dog,Пёс данных
 Data Log Printout,Распечатка журнала данных
 Data Recorder,Регистратор данных
 Data—indicates—these—are—most—nutritious—when—deep-fried.,Данные—показывают—что—они—наиболее—питательны—в—обжаренном—виде.
-Datenleck,
+Datenleck,Утечка данных
 Datenübertragung:,
 Dathar,Датар
-Dauergast,
-Dauerhafte Bande: Woher wir kommen,
+Dauergast,Постоянный гость
+Dauerhafte Bande: Woher wir kommen,Неразрывная связь: откуда мы пришли.
 Daughter? You're not even married.,Дочь? Ты же даже не замужем.
 Dave,Дэйв
 Davra Sparkfuse,Давра Искровзрыв
@@ -141,8 +141,8 @@ Deadly at Range,Смертоносен на расстоянии
 Deadly to Fliers,Смертоносен для летающих
 Deafening Footsteps,Оглушающие шаги
 Deafening Shout,Оглушительный крик
-Deaktiviert,
-Deaktiviert Bereichsschaden-Ringe,
+Deaktiviert,Отключено
+Deaktiviert Bereichsschaden-Ringe,Отключает кольца области действия.
 Deaktiviert Hervorhebung von Fertigkeiten,
 Deal with this one!,Разберись с этим!
 Deal with you later.,С тобой разберусь позже.
@@ -169,8 +169,8 @@ Death-Branded Lieutenant,Клеймённый смертью лейтенант
 Death-Branded Test Subject,Клеймённый смертью подопытный
 Death. This place reeks of it.,Смерть. Это место смердит ею.
 Death: Zhaitan (1219 AE),Смерть: Зайтан (1219 г. ПИ)
-Debilidades expuestas,
-Debilidades expuestas: recuerdos,
+Debilidades expuestas,Обнаруженные слабости
+Debilidades expuestas: recuerdos,Уязвимые места: воспоминания
 Debilitating Void,Изнуряющая Пустота
 Deboning and Gutting Station,Станция обвалки и потрошения
 Debris and Pollutants,Обломки и загрязнения
@@ -182,7 +182,7 @@ Decide who to assist.,"Решите, кому помочь."
 Decima revives Greer in: %str1%,Децима воскресит Грира через: %str1%
 Decimus the Historian,Децим Историк
 Decipher Text,Расшифровать текст
-Decisiones cuestionables,
+Decisiones cuestionables,Сомнительные решения.
 Deckhand Begbie,Матрос Бегби
 Deckhand Dara,Матрос Дара
 Deckhand Dyma,Матрос Дима
@@ -197,7 +197,7 @@ Deep Wound,Глубокая рана
 "Deep in the dark belly of the cave, close to the heart of the planet, a primal force surges through the water. Its presence calls to those who desire power and strength.","В тёмном чреве пещеры, у самого сердца планеты, сквозь воду пробивается первозданная сила. Её присутствие манит тех, кто жаждет мощи и силы."
 Deep within the sulfur ravines to the south.,Глубоко в серных оврагах на юге.
 Deeply Wounded,Тяжело ранен
-Deeskalations-Training,
+Deeskalations-Training,Тренинг по деэскалации конфликтов
 Defeat Ajax Anvilburn and his warband.,Победите Аякса Наковального Жара и его боевой отряд.
 Defeat Bloomhunger's army!,Разбейте армию Цветоглода!
 Defeat Centaurs,Победите кентавров
@@ -403,13 +403,13 @@ Defend.,Защищайтесь.
 Defended la posición,
 Defender la historia es informar al futuro,
 Defender[s] of Light,[Защитник|Защитника|Защитников] Света
-Defensa colosal,
-Defensa continua,
+Defensa colosal,Колоссальная защита
+Defensa continua,Непрерывная защита
 Defensa de Shaemoor,
-Defensa dividida,
-Defensa eléctrica,
+Defensa dividida,Разделенная защита
+Defensa eléctrica,Электрическая защита
 Defensa marítima,
-Defensa perfecta,
+Defensa perfecta,Идеальная защита
 Defense Terminals Overridden,Оборонительные терминалы перехвачены
 Defense Turret Cart,Тележка оборонительной турели
 Defense golems repaired,Оборонительных големов починено
@@ -455,7 +455,7 @@ Degenerative Haze,Разрушительная дымка
 Degustación tyriana,
 Dehydrated Raptor,Обезвоженный раптор
 Dehydrated Tlamatini,Обезвоженный тламатини
-Dein Uhrherz poliert,
+Dein Uhrherz poliert,Твоё сердце отполировано временем.
 Deionizing Arcanoduster,Деионизирующий арканопылесос
 Deionizing Arcanoduster? What's that?,Деионизирующий арканопылесос? Это что такое?
 Deiugoo,Дейугу
@@ -483,7 +483,7 @@ Dekade des Kampfes: Spieler gegen Spieler,
 Dekade des Kampfes: Welt gegen Welt,
 "Dekkti is the krewe leader. For now, I just handle the subcognitive technology research. I don't see why we're wasting our efforts on skritt, though. Even you could outsmart a group of them.","Деккти — глава крю. Пока что я занимаюсь только исследованием субкогнитивных технологий. Правда, не понимаю, зачем мы тратим силы на скриттов. Даже ты перехитрил бы целую их компанию."
 Dekkti?,Деккти?
-Dekonstruiert,
+Dekonstruiert,Деконструирован
 Del aullido al silencio,
 Delayed Daze,Отложенное ошеломление
 Deldrimor Guard,Страж Делдримора
@@ -491,7 +491,7 @@ Deldrimor Guard,Страж Делдримора
 "Delfa studied reports from Sentinel Perch and noticed something unique. While destroyers usually swarm in all directions, Kralkatorrik's minions migrate southward along the Dragonbrand.","Дельфа изучила донесения с Насеста Часового и заметила кое-что необычное. Обычно разрушители расползаются во все стороны, а прислужники Кралькаторрика движутся на юг вдоль Драконьего Клейма."
 Delicate Ash,Тонкий пепел
 Delicias de escamaceleste,
-Delicias letales,
+Delicias letales,Смертельные лакомства
 Deliciosa repostería,
 Delicious darlings...,Вкусные милашки...
 Delicious!,Восхитительно!

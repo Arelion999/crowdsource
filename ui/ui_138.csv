@@ -53,7 +53,7 @@ Strawberry Dye[s],[Краска|Краски|Красок] «Клубника»
 Strawberry Ghost[s],[Клубничный призрак|Клубничного призрака|Клубничных призраков]
 Strawberry Patch,Клубничная грядка
 Strawberry Pie[s],[Клубничный пирог|Клубничного пирога|Клубничных пирогов]
-"Strawberry Seed Pouch[pl:""Pouches""]",
+"Strawberry Seed Pouch[pl:""Pouches""]",Мешочек с семенами клубники
 Strawberry Tart[s],[Клубничный тарт|Клубничного тарта|Клубничных тартов]
 "Strawberry[pl:""Strawberries""]",[Клубника|клубники|клубник]
 Strawweight Hatchling[s],[Детёныш соломенного веса|Детёныша соломенного веса|Детёнышей соломенного веса]
@@ -61,7 +61,7 @@ Stream files as fast as possible.,Потоковая передача файло
 Stream files only while your connection is idle.,Потоковая передача файлов только при бездействии соединения.
 Street Noodles Chair[s],[Стул|Стула|Стульев] «Уличная лапша»
 Strength Booster[s],[Усилитель|Усилителя|Усилителей] силы
-"Strength Fish[pl:""Fish""]",
+"Strength Fish[pl:""Fish""]",Рыба силы
 Strength in Numbers,Сила в единстве
 Strength of Spirit,Сила духа
 strength to defeat ancient foes,"сила, чтобы победить древних врагов"
@@ -130,8 +130,8 @@ String Bow,Струнный лук
 Strip[s] of Boar Jerky,[Полоска|Полоски|Полосок] вяленой кабанятины
 Strip[s] of Dolyak Jerky,[Полоска|Полоски|Полосок] вяленой долячьей конины
 Strip[s] of Venison Jerky,[Полоска|Полоски|Полосок] вяленой оленины
-"Striped Barracuda[pl:""Barracuda""]",
-"Striped Bass[pl:""Bass""]",
+"Striped Barracuda[pl:""Barracuda""]",Баракуда
+"Striped Bass[pl:""Bass""]",Барабушка
 "Striped Catfish[pl:""Catfish""]",Полосатый сомик
 Striped Fishing Rod[s],[Удочка|Удочки|Удочек] в полоску
 Strips Boons • Burns,Снимает благословения • Наносит ожог
@@ -216,7 +216,15 @@ Stuck Ball,Застрявший мяч
 Stuck Cancelled,Отмена застревания
 Stuck has been cancelled because you moved or used a skill.,"Застревание отменено, потому что вы переместились или использовали навык."
 Stuck Initiated,Застрял инициирован
-Student: BlishStudent ID: 0438238655 CYS 310 Cybernetic Systems IIMTH 411 Multivariable CalculusTML 310 Thaumaturgical Materials LabMPY 340 Magical Metaphysics SeminarTAS 300 Advanced Theory of Abstract Structures(You skim through the lengthy list of advanced coursework that Blish completed during his time at the college. It's as impressive as it is intimidating.),
+Student: BlishStudent ID: 0438238655 CYS 310 Cybernetic Systems IIMTH 411 Multivariable CalculusTML 310 Thaumaturgical Materials LabMPY 340 Magical Metaphysics SeminarTAS 300 Advanced Theory of Abstract Structures(You skim through the lengthy list of advanced coursework that Blish completed during his time at the college. It's as impressive as it is intimidating.),"Студент: Блиш
+Номер студенческого билета: 0438238655
+CYS 310 Кибернетические системы II
+MTH 411 Математический анализ
+TML 310 Лаборатория тауматургических материалов
+MPY 340 Семинар по магической метафизике
+TAS 300 Продвинутая теория абстрактных структур
+
+(Вы просматриваете длинный список продвинутых курсов, которые Блиш посещал в колледже. Он впечатляет не меньше, чем пугает.)"
 Studio and Artistic Direction,Студийное и художественное руководство
 Studio Art Director,Директор студии искусства
 Studio Audio Director,Директор студии звука
@@ -333,7 +341,7 @@ Successfully completed the Ooze Pit while pledged to assist the Ash Legion.,"У�
 Successfully completed the Ooze Pit while pledged to assist the Blood Legion.,"Успешно завершили Озовую Яму, будучи присягнувшими помогать Кровавому Легиону."
 Successfully completed the Ooze Pit while pledged to assist the Iron Legion.,"Успешно завершили Озовую Яму, будучи присягнувшими помогать Железному Легиону."
 Successfully drive the Mordrem from the Great Tree in Tangled Depths.,Успешно избавьте Великое Древо в Спутанных глубинах от мордремов.
-Successfully escort  Ho-Ho-Tron's dolyak to the gate in Divinity's Reach.,
+Successfully escort  Ho-Ho-Tron's dolyak to the gate in Divinity's Reach.,Успешно сопроводи долняка Хо-Хо-Трона к воротам в Божественном Пределе.
 Successfully hitting an enemy will cause an additional strike.,Успешное попадание по врагу вызовет дополнительный удар.
 Successfully make it through the stealth gauntlet in Tawny Ridge in Blazeridge Steppes.,Успешно пройдите полосу стелса в Тауни-Ридж в Равнинах Блейзера.
 Successfully Upgraded Material Conversion Rates,Успешно улучшенные скорости конвертации материалов
@@ -374,7 +382,7 @@ Suffused Obsidian: Defeat World Bosses,Пропитанный обсидиан: 
 Suffused Obsidian: Power Lanterns,Пропитанный обсидиан: Зажечь фонари
 Sugar Cookie[s],[Сахарное печенье|Сахарного печенья|Сахарных печений]
 Sugar Crash,Сахарный спад
-"Sugar Pumpkin Seed Pouch[pl:""Pouches""]",
+"Sugar Pumpkin Seed Pouch[pl:""Pouches""]",Мешочек с семенами сахарной тыквы
 Sugar Pumpkin[s],[Сахарная тыква|Сахарной тыквы|Сахарных тыкв]
 Sugar Rush,Сахарная лихорадка
 Sugardrift Chest[s],[Сундук|Сундука|Сундуков] «Сахарный дрейф»

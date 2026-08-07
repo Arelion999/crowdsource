@@ -111,7 +111,8 @@ Can be traded with vendors in Thunderhead Peaks or consumed for volatile magic.,
 
 <c=@Flavor>Выращенные в гнёздах пожирателей, эти перцы особенно острые.</c>"
 "Can be used in the Mystic Forge in place of Twilight to add the greatsword Eternity to your Legendary Armory.
-<c=@warning>If you have two instances of Eternity unlocked in the armory, please contact Customer Support.</c>",
+<c=@warning>If you have two instances of Eternity unlocked in the armory, please contact Customer Support.</c>","Может быть использован в Мистической кузнице вместо Сумеречного металла для добавления двуручного меча Вечность в ваш Легендарный арсенал.
+<c=@warning>Если у вас уже есть два экземпляра меча Вечность, разблокированных в арсенале, обратитесь в службу поддержки.</c>"
 Can be used in the Mystic Forge to create Blessed Zephyrite gloves.,Можно использовать в Таинственной кузнице для создания благословенных перчаток Зефирита.
 Can be used to capture a lost soul.,Можно использовать для захвата потерянной души.
 "Can be used to capture Auric energy from Tarir, the Forgotten City.","Можно использовать для захвата аурической энергии из Тарира, Забытого города."
@@ -203,10 +204,12 @@ Find trade contracts in chests and lost supplies.","Может содержат�
 Купить у торговцев за карму в известных регионах Пустыни Кристалла по торговым контрактам.
 Ищите торговые контракты в сундуках и потерянных припасах."
 "Can harvest Ancient, Elder, and all lesser woods.
-Gain snowflakes when gathering.",
+Gain snowflakes when gathering.","Можно собирать древнюю древесину, древесину старца и все остальные виды древесины.
+Получайте снежинки при сборе ресурсов."
 "Can harvest Mithril, Platinum and all lesser metals.","Может добывать мифрил, платину и все низшие металлы."
 "Can harvest Orichalcum, Mithril, and all lesser metals.
-Gain snowflakes when gathering.",
+Gain snowflakes when gathering.","Можно добывать орихалк, мифрил и все остальные металлы.
+Получайте снежинки при сборе ресурсов."
 Can of Artichoke Soup,Банка супа из артишоков
 Can of Asparagus and Sage Salad,Банка салата со спаржей и шалфеем
 Can of Butternut Squash Soup,Банка супа из мускатной тыквы
@@ -301,7 +304,8 @@ Cantaloupe Dye,Краситель «Дыня»
 Canthan Armor Box,Кантанский сундук с броней
 Canthan Backpack,Рюкзак Кантхи
 "Canthan band that exclusively contains End of Dragons attribute combos.
-<c=@flavor>Jade bands are in such high demand that merchants have trouble keeping them in stock.</c>",
+<c=@flavor>Jade bands are in such high demand that merchants have trouble keeping them in stock.</c>","Кантанский пояс, содержащий только комбинации атрибутов из дополнения «Конец Драконов».
+<c=@flavor>Поясы из нефрита пользуются таким высоким спросом, что у торговцев возникают проблемы с поддержанием их запасов.</c>"
 Canthan Carp,Кантанский карп
 Canthan Champion Weapon Box,Сундук с оружием чемпиона Кантха
 Canthan Crafting Material Coffer,Кантский сундук материалов для крафта
@@ -315,7 +319,8 @@ Canthan Nian Warclaw Skin,Шкура боевого варклыка из Кан
 Canthan Noble Skyscale Skin,Облик скайскейлера «Кантанский дворянин»
 Canthan Noble's Blade,Клинок кантского дворянина
 "Canthan pendant that exclusively contains End of Dragons attribute combos.
-<c=@flavor>These jade pendants found their way into the Mists shortly after Cantha reopened its borders.</c>",
+<c=@flavor>These jade pendants found their way into the Mists shortly after Cantha reopened its borders.</c>","Кантанский амулет, содержащий только комбинации атрибутов из дополнения «Конец Драконов».
+<c=@flavor>Эти нефритовые амулеты появились в Туманах вскоре после того, как Канта вновь открыла свои границы.</c>"
 Canthan Phoenix Backpack and Glider Combo,Комплект «Кантанийский феникс»: рюкзак и планер
 Canthan Phoenix Wings Backpack,Рюкзак «Крылья феникса» (Кант)
 Canthan Raptor Skin,Облик кантского раптора
@@ -324,7 +329,8 @@ Canthan Spiritualist Backpack,Рюкзак «Спиритуалист» (Кан�
 Canthan Stair Bridge,Кантский лестничный мост
 Canthan Sun Hat Skin,Облик «Кантийская панама»
 "Canthan talisman that exclusively contains End of Dragons attribute combos.
-<c=@flavor>Usage of enchanted jade has grown popular in the Mists.</c>",
+<c=@flavor>Usage of enchanted jade has grown popular in the Mists.</c>","Кантанский талисман, содержащий только комбинации атрибутов из дополнения «End of Dragons».
+<c=@flavor>В Туманах всё чаще используют зачарованный нефрит.</c>"
 Canthan Tigris Griffon Skin,Облик грифона «Кантанский тигр»
 Canthan Traveler's Pack,Походный рюкзак путешественника (Кант)
 Canthan Vulpine Jackal Skin,Облик скакуна кантанской лисицы

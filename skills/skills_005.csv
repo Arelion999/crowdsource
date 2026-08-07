@@ -106,13 +106,17 @@ Create a dust storm that inflicts cripple to bleeding foes. The first strike of 
 Create a geyser to heal nearby allies.,"Создает гейзер, исцеляющий ближайших союзников."
 Create a healing seed at targeted location which periodically gives nearby allies regeneration.,"Создает семя исцеления в указанной области, которое периодически дает ближайшим союзникам регенерацию."
 "Create a lightning field at the specified point, then summon gyros to finish foes and revive allies within the field.
-<c=@reminder>Interrupted gyros are destroyed.</c>",
+<c=@reminder>Interrupted gyros are destroyed.</c>","Создайте поле молний в указанной точке, а затем призовите гиро-стражей, чтобы они уничтожали врагов и воскрешали союзников внутри поля.
+<c=@reminder>Прерванные гиро-стражи уничтожаются.</c>"
 "Create a lightning field at the specified point. Then summon gyros to finish foes and revive allies within the field. The recharge of this skill is increased for each gyro created beyond the first.
-<c=@reminder>Interrupted gyros are destroyed.</c>",
+<c=@reminder>Interrupted gyros are destroyed.</c>","Создайте поле молний в указанной точке. Затем призовите гиро, чтобы они добивали врагов и воскрешали союзников внутри поля. Время перезарядки этой способности увеличивается для каждого созданного после первого гиро.
+<c=@reminder>Прерванные гиро уничтожаются.</c>"
 "Create a lightning field at your location, then summon gyros to finish foes and revive allies within the field.
-<c=@reminder>Interrupted gyros are destroyed.</c>",
+<c=@reminder>Interrupted gyros are destroyed.</c>","Создайте поле молний вокруг себя, а затем призовите гиро, чтобы те уничтожали врагов и воскрешали союзников в пределах этого поля.
+<c=@reminder>Прерванные гиро уничтожаются.</c>"
 "Create a lightning field at your location. Then summon gyros to finish foes and revive allies within the field. The recharge of this skill is increased for each gyro created beyond the first.
-<c=@reminder>Interrupted gyros are destroyed.</c>",
+<c=@reminder>Interrupted gyros are destroyed.</c>","Создайте в выбранной области поле молний. Затем призовите гиро, чтобы они наносили урон врагам и воскрешали союзников внутри этого поля. Время перезарядки этой способности увеличивается для каждого созданного после первого гиро.
+<c=@reminder>Прерванные гиро уничтожаются.</c>"
 Create a magical storm at the target location that applies random conditions to foes and boons to allies. The first strike of the storm dazes foes.,"Создает магический шторм в целевой области, который накладывает случайные состояния на врагов и благословения на союзников. Первый удар шторма ошеломляет врагов."
 Create a magnetic field that reflects projectiles and can be released to knock back foes.,"Создает магнитное поле, которое отражает снаряды и может быть высвобождено, чтобы отбросить врагов."
 "Create a massive, rocky explosion that knocks back foes.","Создает мощный каменный взрыв, отбрасывающий врагов."
@@ -131,7 +135,8 @@ Create a swirling wind that blocks projectiles.,"Создает вихрь ве�
 Create a thermal vent around your target.,Создает тепловой вентиль вокруг вашей цели.
 Create a tornado that knocks back foes.,"Создает торнадо, отбрасывающее врагов."
 "Create a violent eruption that damages foes.
-<c=@reminder>Damage is reduced on subsequent hits against the same foe.</c>",
+<c=@reminder>Damage is reduced on subsequent hits against the same foe.</c>","Создайте мощный взрыв, который наносит урон врагам.
+<c=@reminder>Урон от последующих атак по одной и той же цели будет снижен.</c>"
 "Create a vortex at your location, pulling nearby foes toward you.","Создает вихрь в вашем местоположении, притягивающий ближайших врагов к вам."
 Create a wall of energy that grants swiftness to allies who cross it and cripples foes who touch it. Allies may cross the wall more than once but receive less swiftness after the first crossing.,"Создает стену энергии, которая дает стремительность союзникам, пересекающим ее, и накладывает увечье на врагов, касающихся ее. Союзники могут пересекать стену более одного раза, но получают меньше стремительности после первого пересечения."
 Create a wall of flame at the target area that burns foes.,"Создает стену огня в указанной области, которая сжигает врагов."

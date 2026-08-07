@@ -46,7 +46,9 @@ Increases movement speed by 100%% for 5 seconds after gathering completes.","И�
 После завершения сбора увеличивает скорость передвижения на 100%% в течение 5 секунд."
 "Used to chop down all saplings.
 
-Replaces gathering results with logs used in higher-level crafting recipes. Material types are determined by the type of node gathered from. Elder wood can be improved a limited number of times each day.",
+Replaces gathering results with logs used in higher-level crafting recipes. Material types are determined by the type of node gathered from. Elder wood can be improved a limited number of times each day.","Раньше использовалось для вырубки всех саженцев.
+
+Теперь при сборе материалов вместо обычных ресурсов получаются брёвна, которые используются в более сложных рецептах крафта. Тип материала определяется типом собранного ресурса. Древнюю древесину можно улучшать ограниченное количество раз в день."
 "Used to chop down all saplings.
 
 Rewards unbound magic on each swing in addition to logging results.","Используется для вырубки всех саженцев.
@@ -303,21 +305,21 @@ Combine in the Mystic Forge with Mystic Runestones, a Gift of Metal, and a Gift 
 "Used to craft the legendary rifle precursor Man o' War.
 Combine in the Mystic Forge with Mystic Runestones, a Gift of Wood, and a Gift of the Mists to create the Gift of Divinity.","Используется для создания прецедента легендарного винтовки Ман о' Вар.
 Совместите в Мистической кузне с Мистическими Рунными Камнями, Подарком из дерева и Подарком Туманов, чтобы создать подарок Божественности."
-Used to craft the legendary rifle the HMS Divinity.,
+Used to craft the legendary rifle the HMS Divinity.,"Используется для создания легендарной винтовки ""HMS Divinity""."
 "Used to craft the legendary scepter precursor Tlehco.
 Combine in the Mystic Forge with Mystic Runestones, a Gift of Energy, and a Gift of the Mists to create the Gift of Xiuquatl.","Используется для создания прекурсора легендарного скипетра Тлехко.
 Совместите в Мистической кузне с мистическими руническими камнями, Даром энергии и Даром Туманов, чтобы создать Дар Сиуакатля."
-Used to craft the legendary scepter Xiuquatl.,
-Used to craft the legendary shield Shooshadoo.,
-Used to craft the legendary sword the Shining Blade.,
-Used to craft the legendary torch Flames of War.,
+Used to craft the legendary scepter Xiuquatl.,Используется для создания легендарного скипетра Сюкуатль.
+Used to craft the legendary shield Shooshadoo.,Использовался для создания легендарного щита Шушададу.
+Used to craft the legendary sword the Shining Blade.,Использовался для создания легендарного меча Сияющее Лезвие.
+Used to craft the legendary torch Flames of War.,"Используется для создания легендарного факела ""Пламя войны""."
 "Used to craft the legendary torch precursor Liturgy.
 Combine in the Mystic Forge with Mystic Runestones, a Gift of Wood, and a Gift of the Mists to create the Gift of Balthazar.","Используется для создания легендарного предшественника факела «Литания».
 Соедините в Мистической кузне с Мистическими Рунами, Даром дерева и Даром Туманов, чтобы создать Дар Балтазара."
 "Used to craft the legendary warhorn precursor Call of the Void.
 Combine in the Mystic Forge with Mystic Runestones, a Gift of Wood, and a Gift of the Mists to create the Gift of Verdarach.","Используется для создания предшественника легендарного рога Зов Пустоты.
 Совместите в Мистической кузне с Мистическими Рунными Камнями, Подарком дерева и Подарком Туманов, чтобы создать подарок Вердараха."
-Used to craft the legendary warhorn the Verdarach.,
+Used to craft the legendary warhorn the Verdarach.,Используется для создания легендарного боевого рога Вердараха.
 "Used to craft the legendary-shield precursor, Friendship.
 Combine in the Mystic Forge with Mystic Runestones, a Gift of Metal, and a Gift of the Mists to create the Gift of Shooshadoo.","Используется для создания прекурсора легендарного щита «Дружба».
 Соедините в Мистической кузне с Мистическими Рунами, Даром Металла и Даром Туманов, чтобы создать Дар Шушадо."
@@ -462,7 +464,8 @@ Purchased from Visions of Eternity renown heart vendors.","Использует�
 Куплено у торговцев за добрую славу в «Видениях вечности»."
 "Used to deploy a field tech turret. Once deployed, the turret site can be configured to any specifications if you have the appropriate schematics.","Используется для развёртывания полевой технической турели. После развёртывания место турели можно настроить под любые параметры, если у вас есть соответствующие схемы."
 "Used to detect and dig up chunks of Brandstone that fall on Istan. 
-Costs 3 Volatile Magic per 5-minute charge.",
+Costs 3 Volatile Magic per 5-minute charge.","Используется для обнаружения и извлечения кусков огненного камня, падающих на Истан.
+Требует 3 единицы нестабильной магии за 5 минут использования."
 Used to forge the legendary hammer Sharur.,Используется для создания легендарного молота Шарур.
 Used to forge the legendary mace Eureka.,Используется для ковки легендарной булавы «Эврика».
 Used to gather all plants.,Используется для сбора всех растений.
@@ -552,9 +555,12 @@ Gathers from all nearby plants when harvesting.","Используется дл�
 Собирает все ближайшие растения при сборе урожая."
 "Used to harvest all plants.
 
-Replaces gathering results with ingredients used in higher-level crafting recipes. Material types are determined by the type of node gathered from. Select cooking ingredients can be improved a limited number of times each day.",
+Replaces gathering results with ingredients used in higher-level crafting recipes. Material types are determined by the type of node gathered from. Select cooking ingredients can be improved a limited number of times each day.","Раньше использовалось для сбора всех растений.
+
+Заменяет результаты сбора ингредиентами, используемыми в рецептах более высокого уровня. Типы материалов определяются типом собранного ресурса. Некоторые кулинарные ингредиенты можно улучшить ограниченное количество раз в день."
 "Used to harvest all plants.
-Gain snowflakes when gathering.",
+Gain snowflakes when gathering.","Раньше использовалось для сбора всех видов растений.
+Теперь при сборе можно получить снежинки."
 Used to harvest all plants. Unlimited use.,Используется для сбора всех растений. Безлимитное использование.
 "Used to harvest all plants. Unlimited use. In addition to your harvesting results, this tool has a small chance to reward additional items after gathering completes.
 
@@ -633,7 +639,9 @@ Increases movement speed by 100%% for 5 seconds after gathering completes.","И�
 Увеличивает скорость передвижения на 100%% в течение 5 секунд после завершения сбора."
 "Used to mine all metals.
 
-Replaces gathering results with ores used in higher-level crafting recipes. Material types are determined by the type of node gathered from. Mithril ore can be improved a limited number of times each day.",
+Replaces gathering results with ores used in higher-level crafting recipes. Material types are determined by the type of node gathered from. Mithril ore can be improved a limited number of times each day.","Раньше использовался для добычи всех видов руды.
+
+Теперь при сборе ресурсов вместо обычных материалов можно получить руду, используемую в более сложных рецептах крафта. Тип материала определяется типом собранного ресурса. Руда мифрила может быть улучшена ограниченное количество раз в день."
 "Used to mine all metals.
 
 Rewards unbound magic on each swing in addition to mining results.","Используется для добычи всех металлов.
@@ -664,7 +672,7 @@ Used to mine Copper Ore.,Используется для добычи медно
 Used to mix various alchemical substances.,Используется для смешивания различных алхимических веществ.
 Used to open a greater nightmare pod in the Silverwastes. The chest is located at the heart of the Hidden Depths.,Используется для открытия большого кошмарного стручка в Серебряных пустошах. Сундук находится в сердце Скрытых глубин.
 "Used to open airship cargo in Verdant Brink. Cargo can contain airship parts, crafting materials, armor, weapons, and recipes.","Используется для открытия груза дирижабля в Зеленой гряде. Груз может содержать части дирижабля, материалы для крафта, броню, оружие и рецепты."
-Used to open chests containing lost Sunspear writings.,
+Used to open chests containing lost Sunspear writings.,Использовался для открытия сундуков с утерянными записями Солнеспира.
 Used to open locked kodan caches.,Используется для открытия запертых тайников коданов.
 Used to open prisoner cages.,«Используется для открытия клеток с заключёнными.»
 "Used to open trade crates in the Crystal Desert.

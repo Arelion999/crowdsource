@@ -68,7 +68,8 @@ Throw a shrapnel mine that bleeds and cripples foes.,"Бросьте оскол�
 "Throw a spear and pull your foe to you, burning them.","Бросьте копье и притяните врага к себе, поджигая его."
 "Throw a spear at your enemy that shatters on contact, scattering shards that damage enemies around the initial target.","Бросьте во врага копье, которое разбивается при контакте, разбрасывая осколки, наносящие урон врагам вокруг первоначальной цели."
 "Throw a spear at your target. If it strikes a foe, it inflicts conditions and you may reactivate to teleport to that foe. 
-<c=@reminder>This skill recharges when exiting death shroud.</c>",
+<c=@reminder>This skill recharges when exiting death shroud.</c>","Бросьте копье в цель. Если оно поразит противника, на него будут наложены эффекты, и вы сможете повторно активировать навык, чтобы телепортироваться к этому противнику.
+<c=@reminder>Этот навык перезаряжается при выходе из состояния «саван».</c>"
 Throw a spear of flame at your foe.,Бросьте копье пламени во врага.
 Throw a spear of water at your foe that heals you when it strikes.,"Бросьте копье воды во врага, которое лечит вас при попадании."
 "Throw a spear that inflicts conditions on your target. If this strikes a movement-impaired foe, it also inflicts daze. If this skill follows a <c=@abilitytype>Finisher</c> skill, it counts as a <c=@abilitytype>lead attack</c> and grants a bonus to outgoing damage for a duration.","Метать копье, накладывающее состояния на цель. Если оно поражает врага с нарушением движения, то также накладывает оглушение. Если этот навык следует после навыка <c=@abilitytype>Финишер</c>, он считается <c=@abilitytype>ведущей атакой</c> и дает бонус к исходящему урону на время."
@@ -441,7 +442,8 @@ Weaken and cause fear in all foes within earshot.,Ослабляет и внуш
 Weaken and damage foes around you. Gain life force per foe struck. Fire a <c=@abilitytype>Crimson Tide</c> at each enemy in the area.,Ослабить и нанести урон врагам вокруг вас. Получить жизненную силу за каждого поражённого врага. Выпустить <c=@abilitytype>Багровый прилив</c> в каждого врага в области.
 "Weaken nearby enemies. Grant fury, might, and swiftness to yourself and nearby allies.","Ослабляет ближайших врагов. Дарует ярость, мощь и стремительность вам и ближайшим союзникам."
 "Weaken your foe with a fierce blow, dealing increased damage when striking a controlled or defiant foe.
-<c=@reminder>Controls include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>",
+<c=@reminder>Controls include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Ослабьте врага сильным ударом, нанося увеличенный урон при атаке подконтрольного или вызывающего сопротивление противника.
+<c=@reminder>Под контролем подразумеваются: оглушение, ошеломление, отбрасывание, притягивание, сбивание с ног, погружение, поднятие в воздух, насмешка и страх.</c>"
 Weakened Foe Knockdown,Сбивание с ног ослабленного врага
 Weakening Shroud,Ослабляющая пелена
 Weakening Venom,Ослабляющий яд

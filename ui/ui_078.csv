@@ -86,7 +86,7 @@ Hit the racetrack and master the roller beetle mount to set record times and win
 Hit your foe.,Поразите врага.
 Hit your opponent with the keg to stun them.,"Ударьте противника бочонком, чтобы оглушить его."
 Hits per Second,Ударов в секунду
-"Hitzekern-Infusion[pl:""Infusionen""]",
+"Hitzekern-Infusion[pl:""Infusionen""]",Настой жара
 Hive Rockets,Ракеты Улья
 Hiya!,Привет!
 "Hlif traveled to the Far Shiverpeaks to challenge Jormag. Near death, she took one last swing at her foe before falling unconscious. She awoke the next morning—her axe encased in an icy dragon's head.","Хлиф отправилась в Далёкие Ледяные Пики, чтобы бросить вызов Джормагу. На грани смерти она нанесла последний удар врагу, прежде чем потерять сознание. На следующее утро она очнулась — её топор был заключён в ледяную драконью голову."
@@ -230,7 +230,7 @@ Hologram Stampede: Wayfarer Foothills,Голографическое нашес�
 Hologram[s],[Голограмма|Голограммы|Голограмм]
 Holographic Bait,Голографическая приманка
 Holographic Display Unit[s],Голографический дисплейный [блок|блока|блоков]
-"Holographic Dragon Greaves Box[pl:""Boxes""]",
+"Holographic Dragon Greaves Box[pl:""Boxes""]",Ящик с голографическими драконьими поножами
 Holographic Dragon Helm[s],Голографический драконий [шлем|шлема|шлемов]
 Holographic Dragon Plate[s],Голографическая драконья [пластина|пластины|пластин]
 Holographic Dragon Shoulder[s],Голографический драконий [наплечник|наплечника|наплечников]
@@ -341,7 +341,7 @@ Homespun Hood (Level 18),Домотканый капюшон (18 уровень)
 Homespun Mittens (Level 18),Домашние рукавицы (18 уровень)
 Homespun Shoulderpads (Level 18),Домашние наплечники (18 уровень)
 Homespun Trousers (Level 18),Домашние штаны (18 уровень)
-"Homestead Decoration Box[pl:""Boxes""]: Café Console",
+"Homestead Decoration Box[pl:""Boxes""]: Café Console",Коробка с предметами для украшения дома: консоль для кафе
 Homestead Decoration Recipes,Рецепты украшений для усадьбы
 Homestead Decoration Recipes: Concierge Service,Рецепты украшений для усадьбы: Консьерж-сервис
 Homestead Decoration[s]: Café Chair,[Украшение для усадьбы: Стул кафе|Украшения для усадьбы: Стул кафе|Украшений для усадьбы: Стул кафе]
@@ -358,7 +358,7 @@ Homestead Master,Мастер поместья
 Homestead Racetrack Starter Bundle[s],[Стартовый набор|Стартовых набора|Стартовых наборов] гоночного трека усадьбы
 "Homestead Recipe Book[s]: Amnytas, Volume 1","Книг[а|и|] рецептов усадьбы: Амнитас, Том 1"
 Homestead Recipe Book[s]: Arches and PiIllars,Книга рецептов для Дома: Арки и Пилястры
-"Homestead Recipe Book[s]: Auric Basin, Volume 1",
+"Homestead Recipe Book[s]: Auric Basin, Volume 1","Рецепт[|а|ов] домашней усадьбы: Ауринская котловина, том первый"
 "Homestead Recipe Book[s]: Awakened, Volume 1","Книг[а|и|] рецептов усадьбы: Пробужденные, Том 1"
 Homestead Recipe Book[s]: Balloons,Книг[а|и|] рецептов усадьбы: Шары
 Homestead Recipe Book[s]: Banners,Книг[а|и|] рецептов усадьбы: Знамена
@@ -426,24 +426,24 @@ Homestead Recipe Book[s]: Statues,[Книга|Книги|Книг] рецепт�
 Homestead Recipe Book[s]: Statues and Trophies,[Книга|Книги|Книг] рецептов усадьбы: Статуи и трофеи
 "Homestead Recipe Book[s]: Summit Banners, Volume 1","[Книга|Книги|Книг] рецептов усадьбы: Знамена вершины, Том 1"
 "Homestead Recipe Book[s]: Summit Flags, Volume 1","[Книга|Книги|Книг] рецептов усадьбы: Флаги вершины, Том 1"
-"Homestead Recipe Book[s]: Super Adventure Box, Volume 1",
-"Homestead Recipe Book[s]: Super Adventure Box, Volume 10",
-"Homestead Recipe Book[s]: Super Adventure Box, Volume 2",
-"Homestead Recipe Book[s]: Super Adventure Box, Volume 3",
-"Homestead Recipe Book[s]: Super Adventure Box, Volume 4",
-"Homestead Recipe Book[s]: Super Adventure Box, Volume 5",
-"Homestead Recipe Book[s]: Super Adventure Box, Volume 6",
-"Homestead Recipe Book[s]: Super Adventure Box, Volume 7",
-"Homestead Recipe Book[s]: Super Adventure Box, Volume 8",
-"Homestead Recipe Book[s]: Super Adventure Box, Volume 9",
+"Homestead Recipe Book[s]: Super Adventure Box, Volume 1","Рецепт[а|ы|ов] домашней усадьбы: Супер приключенческая коробка, том первый"
+"Homestead Recipe Book[s]: Super Adventure Box, Volume 10","Рецепт[|а|ов] домашней усадьбы: Супер приключенческая коробка, том 10"
+"Homestead Recipe Book[s]: Super Adventure Box, Volume 2","Рецепт[|а|ов] домашней усадьбы: Супер приключенческая коробка, том второй"
+"Homestead Recipe Book[s]: Super Adventure Box, Volume 3","Рецепт[|а|ов] домашней усадьбы: Супер приключенческая коробка, том третий"
+"Homestead Recipe Book[s]: Super Adventure Box, Volume 4","Рецепт[|а|ов] домашней усадьбы: Супер приключенческая коробка, том четвёртый"
+"Homestead Recipe Book[s]: Super Adventure Box, Volume 5","Книга рецептов для дома: Супер-приключенческий сундук, том 5"
+"Homestead Recipe Book[s]: Super Adventure Box, Volume 6","Рецепт[|а|ов] домашней усадьбы: Супер приключенческая коробка, том 6"
+"Homestead Recipe Book[s]: Super Adventure Box, Volume 7","Рецепт[|а|ов] домашней усадьбы: Супер приключенческая коробка, том 7"
+"Homestead Recipe Book[s]: Super Adventure Box, Volume 8","Рецепт[|а|ов] домашней усадьбы: Супер приключенческая коробка, том 8"
+"Homestead Recipe Book[s]: Super Adventure Box, Volume 9","Рецепт[|а|ов] домашней усадьбы: Супер приключенческая коробка, том 9"
 Homestead Recipe Book[s]: Tables,[Книга|Книги|Книг] рецептов усадьбы: Столы
 Homestead Recipe Book[s]: Tables and Chairs,[Книга|Книги|Книг] рецептов усадьбы: Столы и стулья
 Homestead Recipe Book[s]: Trees,[Книга|Книги|Книг] рецептов усадьбы: Деревья
 "Homestead Recipe Book[s]: Trees, Volume 2","[Книга|Книги|Книг] рецептов усадьбы: Деревья, том 2"
-"Homestead Recipe Book[s]: Wintersday, Volume 1",
-"Homestead Recipe Book[s]: Wintersday, Volume 10",
-"Homestead Recipe Book[s]: Wintersday, Volume 2",
-"Homestead Recipe Book[s]: Wintersday, Volume 3",
+"Homestead Recipe Book[s]: Wintersday, Volume 1","Рецепт[|а|ов] домашней усадьбы: Зимний день, том первый"
+"Homestead Recipe Book[s]: Wintersday, Volume 10","Рецепт[|а|ов] домашней усадьбы: Зимний день, том 10"
+"Homestead Recipe Book[s]: Wintersday, Volume 2","Рецепт[|а|ов] домашней усадьбы: Винтерсдей, том второй"
+"Homestead Recipe Book[s]: Wintersday, Volume 3","Рецепт[|а|ов] домашней усадьбы: Зимний день, том третий"
 "Homestead Recipe Book[s]: Wintersday, Volume 4","[Книга|Книги|Книг] рецептов усадьбы: Зимний день, том 4"
 "Homestead Recipe Book[s]: Wintersday, Volume 5","[Книга|Книги|Книг] рецептов усадьбы: Зимний день, том 5"
 "Homestead Recipe Book[s]: Wintersday, Volume 6","[Книга|Книги|Книг] рецептов усадьбы: Зимний день, том 6"
@@ -494,7 +494,7 @@ Honey Dye[s],[Краска|Краски|Красок] «Мёд»
 Honey Flower[s],[Цветок|Цветка|Цветков] медоноса
 Honey Ice Dye[s],[Краска|Краски|Красок] «Медовый лёд»
 Honeybutter Dye[s],[Краска|Краски|Красок] «Медовое масло»
-"Honeycomb Grouper[pl:""Groupers""]",
+"Honeycomb Grouper[pl:""Groupers""]",[Медовый групер|Медовые груперы|Медовых груперов]
 Honeycomb-Covered Gear Bag[s],"[Сумка|Сумки|Сумок] с шестернями, облепленными сотами"
 Honeypot Ant[s],[Муравей|Муравья|Муравьёв]-медоносов
 Honeysuckle Dye[s],[Краска|Краски|Красок] «Жимолость»

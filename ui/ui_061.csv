@@ -23,7 +23,7 @@ Equinox Staff Skin[s],[Облик|Облика|Обликов] посоха «Р
 Equinox Sword Skin[s],[Облик|Облика|Обликов] меча «Равноденствие»
 Equinox Torch Skin[s],[Облик|Облика|Обликов] факела «Равноденствие»
 Equinox Warhorn Skin[s],[Облик|Облика|Обликов] рога «Равноденствие»
-"Equinox Weapon Box[pl:""Boxes""]",
+"Equinox Weapon Box[pl:""Boxes""]",Ящик с оружием Равноденствия
 Equinox Weapon Choice[s],[Выбор|Выбора|Выборов] оружия «Равноденствие»
 Equinox Weapons,Оружие равноденствия
 Equinox Wings Backpack and Glider Combo[s],[Набор|Набора|Наборов] «Крылья равноденствия»: заплечный ранец и планер
@@ -109,7 +109,7 @@ Equipment Templates,Шаблоны снаряжения
 Equipped Gathering Tools:,Экипированные инструменты сбора:
 Equipped Passive Skills,Экипированные пассивные навыки
 Equipped Slot Skills,Экипированные слотовые навыки
-"Equipped with Level-80 Gear[pl:""Gear""]",
+"Equipped with Level-80 Gear[pl:""Gear""]",Экипирован снарягой уровня 80[|ой|ами]
 "Equipping a default build will replace your currently chosen items. Weapons will be chosen from your inventory if they exist, otherwise they will be created.","Экипировка сборки по умолчанию заменит ваши текущие выбранные предметы. Оружие будет выбрано из вашего инвентаря, если оно есть, в противном случае оно будет создано."
 Equipping an item in this slot will improve your attributes.,Экипировка предмета в этот слот улучшит ваши характеристики.
 Equipping an item of a higher rarity will improve your attributes.,Экипировка предмета более высокой редкости улучшит ваши характеристики.
@@ -298,7 +298,7 @@ Establish a crafting center within Arborstone.<br><br>Increases the resting expe
 Establish commerce operations within Arborstone.<br><br>Increases the resting experience enhancement from Arborstone Inn by 5%%.,Создайте торговые операции в Арборстоуне.<br><br>Увеличивает бонус к опыту отдыха от гостиницы Арборстоуна на 5%%.
 Establish entertainment areas within Arborstone.<br><br>Increases the resting experience enhancement from Arborstone Inn by 5%%.,Создайте зоны развлечений в Арборстоуне.<br><br>Увеличивает бонус к опыту отдыха от гостиницы Арборстоуна на 5%%.
 Establish global operations within Arborstone.<br><br>Increases the resting experience enhancement from Arborstone Inn by 5%%.,Создайте глобальные операции в Арборстоуне.<br><br>Увеличивает бонус к опыту отдыха от гостиницы Арборстоуна на 5%%.
-Estate Fancy Chair[s],
+Estate Fancy Chair[s],Изысканный стул для поместья
 Estate High-Back Chair[s],[Стул|Стула|Стульев] поместья с высокой спинкой
 Estate Plush Armchair[s],[Плюшевое кресло|Плюшевых кресла|Плюшевых кресел] поместья
 Estate Plush Sofa[s],[Плюшевый диван|Плюшевых дивана|Плюшевых диванов] поместья
@@ -353,7 +353,7 @@ Eternal Forged Staff Skin[s],[Вечный кованый облик посох�
 Eternal Forged Sword Skin[s],[Вечный кованый облик меча|Вечных кованых облика меча|Вечных кованых обликов меча]
 Eternal Forged Torch Skin[s],[Вечный кованый облик факела|Вечных кованых облика факела|Вечных кованых обликов факела]
 Eternal Forged Warhorn Skin[s],[Вечный кованый облик боевого рога|Вечных кованых облика боевого рога|Вечных кованых обликов боевого рога]
-"Eternal Forged Weapon Box[pl:""Boxes""]",
+"Eternal Forged Weapon Box[pl:""Boxes""]",Вечная кованая коробка оружия
 Eternal Forged Weapons,Оружие «Вечный кованый»
 Eternal Grove,Вечная роща
 Eternal Ice Dye[s],[Краска «Вечный лёд»|Краски «Вечный лёд»|Красок «Вечный лёд»]

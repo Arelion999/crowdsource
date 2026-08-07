@@ -86,7 +86,7 @@ Contains Pieces of Rare Unidentified Gear and a chest from which to pick your ch
 "Contains Platinum Guild Challenger Trophy; Potions of PvP Reward; and Guild Challenger Decoration token, coin, and items that help restore your guild arena.","Содержит платиновый трофей претендента гильдии; зелья награды PvP; и жетон, монету и предметы украшения претендента гильдии, которые помогают восстановить арену гильдии."
 "Contains Potions of PvP Reward and Guild Challenger Decoration token, coin, and items that help restore your guild arena.","Содержит зелья награды PvP и жетон, монету и предметы украшения претендента гильдии, которые помогают восстановить арену гильдии."
 Contains previously equipped items. Can be opened after ending level boost.,Содержит ранее экипированные предметы. Можно открыть после завершения ускорения уровня.
-"Contains PvP and WvW Reward Track progress, food, and valuable items. Double-click to open.",
+"Contains PvP and WvW Reward Track progress, food, and valuable items. Double-click to open.","Содержит информацию о прогрессе в треке наград для PvP и WvW, а также еду и ценные предметы. Дважды щелкните, чтобы открыть."
 "Contains random loot.
 Double-click to open.","Содержит случайную добычу.
 Дважды щелкните, чтобы открыть."
@@ -122,14 +122,14 @@ Contains second-tier crafting materials. Double-click to open.,"Содержит
 Contains single-use armor skins for coat and helm.,Содержит одноразовые облики брони для куртки и шлема.
 "Contains single-use armor skins for the coat, legs, helm, boots, and gloves.","Содержит одноразовые облики брони для куртки, штанов, шлема, ботинок и перчаток."
 Contains sixth-tier crafting materials. Double-click to open.,"Содержит материалы для крафта пятого уровня. Дважды щёлкните, чтобы открыть."
-Contains special goods from Leadfoot Village.,
-Contains special goods from the fort.,
-Contains special goods from the lighthouse.,
-Contains special goods from the mine.,
-Contains special goods from the overlook.,
-Contains special goods from the port.,
-Contains surplus resources collected by your Black Lion industry team. Double-click to open.,
-Contains ten or more Mystic Coins. Double-click to open.,
+Contains special goods from Leadfoot Village.,Содержит особые товары из деревни Лидфут.
+Contains special goods from the fort.,Содержит особые товары из крепости.
+Contains special goods from the lighthouse.,Содержит особые товары из маяка.
+Contains special goods from the mine.,Содержит особые товары из шахты.
+Contains special goods from the overlook.,Содержит особые товары из смотровой площадки.
+Contains special goods from the port.,Содержит особые товары из порта.
+Contains surplus resources collected by your Black Lion industry team. Double-click to open.,"Содержит излишки ресурсов, собранных вашей командой Black Lion. Дважды щелкните, чтобы открыть."
+Contains ten or more Mystic Coins. Double-click to open.,"Содержит десять или более мистических монет. Дважды щелкните, чтобы открыть."
 Contains ten or more piles of lucent crystals. Double-click to open.,"Содержит десять и более скоплений светящихся кристаллов. Дважды щелкните, чтобы открыть."
 "Contains the book ""Expertise in Advanced Axe Crafting"" and a Recipe: The Apparatus.",Содержит книгу «Мастерство продвинутого изготовления топоров» и рецепт: Аппарат.
 "Contains the book ""Expertise in Advanced Short Bow Crafting"" and a Recipe: The Ambush.",Содержит книгу «Мастерство продвинутого изготовления коротких луков» и рецепт: Засада.
@@ -232,7 +232,8 @@ Contains various supplies from the Zephyrites' trade stockpiles.,Содержи�
 Contains various supplies from Zephyr Sanctum.,Содержит различные припасы из Святилища Зефира.
 Contains Wintersday Gifts.,Содержит подарки Зимнего дня.
 "Contains WvW Tournament Claim Tickets.
-Double-click to open.",
+Double-click to open.","Содержит билеты для участия в турнире по PvP.
+Дважды щелкните, чтобы открыть."
 "Contains your choice of a Mistborn, Curious Creatures, Bizarre Beasts, or Lost Era Mount Select License, or a Deep Wilds Mount Adoption License.","Содержит на ваш выбор лицензию на выбор ездового животного: Рожденный в тумане, Любопытные создания, Диковинные звери или Потерянная эпоха, или лицензию на усыновление ездового животного из Глубоких дебрей."
 Contains your choice of a unique exotic weapon.,Содержит на ваш выбор уникальное экзотическое оружие.
 "Contains your choice of an account-bound Skyscale weapon skin. Double-click to choose a reward.
@@ -330,22 +331,31 @@ Reap-r-Tron Permanent Harvesting Tool","Содержит:
 Continue Coin,Монета продолжения
 Contract of Patronage,Контракт покровительства
 "Contrary to certain folklore, springer kits are not hatched from eggs.
-Combine 1 Black, 1 Green, and 1 Brown Springer Kit with 12 Unidentified Dyes in the Mystic Forge to create a Cyan Springer Kit.",
+Combine 1 Black, 1 Green, and 1 Brown Springer Kit with 12 Unidentified Dyes in the Mystic Forge to create a Cyan Springer Kit.","Вопреки некоторым поверьям, птенцы-прыгуны не вылупляются из яиц.
+Соедините 1 чёрный, 1 зелёный и 1 коричневый комплект «Спрингер» с 12 единицами неопознанных красителей в мистической кузнице, чтобы создать комплект «Спрингер» цвета циан."
 "Contrary to certain folklore, springer kits are not hatched from eggs.
 Combine 1 Brown and 2 Red Mini Springer Kits with 4 Unidentified Dyes in the Mystic Forge to create a Mini Yellow Springer Kit.
-Combine 1 Yellow, 1 Brown, and 1 Red Mini Springer Kit with 4 Unidentified Dyes in the Mystic Forge to create a Mini Green Springer Kit.",
+Combine 1 Yellow, 1 Brown, and 1 Red Mini Springer Kit with 4 Unidentified Dyes in the Mystic Forge to create a Mini Green Springer Kit.","Вопреки некоторым поверьям, птенцы спрингер не вылупляются из яиц.
+Соедините 1 коричневый и 2 красных мини-спрингера с 4 неопознанными красителями в мистической кузнице, чтобы создать мини-спрингера жёлтого цвета.
+Соедините 1 жёлтый, 1 коричневый и 1 красный мини-спрингер с 4 неопознанными красителями в мистической кузнице, чтобы создать мини-спрингера зелёного цвета."
 "Contrary to certain folklore, springer kits are not hatched from eggs.
-Combine 1 Cyan, 1 Black, and 1 Green Springer Kit with 20 Unidentified Dyes in the Mystic Forge to create a Thunder Springer Kit.",
+Combine 1 Cyan, 1 Black, and 1 Green Springer Kit with 20 Unidentified Dyes in the Mystic Forge to create a Thunder Springer Kit.","Вопреки некоторым поверьям, птенцы-прыгуны не вылупляются из яиц.
+Объедините 1 синий, 1 чёрный и 1 зелёный комплект «Пружинка» с 20 единицами неопознанных красителей в мистической кузнице, чтобы создать комплект «Громовая пружинка»."
 "Contrary to certain folklore, springer kits are not hatched from eggs.
-Combine 1 Green and 2 Red Springer Kits with 8 Unidentified Dyes in the Mystic Forge to create a Black Springer Kit.",
+Combine 1 Green and 2 Red Springer Kits with 8 Unidentified Dyes in the Mystic Forge to create a Black Springer Kit.","Вопреки некоторым поверьям, птенцы-прыгуны не вылупляются из яиц.
+Объедините 1 зелёный и 2 красных комплекта «Пружинка» с 8 неопознанными красителями в мистической кузнице, чтобы создать чёрный комплект «Пружинка»."
 "Contrary to certain folklore, springer kits are not hatched from eggs.
-Combine 1 White and 2 Red Springer Kits with 12 Unidentified Dyes in the Mystic Forge to create a Pink Springer Kit.",
+Combine 1 White and 2 Red Springer Kits with 12 Unidentified Dyes in the Mystic Forge to create a Pink Springer Kit.","Вопреки некоторым поверьям, птенцы-прыгуны не вылупляются из яиц.
+Соедините 1 белый и 2 красных комплекта «Пружинный скакун» с 12 единицами неопознанных красителей в мистической кузнице, чтобы создать розовый комплект «Пружинный скакун»."
 "Contrary to certain folklore, springer kits are not hatched from eggs.
-Combine 2 Yellow and 1 Red Springer Kits with 8 Unidentified Dyes in the Mystic Forge to create a White Springer Kit.",
+Combine 2 Yellow and 1 Red Springer Kits with 8 Unidentified Dyes in the Mystic Forge to create a White Springer Kit.","Вопреки некоторым поверьям, птенцы-прыгуны не вылупляются из яиц.
+Объедините 2 жёлтых и 1 красный комплекта «Пружинка» с 8 неопознанными красителями в мистической кузнице, чтобы создать белый комплект «Пружинка»."
 "Contrary to certain folklore, springer kits are not hatched from eggs.
-Combine 3 Brown Springer Kits with 2 Unidentified Dyes in the Mystic Forge to create a Red Springer Kit.",
+Combine 3 Brown Springer Kits with 2 Unidentified Dyes in the Mystic Forge to create a Red Springer Kit.","Вопреки некоторым поверьям, птенцы спрингер не вылупляются из яиц.
+Соедините 3 коричневых птенца спрингера и 2 неопознанных красителя в мистической кузнице, чтобы создать красного птенца спрингера."
 "Contrary to certain folklore, springer kits are not hatched from eggs.
-Combine a 1 White and 2 Pink Springer Kits with 20 Unidentified Dyes in the Mystic Forge to create a Primal Springer Kit.",
+Combine a 1 White and 2 Pink Springer Kits with 20 Unidentified Dyes in the Mystic Forge to create a Primal Springer Kit.","Вопреки некоторым поверьям, пружинные жуки не выводятся из яиц.
+Соедините 1 белый и 2 розовых комплекта «Пружинка» с 20 неопознанными красителями в мистической кузнице, чтобы создать комплект «Первобытная пружинка»."
 Conundrum of Maut,Загадка Маут
 Convergence Challenge Mode: Bronze,Схождение: Режим испытания: Бронза
 Convergence Challenge Mode: Gold,Схождение: Режим испытания: Золото
@@ -655,7 +665,11 @@ Created from rare physical components.,Создано из редких физи
 • 1 Gift of Condensed Might
 • 1 Gift of Condensed Magic
 • 1 Gift of Craftsmanship
-• 15 Mystic Clovers",
+• 15 Mystic Clovers","Создано в Мистической Кузнице путем объединения следующих предметов:
+• 1 Подарок Сгущенной Мощи
+• 1 Подарок Сгущенной Магии
+• 1 Подарок Мастерства
+• 15 Мистических Клеверов"
 "Created in the Mystic Forge by combining:
 • 1 Gift of Fangs
 • 1 Gift of Scales
@@ -669,59 +683,63 @@ Created from rare physical components.,Создано из редких физи
 • 5 Auric Ingots
 • 5 Reclaimed Metal Plates
 • 5 Chak Eggs
-• 1 Gift of the Pact",
+• 1 Gift of the Pact","Создано в Мистической кузнице из:
+• 5 аурических слитков
+• 5 переработанных металлических пластин
+• 5 чак-яиц
+• 1 дара Пакета"
 Created with crystal bottles and pigments.,Создано с помощью кристальных бутылей и пигментов.
 Creates a motivation that allows tracking tier 2 rifts and draws more essence on their closure.,"Создает мотивацию, позволяющую отслеживать разломы 2-го уровня и извлекать больше эссенции при их закрытии."
 Creates a motivation that allows tracking tier 3 rifts and draws more essence on their closure.,"Создает мотивацию, позволяющую отслеживать разломы 3-го уровня и извлекать больше эссенции при их закрытии."
 Creates a motivation that draws more essence from tier 1 rifts on their closure.,"Создает мотивацию, извлекающую больше эссенции из разломов 1-го уровня при их закрытии."
 "Creates a spirit banner that grants +10%% karma gains, +10%% magic find, and +10%% gold from kills to any ally that touches it for 30 minutes.","Создает знамя духа, которое дает +10%% к получению кармы, +10%% к поиску магии и +10%% золота за убийства любому союзнику, коснувшемуся его, на 30 минут."
-Creeping Stone Fungus,
+Creeping Stone Fungus,Ползучий каменный гриб
 Creepy Jack-o'-Lantern,Жуткий светильник-тыква
-Creepy Mini 3-Pack,
-Crescent Canoe Skiff Skin,
-Crescent Moon Scepter Skin,
+Creepy Mini 3-Pack,Жуткий набор из 3 миниатюр
+Crescent Canoe Skiff Skin,"Облик ""Полумесячная каноэ-долблёнка"""
+Crescent Moon Scepter Skin,"Скипетр ""Полумесяц"""
 Crescent Steel,Стальной полумесяц
 Crest of Nageling,Гребень Нагелинга
-Crest of the Assassin,
-Crest of the Magi,
-Crest of the Rabid,
-Crest of the Shaman,
-Crest of the Soldier,
-Crested Dragon Siege Turtle Skin,
-Crimson Agony Lens (Left),
-Crimson Agony Lens (Right),
-Crimson Assassin Axe Skin,
+Crest of the Assassin,Гребень убийцы
+Crest of the Magi,Гребень магов
+Crest of the Rabid,Гребень Бешеного
+Crest of the Shaman,Гребень шамана
+Crest of the Soldier,Гребень воина
+Crested Dragon Siege Turtle Skin,"Кожа ""Крестохвостая черепаха-осадник"""
+Crimson Agony Lens (Left),Алый окуляр агонии (левый)
+Crimson Agony Lens (Right),Багровый окуляр агонии (правый)
+Crimson Assassin Axe Skin,Алый ассасинский топор
 Crimson Assassin Backpack Cover,Обложка рюкзака «Багровый убийца»
-Crimson Assassin Dagger Skin,
-Crimson Assassin Focus Skin,
-Crimson Assassin Greatsword Skin,
-Crimson Assassin Hammer Skin,
-Crimson Assassin Longbow Skin,
-Crimson Assassin Mace Skin,
-Crimson Assassin Pistol Skin,
-Crimson Assassin Rifle Skin,
-Crimson Assassin Scepter Skin,
-Crimson Assassin Shield Skin,
-Crimson Assassin Short Bow Skin,
-Crimson Assassin Staff Skin,
-Crimson Assassin Sword Skin,
-Crimson Assassin Token,
-Crimson Assassin Torch Skin,
-Crimson Assassin Warhorn Skin,
-Crimson Condensed Ley-Line Essence,
-Crimson Lion Axe Skin,
-Crimson Lion Dagger Skin,
-Crimson Lion Dye,
-Crimson Lion Dye Kit,
-Crimson Lion Focus Skin,
-Crimson Lion Greatsword Skin,
-Crimson Lion Hammer Skin,
-Crimson Lion Longbow Skin,
-Crimson Lion Mace Skin,
-Crimson Lion Pistol Skin,
-Crimson Lion Rifle Skin,
-Crimson Lion Scepter Skin,
-Crimson Lion Shield Skin,
-Crimson Lion Short Bow Skin,
-Crimson Lion Staff Skin,
-Crimson Lion Sword Skin,
+Crimson Assassin Dagger Skin,Алый кинжал ассасина
+Crimson Assassin Focus Skin,"Багряный ассасин, облик"
+Crimson Assassin Greatsword Skin,Багровый клинок ассасина
+Crimson Assassin Hammer Skin,"Алый ассасинский молот, скины"
+Crimson Assassin Longbow Skin,Алый лук ассасина
+Crimson Assassin Mace Skin,Алый ассасинский боевой молот
+Crimson Assassin Pistol Skin,Алый ассасинский пистолет
+Crimson Assassin Rifle Skin,"Рубиновая винтовка ""Кровавый убийца"""
+Crimson Assassin Scepter Skin,Алый ассасинский скипетр
+Crimson Assassin Shield Skin,Алый ассасинский щит
+Crimson Assassin Short Bow Skin,"Короткий лук ""Багряный убийца"""
+Crimson Assassin Staff Skin,Алый ассасинский посох
+Crimson Assassin Sword Skin,Алый меч ассасина
+Crimson Assassin Token,Кровавый жетон убийцы
+Crimson Assassin Torch Skin,"Алый облик ""Факел ассасина"""
+Crimson Assassin Warhorn Skin,Алый боевой рог ассасина
+Crimson Condensed Ley-Line Essence,Концентрированная эссенция алой лей-линии
+Crimson Lion Axe Skin,"Кожа для топора ""Багряный Лев"""
+Crimson Lion Dagger Skin,Алый кинжал льва (внешний вид)
+Crimson Lion Dye,Багряный краситель льва
+Crimson Lion Dye Kit,"Набор красителей ""Багряный лев"""
+Crimson Lion Focus Skin,"Фокусирующая оболочка ""Багроный Лев"""
+Crimson Lion Greatsword Skin,"Великолепный меч ""Алый Лев"""
+Crimson Lion Hammer Skin,Кроваво-львиный молот (облик)
+Crimson Lion Longbow Skin,"Длинный лук ""Багряный лев"""
+Crimson Lion Mace Skin,"Кожа для булавы ""Алый Лев"""
+Crimson Lion Pistol Skin,"Пистолет ""Багряный Лев"", скины"
+Crimson Lion Rifle Skin,"Ружьё ""Багряный Лев"""
+Crimson Lion Scepter Skin,"Скипетр ""Алый Лев"""
+Crimson Lion Shield Skin,Багровый щит льва (внешний вид)
+Crimson Lion Short Bow Skin,"Короткий лук ""Багроный лев"""
+Crimson Lion Staff Skin,"Багровый лев, облик посоха"
+Crimson Lion Sword Skin,"Багряный лев, облик меча"

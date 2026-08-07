@@ -36,10 +36,10 @@ Statics<br>Union,Статики<br>Союз
 Stationary • Spits,Неподвижный • Плевки
 Stations of<br>Contemplation,Станции<br>Созерцания
 Statis Beam,Статический луч
-Stats only apply in WvW:+10%% Outgoing Healing+100 Healing Power+70 Concentration+10%% Karma+5%% All Experience Gained+20%% Magic Find+20%% Gold Find+10%% WXP Gained,
+Stats only apply in WvW:+10%% Outgoing Healing+100 Healing Power+70 Concentration+10%% Karma+5%% All Experience Gained+20%% Magic Find+20%% Gold Find+10%% WXP Gained,"Статы действуют только в PvP: +10%% к исцелению, которое вы оказываете, +100 к силе исцеления, +70 к концентрации, +10%% к получаемой карме, +5%% ко всему получаемому опыту, +20%% к шансу найти магические предметы, +20%% к шансу найти золото, +10%% к получаемому опыту мира."
 Stats only apply in WvW:+150 Toughness,Характеристики действуют только в WvW:+150 Стойкость
-Stats only apply in WvW:-10%% Incoming Damage+100 Power+70 Ferocity+10%% Karma+5%% All Experience Gained+20%% Magic Find+20%% Gold Find+10%% WXP Gained,
-Stats only apply in WvW:-10%% Incoming Damage+45 to All Attributes+10%% Karma+5%% All Experience Gained+20%% Magic Find+20%% Gold Find+10%% WXP Gained,
+Stats only apply in WvW:-10%% Incoming Damage+100 Power+70 Ferocity+10%% Karma+5%% All Experience Gained+20%% Magic Find+20%% Gold Find+10%% WXP Gained,"Статы действуют только в PvP-режиме «Завоевание территорий»: -10%% входящего урона, +100 силы, +70 ярости, +10%% кармы, +5%% ко всему получаемому опыту, +20%% шанс найти магические предметы, +20%% шанс найти золото, +10%% получаемого опыта мира."
+Stats only apply in WvW:-10%% Incoming Damage+45 to All Attributes+10%% Karma+5%% All Experience Gained+20%% Magic Find+20%% Gold Find+10%% WXP Gained,"Статы действуют только в PvP-режиме: -10%% входящего урона, +45 ко всем характеристикам, +10%% к карме, +5%% ко всему получаемому опыту, +20%% к шансу найти магические предметы, +20%% к шансу найти золото, +10%% к получаемым очкам опыта мира."
 Stats only apply in WvW:Gain 0.6%% Increased Healing to Other Allies for Every 100 Healing PowerGain 0.8%% Increased Healing to Other Allies for Every 100 Concentration+10%% Experience from Kills,Характеристики действуют только в WvW:Получайте 0.6%% увеличения исцеления союзников за каждые 100 Силы исцеленияПолучайте 0.8%% увеличения исцеления союзников за каждые 100 Концентрации+10%% Опыт за убийства
 Statuary (Blue)<brx>• Defeat stoneworker to commune and capture objective<br>• Use siege weapons to bombard foes<br>• 30 points on capture<br>• 10 points per scoring tick,"Статуя (Синяя)<brx>• Победите каменщика, чтобы войти в контакт и захватить цель<br>• Используйте осадные орудия для обстрела врагов<br>• 30 очков за захват<br>• 10 очков за тик начисления"
 Statuary (Green)<brx>• Defeat stoneworker to commune and capture objective<br>• Use siege weapons to bombard foes<br>• 30 points on capture<br>• 10 points per scoring tick,"Статуя (Зелёная)<brx>• Победите каменщика, чтобы войти в контакт и захватить цель<br>• Используйте осадные орудия для обстрела врагов<br>• 30 очков за захват<br>• 10 очков за тик начисления"
@@ -90,7 +90,7 @@ Steals Health • Inflicts Chill and Blind,Крадёт здоровье • Н�
 Steals life for master,Крадёт жизнь для хозяина
 Steals Life • Transfers Conditions • Plagues when Attacked • Converts Boons to Conditions,Крадёт жизнь • Переносит состояния • Насылает чуму при атаке • Превращает благословения в состояния
 Steals Life-Fire,Крадет жизненный огонь
-Steals • AoE Bleeds,
+Steals • AoE Bleeds,Кража • Кровотечение по области
 Stealth 2.0,Стелс 2.0
 Stealth Activation,Активация скрытности
 Stealth attacks siphon health.,Скрытные атаки высасывают здоровье.
@@ -104,9 +104,9 @@ Stealth Strike,Скрытный удар
 Stealthily attack with a rapid fire from your pistol that causes bleeding.,"Скрытно атакуйте быстрой стрельбой из пистолета, вызывающей кровотечение."
 Stealths • Stealths Allies,Скрытность • Скрытность союзников
 Stealths • Summons Rat Minions,Скрывается • Призывает крыс-миньонов
-"Stealthy Apprentice[pl:""Apprentice""]",
-"Stealthy Journeyman[pl:""Journeyman""]",
-"Stealthy Master[pl:""Master""]",
+"Stealthy Apprentice[pl:""Apprentice""]",Ученик-стажёр|ученика|учеников
+"Stealthy Journeyman[pl:""Journeyman""]",Скрытный подмастерье
+"Stealthy Master[pl:""Master""]",Скрытный мастер[|ь|и|я]
 Stealthy Survivor is unavailable in combat.,Скрытный выживальщик недоступен в бою.
 Steam Axe Skin[s],облик[|а|ов] «Паровой топор»
 Steam Bow Skin[s],облик[|а|ов] «Паровой лук»
@@ -211,10 +211,10 @@ Steel Sword Hilt[s],[Рукоять|Рукояти|Рукоятей] сталь�
 Steel Torch Head[s],[Головка|Головки|Головок] стального факела
 Steel Trident Head[s],[Головка|Головки|Головок] стального трезубца
 Steel Warband Banner Skin[s],[Облик|Облика|Обликов] знамени стального отряда
-"Steel Warband Weapon Box[pl:""Boxes""]",
+"Steel Warband Weapon Box[pl:""Boxes""]",Ящик оружия Стального боевого братства
 Steel Warhorn Mouthpiece[s],[Мундштук|Мундштука|Мундштуков] стального рога
 Steelband's Tunnel,Туннель Стальной банды
-"Steelhead Trout[pl:""Trout""]",
+"Steelhead Trout[pl:""Trout""]",Серебристая форель|серебристые форели|серебристых форелей
 Steelpaw Warband Soldier,Солдат отряда Стальной Лапы
 Steelstar's Inscription[s],[Надпись|Надписи|Надписей] Звездостали
 Steelstar's Insignia[s],[Знак|Знака|Знаков] Звездостали
@@ -266,7 +266,7 @@ Sting Flurry,Шквал жал
 Stinging Aura,Жгучая аура
 Stinging Jellyfish,Жалящая медуза
 Stinging Sand Shield,Щит из жгучего песка
-"Stingray[pl:""Stingrays""]",
+"Stingray[pl:""Stingrays""]",[Скат-хвостокол|Скаты-хвостолы|Скатов-хвостолов]
 Stir Up Sand Shield,Вздыбить песчаный щит
 Stoic Alder,Стоический Ольха
 Stoic Alder and Waiting Sorrow,Стоический Ольха и Ждущая Скорбь
@@ -314,7 +314,7 @@ Stone Dagger,Каменный кинжал
 Stone Daggers,Каменные кинжалы
 Stone Dragon Head[s],[Каменная голова дракона|Каменные головы дракона|Каменных голов дракона]
 Stone Dwarf Thumb[s],[Палец|Пальца|Пальцев] каменного гнома
-"Stone Guiyu[pl:""Guiyus""]",
+"Stone Guiyu[pl:""Guiyus""]",Каменный гуйю
 Stone Heart Siege Turtle,Осадная черепаха каменного сердца
 "Stone Loach[pl:""Loaches""]",Каменный Гольц[и|и|ями]
 Stone Punch,Каменный удар
@@ -324,9 +324,9 @@ Stone Spirit Aura,Аура каменного духа
 Stone Splinters,Каменные осколки
 Stone Summit Badge[s],[Знак Каменной Вершины|Знака Каменной Вершины|Знаков Каменной Вершины]
 Stone Summit Chest,Сундук Каменной Вершины
-"Stone Summit Helm Box[pl:""Boxes""]",
-"Stone Summit Loot Box[pl:""Boxes""]",
-"Stone Summit Shoulder Box[pl:""Boxes""]",
+"Stone Summit Helm Box[pl:""Boxes""]",Коробка с шлемом каменной вершины
+"Stone Summit Loot Box[pl:""Boxes""]",Ящик с добычей из Каменного пика
+"Stone Summit Shoulder Box[pl:""Boxes""]",Коробка плеча каменной вершины
 Stone Summit Siege Weaponry,Осадное оружие Каменной Вершины
 Stone-Growth Axe Skin[s],[Облик топора Каменного роста|Облика топора Каменного роста|Обликов топора Каменного роста]
 Stone-Growth Dagger Skin[s],[Облик кинжала Каменного роста|Облика кинжала Каменного роста|Обликов кинжала Каменного роста]
@@ -338,7 +338,7 @@ Stone-Growth Mace Skin[s],[Облик булавы Каменного роста
 Stone-Growth Pistol Skin[s],[Облик пистолета Каменного роста|Облика пистолета Каменного роста|Обликов пистолета Каменного роста]
 Stone-Growth Rifle Skin[s],[Облик винтовки Каменного роста|Облика винтовки Каменного роста|Обликов винтовки Каменного роста]
 Stone-Growth Scepter Skin[s],[Облик|Облика|Обликов] скипетра «Каменный рост»
-"Stone-Growth Selection Box[pl:""Boxes""]",
+"Stone-Growth Selection Box[pl:""Boxes""]",Ящик выбора роста камня
 Stone-Growth Shield Skin[s],[Облик|Облика|Обликов] щита «Каменный рост»
 Stone-Growth Short Bow Skin[s],[Облик|Облика|Обликов] короткого лука «Каменный рост»
 Stone-Growth Spear Skin[s],[Облик|Облика|Обликов] копья «Каменный рост»
@@ -350,7 +350,7 @@ Stone-Growth Weapons,Оружие «Каменный рост»
 Stone[s],[Камень|Камня|Камней]
 Stone[s] of Silence,[Камень|Камня|Камней] безмолвия
 Stonebore Spiderhole,Нора камнебура
-Stonecleaver's Valkyrie Inscription[s],
+Stonecleaver's Valkyrie Inscription[s],Руна валькирии Стонекливера
 Stonefist Captain Randa,Капитан Каменный Кулак Ранда
 Stonehead Cache[s],[Тайник|Тайника|Тайников] «Каменная голова»
 Stoneheads Prime and Alpha are on the hunt!,Камнеголовы Прайм и Альфа вышли на охоту!
@@ -436,7 +436,7 @@ Storm Spirit Aura,Аура духа бури
 "Storm the city of Lion's Arch to drive out Scarlet's invading armies. Split up to retake each front, and face the final challenge of the assault knights!Contains story from Season 1 of Living World.","Штурмуйте город Львиный Архив, чтобы изгнать вторгшиеся армии Скарлетт. Разделитесь, чтобы отбить каждый фронт, и примите последний вызов штурмовых рыцарей! Содержит историю из первого сезона Живого Мира."
 Storm Top,Вершина бури
 Storm Wizard,Штормовой волшебник
-"Storm Wizard Loot Box[pl:""Boxes""]",
+"Storm Wizard Loot Box[pl:""Boxes""]",Ящик с добычей от штормового мага
 Storm Wizard Z-1[s],Штормовой волшебник Z-1[|а|ов]
 Storm Wizard Z-2[s],Штормовой волшебник Z-2[|а|ов]
 Storm Wizard Z-3[s],Штормовой волшебник Z-3[|а|ов]

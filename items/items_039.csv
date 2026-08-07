@@ -484,46 +484,71 @@ Double-click to open your prize and gain special rewards and valuable junk items
 Double-click to open.,"Дважды щелкните, чтобы открыть."
 "Double-click to open.
 
-<c=@Reminder>This item has been updated. Open this container to receive a Black Lion Chest Key and Black Lion Chest that have been upgraded to the latest version.</c>",
+<c=@Reminder>This item has been updated. Open this container to receive a Black Lion Chest Key and Black Lion Chest that have been upgraded to the latest version.</c>","Дважды щелкните, чтобы открыть.
+
+<c=@Reminder>Этот предмет обновлен. Откройте этот контейнер, чтобы получить ключ от сундука Черного Льва и сам сундук Черного Льва, которые были обновлены до последней версии.</c>"
 "Double-click to open.
 
 Choose from: 
 • Mini Green Raptor Hatchling
 • Mini Brown Springer Kit
 • Mini Yellow Jackal Pup
-• Mini Red Griffon Hatchling",
+• Mini Red Griffon Hatchling","Дважды щелкните, чтобы открыть.
+
+Выберите одно из следующего:
+• Миниатюрный зеленый птенец-раптор
+• Миниатюрный коричневый щенок спрингер
+• Миниатюрный желтый щенок шакала
+• Миниатюрный красный птенец грифона"
 "Double-click to open.
 
 This chest may contain items required to complete the Envoy Armor I: Experimental Armor achievement, if the achievement is currently in progress.","Двойной щелчок для открытия.
 
 Этот сундук может содержать предметы, необходимые для получения достижения доспехи посланника I: Экспериментальная броня, если это достижение в данный момент активно."
 "Double-click to open.
-<c=@flavor>""Xunlai Jade thanks you for your continued support!""</c>",
+<c=@flavor>""Xunlai Jade thanks you for your continued support!""</c>","Дважды щелкните, чтобы открыть.
+<c=@flavor>«Благородный нефрит Сюньлай благодарит вас за постоянную поддержку!»</c>"
 "Double-click to open.
-<c=@flavor>""Xunlai Jade thanks you for your support!""</c>",
+<c=@flavor>""Xunlai Jade thanks you for your support!""</c>","Дважды щелкните, чтобы открыть.
+<c=@flavor>""Нефритовый храм Сюньлай благодарит вас за поддержку!""</c>"
 "Double-click to open.
-Affected by magic find.",
-"Double-click to open.
-Affected by magic find.
-Available exclusively from Black Lion Chests during Dragon Bash.",
-"Double-click to open.
-Affected by magic find.
-Available exclusively from Black Lion Chests during Lunar New Year.",
+Affected by magic find.","Дважды щелкните, чтобы открыть.
+На результат влияет параметр ""Шанс выпадения магических предметов""."
 "Double-click to open.
 Affected by magic find.
-Available exclusively from Black Lion Chests during the Festival of the Four Winds.",
+Available exclusively from Black Lion Chests during Dragon Bash.","Дважды щелкните, чтобы открыть.
+На характеристики влияет параметр ""Шанс найти магический предмет"".
+Доступно только в сундуках Черного Льва во время фестиваля Драконий Праздник."
 "Double-click to open.
 Affected by magic find.
-Available from Black Lion Chests during Lunar New Year.",
+Available exclusively from Black Lion Chests during Lunar New Year.","Дважды щелкните, чтобы открыть.
+На характеристики влияет параметр ""Шанс найти магический предмет"".
+Доступно только в сундуках Черного Льва во время празднования Лунного Нового года."
 "Double-click to open.
 Affected by magic find.
-Earned by completing daily achievements during Lunar New Year.",
+Available exclusively from Black Lion Chests during the Festival of the Four Winds.","Дважды щелкните, чтобы открыть.
+На характеристики влияет параметр ""Шанс найти магический предмет"".
+Доступно только в сундуках Черного Льва во время Фестиваля Четырех Ветров."
 "Double-click to open.
 Affected by magic find.
-Earned by completing special Lunar New Year achievements or purchased in Divinity's Reach for Tokens of the Dragon Ball Champion.",
+Available from Black Lion Chests during Lunar New Year.","Дважды щелкните, чтобы открыть.
+На характеристики влияет параметр ""Шанс найти магический предмет"".
+Можно получить из сундуков Черного Льва во время празднования Лунного Нового года."
 "Double-click to open.
 Affected by magic find.
-Purchasable in Divinity's Reach using Tokens of the Dragon Ball Champion.",
+Earned by completing daily achievements during Lunar New Year.","Дважды щелкните, чтобы открыть.
+На характеристики влияет параметр ""Шанс найти магический предмет"".
+Получено за выполнение ежедневных заданий во время празднования Лунного Нового года."
+"Double-click to open.
+Affected by magic find.
+Earned by completing special Lunar New Year achievements or purchased in Divinity's Reach for Tokens of the Dragon Ball Champion.","Дважды щелкните, чтобы открыть.
+На характеристики влияет параметр «Удача при поиске».
+Можно получить за выполнение специальных достижений в честь Лунного Нового года или приобрести в Божественном пределе за жетоны чемпиона турнира Драконьего шара."
+"Double-click to open.
+Affected by magic find.
+Purchasable in Divinity's Reach using Tokens of the Dragon Ball Champion.","Дважды щелкните, чтобы открыть.
+На характеристики влияет параметр ""Шанс найти магический предмет"".
+Можно приобрести в Божественном пределе за жетоны чемпиона Драконьего шара."
 "Double-click to open.
 Affected by magic find.
 Purchasable in Divinity's Reach.","Дважды щелкните, чтобы открыть.
@@ -548,9 +573,11 @@ Choose a piece of legendary armor to be placed in your Legendary Armory.","Дв�
 Choose a recipe for a weapon that can become a legendary weapon.","Дважды щелкните, чтобы открыть.
 Выберите рецепт оружия, которое может стать легендарным."
 "Double-click to open.
-Choose a second generation weapon or two alternative legendary items to be placed in your Legendary Armory.",
+Choose a second generation weapon or two alternative legendary items to be placed in your Legendary Armory.","Дважды щелкните, чтобы открыть.
+Выберите второе оружие второго поколения или два альтернативных легендарных предмета для размещения в вашем Легендарном Арсенале."
 "Double-click to open.
-Choose a second-generation weapon or an alternative legendary item to be placed in your Legendary Armory.",
+Choose a second-generation weapon or an alternative legendary item to be placed in your Legendary Armory.","Дважды щелкните, чтобы открыть.
+Выберите оружие второго поколения или альтернативный легендарный предмет для размещения в вашем Легендарном Арсенале."
 "Double-click to open.
 Choose a song from the Guild Wars 2 soundtrack to auto-unlock for your jukebox in your home instance and homestead.","Дважды щелкните, чтобы открыть.
 Выберите песню из саундтрека Guild Wars 2, чтобы автоматически разблокировать ее для музыкального автомата в вашем домашнем инстансе и усадьбе."
