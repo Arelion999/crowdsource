@@ -208,8 +208,8 @@ Completion of this achievement will also award a homestead decoration.","Эта 
 "Ley lines are flows of magical energy. To use ley lines, simply direct your skimmer into them and allow the energy flow to boost your mount along. <br>Updrafts are pillars of swirling wind. To use updrafts, simply fly your mount into them and receive an elevation boost.","Лей-линии — это потоки магической энергии. Чтобы использовать лей-линии, просто направьте свой глайдер в них и позвольте потоку энергии ускорить ваше транспортное средство. <br>Восходящие потоки — это столбы вращающегося ветра. Чтобы использовать восходящие потоки, просто поднимитесь на своем транспортном средстве в них и получите дополнительный импульс высоты."
 "<c=@abilitytype>Offensive Artifact.</c> Dash to the targeted location while dropping bombs along your path that detonate after a short period of time, dealing damage and burning enemies. More bombs are dropped the farther you travel. <br>
 For a short time after using this skill, you continue to drop additional bombs at your location. 
-","<c=@abilitytype>Наступательный артефакт. Совершите рывок к выбранной цели, сбрасывая по пути бомбы, которые взрываются через короткое время, нанося урон и поджигая врагов. Чем дальше вы пройдёте, тем больше будет сброшено бомб. </c>
-В течение короткого времени после использования этого умения вы продолжите сбрасывать дополнительные бомбы в своей текущей локации. <br> 
+","<c=@abilitytype>Наступательный артефакт.</c> Совершите рывок к указанной цели, попутно сбрасывая бомбы вдоль своего пути, которые взрываются через короткое время, нанося урон и поджигая врагов. Чем дальше вы пройдёте, тем больше бомб будет сброшено. <br>
+В течение короткого времени после использования этого умения вы продолжаете сбрасывать дополнительные бомбы в текущей области. 
 "
 "Find others to help you explore Gyala Delve.
 Requires Guild Wars 2: End of Dragons expansion to access this map.","Найдите других игроков, чтобы вместе исследовать Гиальские Копи.
@@ -1715,43 +1715,11 @@ If you are already Well Rested, any elapsed time will be returned to you when yo
 If you are already Well Rested, any elapsed time will be returned to you when you leave the tower unless you log out.","Вы отдыхаете в башне мага. Если отдохнуть здесь 4 часа, вы почувствуете себя бодрым и получите дополнительный опыт.
 
 Если у вас уже есть эффект «Отдохнувший», то покинув башню (но не выйдя из игры), вы получите обратно потраченное время."
-"Student: Blish
-Student ID: 0438238655
- 
-CYS 310 Cybernetic Systems II
-MTH 411 Multivariable Calculus
-TML 310 Thaumaturgical Materials Lab
-MPY 340 Magical Metaphysics Seminar
-TAS 300 Advanced Theory of Abstract Structures
-
-(You skim through the lengthy list of advanced coursework that Blish completed during his time at the college. It's as impressive as it is intimidating.)
-","Студент: Блиш
-Студенческий билет № 0438238655
- 
-CYS 310 Кибернетические системы II
-Многомерное исчисление (курс MTH 411)
-Лаборатория таутургических материалов
-Семинар по магической метафизике MPY 340
-Продвинутая теория абстрактных структур (TAS 300)
-
-(Вы просматриваете длинный список курсов повышенного уровня, которые Блиш посещал во время учебы в колледже. Он впечатляет не меньше, чем пугает.)
-"
 "+15%% Magic Find
 +25%% Increased Movement Speed
 -5%% Incoming Condition Damage","+15%% Шанс выпадения магических предметов
 +25%% Увеличение скорости передвижения
 -5%% Урон от входящих эффектов"
-"<c=@abilitytype>Offensive Artifact.</c> Dash to the targeted location while dropping bombs along your path that detonate after a short period of time, dealing damage and burning enemies. More bombs are dropped the farther you travel. <br>
-For a short time after using this skill, you continue to drop additional bombs at your location. 
-","<c=@abilitytype>Наступательный артефакт. </c> Совершите рывок к выбранной цели, сбрасывая по пути бомбы, которые взрываются через короткое время, нанося урон и поджигая врагов. Чем дальше вы перемещаетесь, тем больше бомб сбрасывается. <br>
-В течение короткого времени после применения этого умения вы продолжаете сбрасывать дополнительные бомбы в текущей области. 
-"
-"Double-click to unlock the first collection in the journey to craft the Tigris, the precursor to the legendary short bow, Chuka and Champawat.
-","Дважды щелкните, чтобы открыть первую коллекцию и начать создание Тигриса — прототипа легендарного короткого лука Чука и Чампават.
-"
-"Double-click to unlock the first collection in the journey to craft the Raven Staff, the precursor to the legendary staff, Nevermore.
-","Дважды щелкните, чтобы открыть первую коллекцию в цепочке заданий по созданию Вороньего посоха — предшественника легендарного посоха Невермор.
-"
 "You've got a spring in your step and a tune in your head.
 Combat will remove your groove.","У тебя лёгкая походка и весёлая мелодия в голове.
 Бой прервёт вашу ритмичную атаку."
@@ -1770,9 +1738,6 @@ Combat will remove your groove.","У тебя лёгкая походка и в�
 +20%% Магического поиска  
 +20%% Золотого поиска  
 +10%% Получаемых WXP"
-"Consortium Officer<br>• Collects Champion Marks<br>• Advances Bonus-Event Community Goals
-","Офицер консорциума<br>• Собирает знаки чемпионов<br>• Способствует достижению целей сообщества в рамках бонусного события.
-"
 "+10%% Outgoing Healing
 +60 Healing Power
 +50 Concentration
@@ -1800,9 +1765,6 @@ Combat will remove your groove.","У тебя лёгкая походка и в�
 +8%% Reward Track Gain in PvP and WvW","+20%% опыта в открытом мире
 +8%% прогресса в системе наград в PvP и RvR"
 ((1014246)),((1014246))
-"Twisted Watchwork[pl:""Twisted Watchworks""]
-","Искажённые часовые механизмы
-"
 ((932989)),((932989))
 "In Dragon's End, gain 10 seconds of might, fury, and swiftness when entering and exiting combat. 5%% increase to health, kill experience, and outgoing damage.
 
@@ -1814,9 +1776,6 @@ Each stack of this effect will grant access to a bonus chest at the end of the D
 If you are already Well Rested, any elapsed time will be returned to you when you leave the inn unless you log out.","Вы отдыхаете в таверне «Арборстоун». Если вы отдохнёте здесь 4 часа, вы почувствуете себя бодрым и получите дополнительный опыт. Количество дополнительного опыта зависит от вашего уровня владения навыками в Арборстоуне.
 
 Если у вас уже есть эффект «Отдохнувший», то при выходе из таверны вам будет возвращено время, прошедшее с момента его получения, если только вы не выйдите из игры."
-"Consumed automatically when acquired. Grants a small amount of volatile magic.<br>Traditional Olmakhan song. <c=@flavor>""May the sun shine on all our tomorrows, once this storm passes...""</c>
-","Автоматически уничтожается при получении. Даёт небольшое количество нестабильной магии. <br>Традиционная песня олмаханцев. <c=@flavor>«Пусть солнце освещает все наши будущие дни, когда эта буря утихнет...»</c>
-"
 ((473701)),((473701))
 "Disabling a foe inflicts torment on them.<br><c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Оглушение противника накладывает на него мучение.<br><c=@reminder>К оглушениям относятся: стан, ошеломление, отбрасывание, притягивание, сбивание с ног, погружение, подъем в воздух, выброс, насмешка и страх.</c>"
 Bleeds • Poisons • Stuns • Heals Self,Кровотечения • Отравления • Оглушения • Лечит себя
@@ -1948,47 +1907,6 @@ Each stack of this effect will grant access to a bonus chest at the end of the D
 +10%% к получаемому опыту мира"
 Read Almorra's letter.,Прочитайте письмо Альморры.
 Report to General Almorra at Fort Marriner.,Доложите генералу Алморре в форте Марринер.
-"Student: Blish
-Student ID: 0438238655
- 
-CYS 310 Cybernetic Systems II
-MTH 411 Multivariable Calculus
-TML 310 Thaumaturgical Materials Lab
-MPY 340 Magical Metaphysics Seminar
-TAS 300 Advanced Theory of Abstract Structures
-
-(You skim through the lengthy list of advanced coursework that Blish completed during his time at the college. It's as impressive as it is intimidating.)
-","Студент: Блиш
-Студенческий билет № 0438238655
- 
-CYS 310 Кибернетические системы II
-Многомерное исчисление (курс MTH 411)
-Лаборатория таутургических материалов
-Семинар по магической метафизике MPY 340
-Продвинутая теория абстрактных структур (TAS 300)
-
-(Вы просматриваете длинный список курсов повышенного уровня, которые Блиш посещал во время учебы в колледже. Он впечатляет не меньше, чем пугает.)
-"
-"<c=@abilitytype>Offensive Artifact.</c> Dash to the targeted location while dropping bombs along your path that detonate after a short period of time, dealing damage and burning enemies. More bombs are dropped the farther you travel. <br>
-For a short time after using this skill, you continue to drop additional bombs at your location. 
-","<c=@abilitytype>Наступательный артефакт.</c> Совершите рывок к указанной цели, попутно сбрасывая бомбы вдоль своего пути, которые взрываются через короткое время, нанося урон и поджигая врагов. Чем дальше вы пройдёте, тем больше бомб будет сброшено. <br>
-В течение короткого времени после использования этого умения вы продолжаете сбрасывать дополнительные бомбы в текущей области. 
-"
-"Double-click to unlock the first collection in the journey to craft the Tigris, the precursor to the legendary short bow, Chuka and Champawat.
-","Дважды щелкните, чтобы открыть первую коллекцию и начать создание Тигриса — прототипа легендарного короткого лука Чука и Чампават.
-"
-"Double-click to unlock the first collection in the journey to craft the Raven Staff, the precursor to the legendary staff, Nevermore.
-","Дважды щелкните, чтобы открыть первую коллекцию в цепочке заданий по созданию Вороньего посоха — предшественника легендарного посоха Невермор.
-"
-"Consortium Officer<br>• Collects Champion Marks<br>• Advances Bonus-Event Community Goals
-","Офицер консорциума<br>• Собирает знаки чемпионов<br>• Способствует достижению целей сообщества в рамках бонусного события.
-"
-"Twisted Watchwork[pl:""Twisted Watchworks""]
-","Искажённые часовые механизмы
-"
-"Consumed automatically when acquired. Grants a small amount of volatile magic.<br>Traditional Olmakhan song. <c=@flavor>""May the sun shine on all our tomorrows, once this storm passes...""</c>
-","Автоматически уничтожается при получении. Даёт небольшое количество нестабильной магии. <br>Традиционная песня олмакханцев. <c=@flavor>«Пусть солнце осветит все наши будущие дни, когда эта буря утихнет...»</c>
-"
 All who injure us will pay!,"Все, кто причинит нам вред, поплатятся!"
 Effort Up Minor 01,Небольшой бонус к усилиям I
 Effort Up Minor 02,Небольшой бонус к приложенным усилиям 02
@@ -2459,41 +2377,6 @@ And Eir blames herself. She lost something more than just a friend that day.,"И
 Build 30 stacks to gain 33%% damage reduction from conditions from enemies with the Essence of Valor for 30 minutes.","Получается в бою с врагами, обладающими сущностью стойкости, и при подборе их сущности, которая даёт мощь, здоровье и быстроту.
 
 Накопите 30 единиц, чтобы получить уменьшение урона от состояний на 33%% от врагов, обладающих сущностью доблести, на 30 минут."
-"Student: Blish
-Student ID: 0438238655
- 
-CYS 310 Cybernetic Systems II
-MTH 411 Multivariable Calculus
-TML 310 Thaumaturgical Materials Lab
-MPY 340 Magical Metaphysics Seminar
-TAS 300 Advanced Theory of Abstract Structures
-
-(You skim through the lengthy list of advanced coursework that Blish completed during his time at the college. It's as impressive as it is intimidating.)
-","Студент: Блиш
-Студенческий билет № 0438238655
- 
-CYS 310 Кибернетические системы II
-Многомерное исчисление (курс MTH 411)
-Лаборатория таутургических материалов
-Семинар по магической метафизике MPY 340
-Продвинутая теория абстрактных структур (TAS 300)
-
-(Вы просматриваете длинный список курсов повышенного уровня, которые Блиш посещал во время учебы в колледже. Он впечатляет не меньше, чем пугает.)
-"
-"<c=@abilitytype>Offensive Artifact.</c> Dash to the targeted location while dropping bombs along your path that detonate after a short period of time, dealing damage and burning enemies. More bombs are dropped the farther you travel. <br>
-For a short time after using this skill, you continue to drop additional bombs at your location. 
-","<c=@abilitytype>Наступательный артефакт. Совершите рывок к указанной цели, сбрасывая по пути бомбы, которые взрываются через короткое время, нанося урон и поджигая врагов. Чем дальше вы пройдете, тем больше будет сброшено бомб. </c>
-В течение короткого времени после использования этого навыка вы продолжаете сбрасывать дополнительные бомбы в своей текущей локации. <br> 
-"
-"Double-click to unlock the first collection in the journey to craft the Tigris, the precursor to the legendary short bow, Chuka and Champawat.
-","Дважды щелкните, чтобы открыть первую коллекцию и начать создание Тигриса — прототипа легендарного короткого лука Чука и Чампават.
-"
-"Double-click to unlock the first collection in the journey to craft the Raven Staff, the precursor to the legendary staff, Nevermore.
-","Дважды щелкните, чтобы открыть первую коллекцию в цепочке заданий по созданию Вороньего посоха — предшественника легендарного посоха Невермор.
-"
-"Consortium Officer<br>• Collects Champion Marks<br>• Advances Bonus-Event Community Goals
-","Офицер консорциума<br>• Собирает знаки чемпионов<br>• Способствует достижению целей сообщества в рамках бонусного события.
-"
 "Grants protection for 5 seconds every 30 seconds while in Bjora Marches.
 
 <c=@Reminder>Obtained by completing the Raven Sanctum's trials.</c>
@@ -2501,17 +2384,11 @@ For a short time after using this skill, you continue to drop additional bombs a
 
 <c=@Reminder>Получено за прохождение испытаний Равен-Санктума.</c>
 <c=@Flavor>«Когда мы бежим от того, чего боимся больше всего — клыков зверей, ярости дракона, смены власти — мы рискуем пойти назад».</c>"
-"Twisted Watchwork[pl:""Twisted Watchworks""]
-","Искажённые часовые механизмы
-"
 "In Dragon's End, gain 10 seconds of might, fury, swiftness, and regeneration when entering and exiting combat. 9%% increase to health, kill experience, and outgoing damage.
 
 Each stack of this effect will grant access to a bonus chest at the end of the Dragon's End's meta-event.","В локации «Конец Дракона» при входе и выходе из боя получайте 10 секунд эффектов: мощь, ярость, быстрота и регенерация. Также увеличивается на 9%% максимальное здоровье, количество получаемого опыта за убийство и исходящий урон.
 
 Каждый стак этого эффекта позволит получить доступ к дополнительному сундуку в конце мета-события «Конец Дракона»."
-"Consumed automatically when acquired. Grants a small amount of volatile magic.<br>Traditional Olmakhan song. <c=@flavor>""May the sun shine on all our tomorrows, once this storm passes...""</c>
-","Автоматически уничтожается при получении. Даёт небольшое количество нестабильной магии. <br>Традиционная песня олмакханцев. <c=@flavor>«Пусть солнце освещает все наши будущие дни, когда эта буря утихнет...»</c>
-"
 Ley-Energy Sickness,Лей-энергетическая болезнь
 ((745477)),((745477))
 Come to hear tales of my great exploits?,Пришёл послушать рассказы о моих великих подвигах?
@@ -2543,52 +2420,11 @@ Brewmaster Burna,"Бурна, мастер пивоварения"
 +20%% к шансу найти магические предметы
 +20%% к шансу найти золото
 +10%% к получаемому опыту мира"
-"Student: Blish
-Student ID: 0438238655
- 
-CYS 310 Cybernetic Systems II
-MTH 411 Multivariable Calculus
-TML 310 Thaumaturgical Materials Lab
-MPY 340 Magical Metaphysics Seminar
-TAS 300 Advanced Theory of Abstract Structures
-
-(You skim through the lengthy list of advanced coursework that Blish completed during his time at the college. It's as impressive as it is intimidating.)
-","Студент: Блиш
-Студенческий билет № 0438238655
- 
-CYS 310 Кибернетические системы II
-Многомерное исчисление (курс MTH 411)
-Лаборатория таутургических материалов
-Семинар по магической метафизике MPY 340
-Продвинутая теория абстрактных структур (TAS 300)
-
-(Вы просматриваете длинный список курсов повышенного уровня, которые Блиш посещал во время учебы в колледже. Он впечатляет не меньше, чем пугает.)
-"
-"<c=@abilitytype>Offensive Artifact.</c> Dash to the targeted location while dropping bombs along your path that detonate after a short period of time, dealing damage and burning enemies. More bombs are dropped the farther you travel. <br>
-For a short time after using this skill, you continue to drop additional bombs at your location. 
-","<c=@abilitytype>Наступательный артефакт. </c> Совершите рывок к указанной цели, сбрасывая по пути бомбы, которые взрываются через короткое время, нанося урон и поджигая врагов. Чем дальше вы пройдете, тем больше будет сброшено бомб. <br>
-В течение короткого времени после использования этого умения вы продолжаете сбрасывать дополнительные бомбы в текущей области. 
-"
-"Double-click to unlock the first collection in the journey to craft the Tigris, the precursor to the legendary short bow, Chuka and Champawat.
-","Дважды щелкните, чтобы открыть первую коллекцию и начать создание Тигриса — прототипа легендарного короткого лука Чука и Чампават.
-"
-"Double-click to unlock the first collection in the journey to craft the Raven Staff, the precursor to the legendary staff, Nevermore.
-","Дважды щелкните, чтобы открыть первую коллекцию в цепочке заданий по созданию Вороньего посоха — предшественника легендарного посоха Невермор.
-"
-"Consortium Officer<br>• Collects Champion Marks<br>• Advances Bonus-Event Community Goals
-","Офицер консорциума<br>• Собирает знаки чемпионов<br>• Способствует достижению целей сообщества в рамках бонусного события.
-"
-"Twisted Watchwork[pl:""Twisted Watchworks""]
-","Искажённые часовые механизмы
-"
 "Obtained by fighting enemies with the Essence of Vigilance and picking up their essence, which grants fury, endurance, and swiftness.
 
 Build 30 stacks to gain increased magic find, bonus rewards, and a 66%% chance to steal life on critical hits to enemies with the Essence of Resilience for 30 minutes.","Получается в бою с врагами, обладающими сущностью Бдительности, и при сборе их сущности, которая даёт ярость, выносливость и быстроту.
 
 Накопите 30 единиц, чтобы получить повышенный шанс выпадения магических предметов, дополнительные награды и 66%%% шанс кражи здоровья при критических ударах по врагам с сущностью Стойкости в течение 30 минут."
-"Consumed automatically when acquired. Grants a small amount of volatile magic.<br>Traditional Olmakhan song. <c=@flavor>""May the sun shine on all our tomorrows, once this storm passes...""</c>
-","Автоматически уничтожается при получении. Даёт небольшое количество нестабильной магии. <br>Традиционная песня олмаханцев. <c=@flavor>«Пусть солнце освещает все наши грядущие дни, когда эта буря утихнет...»</c>
-"
 Shoot a jet of water at foes that also heals allies within its blast radius.,"Выпускает струю воды во врагов, одновременно исцеляя союзников в радиусе поражения."
 Call down a healing rain for your allies at the target area. Applies regeneration and removes conditions.,Обрушьте целительный дождь на союзников в выбранной области. Применяет регенерацию и снимает негативные эффекты.
 "Throw a blast of life force at foe, dealing more damage the more life force you have.","Обрушьте на врага поток жизненной силы, нанося больше урона по мере накопления этой силы."
@@ -2801,47 +2637,6 @@ Open Sarcophagus,Открыть саркофаг.
 -10%% Incoming Direct Damage","33%% шанс кражи здоровья
 +45 ко всем характеристикам
 -10%% входящий прямой урон"
-"Student: Blish
-Student ID: 0438238655
- 
-CYS 310 Cybernetic Systems II
-MTH 411 Multivariable Calculus
-TML 310 Thaumaturgical Materials Lab
-MPY 340 Magical Metaphysics Seminar
-TAS 300 Advanced Theory of Abstract Structures
-
-(You skim through the lengthy list of advanced coursework that Blish completed during his time at the college. It's as impressive as it is intimidating.)
-","Студент: Блиш
-Студенческий билет № 0438238655
- 
-CYS 310 Кибернетические системы II
-Многомерное исчисление (курс MTH 411)
-Лаборатория таутургических материалов
-Семинар по магической метафизике MPY 340
-Продвинутая теория абстрактных структур (TAS 300)
-
-(Вы просматриваете длинный список курсов повышенного уровня, которые Блиш посещал во время учебы в колледже. Он впечатляет не меньше, чем пугает.)
-"
-"<c=@abilitytype>Offensive Artifact.</c> Dash to the targeted location while dropping bombs along your path that detonate after a short period of time, dealing damage and burning enemies. More bombs are dropped the farther you travel. <br>
-For a short time after using this skill, you continue to drop additional bombs at your location. 
-","<c=@abilitytype>Наступательный артефакт. Совершите рывок к указанной цели, сбрасывая по пути бомбы, которые взрываются через короткое время, нанося урон и поджигая врагов. Чем дальше вы пройдете, тем больше бомб будет сброшено. </c>
-В течение короткого времени после использования этого навыка вы продолжаете сбрасывать дополнительные бомбы в своей текущей локации. <br> 
-"
-"Double-click to unlock the first collection in the journey to craft the Tigris, the precursor to the legendary short bow, Chuka and Champawat.
-","Дважды щелкните, чтобы открыть первую коллекцию и начать создание Тигриса — прототипа легендарного короткого лука Чука и Чампават.
-"
-"Double-click to unlock the first collection in the journey to craft the Raven Staff, the precursor to the legendary staff, Nevermore.
-","Дважды щелкните, чтобы открыть первую коллекцию в цепочке заданий по созданию Вороньего посоха — предшественника легендарного посоха Невермор.
-"
-"Consortium Officer<br>• Collects Champion Marks<br>• Advances Bonus-Event Community Goals
-","Офицер консорциума<br>• Собирает знаки чемпионов<br>• Способствует достижению целей сообщества в рамках бонусного события.
-"
-"Twisted Watchwork[pl:""Twisted Watchworks""]
-","Искажённые часовые механизмы[|м|]
-"
-"Consumed automatically when acquired. Grants a small amount of volatile magic.<br>Traditional Olmakhan song. <c=@flavor>""May the sun shine on all our tomorrows, once this storm passes...""</c>
-","Автоматически уничтожается при получении. Даёт небольшое количество нестабильной магии. <br>Традиционная песня олмаханцев. <c=@flavor>«Пусть солнце осветит все наши грядущие дни, когда эта буря утихнет...»</c>
-"
 Citizen,Житель
 Vigil,Страж
 Guard,Страж
@@ -3834,38 +3629,6 @@ Place metal,Поместите металл
 Cakilak'ka,Какилак'ка
 Aetheric Resonator,Эфирный резонатор
 "The alliance of the Durmand Priory and the Vigil has been constructive, though even together we are challenged. Caer Evermore is under constant attack by the Risen as the Priory scours the surrounding ruins for ancient secrets of the Elder Dragons.","Союз Приората Дурманда и Стражей оказался продуктивным, хотя даже вместе мы сталкиваемся с трудностями. Цитадель Эвермор постоянно подвергается атакам восставших, в то время как члены Приората исследуют окружающие руины в поисках древних секретов Старших драконов."
-"Student: Blish
-Student ID: 0438238655
- 
-CYS 310 Cybernetic Systems II
-MTH 411 Multivariable Calculus
-TML 310 Thaumaturgical Materials Lab
-MPY 340 Magical Metaphysics Seminar
-TAS 300 Advanced Theory of Abstract Structures
-
-(You skim through the lengthy list of advanced coursework that Blish completed during his time at the college. It's as impressive as it is intimidating.)
-","Студент: Блиш
-Студенческий билет № 0438238655
- 
-CYS 310 Кибернетические системы II
-Многомерное исчисление (курс MTH 411)
-Лаборатория таутургических материалов
-Семинар по магической метафизике MPY 340
-Продвинутая теория абстрактных структур (TAS 300)
-
-(Вы просматриваете длинный список курсов повышенного уровня, которые Блиш посещал во время учебы в колледже. Он впечатляет не меньше, чем пугает.)
-"
-"<c=@abilitytype>Offensive Artifact.</c> Dash to the targeted location while dropping bombs along your path that detonate after a short period of time, dealing damage and burning enemies. More bombs are dropped the farther you travel. <br>
-For a short time after using this skill, you continue to drop additional bombs at your location. 
-","<c=@abilitytype>Наступательный артефакт. Совершите рывок к указанной цели, сбрасывая по пути бомбы, которые взрываются через короткое время, нанося урон и поджигая врагов. Чем дальше вы пройдете, тем больше будет сброшено бомб. </c>
-В течение короткого времени после использования этого умения вы продолжаете сбрасывать дополнительные бомбы в своей текущей локации. <br> 
-"
-"Double-click to unlock the first collection in the journey to craft the Tigris, the precursor to the legendary short bow, Chuka and Champawat.
-","Дважды щелкните, чтобы открыть первую коллекцию и начать создание Тигриса — прототипа легендарного короткого лука Чука и Чампават.
-"
-"Double-click to unlock the first collection in the journey to craft the Raven Staff, the precursor to the legendary staff, Nevermore.
-","Дважды щелкните, чтобы открыть первую коллекцию в цепочке заданий по созданию Вороньего посоха — предшественника легендарного посоха Невермор.
-"
 "-10%% Incoming Damage
 +60 Condition Damage
 +50 Expertise
@@ -3881,15 +3644,6 @@ For a short time after using this skill, you continue to drop additional bombs a
 +20%% шанс найти магические предметы
 +20%% шанс найти золото
 +10%% получаемый опыт за события"
-"Consortium Officer<br>• Collects Champion Marks<br>• Advances Bonus-Event Community Goals
-","Офицер консорциума<br>• Собирает знаки чемпионов<br>• Способствует достижению целей сообщества в рамках бонусного события.
-"
-"Twisted Watchwork[pl:""Twisted Watchworks""]
-","Искажённые часовые механизмы
-"
-"Consumed automatically when acquired. Grants a small amount of volatile magic.<br>Traditional Olmakhan song. <c=@flavor>""May the sun shine on all our tomorrows, once this storm passes...""</c>
-","Автоматически уничтожается при получении. Даёт небольшое количество нестабильной магии.<br>Традиционная песня олмаханцев. <c=@flavor>«Пусть солнце осветит все наши грядущие дни, когда эта буря утихнет...»</c>
-"
 "+10%% Outgoing Healing
 +80 Concentration
 +60 Power
