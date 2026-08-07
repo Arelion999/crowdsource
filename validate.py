@@ -36,7 +36,9 @@
   - лишний перенос строки в переводе (чаще хвостовой);
   - потерян неразрывный пробел или маркер списка • — страдает вид, не смысл;
   - скобочная группа без | там, где в оригинале нет [s]/[pl:…];
-  - английский Title Case, перенесённый в русский («Знамя Поиска Магии»);
+  - английский Title Case, перенесённый в русский («Знамя Поиска Магии»), — только
+    одиночная заглавная в прозе: слово из слоя имён pn_*/GLOSSARY и слово рядом
+    с другим заглавным («Дух Медведя») считаются частью названия и не метятся;
   - zero-width символы;
   - перевод дословно равен английскому предложению (возможно, не переведено);
   - «ты» и «вы» в одной строке (разнобой обращения);
@@ -135,12 +137,79 @@ def load_glossary_bans(path=None):
 
 GLOSSARY_BANS = load_glossary_bans()
 
+# Слой имён — источник правды о том, какие слова в русском законно с заглавной.
+# Берём КАЖДОЕ заглавное слово перевода, а не имя целиком: в корпусе имя стоит в
+# падеже и по частям («Расплавленный Альянс» -> «Расплавленного Альянса»), целиком
+# оно не найдётся никогда.
+def load_name_words(root=None):
+    root = root or os.path.dirname(os.path.abspath(__file__))
+    words = set()
+    for path in glob.glob(os.path.join(root, 'pn_*.csv')):
+        try:
+            rows = csv.reader(open(path, encoding='utf-8-sig', newline=''))
+        except OSError:
+            continue
+        for i, r in enumerate(rows):
+            if i and len(r) > 1:
+                words |= {w.lower() for w in re.findall(r'[А-ЯЁ][а-яё]{2,}', r[1])}
+    # Канон глоссария — третья колонка таблицы, там же имена регионов и фракций.
+    try:
+        lines = open(os.path.join(root, 'GLOSSARY.md'), encoding='utf-8').read().splitlines()
+    except OSError:
+        lines = []
+    for line in lines:
+        cells = [c.strip() for c in line.strip().strip('|').split('|')]
+        if len(cells) > 2:
+            words |= {w.lower() for w in re.findall(r'[А-ЯЁ][а-яё]{2,}', cells[2])}
+    return words
+
+NAME_WORDS = load_name_words()
+
 # Русский текст не пишут английским Title Case («Знамя Поиска Магии»). Отличить
 # перенесённую капитализацию от имени собственного по одной строке нельзя, поэтому
 # спрашиваем у самого корпуса: если слово в середине фразы 160k строк почти всегда
 # строчное — заглавная в нём подозрительна; имена собственные так защищены сами.
 TITLE_CASE = re.compile(r'(?<=[а-яё] )[А-ЯЁ][а-яё]{2,}')
 MID_WORD = re.compile(r'(?<=[а-яё] )[А-Яа-яЁё]{3,}')
+RU_WORD = re.compile(r'[А-Яа-яЁё]+')
+# Заглавная в начале предложения ничего не говорит о слове — как признак имени
+# она не считается.
+SENT_START = re.compile(r'(?:^|[.!?:;•]|\n|\[|<[^>]*>)\s*$')
+
+def title_case_suspects(ru):
+    """Заглавные в середине фразы, которые не объясняются именем собственным.
+
+    Пословная модель корпуса не видит составных названий: в «Дух Медведя», «Мир
+    против Мира», «Старший дракон Воды» с заглавной стоит нарицательное, и по
+    отдельности каждое из этих слов в корпусе почти всегда строчное. Поэтому слово
+    снимается с подозрения, если оно есть в слое имён либо если вплотную к нему
+    стоит другое заглавное — признак того, что это часть названия.
+    """
+    toks = list(RU_WORD.finditer(ru))
+    starts = {t.start(): i for i, t in enumerate(toks)}
+
+    def is_name_cap(i):
+        """Заглавное слово, которое стоит не в начале предложения."""
+        t = toks[i]
+        return t.group()[0].isupper() and not SENT_START.search(ru[:t.start()])
+
+    out = []
+    for m in TITLE_CASE.finditer(ru):
+        if m.group().lower() in NAME_WORDS:
+            continue
+        i = starts.get(m.start())
+        if i is None:
+            continue
+        near = False
+        for j in (i - 1, i + 1):
+            if 0 <= j < len(toks) and is_name_cap(j):
+                a, b = (i, j) if i < j else (j, i)
+                # Соседним считаем только вплотную: через пробел или дефис.
+                if re.fullmatch(r'[  -]+', ru[toks[a].end():toks[b].start()]):
+                    near = True
+        if not near:
+            out.append(m.group())
+    return out
 
 # Число — единственная часть строки, которую перевод обязан повторить дословно, и
 # единственный смысловой сдвиг, который вообще ловится машиной: «Contains 200» ->
@@ -266,7 +335,7 @@ def check_row(en, ru):
     if en.count('%%') != ru.count('%%'):
         errs.append(f"число %% не совпадает ({en.count('%%')} / {ru.count('%%')})")
     if LOWER_WORDS:
-        tc = [w for w in TITLE_CASE.findall(ru) if w.lower() in LOWER_WORDS]
+        tc = [w for w in title_case_suspects(ru) if w.lower() in LOWER_WORDS]
         if tc:
             warns.append(f"английский Title Case в русском: {' '.join(tc[:3])}")
     en_num = numbers(en)
