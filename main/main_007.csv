@@ -215,7 +215,7 @@ For a short time after using this skill, you take increased strike and condition
 "<c=@abilitytype>Burst. Chant. </c>Grants barrier to allies in an area around you. <br>
 <c=@abilitytype>Refrain. </c>After activation, continually pulses healing to allies while removing motivation stacks every interval. This effect lasts until you run out of motivation stacks or another chant is activated. Gain increased effects depending on motivation stacks:","<c=@abilitytype>Взрыв. Пение. </c>Дарует барьер союзникам в области вокруг вас. <br>
 <c=@abilitytype>Припев. </c>После активации непрерывно пульсирует исцеление союзникам, снимая стаки мотивации с каждым интервалом. Эффект длится, пока не закончатся стаки мотивации или не будет активировано другое пение. Усиление эффекта зависит от количества стаков мотивации:"
-<c=@abilitytype>Chaîne.</c> Vous taillez votre ennemi deux fois.,<c=@abilitytype>Цепь.</c> Вы дважды бьете своего врага.
+<c=@abilitytype>Chaîne.</c> Vous taillez votre ennemi deux fois.,
 "<c=@abilitytype>Corruption.</c> Create a virulent cloud that inflicts multiple conditions on foes in its area. This plague can be modified to deal different conditions by activating secondary plague skills. Inflict bleeding on yourself.
 <c=@reminder>Starts as Plague of Pestilence mode.</c>","<c=@abilitytype>Порча.</c> Создайте ядовитое облако, которое накладывает несколько состояний на врагов в своей области. Эту чуму можно изменить, чтобы наносить другие состояния, активировав вторичные навыки чумы. Наложите кровотечение на себя.
 <c=@reminder>Начинается в режиме «Чума поветрия».</c>"

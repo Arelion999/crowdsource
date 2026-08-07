@@ -59,15 +59,15 @@ Gear[s],[Предмет|Предмета|Предметов] экипировк�
 Geared Maw (Level 26),Оснащённая пасть (Ур. 26)
 Geared Maw (Level 51),Оснащённая пасть (Ур. 51)
 "Gefertigt aus 1 Kugel aus dunkler Energie und 75 Stabilisierenden Matrizen. Stabilisierende Matrizen können in Truhen der Nebel gefunden, aus Aufgestiegenen Ringen wiederverwertet oder in Handelsposten gekauft werden.","Изготовлено из 1 сферы тёмной энергии и 75 стабилизирующих матриц. Стабилизирующие матрицы можно найти в сундуках Тумана, получить, переработав возвышенные кольца, или купить на Торговом посту."
-"Gefertigt aus 100 Haufen Blutsteinstaub, 2 Obsidianscherben und 10 Thermokatalytischen Reagenzien.","Изготовлено из 100 кусков кровавой каменной пыли, 2 осколков обсидиана и 10 термокаталитических реагентов."
+"Gefertigt aus 100 Haufen Blutsteinstaub, 2 Obsidianscherben und 10 Thermokatalytischen Reagenzien.",
 "Gefertigt aus 5 Blutsteinziegeln, 5 Dragonitbarren, 5 Aufsteigenden Sternen und einem Augur-Stein, der bei Miyani oder Aufsehern der Mystischen Schmiede erhältlich ist.","Изготовлено из 5 кровавых каменных кирпичей, 5 драгонитовых слитков, 5 восходящих звезд и камня Авгура, доступного у Мияни или у смотрителей Таинственной кузни."
-"Gefertigt aus 50 Fangzähnen, 50 scharfen Fangzähnen, 250 großen Fangzähnen und 100 scheußlichen Fangzähnen.","Изготовлено из 50 клыков, 50 острых клыков, 250 больших клыков и 100 ужасных клыков."
-"Gefertigt aus 50 Giftbeuteln, 50 vollen Giftbeuteln, 250 wirkungsvollen Giftbeuteln und 100 kraftvollen Giftbeuteln.","Изготовлено из 50 ядовитых мешочков, 50 полных ядовитых мешочков, 250 действенных ядовитых мешочков и 100 мощных ядовитых мешочков."
-"Gefertigt aus 50 Haufen strahlendem Staub, 50 Haufen leuchtendem Staub, 250 Haufen weißglühendem Staub und 100 Haufen kristallinem Staub.","Изготовлено из 50 кусков сияющей пыли, 50 кусков светящейся пыли, 250 кусков белокаленной пыли и 100 кусков кристаллической пыли."
-"Gefertigt aus 50 Klauen, 50 scharfen Klauen, 250 großen Klauen und 100 scheußlichen Klauen.","Изготовлено из 50 когтей, 50 острых когтей, 250 больших когтей и 100 ужасных когтей."
-"Gefertigt aus 50 Knochen, 50 dicken Knochen, 250 großen Knochen und 100 antiken Knochen.","Изготовлено из 50 костей, 50 толстых костей, 250 больших костей и 100 древних костей."
-"Gefertigt aus 50 Phiolen Blut, 50 Phiolen dickem Blut, 250 Phiolen wirkungsvollem Blut und 100 Phiolen kraftvollem Blut.","Изготовлено из 50 фиалов крови, 50 фиалов густой крови, 250 фиалов действенной крови и 100 фиалов мощной крови."
-"Gefertigt aus 50 Schuppen, 50 glatten Schuppen, 250 großen Schuppen und 100 gepanzerten Schuppen.","Изготовлено из 50 чешуек, 50 гладких чешуек, 250 больших чешуек и 100 бронированных чешуек."
+"Gefertigt aus 50 Fangzähnen, 50 scharfen Fangzähnen, 250 großen Fangzähnen und 100 scheußlichen Fangzähnen.",
+"Gefertigt aus 50 Giftbeuteln, 50 vollen Giftbeuteln, 250 wirkungsvollen Giftbeuteln und 100 kraftvollen Giftbeuteln.",
+"Gefertigt aus 50 Haufen strahlendem Staub, 50 Haufen leuchtendem Staub, 250 Haufen weißglühendem Staub und 100 Haufen kristallinem Staub.",
+"Gefertigt aus 50 Klauen, 50 scharfen Klauen, 250 großen Klauen und 100 scheußlichen Klauen.",
+"Gefertigt aus 50 Knochen, 50 dicken Knochen, 250 großen Knochen und 100 antiken Knochen.",
+"Gefertigt aus 50 Phiolen Blut, 50 Phiolen dickem Blut, 250 Phiolen wirkungsvollem Blut und 100 Phiolen kraftvollem Blut.",
+"Gefertigt aus 50 Schuppen, 50 glatten Schuppen, 250 großen Schuppen und 100 gepanzerten Schuppen.",
 Gelid Paste[s],[Паста|Пасты|Паст] льда
 Gem Aura Appearance Package,Набор внешнего вида самоцветной ауры
 Gem Aura Appearance Package now available!,Набор внешнего вида самоцветной ауры теперь доступен!
@@ -346,7 +346,7 @@ Giant[s],[Гигант|Гиганта|Гигантов]
 Gibbering Skull[s],[Лепетящий череп|Лепетящего черепа|Лепетящих черепов]
 Gieve's Plate (Level 65),Тарелка Гива (65 уровень)
 Gieve's Plate (Level 68),Тарелка Гива (68 уровень)
-Gießt etwas Wasser aus dem Eimer auf die durstigen Pflanzen.,Вылейте немного воды из ведра на жаждущие растения.
+Gießt etwas Wasser aus dem Eimer auf die durstigen Pflanzen.,
 Gift Barrel[s],[Подарочная бочка|Подарочные бочки|Подарочных бочек]
 Gift Box,Коробка подарка
 Gift Collected,Подарок собран
