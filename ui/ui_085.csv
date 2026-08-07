@@ -230,7 +230,7 @@ Jungle Boar[s],[Джунглевый кабан|Джунглевых кабан�
 Jungle Deer Rank Reward Track,Трек наград ранга «Джунглевый олень»
 "Jungle Dolyak Finisher Box[pl:""Boxes""]",Коробка с обликом для дольяка из джунглей[|и|и]
 Jungle Dolyak Rank Reward Track,Трек наград ранга «Джунглевый долйак»
-"Jungle Dragon Finisher Box[pl:""Boxes""]",Коробка[|и|бок] завершающего удара джунглевого дракона
+"Jungle Dragon Finisher Box[pl:""Boxes""]",Коробка завершающего удара джунглевого дракона
 Jungle Dragon Husk Unarmed,Оболочка джунглевого дракона (без оружия)
 Jungle Dragon Rank Reward Track,Трек наград ранга «Джунглевый дракон»
 Jungle Dye[s],[Краска|Краски|Красок] «Джунгли»
@@ -414,11 +414,11 @@ Kaiser Snake Scepter Skin[s],Облик[|а|ов] скипетра «Змея К
 Kaiser Snake Shield Skin[s],Облик[|а|ов] щита «Змея Кайзера»
 Kaiser Snake Short Bow Skin[s],Облик[|а|ов] короткого лука «Змея Кайзера»
 Kaiser Snake Staff Skin[s],"Кожа для посоха ""Императорская змея""[|и|ий|их]"
-Kaiser Snake Sword Skin[s],Кинжал императорской змеи[|а|ы|ок]
+Kaiser Snake Sword Skin[s],Кинжал императорской змеи
 Kaiser Snake Torch Skin[s],"Скины для факела ""Императорская змея""[|а|ов]"
 Kaiser Snake Warhorn Skin[s],"Военный рог ""Императорская змея""[|и|ий|их]"
 "Kale Leaf[pl:""Leaves""]",Лист капусты кале
-"Kale Seed Pouch[pl:""Pouches""]",Мешочек с семенами капусты[|а|и|ов]
+"Kale Seed Pouch[pl:""Pouches""]",Мешочек с семенами капусты
 Kalla's Fervor per Hit,Рвение Каллы за удар
 "Kaluga[pl:""Kaluga""]",
 "Kameela, Black Lion Trader","Камила, торговец Чёрного Льва"
@@ -455,7 +455,7 @@ Karma Points,Очки кармы
 Karma: %num1%,Карма: %num1%
 Karma—Requires Supply-Line Management Mastery,Карма — требуется владение управлением линиями снабжения
 Karmic Enrichment[s],[Обогащение|Обогащения|Обогащений] кармы
-"Karmic Retribution[pl:""Retributions""]",Кармическое возмездие[|я|дия|дий]
+"Karmic Retribution[pl:""Retributions""]",Кармическое возмездие
 Karmic Retribution[s],[Воздаяние|Воздаяния|Воздаяний] кармы
 Karstadt Village is under attack!,Деревня Карштадт подверглась нападению!
 Kasmeer's Barrier,Барьер Касмир

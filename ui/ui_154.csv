@@ -227,7 +227,7 @@ Trophy Bag[s],Трофейная сумк[а|и|ок]
 Trophy Shipment[s],Трофейная парти[я|и|й]
 Trophy Turn-in Reward[s],Наград[а|ы|] за сдачу трофея
 "Trophy[pl:""Trophies""] of the Champion Deadeye",[Трофей|Трофея|Трофеев]: Трофеи чемпиона-снайпера
-"Trophy[pl:""Trophies""] of the Champion Firebrand",Достижение[|а|ов] чемпиона-огненного знаменосца
+"Trophy[pl:""Trophies""] of the Champion Firebrand",Достижение чемпиона-огненного знаменосца
 "Trophy[pl:""Trophies""] of the Champion Holosmith",[Трофей|Трофея|Трофеев] чемпиона Голосмита
 "Trophy[pl:""Trophies""] of the Champion Mirage",[Трофей|Трофея|Трофеев] чемпиона-Миража.
 "Trophy[pl:""Trophies""] of the Champion Renegade",[Трофей|Трофея|Трофеев] чемпиона-отступника
@@ -249,7 +249,7 @@ Tropical Jungle Gear Bag[s],Тропическая джунглевая сумк
 Tropical Leaf Cape Skin[s],[Облик|Облика|Обликов] плаща «Тропический лист»
 Tropical Leaf Shoulders Skin[s],[Облик|Облика|Обликов] наплечников «Тропический лист»
 Tropical Legwear Skin[s],[Облик|Облика|Обликов] поножей «Тропический лист»
-"Tropical Shark Tooth[pl:""Teeth""]",Зуб тропической акулы[|а|и]
+"Tropical Shark Tooth[pl:""Teeth""]",Зуб тропической акулы
 "Tropical Shrub[pl:""Shrubs""]",Тропический кустарник[|и|ики]
 Tropical Sunlight,Тропический солнечный свет
 Trouble Abroad,Неприятности за границей
@@ -276,7 +276,7 @@ True Sight Armor Recipe[s]: Masks,Рецепт[|а|ов] брони «Истин
 True Sight Armor Recipe[s]: Shoulders,Рецепт[|а|ов] брони «Истинное зрение»: наплечники
 Truffle Dye[s],Краск[а|и|ок] «Трюфель»
 Truffle[s],Трюфел[ь|я|ей]
-"Truhe[pl:""Truhen""] mit Heimstatt-Grundausstattung",[Сундук|Сундуки|Сундуков] с базовым снаряжением для дома
+"Truhe[pl:""Truhen""] mit Heimstatt-Grundausstattung",
 Trunk Sweep,Взмах хоботом
 trust in luck.,верить в удачу.
 "Try before Committing[pl:""Committing""]",Попробуй перед фиксацией|перед двумя фиксацииями|перед пятью и более фиксацииями
@@ -361,7 +361,7 @@ Turned in: %num1% %str1%,Сдано: %num1% %str1%
 Turned to Ice,Превращён в лёд
 Turnier der Legenden,Турнир легенд
 Turnip Casserole[s],[Запеканка|Запеканки|Запеканок] из репы
-"Turnip Seed Pouch[pl:""Pouches""]",Мешочек с семенами репы[|а|ов]
+"Turnip Seed Pouch[pl:""Pouches""]",Мешочек с семенами репы
 Turnip[s],[Репа|Репы|Реп]
 Turquoise Dye[s],[Краска|Краски|Красок] «Бирюза»
 Turquoise Pebble[s],[Галька|Гальки|Галек] бирюзы
@@ -395,11 +395,11 @@ Tuyere Command Post is running efficiently.,Командный пост Тюйе
 Twilight Arbor (Branch Level),Сумеречная беседка (Уровень Ветвей)
 Twilight Arbor (Root Level),Сумеречная беседка (Уровень Корней)
 Twilight Arbor Aetherpath,Эфирный путь Сумеречной беседки
-"Twilight Arbor Armor Box[pl:""Boxes""]",Коробка с доспехами Сумеречной Рощи[|и|и]
+"Twilight Arbor Armor Box[pl:""Boxes""]",Коробка с доспехами Сумеречной Рощи
 Twilight Arbor Dungeon Track,Трек подземелья «Сумеречная беседка»
 Twilight Arbor Story,Сюжет «Сумеречная беседка»
-"Twilight Arbor Token Loot Box[pl:""Boxes""]",Ящик с добычей из Сумеречного Арбора[|и|а]
-"Twilight Arbor Weapons Box[pl:""Boxes""]",Ящик с оружием из Сумеречной Рощи[|и|я]
+"Twilight Arbor Token Loot Box[pl:""Boxes""]",Ящик с добычей из Сумеречного Арбора
+"Twilight Arbor Weapons Box[pl:""Boxes""]",Ящик с оружием из Сумеречной Рощи
 "Twilight Arbor's explorable mode is now available. This time, the plants punch harder. (The story version must be completed first.)",Исследовательский режим «Сумеречной беседки» теперь доступен. На этот раз растения бьют сильнее. (Сначала необходимо пройти сюжетную версию.)
 Twilight ArborStory recommended level: <c=#CC9900>50</c>Explorable recommended level: <c=#CC9900>55</c>,Сюжет «Сумеречной беседки»: рекомендуемый уровень: <c=#CC9900>50</c>Исследуемый режим: рекомендуемый уровень: <c=#CC9900>55</c>
 Twilight Crash,Сумеречное крушение
@@ -436,7 +436,7 @@ Twisted Skelk (Island),Искривлённый Скельк (Остров)
 Twisted Watchwork Portal Device[s],[Портальное устройство|Портального устройства|Портальных устройств] Искривленного часового механизма
 Twisted Watchwork Scrap[s],[Обломок|Обломка|Обломков] Искривленного часового механизма
 Twisted Watchwork Shoulder Scrap[s],[Наплечный обломок|Наплечного обломка|Наплечных обломков] Искривленного часового механизма
-"Twisted Watchwork[pl:""Twisted Watchworks""]",Искажённые часы[|а|ов]
+"Twisted Watchwork[pl:""Twisted Watchworks""]",Искажённые часы
 Twisted Wreckage,Искореженные обломки
 Twisting Fang,Извивающийся Клык
 "Twitchy Jake should still be in prison, but he was at the bandit base. He must have been released almost immediately after his arrest. That's just not right. How deep does the corruption go if they're letting dangerous thugs like Jake walk free?","Дёрганый Джейк всё ещё должен сидеть в тюрьме, но он был на базе бандитов. Должно быть, его отпустили почти сразу после ареста. Это неправильно. Насколько глубоко зашла коррупция, если они отпускают таких опасных головорезов, как Джейк?"
@@ -461,7 +461,7 @@ Two-Ammo Damage,Урон от двух боеприпасов
 "Two-Blade Pete is going to poison a well in the city's merchant district. Hundreds will become deathly ill. Although Quinn is in danger, he's only one man. Protecting the well has to come first.","Двулезвийный Пит собирается отравить колодец в торговом районе города. Сотни людей смертельно заболеют. Хотя Куинн в опасности, он всего лишь один человек. Защита колодца должна быть на первом месте."
 "Two-Blade Pete sent Quinn to the Shaemoor apothecary to commit another crime, but the Seraph are closing in. This may be Quinn's last chance to get out before he ends up in prison, or worse.","Двулезвийный Пит отправил Куинна в шамурскую аптеку совершить ещё одно преступление, но Серафимы приближаются. Это может быть последним шансом Куинна выбраться, прежде чем он окажется в тюрьме или хуже."
 "Two-Blade Pete's gang is up to no good at the Shaemoor apothecary, and the Seraph are ready to pounce. It's likely that Quinn will get caught in the raid. Captain Logan Thackeray is giving you one last chance to get Quinn out before it's too late.","Банда Двухлезвийного Пита замышляет что-то недоброе в аптеке Шеймура, и Серафимы готовы нанести удар. Вполне вероятно, что Куинн попадется в ходе рейда. Капитан Логан Теккерей дает вам последний шанс вытащить Куинна, пока не стало слишком поздно."
-"Two-Handed Skyscale Weapon Box[pl:""Boxes""]",Двухручное оружие скайскейла[|а|ов] / Коробка[|и|ок] → Двухручное оружие скайскейла: коробка для оружия [Большой ящик|Большие ящики|Больших ящиков]
+"Two-Handed Skyscale Weapon Box[pl:""Boxes""]",Двухручное оружие скайскейла / Коробка → Двухручное оружие скайскейла: коробка для оружия [Большой ящик|Большие ящики|Больших ящиков]
 Two-Handed Skyscale Weapon Skin Chest[s],[Сундук|Сундука|Сундуков] облика двуручного оружия скайскейля
 Twoloop Friendship Bracelet[s],[Браслет|Браслета|Браслетов] дружбы с двумя петлями
 "Tybalt drops apples on his enemies heads, stunning enemies and poisoning them over time.","Тибальт сбрасывает яблоки на головы врагов, оглушая их и отравляя с течением времени."
