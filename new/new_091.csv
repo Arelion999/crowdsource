@@ -106,7 +106,7 @@ Schatten-Vorräte,
 "Schatulle ""Donnerbrecher""","Ящик ""Громобой"""
 "Schatulle ""Drachenmacher""","Ящик ""Создатель драконов"""
 "Schatulle ""Ebenen von Golghein""",
-"Schatulle ""Erwachende Rache""","Ларец ""Пробуждающаяся месть"""
+"Schatulle ""Erwachende Rache""",
 "Schatulle ""Farens Luftschiff""","Ящик ""Воздушный корабль Фарена"""
 "Schatulle ""Flammenklinge II""","Ящик ""Пламенное лезвие II"""
 "Schatulle ""Himmelsscheibe""","Ящик ""Небесная сфера"""
@@ -152,7 +152,7 @@ Schießbude: Silber,
 Schiff des Leids,
 Schiffsverteidigung,
 Schild der Kormir,
-Schilde hoch,Поднимите щиты!
+Schilde hoch,
 Schildfalle,Щитовая ловушка
 Schildgenerator-Fachkenntnis,Знание принципов работы генератора щита.
 "Schildkröten-Pilot[f:""Pilotin""] der Spitzenklasse",
@@ -165,14 +165,14 @@ Schlachtzug-Kopfgeld: Cairn,Награда за убийство босса в �
 Schlachtzug-Kopfgeld: Decima,Награда за убийство босса рейда: Децима
 Schlachtzug-Kopfgeld: Deimos,Награда за убийство босса рейда: Демос
 Schlachtzug-Kopfgeld: Dhuum,Награда за убийство босса в подземелье: Дхум.
-Schlachtzug-Kopfgeld: Erntetempel,Награда за прохождение подземелья: Храм урожая
-Schlachtzug-Kopfgeld: Faultierion,Награда за убийство босса рейда: Фаультирион
-Schlachtzug-Kopfgeld: Festenkonstrukt,Награда за убийство босса в подземелье: Прочная конструкция
-Schlachtzug-Kopfgeld: Fraenir Jormags,Награда за убийство в подземелье: Фраенир Йормаг
+Schlachtzug-Kopfgeld: Erntetempel,
+Schlachtzug-Kopfgeld: Faultierion,
+Schlachtzug-Kopfgeld: Festenkonstrukt,
+Schlachtzug-Kopfgeld: Fraenir Jormags,
 Schlachtzug-Kopfgeld: Geflüster des Jormag,
 Schlachtzug-Kopfgeld: Gorseval,Награда за убийство босса рейда: Горсеваль
 Schlachtzug-Kopfgeld: Greer,Награда за убийство босса в подземелье: Грир
-Schlachtzug-Kopfgeld: Kaineng-Aussichtspunkt,Награда за прохождение подземелья: Смотровая площадка Каиненг.
+Schlachtzug-Kopfgeld: Kaineng-Aussichtspunkt,
 Schlachtzug-Kopfgeld: Kalter Krieg,
 Schlachtzug-Kopfgeld: Kardinal Adina,Награда за убийство в подземелье: кардинал Адина.
 Schlachtzug-Kopfgeld: Kardinal Sabir,Награда за убийство в подземелье: кардинал Сабир.
@@ -180,7 +180,7 @@ Schlachtzug-Kopfgeld: Kela,Награда за убийство босса ре�
 Schlachtzug-Kopfgeld: Knochenhäuter,
 Schlachtzug-Kopfgeld: Kosmisches Observatorium,
 Schlachtzug-Kopfgeld: Matthias,Награда за голову: Маттиас
-Schlachtzug-Kopfgeld: Mursaat-Aufseher,Награда за убийство в подземелье: надсмотрщик мурсатов.
+Schlachtzug-Kopfgeld: Mursaat-Aufseher,
 Schlachtzug-Kopfgeld: Qadim,Награда за убийство босса рейда: Кадим
 Schlachtzug-Kopfgeld: Qadim der Unvergleichliche,
 Schlachtzug-Kopfgeld: Sabetha,Награда за убийство в подземелье: Сабета
@@ -191,9 +191,9 @@ Schlachtzug-Kopfgeld: Tal-Wächter,
 Schlachtzug-Kopfgeld: Tempel von Febe,
 Schlachtzug-Kopfgeld: Ura,Награда за убийство босса рейда: Ура
 Schlachtzug-Kopfgeld: Xera,Награда за убийство в подземелье: Ксера
-Schlachtzug-Kopfgeld: Xunlai-Jade-Schrottplatz,Награда за подземелье: Свалка нефрита Сюньлай
-Schlachtzug-Kopfgeld: Zittergipfel-Pass,Награда за прохождение подземелья: Зияющий перевал
-Schlachtzug-Kopfgeld: Zwillings-Largos,Награда за убийство босса в подземелье: Двойной Ларгос.
+Schlachtzug-Kopfgeld: Xunlai-Jade-Schrottplatz,
+Schlachtzug-Kopfgeld: Zittergipfel-Pass,
+Schlachtzug-Kopfgeld: Zwillings-Largos,
 Schlachtzug-Kopfgeld: Ätherklingen-Unterschlupf,
 "Schlachtzug-Mentor[f:""Mentorin""]: Adina",
 "Schlachtzug-Mentor[f:""Mentorin""]: Beschworene Verschmelzung",
@@ -222,7 +222,7 @@ Schlachtzug-Schnellrunden-Stammgast,Постоянный участник быс
 "Schlachtzug: Greer, der Pestilenzbringer",
 "Schlachtzug: Ura, die Dampfkreischerin",
 "Schlachtzugbegegnung ""Kosmisches Observatorium""",
-"Schlaf, mein Schaf!","Спи, моя овечка!"
+"Schlaf, mein Schaf!",
 Schlafenszeit,Время сна.
 Schlaft jetzt im Feuer,
 Schlagt Euch nicht,
@@ -260,7 +260,7 @@ Schnell mit Reichweiten-Indikator,
 Schnell zu Fuß,
 Schnelldurchlauf,Быстрый просмотр
 Schnelle Gerechtigkeit,
-Schneller Aufstieg,Быстрый подъем
+Schneller Aufstieg,
 Schneller als Vier Winde,
 Schneller als das Licht,
 Schneller als ein ... Geist,
@@ -376,7 +376,7 @@ Schwarzlöwen-Beschaffungsmission Woche 4,
 "Schwarztor-Veteran[f:""Veteranin""]",
 "Schwarzwasser-Veteran[f:""Veteranin""]",
 Schweberochen-Netzfledderei: Gold,Сбор золота с мант и скатов.
-Schweberochen-Netzfledderei: Silber,Сверкающий скат: серебро
+Schweberochen-Netzfledderei: Silber,
 Schweberochen-Reliktstöber-Abenteuer: Gold,
 Schweberochen-Reliktstöber-Abenteuer: Silber,
 Schweberochen-Slalom,Слалом среди скатов-мант

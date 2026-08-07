@@ -226,7 +226,7 @@ english,translate
 %str1%%str2%Zodiac Sword%str3%%str4%,%str1%%str2%Меч «Zodiac»%str3%%str4%
 "%str1%%str2%Zodiac Torch[pl:""Torches""]%str3%%str4%",%str1%%str2%Факел «Zodiac»%str3%%str4%
 %str1%%str2%Zodiac Warhorn%str3%%str4%,%str1%%str2%Боевой рог «Zodiac»%str3%%str4%
-%str1%%str2%Zweihänder%str3%%str4%,%str1%%str2%Zweihänder%str3%%str4%
+%str1%%str2%Zweihänder%str3%%str4%,
 %str1%%str2%Éibhear Dunn%str3%%str4%,%str1%%str2%Éibhear Dunn%str3%%str4%
 %str1%%str2%Éibhear Finn%str3%%str4%,%str1%%str2%Éibhear Finn%str3%%str4%
 %str1%'s Conjured Doorway,Сотворённый проём %str1%
@@ -256,7 +256,7 @@ english,translate
 "%str1%, your name now appears on a list of those who have come to the defense of Lion's Arch. We keep this prestigious list to honor anyone who defended the city, despite the possible loss of their own lives. The first name on the list is, of course, Cobiah Marriner. It also serves as a list of those the Ship's Council considers allies and who may be called upon to help again in a time of crisis.You'll be pleased to know that Mai has been imprisoned in Fort Marriner.  She won't be troubling anyone else for a long while. I hope we can work again in the future. —Inspector Ellen Kiel of the Lionguard","%str1%, твоё имя теперь значится в списке тех, кто встал на защиту Lion's Arch. Мы ведём этот почётный список, чтобы чествовать всякого, кто защищал город, невзирая на возможную потерю собственной жизни. Первое имя в списке — разумеется, Cobiah Marriner. Он же служит перечнем тех, кого Корабельный совет считает союзниками и кого можно вновь призвать на помощь в час беды.Тебе будет приятно узнать, что Mai заключена в Fort Marriner. Она ещё долго не будет никого беспокоить. Надеюсь, мы ещё поработаем вместе. — Инспектор Ellen Kiel из Львиной стражи"
 "%str1%, your name now appears on a list of those who have come to the defense of Lion's Arch. We keep this prestigious list to honor anyone who defended the city, despite the possible loss of their own lives. The first name on the list is, of course, Cobiah Marriner. It also serves as a list of those the Ship's Council considers allies and who may be called upon to help again in a time of crisis.You'll be pleased to know that Mai has been imprisoned in Lion's Arch. She won't be troubling anyone else for a long while. I hope we can work together again in the future.—Inspector Ellen Kiel of the Lionguard","%str1%, твоё имя теперь значится в списке тех, кто встал на защиту Lion's Arch. Мы ведём этот почётный список, чтобы чествовать всякого, кто защищал город, невзирая на возможную потерю собственной жизни. Первое имя в списке — разумеется, Cobiah Marriner. Он же служит перечнем тех, кого Корабельный совет считает союзниками и кого можно вновь призвать на помощь в час беды.Тебе будет приятно узнать, что Mai заключена в Lion's Arch. Она ещё долго не будет никого беспокоить. Надеюсь, мы ещё поработаем вместе.— Инспектор Ellen Kiel из Львиной стражи"
 "%str1%,<br><br>I'm well aware of just how busy you are. However, you've heard the theories that Scarlet disturbed one of the dragons. I fear these theories have merit.<br><br>My eyes and ears in Brisban Wildlands are reporting mysterious incursions into previously quiet areas. Go see for yourself. I hope your curiosity will spur you to action.<br><br>—E","%str1%,<br><br>Мне прекрасно известно, как ты занят. Однако ты слышал теории о том, что Scarlet потревожила одного из драконов. Боюсь, в этих теориях есть зерно истины.<br><br>Мои глаза и уши в Brisban Wildlands доносят о загадочных вторжениях в прежде тихие места. Взгляни сам. Надеюсь, любопытство подтолкнёт тебя к действию.<br><br>— E"
-"%str1%,<br><br>Il semblerait que les Quaggans refusent catégoriquement de tourner la page. Nous écraserons jusqu'à la dernière boule de graisse encore vivante. Merci pour votre aide. N'hésitez pas à passer nous donner un coup de main pour défendre les lieux.– Erudit Tranchegoutte, du Prieuré de Durmand","%str1%,<br><br>Il semblerait que les Quaggans refusent catégoriquement de tourner la page. Nous écraserons jusqu'à la dernière boule de graisse encore vivante. Merci pour votre aide. N'hésitez pas à passer nous donner un coup de main pour défendre les lieux.– Erudit Tranchegoutte, du Prieuré de Durmand"
+"%str1%,<br><br>Il semblerait que les Quaggans refusent catégoriquement de tourner la page. Nous écraserons jusqu'à la dernière boule de graisse encore vivante. Merci pour votre aide. N'hésitez pas à passer nous donner un coup de main pour défendre les lieux.– Erudit Tranchegoutte, du Prieuré de Durmand",
 "%str1%,<br><br>It appears there's no convincing these quaggans to move on. We'll fight to the last little ball of flab alive. Thanks for your help. Don't be shy if you want to stop by some time and help us defend this place.—Scholar Sharpslash, Durmand Priory","%str1%,<br><br>Похоже, этих кваганов не уговорить уйти. Мы будем биться до последнего живого комочка жирка. Спасибо за помощь. Не стесняйся заглянуть как-нибудь и помочь нам оборонять это место.— Учёный Sharpslash, Приорат Дурманда"
 "%str1%,<br><br>Your visit gave me a lot to think about. It's more dangerous away from the Grove than I ever expected, and I'd been considering going back. But now, I've seen how brave souls help others—like you helped us—and it's given me the courage to carry on. Thank you. Good luck with your future journeys.<br><br>—Mavad","%str1%,<br><br>Твой визит дал мне немало пищи для размышлений. Вдали от Grove куда опаснее, чем я когда-либо думал, и я уж подумывал вернуться. Но теперь я увидел, как храбрые души помогают другим — как ты помог нам, — и это придало мне смелости идти дальше. Спасибо. Удачи в грядущих странствиях.<br><br>— Mavad"
 "%str1%,Based on the intelligence we gathered after the Spirit Vale operation, we have reason to believe our missing squad leader is being held deeper inside the bandit complex in the northern Maguuma jungle. We don't know what you'll encounter, though we've been hearing reports of strange activity beyond the outer wall. Be prepared for anything.Assemble your extraction party at the designated mustering point. Good luck.—Falgeir","%str1%,По разведданным, что мы собрали после операции в Spirit Vale, у нас есть основания полагать, что наш пропавший командир отряда удерживается глубже в бандитском комплексе в северных джунглях Maguuma. Мы не знаем, с чем ты столкнёшься, хотя до нас доходили донесения о странной активности за внешней стеной. Будь готов ко всему.Собери группу вызволения в назначенной точке сбора. Удачи.— Falgeir"
@@ -320,7 +320,7 @@ english,translate
 %str1%: Decima. Come.,%str1%: Decima. Иди.
 %str1%: Disable autoattack,%str1%: Отключить автоатаку
 %str1%: Enable autoattack,%str1%: Включить автоатаку
-"%str1%: Es ist gut, dass Ihr uns aufgesucht habt.","Хорошо, что вы нас навестили %str1%."
+"%str1%: Es ist gut, dass Ihr uns aufgesucht habt.",
 %str1%: Fight me.,%str1%: Сразись со мной.
 %str1%: Free me!,%str1%: Освободи меня!
 %str1%: Good.,%str1%: Хорошо.
@@ -329,7 +329,7 @@ english,translate
 %str1%: Help me!,%str1%: Помоги мне!
 %str1%: I don't want to hurt you. Please...stop me...!,%str1%: Я не хочу причинять тебе вред. Прошу... останови меня...!
 %str1%: Kommt näher ...,
-"%str1%: Meine Verwandten scheinen Euch zu mögen, und ich kann mir gut vorstellen warum.","Мои родственники, кажется, вас любят, и я понимаю почему %str1%."
+"%str1%: Meine Verwandten scheinen Euch zu mögen, und ich kann mir gut vorstellen warum.",
 "%str1%: My kin seem to favor you, and I can sense why.","%str1%: Мои сородичи, похоже, благоволят тебе, и я чую почему."
 %str1%: My thanks to you for keeping my kin company. I hope you found as much benefit in it as they did.,"%str1%: Благодарю тебя за то, что составил компанию моим сородичам. Надеюсь, ты извлёк из этого столько же пользы, сколько и они."
 %str1%: Stay away!,%str1%: Держись подальше!
@@ -429,11 +429,11 @@ english,translate
 (Festival) Complete the (Annual) World 2 Classic Achievement,(Фестиваль) Выполните достижение «(Ежегодно) Классика мира 2»
 (Festival) Complete the (Annual) Zone Runner Achievement,(Фестиваль) Выполните достижение «(Ежегодно) Бегун по зонам»
 (Festival) Complete the Secret Lair of the Snowmen Raid Encounter,(Фестиваль) Пройдите рейдовую встречу «Тайное логово снеговиков»
-"(Festival) Schließt den Erfolg ""Bossblitz (jährlich)"" ab",(Фестиваль) Завершите достижение «Босс-блиц (ежегодно)»
-"(Festival) Schließt den Erfolg ""Bündel-Plünderer (jährlich)"" ab",(Фестиваль) Завершите достижение «Связка-грабитель (ежегодно)»
-"(Festival) Schließt den Erfolg ""Bündel-Plünderer (jährlich)"" beim Fest der Vier Winde ab.",(Фестиваль) Завершите достижение «Связка-грабитель (ежегодно)» на Празднике Четырёх Ветров.
-"(Festival) Schließt den Erfolg ""Güter-Händler (jährlich)"" ab",(Фестиваль) Завершите достижение «Торговец товарами (ежегодно)»
-"(Festival) Schließt den Erfolg ""Güter-Händler (jährlich)"" beim Fest der Vier Winde ab.",(Фестиваль) Завершите достижение «Торговец товарами (ежегодно)» на Празднике Четырёх Ветров.
+"(Festival) Schließt den Erfolg ""Bossblitz (jährlich)"" ab",
+"(Festival) Schließt den Erfolg ""Bündel-Plünderer (jährlich)"" ab",
+"(Festival) Schließt den Erfolg ""Bündel-Plünderer (jährlich)"" beim Fest der Vier Winde ab.",
+"(Festival) Schließt den Erfolg ""Güter-Händler (jährlich)"" ab",
+"(Festival) Schließt den Erfolg ""Güter-Händler (jährlich)"" beim Fest der Vier Winde ab.",
 (giggle),(хихиканье)
 (groan),(стон)
 (growl),(рычание)
