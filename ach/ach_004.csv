@@ -122,7 +122,7 @@ Bridge Buster,Разрушитель мостов
 Briefing by Inspector Kiel,Брифинг от инспектора Kiel
 Bright Inquisitor Weapon Collection,Коллекция оружия Яркого инквизитора
 "Brilliance strikes like a bolt from the blue, and that electric shock of imagination applies to both wielding and crafting the mightiest of weapons. Gather the energies of Tyria to infuse them into a superior weapon in your journey to craft the legendary precursor Zap.","Гениальность поражает, как гром среди ясного неба, и этот электрический разряд воображения применим как к владению, так и к созданию мощнейшего оружия. Соберите энергии Tyria, чтобы наполнить ими превосходное оружие в вашем путешествии по созданию легендарного предшественника Zap."
-Bring  spore samples to Marjory at Thunder Ridge Camp.,Принесите образцы спор Marjory в лагерь Thunder Ridge.
+Bring %num2% spore samples to Marjory at Thunder Ridge Camp.,
 "Bring %num2% tales of your adventures to the Elisa, the traveler.","Расскажите Элизе, путешественнице, о %num2% ваших приключениях."
 Bring Albax lucky items from throughout Tyria by solving his riddles.,"Принесите Albax счастливые предметы со всей Tyria, разгадав его загадки."
 Bring Aurene souvenirs from around Tyria to teach her about the cultures of the world.,"Принесите Aurene сувениры со всей Tyria, чтобы рассказать ей о культурах мира."
@@ -134,16 +134,16 @@ Bring a decisive end to the Confessor's ambitions.,Положите решите
 Bring a gift of wildflower cyser to Deft Lahar and Patient Willow for their help in making a house a home.,Принесите подарок из медовухи с полевыми цветами Deft Lahar и Patient Willow за их помощь в обустройстве дома.
 Bring a jacket. It's breezy.,Возьмите куртку. Здесь ветрено.
 Bring bloodstone delicacies to Grawnk.,Принесите деликатесы из кровавика Grawnk.
-Bring food to  exhausted sentries in allied bases around the Drizzlewood Coast.,Принесите еду изможденным часовым на союзных базах по всему Drizzlewood Coast.
+Bring food to %num2% exhausted sentries in allied bases around the Drizzlewood Coast.,
 Bring food to Blaine at the bottom of the well.,Принесите еду Blaine на дно колодца.
-Bring medicine to  exhausted sentries in allied bases around the Drizzlewood Coast.,Принесите лекарства изможденным часовым на союзных базах по всему Drizzlewood Coast.
+Bring medicine to %num2% exhausted sentries in allied bases around the Drizzlewood Coast.,
 Bring pearls to the merchant in the Lakeside Bazaar.,Принесите жемчуг торговцу на Lakeside Bazaar.
 "Bring recovered treasures to Myung-Hee, Keeper of the Jade Vault.","Принесите найденные сокровища Myung-Hee, хранителю Jade Vault."
 Bring some life to the throne room by interacting with its denizens.,"Оживите тронный зал, взаимодействуя с его обитателями."
 Bring the battle to a decisive conclusion.,Приведите битву к решительному завершению.
 Bring the journal back to Dahlia.,Верните дневник Dahlia.
 "Bring the kids to a nice, wholesome wyvern slaying!","Возьмите детей на приятное, полезное убийство виверны!"
-Bring water to  exhausted sentries in allied bases around the Drizzlewood Coast.,Принесите воду изможденным часовым на союзных базах по всему Drizzlewood Coast.
+Bring water to %num2% exhausted sentries in allied bases around the Drizzlewood Coast.,
 Bringer of Salvation,Приносящий спасение
 Bringing Balance,Восстановление баланса
 Bringing Light to the Darkness,Принося свет во тьму
@@ -259,9 +259,9 @@ Capture  enemy sentry point.,Захватите вражескую точку ч
 Capture  enemy special objective in Edge of the Mists.,Захватите вражескую особую цель на Краю Туманов.
 Capture  enemy tower.,Захватите вражескую башню.
 Capture  keep.,Захватите крепость.
-Capture  keeps.,Захватите крепости.
+Capture %num2% keeps.,
 Capture  mercenary camp.,Захватите лагерь наемников.
-Capture  objectives.,Захватите цели.
+Capture %num2% objectives.,
 Capture  ruin in the borderlands.,Захватите руины в пограничье.
 Capture  ruin or shrine in any of the WvW Borderlands.,Захватите руины или святилище в любом из пограничий WvW.
 Capture  ruin.,Захватите руины.
@@ -269,8 +269,8 @@ Capture  special objective.,Захватите особую цель.
 Capture  supply camp.,Захватите лагерь снабжения.
 Capture  supply generator.,Захватите генератор снабжения.
 Capture  tower.,Захватите башню.
-Capture  towers.,Захватите башни.
-Capture Stonemist Castle  times.,
+Capture %num2% towers.,
+Capture Stonemist Castle %num2% times.,
 Capture Stonemist Castle for your realm in World vs. World.,Захватите замок Стоунмист для своего королевства в Мир против Мира.
 Capture a camp.,Захватите лагерь.
 Capture a keep for your realm in World vs. World.,Захватите крепость для своего королевства в Мир против Мира.
@@ -280,7 +280,7 @@ Capture all 3 rally points and begin retaking Lion's Arch.,Захватите в
 Capture all 5 points during the Ensolyss fight within 30 seconds.,Захватите все 5 точек во время боя с Ensolyss в течение 30 секунд.
 Capture and defend Coiled Watch in Frostgorge Sound without any casualties.,Захватите и удержите Coiled Watch в Frostgorge Sound без потерь.
 Capture crystals for your team's side in Aspect Arena.,Захватывайте кристаллы для своей команды на Aspect Arena.
-Capture or defend  objectives.,Захватывайте или защищайте цели.
+Capture or defend %num2% objectives.,
 Capture supply camps for your realm in World versus World.,Захватите лагеря снабжения для своего королевства в Мир против Мира.
 Capture the Central Blighting Tower in Dragon's Stand.,Захватите центральную Blighting Tower в Dragon's Stand.
 Capture the Northern Blighting Tower in Dragon's Stand.,Захватите северную Blighting Tower в Dragon's Stand.
@@ -293,7 +293,7 @@ Care for a hungry skyscale.,Позаботьтесь о голодном skyscal
 Care for your baby skyscale until it's large enough to leave the nest.,"Заботьтесь о своем малыше skyscale, пока он не станет достаточно большим, чтобы покинуть гнездо."
 Carrier Cacophony,Carrier Cacophony
 Carrot Collector,Сборщик моркови
-Carry  crabs.,Переносите крабов.
+Carry %num2% crabs.,
 Carry the Creator,Перенесите Creator
 Carry the crab in the Southsun Crab Toss.,Перенесите краба в Southsun Crab Toss.
 Carve  pumpkin.,Вырежьте тыкву.
@@ -332,7 +332,7 @@ Categorize 20 artifacts for Olaf and Elof in Deldrimor Ruins.,Классифиц
 Cattle Custodian,Смотритель скота
 Caudecus's Manor Collector,Коллекционер поместья Caudecus
 Caught 'Em All,Поймал их всех
-Cause  fumble in keg brawls.,Вызывайте промахи в потасовках с бочонками.
+Cause %num2% fumble[s] in keg brawls.,
 Cause a massive explosion by overloading the jade construct.,"Вызовите мощный взрыв, перегрузив нефритовый конструкт."
 Cavalier Express: Gold,Cavalier Express: Золото
 Cavalier Express: Silver,Cavalier Express: Серебро

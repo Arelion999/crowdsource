@@ -1,17 +1,17 @@
 english,translate
-Harvest plants  times in Drizzlewood Coast.,
-Harvest plants  times in Dry Top.,
-Harvest plants  times in Ember Bay.,
-Harvest plants  times in Forging Steel.,
-Harvest plants  times in Grothmar Valley.,
-Harvest plants  times in Jahai Bluffs.,
-Harvest plants  times in Lake Doric.,
-Harvest plants  times in Siren's Landing.,
-Harvest plants  times in Thunderhead Peaks.,
-Harvest plants  times in the Domain of Istan.,
-Harvest plants  times in the Domain of Kourna.,
-Harvest plants  times in the Sandswept Isles.,
-Harvest plants  times in the Silverwastes.,
+Harvest plants %num2% times in Drizzlewood Coast.,
+Harvest plants %num2% times in Dry Top.,
+Harvest plants %num2% times in Ember Bay.,
+Harvest plants %num2% times in Forging Steel.,
+Harvest plants %num2% times in Grothmar Valley.,
+Harvest plants %num2% times in Jahai Bluffs.,
+Harvest plants %num2% times in Lake Doric.,
+Harvest plants %num2% times in Siren's Landing.,
+Harvest plants %num2% times in Thunderhead Peaks.,
+Harvest plants %num2% times in the Domain of Istan.,
+Harvest plants %num2% times in the Domain of Kourna.,
+Harvest plants %num2% times in the Sandswept Isles.,
+Harvest plants %num2% times in the Silverwastes.,
 Harvest plants %num2% times in Bloodstone Fen.,Соберите растения %num2% раз в Топи Кровавого Камня.
 Harvesting Information,Информация о сборе
 Hasty Harpooning,Поспешный гарпунный лов
@@ -19,7 +19,7 @@ Hat Trick,Хет-трик
 Hatch a skyscale egg.,Высидеть яйцо небесного чешуйника.
 Hatchery Helper,Помощник в инкубаторе
 Haunt these evil sylvari like a bad dream.,"Преследуйте этих злых сильвари, как дурной сон."
-Have  coins in the wallet at one time.,
+Have %num2% coins in the wallet at one time.,
 Have a Seat and Pull the Trigger,Присядьте и нажмите на курок
 Have a climactic battle.,Устройте кульминационную битву.
 "Have a face-to-face conversation with King Palawa Joko in the episode ""Long Live the Lich.""",Поговорите лицом к лицу с королём Палавой Джоко в эпизоде «Да здравствует лич».
@@ -44,7 +44,7 @@ Head to the throne room for updated orders from Queen Jennah.,Отправляй
 Head's Up!,Внимание!
 Headhunter,Охотник за головами
 Heads will roll!,Головы полетят!
-Heal  allies with the Medizooka.,Исцеляйте союзников с помощью Медизуки.
+Heal %num2% allies with the Medizooka.,
 Heal or enhance Lord Faren to support his training.,"Исцеляйте или усиливайте Lord Faren, чтобы поддержать его тренировку."
 Healing Heir,Целительный наследник
 Healing crystals? Sounds like a scam...,Целительные кристаллы? Звучит как развод...
@@ -68,20 +68,20 @@ Heavy Rival,Серьезный соперник
 Heist Hinderer,Помеха ограблению
 Heitor Instigator,Подстрекатель Heitor
 Hell Breaks Loose,Ад разверзся
-Help  new players defeat Adina for the first time.,Помогите новым игрокам победить Adina в первый раз.
-Help  new players defeat Cairn for the first time.,Помогите новым игрокам победить Cairn в первый раз.
-Help  new players defeat Deimos for the first time.,Помогите новым игрокам победить Deimos в первый раз.
-Help  new players defeat Qadim for the first time.,Помогите новым игрокам победить Qadim в первый раз.
-Help  new players defeat Qadim the Peerless for the first time.,Помогите новым игрокам победить Qadim the Peerless в первый раз.
-Help  new players defeat Samarog for the first time.,Помогите новым игрокам победить Samarog в первый раз.
-Help  new players defeat Xera for the first time.,Помогите новым игрокам победить Xera в первый раз.
-Help  new players defeat the Conjured Amalgamate for the first time.,Помогите новым игрокам победить Conjured Amalgamate в первый раз.
-Help  new players defeat the Keep Construct for the first time.,Помогите новым игрокам победить Keep Construct в первый раз.
-Help  new players defeat the Mursaat Overseer for the first time.,Помогите новым игрокам победить Mursaat Overseer в первый раз.
-Help  new players defeat the twin largos for the first time.,Помогите новым игрокам победить близнецов largos в первый раз.
-Help  players defeat Decima for the first time.,Помогите игрокам победить Decima в первый раз.
-Help  players defeat Greer for the first time.,Помогите игрокам победить Greer в первый раз.
-Help  players defeat Ura for the first time.,Помогите игрокам победить Ura в первый раз.
+Help %num2% new players defeat Adina for the first time.,
+Help %num2% new players defeat Cairn for the first time.,
+Help %num2% new players defeat Deimos for the first time.,
+Help %num2% new players defeat Qadim for the first time.,
+Help %num2% new players defeat Qadim the Peerless for the first time.,
+Help %num2% new players defeat Samarog for the first time.,
+Help %num2% new players defeat Xera for the first time.,
+Help %num2% new players defeat the Conjured Amalgamate for the first time.,
+Help %num2% new players defeat the Keep Construct for the first time.,
+Help %num2% new players defeat the Mursaat Overseer for the first time.,
+Help %num2% new players defeat the twin largos for the first time.,
+Help %num2% players defeat Decima for the first time.,
+Help %num2% players defeat Greer for the first time.,
+Help %num2% players defeat Ura for the first time.,
 Help Bakkin earn renown and fire the Favor of the Colossus.,Помогите Bakkin заработать репутацию и активировать Favor of the Colossus.
 Help Braham retake Cragstead.,Помогите Braham отбить Cragstead.
 Help Captain Thackeray and the Seraph assess the situation.,Помогите Captain Thackeray и Серафимам оценить ситуацию.
@@ -460,21 +460,21 @@ Impress Yasmi by neutralizing enemy territory!,"Впечатлите Yasmi, не
 Impressionable Youth,Впечатлительная молодежь
 Impressive Pugilist,Впечатляющий кулачный боец
 Improvised Weapon Collection,Коллекция импровизированного оружия
-"In Blazeridge Steppes, successfully stop the Inquest from capturing  ley-line coalescences after contributing ley energy to the Consortium.",В Степях Блейзерридж успешно помешайте Inquest захватить слияния лей-линий после внесения лей-энергии в Консорциум.
-"In Blazeridge Steppes, successfully stop the Inquest from capturing  ley-line coalescences after contributing ley energy to the Priory.",В Степях Блейзерридж успешно помешайте Inquest захватить слияния лей-линий после внесения лей-энергии в Приорат.
+"In Blazeridge Steppes, successfully stop the Inquest from capturing %num2% ley-line coalescences after contributing ley energy to the Consortium.",
+"In Blazeridge Steppes, successfully stop the Inquest from capturing %num2% ley-line coalescences after contributing ley energy to the Priory.",
 In Bloom,В цвету
 In It Together,Вместе мы сила
 In Loving Memory,В светлой памяти
 "In Mistburned Barrens, complete the final event of a survey escort.",В Мистбернских пустошах завершите финальное событие сопровождения геодезиста.
-"In Mount Maelstrom, successfully stop the Inquest from capturing  ley-line coalescences after contributing ley energy to the Consortium.",В Горе Мальстрем успешно помешайте Inquest захватить слияния лей-линий после внесения лей-энергии в Консорциум.
-"In Mount Maelstrom, successfully stop the Inquest from capturing  ley-line coalescences after contributing ley energy to the Priory.",В Горе Мальстрем успешно помешайте Inquest захватить слияния лей-линий после внесения лей-энергии в Приорат.
+"In Mount Maelstrom, successfully stop the Inquest from capturing %num2% ley-line coalescences after contributing ley energy to the Consortium.",
+"In Mount Maelstrom, successfully stop the Inquest from capturing %num2% ley-line coalescences after contributing ley energy to the Priory.",
 "In Primal Maguuma, help the Ward Technician reduce the insect population using your skyscale.","В Первобытной Магуме помогите Ward Technician сократить популяцию насекомых, используя своего скайскейла."
 In Pursuit of a God,В погоне за богом
 "In Sanctum Sprint, collect as many crystals as possible.",В «Спринте по святилищу» соберите как можно больше кристаллов.
 "In Sanctum Sprint, use every possible pickup item at least once.",В «Спринте по святилищу» используйте каждый доступный предмет хотя бы раз.
 "In Shipwreck Strand, take a moment to reflect at the graves of the Castorans no longer with us.","На Берегу Кораблекрушений уделите минуту, чтобы почтить память касторанцев, которых больше нет с нами."
-"In Snowden Drifts, successfully stop the Inquest from capturing  ley-line coalescences after contributing ley energy to the Consortium.",В Сноуденских дрифтах успешно помешайте Inquest захватить слияния лей-линий после внесения лей-энергии в Консорциум.
-"In Snowden Drifts, successfully stop the Inquest from capturing  ley-line coalescences after contributing ley energy to the Priory.",В Сноуденских дрифтах успешно помешайте Inquest захватить слияния лей-линий после внесения лей-энергии в Приорат.
+"In Snowden Drifts, successfully stop the Inquest from capturing %num2% ley-line coalescences after contributing ley energy to the Consortium.",
+"In Snowden Drifts, successfully stop the Inquest from capturing %num2% ley-line coalescences after contributing ley energy to the Priory.",
 In Tatters; Not Shattered,"В лохмотьях, но не сломлен"
 In Their Footsteps,По их следам
 In This Together,Вместе в этом

@@ -462,7 +462,7 @@ Decade of Heroes: Dragon's End,Десятилетие героев: Dragon's End
 Decade of Heroes: Dragon's Stand,Десятилетие героев: Dragon's Stand
 Decade of Heroes: Dragonfall,Десятилетие героев: Dragonfall
 Decade of Heroes: Dragonstorm,Десятилетие героев: Dragonstorm
-Decapitate  head of the great jungle wurm in Bloodtide Coast.,Отсеките голову Great Jungle Wurm в Bloodtide Coast.
+Decapitate %num2% head[s] of the great jungle wurm in Bloodtide Coast.,
 Decimate Decima.,Уничтожьте Decima.
 Decimation,Децимация
 Decode the seer tablets in Pilgrim's Rest without getting teleported.,"Расшифруйте таблички провидцев в Pilgrim's Rest, не попав под телепортацию."
@@ -474,28 +474,28 @@ Deep Down or Airships Grounded,Глубоко внизу или дирижабл
 Deep pockets required.,Требуются глубокие карманы.
 Deepest Secrets,Тайны глубин
 Defang the Fangs That Gnash,"Обезоружьте Клыки, что скрежещут"
-"Defeat  Abberant, Fallen, Sons of Svanir, or Frost Legion.","Победите аберрантов, падших, Сынов Сванира или Легион Мороза."
-Defeat  Aberrant in Northern Drizzlewood Coast.,Победите аберрантов в Северном Дриззлвуде.
-Defeat  Avatars of Spite.,Победите Аватаров Злобы.
-Defeat  Branded enemies.,Победите клейменых врагов.
+"Defeat %num2% Abberant, Fallen, Sons of Svanir, or Frost Legion.",
+Defeat %num2% Aberrant in Northern Drizzlewood Coast.,
+Defeat %num2% Avatars of Spite.,
+Defeat %num2% Branded enemies.,
 "Defeat  Branded, Destroyer, Icebrood, or Mordrem enemy.","Победите клейменого, разрушителя, ледяного выводка или мордема."
-Defeat  Destroyer enemy in Mount Maelstrom.,Победите разрушителя в Горе Мальстрем.
-Defeat  Dominion charr in Leadfoot Village in the Drizzlewood Coast.,Победите чарр Доминиона в Деревне Ледфут в Дриззлвуде.
-Defeat  Dominion charr in Lighthouse Point in the Drizzlewood Coast.,Победите чарр Доминиона в Лайтхаус-Пойнт в Дриззлвуде.
-Defeat  Dominion charr in Petraj Overlook in the Drizzlewood Coast.,Победите чарр Доминиона на Петровом утесе в Дриззлвуде.
-Defeat  Dominion charr in Port Cascadia in the Drizzlewood Coast.,Победите чарр Доминиона в Порт-Каскадии в Дриззлвуде.
-Defeat  Dominion charr in the Northern Drizzlewood Coast.,Победите чарр Доминиона в Северном Дриззлвуде.
-Defeat  Dominion charr in the Vloxen Mine sector of the Drizzlewood Coast.,Победите чарр Доминиона в секторе Шахта Влоксен в Дриззлвуде.
-Defeat  Dominion charr.,Победите чарр Доминиона.
-Defeat  Dominion tribunes in the Northern Drizzlewood Coast.,Победите трибунов Доминиона в Северном Дриззлвуде.
-Defeat  Fallen in Northern Drizzlewood Coast.,Победите падших в Северном Дриззлвуде.
-Defeat  Flame Legion enemy in Iron Marches and Fireheart Rise.,Победите врагов Легиона Пламени в Железных маршах и Огненных сводах.
+"Defeat %num2% Destroyer enemy[pl:""enemies""] in Mount Maelstrom.",
+Defeat %num2% Dominion charr in Leadfoot Village in the Drizzlewood Coast.,
+Defeat %num2% Dominion charr in Lighthouse Point in the Drizzlewood Coast.,
+Defeat %num2% Dominion charr in Petraj Overlook in the Drizzlewood Coast.,
+Defeat %num2% Dominion charr in Port Cascadia in the Drizzlewood Coast.,
+Defeat %num2% Dominion charr in the Northern Drizzlewood Coast.,
+Defeat %num2% Dominion charr in the Vloxen Mine sector of the Drizzlewood Coast.,
+Defeat %num2% Dominion charr.,
+Defeat %num2% Dominion tribunes in the Northern Drizzlewood Coast.,
+Defeat %num2% Fallen in Northern Drizzlewood Coast.,
+"Defeat %num2% Flame Legion enemy[pl:""enemies""] in Iron Marches and Fireheart Rise.",
 Defeat  Halloween minion.,Победите хэллоуинского миньона.
-Defeat  Icebrood enemy in Frostgorge Sound.,Победите врагов ледяного выводка в Проливе Фростджордж.
-Defeat  Inquest enemy in Mount Maelstrom and Sparkfly Fen.,Победите врагов Инквеста в Горе Мальстрем и Топях Спаркфлай.
-Defeat  Inquest.,Победите Инквест.
-Defeat  Karka in Southsun Cove.,Победите карку в Бухте Саутсан.
-Defeat  Kryptis attacking through rifts while fighting Charybda or Eparch.,"Победите Kryptis, атакующих через разломы во время боя с Charybda или Eparch."
-Defeat  Queen's Gauntlet boss in the Crown Pavilion during the Festival of the Four Winds with at least one gambit active.,Победите босса Перчатки Королевы в Павильоне Короны во время Фестиваля Четырех Ветров с активным хотя бы одним гамбитом.
-Defeat  Queen's Gauntlet boss in the Crown Pavilion during the Festival of the Four Winds.,Победите босса Перчатки Королевы в Павильоне Короны во время Фестиваля Четырех Ветров.
-Defeat  Queen's Gauntlet boss in the Crown Pavilion during the Festival of the Four Winds. This achievement can be completed once every year.,Победите босса Перчатки Королевы в Павильоне Короны во время Фестиваля Четырех Ветров. Это достижение можно выполнять раз в год.
+"Defeat %num2% Icebrood enemy[pl:""enemies""] in Frostgorge Sound.",
+"Defeat %num2% Inquest enemy[pl:""enemies""] in Mount Maelstrom and Sparkfly Fen.",
+Defeat %num2% Inquest.,
+Defeat %num2% Karka in Southsun Cove.,
+Defeat %num2% Kryptis attacking through rifts while fighting Charybda or Eparch.,
+"Defeat %num2% Queen's Gauntlet boss[pl:""bosses""] in the Crown Pavilion during the Festival of the Four Winds with at least one gambit active.",
+"Defeat %num2% Queen's Gauntlet boss[pl:""bosses""] in the Crown Pavilion during the Festival of the Four Winds.",
+"Defeat %num2% Queen's Gauntlet boss[pl:""bosses""] in the Crown Pavilion during the Festival of the Four Winds. This achievement can be completed once every year.",

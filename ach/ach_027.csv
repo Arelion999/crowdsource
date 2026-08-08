@@ -71,7 +71,7 @@ Sneak in some R&R when Ryland's not looking. Don't forget the mud mask and cucum
 Sneak past mursaat defenses.,Прокрадитесь мимо защиты mursaat.
 Sneak through the camp without being caught.,"Прокрадитесь через лагерь, не попавшись."
 Sneaky Sleuth,Хитрый сыщик
-Sniff out and open  kodan caches throughout Janthir.,Вынюхайте и откройте тайники kodan по всей Janthir.
+Sniff out and open %num2% kodan caches throughout Janthir.,
 Sniff out and open 50 kodan caches.,вынюхать и открыть 50 тайников коданов.
 Sniper's Nest,Гнездо снайпера
 "Sniper, No Sniping!","Снайпер, не стрелять!"
@@ -165,12 +165,12 @@ Sorrow's Embrace Collector,Коллекционер Sorrow's Embrace
 Sorrow's Furnace Veteran,Ветеран Горнила Скорби
 Sorrow's Lost,Утрата скорби
 Sorrow's Subjugator,Покоритель скорби
-Soulbind  unique piece of asuran cultural armor.,Привяжите к душе уникальный элемент культурной брони асуров.
-Soulbind  unique piece of charr cultural armor.,Привяжите к душе уникальный элемент культурной брони чарр.
-Soulbind  unique piece of cultural armor.,Привяжите к душе уникальный элемент культурной брони.
-Soulbind  unique piece of human cultural armor.,Привяжите к душе уникальный элемент культурной брони людей.
-Soulbind  unique piece of norn cultural armor.,Привяжите к душе уникальный элемент культурной брони норнов.
-Soulbind  unique piece of sylvari cultural armor.,Привяжите к душе уникальный элемент культурной брони сильвари.
+Soulbind %num2% unique piece[s] of asuran cultural armor.,
+Soulbind %num2% unique piece[s] of charr cultural armor.,
+Soulbind %num2% unique piece[s] of cultural armor.,
+Soulbind %num2% unique piece[s] of human cultural armor.,
+Soulbind %num2% unique piece[s] of norn cultural armor.,
+Soulbind %num2% unique piece[s] of sylvari cultural armor.,
 Soulbind a Lucky Great back item during the Lunar New Year festival.,Свяжите удачный великий предмет спины во время фестиваля Лунного Нового года.
 Souled Out,Продано с душой
 Sounds like we need some kind of astral herald to spread these learnings from Inner Nayos.,"Похоже, нам нужен астральный вестник, чтобы распространить эти знания из Inner Nayos."
@@ -355,17 +355,17 @@ Spelunk inside the Behem Gauntlet.,Исследуйте перчатку Behem G
 Spelunker's Delve,Пещера спелеолога
 Spend  Badge of Honor in World versus World.,Потратьте  Badge of Honor в режиме World versus World.
 Spend  Badge of Honor.,Потратьте  Badge of Honor.
-Spend  War Supplies to repair damaged structures or purchase base upgrades at Fort Defiance in Drizzlewood Coast.,Потратьте  War Supplies на починку поврежденных строений или покупку улучшений базы в Fort Defiance на Drizzlewood Coast.
-Spend  War Supplies to repair damaged structures or purchase base upgrades at Leadfoot Village in Drizzlewood Coast.,Потратьте  War Supplies на починку поврежденных строений или покупку улучшений базы в Leadfoot Village на Drizzlewood Coast.
-Spend  War Supplies to repair damaged structures or purchase base upgrades at Lighthouse Point in Drizzlewood Coast.,Потратьте  War Supplies на починку поврежденных строений или покупку улучшений базы в Lighthouse Point на Drizzlewood Coast.
-Spend  War Supplies to repair damaged structures or purchase base upgrades at Petraj Overlook in Drizzlewood Coast.,Потратьте  War Supplies на починку поврежденных строений или покупку улучшений базы в Petraj Overlook на Drizzlewood Coast.
-Spend  War Supplies to repair damaged structures or purchase base upgrades at Port Cascadia in Drizzlewood Coast.,Потратьте  War Supplies на починку поврежденных строений или покупку улучшений базы в Port Cascadia на Drizzlewood Coast.
-Spend  War Supplies to repair damaged structures or purchase base upgrades at the mines in Drizzlewood Coast.,Потратьте  War Supplies на починку поврежденных строений или покупку улучшений базы в шахтах на Drizzlewood Coast.
-Spend  supply by building bridges.,Потратьте  supply на строительство мостов.
-Spend  supply by generating generators.,Потратьте  supply на создание генераторов.
-Spend  supply on repairs.,Потратьте  supply на ремонт.
-Spend  supply on siege.,Потратьте  supply на осадные орудия.
-Spend  supply.,Потратьте  supply.
+Spend %num2% War Supplies to repair damaged structures or purchase base upgrades at Fort Defiance in Drizzlewood Coast.,Потратьте %num2% War Supplies на починку поврежденных строений или покупку улучшений базы в Fort Defiance на Drizzlewood Coast.
+Spend %num2% War Supplies to repair damaged structures or purchase base upgrades at Leadfoot Village in Drizzlewood Coast.,Потратьте %num2% War Supplies на починку поврежденных строений или покупку улучшений базы в Leadfoot Village на Drizzlewood Coast.
+Spend %num2% War Supplies to repair damaged structures or purchase base upgrades at Lighthouse Point in Drizzlewood Coast.,Потратьте %num2% War Supplies на починку поврежденных строений или покупку улучшений базы в Lighthouse Point на Drizzlewood Coast.
+Spend %num2% War Supplies to repair damaged structures or purchase base upgrades at Petraj Overlook in Drizzlewood Coast.,Потратьте %num2% War Supplies на починку поврежденных строений или покупку улучшений базы в Petraj Overlook на Drizzlewood Coast.
+Spend %num2% War Supplies to repair damaged structures or purchase base upgrades at Port Cascadia in Drizzlewood Coast.,Потратьте %num2% War Supplies на починку поврежденных строений или покупку улучшений базы в Port Cascadia на Drizzlewood Coast.
+Spend %num2% War Supplies to repair damaged structures or purchase base upgrades at the mines in Drizzlewood Coast.,Потратьте %num2% War Supplies на починку поврежденных строений или покупку улучшений базы в шахтах на Drizzlewood Coast.
+Spend %num2% supply by building bridges.,Потратьте %num2% supply на строительство мостов.
+Spend %num2% supply by generating generators.,Потратьте %num2% supply на создание генераторов.
+Spend %num2% supply on repairs.,Потратьте %num2% supply на ремонт.
+Spend %num2% supply on siege.,Потратьте %num2% supply на осадные орудия.
+Spend %num2% supply.,Потратьте %num2% supply.
 Spend 300 Hatched Chilis at a festival vendor in Grothmar Valley.,Потратьте 300 Hatched Chilis у фестивального торговца в Grothmar Valley.
 Spend 5 continuous minutes decorating your Castoran homestead in Fly Mode.,"Проведите 5 минут подряд, украшая свою усадьбу Castoran в режиме полета."
 Spend 5 continuous minutes decorating your Castoran homestead in Ground Mode.,"Проведите 5 минут подряд, украшая свою усадьбу Castoran в наземном режиме."
@@ -484,7 +484,7 @@ Stay safe. Wear a mask.,Будьте в безопасности. Носите �
 Stayed 'til the End,Остался до конца
 Staying In Character,Оставаясь в образе
 Steady effort will get you to your goals.,Упорный труд приведет вас к целям.
-Steal  crabs.,Крадите крабов.
+Steal %num2% crabs.,
 Steal a bottle of rum from the shipwrecked pirate.,Украдите бутылку рома у потерпевшего кораблекрушение пирата.
 Steal and deny the crab from other players in the Southsun Crab Toss.,Украдите и не дайте другим игрокам забрать краба в Southsun Crab Toss.
 Stealing the Limelight,В центре внимания

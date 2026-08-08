@@ -1,80 +1,80 @@
 english,translate
 Defeat  Queen's Gauntlet opponent.,Победите противника в Перчатке Королевы.
 Defeat  Queen's Gauntlet opponents.,Победите противников в Перчатке Королевы.
-Defeat  Risen enemy in Mount Maelstrom and Sparkfly Fen.,Победите врагов из числа восставших в Горе Мальстрем и Топях Спаркфлай.
-"Defeat  Risen enemy in the Straits of Devastation, Malchor's Leap, or Cursed Shore.","Победите врагов из числа восставших в Проливе Опустошения, Прыжке Мальчора или Проклятом берегу."
-Defeat  Son of Svanir.,Победите Сына Сванира.
-Defeat  Sons of Svanir in Northern Drizzlewood Coast.,Победите Сынов Сванира в Северном Дриззлвуде.
-Defeat  archer or door breaker during Battle of Champion's Dusk rated matches.,Победите лучника или разрушителя ворот во время рейтинговых матчей Битвы за Закат Чемпиона.
-Defeat  bloodstone-crazed White Mantle in Bloodstone Fen.,Победите обезумевших от кровавого камня членов Белой Мантии в Топях Кровавого Камня.
-Defeat  bosses in Mount Balrior without any party members being defeated.,"Победите боссов в Mount Balrior, чтобы никто из членов группы не был повержен."
-Defeat  bosses in the Sanctum Arena.,Победите боссов на Арене Святилища.
+"Defeat %num2% Risen enemy[pl:""enemies""] in Mount Maelstrom and Sparkfly Fen.",
+"Defeat %num2% Risen enemy[pl:""enemies""] in the Straits of Devastation, Malchor's Leap, or Cursed Shore.",
+Defeat %num2% Son[s] of Svanir.,
+Defeat %num2% Sons of Svanir in Northern Drizzlewood Coast.,
+Defeat %num2% archer[s] or door breaker[s] during Battle of Champion's Dusk rated matches.,
+Defeat %num2% bloodstone-crazed White Mantle in Bloodstone Fen.,
+Defeat %num2% bosses in Mount Balrior without any party members being defeated.,
+Defeat %num2% bosses in the Sanctum Arena.,
 "Defeat  centaur, Sons of Svanir, Inquest, Nightmare Court, or Flame Legion enemy.","Победите кентавра, Сына Сванира, Инкест, Кошмарный Двор или врага Легиона Пламени."
-Defeat  champion Kryptis.,Победите чемпиона Криптисов.
-Defeat  champion-level creatures in Dragonfall.,Победите существ уровня чемпиона в Драгонфолле.
-Defeat  coalescences to disperse their magic back to the ley-lines.,"Победите коалесценции, чтобы рассеять их магию обратно в лей-линии."
-Defeat  crazed fans.,Победите обезумевших фанатов.
-Defeat  destroyers in open missions.,Победите разрушителей в открытых миссиях.
-Defeat  dredge.,Победите дрегов.
-"Defeat  enemies in Convergences. Veteran, elite, champion, and legendary enemies give more progress.","Победите врагов в Конвергенциях. Ветераны, элита, чемпионы и легендарные враги дают больше прогресса."
-"Defeat  enemies in Mount Balrior Convergences. Veteran, elite, champion, and legendary enemies award more progress.","Победите врагов в Конвергенциях Mount Balrior. Ветераны, элита, чемпионы и легендарные враги дают больше прогресса."
-Defeat  enemy while defending your team's capture points during Battle of Kyhlo rated matches.,"Победите врага, защищая точки захвата вашей команды во время рейтинговых матчей Битвы при Кило."
-Defeat  enemy while defending your team's capture points during Forest of Niflhel rated matches.,"Победите врага, защищая точки захвата вашей команды во время рейтинговых матчей Леса Нифльхель."
-Defeat  enemy while defending your team's capture points during Legacy of the Foefire rated matches.,"Победите врага, защищая точки захвата вашей команды во время рейтинговых матчей Наследия Погибели."
-Defeat  enemy while defending your team's capture points during Skyhammer rated matches.,"Победите врага, защищая точки захвата вашей команды во время рейтинговых матчей Небесного молота."
-Defeat  enemy while defending your team's capture points during Spirit Watch rated matches.,"Победите врага, защищая точки захвата вашей команды во время рейтинговых матчей Духа Стража."
-Defeat  enemy while defending your team's capture points during Temple of the Silent Storm rated matches.,"Победите врагов, защищая точки захвата вашей команды в рейтинговых матчах на карте Temple of the Silent Storm."
-Defeat  enemy while defending your team's capture points during rated Djinn's Dominion matches.,"Победите врагов, защищая точки захвата вашей команды в рейтинговых матчах на карте Djinn's Dominion."
-Defeat  enemy while defending your team's capture points during rated Eternal Coliseum matches.,"Победите врагов, защищая точки захвата вашей команды в рейтинговых матчах на карте Eternal Coliseum."
+Defeat %num2% champion Kryptis.,
+Defeat %num2% champion-level creatures in Dragonfall.,
+Defeat %num2% coalescences to disperse their magic back to the ley-lines.,
+Defeat %num2% crazed fans.,
+Defeat %num2% destroyers in open missions.,
+Defeat %num2% dredge.,
+"Defeat %num2% enemies in Convergences. Veteran, elite, champion, and legendary enemies give more progress.",
+"Defeat %num2% enemies in Mount Balrior Convergences. Veteran, elite, champion, and legendary enemies award more progress.",
+"Defeat %num2% enemy[pl:""enemies""] while defending your team's capture points during Battle of Kyhlo rated matches.",
+"Defeat %num2% enemy[pl:""enemies""] while defending your team's capture points during Forest of Niflhel rated matches.",
+"Defeat %num2% enemy[pl:""enemies""] while defending your team's capture points during Legacy of the Foefire rated matches.",
+"Defeat %num2% enemy[pl:""enemies""] while defending your team's capture points during Skyhammer rated matches.",
+"Defeat %num2% enemy[pl:""enemies""] while defending your team's capture points during Spirit Watch rated matches.",
+"Defeat %num2% enemy[pl:""enemies""] while defending your team's capture points during Temple of the Silent Storm rated matches.",
+"Defeat %num2% enemy[pl:""enemies""] while defending your team's capture points during rated Djinn's Dominion matches.",
+"Defeat %num2% enemy[pl:""enemies""] while defending your team's capture points during rated Eternal Coliseum matches.",
 Defeat  enemy.,Победите врага.
 "Defeat  grawl, hylek, dredge, or krait enemy.","Победите врагов из числа граулов, хайлеков, дреджей или крэйтов."
-Defeat  haze agitators.,Победите агитаторов тумана.
-Defeat  icebrood in Dragon Response Missions.,Победите ледяных отродий в миссиях Dragon Response Missions.
+Defeat %num2% haze agitators.,
+Defeat %num2% icebrood in Dragon Response Missions.,
 Defeat  krait.,Победите крэйтов.
-Defeat  mursaat ghosts during the ambush.,Победите призраков мурсаатов во время засады.
+Defeat %num2% mursaat ghosts during the ambush.,
 Defeat  of Palawa Joko's minion.,Победите прислужников Palawa Joko.
-Defeat  ogres.,Победите огров.
+Defeat %num2% ogres.,
 Defeat  opponent in Aspect Arena.,Победите противника на арене Aspect Arena.
-Defeat  player during Battle of Champion's Dusk rated matches.,Победите игрока в рейтинговых матчах на карте Battle of Champion's Dusk.
-Defeat  player during Battle of Kyhlo rated matches.,Победите игрока в рейтинговых матчах на карте Battle of Kyhlo.
-Defeat  player during Djinn's Dominion rated matches.,Победите игрока в рейтинговых матчах на карте Djinn's Dominion.
-Defeat  player during Eternal Coliseum rated matches.,Победите игрока в рейтинговых матчах на карте Eternal Coliseum.
-Defeat  player during Forest of Niflhel rated matches.,Победите игрока в рейтинговых матчах на карте Forest of Niflhel.
-Defeat  player during Legacy of the Foefire rated matches.,Победите игрока в рейтинговых матчах на карте Legacy of the Foefire.
-Defeat  player during Revenge of the Capricorn rated matches.,Победите игрока в рейтинговых матчах на карте Revenge of the Capricorn.
-Defeat  player during Skyhammer rated matches.,Победите игрока в рейтинговых матчах на карте Skyhammer.
-Defeat  player during Spirit Watch rated matches.,Победите игрока в рейтинговых матчах на карте Spirit Watch.
-Defeat  player during Sunjiang Backstreets rated matches.,Победите игрока в рейтинговых матчах на карте Sunjiang Backstreets.
-Defeat  player during Temple of the Silent Storm rated matches.,Победите игрока в рейтинговых матчах на карте Temple of the Silent Storm.
-Defeat  players in ranked matches during 2v2 Season Eight.,Победите игроков в рейтинговых матчах 2 на 2 в восьмом сезоне.
-Defeat  players in ranked matches during 2v2 Season Five.,Победите игроков в рейтинговых матчах 2 на 2 в пятом сезоне.
-Defeat  players in ranked matches during 2v2 Season Four.,Победите игроков в рейтинговых матчах 2 на 2 в четвертом сезоне.
-Defeat  players in ranked matches during 2v2 Season One.,Победите игроков в рейтинговых матчах 2 на 2 в первом сезоне.
-Defeat  players in ranked matches during 2v2 Season Seven.,Победите игроков в рейтинговых матчах 2 на 2 в седьмом сезоне.
-Defeat  players in ranked matches during 3v3 Season Five.,Победите игроков в рейтинговых матчах 3 на 3 в пятом сезоне.
-Defeat  players in ranked matches during 3v3 Season One.,Победите игроков в рейтинговых матчах 3 на 3 в первом сезоне.
-Defeat  players in ranked matches during 3v3 Season Three.,Победите игроков в рейтинговых матчах 3 на 3 в третьем сезоне.
-Defeat  players in ranked matches during 3v3 Season Two.,Победите игроков в рейтинговых матчах 3 на 3 во втором сезоне.
+Defeat %num2% player[s] during Battle of Champion's Dusk rated matches.,
+Defeat %num2% player[s] during Battle of Kyhlo rated matches.,
+Defeat %num2% player[s] during Djinn's Dominion rated matches.,
+Defeat %num2% player[s] during Eternal Coliseum rated matches.,
+Defeat %num2% player[s] during Forest of Niflhel rated matches.,
+Defeat %num2% player[s] during Legacy of the Foefire rated matches.,
+Defeat %num2% player[s] during Revenge of the Capricorn rated matches.,
+Defeat %num2% player[s] during Skyhammer rated matches.,
+Defeat %num2% player[s] during Spirit Watch rated matches.,
+Defeat %num2% player[s] during Sunjiang Backstreets rated matches.,
+Defeat %num2% player[s] during Temple of the Silent Storm rated matches.,
+Defeat %num2% players in ranked matches during 2v2 Season Eight.,
+Defeat %num2% players in ranked matches during 2v2 Season Five.,
+Defeat %num2% players in ranked matches during 2v2 Season Four.,
+Defeat %num2% players in ranked matches during 2v2 Season One.,
+Defeat %num2% players in ranked matches during 2v2 Season Seven.,
+Defeat %num2% players in ranked matches during 3v3 Season Five.,
+Defeat %num2% players in ranked matches during 3v3 Season One.,
+Defeat %num2% players in ranked matches during 3v3 Season Three.,
+Defeat %num2% players in ranked matches during 3v3 Season Two.,
 Defeat  players in ranked matches during Conquest Season Forty-Five.,Победите игроков в рейтинговых матчах режима Conquest в сорок пятом сезоне.
-Defeat  players in ranked matches during Conquest Season Forty-One.,Победите игроков в рейтинговых матчах режима Conquest в сорок первом сезоне.
-Defeat  players in ranked matches during Conquest Season Forty.,Победите игроков в рейтинговых матчах режима Conquest в сороковом сезоне.
-Defeat  players in ranked matches during Conquest Season Thirty-Eight.,Победите игроков в рейтинговых матчах режима Conquest в тридцать восьмом сезоне.
-Defeat  players in ranked matches during Conquest Season Thirty-Five.,Победите игроков в рейтинговых матчах режима Conquest в тридцать пятом сезоне.
-Defeat  players in ranked matches during Conquest Season Thirty-Nine.,Победите игроков в рейтинговых матчах в течение 39-го сезона Завоевания.
-Defeat  players in ranked matches during Conquest Season Thirty-One.,Победите игроков в рейтинговых матчах в течение 31-го сезона Завоевания.
-Defeat  players in ranked matches during Conquest Season Thirty-Seven.,Победите игроков в рейтинговых матчах в течение 37-го сезона Завоевания.
-Defeat  players in ranked matches during Conquest Season Thirty-Six.,Победите игроков в рейтинговых матчах в течение 36-го сезона Завоевания.
-Defeat  players in ranked matches during Conquest Season Twenty-Five.,Победите игроков в рейтинговых матчах в течение 25-го сезона Завоевания.
-Defeat  players in ranked matches during Conquest Season Twenty-Four.,Победите игроков в рейтинговых матчах в течение 24-го сезона Завоевания.
-Defeat  players in ranked matches during Conquest Season Twenty-One.,Победите игроков в рейтинговых матчах в течение 21-го сезона Завоевания.
-Defeat  players in ranked matches during Conquest Season Twenty-Six.,Победите игроков в рейтинговых матчах в течение 26-го сезона Завоевания.
-Defeat  players in ranked matches during Conquest Season Twenty-Three.,Победите игроков в рейтинговых матчах в течение 23-го сезона Завоевания.
-Defeat  players in ranked matches during Conquest Season Twenty-Two.,Победите игроков в рейтинговых матчах в течение 22-го сезона Завоевания.
-Defeat  players in ranked matches during a Conquest season.,Победите игроков в рейтинговых матчах в течение сезона Завоевания.
-Defeat  players.,Победите игроков.
+Defeat %num2% players in ranked matches during Conquest Season Forty-One.,
+Defeat %num2% players in ranked matches during Conquest Season Forty.,
+Defeat %num2% players in ranked matches during Conquest Season Thirty-Eight.,
+Defeat %num2% players in ranked matches during Conquest Season Thirty-Five.,
+Defeat %num2% players in ranked matches during Conquest Season Thirty-Nine.,
+Defeat %num2% players in ranked matches during Conquest Season Thirty-One.,
+Defeat %num2% players in ranked matches during Conquest Season Thirty-Seven.,
+Defeat %num2% players in ranked matches during Conquest Season Thirty-Six.,
+Defeat %num2% players in ranked matches during Conquest Season Twenty-Five.,
+Defeat %num2% players in ranked matches during Conquest Season Twenty-Four.,
+Defeat %num2% players in ranked matches during Conquest Season Twenty-One.,
+Defeat %num2% players in ranked matches during Conquest Season Twenty-Six.,
+Defeat %num2% players in ranked matches during Conquest Season Twenty-Three.,
+Defeat %num2% players in ranked matches during Conquest Season Twenty-Two.,
+Defeat %num2% players in ranked matches during a Conquest season.,
+Defeat %num2% players.,
 Defeat  type of the Queen's Champions.,Победите тип чемпионов Королевы.
-Defeat  veteran Kryptis.,Победите ветеранов Kryptis.
-Defeat  veteran enemies in Mount Maelstrom.,Победите ветеранов-врагов в Mount Maelstrom.
+Defeat %num2% veteran Kryptis.,
+Defeat %num2% veteran enemies in Mount Maelstrom.,
 "Defeat %num2% centaur, Sons of Svanir, Inquest, Nightmare Court, or Flame Legion enemy[pl:""enemies""].","Победи %num2% врага из числа кентавров, сыновей Сванира, Инквеста, Дворца Кошмаров или Легиона Пламени."
 "Defeat %num2% of the world bosses in Bloodtide Coast, Blazeridge Steppes, or Harathi Hinterlands.","Победите %num2% мировых боссов в локациях Bloodtide Coast, Blazeridge Steppes или Harathi Hinterlands."
 Defeat %num2% of the world bosses in Frostgorge Sound or Mount Maelstrom.,Победите %num2% мировых боссов в локациях Frostgorge Sound или Mount Maelstrom.
@@ -147,9 +147,9 @@ Defeat Cotoni and Huetzi after nightfall.,Победите Cotoni и Huetzi по
 Defeat Decima while the challenge mote is active.,Победите Decima с активным испытанием.
 Defeat Decima without being downed.,"Победите Decima, не оказавшись в состоянии сбитого с ног."
 Defeat Decima.,Победите Дециму.
-Defeat Dhuum  times.,
+Defeat Dhuum %num2% times.,
 Defeat Doobroosh after he gains max stacks of Hormonal Imbalance.,"Победите Дубруша после того, как он получит максимум стаков «Гормонального дисбаланса»."
-Defeat Drakkar  times within its lair in Bjora Marches.,
+Defeat Drakkar %num2% times within its lair in Bjora Marches.,
 Defeat Drakkar within its lair in Bjora Marches,Победите Drakkar в его логове в Землях Бьор.
 Defeat Drakkar without being hit more than 8 times by its abilities.,"Победите Drakkar, получив не более 8 ударов от его способностей."
 Defeat Drakkar without dying or being hit more than 20 times by its abilities.,"Победите Drakkar, не погибнув и получив не более 20 ударов от его способностей."
@@ -194,7 +194,7 @@ Defeat Mordrem enemies in any region.,Победите врагов Mordrem в �
 Defeat Nochtli without falling off or leaving the top of her sparring rock.,"Победите Nochtli, не упав и не покинув её тренировочную скалу."
 Defeat Potoni the Massive in Tangled Depths.,Победите Potoni the Massive в Tangled Depths.
 "Defeat Poyaqui, the Grandmaster of Om, in a game of Belcher's Bluff before Zephyr Sanctum departs.","Победите Poyaqui, the Grandmaster of Om, в игре Belcher's Bluff до того, как Zephyr Sanctum улетит."
-Defeat Primordus and Jormag  time in the Dragonstorm encounter.,Победите Primordus и Jormag в ходе столкновения «Драконий шторм».
+Defeat Primordus and Jormag %num2% time[s] in the Dragonstorm encounter.,
 Defeat Pyroxis during a Boss Blitz event in the Crown Pavilion.,Победите Пироксиса во время события «Блиц боссов» в Королевском павильоне.
 Defeat Pyroxis during a Boss Blitz event in the Crown Pavilion. This achievement can be completed once every year.,Победите Пироксиса во время события «Блиц боссов» в Королевском павильоне. Это достижение можно выполнять раз в год.
 Defeat Qadim the Peerless while the challenge mote is active.,Победите Qadim the Peerless с активным испытанием.
@@ -263,7 +263,7 @@ Defeat a clone of yourself during the legendary doppelganger group event.,Поб
 Defeat a crazed karka queen on Southsun Cove.,Победите обезумевшую королеву karka на Southsun Cove.
 Defeat a jade construct using the Astral Ward shield.,"Победите нефритового конструкта (jade construct), используя щит Astral Ward."
 Defeat a jade construct.,Победите нефритового конструкта.
-Defeat a keep lord at all  bases in the Drizzlewood Coast.,Победите лорда крепости на всех базах в Drizzlewood Coast.
+Defeat a keep lord at all %num2% bases in the Drizzlewood Coast.,
 Defeat a legendary boss during a Boss Blitz event in the Crown Pavilion.,Победите легендарного босса во время события «Штурм боссов» в Королевском павильоне.
 Defeat a legendary creature in the Raven Sanctum.,Победите легендарное существо в Raven Sanctum.
 Defeat a legendary karka queen on Southsun Cove.,Победите легендарную королеву карк на Southsun Cove.
@@ -325,7 +325,7 @@ Defeat each of the Dominion tribunes.,Победите каждого из тр�
 Defeat each of the augmented emperors during the Shackles of the Ancients meta-event.,Победите каждого из усиленных императоров во время мета-события Shackles of the Ancients.
 Defeat each of the champions that appear after the Jade Crisis meta-event.,"Победите каждого из чемпионов, появляющихся после мета-события Jade Crisis."
 Defeat each of the enemies that is summoned in the ritual at the shrine to Hanuku.,"Победите каждого из врагов, призванных во время ритуала в святилище Hanuku."
-Defeat each of the great jungle wurm's  heads in Bloodtide Coast.,Победите каждую из голов великого лесного червя в Bloodtide Coast.
+Defeat each of the great jungle wurm's %num2% heads in Bloodtide Coast.,
 Defeat each of the marionette's power regulator wardens.,Победите каждого из стражей регулятора мощности марионетки.
 Defeat each of the prestige hunting targets in the hunting grounds.,Победите каждую из престижных целей охоты на охотничьих угодьях.
 Defeat enemies with a mace as a ranger.,"Победите врагов с помощью булавы, играя за рейнджера."
@@ -372,7 +372,7 @@ Defeat the Champion Svanir Shaman Chief and break his control over the ice eleme
 Defeat the Champion Toxic Spider Queen without allowing her to reach a cocoon.,"Победите Champion Toxic Spider Queen, не позволив ей добраться до кокона."
 Defeat the Champion Toxic Warlock.,Победите Champion Toxic Warlock.
 Defeat the Chaos Anomaly and each of the champion golems.,Победите Chaos Anomaly и каждого из големов-чемпионов.
-Defeat the Claw of Jormag  times in the Northern Drizzlewood Coast.,
+Defeat the Claw of Jormag %num2% times in the Northern Drizzlewood Coast.,
 Defeat the Claw of Jormag %num2% times during Wintersday.,Победите Коготь Йормага %num2% раз во время Зимнего дня.
 Defeat the Claw of Jormag on the Frostwalk Tundra in Frostgorge Sound.,Победите Claw of Jormag на Frostwalk Tundra в Frostgorge Sound.
 Defeat the Clockwork Nightmare during the Twilight Assault.,Победите Clockwork Nightmare во время Twilight Assault.
@@ -420,7 +420,7 @@ Defeat the Manifestation of Self-Doubt in the Shining Blade headquarters without
 Defeat the Mark II Beta Exterminator Golem in under three minutes.,Одолейте Mark II Beta Exterminator Golem менее чем за три минуты.
 Defeat the Megadestroyer in the heart of the volcano in Mount Maelstrom.,Одолейте Megadestroyer в сердце вулкана в Mount Maelstrom.
 Defeat the Miniature Sun somewhere in Thunderhead Peaks.,Одолейте Миниатюрное Солнце где-то в Thunderhead Peaks.
-Defeat the Minister of Morale  times in the Cold War raid encounter.,
+Defeat the Minister of Morale %num2% times in the Cold War raid encounter.,
 Defeat the Mistburned champion in the Find and Defeat the Source of the Mists Runoff Scent event.,Одолейте Mistburned чемпиона в событии «Найти и одолеть источник запаха стока Туманов».
 "Defeat the Molten Berserker before defeating the Molten Firestorm in the first phase of the encounter, then defeat the upgraded Molten Firestorm in the second phase of the encounter in the Molten Boss fractal.","Одолейте Molten Berserker до того, как одолеете Molten Firestorm в первой фазе столкновения, затем одолейте улучшенного Molten Firestorm во второй фазе столкновения во фрактале Molten Boss."
 "Defeat the Molten Firestorm before defeating the Molten Berserker in the first phase of the encounter, then defeat the upgraded Molten Berserker in the second phase of the encounter in the Molten Boss fractal.","Одолейте Molten Firestorm до того, как одолеете Molten Berserker в первой фазе столкновения, затем одолейте улучшенного Molten Berserker во второй фазе столкновения во фрактале Molten Boss."

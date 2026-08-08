@@ -23,14 +23,14 @@ Pumpkin Hacker V,Тыквенный хакер V
 Pumpkin Hacker VI,Тыквенный хакер VI
 Punish opponents for using Bluff.,Наказывайте противников за использование блефа.
 Punisher,Каратель
-Purchase  Crystal Bloom supply boxes at the Eye of the North.,Приобретите ящики с припасами Crystal Bloom в Оке Севера.
-Purchase  Ebon Vanguard supply boxes at the Eye of the North.,Приобретите ящики с припасами Ebon Vanguard в Оке Севера.
-Purchase  Exalted supply boxes at the Eye of the North.,Приобретите ящики с припасами Exalted в Оке Севера.
-Purchase  Kodan Supply Box at the Eye of the North.,Приобретите ящик с припасами Kodan в Оке Севера.
-Purchase  Olmakhan Supply Box at the Eye of the North.,Приобретите ящик с припасами Olmakhan в Оке Севера.
-Purchase  Skritt Supply Box at the Eye of the North.,Приобретите ящик с припасами Skritt в Оке Севера.
-Purchase  Tengu Supply Box at the Eye of the North.,Приобретите ящик с припасами Tengu в Оке Севера.
-Purchase  dwarven supply boxes at the Eye of the North.,Приобретите ящики с припасами дворфов в Оке Севера.
+Purchase %num2% Crystal Bloom supply boxes at the Eye of the North.,
+Purchase %num2% Ebon Vanguard supply boxes at the Eye of the North.,
+Purchase %num2% Exalted supply boxes at the Eye of the North.,
+"Purchase %num2% Kodan Supply Box[pl:""Boxes""] at the Eye of the North.",
+"Purchase %num2% Olmakhan Supply Box[pl:""Boxes""] at the Eye of the North.",
+"Purchase %num2% Skritt Supply Box[pl:""Boxes""] at the Eye of the North.",
+"Purchase %num2% Tengu Supply Box[pl:""Boxes""] at the Eye of the North.",
+Purchase %num2% dwarven supply boxes at the Eye of the North.,
 Purchase  of  souvenir titles.,Покупка сувенирных титулов.
 Purchase 1 Champion's Wings of Glory from the League Vendor.,Приобретите 1 Крылья славы чемпиона у Торговца лиги.
 Purchase 1 Elite's Wings of Glory from the League Vendor.,Приобретите 1 Крылья славы элиты у Торговца лиги.
@@ -61,7 +61,7 @@ Purchase the Guildrider Warclaw Skin Reward Track from the Reward Track Vendor.,
 Purchase the Oneiros-Spun Armor set from the Wizard's Tower Outfitter.Unlocking one skin's weight unlocks the other weights' skins.,Купите комплект брони Oneiros-Spun у экипировщика в Башне Волшебника.Разблокировка одного типа брони разблокирует облики для остальных типов.
 Purchase the Polychromatic Armor set from Deft Lahar in your homestead.Unlocking one skin's weight unlocks the other weights' skins.,Купите комплект Полихроматической брони у Deft Lahar в вашем поместье.Разблокировка одного типа брони разблокирует облики для остальных типов.
 Purchase the bow in the World 3 Test.,Купите лук в тесте Мира 3.
-Purchase these  trinkets from the strike rewards vendor.,Купите эти аксессуары у торговца наградами за налеты.
+Purchase these %num2% trinkets from the strike rewards vendor.,
 Purchase toys from around Tyria to give to your skyscale.,"Покупайте игрушки по всей Тирии, чтобы отдать их своему скайскейлу."
 Purchase upgrades for your café from the café console.,Покупайте улучшения для своего кафе через консоль кафе.
 Purchased and Used a Corresponding Title,Купите и используйте соответствующий титул.
@@ -82,7 +82,7 @@ Push Elite,Элита Push
 Push a chicken to its limits.,Доведите курицу до предела.
 Put Sparki and Slick in their place.,Поставьте Sparki и Slick на место.
 Put Them on Ice,Заморозить их
-Put away and read  books in the main library.,Уберите и прочитайте книги в главной библиотеке.
+Put away and read %num2% books in the main library.,
 Put on the diving goggles and dive into a Southsun lava pool.,Наденьте очки для ныряния и прыгните в бассейн с лавой на Southsun.
 Put out fires left burning around Lake Doric after the White Mantle's assault.,"Потушите пожары, оставшиеся после нападения White Mantle вокруг Lake Doric."
 Put the Bloody Prince back in the reliquary in under a minute.,Верните Bloody Prince в реликварий менее чем за минуту.
@@ -355,13 +355,13 @@ Reconquering the Searing Ascent,Повторное завоевание Опал
 Reconquering the Searing Ascent (Weekly),Повторное завоевание Опаляющего восхождения (еженедельно)
 Record Basher,Рекордсмен по битью
 Recover  audio logs from sonic periscopes.,
-Recover  fumbles from the opposing team in keg brawl.,
-Recover  fumbles from your own team in Keg Brawl.,
-Recover  lost Guardian statues.,
+Recover %num2% fumbles from the opposing team in keg brawl.,
+Recover %num2% fumbles from your own team in Keg Brawl.,
+Recover %num2% lost Guardian statues.,
 Recover %num2% tengu cultural relic[s] from defeated enemies in Drizzlewood Coast.,Верните %num2% [реликвию|реликвии|реликвий] тенгу с поверженных врагов на Побережье Мороси.
 Recover a remnant of the Kurzicks and restore it.,Найдите остатки курзиков и восстановите их.
-Recover all  Elonian armor pieces through completing the Personal Story.,
-"Recover all  Elonian weapons by completing events, looting chests, and identifying items in renown regions of the Crystal Desert.",
+Recover all %num2% Elonian armor pieces through completing the Personal Story.,
+"Recover all %num2% Elonian weapons by completing events, looting chests, and identifying items in renown regions of the Crystal Desert.",
 Recover all the skyscale eggs.,Найдите все яйца скайскейл.
 Recover lost troubleshooter badges in specific locations in the Fractals of the Mists.,Найдите утерянные значки ремонтников в определённых местах в Сферах Туманов.
 Recover lost valuables within a beached ship.,Верните утерянные ценности с выброшенного на берег корабля.
@@ -456,7 +456,7 @@ Renowned Hero: Sandswept Isles (Weekly),Известный герой: Sandswept
 Renowned Hero: Thunderhead Peaks,Известный герой: Thunderhead Peaks
 Renowned Hero: Thunderhead Peaks (Weekly),Известный герой: Thunderhead Peaks (еженедельно)
 Renowned Seeker,Известный искатель
-Repair  listening devices in the Drizzlewood Coast.,Почините  подслушивающие устройства в Drizzlewood Coast.
+Repair %num2% listening devices in the Drizzlewood Coast.,Почините %num2% подслушивающие устройства в Drizzlewood Coast.
 Repair Crew Royale,Королевский ремонтный отряд
 Repair Master,Мастер ремонта
 Repair all 10 broken Brand Stompers around Grothmar Valley.,Почините все 10 сломанных Brand Stompers вокруг Grothmar Valley.

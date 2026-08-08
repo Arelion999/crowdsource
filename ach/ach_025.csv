@@ -20,8 +20,8 @@ Requiem: Experiment 4,Реквием: Эксперимент 4
 Requiem: Experiment 5,Реквием: Эксперимент 5
 Requiem: Experiment 6,Реквием: Эксперимент 6
 Required Instance: Precocious Aurene,Обязательный инстанс: Precocious Aurene
-Rescue  prisoners from Dominion captivity in Northern Drizzlewood Coast.,Спасите заключенных из плена Доминиона на северном побережье Drizzlewood Coast.
-Rescue  skimmers from freebooter confinement.,Спасите скимеров из заточения флибустьеров.
+Rescue %num2% prisoners from Dominion captivity in Northern Drizzlewood Coast.,
+Rescue %num2% skimmers from freebooter confinement.,
 Rescue Ranger,Спасатель-рейнджер
 Rescue all skritt for Subject S on your way to the beach.,Спасите всех скриттов для Subject S по пути к пляжу.
 Rescue every Free Awakened inside the Fortress of Jahai during the Death-Branded Shatterer's attack.,Спасите всех свободных Пробужденных внутри Fortress of Jahai во время атаки Death-Branded Shatterer.
@@ -59,7 +59,7 @@ Retrieve lost supply drops for Ranoah Grindsteel.,Верните потерян�
 Retrieve the scattered wizard relics around Tyria.,Соберите разбросанные по всей Tyria реликвии волшебников.
 Retrieve the three components Emissary Vorpp needs to construct a portal.,"Добудьте три компонента, необходимые Emissary Vorpp для создания портала."
 Retrospective Runaround,Ретроспективная беготня
-Return  belongings to refugees.,Верните вещи беженцам.
+Return %num2% belongings to refugees.,
 Return a keg to your keg master in the Hoelbrak keg brawl.,Верните бочонок своему мастеру в потасовке в Hoelbrak.
 Return a piranha to the deep water in Test Zone 1.,Верните пиранью в глубокую воду в Тестовой зоне 1.
 Return an ooze to the ooze farmer in each zone.,Верните слизня фермеру в каждой зоне.
@@ -189,7 +189,7 @@ Returning to the Rise of Kralkatorrik,Возвращение к возвышен
 Reunite Glenna's rabbit with its love at the end of the Siege the Stronghold event.,Воссоедините кролика Glenna с его возлюбленной в конце события «Осада крепости».
 Reuniting Lost Kryptis: Gold,Воссоединение потерянных криптидов: Золото
 Reuniting Lost Kryptis: Silver,Воссоединение потерянных криптидов: Серебро
-Reveal  lost charr supply caches with a metal detector in the Drizzlewood Coast.,Найдите потерянные тайники припасов charr с помощью металлоискателя на Побережье Drizzlewood.
+Reveal %num2% lost charr supply caches with a metal detector in the Drizzlewood Coast.,
 Reveal and defeat 10 Speaker ritualists during the cemetery ghost event.,Обнаружьте и победите 10 ритуалистов Speaker во время события с призраками на кладбище.
 Revealing Ritualists,Разоблачение ритуалистов
 Revels & Rivals,Пиры и соперники
@@ -267,7 +267,7 @@ Revisit and complete a vision of the past mission using the Scrying Pool in Eye 
 Revisiting the Hidden Grove,Возвращение в Hidden Grove
 Revitalizing the Forge,Оживление кузни
 Revive  ally.,Воскресите союзника.
-Revive  players.,Воскресите игроков.
+Revive %num2% players.,
 "Revive %num2% ally[pl:""allies""].
 
 <c=@reminder>Downed or defeated players and allies can be revived by approaching and interacting with them to restore their health. Multiple people can revive the same ally at once to restore health faster.</c>","Возродить %num2% союзника.
@@ -400,7 +400,7 @@ Ruins of the Warbeast,Руины Боевого зверя
 Ruler of Shinies,Правитель блестяшек
 Ruler of the Skies,Повелитель небес
 Rumors in Elon Riverlands speak of a terrifying sand shark that's attracted to the scent of blood in the dunes.,"Слухи в Elon Riverlands говорят о жуткой песчаной акуле, которую привлекает запах крови в дюнах."
-Run  races of Sanctum Sprint.,Пробегите гонки Sanctum Sprint.
+Run %num2% races of Sanctum Sprint.,
 Run Around for No Reason: Gold,Беготня без причины: Золото
 Run Around for No Reason: Silver,Беготня без причины: Серебро
 Run the Wall Breach Blitz!,Пробегите Wall Breach Blitz!
@@ -437,7 +437,7 @@ Salute Major Emund and the troops at the campfire.,Отдайте честь Maj
 Salute the Shopkeeper,Отдайте честь лавочнику
 Salute the Troops,Отдайте честь войскам
 Salute when members of the Astral Ward bow to you.,"Отдайте честь, когда члены Astral Ward поклонятся вам."
-Salvage  items.,Разберите предметы.
+Salvage %num2% items.,
 Salvage Master,Мастер разбора
 Salvage Pit: Gold,Яма для разбора: золото
 Salvage Pit: Silver,Яма для разбора: серебро
@@ -505,7 +505,7 @@ Scaling Up,Масштабирование
 Scan a friend to be sure they are not hiding anything.,"Просканируйте друга, чтобы убедиться, что он ничего не скрывает."
 Scan and Soothe,Сканирование и успокоение
 "Scan the second set of jade power cells without touching the water, with or without the scanner stowed. No gliding!","Просканируйте второй набор нефритовых ячеек питания, не касаясь воды, со сканером или без него. Без планирования!"
-Scare  bird flocks.,Отпугните стаи птиц.
+Scare %num2% bird flocks.,
 Scarlet Scrambler,Скарлетовский помехозащитник
 Scattered Memories,Разбросанные воспоминания
 Scavenge for resources.,Займитесь поиском ресурсов.

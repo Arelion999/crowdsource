@@ -82,7 +82,7 @@ Jump off the high branches into the water near the northern beacon.,Прыгни
 Jump over 10 shock waves from Soo-Won's claw slam.,Перепрыгните через 10 ударных волн от удара когтем Soo-Won.
 Jump over 10 shock waves from the ravenous wanderer during the final battle of Gyala Delve.,Перепрыгните через 10 ударных волн от ravenous wanderer во время финальной битвы в Gyala Delve.
 Jump over Amala's Mystic Wave attack three times without being hit.,"Перепрыгните через атаку Mystic Wave от Amala три раза, не получив урона."
-Jump over Drakkar's shock wave attack  times.,Перепрыгните через ударную волну от Drakkar  раз.
+Jump over Drakkar's shock wave attack %num2% times.,Перепрыгните через ударную волну от Drakkar %num2% раз.
 "Jump, jump, jump for your life. Fall, fall, fall and you die!","Прыгай, прыгай, прыгай ради своей жизни. Падай, падай, падай — и ты умрешь!"
 "Jump, launch, and glide your way through the checkpoints and across the finish line!","Прыгай, взлетай и планируй через контрольные точки к финишной черте!"
 Jumping Mad,Прыгучий безумец
@@ -181,95 +181,95 @@ Kiel: Direct Support,Kiel: Прямая поддержка
 Kiel: Dungeon Runner,Kiel: Бегун по подземельям
 Kiel: Homeland Support,Kiel: Поддержка родины
 Kiel: Maw Mulcher,Kiel: Измельчитель Maw
-Kill  Aberrant.,Убейте Aberrant.
+Kill %num2% Aberrant.,
 Kill  Aetherblade pirate or other enemies trying to spoil the Jubilee.,"Убейте пирата Aetherblade или других врагов, пытающихся испортить Юбилей."
-Kill  Branded during the Shatterer battle.,Убейте Branded во время битвы с Shatterer.
-Kill  Crystal Desert predators.,Убейте хищников Crystal Desert.
-Kill  Fallen.,Убейте Fallen.
-Kill  Kryptis in Amnytas.,Убейте Kryptis в Amnytas.
-Kill  Purists in New Kaineng City.,Убейте Purists в New Kaineng City.
-Kill  Sons of Svanir.,Убейте Sons of Svanir.
-Kill  Unchained Risen in New Kaineng City.,Убейте Unchained Risen в New Kaineng City.
-Kill  ambient creatures.,Убейте фоновых существ.
-Kill  bandit in the Crown Pavilion.,Убейте бандита в Crown Pavilion.
-Kill  bandits.,Убейте бандитов.
-Kill  bats.,Убейте летучих мышей.
-Kill  centaur in the Crown Pavilion.,Убейте кентавра в Crown Pavilion.
-Kill  centaurs.,Убейте кентавров.
-Kill  chak.,Убейте чаков.
-Kill  champion chak.,Убейте чемпиона чаков.
+Kill %num2% Branded during the Shatterer battle.,
+Kill %num2% Crystal Desert predators.,
+Kill %num2% Fallen.,
+Kill %num2% Kryptis in Amnytas.,
+Kill %num2% Purists in New Kaineng City.,
+Kill %num2% Sons of Svanir.,
+Kill %num2% Unchained Risen in New Kaineng City.,
+Kill %num2% ambient creatures.,
+Kill %num2% bandit[s] in the Crown Pavilion.,
+Kill %num2% bandits.,
+Kill %num2% bats.,
+Kill %num2% centaur[s] in the Crown Pavilion.,
+Kill %num2% centaurs.,
+Kill %num2% chak.,
+Kill %num2% champion chak.,
 Kill  champion foes.,Убейте врагов-чемпионов.
-Kill  champions of the krait.,Убейте чемпионов krait.
-Kill  crustaceans.,Убейте ракообразных.
-Kill  destroyers.,Убейте разрушителей.
-Kill  devourers.,Убейте пожирателей.
-Kill  different factions of Scarlet's minions anywhere in Tyria.,Убейте приспешников Scarlet разных фракций в любой точке Tyria.
+Kill %num2% champions of the krait.,
+Kill %num2% crustaceans.,
+Kill %num2% destroyers.,
+Kill %num2% devourers.,
+Kill %num2% different factions of Scarlet's minions anywhere in Tyria.,
 Kill  different professions.,Убейте представителей разных профессий.
-Kill  djinn.,Убейте джиннов.
-Kill  drakes.,Убейте дрейков.
-Kill  dredge.,Убейте дреджей.
-Kill  elementals.,Убейте элементалей.
-Kill  enemies using profession combinations with another player.,"Убейте врагов, используя комбинации профессий с другим игроком."
+Kill %num2% djinn.,
+Kill %num2% drakes.,
+Kill %num2% dredge.,
+Kill %num2% elementals.,
+Kill %num2% enemies using profession combinations with another player.,
 Kill  enemies.,Убейте врагов.
 Kill  enemy guard NPCs.,Убейте вражеских NPC-стражей.
 Kill  enemy guard.,Убейте вражеского стража.
-Kill  enemy player in rated arena games.,Убейте вражеского игрока в рейтинговых играх на арене.
+Kill %num2% enemy player[s] in rated arena games.,
 Kill  enemy supply caravan.,Убейте вражеский караван снабжения.
-Kill  enemy while defending your team's capture points during rated Revenge of the Capricorn matches.,"Убейте врага, защищая точки захвата вашей команды во время рейтинговых матчей Revenge of the Capricorn."
-Kill  ettins.,Убейте эттинов.
-Kill  fish.,Убейте рыбу.
-Kill  ghosts.,Убейте призраков.
-Kill  giants.,Убейте великанов.
-Kill  grawl.,Убейте граулов.
-Kill  great jungle wurm egg before the larvae hatch.,"Убейте яйцо великого лесного червя до того, как вылупятся личинки."
-Kill  griffons.,Убейте грифонов.
+"Kill %num2% enemy[pl:""enemies""] while defending your team's capture points during rated Revenge of the Capricorn matches.",
+Kill %num2% ettins.,
+Kill %num2% fish.,
+Kill %num2% ghosts.,
+Kill %num2% giants.,
+Kill %num2% grawl.,
+Kill %num2% great jungle wurm egg[s] before the larvae hatch.,
+Kill %num2% griffons.,
 Kill  hallucinations triggered by toxic pollen.,"Убейте галлюцинации, вызванные ядовитой пыльцой."
-Kill  harpies.,Убейте гарпий.
-Kill  hostile animals in the Drizzlewood Coast.,Убейте враждебных животных на Drizzlewood Coast.
-Kill  hostile hylek.,Убейте враждебных hylek.
-Kill  imps.,Убейте импов.
-Kill  insects.,Убейте насекомых.
-Kill  invaders.,Убейте захватчиков.
-Kill  jotun.,Убейте jotun.
-Kill  kappa in New Kaineng City.,Убейте kappa в New Kaineng City.
-Kill  krait in Nonmoa Lake or complete the Kill the Krait Witch event to aid the Eztlitl hylek.,"Убейте krait в Nonmoa Lake или завершите событие Kill the Krait Witch, чтобы помочь hylek из Eztlitl."
-Kill  krait.,Убейте krait.
-Kill  members of Balthazar's Forged.,"Убейте членов Forged, служащих Balthazar."
-Kill  members of Joko's Awakened.,"Убейте членов Awakened, служащих Palawa Joko."
-Kill  members of Zhaitan's army.,Убейте членов армии Zhaitan.
-Kill  members of the Branded army.,Убейте членов армии Branded.
-Kill  members of the Flame Legion.,Убейте членов Flame Legion.
-Kill  members of the Inquest.,Убейте членов Inquest.
-Kill  members of the Nightmare Court.,Убейте членов Nightmare Court.
-Kill  members of the Sons of Svanir.,Убейте членов Sons of Svanir.
-Kill  members of the Toxic Alliance.,Убейте членов Toxic Alliance.
-Kill  minotaurs.,Убейте минотавров.
-Kill  of Palawa Joko's minions.,Убейте приспешников Palawa Joko.
+Kill %num2% harpies.,
+Kill %num2% hostile animals in the Drizzlewood Coast.,
+Kill %num2% hostile hylek.,
+Kill %num2% imps.,
+Kill %num2% insects.,
+Kill %num2% invaders.,
+Kill %num2% jotun.,
+Kill %num2% kappa in New Kaineng City.,
+Kill %num2% krait in Nonmoa Lake or complete the Kill the Krait Witch event to aid the Eztlitl hylek.,
+Kill %num2% krait.,
+Kill %num2% members of Balthazar's Forged.,
+Kill %num2% members of Joko's Awakened.,
+Kill %num2% members of Zhaitan's army.,
+Kill %num2% members of the Branded army.,
+Kill %num2% members of the Flame Legion.,
+Kill %num2% members of the Inquest.,
+Kill %num2% members of the Nightmare Court.,
+Kill %num2% members of the Sons of Svanir.,
+Kill %num2% members of the Toxic Alliance.,
+Kill %num2% minotaurs.,
+Kill %num2% of Palawa Joko's minions.,
 Kill  of Scarlet's Aetherblade minions.,"Убейте приспешников Aetherblade, служащих Scarlet."
 Kill  of Scarlet's Molten Alliance minions.,"Убейте приспешников Molten Alliance, служащих Scarlet."
 Kill  of Scarlet's twisted watchwork minions.,Убейте искаженных заводных приспешников Scarlet.
-Kill  of the Lunatic Court rebels.,Убейте мятежников Lunatic Court.
+Kill %num2% of the Lunatic Court rebels.,
 Kill  of the Mad King's minions.,Убейте приспешников Mad King.
-Kill  ogre in the Crown Pavilion.,Убейте ogre в Crown Pavilion.
-Kill  ogres.,Убейте ogres.
-Kill  oozes.,Убейте слизней.
-Kill  pirate in the Crown Pavilion.,Убейте пирата в Crown Pavilion.
-Kill  pirates.,Убейте пиратов.
-Kill  plants.,Убейте растения.
-Kill  player in PvP.,Убейте игрока в PvP.
+Kill %num2% ogre[s] in the Crown Pavilion.,
+Kill %num2% ogres.,
+Kill %num2% oozes.,
+Kill %num2% pirate[s] in the Crown Pavilion.,
+Kill %num2% pirates.,
+Kill %num2% plants.,
+Kill %num2% player[s] in PvP.,
 Kill  player.,Убейте игрока.
 Kill  players in WvW.,Убейте игроков в WvW.
-Kill  raid bosses. Killing bosses with challenge mode on and killing more difficult bosses progresses this faster.,Убейте рейдовых боссов. Убийство боссов в режиме испытания (challenge mode) и более сложных боссов ускоряет прогресс.
-Kill  raptors.,Убейте рапторов.
-Kill  skale.,Убейте skale.
-Kill  skelk.,Убейте skelk.
-Kill  skritt.,Убейте skritt.
-Kill  spiders.,Убейте пауков.
+Kill %num2% raid bosses. Killing bosses with challenge mode on and killing more difficult bosses progresses this faster.,
+Kill %num2% raptors.,
+Kill %num2% skale.,
+Kill %num2% skelk.,
+Kill %num2% skritt.,
+Kill %num2% spiders.,
 Kill  spore-corrupted creatures.,"Убейте существ, зараженных спорами."
-Kill  trolls.,Убейте троллей.
+Kill %num2% trolls.,
 Kill  veteran foes.,Убейте ветеранов-противников.
-Kill  wind riders.,Убейте wind riders.
-Kill  wurms.,Убейте червей.
+Kill %num2% wind riders.,
+Kill %num2% wurms.,
 Kill %num2% Flame Legionnaire[s] in the Crown Pavilion.,Убейте %num2% Пламенный легионер[|а|ов] на площади Короны.
 Kill %num2% Flame Legionnaire[s] in the Crown Pavilion. This achievement can be completed once every year.,Убейте %num2% Пламенный легионер[|а|ов] на площади Короны. Это достижение можно выполнить один раз в год.
 Kill %num2% White Mantle cultist[s] in the Crown Pavilion.,Убейте %num2% культист[|а|ов] Белой Мантии на площади Короны.
