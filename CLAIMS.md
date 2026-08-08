@@ -1,6 +1,6 @@
 # Батчи перевода GW2 RU — доска захвата
 
-Всего батчей: **884** | строк: **422,686** | заполнено: **421,068** (99.6%), пусто **1,618** | вычитано человеком: **56,387** (13.3%).
+Всего батчей: **940** | строк: **450,522** | заполнено: **448,951** (99.7%), пусто **1,571** | вычитано человеком: **56,387** (12.5%).
 
 > Чтобы забиндить батч — впиши свой ник и поставь 🔨 (в работе). Готово → ✅ + ссылка на файл/PR.
 >
@@ -77,7 +77,7 @@
 | `items_063.csv` | items | 499 | 11,803 | Lingering Adept Helm | ✅ | Автозаполнение из словаря + PR #1 — черновик, 470/499 (94%), нужна вычитка |
 | `items_064.csv` | items | 499 | 11,839 | Mace Token | ✅ | Автозаполнение из словаря + PR #1 — черновик, 137/499 (27%), нужна вычитка |
 | `items_065.csv` | items | 500 | 11,635 | Maguuma Jack | ✅ | Автозаполнение из словаря + PR #1 — черновик, 213/500 (43%), нужна вычитка |
-| `items_066.csv` | items | 498 | 17,464 | Malign Processional Flame |  | Автозаполнение из словаря + PR #1 — черновик, 249/498 (50%), нужна вычитка |
+| `items_066.csv` | items | 498 | 17,464 | Malign Processional Flame | ✅ | Автозаполнение из словаря + PR #1 — черновик, 249/498 (50%), нужна вычитка |
 | `items_067.csv` | items | 500 | 14,706 | Meal Feast: Double-click to set out a Feast o | ✅ | Автозаполнение из словаря + PR #1 — черновик, 436/500 (87%), нужна вычитка |
 | `items_068.csv` | items | 378 | 9,004 | Mighty Bronze Axe | ✅ | Автозаполнение из словаря + PR #1 — черновик, 378/378 (100%), нужна вычитка |
 | `items_069.csv` | items | 380 | 9,956 | Mini Eelob Poisonfang | ✅ | Автозаполнение из словаря — черновик, 370/380 (97%), нужна вычитка |
@@ -410,26 +410,26 @@
 | `new_054.csv` | new | 500 | 13,840 | Einzelhaft | ✅ | Автозаполнение из словаря + PR #1 — черновик, 16/500 (3%), нужна вычитка |
 | `new_055.csv` | new | 500 | 16,704 | Engineer reporting. | ✅ | Автозаполнение из словаря + PR #1 — черновик, 16/500 (3%), нужна вычитка |
 | `new_056.csv` | new | 500 | 19,782 | Eternal Ember processing begins in: %str1% | ✅ | Автозаполнение из словаря + PR #1 — черновик, 35/500 (7%), нужна вычитка |
-| `new_057.csv` | new | 500 | 16,142 | Explotarbustos |  | Автозаполнение из словаря + PR #1 — черновик, 44/500 (9%), нужна вычитка |
+| `new_057.csv` | new | 500 | 16,142 | Explotarbustos | ✅ | Автозаполнение из словаря + PR #1 — черновик, 44/500 (9%), нужна вычитка |
 | `new_058.csv` | new | 500 | 16,797 | Fine. Spit me. | ✅ | Автозаполнение из словаря + PR #1 — черновик, 39/500 (8%), нужна вычитка |
 | `new_059.csv` | new | 500 | 16,967 | Foul Tide |  | Автозаполнение из словаря + PR #1 — черновик, 30/500 (6%), нужна вычитка |
-| `new_060.csv` | new | 500 | 13,918 | Gefangene des Drachen |  | Автозаполнение из словаря + PR #1 — черновик, 31/500 (6%), нужна вычитка |
+| `new_060.csv` | new | 500 | 13,918 | Gefangene des Drachen | ✅ | Автозаполнение из словаря + PR #1 — черновик, 31/500 (6%), нужна вычитка |
 | `new_061.csv` | new | 500 | 17,200 | Golem Repair End | ✅ | Автозаполнение из словаря + PR #1 — черновик, 31/500 (6%), нужна вычитка |
-| `new_062.csv` | new | 500 | 17,131 | Gut gepanzert |  | Автозаполнение из словаря + PR #1 — черновик, 48/500 (10%), нужна вычитка |
+| `new_062.csv` | new | 500 | 17,131 | Gut gepanzert | ✅ | Автозаполнение из словаря + PR #1 — черновик, 48/500 (10%), нужна вычитка |
 | `new_063.csv` | new | 500 | 20,471 | Heggel | ✅ | Автозаполнение из словаря + PR #1 — черновик, 35/500 (7%), нужна вычитка |
 | `new_064.csv` | new | 500 | 17,780 | Historian Symon |  | Автозаполнение из словаря + PR #1 — черновик, 38/500 (8%), нужна вычитка |
-| `new_065.csv` | new | 500 | 28,124 | I admire passion, but you may want to tone it |  | Автозаполнение из словаря + PR #1 — черновик, 54/500 (11%), нужна вычитка |
+| `new_065.csv` | new | 500 | 28,124 | I admire passion, but you may want to tone it | ✅ | Автозаполнение из словаря + PR #1 — черновик, 54/500 (11%), нужна вычитка |
 | `new_066.csv` | new | 500 | 27,046 | I like your Braham miniature. | ✅ | Автозаполнение из словаря + PR #1 — черновик, 53/500 (11%), нужна вычитка |
-| `new_067.csv` | new | 500 | 24,981 | I'll deactivate tailor and become a huntsman. |  | Автозаполнение из словаря + PR #1 — черновик, 55/500 (11%), нужна вычитка |
+| `new_067.csv` | new | 500 | 24,981 | I'll deactivate tailor and become a huntsman. | ✅ | Автозаполнение из словаря + PR #1 — черновик, 55/500 (11%), нужна вычитка |
 | `new_068.csv` | new | 500 | 25,651 | I've got your back. | ✅ | Автозаполнение из словаря + PR #1 — черновик, 30/500 (6%), нужна вычитка |
-| `new_069.csv` | new | 500 | 17,085 | Indeed. Looks like I must've forgotten one. |  | Автозаполнение из словаря + PR #1 — черновик, 32/500 (6%), нужна вычитка |
+| `new_069.csv` | new | 500 | 17,085 | Indeed. Looks like I must've forgotten one. | ✅ | Автозаполнение из словаря + PR #1 — черновик, 32/500 (6%), нужна вычитка |
 | `new_070.csv` | new | 500 | 21,979 | Isn't traveling wonderful? | ✅ | Автозаполнение из словаря + PR #1 — черновик, 36/500 (7%), нужна вычитка |
 | `new_071.csv` | new | 500 | 16,089 | Jora. Mountain Walker, Kinslayer, Curse Break | ✅ | Автозаполнение из словаря + PR #1 — черновик, 24/500 (5%), нужна вычитка |
-| `new_072.csv` | new | 500 | 14,634 | Kill them quickly! |  | Автозаполнение из словаря + PR #1 — черновик, 27/500 (5%), нужна вычитка |
-| `new_073.csv` | new | 500 | 14,540 | La gran evasión |  | Автозаполнение из словаря + PR #1 — черновик, 26/500 (5%), нужна вычитка |
-| `new_074.csv` | new | 500 | 18,672 | Let me guess. Trouble? |  | Автозаполнение из словаря + PR #1 — черновик, 31/500 (6%), нужна вычитка |
+| `new_072.csv` | new | 500 | 14,634 | Kill them quickly! | ✅ | Автозаполнение из словаря + PR #1 — черновик, 27/500 (5%), нужна вычитка |
+| `new_073.csv` | new | 500 | 14,540 | La gran evasión | ✅ | Автозаполнение из словаря + PR #1 — черновик, 26/500 (5%), нужна вычитка |
+| `new_074.csv` | new | 500 | 18,672 | Let me guess. Trouble? | ✅ | Автозаполнение из словаря + PR #1 — черновик, 31/500 (6%), нужна вычитка |
 | `new_075.csv` | new | 500 | 18,018 | Lionguard Moirin |  | Автозаполнение из словаря + PR #1 — черновик, 44/500 (9%), нужна вычитка |
-| `new_076.csv` | new | 500 | 15,650 | Maestro[f:"Maestra"] de recuerdos del espejo |  | Автозаполнение из словаря + PR #1 — черновик, 36/500 (7%), нужна вычитка |
+| `new_076.csv` | new | 500 | 15,650 | Maestro[f:"Maestra"] de recuerdos del espejo | ✅ | Автозаполнение из словаря + PR #1 — черновик, 36/500 (7%), нужна вычитка |
 | `new_077.csv` | new | 500 | 16,081 | Medallion[s] of the Assassin | ✅ | Автозаполнение из словаря + PR #1 — черновик, 30/500 (6%), нужна вычитка |
 | `new_078.csv` | new | 500 | 16,591 | Misión especial: Recuperación de hierro | ✅ | Автозаполнение из словаря + PR #1 — черновик, 40/500 (8%), нужна вычитка |
 | `new_079.csv` | new | 500 | 14,311 | My show's a real killer, eh? | ✅ | Автозаполнение из словаря + PR #1 — черновик, 23/500 (5%), нужна вычитка |
@@ -449,8 +449,8 @@
 | `new_093.csv` | new | 500 | 16,107 | She could help us. And, not to be a gossip or |  | Автозаполнение из словаря + PR #1 — черновик, 44/500 (9%), нужна вычитка |
 | `new_094.csv` | new | 500 | 19,222 | Slayer Alanis | ✅ | Автозаполнение из словаря + PR #1 — черновик, 30/500 (6%), нужна вычитка |
 | `new_095.csv` | new | 500 | 15,302 | Southern Edge |  | Автозаполнение из словаря + PR #1 — черновик, 39/500 (8%), нужна вычитка |
-| `new_096.csv` | new | 500 | 16,100 | Step through the Mists toward the next incurs |  | Автозаполнение из словаря + PR #1 — черновик, 38/500 (8%), нужна вычитка |
-| `new_097.csv` | new | 500 | 14,618 | Supply Package[s] |  | Автозаполнение из словаря + PR #1 — черновик, 58/500 (12%), нужна вычитка |
+| `new_096.csv` | new | 500 | 16,100 | Step through the Mists toward the next incurs | ✅ | Автозаполнение из словаря + PR #1 — черновик, 38/500 (8%), нужна вычитка |
+| `new_097.csv` | new | 500 | 14,618 | Supply Package[s] | ✅ | Автозаполнение из словаря + PR #1 — черновик, 58/500 (12%), нужна вычитка |
 | `new_098.csv` | new | 500 | 20,449 | Tartas de Debbie |  | Автозаполнение из словаря + PR #1 — черновик, 36/500 (7%), нужна вычитка |
 | `new_099.csv` | new | 500 | 37,203 | That's Arabella's ship: the Kraken's Pride! S | ✅ | Автозаполнение из словаря + PR #1 — черновик, 38/500 (8%), нужна вычитка |
 | `new_100.csv` | new | 500 | 42,477 | The challenge is currently in progress. Short | ✅ | Автозаполнение из словаря + PR #1 — черновик, 41/500 (8%), нужна вычитка |
@@ -458,14 +458,14 @@
 | `new_102.csv` | new | 500 | 30,947 | This heat is beastly. Jim lad! Bring me my sn | ✅ | Автозаполнение из словаря + PR #1 — черновик, 57/500 (11%), нужна вычитка |
 | `new_103.csv` | new | 500 | 17,264 | Time to put some distance between us! | ✅ | Автозаполнение из словаря + PR #1 — черновик, 21/500 (4%), нужна вычитка |
 | `new_104.csv` | new | 500 | 18,421 | Travel to the Labyrinthine Cliffs |  | Автозаполнение из словаря + PR #1 — черновик, 28/500 (6%), нужна вычитка |
-| `new_105.csv` | new | 500 | 19,513 | Täglicher[f:"Tägliche"] Eroberer[f:"Eroberin" |  | Автозаполнение из словаря + PR #1 — черновик, 15/500 (3%), нужна вычитка |
-| `new_106.csv` | new | 500 | 17,322 | Unter Umständen nahrungsmittelähnlich |  | Автозаполнение из словаря + PR #1 — черновик, 31/500 (6%), нужна вычитка |
+| `new_105.csv` | new | 500 | 19,513 | Täglicher[f:"Tägliche"] Eroberer[f:"Eroberin" | ✅ | Автозаполнение из словаря + PR #1 — черновик, 15/500 (3%), нужна вычитка |
+| `new_106.csv` | new | 500 | 17,322 | Unter Umständen nahrungsmittelähnlich | ✅ | Автозаполнение из словаря + PR #1 — черновик, 31/500 (6%), нужна вычитка |
 | `new_107.csv` | new | 500 | 15,528 | Veteran Destroyer Harpies |  | Автозаполнение из словаря + PR #1 — черновик, 18/500 (4%), нужна вычитка |
 | `new_108.csv` | new | 500 | 29,072 | Wall 3 | ✅ | Автозаполнение из словаря + PR #1 — черновик, 42/500 (8%), нужна вычитка |
 | `new_109.csv` | new | 500 | 26,243 | We're proud that you have chosen to serve alo | ✅ | Автозаполнение из словаря + PR #1 — черновик, 45/500 (9%), нужна вычитка |
 | `new_110.csv` | new | 500 | 23,008 | What have you learned about the Kryptis here? |  | Автозаполнение из словаря + PR #1 — черновик, 41/500 (8%), нужна вычитка |
 | `new_111.csv` | new | 500 | 20,119 | Wild Carrot Plant | ✅ | Автозаполнение из словаря + PR #1 — черновик, 38/500 (8%), нужна вычитка |
-| `new_112.csv` | new | 500 | 28,314 | Yo me encargo |  | Автозаполнение из словаря + PR #1 — черновик, 77/500 (15%), нужна вычитка |
+| `new_112.csv` | new | 500 | 28,314 | Yo me encargo | ✅ | Автозаполнение из словаря + PR #1 — черновик, 77/500 (15%), нужна вычитка |
 | `new_113.csv` | new | 500 | 26,477 | You there! Lend me your ear for a moment. | ✅ | Автозаполнение из словаря + PR #1 — черновик, 68/500 (14%), нужна вычитка |
 | `new_114.csv` | new | 467 | 16,086 | Zaida |  | Автозаполнение из словаря + PR #1 — черновик, 5/467 (1%), нужна вычитка |
 | `new_115.csv` | new | 500 | 13,852 | ![lbracket]alt text[rbracket](https://loading |  | Автозаполнение из словаря + PR #1 — черновик, 498/500 (100%), нужна вычитка |
@@ -896,3 +896,59 @@
 | `main_013.csv` | main | 202 | 79,316 | White Crane Terrace: Explore the cavern where | ✅ | Автозаполнение из словаря — черновик, 191/202 (95%), нужна вычитка |
 | `discovered_2026-08-05.csv` | discovered | 1533 | 120,075 | Vote for Champion's Dusk today in PvP's Unran | ✅ | Автозаполнение — машинный перевод Hwingard, PR #3, нужна вычитка |
 | `discovered_local_2026-08-07.csv` | discovered | 23 | 1,198 | If you need to know something, I can help. Bu | ✅ | Автозаполнение — прокси-урожай, сверено по корпусу, нужна вычитка |
+| `site_001.csv` | site | 500 | 37,394 | ! Band Member Down ! | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_002.csv` | site | 500 | 51,853 | """Whitebear's Pride II"" Strongbox" | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_003.csv` | site | 500 | 80,173 | "<c=@abilitytype>Chain.</c> Heave your spear, | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_004.csv` | site | 500 | 46,405 | "<c=@flavor>""Bang, bang!""<br>—Cakilak'ka</c | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_005.csv` | site | 500 | 51,759 | "<c=@flavor>""Reminds me of days gone by.""<b | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_006.csv` | site | 500 | 54,558 | "<c=@flavor>""You're going to need one of the | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_007.csv` | site | 500 | 55,313 | "A recipe to make an ascended axe with Settle | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_008.csv` | site | 500 | 53,007 | "A recipe to make an ascended mace with Drago | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_009.csv` | site | 500 | 55,166 | "A recipe to make an ascended warhorn with Di | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_010.csv` | site | 500 | 57,406 | "A recipe to make ascended medium shoulders w | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_011.csv` | site | 500 | 51,176 | "Ahoy, there!" | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_012.csv` | site | 500 | 52,740 | "As long as we have the cauldron, you've done | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_013.csv` | site | 500 | 50,021 | "Brilliant! Simply brilliant! With your assis | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_014.csv` | site | 500 | 50,001 | "Collect All Baubles<br>in World 2, Zone 3" | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_015.csv` | site | 500 | 55,528 | "Conjure a whirlpool at the target location,  | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_016.csv` | site | 500 | 59,780 | "Defeat the mursaat defenses, Jade Constructs | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_017.csv` | site | 500 | 58,754 | "Double-click to receive the following items: | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_018.csv` | site | 500 | 47,783 | "Exactly. When that pipe exploded, we had to  | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_019.csv` | site | 500 | 58,207 | "For every 10 stacks of calibrated essence yo | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_020.csv` | site | 500 | 47,912 | "Good job. Now, let's make a bomb of our own. | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_021.csv` | site | 500 | 43,354 | "Here at last, dearheart. Are you prepared to | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_022.csv` | site | 500 | 82,805 | "I call it the 3-2-1: three parts meat, two p | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_023.csv` | site | 500 | 54,728 | "I sense Sohothin's presence. Rurik, my son!  | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_024.csv` | site | 500 | 56,196 | "I...have this deep-seated fear of them. To g | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_025.csv` | site | 500 | 54,200 | "In which the Mad King's followers recruit fr | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_026.csv` | site | 500 | 46,552 | "Keep your voice down. There was a Sanctuary  | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_027.csv` | site | 500 | 56,294 | "Looking healthier already, the plot is. Must | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_028.csv` | site | 500 | 38,138 | "Neary, if you win, promise me you won't lead | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_029.csv` | site | 500 | 47,792 | "Oh, I didn't see you there." | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_030.csv` | site | 500 | 47,598 | "Pacify foes, dazing them for three seconds." | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_031.csv` | site | 500 | 49,348 | "Quickly, carry the remainders to me!" | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_032.csv` | site | 500 | 42,947 | "Scary, scary, scary beast! Someone, protect  | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_033.csv` | site | 500 | 43,672 | "So I see. Yes, this is good quality too. Con | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_034.csv` | site | 500 | 51,952 | "Strike enemies around you, inflicting condit | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_035.csv` | site | 500 | 72,367 | "Thanks to you, PR&T is one step closer to a  | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_036.csv` | site | 500 | 70,362 | "The castaways have stashed collected magic f | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_037.csv` | site | 500 | 63,086 | "The troll had to die to make the road safe f | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_038.csv` | site | 500 | 62,759 | "This is a MailDef with a MapCinematic, I hop | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_039.csv` | site | 500 | 60,189 | "To unlock this reward track, complete the no | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_040.csv` | site | 500 | 53,922 | "Use weaponsmithing to refine into Shards of  | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_041.csv` | site | 500 | 58,278 | "We fought long and hard to protect the Maste | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_042.csv` | site | 500 | 55,015 | "What business could you possibly have with m | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_043.csv` | site | 500 | 52,422 | "Why are you disturbing us here? These poor s | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_044.csv` | site | 500 | 53,623 | "You are imbued with cosmic energy, lowering  | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_045.csv` | site | 500 | 54,176 | "You're so lucky. I love my plants here, but  | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_046.csv` | site | 500 | 13,622 | A giant shark is terrorizing the lake's inhab | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_047.csv` | site | 500 | 13,718 | Being chased by insect swarms! | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_048.csv` | site | 500 | 14,542 | Data Repository Waypoint | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_049.csv` | site | 500 | 15,219 | Everyone knows this. The Materium Krewe! | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_050.csv` | site | 500 | 21,582 | How could this have happened? | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_051.csv` | site | 500 | 17,727 | Is there anything you'd like to say to the pe | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_052.csv` | site | 500 | 16,094 | Nachschubeinsatz fur Amnytas: Gold | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_053.csv` | site | 500 | 15,565 | Resist all damage. | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_054.csv` | site | 500 | 27,559 | Sure can! We have the distinguished honor of  | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_055.csv` | site | 500 | 18,142 | Those are all the questions I have. | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `site_056.csv` | site | 336 | 14,134 | What'd you mean by this being your place? | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
