@@ -54,7 +54,7 @@ Tiachren,Тиахрен
 Tiebreakers,Тай-брейки
 Tiefland-Brackwasserfisch,Тифландская солоноватоводная рыба
 Tiefland-Meeresfisch,Тифландская морская рыба
-Tier,Уровень
+Tier %num1%,
 Tiers,Уровни
 Tiffi,Тиффи
 Tigerfish,Тигровая рыба
@@ -445,7 +445,7 @@ X,X
 XI,XI
 XII,XII
 XIII,XIII
-XP,XP
+%num1% XP,
 Xank,Xank
 Xanthium,Ксантий
 Xera,Ксера

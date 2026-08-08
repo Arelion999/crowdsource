@@ -301,7 +301,7 @@ Tier 6,Уровень 6
 Tier 6 Objective Reward,Награда за задание уровня 6
 Tier 7 Objective Reward,Награда за задание уровня 7
 Tier 8 Objective Reward,Награда за задание уровня 8
-Tier Complete,Уровень завершён
+Tier %num1% Complete,
 Tier Completion,Завершение уровня
 Tier Completion Reward,Награда за завершение уровня
 Tier Eight,Уровень восемь
@@ -320,7 +320,7 @@ Tier Six,Уровень Шесть
 Tier Ten,Уровень Десять
 Tier Three,Уровень Три
 Tier Two,Уровень Два
-Tier:,Уровень:
+Tier: %num1%,
 Tier: %num1%,Уровень: %num1%
 Tier: %str1%,Уровень: %str1%
 Tiered Renown Hearts,Многоуровневые сердца признания

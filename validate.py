@@ -43,6 +43,9 @@
     с другим заглавным («Дух Медведя») считаются частью названия и не метятся;
   - zero-width символы;
   - перевод дословно равен английскому предложению (возможно, не переведено);
+  - у оригинала потеряна разметка: на сервере строка несёт %num2%/[s], а наша
+    копия пришла без них («Complete  event.» вместо «Complete %num2% event[s].»).
+    Сверка с sync/server_strings.csv; без этого файла проверка выключена;
   - «ты» и «вы» в одной строке (разнобой обращения);
   - оригинал кончается на .!? — перевод нет (потерянная точка);
   - пробел перед знаком препинания.
@@ -213,6 +216,88 @@ def title_case_suspects(ru):
         if not near:
             out.append(m.group())
     return out
+
+# Часть строк пришла в батчи с потерянной разметкой: «Complete  event.» вместо
+# «Complete %num2% event[s].». Двойной пробел — след того места, где стоял
+# плейсхолдер. Заметить это по самой строке нельзя: она выглядит целой, и линтер
+# спокойно принимает перевод без числа, потому что числа нет и в оригинале.
+#
+# Поэтому сверяемся с выгрузкой строк игры (sync/server_strings.csv, только те,
+# что несут плейсхолдер или плюрал-разметку). Файла может не быть — тогда проверка
+# просто выключена, линтер остаётся рабочим на голом клоне.
+SRV_MARKUP = re.compile(r'%\w+%|\[s\]|\[pl:"|\[nosep\]|\[null\]')
+
+def load_server_strings(path=None):
+    path = path or os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                                'sync', 'server_strings.csv')
+    by_skel = {}
+    try:
+        rows = csv.reader(open(path, encoding='utf-8', newline=''))
+    except OSError:
+        return by_skel
+    for i, r in enumerate(rows):
+        if i and r and r[0]:
+            by_skel.setdefault(server_skel(r[0]), set()).add(r[0])
+    return by_skel
+
+def server_skel(s):
+    """Строка без разметки и без пробелов вовсе.
+
+    Пробелы убираются целиком, а не схлопываются: «achievement[s].» после снятия
+    разметки даёт «achievement .» — с пробелом перед точкой, — и схлопывание не
+    свело бы его с «achievement.» из батча.
+    """
+    return re.sub(r'\s+', '', KNOWN_TOKENS.sub(' ', re.sub(r'%\w+%|\[s\]', ' ', s))).lower()
+
+SERVER_STRINGS = load_server_strings()
+
+def edit_distance(a, b, cap=12):
+    """Расстояние Левенштейна, оборванное на cap: точное значение дальше не нужно."""
+    if abs(len(a) - len(b)) > cap:
+        return cap + 1
+    prev = list(range(len(b) + 1))
+    for i, ca in enumerate(a, 1):
+        cur = [i]
+        for j, cb in enumerate(b, 1):
+            cur.append(min(prev[j] + 1, cur[j - 1] + 1, prev[j - 1] + (ca != cb)))
+        if min(cur) > cap:
+            return cap + 1
+        prev = cur
+    return prev[-1]
+
+def server_check(en):
+    """Предупреждение, если у строки на сервере есть разметка, а у нашей копии нет."""
+    if not SERVER_STRINGS or SRV_MARKUP.search(en):
+        return None
+    cand = SERVER_STRINGS.get(server_skel(en))
+    if not cand:
+        return None
+    # Совпадение по скелету значит «та же строка без разметки». Берём ближайший
+    # по Левенштейну вариант: скелет мог свести несколько родственных строк.
+    best = min(cand, key=lambda c: edit_distance(en, c))
+    if edit_distance(en, best) == 0:
+        return None
+    # Считаем только числовые плейсхолдеры. Обёртка %str1%%str2%…%str3%%str4% —
+    # это отдельная строка игры (шаблон подстановки имени), а не наша испорченная
+    # копия: «Corrupted Hero Greatsword» и «%str1%%str2%Corrupted Hero Greatsword%str3%%str4%»
+    # существуют обе. По скелету они неразличимы, и на них проверка давала 6 246
+    # ложных срабатываний из 6 311.
+    lost = sorted(set(re.findall(r'%num\d*%', best)) - set(re.findall(r'%num\d*%', en)))
+    if not lost:
+        return None
+    # Плейсхолдер, приклеенный к слову вплотную («M%num1%», «brood%num1%»), при
+    # удалении не оставляет следа, и наша строка — не обрезок, а отдельное имя.
+    # След оставляет только отдельно стоящий токен.
+    if not any(re.search(r'(?:^|[^A-Za-z0-9])' + re.escape(p) + r'(?:[^A-Za-z0-9]|$)', best)
+               for p in lost):
+        return None
+    # Решающая проверка: снимаем с серверной строки разметку и требуем СОВПАДЕНИЯ
+    # с нашей буква в букву. Скелет игнорирует пробелы, поэтому сам по себе он
+    # сводит и неродственные строки; точная реконструкция — не сводит.
+    if re.sub(r'\s+', ' ', re.sub(r'%num\d*%|\[s\]|\[pl:"[^"]*"\]', '', best)).strip() \
+            != re.sub(r'\s+', ' ', en).strip():
+        return None
+    return f"потеряна разметка оригинала ({' '.join(lost)}), на сервере: «{best[:60]}»"
 
 # Число — единственная часть строки, которую перевод обязан повторить дословно, и
 # единственный смысловой сдвиг, который вообще ловится машиной: «Contains 200» ->
@@ -411,6 +496,9 @@ def check_row(en, ru):
         warns.append("потерян маркер списка •")
     if ru.strip() == en.strip() and not CYR.search(en) and re.search(r'[.!?]', en) and len(en) >= 15:
         warns.append("перевод == оригиналу (возможно, не переведено)")
+    srv = server_check(en)
+    if srv:
+        warns.append(srv)
     return errs, warns
 
 def iter_csv(paths):
