@@ -7,7 +7,6 @@ english,translate
 "<c=@abilitytype>Chain.</c> Strike foes, and chill them.","<c=@abilitytype>Цепочка.</c> Поражайте врагов, замораживая их."
 <c=@abilitytype>Chain.</c> Strike your foe.,<c=@abilitytype>Цепочка.</c> Поразите врага.
 <c=@abilitytype>Chain.</c> Swing your gunsaber and fire a second shot. <c=@reminder> Foes hit by the initial attack take less damage from the follow-up shot. </c>,"<c=@abilitytype>Цепочка.</c> Взмахните разряд-клинком и выстрелите ещё раз. <c=@reminder> Враги, задетые первым ударом, получают меньше урона от следующего выстрела. </c>"
-<c=@abilitytype>Chaîne.</c> Vous frappez votre ennemi deux fois.,
 <c=@abilitytype>Clone.</c> Gain stealth and summon a clone that appears to rally and swim away.,"<c=@abilitytype>Клон.</c> Станьте невидимы и призовите клона, который делает вид, что спасается вплавь."
 <c=@abilitytype>Clone.</c> Summon a clone that attacks your foe.,"<c=@abilitytype>Клон.</c> Призовите клона, который атакует вашего врага."
 <c=@abilitytype>Consecration.</c> Create a ring of fire that burns foes and cures conditions on allies.,"<c=@abilitytype>Освящение.</c> Создайте огненное кольцо, которое обжигает врагов и снимает состояния с союзников."
@@ -473,7 +472,6 @@ english,translate
 "<c=@flavor>""Keeps the bad ice away.""<br>—Mokooki</c>",<c=@flavor>«Отгоняет плохой лёд».<br>—Мокооки</c>
 "<c=@flavor>""Keeps the creepy crawlies away.""<br>—Twitchok</c>",<c=@flavor>«Отгоняет всяких жутких ползучих тварей».<br>—Твичок</c>
 "<c=@flavor>""Keeps the soot off.""<br>—Vigil Tactician Blazefur</c>",<c=@flavor>«Не даёт покрыться сажей».<br>—Тактик Дозора Блейзфур</c>
-"<c=@flavor>""La vie est un mystère""</c>",
 "<c=@flavor>""Let's make a deal.""<br>—Lexi Price</c>",<c=@flavor>«Давай договоримся».<br>—Лекси Прайс</c>
 "<c=@flavor>""Let's see them run after us now!""<br>—Hua'racche</c>",<c=@flavor>«Пусть теперь побегают от нас!»<br>—Хуарраче</c>
 "<c=@flavor>""Light as a feather! No—that's a lie, this thing is really heavy.""<br>—Supply Sergeant Mattimer</c>","<c=@flavor>«Лёгкое, как пёрышко! Нет — это ложь, эта штука реально тяжёлая».<br>—Интендант-сержант Маттимер</c>"

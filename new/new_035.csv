@@ -98,7 +98,6 @@ english,translate
 (scream) You filth—,"(кричит) Ты, мразь..."
 (screams in pain),(кричит от боли)
 (screech),(визг)
-(semanal) Convergencias: Monte Balrior,
 (shout),(крик)
 (shriek),(вопль)
 (shrieks),(вопит)
@@ -192,9 +191,6 @@ english,translate
 +5%% Karma,+5%% к карме
 +5-35 Power,+5–35 к силе
 +50 Maximum Health <c=#A9A9A9>(Daytime)</c>,+50 к максимальному здоровью <c=#A9A9A9>(днём)</c>
-... Mit Gefühl!,
-... wieder zurück,
-... y de una vuelta,
 "...And Taimi said a little meditation and personal reflection would be ""healthy.""","...А Тайми говорила, что немного медитации и размышлений о себе будут «полезны»."
 "...From safely back behind the lines, of course. Heh. Of course.","...Из безопасного тыла, разумеется. Хех. Разумеется."
 "...Urban planning. As a best practice, of course. Land-leasing is our domain.","...Градостроительство. В качестве передового опыта, разумеется. Аренда земли — наша вотчина."
@@ -206,7 +202,6 @@ english,translate
 0.5%% Extra Damage per Stack,"0,5%% дополнительного урона за стак"
 09 Season of the Scion 1320,09 Сезона Отпрыска 1320
 "1-2-3, die!","Раз-два-три, умри!"
-1.ª semana de la misión de requisa del León Negro,
 "10 Slots. If possible, junk items will fill this pack before other empty spaces. The contents of this pack will not move when inventory is sorted.",10 ячеек. По возможности хлам заполняет этот ранец прежде других свободных мест. Содержимое этого ранца не перемещается при сортировке инвентаря.
 "10 Slots. If possible, weapons and armor will fill this box before other empty spaces. The contents of this box will not move when inventory is sorted.",10 ячеек. По возможности оружие и броня заполняют эту коробку прежде других свободных мест. Содержимое этой коробки не перемещается при сортировке инвентаря.
 10 Slots. Items in this box will never appear in a sell-to-vendor list and will not move when inventory is sorted.,10 ячеек. Предметы в этой коробке никогда не появляются в списке продажи торговцу и не перемещаются при сортировке инвентаря.
@@ -224,20 +219,12 @@ english,translate
 "18 Slots. If possible, weapons and armor will fill this box before other empty spaces. The contents of this box will not move when inventory is sorted.",18 ячеек. По возможности оружие и броня заполняют эту коробку прежде других свободных мест. Содержимое этой коробки не перемещается при сортировке инвентаря.
 18 Slots. Items in this pack will never appear in a sell-to-vendor list and will not move when inventory is sorted.,18 ячеек. Предметы в этом ранце никогда не появляются в списке продажи торговцу и не перемещаются при сортировке инвентаря.
 "2 ""The Elder Dragons rise again, and you are called by Glaust to ensure the survival of Tyria. We are entrusting our aspirations for the future with you, the Exalted, our most loyal defenders.""","2 «Старшие драконы восстают вновь, и Глауст призывает вас обеспечить выживание Тирии. Мы вверяем наши чаяния о будущем вам, Возвышенным, нашим самым верным защитникам»."
-2.ª semana de la misión de requisa del León Negro,
 "20 Slots. If possible, junk items will fill this box before other empty spaces. The contents of this box will not move when inventory is sorted.",20 ячеек. По возможности хлам заполняет эту коробку прежде других свободных мест. Содержимое этой коробки не перемещается при сортировке инвентаря.
 20 percent,20 процентов
 20%% chance to transfer a condition to your foe on a critical hit. <br><c=@reminder>(Cooldown: 10 Seconds)</c>,20%% шанс перенести состояние на врага при критическом попадании. <br><c=@reminder>(Перезарядка: 10 секунд)</c>
-2v2-Streiter,
-3 Statuen in 5 Minuten,
-3 Wolf,
-3.ª semana de la misión de requisa del León Negro,
-30-Sekunden-Einnahme,
 32 percent,32 процента
 "32 units long, 56 units wide.","32 единицы в длину, 56 единиц в ширину."
 "34 units long, 50 units wide.","34 единицы в длину, 50 единиц в ширину."
-"3v3-Streiter[f:""Streiterin""]",
-4.ª semana de la misión de requisa del León Negro,
 40%% chance to transfer a condition to your foe on a critical hit. <br><c=@reminder>(Cooldown: 10 Seconds)</c>,40%% шанс перенести состояние на врага при критическом попадании. <br><c=@reminder>(Перезарядка: 10 секунд)</c>
 "42 units long, 66 units wide.","42 единицы в длину, 66 единиц в ширину."
 57 units by 29 units.,57 на 29 единиц.
@@ -266,7 +253,6 @@ english,translate
 <c=@abilitytype>Costume Brawl.</c> Throw a madly flaming pumpkin head.,<c=@abilitytype>Потасовка ряженых.</c> Швырните безумно пылающую тыквенную голову.
 "<c=@abilitytype>Deception.</c> Draw in shards of crystal sand at target location, which confuse foes they pass through. The shards form a mirage mirror when they reach their destination.","<c=@abilitytype>Обман.</c> Стягивает в целевую область осколки хрустального песка, вызывающие замешательство у врагов, сквозь которых проходят. Достигнув цели, осколки образуют зеркало миража."
 "<c=@abilitytype>Glyphs</c> heal nearby allies. While in celestial avatar form, grant protection instead.",<c=@abilitytype>Глифы</c> исцеляют союзников поблизости. В форме небесного аватара вместо этого дают Протекцию.
-<c=@abilitytype>Kommando.</c> Heilt Euch selbst und Euren Tiergefährten. Ihr erhaltet beide die Kopie der Segen des jeweils anderen.,
 "<c=@abilitytype>Meditation.</c> Strike foes around you, and remove their boons. Deal more damage to foes that lose a boon.","<c=@abilitytype>Медитация.</c> Поражает врагов вокруг вас и снимает с них боны. Наносит больше урона врагам, потерявшим бон."
 "<c=@abilitytype>Tome.</c> Manifest the shimmering purity of the desert sun, reflecting enemy missiles.","<c=@abilitytype>Том.</c> Являет мерцающую чистоту пустынного солнца, отражая вражеские снаряды."
 "<c=@abilitytype>Tome.</c> Recall the memory of fallen heroes, granting allies the searing blades of justice.","<c=@abilitytype>Том.</c> Воскрешает память о павших героях, даруя союзникам жгучие клинки правосудия."
@@ -292,7 +278,6 @@ A Risen shark forced us to abandon our exploration. Someone kill it!,Восст�
 A Selection of Children's Rhymes and Verses,Сборник детских стишков и потешек
 A Vigil assault team is escorting explosives to Barrowstead.,Штурмовая группа Дозора сопровождает взрывчатку в Курганное Подворье.
 A Vigil assault team is heading toward Coiled Watch.,Штурмовая группа Дозора движется к Свернувшемуся Дозору.
-A base de bien,
 A beautiful blend of talents.,Прекрасное сочетание талантов.
 A bit of the code my sire's letter mentioned. I'll take note.,"Кусочек кода, о котором говорилось в письме моего родителя. Возьму на заметку."
 A blue player has marked you for their team and will now track you. Stealthing for long durations will cause you to be revealed.,Синий игрок пометил вас для своей команды и теперь будет отслеживать. Долгое пребывание в невидимости выдаст вас.
@@ -304,8 +289,6 @@ A broodmother is down by the dam! Hurry! Kill it before someone gets eaten.,"М�
 A bunch of bandits are trying to sabotage the pump house!,Кучка бандитов пытается вывести из строя насосную станцию!
 A bustling market is a thing of beauty.,Оживлённый рынок — это прекрасно.
 "A cacaphony of growls and snarls comes from behind the gates, and the scent of blood is heavy in the air. Are you ready for the challenge?","Из-за ворот доносится какофония рычания и рыка, а в воздухе тяжело висит запах крови. Готов принять вызов?"
-A cambio de cobre...,
-A capa y mangada,
 A challenge well met.,Вызов принят достойно.
 A challenger has entered the ring. You may assist them if you wish. Failure to work together may be dangerous.,На арену вышел претендент. При желании можете ему помочь. Неумение действовать сообща может выйти боком.
 A chance is all I need.,Мне нужен всего один шанс.
@@ -313,7 +296,6 @@ A chance is all I need.,Мне нужен всего один шанс.
 "A charr! It's building some nefarious device—surely the vanguard of an invasion. Brothers and sisters, to arms! For Ascalon!","Чарр! Он собирает какое-то зловещее устройство — наверняка это авангард вторжения. Братья и сёстры, к оружию! За Аскалон!"
 A cheater.,Жулик.
 A clever combination!,Ловкое сочетание!
-A cobijo de la lluvia,
 A common misidentification. But his behavior is VERY different from what contemporary records suggest.,"Обычная ошибка в определении. Но его поведение ОЧЕНЬ отличается от того, что описывают источники того времени."
 A concealed door leads back into the hillside.,Потайная дверь ведёт обратно вглубь холма.
 A corpse taker is dead. Focus on its sapling while it's unshielded!,"Трупосборщик мёртв. Бейте по его саженцу, пока он без щита!"
@@ -330,7 +312,6 @@ A defensive perimeter has been established. The Ordnance Corps plans to retake t
 A destroyer champion has erupted from the ground.,Из-под земли вырвался чемпион-разрушитель.
 "A dirt-covered dog tag lies before you with what looks like a dried bloodstain. You can make out the name ""Arina.""",Перед вами лежит покрытый грязью солдатский жетон с чем-то похожим на засохшее пятно крови. Можно разобрать имя «Арина».
 "A disturbance, just out of sight. If you could investigate it before returning to camp...?","Что-то неладно, совсем рядом, но не на виду. Может, посмотришь, в чём дело, прежде чем вернёшься в лагерь?"
-A dormir otra vez,
 "A drastically abnormal shedding or molting cycle. Now, I know what you're thinking—how do we know what's abnormal in a species that's never existed before?","Совершенно ненормальный цикл линьки. Знаю, о чём вы подумали: откуда нам знать, что нормально для вида, которого прежде не существовало?"
 A faint but palpable energy emanates from these tenebrous catacombs. The silent inhabitants of the stone sarcophagi seem unwilling to succumb to the fact of their demise.,"От этих сумрачных катакомб исходит слабая, но ощутимая энергия. Молчаливые обитатели каменных саркофагов, похоже, не желают мириться с тем, что их время вышло."
 A familiar sense of the past.,Знакомое ощущение прошлого.
@@ -370,16 +351,11 @@ A horrible creature has been stalking troops along the road to Karst Plains.,Ж�
 A key-shaped object that is patterned with runes. It looks as if it could be used to bypass the defenses of a magical ward.,"Предмет в форме ключа, покрытый узором из рун. Похоже, им можно обойти защиту магического оберега."
 A krait witch is destabilizing the lake to strengthen krait forces.,"Ведьма крайтов дестабилизирует озеро, чтобы усилить войска крайтов."
 "A krewe surveying to the northwest discovered a species of arthropods. These creatures resemble the ""chak"" spoken of in local hylek lore.","Крю, ведущее изыскания к северо-западу, обнаружило вид членистоногих. Эти существа похожи на «чаков», о которых говорится в местных преданиях хилеков."
-A la altura de la gloria,
-A la caza de críptidos,
-A la moda,
 "A label on the side of the jug says, ""One serving per head.""",Надпись на боку кувшина гласит: «По одной порции на голову».
 A land dweller. Surprising. It's rare to see your kind out here. I take it water does not frighten you?,"Сухопутный житель. Удивительно. Твой род здесь редкость. Полагаю, вода тебя не пугает?"
 A large displaced creature is wrecking the water chamber.,Крупное смещённое существо крушит водный зал.
 "A large sign reads: ""Property of Dibb. All other persons are either Inquest or crooks."" Seems suspicious.","Большая табличка гласит: «Собственность Дибба. Все прочие — либо Инквест, либо жулики». Выглядит подозрительно."
 A larval termite is hiding inside this mound. A hylek weapon could expose the larva.,В этой куче прячется личинка термита. Оружие хилеков могло бы её выманить.
-A las armas,
-A las puertas de Maguuma,
 A lasting truce stands.,Перемирие держится.
 A leatherworker knows how to make armor that protects you in comfort and style as you travel the world. Interested?,"Кожевник умеет делать броню, которая защищает тебя с удобством и со стилем, пока ты странствуешь по миру. Интересно?"
 A legendary Mordrem vinetooth has appeared at Vinetooth Den. All Eastwatch pylons have been activated.,У Логова Лозозубов появился легендарный лозозуб мордремов. Все пилоны Восточного Дозора активированы.
@@ -394,7 +370,6 @@ A magnificent display of might! Bravo to you both.,Впечатляющее пр
 "A massive jade monument to Soo-Won stands before you, celebrating the prosperity and technological advances she provided to the empire.","Перед вами высится громадный нефритовый монумент Су-Вон, славящий процветание и технические достижения, что она даровала империи."
 A massive threat that needs to be stopped and no resources available. One of these days they'll give me a challenging assignment.,"Огромная угроза, которую нужно остановить, и никаких доступных сил. Когда-нибудь мне дадут по-настоящему сложное задание."
 A master brewer should always have their equipment close at hand. Dedicated members of our Brew of the Month Club receive this gear as well!,У мастера-пивовара снаряжение всегда должно быть под рукой. Преданные участники нашего «Клуба пива месяца» тоже получают этот набор!
-A mayores alturas,
 A meal today means no travel tomorrow.,Поесть сегодня — значит не идти в путь завтра.
 "A member of the Durmand Priory, named Ket, came through here on her way to the ruins of Demetra. No one has heard from her in a while. It could mean she's just busy with her work, or it could mean she's in trouble. If you have the time, could you go check on her?","Здесь проходила Кет, из Приората Дурманд, — она направлялась к руинам Деметры. От неё давно нет вестей. Может, она просто занята работой, а может, попала в беду. Если у тебя есть время, не проверишь, как она?"
 "A message from Hrouda reads, ""Show Dr. Bleent our resolve. Protest near this station, and make a stand in opposition to his research.""",В послании от Хроуды сказано: «Покажем доктору Бленту нашу решимость. Устройте протест у этой станции и выступите против его исследований».
@@ -407,7 +382,6 @@ A mother spider is consumed by her children...,Паучиху-мать пожи�
 "A mound of stones lies undisturbed in this quiet grotto. Plants grow from the crevices, and bugs go about their business on the rocks.","В этом тихом гроте нетронутой лежит груда камней. Из расщелин пробиваются растения, а по камням снуют по своим делам жуки."
 "A musician of immense skill and passion, Van Leopard penned many of Tyria's greatest hits. Here is a sampling of his work to commemorate his contributions.","Музыкант огромного мастерства и страсти, Ван Леопард написал многие из величайших хитов Тирии. Вот подборка его работ в память о его вкладе."
 A mysterious portal swirls in front of you.,Перед вами кружится загадочный портал.
-A mí me lo vas a contar,
 A natural barrier.,Естественная преграда.
 A necrotic field is shielding the Awakened Inquest facility.,Некротическое поле прикрывает объект Инквеста Пробуждённых.
 "A new Overlord was resently selected. First and foremost, he has to die. Beyond that, we need the inflict as much damage as we can on the Harathi. Deplete their numbers, and destroy what you can.","Недавно избрали нового Владыку. Прежде всего, он должен умереть. Кроме того, нам нужно нанести Харати как можно больший урон. Проредить их ряды и разрушить всё, что сможете."
@@ -493,8 +467,6 @@ A tidy tavern is like a safe harbor in a storm.,Опрятная таверна 
 A tiny dolyak. Or is it?,Крошечный дольяк. Или нет?
 A titan...?,Титан...?
 "A toast to our savior, with fresh clean water! Cheers!",Тост за нашего спасителя — свежей чистой водой! Ваше здоровье!
-A toda costa,
-A toda potencia,
 A trap that belches boiling steam.,"Ловушка, изрыгающая кипящий пар."
 A trout fished from the lake makes for the beginnings of a favored tengu dish.,"Форель, выловленная в озере, — начало любимого блюда тенгу."
 A verification sequence is far too easy to reverse engineer. I'll need something a bit more...powerful.,Последовательность проверки слишком легко разобрать на части. Мне понадобится что-то посерьёзнее... помощнее.
