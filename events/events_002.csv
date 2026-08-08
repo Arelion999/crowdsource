@@ -124,7 +124,7 @@ Attacking Force Strength,Сила атакующих сил
 Attend the particularly posh party,Посетите эту невероятно пафосную вечеринку
 Attendants of Sorrows killed,Прислужников Sorrows убито
 Attention inquest!,"Внимание, Inquest!"
-Audience hype:,Ажиотаж аудитории:
+Audience Hype: %num1%%%,
 Augh! There's too many of them! The supplies will be damned! Let's get outta here!,Аргх! Их слишком много! К черту припасы! Уходим отсюда!
 "Augh, not again! I've had it with these beetles!","Аргх, опять! С меня хватит этих жуков!"
 Aural Sequencer 1,Aural Sequencer 1
@@ -446,7 +446,7 @@ Branded creatures are starting to swarm. They're heading this way!,Сущест�
 Branded debris destroyed,Обломки Клейменных уничтожены
 Branded devourerer nests destroyed,Гнезда клейменных пожирателей уничтожены
 Branded have spotted us!,Клейменые нас заметили!
-Branded population remaining: x%,Осталось Клейменых: x%
+Branded population remaining: %num1%%%,
 Branded remaining: x,Осталось помеченных: x
 Branded swarm strength: x%,Сила роя Клейменных: x%
 Branded waves defeated,Волны Branded побеждены

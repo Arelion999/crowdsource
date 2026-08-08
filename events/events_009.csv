@@ -286,9 +286,9 @@ Energized Bloodstone,Заряженный кровавый камень
 Energy Harvested,Энергии собрано
 Energy Relays remaining: x,Осталось энергетических реле: x
 Energy drained:,Энергии вытянуто:
-Energy gathered: x%,Энергии собрано: x%
+Energy gathered: %num1%%%,
 Energy storage units remaining: 5,Осталось единиц хранения энергии: 5
-Energy stored: x%,Энергии накоплено: x%
+Energy stored: %num1%%%,
 Engage Kralkatorrik,Атаковать Kralkatorrik
 Engage Qadim's final challenge.,Примите участие в финальном испытании Qadim.
 Engage the Orrian Spectral Hammer,Атакуйте Orrian Spectral Hammer

@@ -67,7 +67,7 @@ Desperate Medicine,Отчаянная медицина
 "Despite the fact that Pete was still alive (a joke on the mayor's part, I now realize), his word wasn't quite enough. Mayor Osborne insisted I ""make a few more Hullgardeners happy"" before he'd give me any info on the Inquest's whereabouts. I pitched in around town, helping these castaway survivors in all manner of tasks; beautiful as this land is, surviving on it is no easy feat. I found the Hullgardeners to be a hearty, resilient bunch, if not particularly trusting.","Несмотря на то, что Pete был еще жив (шутка мэра, как я теперь понимаю), его слова было недостаточно. Мэр Osborne настоял, чтобы я «сделал еще нескольких жителей Hullgarden счастливыми», прежде чем он даст мне какую-либо информацию о местонахождении Инквезиции. Я помогал в городе, выполняя всевозможные поручения для этих выживших; как бы прекрасна ни была эта земля, выжить на ней непросто. Я обнаружил, что жители Hullgarden — сердечные, стойкие люди, пусть и не особо доверчивые."
 "Despite their ferocious appearance, wallows are actually quite docile and make for lovely companions. Canthan farmers use them to dig up truffles, as well as to protect themselves from hostile wildlife. —Acht","Несмотря на свирепый вид, кабаны на самом деле довольно миролюбивы и становятся прекрасными компаньонами. Кантские фермеры используют их для поиска трюфелей, а также для защиты от враждебной дикой природы. — Ахт"
 Destroy 10 Enemy Supply Caravans in World vs. World,Уничтожьте 10 вражеских караванов с припасами в режиме «Мир против мира»
-Destroy Brandstone Elementals: x,Уничтожь Brandstone Elementals: x
+Destroy Brandstone Elementals: %num1%,
 Destroy Death-Branded Deputy Qais.,Уничтожь Death-Branded Deputy Qais.
 Destroy Kralkatorrik's heart.,Уничтожьте сердце Kralkatorrik.
 Destroy Rotten Material the Titan Draws Power From,"Уничтожить гнилую материю, из которой титан черпает силу"
@@ -145,7 +145,7 @@ Detonate the Dominion charges.,Взорвать заряды Dominion.
 Devastation,Опустошение
 Devasting. The only word fit to describe this turn of events. But let me start from the beginning.,"Опустошительно. Единственное слово, подходящее для описания этого поворота событий. Но позвольте мне начать с самого начала."
 Devices planted,Устройств установлено
-Devices planted:,Устройства установлены:
+Devices planted: %num1%/%num2%,
 "Devices? What sort of devices? That is unsettling news, Commander. What can we do to support you?","Устройства? Что за устройства? Это тревожные новости, Коммандир. Чем мы можем вам помочь?"
 Devise a plan with the others.,Разработай план с остальными.
 Devise a plan with your allies.,Разработайте план вместе с союзниками.

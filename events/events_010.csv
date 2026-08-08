@@ -361,7 +361,7 @@ Firefly Luminescences,Люминесценции светлячков
 Fires Extinguished,Пожары потушены
 Fires Remaining: 8,Осталось пожаров: 8
 Fires remaining: 16,Осталось пожаров: 16
-Fires remaining: x,Осталось пожаров: x
+Fires remaining: %num1%,
 Fires still burning: x,Осталось пожаров: x
 Firewatch Encampment,Лагерь Firewatch
 Firewood,Дрова
@@ -414,7 +414,7 @@ Flame Legion braziers ignited,Жаровни Легиона Огня зажже�
 Flame Legion determination: x%,Решимость Легиона Пламени: x%
 Flame Legion effigies killed,Уничтожено чучел Flame Legion
 Flame Legion is casting a ritual.,Легион Огня проводит ритуал.
-Flame Legion morale: x%,Боевой дух Легиона Пламени: x%
+Flame Legion morale: %num1%%%,
 Flame Legion morale: xx%,Боевой дух Легиона Пламени: xx%
 Flame Legion reinforcements in: 10:00,Подкрепление Flame Legion через: 10:00
 Flame Legion remaining:,Осталось Легиона Пламени:

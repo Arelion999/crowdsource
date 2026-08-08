@@ -7,16 +7,16 @@ Supply containers remaining,Осталось контейнеров с прип�
 Supply crates remaining: 7,Осталось ящиков с припасами: 7
 "Supply in Depot: x of 1,400.",Припасов на складе: x из 1400.
 Supply in Depot: x of 100-700.,Припасы на складе: x из 100-700.
-Supply in Depot: x of 100.,Запас в хранилище: x из 100.
-Supply in Depot: x of 150.,Припасов на складе: x из 150.
-Supply in Depot: x of 225.,Припасы на складе: x из 225.
-Supply in Depot: x of 300.,Припасов на складе: x из 300.
-Supply in Depot: x of 350.,Припасов на складе: x из 350.
-Supply in Depot: x of 500.,Припасов на складе: x из 500.
-Supply in Depot: x of 550.,Припасы на складе: x из 550.
-Supply in Depot: x of 750.,Припасов на складе: x из 750.
-Supply in Depot: x of x.,Припасов на складе: x из x.
-Supply in Depot: x of y.,Припасов на складе: x из y.
+Supply in Depot: %num1% of %num2%.,
+Supply in Depot: %num1% of %num2%.,
+Supply in Depot: %num1% of %num2%.,
+Supply in Depot: %num1% of %num2%.,
+Supply in Depot: %num1% of %num2%.,
+Supply in Depot: %num1% of %num2%.,
+Supply in Depot: %num1% of %num2%.,
+Supply in Depot: %num1% of %num2%.,
+Supply in Depot: %num1% of %num2%.,
+Supply in Depot: %num1% of %num2%.,
 Supply shipment ready in: x:xx,Партия припасов готова через: x:xx
 Supply tent:,Палатка снабжения:
 Support Commander Batista's offensive against the Separatists,Поддержите наступление Коммандир Batista на Сепаратистов
@@ -181,7 +181,7 @@ Talk with Rebel Keyon,Поговорить с повстанцем Keyon
 Talked to one of the guards earlier. Still no word on MinSec's travel restrictions being lifted.,Ранее говорил с одним из стражников. До сих пор нет новостей о снятии ограничений на передвижение от MinSec.
 Tallying votes in: 3:00,Подсчет голосов через: 3:00
 Talooboo's Shark,Акула Talooboo
-Tamini Morale: x%,Боевой дух Tamini: x%
+Tamini morale: %num1%%%,
 Tamini centaurs morale: x%,Боевой дух кентавров Tamini: x%
 Tanek flees in: 10:00,Tanek сбежит через: 10:00
 Tanners' Bliss,Блаженство дубильщиков
@@ -226,7 +226,7 @@ Tenrat,Tenrat
 Tents constructed,Палаток построено
 Tents remaining: 5,Осталось палаток: 5
 Terminals sabotaged,Терминалов саботировано
-Termite attack strength: x%,Сила атаки термитов: x%
+Termite attack strength: %num1%%%,
 "Terrific. More zealots spoiling the lake. Bane, go find us some assistance. You two, follow me.","Потрясающе. Еще больше фанатиков портят озеро. Bane, иди найди нам помощь. Вы двое, за мной."
 Terrified Villager,Испуганный житель
 Tertiary Svanir Ballista,Третичная баллиста Svanir

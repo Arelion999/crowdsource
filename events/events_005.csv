@@ -2,7 +2,7 @@ english,translate
 Consortium Item,Предмет Консорциума
 Construct disappears in: 15:00,Конструкт исчезнет через: 15:00
 Construction Complete,Строительство завершено
-Construction Complete: X%,Строительство завершено: x.
+Construction complete: %num1%%%,
 Consuming Arctic Kelp in 0:xx,Потребление арктической ламинарии через 0:xx
 Containing the Scarab Plague,Сдерживание чумы скарабеев
 Containment Cell Power Node,Узел питания камеры содержания
@@ -78,7 +78,7 @@ Cows herded,Коровы согнаны
 Cows needed: x,Нужно коров: x
 Cows returned,Коров возвращено
 Coztic Itzel killed: 0/X (between 2 and 6 depending on the number of players nearby),Coztic Itzel убито: 0/X (от 2 до 6 в зависимости от количества игроков поблизости)
-Crab Island infestation: x%,Заражение острова крабами: x%
+Crab Island infestation: %num1%%%,
 Crab Scuttle,Крабья походка
 Crabs Calmed,Крабы успокоены
 Crabs Guided to Ritual Location,Крабы направлены к месту ритуала
@@ -138,11 +138,11 @@ Crystal Bloom Reflector B,Отражатель Crystal Bloom B
 Crystal Bloom Reflector C,Отражатель Crystal Bloom C
 Crystal Bloom Reflector D,Отражатель Crystal Bloom D
 Crystal Defender waves killed,Волн Crystal Defender убито
-Crystal pylons: x,Кристаллические пилоны: x
+Crystal pylons: %num1%,
 Crystals Recovered,Кристаллов собрано
 Crystals stolen,Украдено кристаллов
 Crystals—replete—with—gathered—data. The—creator—will—be—so—happy.,Кристаллы—полны—собранных—данных. Создатель—будет—так—счастлив.
-Cuatl Morale: x%,Боевой дух Cuatl: x%
+Cuatl morale: %num1%%%,
 Cub Confidence Level,Уровень уверенности детенышей
 Cubs remaining: 5,Осталось детенышей: 5
 Cubs remaining: : 5,Осталось детенышей: : 5

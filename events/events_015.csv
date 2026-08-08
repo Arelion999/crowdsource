@@ -170,7 +170,7 @@ Level: X,Уровень: X
 "Leverage that... innovative spirit of yours, yes?","Используй этот... свой новаторский дух, да?"
 Levers activated,Рычагов активировано
 Ley Energy,Магическая энергия
-Ley line samples collected: x%,Образцы линий магии собраны: x%
+Ley line samples collected: %num1%%%,
 Ley-Infused Branded Devourer,Зараженный магическими линиями Клейменый Пожиратель
 Ley-Infused Branded Hydra,Ley-Infused Branded Hydra
 Ley-Infused Nature Elemental,Ley-Infused Nature Elemental
@@ -368,7 +368,7 @@ Makeshift Militia morale: xx%,Боевой дух ополчения: xx%
 Making it look too easy! Time to switch up activities!.,Слишком легко! Время сменить занятие!
 Malchor's Resolve,Решимость Malchor
 Malfunctioning Toys Remaining,Осталось неисправных игрушек
-Malfunctioning golems: x,Неисправные големы: x
+Malfunctioning golems: %num1%,
 Malignant Coalescence,Злобная коалесценция
 Malik,Malik
 Maneuver the ancient karka back toward its nesting grounds,Загоните древнюю карку обратно к ее гнездовью
@@ -376,7 +376,7 @@ Maneuver the ancient karka back toward its nesting grounds,Загоните др
 Map closes in: 2:00:00,Карта закроется через: 2:00:00
 Marik Grimeclaw,Marik Grimeclaw
 Mark I golemites killed,Убито големитов Mark I
-Mark II golem's power: x%,Мощность голема Mark II: x%
+Mark II golem's power: %num1%%%,
 Mark IV Mobile Bomb,Мобильная бомба Mark IV
 Mark V Golem,Голем Mark V
 Marse Scythetail,Marse Scythetail

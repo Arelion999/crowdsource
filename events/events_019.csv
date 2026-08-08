@@ -12,7 +12,7 @@ Refugees Alive: x,Беженцев в живых: x
 Refugees Rescued,Беженцев спасено
 Refugees alive: 4,Беженцев в живых: 4
 Refugees captured,Беженцев захвачено
-Refugees downed: x,Беженцев повержено: x
+Refugees downed: %num1%,
 Refugees gathered,Беженцы собраны
 Refugees in need of help,"Беженцы, нуждающиеся в помощи"
 Regain Control of the Capture Point to Continue the Spell,"Верните контроль над точкой захвата, чтобы продолжить заклинание"
@@ -401,7 +401,7 @@ Risen killed,Risen убито
 Risen krait arcanoss escaping in 7:00,Risen krait arcanoss сбежит через 7:00
 Risen krait harpoons destroyed,Гарпунов Восставших крайт уничтожено
 Risen mines destroyed,Мин Risen уничтожено
-Risen mob strength: x%,Сила толпы Risen: x%
+Risen mob strength: %num1%%%,
 Risen regroup to assault Stygian Deeps in: x:xx,Risen перегруппируются для штурма Stygian Deeps через: x:xx
 Risen reinforcements arive: 8:00,Прибытие подкреплений Risen: 8:00
 Risen remaining,Осталось Восставших
@@ -409,13 +409,13 @@ Risen remaining: %num1%,
 Risen remaining: 10,Осталось оживших: 10
 Risen remaining: 23,Осталось Ризенов: 23
 Risen remaining: 9,Осталось Risen: 9
-Risen remaining: x,Осталось восставших: x
-Risen remaining: x%,Осталось Risen: x%
+Risen remaining: %num1%%%,
+Risen remaining: %num1%%%,
 Risen replicators destroyed,Уничтожено Risen репликаторов
 Risen rot mouths killed,Убито гнилоротых Risen
 Risen sea turtles killed,Морские черепахи Восставших убиты
 Risen shark waves remaining,Оставшиеся волны акул Восставших
-Risen swarm strength: x%,Сила роя Risen: x%
+Risen swarm strength: %num1%%%,
 Risen waves,Волны Risen
 Risen waves defeated,Волн Risen побеждено
 Risen waves defeated: 0/8,Волн Risen побеждено: 0/8
@@ -432,7 +432,7 @@ Ritual completes in: 5:00,Ритуал завершится через: 5:00
 Ritual completes in: 8:00,Ритуал завершится через: 8:00
 Ritual fails in: 8:00,До провала ритуала: 8:00
 Ritual preparation must be completed in: 8:00,Подготовка к ритуалу должна быть завершена через: 8:00
-Ritual progress: x%,Прогресс ритуала: x%
+Ritual progress: %num1%%%,
 Ritual's Progress,Ход ритуала
 Ritualist Josa,Ритуалист Джоса
 Ritualist Progress,Прогресс ритуала

@@ -48,7 +48,7 @@ Saw Conveyor/Central Conveyor/Eastern Crane/Eastern Conveyor/Western Crane,Пи�
 Scanners Remaining remaining: X,Осталось сканирований: x
 Scarab Swarm Remaining,Осталось роев скарабеев
 Scarecrow,Пугало
-Scarecrows remaining: x,Осталось пугал: x
+Scarecrows remaining %num1%,
 Scarlet Minions defeated,Прислужники Scarlet побеждены
 Scarlet has called in Aetherblade reinforcements!,Scarlet вызвала подкрепление Aetherblade!
 Scarlet has summoned the Molten Alliance to the battle!,Scarlet призвала Molten Alliance в битву!
@@ -157,7 +157,7 @@ See? Quaggan's plenty tough. Quaggan has what it takes to be a pirate.,"Види
 Seeds,Семена
 Seek assistance from Magister Arnlief Iceborne north of Pinion Pass.,Обратись за помощью к Magister Arnlief Iceborne к северу от Pinion Pass.
 Seek out Agent Kashud: 0/1,Найдите Agent Kashud: 0/1
-Seekers alive: X,Искатели живы: x
+Seekers alive: %num1%,
 Seems I'll have to fight my way out.,"Похоже, придется пробиваться с боем."
 "Seems like a waste, applying this type of foresight to inventory planning.",Кажется пустой тратой времени применять такой расчет к планированию инвентаря.
 "Seen anything suspicious, soldier?","Видел что-нибудь подозрительное, солдат?"
@@ -190,7 +190,7 @@ Separatist attacker morale: x%,Боевой дух атакующих сепар
 Separatist buildings destroyed,Зданий сепаратистов разрушено
 Separatist ground crew morale: x%,Боевой дух наземной команды сепаратистов: x%
 Separatist groups,Групп сепаратистов
-Separatist morale: x%,Боевой дух сепаратистов: x%
+Separatist morale: %num1%%%,
 Separatists killed,Сепаратистов убито
 Separatists remaining: 100%,Сепаратистов осталось: 100%
 Separatists!,Сепаратисты!
@@ -212,7 +212,7 @@ Sergeant Lund,Sergeant Lund
 Seric retreats in: 8:00,Seric отступит через: 8:00
 Serpents' Ire,Гнев змеев
 Servants alive: x,Слуг в живых: x
-Servants to be revived: x,Слуг нужно оживить: x
+Servants to be revived: %num1%,
 Set Seraph Traps,Установите ловушки Seraph
 Set up a minefield,Установи минное поле
 Set up the gastric dispersion devices,Установите устройства для рассеивания газов
@@ -382,14 +382,14 @@ Skritt cave support destroyed,Опора пещеры скиттов уничт�
 Skritt did it! Together anything is possible!,Скритты сделали это! Вместе возможно всё!
 Skritt exterminated,Скриттов уничтожено
 Skritt fools. Stop trying to break the kegs!,Глупые скритты. Перестаньте пытаться сломать бочонки!
-Skritt morale: X%,Боевой дух skritt: X%
+Skritt morale: %num1%%%,
 Skritt outrunners alive,Скритты-бегуны живы
 Skritt packs remaining: x,Осталось стай Skritt: x
 Skritt poisoned,Отравлено skritt
 Skritt retreat in: 0:30,Скритты отступят через: 0:30
 Skritt sacrified in: 7:00,Skritt принесено в жертву: 7:00
 Skritt sobered,Скритт протрезвел
-Skritt solidarity: x%,Солидарность скриттов: x%
+Skritt solidarity: %num1%%%,
 Skritt subdued,Скриттов усмирено
 Skritt thieves alive: x,Живых воров-скриттов: x
 Skritt to be revieved,Скритт будет воскрешен.
@@ -399,7 +399,7 @@ Skritt! I'll hold the line here. Go find help.,Сквитты! Я буду де�
 Skrittsburgh Center (meta event),Центр Skrittsburgh (мета-событие)
 Skyhammer platform ready for teleporation in: 0:30,Платформа Skyhammer будет готова к телепортации через: 0:30
 Skyscales Calmed,Небесные чешуйники успокоены
-Skyscales transported safely: x,Скайскейлов перевезено безопасно: x
+Skyscales transported safely: %num1%,
 Slabs of Wurm Meat,Куски мяса червя
 Slave cells destroyed,Клетки рабов уничтожены
 Slay Draithor before he experiments on captives,"Убей Draithor, пока он не начал ставить эксперименты на пленных"
@@ -445,7 +445,7 @@ Slishaa,Slishaa
 Sloth Feeder,Кормилец ленивца
 Sloth Queen,Королева ленивцев
 Slublings lost,Потеряно slublings
-Sludge reservoir filled: x%,Резервуар со слизью заполнен: x%
+Sludge reservoir filled: %num1%%%,
 Smack 'em extra hard!,Бить их как следует!
 Small one cute. You stay with me.,Мелкий забавный. Ты останешься со мной.
 Smash 'em?,Разнести их?

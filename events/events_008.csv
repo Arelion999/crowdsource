@@ -265,7 +265,7 @@ Destroy the ravenous wanderer,Уничтожьте ravenous wanderer
 Destroy the remaining threats (Abyssal),Уничтожьте оставшиеся угрозы (Бездны)
 Destroy the remaining threats (Mushroom King),Уничтожьте оставшиеся угрозы (Король грибов)
 Destroy the remaining threats (Twisted Skelk),Уничтожьте оставшиеся угрозы (Twisted Skelk)
-Destroy the replicators: x remaining,Уничтожьте репликаторы: осталось x
+Destroy the replicators: %num1% remaining,
 Destroy the roadblock the bandits have constructed to stop Shaemoor traffic,"Уничтожьте баррикаду, которую бандиты построили, чтобы перекрыть движение к Shaemoor"
 Destroy the ships carrying corsair reinforcements,"Уничтожьте корабли, доставляющие подкрепление корсаров"
 Destroy the southeast control pylon,Уничтожьте юго-восточный контрольный пилон
@@ -289,12 +289,12 @@ Destroy! Destroy! Destroy!,Уничтожить! Уничтожить! Унич�
 Destroyer Crystal Containment,Контейнер с кристаллом Разрушителей
 Destroyer Fissure,Разлом разрушителей
 Destroyer attack ends in,Атака Destroyer закончится через
-Destroyer attack force: x%,Ударная группа разрушителей: x%
+Destroyer attack force: %num1%%%,
 Destroyer burrows destroyed,Нор разрушителей уничтожено
 Destroyer burrows destroyed: X/6,Норы разрушителей уничтожены: X/6
 Destroyer fissures destroyed,Разломы разрушителей закрыты
 Destroyer invader morale,Боевой дух захватчиков-разрушителей
-Destroyer swarm fury: x%,Ярость роя destroyers: x%
+Destroyer swarm fury: %num1%%%,
 Destroyer waves defeated,Волны destroyers побеждены
 Destroyer-Essence Golem,Голем с эссенцией Разрушителя (Destroyer-Essence Golem)
 Destroyers Remaining,Осталось разрушителей
@@ -480,7 +480,7 @@ Dredge Tower,Башня dredge
 Dredge Transport,Транспорт дреджей
 Dredge Weapons Guard,Dredge Weapons Guard
 Dredge controllers killed,Убито контроллеров дреджей
-Dredge forces remaining: x%,Осталось сил dredge: x%
+Dredge forces remaining: %num1%%%,
 Dredge logger morale,Боевой дух лесорубов-дреджей
 Dredge morale: x%,Боевой дух Дреджей: x.
 Dredge occupationist morale: x%,Боевой дух оккупантов-дреджей: x%

@@ -1058,29 +1058,111 @@ events/events_022.csv,194,Targets destroyed: %num1%,Цели уничтожен�
 events/events_022.csv,223,Tengu contestant score: %num1%,Счет участника tengu:
 main/main_005.csv,89,+%num1%,+
 main/main_006.csv,221,-%num1%,-
-misc/misc_012.csv,448,%num1% Gold,Золото
 new/new_006.csv,57,%num1% Champion[s] Defeated,Чемпион побеждён
 new/new_007.csv,253,Complete %num2% events in the Crystal Desert region.,Завершайте события в регионе Кристальная пустыня.
 new/new_115.csv,360,%num1% Arrow[s],Стрела
-new/new_115.csv,442,%num1% Available,Доступно
-new/new_117.csv,353,%num1% Energy,Энергия
-new/new_117.csv,383,%num1% Essence,Эссенция
 new/new_118.csv,453,%num1% Illusion[s],Иллюзия
-new/new_119.csv,248,Level %num1%,Уровень
-new/new_119.csv,396,%num1% Max,Макс
 new/new_120.csv,418,%num1% Note[s],Записка
-new/new_121.csv,13,%num1% Owned,Есть
-new/new_123.csv,43,Tier %num1%,Уровень
-new/new_123.csv,430,%num1% XP,XP
-ui/ui_049.csv,464,Cubs found: %num1%,Найдено детенышей:
-ui/ui_063.csv,249,Fashion Template %num1%,Шаблон моды
-ui/ui_077.csv,254,%num1% Hero Points Earned,Заработано очков героя
 ui/ui_114.csv,396,Read %num2% field notes.,Прочитать полевые заметки.
-ui/ui_121.csv,374,Recommended Players: %num1%,Рекомендуемые игроки:
-ui/ui_127.csv,372,Scouts found: %num1%,Разведчики нашли:
-ui/ui_140.csv,136,Supply: %num1%,Снабжение:
 ui/ui_150.csv,304,Tier %num1% Complete,Уровень завершён
-ui/ui_150.csv,323,Tier: %num1%,Уровень:
 ui/ui_151.csv,429,Total Cost: %num1%,Общая стоимость:
-ui/ui_156.csv,113,%num1% Unspent Hero Points,Нерастраченные очки героя
-ui/ui_156.csv,115,%num1% Unspent Trait Points,Нерастраченные очки талантов
+ach/ach_030.csv,268,Transfer power to %num2% jade lantern[s] at points of interest in the Echovald Wilds. These lanterns will only appear after 100%% map exploration.,Передайте энергию нефритовому фонарю в точках интереса в Echovald Wilds. Эти фонари появятся только после 100% исследования карты.
+ach/ach_030.csv,269,Transfer power to %num2% jade lanterns at points of interest in Dragon's End. These lanterns will only appear after 100%% map exploration.,Передайте энергию нефритовым фонарям в точках интереса в Dragon's End. Эти фонари появятся только после 100% исследования карты.
+ach/ach_030.csv,270,Transfer power to %num2% jade lanterns at points of interest in New Kaineng City. These lanterns will only appear after 100%% map exploration.,Передайте энергию нефритовым фонарям в точках интереса в New Kaineng City. Эти фонари появятся только после 100% исследования карты.
+ach/ach_030.csv,271,Transfer power to %num2% jade lanterns at points of interest in Seitung Province. These lanterns will only appear after 100%% map exploration.,Передайте энергию нефритовым фонарям в точках интереса в Seitung Province. Эти фонари появятся только после 100% исследования карты.
+ach/ach_030.csv,272,Transfer power to %num2% lanterns at points of interest in Amnytas. These lanterns will only appear after 100%% map exploration.,Передайте энергию фонарям в точках интереса в Amnytas. Эти фонари появятся только после 100% исследования карты.
+ach/ach_030.csv,274,Transfer power to %num2% lanterns at points of interest in Skywatch Archipelago. These lanterns will only appear after 100%% map exploration.,Передайте энергию фонарям в точках интереса в Skywatch Archipelago. Эти фонари появятся только после 100% исследования карты.
+events/events_001.csv,501,Ascalonians remaining: %num1%%%,Осталось Ascalonians: x%
+events/events_002.csv,127,Audience Hype: %num1%%%,Ажиотаж аудитории:
+events/events_002.csv,449,Branded population remaining: %num1%%%,Осталось Клейменых: x%
+events/events_003.csv,303,Centaur control: %num1%%%,Контроль кентавров: x%
+events/events_005.csv,5,Construction complete: %num1%%%,Строительство завершено: x.
+events/events_005.csv,81,Crab Island infestation: %num1%%%,Заражение острова крабами: x%
+events/events_005.csv,141,Crystal pylons: %num1%,Кристаллические пилоны: x
+events/events_005.csv,145,Cuatl morale: %num1%%%,Боевой дух Cuatl: x%
+events/events_008.csv,268,Destroy the replicators: %num1% remaining,Уничтожьте репликаторы: осталось x
+events/events_008.csv,292,Destroyer attack force: %num1%%%,Ударная группа разрушителей: x%
+events/events_008.csv,297,Destroyer swarm fury: %num1%%%,Ярость роя destroyers: x%
+events/events_008.csv,483,Dredge forces remaining: %num1%%%,Осталось сил dredge: x%
+events/events_009.csv,289,Energy gathered: %num1%%%,Энергии собрано: x%
+events/events_009.csv,291,Energy stored: %num1%%%,Энергии накоплено: x%
+events/events_010.csv,364,Fires remaining: %num1%,Осталось пожаров: x
+events/events_010.csv,417,Flame Legion morale: %num1%%%,Боевой дух Легиона Пламени: x%
+events/events_011.csv,19,Forged Siege Strength: %num1%%%,Сила осадных орудий Forged: x%
+events/events_012.csv,324,Heroes standing ready: %num1%,Герои наготове: x
+events/events_013.csv,434,Inquest determination: %num1%%%,Решимость Inquest: x%
+events/events_013.csv,439,Inquest morale: %num1%%%,Боевой дух Inquest: x%
+events/events_013.csv,446,Inquest remaining: %num1%%%,Осталось Inquest: x%
+events/events_015.csv,173,Ley line samples collected: %num1%%%,Образцы линий магии собраны: x%
+events/events_015.csv,371,Malfunctioning golems: %num1%,Неисправные големы: x
+events/events_015.csv,379,Mark II golem's power: %num1%%%,Мощность голема Mark II: x%
+events/events_016.csv,61,Morgatl hylek morale: %num1%%%,Боевой дух гилеков Morgatl: x%
+events/events_016.csv,200,Nightmare Court morale: %num1%%%,Боевой дух Nightmare Court: x%
+events/events_016.csv,437,Ogre morale: %num1%%%,Боевой дух огров: x%
+events/events_017.csv,57,Optional - Stop frenzied skritt: %num1%,Дополнительно - Остановите обезумевших скриттов: x
+events/events_017.csv,201,Pact morale: %num1%%%,Боевой дух Pact: x%
+events/events_017.csv,249,Pen capacity: %num1%%% full,Загон заполнен на: x%
+events/events_017.csv,307,Pirate Strength: %num1%%%,Сила пиратов: x%
+events/events_017.csv,343,Players remaining: %num1%,Осталось игроков: X
+events/events_018.csv,440,Reactor output: %num1%%%,Мощность реактора: x%
+events/events_019.csv,15,Refugees downed: %num1%,Беженцев повержено: x
+events/events_019.csv,404,Risen mob strength: %num1%%%,Сила толпы Risen: x%
+events/events_019.csv,412,Risen remaining: %num1%%%,Осталось восставших: x
+events/events_019.csv,413,Risen remaining: %num1%%%,Осталось Risen: x%
+events/events_019.csv,418,Risen swarm strength: %num1%%%,Сила роя Risen: x%
+events/events_019.csv,435,Ritual progress: %num1%%%,Прогресс ритуала: x%
+events/events_020.csv,51,Scarecrows remaining %num1%,Осталось пугал: x
+events/events_020.csv,160,Seekers alive: %num1%,Искатели живы: x
+events/events_020.csv,193,Separatist morale: %num1%%%,Боевой дух сепаратистов: x%
+events/events_020.csv,215,Servants to be revived: %num1%,Слуг нужно оживить: x
+events/events_020.csv,385,Skritt morale: %num1%%%,Боевой дух skritt: X%
+events/events_020.csv,392,Skritt solidarity: %num1%%%,Солидарность скриттов: x%
+events/events_020.csv,402,Skyscales transported safely: %num1%,Скайскейлов перевезено безопасно: x
+events/events_020.csv,448,Sludge reservoir filled: %num1%%%,Резервуар со слизью заполнен: x%
+events/events_021.csv,213,Stampeding minotaurs remaining: %num1%%%,Осталось бушующих минотавров: x%
+events/events_021.csv,464,Success! Overcharge the golem to make him more powerful. Level: %num1%,"Успех! Перегрузите голема, чтобы сделать его сильнее. Уровень: x"
+events/events_021.csv,477,Summoned imps remaining: %num1%,Осталось призванных бесов: x
+events/events_021.csv,495,Supplies remaining: %num1%,Осталось припасов: X
+events/events_021.csv,496,Supplies remaining: %num1%,Осталось припасов: X/?
+events/events_022.csv,10,Supply in Depot: %num1% of %num2%.,Запас в хранилище: x из 100.
+events/events_022.csv,11,Supply in Depot: %num1% of %num2%.,Припасов на складе: x из 150.
+events/events_022.csv,12,Supply in Depot: %num1% of %num2%.,Припасы на складе: x из 225.
+events/events_022.csv,13,Supply in Depot: %num1% of %num2%.,Припасов на складе: x из 300.
+events/events_022.csv,14,Supply in Depot: %num1% of %num2%.,Припасов на складе: x из 350.
+events/events_022.csv,15,Supply in Depot: %num1% of %num2%.,Припасов на складе: x из 500.
+events/events_022.csv,16,Supply in Depot: %num1% of %num2%.,Припасы на складе: x из 550.
+events/events_022.csv,17,Supply in Depot: %num1% of %num2%.,Припасов на складе: x из 750.
+events/events_022.csv,18,Supply in Depot: %num1% of %num2%.,Припасов на складе: x из x.
+events/events_022.csv,19,Supply in Depot: %num1% of %num2%.,Припасов на складе: x из y.
+events/events_022.csv,184,Tamini morale: %num1%%%,Боевой дух Tamini: x%
+events/events_022.csv,229,Termite attack strength: %num1%%%,Сила атаки термитов: x%
+events/events_024.csv,289,Total fish caught: %num1%,Всего поймано рыб: x
+events/events_024.csv,291,Total racers finished: %num1%,"Всего участников, финишировавших: x"
+events/events_024.csv,319,Toxifiers remaining: %num1%,Осталось токсификаторов: x
+events/events_024.csv,350,Treasure finders: %num1%,Искатели сокровищ: x
+events/events_024.csv,432,Undead remaining: %num1%%%,Осталось нежити:
+events/events_024.csv,441,Undead remaining: %num1%%%,Осталось нежити: x
+events/events_024.csv,442,Undead remaining: %num1%%%,Осталось нежити: x%
+events/events_025.csv,433,Water Purified: %num1%%%,Вода очищена: x%
+events/events_025.csv,450,Waves defeated: %num1%/%num2%,Волн отражено:
+events/events_027.csv,93,Young harpy morale: %num1%%%,Боевой дух молодых гарпий: X%
+events/events_027.csv,137,Zephyrites: %num1% Crystal Shard[s],Зефириты: X осколков кристалла
+events/events_027.csv,155,Zoydd's golems active: %num1%,Активных големов Zoydd: x
+events/events_027.csv,170,%num1%%% Branded Swarm Remaining,Осталось Branded Swarm: x%
+misc/misc_008.csv,287,Defeat Sons of Svanir: %num1%/%num2%,Победите Sons of Svanir:
+misc/misc_009.csv,70,Destroy Brandstone Elementals: %num1%,Уничтожь Brandstone Elementals: x
+misc/misc_009.csv,144,Devices planted: %num1%/%num2%,Устройства установлены:
+misc/misc_010.csv,80,Encourage citizens to get them to evacuate: %num1%,Убеди горожан эвакуироваться: x
+misc/misc_016.csv,111,Inquest dig sites examined: %num1%/%num2%,Места раскопок Inquest изучены:
+misc/misc_017.csv,172,Kill the Awakened: %num1%/%num2%,Убейте Awakened:
+misc/misc_018.csv,154,Log boxes found: %num1%/%num2%,Найдены журналы:
+misc/misc_020.csv,353,Optional logs: %num1%/%num2%,Дополнительные журналы:
+misc/misc_021.csv,437,Questions about Vloxx asked: %num1%/%num2%,"Вопросы, заданные о Vloxx:"
+misc/misc_022.csv,197,Remaining pressure plates found: %num1%/%num2%,Оставшиеся нажимные пластины найдены:
+misc/misc_022.csv,465,Revive Fallen Allies: %num1%,Воскресить павших союзников: x
+misc/misc_024.csv,301,Southern front seeds planted: %num1%,Семена на Южном фронте посажены:
+new/new_043.csv,90,Branded population remaining: %num1%%%,Осталось клеймёных:
+new/new_050.csv,154,Destroyer attack force: %num1%%%,Ударные силы разрушителей:
+new/new_098.csv,186,Termite attack strength: %num1%%%,Сила атаки термитов:
+ui/ui_053.csv,23,Defense: %num1%,ЗАЩИТА:
+ui/ui_168.csv,189,Your Funds: %num1%,Ваши средства:

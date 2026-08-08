@@ -17,15 +17,29 @@ src = sys.argv[1] if len(sys.argv) > 1 else None
 if not src:
     sys.exit("нужен путь к дампу: server_ref.py <list.csv>")
 
-rows = {r[1] for r in csv.reader(io.StringIO(open(src, "rb").read().decode("utf-8", errors="replace"),
-                                             newline=""))
-        if len(r) > 1 and r[1] and MARK.search(r[1])}
+every = {r[1] for r in csv.reader(io.StringIO(open(src, "rb").read().decode("utf-8", errors="replace"),
+                                              newline=""))
+         if len(r) > 1 and r[1]}
+rows = {s for s in every if MARK.search(s)}
+
+# Второй колонкой — есть ли в игре та же строка БЕЗ числа, сама по себе.
+# «Gold», «XP», «Tier: » существуют как подписи интерфейса рядом со счётчиками
+# «%num1% Gold», «%num1% XP», «Tier: %num1%». Для таких пар совпадение «наша
+# строка = серверная минус плейсхолдер» ничего не доказывает: наша копия скорее
+# всего и есть подпись, а не обрезок. Проверка обязана их пропускать.
+def bare(s):
+    return re.sub(r'\s+', ' ', re.sub(r'%num\d*%', '', s)).strip()
 
 os.makedirs(os.path.dirname(OUT), exist_ok=True)
 buf = io.StringIO(newline="")
 w = csv.writer(buf, lineterminator="\n")
-w.writerow(["english"])
+# Первая колонка НЕ «english»: иначе линтер примет эталон за батч и
+# начнёт проверять его сам с собой.
+w.writerow(["source", "bare_exists"])
+collide = 0
 for s in sorted(rows):
-    w.writerow([s])
+    b = bare(s) in every and bare(s) != s
+    collide += b
+    w.writerow([s, "1" if b else ""])
 open(OUT, "wb").write(buf.getvalue().encode("utf-8"))
-print("записано %d строк -> %s" % (len(rows), OUT))
+print("записано %d строк (из них %d с голым двойником) -> %s" % (len(rows), collide, OUT))

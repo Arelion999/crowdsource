@@ -286,9 +286,9 @@ Tosun,Tosun
 Total Grade Points Earned,Всего заработано баллов
 Total Meat Gathered,Всего собрано мяса
 Total devices cleared: x,Всего очищено устройств: x
-Total fish caught: x,Всего поймано рыб: x
+Total fish caught: %num1%,
 Total racers finished: 0,Всего финишировало гонщиков: 0
-Total racers finished: x,"Всего участников, финишировавших: x"
+Total racers finished: %num1%,
 Totem foci destroyed,Тотемные фокусы уничтожены
 "Touch me, you die! Call me ""ma'am"" again, you die! Again!",Тронешь меня — умрешь! Назовешь меня «мэм» еще раз — умрешь! Снова!
 "Touch one? You're kidding, right? I get that close, I'm raking and slashing with my claws. No touching.","Коснуться? Ты шутишь, да? Если я подхожу так близко, я рву и кромсаю когтями. Никаких касаний."
@@ -316,7 +316,7 @@ Toxic oozes returned,Токсичных слизней возвращено
 Toxic pools spotted on the fields. Stay out of them!,На полях замечены токсичные лужи. Держитесь от них подальше!
 Toxic wurm queen revives in: 0:30,Королева токсичных червей возродится через: 0:30
 Toxicity level,Уровень токсичности
-Toxifiers remaining: x,Осталось токсификаторов: x
+Toxifiers remaining: %num1%,
 Toxin Antidotes,Токсичные противоядия
 Toxins released in 3:30,Токсины будут выпущены через 3:30
 Toxx,Toxx
@@ -347,7 +347,7 @@ Traverse the Twisted Castle,Пройдите через Twisted Castle
 Treasure Hunter Gilbert,Охотник за сокровищами Gilbert
 Treasure Stolen,Сокровищ украдено
 Treasure discovered,Сокровища найдены
-Treasure finders: x,Искатели сокровищ: x
+Treasure finders: %num1%,
 Treasure remaining,Осталось сокровищ
 Treasured... Treasure is what you desire? Hrm...,Ценных... Сокровища — вот чего ты жаждешь? Хм...
 Trebuchet,Требушет
@@ -429,7 +429,7 @@ Undead Mesmer Illusion Chief,Главарь иллюзий нежити-месм
 Undead Mesmer Illusions Remaining,Осталось иллюзий нежити-месмера
 Undead Minions Occupy the Gorge,Восставших миньонов занимают ущелье
 Undead Remaining,Осталось нежити
-Undead Remaining:,Осталось нежити:
+Undead remaining: %num1%%%,
 Undead Spawner,Источник нежити
 Undead Strength,Сила нежити
 Undead Wave,Волна нежити
@@ -438,8 +438,8 @@ Undead are attacking from the east!,Нежить атакует с восток�
 Undead guards killed,Убито нежити
 Undead minions,Прислужники нежити
 Undead remaining: 8,Осталось нежити: 8
-Undead remaining: x,Осталось нежити: x
-Undead remaining: x%,Осталось нежити: x%
+Undead remaining: %num1%%%,
+Undead remaining: %num1%%%,
 Under no circumstances can we let the gate be shut down!,Ни при каких обстоятельствах мы не можем позволить закрыть ворота!
 Underwater scouts saw bombs in a ship at the bottom of Leeshore Gauntlet.,Подводные разведчики видели бомбы на корабле на дне Leeshore Gauntlet.
 Underwater? Okay. If we must.,"Под водой? Ладно. Если надо, так надо."

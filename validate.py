@@ -240,7 +240,12 @@ def load_server_strings(path=None):
     except OSError:
         return by_skel
     for i, r in enumerate(rows):
-        if i and r and r[0]:
+        # Вторая колонка помечает строки, у которых в игре есть голый двойник без
+        # числа: «Gold» существует рядом с «%num1% Gold», «Tier: » рядом с
+        # «Tier: %num1%». Для них совпадение «наша строка = серверная минус
+        # плейсхолдер» не доказывает ничего — наша копия скорее подпись, чем
+        # обрезок. Такие в индекс не берём вовсе.
+        if i and r and r[0] and not (len(r) > 1 and r[1].strip()):
             by_skel.setdefault(server_skel(r[0]), set()).add(r[0])
     return by_skel
 
