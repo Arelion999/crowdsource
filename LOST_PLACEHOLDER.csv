@@ -775,3 +775,242 @@ ach/ach_032.csv,396,"Win %num2% rated match[pl:""matches""] in the Sunjiang Back
 ach/ach_032.csv,397,"Win %num2% rated match[pl:""matches""] in the Temple of the Silent Storm.",Одержите победу в рейтинговом матче на карте Храм Безмолвного Шторма.
 ach/ach_032.csv,398,"Win %num2% rated match[pl:""matches""] on Revenge of the Capricorn.",Одержите победу в рейтинговом матче на карте Месть Козерога.
 ach/ach_033.csv,467,%num1% of %num2% Reward Skins Unlocked,из  разблокированных обликов наград
+ach/ach_003.csv,396,Bind %num2% unique legendary Perfected Envoy armor skin[s].,Привяжите уникальный облик легендарной брони Совершенного посланника.
+ach/ach_003.csv,397,Bind %num2% unique legendary weapon[s] or trinket[s].,Привяжите уникальное легендарное оружие или аксессуар.
+ach/ach_004.csv,103,"Break the Shatterer's defiance bar %num2% time[s], preventing its Shard Storm attack.","Сбейте шкалу стойкости Shatterer 1 раз, предотвратив его атаку «Шторм осколков»."
+ach/ach_004.csv,261,Capture %num2% keep[s].,Захватите крепость.
+ach/ach_004.csv,267,Capture %num2% ruin[s].,Захватите руины.
+ach/ach_004.csv,268,Capture %num2% special objective[s].,Захватите особую цель.
+ach/ach_004.csv,269,Capture %num2% supply camp[s].,Захватите лагерь снабжения.
+ach/ach_004.csv,270,Capture %num2% supply generator[s].,Захватите генератор снабжения.
+ach/ach_004.csv,271,Capture %num2% tower[s].,Захватите башню.
+ach/ach_005.csv,202,Collect %num2% unique legendary Obsidian armor skin[s].,Соберите уникальный легендарный облик Обсидиановой брони.
+ach/ach_005.csv,203,Collect %num2% unique legendary Suffused Obsidian armor skin[s].,Соберите уникальный легендарный облик Напитанной обсидиановой брони.
+ach/ach_005.csv,442,"Complete %num2% ""Flashpoint"" achievement[s].",Выполните достижение «Точка вспышки».
+ach/ach_005.csv,443,"Complete %num2% ""No Quarter"" achievement[s].",Выполните достижение «Никакой пощады».
+ach/ach_005.csv,444,"Complete %num2% ""Shadow in the Ice"" achievement[s].",Выполните достижение «Тень во льду».
+ach/ach_005.csv,445,Complete %num2% Aetherblade achievement[s].,Выполните достижение «Эфирный клинок».
+ach/ach_005.csv,446,Complete %num2% Aftermath achievement[s].,Выполните достижение «Последствия».
+ach/ach_005.csv,457,Complete %num2% Disable Inquest Cannon event[s].,Завершите событие «Отключить пушку Инквизиции».
+ach/ach_005.csv,458,Complete %num2% Dragon Bash achievement[s].,Выполните достижение «Праздник драконов».
+ach/ach_005.csv,459,Complete %num2% Dragon Response Mission[s].,Завершите миссию реагирования на драконов.
+ach/ach_005.csv,479,Complete %num2% PvP seasonal achievement[s].,Выполните сезонное PvP-достижение.
+ach/ach_006.csv,11,Complete %num2% Steel and Fire achievement[s].,Завершите достижение Steel and Fire.
+ach/ach_006.csv,12,Complete %num2% Tequatl achievement[s].,Завершите достижение Tequatl.
+ach/ach_006.csv,20,Complete %num2% WvW weekly achievement[s].,Завершите еженедельное достижение WvW.
+ach/ach_006.csv,146,Complete %num2% scarab beetle event[s].,Завершите событие со скарабеем.
+ach/ach_006.csv,147,"Complete %num2% specific ""Champions"" achievement[s].",Завершите указанное достижение «Champions».
+ach/ach_006.csv,150,Complete %num2% thorn wall event[s].,Завершите событие с терновой стеной.
+ach/ach_009.csv,17,Craft %num2% masterwork item[s].,Создайте предмет мастерского качества.
+ach/ach_010.csv,481,"Defeat %num2% Branded, Destroyer, Icebrood, or Mordrem enemy[pl:""enemies""].","Победите клейменого, разрушителя, ледяного выводка или мордема."
+ach/ach_011.csv,2,Defeat %num2% Queen's Gauntlet opponent[s].,Победите противника в Перчатке Королевы.
+ach/ach_011.csv,12,"Defeat %num2% centaur, Sons of Svanir, Inquest, Nightmare Court, or Flame Legion enemy[pl:""enemies""].","Победите кентавра, Сына Сванира, Инкест, Кошмарный Двор или врага Легиона Пламени."
+ach/ach_011.csv,29,"Defeat %num2% enemy[pl:""enemies""].",Победите врага.
+ach/ach_011.csv,30,"Defeat %num2% grawl, hylek, dredge, or krait enemy[pl:""enemies""].","Победите врагов из числа граулов, хайлеков, дреджей или крэйтов."
+ach/ach_012.csv,92,Defend %num2% objective[s].,Защитите объект.
+ach/ach_012.csv,253,Destroy %num2% bridge[s].,Уничтожьте мост.
+ach/ach_012.csv,296,Destroy energy probes or investigate energy probe wreckage in %num2% different map[s].,Уничтожьте энергетические зонды или исследуйте обломки энергетических зондов на разных картах.
+ach/ach_019.csv,217,Kill %num2% enemy supply caravan[s].,Убейте вражеский караван снабжения.
+ach/ach_019.csv,260,Kill %num2% player[s].,Убейте игрока.
+ach/ach_028.csv,204,Successfully complete %num2% (Weekly) Convergence[s]: Mount Balrior.,Успешно завершите (Еженедельно) Конвергенцию: Mount Balrior.
+ach/ach_028.csv,205,Successfully complete %num2% unique Weekly Convergence[s]: Mount Balrior with challenge mode active.,Успешно завершите уникальную еженедельную Конвергенцию: Mount Balrior с активным режимом испытания.
+ach/ach_028.csv,206,Successfully complete %num2% unique Weekly Convergence[s]: Outer Nayos with challenge mode active.,Успешно завершите уникальную еженедельную Конвергенцию: Outer Nayos с активным режимом испытания.
+ach/ach_028.csv,207,Successfully complete %num2% weekly Convergence[s].,Успешно завершите еженедельную Конвергенцию.
+ach/ach_028.csv,289,Successfully escort %num2% supply caravan[s].,Успешно сопроводите караван снабжения.
+ach/ach_032.csv,387,Win %num2% rated arena game[s].,Одержите победу в рейтинговой игре на арене.
+ach/ach_002.csv,108,Acquire %num2% hero points from hero challenges or by leveling with a character already at level 80.,"Получайте очки героя за испытания героев или при повышении уровня персонажем, уже достигшим 80-го уровня."
+ach/ach_003.csv,392,Bind %num2% Core Set 1 relics by crafting them or purchasing them from the Trading Post.Note: Relics from the Level-80 Boost will not count toward progress.,"Привяжите реликвии из базового набора 1, создав их или купив на Торговой площадке.Примечание: Реликвии, полученные при повышении уровня до 80, не учитываются в прогрессе."
+ach/ach_003.csv,394,Bind %num2% legendary rune.(Players with existing legendary runes can update this achievement when visiting Lion's Arch or the Wizard's Tower.),"Привяжите легендарную руну.(Игроки, у которых уже есть легендарные руны, могут обновить это достижение, посетив Львиную твердыню или Башню Волшебника.)"
+ach/ach_003.csv,395,Bind %num2% legendary sigil. (Players with existing legendary sigils can update this achievement when visiting Lion's Arch or the Wizard's Tower.),"Привяжите легендарный сигил.(Игроки, у которых уже есть легендарные сигилы, могут обновить это достижение, посетив Львиную твердыню или Башню Волшебника.)"
+ach/ach_004.csv,253,Capture %num2% enemy Supply Camp.,Захватите вражеский лагерь снабжения.
+ach/ach_004.csv,254,Capture %num2% enemy castle in the eternal battlegrounds.,Захватите вражеский замок на Полях вечной битвы.
+ach/ach_004.csv,255,Capture %num2% enemy castle.,Захватите вражеский замок.
+ach/ach_004.csv,256,Capture %num2% enemy keep.,Захватите вражескую крепость.
+ach/ach_004.csv,257,Capture %num2% enemy reactor in Edge of the Mists.,Захватите вражеский реактор на Краю Туманов.
+ach/ach_004.csv,258,Capture %num2% enemy sentry point.,Захватите вражескую точку часовых.
+ach/ach_004.csv,259,Capture %num2% enemy special objective in Edge of the Mists.,Захватите вражескую особую цель на Краю Туманов.
+ach/ach_004.csv,260,Capture %num2% enemy tower.,Захватите вражескую башню.
+ach/ach_004.csv,263,Capture %num2% mercenary camp.,Захватите лагерь наемников.
+ach/ach_004.csv,265,Capture %num2% ruin in the borderlands.,Захватите руины в пограничье.
+ach/ach_004.csv,266,Capture %num2% ruin or shrine in any of the WvW Borderlands.,Захватите руины или святилище в любом из пограничий WvW.
+ach/ach_004.csv,299,Carve %num2% pumpkin.,Вырежьте тыкву.
+ach/ach_005.csv,146,Collect %num2% Kryptis essences in Convergences. (Gain less progress when collecting essence as a wisp with the Wisp Pockets Mastery.),Собирайте эссенции Kryptis в Конвергенциях. (Прогресс при сборе эссенции в облике огонька с мастерством «Карманы огонька» идет медленнее.)
+ach/ach_005.csv,149,Collect %num2% calibrated essence in Mount Balrior Convergences. (Gain less progress when collecting essence as a wisp.),Собирайте калиброванную эссенцию в Конвергенциях горы Mount Balrior. (Прогресс при сборе эссенции в облике огонька идет медленнее.)
+ach/ach_005.csv,200,Collect %num2% toxic spore samples by destroying toxic offshoots.,"Собирайте образцы токсичных спор, уничтожая токсичные отростки."
+ach/ach_005.csv,242,Collect all %num2% books to compile Zinn's Study Guide.,"Соберите все книги, чтобы составить Учебное пособие Zinn."
+ach/ach_005.csv,262,Collect all %num2% items to forge your Machined Axe.,"Соберите все предметы, чтобы выковать ваш Механический топор."
+ach/ach_005.csv,263,Collect all %num2% items to forge your Machined Dagger.,"Соберите все предметы, чтобы выковать ваш Механический кинжал."
+ach/ach_005.csv,264,Collect all %num2% items to forge your Machined Focus.,"Соберите все предметы, чтобы выковать ваш Механический фокус."
+ach/ach_005.csv,265,Collect all %num2% items to forge your Machined Greatsword.,"Соберите все предметы, чтобы выковать ваш Механический двуручный меч."
+ach/ach_005.csv,266,Collect all %num2% items to forge your Machined Hammer.,"Соберите все предметы, чтобы выковать ваш Механический молот."
+ach/ach_005.csv,267,Collect all %num2% items to forge your Machined Longbow.,"Соберите все предметы, чтобы выковать ваш Механический длинный лук."
+ach/ach_005.csv,268,Collect all %num2% items to forge your Machined Mace.,"Соберите все предметы, чтобы выковать ваш Механический булаву."
+ach/ach_005.csv,269,Collect all %num2% items to forge your Machined Pistol.,"Соберите все предметы, чтобы выковать ваш Механический пистолет."
+ach/ach_005.csv,270,Collect all %num2% items to forge your Machined Rifle.,"Соберите все предметы, чтобы выковать ваш Механическую винтовку."
+ach/ach_005.csv,271,Collect all %num2% items to forge your Machined Scepter.,"Соберите все предметы, чтобы выковать ваш Механический скипетр."
+ach/ach_005.csv,272,Collect all %num2% items to forge your Machined Shield.,"Соберите все предметы, чтобы выковать ваш Механический щит."
+ach/ach_005.csv,273,Collect all %num2% items to forge your Machined Short Bow.,"Соберите все предметы, чтобы выковать ваш Механический короткий лук."
+ach/ach_005.csv,274,Collect all %num2% items to forge your Machined Staff.,"Соберите все предметы, чтобы выковать ваш Механический посох."
+ach/ach_005.csv,275,Collect all %num2% items to forge your Machined Sword.,"Соберите все предметы, чтобы выковать ваш Механический меч."
+ach/ach_005.csv,276,Collect all %num2% items to forge your Machined Torch.,"Соберите все предметы, чтобы выковать ваш Механический факел."
+ach/ach_005.csv,277,Collect all %num2% items to forge your Machined Warhorn.,"Соберите все предметы, чтобы выковать ваш Механический рог."
+ach/ach_005.csv,448,Complete %num2% Bazaar of the Four Winds achievement.,Выполните достижение «Базар Четырех ветров».
+ach/ach_005.csv,449,Complete %num2% Beacon of Kryta torch run.,Завершите забег с факелом «Маяк Крайты».
+ach/ach_005.csv,454,Complete %num2% Convergences in Mount Balrior by defeating the final opponent.,"Завершите Конвергенции на горе Балриор, победив финального противника."
+ach/ach_005.csv,455,Complete %num2% Convergences in Outer Nayos by defeating the final opponent.,"Завершите Конвергенции во Внешнем Найосе, победив финального противника."
+ach/ach_005.csv,460,Complete %num2% Dragon Response Missions.,Завершите миссии реагирования на драконов.
+ach/ach_005.csv,465,Complete %num2% Halloween achievement.,Выполните достижение «Хэллоуин».
+ach/ach_005.csv,466,Complete %num2% Halloween event.,Выполните событие «Хэллоуин».
+ach/ach_005.csv,474,Complete %num2% Living World category.,Выполните категорию «Живой мир».
+ach/ach_006.csv,17,Complete %num2% WvW Fall Tournament 2014 achievement.,Завершите достижение WvW Fall Tournament 2014.
+ach/ach_006.csv,18,Complete %num2% WvW Premier Season achievement.,Завершите достижение WvW Premier Season.
+ach/ach_006.csv,19,Complete %num2% WvW Spring Tournament 2014 achievement.,Завершите достижение WvW Spring Tournament 2014.
+ach/ach_006.csv,23,Complete %num2% achievements from the Return to End of Dragons event.,Завершите достижения события Return to End of Dragons.
+ach/ach_006.csv,24,Complete %num2% achievements from the Return to Heart of Thorns event.,Завершите достижения события Return to Heart of Thorns.
+ach/ach_006.csv,25,Complete %num2% achievements from the Return to Janthir Wilds event.,Завершите достижения события Return to Janthir Wilds.
+ach/ach_006.csv,26,Complete %num2% achievements from the Return to Path of Fire event.,Завершите достижения события Return to Path of Fire.
+ach/ach_006.csv,27,Complete %num2% achievements from the Return to Season 1 event.,Завершите достижения события Return to Season 1.
+ach/ach_006.csv,28,Complete %num2% achievements from the Return to Season 2 event.,Завершите достижения события Return to Season 2.
+ach/ach_006.csv,29,Complete %num2% achievements from the Return to Season 3 event.,Завершите достижения события Return to Season 3.
+ach/ach_006.csv,30,Complete %num2% achievements from the Return to Season 4 event.,Завершите достижения события Return to Season 4.
+ach/ach_006.csv,31,Complete %num2% achievements from the Return to Secrets of the Obscure event.,Завершите достижения события Return to Secrets of the Obscure.
+ach/ach_006.csv,32,Complete %num2% achievements from the Return to the Icebrood Saga event.,Завершите достижения события Return to the Icebrood Saga.
+ach/ach_006.csv,33,Complete %num2% boss week achievement and boss week daily achievement.,Завершите достижение недели боссов и ежедневное достижение недели боссов.
+ach/ach_006.csv,35,Complete %num2% door event.,Завершите событие с дверью.
+ach/ach_006.csv,36,Complete %num2% dungeon.,Завершите подземелье.
+ach/ach_006.csv,40,Complete %num2% event.,Завершите событие.
+ach/ach_006.csv,41,Complete %num2% events in Amnytas.,Завершите события в Amnytas.
+ach/ach_006.csv,42,Complete %num2% events in Auric Basin.,Завершите события в Auric Basin.
+ach/ach_006.csv,46,Complete %num2% events in Bloodtide Coast.,Завершите события в Bloodtide Coast.
+ach/ach_006.csv,47,Complete %num2% events in Crystal Oasis.,Завершите события в Crystal Oasis.
+ach/ach_006.csv,48,Complete %num2% events in Crystal Oasis. Bounty events award additional progress.,Завершите события в Crystal Oasis. События с наградой за голову дают дополнительный прогресс.
+ach/ach_006.csv,49,Complete %num2% events in Desert Highlands.,Завершите события в Desert Highlands.
+ach/ach_006.csv,50,Complete %num2% events in Desert Highlands. Bounty events award additional progress.,Завершите события в Desert Highlands. События с наградой за голову дают дополнительный прогресс.
+ach/ach_006.csv,51,Complete %num2% events in Diessa Plateau.,Завершите события в Diessa Plateau.
+ach/ach_006.csv,52,Complete %num2% events in Domain of Istan.,Завершите события в Domain of Istan.
+ach/ach_006.csv,53,Complete %num2% events in Domain of Kourna.,Завершите события в Domain of Kourna.
+ach/ach_006.csv,54,Complete %num2% events in Domain of Vabbi.,Завершите события в Domain of Vabbi.
+ach/ach_006.csv,55,Complete %num2% events in Domain of Vabbi. Bounty events award additional progress.,Завершите события в Domain of Vabbi. События с наградой за голову дают дополнительный прогресс.
+ach/ach_006.csv,57,Complete %num2% events in Dragon's End.,Завершите события в Dragon's End.
+ach/ach_006.csv,58,Complete %num2% events in Dragon's End. Defeating an ambushing oni rewards extra progress.,Завершите события в Dragon's End. Победа над они из засады дает дополнительный прогресс.
+ach/ach_006.csv,60,Complete %num2% events in Dragonfall.,Завершите события в Dragonfall.
+ach/ach_006.csv,64,Complete %num2% events in Echovald Wilds.,Завершите события в Echovald Wilds.
+ach/ach_006.csv,65,Complete %num2% events in Echovald Wilds. Defeating an ambushing oni rewards extra progress.,Завершите события в Echovald Wilds. Победа над они из засады дает дополнительный прогресс.
+ach/ach_006.csv,66,Complete %num2% events in Elon Riverlands.,Завершите события в Elon Riverlands.
+ach/ach_006.csv,67,Complete %num2% events in Elon Riverlands. Bounty events award additional progress.,Завершите события в Elon Riverlands. События с наградой за голову дают дополнительный прогресс.
+ach/ach_006.csv,70,Complete %num2% events in Gendarran Fields.,Завершите события в Gendarran Fields.
+ach/ach_006.csv,73,Complete %num2% events in Inner Nayos.,Завершите события в Inner Nayos.
+ach/ach_006.csv,75,Complete %num2% events in Janthir Syntri.,Завершите события в Janthir Syntri.
+ach/ach_006.csv,76,Complete %num2% events in Kessex Hills.,Завершите события в Kessex Hills.
+ach/ach_006.csv,78,Complete %num2% events in Lowland Shore.,Завершите события в Lowland Shore.
+ach/ach_006.csv,79,Complete %num2% events in Mistburned Barrens.,Завершите события в Mistburned Barrens.
+ach/ach_006.csv,81,Complete %num2% events in New Kaineng City. Defeating an ambushing oni rewards extra progress.,Завершите события в New Kaineng City. Победа над они из засады дает дополнительный прогресс.
+ach/ach_006.csv,82,Complete %num2% events in Sandswept Isles.,Завершите события в Sandswept Isles.
+ach/ach_006.csv,84,Complete %num2% events in Seitung Province. Defeating an ambushing oni rewards extra progress.,Завершите события в Seitung Province. Победа над они из засады дает дополнительный прогресс.
+ach/ach_006.csv,86,Complete %num2% events in Skywatch Archipelago.,Завершите события в Skywatch Archipelago.
+ach/ach_006.csv,87,Complete %num2% events in Tangled Depths.,Завершите события в Tangled Depths.
+ach/ach_006.csv,89,Complete %num2% events in Verdant Brink.,Завершите события в Verdant Brink.
+ach/ach_006.csv,91,Complete %num2% events in the Desolation.,Завершите события в регионе The Desolation.
+ach/ach_006.csv,131,Complete %num2% scale 13 fractal in the Fractals of the Mists through the portal in Lion's Arch.,Завершите фрактал 13-го уровня в Туманах через портал в Львиной Арке.
+ach/ach_006.csv,135,Complete %num2% scale 17 fractal in the Fractals of the Mists through the portal in Lion's Arch.,Завершите фрактал 17-го уровня в Туманах через портал в Львиной Арке.
+ach/ach_006.csv,139,Complete %num2% scale 3 fractal in the Fractals of the Mists through the portal in Lion's Arch.,Завершите фрактал 3-го уровня в Туманах через портал в Львиной Арке.
+ach/ach_006.csv,145,Complete %num2% scale 9 fractal in the Fractals of the Mists through the portal in Lion's Arch.,Завершите фрактал 9-го уровня в Туманах через портал в Львиной Арке.
+ach/ach_006.csv,151,Complete %num2% unique Canthan strike within a week.,Завершите уникальный кантанский удар (strike) в течение недели.
+ach/ach_006.csv,152,Complete %num2% unique Janthir Wilds raid encounter within a week.,Завершите уникальное рейдовое столкновение Janthir Wilds в течение недели.
+ach/ach_006.csv,153,Complete %num2% unique Secrets of the Obscure Raid Encounter within a week.,Завершите уникальное рейдовое столкновение Secrets of the Obscure в течение недели.
+ach/ach_006.csv,486,Complete all %num2% tiers of the Queen's Gauntlet during the Jubilee.,Выполните все уровни Queen's Gauntlet во время Jubilee.
+ach/ach_009.csv,15,Craft %num2% exotic item from any discipline.,Создайте экзотический предмет любой дисциплины.
+ach/ach_009.csv,16,Craft %num2% item.,Создайте предмет.
+ach/ach_009.csv,54,Create %num2% item in the Mystic Forge.,Создайте предмет в Мистической кузне.
+ach/ach_010.csv,493,Defeat %num2% Halloween minion.,Победите хэллоуинского миньона.
+ach/ach_011.csv,3,Defeat %num2% Queen's Gauntlet opponents.,Победите противников в Перчатке Королевы.
+ach/ach_011.csv,35,Defeat %num2% of Palawa Joko's minion.,Победите прислужников Palawa Joko.
+ach/ach_011.csv,37,Defeat %num2% opponent in Aspect Arena.,Победите противника на арене Aspect Arena.
+ach/ach_011.csv,58,Defeat %num2% players in ranked matches during Conquest Season Forty-Five.,Победите игроков в рейтинговых матчах режима Conquest в сорок пятом сезоне.
+ach/ach_011.csv,75,Defeat %num2% type of the Queen's Champions.,Победите тип чемпионов Королевы.
+ach/ach_012.csv,90,Defend %num2% keep.,Защитите крепость.
+ach/ach_012.csv,95,Defend %num2% tower.,Защитите башню.
+ach/ach_012.csv,255,Destroy %num2% enemy wall or gate.,Уничтожьте вражескую стену или ворота.
+ach/ach_013.csv,314,Earn %num2% rank points.,Получайте очки ранга.
+ach/ach_013.csv,315,Earn %num2% reward from a PvP Reward Track.,Получайте награды из PvP-трека наград.
+ach/ach_016.csv,102,"Gather %num2% material with a logging axe in Sparkfly Fen, Mount Maelstrom, the Iron Marches, Fireheart Rise, or Timberline Falls.","Добывайте ресурсы топором лесоруба в Sparkfly Fen, Mount Maelstrom, Iron Marches, Fireheart Rise или Timberline Falls."
+ach/ach_016.csv,492,"Harvest %num2% material from resource nodes in the Ruins of Orr, Frostgorge Sound, or Southsun Cove.","Собирайте материалы из ресурсных узлов в Ruins of Orr, Frostgorge Sound или Southsun Cove."
+ach/ach_019.csv,185,Kill %num2% Aetherblade pirate or other enemies trying to spoil the Jubilee.,"Убейте пирата Aetherblade или других врагов, пытающихся испортить Юбилей."
+ach/ach_019.csv,201,Kill %num2% champion foes.,Убейте врагов-чемпионов.
+ach/ach_019.csv,207,Kill %num2% different professions.,Убейте представителей разных профессий.
+ach/ach_019.csv,213,Kill %num2% enemies.,Убейте врагов.
+ach/ach_019.csv,214,Kill %num2% enemy guard NPCs.,Убейте вражеских NPC-стражей.
+ach/ach_019.csv,215,Kill %num2% enemy guard.,Убейте вражеского стража.
+ach/ach_019.csv,226,Kill %num2% hallucinations triggered by toxic pollen.,"Убейте галлюцинации, вызванные ядовитой пыльцой."
+ach/ach_019.csv,248,Kill %num2% of Scarlet's Aetherblade minions.,"Убейте приспешников Aetherblade, служащих Scarlet."
+ach/ach_019.csv,249,Kill %num2% of Scarlet's Molten Alliance minions.,"Убейте приспешников Molten Alliance, служащих Scarlet."
+ach/ach_019.csv,250,Kill %num2% of Scarlet's twisted watchwork minions.,Убейте искаженных заводных приспешников Scarlet.
+ach/ach_019.csv,252,Kill %num2% of the Mad King's minions.,Убейте приспешников Mad King.
+ach/ach_019.csv,261,Kill %num2% players in WvW.,Убейте игроков в WvW.
+ach/ach_019.csv,268,Kill %num2% spore-corrupted creatures.,"Убейте существ, зараженных спорами."
+ach/ach_019.csv,270,Kill %num2% veteran foes.,Убейте ветеранов-противников.
+ach/ach_023.csv,155,Participate in round four of the tournament. Complete any %num2% WvW event this week.,Примите участие в четвертом раунде турнира. Завершите любое WvW-событие на этой неделе.
+ach/ach_023.csv,156,Participate in round one of the tournament. Complete any %num2% WvW event this week.,Примите участие в первом раунде турнира. Завершите любое WvW-событие на этой неделе.
+ach/ach_023.csv,157,Participate in round three of the tournament. Complete any %num2% WvW event this week.,Примите участие в третьем раунде турнира. Завершите любое WvW-событие на этой неделе.
+ach/ach_023.csv,158,Participate in round two of the tournament. Complete any %num2% WvW event this week.,Примите участие во втором раунде турнира. Завершите любое WvW-событие на этой неделе.
+ach/ach_023.csv,313,Play %num2% ranked matches during Conquest Season Forty-Five.,Сыграйте рейтинговые матчи в сорок пятом сезоне Завоевания.
+ach/ach_023.csv,328,Play %num2% rounds of Dragon Ball.,Сыграйте раунды в Dragon Ball.
+ach/ach_025.csv,269,Revive %num2% ally.,Воскресите союзника.
+ach/ach_031.csv,268,"Use %num2% Toxic Maintenance Oils, Toxic Sharpening Stones, Toxic Tuning Crystals, or Experimental Chiles.","Используйте токсичные масла для обслуживания, токсичные точильные камни, токсичные кристаллы настройки или экспериментальные чили."
+ach/ach_031.csv,269,Use %num2% combo skill.,Используйте комбо-умение.
+ach/ach_031.csv,270,Use %num2% consumable food item to obtain nourishment bonuses.,"Используйте расходуемый предмет еды, чтобы получить бонусы питания."
+ach/ach_031.csv,271,Use %num2% elite skill.,Используйте элитное умение.
+ach/ach_031.csv,272,Use %num2% emote to express yourself!,"Используйте эмоцию, чтобы выразить себя!"
+ach/ach_031.csv,388,Use your utility skills %num2% time.,Используйте свои вспомогательные навыки во время боя.
+ach/ach_032.csv,289,Win %num2% Aspect Arena match.,Выиграйте матч на Арене Аспектов.
+ach/ach_032.csv,290,Win %num2% PvP match as a Warrior.,Выиграйте PvP-матч за воина.
+ach/ach_032.csv,291,Win %num2% PvP match as a guardian or elementalist.,Выиграйте PvP-матч за стража или элементалиста.
+ach/ach_032.csv,292,Win %num2% PvP match as a guardian or engineer.,Выиграйте PvP-матч за стража или инженера.
+ach/ach_032.csv,293,Win %num2% PvP match as a guardian or mesmer.,Выиграйте PvP-матч за стража или месмера.
+ach/ach_032.csv,294,Win %num2% PvP match as a guardian or necromancer.,Выиграйте PvP-матч за стража или некроманта.
+ach/ach_032.csv,295,Win %num2% PvP match as a guardian or ranger.,Выиграйте PvP-матч за стража или рейнджера.
+ach/ach_032.csv,296,Win %num2% PvP match as a guardian or thief.,Выиграйте PvP-матч за стража или вора.
+ach/ach_032.csv,297,Win %num2% PvP match as a guardian.,Выиграйте PvP-матч за стража.
+ach/ach_032.csv,298,Win %num2% PvP match as a mesmer or necromancer.,Выиграйте PvP-матч за месмера или некроманта.
+ach/ach_032.csv,299,Win %num2% PvP match as a mesmer.,Выиграйте PvP-матч за месмера.
+ach/ach_032.csv,300,Win %num2% PvP match as a necromancer.,Выиграйте PvP-матч за некроманта.
+ach/ach_032.csv,301,Win %num2% PvP match as a ranger or elementalist.,Выиграйте PvP-матч за рейнджера или элементалиста.
+ach/ach_032.csv,302,Win %num2% PvP match as a ranger or engineer.,Выиграйте PvP-матч за рейнджера или инженера.
+ach/ach_032.csv,303,Win %num2% PvP match as a ranger or mesmer.,Выиграйте PvP-матч за рейнджера или месмера.
+ach/ach_032.csv,304,Win %num2% PvP match as a ranger or necromancer.,Выиграйте PvP-матч за рейнджера или некроманта.
+ach/ach_032.csv,305,Win %num2% PvP match as a ranger or thief.,Выиграйте PvP-матч за рейнджера или вора.
+ach/ach_032.csv,306,Win %num2% PvP match as a ranger.,Выиграйте PvP-матч за рейнджера.
+ach/ach_032.csv,307,Win %num2% PvP match as a revenant or elementalist.,Выиграйте PvP-матч за ревенанта или элементалиста.
+ach/ach_032.csv,308,Win %num2% PvP match as a revenant or engineer.,Выиграйте PvP-матч за ревенанта или инженера.
+ach/ach_032.csv,309,Win %num2% PvP match as a revenant or guardian.,Выиграйте PvP-матч за ревенанта или стража.
+ach/ach_032.csv,310,Win %num2% PvP match as a revenant or mesmer.,Выиграйте PvP-матч за ревенанта или месмера.
+ach/ach_032.csv,311,Win %num2% PvP match as a revenant or necromancer.,Выиграйте PvP-матч за ревенанта или некроманта.
+ach/ach_032.csv,312,Win %num2% PvP match as a revenant or ranger.,Выиграйте PvP-матч за ревенанта или рейнджера.
+ach/ach_032.csv,313,Win %num2% PvP match as a revenant or thief.,Выиграйте PvP-матч за ревенанта или вора.
+ach/ach_032.csv,314,Win %num2% PvP match as a revenant or warrior.,Выиграйте PvP-матч за ревенанта или воина.
+ach/ach_032.csv,315,Win %num2% PvP match as a thief or elementalist.,Выиграйте PvP-матч за вора или элементалиста.
+ach/ach_032.csv,316,Win %num2% PvP match as a thief or mesmer.,Выиграйте PvP-матч за вора или месмера.
+ach/ach_032.csv,317,Win %num2% PvP match as a thief or necromancer.,Выиграйте PvP-матч за вора или некроманта.
+ach/ach_032.csv,318,Win %num2% PvP match as a thief.,Выиграйте PvP-матч за вора.
+ach/ach_032.csv,319,Win %num2% PvP match as a warrior or elementalist.,Выиграйте PvP-матч за воина или элементалиста.
+ach/ach_032.csv,320,Win %num2% PvP match as a warrior or engineer.,Выиграйте PvP-матч за воина или инженера.
+ach/ach_032.csv,321,Win %num2% PvP match as a warrior or guardian.,Выиграйте PvP-матч за воина или стража.
+ach/ach_032.csv,322,Win %num2% PvP match as a warrior or mesmer.,Выиграйте PvP-матч за воина или месмера.
+ach/ach_032.csv,323,Win %num2% PvP match as a warrior or necromancer.,Выиграйте PvP-матч за воина или некроманта.
+ach/ach_032.csv,324,Win %num2% PvP match as a warrior or ranger.,Выиграйте PvP-матч за воина или рейнджера.
+ach/ach_032.csv,325,Win %num2% PvP match as a warrior or thief.,Выиграйте PvP-матч за воина или вора.
+ach/ach_032.csv,326,Win %num2% PvP match as an elementalist or mesmer.,Выиграйте PvP-матч за элементалиста или месмера.
+ach/ach_032.csv,327,Win %num2% PvP match as an elementalist or necromancer.,Победите в PvP-матче за элементалиста или некроманта.
+ach/ach_032.csv,328,Win %num2% PvP match as an elementalist.,Победите в PvP-матче за элементалиста.
+ach/ach_032.csv,329,Win %num2% PvP match as an engineer or elementalist.,Победите в PvP-матче за инженера или элементалиста.
+ach/ach_032.csv,330,Win %num2% PvP match as an engineer or mesmer.,Победите в PvP-матче за инженера или месмера.
+ach/ach_032.csv,331,Win %num2% PvP match as an engineer or necromancer.,Победите в PvP-матче за инженера или некроманта.
+ach/ach_032.csv,332,Win %num2% PvP match as an engineer or thief.,Победите в PvP-матче за инженера или вора.
+ach/ach_032.csv,333,Win %num2% PvP match as an engineer.,Победите в PvP-матче за инженера.
+ach/ach_032.csv,335,Win %num2% Solo Arena Match in PvP,Победите в матче на PvP-арене для одиночек.
+ach/ach_032.csv,336,Win %num2% Team Arena Match in PvP,Победите в матче на командной PvP-арене.
+ach/ach_032.csv,337,Win %num2% costume brawl during Halloween.,Победите в костюмированной потасовке во время Хэллоуина.
+ach/ach_032.csv,340,Win %num2% games of hide and seek in Sun's Refuge.,Победите в играх в прятки в Sun's Refuge.
+ach/ach_032.csv,352,Win %num2% matches.,Победите в матчах.
+ach/ach_032.csv,362,Win %num2% ranked matches during Conquest Season Forty-Five.,Победите в рейтинговых матчах в режиме Захват в сорок пятом сезоне.
+ach/ach_032.csv,400,Win %num2% tournament games.,Одержите победу в турнирных играх.

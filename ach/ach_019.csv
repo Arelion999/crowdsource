@@ -182,7 +182,7 @@ Kiel: Dungeon Runner,Kiel: Бегун по подземельям
 Kiel: Homeland Support,Kiel: Поддержка родины
 Kiel: Maw Mulcher,Kiel: Измельчитель Maw
 Kill %num2% Aberrant.,
-Kill  Aetherblade pirate or other enemies trying to spoil the Jubilee.,"Убейте пирата Aetherblade или других врагов, пытающихся испортить Юбилей."
+Kill %num2% Aetherblade pirate or other enemies trying to spoil the Jubilee.,
 Kill %num2% Branded during the Shatterer battle.,
 Kill %num2% Crystal Desert predators.,
 Kill %num2% Fallen.,
@@ -198,23 +198,23 @@ Kill %num2% centaur[s] in the Crown Pavilion.,
 Kill %num2% centaurs.,
 Kill %num2% chak.,
 Kill %num2% champion chak.,
-Kill  champion foes.,Убейте врагов-чемпионов.
+Kill %num2% champion foes.,
 Kill %num2% champions of the krait.,
 Kill %num2% crustaceans.,
 Kill %num2% destroyers.,
 Kill %num2% devourers.,
 Kill %num2% different factions of Scarlet's minions anywhere in Tyria.,
-Kill  different professions.,Убейте представителей разных профессий.
+Kill %num2% different professions.,
 Kill %num2% djinn.,
 Kill %num2% drakes.,
 Kill %num2% dredge.,
 Kill %num2% elementals.,
 Kill %num2% enemies using profession combinations with another player.,
-Kill  enemies.,Убейте врагов.
-Kill  enemy guard NPCs.,Убейте вражеских NPC-стражей.
-Kill  enemy guard.,Убейте вражеского стража.
+Kill %num2% enemies.,
+Kill %num2% enemy guard NPCs.,
+Kill %num2% enemy guard.,
 Kill %num2% enemy player[s] in rated arena games.,
-Kill  enemy supply caravan.,Убейте вражеский караван снабжения.
+Kill %num2% enemy supply caravan[s].,
 "Kill %num2% enemy[pl:""enemies""] while defending your team's capture points during rated Revenge of the Capricorn matches.",
 Kill %num2% ettins.,
 Kill %num2% fish.,
@@ -223,7 +223,7 @@ Kill %num2% giants.,
 Kill %num2% grawl.,
 Kill %num2% great jungle wurm egg[s] before the larvae hatch.,
 Kill %num2% griffons.,
-Kill  hallucinations triggered by toxic pollen.,"Убейте галлюцинации, вызванные ядовитой пыльцой."
+Kill %num2% hallucinations triggered by toxic pollen.,
 Kill %num2% harpies.,
 Kill %num2% hostile animals in the Drizzlewood Coast.,
 Kill %num2% hostile hylek.,
@@ -245,11 +245,11 @@ Kill %num2% members of the Sons of Svanir.,
 Kill %num2% members of the Toxic Alliance.,
 Kill %num2% minotaurs.,
 Kill %num2% of Palawa Joko's minions.,
-Kill  of Scarlet's Aetherblade minions.,"Убейте приспешников Aetherblade, служащих Scarlet."
-Kill  of Scarlet's Molten Alliance minions.,"Убейте приспешников Molten Alliance, служащих Scarlet."
-Kill  of Scarlet's twisted watchwork minions.,Убейте искаженных заводных приспешников Scarlet.
+Kill %num2% of Scarlet's Aetherblade minions.,
+Kill %num2% of Scarlet's Molten Alliance minions.,
+Kill %num2% of Scarlet's twisted watchwork minions.,
 Kill %num2% of the Lunatic Court rebels.,
-Kill  of the Mad King's minions.,Убейте приспешников Mad King.
+Kill %num2% of the Mad King's minions.,
 Kill %num2% ogre[s] in the Crown Pavilion.,
 Kill %num2% ogres.,
 Kill %num2% oozes.,
@@ -257,17 +257,17 @@ Kill %num2% pirate[s] in the Crown Pavilion.,
 Kill %num2% pirates.,
 Kill %num2% plants.,
 Kill %num2% player[s] in PvP.,
-Kill  player.,Убейте игрока.
-Kill  players in WvW.,Убейте игроков в WvW.
+Kill %num2% player[s].,
+Kill %num2% players in WvW.,
 Kill %num2% raid bosses. Killing bosses with challenge mode on and killing more difficult bosses progresses this faster.,
 Kill %num2% raptors.,
 Kill %num2% skale.,
 Kill %num2% skelk.,
 Kill %num2% skritt.,
 Kill %num2% spiders.,
-Kill  spore-corrupted creatures.,"Убейте существ, зараженных спорами."
+Kill %num2% spore-corrupted creatures.,
 Kill %num2% trolls.,
-Kill  veteran foes.,Убейте ветеранов-противников.
+Kill %num2% veteran foes.,
 Kill %num2% wind riders.,
 Kill %num2% wurms.,
 Kill %num2% Flame Legionnaire[s] in the Crown Pavilion.,Убейте %num2% Пламенный легионер[|а|ов] на площади Короны.

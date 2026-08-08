@@ -98,8 +98,8 @@ Gate of Madness Veteran,Ветеран Врат Безумия
 Gate-Crasher,Взломщик врат
 Gather %num2% emotional attunements while fighting Karax or Eparch in the Citadel of Zakiros.,
 Gather %num2% luxuries from renown merchants across the Elonian Desert.,
-Gather  material from resource nodes.,
-"Gather  material with a logging axe in Sparkfly Fen, Mount Maelstrom, the Iron Marches, Fireheart Rise, or Timberline Falls.","Добывайте ресурсы топором лесоруба в Sparkfly Fen, Mount Maelstrom, Iron Marches, Fireheart Rise или Timberline Falls."
+Gather %num2% material from resource nodes.,
+"Gather %num2% material with a logging axe in Sparkfly Fen, Mount Maelstrom, the Iron Marches, Fireheart Rise, or Timberline Falls.",
 Gather %num2% unique emotional attunements at least once.,
 Gather 10 eternal ice shards in Bjora Marches.,Соберите 10 осколков вечного льда в Bjora Marches.
 Gather 5 fire orchids.,Соберите 5 огненных орхидей.
@@ -489,7 +489,7 @@ Harpoon Master,Мастер гарпуна
 Harpy Slayer,Убийца гарпий
 Harsh Detox,Жесткая детоксикация
 Harsh Sentence,Суровый приговор
-"Harvest  material from resource nodes in the Ruins of Orr, Frostgorge Sound, or Southsun Cove.","Собирайте материалы из ресурсных узлов в Ruins of Orr, Frostgorge Sound или Southsun Cove."
+"Harvest %num2% material from resource nodes in the Ruins of Orr, Frostgorge Sound, or Southsun Cove.",
 Harvest Den Renown Mastery,Мастерство репутации Harvest Den
 Harvest Shore Salmon Run: Bronze,Забег лосося на Harvest Shore: Бронза
 Harvest Shore Salmon Run: Gold,Забег с лососем на Берегу Урожая: Золото

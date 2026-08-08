@@ -1,6 +1,6 @@
 english,translate
-Defeat  Queen's Gauntlet opponent.,Победите противника в Перчатке Королевы.
-Defeat  Queen's Gauntlet opponents.,Победите противников в Перчатке Королевы.
+Defeat %num2% Queen's Gauntlet opponent[s].,
+Defeat %num2% Queen's Gauntlet opponents.,
 "Defeat %num2% Risen enemy[pl:""enemies""] in Mount Maelstrom and Sparkfly Fen.",
 "Defeat %num2% Risen enemy[pl:""enemies""] in the Straits of Devastation, Malchor's Leap, or Cursed Shore.",
 Defeat %num2% Son[s] of Svanir.,
@@ -9,7 +9,7 @@ Defeat %num2% archer[s] or door breaker[s] during Battle of Champion's Dusk rate
 Defeat %num2% bloodstone-crazed White Mantle in Bloodstone Fen.,
 Defeat %num2% bosses in Mount Balrior without any party members being defeated.,
 Defeat %num2% bosses in the Sanctum Arena.,
-"Defeat  centaur, Sons of Svanir, Inquest, Nightmare Court, or Flame Legion enemy.","Победите кентавра, Сына Сванира, Инкест, Кошмарный Двор или врага Легиона Пламени."
+"Defeat %num2% centaur, Sons of Svanir, Inquest, Nightmare Court, or Flame Legion enemy[pl:""enemies""].",
 Defeat %num2% champion Kryptis.,
 Defeat %num2% champion-level creatures in Dragonfall.,
 Defeat %num2% coalescences to disperse their magic back to the ley-lines.,
@@ -26,15 +26,15 @@ Defeat %num2% dredge.,
 "Defeat %num2% enemy[pl:""enemies""] while defending your team's capture points during Temple of the Silent Storm rated matches.",
 "Defeat %num2% enemy[pl:""enemies""] while defending your team's capture points during rated Djinn's Dominion matches.",
 "Defeat %num2% enemy[pl:""enemies""] while defending your team's capture points during rated Eternal Coliseum matches.",
-Defeat  enemy.,Победите врага.
-"Defeat  grawl, hylek, dredge, or krait enemy.","Победите врагов из числа граулов, хайлеков, дреджей или крэйтов."
+"Defeat %num2% enemy[pl:""enemies""].",
+"Defeat %num2% grawl, hylek, dredge, or krait enemy[pl:""enemies""].",
 Defeat %num2% haze agitators.,
 Defeat %num2% icebrood in Dragon Response Missions.,
 Defeat  krait.,Победите крэйтов.
 Defeat %num2% mursaat ghosts during the ambush.,
-Defeat  of Palawa Joko's minion.,Победите прислужников Palawa Joko.
+Defeat %num2% of Palawa Joko's minion.,
 Defeat %num2% ogres.,
-Defeat  opponent in Aspect Arena.,Победите противника на арене Aspect Arena.
+Defeat %num2% opponent in Aspect Arena.,
 Defeat %num2% player[s] during Battle of Champion's Dusk rated matches.,
 Defeat %num2% player[s] during Battle of Kyhlo rated matches.,
 Defeat %num2% player[s] during Djinn's Dominion rated matches.,
@@ -55,7 +55,7 @@ Defeat %num2% players in ranked matches during 3v3 Season Five.,
 Defeat %num2% players in ranked matches during 3v3 Season One.,
 Defeat %num2% players in ranked matches during 3v3 Season Three.,
 Defeat %num2% players in ranked matches during 3v3 Season Two.,
-Defeat  players in ranked matches during Conquest Season Forty-Five.,Победите игроков в рейтинговых матчах режима Conquest в сорок пятом сезоне.
+Defeat %num2% players in ranked matches during Conquest Season Forty-Five.,
 Defeat %num2% players in ranked matches during Conquest Season Forty-One.,
 Defeat %num2% players in ranked matches during Conquest Season Forty.,
 Defeat %num2% players in ranked matches during Conquest Season Thirty-Eight.,
@@ -72,7 +72,7 @@ Defeat %num2% players in ranked matches during Conquest Season Twenty-Three.,
 Defeat %num2% players in ranked matches during Conquest Season Twenty-Two.,
 Defeat %num2% players in ranked matches during a Conquest season.,
 Defeat %num2% players.,
-Defeat  type of the Queen's Champions.,Победите тип чемпионов Королевы.
+Defeat %num2% type of the Queen's Champions.,
 Defeat %num2% veteran Kryptis.,
 Defeat %num2% veteran enemies in Mount Maelstrom.,
 "Defeat %num2% centaur, Sons of Svanir, Inquest, Nightmare Court, or Flame Legion enemy[pl:""enemies""].","Победи %num2% врага из числа кентавров, сыновей Сванира, Инквеста, Дворца Кошмаров или Легиона Пламени."

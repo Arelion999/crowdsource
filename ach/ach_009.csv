@@ -12,9 +12,9 @@ Crab Toss Regular,Постоянный участник Крабьего бро�
 Crab-Carrying Competitor,Соревнующийся по переноске крабов
 Crabgrabber,Краболов
 Crabtacular!,Крабо-феерия!
-Craft  exotic item from any discipline.,Создайте экзотический предмет любой дисциплины.
-Craft  item.,Создайте предмет.
-Craft  masterwork item.,Создайте предмет мастерского качества.
+Craft %num2% exotic item from any discipline.,
+Craft %num2% item.,
+Craft %num2% masterwork item[s].,
 Craft 5 food consumables.,Создайте 5 расходуемых продуктов питания.
 Craft items of masterwork quality or higher.,Создайте предметы мастерского качества или выше.
 Craft the Banner of the Commander.,Создайте Знамя Коммандира.
@@ -51,7 +51,7 @@ Crater Circuit: Silver Challenge,Круг кратера: Серебряное �
 Crater Circuit: Top Three,Круг кратера: Тройка лидеров
 Craving Quaggan,Жаждущий квагган
 Crazed Karka Queen Killer,Убийца безумной королевы Karka
-Create  item in the Mystic Forge.,Создайте предмет в Мистической кузне.
+Create %num2% item in the Mystic Forge.,
 Create a banner to serve as a physical symbol of your valor upon the battlefield.,"Создайте знамя, которое послужит физическим символом вашей доблести на поле боя."
 Create an Aether Key using Aether Key Pieces.,"Создайте Эфирный ключ, используя Части эфирного ключа."
 Create and test a prototype Dragonsblood weapon.,Создайте и испытайте прототип оружия из крови дракона.

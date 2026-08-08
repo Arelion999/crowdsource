@@ -265,11 +265,11 @@ Urge to grill rising!,Жажда гриля растет!
 Urmaug's Secret,Секрет Urmaug
 Ursan Ornamented Weapon Collector,Коллекционер украшенного оружия Ursan
 Ursulette didn't even chip a nail.,Ursulette даже не сломала ноготь.
-"Use  Toxic Maintenance Oils, Toxic Sharpening Stones, Toxic Tuning Crystals, or Experimental Chiles.","Используйте токсичные масла для обслуживания, токсичные точильные камни, токсичные кристаллы настройки или экспериментальные чили."
-Use  combo skill.,Используйте комбо-умение.
-Use  consumable food item to obtain nourishment bonuses.,"Используйте расходуемый предмет еды, чтобы получить бонусы питания."
-Use  elite skill.,Используйте элитное умение.
-Use  emote to express yourself!,"Используйте эмоцию, чтобы выразить себя!"
+"Use %num2% Toxic Maintenance Oils, Toxic Sharpening Stones, Toxic Tuning Crystals, or Experimental Chiles.",
+Use %num2% combo skill.,
+Use %num2% consumable food item to obtain nourishment bonuses.,
+Use %num2% elite skill.,
+Use %num2% emote to express yourself!,
 Use %num2% pickup skills.,
 Use /crossarms in the Ministry of Transit waiting area.,Используйте /crossarms в зоне ожидания Министерства транзита.
 Use /kneel at Glint's Shrine in Droknar's Light.,Используйте /kneel у святилища Glint в Свете Droknar.
@@ -289,13 +289,13 @@ Use a Silverwastes shovel to uncover a lost bandit chest in the Silverwastes.,"�
 Use a Tiny Sharpening Stone,Используйте Tiny Sharpening Stone
 "Use a Tiny Sharpening Stone purchased from low-level karma merchants in Plains of Ashford, Wayfarer Foothills, Queensdale, Caledon Forest, and Metrica Province.","Используйте Tiny Sharpening Stone, купленный у торговцев за карму низкого уровня в Plains of Ashford, Wayfarer Foothills, Queensdale, Caledon Forest и Metrica Province."
 Use a focus to slay 30 enemies in Thunderhead Peaks,"Используйте фокус, чтобы убить 30 врагов в Thunderhead Peaks"
-Use a healing skill  time.,Используйте навык лечения  раз.
+Use a healing skill %num2% time.,Используйте навык лечения %num2% раз.
 Use a honeycomb to avoid taking damage from the Mordrem Vinewrath's beam while fighting the Mordrem Beekeeper.,"Используйте соты, чтобы избежать урона от луча Mordrem Vinewrath во время битвы с Mordrem Beekeeper."
 Use a hylek turret at the Tequatl battle site.,Используйте турель hylek на месте битвы с Tequatl.
 Use a jump mushroom to gather flamethrower supplies.,"Используйте прыжковый гриб, чтобы собрать припасы для огнемета."
 "Use a micro cloud to break down and analyze an Inquest turret, or speak with the krewe leader at the main camp once it has been fully established.","Используйте микро-облако, чтобы разобрать и проанализировать турель Inquest, или поговорите с лидером группы в главном лагере, как только он будет полностью обустроен."
 Use a rock to knock a crystal shard out of Inquest hands while racing them to collect crystal shards for the Zephyrites.,"Используйте камень, чтобы выбить осколок кристалла из рук Inquest, соревнуясь с ними в сборе осколков для Zephyrites."
-Use a salvage kit to salvage  item.,"Используйте набор для разбора, чтобы разобрать  предмет."
+Use a salvage kit to salvage %num2% item.,"Используйте набор для разбора, чтобы разобрать %num2% предмет."
 Use a trebuchet to deal damage to walls or to drain the supply of enemy players. Draining supply awards more progress.,"Используйте требушет, чтобы нанести урон стенам или истощить запасы вражеских игроков. Истощение запасов дает больше прогресса."
 Use advanced gliding to reach the farthest overlook of Mordremoth's domain.,"Используйте продвинутое планирование, чтобы добраться до самого дальнего выступа владений Mordremoth."
 Use all six Signature Moves against your opponents.,Используйте все шесть Signature Moves против своих противников.
@@ -372,7 +372,7 @@ Use the jackal to find the best spot for viewing the sky at night.,"Исполь
 Use the ooze to open the gate.,"Используйте слизь, чтобы открыть ворота."
 Use the torch of divine fire to defeat your doppelganger from the old mirror in the Durmand Priory's special collections.,"Используйте факел божественного огня, чтобы победить своего двойника из старого зеркала в специальных коллекциях Durmand Priory."
 Use the warclaw's Chain Pull skill to damage gates in WvW.,"Используйте навык Chain Pull боевого варклава, чтобы повредить ворота в WvW."
-Use the weapon-swap button to switch your active weapon  time.,
+Use the weapon-swap button to switch your active weapon %num2% time.,
 Use traps on other competitors.,Используйте ловушки на других участниках.
 Use unbound magic skills / times while in the air in Bloodstone Fen.,Используйте умения магии без ограничений / определенное количество раз во время полета в Кровавом Болоте.
 Use water balloons scattered around the top of the Labyrinthine Cliffs to extinguish the flame effigy.,"Используйте водяные шары, разбросанные по вершине Лабиринтовых Утесов, чтобы потушить огненное чучело."
@@ -385,7 +385,7 @@ Use your skimmer's Aetherlocation skill to collect 20 skimmer-dredged treasures 
 Use your skimmer's Aetherlocation skill to collect skimmer-dredged treasures in open-world maps across Tyria.,"Используйте навык скимера «Эфирная локация» (Aetherlocation), чтобы собрать сокровища, добытые скимером, на картах открытого мира по всей Tyria."
 Use your springer to catch every crow in Grub Lane.,"Используйте своего спрингера, чтобы поймать всех ворон на Личиночной аллее (Grub Lane)."
 Use your springer to find and collect carrots in the Brightwater Inlet.,"Используйте своего спрингера, чтобы найти и собрать морковь в бухте Светлой воды (Brightwater Inlet)."
-Use your utility skills  time.,Используйте свои вспомогательные навыки во время боя.
+Use your utility skills %num2% time.,
 Use your warclaw's strong sense of smell to find the wayward wisp.,"Используйте острое обоняние своего боевого когтя (warclaw), чтобы найти заблудшего огонька."
 Used a scepter to inflict 60 conditions on opponents in Thunderhead Peaks.,"Использовал(а) скипетр, чтобы наложить 60 состояний на противников в Пиках Громовой Головы."
 Using Combo Skills,Использование комбо-навыков

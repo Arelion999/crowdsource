@@ -87,12 +87,12 @@ Defeating the Karka in Southsun Cove,Победа над Karka в Southsun Cove
 Defeating the Risen,Победа над Risen
 Defeating the Risen in the Ruins of Orr,Победа над Risen в Ruins of Orr
 Defector Protector,Защитник перебежчика
-Defend  keep.,Защитите крепость.
+Defend %num2% keep.,
 Defend %num2% keeps.,
-Defend  objective.,Защитите объект.
+Defend %num2% objective[s].,
 Defend %num2% objectives.,
 Defend %num2% supply camps.,
-Defend  tower.,Защитите башню.
+Defend %num2% tower.,
 Defend %num2% towers.,
 Defend Stonemist Castle %num2% times.,
 "Defend a castle, keep, tower, or supply camp for your realm in World versus World.","Защищайте замок, крепость, башню или лагерь снабжения для своего мира в World versus World."
@@ -250,9 +250,9 @@ Destroy %num2% Dominion heavy artillery in the Northern Drizzlewood Coast.,
 Destroy %num2% Dominion supply caravans in Northern Drizzlewood Coast.,
 Destroy %num2% Dominion tents in the Northern Drizzlewood Coast.,
 Destroy %num2% Kryptis turrets.,
-Destroy  bridge.,Уничтожьте мост.
+Destroy %num2% bridge[s].,
 Destroy %num2% corrupted shards in Northern Drizzlewood Coast.,
-Destroy  enemy wall or gate.,Уничтожьте вражескую стену или ворота.
+Destroy %num2% enemy wall or gate.,
 Destroy %num2% flotsams with your boat in New Kaineng City.,
 Destroy %num2% ice shards trapping allies.,
 Destroy %num2% malfunctioning jade mechs in New Kaineng City.,
@@ -293,7 +293,7 @@ Destroy all who oppose you.,"Уничтожьте всех, кто вам про
 Destroy both of the Inquest bridges to hinder their progress.,"Уничтожьте оба моста Инквеста, чтобы замедлить их продвижение."
 Destroy each of the jade artillery cannons.,Уничтожьте каждую из нефритовых артиллерийских пушек.
 Destroy each of the three Corsair ships during the Palawadan raid.,Уничтожьте каждый из трех кораблей Корсаров во время налета на Палавадан.
-Destroy energy probes or investigate energy probe wreckage in  different map.,Уничтожьте энергетические зонды или исследуйте обломки энергетических зондов на разных картах.
+Destroy energy probes or investigate energy probe wreckage in %num2% different map[s].,
 Destroy every miniature piece of Tixx's toy diorama in Tixx's Infinirarium. (Dungeon instance only; not in the Toypocalypse activity.),Уничтожьте каждую миниатюрную часть игрушечной диорамы Тикса в Инфинирариуме Тикса. (Только в подземелье; не в режиме активности «Игрушечный апокалипсис».)
 Destroy every miniature piece of Tixx's toy diorama. (Dungeon instance only; not in the Toypocalypse activity.),Уничтожьте каждую миниатюрную деталь игрушечной диорамы Tixx. (Только в подземелье; не в событии «Тойпокалипсис».)
 Destroy one of the legendary bosses patrolling Doric's Landing.,"Уничтожьте одного из легендарных боссов, патрулирующих Пристань Дорика."

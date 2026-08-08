@@ -478,7 +478,7 @@ Defang the Fangs That Gnash,"Обезоружьте Клыки, что скре�
 Defeat %num2% Aberrant in Northern Drizzlewood Coast.,
 Defeat %num2% Avatars of Spite.,
 Defeat %num2% Branded enemies.,
-"Defeat  Branded, Destroyer, Icebrood, or Mordrem enemy.","Победите клейменого, разрушителя, ледяного выводка или мордема."
+"Defeat %num2% Branded, Destroyer, Icebrood, or Mordrem enemy[pl:""enemies""].",
 "Defeat %num2% Destroyer enemy[pl:""enemies""] in Mount Maelstrom.",
 Defeat %num2% Dominion charr in Leadfoot Village in the Drizzlewood Coast.,
 Defeat %num2% Dominion charr in Lighthouse Point in the Drizzlewood Coast.,
@@ -490,7 +490,7 @@ Defeat %num2% Dominion charr.,
 Defeat %num2% Dominion tribunes in the Northern Drizzlewood Coast.,
 Defeat %num2% Fallen in Northern Drizzlewood Coast.,
 "Defeat %num2% Flame Legion enemy[pl:""enemies""] in Iron Marches and Fireheart Rise.",
-Defeat  Halloween minion.,Победите хэллоуинского миньона.
+Defeat %num2% Halloween minion.,
 "Defeat %num2% Icebrood enemy[pl:""enemies""] in Frostgorge Sound.",
 "Defeat %num2% Inquest enemy[pl:""enemies""] in Mount Maelstrom and Sparkfly Fen.",
 Defeat %num2% Inquest.,
