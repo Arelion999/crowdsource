@@ -46,6 +46,10 @@
   - у оригинала потеряна разметка: на сервере строка несёт %num2%/[s], а наша
     копия пришла без них («Complete  event.» вместо «Complete %num2% event[s].»).
     Сверка с sync/server_strings.csv; без этого файла проверка выключена;
+  - похоже, потеряно число: точной реконструкции нет, но рядом стоит серверная
+    строка с числом, а у нашей на его месте остался след — заглушка «x%»
+    («Ascalonians remaining: x%» вместо «%num1%%%»), оборванное двоеточие
+    («Waves defeated:»), голая косая. Ищется по расстоянию Левенштейна;
   - «ты» и «вы» в одной строке (разнобой обращения);
   - оригинал кончается на .!? — перевод нет (потерянная точка);
   - пробел перед знаком препинания.
@@ -264,6 +268,70 @@ def edit_distance(a, b, cap=12):
             return cap + 1
         prev = cur
     return prev[-1]
+
+# Точная реконструкция ловит только тот случай, когда из строки аккуратно вынули
+# плейсхолдер и больше ничего не тронули. Но порча бывает и другой: на месте числа
+# оставили заглушку («Ascalonians remaining: x%» вместо «%num1%%%»), вписали
+# конкретное значение («Golem cannons remaining: 3/3»), обрубили весь хвост
+# («Bombs Remaining» вместо «Bombs Remaining: %num1%»). Такие ищем по расстоянию.
+#
+# Полный перебор не нужен: цель — только строки с числом, кандидаты берутся по
+# краям. Выпавшее из середины сохраняет оба края, выпавшее с краю — второй край.
+SERVER_NUM = re.compile(r'%num\d*%')
+SRV_PRE, SRV_SUF = {}, {}
+
+def _index_numbered():
+    for skels in SERVER_STRINGS.values():
+        for s in skels:
+            if SERVER_NUM.search(s):
+                k = server_skel(s)
+                SRV_PRE.setdefault(k[:10], []).append(s)
+                SRV_SUF.setdefault(k[-10:], []).append(s)
+
+_index_numbered()
+_LETTERS = re.compile(r'[^a-z]')
+# След изъятия. Без него эвристика метит и законные подписи интерфейса: рядом с
+# «Motes Collected» в игре просто существует счётчик «%num1%/%num2% Motes
+# Collected», и это две разные строки, а не порча. Ловим только то, где на месте
+# числа что-то осталось: зазор, голая косая, оборванное двоеточие, заглушка «x».
+SEAM = re.compile(r'[A-Za-z0-9]  +[A-Za-z0-9]|\s/\s|[:—-]\s*$|:\s*[xX]\b|\bx\s*%|'
+                  r'\(\s*\)|\[\s*\]|^\s|\s$')
+_near_cache = {}
+
+def _bare(s):
+    return re.sub(r'\s+', ' ', SERVER_NUM.sub('', s)).strip()
+
+def server_near(en):
+    """Похожая серверная строка, у которой число есть, а у нашей копии нет.
+
+    Решает не расстояние само по себе, а ЧТО разошлось. У настоящей потери
+    различие только в разметке и пунктуации; если разошлись буквы — это просто
+    соседняя строка: «Unlock all  Fused weapon skins» подтягивался к «Unlock all
+    %num2% Auric weapon skins», хотя наборы обликов разные. Поэтому решающая
+    проверка — расстояние по одним буквам, без цифр и знаков.
+    """
+    if en in _near_cache:
+        return _near_cache[en]
+    if not SEAM.search(en):
+        _near_cache[en] = None
+        return None
+    res = None
+    k = server_skel(en)
+    cand = set(SRV_PRE.get(k[:10], ())) | set(SRV_SUF.get(k[-10:], ()))
+    if cand:
+        flat = re.sub(r'\s+', ' ', en).strip()
+        best, bd = None, 99
+        for c in cand:
+            d = edit_distance(flat, _bare(c), cap=8)
+            if d < bd:
+                best, bd = c, d
+        if best is not None and 0 < bd <= 6:
+            ld = edit_distance(_LETTERS.sub('', flat.lower()),
+                               _LETTERS.sub('', _bare(best).lower()), cap=4)
+            if ld <= 2:
+                res = f"похоже, потеряно число, на сервере: «{best[:60]}»"
+    _near_cache[en] = res
+    return res
 
 def server_check(en):
     """Предупреждение, если у строки на сервере есть разметка, а у нашей копии нет."""
@@ -499,6 +567,10 @@ def check_row(en, ru):
     srv = server_check(en)
     if srv:
         warns.append(srv)
+    elif SERVER_STRINGS and not SERVER_NUM.search(en):
+        near = server_near(en)
+        if near:
+            warns.append(near)
     return errs, warns
 
 def iter_csv(paths):
