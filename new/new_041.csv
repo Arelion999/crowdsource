@@ -134,8 +134,6 @@ Bandit assault ends in: %str1%,Бандитский штурм закончит�
 Bandit kidnappers,Бандиты-похитители
 Bandit pack bulls,Бандитские вьючные быки
 Bandit-Trained Broodmother,Обученная бандитами матка
-"Banditen-Bezwinger[f:""Bezwingerin""]",
-"Banditen-Waffenspezialist[f:""Waffenspezialistin""]",
 Bandits active: %num1%/9,Бандитов в строю: %num1%/9
 "Bandits are attacking the cattle ranch! Please, they need to be stopped.","Бандиты нападают на скотоводческое ранчо! Прошу, их надо остановить."
 Bandits are busting up the pump house—somebody stop them!,Бандиты громят насосную станцию — остановите их кто-нибудь!
@@ -149,8 +147,6 @@ Bandits selling their own kind to the centaurs? Disgusts me to even think about 
 Bandits. They're everywhere. They've taken the rest of the staff deeper into my master's estate.,Бандиты. Они повсюду. Они утащили остальных слуг вглубь поместья моего господина.
 Bandits? Again? Forget this noise. I'm outta here.,Бандиты? Опять? Да ну этот шум. Я отсюда сваливаю.
 Baneberry Vine,Лоза воронца
-"Bannbrecher-Adept[f:""Adeptin""]",
-"Bannbrecher-Meister[f:""Meisterin""]",
 "Banur, Who Targets the Just","Банур, Метящий в Праведных"
 Bar Torch,Факел бара
 Barbed Explosion,Зазубренный взрыв
@@ -178,7 +174,6 @@ Barrier Turret,Турель-барьер
 Barrier up. Good Luck.,Барьер поднят. Удачи.
 Barrier • Swiftness,Барьер • Быстрота
 Barrier's up and steady!,Барьер поднят и держится!
-"Baruch-Bucht-Veteran[f:""Veteranin""]",
 Base next door.,База по соседству.
 "Based on your last public report, the individuals involved in the Shing Jea crash are your leading suspects.","Судя по вашему последнему публичному отчёту, участники крушения у Шинг Джеа — ваши главные подозреваемые."
 Basement Door,Дверь в подвал
@@ -202,7 +197,6 @@ Bastion of the Celestial Key,Ключ Небесного Бастиона
 Bastion of the Celestial Pillar,Колонна Небесного Бастиона
 Bastion of the Natural Pillar,Колонна Бастиона Природы
 Bastion of the Obscure Pillar,Колонна Бастиона Незримого
-"Bastler[f:""Bastlerin""]",
 Bat,Летучая мышь
 Bat Familiar,Фамильяр — летучая мышь
 Bat Matriarch,Матриарх летучих мышей
@@ -215,7 +209,6 @@ Battery-Charged Rifles,Ружья с батарейной подзарядкой
 Battle Pit Cage,Клетка боевой ямы
 Battle Pit Combatant,Боец боевой ямы
 Battle is imminent.,Битва вот-вот начнётся.
-"Baumknutscher-Knutscher[f:""Knutscherin""]",
 "Be careful if you're headed west, the Inquest has a lab out there.","Будь осторожен, если идёшь на запад: у Инквеста там лаборатория."
 Be careful in this cave. You never know when a wurm will spring up and try to eat you.,"Осторожнее в этой пещере. Никогда не знаешь, когда из земли выскочит вурм и попытается тебя сожрать."
 "Be careful out there, Commander. This is the only waypoint we were able to set up for the Seraph.","Береги себя там, командир. Это единственная точка перемещения, которую мы смогли поставить для Серафимов."
@@ -310,15 +303,12 @@ Begone. These are our grounds.,Прочь. Это наши земли.
 Behave yourself!,Веди себя прилично!
 Behave yourself.,Веди себя прилично.
 Behemoth's Gap Garrison Support,Поддержка гарнизона Ущелья Бегемота
-"Beherrschung: ""Champions""",
 "Behold, my might!",Узри мою мощь!
 Bei will call the mech back to base in: %str1%,Бэй отзовёт меха на базу через: %str1%
 "Beigarth of the norn, Occam of the sylvari—both masters of their craft. I've also brought in the tengu Izu Steelshrike. I have something special in mind for him.","Бейгарт из норнов, Оккам из сильвари — оба мастера своего дела. Я также привлёк тенгу Изу Стального Сорокопута. На него у меня особые виды."
 Being inside the wurm's stomach has weakened you. You are unable to gather wurm attractant.,Пребывание внутри желудка вурма ослабило вас. Вы не можете собирать приманку для вурма.
 Being this close to Nourys puts stress on your mind. You take increasing damage the longer you're near it.,"Такая близость к Нурису давит на разум. Чем дольше вы рядом, тем больше урона получаете."
 Bekk,Бекк
-"Belagerungs-Durchbrecher[f:""Durchbrecherin""]",
-"Belagerungsmaschinen-Stampfer[f:""Stampferin""]",
 Belched On,Обрыгали
 "Believe it or not, EVEN MORE FIRE!","Хотите верьте, хотите нет — ЕЩЁ БОЛЬШЕ ОГНЯ!"
 Belinda's Sword,Меч Белинды
@@ -327,10 +317,8 @@ Bellator the Quiet,Беллатор Молчаливый
 Belliak,Беллиак
 Bellows Heat,Жар мехов
 Belly rubs are a sure way to make fast friends of the journeykit.,Почесать пузо — верный способ быстро подружиться с походным набором.
-Belohnungen,
 Benchy,Бенчи
 Bending Chaos,Изгибающийся хаос
 Bending Reed,Гнущийся тростник
 "Beneath the dust, there is a small inscription: ""To the Winners of the 1320 Lion's Arch Tournament: Destiny's Edge. Last contestants standing: Rytlock Brimstone & Garm the wolf.""",Под пылью виднеется небольшая надпись: «Победителям турнира Львиной Арки 1320 года: Грани Судьбы. Последние устоявшие участники: Ритлок Бримстоун и волк Гарм».
 "Beneath the tree's cooling shade, you can feel the landscaper's pride and accomplishment.",В прохладной тени дерева ты чувствуешь гордость садовника и его труд.
-"Benefactor[f:""Benefactora""] aviar",

@@ -62,8 +62,6 @@ Influence for Camp Tier 4:,Влияние для лагеря 4-го уровн�
 Informant,Информатор
 Informationen erhalten,Информация получена.
 Informationen ernten,Собирать информацию
-"Informations-Beschaffer[f:""Beschafferin""]",
-"Informations-Sammler[f:""Sammlerin""]",
 Ingenieur-Lehrling,Ученик-инженер
 Inglés,Английский
 Ingot Crate,Ящик со слитками
@@ -86,11 +84,7 @@ Injured Sunspear,Раненый Солнцекопьё
 Injured Ward Member,Раненый член отряда стражей
 Injusticia,Несправедливость
 Inmersiva,Инмерсива
-"Inmunocomprometedor[f:""Inmunocomprometedora""]",
 Inner Chamber Control Panel,Панель управления внутренней камерой
-Inneres-Nayos-Beherrschung I,
-Inneres-Nayos-Beherrschung II,
-Inneres-Nayos-Beherrschung III,
 Innkeeper Aela,Трактирщица Аэла
 Innkeeper Jannick,Трактирщик Янник
 Innkeeper Tallatha,Трактирщица Таллата
@@ -188,12 +182,9 @@ Inquest remaining: %num1%%%,Осталось заданий от Инквизи�
 Inquest return to their posts in: %str1%,Инквизиторы возвращаются к своим постам в: %str1%
 Inquest: %num1% Crystal Shard[s],Инквизиция: %num1% оскол[ок|ка|ков] кристалла
 Inquest? Really?,Инквизиция? Серьёзно?
-"Inquestur-Anstifter[f:""Anstifterin""]",
 Inquestur-Einsicht,Взгляд Инквизитора
-Inquestur-Entlassungen,
 Inquestur-Hologramm,Голограмма Инквизитора
 Inquestur-Saboteurin,Саботер-разведчик
-"Inquestur-Versuchsobjekte-Befreier[f:""Befreierin""]",
 Inquestur.Info,Инквезтури.инфо
 Inquesturbremse,Тормоз Инквизиции
 Inquest—tactics—tutorial—initiated. Prepare—to—be—educated.,Инквизиция: тактика. Запуск обучающего режима. Приготовьтесь к обучению.
@@ -209,8 +200,6 @@ Inscribed Seer Power Node,Нанесённый узор силы: Провиде
 Insect Swarm bite,укус роя насекомых
 Insecticide,Инсектицид
 Insectiod Fireball,Огненный шар насекомого
-"Insekten-Bezwinger[f:""Bezwingerin""]",
-"Insel-Abenteurer[f:""Abenteurerin""]",
 Insel-Entdeckungstour,Островная экскурсия
 Insert Flow Connector,Вставить соединитель потока
 Insert the data key titled Extracurricular Studies.,Вставьте ключ данных под названием «Дополнительные занятия».
@@ -286,7 +275,6 @@ Inventar,Инвентарь
 Inventor Lori'pette,Изобретатель Лорипетт
 Inventor Shminkta,Изобретатель Шминкта
 "Inventors? I am interested in our host, Lord Caudecus.","Изобретатели? Меня интересует наш хозяин, лорд Кодекус."
-"Investigador[f:""Investigadora""] ancestral",
 Investigate Tomb,Исследовать гробницу
 Investigate cow,Исследовать корову.
 Investigate for feathers,Осмотритесь в поисках перьев.

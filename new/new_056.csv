@@ -18,7 +18,6 @@ Ettin Gate,Врата Эттина
 Ettin Sized,Размером с эттина
 Ettin Trap,Ловушка-эттин
 Ettin have blocked the road ahead! I need your help.,Эттин заблокировал дорогу! Мне нужна ваша помощь.
-"Ettin-Bezwinger[f:""Bezwingerin""]",
 Ettins,Еттины
 Ettins caged: %num1%/5,Еттины в клетках: %num1%/5
 Ettins collected: %num1%/5,Эттины собрали: %num1%/5
@@ -47,7 +46,6 @@ Event Scale,Масштаб события
 Event Start,Начало события
 Event completes in: %str1%,Событие завершится через: %str1%
 Event time remaining: %str1%,До окончания события осталось: %str1%
-Events abschließen I,
 Ever hear the one about the asura who had lots of friends? (pause) Me neither.,"Слышали анекдот про асуру, у которого было много друзей? (пауза) Я тоже нет."
 Ever see any sharks?,Видел ли ты когда-нибудь акул?
 Ever tried to chat up icebrood? Doesn't work. They just start smashing stuff.,Пытался когда-нибудь заговорить с ледяным чудовищем? Бесполезно. Они просто начинают всё крушить.
@@ -94,10 +92,7 @@ Evolved Slubling,Эволюционировавший Слуб
 Evolves Rapidly,Быстро эволюционирует
 Ewige Puristen-Machenschaften,Козни вечных пуристов.
 Ewige Wacht,Вечная стража
-"Ewiger[f:""Ewige""] Alchemist[f:""Alchemistin""]",
-Ewigkeitsgarten-Beherrschung,
 Ewigkeitsgarten-Einsicht: Gifthain-Observatorium,Сад Вечности: Обсерватория Ядовитой Рощи
-"Ewigkeitsgarten-Explorator[f:""Exploratorin""]",
 Ewigkeitsgarten-Rissjagd,Охота за разломами в Саду Вечности
 Ex-esqueleto,Бывший скелет
 ExACTly.,Именно так.
@@ -182,7 +177,6 @@ Exemplifying excellent engineering.,Образец отличной инжене
 Exhausted Jackal Runeforger,Изнурённый рунный коваль-шакал
 Exhausted Remnant Caller,Истощённый призыватель остатков
 Exhibits defeated: %num1%/%num2%,Победили %num1%/%num2% экспонатов.
-"Exil-Henker[f:""Henkerin""]",
 Exit Arena,Выйти из арены
 Exit Chantry of Secrets,Выйти из Тайной часовни
 Exit Lodge,Выйти из ложи
@@ -229,7 +223,6 @@ Exploding Fish,Взрывающаяся рыба
 Exploding Wick,Взрывающаяся фитиль
 Exploracavernas,Исследование пещер
 Explorador desaparecido,Пропавший исследователь
-"Explorador[f:""Exploradora""] tropical",
 Explorator,Исследователь
 Exploratorin,Исследовательница
 Explore,Исследовать
@@ -318,7 +311,6 @@ Explosive Device,Взрывное устройство
 Explosive Disengage,Взрывной отход
 Explosive Golem,Взрывоопасный голем
 Explosive Ordnance,Взрывной боеприпас
-Explosive Vermeidung,
 Explosive Whirl,Взрывной вихрь
 Explosives Stash,Запас взрывчатки
 Explosives were unable to breach Barrowstead. Vigil forces are regrouping.,Взрывчатка не смогла пробить оборону Бэрроустеда. Силы Стражей перегруппировываются.

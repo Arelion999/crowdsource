@@ -79,8 +79,6 @@ Scavin Rendclaw,Скавин Рендклоу
 Scepter pieces,Части скипетра
 "Scepters, tridents, staffs, foci, sigils, and potions.","Скипетры, трезубцы, посохи, фокусы, руны и зелья."
 Schach-Maat,Шах-Маат
-Schadensbegrenzung,
-Schakal-Erkundung,
 Schamanen-Kolonie,Колония шаманов
 Scharfauge,Острый глаз
 Schatten,Шаттен
@@ -88,7 +86,6 @@ Schatten bannen,Снять проклятие тени
 Schatten-Informationen: Gold,Информация о тени: золото
 Schatten-Informationen: Silber,Информация о тенях: серебро.
 Schatten-Patrouille,Теневой патруль
-"Schatten-Sprinter[f:""Sprinterin""]",
 "Schatulle ""Ausdauer""","Ящик ""Выносливость"""
 "Schatulle ""Cryptonym""","Шкатулка ""Криптоним"""
 "Schatulle ""Donnerbrecher""","Ящик ""Громобой"""
@@ -97,17 +94,13 @@ Schatten-Patrouille,Теневой патруль
 "Schatulle ""Flammenklinge II""","Ящик ""Пламенное лезвие II"""
 "Schatulle ""Himmelsscheibe""","Ящик ""Небесная сфера"""
 "Schatulle ""Obsidian-Triumph""","Сундук ""Обсидиановое триумфальное знамя"""
-"Schaufler-Bezwinger[f:""Bezwingerin""]",
 Schauflug: Gold,Обзор: золото
 Schauflug: Silber,Обзор: Серебро
 Schaustellerin Gabbi,Шапито Габби
-"Scherben-Sucher[f:""Sucherin""]",
 Scherbenhaufen,Свалка обломков
-Schiffsverteidigung,
 Schildfalle,Щитовая ловушка
 Schildgenerator-Fachkenntnis,Знание принципов работы генератора щита.
 Schimpfwort-Filter:,Фильтр нецензурной лексики:
-Schlachtzug-Gottheit,
 Schlachtzug-Kopfgeld: Cairn,Награда за убийство босса в подземелье: Каэрн
 Schlachtzug-Kopfgeld: Decima,Награда за убийство босса рейда: Децима
 Schlachtzug-Kopfgeld: Deimos,Награда за убийство босса рейда: Демос
@@ -123,48 +116,21 @@ Schlachtzug-Kopfgeld: Sabetha,Награда за убийство в подзе
 Schlachtzug-Kopfgeld: Samarog,Награда за убийство в подземелье: Самарог
 Schlachtzug-Kopfgeld: Ura,Награда за убийство босса рейда: Ура
 Schlachtzug-Kopfgeld: Xera,Награда за убийство в подземелье: Ксера
-"Schlachtzug-Mentor[f:""Mentorin""]: Adina",
-"Schlachtzug-Mentor[f:""Mentorin""]: Cairn",
-"Schlachtzug-Mentor[f:""Mentorin""]: Decima",
-"Schlachtzug-Mentor[f:""Mentorin""]: Deimos",
-"Schlachtzug-Mentor[f:""Mentorin""]: Dhuum",
-"Schlachtzug-Mentor[f:""Mentorin""]: Gorseval",
-"Schlachtzug-Mentor[f:""Mentorin""]: Greer",
-"Schlachtzug-Mentor[f:""Mentorin""]: Matthias",
-"Schlachtzug-Mentor[f:""Mentorin""]: Qadim",
-"Schlachtzug-Mentor[f:""Mentorin""]: Sabetha",
-"Schlachtzug-Mentor[f:""Mentorin""]: Sabir",
-"Schlachtzug-Mentor[f:""Mentorin""]: Samarog",
-"Schlachtzug-Mentor[f:""Mentorin""]: Ura",
-"Schlachtzug-Mentor[f:""Mentorin""]: Xera",
 Schlachtzug-Schnellrunden-Stammgast,Постоянный участник быстрых рейдов
 Schlafenszeit,Время сна.
-"Schleim-Bezwinger[f:""Bezwingerin""]",
-"Schleim-Meister[f:""Meisterin""]",
-"Schlitten-Verteidiger[f:""Verteidigerin""]",
-"Schloss-Einbrecher[f:""Einbrecherin""]",
-"Schmerz-Connaisseur[f:""Connaisseuse""]",
 Schmetterfreudig,Не переводится.
 Schmetterschritt,Бабочковый шаг
 Schmoo,Шму
 Schnarchnase,Храпун
-"Schneeballkrawallteilnehmer[f:""Schneeballkrawallteilnehmerin""]",
 Schneeballschlacht!,Снежная битва!
-"Schneider[f:""Schneiderin""]",
 Schnell erlegt,Быстро убит
 Schnelldurchlauf,Быстрый просмотр
 Schnelles Fell,Быстрый мех
-Schnelligkeit,
-"Schnitter-Adept[f:""Adeptin""]",
-"Schnitter-Meister[f:""Meisterin""]",
-"Schnitter[f:""Schnitterin""]",
 Schnitzereijagd,Охота за резными фигурками
 Schnitztour durch Tyria,Путешествие по Тирии в поисках ремесленных материалов
 Schnurrfekte Flucht,Сногсшибательное бегство
-"Schockblocker[f:""Schockblockerin""]",
 Schockgefrieren,Мгновенная заморозка
 Schockwellen-Springer,Ударная сальто-прыгунья
-"Schockwellenreiter[f:""Schockwellenreiter""]",
 Scholar Ailis,Учёная Айлис
 Scholar Aimee Testibrie,Учёный Эйми Тестибри
 Scholar Alil Rodez will stop accepting artifacts in: %str1%,Учёная Алиль Родез перестанет принимать артефакты через: %str1%
@@ -220,22 +186,12 @@ Scholar of Balance Mentor,Наставник-учёный ордена Равн�
 "Scholar, I believe we share an interest in reaching the Font of Maguuma.","Учёный, думаю, у нас общая цель – добраться до Источника Магумы."
 "Scholars don't know who built the Lost Precipice, nor why it was forsaken.","Ученые не знают, кто построил Затерянный Утес и почему он был покинут."
 Schotakk the Shiny King,Шотакк Великолепный
-"Schoten-Sammler[f:""Sammlerin""]",
 Schrecken Zhaitans,Ужас Зайтана
-"Schreiber[f:""Schreiberin""]",
-"Schreinfinder[f:""Schreinfinderin""]",
-"Schrotter-Adept[f:""Adeptin""]",
-"Schrotter-Meister[f:""Meisterin""]",
 Schrottgewehr-Feldversuch: Gold,"Полевые испытания ""Шротгевер"": золото."
 Schrottgewehr-Feldversuch: Silber,"Полевые испытания ""Шротгевер"": серебро."
-"Schrottplatz-Waffenschmied[f:""Waffenschmiedin""]",
-"Schrottsammler[f:""Schrottsammlerin""]",
 Schrottsuche,Сбор мусора
 Schulter an Schulter,Плечом к плечу
 Schutz,Защита
-Schwankende Wache,Неустойчивая стража
-"Schwarztor-Veteran[f:""Veteranin""]",
-"Schwarzwasser-Veteran[f:""Veteranin""]",
 Schweberochen-Netzfledderei: Gold,Сбор золота с мант и скатов.
 Schweberochen-Slalom,Слалом среди скатов-мант
 Schweberochen-Suche,Поиск мант

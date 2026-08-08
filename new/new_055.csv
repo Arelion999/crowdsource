@@ -64,7 +64,6 @@ Entry 14: I've made gross under-estimations of the raw power requirement necessa
 "Entry 47: I believe I have discovered the perfect location for trial 16. The geo-magnetical readouts are very, very promising.","Запись 47: Я думаю, мне удалось найти идеальное место для испытания №16. Геомагнитные показания выглядят очень и очень многообещающе."
 "Entry 49: It works; the core is stable! Not that I'm surprised. It was only a matter of time. My success, however, is dampened by a nagging fear.","Запись 49: Работает! Ядро стабильно! Хотя меня это и не удивляет. Это было лишь вопросом времени. Мой успех, однако, омрачается навязчивым страхом."
 Entschlossen,Решительный
-Entschlossenheit,
 Entweihungsprophylaxe,Профилактика осквернения
 Entziehen verboten,Отзывать запрещено.
 Envidia aliviada,Облегченная зависть
@@ -77,7 +76,6 @@ Environmental effect: no mortal can survive the sulfurous haze. Slows and deals 
 Enz,Энз
 EoZ Charge,Заряд EoZ
 Eparch's spies get away in: %str1%,Шпионы Эпарха скрываются в: %str1%
-"Eparch-Ausweicher[f:""Ausweicherin""]",
 Eparch?,Эпарх?
 Epharr the Third,Эфарр Третий
 Equip Brandstone Multitool,Наденьте универсальный инструмент для обработки брендовых камней.
@@ -89,9 +87,7 @@ Equipment escort members: 5,Члены отряда сопровождения �
 Erase,Стереть
 Erbarmungslose Infiltration,Безжалостное проникновение
 Erbfolge,Наследственность
-"Erbrecherzerbrecher[f:""Erbrecherzerbrecherin""]",
 Ercwlff,Эрквльф
-"Eredon-Terrasse-Veteran[f:""Veteranin""]",
 Erfolge,Достижения
 Erfolgreiche Detektivarbeit,Успешное расследование.
 Erfolgsgeschichte,История успеха
@@ -100,13 +96,9 @@ Erhabene Legende,Великая легенда
 Erhabener Reparaturtrupp,Превосходная ремонтная бригада
 Erk!,Эрк!
 Erk.,Эрк.
-"Erkundungs-Experte[f:""Expertin""]",
 Erleuchtete Boreal-Waffen,Озарённое бореальное оружие
-Erleuchtung,
 Erlittener Schaden,Нанесённый урон
-"Ernteeinbringer[f:""Ernteeinbringerin""]: Draconis Mons",
 Erntetempel,Храм урожая
-"Eroberer[f:""Eroberin""]",
 Erratic Target,Неустойчивая цель
 Error. Attunement improperly aligned.,Ошибка. Настройка выполнена неправильно.
 Error. Authorization required.,Ошибка. Требуется авторизация.
@@ -120,7 +112,6 @@ Erweiterter Sonderkommando-Parcours 1,Расширенный специальн�
 Erweiterter Sonderkommando-Parcours 2,Расширенный специальный испытательный полигон 2
 Eryd,Эрид
 Erz abbauen,Добывать руду
-"Erz-Bergarbeiter[f:""Bergarbeiterin""]: Draconis Mons",
 Escamacelestes recién nacidas,Новорожденные Escamacelestes
 Escape Pad,План побега
 Escape Palawadan: %str1%,Побег из Палавана: %str1%
@@ -172,7 +163,6 @@ Esquiva a Jimmy,Уклоняйся от Джимми.
 Esquivacorrientes,Уклоняющийся от молний
 Esquivafuego,Уклонение от огня
 Esquivakodan,Эскивакодан
-Esquivalanzadores,
 Esquivapiedras,Эскивапьедрас
 Esquivaportales,Эскивопортал
 Essence Acquisitor Mk. III,"Сущность-аккумулятор, модель III"
@@ -185,10 +175,6 @@ Essence of Valor,Эссенция доблести
 Essence[s] of Divinity's Reach,Эссенция Божественного Предела
 Essence[s] of Nightmares,Эссенция кошмаров
 Essense Collector Sorpp,Собиратель эссенции Сорпп
-"Essenz-Sammler[f:""Sammlerin""] – Champion",
-"Essenz-Sammler[f:""Sammlerin""] – Elite",
-"Essenz-Sammler[f:""Sammlerin""] – Veteran[f:""Veteranin""]",
-"Essenzensammler[f:""Essenzensammlerin""]",
 Establish a route over the mountain ridge.,Проложите маршрут через горный хребет.
 Estas estancias malditas,Эти проклятые комнаты.
 Estimated Harvest Time: %str1%,Приблизительное время сбора: %str1%
