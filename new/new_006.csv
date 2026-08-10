@@ -54,7 +54,7 @@ Challenge Varg at Drakentelt and retrieve your ancestral horn.,Бросьте в
 Challenge begins in: %str1%,Испытание начнётся через: %str1%
 Challenge the elements.,Бросьте вызов стихиям.
 Chamber Accessed,Доступ в зал получен
-%num1% Champion[s] Defeated,
+%num1% Champion[s] Defeated,Побеждено чемпионов: %num1%
 Champion Embalmer Eweje,Чемпион-бальзамировщик Эведже
 Champion Forged Lurker,Кованый скрытень чемпион
 Champion Grawl Shaman,Грол-шаман чемпион
@@ -121,7 +121,7 @@ Check in with Astral Ward members in the Wizard's Tower.,Отметьтесь у
 Check in with Captain Thackeray.,Отметьтесь у капитана Такерея.
 Check in with Emer.,Отметьтесь у Эмер.
 Check in with Jhavi.,Отметьтесь у Джави.
-Check in with Logan in Divinity's Reach.,Отметьтесь у Логана в Божественном Пределе.
+Check in with Logan in Divinity's Reach.,Отметьтесь у Логана в Божественном пределе.
 Check in with all of your allies back on the Dark Leviathan.,Отметьтесь у всех союзников на «Тёмном Левиафане».
 Check in with your friends.,Отметьтесь у друзей.
 Check on Vallus in the stockade.,Проведайте Валлуса в остроге.
@@ -490,7 +490,7 @@ Collected %num1%/%num2% War Supplies from Charr Salvage,Собрано %num1%/%n
 Collected %num1%/%num2% Wavehawk Treasures,Собрано %num1%/%num2% сокровищ волноястребов
 Collected %num1%/%num2% Wintersday Toy Weapon Skins,Собрано %num1%/%num2% обликов игрушечного оружия Зимнего дня
 Collected %num1%/%num2% items.,Собрано %num1%/%num2% предметов.
-Collected %num1%/5 Steel Warband Minis,Собрано %num1%/5 мини Стального отряда
+Collected %num1%/5 Steel Warband Minis,Собрано %num1%/5 мини отряда Стали
 Collected %num1%/5 Weapons,Собрано %num1%/5 единиц оружия
 Collected All Crystal Essences,Собраны все кристаллические эссенции
 Collected All of Vlast's Crystals,Собраны все кристаллы Власта

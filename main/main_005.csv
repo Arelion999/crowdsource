@@ -1355,7 +1355,7 @@ Goss Aleessh""","*Вы касаетесь свитка, и слова исчез
 Если захочешь ответить, наложи обратное заклинание на отдельную страницу. Пустяковая задача для мурсаата, полагаю? 
 
 Госс Алеэш»"
-+%num1%,
++%num1%,+%num1%
 +%num1%,+%num1%
 +%num1% (+%num2%%% %str1%),+%num1% (+%num2%%% %str1%)
 +%num1%%%,+%num1%%%
@@ -1708,7 +1708,10 @@ Stacks Duration up to 2 Hours","+10%% Поиск магии
 "+100 Concentration
 +70 Expertise
 +1%% All Experience Gained
-May Cause Intermittent Gastric Distress",+100 Концентрация+70 Экспертиза+1%% Весь получаемый опытМожет вызывать периодическое расстройство желудка
+May Cause Intermittent Gastric Distress","+100 Концентрация
++70 Экспертиза
++1%% Весь получаемый опыт
+Может вызывать периодическое расстройство желудка"
 "+100 Concentration
 +70 Expertise
 +10%% Experience from Kills","+100 Концентрация
@@ -1797,7 +1800,10 @@ Swiftness for 30 Seconds on Kill
 "+100 Ferocity
 28%% Chance to Gain Might on Critical Hit
 +10%% Experience from Kills
-+30%% Magic Find",+100 Свирепость28%% шанс получить Мощь при крит. ударе+10%% Опыт за убийства+30%% Поиск магии
++30%% Magic Find","+100 Свирепость
+28%% шанс получить Мощь при крит. ударе
++10%% Опыт за убийства
++30%% Поиск магии"
 "+100 Ferocity
 33%% Chance to Gain Might on Critical Hit
 +10%% Experience from Kills","+100 Свирепость
@@ -1841,7 +1847,10 @@ Swiftness for 30 Seconds on Kill
 "+100 Power
 +70 Ferocity
 +1%% to All Experience Gained
-May Cause Intermittent Gastric Distress",+100 Сила+70 Свирепость+1%% ко всему получаемому опытуМожет вызывать периодическое расстройство желудка
+May Cause Intermittent Gastric Distress","+100 Сила
++70 Свирепость
++1%% ко всему получаемому опыту
+Может вызывать периодическое расстройство желудка"
 "+100 Power
 +70 Ferocity
 +10%% Experience from Kills","+100 к силе
@@ -3074,7 +3083,10 @@ Night: 8%% Chance to Steal Life on Critical Hit
 "+30 Ferocity
 Day: 12%% Chance to Burn on Critical Hit
 Night: 12%% Chance to Steal Life on Critical Hit
-+10%% Experience from Kills",+30 СвирепостьДень: 12%% шанс поджечь при крит. удареНочь: 12%% шанс украсть жизнь при крит. ударе+10%% Опыт за убийства
++10%% Experience from Kills","+30 Свирепость
+День: 12%% шанс поджечь при крит. ударе
+Ночь: 12%% шанс украсть жизнь при крит. ударе
++10%% Опыт за убийства"
 "+30 Healing
 +10%% Experience from Kills","+30 к исцелению
 +10%% опыта за убийства"

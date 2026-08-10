@@ -300,7 +300,7 @@ Centaur Morale,Боевой дух кентавров
 Centaur backup arrives in: 10:00,Подкрепление кентавров прибудет через: 10:00
 Centaur backup arrives in: 8:00,Подкрепление кентавров прибудет через: 8:00
 Centaur backup arrives in: x:xx,Подкрепление кентавров прибудет через: x:xx
-Centaur control: %num1%%%,
+Centaur control: %num1%%%,Контроль кентавров: %num1%%%
 Centaur morale: xx%,Боевой дух кентавров: xx%
 Centaur reinforcements killed,Убито подкреплений кентавров
 Centaur resolve: x%,Решимость кентавра: x

@@ -1,6 +1,6 @@
 # Батчи перевода GW2 RU — доска захвата
 
-Всего батчей: **940** | строк: **450,522** | заполнено: **448,951** (99.7%), пусто **1,571** | вычитано человеком: **56,387** (12.5%).
+Всего батчей: **940** | строк: **450,522** | заполнено: **450,065** (99.9%), пусто **457** | вычитано человеком: **56,393** (12.5%).
 
 > Чтобы забиндить батч — впиши свой ник и поставь 🔨 (в работе). Готово → ✅ + ссылка на файл/PR.
 >
@@ -161,23 +161,23 @@
 | `misc_005.csv` | misc | 500 | 43,420 | Assault Eventide's March and confront Queen L | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
 | `misc_006.csv` | misc | 500 | 29,221 | Bring the golem repair kit to PTM. | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
 | `misc_007.csv` | misc | 500 | 24,393 | Choose between searching for the prisoners an | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
-| `misc_008.csv` | misc | 500 | 22,081 | Creamsicle |  | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
-| `misc_009.csv` | misc | 500 | 24,901 | Defend yourself from the swarm of demons! |  | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
-| `misc_010.csv` | misc | 500 | 19,688 | Elegant Canthan Outfit |  | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `misc_008.csv` | misc | 500 | 22,081 | Creamsicle | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `misc_009.csv` | misc | 500 | 24,901 | Defend yourself from the swarm of demons! | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `misc_010.csv` | misc | 500 | 19,688 | Elegant Canthan Outfit | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
 | `misc_011.csv` | misc | 500 | 23,188 | Excuse me, Minister. I must be going. | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
 | `misc_012.csv` | misc | 500 | 26,228 | Follow Exemplar Kerida. | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
 | `misc_013.csv` | misc | 500 | 28,164 | Gorrik and Marjory managed to corner one of t | ✅ | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
 | `misc_014.csv` | misc | 500 | 94,382 | Hmmm... I don't know if I'd be able to. I don | ✅ | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
 | `misc_015.csv` | misc | 500 | 74,603 | I regrouped with our allies, checking in on e | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
-| `misc_016.csv` | misc | 500 | 44,696 | Improved Jump Jets |  | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
-| `misc_017.csv` | misc | 500 | 33,283 | Jormag tempts those who seek power. Whispers  |  | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
-| `misc_018.csv` | misc | 500 | 29,729 | Lighting the Beacons |  | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `misc_016.csv` | misc | 500 | 44,696 | Improved Jump Jets | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `misc_017.csv` | misc | 500 | 33,283 | Jormag tempts those who seek power. Whispers  | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `misc_018.csv` | misc | 500 | 29,729 | Lighting the Beacons | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
 | `misc_019.csv` | misc | 500 | 27,414 | Meet Navan at Nika's Blade Sushi Restaurant. | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
-| `misc_020.csv` | misc | 500 | 48,862 | Night Watch Stool |  | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
-| `misc_021.csv` | misc | 500 | 28,208 | Pass the Trial of Wisdom. |  | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
-| `misc_022.csv` | misc | 500 | 18,761 | Reach Gorrik's Lab. |  | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `misc_020.csv` | misc | 500 | 48,862 | Night Watch Stool | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `misc_021.csv` | misc | 500 | 28,208 | Pass the Trial of Wisdom. | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `misc_022.csv` | misc | 500 | 18,761 | Reach Gorrik's Lab. | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
 | `misc_023.csv` | misc | 500 | 32,410 | Roadblock | ✅ | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
-| `misc_024.csv` | misc | 500 | 25,954 | Shield Magic Disabled |  | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `misc_024.csv` | misc | 500 | 25,954 | Shield Magic Disabled | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
 | `misc_025.csv` | misc | 500 | 26,098 | Speak with engineer Elora. | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
 | `misc_026.csv` | misc | 500 | 38,722 | Talk to Rox. | ✅ | Автозаполнение из словаря — черновик, 498/500 (100%), нужна вычитка |
 | `misc_027.csv` | misc | 500 | 70,627 | The countess asked if I'd travel with the que | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
@@ -234,15 +234,15 @@
 | `ui_047.csv` | ui | 497 | 35,852 | Concoction of Transformation | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_048.csv` | ui | 499 | 20,511 | Convergences: Mount Balrior (Public) |  | Автозаполнение из словаря + PR #1 — черновик, 482/499 (97%), нужна вычитка |
 | `ui_049.csv` | ui | 499 | 19,295 | Create a repeatable instance. |  | Автозаполнение из словаря + PR #1 — черновик, 481/499 (96%), нужна вычитка |
-| `ui_050.csv` | ui | 496 | 15,926 | Cup[s] of Bloodstone Soup |  | Автозаполнение из словаря + PR #1 — черновик, 487/496 (98%), нужна вычитка |
+| `ui_050.csv` | ui | 496 | 15,926 | Cup[s] of Bloodstone Soup | ✅ | Автозаполнение из словаря + PR #1 — черновик, 487/496 (98%), нужна вычитка |
 | `ui_051.csv` | ui | 490 | 40,607 | Dark times call for sacrifice. | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_052.csv` | ui | 492 | 26,511 | Defeat and collect the bounty for the legenda | ✅ | Автозаполнение из словаря + PR #1 — черновик, 491/492 (100%), нужна вычитка |
 | `ui_053.csv` | ui | 500 | 17,195 | Defender's Chest[s] of Coats |  | Автозаполнение из словаря + PR #1 — черновик, 493/500 (99%), нужна вычитка |
 | `ui_054.csv` | ui | 496 | 18,578 | Destroyer burrows | ✅ | Автозаполнение из словаря + PR #1 — черновик, 489/496 (99%), нужна вычитка |
 | `ui_055.csv` | ui | 497 | 30,251 | Dive deep where Dwayna meets the waterway. | ✅ | Магистр Клод, Приорат Дурманд + автозаполнение из словаря, 497/497 (100%) |
-| `ui_056.csv` | ui | 499 | 18,850 | Double-click to open.<br>Affected by magic fi |  | Автозаполнение из словаря + PR #1 — черновик, 480/499 (96%), нужна вычитка |
+| `ui_056.csv` | ui | 499 | 18,850 | Double-click to open.<br>Affected by magic fi | ✅ | Автозаполнение из словаря + PR #1 — черновик, 480/499 (96%), нужна вычитка |
 | `ui_057.csv` | ui | 499 | 18,167 | Drink Southsun Punch | ✅ | Автозаполнение из словаря + PR #1 — черновик, 489/499 (98%), нужна вычитка |
-| `ui_058.csv` | ui | 492 | 25,044 | Dwayna's Shield Skin[s] |  | Автозаполнение из словаря + PR #1 — черновик, 486/492 (99%), нужна вычитка |
+| `ui_058.csv` | ui | 492 | 25,044 | Dwayna's Shield Skin[s] | ✅ | Автозаполнение из словаря + PR #1 — черновик, 486/492 (99%), нужна вычитка |
 | `ui_059.csv` | ui | 498 | 19,015 | Ein Valravn treibt sich beim Friedhof herum u | ✅ | Автозаполнение из словаря + PR #1 — черновик, 479/498 (96%), нужна вычитка |
 | `ui_060.csv` | ui | 497 | 31,024 | Enchanted Owl Griffon Skin[s] | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_061.csv` | ui | 499 | 17,404 | Episode free with Guild Wars 2: End of Dragon | ✅ | Автозаполнение из словаря + PR #1 — черновик, 495/499 (99%), нужна вычитка |
@@ -271,7 +271,7 @@
 | `ui_084.csv` | ui | 492 | 36,683 | Isgarren is higher in the tower. Dagda, a por | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_085.csv` | ui | 497 | 19,652 | Jhavi's First Research Note |  | Автозаполнение из словаря + PR #1 — черновик, 472/497 (95%), нужна вычитка |
 | `ui_086.csv` | ui | 499 | 17,353 | Keep morale up by helping out the local enter | ✅ | Автозаполнение из словаря + PR #1 — черновик, 486/499 (97%), нужна вычитка |
-| `ui_087.csv` | ui | 495 | 21,115 | Kodan Planter Box |  | Автозаполнение из словаря + PR #1 — черновик, 482/495 (97%), нужна вычитка |
+| `ui_087.csv` | ui | 495 | 21,115 | Kodan Planter Box | ✅ | Автозаполнение из словаря + PR #1 — черновик, 482/495 (97%), нужна вычитка |
 | `ui_088.csv` | ui | 498 | 20,659 | Launch a cluster of rusty shrapnel that that  | ✅ | Автозаполнение из словаря + PR #1 — черновик, 486/498 (98%), нужна вычитка |
 | `ui_089.csv` | ui | 500 | 16,018 | Lesser Air Elemental: Deals damage and grants |  | Автозаполнение из словаря + PR #1 — черновик, 488/500 (98%), нужна вычитка |
 | `ui_090.csv` | ui | 499 | 24,190 | Linen Coat Panel[s] | ✅ | Автозаполнение из словаря + PR #1 — черновик, 492/499 (99%), нужна вычитка |
@@ -298,7 +298,7 @@
 | `ui_111.csv` | ui | 498 | 29,203 | Private Property of P.I. Joko | ✅ | Магистр Клод, Приорат Дурманд + автозаполнение из словаря, 498/498 (100%) |
 | `ui_112.csv` | ui | 499 | 24,326 | Purchase from Wark near Terra Combusta in Bla | ✅ | Автозаполнение из словаря + PR #1 — черновик, 496/499 (99%), нужна вычитка |
 | `ui_113.csv` | ui | 497 | 18,668 | QA Health 8 |  | Автозаполнение из словаря + PR #1 — черновик, 489/497 (98%), нужна вычитка |
-| `ui_114.csv` | ui | 496 | 18,542 | Rally point is extremely distant. Clear nearb |  | Автозаполнение из словаря + PR #1 — черновик, 487/496 (98%), нужна вычитка |
+| `ui_114.csv` | ui | 496 | 18,542 | Rally point is extremely distant. Clear nearb | ✅ | Автозаполнение из словаря + PR #1 — черновик, 487/496 (98%), нужна вычитка |
 | `ui_115.csv` | ui | 493 | 17,553 | Receive the Following | ✅ | Автозаполнение из словаря + PR #1 — черновик, 472/493 (96%), нужна вычитка |
 | `ui_116.csv` | ui | 496 | 16,121 | Recipe[s]: Chiaroscuro Hammers | ✅ | Автозаполнение из словаря + PR #1 — черновик, 481/496 (97%), нужна вычитка |
 | `ui_117.csv` | ui | 500 | 15,889 | Recipe[s]: Gift of Music | ✅ | Автозаполнение из словаря + PR #1 — черновик, 489/500 (98%), нужна вычитка |
@@ -334,8 +334,8 @@
 | `ui_147.csv` | ui | 500 | 52,852 | The Tower of Nightmares has been cleared! | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_148.csv` | ui | 492 | 57,060 | This bag contains six items in at least the m | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_149.csv` | ui | 495 | 31,890 | This panel displays all your available utilit | ✅ | Магистр Клод, Приорат Дурманд |
-| `ui_150.csv` | ui | 496 | 15,967 | Throw Jar |  | Автозаполнение из словаря + PR #1 — черновик, 492/496 (99%), нужна вычитка |
-| `ui_151.csv` | ui | 489 | 37,826 | Timekeeper's Harvesting Sickle[s] |  | Магистр Клод, Приорат Дурманд |
+| `ui_150.csv` | ui | 496 | 15,967 | Throw Jar | ✅ | Автозаполнение из словаря + PR #1 — черновик, 492/496 (99%), нужна вычитка |
+| `ui_151.csv` | ui | 489 | 37,826 | Timekeeper's Harvesting Sickle[s] | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_152.csv` | ui | 500 | 20,451 | Tower (Neutral)<brx>• 40 points on capture<br | ✅ | Автозаполнение из словаря + PR #1 — черновик, 175/500 (35%), нужна вычитка |
 | `ui_153.csv` | ui | 498 | 25,377 | Track[pl:"Copies of Track"] 5: Mountain March |  | Автозаполнение из словаря + PR #1 — черновик, 428/498 (86%), нужна вычитка |
 | `ui_154.csv` | ui | 497 | 20,571 | Tray[s] of Rosemary Bread | ✅ | Автозаполнение из словаря + PR #1 — черновик, 481/497 (97%), нужна вычитка |
@@ -352,15 +352,15 @@
 | `ui_165.csv` | ui | 500 | 33,003 | You can't teleport while a player is on the c | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_166.csv` | ui | 500 | 34,673 | You have received a fragment of Scarlet's Jou | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
 | `ui_167.csv` | ui | 499 | 42,760 | You need an Exalted key to open this chest. | ✅ | Магистр Клод, Приорат Дурманд |
-| `ui_168.csv` | ui | 499 | 43,807 | You've unlocked your fourth weapon skill. Pre |  | Магистр Клод, Приорат Дурманд |
+| `ui_168.csv` | ui | 499 | 43,807 | You've unlocked your fourth weapon skill. Pre | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_169.csv` | ui | 399 | 18,565 | Zenith Kris Skin[s] |  | Автозаполнение из словаря + PR #1 — черновик, 366/399 (92%), нужна вычитка |
 | `new_001.csv` | new | 500 | 20,699 | "B" was in the mine again. Didn't catch a gli | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_002.csv` | new | 500 | 49,736 | (The battered remains of an Inquest golem lie | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_003.csv` | new | 500 | 20,197 | A singular focus on overwhelming the enemy. | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_004.csv` | new | 500 | 14,942 | Arise, my creation. | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_005.csv` | new | 500 | 16,711 | Blitz workers are keeping track of how many c | ✅ | Магистр Клод, Приорат Дурманд |
-| `new_006.csv` | new | 500 | 22,224 | Caught the Beast in Record Time |  | Магистр Клод, Приорат Дурманд |
-| `new_007.csv` | new | 500 | 24,650 | Collection: A New Look |  | Магистр Клод, Приорат Дурманд |
+| `new_006.csv` | new | 500 | 22,224 | Caught the Beast in Record Time | ✅ | Магистр Клод, Приорат Дурманд |
+| `new_007.csv` | new | 500 | 24,650 | Collection: A New Look | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_008.csv` | new | 500 | 19,754 | Completed Convincing the Corsair | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_009.csv` | new | 500 | 44,005 | Constructed %num1%/%num2% Portal Device[s] | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_010.csv` | new | 500 | 24,357 | Defeat %num2% players in ranked matches durin | ✅ | Магистр Клод, Приорат Дурманд |
@@ -396,14 +396,14 @@
 | `new_040.csv` | new | 500 | 15,607 | Asesino[f:"Asesina"] de raptores | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_041.csv` | new | 500 | 16,836 | Ayes | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_042.csv` | new | 500 | 14,627 | Benevolencia de año nuevo | ✅ | Магистр Клод, Приорат Дурманд |
-| `new_043.csv` | new | 500 | 16,532 | Botín automático: recogida automática |  | Магистр Клод, Приорат Дурманд |
+| `new_043.csv` | new | 500 | 16,532 | Botín automático: recogida automática | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_044.csv` | new | 500 | 20,160 | But—I—am—certain—it—could—be—perfected—with—y | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_045.csv` | new | 500 | 16,121 | Cascade—failure—imminent. | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_046.csv` | new | 500 | 15,489 | Check on Peitha. | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_047.csv` | new | 500 | 20,020 | Commander Samuelsson | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_048.csv` | new | 500 | 14,240 | Cosas que es mejor olvidar | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_049.csv` | new | 500 | 15,692 | Dando pisotones | ✅ | Магистр Клод, Приорат Дурманд |
-| `new_050.csv` | new | 500 | 15,531 | Deliver these to the work crews before the pr |  | Магистр Клод, Приорат Дурманд |
+| `new_050.csv` | new | 500 | 15,531 | Deliver these to the work crews before the pr | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_051.csv` | new | 500 | 16,781 | Die Flammen-Legion besiegen | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_052.csv` | new | 500 | 17,980 | Don't come back. | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_053.csv` | new | 500 | 18,009 | Earthen Cyclone[s] | ✅ | Магистр Клод, Приорат Дурманд |
@@ -468,12 +468,12 @@
 | `new_112.csv` | new | 500 | 28,314 | Yo me encargo | ✅ | Автозаполнение из словаря + PR #1 — черновик, 77/500 (15%), нужна вычитка |
 | `new_113.csv` | new | 500 | 26,477 | You there! Lend me your ear for a moment. | ✅ | Автозаполнение из словаря + PR #1 — черновик, 68/500 (14%), нужна вычитка |
 | `new_114.csv` | new | 467 | 16,086 | Zaida |  | Автозаполнение из словаря + PR #1 — черновик, 5/467 (1%), нужна вычитка |
-| `new_115.csv` | new | 500 | 13,852 | ![lbracket]alt text[rbracket](https://loading |  | Автозаполнение из словаря + PR #1 — черновик, 498/500 (100%), нужна вычитка |
+| `new_115.csv` | new | 500 | 13,852 | ![lbracket]alt text[rbracket](https://loading | ✅ | Автозаполнение из словаря + PR #1 — черновик, 498/500 (100%), нужна вычитка |
 | `new_116.csv` | new | 500 | 6,225 | Bash a foe with your shield and stun them. | ✅ | Автозаполнение из словаря + PR #1 — черновик, 498/500 (100%), нужна вычитка |
 | `new_117.csv` | new | 500 | 4,878 | Crafting | ✅ | Автозаполнение из словаря + PR #1 — черновик, 498/500 (100%), нужна вычитка |
-| `new_118.csv` | new | 500 | 4,607 | Finisher |  | Автозаполнение из словаря — черновик, 491/500 (98%), нужна вычитка |
+| `new_118.csv` | new | 500 | 4,607 | Finisher | ✅ | Автозаполнение из словаря — черновик, 491/500 (98%), нужна вычитка |
 | `new_119.csv` | new | 500 | 4,659 | Ingredient | ✅ | Автозаполнение из словаря + PR #1 — черновик, 494/500 (99%), нужна вычитка |
-| `new_120.csv` | new | 500 | 6,600 | Mini Axemaster Hareth |  | Автозаполнение из словаря + PR #1 — черновик, 499/500 (100%), нужна вычитка |
+| `new_120.csv` | new | 500 | 6,600 | Mini Axemaster Hareth | ✅ | Автозаполнение из словаря + PR #1 — черновик, 499/500 (100%), нужна вычитка |
 | `new_121.csv` | new | 500 | 4,637 | Overcharge | ✅ | Автозаполнение из словаря — черновик, 490/500 (98%), нужна вычитка |
 | `new_122.csv` | new | 500 | 5,359 | Saved | ✅ | Автозаполнение из словаря — черновик, 494/500 (99%), нужна вычитка |
 | `new_123.csv` | new | 500 | 5,032 | Th | ✅ | Автозаполнение из словаря — черновик, 498/500 (100%), нужна вычитка |
@@ -739,53 +739,53 @@
 | `ach_011.csv` | ach | 500 | 32,596 | Defeat Queen's Gauntlet opponent. |  | Автозаполнение из словаря — черновик, 482/500 (96%), нужна вычитка |
 | `ach_012.csv` | ach | 500 | 25,141 | Defeat the grand champion in the Ooze Pit. |  | Автозаполнение из словаря — черновик, 495/500 (99%), нужна вычитка |
 | `ach_013.csv` | ach | 500 | 24,110 | Do not trigger any Gravitational Waves during |  | Автозаполнение из словаря — черновик, 487/500 (97%), нужна вычитка |
-| `ach_014.csv` | ach | 500 | 18,113 | Egg Protector |  | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
-| `ach_015.csv` | ach | 500 | 24,175 | Find a record of Ankka's early days. |  | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `ach_014.csv` | ach | 500 | 18,113 | Egg Protector | ✅ | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
+| `ach_015.csv` | ach | 500 | 24,175 | Find a record of Ankka's early days. | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
 | `ach_016.csv` | ach | 500 | 23,260 | Freebooter Initiate |  | Автозаполнение из словаря — черновик, 491/500 (98%), нужна вычитка |
-| `ach_017.csv` | ach | 500 | 21,727 | Harvest plants times in Drizzlewood Coast. |  | Автозаполнение из словаря — черновик, 486/500 (97%), нужна вычитка |
+| `ach_017.csv` | ach | 500 | 21,727 | Harvest plants times in Drizzlewood Coast. | ✅ | Автозаполнение из словаря — черновик, 486/500 (97%), нужна вычитка |
 | `ach_018.csv` | ach | 500 | 17,480 | Incinerator III: Spark |  | Автозаполнение из словаря — черновик, 498/500 (100%), нужна вычитка |
 | `ach_019.csv` | ach | 500 | 18,637 | Journal: Strange Observations Completed |  | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
-| `ach_020.csv` | ach | 500 | 16,863 | League Conqueror—Conquest Season Forty-Four |  | Автозаполнение из словаря — черновик, 482/500 (96%), нужна вычитка |
-| `ach_021.csv` | ach | 500 | 15,452 | Look in the face of death... |  | Автозаполнение из словаря — черновик, 488/500 (98%), нужна вычитка |
-| `ach_022.csv` | ach | 500 | 18,174 | Mists Merc Camp Vanquisher |  | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
+| `ach_020.csv` | ach | 500 | 16,863 | League Conqueror—Conquest Season Forty-Four | ✅ | Автозаполнение из словаря — черновик, 482/500 (96%), нужна вычитка |
+| `ach_021.csv` | ach | 500 | 15,452 | Look in the face of death... | ✅ | Автозаполнение из словаря — черновик, 488/500 (98%), нужна вычитка |
+| `ach_022.csv` | ach | 500 | 18,174 | Mists Merc Camp Vanquisher | ✅ | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
 | `ach_023.csv` | ach | 500 | 23,375 | Open trick-or-treat bags. |  | Автозаполнение из словаря — черновик, 460/500 (92%), нужна вычитка |
 | `ach_024.csv` | ach | 500 | 18,785 | Protector of the Skyward Marches |  | Автозаполнение из словаря — черновик, 492/500 (98%), нужна вычитка |
 | `ach_025.csv` | ach | 500 | 17,328 | Repel the Branded from the Free City of Amnoo |  | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
-| `ach_026.csv` | ach | 500 | 16,731 | Scavenge for supplies times. |  | Автозаполнение из словаря — черновик, 495/500 (99%), нужна вычитка |
-| `ach_027.csv` | ach | 500 | 20,892 | Slay champion Emperor Mattake near Ancient Ho |  | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `ach_026.csv` | ach | 500 | 16,731 | Scavenge for supplies times. | ✅ | Автозаполнение из словаря — черновик, 495/500 (99%), нужна вычитка |
+| `ach_027.csv` | ach | 500 | 20,892 | Slay champion Emperor Mattake near Ancient Ho | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
 | `ach_028.csv` | ach | 500 | 23,891 | Still Waters Run Deep |  | Автозаполнение из словаря — черновик, 482/500 (96%), нужна вычитка |
-| `ach_029.csv` | ach | 500 | 22,648 | Take down tier 1, tier 2, and tier 3 rift hun |  | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
-| `ach_030.csv` | ach | 500 | 21,199 | They honestly thought they picked the winning |  | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `ach_029.csv` | ach | 500 | 22,648 | Take down tier 1, tier 2, and tier 3 rift hun | ✅ | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
+| `ach_030.csv` | ach | 500 | 21,199 | They honestly thought they picked the winning | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
 | `ach_031.csv` | ach | 500 | 31,614 | Unlock Sunspear skins in your wardrobe by cra |  | Автозаполнение из словаря — черновик, 494/500 (99%), нужна вычитка |
 | `ach_032.csv` | ach | 500 | 21,385 | Visions of the Past: Canach's Lair |  | Автозаполнение из словаря — черновик, 486/500 (97%), нужна вычитка |
-| `ach_033.csv` | ach | 466 | 27,919 | Wintersday Skritt Hit V |  | Автозаполнение из словаря — черновик, 466/466 (100%), нужна вычитка |
-| `events_001.csv` | events | 500 | 23,102 | "Assistant Fanatic Remove Specialist" seems l |  | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
-| `events_002.csv` | events | 500 | 15,029 | Ash Horizon |  | Автозаполнение из словаря — черновик, 497/500 (99%), нужна вычитка |
-| `events_003.csv` | events | 500 | 15,718 | Brewing Potion in: x:xx |  | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
+| `ach_033.csv` | ach | 466 | 27,919 | Wintersday Skritt Hit V | ✅ | Автозаполнение из словаря — черновик, 466/466 (100%), нужна вычитка |
+| `events_001.csv` | events | 500 | 23,102 | "Assistant Fanatic Remove Specialist" seems l | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `events_002.csv` | events | 500 | 15,029 | Ash Horizon | ✅ | Автозаполнение из словаря — черновик, 497/500 (99%), нужна вычитка |
+| `events_003.csv` | events | 500 | 15,718 | Brewing Potion in: x:xx | ✅ | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
 | `events_004.csv` | events | 500 | 18,062 | Champion Icebrood Norn | ✅ | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
-| `events_005.csv` | events | 500 | 16,629 | Consortium Item |  | Автозаполнение из словаря — черновик, 498/500 (100%), нужна вычитка |
+| `events_005.csv` | events | 500 | 16,629 | Consortium Item | ✅ | Автозаполнение из словаря — черновик, 498/500 (100%), нужна вычитка |
 | `events_006.csv` | events | 500 | 21,059 | Defeat the Champion Svanir Brute | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
 | `events_007.csv` | events | 500 | 21,346 | Defeat the light-infused Inquest golem blocki | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
-| `events_008.csv` | events | 500 | 21,643 | Defend the seal until the Pact cannon is back |  | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
+| `events_008.csv` | events | 500 | 21,643 | Defend the seal until the Pact cannon is back | ✅ | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
 | `events_009.csv` | events | 500 | 18,218 | Drive back Underworld creatures by destroying |  | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
 | `events_010.csv` | events | 500 | 19,118 | Escort the PAC-7000 golem along its northern  |  | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
-| `events_011.csv` | events | 500 | 18,665 | Force Malchor's ghost to reveal itself. |  | Автозаполнение из словаря — черновик, 498/500 (100%), нужна вычитка |
-| `events_012.csv` | events | 500 | 24,116 | Help Ashwah search for his missing daughter i |  | Автозаполнение из словаря — черновик, 498/500 (100%), нужна вычитка |
+| `events_011.csv` | events | 500 | 18,665 | Force Malchor's ghost to reveal itself. | ✅ | Автозаполнение из словаря — черновик, 498/500 (100%), нужна вычитка |
+| `events_012.csv` | events | 500 | 24,116 | Help Ashwah search for his missing daughter i | ✅ | Автозаполнение из словаря — черновик, 498/500 (100%), нужна вычитка |
 | `events_013.csv` | events | 500 | 27,600 | I can do some archaeological research on this |  | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
 | `events_014.csv` | events | 500 | 21,509 | Iron Legion Challenger | ✅ | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
 | `events_015.csv` | events | 500 | 17,075 | Koris |  | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
 | `events_016.csv` | events | 500 | 21,498 | Moas wrangled |  | Автозаполнение из словаря — черновик, 498/500 (100%), нужна вычитка |
 | `events_017.csv` | events | 500 | 19,850 | Okay... but I don't actually know how to pain |  | Автозаполнение из словаря — черновик, 495/500 (99%), нужна вычитка |
-| `events_018.csv` | events | 500 | 20,555 | Prevent the dredge from constructing a barric |  | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
-| `events_019.csv` | events | 500 | 15,848 | Recover the sunken Consortium cargo polluting |  | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
+| `events_018.csv` | events | 500 | 20,555 | Prevent the dredge from constructing a barric | ✅ | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
+| `events_019.csv` | events | 500 | 15,848 | Recover the sunken Consortium cargo polluting | ✅ | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
 | `events_020.csv` | events | 500 | 16,922 | Safe journey, sister. Oh—and Brenda? |  | Автозаполнение из словаря — черновик, 492/500 (98%), нужна вычитка |
-| `events_021.csv` | events | 500 | 19,932 | Soma's Rage |  | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
+| `events_021.csv` | events | 500 | 19,932 | Soma's Rage | ✅ | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
 | `events_022.csv` | events | 500 | 22,209 | Supply Dolyak |  | Автозаполнение из словаря — черновик, 496/500 (99%), нужна вычитка |
 | `events_023.csv` | events | 500 | 29,104 | The boss jungle tendril is defeated, but the  | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
-| `events_024.csv` | events | 500 | 16,298 | Time left before Vanak retreats: 10:00 |  | Автозаполнение из словаря — черновик, 492/500 (98%), нужна вычитка |
-| `events_025.csv` | events | 500 | 19,115 | Use debris in the environment to help destroy |  | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
+| `events_024.csv` | events | 500 | 16,298 | Time left before Vanak retreats: 10:00 | ✅ | Автозаполнение из словаря — черновик, 492/500 (98%), нужна вычитка |
+| `events_025.csv` | events | 500 | 19,115 | Use debris in the environment to help destroy | ✅ | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
 | `events_026.csv` | events | 500 | 25,943 | We have morals, unlike some people! Speaking  | ✅ | Автозаполнение из словаря — черновик, 498/500 (100%), нужна вычитка |
-| `events_027.csv` | events | 175 | 9,785 | You krewe will be assigned to one of three ne |  | Автозаполнение из словаря — черновик, 174/175 (99%), нужна вычитка |
+| `events_027.csv` | events | 175 | 9,785 | You krewe will be assigned to one of three ne | ✅ | Автозаполнение из словаря — черновик, 174/175 (99%), нужна вычитка |
 | `npc_001.csv` | npc | 500 | 41,122 | "...The crowd, they cheered, they clapped, th | ✅ | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
 | `npc_002.csv` | npc | 500 | 42,197 | A squad of Pact Vigil has just attacked Barro | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
 | `npc_003.csv` | npc | 500 | 31,439 | All the basic plants: vegetables, herbs, chic | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
@@ -885,8 +885,8 @@
 | `main_002.csv` | main | 500 | 5,164 | ((1005053)) | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
 | `main_003.csv` | main | 500 | 4,987 | ((318363)) | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
 | `main_004.csv` | main | 500 | 67,292 | ((587875)) | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
-| `main_005.csv` | main | 500 | 123,428 | **Lyhr, the Wizard of Balance** Something pre |  | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
-| `main_006.csv` | main | 500 | 46,284 | +5%% Burning Duration +10%% Experience from K |  | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `main_005.csv` | main | 500 | 123,428 | **Lyhr, the Wizard of Balance** Something pre | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `main_006.csv` | main | 500 | 46,284 | +5%% Burning Duration +10%% Experience from K | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
 | `main_007.csv` | main | 500 | 148,058 | 66%% Chance to Steal Life on Critical Hit +70 | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
 | `main_008.csv` | main | 500 | 216,098 | Bloodcoast Ward: This karka has taken root at | ✅ | Автозаполнение из словаря — черновик, 493/500 (99%), нужна вычитка |
 | `main_009.csv` | main | 500 | 196,511 | Durmand Priory Excavators Remaining | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |

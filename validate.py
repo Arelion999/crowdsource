@@ -136,7 +136,11 @@ def load_glossary_bans(path=None):
         for m in re.finditer(r'~~([^~]+)~~', cells[2]):
             bans += [x.strip() for x in m.group(1).split('/') if len(x.strip()) > 3]
         if ens and bans:
-            en_re = re.compile('|'.join(r'\b' + re.escape(e) + r'\w{0,3}\b' for e in ens), re.I)
+            # Апостроф в имени бывает и типографским: «Divinity's Reach» в одних
+            # строках игры, «Divinity’s Reach» в других. Правило, собранное по
+            # ASCII-апострофу, вторые молча пропускало.
+            en_re = re.compile('|'.join(r'\b' + re.escape(e).replace("'", "['’ʼ]") + r'\w{0,3}\b'
+                                        for e in ens), re.I)
             # Если «НЕ так» отличается от канона только регистром («Дозор Духов» /
             # «Дозор духов») — правило про регистр, ищем точно. Иначе регистр не важен.
             ban_re = [(b, re.compile(r'(?<![А-Яа-яЁё])' + re.escape(b) + r'(?![А-Яа-яЁё])',

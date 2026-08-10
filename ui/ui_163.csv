@@ -35,7 +35,7 @@ With %str1% attunement and %str2% attunement,С настройкой на %str1%
 "With an Empty Hylek Flask in your inventory, mix the four spider venoms to create the Arachnid Venom Decanter.","Держа в инвентаре пустую флягу хилеков, смешайте четыре паучьих яда, чтобы создать Графин паучьего яда."
 "With an Empty Hylek Flask in your inventory, mix the four volatile ingredients to form the Concentrated Volatile Substance.","Держа в инвентаре пустую флягу хилеков, смешайте четыре летучих ингредиента, чтобы получить Концентрированное летучее вещество."
 "With an Empty Hylek Flask in your inventory, mix the six jungle bacteria to create the Concentrated Maguuma Bacteria.","Держа в инвентаре пустую флягу хилеков, смешайте шесть джунглевых бактерий, чтобы создать Концентрированные бактерии Магуумы."
-"With both halves of your sire's key in hand, it's time to report back to Tribune Brimstone. After that, you'll be free and clear to claim whatever treasure your father left behind as his legacy.","Обе половины отцовского ключа у тебя в руках — пора доложить трибуну Бримстоуну. После этого ты будешь вправе забрать любое сокровище, что отец оставил тебе в наследство."
+"With both halves of your sire's key in hand, it's time to report back to Tribune Brimstone. After that, you'll be free and clear to claim whatever treasure your father left behind as his legacy.","Обе половины отцовского ключа у тебя в руках — пора доложить трибуну Серожару. После этого ты будешь вправе забрать любое сокровище, что отец оставил тебе в наследство."
 "With Caladbolg, sword of the Pale Tree, recovered, it's time to discuss how best to defeat the Orrian lich, Mazdak. Riannoc's spirit will be avenged, and the legend of the first sylvari to meet death will at last know an ending.","Каладболг, меч Бледного Древа, возвращён — пора обсудить, как лучше одолеть оррианского лича Маздака. Дух Рианнока будет отомщён, и легенда о первом сильвари, встретившем смерть, наконец обретёт завершение."
 "With enemies like you, %str1%, those bandits will think twice before trying to bother our moa again! My dear Mepi and I might just get a little peace. Thanks for showing them we're not such easy targets after all.—Cassie","С такими врагами, как ты, %str1%, эти разбойники дважды подумают, прежде чем снова цепляться к нашим моа! Может, мы с моим дорогим Мепи наконец обретём немного покоя. Спасибо, что показал им: мы вовсе не такая лёгкая добыча.—Кэсси"
 "With golem and gate and arcane crystal, we have made this new land our own.","Големом, вратами и тайным кристаллом мы сделали эту новую землю своей."
@@ -89,8 +89,8 @@ Witness the heroes of Tyria clash in the Mists to win the prestigious Glorious H
 Witnessed the Opening Ceremony at the Festival of the Four Winds,Церемония открытия Фестиваля Четырёх Ветров увидена
 Wizard Amulet,Амулет волшебника
 Wizard Rug[s],[Ковёр|Ковра|Ковров] волшебника
-Wizard's Ascended Armor Chest[s],[Сундук|Сундука|Сундуков] возвышенной брони волшебника
-Wizard's Ascended Weapon Chest[s],[Сундук|Сундука|Сундуков] возвышенного оружия волшебника
+Wizard's Ascended Armor Chest[s],[Сундук|Сундука|Сундуков] вознесённой брони волшебника
+Wizard's Ascended Weapon Chest[s],[Сундук|Сундука|Сундуков] вознесённого оружия волшебника
 "Wizard's Box[pl:""Boxes""] of Crafting Materials",Коробк[а|и|ок] ремесленных материалов волшебника
 Wizard's Hat Skin[s],Облик[|а|ов] шляпы волшебника
 Wizard's Hoard[s],[Клад|Клада|Кладов] волшебника
@@ -273,7 +273,7 @@ World Map,Карта мира
 World PVP Test Map,Тестовая карта мирового PvP
 World Rank %num1% Reached,Достигнут мировой ранг %num1%
 World Ranking,Мировой рейтинг
-World ranks are acquired by receiving points from killing enemies and completing events while in World vs. World. Increasing your rank will give you a World Ability Point and occasionally unlock a new title.,"Мировые ранги набираются за очки, получаемые за убийство врагов и завершение событий в «Мире против мира». Повышение ранга даёт очко мировых способностей и время от времени открывает новый титул."
+World ranks are acquired by receiving points from killing enemies and completing events while in World vs. World. Increasing your rank will give you a World Ability Point and occasionally unlock a new title.,"Мировые ранги набираются за очки, получаемые за убийство врагов и завершение событий в «World vs. World». Повышение ранга даёт очко мировых способностей и время от времени открывает новый титул."
 World Restructuring - BETA,Перестройка миров — БЕТА
 World Restructuring Beta,Бета перестройки миров
 "World Restructuring is in beta! Earn double WXP, increased reward-track progress, and increased magic find for the duration of the event!","Перестройка миров в бете! На время события получайте двойной мировой опыт, ускоренный прогресс наградных треков и повышенный поиск магии!"
@@ -283,30 +283,30 @@ World Survey,Обзор миров
 World Tournament Series,Мировая турнирная серия
 World Tournament Series China Qualifier,Квалификация Мировой турнирной серии: Китай
 World Tournament Series Invitational Qualifier,Пригласительная квалификация Мировой турнирной серии
-World vs. World (WvW),«Мир против мира» (МпМ)
-World vs. World Battle Guild,Боевая гильдия «Мира против мира»
-World vs. World Beta Event,Бета-событие «Мира против мира»
-World vs. World Bloodlust,Кровожадность «Мира против мира»
-World vs. World Blue Home,Синие владения «Мира против мира»
-World vs. World Center Map Jumping Puzzle,Головоломка с прыжками на центральной карте «Мира против мира»
-World vs. World Core Swap,Смена ядра «Мира против мира»
-World vs. World data not available.,Данные «Мира против мира» недоступны.
-World vs. World Green Home,Зелёные владения «Мира против мира»
-World vs. World is currently undergoing maintenance.  Please try again later.,«Мир против мира» сейчас на обслуживании. Попробуйте позже.
-World vs. world is shutting down to prepare for a new build; you will be redirected to Lion's Arch.,«Мир против мира» отключается для подготовки новой сборки; вы будете перенаправлены во Львиную Арку.
-World vs. World is unavailable while matches are being updated. Please try again in a few minutes.,"«Мир против мира» недоступен, пока обновляются матчи. Попробуйте через несколько минут."
-World vs. World Jumping Puzzle,Головоломка с прыжками «Мира против мира»
-World vs. World No Downed State,«Мир против мира» без состояния поражения
-World vs. World Overflow,Переполнение «Мира против мира»
-World vs. World Red Home,Красные владения «Мира против мира»
-World vs. World Season 1 Bronze League Victory,Победа в бронзовой лиге 1-го сезона «Мира против мира»
-World vs. World Season 1 Gold League Victory,Победа в золотой лиге 1-го сезона «Мира против мира»
-World vs. World Season 1 Silver League Victory,Победа в серебряной лиге 1-го сезона «Мира против мира»
-World vs. World Special Event: Golem Rush,Особое событие «Мира против мира»: натиск големов
-World vs. World Team Creation in Progress,Идёт формирование команд «Мира против мира»
-World vs. World Warclaw,Боевой коготь «Мира против мира»
-World vs. World Weeklong Bonus,Недельный бонус «Мира против мира»
-World vs. World: Stats and Bonuses,«Мир против мира»: характеристики и бонусы
+World vs. World (WvW),«WvW» (WvW)
+World vs. World Battle Guild,Боевая гильдия «World vs. World»
+World vs. World Beta Event,Бета-событие «World vs. World»
+World vs. World Bloodlust,Кровожадность «World vs. World»
+World vs. World Blue Home,Синие владения «World vs. World»
+World vs. World Center Map Jumping Puzzle,Головоломка с прыжками на центральной карте «World vs. World»
+World vs. World Core Swap,Смена ядра «World vs. World»
+World vs. World data not available.,Данные «World vs. World» недоступны.
+World vs. World Green Home,Зелёные владения «World vs. World»
+World vs. World is currently undergoing maintenance.  Please try again later.,«World vs. World» сейчас на обслуживании. Попробуйте позже.
+World vs. world is shutting down to prepare for a new build; you will be redirected to Lion's Arch.,«World vs. World» отключается для подготовки новой сборки; вы будете перенаправлены во Львиную Арку.
+World vs. World is unavailable while matches are being updated. Please try again in a few minutes.,"«World vs. World» недоступен, пока обновляются матчи. Попробуйте через несколько минут."
+World vs. World Jumping Puzzle,Головоломка с прыжками «World vs. World»
+World vs. World No Downed State,«World vs. World» без состояния поражения
+World vs. World Overflow,Переполнение «World vs. World»
+World vs. World Red Home,Красные владения «World vs. World»
+World vs. World Season 1 Bronze League Victory,Победа в бронзовой лиге 1-го сезона «World vs. World»
+World vs. World Season 1 Gold League Victory,Победа в золотой лиге 1-го сезона «World vs. World»
+World vs. World Season 1 Silver League Victory,Победа в серебряной лиге 1-го сезона «World vs. World»
+World vs. World Special Event: Golem Rush,Особое событие «World vs. World»: натиск големов
+World vs. World Team Creation in Progress,Идёт формирование команд «World vs. World»
+World vs. World Warclaw,Боевой коготь «World vs. World»
+World vs. World Weeklong Bonus,Недельный бонус «World vs. World»
+World vs. World: Stats and Bonuses,«World vs. World»: характеристики и бонусы
 Worm Hole,Червоточина
 Worn Arch[s],[Потёртая арка|Потёртых арки|Потёртых арок]
 Worn Bone Dye[s],[Краска|Краски|Красок] «Потёртая кость»
@@ -450,49 +450,49 @@ Wurm's Experienced Blessing Enrichment[s],Обогащени[е|я|й] «Опы�
 Wurm's Gilded Blessing Enrichment[s],Обогащени[е|я|й] «Золочёное благословение червя»
 Wurm's Karmic Blessing Enrichment[s],Обогащени[е|я|й] «Кармическое благословение червя»
 Wurm's Magical Blessing Enrichment[s],Обогащени[е|я|й] «Магическое благословение червя»
-Wurm's WvW Reward Track Blessing Enrichment[s],Обогащени[е|я|й] «Благословение червя: наградной трек МпМ»
+Wurm's WvW Reward Track Blessing Enrichment[s],Обогащени[е|я|й] «Благословение червя: наградной трек WvW»
 Wurm's WXP Blessing Enrichment[s],Обогащени[е|я|й] «Благословение червя: мировой опыт»
 Wurm[s],[Червь|Червя|Червей]
 Wurmhowl<br>Spikes,Шипы<br>Червиного Воя
-WvW Ability Systems,Системы способностей МпМ
-WvW Ability: Provisions Master I,Способность МпМ: мастер снабжения I
-WvW Ability: Provisions Master II,Способность МпМ: мастер снабжения II
-WvW Ability: Provisions Master III,Способность МпМ: мастер снабжения III
-WvW Arrow Cart Controller,Контроллер стреломёта МпМ
-WvW Ballista Controller,Контроллер баллисты МпМ
-WvW Boiling Oil Controller,Контроллер кипящего масла МпМ
-WvW Borderlands,Приграничья МпМ
-WvW Cannon Controller,Контроллер пушки МпМ
-WvW Capture,Захват МпМ
-WvW Capture and Hold,Захват и удержание МпМ
-WvW Catapult Controller,Контроллер катапульты МпМ
-WvW Challenge,Испытание МпМ
-WvW Claiming,Закрепление в МпМ
-WvW Escort,Сопровождение МпМ
-WvW Eternal Battlegrounds,Вечные поля сражений МпМ
-WvW Exclusives Reward Track,Наградной трек эксклюзивов МпМ
-WvW experience can be earned by participating in World vs. World.,Опыт МпМ зарабатывается участием в «Мире против мира».
-WvW Flame Ram Controller,Контроллер огненного тарана МпМ
-WvW Fort +10%% Experience,Форт МпМ: +10%% к опыту
-WvW Fort +10%% Magic Find,Форт МпМ: +10%% к поиску магии
-WvW Fort +40 Power,Форт МпМ: +40 к Силе
-WvW Fort +40 Precision,Форт МпМ: +40 к Точности
-WvW Fort +40 Toughness,Форт МпМ: +40 к Стойкости
-WvW Fort +40 Vitality,Форт МпМ: +40 к Живучести
-WvW Fort +5 Supply,Форт МпМ: +5 к припасам
-WvW Fort +5%% Karma,Форт МпМ: +5%% к карме
-WvW Glicko,Глико МпМ
-WvW Guild,Гильдия МпМ
-WvW guild selection cannot be changed at this time as team creation is in progress.,Сейчас нельзя изменить выбор гильдии МпМ: идёт формирование команд.
-WvW Home Map Clone,Клон домашней карты МпМ
-"WvW information is not visible from dungeons, instances, and overflow maps.Travel to WvW to participate.","Сведения о МпМ не видны из подземелий, эпизодов и карт переполнения.Отправляйтесь в МпМ, чтобы участвовать."
-WvW Initiate Rank (1–149),Ранг посвящённого МпМ (1–149)
-WvW Kill,Убийство в МпМ
-WvW KvK,КпК в МпМ
-WvW KvK Blue Waypoint,Синяя точка перемещения КпК в МпМ
-WvW KvK Red Waypoint,Красная точка перемещения КпК в МпМ
-WvW League Display,Отображение лиги МпМ
-WvW Match End,Конец матча МпМ
-WvW mission in which members must earn a certain amount of world experience within a time limit.,"Задание МпМ, в котором участники должны набрать определённое количество мирового опыта за отведённое время."
-WvW mission in which members must escort caravans to objectives within a specific time limit.,"Задание МпМ, в котором участники должны сопроводить караваны к целям за отведённое время."
-WvW mission in which members work together to complete various WvW tasks and challenges.,"Задание МпМ, в котором участники сообща выполняют разные задачи и испытания МпМ."
+WvW Ability Systems,Системы способностей WvW
+WvW Ability: Provisions Master I,Способность WvW: мастер снабжения I
+WvW Ability: Provisions Master II,Способность WvW: мастер снабжения II
+WvW Ability: Provisions Master III,Способность WvW: мастер снабжения III
+WvW Arrow Cart Controller,Контроллер стреломёта WvW
+WvW Ballista Controller,Контроллер баллисты WvW
+WvW Boiling Oil Controller,Контроллер кипящего масла WvW
+WvW Borderlands,Приграничья WvW
+WvW Cannon Controller,Контроллер пушки WvW
+WvW Capture,Захват WvW
+WvW Capture and Hold,Захват и удержание WvW
+WvW Catapult Controller,Контроллер катапульты WvW
+WvW Challenge,Испытание WvW
+WvW Claiming,Закрепление в WvW
+WvW Escort,Сопровождение WvW
+WvW Eternal Battlegrounds,Вечные поля сражений WvW
+WvW Exclusives Reward Track,Наградной трек эксклюзивов WvW
+WvW experience can be earned by participating in World vs. World.,Опыт WvW зарабатывается участием в «WvW».
+WvW Flame Ram Controller,Контроллер огненного тарана WvW
+WvW Fort +10%% Experience,Форт WvW: +10%% к опыту
+WvW Fort +10%% Magic Find,Форт WvW: +10%% к поиску магии
+WvW Fort +40 Power,Форт WvW: +40 к Силе
+WvW Fort +40 Precision,Форт WvW: +40 к Точности
+WvW Fort +40 Toughness,Форт WvW: +40 к Стойкости
+WvW Fort +40 Vitality,Форт WvW: +40 к Живучести
+WvW Fort +5 Supply,Форт WvW: +5 к припасам
+WvW Fort +5%% Karma,Форт WvW: +5%% к карме
+WvW Glicko,Глико WvW
+WvW Guild,Гильдия WvW
+WvW guild selection cannot be changed at this time as team creation is in progress.,Сейчас нельзя изменить выбор гильдии WvW: идёт формирование команд.
+WvW Home Map Clone,Клон домашней карты WvW
+"WvW information is not visible from dungeons, instances, and overflow maps.Travel to WvW to participate.","Сведения о WvW не видны из подземелий, эпизодов и карт переполнения.Отправляйтесь в WvW, чтобы участвовать."
+WvW Initiate Rank (1–149),Ранг посвящённого WvW (1–149)
+WvW Kill,Убийство в WvW
+WvW KvK,КпК в WvW
+WvW KvK Blue Waypoint,Синяя точка перемещения КпК в WvW
+WvW KvK Red Waypoint,Красная точка перемещения КпК в WvW
+WvW League Display,Отображение лиги WvW
+WvW Match End,Конец матча WvW
+WvW mission in which members must earn a certain amount of world experience within a time limit.,"Задание WvW, в котором участники должны набрать определённое количество мирового опыта за отведённое время."
+WvW mission in which members must escort caravans to objectives within a specific time limit.,"Задание WvW, в котором участники должны сопроводить караваны к целям за отведённое время."
+WvW mission in which members work together to complete various WvW tasks and challenges.,"Задание WvW, в котором участники сообща выполняют разные задачи и испытания WvW."

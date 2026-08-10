@@ -71,7 +71,7 @@ english,translate
 """Contains a lesser vision crystal, a glob of dark matter, and obsidian shards.""","""Содержит меньший кристалл зрения, сгусток темной материи и осколки обсидиана."""
 """Contains a random selection of cooking ingredients, an Extract of Nourishment, and rarely a bonus ascended herb or rare cut of meat.""","«Содержит случайный набор кулинарных ингредиентов, питательный экстракт и, реже, бонусную вознесенную траву или редкий кусок мяса»."
 """Contains a rare bandit weapon, bandit crests, and other supplies.""","«Содержит редкое бандитское оружие, бандитские гербы и другие принадлежности»."
-"""Contains a redeemable Black Lion Statuette, a guaranteed item, and 2 common items. Each chest also has a 10%% chance for an exclusive, uncommon, or better item, including skins not available anywhere else. You cannot receive duplicates of any exclusive skins.""","«Содержит выкупаемую статуэтку Черного льва, гарантированный предмет и 2 обычных предмета. В каждом сундуке также есть 10%% шанс найти эксклюзивный, необычный или лучший предмет, включая скины, недоступные где-либо еще. Вы не можете получить дубликаты каких-либо эксклюзивных скинов»."
+"""Contains a redeemable Black Lion Statuette, a guaranteed item, and 2 common items. Each chest also has a 10%% chance for an exclusive, uncommon, or better item, including skins not available anywhere else. You cannot receive duplicates of any exclusive skins.""","«Содержит выкупаемую статуэтку Черного льва, гарантированный предмет и 2 обычных предмета. В каждом сундуке также есть 10%% шанс найти эксклюзивный, необычный или лучший предмет, включая облики, недоступные где-либо еще. Вы не можете получить дубликаты каких-либо эксклюзивных обликов»."
 """Contains a selection of Fine Black Lion Dye Canisters: 2 blue, 2 green, and 2 red.""","«Содержит набор прекрасных канистр с краской «Черный лев»: 2 синих, 2 зеленых и 2 красных»."
 """Contains a selection of rewards, including ascended items.""","«Содержит набор наград, в том числе вознесённые предметы»."
 """Contains a single-use armor skin for heavy helm, coat, legs, boots, shoulders and gloves.""","«Содержит одноразовую броню для тяжелого шлема, пальто, ног, ботинок, плеч и перчаток»."
@@ -377,14 +377,14 @@ english,translate
 """Dead again, dead again.""","«Снова мертв, снова мертв»."
 """Dead end. Oh, now what?""","«Тупик. Ох, и что теперь?»"
 """Dead feet, dead meat!""","«Мертвые ноги, мертвое мясо!»"
-"""Deal 100,000 Damage to Enemy Players in Structured Player vs. Player or World vs. World""",«Нанесите 100 000 урона вражеским игрокам в режимах «Игрок против игрока» или «Мир против мира»
+"""Deal 100,000 Damage to Enemy Players in Structured Player vs. Player or World vs. World""",«Нанесите 100 000 урона вражеским игрокам в режимах «Player vs. Player» или «World vs. World»
 """Deal 100,000 Damage to Enemy Players""",«Нанести 100 000 урона вражеским игрокам»
 """Deal 100,000 damage to enemy players in PvP or WvW.""",«Нанесите 100 000 урона вражеским игрокам в PvP или WvW».
-"""Deal 100,000 damage to enemy players in Structured Player vs. Player or World vs. World.""",«Нанесите 100 000 урона вражеским игрокам в режимах «Игрок против игрока» или «Мир против мира».
+"""Deal 100,000 damage to enemy players in Structured Player vs. Player or World vs. World.""",«Нанесите 100 000 урона вражеским игрокам в режимах «Player vs. Player» или «World vs. World».
 """Deal 50,000 Damage Using Siege Equipment""",«Нанести 50 000 урона с помощью осадного оборудования»
 """Deal 500,000 Damage Using Siege Equipment""",«Нанести 500 000 урона с помощью осадного оборудования»
-"""Deal 500,000 Damage to Enemy Players in Structured Player vs. Player or World vs. World""",«Нанесите 500 000 урона вражеским игрокам в режимах «Игрок против игрока» или «Мир против мира»
-"""Deal 500,000 damage to enemy players in Structured Player vs. Player or World vs. World.""",«Нанесите 500 000 урона вражеским игрокам в режимах «Игрок против игрока» или «Мир против мира».
+"""Deal 500,000 Damage to Enemy Players in Structured Player vs. Player or World vs. World""",«Нанесите 500 000 урона вражеским игрокам в режимах «Player vs. Player» или «World vs. World»
+"""Deal 500,000 damage to enemy players in Structured Player vs. Player or World vs. World.""",«Нанесите 500 000 урона вражеским игрокам в режимах «Player vs. Player» или «World vs. World».
 """Deal a heavy blow with your fist, sending enemies flying.""","«Нанесите сильный удар кулаком, отправив врагов в полет»."
 """Deal increased critical damage, which is further increased while your health is above the threshold. Gain bonus critical-hit chance when hitting a foe from behind or the side or when they are defiant.""","«Наносите увеличенный критический урон, который еще больше увеличивается, пока ваше здоровье превышает пороговое значение. Получите дополнительный шанс критического удара при ударе врага сзади или сбоку или когда он сопротивляется»."
 """Deal increased damage, take reduced damage, and convert a percentage of outgoing damage into healing.""","«Наносите увеличенный урон, получаете меньший урон и конвертируете процент исходящего урона в исцеление»."
@@ -437,8 +437,8 @@ english,translate
 """Defeat Decima, the Stormsinger.""","«Победить Дециму, Певицу Бури»."
 """Defeat Ellutherius Wintergust without being hit by his pot attacks, three consecutive times.""","«Победите Эллютерия Зимнего Порыва, не получив урона от его атак горшком, три раза подряд»."
 """Defeat Eparch's assassins, the Daggers of Zakiros.""","«Победить убийц Епарха, Кинжалов Закироса»."
-"""Defeat Flame Legion, and deactivate unexploded mortar shells.""",«Победите Огненный Легион и обезвредьте неразорвавшиеся минометные снаряды».
-"""Defeat Forged or Flame Legion enemies. Veteran, elite, and champion enemies grant increased progress.""","«Побеждайте врагов Кованого или Огненного Легиона. Ветеранские, элитные и чемпионские враги увеличивают прогресс»."
+"""Defeat Flame Legion, and deactivate unexploded mortar shells.""",«Победите Легион Пламени и обезвредьте неразорвавшиеся минометные снаряды».
+"""Defeat Forged or Flame Legion enemies. Veteran, elite, and champion enemies grant increased progress.""","«Побеждайте врагов Кованого или Легиона Пламени. Ветеранские, элитные и чемпионские враги увеличивают прогресс»."
 """Defeat General Ignaxious, Knaebelag the Terror, and Eparch in Inner Nayos""","«Победите генерала Игнаксиуса, Кнебелага Ужаса и епарха во Внутреннем Найосе»"
 """Defeat Greer, the Blightbringer.""","«Победить Грира, Несущего Скучу»."
 """Defeat Inquest or pirate enemies. Veteran, elite, and champion enemies grant increased progress.""","«Побеждайте врагов-дознавателей или пиратов. Ветеранские, элитные и чемпионские враги увеличивают прогресс»."
@@ -497,5 +497,5 @@ english,translate
 """Defeat the champion bosses in the Bastions of Balance, the Natural, and the Celestial.""","«Победите боссов-чемпионов в Бастионах Баланса, Естественном и Небесном»."
 """Defeat the enemies, then use the Heart of the Obscure to close the rift.""","«Победите врагов, а затем используйте Сердце Неясности, чтобы закрыть разлом»."
 """Defeat the enemy towers, and assist your troops in taking over your rival's base.""",«Победите вражеские башни и помогите своим войскам захватить базу соперника».
-"""Defeat the ghost of Veteran """"Slick"""" Ricki to purify the Dolyak's Rest holy grounds in Harathi Hinterlands.""","«Одолейте призрак ветерана «Ловца» Рики, чтобы очистить святые земли Покоя Доляка во Внутренних землях Харати»."
+"""Defeat the ghost of Veteran """"Slick"""" Ricki to purify the Dolyak's Rest holy grounds in Harathi Hinterlands.""","«Одолейте призрак ветерана «Ловца» Рики, чтобы очистить святые земли Покоя Дольяка во Внутренних землях Харати»."
 """Defeat the krait witches in Kessex Hills, Timberline Falls, and Caledon Forest.""","«Победите крайтских ведьм в Кессекс-Хиллз, Тимберлайн-Фоллс и Каледонском лесу»."

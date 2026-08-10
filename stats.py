@@ -32,9 +32,14 @@ def batch_stats():
         name = os.path.basename(fp)
         cat = name.split("_")[0]
         try:
-            data = list(csv.reader(open(fp, encoding="utf-8")))[1:]
+            rows_all = list(csv.reader(open(fp, encoding="utf-8")))
         except Exception:
             continue
+        # не батч, а служебная таблица (у батча первая колонка — english):
+        # так в счёт покрытия попадал sync/server_strings.csv на 35 539 строк
+        if not rows_all or not rows_all[0] or rows_all[0][0].strip().lower() != "english":
+            continue
+        data = rows_all[1:]
         rows = len(data)
         tr = sum(1 for r in data if len(r) > 1 and r[1].strip())
         per_batch[name] = (rows, tr)

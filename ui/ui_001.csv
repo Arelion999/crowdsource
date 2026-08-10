@@ -73,7 +73,7 @@ english,translate
 """I found this while patrolling the King's Raceway for spies.""","«Я нашёл это, патрулируя Королевскую гоночную трассу в поисках шпионов»."
 """I had hoped there would be a good bit of space only accessible by traversing the ghost pirate's cave. However, what I found was disappointingly small.""","«Я надеялся, что там будет приличное пространство, доступное только через пещеру призрачного пирата. Однако то, что я нашёл, оказалось разочаровывающе маленьким»."
 """I imagine blades, you bleed.""The Virtuoso forgoes traditional illusions in favor of psychic daggers, wielded by the sheer power of the mind. Unleash a volley of sharp blades, then outwit your foes with a sharp mind.","«Я представляю клинки, ты истекаешь кровью». Виртуоз отказывается от традиционных иллюзий в пользу психических кинжалов, которыми владеет чистая сила разума. Обрушьте град острых клинков, затем перехитрите врагов острым умом."
-"""I know this isn't the path you'd have chosen for yourself—but the Flame Legion isn't just your home now; it is my gift to you. Keep this dagger close and never forget who you are: Nonius Ragesinger.""","«Знаю, это не тот путь, который ты бы выбрал для себя — но Огненный легион теперь не просто твой дом; это мой дар тебе. Держи этот кинжал при себе и никогда не забывай, кто ты: Нониус Ярое Пение»."
+"""I know this isn't the path you'd have chosen for yourself—but the Flame Legion isn't just your home now; it is my gift to you. Keep this dagger close and never forget who you are: Nonius Ragesinger.""","«Знаю, это не тот путь, который ты бы выбрал для себя — но Легион Пламени теперь не просто твой дом; это мой дар тебе. Держи этот кинжал при себе и никогда не забывай, кто ты: Нониус Ярое Пение»."
 """I seem to remember hearing that every village used to have one of these.""","«Кажется, я припоминаю, что раньше такое было в каждой деревне»."
 """I stole this from a tower in Joko's Gardens of Seborhin using a hidden portal.""","«Я украл это из башни в Садах Себорхина Джоко, воспользовавшись скрытым порталом»."
 """I think you can figure out where you might find this.""","«Думаю, ты и сам можешь понять, где это можно найти»."
@@ -292,7 +292,7 @@ english,translate
 %num1% Note[s],%num1% заметк[а|и|и]
 %num1% of %num2% Achievements,%num1% из %num2% достижений
 %num1% of %num2% advanced material types collected.,%num1% из %num2% типов улучшенных материалов собрано.
-%num1% of %num2% ascended material types collected.,%num1% из %num2% типов возвышенных материалов собрано.
+%num1% of %num2% ascended material types collected.,%num1% из %num2% типов вознесённых материалов собрано.
 %num1% of %num2% basic material types collected.,%num1% из %num2% типов базовых материалов собрано.
 %num1% of %num2% Character Slots in Use,%num1% из %num2% слотов персонажей используется
 %num1% of %num2% Codices Collected.,%num1% из %num2% кодексов собрано.
@@ -374,7 +374,7 @@ english,translate
 %num1%/%num2% Fireworks Launched,%num1%/%num2% фейерверков запущено
 %num1%/%num2% Fireworks Set Off,%num1%/%num2% фейерверков запущено
 "%num1%/%num2% Five Gambit, Third Tier Victories","%num1%/%num2% побед в «Пять гамбитов, третий уровень»"
-%num1%/%num2% Flame Legion Support Mark[s] Contributed,%num1%/%num2% знак[ов|ов|] поддержки Огненного легиона внесено
+%num1%/%num2% Flame Legion Support Mark[s] Contributed,%num1%/%num2% знак[ов|ов|] поддержки Легиона Пламени внесено
 %num1%/%num2% Flame Legionnaires Slain,%num1%/%num2% легионеров Огня убито
 %num1%/%num2% Food Consumed,%num1%/%num2% еды съедено
 %num1%/%num2% Foods Donated,%num1%/%num2% еды пожертвовано
@@ -466,7 +466,7 @@ english,translate
 %num1%/%num2% Waves Survived,%num1%/%num2% волн пережито
 %num1%/%num2% Wiggin the Wicked Defeated,%num1%/%num2% побед над Виггином Порочным
 %num1%/%num2% Wintersday Presents Opened,%num1%/%num2% подарков Дня Зимы открыто
-%num1%/%num2% WvW Experience,%num1%/%num2% опыта МпМ
+%num1%/%num2% WvW Experience,%num1%/%num2% опыта WvW
 %num1%/%num2% Zhaitaffy Eaten,%num1%/%num2% жайтаффи съедено
 %num1%/3 Zones Completed<br>in World 1 in Tribulation Mode,%num1%/3 зон[ы||] завершено<br>в Мире 1 в режиме испытания
 %num1%/3 Zones Completed<br>in World 2 in Tribulation Mode,%num1%/3 зон[ы||] завершено<br>в Мире 2 в режиме испытания

@@ -52,7 +52,12 @@ except Exception:
 # ------------------------------------------------------------------ разметка
 PH = re.compile(r"%\w+%")                       # %num1%, %str2% — подстановки игры
 TAG = re.compile(r"<[^>]+>")                    # <c=@flavor>, </c>, <center>
-TOKEN = re.compile(r"\[(?:lbracket|rbracket|null|plur|nosep|topic-[fm]|f|an|the)\]")
+TOKEN = re.compile(r"\[(?:lbracket|rbracket|null|plur|nosep|topic-[fm]|f)\]")
+# [an]/[the] — артикль-токены движка, и в русском раскрывать их не во что.
+# Их пропажа в переводе законна (корпус так и делает в 11 записях из 16), а вот
+# наличие — дефект: игрок увидит «Открытие [the] Сундук». Пустые «[]» туда же:
+# слово из скобок убрали, скобки забыли.
+ARTICLE_RU = re.compile(r"\[(?:an|the)\]|\[\s*\]")
 PLURAL_EN = re.compile(r"\[s\]|\[pl:\"[^\"]*\"\]")   # склонение по числу в оригинале
 PLURAL_RU = re.compile(r"\[[^\]\[]*\|[^\]\[]*\]")    # [форма1|форма2|форма3]
 PREFIX_EN = re.compile(r"^[^:\n]{2,30}:\s")     # «Рецепт: », «Aurene: » — структурный префикс
@@ -146,6 +151,12 @@ def c_token(en, ru):
         return "нет " + " ".join("%s×%d" % (k, v) for k, v in lost.items())
 
 
+def c_article(en, ru):
+    hit = ARTICLE_RU.findall(ru)
+    if hit:
+        return "артикль-токен оставлен в русском: " + " ".join(sorted(set(hit)))
+
+
 def c_plural(en, ru):
     # [s]/[pl:"…"] в оригинале обязан превратиться в группу [форма|форма|форма];
     # если групп нет вовсе — склонение потеряно, игра напишет одну форму на все числа.
@@ -236,6 +247,7 @@ CHECKS = [
     ("en-broken",       "ошибка",         c_en_broken),
     ("tag",             "ошибка",         c_tag),
     ("token",           "ошибка",         c_token),
+    ("article",         "ошибка",         c_article),
     ("plural",          "ошибка",         c_plural),
     ("percent",         "ошибка",         c_percent),
     ("replacement",     "ошибка",         c_replacement),

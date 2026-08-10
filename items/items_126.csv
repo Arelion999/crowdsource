@@ -22,8 +22,8 @@ english,translate
 "<c=@flavor>""Who's a good little journeykit?""</c>","<c=@flavor>""Кто тут хороший маленький путешественник?""</c>"
 "<c=@flavor>""Why did they come here? What were these used for? If only I could find the answers."",<c=@flavor>""""Зачем они пришли? Для чего это использовалось? Если бы я только мог найти ответы.""""","<c=@flavor>""Зачем они пришли? Для чего это использовалось? Если бы я только мог найти ответы."",<c=@flavor>""""Зачем они пришли? Для чего это использовалось? Если бы я только мог найти ответы."""""
 "<c=@flavor>""With a hero like you around, the Flame Legion doesn't stand a chance.""
-—Corva Sharpclaw</c>","<c=@flavor>«С таким героем, как ты, рядом у Огненного легиона нет шансов».
--Корва Острый Коготь</c>"
+—Corva Sharpclaw</c>","<c=@flavor>«С таким героем, как ты, рядом у Легиона Пламени нет шансов».
+-Корва Остроког</c>"
 "<c=@flavor>""Wolf watches over you."",<c=@flavor>""""Волк присматривает за тобой.""""",<c=@flavor>«Волк присматривает за тобой».<c=@flavor>«Волк присматривает за тобой»
 "<c=@flavor>""Yes yes, it was a tragedy. But also an opportunity! Those dam pieces are historical artifacts!""
 —Cin</c>","<c=@flavor>«Да, да, это была трагедия. Но и возможность тоже! Эти куски дамбы — исторические артефакты!»
@@ -70,8 +70,7 @@ Double-click to open.","<c=@flavor>Прилагаемая записка гла�
 <c=@flavor>Impulsive choices can cause regret to crystallize.</c>,<c=@flavor>Импульсивные решения могут привести к кристаллизации сожаления.</c>
 <c=@flavor>It stinks. Real bad.<c>,<c=@flavor>Воняет. Очень сильно.<c>
 "<c=@flavor>It was a true challenge to rely on only gliding back then. But is the commander breaking defiance on the third bite?</c>""","<c=@flavor>Тогда действительно было испытанием полагаться только на планирование. Но ломает ли командир стойкость на третьем укусе?</c>"""
-<c=@flavor>It's shaped like a hug.,"<c=@flavor>Это по форме напоминает объятие.
-"
+<c=@flavor>It's shaped like a hug.,<c=@flavor>Это по форме напоминает объятие.
 <c=@flavor>Maybe you should help out at that octovine instead of standing around.</c>,"<c=@flavor>Может, стоит помочь на октовинограднике вместо того, чтобы стоять без дела?</c>"
 <c=@flavor>Must've been the runt of Eparch's wyvern litter.</c>,"<c=@flavor>Должно быть, это был заморыш из выводка виверн Эпарха.</c>"
 <c=@flavor>Never leave a wrong to ripen into evil or sorrow.</c>,<c=@flavor>Никогда не позволяй ошибке перерасти в зло или горе.</c>
@@ -281,10 +280,8 @@ Combine this weapon in the Mystic Forge with:,Соедините это оруж
 <c=@flavor>Unbridled joy is the domain of youth.</c>,<c=@flavor>Безудержная радость — удел юности.</c>
 "<c=@flavor>Use for details. You will be able to confirm/cancel.</c>""","<c=@flavor>Используйте для подробностей. Вы сможете подтвердить/отменить.</c>"""
 <c=@flavor>Using your warclaw can help you escape Ignaxious or break Knaebelag's defiance.</c>,<c=@flavor>Использование боевого ящера поможет вам сбежать от Игнаксиуса или сломить упрямство Кнабелага.</c>
-<c=@flavor>WARNING: Flammable,"<c=@flavor>ВНИМАНИЕ: Легковоспламеняющееся
-"
-"<c=@flavor>WARNING: Flammable,","<c=@flavor>ПРЕДУПРЕЖДЕНИЕ: Легковоспламеняющийся,
-"
+<c=@flavor>WARNING: Flammable,<c=@flavor>ВНИМАНИЕ: Легковоспламеняющееся
+"<c=@flavor>WARNING: Flammable,","<c=@flavor>ПРЕДУПРЕЖДЕНИЕ: Легковоспламеняющийся,"
 <c=@flavor>Warclaws are bound by potent souls. What if they originated from these creatures?</c>,"<c=@flavor>Боевые когти связаны мощными душами. Что, если они произошли от этих существ?</c>"
 <c=@flavor>Who would have thought education could be so thrilling?</c>,"<c=@flavor>Кто бы мог подумать, что обучение может быть таким захватывающим?</c>"
 "<c=@flavor>With this relic and through our rites, you shall become eternal—an anchor for the people in times of war and peace.</c>",<c=@flavor>С этим реликтом и через наши обряды ты станешь вечным — якорем для народа во времена войны и мира.</c>

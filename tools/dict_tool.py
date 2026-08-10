@@ -40,6 +40,7 @@ CSV-слой (dict_*.csv, main_strings.csv, pn_*.csv) удалён, и bin ст�
     export <папка>                выгрузить bin обратно в CSV
 
   Батчи:
+    canonbatches --apply          тот же канон, но по батчам (парная к canon)
     fillbatches --apply           закрыть строки батчей переводами из bin
 
 Рядом лежит charscan.py — тот же bin, но про невидимые символы и пунктуацию
@@ -333,7 +334,123 @@ EXPANSIONS = (("Секреты Недр", "Тайны Сокрытого"),
 # Запрещённые GLOSSARY.md формы имён. Правило привязано к оригиналу: «хрустальная
 # банка» останется хрустальной, а «Crystal Oasis -> Хрустальный оазис» починится.
 # Меняем основу, окончание оставляем — формы русские и склоняются.
-GLOSSARY_FIX = (
+# Имена отрядов чарров: сводим старые формы к канону «композит».
+# Решение пользователя 2026-08-10: имя отряда переводится, а не транслитерируется,
+# и остаётся ОДНИМ словом — оно работает как фамилия и в половине строк стоит без
+# личного имени («Tribune Brimstone», «Forktail risked his life»).
+# Однословные пары меняем по основе: падеж несёт окончание, и оно совпадает
+# («Бримстоуна» -> «Серожара»). Двусловные приходится расписывать по падежам.
+CHARR_STEM = {
+    "Brimstone": ("Бримстоун", "Серожар"),
+    "Stoneglow": ("Стоунглоу", "Камнесвет"),
+    "Ruinbringer": ("Руинбрингер", "Руинонос"),
+    "Soulkeeper": ("Соулкипер", "Душехран"),
+    "Steeltemper": ("Стилтемпер", "Сталекал"),
+    "Bloodletter": ("Кровопускател", "Кровопуск"),
+    "Undercut": ("Андеркат", "Подсек"),
+    "Flarekin": ("Пламекин", "Пламярод"),
+    "Grindsteel": ("Грайндстил", "Сталеточ"),
+    "Steelweaver": ("Сталеплет", "Сталеплёт"),
+    "Tornpaw": ("Торнпау", "Рванолап"),
+}
+CHARR_CASES = {
+    "Sharpclaw": ((r"Острый Коготь", "Остроког"), (r"Острого Когтя", "Острокога"),
+                  (r"Острому Когтю", "Острокогу"), (r"Острым Когтем", "Острокогом"),
+                  (r"Остром Когте", "Острокоге")),
+    "Wildeye": ((r"Дикий Глаз", "Дикоглаз"), (r"Дикого Глаза", "Дикоглаза"),
+                (r"Дикому Глазу", "Дикоглазу"), (r"Диким Глазом", "Дикоглазом"),
+                (r"Диком Глазе", "Дикоглазе")),
+    "Desertgrave": ((r"Пустынная Могила", "Пустомогил"),
+                    (r"Пустынной Могилы", "Пустомогила"),
+                    (r"Пустынную Могилу", "Пустомогила"),
+                    (r"Пустынной Могилой", "Пустомогилом")),
+}
+
+
+# «the Steel Warband» -> «отряд Стали». Отряд в тексте зовётся КОРНЕМ, а не
+# полной фамилией, поэтому берём родительный падеж корня — форма та же, что у
+# «Легион Пламени», и одинаково ложится на корни, из которых прилагательное не
+# делается («отряд Шестерни»). Корпус сейчас чаще всего оставляет корень
+# латиницей: «отряд Anvil», «военного отряда Night».
+CHARR_WB = {
+    "Steel": "Стали", "Gear": "Шестерни", "Stone": "Камня", "Night": "Ночи",
+    "Anvil": "Наковальни", "Crush": "Крушения", "Sleekfur": "Гладкой Шкуры",
+    "Scorch": "Ожога", "Mane": "Гривы", "Shatter": "Раскола",
+    "Bane": "Погибели", "Reave": "Грабежа", "Killer": "Убийцы", "Gut": "Потрохов",
+    "Lash": "Хлыста", "Obsidian": "Обсидиана", "Winter": "Зимы",
+    "Grind": "Точила", "Shredder": "Резака", "Hook": "Крюка", "Sword": "Меча",
+    "Whip": "Плети", "Gore": "Резни", "Pick": "Кирки", "Fist": "Кулака",
+    "Death": "Смерти", "Timber": "Бревна", "Spark": "Искры", "Dark": "Тьмы",
+}
+
+
+def _warband_rules():
+    out = []
+    for root, gen in CHARR_WB.items():
+        en_re = re.compile(r"(?<![A-Za-z])" + root + r"\s+[Ww]arband(?![A-Za-z])")
+        # Меняем ТОЛЬКО корень и только там, где русское «отряд» уже стоит:
+        # «отряд Anvil» -> «отряд Наковальни», «военного отряда Night» ->
+        # «военного отряда Ночи». Подставлять само слово «отряд» нельзя — канон
+        # не склоняет, и во фразе «после задания Steel Warband» получилось бы
+        # «задания отряд Стали». Такие строки оставляем человеку.
+        # Хвостовое «Warband» съедаем вместе с корнем: в переводе встречается
+        # «Отряд Steel Warband», и заменив только корень, получили бы
+        # «Отряд Стали Warband».
+        subs = [
+            (re.compile(r"([Оо]тряд\w*\s+)" + root
+                        + r"(?:\s+[Ww]arband)?(?![A-Za-z])"), r"\1" + gen),
+            # уборка за первой версией правила, которая хвост не съедала
+            (re.compile(r"([Оо]тряд\w*\s+" + gen + r")\s+[Ww]arband(?![A-Za-z])"),
+             r"\1"),
+        ]
+        if root == "Steel":
+            # единственный корень, для которого в корпусе есть форма
+            # прилагательным: «Стального отряда» -> «отряда Стали»
+            subs.insert(0, (re.compile(r"Стальн(?:ый|ого|ому|ым|ом)\s+(отряд\w*)"),
+                            r"\1 Стали"))
+        out.append((en_re, tuple(subs)))
+    return tuple(out)
+
+
+def _warband_word_rule():
+    """Нарицательное «warband», оставшееся латиницей в русском тексте.
+
+    «Ничто не сломит этот warband», «когда ты примешь Rox в свой warband».
+    Корпус переводит это слово «отряд» 851 раз, так что канон однозначен.
+    Именительный и винительный у «отряда» совпадают, а в этих строках слово
+    стоит именно в них.
+
+    Внутри угловых скобок слово трогать НЕЛЬЗЯ: `<Each warband ally>` — это
+    служебный тег движка, а не текст. Отсекаем взглядом вперёд: если до
+    ближайшего `>` не встретилось `<`, значит мы внутри тега.
+    """
+    out = r"(?![^<>]*>)"
+    return ((re.compile(r"(?<![A-Za-z])warband(?![A-Za-z])", re.I),
+             (  # только строчное и только не после латинского слова: заглавное
+                # «Warband» после корня — часть названия («Steel Warband»),
+                # переводить его отдельно нельзя
+              (re.compile(r"(?<![A-Za-z])(?<![A-Za-z] )warband(?![A-Za-z])" + out),
+               "отряд"),
+              # откат порчи от первых версий правила: тегов оно не щадило,
+              # а заглавное «Warband» рвало пополам («Steel Отряд»)
+              (re.compile(r"(<[^<>]*?)отряд([^<>]*?>)"), r"\1warband\2"),
+              (re.compile(r"(<[^<>]*?)Отряд([^<>]*?>)"), r"\1Warband\2"),
+              (re.compile(r"([A-Z][a-z]{2,}(?:['’]s)?)\s+Отряд(?![а-яё])"),
+               r"\1 Warband"))),)
+
+
+def _charr_rules():
+    out = []
+    for en, (old, new) in CHARR_STEM.items():
+        out.append((re.compile(r"(?<![A-Za-z])" + en + r"(?![A-Za-z])"),
+                    ((re.compile(r"(?<![А-Яа-яЁё])" + old + r"(\w*)"), new + r"\1"),)))
+    for en, pairs in CHARR_CASES.items():
+        subs = tuple((re.compile(r"(?<![А-Яа-яЁё])" + o), n) for o, n in pairs)
+        out.append((re.compile(r"(?<![A-Za-z])" + en + r"(?![A-Za-z])"), subs))
+    return tuple(out)
+
+
+GLOSSARY_FIX = _charr_rules() + _warband_rules() + _warband_word_rule() + (
     (re.compile(r"\bKrytan?s?\b", re.I), (
         (re.compile(r"(?<![А-Яа-яЁё])([Кк])рит(?=ск)"), r"\1райтан"),   # критский  -> крайтанский
         (re.compile(r"(?<![А-Яа-яЁё])([Кк])рит(?=ан)"), r"\1райт"),     # кританский -> крайтанский
@@ -351,7 +468,66 @@ GLOSSARY_FIX = (
         (re.compile(r"([Кк])ристаллическ"), r"\1ристальн"),
     )),
     (re.compile(r"\bSpirit Watch\b"), ((re.compile(r"Дозор Духов"), "Дозор духов"),)),
+    # Легион Пламени. Падеж несёт само слово «легион», поэтому «Огненного
+    # легиона» -> «Легиона Пламени»: берём окончание существительного, а не
+    # прилагательного, и поднимаем регистр.
+    (re.compile(r"\bFlame Legion\b", re.I), (
+        (re.compile(r"(?<![А-Яа-яЁё])[Лл]егион(\w*)\s+Огня(?![А-Яа-яЁё])"), r"Легион\1 Пламени"),
+        (re.compile(r"(?<![А-Яа-яЁё])(?:Огненн|Пламенн)\w+\s+[Лл]егион(\w*)(?![А-Яа-яЁё])"),
+         r"Легион\1 Пламени"),
+    )),
+    # Божественный предел: второе слово со строчной, плюс сведение вариантов.
+    # Формы перечислены поимённо, а не собраны регекспом: «Достояние» среднего
+    # рода, «предел» мужского, и прилагательное меняется вместе с ним.
+    # Апостроф бывает типографским, а в строках из SQL-выгрузки — удвоенным
+    # («'Divinity''s Reach Supplies'»), поэтому кавычка тут повторяемая.
+    (re.compile(r"\bDivinity['’]{1,2}s Reach\b", re.I), (
+        (re.compile(r"(Божественн\w+)\s+Предел(\w*)"), r"\1 предел\2"),
+        (re.compile(r"Божественное\s+Достояние"), "Божественный предел"),
+        (re.compile(r"Божественного\s+Достояния"), "Божественного предела"),
+        (re.compile(r"Божественному\s+Достоянию"), "Божественному пределу"),
+        (re.compile(r"Божественным\s+Достоянием"), "Божественным пределом"),
+        (re.compile(r"Божественном\s+Достоянии"), "Божественном пределе"),
+        (re.compile(r"Божественн(ый|ого|ому|ым|ом)\s+[Пп]ростор(\w*)"), r"Божественн\1 предел\2"),
+        # множественное «в Божественных просторах» — город один, ставим единственное
+        (re.compile(r"Божественны(?:х|ми|е|м)\s+[Пп]ростора(?:х|ми|м)?"), "Божественном пределе"),
+        (re.compile(r"Обитель\s+Божества"), "Божественный предел"),
+        (re.compile(r"Чертогами\s+(?:Дивайнити|Божественности)"), "Божественным пределом"),
+        (re.compile(r"Чертогах\s+(?:Дивайнити|Божественности)"), "Божественном пределе"),
+        (re.compile(r"Чертоги\s+(?:Дивайнити|Божественности)"), "Божественный предел"),
+        (re.compile(r"(?<![А-Яа-яЁё])Дивинитис[- ]?Рич\w*"), "Божественный предел"),
+    )),
+    (re.compile(r"\bTrahearne\b", re.I), (
+        (re.compile(r"(?<![А-Яа-яЁё])(?:Трахеарн|Трахерн|Трэхерн|Трайерн|Траерн)(\w*)"),
+         r"Трахёрн\1"),
+    )),
 )
+
+# PvP и WvW не переводятся нигде (решение пользователя 2026-08-08). Таблицей
+# выше это не выражается: какую латиницу подставить, решает оригинал, а в одной
+# строке могут стоять оба понятия сразу («WvW and PvP» -> «МпМ и ПвП»).
+RU_WVW = re.compile(r"(?<![А-Яа-яЁё])(?:МпМ|[Мм]ир\w* против [Мм]ира)(?![А-Яа-яЁё])")
+RU_PVP = re.compile(r"(?<![А-Яа-яЁё])(?:ПвП|[Ии]грок\w* против игрока)(?![А-Яа-яЁё])")
+# Границу берём по буквам, а не по \b: в «WvW2.0 Test Map» после аббревиатуры
+# стоит цифра, и \b там не срабатывает. Регистр не важен — в корпусе есть «Wvw».
+EN_WVW = (re.compile(r"(?<![A-Za-z])WvW(?![A-Za-z])", re.I),
+          re.compile(r"\bWorld (?:vs\.?|versus) World\b", re.I))
+EN_PVP = (re.compile(r"(?<![A-Za-z])PvP(?![A-Za-z])", re.I),
+          re.compile(r"\bPlayer (?:vs\.?|versus) Player\b", re.I))
+
+
+def fix_pvp_wvw(en, ru):
+    """Вернуть PvP/WvW латиницей в той форме, что стоит в оригинале."""
+    wvw = "WvW" if EN_WVW[0].search(en) else ("World vs. World" if EN_WVW[1].search(en) else None)
+    pvp = "PvP" if EN_PVP[0].search(en) else ("Player vs. Player" if EN_PVP[1].search(en) else None)
+    if wvw and pvp:                      # оба понятия рядом — каждому своё
+        return RU_PVP.sub(pvp, RU_WVW.sub(wvw, ru))
+    if wvw or pvp:
+        # Понятие одно, значит любой русский вариант относится к нему: так
+        # чинится и подмена смысла («World vs. World» -> «Игрок против игрока»).
+        one = wvw or pvp
+        return RU_PVP.sub(one, RU_WVW.sub(one, ru))
+    return ru
 
 
 def _skin(m):
@@ -448,6 +624,7 @@ def normalize(en, ru):
         if en_re.search(en):
             for pat, rep in subs:
                 out = pat.sub(rep, out)
+    out = fix_pvp_wvw(en, out)
     # ascended -> вознесённый, но Exalted -> возвышенный оставляем как есть
     if "ascend" in en.lower():
         out = re.sub(r"(?<![А-Яа-яЁё])([Вв])озвышенн",
@@ -639,13 +816,31 @@ def cmd_frombatches(a):
 
 
 def cmd_canon(a):
+    """Привести bin к канону терминов.
+
+    Гейт такой же, как у парной `canonbatches`: правка принимается, только если
+    не добавляет ошибок линтера. Без него правило `warband` -> «отряд» переписало
+    служебные теги (`<Each warband ally>` -> `<Each отряд ally>`, 11 записей) —
+    в батчах гейт это поймал, а в bin правка прошла молча.
+    """
     ours = load_map(OUR_BIN)
-    changes = {}
+    changes, refused, ex = {}, 0, []
     for h, (en, ru, _c) in ours.items():
         v = normalize(en, ru)
-        if v != ru:
-            changes[h] = v
-    print("строк под канон: %d" % len(changes))
+        if v == ru:
+            continue
+        if _validate is not None:
+            was = len(_validate.check_row(en, ru)[0])
+            if len(_validate.check_row(en, v)[0]) > was:
+                refused += 1
+                if len(ex) < 5:
+                    ex.append((en, ru, v))
+                continue
+        changes[h] = v
+    print("строк под канон: %d | отклонено гейтом: %d" % (len(changes), refused))
+    for en, was, now in ex:
+        print("  ОТКЛОНЕНО %r\n    было  %r\n    стало %r"
+              % (en[:70], was[:70], now[:70]))
     if a.apply:
         apply_changes(changes, {}, "канон")
     else:
@@ -1404,6 +1599,20 @@ def tidy_edges(en, ru):
     return new if new != ru else None
 
 
+def tidy_trailing_nl(en, ru):
+    """Хвостовых переносов должно быть столько же, сколько в оригинале.
+
+    В `EDGE_WS` переноса нет намеренно: потерянный посреди текста перенос —
+    это вёрстка, её чинит `newlines`. Но хвостовой ЛИШНИЙ перенос не чинил
+    никто: `newlines` только возвращает пропавшие. Отсюда остаток `edge-space`.
+    """
+    want = len(en) - len(en.rstrip("\n"))
+    have = len(ru) - len(ru.rstrip("\n"))
+    if have <= want:
+        return None
+    return ru.rstrip("\n") + "\n" * want
+
+
 def tidy_zw(en, ru):
     """Убрать невидимки, которых нет в оригинале (лишние экземпляры — тоже)."""
     new = ru
@@ -1478,7 +1687,27 @@ def tidy_terminal(en, ru):
     return ru.rstrip() + m.group(1)
 
 
-TIDY = (("края строки (лишний/потерянный пробел)", tidy_edges),
+ARTICLE_RU = re.compile(r"\s*(?:\[(?:an|the)\]|\[\s*\])")
+
+
+def tidy_article(en, ru):
+    """Убрать артикль-токен из русского перевода.
+
+    `[an]`/`[the]` движок раскрывает в английский артикль, а в русском тексте
+    раскрывать их не во что — игрок увидит «Открытие [the] Сундук». Корпус так и
+    поступает: выбрасывает их в 11 записях из 16. Пустые «[]» — тот же случай,
+    только слово из скобок уже убрали, а скобки забыли.
+    """
+    if not ARTICLE_RU.search(ru):
+        return None
+    out = ARTICLE_RU.sub("", ru)
+    # склеенное «Открыв%str1%» читается хуже голого пропуска — вернём пробел
+    return re.sub(r"(?<=[А-Яа-яЁё])(?=%)", " ", out)
+
+
+TIDY = (("артикль-токен в русском", tidy_article),
+        ("лишний хвостовой перенос строки", tidy_trailing_nl),
+        ("края строки (лишний/потерянный пробел)", tidy_edges),
         ("невидимки, которых нет в оригинале", tidy_zw),
         ("одиночный %% вместо %%%%", tidy_percent),
         ("переименование плейсхолдера", tidy_rename),
@@ -1499,7 +1728,7 @@ def cmd_tidy(a):
         if not en or not ru:
             continue
         if ru.strip(EDGE_WS)[-1:] == "\n" or ru[-1:] == "\n":
-            skipped_nl += 1                    # хвостовой перенос — не наша забота
+            skipped_nl += 1        # лишние из них снимет tidy_trailing_nl, остальные законны
         cur = ru
         for name, fn in TIDY:
             new = fn(en, cur)
@@ -1517,7 +1746,7 @@ def cmd_tidy(a):
     for name, _fn in TIDY:
         if stat[name]:
             print("%6d  %s" % (stat[name], name))
-    print("%6d  записей к правке (хвостовой перенос пропущен у %d)" % (len(changes), skipped_nl))
+    print("%6d  записей к правке (перевод кончается переносом у %d)" % (len(changes), skipped_nl))
     for name, _fn in TIDY:
         for en, was, new in ex[name]:
             print("\n  [%s]\n  EN    %r\n  было  %r\n  стало %r"
@@ -1821,6 +2050,69 @@ def cmd_verify(a):
         print("  %-10s %5d" % (label, len(re.findall(rx, blob))))
 
 
+def cmd_canonbatches(a):
+    """Прогнать канон по батчам — парная к `canon`, которая правит bin.
+
+    Через `fillbatches --repair` это не делается: та чинит только то, на что
+    ругается линтер, а правила глоссария в `validate.py` сверяют ТОЧНУЮ форму.
+    «Легион Огня» линтер видит, «Легиона Огня» — уже нет, и после правки канона
+    в bin такие ячейки молча остаются старыми (924 строки на заходе 2026-08-08).
+
+    С --tidy прогоняет заодно и мелкие починки (`tidy`): у них та же беда —
+    команда правит bin, а батчи остаются со старым текстом.
+
+    Гейт: правка принимается, только если не добавляет ошибок линтера. Канон
+    меняет слова, а не разметку, поэтому новых ошибок быть не должно — если
+    появились, виновато правило, и лучше это увидеть, чем записать.
+    """
+    if _validate is None:
+        sys.exit("не найден crowdsource/validate.py — без линтера не правлю")
+
+    def fix(en, ru):
+        out = normalize(en, ru)
+        if not a.tidy:
+            return out
+        for _name, fn in TIDY:
+            new = fn(en, out)
+            if new and new != out:
+                out = new
+        return out
+
+    tot = fixed = refused = 0
+    ex = []
+    for fp in batch_files():
+        rows = list(csv.reader(io.StringIO(open(fp, "rb").read().decode("utf-8"))))
+        if not rows or rows[0][:1] != ["english"]:
+            continue
+        n = 0
+        for r in rows[1:]:
+            if len(r) < 2 or not r[0].strip() or not r[1].strip():
+                continue
+            tot += 1
+            v = fix(r[0], r[1])
+            if v == r[1]:
+                continue
+            was = len(_validate.check_row(r[0], r[1])[0])
+            if len(_validate.check_row(r[0], v)[0]) > was:
+                refused += 1
+                continue
+            if len(ex) < 5:
+                ex.append((r[0], r[1], v))
+            r[1] = v
+            n += 1
+            fixed += 1
+        if n and a.apply:
+            buf = io.StringIO()
+            csv.writer(buf, lineterminator="\n").writerows(rows)
+            open(fp, "wb").write(buf.getvalue().encode("utf-8"))
+    print("ячеек проверено: %d | под канон: %d | отклонено гейтом: %d"
+          % (tot, fixed, refused))
+    for en, was, now in ex:
+        print("\n  EN    %r\n  было  %r\n  стало %r" % (en[:85], was[:85], now[:85]))
+    if not a.apply:
+        print("(для записи --apply)")
+
+
 def cmd_fillbatches(a):
     """Закрыть пустые строки батчей переводами, которые уже есть в словаре.
 
@@ -2090,6 +2382,54 @@ def cmd_pnadd(a):
         print("(для записи --apply)")
 
 
+def cmd_pnset(a):
+    """Задать перевод имени в слое pn_*: и поправить существующее, и добавить новое.
+
+    `pnadd` только добавляет и молча пропускает то, что уже есть, — поэтому
+    исправить запись слоя было нечем. А править приходится: слой копился
+    разными заходами, и в нём лежат и устаревший стиль имени, и прямые ошибки
+    (крепость «Атрокс Каструм» в категории личных имён).
+
+    Правка идёт по хешу английского, то есть во ВСЕ категории сразу, — так же,
+    как это делают `canon` и `tidy`.
+    """
+    fp = a.file or os.path.join(CROWD, "pn_additions.csv")
+    if not os.path.isfile(fp):
+        sys.exit("не найден %s" % fp)
+    with open(fp, encoding="utf-8-sig", newline="") as f:
+        rows = [r for r in csv.reader(f) if len(r) >= 3 and r[0].strip()]
+    if rows and rows[0][0].strip().lower() == "english":
+        rows = rows[1:]
+
+    in_pn = {}
+    for name, es in read_sections(OUR_BIN):
+        if name.split("\x1f")[0].startswith("pn_"):
+            for h, _en, ru in es:
+                in_pn[h] = ru
+
+    changes, added, same, ex = {}, {}, 0, []
+    for en, ru, layer in ((r[0].strip(), r[1].strip(), r[2].strip()) for r in rows):
+        if not en or not ru:
+            continue
+        h = fnv1a_u16(en)
+        if h not in in_pn:
+            added[h] = (en, ru, layer)
+        elif in_pn[h] == ru:
+            same += 1
+        else:
+            changes[h] = ru
+            if len(ex) < 8:
+                ex.append((en, in_pn[h], ru))
+    print("в файле: %d | поправить: %d | добавить: %d | уже так: %d"
+          % (len(rows), len(changes), len(added), same))
+    for en, was, now in ex:
+        print("  %-34s %r -> %r" % (en[:34], was[:40], now[:40]))
+    if a.apply:
+        apply_changes(changes, added, "слой имён")
+    else:
+        print("(для записи --apply)")
+
+
 def cmd_export(a):
     """bin -> CSV. Нужна, если снова понадобится старый пайплайн."""
     os.makedirs(a.outdir, exist_ok=True)
@@ -2136,6 +2476,9 @@ def main():
     add("frombatches", "влить переводы батчей (замена merge_back)", cmd_frombatches,
         (("--apply",), {"action": "store_true"}))
     add("canon", "привести к канону терминов", cmd_canon,
+        (("--apply",), {"action": "store_true"}))
+    add("canonbatches", "тот же канон, но по батчам", cmd_canonbatches,
+        (("--tidy",), {"action": "store_true", "help": "прогнать заодно мелкие починки tidy"}),
         (("--apply",), {"action": "store_true"}))
     add("broken", "разбор битых строк", cmd_broken,
         (("--fix-br",), {"action": "store_true"}),
@@ -2185,6 +2528,8 @@ def main():
         (("--out",), {"default": os.path.join(CROWD, "pn_harvest.csv")}),
         (("--min-score",), {"type": float, "default": 0.68}))
     add("pnadd", "добавить имена в слой pn_*", cmd_pnadd,
+        (("--file",), {"default": None}), (("--apply",), {"action": "store_true"}))
+    add("pnset", "задать перевод имени в слое (правит существующее)", cmd_pnset,
         (("--file",), {"default": None}), (("--apply",), {"action": "store_true"}))
     add("export", "выгрузить bin обратно в CSV", cmd_export, (("outdir",), {}))
 

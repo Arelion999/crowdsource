@@ -10,7 +10,7 @@ Do you have what it takes to battle alongside a champion?,"Есть ли у ва
 "Documenter of Secrets, Under 3","Документалист секретов, Подземелье 3"
 Dodge  incoming attack from enemies.,Уклонитесь от входящей атаки врагов.
 Dodge Tequatl's tail sweep.,Уклонитесь от удара хвостом Tequatl.
-Dodge the Shatterer's Focused Lightning Attack %num2% time[s] while gliding.,
+Dodge the Shatterer's Focused Lightning Attack %num2% time[s] while gliding.,Уклонитесь от сфокусированной молнии Крушителя %num2% раз в полёте на планёре.
 Dodge!,Уклоняйся!
 "Dodge, evade, or avoid all of the Whisper of Jormag's Rimebreath and Icicle attacks.","Уклонитесь, избегите или предотвратите все атаки Rimebreath и Icicle от Whisper of Jormag."
 Dodger Danger,Опасный уклонист
@@ -97,15 +97,15 @@ Don't take this nefarious Inquest construct lightly.,Не относитесь �
 Don't they ever test this stuff?,"Они что, никогда не тестируют это?"
 Don't worry. Demon blood is easy to wash out.,Не волнуйтесь. Демоническую кровь легко отмыть.
 Donate Lunar New Year food to the celestial pigs for good luck in the new year.,Пожертвуйте еду Лунного Нового года небесным свиньям на удачу в новом году.
-Donate Wintersday foods to Ho-Ho-Tron in Divinity's Reach.,Пожертвуйте зимние угощения Хо-Хо-Трону в Божественном Достоянии.
+Donate Wintersday foods to Ho-Ho-Tron in Divinity's Reach.,Пожертвуйте зимние угощения Хо-Хо-Трону в Божественном пределе.
 Donate bandit crests to the mercenary requisitioner at Camp Resolve in the Silverwastes.,Пожертвуйте гербы бандитов интенданту наёмников в Camp Resolve в Silverwastes.
 Donate enough Continue Coins to help get Drooburt out of his tough spot.,"Пожертвуйте достаточно монет продолжения, чтобы помочь Друбурту выбраться из его трудного положения."
 Donate enough pieces of candy corn to get Drooburt through the day.,"Пожертвуйте достаточно кусочков конфетной кукурузы, чтобы Drooburt продержался день."
 Donate enough pieces of candy corn to give Drooburt a new start.,"Пожертвуйте достаточно кусочков кукурузных конфет, чтобы дать Друбурту новый старт."
 Donate enough snowflakes to cheer up Drooburt for the holidays.,"Пожертвуйте достаточно снежинок, чтобы поднять настроение Друбурту на праздники."
 Donate essences of luck to change Drooburt's yearly bad fortune.,"Пожертвуйте эссенции удачи, чтобы изменить ежегодную невезучую судьбу Друбурта."
-Donate gold to Ho-Ho-Tron in Divinity's Reach.,Пожертвуйте золото Хо-Хо-Трону в Божественном Достоянии.
-Donate gold to Ho-Ho-Tron in Divinity's Reach. Achievement can be completed once per year.,Пожертвуйте золото Хо-Хо-Трону в Божественном Достоянии. Достижение можно выполнить раз в год.
+Donate gold to Ho-Ho-Tron in Divinity's Reach.,Пожертвуйте золото Хо-Хо-Трону в Божественном пределе.
+Donate gold to Ho-Ho-Tron in Divinity's Reach. Achievement can be completed once per year.,Пожертвуйте золото Хо-Хо-Трону в Божественном пределе. Достижение можно выполнить раз в год.
 Donate gold to either Ho-Ho-Tron or Marcello DiGiacomo in Lion's Arch.,Пожертвуйте золото Ho-Ho-Tron или Marcello DiGiacomo в Lion's Arch.
 "Donate goods to the ""very scientific"" research into the Mystic Forge's secrets in Lion's Arch.",Пожертвуйте товары для «очень научных» исследований тайн Mystic Forge в Lion's Arch.
 Donate materials to any United Legions quaestor in the Drizzlewood Coast.,Пожертвуйте материалы любому квестору Объединенных Легионов на Drizzlewood Coast.
@@ -201,7 +201,7 @@ Dreamthistle Weapon Collection,Коллекция оружия Dreamthistle
 Dredge Slayer,Убийца дрегов
 Dredgehaunt Cliffs Insight: Dostoev Sky Peak,Скалистые утесы дрегов: Прозрение на пике Dostoev
 Dress Rehearsal,Генеральная репетиция
-"Drink %num2% Wintersday drinks. These include spiced cider, buttered spirits, and eggnog.",
+"Drink %num2% Wintersday drinks. These include spiced cider, buttered spirits, and eggnog.","Выпейте %num2% напитков Зимнего дня. К ним относятся пряный сидр, сливочная настойка и гоголь-моголь."
 Drink a putrid drink at Grogslinger's.,Выпейте гнилой напиток в баре Grogslinger's.
 Drink nectars dropped by the Mordrem champion in Iron Marches to nullify its poisons.,"Выпейте нектары, выпадающие из чемпиона Mordrem в Iron Marches, чтобы нейтрализовать его яды."
 Drink too much liquid while on reconnaissance in the private freebooter bar.,Выпейте слишком много жидкости во время разведки в частном баре флибустьеров.
@@ -260,13 +260,13 @@ Duress,Принуждение
 "During the Defense of Amnytas meta-event in Amnytas, defeat Nourys, the Eyes of the Abyss.","Во время мета-события ""Defense of Amnytas"" в Amnytas победите Nourys, the Eyes of the Abyss."
 "During the Dragon Response Mission, aid each recruited faction at least once while a challenge is active.","Во время миссии ""Dragon Response Mission"" помогите каждой завербованной фракции хотя бы раз, пока активен вызов."
 "During the Dragon's Stand meta-event, defeat the Mouth of Mordremoth.","Во время мета-события ""Dragon's Stand"" победите Mouth of Mordremoth."
-"During the Dragonstorm encounter, attack Jormag %num2% time[s] while they are exposed.",
-"During the Dragonstorm encounter, attack Primordus %num2% time[s] while he is exposed.",
+"During the Dragonstorm encounter, attack Jormag %num2% time[s] while they are exposed.","В столкновении «Драконья Буря» атакуйте Йормага %num2% раз, пока он уязвлён."
+"During the Dragonstorm encounter, attack Primordus %num2% time[s] while he is exposed.","В столкновении «Драконья Буря» атакуйте Примордуса %num2% раз, пока он уязвлён."
 "During the Dragonstorm encounter, defeat both dragon champions at least once.",Во время события «Драконий шторм» победите обоих чемпионов драконов хотя бы один раз.
-"During the Dragonstorm encounter, dodge Primordus's Apocalypse Rain attack %num2% time[s].",
-"During the Dragonstorm encounter, dodge the Breath of Jormag attack %num2% time[s].",
-"During the Dragonstorm encounter, prevent Jormag's champion from using his elite skill %num2% time[s].",
-"During the Dragonstorm encounter, prevent Primordus's champion from using his elite skill %num2% time[s].",
+"During the Dragonstorm encounter, dodge Primordus's Apocalypse Rain attack %num2% time[s].",В столкновении «Драконья Буря» уклонитесь от атаки Примордуса «Дождь апокалипсиса» %num2% раз.
+"During the Dragonstorm encounter, dodge the Breath of Jormag attack %num2% time[s].",В столкновении «Драконья Буря» уклонитесь от атаки «Дыхание Йормага» %num2% раз.
+"During the Dragonstorm encounter, prevent Jormag's champion from using his elite skill %num2% time[s].",В столкновении «Драконья Буря» не дайте чемпиону Йормага применить элитное умение %num2% раз.
+"During the Dragonstorm encounter, prevent Primordus's champion from using his elite skill %num2% time[s].",В столкновении «Драконья Буря» не дайте чемпиону Примордуса применить элитное умение %num2% раз.
 "During the Fangs That Gnash meta-event in Inner Nayos, defeat Knaebelag the Terror.","Во время мета-события «Клыки, что грызут» в Inner Nayos победите Knaebelag the Terror."
 "During the Flame and Frost storyline, find and read sources of information on the Molten Alliance.",Во время сюжетной линии «Пламя и мороз» найдите и прочитайте источники информации о Molten Alliance.
 "During the Forged with Fire meta-event in Domain of Vabbi, defeat the legendary Forged Hounds.",Во время мета-события «Выковано огнем» в Domain of Vabbi победите легендарных Forged Hounds.
@@ -307,10 +307,10 @@ Eagle Eye Weapon Collector,Коллекционер оружия Eagle Eye
 Eagle's Revelation,Откровение орла
 Early Release,Ранний выпуск
 Earn %num2% Rank Points in PvP matches.,
-Earn %num2% charr salvage through gathering or by participating in events in the Drizzlewood Coast.,
-Earn %num2% influence for your guilds.,
-Earn %num2% points in the Hall of Monuments.,
-"Earn %num2% progress points by defeating caretakers and breaking locks in the ""Siege the Chamber of Rehabilitation and free the prisoners"" event.",
+Earn %num2% charr salvage through gathering or by participating in events in the Drizzlewood Coast.,Добудьте %num2% утиля чарров сбором или участием в событиях на Моросистом побережье.
+Earn %num2% influence for your guilds.,Заработайте %num2% влияния для своих гильдий.
+Earn %num2% points in the Hall of Monuments.,Заработайте %num2% очков в Зале Памятников.
+"Earn %num2% progress points by defeating caretakers and breaking locks in the ""Siege the Chamber of Rehabilitation and free the prisoners"" event.","Заработайте %num2% очков прогресса, побеждая смотрителей и взламывая замки в событии «Осадите Палату исправления и освободите узников»."
 Earn %num2% rank points.,
 Earn %num2% reward from a PvP Reward Track.,
 Earn %num2% hero points by completing hero challenges or by gaining a level with a level 80 character.,"Заработайте %num2% очков героя, выполняя испытания героев или получая уровень персонажем 80-го уровня."
@@ -347,8 +347,8 @@ Earn a gold medal in Skimmer-Net Scramble adventure.,Получите золот
 Earn a gold medal in the Academy Supply Run adventure.,Получите золотую медаль в приключении «Академический забег за припасами» (Academy Supply Run).
 Earn a gold medal in the Amnytas Supply Run adventure.,Получите золотую медаль в приключении «Забег за припасами в Амнитасе» (Amnytas Supply Run).
 Earn a gold medal in the Castoran King Crab adventure.,Получите золотую медаль в приключении «Королевский краб Касторана» (Castoran King Crab).
-Earn a gold medal in the Firecracker Lighting adventure in Divinity's Reach.,Заработайте золотую медаль в приключении «Зажигание фейерверка» в Божественном Достоянии.
-Earn a gold medal in the Firecracker Lighting adventure in Divinity's Reach. This achievement can be completed once a year.,Получите золотую медаль в приключении «Зажигание петард» в Чертогах Дивайнити. Это достижение можно выполнить один раз в год.
+Earn a gold medal in the Firecracker Lighting adventure in Divinity's Reach.,Заработайте золотую медаль в приключении «Зажигание фейерверка» в Божественном пределе.
+Earn a gold medal in the Firecracker Lighting adventure in Divinity's Reach. This achievement can be completed once a year.,Получите золотую медаль в приключении «Зажигание петард» в Божественном пределе. Это достижение можно выполнить один раз в год.
 Earn a gold medal in the Free Kryptis Essence adventure.,Получите золотую медаль в приключении «Свободная эссенция Криптис» (Free Kryptis Essence).
 Earn a gold medal in the Garden Supply Run adventure.,Получите золотую медаль в приключении «Садовый забег за припасами» (Garden Supply Run).
 Earn a gold medal in the Glimmering Arches Grand Prix adventure.,Получите золотую медаль в приключении «Гран-при Мерцающих арок» (Glimmering Arches Grand Prix).
@@ -440,7 +440,7 @@ Earn gold participation in 20 kodan cairn cleansing events.,Получите з�
 Earn gold participation in 20 kodan forestry events.,Получите золотой рейтинг участия в 20 событиях коданов по лесозаготовке.
 Earn gold participation in 20 kodan ice fishing events.,Получите золотой рейтинг участия в 20 событиях коданов по подледной рыбалке.
 Earn gold-rank timing in a Convergence with challenge mode active for this legendary creature.,Получите золотой рейтинг по времени в Конвергенции с активным режимом испытания для этого легендарного существа.
-Earn map complete on all %num2% Crystal Desert maps.,
+Earn map complete on all %num2% Crystal Desert maps.,Полностью исследуйте все %num2% карт Кристальной пустыни.
 Earn points while playing Southsun Survival.,"Зарабатывайте очки, играя в Выживание на Южных морях (Southsun Survival)."
 Earn profits from a café in your homestead.,Получайте прибыль от кафе в вашей усадьбе.
 Earn silver-rank timing or better in a Convergence with challenge mode active for this legendary creature.,Получите серебряный рейтинг по времени или лучше в Конвергенции с активным режимом испытания для этого легендарного существа.
@@ -459,7 +459,7 @@ Ease Beaker's appetite.,Утолите аппетит Бикера.
 Eased the Anxiety of a Terrified Desert Fox in Jahai Bluffs,Успокоили испуганную пустынную лису в утесах Джахай
 East Bjora Marches Treasure Hunter,Охотник за сокровищами восточных Маршей Бьорры
 "Easy cometh, not-so-easy goeth.","Легко пришло, не так уж легко ушло."
-Eat %num2% candy canes.,
+Eat %num2% candy canes.,Съешьте %num2% леденцов-тростей.
 Eat 50 pieces of candy corn.,Съешьте 50 кусочков конфетной кукурузы.
 Eat a Tasty Cake,Съешьте вкусный пирог
 "Eat a Tasty Cake, which can be purchased from low-level karma merchants in Plains of Ashford, Wayfarer Foothills, Queensdale, Caledon Forest, and Metrica Province.","Съешьте вкусный пирог, который можно купить у торговцев за карму низкого уровня в Равнинах Эшфорда, Предгорьях Путника, Долине Королевы, Каледонском лесу и Метрике."

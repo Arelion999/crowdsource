@@ -41,7 +41,7 @@ Join Solo,Присоединиться в одиночку
 Join Squad,Присоединиться к отряду
 Join Team,Присоединиться к команде
 Join Team Party?,Присоединиться к командной группе?
-Join the <br>Masquerade.,Присоединиться к <br>Маскарад
+Join the <br>Masquerade.,Присоединиться к <br>Маскарад.
 Join the battle between the dragon champions.,Присоединиться к битве между чемпионами драконов.
 Join the battle in the Mists from portals in Lion's Arch.,Присоединиться к битве в Туманном Пределе через порталы в Львином Шпиле.
 Join the blue team and fight other Mist warriors outside the Armistice Bastion walls.,Присоединиться к синей команде и сражаться с другими воителями Туманного Предела за стенами Бастиона Перемирия.
@@ -155,8 +155,8 @@ Journey into Inner Nayos to confront the Kryptis on their turf and close an unst
 Journey north into the rugged wilderness of Janthir to befriend its denizens and fortify against the impending threats they face.<br><c=@reminder>(Requires the Janthir Wilds expansion.)</c>,"Отправляйтесь на север, в суровую дикую местность Джантир, чтобы подружиться с её обитателями и укрепить оборону против надвигающихся угроз.<br><c=@reminder>(Требуется дополнение «Дикие земли Джантир».)</c>"
 "Journey to Cantha and complete the story step ""Old Friends"" to unlock Mastery tracks.","Отправляйтесь в Кантху и завершите шаг истории «Старые друзья», чтобы открыть треки мастерства."
 Journey to Cantha and obtain a Mastery point from End of Dragons achievements to unlock these Mastery tracks.,"Отправляйтесь в Канту и получите очко мастерства за достижения «Заката драконов», чтобы открыть эти ветки мастерства."
-Journey to Castora and obtain a Mastery point from Visions of Eternity achievements to unlock these Mastery tracks.,"Отправляйтесь в Кастору и получите очко мастерства за достижения «Видения Вечности», чтобы открыть эти ветки мастерства."
-Journey to Janthir Wilds and obtain a Mastery point from Janthir Wilds achievements to unlock these Mastery tracks.,"Отправляйтесь в Дикие земли Джантира и получите очко мастерства за выполнение достижений Диких земель Джантира, чтобы открыть эти ветки мастерства."
+Journey to Castora and obtain a Mastery point from Visions of Eternity achievements to unlock these Mastery tracks.,"Отправляйтесь в Кастору и получите очко мастерства за достижения «Видения вечности», чтобы открыть эти ветки мастерства."
+Journey to Janthir Wilds and obtain a Mastery point from Janthir Wilds achievements to unlock these Mastery tracks.,"Отправляйтесь в Дебри Джантира и получите очко мастерства за выполнение достижений Диких земель Джантира, чтобы открыть эти ветки мастерства."
 "Journey to the Crystal Desert and complete the story step ""Sparking the Flame"" to unlock Mastery tracks.","Отправляйтесь в Пустыню Кристалла и завершите шаг истории «Зажигая пламя», чтобы открыть треки мастерства."
 "Journey to the Heart of Maguuma and complete the story step ""Torn from the Sky"" to unlock Mastery tracks.","Отправляйтесь в Сердце Магуумы и завершите шаг истории «Вырванный с небес», чтобы открыть треки мастерства."
 Journey to the Horn of Maguuma and obtain a Mastery point from Secrets of the Obscure achievements to unlock these Mastery tracks.,"Отправляйтесь в рог Магуумы и получите очко мастерства за достижения «Секреты Запределья», чтобы открыть эти ветки мастерства."
@@ -413,7 +413,7 @@ Kaiser Snake Shield Skin[s],Облик[|а|ов] щита «Змея Кайзе�
 Kaiser Snake Short Bow Skin[s],Облик[|а|ов] короткого лука «Змея Кайзера»
 Kaiser Snake Staff Skin[s],"Кожа для посоха ""Императорская змея""[|и|ий|их]"
 Kaiser Snake Sword Skin[s],Кинжал императорской змеи
-Kaiser Snake Torch Skin[s],"Скины для факела ""Императорская змея""[|а|ов]"
+Kaiser Snake Torch Skin[s],"Облики для факела ""Императорская змея""[|а|ов]"
 Kaiser Snake Warhorn Skin[s],"Военный рог ""Императорская змея""[|и|ий|их]"
 "Kale Leaf[pl:""Leaves""]",Лист капусты кале
 "Kale Seed Pouch[pl:""Pouches""]",Мешочек с семенами капусты

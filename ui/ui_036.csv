@@ -141,7 +141,7 @@ Box of Training Kits,Коробка с учебными наборами
 "Box[pl:""Boxes""] of Apothecary's Barbaric Armor",[Ящик|Ящика|Ящиков] варварских доспехов аптекаря
 "Box[pl:""Boxes""] of Apothecary's Draconic Armor",[Ящик|Ящика|Ящиков] с драконьей броней аптекаря
 "Box[pl:""Boxes""] of Apothecary's Gladiator Armor",[Ящик|Ящика|Ящиков] гладиаторских доспехов аптекаря
-"Box[pl:""Boxes""] of Apprentice Scribing Supplies",
+"Box[pl:""Boxes""] of Apprentice Scribing Supplies",Коробка припасов для письма ученика
 "Box[pl:""Boxes""] of Assassin's Barbaric Armor",[Ящик|Ящика|Ящиков] варварских доспехов убийцы
 "Box[pl:""Boxes""] of Assassin's Draconic Armor",[Ящик|Ящика|Ящиков] доспехов убийцы из драконьей стали
 "Box[pl:""Boxes""] of Assassin's Gladiator Armor",[Ящик|Ящика|Ящиков] гладиаторских доспехов убийцы
@@ -154,7 +154,7 @@ Box of Training Kits,Коробка с учебными наборами
 "Box[pl:""Boxes""] of Captured Light",[Ящик|Ящика|Ящиков] с захваченным светом
 "Box[pl:""Boxes""] of Carrion Barbaric Armor",Ящик[|и|я] варварской брони из падали
 "Box[pl:""Boxes""] of Carrion Draconic Armor",[Ящик|Ящика|Ящиков] Кладбищенской Драконьей брони
-"Box[pl:""Boxes""] of Carrion Gladiator Armor",
+"Box[pl:""Boxes""] of Carrion Gladiator Armor",Коробка доспехов гладиатора «Стервятник»
 "Box[pl:""Boxes""] of Carrion Reinforced Scale Armor",[Ящик|Ящика|Ящиков] с усиленной чешуйчатой броней падальщика
 "Box[pl:""Boxes""] of Cleric's Barbaric Armor",Ящики с варварской броней клирика
 "Box[pl:""Boxes""] of Cleric's Draconic Armor",[Ящик|Ящика|Ящиков] Драконьей брони Клирика
@@ -199,7 +199,7 @@ Box of Training Kits,Коробка с учебными наборами
 "Box[pl:""Boxes""] of Mists-Infused Utility Stations","Ящик[а|и|ов] станций утилиты, пропитанных туманами"
 "Box[pl:""Boxes""] of Nomad's Draconic Armor",[Ящик|Ящика|Ящиков] с драконьей броней кочевника.
 "Box[pl:""Boxes""] of Precise Chain Armor",[Ящик|Ящика|Ящиков] точной цепной брони
-"Box[pl:""Boxes""] of Raider's Sustenance",
+"Box[pl:""Boxes""] of Raider's Sustenance",'Коробка пропитания рейдера'
 "Box[pl:""Boxes""] of Raider's Utilities",[Ящик|Ящика|Ящиков] с полезными предметами рейдера
 "Box[pl:""Boxes""] of Rampager's Barbaric Armor",[Ящик|Ящика|Ящиков] Барварской брони Разрушителя
 "Box[pl:""Boxes""] of Rampager's Draconic Armor",[Ящик|Ящика|Ящиков] брони Драконьего Разрушителя
@@ -287,7 +287,7 @@ Box of Training Kits,Коробка с учебными наборами
 "Box[pl:""Boxes""] of Seraph's Draconic Armor",Ящики с броней Серафимов из драконьей кожи
 "Box[pl:""Boxes""] of Simple Mighty Chain Armor",[Ящик|Ящика|Ящиков] простой прочной цепной брони.
 "Box[pl:""Boxes""] of Sinister Draconic Armor",Ящик[|и|я] зловещей драконьей брони
-"Box[pl:""Boxes""] of Strong Gladiator Armor",
+"Box[pl:""Boxes""] of Strong Gladiator Armor",Коробка прочной брони гладиатора
 "Box[pl:""Boxes""] of Strong Scale Armor",[Ящик|Ящика|Ящиков] прочной чешуйчатой брони
 "Box[pl:""Boxes""] of Strong Splint Armor",Рецепт: Коробка прочной шинированной брони
 "Box[pl:""Boxes""] of Trailblazer's Draconic Armor",
@@ -340,7 +340,7 @@ Braham's Heavy Armor Skin[s],Облик[|а|ов] тяжелой брони Бр
 Braham's Legplate Skin[s],[Облик|Облика|Обликов] наголенников Брейхама
 Braham's Mace Skin[s],[Облик|Облика|Обликов] булавы Брейхама
 Braham's meeting with Knut Whitebear,Встреча Брэма с Кнутом Беломедведем
-Braham's meeting with Rytlock Brimstone,Встреча Брэма с Райтлоком Бримстоуном
+Braham's meeting with Rytlock Brimstone,Встреча Брэма с Райтлоком Серожаром
 Braham's Pauldron Skin[s],[Облик|Облика|Обликов] наплечников Брейхама
 Braham's Shield Skin[s],[Облик|Облика|Обликов] щита Брейхама
 Braham's Warboot Skin[s],[Облик|Облика|Обликов] боевых сапог Брахма

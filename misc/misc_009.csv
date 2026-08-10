@@ -66,8 +66,8 @@ Desperate Medicine,Отчаянная медицина
 "Despite the continued attempts by Jormag to influence us, we pressed forward through the caves. Crecia was able to use her flame magic to open a path straight to Drakkar.","Несмотря на постоянные попытки Jormag повлиять на нас, мы продвигались через пещеры. Crecia смогла использовать свою магию огня, чтобы проложить путь прямо к Drakkar."
 "Despite the fact that Pete was still alive (a joke on the mayor's part, I now realize), his word wasn't quite enough. Mayor Osborne insisted I ""make a few more Hullgardeners happy"" before he'd give me any info on the Inquest's whereabouts. I pitched in around town, helping these castaway survivors in all manner of tasks; beautiful as this land is, surviving on it is no easy feat. I found the Hullgardeners to be a hearty, resilient bunch, if not particularly trusting.","Несмотря на то, что Pete был еще жив (шутка мэра, как я теперь понимаю), его слова было недостаточно. Мэр Osborne настоял, чтобы я «сделал еще нескольких жителей Hullgarden счастливыми», прежде чем он даст мне какую-либо информацию о местонахождении Инквезиции. Я помогал в городе, выполняя всевозможные поручения для этих выживших; как бы прекрасна ни была эта земля, выжить на ней непросто. Я обнаружил, что жители Hullgarden — сердечные, стойкие люди, пусть и не особо доверчивые."
 "Despite their ferocious appearance, wallows are actually quite docile and make for lovely companions. Canthan farmers use them to dig up truffles, as well as to protect themselves from hostile wildlife. —Acht","Несмотря на свирепый вид, кабаны на самом деле довольно миролюбивы и становятся прекрасными компаньонами. Кантские фермеры используют их для поиска трюфелей, а также для защиты от враждебной дикой природы. — Ахт"
-Destroy 10 Enemy Supply Caravans in World vs. World,Уничтожьте 10 вражеских караванов с припасами в режиме «Мир против мира»
-Destroy Brandstone Elementals: %num1%,
+Destroy 10 Enemy Supply Caravans in World vs. World,Уничтожьте 10 вражеских караванов с припасами в режиме «World vs. World»
+Destroy Brandstone Elementals: %num1%,Уничтожьте Брендстоун-элементалей: %num1%
 Destroy Death-Branded Deputy Qais.,Уничтожь Death-Branded Deputy Qais.
 Destroy Kralkatorrik's heart.,Уничтожьте сердце Kralkatorrik.
 Destroy Rotten Material the Titan Draws Power From,"Уничтожить гнилую материю, из которой титан черпает силу"
@@ -145,7 +145,7 @@ Detonate the Dominion charges.,Взорвать заряды Dominion.
 Devastation,Опустошение
 Devasting. The only word fit to describe this turn of events. But let me start from the beginning.,"Опустошительно. Единственное слово, подходящее для описания этого поворота событий. Но позвольте мне начать с самого начала."
 Devices planted,Устройств установлено
-Devices planted: %num1%/%num2%,
+Devices planted: %num1%/%num2%,Устройств установлено: %num1%/%num2%
 "Devices? What sort of devices? That is unsettling news, Commander. What can we do to support you?","Устройства? Что за устройства? Это тревожные новости, Коммандир. Чем мы можем вам помочь?"
 Devise a plan with the others.,Разработай план с остальными.
 Devise a plan with your allies.,Разработайте план вместе с союзниками.
@@ -459,7 +459,7 @@ Earned in monthly automated tournaments and some special event tournaments.,До
 Earned through Guild Missions. Spent in Lion's Arch. Used to purchase various rewards.,Заработано через гильдейские миссии. Тратится в Львиной Арке. Используется для покупки различных наград.
 Earned through various activities. Spent at vendors throughout the world.,Добывается в ходе различных занятий. Тратится у торговцев по всему миру.
 Earned when crossing division thresholds during PvP league seasons. Spend in the Heart of the Mists and trade for various rewards at the PvP League Vendor.,Зарабатывается при пересечении порогов дивизионов в сезонах PvP-лиги. Тратится в Сердце Туманностей и обменивается на различные награды у торговца PvP-лиги.
-Earned when ranking up in World vs World. Spent at any Notary of Heroics in World vs. World to obtain hero points.,Зарабатывается при повышении ранга в мире против мира. Тратится у любого нотариуса героических дел в мире против мира для получения очков героя.
+Earned when ranking up in World vs World. Spent at any Notary of Heroics in World vs. World to obtain hero points.,Зарабатывается при повышении ранга в World vs. World. Тратится у любого нотариуса героических дел в World vs. World для получения очков героя.
 Earth,Земля
 Earth is the foundation that supports all life. Stone fortifies us. Rock grounds us.,"Земля — это фундамент, поддерживающий всю жизнь. Камень укрепляет нас. Скала дает нам опору."
 Earthen,Земляной
@@ -490,7 +490,7 @@ Egg sacs destroyed,Коконов уничтожено
 Egg sacs destroyed:,Яйцевые мешки уничтожены:
 Eir Stegalkin,Eir Stegalkin
 "Eir and Braham fought their way to meet me at the dragon totem. Eir was confident that Knut Whitebear would agree to attend the summit at the Grove with the Sons of Svanir shamans now beaten back. I could tell that things were still awkward between the two of them, but that fighting alongside one another gave them some common ground to stand on.","Eir и Braham пробились ко мне к тотему дракона. Eir была уверена, что Knut Whitebear согласится посетить саммит в Grove теперь, когда шаманы Sons of Svanir отступили. Я видел, что между ними все еще сохраняется неловкость, но совместный бой дал им общую почву для примирения."
-"Eir and Rytlock are in over their heads. The dredge in Wayfarer Foothills and the Flame Legion in Diessa Plateau have joined forces to create the ""Molten Alliance."" Together, they're assaulting the lands north of Hoelbrak and the Black Citadel. Our friends have been overwhelmed by the refugees seeking aid in their cities. I would gladly lend them assistance, but matters in the Grove demand my attention.","Eir и Rytlock не справляются. Дреджи в Wayfarer Foothills и Огненный Легион в Diessa Plateau объединили усилия, чтобы создать «Molten Alliance». Вместе они атакуют земли к северу от Hoelbrak и Black Citadel. Наши друзья перегружены беженцами, ищущими помощи в их городах. Я бы с радостью оказал им поддержку, но дела в Grove требуют моего внимания."
+"Eir and Rytlock are in over their heads. The dredge in Wayfarer Foothills and the Flame Legion in Diessa Plateau have joined forces to create the ""Molten Alliance."" Together, they're assaulting the lands north of Hoelbrak and the Black Citadel. Our friends have been overwhelmed by the refugees seeking aid in their cities. I would gladly lend them assistance, but matters in the Grove demand my attention.","Eir и Rytlock не справляются. Дреджи в Wayfarer Foothills и Легион Пламени в Diessa Plateau объединили усилия, чтобы создать «Molten Alliance». Вместе они атакуют земли к северу от Hoelbrak и Black Citadel. Наши друзья перегружены беженцами, ищущими помощи в их городах. Я бы с радостью оказал им поддержку, но дела в Grove требуют моего внимания."
 Eir's Homestead,Усадьба Эйр
 Eir's wolf? What's he doing out there?,Волк Eir? Что он здесь делает?
 "Eir, Glint's lair is wondrous.","Eir, логово Glint просто изумительно."

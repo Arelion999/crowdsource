@@ -213,13 +213,13 @@ Complete the Convergence within the time limit to log your clear time and obtain
 —Пользовательская арена с турнирными командами
 —Рейтинговая арена
 —Нерейтинговая арена
-—МпМ"
+—WvW"
 "Enjoy this free World vs. World XP Booster with our compliments, as you take part in warfare on an epic scale!
-To access WvW, press ""B,"" then select which world you wish to enter, or hop through the asura gates in Lion's Arch that lead to the WvW borderlands. We'll see you on the battlefield!","Примите в подарок этот бесплатный усилитель опыта «Мира против мира», пока участвуете в войне грандиозного размаха!
-Чтобы попасть в МпМ, нажмите «B» и выберите мир, в который хотите войти, либо пройдите через врата асура во Львиной Арке, ведущие в приграничья МпМ. Увидимся на поле боя!"
+To access WvW, press ""B,"" then select which world you wish to enter, or hop through the asura gates in Lion's Arch that lead to the WvW borderlands. We'll see you on the battlefield!","Примите в подарок этот бесплатный усилитель опыта «WvW», пока участвуете в войне грандиозного размаха!
+Чтобы попасть в WvW, нажмите «B» и выберите мир, в который хотите войти, либо пройдите через врата асура во Львиной Арке, ведущие в приграничья WvW. Увидимся на поле боя!"
 "Enter World vs. World to experience the new Reward Track, Participation, and World Linking systems.
 
-Learn more here.","Войдите в «Мир против мира», чтобы опробовать новые системы наградных треков, участия и связывания миров.
+Learn more here.","Войдите в «World vs. World», чтобы опробовать новые системы наградных треков, участия и связывания миров.
 
 Узнать больше можно здесь."
 "Entry 11
@@ -1420,7 +1420,10 @@ Gain Concentration Equal to 6%% of Your Healing Power
 "Gain Concentration Equal to 3%% of Your Precision
 Gain Concentration Equal to 6%% of Your Healing Power
 +10%% Experience from Kills
-+10%% Karma Bonus","Концентрация, равная 3%% вашей ТочностиКонцентрация, равная 6%% вашей Силы исцеления+10%% опыта за убийства+10%% к бонусу кармы"
++10%% Karma Bonus","Концентрация, равная 3%% вашей Точности
+Концентрация, равная 6%% вашей Силы исцеления
++10%% опыта за убийства
++10%% к бонусу кармы"
 "Gain Concentration Equal to 3%% of Your Precision
 Gain Healing Power Equal to 3%% of Your Precision
 +10%% Experience from Kills","Концентрация, равная 3%% вашей Точности
@@ -1478,7 +1481,10 @@ Gain Condition Damage Equal to 8%% of Your Expertise
 "Gain Condition Damage Equal to 3%% of Your Precision
 Gain Condition Damage Equal to 8%% of Your Expertise
 +10%% Experience from Kills
-+10%% Karma Bonus","Урон от состояний, равный 3%% вашей ТочностиУрон от состояний, равный 8%% вашей Экспертизы+10%% опыта за убийства+10%% к бонусу кармы"
++10%% Karma Bonus","Урон от состояний, равный 3%% вашей Точности
+Урон от состояний, равный 8%% вашей Экспертизы
++10%% опыта за убийства
++10%% к бонусу кармы"
 "Gain Condition Damage Equal to 3%% of Your Precision
 Gain Expertise Equal to 3%% of Your Precision
 +10%% Experience from kills","Урон от состояний, равный 3%% вашей Точности
@@ -1777,7 +1783,10 @@ Gain Power Equal to 6%% of Your Ferocity
 "Gain Power Equal to 3%% of Your Precision
 Gain Power Equal to 6%% of Your Ferocity
 +10%% Experience from Kills
-+10%% Karma Bonus","Сила, равная 3%% вашей ТочностиСила, равная 6%% вашей Свирепости+10%% опыта за убийства+10%% к бонусу кармы"
++10%% Karma Bonus","Сила, равная 3%% вашей Точности
+Сила, равная 6%% вашей Свирепости
++10%% опыта за убийства
++10%% к бонусу кармы"
 "Gain Power Equal to 3%% of Your Toughness
 Gain Expertise Equal to 3%% of Your Toughness
 +10%% Experience from Kills","Сила, равная 3%% вашей Стойкости
@@ -1826,7 +1835,7 @@ Castoran champions, meta-events, and world boss events award a bonus chest.
 • Bank and Guild Bank Access
 • Mystic Forge
 • Merchants 
-• And more! All within easy reach, for those who enjoy the ultimate convenience.","Даёт вход на Королевскую террасу в Божественном Пределе.• Врата асура во все города• Ремесленные станции• Доступ к банку и гильдейскому банку• Мистическая кузня• Торговцы • И многое другое! Всё под рукой — для тех, кто ценит предельное удобство."
+• And more! All within easy reach, for those who enjoy the ultimate convenience.","Даёт вход на Королевскую террасу в Божественном пределе.• Врата асура во все города• Ремесленные станции• Доступ к банку и гильдейскому банку• Мистическая кузня• Торговцы • И многое другое! Всё под рукой — для тех, кто ценит предельное удобство."
 "Gain the ability to ride ley lines both above and below water as well as updrafts with the skimmer.
 
 When in an updraft or a ley line, you can break out of it by using the skimmer's Barrel Roll engage skill.","Даёт возможность скользить по лей-линиям над водой и под водой, а также по восходящим потокам на скиммере.
@@ -2079,7 +2088,7 @@ However, I've also heard that those renovations have had their own problems, and
 
 As always,
 
-Your Herald","Приветствую!Благодаря твоим действиям королева Дженна спасена от разбойников, а министр Кодекус гостит у неё в Божественном Пределе, пока его поместье ремонтируют. Однако я слышал, что и с этим ремонтом возникли свои беды и что там снова может понадобиться твоя помощь. Отправляйся в поместье и выясни, в чём дело. Мне сказали, что тебе надлежит встретиться с членом Сияющего Клинка по имени Тали. Уверен, там совсем не будет опасно.Как всегда,Твой Глашатай"
+Your Herald","Приветствую!Благодаря твоим действиям королева Дженна спасена от разбойников, а министр Кодекус гостит у неё в Божественном пределе, пока его поместье ремонтируют. Однако я слышал, что и с этим ремонтом возникли свои беды и что там снова может понадобиться твоя помощь. Отправляйся в поместье и выясни, в чём дело. Мне сказали, что тебе надлежит встретиться с членом Сияющего Клинка по имени Тали. Уверен, там совсем не будет опасно.Как всегда,Твой Глашатай"
 "Greetings!
 
 I am pleased to announce that the Temple of the Silent Storm battleground is finally making its PvP tournament debut! Starting January 28, and for the next seven days, the regular eight-team/three-round paid tournaments will be replaced by two-team/single-round paid tournaments featuring the Temple of the Silent Storm venue.
@@ -2438,7 +2447,7 @@ I forgot to mention it, but that unbound magic is really useful stuff. Natto was
 
 —Taimi","Приветствую, о великий!
 
-Забыл упомянуть, но эта несвязанная магия — и впрямь полезная штука. Натто был из команды Соулкипер, и, полагаю, ему она была бы особенно интересна. Сомневаюсь, что ты найдёшь его далеко от мостика воздушных кораблей: он не из тех асура, кто рвётся на передовую.
+Забыл упомянуть, но эта несвязанная магия — и впрямь полезная штука. Натто был из команды Душехран, и, полагаю, ему она была бы особенно интересна. Сомневаюсь, что ты найдёшь его далеко от мостика воздушных кораблей: он не из тех асура, кто рвётся на передовую.
 
 —Тайми"
 "Greetings, Slayer of Issormir. I went to Eir Stegalkin for assistance, and she strongly recommended I contact you. It's a matter of extreme importance that I would prefer to discuss in person. Please visit me at the Wolf Shrine as soon as you can. May Wolf bless you and guide your steps until then.
@@ -2893,7 +2902,7 @@ Grub Repellent,Отпугиватель личинок
 
 Guesting is not available at this time.","Гостевание — бесплатная возможность, позволяющая игрокам одного мира играть с друзьями из другого мира. С гостеванием ваши персонажи могут играть в любом мире, где у вас есть друзья, — с некоторыми ограничениями. Участвовать в «
 
-Мире против мира» во время гостевания нельзя. Гостевание сейчас недоступно."
+World vs. World» во время гостевания нельзя. Гостевание сейчас недоступно."
 "Guilds are a great way to connect to a community and make new friends. Each guild has its own chat channel and list of members showing who's available to play with. Members can cooperate to obtain a guild hall and purchase upgrades such as leveling bonuses, shared item vaults, and the ability to throw a party. 
 
 You can join a guild or start your own!","Гильдии — отличный способ присоединиться к сообществу и завести новых друзей. У каждой гильдии есть свой канал чата и список участников, показывающий, кто доступен для игры. Участники могут сотрудничать, чтобы получить зал гильдии и приобрести улучшения, такие как бонусы к опыту, общие хранилища предметов и возможность устраивать вечеринки.
@@ -3161,7 +3170,7 @@ Your Herald","Приветствую, могучий герой!
 
 Мы получили новости с северо-восточного фронта: Гахерон Огненная Погибель, лидер чарров-отступников из Легиона Пламени, был отброшен к воротам своей штаб-квартиры в Цитадели Пламени. Объединённые военные силы Бдительности, Дюрандского Приората и Ордена Шёпота прямо сейчас пытаются пробить эти ворота.
 
-И Логан Тэкери, и Райтлок Бримстоун были отправлены на этот фронт, и, учитывая их отношение друг к другу, думаю, им понадобится кто-то, кто помешает им перебить друг друга. Естественно, я подумал о тебе, хотя и не знаю, кто представляет большую опасность — Гахерон или эти двое бывших союзников.
+И Логан Тэкери, и Райтлок Серожар были отправлены на этот фронт, и, учитывая их отношение друг к другу, думаю, им понадобится кто-то, кто помешает им перебить друг друга. Естественно, я подумал о тебе, хотя и не знаю, кто представляет большую опасность — Гахерон или эти двое бывших союзников.
 
 Спасибо,
 
@@ -3337,7 +3346,7 @@ The first three components are drops from Mystic Chests. Mystic Chests are made 
 • 1 Essence of Halloween
 • 250 Cured Thick Leather Squares
 • 250 Cured Thick Leather Squares
-• 250 Cured Thick Leather Squares","Держите этот предмет в инвентаре при путешествии во Львиную Арку. Этот предмет можно создать в Мистической кузне, соединив следующее:• 1 эссенцию Божественного Предела• 2 мистических краеугольных кристалла• 7 горстей мистической пыли• 50 мистических монетПервые три составляющие выпадают из мистических сундуков. Мистические сундуки делаются в Мистической кузне соединением следующего:• 1 эссенции Хэллоуина• 250 квадратов дублёной толстой кожи• 250 квадратов дублёной толстой кожи• 250 квадратов дублёной толстой кожи"
+• 250 Cured Thick Leather Squares","Держите этот предмет в инвентаре при путешествии во Львиную Арку. Этот предмет можно создать в Мистической кузне, соединив следующее:• 1 эссенцию Божественного предела• 2 мистических краеугольных кристалла• 7 горстей мистической пыли• 50 мистических монетПервые три составляющие выпадают из мистических сундуков. Мистические сундуки делаются в Мистической кузне соединением следующего:• 1 эссенции Хэллоуина• 250 квадратов дублёной толстой кожи• 250 квадратов дублёной толстой кожи• 250 квадратов дублёной толстой кожи"
 "Have this item in your inventory when traveling to Lion's Arch. 
 This item can be created in the Mystic Forge by combining the following items:
 • 1 Essence of Lion's Arch
@@ -3650,7 +3659,7 @@ By the Will and Command of Queen Jennah of Kryta, you are hereby formally summon
 
 —Countess Anise","Герой Шеймура,
 
-Волей и повелением королевы Дженны Крайтанской ты настоящим официально призываешься предстать пред королевской особой. Когда будешь готов, милости просим в её тронный зал в Божественном Пределе. До новой встречи да хранят тебя Шестеро богов во всех делах.
+Волей и повелением королевы Дженны Крайтанской ты настоящим официально призываешься предстать пред королевской особой. Когда будешь готов, милости просим в её тронный зал в Божественном пределе. До новой встречи да хранят тебя Шестеро богов во всех делах.
 
 —Графиня Энис"
 "Hero! I marvel at your amazing feats. I thank thee for bestowing such bounty upon myself, and my passel of performers. The skies shall hear of your tales of triumph; you have my word. Feel free to visit our village and stay for a show. I promise the performance will be praiseworthy.

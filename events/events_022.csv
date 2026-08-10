@@ -7,16 +7,16 @@ Supply containers remaining,Осталось контейнеров с прип�
 Supply crates remaining: 7,Осталось ящиков с припасами: 7
 "Supply in Depot: x of 1,400.",Припасов на складе: x из 1400.
 Supply in Depot: x of 100-700.,Припасы на складе: x из 100-700.
-Supply in Depot: %num1% of %num2%.,
-Supply in Depot: %num1% of %num2%.,
-Supply in Depot: %num1% of %num2%.,
-Supply in Depot: %num1% of %num2%.,
-Supply in Depot: %num1% of %num2%.,
-Supply in Depot: %num1% of %num2%.,
-Supply in Depot: %num1% of %num2%.,
-Supply in Depot: %num1% of %num2%.,
-Supply in Depot: %num1% of %num2%.,
-Supply in Depot: %num1% of %num2%.,
+Supply in Depot: %num1% of %num2%.,Запасы в хранилище: %num1% из %num2%.
+Supply in Depot: %num1% of %num2%.,Запасы в хранилище: %num1% из %num2%.
+Supply in Depot: %num1% of %num2%.,Запасы в хранилище: %num1% из %num2%.
+Supply in Depot: %num1% of %num2%.,Запасы в хранилище: %num1% из %num2%.
+Supply in Depot: %num1% of %num2%.,Запасы в хранилище: %num1% из %num2%.
+Supply in Depot: %num1% of %num2%.,Запасы в хранилище: %num1% из %num2%.
+Supply in Depot: %num1% of %num2%.,Запасы в хранилище: %num1% из %num2%.
+Supply in Depot: %num1% of %num2%.,Запасы в хранилище: %num1% из %num2%.
+Supply in Depot: %num1% of %num2%.,Запасы в хранилище: %num1% из %num2%.
+Supply in Depot: %num1% of %num2%.,Запасы в хранилище: %num1% из %num2%.
 Supply shipment ready in: x:xx,Партия припасов готова через: x:xx
 Supply tent:,Палатка снабжения:
 Support Commander Batista's offensive against the Separatists,Поддержите наступление Коммандир Batista на Сепаратистов
@@ -181,7 +181,7 @@ Talk with Rebel Keyon,Поговорить с повстанцем Keyon
 Talked to one of the guards earlier. Still no word on MinSec's travel restrictions being lifted.,Ранее говорил с одним из стражников. До сих пор нет новостей о снятии ограничений на передвижение от MinSec.
 Tallying votes in: 3:00,Подсчет голосов через: 3:00
 Talooboo's Shark,Акула Talooboo
-Tamini morale: %num1%%%,
+Tamini morale: %num1%%%,Боевой дух Тамини: %num1%%%
 Tamini centaurs morale: x%,Боевой дух кентавров Tamini: x%
 Tanek flees in: 10:00,Tanek сбежит через: 10:00
 Tanners' Bliss,Блаженство дубильщиков
@@ -190,8 +190,8 @@ Tar Elementals Remaining,Осталось элементалей смолы
 Tar Elementals are nasty creatures. We need to keep them away from our machines until we can purify the lake.,"Элементали смолы — мерзкие твари. Нужно держать их подальше от наших машин, пока мы не очистим озеро."
 Target down!,Цель уничтожена!
 Target in sight!,Цель в поле зрения!
-Target points scored: %num1%,
-Targets destroyed: %num1%,
+Target points scored: %num1%,Набрано очков: %num1%
+Targets destroyed: %num1%,Уничтожено целей: %num1%
 Targets hit,Мишеней поражено
 Targets remaining,Осталось целей
 Tarir has been saved from the Mordrem! The Exalted have revealed grand Exalted chests beneath the city.,Tarir спасен от Mordrem! Exalted открыли великие сундуки Exalted под городом.
@@ -220,7 +220,7 @@ Tendril Strength,Сила щупалец
 Tendrils of Nourys Remaining,Осталось усиков Nourys
 Tendrils of Nourys deplete magic in: 8:00,Усики Nourys поглотят магию через: 8:00
 Tendrils remaining: x,Осталось усиков: x
-Tengu contestant score: %num1%,
+Tengu contestant score: %num1%,Счет участника Тенгу: %num1%
 Tenrat,Tenrat
 "Tentacles of Nourys, the Eyes of the Abyss","Щупальца Nourys, Очи Бездны"
 Tents constructed,Палаток построено
@@ -395,7 +395,7 @@ The Eagle Shrine,Святилище орла
 The Enforcer,Силовик
 The Eternal Sentinel,Вечный Страж
 The Flame Legion flees before us! The camp is ours. Your father would be proud.,Flame Legion бежит от нас! Лагерь наш. Твой отец гордился бы тобой.
-The Flame Legion have taken over Bloodsaw Mill. I don't want to think about what their next plans are. We need to reclaim the mill!,"Легион Огня захватил лесопилку Bloodsaw. Даже думать не хочу, что они задумали дальше. Мы должны вернуть лесопилку!"
+The Flame Legion have taken over Bloodsaw Mill. I don't want to think about what their next plans are. We need to reclaim the mill!,"Легион Пламени захватил лесопилку Bloodsaw. Даже думать не хочу, что они задумали дальше. Мы должны вернуть лесопилку!"
 The Flame Legion is actually doing us a favor by showing up here. We get to repay them for all damage they caused!,"Flame Legion оказывает нам услугу, появляясь здесь. Мы сможем отплатить им за весь причиненный ущерб!"
 "The Flame Legion is trying to prevent us from fixin' up the plant, but we've got our best engineer, Kyron, on the task. Make sure the Flame Legion doesn't get near her.","Flame Legion пытается помешать нам починить завод, но у нас за дело взялся лучший инженер, Kyron. Убедитесь, что Flame Legion не приближается к ней."
 "The Flame Legion killed my pet devourer. (growl) I'd like to join the assault against them, but I need to capture a new devourer egg. Can you cover my back while I search through the devourer nests?","Flame Legion убили моего питомца-пожирателя. (рычит) Я хочу присоединиться к штурму, но мне нужно добыть новое яйцо пожирателя. Прикроешь меня, пока я буду обыскивать гнёзда?"

@@ -12,7 +12,9 @@ Archers from the Dominion of the Winds have learned to harness the powerful squa
 Лучники из Владычества Ветров научились обуздывать мощную магию шквала своих лесов, чтобы плести лук из чистого ветра. С этим луком в руках ветрострел управляет порывами вокруг себя, чтобы грациозно маневрировать на поле боя и направлять свои стрелы."
 """In the wild...all you can rely on is yourself.""
 
-Wilderness survival offers techniques to improve your defense in order to stay alive during intense combat. It grants both offensive and defensive condition augments depending on whether you are applying conditions or receiving them.","«В дикой природе... полагаться можно только на себя». Выживание в глуши предлагает техники усиления защиты, чтобы остаться в живых во время интенсивного боя. Оно даёт усиления состояний как в атаке, так и в защите — в зависимости от того, накладываете вы состояния или получаете их."
+Wilderness survival offers techniques to improve your defense in order to stay alive during intense combat. It grants both offensive and defensive condition augments depending on whether you are applying conditions or receiving them.","«В дикой природе... полагаться можно только на себя».
+
+Выживание в глуши предлагает техники усиления защиты, чтобы остаться в живых во время интенсивного боя. Оно даёт усиления состояний как в атаке, так и в защите — в зависимости от того, накладываете вы состояния или получаете их."
 """Nature, guide me...""
 
 Nature magic focuses on the application of supportive and regenerative boons to yourself, your pet, and your allies. Your spirits are also enhanced, providing additional support.","«Природа, веди меня...»
@@ -25,7 +27,9 @@ Skirmishing improves your mobility in combat, granting various bonuses when you 
 Стычки усиливают вашу подвижность в бою, даруя различные бонусы при смене оружия и поощряя быстрое передвижение. Это даёт дополнительные преимущества при уклонении от атак и усиливает ваши ловушки."
 """The stars, earth, and sky above will heal us.""
 
-Druids utilize the power of nature and the stars above to heal their allies, using glyph skills to channel powerful boons and protective utilities. By generating your astral force, you can channel your Celestial Avatar form.","«Звёзды, земля и небо над нами исцелят нас». Друиды используют силу природы и звёзд над головой, чтобы исцелять союзников, применяя навыки глифов для направления мощных даров и защитных вспомогательных средств. Накапливая астральную силу, вы можете войти в форму Небесного аватара."
+Druids utilize the power of nature and the stars above to heal their allies, using glyph skills to channel powerful boons and protective utilities. By generating your astral force, you can channel your Celestial Avatar form.","«Звёзды, земля и небо над нами исцелят нас».
+
+Друиды используют силу природы и звёзд над головой, чтобы исцелять союзников, применяя навыки глифов для направления мощных даров и защитных вспомогательных средств. Накапливая астральную силу, вы можете войти в форму Небесного аватара."
 """They never come back whole. Maybe they're only half-remembered...""","Они никогда не возвращаются целыми. Может, их помнят лишь наполовину..."
 """Two hearts fighting as one.""
 
@@ -180,8 +184,8 @@ Up to 100%% Bonus Experience for Kill Streaks","+50%% опыта во всех �
 /g6,/g6
 /w %str1%,/w %str1%
 "100%% boost to magic find, WvW rank gain, experience from kills, and gold from kills.
-10%% bonus to PvP and WvW reward track progress.","+100%% к поиску магии, набору ранга МпМ, опыту за убийства и золоту с убийств.
-+10%% к прогрессу наградных треков PvP и МпМ."
+10%% bonus to PvP and WvW reward track progress.","+100%% к поиску магии, набору ранга WvW, опыту за убийства и золоту с убийств.
++10%% к прогрессу наградных треков PvP и WvW."
 2X,2X
 "300 Tales[pl:""Tales""] of Dungeon Delving",300 [Сказание|Сказания|Сказаний] о подземельях
 3X,3X
@@ -212,7 +216,7 @@ Engineers are jacks-of-all-trades and, with enough time, masters of many. Able t
 <c=@abilitytype>Shout.</c> Grant aegis and swiftness to up to five nearby allies.,<c=@abilitytype>Крик.</c> Дает эгиду и стремительность до пяти ближайшим союзникам.
 <c=@abilitytype>Ward.</c> Create a ring around you that foes cannot cross. Trapped foes cannot exit the ring while it is active.,"<c=@abilitytype>Барьер.</c> Создаёт вокруг вас кольцо, которое враги не могут пересечь. Захваченные враги не могут покинуть кольцо, пока оно активно."
 <c=@reminder>Unlock this PvP rank finisher by earning rank points and increasing your PvP rank.</c>,"<c=@reminder>Разблокируйте этот PvP-добивающий удар, зарабатывая очки ранга и повышая свой PvP-ранг.</c>"
-<c=@reminder>Unlock this finisher by competing in World vs. World.</c>,"<c=@reminder>Разблокируйте это добивание, участвуя в Мир против Мира.</c>"
+<c=@reminder>Unlock this finisher by competing in World vs. World.</c>,"<c=@reminder>Разблокируйте это добивание, участвуя в World vs. World.</c>"
 "A scaling five-man dungeon displaced by time and space that grants players greater rewards as they delve deeper into the Mists.
 Players must be level 80 to enter.","Масштабируемое подземелье на пять человек, смещённое во времени и пространстве, которое даёт игрокам тем большие награды, чем глубже они уходят в Туманы.
 Для входа нужен 80-й уровень."
@@ -467,7 +471,7 @@ Armored Tiger Warclaw Skin[s],Облик боевого когтя «Брони�
 Armors,Броня
 Arone,Арон
 Arowana,Арована
-%num1% Arrow[s],
+%num1% Arrow[s],%num1% стрел[а|ы|]
 Arrow Pattern Snowflake Platform[s],Платформа-снежинка с узором из стрел
 Arrowhead,Наконечник стрелы
 Arrowheads,Наконечники стрел

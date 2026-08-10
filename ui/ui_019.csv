@@ -39,10 +39,10 @@ english,translate
 3 Illusions,3 иллюзии
 3 of 4 door controls activated.,Задействовано 3 из 4 дверных пультов.
 3 Pack of<br>Avian Miniatures!,Набор из 3<br>птичьих миниатюр!
-3 Pack of<br>World vs. World Miniatures!,Набор из 3<br>миниатюр «Мир против мира»!
+3 Pack of<br>World vs. World Miniatures!,Набор из 3<br>миниатюр «World vs. World»!
 3%% Magic Find While under the Effect of a Boon+10%% Experience from Kills,3%% к поиску магии под действием бона+10%% опыта за убийства
 3%% Magic Find While under the Effect of a Boon+15%% Experience from Kills,3%% к поиску магии под действием бона+15%% опыта за убийства
-3-Pack of<br>World vs. World Miniatures!,Набор из 3<br>миниатюр «Мир против мира»!
+3-Pack of<br>World vs. World Miniatures!,Набор из 3<br>миниатюр «World vs. World»!
 3. Bring Lyla's token to the remains.,3. Отнесите знак Лайлы к останкам.
 3. Complete a Fractal of the Mists in quickplay mode and loot the final treasure chest.,3. Пройдите Фрактал Туманов в режиме быстрой игры и заберите добычу из финального сундука.
 3. Complete the Reverie of a Thorn achievement and return to Ridhais.,3. Выполните достижение «Грёзы Терния» и вернитесь к Ридхайс.
@@ -157,8 +157,8 @@ english,translate
 50%% Karma Bonus,+50%% к карме
 50%% of regular experience,50%% от обычного опыта
 50%% to Gain Swiftness on Kill+4%% Damage While Moving+10%% Experience from Kills,50%% на получение Быстроты при убийстве+4%% к урону в движении+10%% опыта за убийства
-50%% WvW Experience Bonus,+50%% к опыту МпМ
-50-person group for coordinating WvW and open-world battles,Группа из 50 человек для согласования битв в МпМ и открытом мире
+50%% WvW Experience Bonus,+50%% к опыту WvW
+50-person group for coordinating WvW and open-world battles,Группа из 50 человек для согласования битв в WvW и открытом мире
 "500 Airship Parts[pl:""Parts""]",500 частей[|и|] воздушного корабля
 "500 Ley Line Crystals[pl:""Crystals""]",500 кристаллов[|а|] лей-линий
 "500 Lumps[pl:""Lumps""] of Aurillium",500 кусков[|а|] ауриллия
@@ -455,11 +455,11 @@ english,translate
 <c=%str1%>Durability: %num1% / %num2%</c>,<c=%str1%>Прочность: %num1% / %num2%</c>
 <c=%str1%>Required Level: %num1%</c>,<c=%str1%>Требуемый уровень: %num1%</c>
 <c=%str2%>%str1% use requires level %num1%</c>,<c=%str2%>Для использования %str1% нужен уровень %num1%</c>
-"<c=%str3%>%str1% use in the main hand requires the completion of the Astral Ward Arsenal achievement, or it must be purchased in World vs. World.</c>",<c=%str3%>Для использования %str1% в основной руке нужно выполнить достижение «Арсенал Астральной стражи» либо купить его в Мире против мира.</c>
+"<c=%str3%>%str1% use in the main hand requires the completion of the Astral Ward Arsenal achievement, or it must be purchased in World vs. World.</c>",<c=%str3%>Для использования %str1% в основной руке нужно выполнить достижение «Арсенал Астральной стражи» либо купить его в World vs. World.</c>
 <c=%str3%>%str1% use in the main hand requires the elite specialization %str2% (level %num1%) or the Weaponmaster Training.</c>,<c=%str3%>Для использования %str1% в основной руке нужна элитная специализация «%str2%» (уровень %num1%) либо «Обучение мастера оружия».</c>
-"<c=%str3%>%str1% use in the off hand requires the completion of the Astral Ward Arsenal achievement, or it must be purchased in World vs. World.</c>",<c=%str3%>Для использования %str1% во второй руке нужно выполнить достижение «Арсенал Астральной стражи» либо купить его в Мире против мира.</c>
+"<c=%str3%>%str1% use in the off hand requires the completion of the Astral Ward Arsenal achievement, or it must be purchased in World vs. World.</c>",<c=%str3%>Для использования %str1% во второй руке нужно выполнить достижение «Арсенал Астральной стражи» либо купить его в World vs. World.</c>
 <c=%str3%>%str1% use on land requires completion of the Kodan Spear Training Mastery.</c>,<c=%str3%>Для использования %str1% на суше нужно завершить мастерство «Обучение владению копьём коданов».</c>
-"<c=%str3%>%str1% use requires the completion of the Astral Ward Arsenal achievement, or it must be purchased in World vs. World.</c>",<c=%str3%>Для использования %str1% нужно выполнить достижение «Арсенал Астральной стражи» либо купить его в Мире против мира.</c>
+"<c=%str3%>%str1% use requires the completion of the Astral Ward Arsenal achievement, or it must be purchased in World vs. World.</c>",<c=%str3%>Для использования %str1% нужно выполнить достижение «Арсенал Астральной стражи» либо купить его в World vs. World.</c>
 <c=%str3%>%str1% use requires the elite specialization %str2% (level %num1%) or the Weaponmaster Training.</c>,<c=%str3%>Для использования %str1% нужна элитная специализация «%str2%» (уровень %num1%) либо «Обучение мастера оружия».</c>
 <c=%str3%>%str1% use requires the elite specialization %str2% (Level %num1%)</c>,<c=%str3%>Для использования %str1% нужна элитная специализация «%str2%» (уровень %num1%)</c>
 <c=%str3%>[lbracket]%str1%[rbracket]</c>: <c=%str4%>%str2%</c>,<c=%str3%>[lbracket]%str1%[rbracket]</c>: <c=%str4%>%str2%</c>
