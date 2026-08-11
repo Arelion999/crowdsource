@@ -188,7 +188,7 @@ Hunter's Verdict,Вердикт охотника
 Hunter's Ward,Страж охотника
 Hurl,Бросок
 Hurl a bolt of unfurling shadows to bolster allies.,"Метнуть снаряд из теней, чтобы поддержать союзников."
-Hurl a heavy earthen spear that cripples your foe.,"Метнуть тяжёлое земляное копьё, которое калечит вашего врага."
+Hurl a heavy earthen spear that cripples your foe.,"Метнуть тяжёлое копьё Земли, которое вызывает у противника хромоту."
 Hurl a rock and weaken your foe.,"Бросить камнем в противника, вызывая у него слабость."
 "Hurl forces from the Mists in front of you, rendering foes vulnerable.","Метните силы из Туманностей перед собой, делая врагов уязвимыми."
 Hurl the rocks from your barrier at your foe.,Бросить в противника камнями из вашего скального барьера.
@@ -238,7 +238,7 @@ Icy Screech,Ледяной визг
 "If the whisperinng shadow has 10 stacks of Empowered, all enemies are also afflicted with vulnerability.","Если у Шепчущей тени 10 стаков Усиления, все враги также получают уязвимость."
 "If this skill is empowered, grant stability to allies near the tablet.","Если этот навык усилен, дайте устойчивость союзникам рядом с планшетом."
 "If this skill is empowered, healing is increased and endurance is granted to affected allies.","Если этот навык усилен, исцеление увеличивается, а затронутые союзники получают выносливость."
-"If this skill is empowered, it also grants protection to allies around the tablet.","Если этот навык усилен, он также дает протекцию союзникам вокруг планшета."
+"If this skill is empowered, it also grants protection to allies around the tablet.","Если этот навык усилен, он также даёт протекцию союзникам вокруг планшета."
 "If this skill is empowered, remove additional conditions from allies.","Если этот навык усилен, снимите дополнительные состояния с союзников."
 "If you are at or above the Blight threshold when you activate this skill, consume that amount of Blight to double damage and condition duration.","Если при активации этого навыка ваш уровень Blight равен или выше порогового, поглотите это количество Blight, чтобы удвоить урон и длительность состояний."
 "If you are at or above the Blight threshold when you activate this skill, consume that amount of Blight to double the damage and condition duration.","Если при активации этого навыка ваш уровень Blight равен или выше порогового, поглотите это количество Blight, чтобы удвоить урон и длительность состояний."
@@ -247,7 +247,7 @@ Icy Screech,Ледяной визг
 "If you have a fire bullet, consume it to cause the shot to explode when it strikes an enemy, damaging other foes in the blast. If you have an earth bullet, consume it to inflict additional bleeding.","Если у вас есть огненная пуля, поглотите её, чтобы выстрел взорвался при попадании во врага, нанося урон другим противникам в радиусе взрыва. Если у вас есть земляная пуля, поглотите её, чтобы наложить дополнительное кровотечение."
 "If you have a fire bullet, consume it to create an area of fire beneath the initial target. If you have an air bullet, consume it to reduce the cooldown of this skill.","Если у вас есть огненная пуля, поглотите её, чтобы создать область огня под первоначальной целью. Если у вас есть воздушная пуля, поглотите её, чтобы сократить время перезарядки этого навыка."
 "If you have a fire bullet, consume it to gain a fire aura. If not, create a fire bullet.","Если у вас есть огненная пуля, поглотите её, чтобы получить огненную ауру. Если нет, создайте огненную пулю."
-"If you have a fire bullet, consume it to gain additional might. If not, create a fire bullet.","Если у вас есть огненная пуля, поглотите ее, чтобы получить дополнительное мощь. Если нет, создайте огненную пулю."
+"If you have a fire bullet, consume it to gain additional might. If not, create a fire bullet.","Если у вас есть огненная пуля, поглотите её, чтобы получить дополнительное мощь. Если нет, создайте огненную пулю."
 "If you have a fire bullet, consume it to gain fire aura. If you have an ice bullet, consume it to cause the ice shots to inflict additional conditions.","Если у вас есть огненная пуля, поглотите её, чтобы получить огненную ауру. Если у вас есть ледяная пуля, поглотите её, чтобы ледяные выстрелы накладывали дополнительные эффекты состояния."
 "If you have an air bullet, consume it to also inflict daze. If you have an earth bullet, consume it to also inflict bleeding on your target.","Если у вас есть воздушная пуля, поглотите её, чтобы также наложить ошеломление. Если у вас есть земляная пуля, поглотите её, чтобы также наложить кровотечение на цель."
 "If you have an air bullet, consume it to reduce the cooldown of your next pistol skill. If not, create an air bullet.","Если у вас есть воздушная пуля, поглотите её, чтобы сократить время перезарядки следующего навыка пистолета. Если нет, создайте воздушную пулю."
@@ -466,7 +466,7 @@ Judgment of Light,Суд света
 Judgment of War,Суд войны
 Jump Shot,Прыжок с выстрелом
 "Jump back, releasing a blast of wind that destroys incoming projectiles.","Отпрыгните назад, выпустив порыв ветра, который уничтожает летящие в вас снаряды."
-Jump forward and deliver a fiery blast to the area.,Прыгните вперёд и нанесите огненный удар по области.
+Jump forward and deliver a fiery blast to the area.,Прыгнуть вперёд и устроить огненный взрыв.
 "Jump up and evade attacks, then swipe forward, sending a wave of air in front of you that pushes you backward, knocks enemies back, and reflects projectiles. The first enemy struck is launched instead of knocked back. Evading an attack reduces the cooldown of this skill.","Подпрыгните и уклонитесь от атак, затем совершите выпад вперёд, посылая перед собой волну воздуха, которая отталкивает вас назад, отбрасывает врагов и отражает снаряды. Первый пораженный враг подбрасывается в воздух вместо отбрасывания. Уклонение от атаки сокращает время перезарядки этого навыка."
 Junk Absorption,Поглощение хлама
 Junk Fall,Падение хлама

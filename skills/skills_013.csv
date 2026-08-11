@@ -55,7 +55,7 @@ Strike foes in front of you with a storm of jabs.,Обрушить на прот
 "Strike nearby enemies, inflicting cripple. Gain barrier for each target struck. <c=@reminder>Barrier is reduced for each target struck beyond the first.</c>","Ударьте по ближайшим врагам, накладывая калечение. Получите барьер за каждую пораженную цель. <c=@reminder>Барьер уменьшается за каждую пораженную цель после первой.</c>"
 "Strike nearby enemies, inflicting damage. Deals increased damage to disabled or defiant enemies.
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Наносит урон ближайшим врагам. Наносит увеличенный урон ослабленным или находящимся в состоянии защиты врагам.
-<c=@reminder>Ослабление включает оглушение, дезориентацию, отбрасывание, притягивание, нокдаун, погружение, подъем, отталкивание, насмешку и страх.</c>"
+<c=@reminder>Ослабление включает оглушение, дезориентацию, отбрасывание, притягивание, нокдаун, погружение, подъём, отталкивание, насмешку и страх.</c>"
 "Strike nearby foes and begin to store up energy, gaining boons and heat each pulse. After charging, the energy explodes, inflicting conditions on nearby foes.","Поразите ближайших врагов и начните накапливать энергию, получая благословения и нагрев с каждым импульсом. После зарядки энергия взрывается, накладывая состояния на ближайших врагов."
 "Strike nearby foes with your radiant hammer, dealing increased damage against foes that are disabled.","Поразите ближайших врагов своим сияющим молотом, нанося увеличенный урон врагам, находящимся под эффектами контроля."
 "Strike nearby foes, pushing them back.","Поразите ближайших врагов, отталкивая их."
@@ -140,7 +140,7 @@ Summon a D-Series defensive golem.,Призывает защитного гол�
 Summon a Druid Spirit to fight at your side.,"Призвать духа друида, чтобы он сражался на вашей стороне."
 Summon a Mistfire Wolf to fight at your side.,"Призовите волка Туманного огня, чтобы он сражался на вашей стороне."
 Summon a Power Suit which you or your allies can enter and use to combat enemies.,"Призвать силовой костюм, в который можете войти вы или ваши союзники, чтобы сражаться с врагами."
-Summon a massive hammer from the Mists to strike the ground. Recharge Coalescence of Ruin if you strike an enemy.,"Призвать из Туманов огромный молот, который бьет по земле. Если вы нанесли противнику урон, умение Слияние разорения будет перезаряжено."
+Summon a massive hammer from the Mists to strike the ground. Recharge Coalescence of Ruin if you strike an enemy.,"Призвать из Туманов огромный молот, который бьёт по земле. Если вы нанесли противнику урон, умение Слияние разорения будет перезаряжено."
 Summon a meteor to strike a random enemy.,"Призвать метеор, который поразит случайного врага."
 "Summon a projectile of air that circles around you, damaging foes. While this projectile is active, your chance to critically strike is increased. <c=@reminder>Summoning a circular projectile refreshes the duration of all other circular projectiles.</c>","Призвать снаряд воздуха, кружащийся вокруг вас и наносящий урон врагам. Пока этот снаряд активен, ваш шанс критического удара повышен. <c=@reminder>Призыв кругового снаряда обновляет длительность всех остальных круговых снарядов.</c>"
 "Summon a projectile of earth that circles around you, damaging foes. While this projectile is active, you take reduced damage from strikes. <c=@reminder>Summoning a circular projectile refreshes the duration of all other circular projectiles.</c>","Призвать снаряд земли, кружащийся вокруг вас и наносящий урон врагам. Пока этот снаряд активен, вы получаете уменьшенный урон от ударов. <c=@reminder>Призыв кругового снаряда обновляет длительность всех остальных круговых снарядов.</c>"
@@ -150,7 +150,7 @@ Summon a school of undead fish to swarm your foe.,"Призвать косяк �
 Summon a skritt to pilfer artifacts.,"Призвать скритта, чтобы похитить артефакты."
 "Summon a swirling spore cloud around your pet, destroying projectiles and chilling disabled or defiant enemies.
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Создайте вокруг своего питомца вращающееся облако спор, уничтожающее снаряды и замораживающее обездвиженных или сопротивляющихся врагов.
-<c=@reminder>Обездвиживание включает в себя оглушение, дезориентацию, отбрасывание, притягивание, нокдаун, погружение, подъем, подброс, насмешку и страх.</c>"
+<c=@reminder>Обездвиживание включает в себя оглушение, дезориентацию, отбрасывание, притягивание, нокдаун, погружение, подъём, подброс, насмешку и страх.</c>"
 Summon a sylvan hound to fight at your side.,"Призвать лесную гончую, чтобы она сражалась на вашей стороне."
 Summon a well of blood to heal nearby allies.,"Призвать колодец крови, чтобы исцелить ближайших союзников."
 Summon a wurm to fight for you.,"Призвать червя, чтобы он сражался за вас."
@@ -192,7 +192,7 @@ Surging Flames,Всплеск пламени
 Surging Maw,Всплеск пасти
 Surprise Shot,Внезапный выстрел
 Surrender,Сдаться
-Surrounded by a dark aura that reduces incoming condition damage and causes torment each time you are struck (1-second cooldown per attacker).,"Окружен темной аурой, которая снижает входящий урон от состояний и накладывает боль каждый раз, когда вас атакуют (перезарядка 1 секунда для каждого атакующего)."
+Surrounded by a dark aura that reduces incoming condition damage and causes torment each time you are struck (1-second cooldown per attacker).,"Окружен тёмной аурой, которая снижает входящий урон от состояний и накладывает боль каждый раз, когда вас атакуют (перезарядка 1 секунда для каждого атакующего)."
 Swap,Смена
 Swap places with your clone. Immobilize nearby foes.,Обменяться местами с вашим клоном. Обездвижить противников поблизости.
 "Swap places with your shadow flare, causing it to detonate and deal damage to enemies at your original location. Deals increased damage to your marked target.","Поменяйтесь местами со своей теневой вспышкой, заставляя её взорваться и нанести урон врагам в вашей исходной точке. Наносит увеличенный урон вашей помеченной цели."
@@ -200,7 +200,7 @@ Swap your Legendary Alliance Stance skills.,Сменить умения ваше
 Sweep,Подсечка
 Sweep the Mold,Смести плесень
 "Sweep your foes along the ground, crippling them.","Сбейте врагов с ног подсечкой, накладывая увечье."
-Sweep your hammer forward to send flames rushing at your enemies.,"Взмахните молотом вперёд, чтобы направить поток пламени на врагов."
+Sweep your hammer forward to send flames rushing at your enemies.,"Взмахнуть молотом, отправляя вперёд пламя, которое обрушивается на ваших врагов."
 Sweep your mace back for a second blow.,Замахнуться булавой для второго удара.
 Sweeping attack that knocks back targets.,"Размашистая атака, отбрасывающая цели."
 Sweeping attack.,Размашистая атака.
@@ -214,7 +214,7 @@ Swing a holographic blade.,Взмахнуть голографическим к�
 Swing at enemies with your greatsword.,Махнуть двуручным мечом по вашим противникам.
 "Swing your greatsword again, inflicting vulnerability.","Снова взмахните двуручным мечом, накладывая уязвимость."
 Swing your mace at your foe.,Взмахнуть булавой и ударить противника.
-"Swing your spear in a circle, dealing increased damage to foes in the outer edge. Striking with the outer edge will always deal a critical hit. Create a clone and gain Clarity if you hit an enemy. If you are empowered, gain might.","Взмахните копьем по кругу, нанося увеличенный урон врагам на внешнем крае. Удар внешним краем всегда наносит критический урон. Создайте клона и получите Ясность при попадании по врагу. Если вы усилены, получите мощь."
+"Swing your spear in a circle, dealing increased damage to foes in the outer edge. Striking with the outer edge will always deal a critical hit. Create a clone and gain Clarity if you hit an enemy. If you are empowered, gain might.","Взмахните копьём по кругу, нанося увеличенный урон врагам на внешнем крае. Удар внешним краем всегда наносит критический урон. Создайте клона и получите Ясность при попадании по врагу. Если вы усилены, получите мощь."
 "Swing your spear, inflicting bleeding. Inflict vulnerability if your target is focused.","Взмахните копьём, накладывая кровотечение. Наложите уязвимость, если ваша цель сфокусирована."
 "Swing your spear, sending out a wave of light in front of you that damages enemies and heals allies.","Взмахните копьём, посылая перед собой волну света, которая наносит урон врагам и исцеляет союзников."
 "Swing your spear. If your enemy is far away, throw your spear instead.","Взмахните копьём. Если враг далеко, вместо этого метните копьё."
@@ -344,7 +344,7 @@ Terrifying Howl,Устрашающий вой
 Terrorstorm,Шторм ужаса
 Test of Faith,Испытание веры
 Tether Distance,Дистанция привязи
-"Tether yourself to your target. If they move beyond the range threshold, pull them to you. Grants might and reveals your target every second.","Привяжите себя к цели. Если она выйдет за пределы радиуса действия, притяните её к себе. Дарует мощь и раскрывает вашу цель каждую секунду."
+"Tether yourself to your target. If they move beyond the range threshold, pull them to you. Grants might and reveals your target every second.","Привяжите себя к цели. Если она выйдёт за пределы радиуса действия, притяните её к себе. Дарует мощь и раскрывает вашу цель каждую секунду."
 Tethered Ally Heal per Target,Исцеление привязанного союзника за цель
 Tethered Ally Healing per Target,Исцеление привязанного союзника за цель
 The Apocalypse Bringer sends out a wave of cone attacks that damages and knocks back players.,"Вестник Апокалипсиса посылает волну конусообразных атак, которые наносят урон и отбрасывают игроков."
@@ -368,7 +368,7 @@ The Dreg Shark's forceful flop knocks back foes as it readies to jump back into 
 The Eater of Souls bashes your face in.,Пожиратель душ разбивает вам лицо.
 "The Eater of Souls regurgitates its stomach, spreading a viscous ooze on the ground.","Пожиратель душ извергает свой желудок, разливая вязкую слизь по земле."
 "The Enforcer leaps to the target area, damaging nearby enemies and knocking them down.","Силовик прыгает в целевую область, нанося урон ближайшим врагам и сбивая их с ног."
-"The Enforcer rushes to a location, leaving behind a trail of fire that damages and burns enemies within.","Броситься вперед к вашей цели и получить Справедливость, нанеся удар и выпустив Пламя Непобедимого ."
+"The Enforcer rushes to a location, leaving behind a trail of fire that damages and burns enemies within.","Броситься вперёд к вашей цели и получить Справедливость, нанеся удар и выпустив Пламя Непобедимого ."
 "The Enforcer slams the target area with powerful energies, dealing heavy damage and applying extreme vulnerability for a short time. Targets with extreme vulnerability are killed by this attack.","Силовик обрушивает на целевую область мощную энергию, нанося тяжёлый урон и накладывая экстремальную уязвимость на короткое время. Цели с экстремальной уязвимостью погибают от этой атаки."
 "The Enforcer slams the target area with powerful energies, dealing heavy damage.","Силовик обрушивает на целевую область мощную энергию, нанося тяжёлый урон."
 The Enforcer taunts nearby enemies and begins a destructive whirling attack.,Силовик провоцирует ближайших врагов и начинает разрушительную вращательную атаку.

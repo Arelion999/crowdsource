@@ -29,7 +29,7 @@ A gaze that petrifies targets.,"Взгляд, превращающий цели 
 A heavy melee attack.,Тяжёлая атака ближнего боя.
 A horrifying hallucination whose malevolence sucks the life out of anything nearby.,"Ужасающая галлюцинация, чья злоба высасывает жизнь из всего поблизости."
 "A large spike of ice erupts from the ground, launching targets into the air.","Из земли вырывается крупный ледяной шип, подбрасывая цели в воздух."
-"A large swell blasts across the platform, knocking back any who are caught by it. The largos gains protection for each foe struck.","Мощная волна проносится по платформе, отбрасывая всех, кто попал под нее. Largos получает протекцию за каждого пораженного врага."
+"A large swell blasts across the platform, knocking back any who are caught by it. The largos gains protection for each foe struck.","Мощная волна проносится по платформе, отбрасывая всех, кто попал под неё. Largos получает протекцию за каждого пораженного врага."
 A leap followed by a vicious slashing attack.,"Прыжок, за которым следует яростный рубящий удар."
 A lightning blast that bounces between foes and applies quickness to the caster.,"Удар молнии, который отскакивает между врагами и накладывает проворство на заклинателя."
 A lunging melee attack.,Резануть вашего противника.
@@ -67,7 +67,7 @@ A small piece of debris has fallen from the ceiling of the cave.,Небольш�
 A smashing hammer blow.,Сокрушительный удар молотом.
 A special pistol attack loaded with Ankka's powerful hallucinogens.,"Особая атака из пистолета, заряженного мощными галлюциногенами Ankka."
 A spin attack that pulls and stuns unwary victims.,"Вращающаяся атака, которая притягивает и оглушает неосторожных жертв."
-A spinning area attack.,"Броситься, кружась, в направлении цели, нанося по дороге порезы противникам."
+A spinning area attack.,Вращающаяся атака по области.
 A spinning scythe attack that knocks back foes.,"Вращающаяся атака косой, отбрасывающая врагов."
 A strike that applies bleeding to foes.,"Удар, накладывающий кровотечение на врагов."
 A strike that can send the beast into a frenzy if its target is bleeding.,"Удар, который может вогнать зверя в ярость, если цель истекает кровью."
@@ -158,7 +158,7 @@ Adina raises a pillar that kills nearby foes and sends out a shock wave that cri
 Adina sends out a shock wave that transforms the arena into a new shape.,"Adina испускает ударную волну, которая меняет форму арены."
 Adina sets off a terrain cascade that pulls anyone caught in it and destroys the furthest pillar along the cascade.,"Adina запускает каскад местности, который притягивает всех попавших в него и разрушает самую дальнюю колонну вдоль каскада."
 "Adina shoots rocks that explode upon impact, causing shrapnel pieces to blind those they hit and to deal high damage.","Adina стреляет камнями, которые взрываются при ударе, вызывая осколки, ослепляющие тех, кого они задевают, и наносящие высокий урон."
-"Adina turns her skin into diamond, reflecting projectiles and applying boons to herself. After two seconds, her skin will cast Radiant Blindness to those who are not facing away.","Adina превращает свою кожу в алмаз, отражая снаряды и накладывая на себя благословения. Через две секунды ее кожа наложит «Сияющее слепоту» на тех, кто не отвернулся."
+"Adina turns her skin into diamond, reflecting projectiles and applying boons to herself. After two seconds, her skin will cast Radiant Blindness to those who are not facing away.","Adina превращает свою кожу в алмаз, отражая снаряды и накладывая на себя благословения. Через две секунды её кожа наложит «Сияющее слепоту» на тех, кто не отвернулся."
 Adina's defiance bar must be broken or she will kill all her foes. She can only be broken from the rotating blue region.,"Шкалу стойкости Adina необходимо сломать, иначе она убьёт всех своих врагов. Её можно сломать только из вращающейся синей области."
 Adrenaline,Адреналин
 Adrenaline If Not Attacked,"Адреналин, если не атакован"
@@ -256,7 +256,7 @@ Applies additional stacks of bleeding to foes at closer range.,Накладыв�
 Applies bleeding and Vampiric Infection to foes.,Накладывает кровотечение и Вампирическую инфекцию на врагов.
 Applies bleeding to foes who are vulnerable.,Накладывает кровотечение на уязвимых врагов.
 Applies conditions and reduces outgoing damage by 10%.,Накладывает состояния и снижает исходящий урон на 10%.
-"Applies poison and Sulfuric Acid, and grants protection and might to Ura.","Накладывает яд и Серную кислоту, а также дает протекцию и мощь Ura."
+"Applies poison and Sulfuric Acid, and grants protection and might to Ura.","Накладывает яд и Серную кислоту, а также даёт протекцию и мощь Ura."
 Applies vulnerability.,Накладывает уязвимость.
 Apply Buff/Condition,Наложить бафф/состояние
 Apply confusion to nearby foes. You gain resolution.,Наложите замешательство на ближайших врагов. Вы получаете решимость.
@@ -364,7 +364,7 @@ Balanced Stance,Сбалансированная стойка
 Balanced Strike,Сбалансированный удар
 Balthazar uses his flaming sword to smite you.,"Balthazar использует свой пылающий меч, чтобы покарать вас."
 Balthazar's Flame,Пламя Balthazar
-"Band Together. After using this skill, your next Legendary Renegade skill activates instantly and is enhanced. When this skill is enhanced it also grants resistance to nearby allies.",Сплочение. После использования этого навыка ваш следующий навык легендарного ренегата активируется мгновенно и усиливается. При усилении этот навык также дает сопротивляемость ближайшим союзникам.
+"Band Together. After using this skill, your next Legendary Renegade skill activates instantly and is enhanced. When this skill is enhanced it also grants resistance to nearby allies.",Сплочение. После использования этого навыка ваш следующий навык легендарного ренегата активируется мгновенно и усиливается. При усилении этот навык также даёт сопротивляемость ближайшим союзникам.
 "Band Together. After using this skill, your next Legendary Renegade skill activates instantly and is enhanced. When this skill is enhanced it also inflicts chilled on enemies that it strikes.",Сплочение. После использования этого навыка ваш следующий навык легендарного ренегата активируется мгновенно и усиливается. При усилении этот навык также накладывает заморозку на пораженных врагов.
 "Band Together. After using this skill, your next Legendary Renegade skill activates instantly and is enhanced. When this skill is enhanced it also inflicts torment on enemies that it strikes.",Сплочение. После использования этого навыка ваш следующий навык легендарного ренегата активируется мгновенно и усиливается. При усилении этот навык также накладывает боль на пораженных врагов.
 "Band Together. After using this skill, your next Legendary Renegade skill activates instantly and is enhanced. When this skill is enhanced, it also grants barrier to nearby allies.",Сплочение. После использования этого навыка ваш следующий навык легендарного ренегата активируется мгновенно и усиливается. При усилении этот навык также накладывает барьер на ближайших союзников.
@@ -455,7 +455,7 @@ Binding Shadow,Связывающая тень
 Birds of prey periodically assault players. Dodging transfers the birds to nearby enemies for 4 seconds.,Хищные птицы периодически атакуют игроков. Уклонение переносит птиц на ближайших врагов на 4 секунды.
 Bite,Укус
 Bite a foe and gain health.,Укусить противника и получить здоровье.
-Bite your foe for severe damage.,"Укусите врага, нанеся серьёзный урон."
+Bite your foe for severe damage.,Укусить противника и нанести ему серьёзный урон.
 Bite your foe to recover health.,"Укусить противника, чтобы восстановить свое здоровье."
 Bite your foe.,Укусите врага.
 Biting Aura,Кусачая аура

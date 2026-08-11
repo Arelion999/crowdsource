@@ -22,7 +22,7 @@ Shadowstep away from your target and lose conditions. Poisons foes at your start
 "Shadowstep to Flash Combo's starting point, healing and removing conditions.","Теневой шаг к начальной точке Вспышки комбо, исцеление и снятие состояний."
 Shadowstep to a foe and strike them. Use Shadow Return to shadowstep back and cure one condition.,"Сделать Призрачный Шаг к противнику и нанести удар. Использовать Призрачное Возвращение, чтобы вернуться обратно и снять с себя одно состояние."
 "Shadowstep to a random location around your target and strike, applying confusion. Apply extra stacks of confusion per active clone. This attack breaks enemy targeting, and your illusions change focus to the targeted foe.","Теневой шаг в случайную точку вокруг цели и удар, накладывающий замешательство. Накладывает дополнительные заряды замешательства за каждого активного клона. Эта атака сбивает прицел врага, а ваши иллюзии переключают внимание на выбранную цель."
-Shadowstep to the foe marked by Dark Path.,"Теневой шаг к врагу, отмеченному Тёмным путем."
+Shadowstep to the foe marked by Dark Path.,"Сделать Призрачный Шаг к противнику, отмеченному Тёмным путем."
 "Shadowstep to your <c=@abilitytype>Ripple of Horror</c>, destroying it.","Совершите теневой шаг к вашей <c=@abilitytype>Ряби ужаса</c>, уничтожая её."
 "Shadowstep to your foe and deliver a quick attack, then deliver a second devastating blow if it hits.","Теневой шаг к врагу и быстрый удар, а затем второй сокрушительный удар, если первый попал в цель."
 Shadowstep to your foe and steal from them.,Сделать Призрачный Шаг к вашему противнику и что-нибудь украсть у него.
@@ -229,17 +229,17 @@ Slam your foe with your tail.,Шлепнуть противника своим �
 Slash,Рассечение
 Slash a foe multiple times and make them bleed.,Порезать противника несколько раз и вызвать у него кровотечение.
 "Slash across your foe, poisoning them.","Рассеките врага, отравляя его."
-Slash at enemies again with Mists energy. Grant boons to allies after striking an enemy.,Еще раз порезать противников энергией Туманов. Дать союзникам дары после удара по противнику.
+Slash at enemies again with Mists energy. Grant boons to allies after striking an enemy.,Ещё раз порезать противников энергией Туманов. Дать союзникам дары после удара по противнику.
 Slash at your foe. This attack restores endurance if it hits.,"Порезать вашего противника. Эта атака восстанавливает выносливость, если попадает в цель."
 "Slash at your target, bleeding them four times.","Рассеките цель, вызывая у неё кровотечение четыре раза."
 "Slash at your target, bleeding them twice.","Рассеките цель, вызывая у неё кровотечение дважды."
 "Slash foes, creating a rift on them that explodes for additional damage after a short delay.","Рассеките врагов, создавая на них разлом, который взрывается, нанося дополнительный урон с небольшой задержкой."
 "Slash repeatedly at foe, inflicting bleeding.","Многократно рассекайте врага, вызывая кровотечение."
 "Slash repeatedly at foe, stealing life.","Многократно рассекайте врага, похищая жизнь."
-Slash repeatedly at foe.,"Впасть в бешенство, чтобы даровать себе Проворство и Мощь."
+Slash repeatedly at foe.,Многократно рассекайте врага.
 Slash with a blade of light energy.,Порезать врага клинком из световой энергии.
 Slash your foe twice with ghostly claws to make them vulnerable. Vulnerability applied increases against foes below the health threshold.,"Дважды порезать своего противника призрачными когтями, сделав его уязвимым. Уязвимость усиливается для противников, чье здоровье ниже порога."
-Slash your spear in front of yourself. Gain might per target struck.,Рассеките копьём перед собой. Получайте могущество за каждую пораженную цель.
+Slash your spear in front of yourself. Gain might per target struck.,Нанести перед собой режущий удар копьём. Даровать себе Мощь за каждую пораженную цель.
 Slashes foes.,Рассекает врагов.
 Slashing Winds,Рассекающие ветры
 Slashing winds that rip targets apart.,"Рассекающие ветры, разрывающие цели на части."
@@ -267,7 +267,7 @@ Small Explosion,Маленький взрыв
 Small Shot,Маленький выстрел
 Smash,Разгром
 "Smash into your foe from a distance, knocking them back. Your momentum will continue to carry you if you miss.","Разгромите врага с расстояния, отбрасывая его назад. Ваш импульс продолжит нести вас вперёд, если вы промахнетесь."
-Smash the ground and damage nearby foes.,Сокрушительно ударить по земле и нанести урон противникам поблизости.
+Smash the ground and damage nearby foes.,Ударить по земле и нанести урон противникам поблизости.
 Smash the ground and send out a crippling wave.,"Сокрушительно ударить по земле и вызвать волну, делающую противников хромыми."
 Smash the ground before you with primal strength.,Топнуть по земле с первобытной силой.
 "Smash the ground in front of you to damage foes. After a delay, allies in the area are healed. Heals for more if an enemy was struck.","Разбейте землю перед собой, чтобы нанести урон врагам. С задержкой союзники в области действия получают исцеление. Исцеление сильнее, если был поражен враг."
@@ -382,7 +382,7 @@ Spin around and send out three increasingly larger shockwaves that damage and in
 "Spin around, creating a vortex of ley-line energy around you that strikes and inflicts conditions on enemies.","Вращайтесь, создавая вокруг себя вихрь энергии лей-линий, который поражает врагов и накладывает на них состояния."
 "Spin around, reflecting missiles and hitting enemies.","Вращайтесь, отражая снаряды и поражая врагов."
 "Spin around, striking enemies around you. After a short delay, a shock wave of light bursts forth from your position, damaging enemies and granting might to allies. Your next spear attack is illuminated when striking an enemy with the initial spin.","Вращайтесь, поражая врагов вокруг себя. После небольшой задержки из вашей позиции вырывается ударная волна света, наносящая урон врагам и дарующая мощь союзникам. Ваша следующая атака копьём будет освещена при поражении врага начальным вращением."
-Spin forward and strike foes along the way.,Вращайтесь вперёд и поражайте врагов на своем пути.
+Spin forward and strike foes along the way.,"Броситься, кружась, вперёд, нанося удары противникам на вашем пути."
 "Spin forward and strike multiple times, inflicting conditions and leaving a mirage at your starting position. If an enemy is near the mirage when it expires, a clone is summoned.","Вращайтесь вперёд и наносите удары несколько раз, накладывая состояния и оставляя мираж в вашей начальной позиции. Если враг находится рядом с миражом, когда он исчезает, призывается клон."
 "Spin forward and strike multiple times, inflicting conditions. Summon a clone if you hit at least one target.","Вращайтесь вперёд и наносите удары несколько раз, накладывая состояния. Призовите клона, если поразите хотя бы одну цель."
 Spin in place and swing your greatsword while hurling powerful projectiles.,"Крутануться на месте и взмахнуть двуручным мечом, бросая мощные снаряды."

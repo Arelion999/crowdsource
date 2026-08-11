@@ -54,10 +54,10 @@ Fire a bullet out of your belt.,Выстрелить пулей из вашег�
 Fire a bullet that inflicts conditions on your target and grants you a boon.,"Выстрелите пулей, которая накладывает состояния на цель и даёт вам благословение."
 Fire a cluster bomb at the target area. Detonate in midair for multiple explosions.,"Выстрелить кассетной бомбой по выбранной области. Подорвать бомбу над землей, чтобы произвести несколько взрывов."
 "Fire a concentrated beam of light at the target enemy or ally, damaging foes and healing allies struck by the beam.","Выпустите концентрированный луч света в выбранного врага или союзника, нанося урон врагам и исцеляя союзников, задетых лучом."
-Fire a crippling bolt of light at your target. Allies the bolt passes through are granted swiftness. Projectile velocity and damage increased while above the heat threshold.,"Выпустить стрелу света, которая вызывает у цели хромоту. Союзникам, через которых пролетела стрела, даруется Быстрота. Скорость стрелы и ее урон увеличивается, если уровень вашего нагрева выше порога."
+Fire a crippling bolt of light at your target. Allies the bolt passes through are granted swiftness. Projectile velocity and damage increased while above the heat threshold.,"Выпустить стрелу света, которая вызывает у цели хромоту. Союзникам, через которых пролетела стрела, даруется Быстрота. Скорость стрелы и её урон увеличивается, если уровень вашего нагрева выше порога."
 Fire a dart that bleeds and weakens foes.,"Выстрелить дротиком, который вызывает у противников кровотечение и слабость."
 "Fire a dart that shatters on impact, releasing noxious liquid that stuns, weakens, and poisons foes in the area. Gain life force for each target struck.","Выпустите дротик, который разбивается при ударе, высвобождая едкую жидкость, оглушающую, ослабляющую и отравляющую врагов в области. Получайте жизненную силу за каждую пораженную цель."
-Fire a debilitating projectile at your target to corrupt their boons.,"Выпустите ослабляющий снаряд в цель, чтобы исказить её благословения."
+Fire a debilitating projectile at your target to corrupt their boons.,"Выпустить изнуряющий заряд по вашей цели, который портит наложенные на неё дары."
 Fire a harpoon that cripples your foe.,"Выстрелить гарпуном, который вызывает у противника хромоту."
 Fire a missile that knocks back enemies and blocks missiles.,"Выпустить снаряд, который отталкивает противников и блокирует снаряды."
 Fire a napalm ball that explodes on impact.,"Выстрелить шаром напалма, который взрывается при попадании."
@@ -111,7 +111,7 @@ Fire multiple arrows at your foe.,Выстрелить в противника �
 Fire multiple piercing blasts at your target.,Выпустить по цели несколько пробивающих зарядов.
 Fire multiple shots that push back your foe.,"Произвести несколько выстрелов, которые отталкивают противника назад."
 Fire out a spread of explosive mines at your enemy.,Выстрелить в противника конусом взрывающихся мин.
-"Fire quick bolts of dark energy that explode on impact, inflicting torment to enemies in the area.","Выстрелите быстрыми сгустками темной энергии, которые взрываются при попадании, накладывая боль на врагов в области действия."
+"Fire quick bolts of dark energy that explode on impact, inflicting torment to enemies in the area.","Выстрелите быстрыми сгустками тёмной энергии, которые взрываются при попадании, накладывая боль на врагов в области действия."
 Fire several bandages ahead of you to heal allies.,"Выстрелить перед собой несколькими перевязками, чтобы исцелить союзников."
 Fire several shards of shrapnel that inflict more damage the closer you are to foes. You and nearby allies gain might.,"Выстрелить зарядом шрапнели, которая наносит тем больше урона, чем ближе вы были к противнику. Вам и союзникам поблизости даруется Мощь."
 "Fire six bolts of tormenting energy that fan out from you, piercing all enemies in their path.","Выстрелите шестью сгустками мучающей энергии, которые веером расходятся от вас, пронзая всех врагов на своем пути."
@@ -351,8 +351,8 @@ Gain all boons.,Получите все благословения.
 Gain barrier and magnetic aura.,Получить барьер и магнитную ауру.
 Gain barrier every second.,Получайте барьер каждую секунду.
 "Gain barrier over time, and pulse damage in the area.",Получайте барьер со временем и наносите пульсирующий урон по области.
-Gain barrier. Your next spear skill inflicts daze.,Получить барьер. Ваша следующая атака копьем вызовет ошеломление.
-Gain boons. Your next spear skill deals increased damage.,Получить дары. Ваша следующая атака копьем нанесет повышенный урон.
+Gain barrier. Your next spear skill inflicts daze.,Получить барьер. Ваша следующая атака копьём вызовет ошеломление.
+Gain boons. Your next spear skill deals increased damage.,Получить дары. Ваша следующая атака копьём нанесет повышенный урон.
 Gain different forms depending on which legend you are currently embodying.,"Получайте различные формы в зависимости от того, какую легенду вы сейчас воплощаете."
 "Gain endurance and strike enemies around you, gaining bonus endurance for each enemy struck.","Получите выносливость и поразите врагов вокруг себя, получая бонусную выносливость за каждого пораженного врага."
 Gain endurance.,Получите выносливость.
@@ -366,7 +366,7 @@ Gain improved concentration.,Получите улучшенную концен�
 Gain increased condition damage.,Получите увеличенный урон от состояний.
 Gain life force when taking damage.,Получайте жизненную силу при получении урона.
 "Gain stacks when striking or being struck by an enemy. When this ends, damage nearby enemies based on the number of stacks.","Получайте стаки при нанесении или получении ударов от врага. Когда эффект заканчивается, нанесите урон ближайшим врагам в зависимости от количества стаков."
-Gain superspeed. Your next spear skill always critically strikes.,Получить сверхскорость. Ваша следующая атака копьем завершится критическим попаданием.
+Gain superspeed. Your next spear skill always critically strikes.,Получить сверхскорость. Ваша следующая атака копьём завершится критическим попаданием.
 Gain swiftness and summon a swarm of vampiric shrimp that siphon health from nearby foes.,"Даровать себе Быстроту и призвать стаю креветок-вампиров, которые высасывают здоровье у противников поблизости."
 Gain swiftness from a gust of wind that launches nearby foes.,Порыв ветра дарует вам Быстроту и отбрасывает противников поблизости.
 Gaining vitality.,Получение живучести.
@@ -382,7 +382,7 @@ Garish Pillar,Яркий столп
 Gaseous State,Газообразное состояние
 Gash,Глубокий порез
 Gather the elements to become the ultimate being.,"Соберите элементы, чтобы стать высшим существом."
-Gather up debris into your tornado form and send it flying.,Соберите обломки в свою форму торнадо и отправьте их в полёт.
+Gather up debris into your tornado form and send it flying.,Втянуть мусор в ваш торнадо и отправить его в полёт.
 "Gather up dust into your tornado form, making it shoot out dust devils that blind foes.","Соберите пыль в свою форму торнадо, заставляя её выпускать пылевых дьяволов, ослепляющих врагов."
 Gathering Plague,Собирающаяся чума
 Gaze of Darkness,Взгляд тьмы
@@ -442,7 +442,7 @@ Grand Finale,Гранд-финал
 Grant aegis to allies around you and poison your marked target. Gain stealth if malice is at or above the threshold.,"Даровать Эгиду союзникам вокруг вас и отравить отмеченную цель. Стать невидимым, если злобность равна или превышает порог."
 Grant allies the ability to steal life with their strikes.,Дарует союзникам способность похищать жизнь своими атаками.
 Grant barrier to allies.,Дарует барьер союзникам.
-Grant boons and remove movement-impairing conditions from allies.,"Дает союзникам дары и снимает с них состояния, ограничивающие передвижение."
+Grant boons and remove movement-impairing conditions from allies.,"Даёт союзникам дары и снимает с них состояния, ограничивающие передвижение."
 Grant boons to nearby allies and summon a dust storm that inflicts conditions.,"Дать дары союзникам поблизости и вызвать пылевую бурю, которая накладывает состояния."
 "Grant boons to nearby allies as you launch a wave of temporal energy that damages and stops enemies it passes through, then returns to you. Touching the returning wave reduces the recharge of this skill.","Дарует благословения ближайшим союзникам, выпуская волну энергии времени, которая наносит урон и останавливает врагов на своем пути, а затем возвращается к вам. Если коснуться возвращающейся волны, время перезарядки этого навыка сокращается."
 Grant boons to yourself and nearby allies.,Дарует благословения вам и ближайшим союзникам.

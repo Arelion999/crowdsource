@@ -12,7 +12,7 @@ Third Hit Radius,Радиус третьего удара
 Third Shock Wave,Третья ударная волна
 Third-Strike Radius,Радиус третьего удара
 "This can be used to avoid Terrestrial Cryoflash, but it may knock targets into aerial hazards.","Это можно использовать, чтобы избежать Terrestrial Cryoflash, но это может отбросить цели в воздушные опасности."
-This skill has backfired and cannot be used again until fully recharged.,"Сбросить оглушение и призвать нефритовый щит, который даёт вам барьер. Вы можете активировать это умение, пока оно перезаряжается, рискуя потерпеть неудачу. Шанс на неудачу уменьшается по мере перезарядки умения, а после полной перезарядки неудача вам уже не грозит. Неудача. Щит взрывается после короткой задержки, нанося вам урон, пропорциональный вашему базовому уровню здоровья, а также нанося урон врагам вокруг вас."
+This skill has backfired and cannot be used again until fully recharged.,"Призвать скритта, чтобы выстрелить из пушки гномов по выбранной области, нанося урон противникам и накладывая на них состояния. Вы можете активировать это умение, пока оно перезаряжается, рискуя потерпеть неудачу. Шанс на неудачу уменьшается по мере перезарядки умения, а после полной перезарядки неудача вам уже не грозит. Неудача. После короткой задержки пушка даёт осечку, нанося урон и накладывая состояния на вас и на врагов поблизости в точке призыва скритта."
 This version of Flux Nova can trigger any time Decima reaches maximum charge.,"Эта версия Flux Nova может сработать в любой момент, когда Decima достигает максимального заряда."
 Thistleguard,Терновый страж
 Thorny Predicament,Колючая неприятность
@@ -46,12 +46,12 @@ Throw Vine,Бросить лозу
 Throw Wrench,Бросить гаечный ключ
 "Throw a ball of napalm that explodes on impact, burning foes around target location.","Бросьте шар напалма, который взрывается при ударе, поджигая врагов вокруг цели."
 Throw a bit of junk and inflict a random condition on your foe.,Бросить пригоршню мусора и вызвать случайное состояние у вашего противника.
-Throw a bomb that grants boons to nearby allies when it explodes.,"Бросьте бомбу, которая при взрыве даёт благословения ближайшим союзникам."
+Throw a bomb that grants boons to nearby allies when it explodes.,"Бросить бомбу, которая при взрыве даёт союзникам поблизости дары."
 Throw a boulder to knock down a distant target.,"Бросьте валун, чтобы сбить с ног удаленную цель."
 Throw a chain to cripple and immobilize your foe.,"Бросьте цепь, чтобы искалечить и обездвижить врага."
 Throw a dagger to bleed and cripple your foe.,"Бросить кинжал, который вызывает у противника кровотечение и хромоту."
 "Throw a fan of daggers that return to you. If your target is in range, the returning daggers will lock on to that target. Create a clone if this attack hits at least one target.","Бросьте веер кинжалов, которые возвращаются к вам. Если цель находится в радиусе действия, возвращающиеся кинжалы поразят её. Создайте клона, если эта атака поразит хотя бы одну цель."
-Throw a fan of daggers that return to you. Summon a clone if this attack hits at least one target.,"Бросить вращающиеся кинжалы, которые вернутся к вам. Если цель в зоне досягаемости, возвращающиеся кинжалы наведутся на нее. Создать клон, если эта атака поразит хотя бы одну цель."
+Throw a fan of daggers that return to you. Summon a clone if this attack hits at least one target.,"Бросить вращающиеся кинжалы, которые вернутся к вам. Если цель в зоне досягаемости, возвращающиеся кинжалы наведутся на неё. Создать клон, если эта атака поразит хотя бы одну цель."
 Throw a fan of poisonous axes that leaves spinning axes on the ground.,"Бросить веер отравленных топоров, которые оставляют на земле кружащиеся топоры."
 Throw a hammer that knocks down foes.,"Бросить молот, который сбивает противников с ног."
 Throw a handful of dirt to bleed your foe.,"Бросить пригоршню земли, чтобы вызвать у противника кровотечение."
@@ -60,7 +60,7 @@ Throw a knife at your foe.,Бросить в противника ножом.
 "Throw a knife at your foes, bleeding them.","Бросьте нож во врагов, вызывая у них кровотечение."
 "Throw a knife that bounces off nearby foes, crippling them.","Бросьте нож, который отскакивает от ближайших врагов, накладывая на них увечье."
 Throw a lava axe at your foe. Using another Lava Axe ability grants Double Lava Axe.,Бросьте лавовый топор во врага. Использование другой способности «Лавовый топор» даёт «Двойной лавовый топор».
-"Throw a mist spear toward your foe, inflicting increasing durations of torment the closer the foe is to you.","Бросьте копье тумана во врага, накладывая боль, длительность которого увеличивается по мере приближения врага к вам."
+"Throw a mist spear toward your foe, inflicting increasing durations of torment the closer the foe is to you.","Бросьте копьё тумана во врага, накладывая боль, длительность которого увеличивается по мере приближения врага к вам."
 Throw a punch of concentrated water.,Бросить пригоршню сжатой воды.
 Throw a rock at your target.,Бросить камень в вашу цель.
 Throw a shrapnel mine that bleeds and cripples foes.,"Бросьте осколочную мину, которая вызывает кровотечение и увечье у врагов."
@@ -70,12 +70,12 @@ Throw a shrapnel mine that bleeds and cripples foes.,"Бросьте оскол�
 "Throw a spear at your target. If it strikes a foe, it inflicts conditions and you may reactivate to teleport to that foe. 
 <c=@reminder>This skill recharges when exiting death shroud.</c>","Бросьте копьё в цель. Если оно поразит противника, на него будут наложены эффекты, и вы сможете повторно активировать навык, чтобы телепортироваться к этому противнику.
 <c=@reminder>Этот навык перезаряжается при выходе из состояния «саван».</c>"
-Throw a spear of flame at your foe.,Бросьте копьё пламени во врага.
-Throw a spear of water at your foe that heals you when it strikes.,"Бросьте копьё воды во врага, которое лечит вас при попадании."
+Throw a spear of flame at your foe.,Бросить в противника пылающее копьё.
+Throw a spear of water at your foe that heals you when it strikes.,"Бросить в противника копьё из воды, которое исцелит вас при попадании в цель."
 "Throw a spear that inflicts conditions on your target. If this strikes a movement-impaired foe, it also inflicts daze. If this skill follows a <c=@abilitytype>Finisher</c> skill, it counts as a <c=@abilitytype>lead attack</c> and grants a bonus to outgoing damage for a duration.","Метать копьё, накладывающее состояния на цель. Если оно поражает врага с нарушением движения, то также накладывает оглушение. Если этот навык следует после навыка <c=@abilitytype>Финишер</c>, он считается <c=@abilitytype>ведущей атакой</c> и даёт бонус к исходящему урону на время."
 "Throw a spear that makes your foe vulnerable, dealing bonus damage at closer range.","Бросьте копьё, которое делает врага уязвимым, нанося дополнительный урон на близком расстоянии."
 "Throw a spear that pierces foes in a line, immobilizing them. The first enemy struck by this skill is additionally dazed.","Бросьте копьё, которое пронзает врагов по линии, обездвиживая их. Первый пораженный враг дополнительно ошеломляется."
-Throw a spear that pulls enemies to you. Gain stealth and access to Hooked Spear if this skill hits.,"Бросьте копьё, которое притягивает врагов к вам. Получите невидимость и доступ к «Крючковатому копью», если этот навык попадет в цель."
+Throw a spear that pulls enemies to you. Gain stealth and access to Hooked Spear if this skill hits.,"Бросить копьё, которое потягивает к вам врагов. Если это умение сработало, вы станете невидимым и получите умение ""Острога""."
 Throw a vine and trip your foe.,Бросьте лозу и подставьте подножку врагу.
 "Throw a wrench that returns to you, striking foes each way.","Бросьте гаечный ключ, который возвращается к вам, поражая врагов в обоих направлениях."
 Throw an axe that bleeds enemies and leaves a spinning axe on the ground.,"Бросить топор, который вызывает у противников кровотечение и оставляет на земле кружащийся топор."
@@ -102,7 +102,7 @@ Throw your charged shield. Dazes foes it hits on the way out and back.,"Брос
 "Throw your shield in a line, crippling struck foes. This attack deals bonus damage if you have barrier.","Бросьте щит по линии, накладывая увечье на пораженных врагов. Эта атака наносит дополнительный урон, если у вас есть барьер."
 "Throw your spear and shadowstep to the first target it hits, delivering a rending strike in the area around you.","Бросьте копьё и совершите теневой шаг к первой пораженной цели, нанося разрывающий удар в области вокруг вас."
 "Throw your spear at a targeted location, damaging and inflicting conditions on opponents in the area and causing an aftershock after a short delay. The aftershock deals more damage to the opponent closest to the epicenter.","Бросьте копьё в выбранное место, нанося урон и накладывая состояния на противников в области, вызывая афтершок после небольшой задержки. Афтершок наносит больше урона противнику, находящемуся ближе всего к эпицентру."
-Throw your spear at foes.,Бросьте копьё во врагов.
+Throw your spear at foes.,Бросить копьё в противников.
 "Throw your spear at your foe. Upon impact, damage your foe and connect to them through the Mists. While the connection is active it will apply burning.","Бросьте копьё во врага. При попадании нанесите урон и установите связь с целью через Туманы. Пока связь активна, она накладывает горение."
 "Throw your sphere, creating a combo field and granting boons to allies within range based on your active attunement.","Бросьте сферу, создавая комбо-поле и накладывая на союзников в радиусе действия благословения, зависящие от вашей текущей настройки."
 Throw your sword at your foe to impale them.,"Бросить меч в противника, чтобы проколоть его."
@@ -159,7 +159,7 @@ Toss Elixir S,Бросить эликсир S
 Toss Elixir U,Бросить эликсир U
 Toss Elixir U out in front of you.,"Швырнуть эликсир U, снимая оглушение с союзников и давая им сверхскорость."
 Toss Elixir X,Бросить эликсир X
-Toss a light spear of stone to bleed your foe.,"Метните лёгкое каменное копьё, чтобы вызвать кровотечение у врага."
+Toss a light spear of stone to bleed your foe.,Швырнуть лёгкое каменное копьё в противника и вызвать у него кровотечение.
 Tow Line,Буксировочный трос
 Tower Drop,Падение башни
 Toxic Bullet,Токсичная пуля
@@ -264,7 +264,7 @@ Unleash an insect swarm to blind and transfer conditions to your enemies.,"На�
 "Unleash darkness in a targeted area, inflicting conditions on foes and cleansing allies. Cleanse conditions from yourself while healing and cleansing your tethered ally, based on targets struck.","Высвободите тьму в выбранной области, накладывая состояния на врагов и очищая союзников. Очищайте состояния с себя, исцеляя и очищая связанного союзника в зависимости от количества пораженных целей."
 "Unleash darkness on your target's location, inflicting conditions on foes. Cleanse conditions from yourself while healing and cleansing your tethered ally based on targets struck.","Высвободите тьму в месте нахождения вашей цели, накладывая состояния на врагов. Очищайте состояния с себя, исцеляя и очищая связанного союзника в зависимости от количества пораженных целей."
 Unleash flames from your pistol to burn foes. Deals more damage the closer you are.,"Выпустить из своего пистолета пламя, чтобы поджечь противников. Нанести тем больше урона, чем ближе вы стоите."
-Unleash gravitational Mist forces on your targeted area that initially pulls foes toward the center. Abyssal Raze's cooldown is reduced for each target you attempt to pull.,"Обрушить силу тяжести Туманов на выбранную область, сперва притянув противников к ее центру. Снизить перезарядку Бездонного разрушения за каждую цель, которую вы пытались притянуть."
+Unleash gravitational Mist forces on your targeted area that initially pulls foes toward the center. Abyssal Raze's cooldown is reduced for each target you attempt to pull.,"Обрушить силу тяжести Туманов на выбранную область, сперва притянув противников к её центру. Снизить перезарядку Бездонного разрушения за каждую цель, которую вы пытались притянуть."
 "Unleash shadow magic at your prepared location, creating a one-way portal for you and your allies. Allies traveling through the portal gain stealth. Weakens foes around the portal's exit.","Высвободите магию тени в выбранном месте, создав односторонний портал для вас и ваших союзников. Союзники, проходящие через портал, получают скрытность. Ослабляет врагов вокруг выхода из портала."
 "Unleash sonic energy that bounces between multiple foes, damaging and bleeding them. When it hits allies, it applies might, vigor, or swiftness.","Высвободите звуковую энергию, которая отскакивает между несколькими врагами, нанося им урон и вызывая кровотечение. При попадании по союзникам накладывает мощь, энергичность или быстроту."
 "Unleash the Mists toward your enemies, changing effects based on your current legend.","Высвободите Туманы на своих врагов, меняя эффекты в зависимости от вашей текущей легенды."
@@ -340,7 +340,7 @@ Vapor Jet,Vapor Jet
 Vapor Rush,Vapor Rush
 Vaporous Strike,Vaporous Strike
 Vault,Vault
-Vaults through the air and slams down on an enemy.,"Прыгнуть вперед, нанося противникам урон при приземлении."
+Vaults through the air and slams down on an enemy.,"Прыгнуть вперёд, нанося противникам урон при приземлении."
 Veil,Veil
 Velocity Increase,Увеличение скорости
 Vengeance Duration,Vengeance Duration

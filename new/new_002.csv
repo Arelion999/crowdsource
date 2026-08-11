@@ -90,7 +90,7 @@ english,translate
 ...and to think at the academy they called me mad! Mwahahahaha! The fools...,"...и подумать только, в академии меня звали безумцем! Му-ха-ха-ха-ха! Глупцы..."
 ...if I realign the polarities of the mana interterferometer...,...если я перенастрою полярности мана-интерферометра...
 /bless,/bless
-"/flex—Unlock by using the ""/Flex"" Emote Tome from the Wizard's Vault.",/flex — открывается использованием тома эмоции «/Flex» из Хранилища Волшебника.
+"/flex—Unlock by using the ""/Flex"" Emote Tome from the Wizard's Vault.","/flex — разблокируется с помощью «Тома эмоций ""/Flex""» из Сундука Волшебника."
 01—Wizard's Ascent: Attracted to the smell of Kryptis baits in Wizard's Ascent.,01 — Восхождение Волшебника: привлечён запахом приманок для криптисов в Восхождении Волшебника.
 02—Garenhoff: Broken Tower in Garenhoff.,02 — Гаренхофф: разрушенная башня в Гаренхоффе.
 03—Rata Novus Promenade: Examined by the large microscopes.,03 — Променад Рата Новус: осмотрен у больших микроскопов.
@@ -203,7 +203,7 @@ english,translate
 <c=@abilitytype>Critical Hit Bonus above 100%% Heat</c>,<c=@abilitytype>Бонус к критическому удару при жаре выше 100%%</c>
 <c=@abilitytype>Critical Hit Bonus above 50%% Heat</c>,<c=@abilitytype>Бонус к критическому удару при жаре выше 50%%</c>
 "<c=@abilitytype>Deception.</c> Create a pulsing refuge at the target area that heals allies, cloaks allies in stealth, and reduces damage taken.","<c=@abilitytype>Обман.</c> Создаёт в целевой области пульсирующее убежище, которое исцеляет союзников, окутывает их невидимостью и снижает получаемый урон."
-<c=@abilitytype>Deception.</c> Create a smoke screen that blocks missiles and debilitates foes that pass through. Gain stealth when you leave the smoke screen.,"<c=@abilitytype>Обман.</c> Создать дымовую завесу, которая блокирует снаряды и сдерживает проходящих сквозь нее противников. Вы станете невидимым, когда выйдете из дымовой завесы."
+<c=@abilitytype>Deception.</c> Create a smoke screen that blocks missiles and debilitates foes that pass through. Gain stealth when you leave the smoke screen.,"<c=@abilitytype>Обман.</c> Создать дымовую завесу, которая блокирует снаряды и сдерживает проходящих сквозь неё противников. Вы станете невидимым, когда выйдёте из дымовой завесы."
 <c=@abilitytype>Dual Attack.</c> Bleed your foe with ice and sharpened stones. The first pulse of this skill cripples enemies.,<c=@abilitytype>Двойная атака.</c> Вызывает у врага кровотечение льдом и заострёнными камнями. Первый импульс этого умения поражает врагов хромотой.
 <c=@abilitytype>Dual Attack.</c> Create an area that cripples and damages enemies. The first pulse of this skill immobilizes enemies.,"<c=@abilitytype>Двойная атака.</c> Создаёт область, поражающую врагов хромотой и уроном. Первый импульс этого умения обездвиживает врагов."
 <c=@abilitytype>Dual Attack.</c> Launch a fire-and-ice bolt while evading and removing movement-impairing conditions.,"<c=@abilitytype>Двойная атака.</c> Запускает огненно-ледяной заряд, уклоняясь и снимая состояния, мешающие передвижению."
