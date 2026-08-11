@@ -50,7 +50,7 @@ Deal bonus strike damage based on your distance to the enemy.,Вы наноси�
 Deal damage and gain life when stealing. This attack cannot critically hit enemies.,Вы наносите урон и получаете здоровье при Краже. Эта атака не может завершиться критическим попаданием.
 Deal increased condition damage for each stack of blight you have. Shroud skill 2 also inflicts poison.,"Вы наносите повышенный урон от состояний за каждый стек Скверны, лежащий на вас. 2-е умение Савана накладывает отравление."
 "Deal increased critical damage, which is further increased while your health is above the threshold. Gain bonus critical-hit chance when hitting a foe from behind or the side or when they are defiant.","Наносите увеличенный критический урон, который дополнительно увеличивается, пока ваше здоровье выше порога. Получайте бонусный шанс критического удара при попадании по врагу сзади или сбоку, или когда он непокорен."
-Deal increased critical-hit damage. This bonus is doubled against boonless foes.,Стукнуть вашего противника.
+Deal increased critical-hit damage. This bonus is doubled against boonless foes.,"Вы наносите увеличенный критический урон. Этот бонус удваивается, если у противника нет никаких даров."
 Deal increased damage based on your motivation level.,Ваш урон повышается в зависимости от вашего уровня мотивации.
 Deal increased damage per stack.,Наносит увеличенный урон за каждый стак.
 Deal increased damage while your endurance is not full.,"Вы наносите повышенный урон, когда ваш запас выносливости не полон."
@@ -158,7 +158,7 @@ Distance Threshold,Порог дистанции
 <c=@reminder>(Attack will not occur without heat.)</c>","Перекат выпускает жар, атакуя ближайших врагов и даруя энергичность.
 <c=@reminder>(Атака не сработает без жара.)</c>"
 Dodging now deals more damage but affects a smaller area. Outgoing strike damage is increased for a period of time upon impact.,"Уворот теперь наносит повышенный урон, но действует на меньшую область. После падения с небес ваш прямой урон возрастает на некоторое время."
-Dodging now grants boons to allies and strikes foes when landing.,Уворот теперь даёт союзникам дары и наносит урон противникам после падения с небес.
+Dodging now grants boons to allies and strikes foes when landing.,Уворот теперь дает союзникам дары и наносит урон противникам после падения с небес.
 Dodging removes a condition from you. Heal yourself if you remove a condition this way.,"Уворот снимает с вас состояние. Вы исцеляетесь, если состояние было снято таким способом."
 Dodging removes a damaging condition from you.,Уворот снимает с вас наносящее урон состояние.
 Dodging removes burning and chilled from nearby allies.,Увороты снимают горение и заморозку с союзников поблизости.
@@ -252,8 +252,8 @@ Enduring Refrain,Длительный рефрен
 <c=@reminder>Эта черта может воздействовать на врагов с полоской стойкости только раз в определенный интервал.</c>"
 Energized Elements,Заряженные элементы
 Energy Amplifier,Усилитель энергии
-Energy Meld grants more endurance and grants its endurance and vigor to nearby allies.,"Умение ""Слияние энергии"" даёт больше выносливости, а также даёт выносливость и Энергичность союзникам поблизости."
-Energy Meld no longer has an energy cost and grants energy when used in combat.,"Умение ""Слияние энергии"" не требует энергии для активации и даёт энергию при использовании в бою."
+Energy Meld grants more endurance and grants its endurance and vigor to nearby allies.,"Умение ""Слияние энергии"" дает больше выносливости, а также дает выносливость и Энергичность союзникам поблизости."
+Energy Meld no longer has an energy cost and grants energy when used in combat.,"Умение ""Слияние энергии"" не требует энергии для активации и дает энергию при использовании в бою."
 Energy Meld's cooldown is reduced and it increases the effectiveness of your next dodge.,"Умение ""Слияние энергии"" перезаряжается быстрее и увеличивает эффективность вашего следующего уворота."
 Energy Threshold,Порог энергии
 Enhanced Capacity Storage Unit,Улучшенный блок хранения
@@ -262,7 +262,7 @@ Enhanced Potency,Улучшенная эффективность
 Enhancing Impact,Усиливающий удар
 Enigmatic Connection,Загадочная связь
 "Enter Harbinger Shroud, granting powerful offensive skills but leaving you vulnerable to attack.As you remain in Harbinger Shroud, you accumulate blight over time.Blight decreases your maximum health.","Войдите в Harbinger Shroud, получая мощные атакующие умения, но становясь уязвимым для атак.Находясь в Harbinger Shroud, вы со временем накапливаете скверну (blight).Скверна уменьшает ваше максимальное здоровье."
-Entering beastmode grants you the boons affecting your pet.,"Слияние со зверем даёт вам дары, лежащие на вашем питомце."
+Entering beastmode grants you the boons affecting your pet.,"Слияние со зверем дает вам дары, лежащие на вашем питомце."
 Entering or exiting beast mode grants protection.,Слияние со зверем и прекращение слияния даруют вам Протекцию.
 Entering or exiting shroud increases all damage you deal for a duration.,Вход в Саван или выход из него на некоторое время увеличивает весь наносимый вами урон.
 Entering shroud grants swiftness and removes movement-impairing conditions.,"Активация Савана дарует Быстроту и снимает состояния, ограничивающие передвижение."
@@ -271,17 +271,17 @@ Enterprising Aristocrat,Предприимчивый аристократ
 Equal and Opposite Reaction,Равное и противоположное противодействие
 "Equipping a <c=@abilitytype>Virtue</c> grants you quickness. Every third <c=@abilitytype>Tome</c> skill grants you pages.
 <c=@reminder>Stacks reset when exiting a tome.
-Quickness can only be gained once per interval</c>","Экипировка <c=@abilitytype>Добродетели</c> даёт вам проворство. Каждый третий навык <c=@abilitytype>Фолианта</c> даёт страницы.
+Quickness can only be gained once per interval</c>","Экипировка <c=@abilitytype>Добродетели</c> дает вам проворство. Каждый третий навык <c=@abilitytype>Фолианта</c> дает страницы.
 <c=@reminder>Эффекты сбрасываются при выходе из фолианта.
 Проворство можно получить только один раз за интервал</c>"
-Equipping an <c=@abilitytype>Engineering Kit</c> creates an attack or spell and grants you swiftness.,Экипировка <c=@abilitytype>Инженерного набора</c> создает атаку или заклинание и даёт вам быстроту.
+Equipping an <c=@abilitytype>Engineering Kit</c> creates an attack or spell and grants you swiftness.,Экипировка <c=@abilitytype>Инженерного набора</c> создает атаку или заклинание и дает вам быстроту.
 Escape Artist,Мастер побега
 Escapist's Fortitude,Стойкость беглеца
 Essence of Speed,Сущность скорости
 Eternal Armory,Вечный арсенал
 Eternal Life,Вечная жизнь
 Ethereal Purification,Эфирное очищение
-Evading an attack inspires you with Kalla's Fervor and grants boons to nearby allies.,Уклонение от атаки наполняет вас страстью Каллы и даёт дары союзникам поблизости.
+Evading an attack inspires you with Kalla's Fervor and grants boons to nearby allies.,Уклонение от атаки наполняет вас страстью Каллы и дает дары союзникам поблизости.
 Evasive Arcana,Уклоняющаяся магия
 Evasive Empowerment,Уклоняющееся усиление
 Evasive Purity,Уклоняющаяся чистота
@@ -387,7 +387,7 @@ Fury gives an increased critical hit chance. Gain ferocity based on your vitalit
 Fury increases the duration of bleeds you inflict. Gaining fury inspires you with Kalla's Fervor.,Ярость увеличивает длительность вызываемых вами кровотечений. Получение Ярости наполняет вас страстью Каллы.
 "Gadget. Activate your A.E.D., enabling the system to heal you after a brief period of time. If you take lethal damage while A.E.D. is active, it ends and heals you for a large amount, grants shock aura, and removes conditions.","Гаджет. Активируйте ваш A.E.D., позволяя системе исцелить вас через короткий промежуток времени. Если вы получаете смертельный урон, пока A.E.D. активен, он завершается и исцеляет вас на значительную величину, накладывает ауру шока и снимает состояния."
 "Gadget. Break out of stun, gaining resistance, clearing blindness, and removing damaging conditions.","Гаджет. Вырвитесь из оглушения, получив сопротивляемость, сняв слепоту и удалив вредоносные состояния."
-"Gadget. Fly forward, damaging foes with your rocket exhaust. Cures immobilized, crippled, and chilled. Gain superspeed when this skill ends.","Гаджет. Летите вперёд, повреждая врагов выхлопом вашей ракеты. Снимает обездвиживание, хромоту и заморозку. Получите суперскорость, когда этот навык заканчивается."
+"Gadget. Fly forward, damaging foes with your rocket exhaust. Cures immobilized, crippled, and chilled. Gain superspeed when this skill ends.","Гаджет. Летите вперед, повреждая врагов выхлопом вашей ракеты. Снимает обездвиживание, хромоту и заморозку. Получите суперскорость, когда этот навык заканчивается."
 "Gadget. Gain resistance, clear blindness, and remove damaging conditions.","Гаджет. Получите сопротивляемость, снимите слепоту и удалите вредоносные состояния."
 "Gadget. Launch a target foe with a concealed ram head. The ram explodes on contact, burning foes.","Гаджет. Запустите во врага скрытую голову тарана. Таран взрывается при контакте, сжигая врагов."
 "Gadget. Spray oil behind you, knocking down foes. Break stun and gain stability. If underwater, foes entering the field are blinded and slowed.","Гаджет. Распылите масло позади себя, сбивая врагов с ног. Снимите оглушение и получите устойчивость. Если под водой, враги, входящие в область, ослепляются и замедляются."
@@ -472,7 +472,7 @@ Gain concentration and deal increased strike damage for each active boon you hav
 Gain concentration and expertise when you have an active shade.,"Ваши Концентрация и Сноровка увеличиваются, если у вас есть активная песчаная тень."
 Gain concentration and expertise while affected by regeneration.,"Ваши Концентрация и Сноровка повышаются, пока у вас есть дар Регенерации."
 Gain concentration and your attunements gain reduced recharge.,"Ваша Концентрация увеличена, а Стихии перезаряжаются быстрее."
-Gain concentration. Empower now grants endurance to allies in addition to its effects. Staff skills recharge time is reduced.,Ваша Концентрация увеличивается. Умение Empower теперь дополнительно даёт союзникам выносливость. Умения посоха перезаряжаются быстрее.
+Gain concentration. Empower now grants endurance to allies in addition to its effects. Staff skills recharge time is reduced.,Ваша Концентрация увеличивается. Умение Empower теперь дополнительно дает союзникам выносливость. Умения посоха перезаряжаются быстрее.
 "Gain concentration. Gain adrenaline and motivation when you swap weapons.
 <c=@reminder>Motivation can only be gained while a refrain is active.</c>","Получайте концентрацию. Получайте адреналин и мотивацию при смене оружия.
 <c=@reminder>Мотивацию можно получить только при активном рефрене.</c>"
@@ -507,8 +507,8 @@ Gain ferocity based on your precision.,Ваша Жестокость увели�
 Gain ferocity for a short duration when you hit with an <c=@abilitytype>explosion</c>. This effect stacks duration.,Получайте свирепость на короткое время при попадании <c=@abilitytype>взрывом</c>. Этот эффект суммирует длительность.
 "Gain ferocity, and gain additional ferocity while attuned to air. Air weapon skills get a reduced recharge time.","Получайте свирепость, а также дополнительную свирепость при настройке на воздух. Воздушные навыки оружия получают сокращенное время перезарядки."
 Gain ferocity. Gain additional ferocity when wielding an axe. Axe skills gain reduced recharge and grant adrenaline when critically striking.,"Ваша Жестокость увеличивается. Вы получаете дополнительную Жестокость, если вы вооружены топором. Умения топора перезаряжаются быстрее и дают адреналин при критических ударах."
-Gain fire aura when an ally picks up a conjured weapon.,"Даёт огненную ауру, когда союзник поднимает сотворенное оружие."
-Gain fury and adrenaline when you immobilize or disable a foe.,"Вам даруются Ярость и адреналин, когда вы обездвиживаете цель или выводите её из строя."
+Gain fire aura when an ally picks up a conjured weapon.,"Дает огненную ауру, когда союзник поднимает сотворенное оружие."
+Gain fury and adrenaline when you immobilize or disable a foe.,"Вам даруются Ярость и адреналин, когда вы обездвиживаете цель или выводите ее из строя."
 Gain fury when entering shroud. Gain additional precision.,"Вам даруется Ярость, когда вы входите в Саван. Ваша Точность увеличивается."
 Gain fury when swapping weapons in combat.,Вам даруется Ярость при смене оружия в бою.
 Gain fury when you activate Bladesong Sorrow. Fury increases your expertise.,При активации умения Bladesong Sorrow вам даруется Ярость. Ярость повышает вашу Сноровку.
@@ -559,7 +559,7 @@ Gain initiative when you enter or exit stealth.,Восстанавливает �
 "Gain knowledge of Elonian lore, igniting a fierce drive to purge corruption and manifesting your <c=@abilitytype>Virtues</c> as mystic tomes. Gain access to <c=@abilitytype>Mantras</c>.
 <c=@reminder>Using Tome skills consumes pages. You regenerate pages every interval.</c>","Даёт знание элонских легенд, разжигая яростное стремление очистить порчу и воплощая ваши <c=@abilitytype>Virtues</c> в виде мистических фолиантов. Даёт доступ к <c=@abilitytype>Mantras</c>.
 <c=@reminder>Использование навыков фолианта расходует страницы. Вы восстанавливаете страницы каждый интервал.</c>"
-Gain life force and health when you apply a boon to yourself or remove a boon from an enemy.,"Вам даётся жизненная сила и здоровье, когда вы даёте себе дар или снимаете дар с противника."
+Gain life force and health when you apply a boon to yourself or remove a boon from an enemy.,"Вам дается жизненная сила и здоровье, когда вы даете себе дар или снимаете дар с противника."
 Gain life force every interval up to the threshold when not in shroud. Gain protection when you enter shroud.,"Восстанавливает жизненную силу каждый интервал до порогового значения, если вы не в саване. Даёт защиту при входе в саван."
 Gain life force when you enter Harbinger Shroud.,"Вы получаете жизненную силу, когда надеваете Саван Предвестника."
 "Gain life force when you inflict burning, and remove or corrupt a boon.","Восстанавливает жизненную силу при наложении горения, а также при снятии или порче благословения."

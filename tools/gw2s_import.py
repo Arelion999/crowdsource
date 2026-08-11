@@ -21,7 +21,7 @@
 Сверху стоит гейт линтера: правка принимается, только если набор тегов и
 плейсхолдеров не изменился.
 """
-import collections, csv, os, re, sqlite3, sys
+import collections, csv, difflib, io, os, re, sqlite3, sys
 
 sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -71,9 +71,22 @@ def survey():
         if len(r) >= 2:
             theirs.setdefault(r[0], r[1])
 
+    # Названия умений НЕ уникальны: у `Feeding Frenzy` на их сайте два разных
+    # описания (одноимённые умения у разных питомцев), у нас в API 680
+    # повторяющихся названий. Первый заход брал первое попавшееся и влил
+    # «Призвать косяк рыб-умертвий» в описание умения «Enter a frenzy».
+    # Поэтому собираем ВСЕ варианты, а выбор делаем ниже — по сходству с нашим
+    # переводом.
+    variants = collections.defaultdict(list)
+    for r in list(csv.reader(open(fp, encoding="utf-8-sig")))[1:]:
+        if len(r) >= 2 and r[1] not in variants[r[0]]:
+            variants[r[0]].append(r[1])
+
     db = sqlite3.connect(os.path.join(CROWD, "sync", "index.db"))
-    want = [(n, d) for n, d in db.execute(
-        "SELECT name, descr FROM skill WHERE descr<>''") if n in theirs]
+    all_skills = db.execute("SELECT name, descr FROM skill WHERE descr<>''").fetchall()
+    dup_api = {k for k, v in collections.Counter(n for n, _d in all_skills).items()
+               if v > 1}
+    want = [(n, d) for n, d in all_skills if n in variants]
 
     by = collections.defaultdict(list)
     for _h, (en, ru, _c) in D.load_map(D.OUR_BIN).items():
@@ -90,7 +103,24 @@ def survey():
         if not ru.strip():
             why["у нас пусто, разметку брать неоткуда"] += 1
             continue
-        new = build(ru, theirs[n])
+        # Название повторяется — выбираем описание, ближайшее к НАШЕМУ переводу.
+        # Наш перевод пусть и хуже, но он про это же умение, поэтому годится
+        # как якорь. Если ни один вариант не похож, брать нельзя: это чужое
+        # умение (так «Enter a frenzy» получил «Призвать косяк рыб-умертвий»).
+        cands = variants[n]
+        if len(cands) > 1 or n in dup_api:
+            best, score = None, 0.0
+            for c in cands:
+                s = difflib.SequenceMatcher(None, ru, c).ratio()
+                if s > score:
+                    best, score = c, s
+            if score < 0.35:
+                why["название повторяется, похожего описания нет"] += 1
+                continue
+            their_text = best
+        else:
+            their_text = cands[0]
+        new = build(ru, their_text)
         if new is None:
             why["прозы больше одного куска"] += 1
             continue
@@ -158,27 +188,50 @@ def cmd_batches(_a):
     `--repair` — только те, на что ругается линтер, а тут перевод менялся на
     лучший при чистом линте с обеих сторон.
     """
-    good, _why = survey()
-    n = 0
+    if len(sys.argv) < 3:
+        sys.exit("нужен бэкап bin ДО импорта: gw2s_import.py batches "
+                 ".dict_bak/dictionary.bin.YYYYMMDD-HHMMSS.bak\n"
+                 "Он нужен, чтобы отличить «в батче лежит наш прежний текст» "
+                 "от «в батче чужая вычитка»: первое подставляем, второе нет.")
+    old = {en: ru for _h, (en, ru, _c) in D.load_map(sys.argv[2]).items() if en}
+    now = {en: ru for _h, (en, ru, _c) in D.load_map(D.OUR_BIN).items() if en}
+    good = {en: (old.get(en, ""), ru, "") for en, ru in now.items()
+            if en in old and old[en] != ru}
+    print("строк, изменившихся в bin: %d" % len(good))
+    n = files = kept = refused = 0
     for fp in D.batch_files():
-        raw = open(fp, "rb").read().decode("utf-8")
-        rows = list(csv.reader(__import__("io").StringIO(raw)))
+        rows = list(csv.reader(io.StringIO(open(fp, "rb").read().decode("utf-8"))))
         if not rows or rows[0][:1] != ["english"]:
             continue
         hit = 0
         for r in rows[1:]:
             if len(r) < 2 or not r[0].strip() or r[0] not in good:
                 continue
-            new = good[r[0]][1]
-            if r[1].strip() != new.strip():
-                r[1] = new
-                hit += 1
+            was, new, _name = good[r[0]]
+            if r[1].strip() == new.strip():
+                continue
+            # Подставляем, только если в батче лежит ровно то, что мы заменили
+            # в bin. Иначе там чужой текст — возможно, ручная вычитка, — и
+            # затирать его импортом нельзя.
+            if r[1].strip() != was.strip():
+                kept += 1
+                continue
+            if _validate is not None:
+                base = len(_validate.check_row(r[0], r[1])[0])
+                if len(_validate.check_row(r[0], new)[0]) > base:
+                    refused += 1
+                    continue
+            r[1] = new
+            hit += 1
         if hit:
-            buf = __import__("io").StringIO()
+            buf = io.StringIO()
             csv.writer(buf, lineterminator="\n").writerows(rows)
             open(fp, "wb").write(buf.getvalue().encode("utf-8"))
             n += hit
-    print("ячеек батчей подтянуто: %d" % n)
+            files += 1
+    print("ячеек батчей подтянуто: %d в %d файлах" % (n, files))
+    print("не тронуто (в батче свой текст): %d | отклонено линтером: %d"
+          % (kept, refused))
 
 
 CMDS = {"check": cmd_check, "apply": cmd_apply, "batches": cmd_batches}

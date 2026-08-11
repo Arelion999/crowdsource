@@ -84,7 +84,7 @@ Overflowing Thirst,Переполняющая жажда
 <c=@reminder>Damage over time from Overheat is still applied.</c>","Перегрев теперь наносит взрывной урон ближайшим врагам и больше не наносит начальный урон вам. Штраф к перезарядке навыков пояса за Перегрев снижен. Тепло можно сбросить только после перегрева.
 <c=@reminder>Периодический урон от Перегрева все ещё накладывается.</c>"
 "Overload. Create a surge of accumulated water magic, healing and cleansing allies. When the cast ends, heal the area and apply regeneration.Using this skill causes the attunement to have a longer recharge.","Перегрузка. Создайте всплеск накопленной магии воды, исцеляя и очищая союзников. По завершении произнесения исцелите область и наложите регенерацию.Использование этого навыка увеличивает время перезарядки настройки."
-"Overload. Ride your stored earth magic around, granting protection to other allies you move over and crippling enemies, then deliver a final immobilizing blast of power to the area, leaving behind a dust cyclone that delivers the same effects as the overload.Using this skill causes the attunement to have a longer recharge.","Перегрузка. Оседлайте накопленную магию земли, даруя протекцию союзникам, мимо которых вы проходите, и накладывая увечье на врагов, а затем нанесите финальный обездвиживающий удар по области, оставляя пылевой циклон, который даёт те же эффекты, что и перегрузка.Использование этого навыка увеличивает время перезарядки настройки."
+"Overload. Ride your stored earth magic around, granting protection to other allies you move over and crippling enemies, then deliver a final immobilizing blast of power to the area, leaving behind a dust cyclone that delivers the same effects as the overload.Using this skill causes the attunement to have a longer recharge.","Перегрузка. Оседлайте накопленную магию земли, даруя протекцию союзникам, мимо которых вы проходите, и накладывая увечье на врагов, а затем нанесите финальный обездвиживающий удар по области, оставляя пылевой циклон, который дает те же эффекты, что и перегрузка.Использование этого навыка увеличивает время перезарядки настройки."
 "Overload. Unleash your flames, granting might to allies and burning enemies. Finishing the cast creates a tornado that continues to grant might and burn foes.Using this skill causes the attunement to have a longer recharge.","Перегрузка. Высвободите пламя, даруя мощь союзникам и поджигая врагов. Завершение произнесения создает торнадо, который продолжает даровать мощь и поджигать врагов.Использование этого навыка увеличивает время перезарядки настройки."
 "Overload. Use your air magic to summon a nimbus that repeatedly strikes nearby enemies. When this ability is complete, imbue your allies with electricity and create a lingering static region that strikes enemies at the same interval.Using this skill causes the attunement to have a longer recharge.","Перегрузка. Используйте магию воздуха, чтобы призвать нимб, который неоднократно поражает ближайших врагов. Когда эта способность завершается, наделите союзников электричеством и создайте остаточную статическую область, которая поражает врагов с тем же интервалом.Использование этого навыка увеличивает время перезарядки настройки."
 Pack Alpha,Вожак стаи
@@ -101,8 +101,8 @@ Percent Recharged on Interrupt,Процент перезарядки при пр
 Percentage per Ally,Процент за союзника
 Perfect Inscriptions,Идеальные надписи
 Perilous Skies,Опасные небеса
-Periodically gain Soldier's Focus. Hitting with a burst skill expends Soldier's Focus to grant might to nearby allies.,Периодически даёт Сосредоточенность Солдата. Попадания с помощью вспышек ярости позволяют Сосредоточенности Солдата давать Мощь союзникам поблизости.
-Periodically gain barrier for each unique boon you have.,Периодически даёт барьер за каждый лежащий на вас уникальный дар.
+Periodically gain Soldier's Focus. Hitting with a burst skill expends Soldier's Focus to grant might to nearby allies.,Периодически дает Сосредоточенность Солдата. Попадания с помощью вспышек ярости позволяют Сосредоточенности Солдата давать Мощь союзникам поблизости.
+Periodically gain barrier for each unique boon you have.,Периодически дает барьер за каждый лежащий на вас уникальный дар.
 Permeating Pestilence,Проникающая зараза
 Permeating Wrath,Проникающий гнев
 Persistence of Memory,Стойкость памяти
@@ -208,7 +208,7 @@ Radiant Power,Сияющая мощь
 "Rage. Gain adrenaline, an attack-speed boost, and access to primal burst skills.","Ярость. Даёт адреналин, бонус к скорости атаки и доступ к первичным навыкам взрыва (primal burst skills)."
 Raging Storm,Яростный шторм
 Rally the Valiant,Сплочение доблестных
-Ranger weapon skills deal increased strike damage. Damage is further increased for foes above the range threshold.,"Оружейные умения Рейнджера наносят повышенный прямой урон. Урон ещё больше увеличивается, если противник находится за порогом дистанции."
+Ranger weapon skills deal increased strike damage. Damage is further increased for foes above the range threshold.,"Оружейные умения Рейнджера наносят повышенный прямой урон. Урон еще больше увеличивается, если противник находится за порогом дистанции."
 Rapid Flow,Быстрый поток
 Rapid Regeneration,Быстрая регенерация
 Reactive Lenses,Реактивные линзы
@@ -230,7 +230,7 @@ Reduce incoming strike damage from nearby enemies.,Снижает входящи
 Reduce strike damage dealt to you from foes beyond the range threshold.,"Уменьшает прямой урон от противников, которые находятся дальше пороговой дистанции."
 Reduce the duration of movement-impeding conditions and gain regeneration when you are affected by one of these conditions.,"Сокращает длительность состояний, ограничивающих передвижение, и даёт регенерацию, когда вы находитесь под действием одного из этих состояний."
 Reduce the recharge of Skritt Swipe whenever you use an artifact.,Время перезарядки Скриттского ограбления уменьшается при каждом использовании артефакта.
-Reduce the recharge of invoking legends in combat. Invoking legends while Cosmic Wisdom is active extends its duration.,Сокращает время перезарядки использования легенды в бою. Использование легенды при активной Космической Мудрости увеличивает её длительность.
+Reduce the recharge of invoking legends in combat. Invoking legends while Cosmic Wisdom is active extends its duration.,Сокращает время перезарядки использования легенды в бою. Использование легенды при активной Космической Мудрости увеличивает ее длительность.
 Reduce the recharge of your <c=@abilitytype>virtue</c> skills when you equip a radiant weapon.,Сокращает перезарядку ваших навыков <c=@abilitytype>добродетели</c> при экипировке сияющего оружия.
 Reduce the recharge of your elite skill when you dodge.,Уворот сокращает время перезарядки вашего элитного умения.
 Reduces duration of movement-impairing conditions. Additional reduction while in reaper's shroud.,"Снижает длительность состояний, ограничивающих передвижение. Эффект усиливается в Саване Жнеца."
@@ -258,8 +258,8 @@ Removal upon Application,Снятие при наложении
 Removal upon Transmute,Снятие при трансмутации
 Remove a nondamaging condition and gain swiftness whenever you evade an attack.,Снимает одно не наносящее урон состояние и даёт стремительность при каждом уклонении от атаки.
 Remove conditions and heal when blocking attacks.,Снимает состояния и исцеляет при блокировании атак.
-Remove conditions from nearby allies when attuning to water.,"Исцелить себя и союзников поблизости, снимая состояния."
-Remove conditions from nearby allies when you grant yourself light aura. Gain light aura when you use a healing skill.,"Вы снимаете состояния с союзников поблизости, когда даёте себе ауру Света. Вы получаете ауру Света при использовании исцеляющего умения."
+Remove conditions from nearby allies when attuning to water.,"Вы снимаете состояния с союзников поблизости, когда обращаетесь к силе Воды."
+Remove conditions from nearby allies when you grant yourself light aura. Gain light aura when you use a healing skill.,"Вы снимаете состояния с союзников поблизости, когда даете себе ауру Света. Вы получаете ауру Света при использовании исцеляющего умения."
 "Remove conditions from nearby allies when you summon a creature.
 <c=@reminder>Spirits and minions are creatures.</c>","Снимает состояния с ближайших союзников при призыве существа.
 <c=@reminder>Духи и миньоны являются существами.</c>"
@@ -302,7 +302,7 @@ Restorative Virtues,Восстанавливающие добродетели
 Restore arrows when you or your pet disable an enemy.,"Вы получаете стрелы, когда вы или ваш питомец выводите противника из строя."
 "Retain <c=@abilitytype>Courage</c> passive while it is on cooldown. Grant boons to nearby allies when you disable, immobilize, or slow an enemy.
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Сохраняет пассивный эффект <c=@abilitytype>Мужества</c>, пока он на перезарядке. Дарует благословения ближайшим союзникам, когда вы накладываете эффекты контроля, обездвиживания или замедления на врага.
-<c=@reminder>Эффекты контроля включают оглушение, ошеломление, отбрасывание, притягивание, нокдаун, погружение, подъём, подбрасывание, провокацию и страх.</c>"
+<c=@reminder>Эффекты контроля включают оглушение, ошеломление, отбрасывание, притягивание, нокдаун, погружение, подъем, подбрасывание, провокацию и страх.</c>"
 Retain <c=@abilitytype>Justice</c> passive while it is on cooldown. Granting quickness to an ally also grants Ashes of the Just.,"Сохраняет пассивный эффект <c=@abilitytype>Справедливости</c>, пока он на перезарядке. Дарование стремительности союзнику также даёт Пепел Справедливых."
 Retain <c=@abilitytype>Resolve</c> passive while it is on cooldown. You generate pages more quickly.,"Сохраняет пассивный эффект <c=@abilitytype>Решимости</c>, пока он на перезарядке. Вы создаете страницы быстрее."
 Revealed Training,Тренировка обнаружения
@@ -367,7 +367,7 @@ Shatter Storm,Шторм осколков
 Shatter skill 1 becomes an ammo skill.,1-е умение Осколков становится умением с зарядами.
 Shatter skill 2 inflicts blindness.,2-е умение Осколков вызывает слепоту.
 Shatter skill 2 inflicts more stacks of confusion for an increased duration.,2-е умение Осколков накладывает больше стеков замешательства с увеличенной длительностью.
-Shatter skill 4 grants boons and breaks allies out of stuns.,4-е умение Осколков даёт союзникам дары и сбрасывает с них оглушение.
+Shatter skill 4 grants boons and breaks allies out of stuns.,4-е умение Осколков дает союзникам дары и сбрасывает с них оглушение.
 "Shatter. Destroy all your clones, confusing nearby foes and recharging this skill for each clone shattered.","Shatter. Уничтожает всех ваших клонов, накладывая замешательство на ближайших врагов и перезаряжая этот навык за каждого уничтоженного клона."
 "Shatter. Destroy all your clones, damaging nearby foes. Strikes again after a delay.Shatter traits only affect the first strike of this skill.","Shatter. Уничтожает всех ваших клонов, нанося урон ближайшим врагам. Повторно поражает цель с задержкой.Черты Shatter влияют только на первый удар этого навыка."
 "Shatter. Destroy all your clones, dazing and slowing their targets.","Shatter. Уничтожает всех ваших клонов, ошеломляя и замедляя их цели."
@@ -419,7 +419,7 @@ Smothering Auras,Удушающие ауры
 Soaring Devastation,Парящее опустошение
 Solar Focusing Lens,Солнечная фокусирующая линза
 Soldier's Comfort,Комфорт солдата
-Soldier's Focus grants boons to affected allies and removes conditions from them. Refresh Soldier's Focus when you swap weapons.,"Сосредоточенность Солдата даёт дары союзникам, попавшим под действие этого эффекта, и снимает с них состояния. Сосредоточенность Солдата обновляется, когда вы меняете оружие."
+Soldier's Focus grants boons to affected allies and removes conditions from them. Refresh Soldier's Focus when you swap weapons.,"Сосредоточенность Солдата дает дары союзникам, попавшим под действие этого эффекта, и снимает с них состояния. Сосредоточенность Солдата обновляется, когда вы меняете оружие."
 Soldier's Focus heals affected allies and grants them protection.,Фокус солдата лечит затронутых союзников и даёт им защиту.
 Song of Arboreum,Песнь Арбореума
 Song of the Mists,Песнь Туманов
@@ -470,7 +470,7 @@ Stance. Take no damage from attacks. You are still susceptible to conditions and
 Steadfast Courage,Непоколебимая отвага
 Steadfast Rejuvenation,Непоколебимое омоложение
 Steal boons from enemies you strike with <c=@abilitytype>stealth attacks</c>. Striking a boonless foe with a stealth attack inflicts fear on nearby foes.,"Крадет благословения у врагов, которых вы поражаете <c=@abilitytype>атаками из невидимости</c>. Поражение врага без благословений атакой из невидимости накладывает страх на ближайших противников."
-Steal health and gain shadow force when you torment a foe.,"Крадет здоровье и даёт силу тени, когда вы накладываете боль на врага."
+Steal health and gain shadow force when you torment a foe.,"Крадет здоровье и дает силу тени, когда вы накладываете боль на врага."
 "Steal health from enemies when you or your pet disable them.
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Крадет здоровье у врагов, когда вы или ваш питомец накладываете на них эффекты контроля.
 <c=@reminder>Эффекты контроля включают оглушение, ошеломление, отбрасывание, притягивание, нокдаун, погружение, всплытие, подбрасывание, провокацию и страх.</c>"
@@ -479,7 +479,7 @@ Steal health and gain shadow force when you torment a foe.,"Крадет здо�
 Steal.,Кража.
 Stealing also applies bleeding. Bleeding you inflict deals more damage.,Кража также вызывает кровотечение. Вызываемые вами кровотечения наносят повышенный урон.
 Stealing also dazes the target. Reduces the recharge of Steal.,Кража также ошеломляет цель. Уменьшает время перезарядки Кражи.
-Stealing gives you initiative.,Кража даёт вам инициативу.
+Stealing gives you initiative.,Кража дает вам инициативу.
 Stealing grants you and all nearby allies vigor. You rip boons from your target and grant them to nearby allies. Grant additional boons to allies if your target has no boons.,"Кража даёт вам и всем ближайшим союзникам бодрость. Вы срываете благословения с цели и передаете их ближайшим союзникам. Даёт дополнительные благословения союзникам, если у цели нет благословений."
 Stealing inflicts blindness. <c=@abilitytype>Stealth Attacks</c> inflict weakness. <c=@reminder>Cannot affect the same target more than once per interval.</c>,Кража накладывает слепоту. <c=@abilitytype>Атаки из невидимости</c> накладывают слабость. <c=@reminder>Не может воздействовать на одну и ту же цель чаще одного раза за интервал.</c>
 "Stealing inflicts poison. While in the downed state, your attacks apply poison.",Кража накладывает яд. В состоянии сбитого с ног ваши атаки накладывают яд.

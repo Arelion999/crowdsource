@@ -112,7 +112,7 @@ Transfusion,Переливание
 Transmute,Трансмутация
 Trapper's Expertise,Мастерство ловушек
 Traversing Dusk,Пересекая сумерки
-"Trick. Gain quickness, fury, and swiftness.","Трюк. Даёт проворство, ярость и быстроту."
+"Trick. Gain quickness, fury, and swiftness.","Трюк. Дает проворство, ярость и быстроту."
 Trickster,Трюкач
 Trigger Burst of Shadows at your target's location if it dies while marked.,"Создает взрыв теней под вашей целью, если она умирает отмеченной."
 "Trigger the active portion of Numinous Gift when you invoke a legend while in combat. Triggering Numinous Gift grants boons to allies in an area around you, depending on which legends you have equipped.","Активировать активную часть Нуминозного Дара, когда вы призываете легенду, находясь в бою. Активация Нуминозного Дара даёт благословения союзникам в области вокруг вас, в зависимости от того, какие легенды у вас экипированы."
@@ -170,13 +170,13 @@ Upkeep Threshold,Порог поддержания
 Upper Hand,Преимущество
 "Use ""Shake It Off!"" when you use a healing skill. Removing a damaging condition from an ally heals them.",Используйте «Встряхнись!» при использовании навыка исцеления. Снятие вредоносного состояния с союзника исцеляет его.
 Use Lesser Haste when attacking a foe from behind or from the side or when they are defiant.,"Вы используете Lesser Haste, когда вы атакуете противника со спины или сбоку, или если у противника есть полоса сопротивления."
-Use Lesser Signet of Stone when you use an elite skill. Activating a <c=@abilitytype>Signet</c> grants might and fury.,Используйте «Меньшую печать камня» при использовании элитного навыка. Активация <c=@abilitytype>Печати</c> даёт мощь и ярость.
-Using <c=@abilitytype>Legendary Renegade</c> abilities grants protection to allies near the summoned warband member. Gain increased strike damage whenever you use a <c=@abilitytype>Legendary Renegade</c> skill.,Использование способностей <c=@abilitytype>Легендарного ренегата</c> даёт протекцию союзникам рядом с призванным членом отряда. Получайте увеличенный урон от ударов при каждом использовании навыка <c=@abilitytype>Легендарного ренегата</c>.
+Use Lesser Signet of Stone when you use an elite skill. Activating a <c=@abilitytype>Signet</c> grants might and fury.,Используйте «Меньшую печать камня» при использовании элитного навыка. Активация <c=@abilitytype>Печати</c> дает мощь и ярость.
+Using <c=@abilitytype>Legendary Renegade</c> abilities grants protection to allies near the summoned warband member. Gain increased strike damage whenever you use a <c=@abilitytype>Legendary Renegade</c> skill.,Использование способностей <c=@abilitytype>Легендарного ренегата</c> дает протекцию союзникам рядом с призванным членом отряда. Получайте увеличенный урон от ударов при каждом использовании навыка <c=@abilitytype>Легендарного ренегата</c>.
 Using a <c=@abilitytype>Beast</c> ability grants you offensive boons.,Использование способности <c=@abilitytype>Зверя</c> даёт вам наступательные благословения.
 Using a <c=@abilitytype>Deception</c> skill will create a clone if you have any other clones active.,"Использование навыка <c=@abilitytype>Обмана</c> создаст клона, если у вас есть другие активные клоны."
 Using a <c=@abilitytype>consume</c> skill heals you.,Использование навыка <c=@abilitytype>потребления</c> исцеляет вас.
 Using a <c=@abilitytype>morph</c> skill increases your damage for a duration.,Использование навыка <c=@abilitytype>трансформации</c> увеличивает ваш урон на определенное время.
-Using a <c=@abilitytype>shout</c> grants allies might. Granting an aura to an ally increases your outgoing damage for a period of time.,Использование навыка <c=@abilitytype>крика</c> даёт союзникам мощь. Наложение ауры на союзника увеличивает ваш исходящий урон на определенный период времени.
+Using a <c=@abilitytype>shout</c> grants allies might. Granting an aura to an ally increases your outgoing damage for a period of time.,Использование навыка <c=@abilitytype>крика</c> дает союзникам мощь. Наложение ауры на союзника увеличивает ваш исходящий урон на определенный период времени.
 "Using a <c=@abilitytype>virtue</c> skill recharges radiant weapon skills. Justice recharges hammer, Resolve recharges staff, and Courage recharges sword and shield.","Использование навыка <c=@abilitytype>добродетели</c> перезаряжает навыки лучезарного оружия. Правосудие перезаряжает молот, Решимость перезаряжает посох, а Мужество перезаряжает меч и щит."
 Using a chant reduces the recharge of your other chants and grants boons to affected allies.,Использование песнопения сокращает перезарядку ваших других песнопений и даёт благословения затронутым союзникам.
 Using a heal skill grants might.,Использование навыка исцеления даёт могущество.
@@ -384,7 +384,7 @@ You retain your <c=@abilitytype>facet</c> passives for a duration after using th
 Your <c=@abilitytype>Celestial Avatar</c> skills are offensively augmented. Striking enemies grants additional astral force.,Ваши навыки <c=@abilitytype>Небесного аватара</c> усилены в нападении. Поражение врагов даёт дополнительную астральную силу.
 Your <c=@abilitytype>Shatter</c> skills are improved.,Ваши умения- осколки улучшены. <c=@abilitytype>Раскола</c> улучшены.
 Your <c=@abilitytype>Virtues</c> gain additional pages.,Ваши навыки <c=@abilitytype>Добродетелей</c> получают дополнительные страницы.
-Your <c=@abilitytype>jade sphere</c> is larger and grants quickness and an additional boon based on your current attunement to nearby allies when activated.,"Ваша <c=@abilitytype>нефритовая сфера</c> становится больше и при активации даёт ближайшим союзникам проворство и дополнительное благо, основанное на вашей текущей настройке."
+Your <c=@abilitytype>jade sphere</c> is larger and grants quickness and an additional boon based on your current attunement to nearby allies when activated.,"Ваша <c=@abilitytype>нефритовая сфера</c> становится больше и при активации дает ближайшим союзникам проворство и дополнительное благо, основанное на вашей текущей настройке."
 Your Virtue skill 2 passive also regenerates endurance.,Пассивный эффект от 2-го умения Добродетели также восстанавливает выносливость.
 "Your active attunement is now applied to your main hand, with the old attunement moving to your off hand. Attunement recharges are reduced. Gain access to <c=@abilitytype>Dual Attack</c> and the <c=@abilitytype>Stance</c> utility types.","Ваша активная настройка теперь применяется к основной руке, а старая настройка переходит во вторую руку. Перезарядки настроек сокращены. Открывает доступ к <c=@abilitytype>Двойной атаке</c> и типам вспомогательных навыков <c=@abilitytype>Стойки</c>."
 Your artifacts have increased effectiveness. Beneficial artifact effects last longer.,Эффективность ваших артефактов увеличена. Бонусные эффекты артефактов длятся дольше.
@@ -437,7 +437,7 @@ Your pet recovers health each interval.,Ваш питомец восстанав
 <c=@reminder>Improved attributes are power, condition damage, precision, toughness, and vitality.</c>","Атрибуты вашего питомца улучшены, а навыки питомца получают уменьшение перезарядки.
 <c=@reminder>Улучшенные атрибуты: сила, урон от состояний, точность, стойкость и живучесть.</c>"
 Your phantasms have fury.,Вашим Фантомам даруется Ярость.
-Your pistol and harpoon gun attacks now pierce and have increased strike damage.,"Произвести выстрел, который делает цель уязвимой. Наложить дополнительную уязвимость при выстреле по отмеченной вами цели."
+Your pistol and harpoon gun attacks now pierce and have increased strike damage.,Ваши атаки из пистолета и гарпунного ружья пробивают цели и наносят повышенный прямой урон.
 Your power and healing power are increased while you have regeneration.,"Ваши Сила и сила исцеления увеличиваются, пока у вас есть дар Регенерации."
 Your power is increased. Gain additional power while wielding a greatsword. Your greatsword skills have reduced recharge.,"Ваша Сила увеличена. Вы получаете дополнительную Силу, пока вооружены двуручным мечом. Умения двуручного меча перезаряжаются быстрее."
 "Your power is increased. While in Harbinger Shroud, you gain an aura that pulses each interval to damage and cripple nearby enemies.","Ваша сила увеличена. Находясь в «сумраке предвестника», вы получаете ауру, которая периодически наносит урон и накладывает «Обездвиживание» на ближайших врагов."

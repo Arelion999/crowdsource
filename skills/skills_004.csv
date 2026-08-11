@@ -14,7 +14,7 @@ Blind Radius,Радиус ослепления
 Blind all nearby foes.,Ослепить всех противников поблизости.
 Blind and confuse nearby foes while you gain chaos aura. <c=@reminder>Chaos aura grants you a random boon and inflicts your foe with a random condition whenever you are struck.</c>,"Ослепляет и сбивает с толку ближайших врагов, пока вы получаете ауру хаоса. <c=@reminder>Аура хаоса дарует случайное благословение и накладывает случайное состояние при получении урона.</c>"
 Blind foes near your target with a dark cloud.,Ослепляет врагов рядом с целью тёмным облаком.
-Blind nearby foes.,"Ослепить противников вспышкой света. Кроме того, противники с уязвимостью будут ослаблены."
+Blind nearby foes.,Ослепляет ближайших врагов.
 Blind your foe with superheated water.,Ослепить противника перегретой водой.
 Blind your foes with a flash of light. Vulnerable foes are also weakened.,"Ослепить противников вспышкой света. Кроме того, противники с уязвимостью будут ослаблены."
 Blinded,Ослепление
@@ -28,7 +28,7 @@ Blinding Slash,Ослепляющий удар
 Blinding Tide,Ослепляющий прилив
 Blinding Tuft,Ослепляющий пучок
 "Blinds and burns all players, damaging allies around them.","Ослепляет и сжигает всех игроков, нанося урон союзникам вокруг них."
-Blinds and knocks foes back.,"Приказать вашему голему из плоти даровать себе Устойчивость и напасть на противника, сбивая с ног или отбрасывая противников у себя на пути."
+Blinds and knocks foes back.,Ослепляет и отбрасывает врагов.
 Blink,Скачок
 Blitz Mines,Мины-блиц
 Blizzard,Метель
@@ -83,7 +83,7 @@ Bluster,Шквал
 Body Slam,Удар телом
 Body of Flame,Тело пламени
 Boil,Кипение
-Boil the water around your foe.,Довести до кипения воду вокруг вашего противника.
+Boil the water around your foe.,Вскипятить воду вокруг противника.
 Boiling Aether,Кипящий эфир
 Bola Shot,Выстрел бола
 Bolt Break,Разрыв молнии
@@ -186,7 +186,7 @@ Buoyancy,Плавучесть
 Buoyant Deluge,Плавучий потоп
 Burgeon,Расцвет
 Burn enemies.,Наложите горение на врагов.
-Burn nearby foes.,Поджечь противников в выбранной области.
+Burn nearby foes.,Поджигает ближайших врагов.
 Burn your foe with a blazing bullet.,Поджечь противника пылающей пулей.
 Burning,Горение
 Burning Crucible,Пылающий тигель
@@ -218,7 +218,7 @@ Call Lightning,Призыв молнии
 Call Meteor,Призыв метеора
 Call Owl,Призыв совы
 Call Wurm,Призыв червя
-Call down a firestorm on the target area.,Создать огненную бурю в выбранной области.
+Call down a firestorm on the target area.,Обрушить огненный шторм на выбранную область.
 Call down a growing column of shadows that damages and applies conditions to foes every pulse. The initial strike blinds foes and converts their boons into conditions. Gain life force while inside the area.,"Обрушить вниз разрастающийся столб теней, который периодически наносит урон противникам и накладывает на них состояния. Начальный удар ослепляет противников и превращает лежащие на них дары в состояния. Получать жизненную силу, пока вы находитесь в этой области."
 "Call down a healing rain on the target area, granting regeneration to allies and curing conditions once every three seconds. Allies are healed for each condition removed.","Обрушьте целительный дождь на целевую область, даруя союзникам регенерацию и снимая состояния раз в три секунды. Союзники исцеляются за каждое снятое состояние."
 "Call down a meteor shower onto the target area.
@@ -228,7 +228,7 @@ Call down a supply drop of med packs into a target area.,Вызвать выбр
 "Call down an artillery barrage at target location, damaging foes.","Обрушьте артиллерийский огонь по целевой области, нанося урон врагам."
 Call down an ice storm on the targeted area. The number of final ice shards are increased for each stack of Water Arrow.Damage is reduced per target each time foes are struck by this skill.,Обрушьте ледяной шторм на целевую область. Количество финальных ледяных осколков увеличивается за каждый заряд Водяной стрелы.Урон по каждой цели снижается при каждом попадании этого навыка.
 Call down energy from the sky to blast an area.,Вызвать удар зарядом энергии с неба по выбранной области.
-Call down lightning on a disabled foe.,"Вы используете Lightning Rod, когда выводите противника из строя. Вывод из строя: оглушение, ошеломление, отталкивание, притягивание, нокдаун, погружение, всплытие, отбрасывание, провокация и страх."
+Call down lightning on a disabled foe.,Призовите молнию на оглушенного врага.
 Call hawks to swarm your foe.,"Призвать ястребов, которые набрасываются на вашего противника."
 Call in members of your warband to assist you.,Призовите членов вашего отряда на помощь.
 Call of Storms,Зов штормов
@@ -245,7 +245,7 @@ Call upon an owl to attack and bleed your foe.,"Призовите сову, ч�
 Call upon the fury of Balthazar to annihilate foes.,"Призовите ярость Balthazar, чтобы уничтожить врагов."
 Call upon the power of Dwayna to smite foes.,"Призовите силу Dwayna, чтобы поразить врагов."
 Call your allies for help. Restores health while you channel it.,"Позвать на помощь своих союзников. Восстанавливает здоровье, пока вы используете это умение."
-Calls lightning to a small area.,"Провести заключительную атаку, обрушив на противников удары молний."
+Calls lightning to a small area.,Призвать молнию в небольшую область.
 Caltrops,Шипы
 Caltrops Duration,Длительность шипов
 Canach-Coin Toss,Подбрасывание монеты Канаха
@@ -255,7 +255,7 @@ Cannon Barrage,Пушечный залп
 Cannot Critical Hit,Не может нанести критический удар
 "Cannot be knocked down, pushed back, pulled, launched, stunned, dazed, floated, sunk, feared, or taunted.","Невозможно сбить с ног, оттолкнуть, притянуть, подбросить, оглушить, ошеломить, погрузить, запугать или спровоцировать."
 Capture Line,Линия захвата
-"Cardinal Sabir channels electricity into his hands, launching chain lightning at his foes.",Поразить нескольких противников дуговыми разрядами молний.
+"Cardinal Sabir channels electricity into his hands, launching chain lightning at his foes.","Cardinal Sabir направляет электричество в руки, выпуская цепную молнию по врагам."
 "Cardinal Sabir follows up his right-hand swing with a left swing, dealing damage in an arc.","Cardinal Sabir продолжает взмах правой рукой взмахом левой, нанося урон по дуге."
 "Cardinal Sabir swings his right-hand sword, sending out electrical projectiles in an arc.","Cardinal Sabir взмахивает мечом в правой руке, выпуская электрические снаряды по дуге."
 Carnivore,Плотоядный
@@ -265,7 +265,7 @@ Cast a shatterstone that will explode at the target area.,"Создать обл
 Cast a vapor blade that inflicts vulnerability and returns to you.,"Создать лезвие из пара, которое накладывает уязвимость и возвращается к вам."
 Cast a water trident that damages foes. Deal more damage to chilled foes and heal for each target struck. <c=@reminder>Heal for a lesser amount for each target struck beyond the first.</c>,"Призовите водный трезубец, наносящий урон врагам. Наносит больше урона охлаждённым врагам и лечит за каждую поражённую цель. <c=@reminder>Лечит в меньшей степени за каждую следующую цель после первой.</c>"
 Cast air spells.,Применяет заклинания воздуха.
-Cast an arc of electricity at your foe.,Поразить своего противника дуговой молнией.
+Cast an arc of electricity at your foe.,Выпуск дуги электричества во врага.
 Cast earth spells.,Применяет заклинания земли.
 Cast fire spells.,Применяет заклинания огня.
 Cast out a towline and drag your foe toward you.,Выпустить буксирный канат и притянуть к себе противника.
@@ -276,8 +276,8 @@ Cause the surrounding magnetic aura to violently explode.,Заставить о�
 "Cause your frost aura to violently explode, healing allies and damaging foes.","Вызывает мощный взрыв вашей ледяной ауры, исцеляя союзников и нанося урон врагам."
 "Cause your shocking aura to violently explode, stunning enemies who are struck by it.","Вызывает мощный взрыв вашей шокирующей ауры, оглушая пораженных врагов."
 Causes Abyssal Raze to have increased effect for each stack. Unleashes an Abyssal Raze when swapping weapons at maximum stacks.,Увеличивает эффект Бездонного Разрушения за каждый стак. Высвобождает Бездонное Разрушение при смене оружия на максимальных стаках.
-Causes an eruption that imprisons the target and nearby enemies.,"Выпустить снаряд из пара, который взрывается, если ударяется о землю или попадает во врага, исцеляя союзников и нанося урон противникам в области взрыва. Исцелить себя, если вы попали во врага."
-Causes an eruption that imprisons the target and nearby enemies. Can be dispelled using a bloodstone shard.,"Выпустить снаряд из пара, который взрывается, если ударяется о землю или попадает во врага, исцеляя союзников и нанося урон противникам в области взрыва. Исцелить себя, если вы попали во врага."
+Causes an eruption that imprisons the target and nearby enemies.,"Вызывает извержение, которое заключает в тюрьму цель и ближайших врагов."
+Causes an eruption that imprisons the target and nearby enemies. Can be dispelled using a bloodstone shard.,"Вызывает извержение, которое заключает в тюрьму цель и ближайших врагов. Может быть развеяно с помощью осколка кровавого камня."
 Causes heavy damage and applies conditions.,Наносит тяжёлый урон и накладывает состояния.
 Causes instant death.,Вызывает мгновенную смерть.
 Causes instant death. Negated by having a champion blessed with Exile's Embrace.,"Вызывает мгновенную смерть. Нейтрализуется наличием чемпиона, благословленного Exile's Embrace."
@@ -349,7 +349,7 @@ Charge a lightning surge that damages and blinds foes near your target when it d
 Charge and strike your foe.,Бросьтесь вперёд и ударьте врага.
 "Charge at your enemy, knocking them down.","Бросьтесь на врага, сбивая его с ног."
 "Charge at your foe, leaving a line of fire behind you.","Бросьтесь на врага, оставляя за собой линию огня."
-Charge at your target.,"Приказать вашему голему из плоти даровать себе Устойчивость и напасть на противника, сбивая с ног или отбрасывая противников у себя на пути."
+Charge at your target.,Броситься на вашего противника.
 "Charge forward with tidal force, damaging foes and healing allies.","Бросьтесь вперёд с силой прилива, нанося урон врагам и исцеляя союзников."
 "Charge forward with your spear, striking enemies and healing allies you pass through. Upon striking an enemy, your next spear attack is illuminated.","Бросайтесь вперёд с копьём, поражая врагов и исцеляя союзников, через которых вы проходите. При поражении врага ваша следующая атака копьём становится «Озаренной»."
 "Charge forward, knocking back enemies that cross your path.","Бросайтесь вперёд, отбрасывая врагов, преграждающих ваш путь."
@@ -362,7 +362,7 @@ Charge up a ball of blue flame and launch it at your enemies. Enemies it hits ar
 Charge up and release a burst of torment energy on nearby foes.,Зарядитесь и высвободите всплеск энергии боли по ближайшим врагам.
 "Charge up energy, creating a powerful attack that pierces through enemies.","Зарядите энергию, создавая мощную атаку, которая пронзает врагов."
 "Charge your foe, striking multiple times and inflicting bleeding.","Бросайтесь на врага, нанося несколько ударов и вызывая кровотечение."
-Charge your foes and knock them down.,Прыгнуть к противнику и сбить его с ног.
+Charge your foes and knock them down.,Напасть на противника и сбить его с ног.
 Charged Ground,Заряженная земля
 Charged Shot,Заряженный выстрел
 Charged Strike,Заряженный удар

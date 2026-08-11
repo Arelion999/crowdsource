@@ -29,7 +29,7 @@ Shadowstep to your foe and steal from them.,Сделать Призрачный 
 Shadowstep to your target and deliver a dazing strike. Gain superspeed if you interrupt an enemy.,"Сделать Призрачный Шаг к цели и нанести ошеломляющий удар. Получить сверхскорость, если вы прервали противника."
 "Shadowstep to your target, appearing in a blast of necrotic energy. Daze enemies near your arrival point.","Теневой шаг к цели, появление во вспышке некротической энергии. Ошеломляет врагов рядом с точкой появления."
 "Shadowsteps to its target, then strikes to apply knockdown and Vampiric Infection.","Теневой шаг к цели, затем удар, накладывающий нокдаун и Вампирическую инфекцию."
-Shadowy bolt that poisons the target.,"Выстрелить снарядом, который вредит противникам и помогает союзникам. Вражеская цель: Причинить противникам боль. Союзная цель: Снаряды находят союзников и дают им барьер. Эффективность снижена для союзников, не являющихся основной целью."
+Shadowy bolt that poisons the target.,"Теневой снаряд, отравляющий цель."
 Shake It Off,Стряхнуть
 Shake the ground until it erupts and damages foes.,"Встряхивать землю до тех пор, пока не начнется извержение, наносящее урон противникам."
 "Shake, removing conditions from nearby allies.","Стряхните, снимая состояния с ближайших союзников."
@@ -198,7 +198,7 @@ Siphon health from enemies on hit.,Вытягивает здоровье из в
 Siphon health from nearby enemies when you gain a dark aura. Siphon healing is reduced for each target struck beyond the first.,"Вытягивает здоровье из ближайших врагов, когда вы получаете тёмную ауру. Лечение от вытягивания снижается для каждой цели, пораженной сверх первой."
 Siphon health from your foe. Healing effectiveness increases if you are bleeding. Damage increases if your foe is bleeding.,"Вытягивает здоровье из вашего врага. Эффективность исцеления увеличивается, если у вас кровотечение. Урон увеличивается, если у вашего врага кровотечение."
 "Siphon life from targets struck by Perforate. Damage is increased against enemies below the health threshold, and healing is increased while you are below the health threshold.","Высасывает жизнь из целей, поражённых Пронзанием. Урон увеличивается против врагов ниже порога здоровья, а исцеление увеличивается, пока вы ниже порога здоровья."
-Siphons health from foes.,"Вызвать у себя кровотечение и вытянуть здоровье у противника. Урон увеличивается, если противник кровоточит."
+Siphons health from foes.,Вытягивает здоровье из врагов.
 Siphons life from targets.,Вытягивает жизнь из целей.
 Siphons target's health.,Вытягивает здоровье цели.
 Skelk Venom,Яд скелка
@@ -227,9 +227,9 @@ Slam your foe with your tail.,Шлепнуть противника своим �
 "Slam your radiant staff into the ground, granting boons to allies and creating a symbol.","Ударьте сияющим посохом о землю, даруя благословения союзникам и создавая символ."
 "Slams down a molten fist, sending out a cascade of volcanic geysers.","Обрушивает расплавленный кулак, вызывая каскад вулканических гейзеров."
 Slash,Рассечение
-Slash a foe multiple times and make them bleed.,Атаковать противника с силой медведя. Ваш питомец получает атаку при удобном случае.
+Slash a foe multiple times and make them bleed.,Порезать противника несколько раз и вызвать у него кровотечение.
 "Slash across your foe, poisoning them.","Рассеките врага, отравляя его."
-Slash at enemies again with Mists energy. Grant boons to allies after striking an enemy.,Ещё раз порезать противников энергией Туманов. Дать союзникам дары после удара по противнику.
+Slash at enemies again with Mists energy. Grant boons to allies after striking an enemy.,Еще раз порезать противников энергией Туманов. Дать союзникам дары после удара по противнику.
 Slash at your foe. This attack restores endurance if it hits.,"Порезать вашего противника. Эта атака восстанавливает выносливость, если попадает в цель."
 "Slash at your target, bleeding them four times.","Рассеките цель, вызывая у неё кровотечение четыре раза."
 "Slash at your target, bleeding them twice.","Рассеките цель, вызывая у неё кровотечение дважды."
@@ -261,7 +261,7 @@ Slow,Замедление
 Slow Burn,Медленное горение
 Slowing Thump,Замедляющий удар
 Smack,Шлепок
-Smack your foe to knock them down.,"Приготовиться к мощному удару, который собьёт противника с ног."
+Smack your foe to knock them down.,"Шлепнуть противника, чтобы сбить его с ног."
 Smack your foe with the magnetic shield.,Хлопнуть по противнику магнитным щитом.
 Small Explosion,Маленький взрыв
 Small Shot,Маленький выстрел
@@ -478,7 +478,7 @@ Steal Resistance,Кража сопротивления
 Steal Strength,Кража силы
 Steal Time,Кража времени
 Steal Warmth,Кража тепла
-Steal health from a disabled foe.,"Похитить у противников здоровье, когда вы или ваш питомец выводите их из строя. Вывод из строя: оглушение, ошеломление, отталкивание, притягивание, нокдаун, погружение, всплытие, отбрасывание, провокация и страх."
+Steal health from a disabled foe.,Кража здоровья у обездвиженного врага.
 Stealth,Маскировка
 Stealth into the depths.,Скрыться в невидимости на глубине.
 Steam,Пар

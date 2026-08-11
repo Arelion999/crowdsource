@@ -141,7 +141,7 @@ Release a current of water to damage foes and regenerate allies.,"Высвобо
 Release a disembodied hand to draw life force from your foe.,"Выпустить отделенную от тела руку, чтобы вытянуть жизненную силу из ваших противников."
 "Release a fiery phoenix that attacks foes in a line before exploding and returning to you, curing a condition and granting you vigor. Inflict additional burning against foes that are already burning.","Высвобождает огненного феникса, который атакует врагов по линии, прежде чем взорваться и вернуться к вам, снимая состояние и даруя вам энергичность. Наносит дополнительный урон горением врагам, которые уже горят."
 Release a fiery torrent that burns enemies.,"Выпустить огненный поток, который поджигает противников."
-Release a hail of arrows toward your target and enemies nearby them.,Выпустить град стрел в вашу цель и противников вокруг неё.
+Release a hail of arrows toward your target and enemies nearby them.,Выпустить град стрел в вашу цель и противников вокруг нее.
 Release a mist of healing liquid to regenerate nearby allies.,"Выпустить пары исцеляющего раствора, который дарует Регенерацию союзникам поблизости."
 Release a rapid volley of arrows.,Выпустить залп стремительных стрел.
 Release a shock wave of inertial force to damage nearby foes.,"Выпустить инерционную шоковую волну, которая наносит урон противникам поблизости."
@@ -167,7 +167,7 @@ Relentless Fire,Неумолимый огонь
 Relentless Whirl,Неумолимый вихрь
 Relinquish Power,Отказ от силы
 Remove Avatar of Melandru,Удалить аватар Меландру
-"Remove conditions and gain swiftness, then rush forward and evade attacks.","Снимает состояния и даёт быстроту, затем совершает рывок вперёд, уклоняясь от атак."
+"Remove conditions and gain swiftness, then rush forward and evade attacks.","Снимает состояния и дает быстроту, затем совершает рывок вперед, уклоняясь от атак."
 Remove conditions from allies.,Снимает состояния с союзников.
 Remove conditions from you and nearby allies.,Снять состояния с себя и с союзников поблизости.
 Remove conditions from yourself then breathe magical flames that damage foes and cure conditions on allies. Inflicts burning on the final attack.,"Снять с себя состояния, а затем выдохнуть магическое пламя, которое наносит урон противникам и снимает состояния с союзников. Поджечь при последней атаке."
@@ -343,7 +343,7 @@ Sacrifice your blood fiend to heal yourself.,"Пожертвуйте своим 
 "Sacrifice your flesh wurm, teleport to it, and poison foes.","Пожертвуйте своим плотским червем, телепортируйтесь к нему и отравите врагов."
 Saint of zu Heltzer,Святой цу Хельцер
 Saint's Shield,Щит святого
-"Samarog claws at the target, attempting to rend flesh from bone.",Терзать врага острыми когтями.
+"Samarog claws at the target, attempting to rend flesh from bone.","Samarog царапает цель, пытаясь содрать плоть с костей."
 "Samarog is so massively intimidating, it hurts. A lot and often.","Samarog настолько пугающе внушителен, что это больно. Очень и часто."
 "Samarog rushes to a safe place, damaging and launching anyone in the way.","Samarog бросается в безопасное место, нанося урон и подбрасывая всех на своем пути."
 "Samarog slams both spears down in an arcing overhead smash, damaging and knocking down targets.","Samarog обрушивает оба копья в дугообразном ударе сверху, нанося урон и сбивая цели с ног."
@@ -448,10 +448,10 @@ Self-Healing,Самоисцеление
 Self-Stun,Оглушение себя
 Selfish Spirit,Эгоистичный дух
 Selfless Spirit,Бескорыстный дух
-Send a blade of energy at your target. Hitting the same target multiple times invokes a flurry of blades on your target.,Бросить в вашу цель клинок из энергии. Несколько попаданий по одной и той же цели обрушит на неё шквал клинков.
+Send a blade of energy at your target. Hitting the same target multiple times invokes a flurry of blades on your target.,Бросить в вашу цель клинок из энергии. Несколько попаданий по одной и той же цели обрушит на нее шквал клинков.
 Send a devouring surge toward your enemy.,Послать в вашего врага пожирающую волну.
 Send a wave of necrotic energy cascading toward your target. Gain life force if you hit an enemy. Reactivate this skill to inflict additional damage on all targets hit by the wave.,"Выслать к цели волну некротической энергии. Получить жизненную силу, если вы нанесли урон противнику. Повторно активировать это умение, чтобы нанести дополнительный урон всем целям, пораженным волной."
-Send a wave toward your foe that immobilizes foes in a line. Gain barrier for each target struck. Barrier is reduced for each target struck beyond the first.,"Запустить в вашего противника волну, которая обездвиживает противников по пути вперёд. Получить барьер за каждую пораженную цель. Величина барьера снижается за каждую цель, пораженную после первой."
+Send a wave toward your foe that immobilizes foes in a line. Gain barrier for each target struck. Barrier is reduced for each target struck beyond the first.,"Запустить в вашего противника волну, которая обездвиживает противников по пути вперед. Получить барьер за каждую пораженную цель. Величина барьера снижается за каждую цель, пораженную после первой."
 "Send a wisp to attach to your target. While attached, it will circle the target, healing nearby allies.","Отправьте огонек, чтобы он прикрепился к цели. Пока он прикреплен, он будет кружить вокруг цели, исцеляя союзников поблизости."
 "Send an unblockable fragment of Razah toward the targeted area. When the fragment reaches its target, shadowstep to its position, dealing damage to enemies in the area. If it hits, you can use this skill up to two more times with no energy cost or casting time.","Отправьте неблокируемый фрагмент Razah в указанную область. Когда фрагмент достигнет цели, совершите теневой шаг к его позиции, нанося урон врагам в области. При попадании вы можете использовать этот навык ещё до двух раз без затрат энергии и времени на применение."
 Send distressing thoughts to your enemy to torment them.,"Внушить противникам тревожные мысли, вызывающие у них боль."
@@ -469,7 +469,7 @@ Send out waves of attacks that strike multiple targets.,"Провести шкв
 "Send the energy of Glint toward the target area, releasing a burst of energy that heals allies and grants boons.","Направить энергию Глинта в целевую область, высвободив поток энергии, исцеляющий союзников и дарующий благотворные эффекты."
 Sends a wave of cascading energy across the platform. This attack can be jumped.,Отправляет волну каскадной энергии через платформу. Через эту атаку можно перепрыгнуть.
 "Sends forth a cascade of icy spikes, dealing damage.","Выпускает каскад ледяных шипов, нанося урон."
-Sends shocks that interrupt skills.,"Зарядить воду вокруг вашего противника электричеством. Противники, которые активируют умения, будут ошеломлены."
+Sends shocks that interrupt skills.,"Посылает разряды, прерывающие навыки."
 Separate from your pet.,Отделиться от питомца.
 Serene Slash,Безмятежный удар
 Serpent Siphon,Змеиный сифон

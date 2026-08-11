@@ -39,7 +39,7 @@ Strike Interval,Интервал удара
 Strike a nearby foe with a massive swipe.,Поразите ближайшего врага мощным взмахом.
 "Strike all nearby foes, then release a burst of mist energy that deals a second strike. The second strike deals bonus damage if it hits only one enemy.","Поразите всех ближайших врагов, затем выпустите всплеск энергии тумана, наносящий второй удар. Второй удар наносит бонусный урон, если поражает только одного врага."
 "Strike an enemy and draw water from them, causing them to deliver a healing burst to your allies.","Ударьте врага и вытяните из него воду, заставляя его выпустить исцеляющий всплеск для ваших союзников."
-Strike at foes in front of you and launch a blade of light at your target. Launch extra blades based on your heat level. Each blade inflicts conditions.,Нанести удар противникам перед вами и бросить два световых клинка в вашу цель. Каждый клинок накладывает состояния.
+Strike at foes in front of you and launch a blade of light at your target. Launch extra blades based on your heat level. Each blade inflicts conditions.,Нанести удар противникам перед вами и бросить световой клинок в вашу цель. Бросить дополнительные клинки в зависимости от вашего уровня нагрева. Каждый клинок накладывает состояния.
 Strike at foes in front of you and launch two blades of light at your target. Each blade inflicts conditions.,Нанести удар противникам перед вами и бросить два световых клинка в вашу цель. Каждый клинок накладывает состояния.
 "Strike at foes in front of you with your shadow magic, inflicting conditions. Nearby allies and your tethered ally gain health for each enemy struck.","Ударьте врагов перед собой магией тени, накладывая состояния. Близлежащие союзники и ваш связанный союзник восстанавливают здоровье за каждого пораженного врага."
 "Strike deeply into your foe, inflicting multiple conditions.","Нанесите глубокий удар по врагу, накладывая несколько состояний."
@@ -55,7 +55,7 @@ Strike foes in front of you with a storm of jabs.,Обрушить на прот
 "Strike nearby enemies, inflicting cripple. Gain barrier for each target struck. <c=@reminder>Barrier is reduced for each target struck beyond the first.</c>","Ударьте по ближайшим врагам, накладывая калечение. Получите барьер за каждую пораженную цель. <c=@reminder>Барьер уменьшается за каждую пораженную цель после первой.</c>"
 "Strike nearby enemies, inflicting damage. Deals increased damage to disabled or defiant enemies.
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Наносит урон ближайшим врагам. Наносит увеличенный урон ослабленным или находящимся в состоянии защиты врагам.
-<c=@reminder>Ослабление включает оглушение, дезориентацию, отбрасывание, притягивание, нокдаун, погружение, подъём, отталкивание, насмешку и страх.</c>"
+<c=@reminder>Ослабление включает оглушение, дезориентацию, отбрасывание, притягивание, нокдаун, погружение, подъем, отталкивание, насмешку и страх.</c>"
 "Strike nearby foes and begin to store up energy, gaining boons and heat each pulse. After charging, the energy explodes, inflicting conditions on nearby foes.","Поразите ближайших врагов и начните накапливать энергию, получая благословения и нагрев с каждым импульсом. После зарядки энергия взрывается, накладывая состояния на ближайших врагов."
 "Strike nearby foes with your radiant hammer, dealing increased damage against foes that are disabled.","Поразите ближайших врагов своим сияющим молотом, нанося увеличенный урон врагам, находящимся под эффектами контроля."
 "Strike nearby foes, pushing them back.","Поразите ближайших врагов, отталкивая их."
@@ -67,12 +67,12 @@ Strike your enemies and unleash a wave that heals allies.,"Ударить про
 Strike your enemies with deadly force.,Ударить противников со смертельной силой.
 Strike your enemies with your staff.,Ударить противников посохом.
 Strike your foe again and inflict vulnerability.,Снова ударить противника и сделать его уязвимым.
-Strike your foe again and inflict vulnerability. This attack deals more damage based on your heat level.,Снова ударить противника и сделать его уязвимым.
+Strike your foe again and inflict vulnerability. This attack deals more damage based on your heat level.,Снова ударить противника и сделать его уязвимым. Урон увеличивается в зависимости от вашего уровня нагрева.
 Strike your foe and gain life force.,Ударить противника и получить жизненную силу.
 Strike your foe and inflict Poison.,Ударить вашего противника и отравить его.
 Strike your foe and inflict vulnerability.,Ударить противника и сделать его уязвимым.
-Strike your foe and inflict vulnerability. This attack deals more damage based on your heat level.,Ударить противника и сделать его уязвимым.
-Strike your foe from the shadows.,"Прыгнуть и провести удар, наносящий повышенный урон противникам, которые выведены из строя, имеют полосу сопротивления или ограничены в передвижении. Даровать себе Энергичность при попадании."
+Strike your foe and inflict vulnerability. This attack deals more damage based on your heat level.,Ударить противника и сделать его уязвимым. Урон увеличивается в зависимости от вашего уровня нагрева.
+Strike your foe from the shadows.,Ударьте врага из теней.
 "Strike your foe multiple times, then deliver a final immobilizing attack.","Ударьте врага несколько раз, затем нанесите финальный обездвиживающий удар."
 Strike your foe repeatedly with a shadowy assault. Evades while active.,Нанести противнику повторяющиеся удары в призрачном нападении. Уклониться при активации.
 Strike your foe with a final powerful thrust that does extra damage and inflicts bleeding against foes below the health threshold.,"Ударьте врага финальным мощным выпадом, который наносит дополнительный урон и накладывает кровотечение на врагов с уровнем здоровья ниже порогового."
@@ -85,7 +85,7 @@ Strike your foe with shocking force.,Ударить противника с шо
 "Strike your foe, charging them with static and causing lightning to strike repeatedly for a short period of time.","Ударьте врага, зарядив его статическим электричеством и заставляя молнии неоднократно бить в него в течение короткого периода времени."
 "Strike your foe, refreshing your focus and bleeding your target. Inflict vulnerability if your target is focused.","Ударьте врага, обновляя свою концентрацию и вызывая кровотечение у цели. Наложите уязвимость, если ваша цель сфокусирована."
 Strike your foes repeatedly. Enemies hit by all strikes become chilled.,"Ударить противников несколько раз подряд. Враги, пораженные всеми ударами, будут заморожены."
-Strike your foes with empowered energy. Deals increased damage based on attacks blocked by Imperial Guard.,Ударить вашего противника.
+Strike your foes with empowered energy. Deals increased damage based on attacks blocked by Imperial Guard.,"Поразить противников мощной энергией. Нанесенный урон будет увеличен пропорционально числу атак, заблокированных умением Императорский страж."
 Strike your foes with lightning.,Ударить противников молнией.
 Strike your opponent with your serrated blade.,Ударить противника зазубренным клинком.
 Strike your target and remove boons. Damage and boon removal are increased against foes not using skills.,"Нанесите удар по цели и снимите с неё благословения. Урон и снятие благословений увеличиваются против врагов, не использующих навыки."
@@ -140,7 +140,7 @@ Summon a D-Series defensive golem.,Призывает защитного гол�
 Summon a Druid Spirit to fight at your side.,"Призвать духа друида, чтобы он сражался на вашей стороне."
 Summon a Mistfire Wolf to fight at your side.,"Призовите волка Туманного огня, чтобы он сражался на вашей стороне."
 Summon a Power Suit which you or your allies can enter and use to combat enemies.,"Призвать силовой костюм, в который можете войти вы или ваши союзники, чтобы сражаться с врагами."
-Summon a massive hammer from the Mists to strike the ground. Recharge Coalescence of Ruin if you strike an enemy.,"Призвать из Туманов огромный молот, который бьёт по земле. Если вы нанесли противнику урон, умение Слияние разорения будет перезаряжено."
+Summon a massive hammer from the Mists to strike the ground. Recharge Coalescence of Ruin if you strike an enemy.,"Призвать из Туманов огромный молот, который бьет по земле. Если вы нанесли противнику урон, умение Слияние разорения будет перезаряжено."
 Summon a meteor to strike a random enemy.,"Призвать метеор, который поразит случайного врага."
 "Summon a projectile of air that circles around you, damaging foes. While this projectile is active, your chance to critically strike is increased. <c=@reminder>Summoning a circular projectile refreshes the duration of all other circular projectiles.</c>","Призвать снаряд воздуха, кружащийся вокруг вас и наносящий урон врагам. Пока этот снаряд активен, ваш шанс критического удара повышен. <c=@reminder>Призыв кругового снаряда обновляет длительность всех остальных круговых снарядов.</c>"
 "Summon a projectile of earth that circles around you, damaging foes. While this projectile is active, you take reduced damage from strikes. <c=@reminder>Summoning a circular projectile refreshes the duration of all other circular projectiles.</c>","Призвать снаряд земли, кружащийся вокруг вас и наносящий урон врагам. Пока этот снаряд активен, вы получаете уменьшенный урон от ударов. <c=@reminder>Призыв кругового снаряда обновляет длительность всех остальных круговых снарядов.</c>"
@@ -150,7 +150,7 @@ Summon a school of undead fish to swarm your foe.,"Призвать косяк �
 Summon a skritt to pilfer artifacts.,"Призвать скритта, чтобы похитить артефакты."
 "Summon a swirling spore cloud around your pet, destroying projectiles and chilling disabled or defiant enemies.
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Создайте вокруг своего питомца вращающееся облако спор, уничтожающее снаряды и замораживающее обездвиженных или сопротивляющихся врагов.
-<c=@reminder>Обездвиживание включает в себя оглушение, дезориентацию, отбрасывание, притягивание, нокдаун, погружение, подъём, подброс, насмешку и страх.</c>"
+<c=@reminder>Обездвиживание включает в себя оглушение, дезориентацию, отбрасывание, притягивание, нокдаун, погружение, подъем, подброс, насмешку и страх.</c>"
 Summon a sylvan hound to fight at your side.,"Призвать лесную гончую, чтобы она сражалась на вашей стороне."
 Summon a well of blood to heal nearby allies.,"Призвать колодец крови, чтобы исцелить ближайших союзников."
 Summon a wurm to fight for you.,"Призвать червя, чтобы он сражался за вас."
@@ -192,7 +192,7 @@ Surging Flames,Всплеск пламени
 Surging Maw,Всплеск пасти
 Surprise Shot,Внезапный выстрел
 Surrender,Сдаться
-Surrounded by a dark aura that reduces incoming condition damage and causes torment each time you are struck (1-second cooldown per attacker).,"Окружен тёмной аурой, которая снижает входящий урон от состояний и накладывает боль каждый раз, когда вас атакуют (перезарядка 1 секунда для каждого атакующего)."
+Surrounded by a dark aura that reduces incoming condition damage and causes torment each time you are struck (1-second cooldown per attacker).,"Окружен темной аурой, которая снижает входящий урон от состояний и накладывает боль каждый раз, когда вас атакуют (перезарядка 1 секунда для каждого атакующего)."
 Swap,Смена
 Swap places with your clone. Immobilize nearby foes.,Обменяться местами с вашим клоном. Обездвижить противников поблизости.
 "Swap places with your shadow flare, causing it to detonate and deal damage to enemies at your original location. Deals increased damage to your marked target.","Поменяйтесь местами со своей теневой вспышкой, заставляя её взорваться и нанести урон врагам в вашей исходной точке. Наносит увеличенный урон вашей помеченной цели."
@@ -214,7 +214,7 @@ Swing a holographic blade.,Взмахнуть голографическим к�
 Swing at enemies with your greatsword.,Махнуть двуручным мечом по вашим противникам.
 "Swing your greatsword again, inflicting vulnerability.","Снова взмахните двуручным мечом, накладывая уязвимость."
 Swing your mace at your foe.,Взмахнуть булавой и ударить противника.
-"Swing your spear in a circle, dealing increased damage to foes in the outer edge. Striking with the outer edge will always deal a critical hit. Create a clone and gain Clarity if you hit an enemy. If you are empowered, gain might.","Взмахните копьём по кругу, нанося увеличенный урон врагам на внешнем крае. Удар внешним краем всегда наносит критический урон. Создайте клона и получите Ясность при попадании по врагу. Если вы усилены, получите мощь."
+"Swing your spear in a circle, dealing increased damage to foes in the outer edge. Striking with the outer edge will always deal a critical hit. Create a clone and gain Clarity if you hit an enemy. If you are empowered, gain might.","Взмахните копьем по кругу, нанося увеличенный урон врагам на внешнем крае. Удар внешним краем всегда наносит критический урон. Создайте клона и получите Ясность при попадании по врагу. Если вы усилены, получите мощь."
 "Swing your spear, inflicting bleeding. Inflict vulnerability if your target is focused.","Взмахните копьём, накладывая кровотечение. Наложите уязвимость, если ваша цель сфокусирована."
 "Swing your spear, sending out a wave of light in front of you that damages enemies and heals allies.","Взмахните копьём, посылая перед собой волну света, которая наносит урон врагам и исцеляет союзников."
 "Swing your spear. If your enemy is far away, throw your spear instead.","Взмахните копьём. Если враг далеко, вместо этого метните копьё."
@@ -231,7 +231,7 @@ Swirling Winds,Вихревые ветры
 Swirling darkness damages and cripples enemies caught within it.,"Вихревая тьма наносит урон и накладывает увечье на врагов, попавших в неё."
 Swirling shadows rip targets apart as they are pulled toward the center of the rift.,"Вихревые тени разрывают цели, притягивая их к центру разлома."
 Swoop,Пикирование
-Swoop at a target.,"Подбежать и прыгнуть к противнику, ударив его и противников поблизости."
+Swoop at a target.,Пикируйте на цель.
 "Swoop at your foe, making them vulnerable.","Пикируйте на врага, делая его уязвимым."
 Sword Arc,Дуга меча
 Sword Radius,Радиус меча
@@ -344,7 +344,7 @@ Terrifying Howl,Устрашающий вой
 Terrorstorm,Шторм ужаса
 Test of Faith,Испытание веры
 Tether Distance,Дистанция привязи
-"Tether yourself to your target. If they move beyond the range threshold, pull them to you. Grants might and reveals your target every second.","Привяжите себя к цели. Если она выйдёт за пределы радиуса действия, притяните её к себе. Дарует мощь и раскрывает вашу цель каждую секунду."
+"Tether yourself to your target. If they move beyond the range threshold, pull them to you. Grants might and reveals your target every second.","Привяжите себя к цели. Если она выйдет за пределы радиуса действия, притяните её к себе. Дарует мощь и раскрывает вашу цель каждую секунду."
 Tethered Ally Heal per Target,Исцеление привязанного союзника за цель
 Tethered Ally Healing per Target,Исцеление привязанного союзника за цель
 The Apocalypse Bringer sends out a wave of cone attacks that damages and knocks back players.,"Вестник Апокалипсиса посылает волну конусообразных атак, которые наносят урон и отбрасывают игроков."
@@ -368,7 +368,7 @@ The Dreg Shark's forceful flop knocks back foes as it readies to jump back into 
 The Eater of Souls bashes your face in.,Пожиратель душ разбивает вам лицо.
 "The Eater of Souls regurgitates its stomach, spreading a viscous ooze on the ground.","Пожиратель душ извергает свой желудок, разливая вязкую слизь по земле."
 "The Enforcer leaps to the target area, damaging nearby enemies and knocking them down.","Силовик прыгает в целевую область, нанося урон ближайшим врагам и сбивая их с ног."
-"The Enforcer rushes to a location, leaving behind a trail of fire that damages and burns enemies within.","Броситься вперёд к вашей цели и получить Справедливость, нанеся удар и выпустив Пламя Непобедимого ."
+"The Enforcer rushes to a location, leaving behind a trail of fire that damages and burns enemies within.","Броситься вперед к вашей цели и получить Справедливость, нанеся удар и выпустив Пламя Непобедимого ."
 "The Enforcer slams the target area with powerful energies, dealing heavy damage and applying extreme vulnerability for a short time. Targets with extreme vulnerability are killed by this attack.","Силовик обрушивает на целевую область мощную энергию, нанося тяжёлый урон и накладывая экстремальную уязвимость на короткое время. Цели с экстремальной уязвимостью погибают от этой атаки."
 "The Enforcer slams the target area with powerful energies, dealing heavy damage.","Силовик обрушивает на целевую область мощную энергию, нанося тяжёлый урон."
 The Enforcer taunts nearby enemies and begins a destructive whirling attack.,Силовик провоцирует ближайших врагов и начинает разрушительную вращательную атаку.
@@ -392,11 +392,11 @@ The Keep Construct assaults foes in front of it.,Конструкт-хранит
 The Keep Construct dismantles itself into hundreds of pieces that hail down on targets from the sky.,"Конструкт-хранитель распадается на сотни частей, которые градом обрушиваются на цели с неба."
 "The Keep Construct falls from the ceiling, crushing foes underneath and knocking them down.","Конструкт-хранитель падает с потолка, раздавливая врагов под собой и сбивая их с ног."
 The Keep Construct smashes its arm down behind it with tremendous force.,Конструкт-хранитель с огромной силой обрушивает свою руку позади себя.
-"The Keep Construct smashes its fists into the ground, rippling out waves of Xera's magic.","Фантомы, которые провели успешную атаку, бросают в свою цель клинок и даруют вам Ярость, когда исчезают."
+"The Keep Construct smashes its fists into the ground, rippling out waves of Xera's magic.","Конструкт-хранитель ударяет кулаками по земле, пуская волны магии Xera."
 The Magma Elemental explodes upon death.,Магматический элементаль взрывается при смерти.
 "The Magma Elemental stomps down, sending enemies flying.","Магматический элементаль топает, заставляя врагов разлетаться в стороны."
 "The Mech Rider launches toward the target with explosive force, dealing heavy damage and applying Extreme Vulnerability to enemies hit. Targets with Extreme Vulnerability take significant damage from this attack.","Мех-наездник бросается к цели с взрывной силой, нанося тяжёлый урон и накладывая экстремальную уязвимость на пораженных врагов. Цели с экстремальной уязвимостью получают значительный урон от этой атаки."
-"The Mech Rider overloads their power core, releasing a continuous blast of deadly jade energy.","Выстрелить из главного орудия, истребляя цели на линии выстрела. Во время стрельбы из разрушительной нефритовой пушки Мех может поворачиваться для отслеживания целей, но не может двигаться с места."
+"The Mech Rider overloads their power core, releasing a continuous blast of deadly jade energy.","Мех-наездник перегружает свое ядро питания, выпуская непрерывный поток смертоносной нефритовой энергии."
 "The Mech Rider swings at the nearest enemy, dealing heavy damage.","Мех-наездник наносит удар по ближайшему врагу, нанося тяжёлый урон."
 "The Mindblade creates a series of spells around them, each of which fire a slowly moving field of psychic energy in a direction.","Клинок разума создает вокруг себя серию заклинаний, каждое из которых выпускает медленно движущееся поле психической энергии в определенном направлении."
 "The Mindblade targets a nearby enemy and, after a short delay, begins creating damaging fields of psychic energy around their target. These fields persist and deal heavy damage in an area.",Клинок разума выбирает ближайшего врага и после небольшой задержки начинает создавать вокруг своей цели разрушительные поля психической энергии. Эти поля сохраняются и наносят тяжёлый урон по области.
@@ -417,7 +417,7 @@ The Vale Guardian distributes its magic to a point that must be absorbed before 
 The Vale Guardian sends slow-moving projectiles at you that deal damage on hit.,"Страж Долины посылает в вас медленно движущиеся снаряды, которые наносят урон при попадании."
 The Voice fires an arrow that bounces between nearby targets.,"Голос выпускает стрелу, которая отскакивает между ближайшими целями."
 "The Voice fires an arrow that splits and tracks enemies, creating immobilizing traps at each point of impact.","Голос выпускает стрелу, которая разделяется и преследует врагов, создавая обездвиживающие ловушки в каждой точке попадания."
-"The Voice leaps backward, leaving behind a trap that immobilizes enemies.","Выстрелить гарпуном и отступить, оставив отравляющий след."
+"The Voice leaps backward, leaving behind a trap that immobilizes enemies.","Голос совершает прыжок назад, оставляя после себя ловушку, которая обездвиживает врагов."
 The Whisper of Jormag covers the ground with volatile ice magic that deals periodic damage.,"Шепот Jormag покрывает землю нестабильной ледяной магией, наносящей периодический урон."
 The Whisper of Jormag pulses a volatile aura that deals damage every 3 seconds to all foes.,"Шепот Jormag пульсирует нестабильной аурой, наносящей урон всем противникам каждые 3 секунды."
 The Whisper of Jormag summons deadly ice tornadoes.,Шепот Jormag призывает смертоносные ледяные торнадо.
@@ -427,7 +427,7 @@ The World Ends in Decay,Мир заканчивается в тлене
 The anomaly overloads with energy and deals massive damage to all foes.,Аномалия перегружается энергией и наносит огромный урон всем противникам.
 The anomaly unleashes its new power.,Аномалия высвобождает свою новую силу.
 The arcs can only strike enemies touching the ground.,"Дуги могут поразить только тех врагов, которые касаются земли."
-"The blazing boulder tears through you, blowing out everything in its path.","Сокрушить вашего противника, оставив его ослабленным."
+"The blazing boulder tears through you, blowing out everything in its path.","Пылающий валун проносится сквозь вас, сметая все на своем пути."
 "The boneskinner pulses a volatile aura that deals damage every 3 seconds to all foes within a range of 2,000.","Boneskinner пульсирует нестабильной аурой, наносящей урон каждые 3 секунды всем противникам в радиусе 2000."
 "The boneskinner spews a noxious cloud, launching enemies and applying torment. Extinguishes torches.","Boneskinner извергает ядовитое облако, подбрасывая врагов и накладывая боль. Гасит факелы."
 "The cauldron discharges some energy, causing minor damage.","Котел разряжает часть энергии, нанося незначительный урон."
@@ -456,7 +456,7 @@ The harp is playing in the background.,На фоне играет арфа.
 "The heavy bomb explodes, dealing massive damage to foes and the platform.","Тяжёлая бомба взрывается, нанося огромный урон врагам и платформе."
 The hologram's presence causes all foes within range to take damage every 3 seconds.,Присутствие голограммы заставляет всех врагов в радиусе действия получать урон каждые 3 секунды.
 "The hydra bites with two heads, applying bleeding, poison, and chill.","Гидра кусает двумя головами, накладывая кровотечение, яд и холод."
-The hydra spits a fireball that leaves behind a burning field.,"Создать шар огня, который взрывается при попадании и поражает нескольких противников."
+The hydra spits a fireball that leaves behind a burning field.,"Гидра извергает огненный шар, оставляющий после себя область горения."
 "The hydra teleports to a new platform, knocking back foes when it appears.","Гидра телепортируется на новую платформу, отбрасывая врагов при появлении."
 The hydra unleashes a deadly flurry of meteors at all its foes while also applying boons to itself.,"Гидра обрушивает смертоносный шквал метеоров на всех своих врагов, одновременно накладывая благословения на себя."
 "The hydra unleashes a powerful torrent of flame, lighting, and ice breath, knocking back enemies and applying heavy conditions.","Гидра выпускает мощный поток пламени, молний и ледяного дыхания, отбрасывая врагов и накладывая сильные эффекты состояний."
@@ -469,11 +469,11 @@ The hydra unleashes a deadly flurry of meteors at all its foes while also applyi
 The largos unleashes powerful water magic in an indescriminate flurry of water bolts.,Ларгос высвобождает мощную магию воды в виде беспорядочного шквала водяных снарядов.
 The lute is playing in the background.,На фоне играет лютня.
 The mech does not count against the target count for this skill.,Мех не учитывается в лимите целей для этого навыка.
-"The minotaur leaps after thrown light orbs, consuming their energy and gaining empowerment.","Прыгнуть и провести удар, наносящий повышенный урон противникам, которые выведены из строя, имеют полосу сопротивления или ограничены в передвижении. Даровать себе Энергичность при попадании."
+"The minotaur leaps after thrown light orbs, consuming their energy and gaining empowerment.","Минотавр прыгает за брошенными сферами света, поглощая их энергию и усиливаясь."
 The minotaur unleashes its power of darkness on nearby foes.,Минотавр высвобождает свою силу тьмы на ближайших врагов.
 The next several hits apply extra bleeding stacks.,Следующие несколько попаданий наложат дополнительные стеки кровотечения.
 The next utility skill you use has reduced cooldown.,Время перезарядки следующего использованного вспомогательного навыка сокращено.
-"The platform is covered in water, allowing the largos to hunt down anyone who remains in it for too long.","Выслать приливную волну, которая исцеляет союзников и дарует им Регенерацию, а затем отталкивает противников назад."
+"The platform is covered in water, allowing the largos to hunt down anyone who remains in it for too long.","Платформа покрыта водой, позволяя ларгосам выслеживать любого, кто остается в ней слишком долго."
 "The poison mushroom releases a toxic cloud, damaging and applying poison to all foes standing within range.","Ядовитый гриб выпускает токсичное облако, нанося урон и накладывая отравление на всех врагов в радиусе действия."
 "The ritualist surges with power, calling forth a series of lightning strikes that barrage the arena.","Ритуалист наполняется силой, вызывая серию ударов молний, которые обрушиваются на арену."
 "The shattered fragments of Greer's armor rain down on the arena. Smaller pieces explode on impact, but larger fragments transform into titanspawn, ready to help Greer in the fight.","Осколки брони Greer падают на арену. Мелкие части взрываются при ударе, а крупные превращаются в порождений титанов, готовых помочь Greer в бою."
@@ -488,7 +488,7 @@ The slubling spits multiple projectiles that convert boons to conditions upon hi
 "The sniper begins charging a devastating laser, killing all enemies in its path. This skill can be interrupted by breaking the sniper's defiance bar.","Снайпер начинает заряжать разрушительный лазер, убивая всех врагов на своем пути. Этот навык можно прервать, сломав шкалу стойкости снайпера."
 "The sniper fires a ricocheting bullet at the target, dealing heavy damage and bouncing to nearby enemies, increasing in damage after each bounce.","Снайпер выпускает рикошетящую пулю в цель, нанося тяжёлый урон и отскакивая к ближайшим врагам, при этом урон увеличивается после каждого отскока."
 "The sniper fires a ricocheting bullet at the target, dealing heavy damage and bouncing to nearby enemies.","Снайпер выпускает рикошетящую пулю в цель, нанося тяжёлый урон и отскакивая к ближайшим врагам."
-"The sniper fires at the target, immobilizing the first enemy hit.","Выстрелить пулей, которая даёт вам дары и накладывает на цель состояния."
+"The sniper fires at the target, immobilizing the first enemy hit.","Снайпер стреляет в цель, обездвиживая первого пораженного врага."
 "The solar bloom reaches critical mass, exploding and knocking back anything in the area. If the explosion hits a reactor, the reactor is destroyed.","Солнечный цветок достигает критической массы, взрываясь и отбрасывая все в радиусе действия. Если взрыв попадает в реактор, реактор уничтожается."
 The spider lashes out with poisonous fangs.,Паук наносит удар ядовитыми клыками.
 The spinning chainsaw leaves foes horribly wounded.,Вращающаяся бензопила оставляет врагов ужасно израненными.
@@ -496,7 +496,7 @@ The spirit explodes with regret upon reaching Saul.,"Дух взрывается
 "The spirit releases a wave of spiritual energy in an area around them, dealing heavy damage to nearby foes.","Дух выпускает волну духовной энергии в области вокруг себя, нанося тяжёлый урон ближайшим врагам."
 The storm clouds pulse damage every second to all targets standing under it.,"Грозовые тучи каждую секунду наносят урон всем целям, стоящим под ними."
 The strange magic of this place has twisted the nature of holiday cheer.,Странная магия этого места исказила саму суть праздничного настроения.
-The troll lashes out with its sharpened appendages.,Резануть вашего противника.
+The troll lashes out with its sharpened appendages.,Порезать противника своими когтями.
 "The unstable environment rains down debris from the airships in the trees, dealing damage upon impact.","В нестабильной среде с деревьев падают обломки дирижаблей, нанося урон при ударе."
 "The voltaic wisp channels electricity into its tail, leaving time-delayed explosions behind.","Вольтовый огонек направляет электричество в свой хвост, оставляя после себя взрывы с задержкой по времени."
 The voltaic wisp immobilizes foes with steady streams of paralyzing shocks from its tail.,Вольтовый огонек обездвиживает врагов постоянными потоками парализующих разрядов из своего хвоста.

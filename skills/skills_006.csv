@@ -23,7 +23,7 @@ Detonate Supply Crate Turrets,Детонировать турели ящика �
 Detonate Thumper Turret,Детонировать ударную турель
 Detonate a burst of ice that chills nearby foes.,"Взорвать заряд льда, который замораживает противников поблизости."
 Detonate a burst of ice that immobilizes nearby foes.,"Взорвать заряд льда, который замораживает противников поблизости."
-Detonate the dome to heal nearby allies.,"Создать вокруг себя купол, который отталкивает противников назад и поглощает снаряды."
+Detonate the dome to heal nearby allies.,"Взорвать купол, чтобы исцелить союзников поблизости."
 Detonate the orb to burn foes and cure conditions on allies in the blast radius.,"Взорвать шар, чтобы поджечь противников и снять состояния с союзников в радиусе взрыва."
 "Detonate the sphere to cause it to explode, damaging and chilling foes.","Детонировать сферу, чтобы вызвать её взрыв, наносящий урон и охлаждающий врагов."
 Detonate your Blossoming Aura manually.,Взорвать вашу Цветущую ауру вручную.
@@ -41,7 +41,7 @@ Detonate your rifle turret.,Взорвите свою винтовочную т�
 Detonate your rocket turret.,Взорвите свою ракетную турель.
 Detonate your supply crate turrets.,Взорвите турели из ящика с припасами.
 Detonate your thumper turret.,Взорвите свою грохочущую турель.
-Detonates when enemies draw near.,"Создать контактную мину под вашей целью и медпакет под собой, когда вы выводите противника из строя."
+Detonates when enemies draw near.,Детонирует при приближении врагов.
 Detonation Damage,Урон от детонации
 Detonation Window,Окно детонации
 Devastator,Опустошитель
@@ -51,7 +51,7 @@ Devourer Venom,Яд пожирателя
 Devouring Cut,Пожирающий разрез
 Devouring Darkness,Пожирающая тьма
 Devouring Visage,Пожирающий лик
-Dhuum calls forth deadly claws that pull foes toward him.,Резануть вашего противника.
+Dhuum calls forth deadly claws that pull foes toward him.,"Dhuum призывает смертоносные когти, которые притягивают к нему врагов."
 "Dhuum creates a rippling fracture in the ground, erupting after a short time.","Dhuum создает волнообразный разлом в земле, который извергается спустя короткое время."
 "Dhuum links two targets, causing their souls to merge and destroy each other if they're in close proximity.","Dhuum связывает две цели, заставляя их души слиться и уничтожить друг друга, если они находятся близко друг к другу."
 "Dhuum pulls foes toward him, consuming them if they fail to escape.","Dhuum притягивает врагов к себе, поглощая их, если они не успевают сбежать."
@@ -133,15 +133,15 @@ Draw both hidden pistols and unload a volley of bullets on your foe.,Доста�
 Dread Visage,Облик ужаса
 Dreg Detritus,Мусор дрегов
 Dreg Flop,Плюх дрега
-Drive piranhas into a feeding frenzy around your foe. Apply fury to your pet.,"Призвать косяк рыб-умертвий, которые нападают на вашего противника."
+Drive piranhas into a feeding frenzy around your foe. Apply fury to your pet.,Ввергните пираний в пищевое безумие вокруг вашего врага. Наложите ярость на вашего питомца.
 Drop Gunk,Сбросить грязь
 Drop Mine,Сбросить мину
 Drop Urn of Saint Viktor,Сбросить урну святого Виктора
 "Drop a comet of ice on target foe, damaging and dazing foes in the area.","Сбросить ледяную комету на цель, нанося урон и оглушая врагов в области."
 Drop a giant ice spike on foes to make them vulnerable.,"Бросить в противников гигантский ледяной шип, делая их уязвимыми."
 Drop a mine that deals damage to enemies that trigger it.,"Сбросьте мину, которая наносит урон врагам, активировавшим её."
-Drop a pack of bandages that provides a little healing.,"Позвать на помощь своих союзников. Восстанавливает здоровье, пока вы используете это умение."
-Drop a smoke bomb and vanish in stealth.,"Установить заряд с таймером, который создает облако дыма, ослепляющее противников поблизости."
+Drop a pack of bandages that provides a little healing.,"Сбросьте набор бинтов, обеспечивающий небольшое исцеление."
+Drop a smoke bomb and vanish in stealth.,Бросить дымовую бомбу и скрыться в невидимости.
 Drop additional bombs at your location.,Сбросить дополнительные бомбы в выбранной области.
 Drop an explosive dragon's tooth on your foe.,Бросить в противника взрывающийся драконий зуб.
 "Drop from above, delivering a massive strike on the focused area.","Спрыгнуть сверху, нанося мощный удар по выбранной области."
@@ -433,7 +433,7 @@ Exit Radiant Forge,Выход из сияющей кузни
 Exit Reaper's Shroud,Выход из савана жнеца
 Exit Ritualist's Shroud,Выход из савана ритуалиста
 Exit Shadow Shroud,Выход из теневого савана
-Exit berserk mode.,"Вам даруются Устойчивость и выносливость, когда вы становитесь берсерком. Черты, срабатывающие при активации состояния берсерка, также срабатывают и когда вы перестаете быть берсерком. Вы можете перестать быть берсерком раньше срока."
+Exit berserk mode.,Выход из режима берсерка.
 "Exit your shadow shroud, breaking the tether between you and your ally.","Выйдите из своего теневого савана, разрывая связь между вами и вашим союзником."
 Explode,Взорвать
 Explode a bone minion.,Взорвать костяного миньона.

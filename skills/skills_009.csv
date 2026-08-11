@@ -49,7 +49,7 @@ Launch a wave that terrorizes foes it hits. You may activate March of Undeath to
 Launch an arc of light at your foe.,Запустите дугу света во врага.
 "Launch an explosive round from your mortar, damaging foes in the target area.","Запустите взрывной снаряд из своего миномета, нанося урон врагам в целевой области."
 Launch an orb of lightning that fires projectiles at nearby foes.,"Создать шаровую молнию, которая выпускает метательные снаряды в противников поблизости."
-Launch an orb that bounces between foes and applies conditions.,"Запустить шар энергии, который рикошетит между противниками и союзниками. Первое попадание вызывает у противников боль, а следующие - замешательство. Союзникам рикошеты шара даруют Ярость и Мощь."
+Launch an orb that bounces between foes and applies conditions.,"Запустить шар энергии, который рикошетит между противниками и союзниками, давая случайные дары союзникам и накладывая случайные состояния на противников."
 Launch another arc of light at your target.,Запустите ещё одну дугу света в цель.
 Launch spikes at all nearby foes.,Выпустить шипы во всех противников поблизости.
 Launch three waves of heat. Each burns foes and grants vigor to allies.,Запустите три волны жара. Каждая сжигает врагов и даёт бодрость союзникам.
@@ -97,9 +97,9 @@ Leap of Faith,Прыжок веры
 "Leap to the targeted area, inflicting fear on foes at your ending point. Grant barrier to your tethered ally and nearby allies based on targets struck. Heal your tethered ally based on targets struck.","Прыгните в целевую область, накладывая страх на врагов в точке приземления. Дайте барьер связанному союзнику и ближайшим союзникам в зависимости от количества пораженных целей. Исцелите связанного союзника в зависимости от количества пораженных целей."
 "Leap to the targeted location, empowering allies and damaging enemies. Gain adrenaline if you affect another ally.","Прыгните в целевую область, усиливая союзников и нанося урон врагам. Получите адреналин, если затронете другого союзника."
 "Leap to your destination, evading through the air. Daze enemies near your impact point.","Прыгните к месту назначения, уклоняясь в полёте. Ошеломите врагов рядом с точкой приземления."
-Leap to your target and create an arc of light that strikes nearby foes. Gain quickness based on your heat level.,"Прыгнуть к цели и создать световую дугу, которая бьёт противников поблизости. Вам даруется Проворство."
-Leap to your target and create an arc of light that strikes nearby foes. Gain quickness.,"Прыгнуть к цели и создать световую дугу, которая бьёт противников поблизости. Вам даруется Проворство."
-"Leap to your target and cripple them. If your target is disabled, defiant, or movement impaired, immobilize them instead.","Прыгните к цели и наложите на неё хромоту. Если цель под действием контроля, стойкости или замедления, вместо этого обездвижьте её."
+Leap to your target and create an arc of light that strikes nearby foes. Gain quickness based on your heat level.,"Прыгнуть к цели и создать световую дугу, которая бьет противников поблизости. Вам даруется Проворство."
+Leap to your target and create an arc of light that strikes nearby foes. Gain quickness.,"Прыгнуть к цели и создать световую дугу, которая бьет противников поблизости. Вам даруется Проворство."
+"Leap to your target and cripple them. If your target is disabled, defiant, or movement impaired, immobilize them instead.","Прыгните к цели и наложите на нее хромоту. Если цель под действием контроля, стойкости или замедления, вместо этого обездвижьте ее."
 Leap to your target and summon a clone if you hit. Can be recast to return to your starting point.,"Прыгнуть к вашей цели и создать клон при попадании. Умение можно использовать повторно, чтобы вернуться в первоначальную позицию."
 "Leap toward your destination, damaging foes upon impact.","Прыгните к месту назначения, нанося урон врагам при приземлении."
 "Leap toward your target, unleashing intense energy on the area if you strike them. Your primary target becomes the focus of your other skills. If a focused target dies, this skill is refreshed.","Прыгните к цели, высвобождая мощную энергию в области, если попадете. Ваша основная цель становится фокусом для других ваших умений. Если сфокусированная цель погибает, это умение перезаряжается."
@@ -107,7 +107,7 @@ Leaping Lizard,Прыгающая ящерица
 Leaping Slice,Прыгающий разрез
 Leaping Strike,Прыгающий удар
 Leaps and attaches to an enemy.,Прыгает и прикрепляется к врагу.
-"Leaps forward, creating an area of corruption that deals damage and inflicts torment. Creates a dark combo field.","Прыгает вперёд, создавая область порчи, которая наносит урон и накладывает боль. Создает комбо-поле тьмы."
+"Leaps forward, creating an area of corruption that deals damage and inflicts torment. Creates a dark combo field.","Прыгает вперед, создавая область порчи, которая наносит урон и накладывает боль. Создает комбо-поле тьмы."
 "Leaps forward, dealing damage and creating a damaging field.","Прыгает вперёд, нанося урон и создавая наносящее урон поле."
 "Leaps to the target and creates a massive shock wave, damaging and knocking back enemies.","Прыгает к цели и создает мощную ударную волну, нанося урон и отбрасывая врагов."
 Leash Range,Дистанция привязки
@@ -306,13 +306,13 @@ Mai Trin overloads her pistol with energy from the Mists before releasing a deva
 "Mai Trin releases a blast of black powder from her pistol to blind her enemies, then leaps backward.","Mai Trin выпускает облако чёрного пороха из пистолета, чтобы ослепить врагов, а затем отпрыгивает назад."
 "Mai Trin slashes at her opponents, inflicting bleeding before dodging backward.","Mai Trin полосует своих противников, вызывая кровотечение, а затем отпрыгивает назад."
 Mai Trin sweeps her rapier forward in an arc.,Mai Trin делает дуговой взмах рапирой вперёд.
-Mai Trin teleports behind her target and delivers two quick slashes with her rapier.,Уклониться и ткнуть противника.
-"Mai Trin unleashes a flurry of attacks with her sword, teleporting before each strike.","Сделать Призрачный Шаг и провести яростную атаку против противников поблизости. Вам даруется Мощь каждый раз, когда вы наносите противнику урон."
+Mai Trin teleports behind her target and delivers two quick slashes with her rapier.,Mai Trin телепортируется за спину своей цели и наносит два быстрых удара рапирой.
+"Mai Trin unleashes a flurry of attacks with her sword, teleporting before each strike.","Mai Trin обрушивает шквал атак своим мечом, телепортируясь перед каждым ударом."
 Maiming Spear,Калечащее копьё
 Mainshock,Главный удар
 Make lava erupt from the target area.,Создать извержение лавы в выбранной области.
-Make your foe flee in fear.,Заставить своего противника убегать в страхе.
-Make your foe vulnerable with a shot to their vitals.,"Выпустить стрелу, которая пробивает врагов. Если стрела попадет во вторую цель, все пораженные противники будут хромать."
+Make your foe flee in fear.,Заставить вашего противника убегать в страхе.
+Make your foe vulnerable with a shot to their vitals.,"Сделать противника уязвимым, выстрелив ему в жизненно важные органы."
 Makes enemies more vulnerable to Decima's fluxlance beams.,Делает врагов более уязвимыми к лучам fluxlance от Decima.
 Makes enemies vulnerable to dancing sparks.,Делает врагов уязвимыми к танцующим искрам.
 Malice Gained upon Critical Hit,"Злоба, полученная при критическом ударе"

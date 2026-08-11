@@ -68,7 +68,7 @@ You do not lose health from being downed.,"Вы не теряете здоров
 You made a small mistake in your sketch.,Вы допустили небольшую ошибку в своем наброске.
 You may block again.,Вы снова можете блокировать.
 You move quicker and deal increased strike damage.,Вы двигаетесь быстрее и наносите увеличенный урон от ударов.
-You receive no damage from incoming attacks. You remain susceptible to conditions and controlling effects.,Вы не получаете урон в течение следующих нескольких секунд.
+You receive no damage from incoming attacks. You remain susceptible to conditions and controlling effects.,Вы не получаете урон от направленных против вас атак. Вы остаетесь подвержены воздействию состояний и эффектов контроля.
 You regenerate health.,Вы восстанавливаете здоровье.
 "You spent too much time in the largos' domain, allowing them to hunt you down.","Вы провели слишком много времени во владениях largos, позволив им выследить вас."
 You take increased strike and condition damage.,Вы получаете увеличенный урон от прямых атак и состояний.
@@ -93,7 +93,7 @@ Your explosions do extreme damage.,Ваши взрывы наносят экст
 Your explosions do more damage.,Ваши взрывы наносят больше урона.
 "Your first attack explodes, dealing extra damage to nearby enemies.","Ваша первая атака взрывается, нанося дополнительный урон ближайшим врагам."
 "Your first weapon skill is replaced with your stealth attack, even when not stealthed.","Ваш первый навык оружия заменяется на атаку из скрытности, даже если вы не в скрытности."
-Your frost spirit slams the ground and creates a cold snap that cleanses conditions from nearby allies.,"Ваш дух мороза бьёт по земле и выпускает заряд леденящего воздуха, который снимает состояния с союзников поблизости."
+Your frost spirit slams the ground and creates a cold snap that cleanses conditions from nearby allies.,"Ваш дух мороза бьет по земле и выпускает заряд леденящего воздуха, который снимает состояния с союзников поблизости."
 Your health cannot be reduced below zero.,Ваше здоровье не может опуститься ниже нуля.
 "Your light aura detonates, damaging nearby foes and healing nearby allies.","Ваша аура света детонирует, нанося урон ближайшим врагам и исцеляя ближайших союзников."
 "Your mech launches an explosive fist that detonates on hit, dealing defiance damage to enemies with active defiance bars. This skill is only used when you activate Skill 3 on your weapon.","Ваш мех выпускает взрывной кулак, который детонирует при попадании, нанося урон стойкости врагам с активной шкалой стойкости. Этот навык используется только при активации навыка 3 на вашем оружии."
@@ -113,29 +113,29 @@ Your outgoing damage is reduced by 25% per stack.,Ваш исходящий ур
 Your outgoing strikes deal additional damage and restore your health.,Ваши исходящие удары наносят дополнительный урон и восстанавливают ваше здоровье.
 "Your pet strikes nearby enemies with vines, removing boons. Disabled or defiant enemies are also slowed.
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Ваш питомец атакует ближайших врагов лозами, снимая благословения. Ослабленные или сопротивляющиеся враги также замедляются.
-<c=@reminder>Ослабление включает в себя оглушение, ошеломление, отбрасывание, притягивание, нокдаун, погружение, подъём, отталкивание, насмешку и страх.</c>"
+<c=@reminder>Ослабление включает в себя оглушение, ошеломление, отбрасывание, притягивание, нокдаун, погружение, подъем, отталкивание, насмешку и страх.</c>"
 "Your pet teleports to your target and lashes out, poisoning enemies and applying vulnerability to disabled or defiant enemies.
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Ваш питомец телепортируется к цели и наносит удар, отравляя врагов и применяя эффект уязвимости к обездвиженным или находящимся в состоянии защиты противникам.
-<c=@reminder>Обездвиживание включает оглушение, ошеломление, отбрасывание, притягивание, нокдаун, погружение, подъём, отталкивание, насмешку и страх.</c>"
+<c=@reminder>Обездвиживание включает оглушение, ошеломление, отбрасывание, притягивание, нокдаун, погружение, подъем, отталкивание, насмешку и страх.</c>"
 "Your shattered illusion reforms into a mirror. Touching the mirror shatters it, granting mirage cloak to you and weakening foes.","Ваша разбитая иллюзия превращается в зеркало. Касание зеркала разбивает его, даруя вам «плащ миража» и ослабляя врагов."
 Your shot splits into a spread of harpoons that each bleed your target.,"Вы стреляете залпом из нескольких гарпунов, каждый из которых вызывает у цели кровотечение."
 Your skin freezes through as death takes hold.,"Ваша кожа леденеет, когда смерть берет свое."
 Your spear skills are empowered.,Ваши навыки копья усилены.
-Your spirit of nature slams the ground and creates a blast of vital energy that revives nearby downed allies.,"Ваш дух природы бьёт по земле и создает взрыв жизненной энергии, оживляющей поверженных союзников поблизости."
-Your stone spirit slams the ground and creates an earthen blast that inhibits enemies.,"Ваш дух камня бьёт по земле и создает ударную волну, тормозящую противников."
-Your storm spirit slams the ground and generates a powerful blast of electricity.,"Провести заключительную атаку, обрушив на противников удары молний."
+Your spirit of nature slams the ground and creates a blast of vital energy that revives nearby downed allies.,"Ваш дух природы бьет по земле и создает взрыв жизненной энергии, оживляющей поверженных союзников поблизости."
+Your stone spirit slams the ground and creates an earthen blast that inhibits enemies.,"Ваш дух камня бьет по земле и создает ударную волну, тормозящую противников."
+Your storm spirit slams the ground and generates a powerful blast of electricity.,Ваш дух шторма бьет по земле и генерирует мощный разряд электричества.
 Your strike and condition damage is increased.,Ваш урон от ударов и состояний увеличен.
 Your strikes additionally inflict burning on enemies.,Ваши удары дополнительно поджигают врагов.
 Your strikes deal additional damage to enemies struck by the Kryptis turret.,"Ваши удары наносят дополнительный урон врагам, пораженным турелью Криптиса."
 Your struggles to escape are in vain.,Ваши попытки вырваться тщетны.
-Your sun spirit slams the ground and releases the brilliance of the sun on nearby foes.,Ваш дух солнца бьёт по земле и поражает противников поблизости солнечным сиянием.
+Your sun spirit slams the ground and releases the brilliance of the sun on nearby foes.,Ваш дух солнца бьет по земле и поражает противников поблизости солнечным сиянием.
 Your thoughts blur as Xera's confounding magic penetrates your being.,"Ваши мысли путаются, когда сбивающая с толку магия Xera проникает в ваше сознание."
 Your thoughts blur as Xera's confounding magic penetrates your being. The vortex applies 2 stacks of derangement.,"Ваши мысли путаются, когда сбивающая с толку магия Xera проникает в ваше сознание. Вихрь накладывает 2 стака derangement."
-Your water spirit slams the ground and creates a wave that heals nearby allies.,"Ваш дух воды бьёт по земле и создает волну, исцеляющую союзников поблизости."
+Your water spirit slams the ground and creates a wave that heals nearby allies.,"Ваш дух воды бьет по земле и создает волну, исцеляющую союзников поблизости."
 Your weapon skills that cost initiative refund initiative.,"Ваши оружейные навыки, требующие инициативы, возвращают инициативу."
 Zane fires a hail of bullets in a cone that increases in size with each shot.,"Zane выпускает град пуль конусом, размер которого увеличивается с каждым выстрелом."
 Zane fires a shot that bounces to the next closest foe on hit.,"Zane выпускает снаряд, который при попадании отскакивает к ближайшему врагу."
-Zap enemies in the target area with electric beams.,"Зарядить воду вокруг вашего противника электричеством. Противники, которые активируют умения, будут ошеломлены."
+Zap enemies in the target area with electric beams.,Зарядить воду вокруг противника электричеством.
 Zealot's Defense,Zealot's Defense
 Zealot's Embrace,Zealot's Embrace
 Zealot's Fire,Zealot's Fire
@@ -143,4 +143,4 @@ Zealot's Flame,Zealot's Flame
 Zealot's Flurry,Zealot's Flurry
 Zealous Benediction,Zealous Benediction
 Zephyrite Sun Crystal,Солнечный кристалл Зефира
-"Zommoros creates a bubble that heals allies, grants them protection, and cleanses their conditions.","Zommoros создает пузырь, который исцеляет союзников, даёт им протекцию и снимает состояния."
+"Zommoros creates a bubble that heals allies, grants them protection, and cleanses their conditions.","Zommoros создает пузырь, который исцеляет союзников, дает им протекцию и снимает состояния."
