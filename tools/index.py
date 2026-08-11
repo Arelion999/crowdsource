@@ -7,6 +7,9 @@
     python tools/index.py who <имя>          # досье на сущность: канон, где встречается, соседи
     python tools/index.py cat [<категория>]  # состав словаря или одной категории
     python tools/index.py dup                # записи в нескольких категориях с РАЗНЫМ переводом
+    python tools/index.py term [<термин>]    # где встречается термин глоссария, где нарушен канон
+    python tools/index.py bad [<имя|категория>]  # дефекты: сводка или по персонажу/категории
+    python tools/index.py skills [проф|тип|оружие|слот]  # покрытие умений в разрезе
 
 Зачем: батчи нарезаны корзинами сбора (`ui`, `new`, `zone`), и по имени файла не
 понять, что в нём лежит — из 449 351 строки категория батча совпадает с
@@ -22,7 +25,12 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 CROWD = os.path.dirname(HERE)
 DB = os.path.join(CROWD, "sync", "index.db")
 sys.path.insert(0, HERE)
+sys.path.insert(0, CROWD)          # validate.py лежит в корне crowdsource
 import dict_tool as D
+try:
+    import validate as _validate
+except Exception:
+    _validate = None
 
 WORD = re.compile(r"[A-Z][A-Za-z'’\-]{2,}")
 
@@ -50,10 +58,22 @@ def cmd_build(_args):
         CREATE TABLE mention(hash TEXT, en TEXT);
         CREATE TABLE term(en TEXT, ru TEXT, banned TEXT);
         CREATE TABLE warband(en TEXT PRIMARY KEY, wb TEXT, legion TEXT, charr TEXT);
+        CREATE TABLE defect(hash TEXT, kind TEXT, detail TEXT);
+        CREATE TABLE term_hit(hash TEXT, term TEXT, bad TEXT);
+        CREATE TABLE ctx(hash TEXT PRIMARY KEY, kind TEXT);
+        CREATE TABLE skill(id TEXT, vid TEXT, name TEXT, descr TEXT, prof TEXT,
+                           type TEXT, weapon TEXT, slot TEXT,
+                           name_ru TEXT, descr_ru TEXT);
+        CREATE INDEX i_skill_prof ON skill(prof);
+        CREATE INDEX i_skill_w ON skill(weapon);
         CREATE INDEX i_place ON place(hash);
         CREATE INDEX i_place_name ON place(name);
         CREATE INDEX i_mention ON mention(en);
         CREATE INDEX i_mention_h ON mention(hash);
+        CREATE INDEX i_defect ON defect(hash);
+        CREATE INDEX i_defect_k ON defect(kind);
+        CREATE INDEX i_term_hit ON term_hit(term);
+        CREATE INDEX i_term_hit_h ON term_hit(hash);
     """)
 
     strings, places = {}, []
@@ -145,6 +165,144 @@ def cmd_build(_args):
     db.executemany("INSERT OR IGNORE INTO warband VALUES (?,?,?,?)", wb)
     print("чарров с лором вики: %d" % len(wb))
 
+    # Дефекты: тот же разбор, что у charscan.check и validate, но привязанный к
+    # строке. Тогда можно спросить не «сколько всего сломано», а «что сломано у
+    # этого персонажа» или «в этой категории».
+    dfx = []
+    try:
+        import charscan as C
+        checks = C.CHECKS
+    except Exception as e:
+        checks = []
+        print("  charscan не подключился: %s" % e)
+    for h, (en, ru) in strings.items():
+        if not en or not ru:
+            continue
+        for kind, sev, fn in checks:
+            try:
+                d = fn(en, ru)
+            except Exception:
+                continue
+            if d:
+                dfx.append((hx(h), kind, str(d)[:120]))
+        if _validate is not None:
+            for e in _validate.check_row(en, ru)[0]:
+                dfx.append((hx(h), "линтер", e[:120]))
+    db.executemany("INSERT INTO defect VALUES (?,?,?)", dfx)
+    print("дефектов привязано к строкам: %d" % len(dfx))
+
+    # Контекст строки. Канон боевых терминов обязателен в механическом тексте и
+    # НЕ обязателен в художественном: «the foolish vigor of youth» — обычное
+    # слово, там «энергия юности» вернее «энергичности». Границу берём у игры:
+    # что API отдаёт по /skills и /traits, то механика (tools/apicat.py mech).
+    mech_en = set()
+    mfp = os.path.join(CROWD, "sync", "api", "mechanical.csv")
+    if os.path.exists(mfp):
+        for r in list(csv.reader(open(mfp, encoding="utf-8-sig")))[1:]:
+            if r and r[0].strip():
+                mech_en.add(r[0].strip())
+    MECH_CAT = {"skills", "traits", "specializations", "itemstats", "professions"}
+    FLAV_CAT = {"npc_dialogue", "personal_story", "zone_dialogue", "backstory",
+                "stories", "stories_seasons"}
+    cat_of = collections.defaultdict(set)
+    for hh, _k, _n, ref in places:
+        cat_of[hh].add(ref)
+    ctx = []
+    for h, (en, _ru) in strings.items():
+        hh = hx(h)
+        cats = cat_of.get(hh, set())
+        if en in mech_en or (cats & MECH_CAT) or (en and "<c=@abilitytype>" in en):
+            k = "механика"
+        elif (en and "<c=@flavor>" in en) or (cats & FLAV_CAT):
+            k = "художественный"
+        else:
+            k = "прочее"
+        ctx.append((hh, k))
+    db.executemany("INSERT OR REPLACE INTO ctx VALUES (?,?)", ctx)
+    ctx_of = dict(ctx)
+    cnt = collections.Counter(k for _h, k in ctx)
+    print("контекст строк: " + " | ".join("%s %d" % (k, v) for k, v in cnt.most_common()))
+
+    # Термины глоссария: где встречается термин и не нарушен ли канон.
+    # Индекс по первому слову — иначе 108 шаблонов на 462k строк не считаются.
+    t_by_first = collections.defaultdict(list)
+    for en, ru, bans in terms:
+        w = re.findall(r"[A-Za-z]{3,}", en)
+        if not w:
+            continue
+        rx = re.compile(r"(?<![A-Za-z])" + re.escape(en) + r"\w{0,3}(?![A-Za-z])", re.I)
+        bad = [re.compile(r"(?<![А-Яа-яЁё])" + re.escape(b.strip()) + r"(?![А-Яа-яЁё])")
+               for b in bans.split("/") if len(b.strip()) > 3]
+        # Канон ищем по ОСНОВЕ: «Сила» в тексте стоит «силы», «силу», «силой».
+        # Пояснения в скобках («Инквест (склоняется: …)») отрезаем.
+        head = re.split(r"[(/;]", ru)[0].strip()
+        words = [x for x in re.findall(r"[А-Яа-яЁё]{4,}", head)]
+        canon = re.compile("|".join(re.escape(x[:max(4, len(x) - 2)])
+                                    for x in words), re.I) if words else None
+        t_by_first[w[0].lower()].append((en, rx, bad, canon))
+    hits = []
+    for h, (en, ru) in strings.items():
+        if not en:
+            continue
+        for w in {x.lower() for x in re.findall(r"[A-Za-z]{3,}", en)}:
+            for tname, rx, bad, canon in t_by_first.get(w, ()):
+                if not rx.search(en):
+                    continue
+                if not ru:
+                    continue
+                if any(b.search(ru) for b in bad):
+                    mark = "запрещённая форма"
+                elif (canon is not None and not canon.search(ru)
+                      and ctx_of.get(hx(h)) == "механика"):
+                    # только в механике: в художественном тексте канон не указ
+                    mark = "канона нет в переводе"
+                else:
+                    mark = ""
+                hits.append((hx(h), tname, mark))
+    db.executemany("INSERT INTO term_hit VALUES (?,?,?)", hits)
+    nban = sum(1 for x in hits if x[2] == "запрещённая форма")
+    nmiss = sum(1 for x in hits if x[2] == "канона нет в переводе")
+    print("попаданий терминов: %d | запрещённых форм: %d | без канона в переводе: %d"
+          % (len(hits), nban, nmiss))
+
+    # Умения и таланты с привязкой к профессии, типу и оружию: так видно
+    # покрытие в разрезах, а не общим числом строк (tools/apicat.py skills).
+    ru_by_en = {}
+    for h, (en, ru) in strings.items():
+        if en and ru:
+            ru_by_en.setdefault(en.strip(), ru)
+    sk = []
+    sfp = os.path.join(CROWD, "sync", "api", "skills.csv")
+    if os.path.exists(sfp):
+        for r in list(csv.reader(open(sfp, encoding="utf-8-sig")))[1:]:
+            if len(r) < 9:
+                continue
+            vid, sid, nm, ds, prof, typ, wpn, slot = r[0], r[1], r[2], r[3], r[4], r[5], r[6], r[7]
+            sk.append((sid, vid, nm, ds, prof, typ, wpn, slot,
+                       ru_by_en.get(nm, ""), ru_by_en.get(ds, "")))
+    db.executemany("INSERT INTO skill VALUES (?,?,?,?,?,?,?,?,?,?)", sk)
+    have_n = sum(1 for x in sk if x[8])
+    have_d = sum(1 for x in sk if x[3] and x[9])
+    withd = sum(1 for x in sk if x[3])
+    print("умений и талантов: %d | название у нас есть: %d | описание: %d из %d"
+          % (len(sk), have_n, have_d, withd))
+
+    # Тип сущности: чем эта штука является по данным API (tools/apicat.py)
+    apid = os.path.join(CROWD, "sync", "api")
+    types = {}
+    if os.path.isdir(apid):
+        for fn in os.listdir(apid):
+            if not fn.endswith(".csv") or fn in ("charr_wiki.csv", "warband_roster.csv"):
+                continue
+            for r in list(csv.reader(open(os.path.join(apid, fn), encoding="utf-8-sig")))[1:]:
+                if len(r) >= 2 and r[0].strip():
+                    types.setdefault(r[0].strip(), r[1].strip())
+    db.execute("ALTER TABLE entity ADD COLUMN type TEXT")
+    db.executemany("UPDATE entity SET type=? WHERE en=?",
+                   ((t, e) for e, t in types.items()))
+    n = db.execute("SELECT count(*) FROM entity WHERE type IS NOT NULL").fetchone()[0]
+    print("сущностей с типом из API: %d" % n)
+
     db.commit()
     print("-> %s" % os.path.relpath(DB, CROWD))
 
@@ -223,6 +381,95 @@ def cmd_who(args):
         print("     EN %s\n     RU %s" % (e[:110], (r or "")[:110]))
 
 
+def cmd_term(args):
+    """Где встречается термин глоссария и не нарушен ли канон."""
+    db = connect()
+    if not args:
+        print("%-34s %-26s %7s %8s" % ("EN", "канон", "строк", "нарушений"))
+        for en, ru, n, bad in db.execute(
+                "SELECT t.en, t.ru, count(h.hash), "
+                "sum(CASE WHEN h.bad<>'' THEN 1 ELSE 0 END) "
+                "FROM term t LEFT JOIN term_hit h ON h.term=t.en "
+                "GROUP BY t.en ORDER BY 3 DESC LIMIT 40"):
+            print("%-34s %-26s %7d %8d" % (en[:34], (ru or "")[:26], n, bad or 0))
+        return
+    q = " ".join(args)
+    row = db.execute("SELECT en, ru, banned FROM term WHERE en LIKE ? LIMIT 1",
+                     ("%" + q + "%",)).fetchone()
+    if not row:
+        print("нет такого термина в GLOSSARY.md")
+        return
+    en, ru, banned = row
+    n = db.execute("SELECT count(*) FROM term_hit WHERE term=?", (en,)).fetchone()[0]
+    print("%s -> %s\n  строк с термином: %d\n  запрещено: %s"
+          % (en, ru, n, banned or "—"))
+    print("\n  по категориям:")
+    for name, c in db.execute(
+            "SELECT p.name, count(DISTINCT p.hash) FROM term_hit t "
+            "JOIN place p ON p.hash=t.hash WHERE t.term=? AND p.kind='категория' "
+            "GROUP BY p.name ORDER BY 2 DESC LIMIT 8", (en,)):
+        print("     %6d  %s" % (c, name))
+    bad = db.execute("SELECT s.english, s.ru FROM term_hit t JOIN string s "
+                     "ON s.hash=t.hash WHERE t.term=? AND t.bad<>'' LIMIT 5",
+                     (en,)).fetchall()
+    if bad:
+        print("\n  НАРУШЕНИЯ канона:")
+        for e, r in bad:
+            print("     EN %s\n     RU %s" % (e[:100], (r or "")[:100]))
+
+
+def cmd_bad(args):
+    """Дефекты: сводка, либо по категории, либо по имени персонажа."""
+    db = connect()
+    if not args:
+        print("%-34s %7s" % ("класс", "строк"))
+        for kind, c in db.execute(
+                "SELECT kind, count(DISTINCT hash) FROM defect "
+                "GROUP BY kind ORDER BY 2 DESC LIMIT 25"):
+            print("%-34s %7d" % (kind[:34], c))
+        return
+    q = " ".join(args)
+    rows = db.execute(
+        "SELECT d.kind, count(DISTINCT d.hash) FROM defect d JOIN mention m "
+        "ON m.hash=d.hash WHERE m.en LIKE ? GROUP BY d.kind ORDER BY 2 DESC",
+        ("%" + q + "%",)).fetchall()
+    if rows:
+        print("дефекты в строках, где упомянут «%s»:" % q)
+        for kind, c in rows:
+            print("   %5d  %s" % (c, kind[:60]))
+    rows = db.execute(
+        "SELECT d.kind, count(DISTINCT d.hash) FROM defect d JOIN place p "
+        "ON p.hash=d.hash WHERE p.kind='категория' AND p.name LIKE ? "
+        "GROUP BY d.kind ORDER BY 2 DESC LIMIT 15", ("%" + q + "%",)).fetchall()
+    if rows:
+        print("\nдефекты в категории «%s»:" % q)
+        for kind, c in rows:
+            print("   %5d  %s" % (c, kind[:60]))
+
+
+def cmd_skills(args):
+    """Покрытие умений: что забрали, а чего нет — по профессии, типу, оружию."""
+    db = connect()
+    col = {"проф": "prof", "тип": "type", "оружие": "weapon", "слот": "slot"}
+    key = col.get(args[0] if args else "проф", "prof")
+    print("%-22s %6s %8s %8s %9s" % ("разрез", "всего", "имя", "описание", "нет имени"))
+    for v, n, nm, ds, wd in db.execute(
+            "SELECT CASE WHEN %s='' THEN '(нет)' ELSE %s END, count(*), "
+            "sum(CASE WHEN name_ru<>'' THEN 1 ELSE 0 END), "
+            "sum(CASE WHEN descr<>'' AND descr_ru<>'' THEN 1 ELSE 0 END), "
+            "sum(CASE WHEN descr<>'' THEN 1 ELSE 0 END) "
+            "FROM skill GROUP BY 1 ORDER BY 2 DESC" % (key, key)):
+        gap = n - nm
+        print("%-22s %6d %8d %8s %9d"
+              % (v[:22], n, nm, "%d/%d" % (ds, wd), gap))
+    miss = db.execute("SELECT name, prof, type, weapon FROM skill "
+                      "WHERE name_ru='' LIMIT 12").fetchall()
+    if miss:
+        print("\nбез перевода названия, примеры:")
+        for nm, p, t, w in miss:
+            print("   %-42s %s %s %s" % (nm[:42], p, t, w))
+
+
 def cmd_cat(args):
     db = connect()
     if not args:
@@ -256,7 +503,7 @@ def cmd_dup(_args):
 
 
 CMDS = {"build": cmd_build, "find": cmd_find, "who": cmd_who,
-        "cat": cmd_cat, "dup": cmd_dup}
+        "cat": cmd_cat, "dup": cmd_dup, "term": cmd_term, "bad": cmd_bad, "skills": cmd_skills}
 
 if __name__ == "__main__":
     if len(sys.argv) < 2 or sys.argv[1] not in CMDS:

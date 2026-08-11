@@ -55,7 +55,7 @@ Xera's Fury,Ярость Xera
 Xinrae's Weapon,Оружие Ксинры
 You Will Join Us,Вы присоединитесь к нам
 "You and all your axe clones shadowstep to a random location around your target and strike, applying confusion. This attack breaks enemy targeting, and your illusions change focus to the targeted foe.","Вы и все ваши клоны с топорами совершаете теневой шаг в случайную точку вокруг цели и наносите удар, накладывая замешательство. Эта атака сбрасывает вражеское наведение, а ваши иллюзии переключаются на выбранного противника."
-"You and nearby allies gain swiftness, while curing crippled, immobilized, and chilled.","Вы и ближайшие союзники получаете стремительность, а также снимаете эффекты хромоты, обездвиживания и охлаждения."
+"You and nearby allies gain swiftness, while curing crippled, immobilized, and chilled.","Вы и ближайшие союзники получаете быстроту, а также снимаете эффекты хромоты, обездвиживания и заморозки."
 You are revealed and take additional damage from the source of the tether.,Вы обнаружены и получаете повышенный урон от источника связи.
 You are under the illusion that you are alive.,"Вы пребываете в иллюзии, что вы живы."
 You can use Death's Advance.,Вы можете использовать «Натиск смерти».
@@ -83,7 +83,7 @@ Your attacks can't be blocked.,Ваши атаки нельзя заблокир
 Your attacks chill foes.,Ваши атаки охлаждают врагов.
 Your attacks gain a follow-up strike.,Ваши атаки получают дополнительный удар.
 Your attacks immobilize foes.,Ваши атаки обездвиживают врагов.
-Your attacks inflict vulnerability and torment.,Ваши атаки накладывают уязвимость и мучение.
+Your attacks inflict vulnerability and torment.,Ваши атаки накладывают уязвимость и боль.
 Your attacks poison foes.,Ваши атаки отравляют врагов.
 Your attacks turn foes to stone.,Ваши атаки превращают врагов в камень.
 Your attributes are increased. Gain additional effects based on the <c=@abilitytype>morph</c> skills you have slotted.,Ваши атрибуты увеличены. Получайте дополнительные эффекты в зависимости от вставленных навыков <c=@abilitytype>трансформации</c>.
@@ -113,10 +113,10 @@ Your outgoing damage is reduced by 25% per stack.,Ваш исходящий ур
 Your outgoing strikes deal additional damage and restore your health.,Ваши исходящие удары наносят дополнительный урон и восстанавливают ваше здоровье.
 "Your pet strikes nearby enemies with vines, removing boons. Disabled or defiant enemies are also slowed.
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Ваш питомец атакует ближайших врагов лозами, снимая благословения. Ослабленные или сопротивляющиеся враги также замедляются.
-<c=@reminder>Ослабление включает в себя оглушение, ошеломление, отбрасывание, притягивание, сбивание с ног, погружение, подъем, отталкивание, насмешку и страх.</c>"
+<c=@reminder>Ослабление включает в себя оглушение, ошеломление, отбрасывание, притягивание, нокдаун, погружение, подъем, отталкивание, насмешку и страх.</c>"
 "Your pet teleports to your target and lashes out, poisoning enemies and applying vulnerability to disabled or defiant enemies.
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Ваш питомец телепортируется к цели и наносит удар, отравляя врагов и применяя эффект уязвимости к обездвиженным или находящимся в состоянии защиты противникам.
-<c=@reminder>Обездвиживание включает оглушение, ошеломление, отбрасывание, притягивание, сбивание с ног, погружение, подъем, отталкивание, насмешку и страх.</c>"
+<c=@reminder>Обездвиживание включает оглушение, ошеломление, отбрасывание, притягивание, нокдаун, погружение, подъем, отталкивание, насмешку и страх.</c>"
 "Your shattered illusion reforms into a mirror. Touching the mirror shatters it, granting mirage cloak to you and weakening foes.","Ваша разбитая иллюзия превращается в зеркало. Касание зеркала разбивает его, даруя вам «плащ миража» и ослабляя врагов."
 Your shot splits into a spread of harpoons that each bleed your target.,"Ваш выстрел распадается на веер гарпунов, каждый из которых вызывает кровотечение у цели."
 Your skin freezes through as death takes hold.,"Ваша кожа леденеет, когда смерть берет свое."
@@ -143,4 +143,4 @@ Zealot's Flame,Zealot's Flame
 Zealot's Flurry,Zealot's Flurry
 Zealous Benediction,Zealous Benediction
 Zephyrite Sun Crystal,Солнечный кристалл Зефира
-"Zommoros creates a bubble that heals allies, grants them protection, and cleanses their conditions.","Zommoros создает пузырь, который исцеляет союзников, дает им защиту и снимает состояния."
+"Zommoros creates a bubble that heals allies, grants them protection, and cleanses their conditions.","Zommoros создает пузырь, который исцеляет союзников, дает им протекцию и снимает состояния."

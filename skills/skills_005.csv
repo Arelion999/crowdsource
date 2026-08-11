@@ -13,7 +13,7 @@ Conjure Frost Attributes,Призвать атрибуты мороза
 Conjure Frost Bow,Призвать ледяной лук
 Conjure Lightning Attributes,Призвать атрибуты молнии
 Conjure Lightning Hammer,Призвать молот молнии
-Conjure a bullet that bounces to nearby enemies. Gain might for each target struck.,"Призовите пулю, которая рикошетит в ближайших врагов. Получайте могущество за каждую пораженную цель."
+Conjure a bullet that bounces to nearby enemies. Gain might for each target struck.,"Призовите пулю, которая рикошетит в ближайших врагов. Получайте мощь за каждую пораженную цель."
 "Conjure a drill of dark energy on your blade, and rend the armor of foes in front of you.",Призовите бур из темной энергии на свой клинок и разорвите броню врагов перед собой.
 Conjure a focused volley of arrows to harass your foes.,"Призовите сфокусированный залп стрел, чтобы изматывать врагов."
 Conjure a magical axe to rake your enemies toward you.,"Призовите магический топор, чтобы притянуть врагов к себе."
@@ -22,7 +22,7 @@ Conjure a portal through the Mists and fire barbed arrows to strike from unexpec
 Conjure a powerful bow of wind that consumes arrows and generates Wind Force.,"Призовите мощный лук ветра, который поглощает стрелы и генерирует Силу ветра."
 "Conjure a twister at the target location, making foes vulnerable. Foes in the center of the twister are lifted into the air.","Призовите смерч в указанной области, делая врагов уязвимыми. Враги в центре смерча подбрасываются в воздух."
 "Conjure a whirlpool at the target location, pulling enemies in. Enemies at the center of the whirlpool are slowed.","Призовите водоворот в указанной области, притягивающий врагов. Враги в центре водоворота замедляются."
-"Conjure claws of darkness from the shadows to attack foes, applying a condition to them and pulling them to you. Gain quickness if you strike a foe and gain life force for each struck foe.","Призовите когти тьмы из теней для атаки врагов, накладывая на них состояние и притягивая их к себе. Получите быстроту при попадании по врагу и жизненную силу за каждого пораженного врага."
+"Conjure claws of darkness from the shadows to attack foes, applying a condition to them and pulling them to you. Gain quickness if you strike a foe and gain life force for each struck foe.","Призовите когти тьмы из теней для атаки врагов, накладывая на них состояние и притягивая их к себе. Получите проворство при попадании по врагу и жизненную силу за каждого пораженного врага."
 Conjured Barrier,Призванный барьер
 Conjured Slash,Призванный удар
 Conjured arrows strike your target.,Призванные стрелы поражают вашу цель.
@@ -56,9 +56,9 @@ Corpse Detonation,Детонация трупа
 Corrosive Poison Cloud,Едкое ядовитое облако
 Corrosive Residue,Едкий остаток
 Corrupt Boon,Осквернение благословения
-Corrupt boons from enemies around your target. Inflict torment and gain life force for each condition on your initial target up to the threshold. Gain extra life force for each extra foe struck.,Оскверняет благословения врагов вокруг вашей цели. Накладывает мучение и дает жизненную силу за каждое состояние на вашей начальной цели вплоть до порогового значения. Дает дополнительную жизненную силу за каждого дополнительного пораженного врага.
+Corrupt boons from enemies around your target. Inflict torment and gain life force for each condition on your initial target up to the threshold. Gain extra life force for each extra foe struck.,Оскверняет благословения врагов вокруг вашей цели. Накладывает боль и дает жизненную силу за каждое состояние на вашей начальной цели вплоть до порогового значения. Дает дополнительную жизненную силу за каждого дополнительного пораженного врага.
 Corrupt the Living,Испортить живое
-"Corrupt the ground under your target; if they remain within the area, they will be knocked down. Grant might to allies near your target based on how many conditions they have.","Испортите землю под вашей целью; если они останутся в области, они будут сбиты с ног. Даруйте могущество союзникам рядом с вашей целью в зависимости от того, сколько состояний на них наложено."
+"Corrupt the ground under your target; if they remain within the area, they will be knocked down. Grant might to allies near your target based on how many conditions they have.","Испортите землю под вашей целью; если они останутся в области, они будут сбиты с ног. Даруйте мощь союзникам рядом с вашей целью в зависимости от того, сколько состояний на них наложено."
 Corrupted Claws,Оскверненные когти
 Corrupted Ground,Оскверненная земля
 Corrupted Siphon,Оскверненный сифон
@@ -144,7 +144,7 @@ Create a wall of flame at the target area that burns foes.,"Создает ст�
 Create an area that blocks projectiles and prevents enemies from entering or leaving.,"Создает область, которая блокирует снаряды и препятствует входу или выходу врагов."
 Create an area that blocks projectiles and weakens foes.,"Создает область, которая блокирует снаряды и ослабляет врагов."
 Create an electrical field that stuns foes crossing it.,"Создает электрическое поле, которое оглушает врагов, пересекающих его."
-"Create an eruption of despair around you, inflicting torment on enemies and dazing them. For each enemy struck, inflict torment on yourself. Each point of affinity you have increases the torment duration on enemies and reduces the torment duration on yourself.","Создает извержение отчаяния вокруг вас, накладывая мучение на врагов и ошеломляя их. За каждого пораженного врага наложите мучение на себя. Каждая единица сродства увеличивает длительность мучения на врагах и уменьшает длительность мучения на вас."
+"Create an eruption of despair around you, inflicting torment on enemies and dazing them. For each enemy struck, inflict torment on yourself. Each point of affinity you have increases the torment duration on enemies and reduces the torment duration on yourself.","Создает извержение отчаяния вокруг вас, накладывая боль на врагов и ошеломляя их. За каждого пораженного врага наложите боль на себя. Каждая единица сродства увеличивает длительность боли на врагах и уменьшает длительность боли на вас."
 "Create an explosion of magical energy, confusing your foe.","Создает взрыв магической энергии, сбивающий с толку вашего врага."
 Create fetid ground that damages and poisons foes.,"Создает зловонную землю, которая наносит урон и отравляет врагов."
 Create fissures under nearby enemies.,Создает разломы под ближайшими врагами.
@@ -154,7 +154,7 @@ Create unsteady ground that foes cannot cross.,"Создает нестабил�
 Creates a launch orb if it completes its path. Refreshes Nova Launch when bouncing on party members. Explodes when contacting the ground.,"Создает стартовую сферу, если завершает свой путь. Обновляет Nova Launch при отскоке от членов группы. Взрывается при контакте с землей."
 Creates a pulsing area attack.,Создает пульсирующую область атаки.
 Creates a rain of damaging ice fields in a wide area.,"Создает дождь из ледяных полей, наносящих урон на большой площади."
-Creates a shock wave of sharp spikes. Applies knockdown.,Создает ударную волну из острых шипов. Накладывает сбивание с ног.
+Creates a shock wave of sharp spikes. Applies knockdown.,Создает ударную волну из острых шипов. Накладывает нокдаун.
 Creates a steam prison that prevents escape and reflects projectiles.,"Создает паровую тюрьму, которая препятствует побегу и отражает снаряды."
 Creates a steam prison that reflects projectiles.,"Создает паровую тюрьму, которая отражает снаряды."
 Creates a tar pool that slows enemies.,"Создает лужу смолы, которая замедляет врагов."
@@ -167,7 +167,7 @@ Crimson Dawn,Багровый рассвет
 Crimson Tide,Багровый прилив
 Cripple multiple foes with lava chains.,Калечит нескольких врагов лавовыми цепями.
 Cripple nearby foes and remove their boons. Gain resolution for each foe you strike. Remove additional boons on foes below the health threshold.,"Калечит ближайших врагов и снимает с них благословения. Получите решимость за каждого пораженного врага. Снимает дополнительные благословения с врагов, чей уровень здоровья ниже порогового."
-Cripple nearby foes and remove their boons. Release an Unholy Burst on foes below the health threshold.,Увечье на ближайших врагов и удаление их благ. Высвобождение нечестивого взрыва на врагов ниже порога здоровья.
+Cripple nearby foes and remove their boons. Release an Unholy Burst on foes below the health threshold.,Хромота на ближайших врагов и удаление их благ. Высвобождение нечестивого взрыва на врагов ниже порога здоровья.
 Cripple your foe with a final strike.,Калечит врага финальным ударом.
 Cripple your foe with a kick.,Калечит врага ударом ноги.
 Cripple your foe with a precise slash.,Калечит врага точным разрезом.
@@ -268,7 +268,7 @@ Damage against low-health foes,Урон по врагам с низким уро
 Damage and condition damage taken are increased; stacks intensity.,Получаемый урон и урон от состояний увеличены; суммируется по интенсивности.
 Damage and cripple nearby enemies.,Наносит урон и калечит ближайших врагов.
 Damage at 50% or Above,Урон при 50% или выше
-Damage foes at the end of your dodge roll. Gain might for each foe struck by this attack.,"Наносит урон врагам в конце вашего переката. Получите могущество за каждого врага, пораженного этой атакой."
+Damage foes at the end of your dodge roll. Gain might for each foe struck by this attack.,"Наносит урон врагам в конце вашего переката. Получите мощь за каждого врага, пораженного этой атакой."
 Damage foes in a cone in front of you. Deal more damage to burning foes.,Наносит урон врагам в конусе перед вами. Наносит больше урона горящим врагам.
 Damage foes in an area that grows larger.,"Наносит урон врагам в области, которая увеличивается."
 Damage foes with a spread of icy arrows that cause chill. Extra projectiles are launched for each stack of Water Arrow accumulated.,"Наносит урон врагам веером ледяных стрел, вызывающих холод. Дополнительные снаряды выпускаются за каждый накопленный заряд Водяной стрелы."
@@ -337,7 +337,7 @@ Dash in a direction and slightly recharge Abyssal Raze while leaving portals in 
 Dawn's Repose,Покой Рассвета
 Daybreaking Slash,Рассветный удар
 Daze,Ошеломление
-"Daze and weaken nearby enemies. Grant fury, might, and swiftness to yourself and nearby allies.","Ошеломите и ослабьте ближайших врагов. Дайте ярость, мощь и стремительность себе и ближайшим союзникам."
+"Daze and weaken nearby enemies. Grant fury, might, and swiftness to yourself and nearby allies.","Ошеломите и ослабьте ближайших врагов. Дайте ярость, мощь и быстроту себе и ближайшим союзникам."
 Daze enemies.,Ошеломите врагов.
 Daze from Behind,Ошеломление со спины
 Daze per Blade,Ошеломление за клинок
@@ -385,7 +385,7 @@ Deals damage and knocks down foes.,Наносит урон и сбивает в�
 Deals damage every second. Deals additional damage to foes that aren't moving. Stacks intensity.,Наносит урон каждую секунду. Наносит дополнительный урон неподвижным врагам. Суммирует интенсивность.
 Deals damage every second; decreases healing effectiveness by 33%%; damage stacks intensity.,Наносит урон каждую секунду; снижает эффективность лечения на 33%%; урон складывается по интенсивности.
 Deals damage every second; stacks intensity.,Наносит урон каждую секунду; суммирует интенсивность.
-Deals damage every second; stacks intensity; reduces incoming healing and barrier application by 70% per stack; damage is reduced by agony resistance.,Наносит урон каждую секунду; суммирует интенсивность; снижает входящее исцеление и наложение барьера на 70% за стак; урон снижается сопротивлением агонии.
+Deals damage every second; stacks intensity; reduces incoming healing and barrier application by 70% per stack; damage is reduced by agony resistance.,Наносит урон каждую секунду; суммирует интенсивность; снижает входящее исцеление и наложение барьера на 70% за стак; урон снижается сопротивляемостью агонии.
 Deals damage in a circle.,Наносит урон по кругу.
 Deals damage in a small radius.,Наносит урон в небольшом радиусе.
 "Deals damage in the target area, and creates a damaging field.",Наносит урон в целевой области и создает опасное поле.
@@ -483,12 +483,12 @@ Deliver a blow to your foe. Your pet gains might for each foe struck.,Нанес
 Deliver a crushing blow that sends toxic energy chaining to enemies behind each target.,"Нанесите сокрушительный удар, который посылает токсичную энергию, цепью поражающую врагов за каждой целью."
 Deliver a final poisonous attack.,Нанесите финальную ядовитую атаку.
 "Deliver a finishing thrust, breaking your opponent's mind and inflicting weakness.","Нанесите завершающий выпад, ломая разум противника и накладывая слабость."
-"Deliver a leaping strike that deals more damage to disabled, defiant, or movement-impaired foes. Gain vigor if an enemy is struck.","Нанесите прыжковый удар, который наносит больше урона обездвиженным, непокорным или замедленным врагам. Получите бодрость, если враг поражен."
+"Deliver a leaping strike that deals more damage to disabled, defiant, or movement-impaired foes. Gain vigor if an enemy is struck.","Нанесите прыжковый удар, который наносит больше урона обездвиженным, непокорным или замедленным врагам. Получите энергичность, если враг поражен."
 Deliver a powerful overhand strike to stun a single target. Deals more damage the lower health the target is. Leaves behind a field of ice.,"Нанесите мощный удар сверху, чтобы оглушить одну цель. Наносит больше урона, чем ниже здоровье цели. Оставляет после себя ледяное поле."
 "Deliver a quick burst of fire that pierces targets, followed by an explosive grenade.","Нанесите быструю очередь огня, которая пронзает цели, за которой следует взрывная граната."
 Deliver a second devastating blow.,Нанесите второй разрушительный удар.
 Deliver a second strike that heals yourself for each target it hits.,"Нанесите второй удар, который исцеляет вас за каждую пораженную цель."
-"Deliver a second strike, gaining swiftness.","Нанесите второй удар, получая стремительность."
+"Deliver a second strike, gaining swiftness.","Нанесите второй удар, получая быстроту."
 "Deliver multiple strikes, weakening foes.","Нанесите несколько ударов, ослабляя врагов."
 "Deliver the final attack, calling lightning strikes onto enemies.","Нанесите финальную атаку, призывая удары молнии на врагов."
 Deliver three final chops to your foe.,Нанесите три финальных рубящих удара по врагу.

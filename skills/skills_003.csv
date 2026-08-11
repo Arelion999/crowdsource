@@ -29,10 +29,10 @@ A gaze that petrifies targets.,"Взгляд, превращающий цели 
 A heavy melee attack.,Тяжелая атака ближнего боя.
 A horrifying hallucination whose malevolence sucks the life out of anything nearby.,"Ужасающая галлюцинация, чья злоба высасывает жизнь из всего поблизости."
 "A large spike of ice erupts from the ground, launching targets into the air.","Из земли вырывается крупный ледяной шип, подбрасывая цели в воздух."
-"A large swell blasts across the platform, knocking back any who are caught by it. The largos gains protection for each foe struck.","Мощная волна проносится по платформе, отбрасывая всех, кто попал под нее. Largos получает защиту за каждого пораженного врага."
+"A large swell blasts across the platform, knocking back any who are caught by it. The largos gains protection for each foe struck.","Мощная волна проносится по платформе, отбрасывая всех, кто попал под нее. Largos получает протекцию за каждого пораженного врага."
 A leap followed by a vicious slashing attack.,"Прыжок, за которым следует яростный рубящий удар."
-A lightning blast that bounces between foes and applies quickness to the caster.,"Удар молнии, который отскакивает между врагами и накладывает быстроту на заклинателя."
-A lunging melee attack.,Атака ближнего боя с выпадом.
+A lightning blast that bounces between foes and applies quickness to the caster.,"Удар молнии, который отскакивает между врагами и накладывает проворство на заклинателя."
+A lunging melee attack.,Резануть вашего противника.
 A magical vapor surrounds the largos as it rushes around the battlefield.,"Магический пар окружает Largos, пока тот носится по полю боя."
 "A magically expanding pool of water is summoned at a player's location, allowing the largos to more easily hunt them. If the tracked player jumps off the platform, the pool will form at their last-known location.","Магически расширяющаяся лужа воды призывается в месте нахождения игрока, позволяя Largos легче охотиться на них. Если отслеживаемый игрок спрыгивает с платформы, лужа образуется в его последнем известном местоположении."
 A melee attack.,Атака ближнего боя.
@@ -43,7 +43,7 @@ A melee stun.,Оглушение в ближнем бою.
 "A number of players closest to Decima are targeted with bolts of Discordant Thunder. If a bolt's area of effect strikes a conduit, it gains some charge.","Несколько игроков, ближайших к Decima, становятся целями для разрядов «Дискордантного грома». Если область действия разряда попадает в проводник, он получает заряд."
 "A persistent electrical field that increases in damage over time appears under any player hit by Sparkwave. Upon reaching maximum damage, it also dazes and applies vulnerability.","Постоянное электрическое поле, урон от которого со временем увеличивается, появляется под любым игроком, пораженным Sparkwave. При достижении максимального урона оно также ошеломляет и накладывает уязвимость."
 A pistol attack that inflicts poison.,"Выстрел из пистолета, накладывающий яд."
-"A platform bursts into flame, dealing fire damage, stripping boons, and applying cripple and weakness.","Платформа вспыхивает пламенем, нанося урон огнем, снимая благословения и накладывая увечье и слабость."
+"A platform bursts into flame, dealing fire damage, stripping boons, and applying cripple and weakness.","Платформа вспыхивает пламенем, нанося урон огнем, снимая благословения и накладывая хромоту и слабость."
 A platform has been violently torn apart.,Платформа была яростно разорвана на части.
 A pool of poison left behind after purging the volatile-poison condition.,"Лужа яда, оставшаяся после очистки состояния volatile-poison."
 "A powerful beam strikes from above, charging the ground with ley energies.","Мощный луч ударяет сверху, заряжая землю энергией лей-линий."
@@ -67,7 +67,7 @@ A small piece of debris has fallen from the ceiling of the cave.,Небольш�
 A smashing hammer blow.,Сокрушительный удар молотом.
 A special pistol attack loaded with Ankka's powerful hallucinogens.,"Особая атака из пистолета, заряженного мощными галлюциногенами Ankka."
 A spin attack that pulls and stuns unwary victims.,"Вращающаяся атака, которая притягивает и оглушает неосторожных жертв."
-A spinning area attack.,Вращающаяся атака по области.
+A spinning area attack.,"Броситься, кружась, в направлении цели, нанося по дороге порезы противникам."
 A spinning scythe attack that knocks back foes.,"Вращающаяся атака косой, отбрасывающая врагов."
 A strike that applies bleeding to foes.,"Удар, накладывающий кровотечение на врагов."
 A strike that can send the beast into a frenzy if its target is bleeding.,"Удар, который может вогнать зверя в ярость, если цель истекает кровью."
@@ -153,12 +153,12 @@ Additional-Hit Recharge Reduction,Сокращение перезарядки о
 Addle,Одурманивание
 Adina channels deadly earth beams and scatters them around the arena.,Adina направляет смертоносные лучи земли и рассеивает их по арене.
 "Adina conjures stalagmites that cannot be evaded or blocked. They will detonate if anyone gets close, inflicting heavy damage and destroying the underlying pillar.","Adina призывает сталагмиты, от которых нельзя уклониться или заблокировать. Они детонируют, если кто-то подойдет близко, нанося тяжелый урон и разрушая колонну под ними."
-Adina hurls forth a damaging cascade of stone and applies might to herself.,Adina обрушивает разрушительный каскад камней и накладывает на себя могущество.
+Adina hurls forth a damaging cascade of stone and applies might to herself.,Adina обрушивает разрушительный каскад камней и накладывает на себя мощь.
 Adina raises a pillar that kills nearby foes and sends out a shock wave that cripples and immobilizes those who don't jump over it.,"Adina поднимает колонну, которая убивает ближайших врагов и испускает ударную волну, накладывающую увечье и обездвиживание на тех, кто не перепрыгнул через нее."
 Adina sends out a shock wave that transforms the arena into a new shape.,"Adina испускает ударную волну, которая меняет форму арены."
 Adina sets off a terrain cascade that pulls anyone caught in it and destroys the furthest pillar along the cascade.,"Adina запускает каскад местности, который притягивает всех попавших в него и разрушает самую дальнюю колонну вдоль каскада."
 "Adina shoots rocks that explode upon impact, causing shrapnel pieces to blind those they hit and to deal high damage.","Adina стреляет камнями, которые взрываются при ударе, вызывая осколки, ослепляющие тех, кого они задевают, и наносящие высокий урон."
-"Adina turns her skin into diamond, reflecting projectiles and applying boons to herself. After two seconds, her skin will cast Radiant Blindness to those who are not facing away.","Adina превращает свою кожу в алмаз, отражая снаряды и накладывая на себя благословения. Через две секунды ее кожа наложит «Сияющее ослепление» на тех, кто не отвернулся."
+"Adina turns her skin into diamond, reflecting projectiles and applying boons to herself. After two seconds, her skin will cast Radiant Blindness to those who are not facing away.","Adina превращает свою кожу в алмаз, отражая снаряды и накладывая на себя благословения. Через две секунды ее кожа наложит «Сияющее слепоту» на тех, кто не отвернулся."
 Adina's defiance bar must be broken or she will kill all her foes. She can only be broken from the rotating blue region.,"Шкалу стойкости Adina необходимо сломать, иначе она убьет всех своих врагов. Ее можно сломать только из вращающейся синей области."
 Adrenaline,Адреналин
 Adrenaline If Not Attacked,"Адреналин, если не атакован"
@@ -173,8 +173,8 @@ Aegis Refresh,Обновление Эгиды
 Aerial Agility,Воздушная ловкость
 Aerial Support,Воздушная поддержка
 "After a delay, deliver a circular attack to foes around you. Increases flow rate if it hits.",После небольшой задержки нанесите круговой удар по врагам вокруг вас. При попадании увеличивает скорость потока.
-"After a short channel, unleash a blast of compressed magic that stuns enemies. Nearby allies and your tethered ally gain stability. Heal your tethered ally based on each enemy you hit.","После короткого канала высвободите взрыв сжатой магии, оглушающий врагов. Близлежащие союзники и ваш связанный союзник получают стабильность. Исцелите связанного союзника в зависимости от количества пораженных врагов."
-"After a short delay, release a torrent of flame. Allies are granted might, while damage and burning is increased based on might on you.","После короткой задержки выпустите поток пламени. Союзники получают могущество, а урон и горение увеличиваются в зависимости от вашего могущества."
+"After a short channel, unleash a blast of compressed magic that stuns enemies. Nearby allies and your tethered ally gain stability. Heal your tethered ally based on each enemy you hit.","После короткого канала высвободите взрыв сжатой магии, оглушающий врагов. Близлежащие союзники и ваш связанный союзник получают устойчивость. Исцелите связанного союзника в зависимости от количества пораженных врагов."
+"After a short delay, release a torrent of flame. Allies are granted might, while damage and burning is increased based on might on you.","После короткой задержки выпустите поток пламени. Союзники получают мощь, а урон и горение увеличиваются в зависимости от вашего мощи."
 "After using a Lava Axe ability, your next Lava Axe attack fires twice.",После использования способности Лавового топора ваша следующая атака Лавовым топором срабатывает дважды.
 Afterburner,Форсаж
 Aftershock Damage,Урон от афтершока
@@ -233,7 +233,7 @@ An explosion that dazes enemies.,"Взрыв, ошеломляющий враг�
 An explosive attack that knocks back enemies.,"Взрывная атака, отбрасывающая врагов."
 An explosive attack.,Взрывная атака.
 An icy blast that damages and pushes targets.,"Ледяной взрыв, который наносит урон и отталкивает цели."
-"An immense, slow-moving orb of crackling energy fired by a hallucination of Scarlet. Applies torment.","Огромная, медленно движущаяся сфера потрескивающей энергии, выпущенная галлюцинацией Scarlet. Накладывает мучение."
+"An immense, slow-moving orb of crackling energy fired by a hallucination of Scarlet. Applies torment.","Огромная, медленно движущаяся сфера потрескивающей энергии, выпущенная галлюцинацией Scarlet. Накладывает боль."
 An orb of electrical energy damages anything in its path.,"Сфера электрической энергии, повреждающая все на своем пути."
 An unblockable slam that dazes foes and inflicts additional stacks of bleeding the closer it is.,"Неблокируемый удар, который ошеломляет врагов и накладывает дополнительные стаки кровотечения, чем ближе цель."
 "An unleashed wave of energy that damages, stuns, and applies Unseen Burden.","Высвобожденная волна энергии, которая наносит урон, оглушает и накладывает Невидимое бремя."
@@ -256,12 +256,12 @@ Applies additional stacks of bleeding to foes at closer range.,Накладыв�
 Applies bleeding and Vampiric Infection to foes.,Накладывает кровотечение и Вампирическую инфекцию на врагов.
 Applies bleeding to foes who are vulnerable.,Накладывает кровотечение на уязвимых врагов.
 Applies conditions and reduces outgoing damage by 10%.,Накладывает состояния и снижает исходящий урон на 10%.
-"Applies poison and Sulfuric Acid, and grants protection and might to Ura.","Накладывает яд и Серную кислоту, а также дает защиту и могущество Ura."
+"Applies poison and Sulfuric Acid, and grants protection and might to Ura.","Накладывает яд и Серную кислоту, а также дает протекцию и мощь Ura."
 Applies vulnerability.,Накладывает уязвимость.
 Apply Buff/Condition,Наложить бафф/состояние
 Apply confusion to nearby foes. You gain resolution.,Наложите замешательство на ближайших врагов. Вы получаете решимость.
-"Apply protection to you and your allies, then increase the duration of all boons currently existing on you and your allies. Gain magnetic aura.","Наложите защиту на себя и союзников, затем увеличьте длительность всех действующих на вас и ваших союзников благословений. Получите магнитную ауру."
-Apply protection to yourself.,Наложите защиту на себя.
+"Apply protection to you and your allies, then increase the duration of all boons currently existing on you and your allies. Gain magnetic aura.","Наложите протекцию на себя и союзников, затем увеличьте длительность всех действующих на вас и ваших союзников благословений. Получите магнитную ауру."
+Apply protection to yourself.,Наложите протекцию на себя.
 Approaching Doom,Приближающаяся гибель
 Aqua Jet,Водная струя
 Aqua Siphon,Водный сифон
@@ -332,7 +332,7 @@ Attack foes in front of you with a series of strikes.,Атакуйте враг�
 Attack nearby foes.,Атакуйте ближайших врагов.
 Attack of Opportunity,Атака по возможности
 Attack while reflecting projectiles.,"Атакуйте, отражая снаряды."
-"Attack with a final, powerful strike that applies might for each foe you strike.","Атакуйте финальным мощным ударом, который накладывает могущество за каждого пораженного врага."
+"Attack with a final, powerful strike that applies might for each foe you strike.","Атакуйте финальным мощным ударом, который накладывает мощь за каждого пораженного врага."
 Attack with a pecking frenzy and make your foe vulnerable.,Атакуйте яростным клеванием и сделайте врага уязвимым.
 Attack your foe with the force of a bear. Your pet gains an attack of opportunity.,Атакуйте врага силой медведя. Ваш питомец получает атаку по возможности.
 "Attacks a frontal cone, knocking down enemies.","Атакует передний конус, сбивая врагов с ног."
@@ -364,9 +364,9 @@ Balanced Stance,Сбалансированная стойка
 Balanced Strike,Сбалансированный удар
 Balthazar uses his flaming sword to smite you.,"Balthazar использует свой пылающий меч, чтобы покарать вас."
 Balthazar's Flame,Пламя Balthazar
-"Band Together. After using this skill, your next Legendary Renegade skill activates instantly and is enhanced. When this skill is enhanced it also grants resistance to nearby allies.",Сплочение. После использования этого навыка ваш следующий навык легендарного ренегата активируется мгновенно и усиливается. При усилении этот навык также дает сопротивление ближайшим союзникам.
-"Band Together. After using this skill, your next Legendary Renegade skill activates instantly and is enhanced. When this skill is enhanced it also inflicts chilled on enemies that it strikes.",Сплочение. После использования этого навыка ваш следующий навык легендарного ренегата активируется мгновенно и усиливается. При усилении этот навык также накладывает охлаждение на пораженных врагов.
-"Band Together. After using this skill, your next Legendary Renegade skill activates instantly and is enhanced. When this skill is enhanced it also inflicts torment on enemies that it strikes.",Сплочение. После использования этого навыка ваш следующий навык легендарного ренегата активируется мгновенно и усиливается. При усилении этот навык также накладывает мучение на пораженных врагов.
+"Band Together. After using this skill, your next Legendary Renegade skill activates instantly and is enhanced. When this skill is enhanced it also grants resistance to nearby allies.",Сплочение. После использования этого навыка ваш следующий навык легендарного ренегата активируется мгновенно и усиливается. При усилении этот навык также дает сопротивляемость ближайшим союзникам.
+"Band Together. After using this skill, your next Legendary Renegade skill activates instantly and is enhanced. When this skill is enhanced it also inflicts chilled on enemies that it strikes.",Сплочение. После использования этого навыка ваш следующий навык легендарного ренегата активируется мгновенно и усиливается. При усилении этот навык также накладывает заморозку на пораженных врагов.
+"Band Together. After using this skill, your next Legendary Renegade skill activates instantly and is enhanced. When this skill is enhanced it also inflicts torment on enemies that it strikes.",Сплочение. После использования этого навыка ваш следующий навык легендарного ренегата активируется мгновенно и усиливается. При усилении этот навык также накладывает боль на пораженных врагов.
 "Band Together. After using this skill, your next Legendary Renegade skill activates instantly and is enhanced. When this skill is enhanced, it also grants barrier to nearby allies.",Сплочение. После использования этого навыка ваш следующий навык легендарного ренегата активируется мгновенно и усиливается. При усилении этот навык также накладывает барьер на ближайших союзников.
 Bandage,Бинт
 Bandage Blast,Взрыв перевязки
@@ -422,7 +422,7 @@ Bear Stance,Стойка медведя
 Beast. Gain regeneration.,Зверь. Получает регенерацию.
 Beastmode,Режим зверя
 "Become a Reaper of Grenth, chilling and poisoning nearby foes.","Станьте Жнецом Грента, накладывая на врагов холод и отравление."
-"Become a wisp of natural energy, traversing to the targeted location. When you reach the target, heal nearby allies and grant protection to your pet. Recharge is reduced if you heal another ally.","Станьте сгустком природной энергии, перемещаясь к выбранной цели. По прибытии исцелите ближайших союзников и дайте защиту своему питомцу. Время перезарядки сокращается, если вы исцеляете другого союзника."
+"Become a wisp of natural energy, traversing to the targeted location. When you reach the target, heal nearby allies and grant protection to your pet. Recharge is reduced if you heal another ally.","Станьте сгустком природной энергии, перемещаясь к выбранной цели. По прибытии исцелите ближайших союзников и дайте протекцию своему питомцу. Время перезарядки сокращается, если вы исцеляете другого союзника."
 Become surrounded in a magnetic shield that reflects projectiles.,"Окружите себя магнитным щитом, отражающим снаряды."
 Become the Bear,Станьте Медведем
 Become the Raven,Станьте Вороном
@@ -480,7 +480,7 @@ Blast Damage,Взрывной урон
 Blast Delay,Задержка взрыва
 Blast Gyro,Взрывной гироскоп
 Blast Radius,Радиус взрыва
-Blast a foe with a plague that transfers one condition to them.,"Поразите врага чумой, которая передает ему одно состояние."
+Blast a foe with a plague that transfers one condition to them.,"Ударить противника чумой, которая переносит на него одно состояние."
 "Blast demonic energy in front of you, inflicting conditions on enemies it hits.","Выпустите демоническую энергию перед собой, накладывая состояния на пораженных врагов."
 Blast foes with wind.,Поразите врагов ветром.
 Blast out a cyclone that pulls enemies toward its location and grants swiftness to allies it affects.,"Выпустите циклон, который притягивает врагов к своему местоположению и дает скорость союзникам, которых он затрагивает."

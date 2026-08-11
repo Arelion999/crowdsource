@@ -94,7 +94,7 @@ Fire a volley of shots at your foe.,Выстрелите залпом по пр�
 Fire all the barrels in your hand cannon to deal damage to foes in front of you. This skill consumes all your ammo when fired and pushes you back slightly based on the amount of ammo expended.,"Выстрелите из всех стволов ручной пушки, чтобы нанести урон противникам перед собой. Это умение расходует все ваши боеприпасы при выстреле и слегка отталкивает вас назад в зависимости от количества потраченных боеприпасов."
 "Fire an arrow and shadowstep to the target area, blinding nearby foes.","Выпускает стрелу и совершает теневой шаг в указанную область, ослепляя ближайших врагов."
 "Fire an arrow equipped with a device that spreads shadow magic across the ground on impact, healing and removing conditions from allies with the initial detonation, and healing allies with each pulse afterward.","Выстрелите стрелой с устройством, которое при попадании разливает магию тени по земле, исцеляя и снимая состояния с союзников при начальном взрыве, а также исцеляя союзников при каждом последующем импульсе."
-"Fire an arrow equipped with a payload that explodes enchanted sand on impact, granting barrier and might to allies.","Выстрелите стрелой с зарядом, который при попадании взрывает зачарованный песок, даруя союзникам барьер и могущество."
+"Fire an arrow equipped with a payload that explodes enchanted sand on impact, granting barrier and might to allies.","Выстрелите стрелой с зарядом, который при попадании взрывает зачарованный песок, даруя союзникам барьер и мощь."
 "Fire an arrow equipped with an electric module that discharges when striking your target, shocking them and two nearby enemies with an electric blast.","Выстрелите стрелой с электрическим модулем, который разряжается при попадании в цель, поражая её и двух ближайших врагов электрическим взрывом."
 Fire an arrow that bleeds and immobilizes your target.,"Выстрелите стрелой, которая вызывает кровотечение и обездвиживает цель."
 Fire an arrow that bounces between nearby foes and inflicts bleeding when striking poisoned enemies.,"Выстрелите стрелой, которая рикошетит между ближайшими противниками и накладывает кровотечение при попадании по отравленным врагам."
@@ -111,7 +111,7 @@ Fire multiple arrows at your foe.,Выстрелите несколькими с
 Fire multiple piercing blasts at your target.,Выстрелите несколькими пронзающими зарядами по цели.
 Fire multiple shots that push back your foe.,"Выстрелите несколькими снарядами, которые отталкивают противника."
 Fire out a spread of explosive mines at your enemy.,Выстрелите веером взрывных мин по врагу.
-"Fire quick bolts of dark energy that explode on impact, inflicting torment to enemies in the area.","Выстрелите быстрыми сгустками темной энергии, которые взрываются при попадании, накладывая мучение на врагов в области действия."
+"Fire quick bolts of dark energy that explode on impact, inflicting torment to enemies in the area.","Выстрелите быстрыми сгустками темной энергии, которые взрываются при попадании, накладывая боль на врагов в области действия."
 Fire several bandages ahead of you to heal allies.,"Выстрелите несколькими бинтами перед собой, чтобы исцелить союзников."
 Fire several shards of shrapnel that inflict more damage the closer you are to foes. You and nearby allies gain might.,"Выстрелите несколькими осколками шрапнели, которые наносят больше урона, чем ближе вы к противникам. Вы и ближайшие союзники получаете могущество."
 "Fire six bolts of tormenting energy that fan out from you, piercing all enemies in their path.","Выстрелите шестью сгустками мучающей энергии, которые веером расходятся от вас, пронзая всех врагов на своем пути."
@@ -403,7 +403,7 @@ Giant Flurry,Гигантский шквал
 Giant Kick,Гигантский пинок
 Giant Snowball,Гигантский снежок
 Giant Stomp,Гигантский топот
-"Give might and fury to yourself, then spread boons you have to allies.","Дайте себе могущество и ярость, затем распространите свои благословения на союзников."
+"Give might and fury to yourself, then spread boons you have to allies.","Дайте себе мощь и ярость, затем распространите свои благословения на союзников."
 Give yourself random boons and your foe random conditions whenever you are struck.,"Даруйте себе случайные благословения, а врагу — случайные состояния всякий раз, когда вас бьют."
 Glacial Blow,Ледяной удар
 Glacial Drift,Ледяной дрейф
@@ -449,7 +449,7 @@ Grant boons to yourself and nearby allies.,Дарует благословени
 Grant fury to allies around you and blind your marked target. Gain stealth if malice is at or above the threshold.,"Дарует ярость союзникам вокруг вас и ослепляет отмеченную цель. Вы получаете скрытность, если уровень злобы равен или выше порогового значения."
 Grant might to allies around you and weaken your marked target. Gain stealth if malice is at or above the threshold.,"Дарует мощь союзникам вокруг вас и ослабляет отмеченную цель. Вы получаете скрытность, если уровень злобы равен или выше порогового значения."
 Grant protection to allies around you and inflict vulnerability on your marked target. Gain stealth if malice is at or above the threshold.,"Дарует защиту союзникам вокруг вас и накладывает уязвимость на отмеченную цель. Вы получаете скрытность, если уровень злобы равен или выше порогового значения."
-Grant protection to nearby allies.,Дарует защиту ближайшим союзникам.
+Grant protection to nearby allies.,Дарует протекцию ближайшим союзникам.
 Grant quickness to allies around you and slow your marked target. Gain stealth if malice is at or above the threshold.,"Дарует быстроту союзникам вокруг вас и замедляет отмеченную цель. Вы получаете скрытность, если уровень злобы равен или выше порогового значения."
 Grant resistance to allies around you and inflict torment on your marked target. Gain stealth if malice is at or above the threshold.,"Дарует сопротивление союзникам вокруг вас и накладывает мучение на отмеченную цель. Вы получаете скрытность, если уровень злобы равен или выше порогового значения."
 Grant superspeed to allies around you and immobilize your marked target. Gain stealth if malice is at or above the threshold.,"Дарует суперскорость союзникам вокруг вас и обездвиживает отмеченную цель. Вы получаете скрытность, если уровень злобы равен или выше порогового значения."
@@ -465,7 +465,7 @@ Grasping Earth,Хватка земли
 Grasping Horror,Хватка ужаса
 Grasping Shadows,Хватка теней
 Grasping Vines,Хватка лоз
-"Grasping arms attack nearby targets, inflicting poison and torment.","Хватающие руки атакуют ближайшие цели, накладывая яд и мучение."
+"Grasping arms attack nearby targets, inflicting poison and torment.","Хватающие руки атакуют ближайшие цели, накладывая яд и боль."
 Gravedigger,Могильщик
 Gravitational Wave,Гравитационная волна
 Gravity Hammer,Гравитационный молот

@@ -56,18 +56,18 @@ Deal increased damage per stack.,Наносит увеличенный урон 
 Deal increased damage while your endurance is not full.,"Наносит увеличенный урон, пока ваша выносливость не полна."
 Deal increased strike and condition damage.,Наносит увеличенный прямой урон и урон от состояний.
 Deal increased strike damage for each stack of blight you have. Critical strikes deal increased damage to targets with torment.,Наносите увеличенный прямой урон за каждый стак порчи на вас. Критические удары наносят увеличенный урон целям с мучением.
-Deal increased strike damage for each stack of vulnerability on your target.,Наносит увеличенный прямой урон за каждый стак уязвимости на цели.
+Deal increased strike damage for each stack of vulnerability on your target.,Ваш прямой урон увеличивается за каждый стек уязвимости на цели.
 Deal increased strike damage for each unique boon you have; concentration is increased.,Наносит увеличенный прямой урон за каждое уникальное благословение на вас; концентрация увеличена.
 Deal increased strike damage for each unique condition on a foe.,Наносит увеличенный прямой урон за каждое уникальное состояние на враге.
 Deal increased strike damage for every boon on you.,Наносит увеличенный прямой урон за каждое благословение на вас.
 Deal increased strike damage per boon on your target.,Наносит увеличенный прямой урон за каждое благословение на цели.
 Deal increased strike damage per stack.,Наносит увеличенный прямой урон за каждый стак.
-Deal increased strike damage to burning foes.,Наносит увеличенный прямой урон горящим врагам.
+Deal increased strike damage to burning foes.,Вы наносите увеличенный прямой урон горящим противникам.
 Deal increased strike damage to crippled foes. Justice's passive effect cripples enemies.,Наносите повышенный урон атаками обездвиженным врагам. Пассивный эффект Правосудия обездвиживает врагов.
 "Deal increased strike damage to disabled or defiant foes. Outgoing stun duration increased. 
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Наносит увеличенный прямой урон врагам под действием эффектов контроля или непокорности. Длительность исходящего оглушения увеличена.
-<c=@reminder>Эффекты контроля включают оглушение, ошеломление, отбрасывание, притягивание, сбивание с ног, погружение, всплытие, подбрасывание, провокацию и страх.</c>"
-Deal increased strike damage to enemies below the health threshold.,Наносит увеличенный прямой урон врагам с уровнем здоровья ниже порогового.
+<c=@reminder>Эффекты контроля включают оглушение, ошеломление, отбрасывание, притягивание, нокдаун, погружение, всплытие, подбрасывание, провокацию и страх.</c>"
+Deal increased strike damage to enemies below the health threshold.,"Вы наносите увеличенный прямой урон противникам, чье здоровье ниже порога."
 "Deal increased strike damage to foes above the health threshold. Also deal more damage to foes with barrier.
 <c=@reminder>Damage bonuses do not stack.</c>","Наносит увеличенный прямой урон врагам с уровнем здоровья выше порогового. Также наносит больше урона врагам с барьером.
 <c=@reminder>Бонусы к урону не суммируются.</c>"
@@ -80,12 +80,12 @@ Deal increased strike damage to foes with no boons. Focus and axe skills recharg
 Deal increased strike damage to targets based on their vulnerability stacks.,Наносит увеличенный прямой урон целям в зависимости от их стаков уязвимости.
 "Deal increased strike damage to weakened foes. Disabling a foe applies weakness.
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, fear, taunt, and launch.</c>","Наносит увеличенный прямой урон ослабленным врагам. Лишение врага дееспособности накладывает слабость.
-<c=@reminder>Эффекты контроля включают оглушение, ошеломление, отбрасывание, притягивание, сбивание с ног, погружение, всплытие, страх, провокацию и подбрасывание.</c>"
+<c=@reminder>Эффекты контроля включают оглушение, ошеломление, отбрасывание, притягивание, нокдаун, погружение, всплытие, страх, провокацию и подбрасывание.</c>"
 Deal increased strike damage to your target for each unique condition on them.,Наносит увеличенный прямой урон цели за каждое уникальное состояние на ней.
 Deal increased strike damage to weakened foes. <c=@abilitytype>Burst</c> skills inflict weakness. <c=@reminder>Can only occur once per interval per target for multihit burst skills.</c>,Наносите повышенный ударный урон ослабленным врагам. <c=@abilitytype>Навыки рывка</c> накладывают слабость. <c=@reminder>Может срабатывать не чаще одного раза за интервал на цель для многоударных навыков рывка.</c>
 Deal increased strike damage when your target is below the health threshold.,"Наносит увеличенный прямой урон, когда уровень здоровья цели ниже порогового."
 Deal increased strike damage while in berserk mode. Gain resistance when entering berserk mode.,Наносит увеличенный прямой урон в режиме берсерка. Дает сопротивление при входе в режим берсерка.
-"Deal increased strike damage while you have stability, swiftness, or superspeed. This damage increase compounds for each boon you have.","Наносит увеличенный прямой урон, пока на вас действует стабильность, стремительность или суперскорость. Этот бонус к урону суммируется за каждое имеющееся у вас благословение."
+"Deal increased strike damage while you have stability, swiftness, or superspeed. This damage increase compounds for each boon you have.","Наносит увеличенный прямой урон, пока на вас действует устойчивость, быстроту или суперскорость. Этот бонус к урону суммируется за каждое имеющееся у вас благословение."
 Deal increased strike damage while your endurance is not full.,"Наносит увеличенный прямой урон, пока ваша выносливость не полна."
 "Deal increased strike damage with active upkeep skills.
 <c=@reminder>Herald and weapon upkeep skills grant less damage but can be stacked.</c>","Наносит увеличенный прямой урон при активных навыках поддержания.
@@ -130,32 +130,32 @@ Diamond Skin,Алмазная кожа
 Disable Damage,Урон от вывода из строя
 "Disabling a foe also applies vulnerability.
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Вывод врага из строя также накладывает уязвимость.
-<c=@reminder>Вывод из строя включает оглушение, ошеломление, отбрасывание, притягивание, сбивание с ног, погружение, подбрасывание, запуск, провокацию и страх.</c>"
+<c=@reminder>Вывод из строя включает оглушение, ошеломление, отбрасывание, притягивание, нокдаун, погружение, подбрасывание, запуск, провокацию и страх.</c>"
 "Disabling a foe applies conditions to that foe based on your current state.
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Вывод врага из строя накладывает на него состояния в зависимости от вашего текущего состояния.
-<c=@reminder>Вывод из строя включает оглушение, ошеломление, отбрасывание, притягивание, сбивание с ног, погружение, подбрасывание, запуск, провокацию и страх.</c>"
+<c=@reminder>Вывод из строя включает оглушение, ошеломление, отбрасывание, притягивание, нокдаун, погружение, подбрасывание, запуск, провокацию и страх.</c>"
 "Disabling a foe cripples your enemy, which leaves them vulnerable and inspires you with Kalla's Fervor.","Обездвиживание врага калечит его, делая уязвимым и вдохновляя вас на Пыл Каллы."
 "Disabling a foe grants barrier to nearby allies. Your function gyro dazes foes when cast. 
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Вывод врага из строя накладывает барьер на ближайших союзников. Ваш функциональный гироскоп ошеломляет врагов при использовании.
-<c=@reminder>Вывод из строя включает оглушение, ошеломление, отбрасывание, притягивание, сбивание с ног, погружение, подбрасывание, запуск, провокацию и страх.</c>"
+<c=@reminder>Вывод из строя включает оглушение, ошеломление, отбрасывание, притягивание, нокдаун, погружение, подбрасывание, запуск, провокацию и страх.</c>"
 "Disabling a foe grants you boons based on your current state.
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Вывод врага из строя накладывает на вас благословения в зависимости от вашего текущего состояния.
-<c=@reminder>Вывод из строя включает оглушение, ошеломление, отбрасывание, притягивание, сбивание с ног, погружение, подбрасывание, запуск, провокацию и страх.</c>"
+<c=@reminder>Вывод из строя включает оглушение, ошеломление, отбрасывание, притягивание, нокдаун, погружение, подбрасывание, запуск, провокацию и страх.</c>"
 Disabling a foe increases your damage and condition damage for a short duration.,Вывод врага из строя увеличивает ваш урон и урон от состояний на короткое время.
 "Disabling a foe inflicts torment on them.
-<c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Вывод врага из строя накладывает на него мучение.
-<c=@reminder>Вывод из строя включает оглушение, ошеломление, отбрасывание, притягивание, сбивание с ног, погружение, подбрасывание, запуск, провокацию и страх.</c>"
+<c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Вывод врага из строя накладывает на него боль.
+<c=@reminder>Вывод из строя включает оглушение, ошеломление, отбрасывание, притягивание, нокдаун, погружение, подбрасывание, запуск, провокацию и страх.</c>"
 "Disabling a foe slows them.
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>
 <c=@reminder>This trait can only affect the same enemy with once per interval.</c>","Вывод врага из строя замедляет его.
-<c=@reminder>Вывод из строя включает оглушение, ошеломление, отбрасывание, притягивание, сбивание с ног, погружение, подбрасывание, запуск, провокацию и страх.</c>
+<c=@reminder>Вывод из строя включает оглушение, ошеломление, отбрасывание, притягивание, нокдаун, погружение, подбрасывание, запуск, провокацию и страх.</c>
 <c=@reminder>Эта черта может воздействовать на одного и того же врага только один раз за интервал.</c>"
 Disabling an enemy reduces the cooldown of Evolve.,Обездвиживание врага сокращает время восстановления «Эволюции».
 Discharge a bolt of lightning whenever you use a tool belt skill.,Выпускает молнию при использовании навыка пояса инструментов.
 Dispelling Force,Рассеивающая сила
 Distance Threshold,Порог дистанции
 "Dodge rolling vents heat as an attack against nearby foes and grants vigor.
-<c=@reminder>(Attack will not occur without heat.)</c>","Перекат выпускает жар, атакуя ближайших врагов и даруя бодрость.
+<c=@reminder>(Attack will not occur without heat.)</c>","Перекат выпускает жар, атакуя ближайших врагов и даруя энергичность.
 <c=@reminder>(Атака не сработает без жара.)</c>"
 Dodging now deals more damage but affects a smaller area. Outgoing strike damage is increased for a period of time upon impact.,"Уклонение теперь наносит больше урона, но по меньшей мере площади. Исходящий урон от ударов увеличен на некоторое время после приземления."
 Dodging now grants boons to allies and strikes foes when landing.,Уклонение теперь дарует союзникам благословения и поражает врагов при приземлении.
@@ -171,7 +171,7 @@ Draconic Echo,Драконье эхо
 Draconic Fortitude,Драконья стойкость
 Dragon Slash becomes unblockable and ignores blindness. Gain might whenever you convert flow into charges.,Удар дракона становится неблокируемым и игнорирует слепоту. Получайте могущество при преобразовании потока в заряды.
 "Dragon Slash has a lower maximum charge level and consumes more flow per charge, but its effectiveness per charge is increased. Grant boons to nearby allies when you use Dragon Slash.","Dragon Slash имеет более низкий максимальный уровень заряда и потребляет больше потока за заряд, но урон за заряд увеличен. Дарует благословения ближайшим союзникам при использовании Dragon Slash."
-Dragon Slash heals you for a percentage of the damage dealt. Gain protection whenever you convert flow into charges.,Удар дракона лечит вас на процент от нанесенного урона. Получайте защиту при преобразовании потока в заряды.
+Dragon Slash heals you for a percentage of the damage dealt. Gain protection whenever you convert flow into charges.,Удар дракона лечит вас на процент от нанесенного урона. Получайте протекцию при преобразовании потока в заряды.
 Dragonscale Defense,Защита драконьей чешуи
 Dread,Ужас
 Drink a Lesser Elixir B when struck while below the health threshold.,"Выпить Малое Эликсир B при ударе, когда здоровье ниже порога."
@@ -240,7 +240,7 @@ Endless Enmity,Бесконечная вражда
 Endurance Thief,Похититель выносливости
 Endurance Threshold Increase,Увеличение порога выносливости
 Endurance per Initiative,Выносливость за инициативу
-Endurance regeneration is increased. Reduce the recharge of your tool belt skills when you dodge.,Регенерация выносливости увеличена. Сокращает перезарядку умений пояса инструментов при уклонении.
+Endurance regeneration is increased. Reduce the recharge of your tool belt skills when you dodge.,Ускоряет регенерация выносливости. Увороты уменьшают время перезарядки умений на вашем Поясе.
 Endurance regeneration is reduced.,Регенерация выносливости снижена.
 Enduring Recovery,Длительное восстановление
 Enduring Refrain,Длительный рефрен
@@ -248,7 +248,7 @@ Enduring Refrain,Длительный рефрен
 <c=@reminder>Only a certain number of time bombs may be active at once.</c>","Враги, пораженные Time Sink, получают бомбу замедленного действия. Бомбы увеличивают ваш прямой урон по цели и взрываются по истечении времени.
 <c=@reminder>Одновременно может быть активно только определенное количество бомб.</c>"
 "Enemies you interrupt are inflicted with torment.
-<c=@reminder>This trait can only affect enemies with defiance bars once per interval.</c>","Враги, которых вы прерываете, получают мучение.
+<c=@reminder>This trait can only affect enemies with defiance bars once per interval.</c>","Враги, которых вы прерываете, получают боль.
 <c=@reminder>Эта черта может воздействовать на врагов с полоской стойкости только раз в определенный интервал.</c>"
 Energized Elements,Заряженные элементы
 Energy Amplifier,Усилитель энергии
@@ -271,10 +271,10 @@ Enterprising Aristocrat,Предприимчивый аристократ
 Equal and Opposite Reaction,Равное и противоположное противодействие
 "Equipping a <c=@abilitytype>Virtue</c> grants you quickness. Every third <c=@abilitytype>Tome</c> skill grants you pages.
 <c=@reminder>Stacks reset when exiting a tome.
-Quickness can only be gained once per interval</c>","Экипировка <c=@abilitytype>Добродетели</c> дает вам быстроту. Каждый третий навык <c=@abilitytype>Фолианта</c> дает страницы.
+Quickness can only be gained once per interval</c>","Экипировка <c=@abilitytype>Добродетели</c> дает вам проворство. Каждый третий навык <c=@abilitytype>Фолианта</c> дает страницы.
 <c=@reminder>Эффекты сбрасываются при выходе из фолианта.
-Быстроту можно получить только один раз за интервал</c>"
-Equipping an <c=@abilitytype>Engineering Kit</c> creates an attack or spell and grants you swiftness.,Экипировка <c=@abilitytype>Инженерного набора</c> создает атаку или заклинание и дает вам стремительность.
+Проворство можно получить только один раз за интервал</c>"
+Equipping an <c=@abilitytype>Engineering Kit</c> creates an attack or spell and grants you swiftness.,Экипировка <c=@abilitytype>Инженерного набора</c> создает атаку или заклинание и дает вам быстроту.
 Escape Artist,Мастер побега
 Escapist's Fortitude,Стойкость беглеца
 Essence of Speed,Сущность скорости
@@ -319,14 +319,14 @@ Familiar's Prowess is improved.,Мастерство фамильяра улуч
 "Familiar. Summon the fox to attack your target, inflicting burning and then spreading burning on that foe to nearby enemies.","Фамильяр. Призовите лису, чтобы атаковать цель, накладывая горение, а затем распространяя его с этой цели на ближайших врагов."
 "Familiar. Summon the hare to shadowstep to and attack enemies around your target for critical damage. For each unique enemy struck, your next strike creates an arc of chain lightning.","Фамильяр. Призовите зайца, чтобы совершить теневой шаг к цели и атаковать врагов вокруг нее критическим уроном. За каждого пораженного уникального врага ваш следующий удар создает дугу цепной молнии."
 "Familiar. Summon the otter to throw a massive ball of water at the target location. When the ball lands, it heals allies in the area and removes conditions from them while stunning enemies.","Фамильяр. Призовите выдру, чтобы бросить массивный шар воды в указанную область. При приземлении шар исцеляет союзников в области и снимает с них состояния, оглушая врагов."
-"Familiar. Summon the toad at your location. The toad leaps up and slams the ground, knocking down enemies and creating a rocky barrier that enemies can't cross. Allies in the area gain protection.","Фамильяр. Призовите жабу в вашей локации. Жаба подпрыгивает и ударяет по земле, сбивая врагов с ног и создавая каменный барьер, который враги не могут пересечь. Союзники в области получают защиту."
+"Familiar. Summon the toad at your location. The toad leaps up and slams the ground, knocking down enemies and creating a rocky barrier that enemies can't cross. Allies in the area gain protection.","Фамильяр. Призовите жабу в вашей локации. Жаба подпрыгивает и ударяет по земле, сбивая врагов с ног и создавая каменный барьер, который враги не могут пересечь. Союзники в области получают протекцию."
 Fang and Claw,Клык и коготь
 Farsighted,Дальнозоркость
 Fast Hands,Быстрые руки
 Fatal Frenzy,Смертельное неистовство
 Fear of Death,Страх смерти
 Fear you inflict deals damage each second.,"Страх, который вы накладываете, наносит урон каждую секунду."
-Feathered pets have increased strike damage and health. <c=@abilitytype>Beast</c> skills grant quickness around the ranger.,Пернатые питомцы получают повышенный урон от ударов и здоровье. Навыки <c=@abilitytype>Зверя</c> дают быстроту вокруг рейнджера.
+Feathered pets have increased strike damage and health. <c=@abilitytype>Beast</c> skills grant quickness around the ranger.,Пернатые питомцы получают повышенный урон от ударов и здоровье. Навыки <c=@abilitytype>Зверя</c> дают проворство вокруг рейнджера.
 Feed from Corruption,Питание порчей
 Feel No Pain,Не чувствовать боли
 Feel the Rush,Почувствуй прилив
@@ -386,11 +386,11 @@ Fury gives an increased critical hit chance. Gain ferocity based on your vitalit
 "Fury grants ferocity and additional increased critical strike chance. When struck while below the health threshold, gain fury.",Ярость дает свирепость и дополнительный повышенный шанс критического удара. При получении удара ниже порога здоровья вы получаете ярость.
 Fury increases the duration of bleeds you inflict. Gaining fury inspires you with Kalla's Fervor.,"Ярость увеличивает длительность кровотечений, которые вы наносите. Получение ярости вдохновляет вас на пыл Каллы."
 "Gadget. Activate your A.E.D., enabling the system to heal you after a brief period of time. If you take lethal damage while A.E.D. is active, it ends and heals you for a large amount, grants shock aura, and removes conditions.","Гаджет. Активируйте ваш A.E.D., позволяя системе исцелить вас через короткий промежуток времени. Если вы получаете смертельный урон, пока A.E.D. активен, он завершается и исцеляет вас на значительную величину, накладывает ауру шока и снимает состояния."
-"Gadget. Break out of stun, gaining resistance, clearing blindness, and removing damaging conditions.","Гаджет. Вырвитесь из оглушения, получив сопротивление, сняв ослепление и удалив вредоносные состояния."
-"Gadget. Fly forward, damaging foes with your rocket exhaust. Cures immobilized, crippled, and chilled. Gain superspeed when this skill ends.","Гаджет. Летите вперед, повреждая врагов выхлопом вашей ракеты. Снимает обездвиживание, хромоту и охлаждение. Получите суперскорость, когда этот навык заканчивается."
-"Gadget. Gain resistance, clear blindness, and remove damaging conditions.","Гаджет. Получите сопротивление, снимите ослепление и удалите вредоносные состояния."
+"Gadget. Break out of stun, gaining resistance, clearing blindness, and removing damaging conditions.","Гаджет. Вырвитесь из оглушения, получив сопротивляемость, сняв слепоту и удалив вредоносные состояния."
+"Gadget. Fly forward, damaging foes with your rocket exhaust. Cures immobilized, crippled, and chilled. Gain superspeed when this skill ends.","Гаджет. Летите вперед, повреждая врагов выхлопом вашей ракеты. Снимает обездвиживание, хромоту и заморозку. Получите суперскорость, когда этот навык заканчивается."
+"Gadget. Gain resistance, clear blindness, and remove damaging conditions.","Гаджет. Получите сопротивляемость, снимите слепоту и удалите вредоносные состояния."
 "Gadget. Launch a target foe with a concealed ram head. The ram explodes on contact, burning foes.","Гаджет. Запустите во врага скрытую голову тарана. Таран взрывается при контакте, сжигая врагов."
-"Gadget. Spray oil behind you, knocking down foes. Break stun and gain stability. If underwater, foes entering the field are blinded and slowed.","Гаджет. Распылите масло позади себя, сбивая врагов с ног. Снимите оглушение и получите стабильность. Если под водой, враги, входящие в область, ослепляются и замедляются."
+"Gadget. Spray oil behind you, knocking down foes. Break stun and gain stability. If underwater, foes entering the field are blinded and slowed.","Гаджет. Распылите масло позади себя, сбивая врагов с ног. Снимите оглушение и получите устойчивость. Если под водой, враги, входящие в область, ослепляются и замедляются."
 "Gadget. Throw out a remote-controlled land mine that damages, knocks back, and removes a boon from nearby foes. A second mine is planted at your location after the first lands.","Гаджет. Бросьте дистанционно управляемую наземную мину, которая наносит урон, отбрасывает и снимает благословение с ближайших врагов. Вторая мина устанавливается на вашем месте после приземления первой."
 Gadgeteer,Гаджетолог
 Gain 1 extra adrenaline per hit.,Получайте 1 дополнительную единицу адреналина за удар.
@@ -401,7 +401,7 @@ Gain Elemental Empowerment and vigor when evading an attack.,Получайте 
 Gain Elemental Empowerment while in combat.,Получайте Элементальное усиление во время боя.
 "Gain Insight when disabling foes or removing boons. Full Counter refreshes all <c=@abilitytype>burst</c> skills on hit.
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt and fear.","Получайте Проницательность при оглушении врагов или снятии благословений. Полный контратакующий удар обновляет все <c=@abilitytype>взрывные</c> навыки при попадании.
-<c=@reminder>Оглушения включают в себя стан, ошеломление, отбрасывание, притягивание, сбивание с ног, погружение, всплытие, подбрасывание, насмешку и страх."
+<c=@reminder>Оглушения включают в себя стан, ошеломление, отбрасывание, притягивание, нокдаун, погружение, всплытие, подбрасывание, насмешку и страх."
 Gain Mirage Cloak instead of dodge rolling. <c=@abilitytype>Ambush</c> skills become available for a short time whenever you gain Mirage Cloak. Gain access to <c=@abilitytype>Deception</c> skills.,Получение «Миража» вместо уклонения перекатом. <c=@abilitytype>Засадные</c> умения становятся доступны на короткое время при получении «Миража». Доступ к <c=@abilitytype>обманным</c> умениям.
 Gain Scoundrel's Luck whenever you use Skritt Swipe. Scoundrel's Luck allows you to use double-edge skills on cooldown without backfiring.,"Получайте Удачу негодяя каждый раз, когда используете Скретт-удар. Удача негодяя позволяет использовать навыки с двойным эффектом без обратного эффекта во время перезарядки."
 Gain Vitality. Your incoming healing is increased.,Получайте живучесть. Ваше входящее исцеление увеличено.
@@ -462,7 +462,7 @@ Main hand—Strike damage is increased versus foes with no boons.
 Off hand—Heal for a percent of your outgoing strike damage.","Получайте бонусы за каждый экипированный кинжал:
 Основная рука — урон от ударов увеличен против врагов без благословений.
 Вторая рука — исцеляйтесь на процент от вашего исходящего урона от ударов."
-Gain boons upon casting a <c=@abilitytype>glyph</c> based on your attunement. Gain resistance when attuning to air.,Получайте благословения при использовании <c=@abilitytype>глифа</c> в зависимости от вашей настройки. Получайте сопротивление при настройке на воздух.
+Gain boons upon casting a <c=@abilitytype>glyph</c> based on your attunement. Gain resistance when attuning to air.,Получайте благословения при использовании <c=@abilitytype>глифа</c> в зависимости от вашей настройки. Получайте сопротивляемость при настройке на воздух.
 Gain boons when entering Dragon Trigger.,Получите благословения при входе в Драконий спуск.
 "Gain boons when resolve's effect triggers, but you no longer heal. Resolve has a modified duration. Gain boons when you use Flowing Resolve.","Получите благословения при срабатывании эффекта решимости, но вы больше не исцеляетесь. Решимость имеет изменённую длительность. Получите благословения при использовании Текущей решимости."
 Gain boons when you switch attunements.,Получайте благословения при смене настроек.
@@ -501,7 +501,7 @@ Gain expertise based on your precision.,"Получайте опыт, основ
 Gain expertise. Gain condition damage while wielding a sword. Sword skills gain reduced recharge.,Получайте опыт. Получайте урон от состояний при использовании меча. Навыки меча получают сокращенную перезарядку.
 Gain expertise. Increase your outgoing condition damage when you inflict burning.,Получайте опыт. Увеличивайте исходящий урон от состояний при наложении горения.
 "Gain ferocity and quickness while in Reaper's Shroud. Hitting with Life Reap reduces the recharge time of shroud skills.
-<c=@reminder>Recharge reduction can only occur once per use of Life Reap.</c>","Получайте ярость и быстроту, находясь в Reaper's Shroud. Удары с помощью Life Reap сокращают время перезарядки навыков савана.
+<c=@reminder>Recharge reduction can only occur once per use of Life Reap.</c>","Получайте ярость и проворство, находясь в Reaper's Shroud. Удары с помощью Life Reap сокращают время перезарядки навыков савана.
 <c=@reminder>Сокращение перезарядки может произойти только один раз за использование Life Reap.</c>"
 Gain ferocity based on your precision.,"Получайте свирепость, основанную на вашей точности."
 Gain ferocity for a short duration when you hit with an <c=@abilitytype>explosion</c>. This effect stacks duration.,Получайте свирепость на короткое время при попадании <c=@abilitytype>взрывом</c>. Этот эффект суммирует длительность.
@@ -565,5 +565,5 @@ Gain life force when you enter Harbinger Shroud.,Получайте жизнен
 "Gain life force when you inflict burning, and remove or corrupt a boon.","Восстанавливает жизненную силу при наложении горения, а также при снятии или порче благословения."
 "Gain light aura when entering Radiant Forge. Luminary skills detonate light aura, damaging enemies and healing allies.","Получайте ауру света при входе в Сияющую Кузню. Навыки Светоча взрывают ауру света, нанося урон врагам и исцеляя союзников."
 Gain might and fury when you disable a foe.,Дает могущество и ярость при выведении врага из строя.
-"Gain might for using any skill while attuned to fire. When leaving fire attunement or successfully completing a fire overload, unleash a Flame Expulsion.","Получайте могущество за использование любого навыка, находясь в настройке на огонь. При выходе из настройки на огонь или успешном завершении перегрузки огня высвобождайте Извержение пламени."
-Gain might on weapon swap. <c=@abilitytype>Burst</c> skills gain reduced recharge.,Получайте могущество при смене оружия. Навыки <c=@abilitytype>Рывок</c> получают уменьшенное время восстановления.
+"Gain might for using any skill while attuned to fire. When leaving fire attunement or successfully completing a fire overload, unleash a Flame Expulsion.","Получайте мощь за использование любого навыка, находясь в настройке на огонь. При выходе из настройки на огонь или успешном завершении перегрузки огня высвобождайте Извержение пламени."
+Gain might on weapon swap. <c=@abilitytype>Burst</c> skills gain reduced recharge.,Получайте мощь при смене оружия. Навыки <c=@abilitytype>Рывок</c> получают уменьшенное время восстановления.

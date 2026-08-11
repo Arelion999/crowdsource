@@ -12,7 +12,7 @@ Third Hit Radius,Радиус третьего удара
 Third Shock Wave,Третья ударная волна
 Third-Strike Radius,Радиус третьего удара
 "This can be used to avoid Terrestrial Cryoflash, but it may knock targets into aerial hazards.","Это можно использовать, чтобы избежать Terrestrial Cryoflash, но это может отбросить цели в воздушные опасности."
-This skill has backfired and cannot be used again until fully recharged.,Этот навык дал осечку и не может быть использован до полной перезарядки.
+This skill has backfired and cannot be used again until fully recharged.,"Сбросить оглушение и призвать нефритовый щит, который дает вам барьер. Вы можете активировать это умение, пока оно перезаряжается, рискуя потерпеть неудачу. Шанс на неудачу уменьшается по мере перезарядки умения, а после полной перезарядки неудача вам уже не грозит. Неудача. Щит взрывается после короткой задержки, нанося вам урон, пропорциональный вашему базовому уровню здоровья, а также нанося урон врагам вокруг вас."
 This version of Flux Nova can trigger any time Decima reaches maximum charge.,"Эта версия Flux Nova может сработать в любой момент, когда Decima достигает максимального заряда."
 Thistleguard,Терновый страж
 Thorny Predicament,Колючая неприятность
@@ -60,7 +60,7 @@ Throw a knife at your foe.,Бросьте нож во врага.
 "Throw a knife at your foes, bleeding them.","Бросьте нож во врагов, вызывая у них кровотечение."
 "Throw a knife that bounces off nearby foes, crippling them.","Бросьте нож, который отскакивает от ближайших врагов, накладывая на них увечье."
 Throw a lava axe at your foe. Using another Lava Axe ability grants Double Lava Axe.,Бросьте лавовый топор во врага. Использование другой способности «Лавовый топор» дает «Двойной лавовый топор».
-"Throw a mist spear toward your foe, inflicting increasing durations of torment the closer the foe is to you.","Бросьте копье тумана во врага, накладывая мучение, длительность которого увеличивается по мере приближения врага к вам."
+"Throw a mist spear toward your foe, inflicting increasing durations of torment the closer the foe is to you.","Бросьте копье тумана во врага, накладывая боль, длительность которого увеличивается по мере приближения врага к вам."
 Throw a punch of concentrated water.,Нанесите удар сгустком концентрированной воды.
 Throw a rock at your target.,Бросьте камень в цель.
 Throw a shrapnel mine that bleeds and cripples foes.,"Бросьте осколочную мину, которая вызывает кровотечение и увечье у врагов."
@@ -83,7 +83,7 @@ Throw an axe that bleeds enemies and leaves a spinning axe on the ground.,"Бр�
 Throw an axe to chill the area around your foe. Your pet's next attack inflicts weakness.,"Бросьте топор, чтобы охладить область вокруг врага. Следующая атака вашего питомца накладывает слабость."
 "Throw an explosive at the target area, dazing and blinding enemies on impact. Remove stealth and reveal enemies in a larger area around the impact.","Бросьте взрывчатку в целевую область, ошеломляя и ослепляя врагов при ударе. Снимает невидимость и обнаруживает врагов в большей области вокруг места удара."
 Throw an explosive lava axe at the target location.,Бросьте взрывной лавовый топор в целевое место.
-"Throw an illusionary blade that creates a clone at its first target and then bounces to enemies and allies, dealing less damage to foes per bounce and granting might to allies.","Бросьте иллюзорный клинок, который создает клона у первой цели, а затем отскакивает к врагам и союзникам, нанося меньше урона врагам при каждом отскоке и даруя могущество союзникам."
+"Throw an illusionary blade that creates a clone at its first target and then bounces to enemies and allies, dealing less damage to foes per bounce and granting might to allies.","Бросьте иллюзорный клинок, который создает клона у первой цели, а затем отскакивает к врагам и союзникам, нанося меньше урона врагам при каждом отскоке и даруя мощь союзникам."
 "Throw an inspiring beacon to a target location. The beacon will explode after a short duration, granting boons to nearby allies. The beacon can be detonated early to heal allies and damage enemies.","Бросьте вдохновляющий маяк в целевое место. Маяк взорвется через короткое время, даруя благословения ближайшим союзникам. Маяк можно взорвать досрочно, чтобы вылечить союзников и нанести урон врагам."
 "Throw blades at your foes, causing damage over time. Bound foes can be pulled to you. The effect ends when a foe moves out of range.","Бросайте клинки во врагов, нанося периодический урон. Скованных врагов можно притянуть к себе. Эффект заканчивается, когда враг выходит из радиуса действия."
 "Throw energy at your target, slowing them.","Бросьте энергию в цель, замедляя ее."
@@ -260,13 +260,13 @@ Unleash a flurry of rage-filled jabs.,Высвободите шквал ярос
 "Unleash a wave of corrupted fire, burning and tormenting enemies. Gain life force for each enemy struck.","Высвободите волну оскверненного огня, сжигая и мучая врагов. Получайте жизненную силу за каждого пораженного врага."
 Unleash a wave of purging fire in front of and around you.,Высвободите волну очищающего огня перед собой и вокруг себя.
 Unleash an insect swarm to blind and transfer conditions to your enemies.,"Высвободите рой насекомых, чтобы ослепить врагов и передать им свои состояния."
-"Unleash darkness at a target, inflicting conditions on foes while healing and granting might to nearby allies and your tethered ally for each target struck.","Высвободите тьму в цель, накладывая состояния на врагов, исцеляя и даруя могущество ближайшим союзникам и вашему связанному союзнику за каждую пораженную цель."
+"Unleash darkness at a target, inflicting conditions on foes while healing and granting might to nearby allies and your tethered ally for each target struck.","Высвободите тьму в цель, накладывая состояния на врагов, исцеляя и даруя мощь ближайшим союзникам и вашему связанному союзнику за каждую пораженную цель."
 "Unleash darkness in a targeted area, inflicting conditions on foes and cleansing allies. Cleanse conditions from yourself while healing and cleansing your tethered ally, based on targets struck.","Высвободите тьму в выбранной области, накладывая состояния на врагов и очищая союзников. Очищайте состояния с себя, исцеляя и очищая связанного союзника в зависимости от количества пораженных целей."
 "Unleash darkness on your target's location, inflicting conditions on foes. Cleanse conditions from yourself while healing and cleansing your tethered ally based on targets struck.","Высвободите тьму в месте нахождения вашей цели, накладывая состояния на врагов. Очищайте состояния с себя, исцеляя и очищая связанного союзника в зависимости от количества пораженных целей."
 Unleash flames from your pistol to burn foes. Deals more damage the closer you are.,"Высвободите пламя из пистолета, чтобы сжечь врагов. Наносит больше урона, чем ближе вы находитесь."
 Unleash gravitational Mist forces on your targeted area that initially pulls foes toward the center. Abyssal Raze's cooldown is reduced for each target you attempt to pull.,"Высвободите гравитационные силы Туманов в выбранной области, которые изначально притягивают врагов к центру. Время перезарядки Abyssal Raze сокращается за каждую цель, которую вы пытаетесь притянуть."
 "Unleash shadow magic at your prepared location, creating a one-way portal for you and your allies. Allies traveling through the portal gain stealth. Weakens foes around the portal's exit.","Высвободите магию тени в выбранном месте, создав односторонний портал для вас и ваших союзников. Союзники, проходящие через портал, получают скрытность. Ослабляет врагов вокруг выхода из портала."
-"Unleash sonic energy that bounces between multiple foes, damaging and bleeding them. When it hits allies, it applies might, vigor, or swiftness.","Высвободите звуковую энергию, которая отскакивает между несколькими врагами, нанося им урон и вызывая кровотечение. При попадании по союзникам накладывает могущество, бодрость или быстроту."
+"Unleash sonic energy that bounces between multiple foes, damaging and bleeding them. When it hits allies, it applies might, vigor, or swiftness.","Высвободите звуковую энергию, которая отскакивает между несколькими врагами, нанося им урон и вызывая кровотечение. При попадании по союзникам накладывает мощь, энергичность или быстроту."
 "Unleash the Mists toward your enemies, changing effects based on your current legend.","Высвободите Туманы на своих врагов, меняя эффекты в зависимости от вашей текущей легенды."
 "Unleash the elements from your core, firing a random elemental in all directions. Elements have differing effects based on your current tornado type.","Высвободите стихии из своего ядра, выпуская случайный элементальный снаряд во всех направлениях. Элементы имеют разные эффекты в зависимости от вашего текущего типа торнадо."
 "Unleash the raw power of your primal bond with nature and your pet, enhancing your offensive power.","Высвободите первобытную силу вашей связи с природой и питомцем, усиливая вашу атакующую мощь."
@@ -363,7 +363,7 @@ Ventari's Will,Воля Вентари
 Vialgos's Toxin Pool,Лужа токсина Vialgos
 Vicious Pike,Свирепая пика
 Vicious Shot,Свирепый выстрел
-Vigor,Бодрость
+Vigor,Энергичность
 Vile Blast,Мерзкий взрыв
 Vine Shield,Щит из лоз
 Vine Surge,Наплыв лоз
@@ -440,10 +440,10 @@ We Bleed Fire,Мы истекаем огнем
 Weak Minded,Слабоумный
 Weaken and cause fear in all foes within earshot.,Ослабляет и внушает страх всем врагам в радиусе слышимости.
 Weaken and damage foes around you. Gain life force per foe struck. Fire a <c=@abilitytype>Crimson Tide</c> at each enemy in the area.,Ослабить и нанести урон врагам вокруг вас. Получить жизненную силу за каждого поражённого врага. Выпустить <c=@abilitytype>Багровый прилив</c> в каждого врага в области.
-"Weaken nearby enemies. Grant fury, might, and swiftness to yourself and nearby allies.","Ослабляет ближайших врагов. Дарует ярость, мощь и стремительность вам и ближайшим союзникам."
+"Weaken nearby enemies. Grant fury, might, and swiftness to yourself and nearby allies.","Ослабляет ближайших врагов. Дарует ярость, мощь и быстроту вам и ближайшим союзникам."
 "Weaken your foe with a fierce blow, dealing increased damage when striking a controlled or defiant foe.
 <c=@reminder>Controls include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Ослабьте врага сильным ударом, нанося увеличенный урон при атаке подконтрольного или вызывающего сопротивление противника.
-<c=@reminder>Под контролем подразумеваются: оглушение, ошеломление, отбрасывание, притягивание, сбивание с ног, погружение, поднятие в воздух, насмешка и страх.</c>"
+<c=@reminder>Под контролем подразумеваются: оглушение, ошеломление, отбрасывание, притягивание, нокдаун, погружение, поднятие в воздух, насмешка и страх.</c>"
 Weakened Foe Knockdown,Сбивание с ног ослабленного врага
 Weakening Shroud,Ослабляющая пелена
 Weakening Venom,Ослабляющий яд

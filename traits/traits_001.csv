@@ -17,7 +17,7 @@ english,translate
 <c=@abilitytype>Blade</c> attacks inflict bleeding on critical hits. A percentage of your condition damage dealt heals you.,<c=@abilitytype>Клинковые</c> атаки вызывают кровотечение при критических ударах. Процент от нанесенного вами урона от состояний исцеляет вас.
 "<c=@abilitytype>Blades</c> inflict vulnerability on critical hits. After successfully casting a <c=@abilitytype>Bladesong</c>, increase all damage dealt for a short time. This does not stack.",<c=@abilitytype>Клинки</c> вызывают уязвимость при критических ударах. После успешного применения <c=@abilitytype>Песни клинков</c> на короткое время увеличивается весь наносимый урон. Эффект не суммируется.
 <c=@abilitytype>Bladesongs</c> grant aegis.,<c=@abilitytype>Песни клинков</c> дают эгиду.
-"<c=@abilitytype>Burst</c> skills deal more damage, grant swiftness, and restore a portion of adrenaline spent.","<c=@abilitytype>Взрывные</c> навыки наносят больше урона, дают стремительность и восстанавливают часть потраченного адреналина."
+"<c=@abilitytype>Burst</c> skills deal more damage, grant swiftness, and restore a portion of adrenaline spent.","<c=@abilitytype>Взрывные</c> навыки наносят больше урона, дают быстроту и восстанавливают часть потраченного адреналина."
 <c=@abilitytype>Burst</c> skills have an increased critical chance. Gain bonus critical-hit chance and ferocity for a duration when you hit with a burst skill. Duration is based on adrenaline spent.,<c=@abilitytype>Взрывные</c> навыки имеют повышенный шанс критического удара. При попадании взрывным навыком вы на время получаете бонус к шансу критического удара и свирепости. Длительность зависит от потраченного адреналина.
 <c=@abilitytype>Burst</c> skills restore endurance on hit.,<c=@abilitytype>Взрывные</c> навыки восстанавливают выносливость при попадании.
 <c=@abilitytype>Cantrip.</c> Gain stability and shape-shift into a tornado that damages and launches foes.,"<c=@abilitytype>Уловка.</c> Получите стабильность и превратитесь в торнадо, который наносит урон и подбрасывает врагов."
@@ -36,10 +36,10 @@ english,translate
 <c=@abilitytype>Explosions</c> grant stacking ferocity when they hit.,<c=@abilitytype>Взрывы</c> дают суммирующуюся свирепость при попадании.
 <c=@abilitytype>Explosions</c> have a chance to cripple and cause bleeding on hit.,<c=@abilitytype>Взрывы</c> имеют шанс вызвать увечье и кровотечение при попадании.
 <c=@abilitytype>Gadget</c> skills are more powerful.,Навыки <c=@abilitytype>гаджетов</c> становятся мощнее.
-<c=@abilitytype>Glyphs</c> grant protection to nearby allies.,<c=@abilitytype>Глифы</c> дают защиту ближайшим союзникам.
-<c=@abilitytype>Invoke Torment</c> applies poison and burning.,<c=@abilitytype>Призыв мучений</c> накладывает яд и горение.
-<c=@abilitytype>Invoke Torment</c> grants resistance. Resistance heals you every interval.,<c=@abilitytype>Призыв мучений</c> дает сопротивление. Сопротивление исцеляет вас каждый интервал.
-<c=@abilitytype>Invoke Torment</c> transfers conditions from you onto foes.,<c=@abilitytype>Призыв мучений</c> переносит состояния с вас на врагов.
+<c=@abilitytype>Glyphs</c> grant protection to nearby allies.,<c=@abilitytype>Глифы</c> дают протекцию ближайшим союзникам.
+<c=@abilitytype>Invoke Torment</c> applies poison and burning.,<c=@abilitytype>Призыв боли</c> накладывает яд и горение.
+<c=@abilitytype>Invoke Torment</c> grants resistance. Resistance heals you every interval.,<c=@abilitytype>Призыв боли</c> дает сопротивляемость. Сопротивляемость исцеляет вас каждый интервал.
+<c=@abilitytype>Invoke Torment</c> transfers conditions from you onto foes.,<c=@abilitytype>Призыв боли</c> переносит состояния с вас на врагов.
 "<c=@abilitytype>Legendary Alliance</c> abilities gain an additional bonus. Activating Energy Meld or Alliance Tactics grants both of these bonuses simultaneously at greater amounts to nearby allies.
 Kurzick abilities grant regeneration.
 Luxon abilities grant might.","<c=@abilitytype>Легендарный Альянс.</c> Способности получают дополнительный бонус. Активация «Слияния энергии» или «Тактики Альянса» дает оба бонуса одновременно в большем объеме ближайшим союзникам.
@@ -113,7 +113,7 @@ Luxon abilities grant might.","<c=@abilitytype>Легендарный Альян
 <c=@abilitytype>Weapon spells</c> remove conditions from affected allies. Affected allies receive the full benefit of <c=@abilitytype>weapon spells</c>.,<c=@abilitytype>Оружейные заклинания</c> снимают состояния с затронутых союзников. Затронутые союзники получают полный эффект от <c=@abilitytype>оружейных заклинаний</c>.
 <c=@abilitytype>Well</c> abilities have an increased area of effect and grant superspeed to nearby allies on their first pulse. Your function gyro also grants superspeed to allies when cast.,<c=@abilitytype>Колодцы</c> имеют увеличенную область действия и дают суперскорость ближайшим союзникам при первом импульсе. Ваш функциональный гироскоп также дает суперскорость союзникам при использовании.
 <c=@abilitytype>Wells</c> heal allies when they end.,<c=@abilitytype>Колодцы</c> исцеляют союзников по окончании действия.
-"<c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","<c=@reminder>Эффекты контроля включают оглушение, ошеломление, отбрасывание, притягивание, сбивание с ног, погружение, всплытие, подбрасывание, провокацию и страх.</c>"
+"<c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","<c=@reminder>Эффекты контроля включают оглушение, ошеломление, отбрасывание, притягивание, нокдаун, погружение, всплытие, подбрасывание, провокацию и страх.</c>"
 <c=@reminder>The mech does not count against the target count for this trait.</c>,<c=@reminder>Мех не учитывается в лимите целей для этой черты.</c>
 <c=@reminder>Virtuoso: Triggers when stocking a blade.</c>,<c=@reminder>Virtuoso: срабатывает при накоплении клинка.</c>
 "<c=@reminder>While out of combat, you will automatically generate a note every 10 seconds.</c>",<c=@reminder>Вне боя вы будете автоматически генерировать ноту каждые 10 секунд.</c>
@@ -181,7 +181,7 @@ Ambidexterity,Амбидекстрия
 Ambush Attack Window,Окно засадной атаки
 Ambush Commander,Засадный Коммандир!
 Ambush. Blink to your target and unleash a series of low-damage strikes that rapidly stack vulnerability.,"Засада. Телепортируйтесь к цели и нанесите серию слабых ударов, быстро накладывающих уязвимость."
-"Ambush. Launch a barrage of chaos orbs at your foe, inflicting confusion and torment. Condition duration halved for clones.","Засада. Выпустите шквал сфер хаоса по врагу, накладывая замешательство и мучение. Длительность состояний для клонов сокращена вдвое."
+"Ambush. Launch a barrage of chaos orbs at your foe, inflicting confusion and torment. Condition duration halved for clones.","Засада. Выпустите шквал сфер хаоса по врагу, накладывая замешательство и боль. Длительность состояний для клонов сокращена вдвое."
 "Ambush. Lunge at your foe and strike them with your sword, briefly dazing them. Leave behind a clone at your original location.","Засада. Бросьтесь на врага и ударьте его мечом, ненадолго ошеломив. Оставьте клона на исходной позиции."
 "Ambush. Pierce targets in front of you in a flurry of blows, leaving them vulnerable.","Засада. Пронзите цели перед собой шквалом ударов, делая их уязвимыми."
 Ambush. Release a vortex of chaos energy that inflicts damaging conditions on foes. Allies near you gain boons. Clones using this attack grant their boons around you instead of themselves.,"Засада. Выпустите вихрь энергии хаоса, накладывающий на врагов вредоносные состояния. Союзники рядом с вами получают благословения. Клоны, использующие эту атаку, накладывают свои благословения вокруг вас, а не вокруг себя."
@@ -401,7 +401,7 @@ Cast Lesser Symbol of Resolution when you strike an enemy below the health thres
 Cast Lesser Well of Blood when reviving an ally. Wells of Blood revive allies every pulse.,Накладывает «Малый колодец крови» при спасении союзника. Колодцы крови спасают союзников каждым импульсом.
 "Cast Lightning Rod when you disable a foe.
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.","Применяет Lightning Rod при наложении контроля на врага.
-<c=@reminder>Контроль включает оглушение, ошеломление, отбрасывание, притягивание, сбивание с ног, погружение, всплытие, подбрасывание, провокацию и страх."
+<c=@reminder>Контроль включает оглушение, ошеломление, отбрасывание, притягивание, нокдаун, погружение, всплытие, подбрасывание, провокацию и страх."
 Cast a skill when you dodge based on your attunement.,Применяет навык при уклонении в зависимости от вашей настройки.
 Celestial Being,Небесное существо
 Celestial Shadow,Celestial Shadow
@@ -430,7 +430,7 @@ Chilling a foe inflicts vulnerability.,Охлаждение врага накл�
 Chronophantasma,Хронофантазм
 "Citadel Order. Open a portal through the mists of time, unleashing a storm of artillery from the united legions.","Приказ Цитадели. Откройте портал сквозь туманы времени, обрушив артиллерийский шквал объединенных легионов."
 "Citadel Order. Orders from above arrive, renewing your abilities and those of your nearby allies.","Приказ Цитадели. Прибывают приказы сверху, обновляя ваши способности и способности ваших ближайших союзников."
-Citadel Order. Refresh the duration of your Kalla's Fervor and grant nearby allies might for every stack.,Приказ Цитадели. Обновите длительность вашего «Рвения Kalla» и дайте ближайшим союзникам могущество за каждый уровень эффекта.
+Citadel Order. Refresh the duration of your Kalla's Fervor and grant nearby allies might for every stack.,Приказ Цитадели. Обновите длительность вашего «Рвения Kalla» и дайте ближайшим союзникам мощь за каждый уровень эффекта.
 Clarion Bond,Звуковой союз
 Cleanse conditions from allies you grant regeneration to.,"Снимайте состояния с союзников, которым вы даете регенерацию."
 Cleansing Channel,Очищающий канал
@@ -447,7 +447,7 @@ Collateral Damage,Сопутствующий урон
 Combat High,Боевой подъем
 Comeback Cure,Исцеление при возвращении
 Command echoes can trigger a second time.,Эхо команд могут сработать второй раз.
-Command. Order your pet to guard nearby allies; your pet takes damage on behalf of those allies. Gain might when your pet receives damage.,"Команда. Прикажите питомцу защищать ближайших союзников; питомец получает урон вместо них. Получайте могущество, когда питомец получает урон."
+Command. Order your pet to guard nearby allies; your pet takes damage on behalf of those allies. Gain might when your pet receives damage.,"Команда. Прикажите питомцу защищать ближайших союзников; питомец получает урон вместо них. Получайте мощь, когда питомец получает урон."
 "Command. Your pet rushes at your foe, dealing increased damage.","Команда. Ваш питомец бросается на врага, нанося повышенный урон."
 Command. Your pet will seek out and revive a downed ally.,Команда. Ваш питомец найдет и воскресит павшего союзника.
 Communal Defenses,Общая защита
@@ -488,7 +488,7 @@ Convert conditions to boons when you use a <c=@abilitytype>stance</c> skill or e
 <c=@reminder>This trait can only trigger when disabled once per interval.
 Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Преобразуйте наносящие урон состояния в благословения всякий раз, когда вы получаете Искажение или становитесь неспособны действовать.
 <c=@reminder>Эта черта может срабатывать при неспособности действовать только один раз за интервал.
-Неспособность действовать включает оглушение, ошеломление, отбрасывание, притягивание, сбивание с ног, погружение, всплытие, подбрасывание, провокацию и страх.</c>"
+Неспособность действовать включает оглушение, ошеломление, отбрасывание, притягивание, нокдаун, погружение, всплытие, подбрасывание, провокацию и страх.</c>"
 Core Value,Основная ценность
 Corona Burst grants a barrier for each target struck.,Коронный взрыв дает барьер за каждую пораженную цель.
 Corrupted Talent,Оскверненный талант
@@ -508,8 +508,8 @@ Creating an illusion increases your outgoing damage and condition damage for a s
 Crescendo Healing per Instrument,Исцеление Крещендо за инструмент
 "Crescendo prompts your last-played instrument to take the spotlight, augmenting Crescendo's effects. Playing an instrument recharges Crescendo if a note was consumed.","Крещендо заставляет ваш последний использованный инструмент выйти на передний план, усиливая эффекты Крещендо. Игра на инструменте перезаряжает Крещендо, если была использована нота."
 "Cripple enemies that you disable.
-<c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Наносит увечье врагам, которых вы выводите из строя.
-<c=@reminder>Вывод из строя включает оглушение, ошеломление, отбрасывание, притягивание, сбивание с ног, погружение, всплытие, подбрасывание, провокацию и страх.</c>"
+<c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Наносит хромоту врагам, которых вы выводите из строя.
+<c=@reminder>Вывод из строя включает оглушение, ошеломление, отбрасывание, притягивание, нокдаун, погружение, всплытие, подбрасывание, провокацию и страх.</c>"
 Cripples foes on hit.,Накладывает увечье на врагов при попадании.
 Critical Chance Increase at Full Endurance,Увеличение шанса критического удара при полной выносливости
 Critical Chance Increase on Defiant Foes,Увеличение шанса критического удара по непокорным врагам

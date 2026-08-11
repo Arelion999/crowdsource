@@ -32,7 +32,7 @@ Modified Ammunition,Модифицированные боеприпасы
 Moment of Clarity,Момент ясности
 Monk's Focus,Фокус монаха
 Morph. Briefly block incoming attacks.,Морф. Ненадолго блокирует входящие атаки.
-Morph. Convert damaging conditions to barrier and nondamaging conditions to protection.,"Морф. Преобразует наносящие урон состояния в барьер, а ненаносящие — в защиту."
+Morph. Convert damaging conditions to barrier and nondamaging conditions to protection.,"Морф. Преобразует наносящие урон состояния в барьер, а ненаносящие — в протекцию."
 Morph. Create a giant blade to maim your enemy. This attack destroys the barrier of enemies hit.,"Морф. Создает гигантский клинок, чтобы покалечить врага. Эта атака разрушает барьер пораженных врагов."
 "Morph. Grow protective spikes, damaging nearby enemies. For a short duration, the spikes react when you are struck, damaging nearby enemies again.","Морф. Выращивает защитные шипы, нанося урон ближайшим врагам. В течение короткого времени шипы реагируют на удары по вам, снова нанося урон ближайшим врагам."
 "Morph. Launch cutting disks at your enemies, piercing enemies in their path. Enemies struck are crippled; if an enemy is struck by all three disks, they are immobilized.","Морф. Запускает режущие диски в ваших врагов, пронзая их на своем пути. Пораженные враги получают эффект увечья; если враг поражен всеми тремя дисками, он обездвиживается."
@@ -40,7 +40,7 @@ Morph. Create a giant blade to maim your enemy. This attack destroys the barrier
 "Morph. Thrust forward with a spike, piercing the defense of your foe.","Морф. Выпад шипом вперед, пронзающий защиту вашего врага."
 Motivation Stacks,Стаки мотивации
 Movement skills grant resistance.,Навыки передвижения дают сопротивление.
-Movement skills grant swiftness and increase flow rate.,Навыки передвижения дают стремительность и увеличивают скорость накопления потока.
+Movement skills grant swiftness and increase flow rate.,Навыки передвижения дают быстрота и увеличивают скорость накопления потока.
 Movement skills grant you swiftness and endurance.,Навыки передвижения дают вам стремительность и выносливость.
 Movement skills grant boons and adrenaline when used.,Навыки передвижения дают благословения и адреналин при использовании.
 Mug,Грабёж
@@ -84,8 +84,8 @@ Overflowing Thirst,Переполняющая жажда
 <c=@reminder>Damage over time from Overheat is still applied.</c>","Перегрев теперь наносит взрывной урон ближайшим врагам и больше не наносит начальный урон вам. Штраф к перезарядке навыков пояса за Перегрев снижен. Тепло можно сбросить только после перегрева.
 <c=@reminder>Периодический урон от Перегрева все еще накладывается.</c>"
 "Overload. Create a surge of accumulated water magic, healing and cleansing allies. When the cast ends, heal the area and apply regeneration.Using this skill causes the attunement to have a longer recharge.","Перегрузка. Создайте всплеск накопленной магии воды, исцеляя и очищая союзников. По завершении произнесения исцелите область и наложите регенерацию.Использование этого навыка увеличивает время перезарядки настройки."
-"Overload. Ride your stored earth magic around, granting protection to other allies you move over and crippling enemies, then deliver a final immobilizing blast of power to the area, leaving behind a dust cyclone that delivers the same effects as the overload.Using this skill causes the attunement to have a longer recharge.","Перегрузка. Оседлайте накопленную магию земли, даруя защиту союзникам, мимо которых вы проходите, и накладывая увечье на врагов, а затем нанесите финальный обездвиживающий удар по области, оставляя пылевой циклон, который дает те же эффекты, что и перегрузка.Использование этого навыка увеличивает время перезарядки настройки."
-"Overload. Unleash your flames, granting might to allies and burning enemies. Finishing the cast creates a tornado that continues to grant might and burn foes.Using this skill causes the attunement to have a longer recharge.","Перегрузка. Высвободите пламя, даруя могущество союзникам и поджигая врагов. Завершение произнесения создает торнадо, который продолжает даровать могущество и поджигать врагов.Использование этого навыка увеличивает время перезарядки настройки."
+"Overload. Ride your stored earth magic around, granting protection to other allies you move over and crippling enemies, then deliver a final immobilizing blast of power to the area, leaving behind a dust cyclone that delivers the same effects as the overload.Using this skill causes the attunement to have a longer recharge.","Перегрузка. Оседлайте накопленную магию земли, даруя протекцию союзникам, мимо которых вы проходите, и накладывая увечье на врагов, а затем нанесите финальный обездвиживающий удар по области, оставляя пылевой циклон, который дает те же эффекты, что и перегрузка.Использование этого навыка увеличивает время перезарядки настройки."
+"Overload. Unleash your flames, granting might to allies and burning enemies. Finishing the cast creates a tornado that continues to grant might and burn foes.Using this skill causes the attunement to have a longer recharge.","Перегрузка. Высвободите пламя, даруя мощь союзникам и поджигая врагов. Завершение произнесения создает торнадо, который продолжает даровать мощь и поджигать врагов.Использование этого навыка увеличивает время перезарядки настройки."
 "Overload. Use your air magic to summon a nimbus that repeatedly strikes nearby enemies. When this ability is complete, imbue your allies with electricity and create a lingering static region that strikes enemies at the same interval.Using this skill causes the attunement to have a longer recharge.","Перегрузка. Используйте магию воздуха, чтобы призвать нимб, который неоднократно поражает ближайших врагов. Когда эта способность завершается, наделите союзников электричеством и создайте остаточную статическую область, которая поражает врагов с тем же интервалом.Использование этого навыка увеличивает время перезарядки настройки."
 Pack Alpha,Вожак стаи
 Pact of Pain,Договор боли
@@ -163,7 +163,7 @@ Pressure Striking,Удар под давлением
 Primal Burst. Fire a burning shot into the ground that creates a trail of flaming destruction.,"Первобытный взрыв. Выстрелите горящим снарядом в землю, создавая след из огненного разрушения."
 "Primal Burst. Fire a fast, flaming shot that explodes on the first foe it hits, interrupting foes in the area.","Первобытный взрыв. Выстрелите быстрым огненным снарядом, который взрывается при попадании в первого врага, прерывая противников в области."
 "Primal Burst. Fire a fast, forceful shot that immobilizes and burns foes.","Первобытный взрыв. Выстрелите быстрым мощным снарядом, который обездвиживает и поджигает врагов."
-"Primal Burst. Gather your strength into a powerful attack. If it hits, gain might and recharge this skill.","Первобытный взрыв. Соберите силы для мощной атаки. Если она попадает, вы получаете могущество и перезаряжаете этот навык."
+"Primal Burst. Gather your strength into a powerful attack. If it hits, gain might and recharge this skill.","Первобытный взрыв. Соберите силы для мощной атаки. Если она попадает, вы получаете мощь и перезаряжаете этот навык."
 "Primal Burst. Jump to the targeted location and slam your hammer down, creating a deadly chain of earthen shock waves that immobilize and daze foes.","Первобытный взрыв. Прыгните в указанную область и ударьте молотом о землю, создавая смертоносную цепь земных ударных волн, которые обездвиживают и ошеломляют врагов."
 Primal Burst. Lash out with a flurry of strikes that block missiles and shoot fireballs at foes in front of you.,"Первобытный взрыв. Нанесите серию ударов, которые блокируют снаряды и выпускают огненные шары во врагов перед вами."
 "Primal Burst. Slam your staff on the ground, sending a shock wave forward that damages and immobilizes enemies while inspiring nearby allies, healing and granting regeneration to them.","Первобытный взрыв. Ударьте посохом о землю, посылая вперед ударную волну, которая наносит урон и обездвиживает врагов, одновременно вдохновляя союзников поблизости, исцеляя их и накладывая регенерацию."
@@ -302,7 +302,7 @@ Restorative Virtues,Восстанавливающие добродетели
 Restore arrows when you or your pet disable an enemy.,"Восстанавливает стрелы, когда вы или ваш питомец накладываете эффект контроля на врага."
 "Retain <c=@abilitytype>Courage</c> passive while it is on cooldown. Grant boons to nearby allies when you disable, immobilize, or slow an enemy.
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Сохраняет пассивный эффект <c=@abilitytype>Мужества</c>, пока он на перезарядке. Дарует благословения ближайшим союзникам, когда вы накладываете эффекты контроля, обездвиживания или замедления на врага.
-<c=@reminder>Эффекты контроля включают оглушение, ошеломление, отбрасывание, притягивание, сбивание с ног, погружение, подъем, подбрасывание, провокацию и страх.</c>"
+<c=@reminder>Эффекты контроля включают оглушение, ошеломление, отбрасывание, притягивание, нокдаун, погружение, подъем, подбрасывание, провокацию и страх.</c>"
 Retain <c=@abilitytype>Justice</c> passive while it is on cooldown. Granting quickness to an ally also grants Ashes of the Just.,"Сохраняет пассивный эффект <c=@abilitytype>Справедливости</c>, пока он на перезарядке. Дарование стремительности союзнику также дает Пепел Справедливых."
 Retain <c=@abilitytype>Resolve</c> passive while it is on cooldown. You generate pages more quickly.,"Сохраняет пассивный эффект <c=@abilitytype>Решимости</c>, пока он на перезарядке. Вы создаете страницы быстрее."
 Revealed Training,Тренировка обнаружения
@@ -458,7 +458,7 @@ Spiritual Reckoning,Духовное возмездие
 Spiteful Fortitude,Мстительная стойкость
 Spiteful Talisman,Мстительный талисман
 Stack Threshold,Порог накопления
-Stacks of might gained increased per level.,"Количество зарядов могущества, получаемых за уровень, увеличено."
+Stacks of might gained increased per level.,"Количество зарядов мощи, получаемых за уровень, увеличено."
 Staff Proficiency,Владение посохом
 Stainless Steel,Нержавеющая сталь
 Stalwart Defender,Верный защитник
@@ -470,10 +470,10 @@ Stance. Take no damage from attacks. You are still susceptible to conditions and
 Steadfast Courage,Непоколебимая отвага
 Steadfast Rejuvenation,Непоколебимое омоложение
 Steal boons from enemies you strike with <c=@abilitytype>stealth attacks</c>. Striking a boonless foe with a stealth attack inflicts fear on nearby foes.,"Крадет благословения у врагов, которых вы поражаете <c=@abilitytype>атаками из невидимости</c>. Поражение врага без благословений атакой из невидимости накладывает страх на ближайших противников."
-Steal health and gain shadow force when you torment a foe.,"Крадет здоровье и дает силу тени, когда вы накладываете мучение на врага."
+Steal health and gain shadow force when you torment a foe.,"Крадет здоровье и дает силу тени, когда вы накладываете боль на врага."
 "Steal health from enemies when you or your pet disable them.
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Крадет здоровье у врагов, когда вы или ваш питомец накладываете на них эффекты контроля.
-<c=@reminder>Эффекты контроля включают оглушение, ошеломление, отбрасывание, притягивание, сбивание с ног, погружение, всплытие, подбрасывание, провокацию и страх.</c>"
+<c=@reminder>Эффекты контроля включают оглушение, ошеломление, отбрасывание, притягивание, нокдаун, погружение, всплытие, подбрасывание, провокацию и страх.</c>"
 "Steal is replaced with Deadeye's Mark, which unlocks new Stolen skills and malice generation. Stealth attacks consume malice for bonus effects. Gain access to rifles and cantrips.","Кража заменяется на Метку меткого стрелка, которая открывает новые украденные навыки и генерацию злобы. Атаки из невидимости расходуют злобу для получения бонусных эффектов. Открывает доступ к винтовкам и уловкам."
 "Steal is replaced with Skritt Swipe, allowing you to pilfer from enemies. Successfully pilfering grants one offensive and one defensive artifact. Only one artifact may be used each time you pilfer, and pilfering overrides any artifacts you already have.","Кража заменяется на Удар скритта, позволяющий обворовывать врагов. Успешная кража дает один атакующий и один защитный артефакт. Каждый раз можно использовать только один артефакт, а новая кража заменяет уже имеющиеся."
 Steal.,Кража.

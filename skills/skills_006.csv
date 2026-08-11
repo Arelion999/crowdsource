@@ -203,7 +203,7 @@ Earthshaker,Землетряс
 Eat Egg,Съесть яйцо
 Eat Owl Egg,Съесть яйцо совы
 Eat Wurm Egg,Съесть яйцо червя
-Eat a wurm's egg to gain vigor and regeneration.,"Съешьте яйцо червя, чтобы получить бодрость и регенерацию."
+Eat a wurm's egg to gain vigor and regeneration.,"Съешьте яйцо червя, чтобы получить энергичность и регенерацию."
 Eat an owl's egg to gain swiftnesss and regeneration.,"Съешьте яйцо совы, чтобы получить стремительность и регенерацию."
 Eaten,Съедено
 Echo,Эхо
@@ -275,10 +275,10 @@ Elixir of Ignorance,Эликсир невежества
 Elixir of Promise,Эликсир обещания
 Elixir of Risk,Эликсир риска
 "Elixir. Infuse an elixir with the promise of good health, healing yourself and gaining regeneration, and then toss the elixir at the targeted area, poisoning foes. If you are in the splash area of the elixir, gain Blight.","Эликсир. Наполните эликсир обещанием крепкого здоровья, исцеляя себя и получая регенерацию, а затем бросьте эликсир в выбранную область, отравляя врагов. Если вы находитесь в области действия эликсира, получите Blight."
-"Elixir. Infuse the magical essence of anguish into an elixir, gaining swiftness and quickness, and then toss the elixir at the targeted area, inflicting cripple on foes. If you are in the splash area of the elixir, gain Blight.","Эликсир. Наполните эликсир магической сущностью мучений, получая стремительность и быстроту, а затем бросьте эликсир в выбранную область, накладывая увечье на врагов. Если вы находитесь в области действия эликсира, получите Blight."
+"Elixir. Infuse the magical essence of anguish into an elixir, gaining swiftness and quickness, and then toss the elixir at the targeted area, inflicting cripple on foes. If you are in the splash area of the elixir, gain Blight.","Эликсир. Наполните эликсир магической сущностью мучений, получая быстроту и проворство, а затем бросьте эликсир в выбранную область, накладывая хромоту на врагов. Если вы находитесь в области действия эликсира, получите Blight."
 "Elixir. Infuse the magical essence of bliss into an elixir, gaining resolution and converting conditions on yourself into life force, and then toss the elixir at the targeted area, corrupting a boon on targets into a condition. If you are in the splash area of the elixir, gain Blight.","Эликсир. Наполните эликсир магической сущностью блаженства, получая решимость и превращая состояния на себе в жизненную силу, а затем бросьте эликсир в выбранную область, превращая благословение на целях в состояние. Если вы находитесь в области действия эликсира, получите Blight."
-"Elixir. Infuse the magical essence of ignorance into an elixir, gaining resistance and breaking stuns, and then toss the elixir at the targeted area, inflicting blindness on foes. If you are in the splash area of the elixir, gain Blight.","Эликсир. Наполните эликсир магической сущностью невежества, чтобы получить сопротивление и снять оглушение, а затем бросьте его в выбранную область, ослепляя врагов. Если вы находитесь в зоне действия эликсира, получите Порчу."
-"Elixir. Infuse the magical essence of ignorance into an elixir, gaining resistance and protection and breaking stuns, and then toss the elixir at the targeted area, inflicting blindness on foes. If you are in the splash area of the elixir, gain Blight.","Эликсир. Наполните эликсир магической сущностью невежества, чтобы получить сопротивление и защиту, а также снять оглушение, а затем бросьте его в выбранную область, ослепляя врагов. Если вы находитесь в зоне действия эликсира, получите Порчу."
+"Elixir. Infuse the magical essence of ignorance into an elixir, gaining resistance and breaking stuns, and then toss the elixir at the targeted area, inflicting blindness on foes. If you are in the splash area of the elixir, gain Blight.","Эликсир. Наполните эликсир магической сущностью невежества, чтобы получить сопротивляемость и снять оглушение, а затем бросьте его в выбранную область, ослепляя врагов. Если вы находитесь в зоне действия эликсира, получите Порчу."
+"Elixir. Infuse the magical essence of ignorance into an elixir, gaining resistance and protection and breaking stuns, and then toss the elixir at the targeted area, inflicting blindness on foes. If you are in the splash area of the elixir, gain Blight.","Эликсир. Наполните эликсир магической сущностью невежества, чтобы получить сопротивляемость и протекцию, а также снять оглушение, а затем бросьте его в выбранную область, ослепляя врагов. Если вы находитесь в зоне действия эликсира, получите Порчу."
 "Elixir. Infuse the magical essence of risk into an elixir, gaining might and fury, and then toss the elixir at the targeted area, inflicting weakness on foes. If you are in the splash area of the elixir, gain Blight.","Эликсир. Наполните эликсир магической сущностью риска, чтобы получить мощь и ярость, а затем бросьте его в выбранную область, накладывая слабость на врагов. Если вы находитесь в зоне действия эликсира, получите Порчу."
 "Elixir. Infuse your boundless ambition into an elixir, gaining every possible boon, and then toss the elixir at the targeted area, inflicting all damaging conditions on foes. If you are in the splash area of the elixir, gain Blight.","Эликсир. Наполните эликсир своим безграничным честолюбием, чтобы получить все возможные благословения, а затем бросьте его в выбранную область, накладывая все вредоносные состояния на врагов. Если вы находитесь в зоне действия эликсира, получите Порчу."
 Elutriate,Элютриация
@@ -286,7 +286,7 @@ Embalming Barrage,Бальзамирующий залп
 Embalming Shot,Бальзамирующий выстрел
 Ember Sweep,Угольный взмах
 Embrace the Darkness,Принятие тьмы
-Embue allies with protection.,Наделить союзников защитой.
+Embue allies with protection.,Наделить союзников протекцией.
 Emergency Jade Shield,Аварийный нефритовый щит
 Emit noxious fumes that poisons foes in the area. Poison duration is increased on disabled foes.,"Испускает ядовитые пары, отравляющие врагов в области. Длительность отравления увеличивается на врагах с наложенными эффектами контроля."
 Emits a damaging stench.,"Испускает зловоние, наносящее урон."
@@ -367,7 +367,7 @@ Enter Shadow Shroud,Войдите в Теневой Саван
 Envelop yourself in a fiery shield that burns foes and grants might each time you are struck (cooldown of 1 second per attacker).,"Окутывает себя огненным щитом, который поджигает врагов и дарует могущество при каждом ударе (перезарядка 1 секунда на атакующего)."
 Envelop yourself in a stony barrier that improves toughness.,"Окутывает себя каменным барьером, повышающим стойкость."
 "Envelop yourself in stony armor, making yourself invulnerable.","Окутайте себя каменной броней, делая себя неуязвимым."
-"Envelop yourself in thorns, striking nearby enemies and gaining stability for a brief duration. Gain additional bonuses and Nature's Strength if you strike an enemy.","Оберните себя шипами, поражая ближайших врагов и получая стабильность на короткое время. Получите дополнительные бонусы и Силу природы, если поразите врага."
+"Envelop yourself in thorns, striking nearby enemies and gaining stability for a brief duration. Gain additional bonuses and Nature's Strength if you strike an enemy.","Оберните себя шипами, поражая ближайших врагов и получая устойчивость на короткое время. Получите дополнительные бонусы и Силу природы, если поразите врага."
 Envelop yourself with electrical energy that stuns nearby foes if they attack you. Each attacker can be affected by this only once every 2 seconds.,"Окутайте себя электрической энергией, которая оглушает ближайших врагов, если они атакуют вас. Каждый атакующий может попасть под этот эффект не чаще одного раза в 2 секунды."
 "Enveloped in a fiery shield that burns foes, grants might each time you are struck (1-second cooldown per attacker).","Окутан огненным щитом, который сжигает врагов и дает мощь каждый раз, когда вас бьют (перезарядка 1 секунда на каждого атакующего)."
 Enveloping Haze,Окутывающая дымка
@@ -387,7 +387,7 @@ Essence of Animated Sand,Эссенция ожившего песка
 Essence of Borrowed Time,Эссенция заемного времени
 Essence of Liquid Wrath,Эссенция жидкого гнева
 Essence of Living Shadows,Эссенция живых теней
-"Establish a defensive field, granting protection to allies in its area.","Создать защитное поле, дарующее защиту союзникам в его области."
+"Establish a defensive field, granting protection to allies in its area.","Создать защитное поле, дарующее протекцию союзникам в его области."
 "Etch a spell into the ground that creates a violent eruption. Using a number of other skills within this etching completes the spell, unlocking its full potential.","Выгравируйте заклинание на земле, создающее мощное извержение. Использование ряда других навыков в пределах этой гравировки завершает заклинание, раскрывая его полный потенциал."
 "Etch a spell into the ground that invokes a glacial flood. Using a number of other skills within this etching completes the spell, unlocking its full potential.","Выгравируйте заклинание на земле, вызывающее ледниковый поток. Использование ряда других навыков в пределах этой гравировки завершает заклинание, раскрывая его полный потенциал."
 "Etch a spell into the ground that summons an intense windstorm. Using a number of other skills within this etching completes the spell, unlocking its full potential.","Выгравируйте заклинание на земле, призывающее сильный шторм. Использование ряда других навыков в пределах этой гравировки завершает заклинание, раскрывая его полный потенциал."

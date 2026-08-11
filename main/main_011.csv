@@ -348,7 +348,7 @@ Skritt Tunnels Open","Пикарун Скрэтч
 Pirate Engineer,Пират-инженер
 Placement  is in collision.,Размещение  находится в коллизии.
 "Places the Symbol of Luminance on the ground, knocking back enemies on initial cast. While active, the symbol grants boons to allies and inflicts conditions on enemies. While standing within the symbol, your spear attacks are automatically illuminated and do not consume the illuminated effect when used. <c=@reminder>Resistance granted by this skill can only be granted once per interval.</c>
-<br><c=@abilitytype>Illuminated.</c> While the symbol is active, all other spear skills are illuminated, even if you move out of range of the symbol.","Помещает Символ Светимости на землю, отбрасывая врагов при начальном применении. Пока активен, символ дарует благословения союзникам и накладывает состояния на врагов. Пока вы стоите внутри символа, ваши атаки копьем автоматически подсвечиваются и не расходуют эффект подсветки при использовании. <c=@reminder>Сопротивление, даруемое этим умением, может быть даровано только один раз за интервал.</c>
+<br><c=@abilitytype>Illuminated.</c> While the symbol is active, all other spear skills are illuminated, even if you move out of range of the symbol.","Помещает Символ Светимости на землю, отбрасывая врагов при начальном применении. Пока активен, символ дарует благословения союзникам и накладывает состояния на врагов. Пока вы стоите внутри символа, ваши атаки копьем автоматически подсвечиваются и не расходуют эффект подсветки при использовании. <c=@reminder>Сопротивляемость, даруемое этим умением, может быть даровано только один раз за интервал.</c>
 <br><c=@abilitytype>Подсвечено.</c> Пока символ активен, все остальные умения копья подсвечиваются, даже если вы выходите из зоны действия символа."
 Point for me!,Укажи мне!
 Pompon,Помпон
@@ -2260,7 +2260,7 @@ South trebuchet repairs: %num1%0%%,Ремонт южного требушета:
 Sovereign Weapon Vendor,Торговец суверенным оружием
 "Spawn a Fragment of Razah at your targeted location. Both you and the fragment attack with a scythe, damaging and inflicting conditions on foes at your locations. Gain might for each enemy struck.
 
-<c=@abilitytype>Resonance.</c> This skill gains bonus effects depending on the legend equipped in the other slot.","Призовите фрагмент Разаха в указанном месте. Вы и фрагмент атакуете косой, нанося урон и накладывая состояния на врагов в ваших местах. Получайте могущество за каждого пораженного врага.
+<c=@abilitytype>Resonance.</c> This skill gains bonus effects depending on the legend equipped in the other slot.","Призовите фрагмент Разаха в указанном месте. Вы и фрагмент атакуете косой, нанося урон и накладывая состояния на врагов в ваших местах. Получайте мощь за каждого пораженного врага.
 
 <c=@abilitytype>Резонанс.</c> Это умение получает дополнительные эффекты в зависимости от легенды, экипированной в другой слот."
 "Specimens to be added to my collection:

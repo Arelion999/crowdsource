@@ -203,7 +203,93 @@ def cmd_apply(_args):
     print("бэкап: %s" % os.path.relpath(bak, D.ROOT))
 
 
-CMDS = {"fetch": cmd_fetch, "check": cmd_check, "apply": cmd_apply}
+MECH = os.path.join(CROWD, "sync", "api", "mechanical.csv")
+SKILLS = os.path.join(CROWD, "sync", "api", "skills.csv")
+
+
+def cmd_skills(_args):
+    """Умения и таланты с их принадлежностью: профессия, тип, оружие, слот.
+
+    Нужно, чтобы видеть покрытие не общим числом, а по разрезам: сколько умений
+    элементалиста с посохом у нас переведено, а сколько вообще не заведено.
+    Текст без этой привязки показывает только «сколько-то строк».
+    """
+    rows = []
+    for ep in ("skills", "traits"):
+        ids = get(API + ep)
+        if not isinstance(ids, list):
+            continue
+        for i in range(0, len(ids), 200):
+            chunk = ",".join(str(x) for x in ids[i:i + 200])
+            data = get("%s%s?ids=%s&lang=en" % (API, ep, chunk))
+            if not isinstance(data, list):
+                continue
+            for o in data:
+                if not isinstance(o, dict):
+                    continue
+                prof = o.get("professions") or []
+                if ep == "traits":
+                    prof = [o.get("profession")] if o.get("profession") else []
+                rows.append((
+                    ep[:-1], str(o.get("id", "")), o.get("name", "") or "",
+                    (o.get("description", "") or "").replace("\n", " "),
+                    "/".join(str(p) for p in prof),
+                    o.get("type", "") or "", o.get("weapon_type", "") or "",
+                    o.get("slot", "") or "", str(o.get("specialization", "") or "")))
+        print("%-8s ids %5d" % (ep, len(ids)))
+    os.makedirs(os.path.dirname(SKILLS), exist_ok=True)
+    with open(SKILLS, "w", encoding="utf-8-sig", newline="") as f:
+        w = csv.writer(f, lineterminator="\n")
+        w.writerow(["вид", "id", "name", "description", "профессии", "тип",
+                    "оружие", "слот", "спец"])
+        w.writerows(rows)
+    print("умений и талантов: %d -> %s" % (len(rows), os.path.relpath(SKILLS, CROWD)))
+
+
+def cmd_mech(_args):
+    """Механический текст: названия и ОПИСАНИЯ умений и талантов.
+
+    Нужен, чтобы отделить механику от художественного текста. Канон боевых
+    терминов («Проворство», «Заморозка») обязателен в описании умения и НЕ
+    обязателен в реплике: «the foolish vigor of youth» — это не бон, а обычное
+    слово, и «энергия юности» там правильнее «энергичности».
+
+    Границу берём у самой игры: что API отдаёт по /skills и /traits — механика.
+    """
+    rows = []
+    for ep, tag in (("skills", "умение"), ("traits", "талант")):
+        ids = get(API + ep)
+        if not isinstance(ids, list):
+            continue
+        for i in range(0, len(ids), 200):
+            chunk = ",".join(str(x) for x in ids[i:i + 200])
+            data = get("%s%s?ids=%s&lang=en" % (API, ep, chunk))
+            if not isinstance(data, list):
+                continue
+            for o in data:
+                if not isinstance(o, dict):
+                    continue
+                for k in ("name", "description"):
+                    v = o.get(k)
+                    if isinstance(v, str) and v.strip():
+                        rows.append((v.strip(), tag, k))
+                for f in (o.get("facts") or []):
+                    for k in ("text", "status", "description"):
+                        v = f.get(k) if isinstance(f, dict) else None
+                        if isinstance(v, str) and v.strip():
+                            rows.append((v.strip(), tag, "факт"))
+        print("%-8s ids %5d" % (ep, len(ids)))
+    os.makedirs(os.path.dirname(MECH), exist_ok=True)
+    with open(MECH, "w", encoding="utf-8-sig", newline="") as f:
+        w = csv.writer(f, lineterminator="\n")
+        w.writerow(["name", "вид", "поле"])
+        w.writerows(sorted(set(rows)))
+    print("строк механического текста: %d -> %s"
+          % (len(set(rows)), os.path.relpath(MECH, CROWD)))
+
+
+CMDS = {"fetch": cmd_fetch, "check": cmd_check, "apply": cmd_apply,
+        "mech": cmd_mech, "skills": cmd_skills}
 
 if __name__ == "__main__":
     if len(sys.argv) < 2 or sys.argv[1] not in CMDS:

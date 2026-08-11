@@ -139,7 +139,7 @@ Release a burst of air to knock down your enemies and gain superspeed.,"Высв
 Release a cloud of mist to regenerate you and your allies.,"Высвобождает облако тумана, чтобы восстановить здоровье вам и вашим союзникам."
 Release a current of water to damage foes and regenerate allies.,"Высвобождает поток воды, чтобы нанести урон врагам и восстановить здоровье союзникам."
 Release a disembodied hand to draw life force from your foe.,"Высвобождает бесплотную руку, чтобы вытянуть жизненную силу из вашего врага."
-"Release a fiery phoenix that attacks foes in a line before exploding and returning to you, curing a condition and granting you vigor. Inflict additional burning against foes that are already burning.","Высвобождает огненного феникса, который атакует врагов по линии, прежде чем взорваться и вернуться к вам, снимая состояние и даруя вам бодрость. Наносит дополнительный урон горением врагам, которые уже горят."
+"Release a fiery phoenix that attacks foes in a line before exploding and returning to you, curing a condition and granting you vigor. Inflict additional burning against foes that are already burning.","Высвобождает огненного феникса, который атакует врагов по линии, прежде чем взорваться и вернуться к вам, снимая состояние и даруя вам энергичность. Наносит дополнительный урон горением врагам, которые уже горят."
 Release a fiery torrent that burns enemies.,"Высвобождает огненный поток, который сжигает врагов."
 Release a hail of arrows toward your target and enemies nearby them.,Выпускает град стрел в цель и ближайших к ней врагов.
 Release a mist of healing liquid to regenerate nearby allies.,Высвобождает туман исцеляющей жидкости для восстановления здоровья ближайших союзников.
@@ -149,7 +149,7 @@ Release a shock wave of inertial force to damage nearby foes.,"Высвобож�
 "Release all of your woven elements and end your <c=@abilitytype>Weave Self</c> stance, causing gravity itself to unravel around you.","Высвободите все сплетённые элементы и завершите стойку <c=@abilitytype>Сплетение себя</c>, заставляя саму гравитацию распутываться вокруг вас."
 "Release an arrow that shatters upon striking, inflicting bleeding on nearby foes.","Высвобождает стрелу, которая разбивается при попадании, накладывая кровотечение на ближайших врагов."
 Release an orb of cleansing light that cures conditions on allies it passes through and detonates on enemies struck. Burns foes and cures conditions on allies within the blast radius.,"Высвобождает сферу очищающего света, которая снимает состояния с союзников, через которых проходит, и детонирует при попадании во врагов. Сжигает врагов и снимает состояния с союзников в радиусе взрыва."
-"Release piranhas that bleed and cripple foes. The first pulse of this skill will immobilize foes who are movement impaired or disabled. Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.","Высвобождает пираний, которые накладывают кровотечение и увечье на врагов. Первый импульс этого навыка обездвиживает врагов, чье передвижение ограничено или которые находятся под действием эффектов контроля. Эффекты контроля включают: оглушение, ошеломление, отбрасывание, притягивание, сбивание с ног, погружение, всплытие, подбрасывание, провокацию и страх."
+"Release piranhas that bleed and cripple foes. The first pulse of this skill will immobilize foes who are movement impaired or disabled. Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.","Высвобождает пираний, которые накладывают кровотечение и хромоту на врагов. Первый импульс этого навыка обездвиживает врагов, чье передвижение ограничено или которые находятся под действием эффектов контроля. Эффекты контроля включают: оглушение, ошеломление, отбрасывание, притягивание, нокдаун, погружение, всплытие, подбрасывание, провокацию и страх."
 Release purifying vapors to cleanse conditions from allies near you at each interval.,"Высвобождает очищающие пары, чтобы снимать состояния с союзников рядом с вами через каждый интервал."
 Release the Bear,Высвободить Медведя
 Release the Mists from your aura with a chance to inflict conditions based on your current legend.,Высвобождает Туманы из вашей ауры с шансом наложить состояния в зависимости от вашей текущей легенды.
@@ -167,7 +167,7 @@ Relentless Fire,Неумолимый огонь
 Relentless Whirl,Неумолимый вихрь
 Relinquish Power,Отказ от силы
 Remove Avatar of Melandru,Удалить аватар Меландру
-"Remove conditions and gain swiftness, then rush forward and evade attacks.","Снимает состояния и дает стремительность, затем совершает рывок вперед, уклоняясь от атак."
+"Remove conditions and gain swiftness, then rush forward and evade attacks.","Снимает состояния и дает быстроту, затем совершает рывок вперед, уклоняясь от атак."
 Remove conditions from allies.,Снимает состояния с союзников.
 Remove conditions from you and nearby allies.,Снимает состояния с вас и ближайших союзников.
 Remove conditions from yourself then breathe magical flames that damage foes and cure conditions on allies. Inflicts burning on the final attack.,"Снимает состояния с вас, затем вы выдыхаете магическое пламя, которое наносит урон врагам и снимает состояния с союзников. Накладывает горение при финальной атаке."
@@ -284,7 +284,7 @@ Rising Heat,Нарастающий жар
 Rite of the Great Dwarf,Обряд Великого Дварфа
 Ritualist's Shroud,Саван ритуалиста
 Roar of the Forest,Рык леса
-"Roar, giving allies might.","Рык, дарующий союзникам могущество."
+"Roar, giving allies might.","Рык, дарующий союзникам мощь."
 Roaring Brand,Ревущее клеймо
 Rock Anchor,Каменный якорь
 Rock Barrier,Каменный барьер
@@ -335,7 +335,7 @@ Sabir summons powerful winds to blow foes away.,"Sabir призывает мощ
 Sabir unleashes a line of electricity that knocks foes back.,"Sabir выпускает линию электричества, которая отбрасывает врагов назад."
 Sabir unleashes a series of lightning strikes that target all foes.,"Sabir выпускает серию ударов молнии, поражающих всех врагов."
 Sabir unleashes a series of lightning strikes that targets all foes.,"Sabir выпускает серию ударов молнии, поражающих всех врагов."
-Sacrifice health to dash again. Corrupt boons on enemies struck.,"Пожертвуйте здоровьем, чтобы совершить рывок снова. Оскверните благословения на пораженных врагах."
+Sacrifice health to dash again. Corrupt boons on enemies struck.,Пожертвовать здоровье для нового рывка. Испортить дары на пораженных противниках.
 "Sacrifice health to drain the strength of your enemies, inflicting weakness while granting might to yourself for each target affected.","Пожертвуйте здоровьем, чтобы истощить силу врагов, накладывая слабость и даруя себе мощь за каждую затронутую цель."
 Sacrifice health to inflict additional damage and conditions on all targets hit by the maelstrom.,"Пожертвуйте здоровьем, чтобы нанести дополнительный урон и наложить состояния на все цели, пораженные водоворотом."
 "Sacrifice health to inflict additional damage on all targets hit by the wave, dealing additional damage to targets below the health threshold.","Пожертвуйте здоровьем, чтобы нанести дополнительный урон всем целям, пораженным волной, нанося дополнительный урон целям ниже порога здоровья."
@@ -377,7 +377,7 @@ Savannah Strike,Удар саванны
 Scarlet blasts everyone with her infamous rifle. Watch your flanks!,Scarlet обстреливает всех из своей печально известной винтовки. Следите за флангами!
 "Scarlet focuses a deadly blast at one target. However, the damage is spread among multiple targets if allies are in the blast radius.","Scarlet направляет смертельный выстрел в одну цель. Однако урон распределяется между несколькими целями, если союзники находятся в радиусе поражения."
 Scarlet releases patterns of localized energy blasts.,Scarlet выпускает серии локализованных энергетических залпов.
-"Scarlet slams her fists into the ground, releasing a wave of energy that applies torment to her enemies.","Scarlet ударяет кулаками по земле, выпуская волну энергии, которая накладывает мучение на врагов."
+"Scarlet slams her fists into the ground, releasing a wave of energy that applies torment to her enemies.","Scarlet ударяет кулаками по земле, выпуская волну энергии, которая накладывает боль на врагов."
 Scatter Grenade,Разрывная граната
 Scatter Mines,Разрывные мины
 Scatter caltrops that cripple and bleed foes.,"Разбросать капканы, которые калечат и вызывают кровотечение у врагов."

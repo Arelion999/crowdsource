@@ -10,7 +10,7 @@ Knockback,Отбрасывание
 Knockback Distance,Дистанция отбрасывания
 Knockback foes with a spread of rockets.,Отбросьте врагов веером ракет.
 Knockback on Landing,Отбрасывание при приземлении
-Knockdown,Сбивание с ног
+Knockdown,Нокдаун
 Knocks foes down.,Сбивает врагов с ног.
 Knot Shot,Узловой выстрел
 Kryptis Haze,Криптисская дымка
@@ -93,13 +93,13 @@ Leap of Faith,Прыжок веры
 "Leap through the air, crippling enemies upon landing.","Прыгните в воздух, накладывая увечье на врагов при приземлении."
 "Leap to a target location, damaging nearby enemies. Deal more damage to foes below the health threshold.","Прыгните в целевую область, нанося урон ближайшим врагам. Наносите больше урона врагам с уровнем здоровья ниже порогового."
 "Leap to targeted area, damaging enemies at the target location. Gain barrier if at least one enemy was struck. Each point of affinity increases damage dealt and the barrier granted by this skill.","Прыгните в целевую область, нанося урон врагам в точке приземления. Получите барьер, если был поражен хотя бы один враг. Каждая единица сродства увеличивает наносимый урон и барьер, даваемый этим умением."
-"Leap to the target and slash, inflicting cripple and vulnerability.","Прыгните к цели и нанесите удар, накладывая увечье и уязвимость."
+"Leap to the target and slash, inflicting cripple and vulnerability.","Прыгните к цели и нанесите удар, накладывая хромоту и уязвимость."
 "Leap to the targeted area, inflicting fear on foes at your ending point. Grant barrier to your tethered ally and nearby allies based on targets struck. Heal your tethered ally based on targets struck.","Прыгните в целевую область, накладывая страх на врагов в точке приземления. Дайте барьер связанному союзнику и ближайшим союзникам в зависимости от количества пораженных целей. Исцелите связанного союзника в зависимости от количества пораженных целей."
 "Leap to the targeted location, empowering allies and damaging enemies. Gain adrenaline if you affect another ally.","Прыгните в целевую область, усиливая союзников и нанося урон врагам. Получите адреналин, если затронете другого союзника."
 "Leap to your destination, evading through the air. Daze enemies near your impact point.","Прыгните к месту назначения, уклоняясь в полете. Ошеломите врагов рядом с точкой приземления."
-Leap to your target and create an arc of light that strikes nearby foes. Gain quickness based on your heat level.,"Прыгните к цели и создайте дугу света, поражающую ближайших врагов. Получите быстроту в зависимости от уровня нагрева."
-Leap to your target and create an arc of light that strikes nearby foes. Gain quickness.,"Прыгните к цели и создайте дугу света, поражающую ближайших врагов. Получите быстроту."
-"Leap to your target and cripple them. If your target is disabled, defiant, or movement impaired, immobilize them instead.","Прыгните к цели и наложите на нее увечье. Если цель под действием контроля, стойкости или замедления, вместо этого обездвижьте ее."
+Leap to your target and create an arc of light that strikes nearby foes. Gain quickness based on your heat level.,"Прыгнуть к цели и создать световую дугу, которая бьет противников поблизости. Вам даруется Проворство."
+Leap to your target and create an arc of light that strikes nearby foes. Gain quickness.,"Прыгнуть к цели и создать световую дугу, которая бьет противников поблизости. Вам даруется Проворство."
+"Leap to your target and cripple them. If your target is disabled, defiant, or movement impaired, immobilize them instead.","Прыгните к цели и наложите на нее хромоту. Если цель под действием контроля, стойкости или замедления, вместо этого обездвижьте ее."
 Leap to your target and summon a clone if you hit. Can be recast to return to your starting point.,"Прыгните к цели и призовите клона, если попадете. Можно использовать повторно, чтобы вернуться в исходную точку."
 "Leap toward your destination, damaging foes upon impact.","Прыгните к месту назначения, нанося урон врагам при приземлении."
 "Leap toward your target, unleashing intense energy on the area if you strike them. Your primary target becomes the focus of your other skills. If a focused target dies, this skill is refreshed.","Прыгните к цели, высвобождая мощную энергию в области, если попадете. Ваша основная цель становится фокусом для других ваших умений. Если сфокусированная цель погибает, это умение перезаряжается."
@@ -107,7 +107,7 @@ Leaping Lizard,Прыгающая ящерица
 Leaping Slice,Прыгающий разрез
 Leaping Strike,Прыгающий удар
 Leaps and attaches to an enemy.,Прыгает и прикрепляется к врагу.
-"Leaps forward, creating an area of corruption that deals damage and inflicts torment. Creates a dark combo field.","Прыгает вперед, создавая область порчи, которая наносит урон и накладывает мучение. Создает комбо-поле тьмы."
+"Leaps forward, creating an area of corruption that deals damage and inflicts torment. Creates a dark combo field.","Прыгает вперед, создавая область порчи, которая наносит урон и накладывает боль. Создает комбо-поле тьмы."
 "Leaps forward, dealing damage and creating a damaging field.","Прыгает вперед, нанося урон и создавая наносящее урон поле."
 "Leaps to the target and creates a massive shock wave, damaging and knocking back enemies.","Прыгает к цели и создает мощную ударную волну, нанося урон и отбрасывая врагов."
 Leash Range,Дистанция привязки
@@ -183,7 +183,7 @@ Lesser Well of Blood,Малый колодец крови
 Let out a moa screech.,Издать крик моа.
 "Let out a snarl, striking fear into your foes.","Издать рык, вселяющий страх во врагов."
 "Let out a wild shriek, dazing nearby foes.","Издать дикий визг, ошеломляющий ближайших врагов."
-"Let out an inspiring roar, removing weakness and vulnerability from allies and granting vigor.","Издать вдохновляющий рык, снимающий слабость и уязвимость с союзников и дарующий бодрость."
+"Let out an inspiring roar, removing weakness and vulnerability from allies and granting vigor.","Издать вдохновляющий рык, снимающий слабость и уязвимость с союзников и дарующий энергичность."
 Lethal Coalescence,Смертоносная коалесценция
 Level 1 Boons Removed,Уровень 1: снятые благословения
 Level 1 Damage,Уровень 1: урон
@@ -412,7 +412,7 @@ Maximum Teleport Distance,Макс. дистанция телепортации
 Maximum Travel Distance,Макс. дистанция перемещения
 Maximum Wall Hits,Макс. попаданий по стене
 Maximum-Strength Daze,Ошеломление максимальной силы
-"McLeod fires a quick shot at a target, applying torment.","McLeod делает быстрый выстрел в цель, накладывая мучение."
+"McLeod fires a quick shot at a target, applying torment.","McLeod делает быстрый выстрел в цель, накладывая боль."
 "McLeod sends out a flurry of slashes at frontline targets, applying confusion with each hit.","McLeod обрушивает шквал ударов на цели в первой линии, накладывая замешательство с каждым попаданием."
 McLeod slashes foes.,McLeod атакует врагов.
 McLeod teleports and blasts the area.,McLeod телепортируется и взрывает область.
