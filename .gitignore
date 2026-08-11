@@ -12,6 +12,11 @@ sync/.snapshot.json
 sync/reports/
 sync/*.cache
 sync/*.raw
+# граф перевода — целиком выводится из bin, батчей и GLOSSARY.md, пересобирается
+# командой `tools/index.py build` (файл на 235 МБ, версионировать нечего)
+sync/index.db
+# выгрузка официального API (`tools/apicat.py fetch`) — тоже кеш, не источник
+sync/api/
 
 # Бэкапы от tools/dict_tool.py — локальные
 .dict_bak/
