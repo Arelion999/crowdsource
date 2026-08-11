@@ -26,7 +26,7 @@
 | `items_012.csv` | items | 500 | 20,463 | Advanced Harvesting Sickle | ✅ | Автозаполнение из словаря + PR #1 — черновик, 494/500 (99%), нужна вычитка |
 | `items_013.csv` | items | 500 | 12,145 | Ancient Boreal Focus Skin | ✅ | Магистр Клод, Приорат Дурманд |
 | `items_014.csv` | items | 500 | 12,594 | Araneae Longbow Skin | ✅ | Магистр Клод, Приорат Дурманд |
-| `items_015.csv` | items | 500 | 13,707 | Assassin's Rascal Mask | ✅ | Автозаполнение из словаря + PR #1 — черновик, 500/500 (100%), нужна вычитка |
+| `items_015.csv` | items | 500 | 13,707 | Assassin's Rascal Mask | ✅ | Магистр Клод, Приорат Дурманд — вычитано |
 | `items_016.csv` | items | 499 | 11,061 | Aureate Warhammer of Water | ✅ | Автозаполнение из словаря + PR #1 — черновик, 498/499 (100%), нужна вычитка |
 | `items_017.csv` | items | 500 | 14,656 | Barrel of Jahin White | ✅ | Автозаполнение из словаря + PR #1 — черновик, 500/500 (100%), нужна вычитка |
 | `items_018.csv` | items | 500 | 16,276 | Berserker's Glimmering Resin Focus | ✅ | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |

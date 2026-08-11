@@ -10,6 +10,7 @@
     python tools/index.py term [<термин>]    # где встречается термин глоссария, где нарушен канон
     python tools/index.py bad [<имя|категория>]  # дефекты: сводка или по персонажу/категории
     python tools/index.py skills [проф|тип|оружие|слот]  # покрытие умений в разрезе
+    python tools/index.py proof <батч> [с] [по]  # лист вычитки: чем вещь является и как её звали люди
 
 Зачем: батчи нарезаны корзинами сбора (`ui`, `new`, `zone`), и по имени файла не
 понять, что в нём лежит — из 449 351 строки категория батча совпадает с
@@ -61,6 +62,10 @@ def cmd_build(_args):
         CREATE TABLE defect(hash TEXT, kind TEXT, detail TEXT);
         CREATE TABLE term_hit(hash TEXT, term TEXT, bad TEXT);
         CREATE TABLE ctx(hash TEXT PRIMARY KEY, kind TEXT);
+        CREATE TABLE batch(name TEXT PRIMARY KEY, human INT, note TEXT);
+        CREATE TABLE item(name TEXT, kind TEXT, type TEXT, subtype TEXT,
+                          weight TEXT, rarity TEXT, level TEXT);
+        CREATE INDEX i_item ON item(name);
         CREATE TABLE skill(id TEXT, vid TEXT, name TEXT, descr TEXT, prof TEXT,
                            type TEXT, weapon TEXT, slot TEXT,
                            name_ru TEXT, descr_ru TEXT);
@@ -102,6 +107,21 @@ def cmd_build(_args):
             places.append((hx(h), "батч", os.path.basename(fp), "%s:%d" % (rel, i)))
             nb += 1
     print("строк батчей: %d" % nb)
+
+    # Кто заполнял батч. Машинная подстановка из словаря и ручной перевод — не
+    # одного веса: канон надо брать у человека, а машинный батч сам ждёт вычитки.
+    # Признак живёт только в CLAIMS.md, из самих файлов его не видно.
+    bat = []
+    cl = os.path.join(CROWD, "CLAIMS.md")
+    if os.path.exists(cl):
+        for line in open(cl, encoding="utf-8"):
+            c = [x.strip() for x in line.split("|")]
+            if len(c) > 7 and c[1].startswith("`"):
+                note = c[7]
+                bat.append((c[1].strip("`"), 0 if "Автозаполнение" in note else 1, note))
+    db.executemany("INSERT OR REPLACE INTO batch VALUES (?,?,?)", bat)
+    nh = sum(1 for x in bat if x[1])
+    print("батчей на доске: %d | заполнены человеком: %d" % (len(bat), nh))
 
     db.executemany("INSERT INTO string VALUES (?,?,?)",
                    ((hx(h), en, ru) for h, (en, ru) in strings.items()))
@@ -201,7 +221,8 @@ def cmd_build(_args):
         for r in list(csv.reader(open(mfp, encoding="utf-8-sig")))[1:]:
             if r and r[0].strip():
                 mech_en.add(r[0].strip())
-    MECH_CAT = {"skills", "traits", "specializations", "itemstats", "professions"}
+    MECH_CAT = {"skill_names", "skill_descriptions", "traits", "specializations",
+                "itemstats", "professions"}
     FLAV_CAT = {"npc_dialogue", "personal_story", "zone_dialogue", "backstory",
                 "stories", "stories_seasons"}
     cat_of = collections.defaultdict(set)
@@ -287,6 +308,18 @@ def cmd_build(_args):
     print("умений и талантов: %d | название у нас есть: %d | описание: %d из %d"
           % (len(sk), have_n, have_d, withd))
 
+    # Чем предмет является по данным игры (tools/itemfacts.py fetch). В названии
+    # тип вещи спрятан за словом сета — «Targe» это щит, «Greaves» это сапоги, —
+    # и без этого вычитывать названия предметов приходится наугад.
+    itm = []
+    ifp = os.path.join(CROWD, "sync", "api", "facts", "items.csv")
+    if os.path.exists(ifp):
+        for r in list(csv.reader(open(ifp, encoding="utf-8-sig")))[1:]:
+            if len(r) >= 7 and r[0].strip():
+                itm.append(tuple(x.strip() for x in r[:7]))
+    db.executemany("INSERT INTO item VALUES (?,?,?,?,?,?,?)", itm)
+    print("фактов о предметах: %d" % len(itm))
+
     # Тип сущности: чем эта штука является по данным API (tools/apicat.py)
     apid = os.path.join(CROWD, "sync", "api")
     types = {}
@@ -320,6 +353,11 @@ def cmd_find(args):
         return
     for h, en, ru in rows:
         print("\n%s\n  RU %s" % (en[:150], (ru or "(нет перевода)")[:150]))
+        for _n, kind, typ, sub, wgt, rar in db.execute(
+                "SELECT name, kind, type, subtype, weight, rarity FROM item "
+                "WHERE name=? LIMIT 2", (en.strip(),)):
+            bits = [x for x in (typ, sub if sub != typ else "", wgt, rar) if x]
+            print("  ЭТО %s (%s)" % ("/".join(bits), kind))
         for kind, name, ref in db.execute(
                 "SELECT kind, name, ref FROM place WHERE hash=? ORDER BY kind", (h,)):
             print("     %-10s %-26s %s" % (kind, name, ref))
@@ -486,6 +524,122 @@ def cmd_cat(args):
         print("  %-70s %s" % (e[:70], (r or "")[:60]))
 
 
+WORD_EN = re.compile(r"[A-Za-z][A-Za-z'\-]{2,}")
+# Стат-префикс не несёт имени вещи: «Assassin's Tengu Axe» и «Berserker's Tengu
+# Axe» — один и тот же топор. Ядро названия ищем без него, иначе прецедент не
+# найдётся никогда: у каждого префикса свой батч.
+PREFIX = re.compile(r"^(Attuned|Assaulter's|Assassin's|Defender's|Healer's|Malicious|"
+                    r"Berserker's|Zealot's|Cleric's|Rampager's|Carrion|Dire|Rabid|"
+                    r"Celestial|Knight's|Valkyrie|Soldier's|Magi's|Shaman's)\s+")
+
+
+def core_name(en):
+    s = en.strip()
+    for _ in range(3):
+        s2 = PREFIX.sub("", s)
+        if s2 == s:
+            break
+        s = s2
+    return s
+
+
+def human_rows(db, skip=None):
+    """Строки батчей, заполненных человеком: только они годятся в прецеденты.
+
+    Читаем сами файлы, а не таблицу `string`: в ней перевод берётся из bin, а bin
+    отстаёт от батчей до ближайшего `dict_tool.py frombatches`. Вычитанный вчера
+    батч должен работать прецедентом сегодня.
+    """
+    names = {r[0] for r in db.execute("SELECT name FROM batch WHERE human=1")}
+    out = []
+    for fp in sorted(glob.glob(os.path.join(CROWD, "*", "*.csv"))):
+        base = os.path.basename(fp)
+        if base not in names or (skip and os.path.samefile(fp, skip)):
+            continue
+        try:
+            rows = list(csv.reader(open(fp, encoding="utf-8")))
+        except OSError:
+            continue
+        if not rows or rows[0][:1] != ["english"]:
+            continue
+        for r in rows[1:]:
+            if len(r) > 1 and r[0].strip() and r[1].strip():
+                out.append((base, r[0], r[1]))
+    return out
+
+
+def cmd_proof(args):
+    """Лист вычитки батча: чем вещь является по игре и как её звали люди.
+
+    Машинный батч тем и плох, что переводит название вслепую. Здесь рядом с
+    каждой строкой стоят две опоры: факт игры (тип вещи, слот, редкость) и
+    готовые формулировки из человеческих батчей для того же ядра названия.
+    """
+    if not args:
+        sys.exit("какой батч? например: proof items/items_015.csv 1 60")
+    fp = args[0] if os.path.exists(args[0]) else os.path.join(CROWD, args[0])
+    if not os.path.exists(fp):
+        sys.exit("нет файла: %s" % args[0])
+    a = int(args[1]) if len(args) > 1 else 1
+    b = int(args[2]) if len(args) > 2 else 10 ** 9
+    db = connect()
+
+    facts = collections.defaultdict(list)
+    for nm, kind, typ, sub, wgt, rar, lvl in db.execute(
+            "SELECT name, kind, type, subtype, weight, rarity, level FROM item"):
+        facts[nm].append((kind, typ, sub, wgt, rar, lvl))
+
+    H = human_rows(db, skip=fp)
+    exact = {}
+    idx = collections.defaultdict(list)
+    for i, (fn, en, ru) in enumerate(H):
+        exact.setdefault(en.strip(), i)
+        if len(en) <= 90:
+            for w in {x.lower() for x in WORD_EN.findall(en)}:
+                idx[w].append(i)
+
+    rows = list(csv.reader(open(fp, encoding="utf-8")))[1:]
+    for n, r in enumerate(rows, start=1):
+        if not r or not r[0].strip() or n < a or n > b:
+            continue
+        en = r[0]
+        ru = r[1] if len(r) > 1 else ""
+        print("\n%3d| %s" % (n, en))
+        c = core_name(en)
+        for f in facts.get(en.strip(), facts.get(c, []))[:2]:
+            kind, typ, sub, wgt, rar, lvl = f
+            bits = [x for x in (typ, sub if sub != typ else "", wgt) if x]
+            print("     ЧТО   %-42s %s%s" % ("/".join(bits), rar,
+                                             " ур.%s" % lvl if lvl and lvl != "0" else ""))
+        print("     RU    %s" % (ru or "(пусто)"))
+
+        seen, out = set(), []
+        if c in exact:
+            out.append(("=", H[exact[c]]))
+            seen.add(exact[c])
+        words = [w.lower() for w in WORD_EN.findall(c)]
+        cand = collections.Counter()
+        for w in words:
+            if len(idx[w]) > 4000:
+                continue
+            for i in idx[w]:
+                cand[i] += 1
+        for i, k in cand.most_common(30):
+            if i in seen or k < max(2, len(words) - 1):
+                continue
+            out.append(("~%d/%d" % (k, len(words)), H[i]))
+            seen.add(i)
+            if len(out) >= 3:
+                break
+        for tag, (fn, e, rr) in out:
+            print("     ЛЮДИ  %-6s %-13s %-40s %s" % (tag, fn, e[:40], rr[:60]))
+
+        h = hx(D.fnv1a_u16(en))
+        for kind, detail in db.execute(
+                "SELECT kind, detail FROM defect WHERE hash=? LIMIT 3", (h,)):
+            print("     ЛИНТЕР %s %s" % (kind, detail[:70]))
+
+
 def cmd_dup(_args):
     db = connect()
     rows = db.execute(
@@ -503,7 +657,8 @@ def cmd_dup(_args):
 
 
 CMDS = {"build": cmd_build, "find": cmd_find, "who": cmd_who,
-        "cat": cmd_cat, "dup": cmd_dup, "term": cmd_term, "bad": cmd_bad, "skills": cmd_skills}
+        "cat": cmd_cat, "dup": cmd_dup, "term": cmd_term, "bad": cmd_bad,
+        "skills": cmd_skills, "proof": cmd_proof}
 
 if __name__ == "__main__":
     if len(sys.argv) < 2 or sys.argv[1] not in CMDS:

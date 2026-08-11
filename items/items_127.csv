@@ -28,9 +28,11 @@ Double-click to open.","Дважды щёлкните, чтобы открыть
 Выберите оружие первого поколения, аксессуар
 Дважды щёлкните, чтобы открыть."
 "Double-click to open.,
-Choose a second generation weapon or two alternative legendary items to be placed in your Legendary Armory.",Выберите оружие второго поколения или два альтернативных легендарных предмета для размещения в вашем Легендарном Арсенале.
+Choose a second generation weapon or two alternative legendary items to be placed in your Legendary Armory.","Дважды щёлкните, чтобы открыть.
+Выберите оружие второго поколения или два альтернативных легендарных предмета для размещения в вашем Легендарном Арсенале."
 "Double-click to open.,
-Choose a second-generation weapon or an alternative legendary item to be placed in your Legendary Armory.","Выберите оружие второго поколения или альтернативный легендарный предмет для размещения в вашем Легендарном арсенале."""
+Choose a second-generation weapon or an alternative legendary item to be placed in your Legendary Armory.","Дважды щёлкните, чтобы открыть.
+Выберите оружие второго поколения или альтернативный легендарный предмет для размещения в вашем Легендарном арсенале."""
 "Double-click to open.,
 Choose from a subset of first-generation weapons or backpieces to be placed in your legendary armory.","Дважды щёлкните, чтобы открыть.,
 Выберите из набора оружия первого поколения или наплечных сумок, чтобы поместить их в вашу легендарную оружейную."
@@ -42,7 +44,7 @@ Choose from: ,
 • Mini Red Griffon Hatchling","Дважды щёлкните, чтобы открыть.,
 Выберите из: ,
 • Мини-зелёный детеныш раптора,
-• Мини-коричневый набор прыгуна,
+• Мини-коричневый набор спрингера,
 • Мини-жёлтый щенок шакала,
 • Мини-красный детеныш грифона"
 "Double-click to open.,
@@ -127,7 +129,8 @@ Contains loot from creatures.,Содержит трофеи с существ.
 Contains materials from Amnytas.","Дважды щёлкните, чтобы открыть.
 Содержит материалы из Амнитаса."
 "Double-click to open.,
-Contains materials from Skywatch Archipelago.","Содержит материалы из Архипелага Небесного Дозора."""
+Contains materials from Skywatch Archipelago.","Дважды щёлкните, чтобы открыть.
+Содержит материалы из Архипелага Небесного Дозора."""
 "Double-click to pick a recipe for Spearmarshal Coats. Can be learned by armorsmiths, leatherworkers
 Purchase these recipes from renown merchants in Elona after learning the base recipes from the story.","Дважды щёлкните, чтобы выбрать рецепт для мундиров маршала копья. Могут выучить броненосцы и кожевники.
 Купите эти рецепты у известных торговцев в Элоне после изучения базовых рецептов из сюжета."
@@ -339,7 +342,8 @@ Grants a chance to receive bonus wood logs in addition to your gathering results
 Grants a large amount of End of Dragons Mastery experience.,Дарует большое количество опыта мастерства «Конец Драконов».
 Grants a large amount of End of Dragons Mastery experience.","Дарует большое количество опыта мастерства Пустыни Кристалла.,
 <c=@Flavor>Ранее продавался по всей Элоне, но запрещён при Палаве Джоко. Эти всё ещё ценятся коллекционерами
-Дарует большое количество опыта мастерства «Конец Драконов».,Дарует большое количество опыта мастерства «Конец Драконов»."
+Дарует большое количество опыта мастерства «Конец Драконов».,
+Дарует большое количество опыта мастерства «Конец Драконов»."
 "Grants a large amount of Secrets of the Obscure Mastery experience.,
 <c=@Flavor>Assumed to be minted by the Astral Ward, these are valued by collectors
 Grants a large amount of Visions of Eternity Mastery experience.,Дает большой опыт мастерства в Видениях Вечности.
@@ -611,7 +615,8 @@ Contains bonus ley-line crystals.","В честь тех, кто расчист�
 <c=@flavor>—Ройся глубоко в грязи, где течет весь мусор Львиного Шпиля. (Место №1)'
 —Найди Проверника, где гниют кости первого короля на холмах. (Место №5)</c>'"
 "In which King Thorn relieves thieves of their hands.,
-<c=@flavor>—This hinterland village was home to a goddess and a martyr. (Site #6)</c>","<c=@flavor>—Эта глухая деревня была домом для богини и мученика. (Место №6)</c>"""
+<c=@flavor>—This hinterland village was home to a goddess and a martyr. (Site #6)</c>","В коей король Торн избавляет воров от их рук.
+<c=@flavor>—Эта глухая деревня была домом для богини и мученика. (Место №6)</c>"""
 "In which Lord Oswald Thorn, the new heir to the throne
 '<c=@flavor>—Say more now and look more where Kryta''s descendants are buried. (Site #3)','<c=@flavor>—Говори больше сейчас и смотри больше туда, где покоятся потомки Криты. (Участок №3)'
 —Find Provernic,' where the first king''s bones rot in the hills. (Site #5)</c>'","В котором лорд Освальд Торн, новый наследник престола
@@ -633,7 +638,8 @@ Contains bonus ley-line crystals.","В честь тех, кто расчист�
 '<c=@flavor>—Говори больше сейчас и смотри больше туда, где покоятся потомки Крайты. (Участок №3)','<c=@flavor>—Говори больше сейчас и смотри больше туда, где покоятся потомки Крайты. (Участок №3)'
 —Иди в холмы и укорени чёрные корни в стоячих водах. (Участок №4)</c>"
 "In which a rebellious village goes up in flames.,
-'<c=@flavor>—Walk in cadence with King Thorn''s shattered subjects. They keep their hatred deep within. (Site #10)</c>'","<c=@flavor>—Идите в ногу с разбитыми подданными короля Терна. Они глубоко хранят свою ненависть. (Место №10)</c>"""
+'<c=@flavor>—Walk in cadence with King Thorn''s shattered subjects. They keep their hatred deep within. (Site #10)</c>'","В коей мятежная деревня обращается в пламя.
+<c=@flavor>—Идите в ногу с разбитыми подданными короля Терна. Они глубоко хранят свою ненависть. (Место №10)</c>"""
 "In which the king makes an example of ungrateful peasants.,В которой король наказывает неблагодарных крестьян в назидание.","В которой король наказывает неблагодарных крестьян в назидание.,В которой король наказывает неблагодарных крестьян в назидание."
 "Information on the patrols around the mine and the dredge defensive capabilities. Grimarr Molesmasher, outside of Molensk
 Infused Aurora Chestguard Skin,

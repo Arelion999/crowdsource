@@ -2680,8 +2680,11 @@ def cmd_pnset(a):
 DICT_NAMES = {
     "основной": "Основной текст",
     "выученные": "Выученные строки",
-    "items": "Предметы: описания",
-    "items_names": "Предметы: названия",
+    # названия и описания разведены по разным словарям (tools/dictsplit.py):
+    # категория — это группа отключения, и «показать названия по-английски»
+    # работает, только если описания лежат отдельно
+    "item_names": "Предметы: названия",
+    "item_descriptions": "Предметы: описания",
     "itemstats": "Характеристики предметов",
     "materials": "Материалы",
     "currencies": "Валюты",
@@ -2693,10 +2696,12 @@ DICT_NAMES = {
     "stories_seasons": "Сюжеты: сезоны",
     "npc_dialogue": "Реплики NPC",
     "zone_dialogue": "Реплики в зонах",
-    "achievements": "Достижения",
+    "achievement_names": "Достижения: названия",
+    "achievement_descriptions": "Достижения: описания",
     "achievement_categories": "Достижения: категории",
     "achievement_groups": "Достижения: группы",
-    "skills": "Умения",
+    "skill_names": "Умения: названия",
+    "skill_descriptions": "Умения: описания",
     "traits": "Таланты",
     "specializations": "Специализации",
     "professions": "Профессии",
