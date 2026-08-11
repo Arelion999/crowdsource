@@ -940,8 +940,14 @@ def cmd_frombatches(a):
         cur = ours.get(h)
         if cur is None:
             added[h] = (en, ru, "основной")
-        elif cur[1].strip() != ru.strip() and (
-                defects(cur[0], cur[1]) or _linter_broken(cur[0], cur[1], en, ru)):
+        elif cur[1].strip() == ru.strip():
+            pass
+        elif a.batches_win:
+            # Штатный режим: батчи — источник истины, они версионируются, а bin
+            # собирается из них. Заменяем всегда, когда текст разный и батч
+            # прошёл гейт, а не только когда наша запись битая.
+            changes[h] = ru
+        elif defects(cur[0], cur[1]) or _linter_broken(cur[0], cur[1], en, ru):
             changes[h] = ru
     print("из батчей: добавить %d | заменить наши битые %d | отклонено гейтами %d"
           % (len(added), len(changes), rejected))
@@ -2771,6 +2777,8 @@ def main():
         (("foreign",), {}), (("--our",), {"default": OUR_BIN}),
         (("--apply",), {"action": "store_true"}))
     add("frombatches", "влить переводы батчей (замена merge_back)", cmd_frombatches,
+        (("--batches-win",), {"action": "store_true",
+                              "help": "батч всегда побеждает (штатный режим)"}),
         (("--apply",), {"action": "store_true"}))
     add("canon", "привести к канону терминов", cmd_canon,
         (("--apply",), {"action": "store_true"}))
