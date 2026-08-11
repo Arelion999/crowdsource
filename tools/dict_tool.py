@@ -802,12 +802,27 @@ def _body(s):
     return s.strip()
 
 
-def batch_files():
+def batch_files(with_pn=False):
+    """Файлы батчей. Слой имён (`pn/`) по умолчанию НЕ отдаём.
+
+    Слой заведён в батчи, чтобы его было видно и можно было вычитывать, но это
+    не обычные переводы: у них своя категория в bin (`pn_names`, `pn_world_map`,
+    `pn_terms`), и вливать их в «основной» нельзя. Кому нужен слой — просит явно.
+    """
     for fp in sorted(glob.glob(os.path.join(CROWD, "*", "*.csv"))):
         p = fp.replace("\\", "/")
         if ".batch_bak" in p or "/sync/" in p:
             continue
+        if "/pn/" in p and not with_pn:
+            continue
         yield fp
+
+
+def pn_layer_of(path):
+    """Категория слоя по имени файла батча: pn/pn_world_map_003.csv -> pn_world_map."""
+    b = os.path.basename(path)
+    m = re.match(r"(pn_[a-z_]+?)_\d+\.csv$", b)
+    return m.group(1) if m else None
 
 
 def human_pairs():
@@ -925,6 +940,36 @@ def cmd_frombatches(a):
     changes, added = {}, {}
     rejected = 0
     rej_rows, rej_kinds = [], collections.Counter()
+
+    # Слой имён: у него своя категория, и гейт про латиницу к нему неприменим —
+    # там половина записей это имя латиницей с русской подстановкой.
+    # Сверяем с САМОЙ секцией слоя, а не через load_map: тот схлопывает записи
+    # по хешу между категориями, и на месте записи слоя показал бы двойника из
+    # `maps` — правка ушла бы не туда.
+    pn_now = {}
+    for name, es in read_sections(OUR_BIN):
+        cat = name.partition("\x1f")[0]
+        if cat.startswith("pn_"):
+            for h, _en, ru in es:
+                pn_now[h] = (cat, ru)
+    pn_add, pn_chg = 0, 0
+    for fp in batch_files(with_pn=True):
+        lay = pn_layer_of(fp)
+        if not lay:
+            continue
+        for r in list(csv.reader(open(fp, encoding="utf-8-sig")))[1:]:
+            if len(r) < 2 or not r[0].strip() or not r[1].strip():
+                continue
+            h = fnv1a_u16(r[0])
+            if h not in pn_now:
+                added[h] = (r[0], r[1], lay)
+                pn_add += 1
+            elif pn_now[h][1].strip() != r[1].strip():
+                changes[h] = r[1]
+                pn_chg += 1
+    if pn_add or pn_chg:
+        print("слой имён из батчей: добавить %d | поправить %d" % (pn_add, pn_chg))
+
     for en, ru in human_pairs().items():
         h = fnv1a_u16(en)
         # Гейт строгий (defects), а не мягкий линтер батчей: в словарь

@@ -10,14 +10,14 @@ dictionary.bin. Инструкция по установке живёт в READM
     python make_release.py --no-lint       # не гонять линтер по словарю
     python make_release.py --lint-details  # показать примеры найденных линтом ошибок
 
-CSV-слой (dict_*.csv, main_strings.csv, pn_*.csv) удалён, поэтому bin больше
-не собирается из CSV — он сам является источником. Правки в него вносит
-crowdsource/tools/dict_tool.py:
+Источник истины — БАТЧИ, а не bin: они версионируются в git, bin нет. Перед
+релизом bin пересобирается из батчей (см. README, «Порядок работы»):
 
-    python crowdsource/tools/dict_tool.py frombatches --apply   # переводы батчей -> bin
-    python crowdsource/tools/dict_tool.py canon --apply         # канон терминов
-    python crowdsource/tools/dict_tool.py broken                # разбор битых строк
-    python crowdsource/tools/dict_tool.py export <папка>        # выгрузить bin в CSV
+    python crowdsource/tools/dict_tool.py frombatches --batches-win --apply
+    python crowdsource/tools/index.py build        # пересобрать граф
+
+Руками bin не правят. Исключение — то, чего в батчах нет: слой имён (`pnadd`,
+`pnset`) и русские имена словарей (`dictnames`).
 
 Флаг --no-build оставлен, чтобы старые вызовы не падали, но ничего не делает.
 """
