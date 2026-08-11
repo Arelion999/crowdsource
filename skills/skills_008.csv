@@ -36,7 +36,7 @@ Hammer Spin,Вращение молотом
 Hammer Strike,Удар молотом
 Hammer Swing,Взмах молотом
 Hammer Toss,Бросок молота
-Hammers foes with a smashing strike.,Поражает врагов сокрушительным ударом.
+Hammers foes with a smashing strike.,Ударить вашего противника.
 Hamstring,Подрезание сухожилий
 Harbinger Shroud,Саван предвестника
 Hard Light Arena,Арена жесткого света
@@ -69,7 +69,7 @@ Heal If Attacked,Исцеление при атаке
 Heal Pulse,Импульс исцеления
 Heal Pulses,Импульсы исцеления
 Heal allies around enemies you strike.,"Исцеляет союзников вокруг врагов, которых вы поражаете."
-Heal allies around you and inflict bleeding on your marked target. Gain stealth if malice is at or above the threshold.,"Исцеляет союзников вокруг вас и накладывает кровотечение на вашу отмеченную цель. Получите скрытность, если злоба достигла порогового значения или выше."
+Heal allies around you and inflict bleeding on your marked target. Gain stealth if malice is at or above the threshold.,"Исцелить союзников вокруг вас и вызвать у отмеченной цели кровотечение. Стать невидимым, если злобность равна или превышает порог."
 Heal allies when you grant them boons.,"Исцеляет союзников, когда вы накладываете на них благословения."
 "Heal and remove conditions from nearby allies, then redirect a percentage of their incoming strike damage to you. <c=@reminder>Damage redirection will end if you fall below 50%% health.</c>","Лечит и снимает состояния с ближайших союзников, затем перенаправляет процент входящего урона от атак на вас. <c=@reminder>Перенаправление урона прекратится, если ваше здоровье упадёт ниже 50%%.</c>"
 Heal each second.,Исцеляет каждую секунду.
@@ -86,8 +86,8 @@ Heal per Condition Removed,Исцеление за каждое снятое с�
 Heal per Hit,Исцеление за попадание
 "Heal yourself and nearby allies, curing a condition.","Исцеляет вас и ближайших союзников, снимая состояние."
 "Heal yourself and nearby allies, curing conditions.","Исцеляет вас и ближайших союзников, снимая состояния."
-Heal yourself and nearby allies.,Исцеляет вас и ближайших союзников.
-Heal yourself and remove conditions. Gain additional health and remove additional conditions for each active clone.,Исцеляет вас и снимает состояния. Получите дополнительное здоровье и снимите дополнительные состояния за каждого активного клона.
+Heal yourself and nearby allies.,Исцелить себя и союзников поблизости.
+Heal yourself and remove conditions. Gain additional health and remove additional conditions for each active clone.,Исцелить себя и снять состояния. Получить дополнительное здоровье и снять дополнительные состояния за каждый существующий клон.
 Heal yourself when you remove conditions.,Исцеляет вас при снятии состояний.
 Healing Cloud,Исцеляющее облако
 Healing Converted,Преобразованное исцеление
@@ -130,14 +130,14 @@ Heat Seeker,Искатель жара
 Heat Sync,Синхронизация жара
 Heat Wave,Волна жара
 Heat per Second,Жар в секунду
-Heat your sword a final time and use the full power of your flames to sear enemies and ignite them.,"Нагрейте свой меч в последний раз и используйте всю мощь своего пламени, чтобы опалить врагов и поджечь их."
-Heat your sword a second time and strike your enemies for increased damage.,Нагрейте свой меч во второй раз и поразите врагов с увеличенным уроном.
+Heat your sword a final time and use the full power of your flames to sear enemies and ignite them.,"Нагреть меч в последний раз и использовать всю силу пламени, чтобы обжечь противников и поджечь их."
+Heat your sword a second time and strike your enemies for increased damage.,Нагреть меч второй раз и нанести противникам повышенный урон.
 Heaven's Palm,Небесная ладонь
-Heavy Impact,Тяжелый удар
-Heavy Landing,Тяжелое приземление
-Heavy Shot,Тяжелый выстрел
-Heavy Smash,Тяжелое сокрушение
-Heavy Swipe,Тяжелый взмах
+Heavy Impact,Тяжёлый удар
+Heavy Landing,Тяжёлое приземление
+Heavy Shot,Тяжёлый выстрел
+Heavy Smash,Тяжёлое сокрушение
+Heavy Swipe,Тяжёлый взмах
 Heel Crack,Удар по пяткам
 Helio Rush,Гелио-рывок
 Helmet Breaker,Крушитель шлемов
@@ -149,16 +149,16 @@ Hilt Bash,Удар эфесом
 "Hints of freedom echo around, stabilizing and breaking stuns on you and your allies.","Вокруг эхом разносятся намеки на свободу, стабилизируя и снимая оглушение с вас и ваших союзников."
 Hit,Попадание
 Hit by falling debris.,Удар падающими обломками.
-Hit multiple foes with arcs of chain lightning.,Поразите нескольких врагов дугами цепной молнии.
-Hit multiple foes with arcs of chain lightning. Critical hits with this ability deal increased damage.,Поразите нескольких врагов дугами цепной молнии. Критические удары этой способностью наносят увеличенный урон.
+Hit multiple foes with arcs of chain lightning.,Поразить нескольких противников дуговыми разрядами молний.
+Hit multiple foes with arcs of chain lightning. Critical hits with this ability deal increased damage.,"Вы выпускаете заряд электричества каждый раз, когда используете умение на Поясе Инженера."
 "Hit up to four foes with a single shot, inflicting confusion on each foe. In addition, the first target is stunned, the second is dazed, and the third is blinded.","Поразите до четырех врагов одним выстрелом, накладывая замешательство на каждого. Кроме того, первая цель оглушается, вторая — ошеломляется, а третья — ослепляется."
-Hit your foe with a final brutal strike.,Поразите врага финальным жестоким ударом.
-Hit your foe with a final strike and heal nearby allies.,Поразите врага финальным ударом и исцелите ближайших союзников.
+Hit your foe with a final brutal strike.,Нанести вашему противнику последний жестокий удар.
+Hit your foe with a final strike and heal nearby allies.,Нанести противнику завершающий удар и исцелить союзников поблизости.
 Hits foes with a combo of jabs followed by a strong punch.,"Поражает врагов комбинацией джебов, за которыми следует сильный удар."
-Hits foes with a quick punch.,Поражает врагов быстрым ударом.
+Hits foes with a quick punch.,Толкнуть вашего противника.
 Hits foes with a ring attack that deals massive damage.,"Поражает врагов круговой атакой, наносящей огромный урон."
 Hits to Cause Flurry,Попадания для вызова шквала
-Hold down to charge at foes.,"Удерживайте, чтобы броситься на врагов."
+Hold down to charge at foes.,"Приказать вашему голему из плоти даровать себе Устойчивость и напасть на противника, сбивая с ног или отбрасывая противников у себя на пути."
 Holo Leap,Голо-прыжок
 Holo-Dancer Decoy,Голо-танцующая приманка
 Holoforge Overheated,Голо-кузница перегрета
@@ -169,7 +169,7 @@ Homing Torpedo,Самонаводящаяся торпеда
 Honey Pool Duration,Длительность медовой лужи
 Honey Toss,Бросок меда
 Hook Strike,Удар крюком
-Hooked Spear,Зацепленное копье
+Hooked Spear,Зацепленное копьё
 Horizon Strike,Удар по горизонту
 Horrific illusions fill your mind. Applies 2 stacks of derangement.,Ужасающие иллюзии наполняют ваш разум. Накладывает 2 стака расстройства.
 Hounds of Balthazar,Гончие Бальтазара
@@ -187,14 +187,14 @@ Hunter's Shot,Выстрел охотника
 Hunter's Verdict,Вердикт охотника
 Hunter's Ward,Страж охотника
 Hurl,Бросок
-Hurl a bolt of unfurling shadows to bolster allies.,"Метнуть сгусток разворачивающихся теней, чтобы поддержать союзников."
-Hurl a heavy earthen spear that cripples your foe.,"Метнуть тяжелое земляное копье, которое калечит вашего врага."
-Hurl a rock and weaken your foe.,Метнуть камень и ослабить вашего врага.
+Hurl a bolt of unfurling shadows to bolster allies.,"Метнуть снаряд из теней, чтобы поддержать союзников."
+Hurl a heavy earthen spear that cripples your foe.,"Метнуть тяжёлое земляное копьё, которое калечит вашего врага."
+Hurl a rock and weaken your foe.,"Бросить камнем в противника, вызывая у него слабость."
 "Hurl forces from the Mists in front of you, rendering foes vulnerable.","Метните силы из Туманностей перед собой, делая врагов уязвимыми."
-Hurl the rocks from your barrier at your foe.,Метнуть камни из вашего барьера в вашего врага.
+Hurl the rocks from your barrier at your foe.,Бросить в противника камнями из вашего скального барьера.
 "Hurl your axe at your target, damaging and chilling the foes the axe passes through. When the axe reaches your target, shadowstep to it and deliver a large blow.","Метнуть топор в цель, нанося урон и замедляя врагов, через которых проходит топор. Когда топор достигает цели, совершите теневой шаг к нему и нанесите мощный удар."
 "Hurl your charged rod at a foe, immobilizing them. Foes take increased burning duration and vulnerability stacks based on your lightning rod's charge.","Метнуть заряженный жезл во врага, обездвиживая его. Враги получают увеличенную длительность горения и стаки уязвимости в зависимости от заряда вашего громоотвода."
-"Hurl your spear toward your foes, inflicting area damage and conditions on targets struck. Striking at least one foe causes Abyssal Raze to receive a large recharge reduction.","Метните копье во врагов, нанося область урона и накладывая состояния на пораженные цели. Попадание хотя бы по одному врагу значительно сокращает время восстановления Бездонного разрушения."
+"Hurl your spear toward your foes, inflicting area damage and conditions on targets struck. Striking at least one foe causes Abyssal Raze to receive a large recharge reduction.","Метните копьё во врагов, нанося область урона и накладывая состояния на пораженные цели. Попадание хотя бы по одному врагу значительно сокращает время восстановления Бездонного разрушения."
 "Hurl your weapon at enemies, striking foes in its path.","Метнуть оружие в противников, поражая врагов на своем пути."
 Hurricane of Pain,Ураган боли
 Hydrothermal Vent,Гидротермальный источник
@@ -229,7 +229,7 @@ Icy Roar,Ледяной рык
 Icy Screech,Ледяной визг
 "Icy fingers rip through the ground, bursting and driving shrapnel into nearby foes.","Ледяные пальцы прорываются сквозь землю, взрываясь и вонзая осколки в ближайших врагов."
 "If Decima reaches full charge while channeling this skill, it ends early, and the damage becomes unsurvivable.","Если Decima достигает полного заряда во время подготовки этого навыка, он заканчивается раньше, и урон становится непереживаемым."
-"If Qadim's defiance is not broken, he summons forth a powerful attack that damages and knocks back players.","Если стойкость Qadim не сломлена, он проводит мощную атаку, которая наносит урон и отбрасывает игроков."
+"If Qadim's defiance is not broken, he summons forth a powerful attack that damages and knocks back players.","Блокировать следующую атаку. Сделать ответный выпад и вызвать кровотечение, если вы блокировали рукопашную атаку. Получить адреналин, если вы не были атакованы."
 "If Ventari's Tablet has not been summoned, summon it at your location; otherwise, gain tranquility. Grant boons to allies around the tablet. Gain energy depending on the number of allies affected by this skill (excluding yourself). For each point of affinity, boon duration is increased.","Если Скрижаль Вентари не призвана, призовите её в своём местоположении; в противном случае обретите безмятежность. Даруйте благословения союзникам вокруг скрижали. Получайте энергию в зависимости от числа союзников, на которых действует это умение (исключая вас). За каждое очко сродства длительность благословений увеличивается."
 "If no players have life-fire, the whispering shadow instead uses Glacial Midnight.","Если ни у одного игрока нет жизненного огня, Шепчущая тень вместо этого использует Ледяную полночь."
 "If one of Greer's blobs of blight hits a targeted player, it explodes and places a stationary blob of blight that will continue to fire projectiles for several seconds.","Если один из сгустков скверны Greer попадает в выбранного игрока, он взрывается и оставляет стационарный сгусток скверны, который продолжает выпускать снаряды в течение нескольких секунд."
@@ -238,7 +238,7 @@ Icy Screech,Ледяной визг
 "If the whisperinng shadow has 10 stacks of Empowered, all enemies are also afflicted with vulnerability.","Если у Шепчущей тени 10 стаков Усиления, все враги также получают уязвимость."
 "If this skill is empowered, grant stability to allies near the tablet.","Если этот навык усилен, дайте устойчивость союзникам рядом с планшетом."
 "If this skill is empowered, healing is increased and endurance is granted to affected allies.","Если этот навык усилен, исцеление увеличивается, а затронутые союзники получают выносливость."
-"If this skill is empowered, it also grants protection to allies around the tablet.","Если этот навык усилен, он также дает протекцию союзникам вокруг планшета."
+"If this skill is empowered, it also grants protection to allies around the tablet.","Если этот навык усилен, он также даёт протекцию союзникам вокруг планшета."
 "If this skill is empowered, remove additional conditions from allies.","Если этот навык усилен, снимите дополнительные состояния с союзников."
 "If you are at or above the Blight threshold when you activate this skill, consume that amount of Blight to double damage and condition duration.","Если при активации этого навыка ваш уровень Blight равен или выше порогового, поглотите это количество Blight, чтобы удвоить урон и длительность состояний."
 "If you are at or above the Blight threshold when you activate this skill, consume that amount of Blight to double the damage and condition duration.","Если при активации этого навыка ваш уровень Blight равен или выше порогового, поглотите это количество Blight, чтобы удвоить урон и длительность состояний."
@@ -246,15 +246,15 @@ Icy Screech,Ледяной визг
 "If you are at or above the Blight threshold when you activate this skill, consume that amount of Blight to double the damage and torment struck foes.","Если при активации этого навыка ваш уровень Скверны (Blight) равен или выше порогового, поглотите это количество Скверны, чтобы удвоить урон и наложить боль на пораженных врагов."
 "If you have a fire bullet, consume it to cause the shot to explode when it strikes an enemy, damaging other foes in the blast. If you have an earth bullet, consume it to inflict additional bleeding.","Если у вас есть огненная пуля, поглотите её, чтобы выстрел взорвался при попадании во врага, нанося урон другим противникам в радиусе взрыва. Если у вас есть земляная пуля, поглотите её, чтобы наложить дополнительное кровотечение."
 "If you have a fire bullet, consume it to create an area of fire beneath the initial target. If you have an air bullet, consume it to reduce the cooldown of this skill.","Если у вас есть огненная пуля, поглотите её, чтобы создать область огня под первоначальной целью. Если у вас есть воздушная пуля, поглотите её, чтобы сократить время перезарядки этого навыка."
-"If you have a fire bullet, consume it to gain a fire aura. If not, create a fire bullet.","Если у вас есть огненная пуля, поглотите ее, чтобы получить огненную ауру. Если нет, создайте огненную пулю."
-"If you have a fire bullet, consume it to gain additional might. If not, create a fire bullet.","Если у вас есть огненная пуля, поглотите ее, чтобы получить дополнительное мощь. Если нет, создайте огненную пулю."
+"If you have a fire bullet, consume it to gain a fire aura. If not, create a fire bullet.","Если у вас есть огненная пуля, поглотите её, чтобы получить огненную ауру. Если нет, создайте огненную пулю."
+"If you have a fire bullet, consume it to gain additional might. If not, create a fire bullet.","Если у вас есть огненная пуля, поглотите её, чтобы получить дополнительное мощь. Если нет, создайте огненную пулю."
 "If you have a fire bullet, consume it to gain fire aura. If you have an ice bullet, consume it to cause the ice shots to inflict additional conditions.","Если у вас есть огненная пуля, поглотите её, чтобы получить огненную ауру. Если у вас есть ледяная пуля, поглотите её, чтобы ледяные выстрелы накладывали дополнительные эффекты состояния."
 "If you have an air bullet, consume it to also inflict daze. If you have an earth bullet, consume it to also inflict bleeding on your target.","Если у вас есть воздушная пуля, поглотите её, чтобы также наложить ошеломление. Если у вас есть земляная пуля, поглотите её, чтобы также наложить кровотечение на цель."
-"If you have an air bullet, consume it to reduce the cooldown of your next pistol skill. If not, create an air bullet.","Если у вас есть воздушная пуля, поглотите ее, чтобы сократить время перезарядки следующего навыка пистолета. Если нет, создайте воздушную пулю."
-"If you have an air bullet, consume it to remove inhibiting conditions at the start of the dash. If not, create an air bullet.","Если у вас есть воздушная пуля, используйте ее, чтобы снять ограничивающие состояния в начале рывка. Если нет, создайте воздушную пулю."
+"If you have an air bullet, consume it to reduce the cooldown of your next pistol skill. If not, create an air bullet.","Если у вас есть воздушная пуля, поглотите её, чтобы сократить время перезарядки следующего навыка пистолета. Если нет, создайте воздушную пулю."
+"If you have an air bullet, consume it to remove inhibiting conditions at the start of the dash. If not, create an air bullet.","Если у вас есть воздушная пуля, используйте её, чтобы снять ограничивающие состояния в начале рывка. Если нет, создайте воздушную пулю."
 "If you have an earth bullet, consume it to enhance your next few attacks to inflict bleeding. If not, create an earth bullet.","Если у вас есть земляная пуля, поглотите её, чтобы усилить следующие несколько атак и наложить кровотечение. Если нет, создайте земляную пулю."
-"If you have an earth bullet, consume it to gain barrier when striking an enemy. If not, create an earth bullet.","Если у вас есть земляная пуля, поглотите ее, чтобы получить барьер при ударе по врагу. Если нет, создайте земляную пулю."
-"If you have an ice bullet, consume it to cause the frozen ground to shatter when it expires. If not, create an ice bullet.","Если у вас есть ледяная пуля, поглотите ее, чтобы замороженная земля разбилась по истечении времени действия. Если нет, создайте ледяную пулю."
+"If you have an earth bullet, consume it to gain barrier when striking an enemy. If not, create an earth bullet.","Если у вас есть земляная пуля, поглотите её, чтобы получить барьер при ударе по врагу. Если нет, создайте земляную пулю."
+"If you have an ice bullet, consume it to cause the frozen ground to shatter when it expires. If not, create an ice bullet.","Если у вас есть ледяная пуля, поглотите её, чтобы замороженная земля разбилась по истечении времени действия. Если нет, создайте ледяную пулю."
 "If you have an ice bullet, consume it to gain frost aura. If you have an air bullet, consume it to gain superspeed.","Если у вас есть ледяная пуля, поглотите её, чтобы получить ледяную ауру. Если у вас есть воздушная пуля, поглотите её, чтобы получить суперскорость."
 "If you have an ice bullet, consume it to heal for each strike. If not, create an ice bullet.","Если у вас есть ледяная пуля, поглотите её, чтобы исцеляться за каждый удар. Если нет, создайте ледяную пулю."
 "If you have an ice bullet, consume it to heal yourself. If you have an earth bullet, consume it to grant yourself barrier.","Если у вас есть ледяная пуля, поглотите её, чтобы исцелить себя. Если у вас есть земляная пуля, поглотите её, чтобы получить барьер."
@@ -266,7 +266,7 @@ Illuminated Healing,Озаренное исцеление
 Illuminated. Allies you pass through are healed for more and gain boons. Enemies you strike take bonus damage and are inflicted with conditions.,"Озарение: союзники, через которых вы проходите, получают больше исцеления и благословения. Враги, которых вы поражаете, получают дополнительный урон и накладываемые состояния."
 Illuminated. More shards are produced. Removing conditions from allies also heals them. Damage is reduced per target each time they are struck by this skill.,Усиление: создается больше осколков. Снятие состояний с союзников также лечит их. Урон по каждой цели снижается при каждом попадании этого навыка.
 Illuminated. The shock wave additionally deals more damage and inflicts conditions on enemies and grants boons to allies.,"Освещение. Ударная волна дополнительно наносит больше урона, накладывает состояния на врагов и дарует благословения союзникам."
-"Illuminated. While the symbol is active, all other spear skills are illuminated, even if you move out of range of the symbol.","Освещение. Пока символ активен, все остальные навыки копья освещены, даже если вы выйдете за пределы действия символа."
+"Illuminated. While the symbol is active, all other spear skills are illuminated, even if you move out of range of the symbol.","Освещение. Пока символ активен, все остальные навыки копья освещены, даже если вы выйдёте за пределы действия символа."
 Illusion Damage,Урон иллюзии
 Illusion of Drowning,Иллюзия утопления
 Illusion of Life,Иллюзия жизни
@@ -287,13 +287,13 @@ Imminent Death,Неминуемая смерть
 Imminent Threat,Неминуемая угроза
 Imminent Voyage,Неминуемое путешествие
 Immobile,Обездвижен
-Immobilize and make your foe vulnerable with ethereal chains.,Обездвижьте врага и сделайте его уязвимым с помощью эфирных цепей.
-Immobilize foes with a net shot.,Обездвижьте врагов выстрелом из сети.
+Immobilize and make your foe vulnerable with ethereal chains.,Обездвижить вашего противника небесными цепями и сделать его уязвимым.
+Immobilize foes with a net shot.,"Обездвижить противника, выстрелив сетью."
 "Immobilize your bone fiend, and it will immobilize foes.","Обездвижьте своего костяного демона, и он обездвижит врагов."
-Immobilize your foe with hands erupting from the ground.,"Обездвижьте врага руками, вырывающимися из земли."
+Immobilize your foe with hands erupting from the ground.,Сделать вашего противника неподвижным с помощью вырывающихся из земли рук.
 Immobilizes foes until the roots are destroyed.,"Обездвиживает врагов, пока корни не будут уничтожены."
 Immobilizing Whirl,Обездвиживающий вихрь
-Immolate enemies in front of you with a cone of intense fire.,Испепелите врагов перед собой конусом интенсивного огня.
+Immolate enemies in front of you with a cone of intense fire.,Уничтожить противников перед собой струей жаркого огня.
 Immune to conditions and damage.,Иммунитет к состояниям и урону.
 Immune to damage. Reflects incoming strikes.,Иммунитет к урону. Отражает входящие удары.
 Immutable Stone,Незыблемый камень
@@ -304,7 +304,7 @@ Impact Radius,Радиус удара
 Impact Strike,Ударный урон
 Impairing Daggers,Ослабляющие кинжалы
 Impale,Пронзание
-Impale your foe and cripple them.,Пронзите врага и наложите на него увечье.
+Impale your foe and cripple them.,Пронзить противника гигантским каменным шипом.
 Impaling Lotus,Пронзающий лотос
 Impaling Stab,Пронзающий выпад
 Imperial Guard,Имперская стража
@@ -362,11 +362,11 @@ Infiltrator's Signet,Печать лазутчика
 Infiltrator's Strike,Удар лазутчика
 "Inflate a buoy, floating more quickly to the surface.","Надуть буй, чтобы быстрее всплыть на поверхность."
 Inflict Torment on your target.,Наложите Боль на вашу цель.
-Inflict bleeding and torment on your target.,Наложите кровотечение и мучение на вашу цель.
-Inflict bleeding on your target.,Наложите кровотечение на вашу цель.
+Inflict bleeding and torment on your target.,Вызвать у цели кровотечение и боль.
+Inflict bleeding on your target.,Вызвать у цели кровотечение.
 Inflict increased damage.,Наносит увеличенный урон.
-Inflict the area around your target with the immense pressures of the earth and sea.,Обрушьте на область вокруг цели колоссальное давление земли и моря.
-Inflict weakness and bleeding on foes in the target area.,Наложите слабость и кровотечение на врагов в целевой области.
+Inflict the area around your target with the immense pressures of the earth and sea.,Создать вокруг вашей цели зону экстремального давления из земли и воды.
+Inflict weakness and bleeding on foes in the target area.,Наложить слабость и кровотечение на противников в выбранной области.
 Inflicts Sulfuric Acid,Наносит Серную кислоту
 "Inflicts Unbridled Fear, causing the target to flee in terror. Cannot be removed.","Наносит Необузданный страх, заставляя цель бежать в ужасе. Нельзя снять."
 Inflicts bleeding.,Наносит кровотечение.
@@ -414,7 +414,7 @@ Inspiring Imagery,Вдохновляющий образ
 Inspiring Reinforcement,Вдохновляющее подкрепление
 Inspiring Whirl,Вдохновляющий вихрь
 "Instantly downs foes, or kills them if they are already downed.","Мгновенно сбивает врагов с ног или убивает их, если они уже сбиты."
-Instantly heal yourself. Receive increased healing if you are below the health threshold.,"Мгновенно исцелите себя. Получите увеличенное исцеление, если ваше здоровье ниже порогового значения."
+Instantly heal yourself. Receive increased healing if you are below the health threshold.,"Немедленно исцелить себя. Получить дополнительное исцеление, если ваше здоровье ниже порога."
 Instinctive Engage,Инстинктивное вовлечение
 Interval,Интервал
 Intimidating Howl,Устрашающий вой
@@ -428,15 +428,15 @@ Invisible Analysis,Невидимый анализ
 Invoke Lightning,Призыв молнии
 Invoke Torment,Призыв мучений
 Invoke a glacial flood that damages enemies. Heal for each target struck.,"Призовите ледяной поток, который наносит урон врагам. Исцеляйтесь за каждую пораженную цель."
-"Invoke an explosion of dark energy at the target foe's location, damaging nearby foes.","Призовите взрыв темной энергии в месте нахождения целевого врага, нанося урон ближайшим противникам."
+"Invoke an explosion of dark energy at the target foe's location, damaging nearby foes.","Призовите взрыв тёмной энергии в месте нахождения целевого врага, нанося урон ближайшим противникам."
 Invoke an explosion of shadows at your marked target's location that blinds nearby foes.,"Призовите взрыв теней в месте нахождения вашей отмеченной цели, ослепляя ближайших врагов."
-Invoke the power of the legendary assassin Shiro Tagachi.,Призовите силу легендарного убийцы Широ Тагачи.
-Invoke the power of the legendary centaur Ventari.,Призовите силу легендарного кентавра Вентари.
-Invoke the power of the legendary champions Archemorus and Saint Viktor.,Призовите силу легендарных чемпионов Архемора и Святого Виктора.
+Invoke the power of the legendary assassin Shiro Tagachi.,Воззвать к силе легендарного ассасина Широ Тагачи.
+Invoke the power of the legendary centaur Ventari.,Воззвать к силе легендарного кентавра Вентари.
+Invoke the power of the legendary champions Archemorus and Saint Viktor.,Воззвать к силе легендарных воителей Археморуса и Святого Виктора.
 "Invoke the power of the legendary charr renegade, Kalla Scorchrazor.",Призовите силу легендарной чаар-ренегатки Каллы Остролезой.
-Invoke the power of the legendary demon Mallyx the Unyielding.,Призовите силу легендарного демона Малликса Непокорного.
-Invoke the power of the legendary dragon Glint.,Призовите силу легендарного дракона Глинта.
-Invoke the power of the legendary dwarf King Jalis Ironhammer.,Призовите силу легендарного дварфа короля Ялиса Железномолота.
+Invoke the power of the legendary demon Mallyx the Unyielding.,Воззвать к силе легендарного демона Малликса Непреклонного.
+Invoke the power of the legendary dragon Glint.,Воззвать к силе легендарного дракона Глинт.
+Invoke the power of the legendary dwarf King Jalis Ironhammer.,Воззвать к силе легендарного гнома - короля Джейлиса Железный Молот.
 "Invoke the power of the legendary entity of the Mists, Razah.","Призовите силу легендарной сущности Туманностей, Разаха."
 Involuntarily attack foes.,Непроизвольная атака врагов.
 Involuntary retreat; unable to act; stacks duration.,Непроизвольное отступление; невозможно действовать; длительность суммируется.
@@ -466,8 +466,8 @@ Judgment of Light,Суд света
 Judgment of War,Суд войны
 Jump Shot,Прыжок с выстрелом
 "Jump back, releasing a blast of wind that destroys incoming projectiles.","Отпрыгните назад, выпустив порыв ветра, который уничтожает летящие в вас снаряды."
-Jump forward and deliver a fiery blast to the area.,Прыгните вперед и нанесите огненный удар по области.
-"Jump up and evade attacks, then swipe forward, sending a wave of air in front of you that pushes you backward, knocks enemies back, and reflects projectiles. The first enemy struck is launched instead of knocked back. Evading an attack reduces the cooldown of this skill.","Подпрыгните и уклонитесь от атак, затем совершите выпад вперед, посылая перед собой волну воздуха, которая отталкивает вас назад, отбрасывает врагов и отражает снаряды. Первый пораженный враг подбрасывается в воздух вместо отбрасывания. Уклонение от атаки сокращает время перезарядки этого навыка."
+Jump forward and deliver a fiery blast to the area.,Прыгните вперёд и нанесите огненный удар по области.
+"Jump up and evade attacks, then swipe forward, sending a wave of air in front of you that pushes you backward, knocks enemies back, and reflects projectiles. The first enemy struck is launched instead of knocked back. Evading an attack reduces the cooldown of this skill.","Подпрыгните и уклонитесь от атак, затем совершите выпад вперёд, посылая перед собой волну воздуха, которая отталкивает вас назад, отбрасывает врагов и отражает снаряды. Первый пораженный враг подбрасывается в воздух вместо отбрасывания. Уклонение от атаки сокращает время перезарядки этого навыка."
 Junk Absorption,Поглощение хлама
 Junk Fall,Падение хлама
 Junk Torrent,Поток хлама
@@ -479,18 +479,18 @@ Jökulhlaup,Йокульхлауп
 Kaleidoscopic Chaos,Калейдоскопический хаос
 Kalla's Fervor,Рвение Каллы
 "Kalla's legend inspires you, increasing all damage dealt; stacks intensity.","Легенда Каллы вдохновляет вас, увеличивая весь наносимый урон; интенсивность суммируется."
-"Kanaxai infuses his axe with energy from each consumed Aspect and releases it with a powerful downward chop. The more Aspects Kanaxai successfully consumes, the greater the devastation.","Kanaxai наполняет свой топор энергией каждого поглощенного Аспекта и высвобождает ее мощным ударом сверху вниз. Чем больше Аспектов Kanaxai успешно поглощает, тем сильнее опустошение."
-"Karde charges up a massive fire attack, dealing heavy damage and unleashing a cone that causes burning.","Karde заряжает массивную огненную атаку, нанося тяжелый урон и высвобождая конус, вызывающий горение."
+"Kanaxai infuses his axe with energy from each consumed Aspect and releases it with a powerful downward chop. The more Aspects Kanaxai successfully consumes, the greater the devastation.","Kanaxai наполняет свой топор энергией каждого поглощенного Аспекта и высвобождает её мощным ударом сверху вниз. Чем больше Аспектов Kanaxai успешно поглощает, тем сильнее опустошение."
+"Karde charges up a massive fire attack, dealing heavy damage and unleashing a cone that causes burning.","Karde заряжает массивную огненную атаку, нанося тяжёлый урон и высвобождая конус, вызывающий горение."
 "Karde's turrets fire projectiles in a 360-degree arc, dealing damage upon contact.","Турели Karde выпускают снаряды по 360-градусной дуге, нанося урон при контакте."
 Katabatic Wind,Катабатический ветер
 Keen Shot,Меткий выстрел
 Keen Strike,Меткий удар
-"Kela ambushes nearby foes, killing them. Consuming a crocodilian razortooth will cause her to lose Relentless Speed.","Kela устраивает засаду на ближайших врагов, убивая их. Потребление крокодилового зуба-бритвы заставит ее потерять эффект Relentless Speed."
+"Kela ambushes nearby foes, killing them. Consuming a crocodilian razortooth will cause her to lose Relentless Speed.","Kela устраивает засаду на ближайших врагов, убивая их. Потребление крокодилового зуба-бритвы заставит её потерять эффект Relentless Speed."
 "Kela grasps her target and any nearby foes and throws them, rending their defenses.","Kela хватает свою цель и всех ближайших врагов и бросает их, разрывая их защиту."
-Kela releases massive waves of damage until subdued.,"Kela выпускает мощные волны урона, пока ее не подавят."
+Kela releases massive waves of damage until subdued.,"Kela выпускает мощные волны урона, пока её не подавят."
 Kernan fires a forward hail of bullets in a cone-shape that increases in size.,"Kernan выпускает перед собой град пуль в форме конуса, который увеличивается в размере."
 Kick,Пинок
-Kick your enemy.,Пните своего врага.
+Kick your enemy.,Отбросить противника назад пинком.
 "Kick your foe, knocking them backward.","Ударьте врага ногой, отбросив его назад."
 Kick your foe.,Ударьте врага ногой.
 Kicks foes in the head.,Удары врагов по голове.

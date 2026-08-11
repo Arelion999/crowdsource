@@ -20,8 +20,8 @@ Consumed %num1%/%num2% Utility Item[s],Употреблено %num1%/%num2% вс
 Consumed %num1%/%num2% of Steaks,Употреблено %num1%/%num2% стейков
 Consumed a Peach,Съеден персик
 Consumed after gathering. Applies +100%% chance of extra gathering strikes when gathering from resource nodes. Harvesting nodes consume additional charges.,Расходуется после сбора. Даёт +100%% шанса дополнительных ударов при сборе с залежей ресурсов. Сбор урожая с залежей расходует дополнительные заряды.
-"Consumed automatically when acquired. Grants a small amount of volatile magic.<br><c=@flavor>""Djinn, like most subasuran species, crudely approximate feelings like our own. Use this.""</c>","Расходуется автоматически при получении. Даёт небольшое количество летучей магии.<br><c=@flavor>«Джинны, как и большинство субасурских видов, грубо подражают чувствам вроде наших. Используй это.»</c>"
-"Consumed automatically when acquired. Grants a small amount of volatile magic.<br><c=@flavor>""My darling Nakis, my tender Nakis, my clever Nakis...you're right. Let's go. We'll flee tomorrow.""</c>","Расходуется автоматически при получении. Даёт небольшое количество летучей магии.<br><c=@flavor>«Мой милый Накис, мой нежный Накис, мой умный Накис... ты прав. Идём. Завтра мы сбежим.»</c>"
+"Consumed automatically when acquired. Grants a small amount of volatile magic.<br><c=@flavor>""Djinn, like most subasuran species, crudely approximate feelings like our own. Use this.""</c>","Расходуется автоматически при получении. Даёт небольшое количество летучей магии.<br><c=@flavor>«Джинны, как и большинство субасурских видов, грубо подражают чувствам вроде наших. Используй это».</c>"
+"Consumed automatically when acquired. Grants a small amount of volatile magic.<br><c=@flavor>""My darling Nakis, my tender Nakis, my clever Nakis...you're right. Let's go. We'll flee tomorrow.""</c>","Расходуется автоматически при получении. Даёт небольшое количество летучей магии.<br><c=@flavor>«Мой милый Накис, мой нежный Накис, мой умный Накис... ты прав. Идём. Завтра мы сбежим».</c>"
 "Consumed automatically when acquired. Grants a small amount of volatile magic.<br><c=@flavor>A massive karka shell, and an impressive trophy. Tastes great with butter.</c>",Расходуется автоматически при получении. Даёт небольшое количество летучей магии.<br><c=@flavor>Огромный панцирь карка и внушительный трофей. Отлично идёт со сливочным маслом.</c>
 "Consumed automatically when acquired. Grants a small amount of volatile magic.<br><c=@flavor>A small vase, reminiscent of work from Vabbi.</c>","Расходуется автоматически при получении. Даёт небольшое количество летучей магии.<br><c=@flavor>Небольшая ваза, напоминающая работы из Вабби.</c>"
 "Consumed automatically when acquired. Grants a small amount of volatile magic.<br><c=@flavor>Nakis's simple prayer beads, stolen from him by the Inquest.</c>","Расходуется автоматически при получении. Даёт небольшое количество летучей магии.<br><c=@flavor>Простые молитвенные чётки Накиса, украденные у него Инквестом.</c>"
@@ -345,7 +345,7 @@ Damage Immunity,Невосприимчивость к урону
 Damage Increase against Boonless Targets,Прибавка к урону по целям без благодатей
 Damage above Threshold,Урон выше порога
 Damage and daze enemies with a powerful screech.,Наносит урон и ошеломляет врагов мощным визгом.
-Damage and torment nearby enemies.,Наносит урон и накладывает Боль на врагов поблизости.
+Damage and torment nearby enemies.,"Вы получаете стеки Каскадной порчи, когда используете скверну. При достижении порога стеков происходит взрыв некротической энергии, который на некоторое время увеличивает наносимый вами урон. Стеки можно накапливать только в бою; все стеки теряются при выходе из боя."
 Damage below Threshold,Урон ниже порога
 Damage done to nearby allies.,"Урон, нанесённый союзникам поблизости."
 Damage every second due to miasma gas. Cannot be removed.,Урон каждую секунду от миазменного газа. Не снимается.

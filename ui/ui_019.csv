@@ -296,7 +296,7 @@ english,translate
 9. Defeat a saurian and bring its tooth to Cadmus.,9. Победите заврианина и отнесите его зуб Кадмусу.
 "9. Renew the wounded coral heart by cleansing it in the seneschal's font in Starlit Weald, revealed after succeeding in the Subdue Gwyllian, Seneschal of the Forest meta-event.","9. Обновите раненое коралловое сердце, очистив его в купели сенешаля в Звёздной Роще, которая открывается после успешного мета-события «Усмирите Гвиллиана, сенешаля леса»."
 9. Report back to Field Archivist Cierle.,9. Доложите полевому архивариусу Сиэрль.
-9. Return to Field Archivist Cierle to report about the spear.,9. Вернитесь к полевому архивариусу Сиэрль и доложите о копье.
+9. Return to Field Archivist Cierle to report about the spear.,9. Вернитесь к полевому архивариусу Сиэрль и доложите о копьё.
 9. Speak to Choole's contact at the alliance camp in Pilgrim's Rest.,9. Поговорите со связным Чуле в лагере альянса на Привале Пилигрима.
 900 to 999 DR,От 900 до 999 СУ
 9th Anniversary Supply Drop,Поставка к 9-й годовщине
@@ -472,7 +472,7 @@ english,translate
 "<c=@abilitytype>Backfire.</c> The shield explodes after a short period of time, dealing damage to yourself equal to a percentage of your base health, as well as damaging enemies around you.","<c=@abilitytype>Осечка.</c> Спустя короткое время щит взрывается, нанося вам урон, равный доле вашего базового здоровья, а также раня врагов вокруг вас."
 "<c=@abilitytype>Backfire.</c> You drop the potion on yourself, healing for more. The cooldown of this skill is increased, and you cannot reactivate this skill until it is fully recharged again.","<c=@abilitytype>Осечка.</c> Вы роняете зелье на себя, исцеляясь сильнее. Перезарядка этого умения увеличивается, и вы не сможете применить его снова, пока оно полностью не перезарядится."
 <c=@abilitytype>Beast. </c>Gain regeneration.,<c=@abilitytype>Зверь. </c>Даёт Регенерацию.
-"<c=@abilitytype>Beast. </c>Jump up and slam the ground beneath you, severely damaging nearby foes.","<c=@abilitytype>Зверь. </c>Подпрыгните и обрушьтесь на землю под собой, тяжело раня ближайших врагов."
+"<c=@abilitytype>Beast. </c>Jump up and slam the ground beneath you, severely damaging nearby foes.","<c=@abilitytype>Зверь. </c>Подпрыгните и обрушьтесь на землю под собой, тяжёло раня ближайших врагов."
 <c=@abilitytype>Beast.  </c>Freeze the water around your foe.,<c=@abilitytype>Зверь. </c>Заморозьте воду вокруг врага.
 <c=@abilitytype>Berserker Strain.</c> Evolving grants you stability and heals you based on a percentage of damage dealt to enemies.,"<c=@abilitytype>Штамм берсерка.</c> Эволюция даёт вам Устойчивость и исцеляет вас на долю урона, нанесённого врагам."
 "<c=@abilitytype>Burst. Chant. </c>Applies boons to allies in an area around you.<br><c=@abilitytype>Refrain. </c>After activation, continually applies boons to allies while removing motivation every interval. This effect lasts until you run out of motivation stacks or another chant is activated. Gain increased effects depending on motivation stacks:","<c=@abilitytype>Всплеск. Песнопение. </c>Накладывает боны на союзников в области вокруг вас.<br><c=@abilitytype>Рефрен. </c>После активации постоянно накладывает боны на союзников, каждый интервал расходуя побуждение. Эффект длится, пока не кончатся стаки побуждения или пока не будет активировано другое песнопение. Эффекты усиливаются в зависимости от стаков побуждения:"

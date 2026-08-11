@@ -4,26 +4,26 @@ english,translate
 20% increased healing.,Эффективность исцеления увеличена на 20%.
 50 to All Attributes,50 ко всем атрибутам
 75 to All Attributes,75 ко всем атрибутам
-<c=@abilitytype>Ambush</c> skills you use grant boons to nearby allies.,<c=@abilitytype>Засада</c>: используемые вами навыки накладывают благословения на ближайших союзников.
+<c=@abilitytype>Ambush</c> skills you use grant boons to nearby allies.,<c=@abilitytype>Засада</c>Умения- засады при активации дают дары союзникам поблизости.
 <c=@abilitytype>Arcane.</c> Blast foes in the target area with an energy wave for critical damage.,"<c=@abilitytype>Мистический.</c> Поразите врагов в целевой области волной энергии, нанося критический урон."
 <c=@abilitytype>Arcane</c> skills grant increased ferocity and have additional effects.,<c=@abilitytype>Мистические</c> навыки дают бонус к свирепости и обладают дополнительными эффектами.
 <c=@abilitytype>Banners</c> grant resolution to allies when they are dropped. Pulsing boons applied through <c=@abilitytype>banners</c> last longer.,<c=@abilitytype>Знамена</c> при установке накладывают решимость на союзников. Пульсирующие благословения от <c=@abilitytype>знамен</c> действуют дольше.
 "<c=@abilitytype>Beast</c> abilities inflict weakness on those struck.
 <c=@reminder>This effect will only occur once on each target struck by an ability.</c>","<c=@abilitytype>Звериные</c> способности накладывают слабость на пораженные цели.
 <c=@reminder>Этот эффект срабатывает только один раз для каждой цели, пораженной способностью.</c>"
-<c=@abilitytype>Beast</c> abilities taunt nearby foes. Ursine and porcine pets deal increased damage and have increased health.,<c=@abilitytype>Звериные</c> способности провоцируют ближайших врагов. Медвежьи и свиные питомцы наносят увеличенный урон и имеют увеличенный запас здоровья.
-<c=@abilitytype>Beast</c> skills grant regeneration around the ranger.,<c=@abilitytype>Звериные</c> навыки накладывают регенерацию на союзников вокруг рейнджера.
-<c=@abilitytype>Beast</c> skills heal allies around the ranger.,<c=@abilitytype>Звериные</c> навыки исцеляют союзников вокруг рейнджера.
-<c=@abilitytype>Blade</c> attacks inflict bleeding on critical hits. A percentage of your condition damage dealt heals you.,<c=@abilitytype>Клинковые</c> атаки вызывают кровотечение при критических ударах. Процент от нанесенного вами урона от состояний исцеляет вас.
+<c=@abilitytype>Beast</c> abilities taunt nearby foes. Ursine and porcine pets deal increased damage and have increased health.,<c=@abilitytype>Звериные</c> Умения зверя провоцируют противников поблизости. Питомцы-медвежьи и свиньи наносят повышенный урон и увеличивают свой запас здоровья.
+<c=@abilitytype>Beast</c> skills grant regeneration around the ranger.,<c=@abilitytype>Звериные</c> Умения зверя даруют Регенерацию вокруг Рейнджера.
+<c=@abilitytype>Beast</c> skills heal allies around the ranger.,<c=@abilitytype>Звериные</c> Умения зверя исцеляют союзников вокруг Рейнджера.
+<c=@abilitytype>Blade</c> attacks inflict bleeding on critical hits. A percentage of your condition damage dealt heals you.,<c=@abilitytype>Клинковые</c> Атаки клинков вызывают кровотечение при критическом попадании. Часть урона от вызванных вами состояний исцеляет вас.
 "<c=@abilitytype>Blades</c> inflict vulnerability on critical hits. After successfully casting a <c=@abilitytype>Bladesong</c>, increase all damage dealt for a short time. This does not stack.",<c=@abilitytype>Клинки</c> вызывают уязвимость при критических ударах. После успешного применения <c=@abilitytype>Песни клинков</c> на короткое время увеличивается весь наносимый урон. Эффект не суммируется.
 <c=@abilitytype>Bladesongs</c> grant aegis.,<c=@abilitytype>Песни клинков</c> дают эгиду.
 "<c=@abilitytype>Burst</c> skills deal more damage, grant swiftness, and restore a portion of adrenaline spent.","<c=@abilitytype>Взрывные</c> навыки наносят больше урона, дают быстроту и восстанавливают часть потраченного адреналина."
-<c=@abilitytype>Burst</c> skills have an increased critical chance. Gain bonus critical-hit chance and ferocity for a duration when you hit with a burst skill. Duration is based on adrenaline spent.,<c=@abilitytype>Взрывные</c> навыки имеют повышенный шанс критического удара. При попадании взрывным навыком вы на время получаете бонус к шансу критического удара и свирепости. Длительность зависит от потраченного адреналина.
-<c=@abilitytype>Burst</c> skills restore endurance on hit.,<c=@abilitytype>Взрывные</c> навыки восстанавливают выносливость при попадании.
-<c=@abilitytype>Cantrip.</c> Gain stability and shape-shift into a tornado that damages and launches foes.,"<c=@abilitytype>Уловка.</c> Получите стабильность и превратитесь в торнадо, который наносит урон и подбрасывает врагов."
-<c=@abilitytype>Cantrips</c> grant barrier to you and your pet.,<c=@abilitytype>Уловки</c> накладывают барьер на вас и вашего питомца.
+<c=@abilitytype>Burst</c> skills have an increased critical chance. Gain bonus critical-hit chance and ferocity for a duration when you hit with a burst skill. Duration is based on adrenaline spent.,<c=@abilitytype>Взрывные</c> Вспышки ярости имеют увеличенный шанс на критическое попадание. Ваши Жестокость и шанс на критическое попадание возрастают на некоторое время после нанесения урона вспышкой ярости. Длительность эффекта зависит от потраченного адреналина.
+<c=@abilitytype>Burst</c> skills restore endurance on hit.,<c=@abilitytype>Взрывные</c> Вспышки ярости восстанавливают выносливость при попадании.
+<c=@abilitytype>Cantrip.</c> Gain stability and shape-shift into a tornado that damages and launches foes.,"<c=@abilitytype>Уловка.</c> Обрести дар Устойчивости и превратиться в торнадо, который наносит урон противникам и отбрасывает их."
+<c=@abilitytype>Cantrips</c> grant barrier to you and your pet.,<c=@abilitytype>Уловки</c> Колдовство даёт барьер вам и вашему питомцу.
 <c=@abilitytype>Cantrips</c> grant boons.,<c=@abilitytype>Уловки</c> накладывают благословения.
-<c=@abilitytype>Carapace</c> stacks grant power and condition damage.,Стеки <c=@abilitytype>панциря</c> дают бонус к силе и урону от состояний.
+<c=@abilitytype>Carapace</c> stacks grant power and condition damage.,Стеки <c=@abilitytype>панциря</c> Стеки панциря увеличивают вашу Силу и урон от состояний.
 "<c=@abilitytype>Commands</c> copy boons from yourself to your pet.
 <c=@reminder>Soulbeast: when merged, extend the duration of boons on yourself instead.</c>","<c=@abilitytype>Команды</c> копируют благословения с вас на вашего питомца.
 <c=@reminder>Soulbeast: при слиянии вместо этого продлевается длительность благословений на вас самих.</c>"
@@ -31,97 +31,97 @@ english,translate
 <c=@abilitytype>Conditions to Boons Over 50%% Heat</c>,<c=@abilitytype>Состояния в благословения более 50%% Тепло</c>
 <c=@abilitytype>Consecrations</c> gain increased duration.,<c=@abilitytype>Освящения</c> действуют дольше.
 <c=@abilitytype>Dual Attack</c> skills weaken enemies. Attacks against weakened foes have increased critical chance.,Навыки <c=@abilitytype>двойной атаки</c> ослабляют врагов. Атаки по ослабленным врагам имеют повышенный шанс критического удара.
-<c=@abilitytype>Elixirs</c> gain increased durations and grant might.,<c=@abilitytype>Эликсиры</c> действуют дольше и дают мощь.
-<c=@abilitytype>Explosions</c> cause vulnerability.,<c=@abilitytype>Взрывы</c> вызывают уязвимость.
-<c=@abilitytype>Explosions</c> grant stacking ferocity when they hit.,<c=@abilitytype>Взрывы</c> дают суммирующуюся свирепость при попадании.
-<c=@abilitytype>Explosions</c> have a chance to cripple and cause bleeding on hit.,<c=@abilitytype>Взрывы</c> имеют шанс вызвать увечье и кровотечение при попадании.
-<c=@abilitytype>Gadget</c> skills are more powerful.,Навыки <c=@abilitytype>гаджетов</c> становятся мощнее.
+<c=@abilitytype>Elixirs</c> gain increased durations and grant might.,<c=@abilitytype>Эликсиры</c> Эликсиры длятся дольше и даруют Мощь.
+<c=@abilitytype>Explosions</c> cause vulnerability.,<c=@abilitytype>Взрывы</c> Взрывы вызывают уязвимость.
+<c=@abilitytype>Explosions</c> grant stacking ferocity when they hit.,<c=@abilitytype>Взрывы</c> Взрывы даруют вам стеки Жестокости при попадании.
+<c=@abilitytype>Explosions</c> have a chance to cripple and cause bleeding on hit.,<c=@abilitytype>Взрывы</c> Взрывы имеют шанс вызвать хромоту и кровотечение при попадании.
+<c=@abilitytype>Gadget</c> skills are more powerful.,Навыки <c=@abilitytype>гаджетов</c> Приспособления становятся мощнее.
 <c=@abilitytype>Glyphs</c> grant protection to nearby allies.,<c=@abilitytype>Глифы</c> дают протекцию ближайшим союзникам.
 <c=@abilitytype>Invoke Torment</c> applies poison and burning.,<c=@abilitytype>Призыв боли</c> накладывает яд и горение.
-<c=@abilitytype>Invoke Torment</c> grants resistance. Resistance heals you every interval.,<c=@abilitytype>Призыв боли</c> дает сопротивляемость. Сопротивляемость исцеляет вас каждый интервал.
+<c=@abilitytype>Invoke Torment</c> grants resistance. Resistance heals you every interval.,<c=@abilitytype>Призыв боли</c> даёт сопротивляемость. Сопротивляемость исцеляет вас каждый интервал.
 <c=@abilitytype>Invoke Torment</c> transfers conditions from you onto foes.,<c=@abilitytype>Призыв боли</c> переносит состояния с вас на врагов.
 "<c=@abilitytype>Legendary Alliance</c> abilities gain an additional bonus. Activating Energy Meld or Alliance Tactics grants both of these bonuses simultaneously at greater amounts to nearby allies.
 Kurzick abilities grant regeneration.
-Luxon abilities grant might.","<c=@abilitytype>Легендарный Альянс.</c> Способности получают дополнительный бонус. Активация «Слияния энергии» или «Тактики Альянса» дает оба бонуса одновременно в большем объеме ближайшим союзникам.
+Luxon abilities grant might.","<c=@abilitytype>Легендарный Альянс.</c> Способности получают дополнительный бонус. Активация «Слияния энергии» или «Тактики Альянса» даёт оба бонуса одновременно в большем объёме ближайшим союзникам.
 Способности Kurzick дают регенерацию.
 Способности Luxon дают мощь."
-"<c=@abilitytype>Legendary Centaur.</c> Collect energy, pulling it into the tablet to build up its power. After a short delay the energy will be released, healing nearby allies.","<c=@abilitytype>Легендарный Кентавр.</c> Собирайте энергию, притягивая ее в планшет, чтобы накопить мощь. После небольшой задержки энергия высвободится, исцеляя ближайших союзников."
+"<c=@abilitytype>Legendary Centaur.</c> Collect energy, pulling it into the tablet to build up its power. After a short delay the energy will be released, healing nearby allies.","<c=@abilitytype>Легендарный Кентавр.</c> Собирайте энергию, притягивая её в планшет, чтобы накопить мощь. После небольшой задержки энергия высвободится, исцеляя ближайших союзников."
 "<c=@abilitytype>Legendary Centaur.</c> Force energy to erupt from the tablet, knocking down nearby foes and healing nearby allies.","<c=@abilitytype>Легендарный Кентавр.</c> Заставьте энергию извергнуться из планшета, сбивая с ног ближайших врагов и исцеляя ближайших союзников."
 "<c=@abilitytype>Legendary Centaur.</c> Remove conditions from allies near the tablet, and heal them for a small amount per condition removed.",<c=@abilitytype>Легендарный Кентавр.</c> Снимите состояния с союзников рядом с планшетом и исцелите их на небольшое количество за каждое снятое состояние.
 <c=@abilitytype>Legendary Centaur.</c> Summon a protective barrier around the tablet that blocks enemy projectiles.,"<c=@abilitytype>Легендарный Кентавр.</c> Призовите защитный барьер вокруг планшета, который блокирует вражеские снаряды."
 <c=@abilitytype>Manipulations</c> grant aegis to yourself and nearby allies.,<c=@abilitytype>Манипуляции</c> дают эгиду вам и ближайшим союзникам.
-<c=@abilitytype>Meditation</c> skills heal you and grant fury to nearby allies.,Навыки <c=@abilitytype>медитации</c> исцеляют вас и дают ярость ближайшим союзникам.
-<c=@abilitytype>Meditations</c> grant boons to nearby allies.,<c=@abilitytype>Медитации</c> дают благословения ближайшим союзникам.
+<c=@abilitytype>Meditation</c> skills heal you and grant fury to nearby allies.,Навыки <c=@abilitytype>медитации</c> Медитации исцеляют вас и даруют Ярость союзникам поблизости.
+<c=@abilitytype>Meditations</c> grant boons to nearby allies.,<c=@abilitytype>Медитации</c> Медитации дают дары союзникам поблизости.
 "<c=@abilitytype>Minions</c> have increased health. Gain <c=@abilitytype>carapace</c> for each minion you control.
 <c=@reminder>Your minions are destroyed when this trait is reassigned.</c>","<c=@abilitytype>Миньоны</c> имеют увеличенное здоровье. Получайте <c=@abilitytype>панцирь</c> за каждого контролируемого миньона.
 <c=@reminder>Ваши миньоны уничтожаются при переназначении этой черты.</c>"
-<c=@abilitytype>Morph</c> skills and evolving grant protection to yourself.,Навыки <c=@abilitytype>Морфа</c> и эволюция дают защиту вам.
+<c=@abilitytype>Morph</c> skills and evolving grant protection to yourself.,Навыки <c=@abilitytype>Морфа</c> Умения- морфы и изменение даруют вам Протекцию.
 <c=@abilitytype>Morph</c> skills grant boons to allies. Grant an additional boon based on which <c=@abilitytype>morph</c> skill was used.,"<c=@abilitytype>Морф</c> навыки даруют благословения союзникам. Даруют дополнительное благословение в зависимости от того, какой <c=@abilitytype>морф</c> навык был использован."
-<c=@abilitytype>Overloads</c> grant an aura based on your attunement.,<c=@abilitytype>Перегрузки</c> даруют ауру в зависимости от вашей настройки.
-<c=@abilitytype>Overloads</c> grant protection to nearby allies. Protection gains increased damage reduction.,<c=@abilitytype>Перегрузки</c> даруют защиту ближайшим союзникам. Защита получает увеличенное снижение урона.
-<c=@abilitytype>Phantasms</c> deal increased strike damage for each stack of might you have. Gain might when your phantasms become clones.,"<c=@abilitytype>Фантомы</c> наносят повышенный ударный урон за каждый стак могущества, которое у вас есть. Получайте могущество, когда ваши фантомы становятся клонами."
-<c=@abilitytype>Phantasms</c> spawn with quickness. Gain quickness when you create a phantasm.,"<c=@abilitytype>Фантомы</c> появляются со скоростью. Получайте скорость, когда создаёте фантома."
-<c=@abilitytype>Phantasms</c> take conditions from you when summoned.,<c=@abilitytype>Фантомы</c> забирают у вас состояния при призыве.
-<c=@abilitytype>Physical</c> skills grant endurance when activated.,Навыки <c=@abilitytype>Physical</c> при активации дают выносливость.
+<c=@abilitytype>Overloads</c> grant an aura based on your attunement.,"<c=@abilitytype>Перегрузки</c> Форсажи дают ауру, зависящую от вашей Стихии."
+<c=@abilitytype>Overloads</c> grant protection to nearby allies. Protection gains increased damage reduction.,<c=@abilitytype>Перегрузки</c> Форсажи даруют Протекцию союзникам поблизости. Протекция сильнее снижает получаемый урон.
+<c=@abilitytype>Phantasms</c> deal increased strike damage for each stack of might you have. Gain might when your phantasms become clones.,"<c=@abilitytype>Фантомы</c> Фантомы наносят увеличенный прямой урон за каждый стек Мощи, лежащий на вас. Вам даруется Мощь, когда ваши фантомы становятся клонами."
+<c=@abilitytype>Phantasms</c> spawn with quickness. Gain quickness when you create a phantasm.,<c=@abilitytype>Фантомы</c> Фантомы создаются с даром Проворства. Вам даруется Проворство при создании фантома.
+<c=@abilitytype>Phantasms</c> take conditions from you when summoned.,<c=@abilitytype>Фантомы</c> Фантомы при создании переносят на себя лежащие на вас состояния.
+<c=@abilitytype>Physical</c> skills grant endurance when activated.,Навыки <c=@abilitytype>Physical</c> Умения грубой силы дают выносливость при активации.
 "<c=@abilitytype>Resonance.</c> If Legendary Assassin Stance is equipped, this skill deals additional damage and removes boons if only one enemy was struck by this attack.","<c=@abilitytype>Resonance.</c> Если экипирована стойка Legendary Assassin Stance, этот навык наносит дополнительный урон и снимает boon, если атака поразила только одного врага."
 "<c=@abilitytype>Resonance.</c> If Legendary Centaur Stance is equipped, you additionally heal allies around you during channeling, and you take reduced strike and condition damage for a short amount of time after channeling completes.","<c=@abilitytype>Резонанс.</c> Если экипирована Legendary Centaur Stance, вы дополнительно лечите союзников вокруг себя во время направления, а также получаете уменьшенный урон от ударов и состояний в течение короткого времени после завершения направления."
 "<c=@abilitytype>Resonance.</c> If Legendary Demon Stance is equipped, the maximum number of projectiles is always fired regardless of conditions removed, and all projectiles are fired at the closest enemy instead.","<c=@abilitytype>Резонанс.</c> Если экипирована Легендарная стойка демона, всегда выпускается максимальное количество снарядов независимо от снятых состояний, и все снаряды летят в ближайшего врага."
 "<c=@abilitytype>Resonance.</c> If Legendary Dwarf Stance is equipped, the additional energy cost for breaking stuns is reduced, and the boons are also granted to allies in a radius around you.","<c=@abilitytype>Резонанс.</c> Если экипирована стойка Легендарного Дварфа, стоимость дополнительной энергии для снятия оглушений снижается, а благословения также даруются союзникам в радиусе вокруг вас."
 <c=@abilitytype>Resonance.</c> This skill gains bonus effects depending on the legend equipped in the other slot.,"<c=@abilitytype>Резонанс.</c> Этот навык получает бонусные эффекты в зависимости от легенды, экипированной в другом слоте."
-<c=@abilitytype>Shatter</c> skills also remove a boon on hit.,<c=@abilitytype>Разрушение</c> умения также снимают благословение при попадании.
-<c=@abilitytype>Shatter</c> skills deal more damage. This bonus damage is doubled against foes that are not activating skills.,"<c=@abilitytype>Разрушение</c> умения наносят больше урона. Этот дополнительный урон удваивается против врагов, не использующих умения."
-<c=@abilitytype>Shatter</c> skills gain recharge reduction.,<c=@abilitytype>Разрушение</c> умения получают сокращение времени восстановления.
-<c=@abilitytype>Shatter</c> skills generate a clone and grant alacrity if you have enough clones present.,"<c=@abilitytype>Разрушение</c> умения создают клона и дают проворство, если у вас достаточно клонов."
-<c=@abilitytype>Shatter</c> skills give vigor. Strike and condition damage dealt is increased when you have vigor.,"<c=@abilitytype>Разрушение</c> умения дают рвение. Урон от ударов и состояний увеличивается, когда у вас есть рвение."
-<c=@abilitytype>Shatter</c> skills grant Mirage Cloak if you have enough clones present. Gaining Mirage Cloak recharges Mind Wrack and Cry of Frustration.,"<c=@abilitytype>Разрушение</c> умения дают Плащ Миража, если у вас достаточно клонов. Получение Плаща Миража восстанавливает Разрыв Разума и Крик Разочарования."
-<c=@abilitytype>Shatter</c> skills inflict torment on hit.,<c=@abilitytype>Разрушение</c> умения накладывают мучение при попадании.
-<c=@abilitytype>Shatter</c> skills inflict vulnerability on hit.,<c=@abilitytype>Разрушение</c> умения накладывают уязвимость при попадании.
-<c=@abilitytype>Shout</c> skills convert conditions to boons on allies.,<c=@abilitytype>Крик</c> навыки превращают состояния в благословения на союзниках.
+<c=@abilitytype>Shatter</c> skills also remove a boon on hit.,<c=@abilitytype>Разрушение</c> Осколки также снимают дары при попадании.
+<c=@abilitytype>Shatter</c> skills deal more damage. This bonus damage is doubled against foes that are not activating skills.,"<c=@abilitytype>Разрушение</c> Осколки наносят больше урона. Дополнительный урон удваивается, если противник не использовал умения."
+<c=@abilitytype>Shatter</c> skills gain recharge reduction.,<c=@abilitytype>Разрушение</c> Осколки перезаряжаются быстрее.
+<c=@abilitytype>Shatter</c> skills generate a clone and grant alacrity if you have enough clones present.,"<c=@abilitytype>Разрушение</c> Осколки создают клон и даруют Рвение, если у вас есть достаточное количество клонов."
+<c=@abilitytype>Shatter</c> skills give vigor. Strike and condition damage dealt is increased when you have vigor.,<c=@abilitytype>Разрушение</c> Осколки даруют Энергичность. Энергичность увеличивает наносимый вами прямой урон и урон от состояний.
+<c=@abilitytype>Shatter</c> skills grant Mirage Cloak if you have enough clones present. Gaining Mirage Cloak recharges Mind Wrack and Cry of Frustration.,"<c=@abilitytype>Разрушение</c> Умения- осколки дают покров миража, если у вас достаточно клонов. Получение покрова миража перезаряжает умения Mind Wrack и Cry of Frustration."
+<c=@abilitytype>Shatter</c> skills inflict torment on hit.,<c=@abilitytype>Разрушение</c> Осколки вызывают боль при попадании.
+<c=@abilitytype>Shatter</c> skills inflict vulnerability on hit.,<c=@abilitytype>Разрушение</c> Осколки накладывают уязвимость при попадании.
+<c=@abilitytype>Shout</c> skills convert conditions to boons on allies.,<c=@abilitytype>Крик</c> Крики превращают лежащие на союзниках состояния в дары.
 <c=@abilitytype>Shout</c> skills heal allies. Gain healing power based on your power.,<c=@abilitytype>Крик</c> навыки исцеляют союзников. Получите силу исцеления в зависимости от вашей силы.
-<c=@abilitytype>Shouts</c> now siphon health. This effect is increased on foes in melee range.,<c=@abilitytype>Крики</c> теперь высасывают здоровье. Этот эффект увеличивается на врагах в ближнем бою.
-<c=@abilitytype>Shroud</c> skills gain reduced recharge.,Навыки <c=@abilitytype>Shroud</c> получают сокращенную перезарядку.
+<c=@abilitytype>Shouts</c> now siphon health. This effect is increased on foes in melee range.,<c=@abilitytype>Крики</c> Крики вытягивают здоровье. Этот эффект действует сильнее на противников на дистанции ближнего боя.
+<c=@abilitytype>Shroud</c> skills gain reduced recharge.,Навыки <c=@abilitytype>Shroud</c> Умения Савана перезаряжаются быстрее.
 <c=@abilitytype>Signet Passive:</c> Grants a 25% increase in movement speed.<c=@abilitytype>Signet Active:</c> Blind your target and nearby foes.,<c=@abilitytype>Signet Passive:</c> Увеличивает скорость передвижения на 25%.<c=@abilitytype>Signet Active:</c> Ослепите цель и ближайших врагов.
-<c=@abilitytype>Signets</c> continue to grant their passive bonuses while recharging. Gain an aura when you use a <c=@abilitytype>signet</c> skill.,"<c=@abilitytype>Печати</c> продолжают давать свои пассивные бонусы, пока перезаряжаются. Получите ауру при использовании навыка <c=@abilitytype>печати</c>."
-<c=@abilitytype>Signets</c> gain improved passive effects and continue to grant their passive bonuses while recharging.,"<c=@abilitytype>Печати</c> получают улучшенные пассивные эффекты и продолжают давать свои пассивные бонусы, пока перезаряжаются."
-<c=@abilitytype>Signets</c> grant a stacking ferocity boon on use. Cast Lesser Signet of Might when striking a foe below the health threshold.,<c=@abilitytype>Печати</c> дают накапливаемое благословение свирепости при использовании. Накладывает Малую печать мощи при ударе врага ниже порога здоровья.
+<c=@abilitytype>Signets</c> continue to grant their passive bonuses while recharging. Gain an aura when you use a <c=@abilitytype>signet</c> skill.,<c=@abilitytype>Печати</c> Печати сохраняют свои пассивные эффекты во время перезарядки. Вам даётся аура при активации печати . <c=@abilitytype>печати</c>.
+<c=@abilitytype>Signets</c> gain improved passive effects and continue to grant their passive bonuses while recharging.,<c=@abilitytype>Печати</c> Пассивные эффекты печатей улучшаются и продолжают работать при перезарядке печати.
+<c=@abilitytype>Signets</c> grant a stacking ferocity boon on use. Cast Lesser Signet of Might when striking a foe below the health threshold.,"<c=@abilitytype>Печати</c> Печати дают накапливаемый бонус к Жестокости при использовании. Вы используете Lesser Signet of Might, когда наносите удар противнику, чье здоровье ниже порога."
 <c=@abilitytype>Signets</c> grant initiative.,<c=@abilitytype>Печати</c> дают инициативу.
 "<c=@abilitytype>Signets</c> have improved active effects, and activating one grants you distortion.","<c=@abilitytype>Печати</c> имеют улучшенные активные эффекты, а активация одной даёт вам искажение."
-<c=@abilitytype>Signets</c> steal health and remove boons from affected foes. Siphon healing is reduced for each target struck beyond the first.,<c=@abilitytype>Печати</c> крадут здоровье и снимают благословения с поражённых врагов. Эффект лечения высасывания уменьшается за каждую дополнительную цель после первой.
+<c=@abilitytype>Signets</c> steal health and remove boons from affected foes. Siphon healing is reduced for each target struck beyond the first.,"<c=@abilitytype>Печати</c> Печати похищают здоровье и снимают дары с пораженных противников. Исцеление от похищения здоровья уменьшается за каждую пораженную цель, кроме первой."
 <c=@abilitytype>Spirit Weapons</c> gain additional casts and burn foes with their first strike.,<c=@abilitytype>Духовное оружие</c> получает дополнительные заряды и поджигает врагов первой атакой.
-<c=@abilitytype>Spirits</c> slam again when they finish shaking.,"Навыки <c=@abilitytype>Spirit</c> снова бьют по земле, когда заканчивают трястись."
-<c=@abilitytype>Squalls</c> remove movement-impairing conditions and a damaging condition.,"<c=@abilitytype>Шквалы</c> снимают состояния, замедляющие передвижение, и одно наносящее урон состояние."
-<c=@abilitytype>Stance</c> skills gain increased duration on you and grant their effects to nearby allies for a reduced duration.,<c=@abilitytype>Стойка</c> навыки получают увеличенную длительность на вас и передают свои эффекты ближайшим союзникам с уменьшенной длительностью.
-<c=@abilitytype>Stances</c> grant protection to affected allies and blind affected enemies.,<c=@abilitytype>Стойки</c> дают защиту союзникам и ослепляют врагов.
+<c=@abilitytype>Spirits</c> slam again when they finish shaking.,"Навыки <c=@abilitytype>Spirit</c> Духи ударят по земле ещё раз после того, как перестанут встряхиваться."
+<c=@abilitytype>Squalls</c> remove movement-impairing conditions and a damaging condition.,"<c=@abilitytype>Шквалы</c> Шквалы снимают состояния, ограничивающие передвижение, и одно наносящее урон состояние."
+<c=@abilitytype>Stance</c> skills gain increased duration on you and grant their effects to nearby allies for a reduced duration.,<c=@abilitytype>Стойка</c> Стойки длятся дольше для вас и распространяются на некоторое время на союзников поблизости.
+<c=@abilitytype>Stances</c> grant protection to affected allies and blind affected enemies.,<c=@abilitytype>Стойки</c> Стойки даруют Протекцию союзникам и ослепляют противников.
 "<c=@abilitytype>Stances</c> grant vigor and barrier when activated, and they have increased duration.","<c=@abilitytype>Стойки</c> дают энергию и барьер при активации, а также имеют увеличенную длительность."
 <c=@abilitytype>Stealth Attack</c> skills inflict vulnerability and grant fury upon successfully hitting foes.,<c=@abilitytype>Скрытая атака</c> навыки накладывают уязвимость и даруют ярость при успешном попадании по врагам.
 "<c=@abilitytype>Stealth attacks<c/> siphon health if they hit.
 <c=@reminder>Cannot siphon the same target more than once per interval.</c>",
-<c=@abilitytype>Survival</c> skills grant fury and remove conditions.,<c=@abilitytype>Выживание</c> умения даруют ярость и снимают состояния.
-<c=@abilitytype>Symbols</c> are improved and heal allies.,<c=@abilitytype>Символы</c> усилены и исцеляют союзников.
-<c=@abilitytype>Symbols</c> inflict vulnerability on foes. Deal increased strike damage to vulnerable foes.,<c=@abilitytype>Символы</c> накладывают уязвимость на врагов. Наносят повышенный прямой урон уязвимым врагам.
-<c=@abilitytype>Tales</c> heal and grant protection to nearby allies.,<c=@abilitytype>Сказания</c> исцеляют и дают защиту ближайшим союзникам.
+<c=@abilitytype>Survival</c> skills grant fury and remove conditions.,<c=@abilitytype>Выживание</c> Выживания даруют Ярость и снимают состояния.
+<c=@abilitytype>Symbols</c> are improved and heal allies.,<c=@abilitytype>Символы</c> Символы улучшаются и исцеляют союзников.
+<c=@abilitytype>Symbols</c> inflict vulnerability on foes. Deal increased strike damage to vulnerable foes.,<c=@abilitytype>Символы</c> Символы вызывают у противников уязвимость. Прямой урон по уязвимым противникам увеличен.
+<c=@abilitytype>Tales</c> heal and grant protection to nearby allies.,<c=@abilitytype>Сказания</c> Сказания исцеляют союзников поблизости и даруют им Протекцию.
 <c=@abilitytype>Tome</c> skills gain bonuses from scribbling in the margins by ancient bards.,"<c=@abilitytype>Навыки фолианта</c> получают бонусы от заметок на полях, оставленных древними бардами."
 <c=@abilitytype>Trap</c> skills grant aegis when used.,<c=@abilitytype>Навыки ловушек</c> дают эгиду при использовании.
 <c=@abilitytype>Tricks</c> remove conditions.,<c=@abilitytype>Уловки</c> снимают состояния.
-<c=@abilitytype>Turrets.</c> Turrets create a reflective barrier when built and grant boons to allies around them on a regular interval.,<c=@abilitytype>Турели.</c> Турели создают отражающий барьер при установке и периодически дают благословения союзникам вокруг.
+<c=@abilitytype>Turrets.</c> Turrets create a reflective barrier when built and grant boons to allies around them on a regular interval.,<c=@abilitytype>Турели.</c> Турели создают отражающий барьер при размещении и накладывают дары на союзников вокруг себя с регулярным интервалом.
 <c=@abilitytype>Unleashed Ambush</c> skills grant boons to nearby allies. Refresh Unleashed Power when you swap weapons.,<c=@abilitytype>Навыки высвобожденной засады</c> дают благословения ближайшим союзникам. Обновляют «Высвобожденную силу» при смене оружия.
 "<c=@abilitytype>Venom</c> utility skills siphon life from struck foes. Gain stacks of Spider Venom when you enter or exit stealth.
-<c=@reminder>Siphoning can only occur once per strike.</c>","<c=@abilitytype>Навыки ядов</c> вытягивают жизнь из пораженных врагов. Получайте заряды «Яда паука» при входе в скрытность или выходе из нее.
+<c=@reminder>Siphoning can only occur once per strike.</c>","<c=@abilitytype>Навыки ядов</c> вытягивают жизнь из пораженных врагов. Получайте заряды «Яда паука» при входе в скрытность или выходе из неё.
 <c=@reminder>Вытягивание жизни может сработать только один раз за удар.</c>"
 <c=@abilitytype>Virtue:</c> Regenerates health.</c><c=@abilitytype>Activate:</c> Heal yourself and nearby allies.,<c=@abilitytype>Добродетель:</c> Регенерирует здоровье.</c><c=@abilitytype>Активация:</c> Исцеляет вас и ближайших союзников.
 <c=@abilitytype>Virtues</c> apply boons to allies when activated. Deal increased strike damage for each boon on you.,<c=@abilitytype>Добродетели</c> накладывают благословения на союзников при активации. Наносят повышенный прямой урон за каждое имеющееся на вас благословение.
 <c=@abilitytype>Weapon spells</c> remove conditions from affected allies. Affected allies receive the full benefit of <c=@abilitytype>weapon spells</c>.,<c=@abilitytype>Оружейные заклинания</c> снимают состояния с затронутых союзников. Затронутые союзники получают полный эффект от <c=@abilitytype>оружейных заклинаний</c>.
-<c=@abilitytype>Well</c> abilities have an increased area of effect and grant superspeed to nearby allies on their first pulse. Your function gyro also grants superspeed to allies when cast.,<c=@abilitytype>Колодцы</c> имеют увеличенную область действия и дают суперскорость ближайшим союзникам при первом импульсе. Ваш функциональный гироскоп также дает суперскорость союзникам при использовании.
-<c=@abilitytype>Wells</c> heal allies when they end.,<c=@abilitytype>Колодцы</c> исцеляют союзников по окончании действия.
+<c=@abilitytype>Well</c> abilities have an increased area of effect and grant superspeed to nearby allies on their first pulse. Your function gyro also grants superspeed to allies when cast.,<c=@abilitytype>Колодцы</c> имеют увеличенную область действия и дают суперскорость ближайшим союзникам при первом импульсе. Ваш функциональный гироскоп также даёт суперскорость союзникам при использовании.
+<c=@abilitytype>Wells</c> heal allies when they end.,<c=@abilitytype>Колодцы</c> Источники исцеляют союзников при окончании.
 "<c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","<c=@reminder>Эффекты контроля включают оглушение, ошеломление, отбрасывание, притягивание, нокдаун, погружение, всплытие, подбрасывание, провокацию и страх.</c>"
 <c=@reminder>The mech does not count against the target count for this trait.</c>,<c=@reminder>Мех не учитывается в лимите целей для этой черты.</c>
 <c=@reminder>Virtuoso: Triggers when stocking a blade.</c>,<c=@reminder>Virtuoso: срабатывает при накоплении клинка.</c>
 "<c=@reminder>While out of combat, you will automatically generate a note every 10 seconds.</c>",<c=@reminder>Вне боя вы будете автоматически генерировать ноту каждые 10 секунд.</c>
 "<c=@reminder>While out of combat, you will automatically stock a blade every 10 seconds.</c>",<c=@reminder>Вне боя вы будете автоматически накапливать клинок каждые 10 секунд.</c>
 <c=@reminder>Willbender: Heal allies when your Resolve effect triggers.</c>,<c=@reminder>Укротитель (Willbender): исцеляет союзников при срабатывании вашего эффекта Решимости.</c>
-<c=@warning>Does not grant shadow force while in shroud.</c>,"<c=@warning>Не дает силу тени, пока вы в саване.</c>"
-A percentage of precision is given as a bonus to ferocity and a percentage of power is given as a bonus to condition damage. These bonuses are doubled in berserk mode.,"Процент точности добавляется как бонус к свирепости, а процент силы — как бонус к урону от состояний. Эти бонусы удваиваются в режиме берсерка."
-A percentage of the strike damage you deal is converted into barrier.,Процент наносимого вами прямого урона преобразуется в барьер.
+<c=@warning>Does not grant shadow force while in shroud.</c>,"<c=@warning>Не даёт силу тени, пока вы в саване.</c>"
+A percentage of precision is given as a bonus to ferocity and a percentage of power is given as a bonus to condition damage. These bonuses are doubled in berserk mode.,"Часть вашей Точности даётся вам в качестве бонуса к Жестокости, а часть вашей Силы - в качестве бонуса к урону от состояний. Эти бонусы удваивюется, пока вы будете берсерком."
+A percentage of the strike damage you deal is converted into barrier.,Часть нанесенного вами прямого урона превращается в барьер.
 "A percentage of your condition damage heals you.
 <c=@reminder>Healing will not occur while life force replaces health.</c>","Процент вашего урона от состояний исцеляет вас.
 <c=@reminder>Исцеление не происходит, пока жизненная сила заменяет здоровье.</c>"
@@ -130,11 +130,11 @@ Abrasive Grit,Абразивная стойкость
 Absolute Resolve,Абсолютная решимость
 Abyssal Chill,Бездонный холод
 Acolyte of Torment,Послушник мучений
-Activate Lesser Utility Goggles after using a healing skill.,Активирует «Малые вспомогательные очки» после использования навыка исцеления.
-Activating Crashing Courage grants resistance. Shadowstepping grants resolution and protection.,Активация «Сокрушительного мужества» дает сопротивление. Теневой шаг дает решимость и защиту.
-Activating Virtue skill 2 removes conditions from nearby allies. Virtue skill 2's passive effect is stronger.,Активация навыка добродетели 2 снимает состояния с ближайших союзников. Пассивный эффект навыка добродетели 2 сильнее.
-Activating a <c=@abilitytype>Shatter</c> gives your illusions superspeed. Shatters deal increased damage to movement-impaired foes.,Активация <c=@abilitytype>Раскола</c> дает вашим иллюзиям суперскорость. Расколы наносят повышенный урон врагам с ограниченной подвижностью.
-Activating berserk mode breaks stuns. Reduce incoming damage for a period of time when entering berserk mode.,Активация режима берсерка снимает оглушение. Снижает входящий урон на некоторое время при входе в режим берсерка.
+Activate Lesser Utility Goggles after using a healing skill.,Вы активируете Lesser Utility Goggles при использовании исцеляющего умения.
+Activating Crashing Courage grants resistance. Shadowstepping grants resolution and protection.,Активация «Сокрушительного мужества» даёт сопротивление. Теневой шаг даёт решимость и защиту.
+Activating Virtue skill 2 removes conditions from nearby allies. Virtue skill 2's passive effect is stronger.,Использование 2-го умения Добродетели снимает состояния с союзников поблизости. Пассивный эффект от 2-го умения Добродетели усилен.
+Activating a <c=@abilitytype>Shatter</c> gives your illusions superspeed. Shatters deal increased damage to movement-impaired foes.,Активация <c=@abilitytype>Раскола</c> даёт вашим иллюзиям суперскорость. Расколы наносят повышенный урон врагам с ограниченной подвижностью.
+Activating berserk mode breaks stuns. Reduce incoming damage for a period of time when entering berserk mode.,Активация состояния берсерка снимает оглушение. Получаемый урон снижается на некоторое время после активации состояния берсерка.
 Activating your elite skill breaks stuns.,Активация вашего элитного навыка снимает оглушение.
 Additional Affinity,Дополнительное сродство
 Additional Astral Force per Damage,Дополнительная астральная сила за урон
@@ -149,9 +149,9 @@ Additional Precision,Дополнительная точность
 Adrenal Health,Адреналиновое здоровье
 Adrenal Implant,Адреналиновый имплант
 Adrenaline Restored,Адреналин восстановлен
-Aegis grants boons when it ends.,Эгида накладывает блага при окончании действия.
+Aegis grants boons when it ends.,"Эгида даёт дары, когда заканчивается."
 Aegis heals when it blocks an attack.,Эгида исцеляет при блокировании атаки.
-Aegis you grant reduces the recharge time of Virtue skill 3 when it blocks an attack.,"Эгида, которую вы накладываете, сокращает перезарядку умения Добродетели 3 при блокировании атаки."
+Aegis you grant reduces the recharge time of Virtue skill 3 when it blocks an attack.,"Эгида, которую вы даруете, ускоряет перезарядку 3-го умения Добродетели, когда она блокирует атаку."
 Aeromancer's Training,Тренировка аэроманта
 Affinity Gain,Получение сродства
 "After a number of missile hits, release a volley of arrows at your target and gain an arrow.
@@ -164,7 +164,7 @@ Aggressive Arrival,Агрессивное прибытие
 Aggressive Onslaught,Агрессивный натиск
 Alchemic Vigor,Алхимическая бодрость
 All Stats Inherited by Mech,Все характеристики наследуются мехом
-All damage dealt is increased while you have fury.,"Весь наносимый урон увеличен, пока на вас действует ярость."
+All damage dealt is increased while you have fury.,"Увеличивает весь наносимый вами урон, пока у вас есть дар Ярости."
 "All damage dealt is increased, and increased additionally if you have an off-hand weapon equipped.","Весь наносимый урон увеличен, и дополнительно увеличивается, если у вас экипировано оружие во второй руке."
 All damage dealt is increased.,Весь наносимый урон увеличен.
 All for One,Один за всех
@@ -176,7 +176,7 @@ Alpha Focus,Альфа-фокус
 Altered Chord,Измененный аккорд
 Altruistic Aspect,Альтруистический аспект
 Altruistic Healing,Альтруистическое исцеление
-Amalgam skills inflict poison on hit. Poison you inflict lasts longer.,Умения амальгамы накладывают яд при попадании. Накладываемый вами яд длится дольше.
+Amalgam skills inflict poison on hit. Poison you inflict lasts longer.,Умения Амальгама вызывают отравление при попадании. Вызываемое вами отравление длится дольше.
 Ambidexterity,Амбидекстрия
 Ambush Attack Window,Окно засадной атаки
 Ambush Commander,Засадный Коммандир!
@@ -193,16 +193,16 @@ Amplified Siphoning,Усиленное высасывание
 Amplified Wrath,Усиленный гнев
 Angsiyan's Trust,Доверие Ангсияна
 Anticorrosion Plating,Антикоррозийное покрытие
-Any aura you grant yourself is granted to nearby allies.,"Любая аура, которую вы накладываете на себя, также накладывается на ближайших союзников."
+Any aura you grant yourself is granted to nearby allies.,"Любые ауры, которые вы накладываете на себя, накладываются и на союзников поблизости."
 Applied Force,Приложенная сила
 "Apply <c=@abilitytype>Rot Wallow Venom</c> to allies that you grant barrier to. Outgoing healing to allies is increased.
-<c=@reminder>Rot Wallow Venom effect cannot apply to yourself.</c>","Накладывайте <c=@abilitytype>Яд Гнилостного Валлоу</c> на союзников, которым вы даете барьер. Исходящее исцеление союзников увеличено.
+<c=@reminder>Rot Wallow Venom effect cannot apply to yourself.</c>","Накладывайте <c=@abilitytype>Яд Гнилостного Валлоу</c> на союзников, которым вы даёте барьер. Исходящее исцеление союзников увеличено.
 <c=@reminder>Эффект Яда Гнилостного Валлоу не может быть применен к вам.</c>"
 Apply boons to nearby allies while channeling <c=@abilitytype>overloads</c> and when successfully completing an <c=@abilitytype>overload</c> channel.,Накладывайте благословения на ближайших союзников во время подготовки <c=@abilitytype>перегрузок</c> и при успешном завершении подготовки <c=@abilitytype>перегрузки</c>.
-Apply conditions to enemies when you disable them. Perform an additional strike when using Cosmic Wisdom that damages and burns enemies.,"Накладывайте состояния на врагов, когда выводите их из строя. Наносите дополнительный удар при использовании Космической Мудрости, который наносит урон и поджигает врагов."
+Apply conditions to enemies when you disable them. Perform an additional strike when using Cosmic Wisdom that damages and burns enemies.,"Вы накладываете на врагов состояния, когда выводите их из строя. При активации Космической Мудрости вы наносите дополнительный удар, который наносит врагам урон и поджигает их."
 Apply vulnerability when you steal. Gain might when you hit with a stealth attack.,Накладывайте уязвимость при краже. Получайте мощь при попадании атакой из скрытности.
-Applying might to an ally heals you.,Наложение мощи на союзника исцеляет вас.
-Applying vulnerability to foes grants stacks of <c=@abilitytype>Battle Scars</c>. The healing from Battle Scars is increased while you are below the health threshold.,"Наложение уязвимости на врагов дает заряды <c=@abilitytype>Боевых Шрамов</c>. Исцеление от Боевых Шрамов увеличено, пока ваше здоровье ниже порогового значения."
+Applying might to an ally heals you.,Дарование Мощи союзникам исцеляет вас.
+Applying vulnerability to foes grants stacks of <c=@abilitytype>Battle Scars</c>. The healing from Battle Scars is increased while you are below the health threshold.,"Наложение уязвимости на врагов даёт заряды <c=@abilitytype>Боевых Шрамов</c>. Исцеление от Боевых Шрамов увеличено, пока ваше здоровье ниже порогового значения."
 Aquamancer's Training,Обучение Акваманта
 Arcane Lightning,Магическая молния
 Arcane Precision,Магическая точность
@@ -213,7 +213,7 @@ Arcane Resurrection,Магическое воскрешение
 Archivist of Whispers,Архивариус Шепотов
 Armored Shroud,Бронированный покров
 Arrows inflict burning.,Стрелы накладывают горение.
-Artifacts grant boons to allies when used. Offensive and defensive artifacts grant different boons. Barrier granted through Magpie's Defense and Enterprising Aristocrat is now also granted to allies as well.,"Артефакты при использовании накладывают на союзников благословения. Атакующие и защитные артефакты дают разные благословения. Барьер, создаваемый «Защитой сороки» и «Предприимчивым аристократом», теперь также накладывается на союзников."
+Artifacts grant boons to allies when used. Offensive and defensive artifacts grant different boons. Barrier granted through Magpie's Defense and Enterprising Aristocrat is now also granted to allies as well.,Артефакты дают дары союзникам при использовании. Защитные и атакующие артефакты дают разные дары. Барьер от черт Magpie's Defense и Enterprising Aristocrat также распространяется и на союзников.
 "As long as you are not downed, allies near you do not bleed out if they are downed. Gain healing power based on your current health.","Пока вы не повержены, союзники рядом с вами не теряют здоровье, если они повержены. Получайте бонус к силе исцеления в зависимости от вашего текущего здоровья."
 Ashen Demeanor,Пепельный облик
 Ashes of the Just,Пепел праведников
@@ -224,14 +224,14 @@ Astral Force per Damage,Астральная сила за урон
 Astral Force per Heal,Астральная сила за исцеление
 "At maximum, charges gain a burst of power.",При достижении максимума заряды дают всплеск силы.
 "At maximum, charges gain a burst of speed.",При достижении максимума заряды дают всплеск скорости.
-Attack speed is increased when wielding a main-hand weapon in your off hand. Heal when you critically strike a foe while wielding a main-hand weapon in your off hand. This heal is increased when critically striking a bleeding foe.,"Скорость атаки увеличивается при использовании оружия в основной руке вместе с оружием во второй руке. Исцеляйтесь при нанесении критического удара по врагу, когда используете оружие в основной руке вместе с оружием во второй руке. Это исцеление увеличивается при нанесении критического удара по кровоточащему врагу."
+Attack speed is increased when wielding a main-hand weapon in your off hand. Heal when you critically strike a foe while wielding a main-hand weapon in your off hand. This heal is increased when critically striking a bleeding foe.,"Ваша скорость атаки увеличивается, когда вы держите в левой руке оружие для правой руки. Вы исцеляетесь при критических попаданиях, когда держите в левой руке оружие для правой руки. Это исцеление увеличивается, если критический удар был нанесен кровоточащему противнику."
 Attacker's Insight,Проницательность атакующего
-Attacks against burning foes have an increased chance to critically hit. Your ferocity is increased.,Атаки по горящим врагам имеют повышенный шанс критического удара. Ваша свирепость увеличена.
+Attacks against burning foes have an increased chance to critically hit. Your ferocity is increased.,Атаки по горящим противникам имеют повышенный шанс критического попадания. Ваша Жестокость увеличена.
 "Attain elemental singularity by remaining in an attunement for a period of time. Upon attaining singularity, you may overload the attunement to your vicinity. Gain access to <c=@abilitytype>Shouts</c>.","Достигните элементальной сингулярности, оставаясь в настройке в течение определенного времени. Достигнув сингулярности, вы можете перегрузить настройку вокруг себя. Получите доступ к <c=@abilitytype>крикам</c>."
 Attribute Conversion,Преобразование атрибутов
 Attribute Increase per Instrument,Увеличение атрибутов за инструмент
-Auras you grant also grant regeneration and vigor.,"Ауры, которые вы накладываете, также дают регенерацию и бодрость."
-Auras you grant to allies also grant protection.,"Ауры, которые вы накладываете на союзников, также дают защиту."
+Auras you grant also grant regeneration and vigor.,Накладываемые вами ауры также даруют Регенерацию и Энергичность.
+Auras you grant to allies also grant protection.,"Ауры, которые вы даёте союзникам, также даруют Протекцию."
 Auspicious Anguish,Благоприятная мука
 Autodefense Bomb Dispenser,Автоматический распределитель бомб
 Automated Medical Response,Автоматическая медицинская помощь
@@ -260,8 +260,8 @@ Beast. Restore health to your allies and grant them a reprieve from conditions.,
 Beast. Shrug off all movement-impairing conditions and become unflinching in the face of normal attacks.,Зверь. Сбросьте все ограничивающие движение состояния и станьте непоколебимым перед лицом обычных атак.
 Beast. Tap into your primal essence and unleash a debilitating roar.,Зверь. Обратитесь к своей первобытной сущности и издайте ослабляющий рев.
 Beastly Warden,Звериный страж
-Becoming a celestial avatar removes conditions from you and nearby allies.,Становление небесным аватаром снимает состояния с вас и ближайших союзников.
-Berserk mode increases power and condition damage.,Режим берсерка увеличивает силу и урон от состояний.
+Becoming a celestial avatar removes conditions from you and nearby allies.,Превращение в Небесный аватар снимает состояния с вас и с союзников поблизости.
+Berserk mode increases power and condition damage.,Состояние берсерка увеличивает вашу Силу и урон от состояний.
 Berserker Damage Reduced,Урон берсерка снижен
 Bestial Rage,Звериная ярость
 Beyond the Veil,За завесой
@@ -288,22 +288,22 @@ Bleeding Duration Increase,Увеличение длительности кро�
 Bleeding Stacks per Blade,Стаки кровотечения за клинок
 Bleeding you apply deals increased damage. Stock a <c=@abilitytype>blade</c> after applying enough stacks of bleeding to foes.,Наносимое вами кровотечение наносит увеличенный урон. Получите <c=@abilitytype>клинок</c> после наложения достаточного количества стаков кровотечения на врагов.
 Bleeding you inflict deals more damage.,Наносимое вами кровотечение наносит больше урона.
-Bleeding you inflict has increased duration. Deal increased damage to bleeding foes.,Наносимое вами кровотечение длится дольше. Наносите увеличенный урон врагам с кровотечением.
-Bleeding you inflict is more dangerous.,Наносимое вами кровотечение становится опаснее.
-Bleeding you inflict scales off of your power instead of your condition damage.,"Наносимое вами кровотечение масштабируется от вашей силы, а не от урона от состояний."
+Bleeding you inflict has increased duration. Deal increased damage to bleeding foes.,"Кровотечение, которое вы вызвали, длится дольше. Вы наносите увеличенный урон кровоточащим противникам."
+Bleeding you inflict is more dangerous.,"Кровотечение, вызванное вами, опаснее обычного."
+Bleeding you inflict scales off of your power instead of your condition damage.,Сила вызываемого вами кровотечения теперь зависит от вашей Силы вместо вашего урона от состояний.
 Blighter's Boon,Благословение губителя
 Blind Targets,Ослепленные цели
-Blind nearby foes when you use a healing skill.,Ослепляет ближайших врагов при использовании лечащего навыка.
+Blind nearby foes when you use a healing skill.,"Вы ослепляете противников поблизости, когда используете исцеляющее умение."
 Blinding Dissipation,Ослепляющее рассеивание
 Blinding Outburst,Ослепляющий выброс
 Blinding Truths,Ослепляющие истины
-Blinding a target will also apply chill.,Ослепление цели также накладывает холод.
+Blinding a target will also apply chill.,"Когда вы ослепляете цель, вы также замораживаете её."
 "Blinding, immobilizing, or affecting a foe with crowd control heals nearby allies.
 <c=@reminder>Skills that strike many foes at the same time can heal multiple times.</c>","Ослепление, обездвиживание или воздействие на врага эффектами контроля лечит ближайших союзников.
 <c=@reminder>Навыки, поражающие множество врагов одновременно, могут лечить несколько раз.</c>"
-Blocking an attack grants aegis to nearby allies.,Блокирование атаки дает эгиду ближайшим союзникам.
-Blocking or dodging an attack grants boons.,Блокирование или уклонение от атаки дает благословения.
-Blocking or evading an attack stocks <c=@abilitytype>blades</c>. Dodging stocks a blade and causes your next Bladesong to be unblockable.,Блокирование или уклонение от атаки дает <c=@abilitytype>клинки</c>. Уклонение дает клинок и делает вашу следующую Песнь клинков неблокируемой.
+Blocking an attack grants aegis to nearby allies.,Блокирование атаки даёт эгиду ближайшим союзникам.
+Blocking or dodging an attack grants boons.,Блокирование или уклонение от атаки даёт благословения.
+Blocking or evading an attack stocks <c=@abilitytype>blades</c>. Dodging stocks a blade and causes your next Bladesong to be unblockable.,Блокирование или уклонение от атаки даёт <c=@abilitytype>клинки</c>. Уклонение даёт клинок и делает вашу следующую Песнь клинков неблокируемой.
 Blood Bank,Банк крови
 Blood Fury,Кровавая ярость
 Blood Moon,Кровавая луна
@@ -358,10 +358,10 @@ Burn Radius,Радиус горения
 Burning Fire,Пылающий огонь
 Burning Precision,Точность горения
 Burning Rage,Пылающая ярость
-Burning you inflict deals increased damage. Burning duration applied by the passive effect of Virtue skill 1 is increased.,"Наносимый вами урон от горения увеличен. Длительность горения, накладываемого пассивным эффектом умения Добродетели 1, увеличена."
-Burning you inflict has increased duration and your critical hits gain a chance to inflict burning.,"Длительность наносимого вами горения увеличена, а ваши критические удары имеют шанс вызвать горение."
+Burning you inflict deals increased damage. Burning duration applied by the passive effect of Virtue skill 1 is increased.,"Горение, вызванное вами, наносит больше урона. Горение, вызванное пассивным эффектом 1-го умения Добродетели, длится дольше."
+Burning you inflict has increased duration and your critical hits gain a chance to inflict burning.,"Вызванное вами горение длится дольше, а ваши критические попадания получают шанс поджечь противника."
 "Burning you inflict lasts longer, and your critical hits inflict burning.","Длительность наносимого вами горения увеличена, а ваши критические удары вызывают горение."
-Burning you inflict scales off of your power instead of your condition damage.,"Наносимый вами урон от горения зависит от вашей Силы, а не от урона от состояний."
+Burning you inflict scales off of your power instead of your condition damage.,"Вызываемое вами горение зависит от вашей Силы, а не от урона от состояний."
 Burst Mastery,Мастерство взрыва
 Burst Precision,Точность взрыва
 Burst of Aggression,Всплеск агрессии
@@ -380,29 +380,29 @@ Carapace Threshold,Порог панциря
 Carbolic Composition,Карболовый состав
 Card Swap,Смена карт
 "Cast ""Search and Rescue!"" when you begin reviving an ally. Moa pets grant barrier to nearby allies with their <c=@abilitytype>Beast</c> skill.",Применяет «Поиск и спасение!» при начале воскрешения союзника. Питомцы-моа накладывают барьер на ближайших союзников с помощью своего умения <c=@abilitytype>Зверя</c>.
-Cast Dome of the Mists when you use a healing skill.,Применяет Купол Туманов при использовании лечащего умения.
-Cast Feedback while reviving an ally. Feedback revives allies inside its dome.,Применяет Обратную связь при воскрешении союзника. Обратная связь воскрешает союзников внутри своего купола.
+Cast Dome of the Mists when you use a healing skill.,"Вы используете Dome of the Mists, когда активируете исцеляющее умение."
+Cast Feedback while reviving an ally. Feedback revives allies inside its dome.,"Вы используете Feedback, пока оживляете союзника. Feedback оживляет союзников, находящихся в его куполе."
 "Cast Geyser when you begin reviving a downed ally. Geyser now partially revives downed allies. When you begin reviving an ally, you gain an aura based on your attunement.",Применяет Гейзер при начале воскрешения поверженного союзника. Гейзер теперь частично воскрешает поверженных союзников. При начале воскрешения союзника вы получаете ауру в зависимости от вашей настройки.
 "Cast Lesser ""Guard!"" when you swap pets.",Применяет малый «Стражу!» при смене питомца.
-Cast Lesser Arcane Shield when you use an elite skill.,Применяет малый Тайный щит при использовании элитного умения.
-Cast Lesser Call of the Wild when you swap pets.,Примените Малый зов природы при смене питомцев.
-Cast Lesser Chaos Storm when you use a healing skill.,Примените Малый хаотический шторм при использовании лечащего умения.
+Cast Lesser Arcane Shield when you use an elite skill.,Вы создаете Lesser Arcan Shield при использовании элитного умения.
+Cast Lesser Call of the Wild when you swap pets.,Вы используете Lesser Call of the Wild при смене питомцев.
+Cast Lesser Chaos Storm when you use a healing skill.,"Вы используете Lesser Chaos Storm, когда активируете исцеляющее умение."
 Cast Lesser Cleansing Fire when you have a number of conditions on you.,"Примените Малый очищающий огонь, когда на вас есть несколько состояний."
-Cast Lesser Endure Pain when you use an elite skill.,Накладывает «Малая выносливость» при использовании элитного умения.
-Cast Lesser Litany of Wrath when you activate Virtue skill 3.,Накладывает «Малую литанию гнева» при активации умения Добродетели 3.
-Cast Lesser Power Cleanse when you use a healing skill.,Накладывает «Малое очищение силы» при использовании лечащего умения.
-Cast Lesser Quickening Zephyr when you swap pets.,Накладывает «Малый зефир ускорения» при смене питомцев.
-Cast Lesser Shield of Absorption when you begin reviving an ally. Shield of Absorption revives allies when it detonates.,Накладывает «Малый щит поглощения» при начале спасения союзника. Щит поглощения спасает союзников при детонации.
-Cast Lesser Signet of the Locust when you use a healing skill.,Накладывает «Малый знак саранчи» при использовании лечащего умения.
-Cast Lesser Smite Condition when you use a healing skill.,Накладывает «Малое истребление состояния» при использовании лечащего умения.
-Cast Lesser Spinal Shivers on a foe when attacking them while their health is below the threshold.,"Накладывает «Малый спинной холод» на врага при атаке, если его здоровье ниже порога."
-Cast Lesser Symbol of Protection when you use a healing skill.,Накладывает «Малый символ защиты» при использовании лечащего умения.
-Cast Lesser Symbol of Resolution when you strike an enemy below the health threshold.,Накладывает «Малый символ решимости» при ударе врага с здоровьем ниже порога.
-Cast Lesser Well of Blood when reviving an ally. Wells of Blood revive allies every pulse.,Накладывает «Малый колодец крови» при спасении союзника. Колодцы крови спасают союзников каждым импульсом.
+Cast Lesser Endure Pain when you use an elite skill.,Вы не получаете урон в течение следующих нескольких секунд.
+Cast Lesser Litany of Wrath when you activate Virtue skill 3.,Вы активируете Lesser Litany of Wrath при использовании 3-го умениея Добродетели.
+Cast Lesser Power Cleanse when you use a healing skill.,Вы используете Lesser Power Cleanse при активации исцеляющего умения.
+Cast Lesser Quickening Zephyr when you swap pets.,"Ваш шанс нанести критический удар повышен. Также вы двигаетесь быстрее, пока используете силу Воздуха."
+Cast Lesser Shield of Absorption when you begin reviving an ally. Shield of Absorption revives allies when it detonates.,"Вы используете Lesser Shield of Absorption, когда начинаете оживлять союзника. Щит поглощения оживляет союзников, если взрывается."
+Cast Lesser Signet of the Locust when you use a healing skill.,Вы используете Lesser Signet of the Locust при активации исцеляющего умения.
+Cast Lesser Smite Condition when you use a healing skill.,"Вы используете умение Smite Condition, когда активируете исцеляющее умение."
+Cast Lesser Spinal Shivers on a foe when attacking them while their health is below the threshold.,"Вы используете Lesser Spinal Shivers при атаке противников, здоровье которых ниже порога."
+Cast Lesser Symbol of Protection when you use a healing skill.,"Вы используете Lesser Symbol of Protection, когда активируете исцеляющее умение."
+Cast Lesser Symbol of Resolution when you strike an enemy below the health threshold.,"Вы используете Lesser Symbol of Resolution, когда наносите удар врагу, чье здоровье ниже порога."
+Cast Lesser Well of Blood when reviving an ally. Wells of Blood revive allies every pulse.,"Вы используете Lesser Well of Blood, когда оживляете союзника. Источники крови оживляют союзников при каждом такте."
 "Cast Lightning Rod when you disable a foe.
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.","Применяет Lightning Rod при наложении контроля на врага.
 <c=@reminder>Контроль включает оглушение, ошеломление, отбрасывание, притягивание, нокдаун, погружение, всплытие, подбрасывание, провокацию и страх."
-Cast a skill when you dodge based on your attunement.,Применяет навык при уклонении в зависимости от вашей настройки.
+Cast a skill when you dodge based on your attunement.,"При увороте создается заклинание, зависящее от вашей текущей Стихии."
 Celestial Being,Небесное существо
 Celestial Shadow,Celestial Shadow
 Centaur Skill Healing,Лечение навыком кентавра
@@ -410,8 +410,8 @@ Chain Reactivity,Цепная реактивность
 Chance on Critical Hit,Шанс при критическом ударе
 Chance on Critical Strike to Gain Might,Шанс получить могущество при критическом ударе
 Chance to Bleed,Шанс вызвать кровотечение
-Chant of Freedom grants superspeed to affected allies when activated.,Песнь Свободы даёт сверхскорость затронутым союзникам при активации.
-Chant of Recuperation removes conditions from affected allies when activated.,Песнь восстановления снимает состояния с пораженных союзников при активации.
+Chant of Freedom grants superspeed to affected allies when activated.,"Хорал Свободы при активации даёт сверхскорость союзникам, попавшим под его действие."
+Chant of Recuperation removes conditions from affected allies when activated.,"Когда Хорал Выздоровления активен, он снимает состояния с союзников, попавших под его воздействие."
 Chaotic Interruption,Chaotic Interruption
 Chaotic Persistence,Chaotic Persistence
 Chaotic Potency,Chaotic Potency
@@ -421,18 +421,18 @@ Charged Mists,Charged Mists
 Charged Souls,Заряженные души
 Chemical Rounds,Химические снаряды
 Child of Earth,Дитя земли
-Chill deals damage over time.,Охлаждение наносит урон со временем.
+Chill deals damage over time.,Заморозка наносит урон с течением времени.
 Chill of Death,Холод смерти
-Chilled foes take increased strike damage from your attacks and deal less strike damage to you.,Охлажденные враги получают повышенный прямой урон от ваших атак и наносят меньше прямого урона вам.
+Chilled foes take increased strike damage from your attacks and deal less strike damage to you.,Замороженные противники получают повышенный прямой урон от ваших атак и наносят вам пониженный прямой урон.
 Chilling Darkness,Леденящая тьма
 Chilling Victory,Леденящая победа
-Chilling a foe inflicts vulnerability.,Охлаждение врага накладывает уязвимость.
+Chilling a foe inflicts vulnerability.,Замораживание противника вызывает у него уязвимость.
 Chronophantasma,Хронофантазм
 "Citadel Order. Open a portal through the mists of time, unleashing a storm of artillery from the united legions.","Приказ Цитадели. Откройте портал сквозь туманы времени, обрушив артиллерийский шквал объединенных легионов."
 "Citadel Order. Orders from above arrive, renewing your abilities and those of your nearby allies.","Приказ Цитадели. Прибывают приказы сверху, обновляя ваши способности и способности ваших ближайших союзников."
 Citadel Order. Refresh the duration of your Kalla's Fervor and grant nearby allies might for every stack.,Приказ Цитадели. Обновите длительность вашего «Рвения Kalla» и дайте ближайшим союзникам мощь за каждый уровень эффекта.
 Clarion Bond,Звуковой союз
-Cleanse conditions from allies you grant regeneration to.,"Снимайте состояния с союзников, которым вы даете регенерацию."
+Cleanse conditions from allies you grant regeneration to.,"Снимайте состояния с союзников, которым вы даёте регенерацию."
 Cleansing Channel,Очищающий канал
 Cleansing Ire,Очищающий гнев
 Cleansing Synergy,Очищающая синергия
@@ -444,12 +444,12 @@ Close to Death,Близость к смерти
 Cloudburst,Облачный взрыв
 Cold Shoulder,Холодное плечо
 Collateral Damage,Сопутствующий урон
-Combat High,Боевой подъем
+Combat High,Боевой подъём
 Comeback Cure,Исцеление при возвращении
-Command echoes can trigger a second time.,Эхо команд могут сработать второй раз.
+Command echoes can trigger a second time.,Эхо от команд может срабатывать второй раз.
 Command. Order your pet to guard nearby allies; your pet takes damage on behalf of those allies. Gain might when your pet receives damage.,"Команда. Прикажите питомцу защищать ближайших союзников; питомец получает урон вместо них. Получайте мощь, когда питомец получает урон."
 "Command. Your pet rushes at your foe, dealing increased damage.","Команда. Ваш питомец бросается на врага, нанося повышенный урон."
-Command. Your pet will seek out and revive a downed ally.,Команда. Ваш питомец найдет и воскресит павшего союзника.
+Command. Your pet will seek out and revive a downed ally.,Команда. Ваш питомец найдёт и воскресит павшего союзника.
 Communal Defenses,Общая защита
 Companion's Defense,Защита спутника
 Compounding Chemicals,Соединение химикатов
@@ -472,7 +472,7 @@ Conditions Converted on Evolve,"Состояния, преобразованны
 Conditions Converted on Stance,"Состояния, преобразованные при использовании стойки"
 Conditions Removed on Blast,"Состояния, снятые при взрыве"
 Conditions Removed on Leap,"Состояния, снятые при прыжке"
-Conditions inflict less damage to you while you have protection.,"Состояния наносят вам меньше урона, пока на вас действует защита."
+Conditions inflict less damage to you while you have protection.,"Состояния наносят вам меньше урона, пока у вас есть дар Протекции."
 Conditions to Boons,Состояния в благословения
 Conditions to Trigger,Состояния для срабатывания
 "Conditions you apply to foes last longer, but conditions applied to you also last longer.","Накладываемые вами на врагов состояния длятся дольше, но состояния, наложенные на вас, также длятся дольше."
@@ -480,7 +480,7 @@ Conductive Armaments,Проводящее вооружение
 "Confusion you inflict has increased duration. When you dodge an attack, inflict confusion on your attacker.","Замешательство, которое вы накладываете, длится дольше. Когда вы уклоняетесь от атаки, наложите замешательство на атакующего."
 Conjurer,Заклинатель
 Consume Shadows,Поглощение теней
-Consume conditions to gain health when you use a healing skill.,"Поглощайте состояния, чтобы восстановить здоровье при использовании лечащего навыка."
+Consume conditions to gain health when you use a healing skill.,"Поглотить состояния, чтобы получить здоровье, когда вы используете исцеляющее умение."
 Contained Temper,Сдерживаемый нрав
 Conversion Percent,Процент преобразования
 Convert conditions to boons when you use a <c=@abilitytype>stance</c> skill or evolve.,Преобразуйте состояния в благословения при использовании навыка <c=@abilitytype>стойки</c> или эволюции.
@@ -490,21 +490,21 @@ Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, ta
 <c=@reminder>Эта черта может срабатывать при неспособности действовать только один раз за интервал.
 Неспособность действовать включает оглушение, ошеломление, отбрасывание, притягивание, нокдаун, погружение, всплытие, подбрасывание, провокацию и страх.</c>"
 Core Value,Основная ценность
-Corona Burst grants a barrier for each target struck.,Коронный взрыв дает барьер за каждую пораженную цель.
+Corona Burst grants a barrier for each target struck.,Коронный взрыв даёт барьер за каждую пораженную цель.
 Corrupted Talent,Оскверненный талант
 Corrupter's Fervor,Пыл осквернителя
 Corrupting Vines,Оскверняющие лозы
 Corruption. Release a noxious explosion and leave behind a cloud that poisons foes in the area.,"Осквернение. Вызывает вредоносный взрыв и оставляет облако, которое отравляет врагов в области."
-Corruptions gain reduced recharge time and inflict additional conditions on you.,Осквернения получают сокращенное время перезарядки и накладывают на вас дополнительные состояния.
+Corruptions gain reduced recharge time and inflict additional conditions on you.,Порчи перезаряжаются быстрее и накладывают на вас дополнительные состояния.
 Cover of Shadow,Покров тени
 Crack Shot,Меткий выстрел
-Create a blast finisher at your location when you use a healing skill's associated tool belt skill.,"Создает взрывной финишер в вашем местоположении при использовании навыка пояса инструментов, связанного с навыком лечения."
-Create a clone at your current position when you dodge.,Создает клона в вашей текущей позиции при уклонении.
-Create a clone when you use a healing skill.,Создает клона при использовании навыка лечения.
+Create a blast finisher at your location when you use a healing skill's associated tool belt skill.,"Вы создаете комбо-финал взрыв в вашем местоположении, когда используете умение на Поясе, связанное с исцеляющим умением."
+Create a clone at your current position when you dodge.,"Вы создаете клон в вашей текущей позиции, когда уворачиваетесь."
+Create a clone when you use a healing skill.,Вы создаете клон при использовании исцеляющего умения.
 Create a lightning field at the specified point. Then summon gyros to finish foes and revive allies within the field. The recharge of this skill is increased for each gyro created beyond the first.Interrupted gyros are destroyed.,"Создает поле молний в указанной точке. Затем призывает гироскопы, чтобы добить врагов и воскресить союзников в пределах поля. Перезарядка этого навыка увеличивается за каждый гироскоп, созданный сверх первого.Прерванные гироскопы уничтожаются."
-Create a proximity mine at your target's location and a med kit at your location when you disable an enemy.,"Создает мину приближения в местоположении вашей цели и аптечку в вашем местоположении, когда вы выводите врага из строя."
-Create muddy terrain when you use a healing skill.,Создает грязную местность при использовании навыка лечения.
-Creating an illusion increases your outgoing damage and condition damage for a short duration.,Создание иллюзии увеличивает ваш исходящий урон и урон от состояний на короткое время.
+Create a proximity mine at your target's location and a med kit at your location when you disable an enemy.,"Создать контактную мину под вашей целью и медпакет под собой, когда вы выводите противника из строя."
+Create muddy terrain when you use a healing skill.,"Вы создаете Muddy Terrain, когда активируете исцеляющее умение."
+Creating an illusion increases your outgoing damage and condition damage for a short duration.,Создание иллюзии увеличивает наносимый вами урон и ваш урон от состояний на некоторое время.
 Crescendo Healing per Instrument,Исцеление Крещендо за инструмент
 "Crescendo prompts your last-played instrument to take the spotlight, augmenting Crescendo's effects. Playing an instrument recharges Crescendo if a note was consumed.","Крещендо заставляет ваш последний использованный инструмент выйти на передний план, усиливая эффекты Крещендо. Игра на инструменте перезаряжает Крещендо, если была использована нота."
 "Cripple enemies that you disable.
@@ -517,15 +517,15 @@ Critical Chance Increase on Disabled Foes,Увеличение шанса кри
 Critical Chance per Stack,Шанс критического удара за стак
 Critical Infusion,Критическое вливание
 Critical damage is increased.,Критический урон увеличен.
-Critical hits against chilled foes cause an explosion that chills adjacent foes.,"Критические удары по охлажденным врагам вызывают взрыв, который охлаждает соседних врагов."
-Critical hits have a chance to cause bleeding. Bleeding you inflict gains increased duration.,Критические удары имеют шанс вызвать кровотечение. Наносимое вами кровотечение получает увеличенную длительность.
-Critical hits have a chance to cause bleeding. Increases bleed duration.,Критические удары имеют шанс вызвать кровотечение. Увеличивает длительность кровотечения.
-Critical hits on foes within the range threshold have a chance to grant fury. Fury grants you ferocity.,Критические удары по врагам в радиусе действия с шансом накладывают ярость. Ярость дает вам свирепость.
+Critical hits against chilled foes cause an explosion that chills adjacent foes.,"Критические удары по замороженным противникам приводят к взрыву, замораживающему окружающих противников."
+Critical hits have a chance to cause bleeding. Bleeding you inflict gains increased duration.,"У критических попаданий есть шанс вызвать кровотечение. Кровотечение, вызываемое вами, длится дольше."
+Critical hits have a chance to cause bleeding. Increases bleed duration.,Критические попадания имеют шанс вызвать кровотечение. Длительность кровотечений увеличена.
+Critical hits on foes within the range threshold have a chance to grant fury. Fury grants you ferocity.,Критические удары по врагам в радиусе действия с шансом накладывают ярость. Ярость даёт вам свирепость.
 Critical hits grant bonus adrenaline and gain a stacking condition damage effect.,Критические удары дают бонус адреналина и накладывают суммирующийся эффект урона от состояний.
-Critical-hit chance is further increased while you are under the effect of fury. Convert a percentage of your outgoing critical strike damage into healing.,"Шанс критического удара дополнительно увеличивается, пока на вас действует ярость. Преобразует процент вашего исходящего критического урона в исцеление."
+Critical-hit chance is further increased while you are under the effect of fury. Convert a percentage of your outgoing critical strike damage into healing.,"Шанс на критическое попадание ещё больше увеличивается, когда у вас есть дар Ярости. Часть наносимого вами критического прямого урона превращается в исцеление."
 "Critical-hit chance is increased, and it is further increased while your health is above the threshold.","Шанс критического удара увеличен, и дополнительно возрастает, пока ваше здоровье выше порогового значения."
 Critical-strike damage is increased for you and your clones.,Критический урон увеличен для вас и ваших клонов.
-Critically striking a foe grants fury. Gain ferocity while under the effects of fury.,"Критический удар по врагу дает ярость. Получайте свирепость, пока на вас действует ярость."
+Critically striking a foe grants fury. Gain ferocity while under the effects of fury.,"Критический удар по врагу даёт ярость. Получайте свирепость, пока на вас действует ярость."
 "Crush nearby foes with a chilling slam. If your target has been struck by Banish, teleport to them.","Сокрушите ближайших врагов леденящим ударом. Если ваша цель была поражена Banish, телепортируйтесь к ней."
 Cry of Pain,Cry of Pain
 Crystal Configuration: Eclipse,Crystal Configuration: Eclipse

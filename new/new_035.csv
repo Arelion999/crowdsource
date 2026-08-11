@@ -11,7 +11,7 @@ english,translate
 (gasp) (gargle),(вздох) (бульканье)
 "(gasp) Okay, okay! I'll do my chores!","(вздох) Ладно, ладно! Сделаю я свою работу!"
 (gasp) Why...are you here?,(вздох) Почему... ты здесь?
-(groan) Heavy!,(кряхтит) Тяжело!
+(groan) Heavy!,(кряхтит) Тяжёло!
 (groans exhaustedly),(устало стонет)
 (groans painfully),(стонет от боли)
 (groans) No! Our food stores are contaminated... I just hope no one else gets sick. Damned rodents!,"(стонет) Нет! Наши съестные припасы заражены... Надеюсь только, что больше никто не заболеет. Проклятые грызуны!"
@@ -114,7 +114,7 @@ english,translate
 (sigh) Now's not a good time to chat. That's enough from her.,(вздох) Сейчас не лучшее время для разговоров. С неё хватит.
 (sigh) Quaggan is so happy.,(вздох) Куагган так счастлив.
 (sigh) Responsibility isn't easy.,(вздох) Ответственность — дело нелёгкое.
-(sigh) So tired. Must stay awake. Must...zzzzz...huh? I'm awake.,(вздох) Как же я устал. Надо не спать. Надо... зззз... а? Я не сплю.
+(sigh) So tired. Must stay awake. Must...zzzzz...huh? I'm awake.,(вздох) Как же я устал. Надо не спать. Надо... з-з-з-з... а? Я не сплю.
 (sigh) Still alive.,(вздох) Ещё жив.
 (sigh) Wake me before I'm dead. (sigh),"(вздох) Разбуди меня, пока я не умер. (вздох)"
 (sigh)I wasn't...good enough.,(вздох)Я был... недостаточно хорош.
@@ -131,7 +131,7 @@ english,translate
 (sneeze),(чих)
 (sneezing),(чихает)
 (sniff) As I thought.,(принюхивается) Так я и думал.
-(sniff) Mmm! Something smells delicious!,(принюхивается) Ммм! Чем-то вкусно пахнет!
+(sniff) Mmm! Something smells delicious!,(принюхивается) М-м-м! Чем-то вкусно пахнет!
 (sniff) Mortal scent...,(принюхивается) Запах смертного...
 (sniff) Tormented minds...,(принюхивается) Измученные разумы...
 (sniff) You smell funny.,(принюхивается) Странно от тебя пахнет.
@@ -148,14 +148,14 @@ english,translate
 (spell-casting effort),(усилие при сотворении заклинания)
 (spit) Take that!,(плюёт) Вот тебе!
 (sputter) Don't stand on the active grid—that shorts out your shield!,(брызжет слюной) Не стой на активной решётке — она замыкает твой щит!
-"(sputter) Oh, come on. Really...?","(брызжет слюной) Ой, да ладно. Серьёзно...?"
+"(sputter) Oh, come on. Really...?","(брызжет слюной) Ой, да ладно. Серьёзно?.."
 (squeak),(писк)
 (squeal),(визг)
 (startled gasp),(испуганный вздох)
 (static),(помехи)
 (static) *Asuran screaming* (static),(помехи) *асурские вопли* (помехи)
 (static) ...high command! (static),(помехи) ...верховное командование! (помехи)
-(static) Hello...?,(помехи) Алло...?
+(static) Hello...?,(помехи) Алло?..
 (static) How many more will die? (static),(помехи) Сколько ещё погибнет? (помехи)
 (static) You... (static) Always seeing monsters where there are none... (static),"(помехи) Ты... (помехи) Вечно видишь чудовищ там, где их нет... (помехи)"
 "(static) feeling okay? Wait, why are you- (static)","(помехи) в порядке? Стой, почему ты- (помехи)"
@@ -166,7 +166,7 @@ english,translate
 (taunting),(насмешка)
 (terrifying otherworldly howl),(жуткий потусторонний вой)
 (tormented shrieks),(измученные вопли)
-(trrrrrrrrooooooo  trrrrrrrooooo),(тррррррррооооо  тррррррроооо)
+(trrrrrrrrooooooo  trrrrrrrooooo),(тр-р-р-р-р-р-р-ро-о-о-о-о  тр-р-р-р-р-р-ро-о-о-о)
 (vomit noise),(звук рвоты)
 (war cry),(боевой клич)
 (weeping),(рыдает)
@@ -182,7 +182,7 @@ english,translate
 (yawn),(зевок)
 (yells),(кричит)
 (yelp),(взвизг)
-(zzrt) Progress—update: Power—nearing—full—capacity. (zzrt),(взззт) Ход—обновление: Мощность—близка—к полной—ёмкости. (взззт)
+(zzrt) Progress—update: Power—nearing—full—capacity. (zzrt),(вз-з-зт) Ход—обновление: Мощность—близка—к полной—ёмкости. (вз-з-зт)
 *cough* Eir's not staring.,*кашель* Эйр не смотрит.
 +140 Toughness,+140 к стойкости
 +5 Life Steal on Hit <c=#A9A9A9>(Nighttime)</c>,+5 к похищению жизни при попадании <c=#A9A9A9>(ночью)</c>
@@ -265,7 +265,7 @@ english,translate
 "<c=@flavor>""The writing in these are ancient and beautiful. Makes you wonder what else was lost when Ascalon fell.""<br>—Jinell</c>","<c=@flavor>«Письмена здесь древние и прекрасные. Поневоле задумаешься, что ещё было утрачено с падением Аскалона».<br>—Джинелл</c>"
 "<c=@flavor>""These crystals have some kind of energy. I've modified a standard bow with them. Let me know how it works.""<br>—Olenn</c>","<c=@flavor>«В этих кристаллах есть какая-то энергия. Я переделал ими обычный лук. Расскажи, как он себя покажет».<br>—Оленн</c>"
 "<c=@flavor>""These steins are crafted extra sturdy. They won't break over a bandit's head, and the can block a centaur arrow without leaking any ale.""<br>—Brother Vince</c>","<c=@flavor>«Эти кружки делают на совесть. Они не разобьются о голову бандита и остановят кентаврскую стрелу, не пролив ни капли эля».<br>—Брат Винс</c>"
-"<c=@flavor>""You need a good blanket to keep your dolyaks happy, because when they get upset no telling what will happen.""<br>—Lyot</c>","<c=@flavor>«Хорошее одеяло нужно, чтобы дольяки были довольны, ведь когда они не в духе, всякое может случиться.»<br>—Лиот</c>"
+"<c=@flavor>""You need a good blanket to keep your dolyaks happy, because when they get upset no telling what will happen.""<br>—Lyot</c>","<c=@flavor>«Хорошее одеяло нужно, чтобы дольяки были довольны, ведь когда они не в духе, всякое может случиться».<br>—Лиот</c>"
 "A ""vortex"" has opened up in a Shing Jea resident's kitchen. No one has fallen in...yet.",На кухне у жителя Шинг Джеа открылся «вихрь». Никто в него ещё не провалился... пока.
 A Comprehensive Guide to Charr Trail Signs,Полный справочник по следовым знакам чарров
 A Consortium tracker overwhelmed by the wyvern in the area.,Следопыта Консорциума одолела местная виверна.
@@ -288,9 +288,9 @@ A brilliant ember.,Яркий уголёк.
 A broodmother is down by the dam! Hurry! Kill it before someone gets eaten.,"Матка внизу у плотины! Скорее! Убейте её, пока кого-нибудь не сожрали."
 A bunch of bandits are trying to sabotage the pump house!,Кучка бандитов пытается вывести из строя насосную станцию!
 A bustling market is a thing of beauty.,Оживлённый рынок — это прекрасно.
-"A cacaphony of growls and snarls comes from behind the gates, and the scent of blood is heavy in the air. Are you ready for the challenge?","Из-за ворот доносится какофония рычания и рыка, а в воздухе тяжело висит запах крови. Готов принять вызов?"
+"A cacaphony of growls and snarls comes from behind the gates, and the scent of blood is heavy in the air. Are you ready for the challenge?","Из-за ворот доносится какофония рычания и рыка, а в воздухе тяжёло висит запах крови. Готов принять вызов?"
 A challenge well met.,Вызов принят достойно.
-A challenger has entered the ring. You may assist them if you wish. Failure to work together may be dangerous.,На арену вышел претендент. При желании можете ему помочь. Неумение действовать сообща может выйти боком.
+A challenger has entered the ring. You may assist them if you wish. Failure to work together may be dangerous.,На арену вышёл претендент. При желании можете ему помочь. Неумение действовать сообща может выйти боком.
 A chance is all I need.,Мне нужен всего один шанс.
 "A chance to escape...yes! Riannoc, I want to live. I have to get out of here. I don't want to die!","Шанс сбежать... да! Рианнок, я хочу жить. Мне надо выбраться отсюда. Я не хочу умирать!"
 "A charr! It's building some nefarious device—surely the vanguard of an invasion. Brothers and sisters, to arms! For Ascalon!","Чарр! Он собирает какое-то зловещее устройство — наверняка это авангард вторжения. Братья и сёстры, к оружию! За Аскалон!"
@@ -465,9 +465,9 @@ A thin but sturdy piece of wood needed to make an arrow shaft can be gathered fr
 A thousand times my axe has fallen! A thousand deer lay slain!,Тысячу раз опускался мой топор! Тысяча оленей полегла!
 A tidy tavern is like a safe harbor in a storm.,Опрятная таверна — как надёжная гавань в бурю.
 A tiny dolyak. Or is it?,Крошечный дольяк. Или нет?
-A titan...?,Титан...?
+A titan...?,Титан?..
 "A toast to our savior, with fresh clean water! Cheers!",Тост за нашего спасителя — свежей чистой водой! Ваше здоровье!
 A trap that belches boiling steam.,"Ловушка, изрыгающая кипящий пар."
 A trout fished from the lake makes for the beginnings of a favored tengu dish.,"Форель, выловленная в озере, — начало любимого блюда тенгу."
-A verification sequence is far too easy to reverse engineer. I'll need something a bit more...powerful.,Последовательность проверки слишком легко разобрать на части. Мне понадобится что-то посерьёзнее... помощнее.
+A verification sequence is far too easy to reverse engineer. I'll need something a bit more...powerful.,Последовательность проверки слишком лёгко разобрать на части. Мне понадобится что-то посерьёзнее... помощнее.
 A veritable bounty of ecto-undeath distillate! Now to make us ghosts.,Настоящее изобилие экто-нежить-дистиллята! Теперь сделаем из нас призраков.

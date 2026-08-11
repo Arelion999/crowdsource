@@ -993,6 +993,52 @@ def cmd_canon(a):
         print("(для записи --apply)")
 
 
+def cmd_typo(a):
+    """Русская типографика в bin: ё, кавычки, знаки, окончания.
+
+    Те же правила, что `tools/typofix.py` применяет к батчам, — и применять их
+    надо к обоим: батчи чинят будущие вливания, а в игре текст берётся из bin, и
+    без этого прохода правка до игрока не доедет. Гейт как у `canon`: правка
+    принимается, только если не добавляет ошибок линтера.
+    """
+    import typofix
+    only = set(a.only.split(",")) if a.only else None
+    ours = load_map(OUR_BIN)
+    changes, refused, stat, ex = {}, 0, collections.Counter(), []
+    for h, (en, ru, _c) in ours.items():
+        if not ru.strip():
+            continue
+        v = ru
+        for name, fn in typofix.FIXERS:
+            if only and name not in only:
+                continue
+            new = fn(en, v)
+            if new != v:
+                stat[name] += 1
+                v = new
+        if v == ru:
+            continue
+        if _validate is not None:
+            was = len(_validate.check_row(en, ru)[0])
+            if len(_validate.check_row(en, v)[0]) > was:
+                refused += 1
+                if len(ex) < 5:
+                    ex.append((en, ru, v))
+                continue
+        changes[h] = v
+    print("строк под типографику: %d | отклонено гейтом: %d" % (len(changes), refused))
+    for name, _fn in typofix.FIXERS:
+        if stat[name]:
+            print("    %-10s %6d" % (name, stat[name]))
+    for en, was, now in ex:
+        print("  ОТКЛОНЕНО %r\n    было  %r\n    стало %r"
+              % (en[:70], was[:70], now[:70]))
+    if a.apply:
+        apply_changes(changes, {}, "типографика")
+    else:
+        print("(для записи --apply)")
+
+
 def cmd_broken(a):
     ours = load_map(OUR_BIN)
     kinds = collections.Counter()
@@ -2728,6 +2774,9 @@ def main():
         (("--apply",), {"action": "store_true"}))
     add("canon", "привести к канону терминов", cmd_canon,
         (("--apply",), {"action": "store_true"}))
+    add("typo", "русская типографика: ё, кавычки, знаки", cmd_typo,
+        (("--apply",), {"action": "store_true"}),
+        (("--only",), {"help": "классы через запятую, как в typofix.py"}))
     add("canonbatches", "тот же канон, но по батчам", cmd_canonbatches,
         (("--tidy",), {"action": "store_true", "help": "прогнать заодно мелкие починки tidy"}),
         (("--apply",), {"action": "store_true"}))

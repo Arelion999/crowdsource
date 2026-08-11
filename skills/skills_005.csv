@@ -14,18 +14,18 @@ Conjure Frost Bow,Призвать ледяной лук
 Conjure Lightning Attributes,Призвать атрибуты молнии
 Conjure Lightning Hammer,Призвать молот молнии
 Conjure a bullet that bounces to nearby enemies. Gain might for each target struck.,"Призовите пулю, которая рикошетит в ближайших врагов. Получайте мощь за каждую пораженную цель."
-"Conjure a drill of dark energy on your blade, and rend the armor of foes in front of you.",Призовите бур из темной энергии на свой клинок и разорвите броню врагов перед собой.
-Conjure a focused volley of arrows to harass your foes.,"Призовите сфокусированный залп стрел, чтобы изматывать врагов."
-Conjure a magical axe to rake your enemies toward you.,"Призовите магический топор, чтобы притянуть врагов к себе."
+"Conjure a drill of dark energy on your blade, and rend the armor of foes in front of you.",Призовите бур из тёмной энергии на свой клинок и разорвите броню врагов перед собой.
+Conjure a focused volley of arrows to harass your foes.,"Выстрелить сконцентрированным залпом из стрел, которые преследуют противников."
+Conjure a magical axe to rake your enemies toward you.,"Сотворить волшебный топор, собирающий вместе противников перед вами."
 "Conjure a meteor at the target location, damaging enemies. Enemies at the center of the impact take increased damage.","Призовите метеор в указанную область, нанося урон врагам. Враги в центре удара получают повышенный урон."
-Conjure a portal through the Mists and fire barbed arrows to strike from unexpected directions at your enemy.,"Призовите портал через Туманы и выпустите зазубренные стрелы, чтобы поразить врага с неожиданных направлений."
-Conjure a powerful bow of wind that consumes arrows and generates Wind Force.,"Призовите мощный лук ветра, который поглощает стрелы и генерирует Силу ветра."
+Conjure a portal through the Mists and fire barbed arrows to strike from unexpected directions at your enemy.,"Сотворить портал сквозь Туманы и выпустить зазубренные стрелы, которые поражают противника с неожиданных направлений."
+Conjure a powerful bow of wind that consumes arrows and generates Wind Force.,"Призвать могущественный лук из ветра, который расходует стрелы и накапливает Силу Ветра."
 "Conjure a twister at the target location, making foes vulnerable. Foes in the center of the twister are lifted into the air.","Призовите смерч в указанной области, делая врагов уязвимыми. Враги в центре смерча подбрасываются в воздух."
 "Conjure a whirlpool at the target location, pulling enemies in. Enemies at the center of the whirlpool are slowed.","Призовите водоворот в указанной области, притягивающий врагов. Враги в центре водоворота замедляются."
 "Conjure claws of darkness from the shadows to attack foes, applying a condition to them and pulling them to you. Gain quickness if you strike a foe and gain life force for each struck foe.","Призовите когти тьмы из теней для атаки врагов, накладывая на них состояние и притягивая их к себе. Получите проворство при попадании по врагу и жизненную силу за каждого пораженного врага."
 Conjured Barrier,Призванный барьер
 Conjured Slash,Призванный удар
-Conjured arrows strike your target.,Призванные стрелы поражают вашу цель.
+Conjured arrows strike your target.,"После некоторого числа попаданий метательными снарядами, выпустите в свою цель залп стрел и получите стрелу. Стрелы от этой черты не учитываются."
 Consecutive attacks cause burning.,Последовательные атаки вызывают горение.
 Consecutive attacks grant boons.,Последовательные атаки дают благословения.
 Consecutive attacks grant regenerative effects.,Последовательные атаки дают эффекты регенерации.
@@ -34,7 +34,7 @@ Consume,Поглощение
 Consume Conditions,Поглощение состояний
 Consume Plasma,Поглотить плазму
 Consume conditions to gain life force.,"Поглощайте состояния, чтобы получить жизненную силу."
-Consume your accumulated astral force to become a celestial avatar.,"Поглотите накопленную астральную силу, чтобы стать небесным аватаром."
+Consume your accumulated astral force to become a celestial avatar.,Использовать накопленную астральную силу и принять форму Небесного аватара.
 Consumes All Ammunition,Потребляет все боеприпасы
 Consuming Flame,Пожирающее пламя
 Consuming Hatred,Пожирающая ненависть
@@ -56,7 +56,7 @@ Corpse Detonation,Детонация трупа
 Corrosive Poison Cloud,Едкое ядовитое облако
 Corrosive Residue,Едкий остаток
 Corrupt Boon,Осквернение благословения
-Corrupt boons from enemies around your target. Inflict torment and gain life force for each condition on your initial target up to the threshold. Gain extra life force for each extra foe struck.,Оскверняет благословения врагов вокруг вашей цели. Накладывает боль и дает жизненную силу за каждое состояние на вашей начальной цели вплоть до порогового значения. Дает дополнительную жизненную силу за каждого дополнительного пораженного врага.
+Corrupt boons from enemies around your target. Inflict torment and gain life force for each condition on your initial target up to the threshold. Gain extra life force for each extra foe struck.,Оскверняет благословения врагов вокруг вашей цели. Накладывает боль и даёт жизненную силу за каждое состояние на вашей начальной цели вплоть до порогового значения. Даёт дополнительную жизненную силу за каждого дополнительного пораженного врага.
 Corrupt the Living,Испортить живое
 "Corrupt the ground under your target; if they remain within the area, they will be knocked down. Grant might to allies near your target based on how many conditions they have.","Испортите землю под вашей целью; если они останутся в области, они будут сбиты с ног. Даруйте мощь союзникам рядом с вашей целью в зависимости от того, сколько состояний на них наложено."
 Corrupted Claws,Оскверненные когти
@@ -80,7 +80,7 @@ Counterattack with a powerful kick.,Контратака мощным ударо
 Counterblow,Контрудар
 Counterspell,Контрзаклинание
 Counterstrike,Контрудар
-Crack the ground to chill your foes.,"Расколите землю, чтобы охладить врагов."
+Crack the ground to chill your foes.,"Расколоть землю, чтобы заморозить противников."
 Crackling Wind,Трещащий ветер
 Cracks in Reality,Разломы в реальности
 Cranial Cascade,Черепной каскад
@@ -91,20 +91,20 @@ Crashing Font,Сокрушительный источник
 Crashing Waves,Сокрушительные волны
 "Create a Radiation Field at target location, inflicting poison and weakness on foes.","Создайте поле радиации в целевой области, накладывая на врагов отравление и слабость."
 Create a Seed Turret at targeted location which will attack nearby foes.,"Создайте турель-семя в целевой области, которая будет атаковать ближайших врагов."
-Create a bubble that blocks enemy missiles and grants resolution to allies.,"Создайте пузырь, который блокирует вражеские снаряды и дает союзникам решимость."
+Create a bubble that blocks enemy missiles and grants resolution to allies.,"Создайте пузырь, который блокирует вражеские снаряды и даёт союзникам решимость."
 "Create a burst of energy, the effect of which changes based on the radiant weapon you have equipped.","Создайте всплеск энергии, эффект которого меняется в зависимости от экипированного сияющего оружия."
 Create a continually expanding field near you that applies chill and vulnerability to enemies and deals damage when it ends. Fire <c=@abilitytype>Crimson Tide</c> on each pulse at enemies within the maximum range.,"Создает постоянно расширяющееся поле возле вас, накладывающее на врагов холод и уязвимость и наносящее урон при завершении. Запускает <c=@abilitytype>Багровый прилив</c> при каждой пульсации по врагам в пределах максимальной дальности."
-Create a current at your location that immobilizes enemies entering it and grants superspeed to allies passing through it.,"Создайте поток в своем местоположении, который обездвиживает входящих в него врагов и дает суперскорость проходящим через него союзникам."
-"Create a dark maelstrom that deals damage, inflicts vulnerability, and steals health. Reactivate this skill to inflict additional damage and conditions on all targets hit by the maelstrom.","Создайте темный водоворот, который наносит урон, накладывает уязвимость и крадет здоровье. Активируйте это умение повторно, чтобы нанести дополнительный урон и наложить состояния на все цели, пораженные водоворотом."
-Create a deadly holographic shockwave that launches foes upward. This attack always deals a critical hit.,"Создайте смертоносную голографическую ударную волну, которая подбрасывает врагов вверх. Эта атака всегда наносит критический удар."
-Create a debilitating zone by firing a volley of flaming arrows at an area.,"Создайте ослабляющую зону, выпустив залп огненных стрел по области."
-Create a dome around you that pushes foes back and absorbs projectiles.,"Создайте купол вокруг себя, который отталкивает врагов и поглощает снаряды."
+Create a current at your location that immobilizes enemies entering it and grants superspeed to allies passing through it.,"Создайте поток в своем местоположении, который обездвиживает входящих в него врагов и даёт суперскорость проходящим через него союзникам."
+"Create a dark maelstrom that deals damage, inflicts vulnerability, and steals health. Reactivate this skill to inflict additional damage and conditions on all targets hit by the maelstrom.","Создайте тёмный водоворот, который наносит урон, накладывает уязвимость и крадет здоровье. Активируйте это умение повторно, чтобы нанести дополнительный урон и наложить состояния на все цели, пораженные водоворотом."
+Create a deadly holographic shockwave that launches foes upward. This attack always deals a critical hit.,"Создать смертоносную голографическую шоковую волну, которая отбрасывает противников. Эта атака всегда наносит критический урон."
+Create a debilitating zone by firing a volley of flaming arrows at an area.,"Создать зону истощения, выстрелив залпом горящих стрел в указанную область."
+Create a dome around you that pushes foes back and absorbs projectiles.,"Создать вокруг себя купол, который отталкивает противников назад и поглощает снаряды."
 "Create a dome around you that pushes foes back and absorbs projectiles. After a duration, it detonates, healing nearby allies.","Создайте купол вокруг себя, который отталкивает врагов и поглощает снаряды. По истечении времени он детонирует, исцеляя ближайших союзников."
-Create a dust storm that inflicts cripple to bleeding foes. The first strike of the storm blinds foes.,"Создайте пылевую бурю, которая накладывает увечье на врагов с кровотечением. Первый удар бури ослепляет врагов."
+Create a dust storm that inflicts cripple to bleeding foes. The first strike of the storm blinds foes.,"Создать пылевую бурю, которая вызывает хромоту у кровоточащих противников. Первый удар бури ослепляет противников."
 "Create a field from the Mists that blocks incoming projectiles in front of you, then fire bolts at foes around your target.","Создайте поле из Туманов, которое блокирует входящие снаряды перед вами, а затем выпустите заряды по врагам вокруг вашей цели."
 "Create a fissure at the target location, crippling foes. Foes at the center of the fissure take increased damage and are weakened.","Создает разлом в указанной области, накладывая увечье на врагов. Враги в центре разлома получают повышенный урон и ослабление."
-Create a geyser to heal nearby allies.,"Создает гейзер, исцеляющий ближайших союзников."
-Create a healing seed at targeted location which periodically gives nearby allies regeneration.,"Создает семя исцеления в указанной области, которое периодически дает ближайшим союзникам регенерацию."
+Create a geyser to heal nearby allies.,"Создать гейзер, исцеляющий союзников поблизости."
+Create a healing seed at targeted location which periodically gives nearby allies regeneration.,"Создает семя исцеления в указанной области, которое периодически даёт ближайшим союзникам регенерацию."
 "Create a lightning field at the specified point, then summon gyros to finish foes and revive allies within the field.
 <c=@reminder>Interrupted gyros are destroyed.</c>","Создайте поле молний в указанной точке, а затем призовите гиро-стражей, чтобы они уничтожали врагов и воскрешали союзников внутри поля.
 <c=@reminder>Прерванные гиро-стражи уничтожаются.</c>"
@@ -117,43 +117,43 @@ Create a healing seed at targeted location which periodically gives nearby allie
 "Create a lightning field at your location. Then summon gyros to finish foes and revive allies within the field. The recharge of this skill is increased for each gyro created beyond the first.
 <c=@reminder>Interrupted gyros are destroyed.</c>","Создайте в выбранной области поле молний. Затем призовите гиро, чтобы они наносили урон врагам и воскрешали союзников внутри этого поля. Время перезарядки этой способности увеличивается для каждого созданного после первого гиро.
 <c=@reminder>Прерванные гиро уничтожаются.</c>"
-Create a magical storm at the target location that applies random conditions to foes and boons to allies. The first strike of the storm dazes foes.,"Создает магический шторм в целевой области, который накладывает случайные состояния на врагов и благословения на союзников. Первый удар шторма ошеломляет врагов."
-Create a magnetic field that reflects projectiles and can be released to knock back foes.,"Создает магнитное поле, которое отражает снаряды и может быть высвобождено, чтобы отбросить врагов."
-"Create a massive, rocky explosion that knocks back foes.","Создает мощный каменный взрыв, отбрасывающий врагов."
-Create a nova at the target that damages and chills nearby foes.,"Создает новую в цели, которая наносит урон и накладывает охлаждение на ближайших врагов."
-Create a rift from the Mists that blocks incoming attacks. When the rift closes it blinds foes in front of you.,"Создает разлом из Туманов, который блокирует входящие атаки. Когда разлом закрывается, он ослепляет врагов перед вами."
+Create a magical storm at the target location that applies random conditions to foes and boons to allies. The first strike of the storm dazes foes.,"Создать магический шторм в выбранной области, который накладывает случайные состояния на противников и дары на союзников. Первый удар шторма ошеломляет противников."
+Create a magnetic field that reflects projectiles and can be released to knock back foes.,Подтянуть к себе противников поблизости с помощью магнитной силы. Вам даруется Протекция и тектонический сдвиг за каждого подтянутого противника.
+"Create a massive, rocky explosion that knocks back foes.","Создать в выбранной области расщелину, делающую противников хромыми. Противники в центре расщелины получат повышенный урон и будут ослаблены."
+Create a nova at the target that damages and chills nearby foes.,"Критические удары по замороженным противникам приводят к взрыву, замораживающему окружающих противников."
+Create a rift from the Mists that blocks incoming attacks. When the rift closes it blinds foes in front of you.,"Создать разлом из Туманов, блокирующий атаки. Когда разлом закрывается, он ослепляет противников перед вами."
 Create a ring of flame that damages enemies.,"Создает кольцо огня, наносящее урон врагам."
-Create a set of med packs around you.,Создает набор медицинских пакетов вокруг вас.
+Create a set of med packs around you.,Вызвать выброску медпакетов в выбранной области.
 "Create a shield to block the next three attacks. If the shield is not destroyed, it explodes and damages nearby foes.","Создает щит, блокирующий следующие три атаки. Если щит не разрушен, он взрывается и наносит урон ближайшим врагам."
-Create a shielding wave in front of you that damages foes while giving protection and aegis to you and up to five allies.,"Создает защитную волну перед вами, которая наносит урон врагам, давая защиту и эгиду вам и до пяти союзников."
-Create a shock wave that bleeds and cripples nearby foes.,"Создает ударную волну, которая вызывает кровотечение и увечье у ближайших врагов."
-Create a shock wave that bleeds and immobilizes your target.,"Создает ударную волну, которая вызывает кровотечение и обездвиживает вашу цель."
-Create a storm of lightning that inflicts damage over time to affected foes.,"Создает шторм молний, который наносит периодический урон затронутым врагам."
-Create a swirling wind that blocks projectiles.,"Создает вихрь ветра, блокирующий снаряды."
+Create a shielding wave in front of you that damages foes while giving protection and aegis to you and up to five allies.,"Создать перед собой защитную волну, которая наносит урон противникам и дарует Протекцию и Эгиду вам и пятерым вашим союзникам."
+Create a shock wave that bleeds and cripples nearby foes.,"Создать шоковую волну, которая вызывает кровотечение и неподвижность у вашей цели."
+Create a shock wave that bleeds and immobilizes your target.,"Создать шоковую волну, которая вызывает кровотечение и неподвижность у вашей цели."
+Create a storm of lightning that inflicts damage over time to affected foes.,"Создать шторм из молний, которые с течением времени наносят урон пораженным противникам."
+Create a swirling wind that blocks projectiles.,"Создать воздушный вихрь, который блокирует снаряды."
 "Create a tar pool that damages, cripples, and slows enemies.","Создает лужу смолы, которая наносит урон, накладывает увечье и замедляет врагов."
 "Create a telekinetic storm of daggers that damages foes. With each interval, the bladestorm will fire blades at nearby enemies.","Создает телекинетический шторм из кинжалов, наносящий урон врагам. С каждым интервалом шторм клинков будет выпускать лезвия в ближайших врагов."
-Create a thermal vent around your target.,Создает тепловой вентиль вокруг вашей цели.
-Create a tornado that knocks back foes.,"Создает торнадо, отбрасывающее врагов."
+Create a thermal vent around your target.,Создать термальный выброс вокруг вашей цели.
+Create a tornado that knocks back foes.,"Обрести дар Устойчивости и превратиться в торнадо, который наносит урон противникам и отбрасывает их."
 "Create a violent eruption that damages foes.
 <c=@reminder>Damage is reduced on subsequent hits against the same foe.</c>","Создайте мощный взрыв, который наносит урон врагам.
 <c=@reminder>Урон от последующих атак по одной и той же цели будет снижен.</c>"
 "Create a vortex at your location, pulling nearby foes toward you.","Создает вихрь в вашем местоположении, притягивающий ближайших врагов к вам."
-Create a wall of energy that grants swiftness to allies who cross it and cripples foes who touch it. Allies may cross the wall more than once but receive less swiftness after the first crossing.,"Создает стену энергии, которая дает стремительность союзникам, пересекающим ее, и накладывает увечье на врагов, касающихся ее. Союзники могут пересекать стену более одного раза, но получают меньше стремительности после первого пересечения."
-Create a wall of flame at the target area that burns foes.,"Создает стену огня в указанной области, которая сжигает врагов."
-"Create a wall of ice that shatters when touched by enemies or when it expires, dealing heavy damage and chilling foes.","Создает стену льда, которая разбивается при касании врагами или по истечении времени, нанося тяжелый урон и накладывая холод на врагов."
-Create an area that blocks projectiles and prevents enemies from entering or leaving.,"Создает область, которая блокирует снаряды и препятствует входу или выходу врагов."
+Create a wall of energy that grants swiftness to allies who cross it and cripples foes who touch it. Allies may cross the wall more than once but receive less swiftness after the first crossing.,"Создает стену энергии, которая даёт стремительность союзникам, пересекающим её, и накладывает увечье на врагов, касающихся её. Союзники могут пересекать стену более одного раза, но получают меньше стремительности после первого пересечения."
+Create a wall of flame at the target area that burns foes.,"Создать стену огня в выбранной области, которая поджигает противников."
+"Create a wall of ice that shatters when touched by enemies or when it expires, dealing heavy damage and chilling foes.","Создает стену льда, которая разбивается при касании врагами или по истечении времени, нанося тяжёлый урон и накладывая холод на врагов."
+Create an area that blocks projectiles and prevents enemies from entering or leaving.,"Создать область, которая блокирует снаряды и не даёт врагам ни войти в неё, ни покинуть её."
 Create an area that blocks projectiles and weakens foes.,"Создает область, которая блокирует снаряды и ослабляет врагов."
-Create an electrical field that stuns foes crossing it.,"Создает электрическое поле, которое оглушает врагов, пересекающих его."
+Create an electrical field that stuns foes crossing it.,"Создать электрическое поле, которое оглушает пересекающих его противников."
 "Create an eruption of despair around you, inflicting torment on enemies and dazing them. For each enemy struck, inflict torment on yourself. Each point of affinity you have increases the torment duration on enemies and reduces the torment duration on yourself.","Создает извержение отчаяния вокруг вас, накладывая боль на врагов и ошеломляя их. За каждого пораженного врага наложите боль на себя. Каждая единица сродства увеличивает длительность боли на врагах и уменьшает длительность боли на вас."
 "Create an explosion of magical energy, confusing your foe.","Создает взрыв магической энергии, сбивающий с толку вашего врага."
-Create fetid ground that damages and poisons foes.,"Создает зловонную землю, которая наносит урон и отравляет врагов."
+Create fetid ground that damages and poisons foes.,"Создать зловонную землю, которая наносит урон противникам и отравляет их."
 Create fissures under nearby enemies.,Создает разломы под ближайшими врагами.
-Create poisonous bubbles.,Создает ядовитые пузыри.
+Create poisonous bubbles.,"Выпустить в противника ядовитое облако, которое наносит урон и отравляет противника."
 "Create two rifts, one above and one below your target. After a short delay, these rifts will create a barrier from the Mists, preventing foes from crossing.","Создает два разлома, один над и один под вашей целью. После небольшой задержки эти разломы создадут барьер из Туманов, препятствующий проходу врагов."
-Create unsteady ground that foes cannot cross.,"Создает нестабильную землю, которую враги не могут пересечь."
+Create unsteady ground that foes cannot cross.,"Пробудить колебания почвы, которые мешают пройти противникам."
 Creates a launch orb if it completes its path. Refreshes Nova Launch when bouncing on party members. Explodes when contacting the ground.,"Создает стартовую сферу, если завершает свой путь. Обновляет Nova Launch при отскоке от членов группы. Взрывается при контакте с землей."
 Creates a pulsing area attack.,Создает пульсирующую область атаки.
-Creates a rain of damaging ice fields in a wide area.,"Создает дождь из ледяных полей, наносящих урон на большой площади."
+Creates a rain of damaging ice fields in a wide area.,"Создать ледяную бурю в выбранной области. Урон уменьшается каждый раз, когда противник был поражен этим умением."
 Creates a shock wave of sharp spikes. Applies knockdown.,Создает ударную волну из острых шипов. Накладывает нокдаун.
 Creates a steam prison that prevents escape and reflects projectiles.,"Создает паровую тюрьму, которая препятствует побегу и отражает снаряды."
 Creates a steam prison that reflects projectiles.,"Создает паровую тюрьму, которая отражает снаряды."
@@ -165,14 +165,14 @@ Crescendo,Крещендо
 Crescent Wind,Серповидный ветер
 Crimson Dawn,Багровый рассвет
 Crimson Tide,Багровый прилив
-Cripple multiple foes with lava chains.,Калечит нескольких врагов лавовыми цепями.
-Cripple nearby foes and remove their boons. Gain resolution for each foe you strike. Remove additional boons on foes below the health threshold.,"Калечит ближайших врагов и снимает с них благословения. Получите решимость за каждого пораженного врага. Снимает дополнительные благословения с врагов, чей уровень здоровья ниже порогового."
+Cripple multiple foes with lava chains.,Сделать нескольких противников хромыми с помощью цепей из лавы.
+Cripple nearby foes and remove their boons. Gain resolution for each foe you strike. Remove additional boons on foes below the health threshold.,"Вы наносите удар вокруг себя, когда входите в Саван."
 Cripple nearby foes and remove their boons. Release an Unholy Burst on foes below the health threshold.,Хромота на ближайших врагов и удаление их благ. Высвобождение нечестивого взрыва на врагов ниже порога здоровья.
-Cripple your foe with a final strike.,Калечит врага финальным ударом.
-Cripple your foe with a kick.,Калечит врага ударом ноги.
-Cripple your foe with a precise slash.,Калечит врага точным разрезом.
-Cripple your foe with shackles.,Калечит врага оковами.
-Cripple your target with a powerful strike.,Калечит цель мощным ударом.
+Cripple your foe with a final strike.,Завершающим ударом сделать противника хромым.
+Cripple your foe with a kick.,Отбросить противника назад пинком.
+Cripple your foe with a precise slash.,Сделать противника хромым с помощью точного пореза.
+Cripple your foe with shackles.,"Надеть на противника оковы, которые делают его хромым."
+Cripple your target with a powerful strike.,"Нанести по цели мощный удар, вызывающий хромоту."
 Crippled,Искалечен
 Cripples foes.,Калечит врагов.
 Cripples nearby foes.,Калечит ближайших врагов.
@@ -269,16 +269,16 @@ Damage and condition damage taken are increased; stacks intensity.,Получа�
 Damage and cripple nearby enemies.,Наносит урон и калечит ближайших врагов.
 Damage at 50% or Above,Урон при 50% или выше
 Damage foes at the end of your dodge roll. Gain might for each foe struck by this attack.,"Наносит урон врагам в конце вашего переката. Получите мощь за каждого врага, пораженного этой атакой."
-Damage foes in a cone in front of you. Deal more damage to burning foes.,Наносит урон врагам в конусе перед вами. Наносит больше урона горящим врагам.
-Damage foes in an area that grows larger.,"Наносит урон врагам в области, которая увеличивается."
-Damage foes with a spread of icy arrows that cause chill. Extra projectiles are launched for each stack of Water Arrow accumulated.,"Наносит урон врагам веером ледяных стрел, вызывающих холод. Дополнительные снаряды выпускаются за каждый накопленный заряд Водяной стрелы."
+Damage foes in a cone in front of you. Deal more damage to burning foes.,Нанести урон противникам перед вами струей огня. Горящие противники получают больше урона.
+Damage foes in an area that grows larger.,"Нанести урон противникам в области, увеличивающейся в объёме."
+Damage foes with a spread of icy arrows that cause chill. Extra projectiles are launched for each stack of Water Arrow accumulated.,"Нанести урон противникам залпом ледяных стрел, которые замораживают. За каждый стек умения Water Arrow даются дополнительные стрелы."
 "Damage foes, cure three of your conditions, and reflect projectiles with a magnetic surge.","Наносит урон врагам, снимает три ваших состояния и отражает снаряды магнитным импульсом."
 Damage increase at 25%% target health.,Урон увеличен при 25%% здоровья цели.
 Damage increase at 50%% target health.,Урон увеличен при 50%% здоровья цели.
 Damage increase per stack.,Увеличение урона за заряд.
 Damage increased 50%% on next attack.,Урон следующей атаки увеличен на 50%%.
 Damage is reduced per target each time they are struck by this skill.,Урон снижается для каждой цели при каждом попадании этим навыком.
-Damage nearby enemies with a gust of wind.,Наносит урон ближайшим врагам порывом ветра.
+Damage nearby enemies with a gust of wind.,После использования умения Bluster следующая атака вашего питомца создаст вокруг его цели наносящий урон вихрь ветра.
 Damage nearby foes and apply conditions to them. Lose heat. This attack activates Heat Therapy if you have not overheated.,"Наносит урон ближайшим врагам и накладывает на них состояния. Теряет тепло. Эта атака активирует Теплотерапию, если вы не перегрелись."
 "Damage nearby foes with a mighty ground slam. If your target has been struck by <c=@abilitytype>Banish</c>, teleport to them.","Нанесите урон ближайшим врагам мощным ударом о землю. Если ваша цель была поражена <c=@abilitytype>Изгнанием</c>, переместитесь к ней."
 "Damage nearby foes with a ring of fire, burning foes that pass through it.","Наносит урон ближайшим врагам кольцом огня, сжигая врагов, проходящих сквозь него."
@@ -298,12 +298,12 @@ Damage vs. Burning,Урон против горения
 Damage with Boons,Урон с благословениями
 Damage without Boons,Урон без благословений
 Damage your foe with a forceful peck.,Наносит урон вашему врагу мощным клевком.
-Damage your target and nearby foes. Inflict vulnerability on foes whose skills aren't active.,"Наносит урон вашей цели и ближайшим врагам. Накладывает уязвимость на врагов, чьи навыки не активны."
+Damage your target and nearby foes. Inflict vulnerability on foes whose skills aren't active.,"Нанести урон цели и противникам поблизости. Сделать уязвимыми противников, умения которые неактивны."
 Damages enemies with a series of chaotic blasts.,Наносит урон врагам серией хаотичных взрывов.
 Damages enemies with a solar blast. Followed by Crimson Dawn.,Наносит урон врагам солнечным взрывом. Сопровождается Багровым рассветом.
 Damages foes in the area with a spike of frost.,Наносит урон врагам в области ледяным шипом.
 Damages foes who stand too close.,"Наносит урон врагам, стоящим слишком близко."
-Damages your target and dazes foes around that target.,Наносит урон вашей цели и ошеломляет врагов вокруг этой цели.
+Damages your target and dazes foes around that target.,Сокрушительно ударить по земле и нанести урон противникам поблизости.
 Damage—No Boons,Урон — без благ
 Damage—One Boon,Урон — одно благо
 Damage—Three Boons,Урон — три блага
@@ -311,27 +311,27 @@ Damage—Two Boons,Урон — два блага
 Damaging Conditions Removed,Наносящие урон состояния сняты
 Dancing Dagger,Танцующий кинжал
 Daring Advance,Дерзкое наступление
-Dark Aura,Темная аура
-Dark Barrage,Темный залп
-Dark Pact,Темный пакт
-Dark Path,Темный путь
-Dark Pursuit,Темное преследование
-Dark Pursuit Duration,Длительность темного преследования
-Dark Slash,Темный удар
-Dark Spear,Темное копье
-Dark Water,Темная вода
+Dark Aura,Тёмная аура
+Dark Barrage,Тёмный залп
+Dark Pact,Тёмный пакт
+Dark Path,Тёмный путь
+Dark Pursuit,Тёмное преследование
+Dark Pursuit Duration,Длительность тёмного преследования
+Dark Slash,Тёмный удар
+Dark Spear,Тёмное копьё
+Dark Water,Тёмная вода
 Darkrazor's Daring,Дерзость Тёмного Лезвия
 "Dart at your foe and strike them with tremendous force, inflicting poison based on distance traveled. You constantly release <c=@abilitytype>Crimson Tide</c> toward your target as you travel.","Рывок к врагу и удар с огромной силой, накладывающий отравление в зависимости от пройденного расстояния. Вы постоянно выпускаете <c=@abilitytype>Багровый прилив</c> в сторону цели во время движения."
 "Dart at your foe, inflicting more bleeding based on the amount of time spent charging.","Рванитесь к противнику, накладывая кровотечение, сила которого зависит от времени зарядки."
 Dash,Рывок
 Dash Range,Дальность рывка
 Dash again.,Рванитесь снова.
-Dash at foes. Hold down to increase the length of the dash.,"Рванитесь к противникам. Удерживайте, чтобы увеличить дальность рывка."
-Dash at your foe with a wave of water.,Рванитесь к противнику с волной воды.
+Dash at foes. Hold down to increase the length of the dash.,"Броситься вперёд, оставив за собой след из энергии ветра, который вскоре после этого взрывается."
+Dash at your foe with a wave of water.,Окатить противника струей воды.
 "Dash at your foe, removing boons from them. Leave a phantasm at your initial location that will launch a spear at your target, dealing heavy damage and crippling targets. If your phantasm strikes a crippled target, immobilize them instead. If you have Clarity, summon an additional phantasm.","Рывок к врагу, снимая с него благословения. Оставьте фантома на исходной позиции, который запустит копьё в вашу цель, нанося большой урон и накладывая увечье. Если ваш фантом поражает цель с увечьем, вместо этого обездвиживает её. Если у вас есть Ясность, призовите дополнительного фантома."
-Dash forward with a rocket-charged hammer to damage enemies.,"Рванитесь вперед с молотом, заряженным ракетами, чтобы нанести урон врагам."
-"Dash forward, releasing dark energy on nearby targets. Damage enemies hit and heal per target hit with reduced healing beyond the first. This skill can be reactivated to dash again.","Рванитесь вперед, высвобождая темную энергию по ближайшим целям. Нанесите урон врагам и получите исцеление за каждую пораженную цель (эффективность исцеления снижается после первой цели). Этот навык можно активировать повторно для еще одного рывка."
-Dash in a direction and slightly recharge Abyssal Raze while leaving portals in your wake that detonate when foes walk over them.,"Рывок в направлении и небольшое восстановление Бездонного разрыва, оставляя за собой порталы, которые взрываются при прохождении врагов."
+Dash forward with a rocket-charged hammer to damage enemies.,"Рванитесь вперёд с молотом, заряженным ракетами, чтобы нанести урон врагам."
+"Dash forward, releasing dark energy on nearby targets. Damage enemies hit and heal per target hit with reduced healing beyond the first. This skill can be reactivated to dash again.","Рванитесь вперёд, высвобождая тёмную энергию по ближайшим целям. Нанесите урон врагам и получите исцеление за каждую пораженную цель (эффективность исцеления снижается после первой цели). Этот навык можно активировать повторно для ещё одного рывка."
+Dash in a direction and slightly recharge Abyssal Raze while leaving portals in your wake that detonate when foes walk over them.,"Броситься в выбранном направлении, слегка перезаряжая Бездонное разрушение и оставляя на своем пути порталы, которые взрываются, когда в них входят противники."
 "Dash in the direction you are facing, applying fear to foes at your end point. Grant barrier to your tethered ally and yourself based on the targets struck. Heal your tethered ally based on targets struck.","Рванитесь в направлении взгляда, накладывая страх на врагов в конечной точке. Дайте барьер себе и связанному союзнику в зависимости от количества пораженных целей. Исцелите связанного союзника в зависимости от количества пораженных целей."
 "Dash then fire a quick shot. If the shot hits, you can dash again for a short time.","Рванитесь, затем произведите быстрый выстрел. Если выстрел попал, вы можете совершить рывок снова в течение короткого времени."
 Dawn's Repose,Покой Рассвета
@@ -344,12 +344,12 @@ Daze per Blade,Ошеломление за клинок
 Daze target foe.,Ошеломите целевого противника.
 Daze vs. Skill Use,Ошеломление при использовании навыка
 "Daze your foe with a brutal pommel bash. If you strike a foe that is using a skill, gain barrier.","Ошеломите противника жестоким ударом рукоятью. Если вы поразите противника, использующего навык, получите барьер."
-Daze your foe with a head shot.,Ошеломите противника выстрелом в голову.
+Daze your foe with a head shot.,"Ошеломить противника, выстрелив ему в голову."
 "Daze your foe with a hilt bash. Stun them if you hit from behind or they are defiant, and refresh your <c=@abilitytype>Maul</c> skill.","Оглушите врага ударом гарды. Оглушите его, если атакуете со спины или он непокорен, и обновите навык <c=@abilitytype>Маул</c>."
-Daze your foe with an arrow. Stun them if you hit from behind or from the side or if your foe is defiant.,"Ошеломите противника стрелой. Оглушите его, если атакуете со спины, сбоку или если у противника есть стойкость."
+Daze your foe with an arrow. Stun them if you hit from behind or from the side or if your foe is defiant.,"Ошеломить противника своим выстрелом. Оглушить противника, если выстрел был сделан сзади или сбоку, или если у противника есть полоса сопротивления."
 Daze your foe.,Ошеломите противника.
 "Daze your target and gain life force and soul shards. If your target is using a skill, the daze duration is extended and you gain additional life force and soul shards. If you have a number of soul shards above the threshold when you activate this skill, your target is also immobilized.","Ошеломите цель и получите жизненную силу и осколки души. Если цель использует навык, длительность ошеломления увеличивается, а вы получаете дополнительную жизненную силу и осколки души. Если при активации этого навыка количество ваших осколков души выше порогового значения, цель также будет обездвижена."
-Daze your target and nearby foes.,Ошеломите цель и ближайших противников.
+Daze your target and nearby foes.,Ошеломить вашу цель и противников поблизости.
 Dazes enemies within a cone trajectory.,Ошеломляет врагов в конусной траектории.
 Dazes its target.,Ошеломляет цель.
 "Dazes your target. If your target is using a skill, the daze duration is extended.","Ошеломляет цель. Если цель использует навык, длительность ошеломления увеличивается."
@@ -369,13 +369,13 @@ Deadly Strike,Смертельный удар
 Deadly Venom,Смертельный яд
 Deadly attack focused on a single player. Multiple allies can take damage from this attack in order to prevent instant death.,"Смертельная атака, направленная на одного игрока. Несколько союзников могут принять урон от этой атаки, чтобы предотвратить мгновенную смерть."
 Deafening Drum,Оглушающий барабан
-Deafening Drum releases an additional quick wave after a delay.,Оглушающий барабан выпускает дополнительную быструю волну с задержкой.
-Deal a downward strike on your foe. Downed enemies struck with this ability are finished.,"Нанесите нисходящий удар по врагу. Сбитые с ног противники, пораженные этой способностью, добиваются."
-"Deal a heavy blow with your fist, sending enemies flying.","Нанесите тяжелый удар кулаком, отбрасывая врагов."
+Deafening Drum releases an additional quick wave after a delay.,"Оглушительный барабан выпускает дополнительную волну после короткой задержки. Вы наносите урон врагам, которых вывели из строя."
+Deal a downward strike on your foe. Downed enemies struck with this ability are finished.,"Нанести противнику добивающий удар. Если противник был повержен, этот удар убьёт его."
+"Deal a heavy blow with your fist, sending enemies flying.","Нанесите тяжёлый удар кулаком, отбрасывая врагов."
 Deal damage and inflict conditions based on your current attunements.,Наносит урон и накладывает состояния в зависимости от ваших текущих настроек стихий.
-Deal damage to nearby enemies with a temporal explosion.,Наносит урон ближайшим врагам временным взрывом.
-Deals a large amount of damage to enemies on the left.,Наносит большой урон врагам слева.
-"Deals damage and applies burning. If the Minister of Morale charges through a Flame Wall, her damage is increased.","Наносит урон и накладывает горение. Если Minister of Morale проходит сквозь Стену Огня, ее урон увеличивается."
+Deal damage to nearby enemies with a temporal explosion.,"К врагам, пораженным умением Time Sink, прикрепляются часовые бомбы. Часовые бомбы увеличивают наносимый вами прямой урон по цели и взрываются через некоторое время. Одновременно может быть активно только ограниченное число бомб."
+Deals a large amount of damage to enemies on the left.,"Даровать себе Устойчивость и отбросить противников поблизости, сильно топнув по земле. Даровать себе Устойчивость за каждого пораженного противника."
+"Deals damage and applies burning. If the Minister of Morale charges through a Flame Wall, her damage is increased.","Наносит урон и накладывает горение. Если Minister of Morale проходит сквозь Стену Огня, её урон увеличивается."
 Deals damage and applies chill and slow.,Наносит урон и накладывает охлаждение и замедление.
 Deals damage and applies knockback.,Наносит урон и отбрасывает.
 Deals damage and applies vulnerability.,Наносит урон и накладывает уязвимость.
@@ -391,16 +391,16 @@ Deals damage in a small radius.,Наносит урон в небольшом р
 "Deals damage in the target area, and creates a damaging field.",Наносит урон в целевой области и создает опасное поле.
 Deals damage repeatedly.,Наносит урон периодически.
 Deals damage to all foes around it and applies fractured. Fractured increases damage taken by 50% per stack. Hits twice per spin.,Наносит урон всем врагам вокруг и накладывает перелом. Перелом увеличивает получаемый урон на 50% за стак. Поражает дважды за вращение.
-Deals damage to all foes outside of the platform section who are targeted by Pulverize.,"Наносит урон всем врагам вне секции платформы, которые являются целью Pulverize."
+Deals damage to all foes outside of the platform section who are targeted by Pulverize.,"Ударить булавой по земле, нанося урон вашей цели и вызывая шоковую волну, которая наносит урон и сбивает противников с ног. Перезарядить Сокрушающий взмах, если вы поразили противника."
 Deals damage to enemies. Damage is higher at the center of the tornado.,Наносит урон врагам. Урон выше в центре торнадо.
 Deals damage to foes and causes targets to drop all stacks of Conjured Power.,Наносит урон врагам и заставляет цели сбросить все стаки Conjured Power.
 Deals damage to foes in its path.,Наносит урон врагам на своем пути.
 "Deals damage, knocks back foes, and applies burning.","Наносит урон, отбрасывает врагов и накладывает горение."
 Deals damage.,Наносит урон.
-Deals fatal damage to all foes.,Наносит смертельный урон всем врагам.
+Deals fatal damage to all foes.,Сокрушительно ударить по земле и нанести урон противникам поблизости.
 Deals fatal damage to foes.,Наносит смертельный урон врагам.
 "Deals increased damage, applies a stack of fractured, and destroys a stack of Conjured Barrier for each stack of Conjured Greatsword power.","Наносит увеличенный урон, накладывает стак перелома и уничтожает стак Conjured Barrier за каждый стак силы Conjured Greatsword."
-Deals incredible damage and knocks down foes in the targeted section of the platform.,Наносит невероятный урон и сбивает врагов с ног в целевой секции платформы.
+Deals incredible damage and knocks down foes in the targeted section of the platform.,"Сокрушить вашего противника, оставив его ослабленным."
 "Deals percentage health damage, increasing with each additional Void Empowerment stack.","Наносит процентный урон от здоровья, увеличивающийся с каждым дополнительным стаком Void Empowerment."
 Deals periodic damage to all enemies in range.,Наносит периодический урон всем врагам в радиусе действия.
 Death Bloom,Смертельный расцвет
@@ -445,7 +445,7 @@ Decima performs a series of stomp attacks to pulverize her puny opponents.,"Deci
 Decima periodically links two conduits together with a tether of arcane flux. Enemies entering the beam are damaged and pushed out. Enemies that are shoved into the beam by Decima's attacks are ejected at high speed.,"Decima периодически соединяет два проводника вместе с помощью привязи магического потока. Враги, входящие в луч, получают урон и выталкиваются. Враги, которых атаки Decima вталкивают в луч, выбрасываются с высокой скоростью."
 "Decima slams an orb of arcane flux into the ground, causing a cascade of ruptures to form around her. The ground heaves with enough force to shatter bones and cripple her enemies.","Decima ударяет сферой магического потока о землю, вызывая каскад разломов вокруг себя. Земля содрогается с силой, достаточной, чтобы сокрушить кости и искалечить её врагов."
 "Decima slams down, causing the immediate vicinity to erupt with jagged rocks and pyrite. The tremendous force sends enemies sliding away. Dodge rolling will end the slide prematurely. Deals increased damge to close targets.","Decima обрушивается вниз, вызывая извержение зазубренных камней и пирита в непосредственной близости. Огромная сила заставляет врагов скользить прочь. Перекат завершит скольжение преждевременно. Наносит увеличенный урон близким целям."
-Decima targets a conduit with a focused fluxlance attack. The beam charges the targeted conduit unless the indicated number of players stand in the beam to absorb it.,"Decima выбирает проводник целью для сфокусированной атаки флюкс-копьем. Луч заряжает выбранный проводник, если только указанное количество игроков не встанет на пути луча, чтобы поглотить его."
+Decima targets a conduit with a focused fluxlance attack. The beam charges the targeted conduit unless the indicated number of players stand in the beam to absorb it.,"Decima выбирает проводник целью для сфокусированной атаки флюкс-копьём. Луч заряжает выбранный проводник, если только указанное количество игроков не встанет на пути луча, чтобы поглотить его."
 "Decima targets a number of conduits with bolts of Harmonious Thunder, granting them each some charge.","Decima выбирает несколько проводников в качестве целей для разрядов «Гармоничного грома», даруя каждому из них заряд."
 Decima will periodically consume stacks of this effect to target a number of nearby enemies with Chorus of Thunder.,"Decima будет периодически поглощать заряды этого эффекта, чтобы поразить нескольких ближайших врагов с помощью Chorus of Thunder."
 Decima will periodically consumes stacks of this effect to target a number of conduits with Chorus of Thunder.,"Decima будет периодически поглощать заряды этого эффекта, чтобы поразить несколько проводников с помощью Chorus of Thunder."
@@ -470,28 +470,28 @@ Defy Pain,Игнорирование боли
 Deimos creates deadly zones around the room that can periodically be consumed.,"Deimos создает смертоносные зоны вокруг комнаты, которые могут периодически поглощаться."
 "Deimos decomposes the ground beneath a target. For each target hit, the affected area rapidly increases in size.",Deimos разлагает землю под целью. Для каждой пораженной цели затронутая область быстро увеличивается в размерах.
 "Deimos pulses energy every 3 seconds, damaging all foes in range.","Deimos пульсирует энергией каждые 3 секунды, нанося урон всем врагам в радиусе действия."
-"Deimos slams its fists, creating a massive shockwave.","Deimos бьет кулаками, создавая мощную ударную волну."
+"Deimos slams its fists, creating a massive shockwave.","Deimos бьёт кулаками, создавая мощную ударную волну."
 "Deimos smashes the ground, knocking back players.","Deimos разбивает землю, отбрасывая игроков."
 "Deimos unleashes Saul's sins, creating devastating damage. Cannot be evaded or mitigated with invulnerability.","Deimos высвобождает грехи Saul, создавая разрушительный урон. Нельзя уклониться или смягчить неуязвимостью."
-Deimos's basic attack.,Базовая атака Deimos.
+Deimos's basic attack.,Нанести вашей цели дробящий удар мощным взмахом булавы и вызвать у цели замешательство.
 Deja Vu,Дежавю
 Delay,Задержка
 Delay Time,Время задержки
 Delayed Damage,Отложенный урон
 Delayed Healing,Отложенное исцеление
-Deliver a blow to your foe. Your pet gains might for each foe struck.,Нанесите удар по врагу. Ваш питомец получает могущество за каждого пораженного врага.
-Deliver a crushing blow that sends toxic energy chaining to enemies behind each target.,"Нанесите сокрушительный удар, который посылает токсичную энергию, цепью поражающую врагов за каждой целью."
-Deliver a final poisonous attack.,Нанесите финальную ядовитую атаку.
+Deliver a blow to your foe. Your pet gains might for each foe struck.,Нанести сильный удар противнику. Вашему питомцу будет дарована Мощь за каждого пораженного противника.
+Deliver a crushing blow that sends toxic energy chaining to enemies behind each target.,"Нанести сокрушающий удар, который высылает волну токсичной энергии по цепочке врагов за каждой целью."
+Deliver a final poisonous attack.,Провести завершающую отравляющую атаку.
 "Deliver a finishing thrust, breaking your opponent's mind and inflicting weakness.","Нанесите завершающий выпад, ломая разум противника и накладывая слабость."
 "Deliver a leaping strike that deals more damage to disabled, defiant, or movement-impaired foes. Gain vigor if an enemy is struck.","Нанесите прыжковый удар, который наносит больше урона обездвиженным, непокорным или замедленным врагам. Получите энергичность, если враг поражен."
-Deliver a powerful overhand strike to stun a single target. Deals more damage the lower health the target is. Leaves behind a field of ice.,"Нанесите мощный удар сверху, чтобы оглушить одну цель. Наносит больше урона, чем ниже здоровье цели. Оставляет после себя ледяное поле."
+Deliver a powerful overhand strike to stun a single target. Deals more damage the lower health the target is. Leaves behind a field of ice.,"Нанести мощный удар с размаха, оглушающий единичную цель. Чем меньше здоровья у цели, тем больше будет урон. Оставить позади поле льда."
 "Deliver a quick burst of fire that pierces targets, followed by an explosive grenade.","Нанесите быструю очередь огня, которая пронзает цели, за которой следует взрывная граната."
-Deliver a second devastating blow.,Нанесите второй разрушительный удар.
-Deliver a second strike that heals yourself for each target it hits.,"Нанесите второй удар, который исцеляет вас за каждую пораженную цель."
+Deliver a second devastating blow.,"Сделать Призрачный Шаг к противнику и провести быструю атаку, а при попадании нанести повторный сокрушительный удар."
+Deliver a second strike that heals yourself for each target it hits.,"Нанести второй удар, который исцеляет вас за каждую пораженную цель."
 "Deliver a second strike, gaining swiftness.","Нанесите второй удар, получая быстроту."
 "Deliver multiple strikes, weakening foes.","Нанесите несколько ударов, ослабляя врагов."
 "Deliver the final attack, calling lightning strikes onto enemies.","Нанесите финальную атаку, призывая удары молнии на врагов."
-Deliver three final chops to your foe.,Нанесите три финальных рубящих удара по врагу.
+Deliver three final chops to your foe.,В завершение атаки трижды рубануть по противнику.
 Deluge,Потоп
 Demonic Aura,Демоническая аура
 Demonic Blast,Демонический взрыв

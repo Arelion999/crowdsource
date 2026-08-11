@@ -389,8 +389,8 @@ Amoxtli,Амоштли,pn_names,3,0.88,транслитерация
 Infinite Continue Coin,Бесконечная монета продолжения,pn_names,3,0.22,составное название
 Kodan Guard,Страж кодана,pn_names,3,0.52,составное название
 Heavy Armor,Тяжёлая броня,pn_names,3,0.30,составное название
-Light Armor,Легкая броня,pn_names,3,0.33,составное название
-Black Lion Chest,Сундук Черного Льва,pn_names,3,0.24,составное название
+Light Armor,Лёгкая броня,pn_names,3,0.33,составное название
+Black Lion Chest,Сундук Чёрного Льва,pn_names,3,0.24,составное название
 Medium Armor,Средняя броня,pn_names,3,0.29,составное название
 Norrag,Норраг,pn_names,2,1.00,транслитерация
 Tiny Sharpening Stone,Крошечный точильный камень,pn_names,2,0.29,составное название
@@ -628,7 +628,7 @@ Winter's Solace,Зимнее утешение,pn_names,2,0.40,составное
 Alli,Алли,pn_names,2,1.00,транслитерация
 Xann,Ксанн,pn_names,2,1.00,транслитерация
 The Only Way,Единственный путь,pn_names,2,0.37,составное название
-Riding Broom,Метла для полетов,pn_names,2,0.14,составное название
+Riding Broom,Метла для полётов,pn_names,2,0.14,составное название
 Magic Carpet,Волшебный ковер,pn_names,2,0.29,составное название
 Account Bump,Повышение учётной записи,pn_names,2,0.11,составное название
 Merchant Express,Торговый экспресс,pn_names,2,0.59,составное название
@@ -687,7 +687,7 @@ Ravenswood Branch,Ветвь вороньего леса,pn_names,1,0.29,сос�
 Crash Site,Место крушения,pn_names,1,0.38,составное название
 Best Wishes,С наилучшими пожеланиями,pn_names,1,0.32,составное название
 Daily Portal Closer,Ежедневный закрыватель порталов,pn_names,1,0.49,составное название
-Dark Harvest,Темная жатва,pn_names,1,0.32,составное название
+Dark Harvest,Тёмная жатва,pn_names,1,0.32,составное название
 Astral Footprints,Астральные следы,pn_names,1,0.52,составное название
 Party Commander,Коммандир вечеринки,pn_names,1,0.51,составное название
 Dragon Bash Feats,Подвиги Праздника драконов,pn_names,1,0.23,составное название
@@ -761,7 +761,7 @@ Springer,Спрингер,pn_names,1,1.00,транслитерация
 Dugan,Дуган,pn_names,1,1.00,транслитерация
 Chak Driver,Погонщик чаков,pn_names,1,0.37,составное название
 The Nightmares Within,Кошмары внутри,pn_names,1,0.36,составное название
-Dark Reverie,Темная греза,pn_names,1,0.32,составное название
+Dark Reverie,Тёмная греза,pn_names,1,0.32,составное название
 Druid Stone,Камень друида,pn_names,1,0.43,составное название
 Prima Donna,Примадонна,pn_names,1,0.95,транслитерация
 Hullgardener Styrmir,Трюмный садовник Стирмир,pn_names,1,0.55,составное название
@@ -790,7 +790,7 @@ Chak Gerent,Герент чаков,pn_names,1,0.50,составное назв�
 Special Ops Chestpiece,Нагрудник спецназа,pn_names,1,0.20,составное название
 The Hunt Begins,Охота начинается,pn_names,1,0.38,составное название
 Twisted Coil,Изогнутая катушка,pn_names,1,0.19,составное название
-Pale Branch Spear,Копье Бледной Ветви,pn_names,1,0.40,составное название
+Pale Branch Spear,Копьё Бледной Ветви,pn_names,1,0.40,составное название
 Glint's Bastion,Бастион Глинта,pn_names,1,0.50,составное название
 The Warclaw,Боевой грифон,pn_names,1,0.26,составное название
 Infinite Shield Generator,Бесконечный генератор щита,pn_names,1,0.53,составное название
@@ -1039,7 +1039,7 @@ Northern Shiverpeaks,Северные Острозубые пики,pn_names,1,0
 Gunnhilda,Гуннхильда,pn_names,1,1.00,транслитерация
 Mad Mardine,Безумная Мардин,pn_names,1,0.67,составное название
 Dragon's Lair,Логово дракона,pn_names,1,0.38,составное название
-Black Lion Keys,Ключи Черного Льва,pn_names,1,0.18,составное название
+Black Lion Keys,Ключи Чёрного Льва,pn_names,1,0.18,составное название
 Elder Suvi,Старейшина Суви,pn_names,1,0.46,составное название
 Skelk,Скелк,pn_names,1,1.00,транслитерация
 Suspicious Salvage Specialist,Подозрительный специалист по утилизации,pn_names,1,0.38,составное название
@@ -1120,7 +1120,7 @@ Tiga Fierceblade,Тига Яростный Клинок,pn_names,1,0.43,сост
 Lionguard Cern,Львиный Страж Церн,pn_names,1,0.50,составное название
 Bronson,Бронсон,pn_names,1,1.00,транслитерация
 Corporal Rhea Shinde,Капрал Рея Шинде,pn_names,1,0.84,транслитерация
-Aidem Finlay,Айдем Финлей,pn_names,1,0.92,транслитерация
+Aidem Finlay,Айдём Финлей,pn_names,1,0.92,транслитерация
 Bryn Tailor,Портной Брин,pn_names,1,0.35,составное название
 Lionguard Nadel,Львиный страж Надель,pn_names,1,0.61,составное название
 Peacemaker Klodi,Миротворец Клоди,pn_names,1,0.42,составное название
@@ -1144,7 +1144,7 @@ Blopp,Блопп,pn_names,1,1.00,транслитерация
 Vigil Crusader Rugan,Крестоносец Дозора Руган,pn_names,1,0.44,составное название
 Kona Timberrend,Кона Тимберренд,pn_names,1,1.00,транслитерация
 Mei Hawkslayer,Мэй Ястребница,pn_names,1,0.53,составное название
-Stout Darkmind,Крепкий Темный Разум,pn_names,1,0.18,составное название
+Stout Darkmind,Крепкий Тёмный Разум,pn_names,1,0.18,составное название
 Stonecrafter Helena,Камнедел Елена,pn_names,1,0.55,составное название
 Agent Rjoda,Агент Рьода,pn_names,1,0.95,транслитерация
 Guard Barnaby,Стражник Барнаби,pn_names,1,0.62,составное название
@@ -1165,11 +1165,11 @@ Lionguard Micah,Львиный страж Мика,pn_names,1,0.56,состав�
 Deliah,Делия,pn_names,1,0.83,транслитерация
 Lasha,Лаша,pn_names,1,1.00,транслитерация
 Terrestrial Cryoflash,Наземная криовспышка,pn_names,1,0.42,составное название
-Dark Path,Темный путь,pn_names,1,0.33,составное название
+Dark Path,Тёмный путь,pn_names,1,0.33,составное название
 Harmonic Sensitivity,Гармоничная чувствительность,pn_names,1,0.49,составное название
 Conjured Barrier,Призванный барьер,pn_names,1,0.44,составное название
 Conjured Greatsword,Сотворённый двуручный меч,pn_names,1,0.26,составное название
-Dark Pursuit,Темное преследование,pn_names,1,0.31,составное название
+Dark Pursuit,Тёмное преследование,pn_names,1,0.31,составное название
 Life Blast,Взрыв жизни,pn_names,1,0.19,составное название
 Caustic Chaos,Едкий хаос,pn_names,1,0.61,составное название
 Junk Torrent,Поток хлама,pn_names,1,0.17,составное название
@@ -1246,7 +1246,7 @@ Meliore,Мелиора,pn_names,1,0.86,транслитерация
 Raven Hall,Вороний зал,pn_names,1,0.48,составное название
 Danador,Данадор,pn_names,1,1.00,транслитерация
 Continue Coin,Монета продолжения,pn_names,1,0.25,составное название
-Dark Pact,Темный пакт,pn_names,1,0.50,составное название
+Dark Pact,Тёмный пакт,pn_names,1,0.50,составное название
 Fycros Venomweeper,Файкрос Ядоплач,pn_names,1,0.53,составное название
 Forged Tormentor,Кованый истязатель,pn_names,1,0.12,составное название
 Warmaster Narru,Вармастер Нарру,pn_names,1,1.00,транслитерация

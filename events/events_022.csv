@@ -25,7 +25,7 @@ Support Commander Batista's offensive against the Separatists,Поддержит
 "Sure, I'll lend a hand.","Конечно, я помогу."
 Suriving Wurms alive: x,Выживших червей: x
 "Surprise! You're dead, you scabby humps! (laugh). We'll stay behind to keep the explosives out of rotting hands.","Сюрприз! Вы трупы, паршивые горбуны! (смеется). Мы останемся здесь, чтобы взрывчатка не попала в гниющие руки."
-"Surprised you haven't given up already, but you're still not finished. Power through it!","Удивлен, что вы еще не сдались, но вы все еще не закончили. Соберитесь с силами!"
+"Surprised you haven't given up already, but you're still not finished. Power through it!","Удивлен, что вы ещё не сдались, но вы все ещё не закончили. Соберитесь с силами!"
 Surround it! Don't let up.,Окружайте! Не отступать!
 Surround me on all sides so no angle can be penetrated.,"Окружите меня со всех сторон, чтобы ни один угол не был уязвим."
 Survey: Into the Valley of Agony,Обзор: В Долину Агонии
@@ -87,14 +87,14 @@ TIER 1: Stop the agitated invaders from entering the rift to draw out the cause,
 TIER 2: Defeat the agitated invaders to lure out the root cause of the rift,"УРОВЕНЬ 2: Победи взбешенных захватчиков, чтобы выманить истинную причину разлома"
 TIER 2: Halt Kryptis rift invaders to draw out their leader.,"УРОВЕНЬ 2: Остановите вторженцев из разлома Криптис, чтобы выманить их лидера."
 TIER 2: Hunt titanspawn to lure out their leader,"УРОВЕНЬ 2: Охотьтесь на порождений титанов, чтобы выманить их лидера"
-TIER 2: Lure out the rift target and defeat it,УРОВЕНЬ 2: Выманите цель разлома и победите ее
-TIER 2: Lure out the rift target and defeat it (Castora),УРОВЕНЬ 2: Выманите цель разлома и победите ее (Castora)
-TIER 2: Lure out the rift target and defeat it (titanspawn),УРОВЕНЬ 2: Выманите цель разлома и победите ее (порождение титанов)
+TIER 2: Lure out the rift target and defeat it,УРОВЕНЬ 2: Выманите цель разлома и победите её
+TIER 2: Lure out the rift target and defeat it (Castora),УРОВЕНЬ 2: Выманите цель разлома и победите её (Castora)
+TIER 2: Lure out the rift target and defeat it (titanspawn),УРОВЕНЬ 2: Выманите цель разлома и победите её (порождение титанов)
 TIER 3: Defeat the agitated invaders to lure out the root cause of the rift,"УРОВЕНЬ 3: Победите разъяренных захватчиков, чтобы выманить первопричину разлома"
 TIER 3: Halt Kryptis rift invaders to draw out their leader.,"УРОВЕНЬ 3: Остановите вторженцев из разлома Криптис, чтобы выманить их лидера."
 TIER 3: Hunt kryptis to lure out their leader,"УРОВЕНЬ 3: Охотьтесь на Криптис, чтобы выманить их лидера"
 TIER 3: Hunt titanspawn to lure out their leader.,"УРОВЕНЬ 3: Охотьтесь на порождений титанов, чтобы выманить их лидера."
-TIER 3: Lure out the rift target and defeat it,УРОВЕНЬ 3: Выманите цель разлома и победите ее
+TIER 3: Lure out the rift target and defeat it,УРОВЕНЬ 3: Выманите цель разлома и победите её
 TIER 3: Lure out the rift target and defeat it (Castora),УРОВЕНЬ 3: Выманите цель разлома и победите её (Castora)
 TIER 3: Lure out the rift target and defeat it (titanspawn),УРОВЕНЬ 3: Выманите цель разлома и победите её (titanspawn)
 Taccius Stormbane waves at %str1%.,Taccius Stormbane машет %str1%.
@@ -179,7 +179,7 @@ Talk to the race organizer to sign up for the race. Remain in the starting area 
 Talk to the scout when you're ready to start.,"Поговори со скаутом, когда будешь готов начать."
 Talk with Rebel Keyon,Поговорить с повстанцем Keyon
 Talked to one of the guards earlier. Still no word on MinSec's travel restrictions being lifted.,Ранее говорил с одним из стражников. До сих пор нет новостей о снятии ограничений на передвижение от MinSec.
-Tallying votes in: 3:00,Подсчет голосов через: 3:00
+Tallying votes in: 3:00,Подсчёт голосов через: 3:00
 Talooboo's Shark,Акула Talooboo
 Tamini morale: %num1%%%,Боевой дух Тамини: %num1%%%
 Tamini centaurs morale: x%,Боевой дух кентавров Tamini: x%
@@ -204,7 +204,7 @@ Tear down the statue of Palawa Joko,Разрушьте статую Palawa Joko
 Tech Master,Технический мастер
 Technical Liaison Eng,Технический связной Eng
 Technicians working,Работающие техники
-Tell me again what the note said?,"Скажи мне еще раз, что было в записке?"
+Tell me again what the note said?,"Скажи мне ещё раз, что было в записке?"
 Temple Entrance,Вход в храм
 Temple Footpath,Тропа к храму
 Temple Interior,Внутренняя часть храма
@@ -220,20 +220,20 @@ Tendril Strength,Сила щупалец
 Tendrils of Nourys Remaining,Осталось усиков Nourys
 Tendrils of Nourys deplete magic in: 8:00,Усики Nourys поглотят магию через: 8:00
 Tendrils remaining: x,Осталось усиков: x
-Tengu contestant score: %num1%,Счет участника Тенгу: %num1%
+Tengu contestant score: %num1%,Счёт участника Тенгу: %num1%
 Tenrat,Tenrat
 "Tentacles of Nourys, the Eyes of the Abyss","Щупальца Nourys, Очи Бездны"
 Tents constructed,Палаток построено
 Tents remaining: 5,Осталось палаток: 5
 Terminals sabotaged,Терминалов саботировано
 Termite attack strength: %num1%%%,
-"Terrific. More zealots spoiling the lake. Bane, go find us some assistance. You two, follow me.","Потрясающе. Еще больше фанатиков портят озеро. Bane, иди найди нам помощь. Вы двое, за мной."
+"Terrific. More zealots spoiling the lake. Bane, go find us some assistance. You two, follow me.","Потрясающе. Ещё больше фанатиков портят озеро. Bane, иди найди нам помощь. Вы двое, за мной."
 Terrified Villager,Испуганный житель
 Tertiary Svanir Ballista,Третичная баллиста Svanir
 Test flight begins in: x:xx,Тест-полёт начнётся через: x:xx
 Test the ley reflectors,Протестируйте лей-отражатели
 Tests completed,Тестов завершено
-Thank Dwayna you've arrived.,"Слава Dwayna, ты пришел."
+Thank Dwayna you've arrived.,"Слава Dwayna, ты пришёл."
 Thank Joko. And general. And commander.,Спасибо Joko. И генералу. И Коммандир!.
 "Thank the Spirits, my moot is saved! Resume drinking.","Слава Духам, мой мут спасен! Продолжаем пить."
 Thank you for coming. Have you tried the dragon rolls? They're something else.,"Спасибо, что пришли. Вы пробовали роллы с драконом? Они просто нечто."
@@ -241,7 +241,7 @@ Thank you for coming. Have you tried the dragon rolls? They're something else.,"
 "Thank you for indulging an old man. And now that I've warmed up, I'd like to request one last favor.","Спасибо, что уделили время старику. А теперь, когда я размялся, хочу попросить об одной последней услуге."
 Thank you for protecting the hatchlings.,"Спасибо, что защитили малышей."
 "Thank you for the praise, though I hardly feel I deserve it.","Благодарю за похвалу, хотя я едва ли её заслуживаю."
-"Thank you for your help. My burden isn't lifted yet, but it's nice to not bear it alone.","Спасибо за помощь. Моя ноша еще не стала легче, но приятно не нести ее в одиночку."
+"Thank you for your help. My burden isn't lifted yet, but it's nice to not bear it alone.","Спасибо за помощь. Моя ноша ещё не стала легче, но приятно не нести её в одиночку."
 Thank you! Bloodsaw Mill is directly east of here. Go now!,Спасибо! Лесопилка Bloodsaw прямо к востоку отсюда. Ступайте!
 "Thank you, Father. I'll do that. You've always taught me that age is irrelevant.","Спасибо, отец. Я так и сделаю. Ты всегда учил меня, что возраст не имеет значения."
 "Thank you, foreigner. your timing was eerily convenient, but much appreciated.","Спасибо, чужеземец. Твое появление было пугающе своевременным, но я очень признателен."
@@ -250,11 +250,11 @@ Thank you! Bloodsaw Mill is directly east of here. Go now!,Спасибо! Ле�
 Thank you. Head north to Watchful Fjord. You'll be able to locate the castaways from there. Please hurry.,"Спасибо. Направляйтесь на север к Watchful Fjord. Оттуда вы сможете найти потерпевших. Пожалуйста, поторопитесь."
 Thank you. It's good to see that not all outsiders mean us harm.,"Спасибо. Приятно видеть, что не все чужаки желают нам зла."
 Thank you. The survivors may be injured and in need of aid. Others may be under attack by icebrood even now. Your help is appreciated.,Спасибо. Выжившие могут быть ранены и нуждаться в помощи. Другие могут быть под атакой icebrood даже сейчас. Ваша помощь ценится.
-"Thanks again for the help, Commander. I can look after myself from here.","Еще раз спасибо за помощь, Коммандир. Дальше я справлюсь сам."
+"Thanks again for the help, Commander. I can look after myself from here.","Ещё раз спасибо за помощь, Коммандир. Дальше я справлюсь сам."
 "Thanks for bringing the herd this far, old man. We'll take 'em from here.","Спасибо, что пригнал стадо так далеко, старик. Дальше мы сами."
 Thanks for keeping them off us so we could do our job.,"Спасибо, что отгоняли их от нас, пока мы делали свою работу."
 Thanks for not making me wait out here forever—my heart's just not in it anymore.,"Спасибо, что не заставили меня ждать здесь вечность — у меня уже нет на это сил."
-Thanks for the donation! Promise it'll be put to good use! (snickers),"Спасибо за пожертвование! Обещаю, оно пойдет на пользу! (хихикает)"
+Thanks for the donation! Promise it'll be put to good use! (snickers),"Спасибо за пожертвование! Обещаю, оно пойдёт на пользу! (хихикает)"
 Thanks for the help back there. Sometimes I think I'd be safer out on the battlefield dealing with ghosts than back here working with these contraptions.,"Спасибо за помощь там. Иногда я думаю, что в безопасности на поле боя, сражаясь с призраками, чем здесь, работая с этими механизмами."
 Thanks for the help.,Спасибо за помощь.
 Thanks for the help. Good to have someone around here with some sense.,"Спасибо за помощь. Хорошо, когда рядом есть кто-то здравомыслящий."
@@ -263,7 +263,7 @@ Thanks for the help. The path should be clear.,Спасибо за помощь.
 Thanks for the metal!,Спасибо за металл!
 "Thanks for the offer, but I'm no traveler. Take care of your people, friend.","Спасибо за предложение, но я не путешественник. Береги своих людей, друг."
 Thanks for your help. I was beginning to think the Forged were going to be the end of us.,"Спасибо за помощь. Я уж думал, Кованые станут нашим концом."
-"Thanks! This'll sure turn some heads back home. If you come across more, bring them to me as soon as you can.","Спасибо! Это точно заставит всех обернуться, когда я вернусь домой. Если найдешь еще, приноси их мне как можно скорее."
+"Thanks! This'll sure turn some heads back home. If you come across more, bring them to me as soon as you can.","Спасибо! Это точно заставит всех обернуться, когда я вернусь домой. Если найдёшь ещё, приноси их мне как можно скорее."
 Thanks. I owe you one.,Спасибо. Я у тебя в долгу.
 Thanks. I'm so grateful.,Спасибо. Я так благодарен.
 Thanks. Just thanks.,Спасибо. Просто спасибо.
@@ -280,8 +280,8 @@ That doesn't look like an average chak. We'll definitely need to keep that one c
 "That formation is used in service of a vastly superior ally. Like me, for example.","Это построение используется на службе у куда более могущественного союзника. Например, у меня."
 "That got their attention, We've got incoming.",Это привлекло их внимание. К нам идут.
 That hurt! Nicely donw.,Это было больно! Хорошо сработано.
-That is exactly what I'm looking for. Thank you. Please return if you find more like this.,"Это именно то, что я искал. Спасибо. Пожалуйста, вернись, если найдешь что-то подобное."
-"That is quite a weight to carry. But Elona calls, and my family has a long history of answering that call.","Это тяжелая ноша. Но Элона зовет, и у моей семьи долгая история ответов на этот зов."
+That is exactly what I'm looking for. Thank you. Please return if you find more like this.,"Это именно то, что я искал. Спасибо. Пожалуйста, вернись, если найдёшь что-то подобное."
+"That is quite a weight to carry. But Elona calls, and my family has a long history of answering that call.","Это тяжёлая ноша. Но Элона зовет, и у моей семьи долгая история ответов на этот зов."
 That is the alarm at the Forgotten City. It's under attack. We must mount a response.,Это сигнал тревоги в Забытом городе. Он под атакой. Мы должны организовать ответный удар.
 "That ley energy is decaying at a rapid rate. Gather it promptly. And please, don't drop it.","Энергия лей-линий быстро распадается. Соберите её немедленно. И, пожалуйста, не уроните."
 That magic is the source of the illusions. Disperse it!,Эта магия — источник иллюзий. Развей её!
@@ -292,10 +292,10 @@ That our dearest departed be granted your eternal gift.,Да будет даро
 That radio might need a fresh tuning.,Этому радио может потребоваться новая настройка.
 That seemed...easier.,Это было... проще.
 That should be a sufficient quantity.,Этого количества должно хватить.
-"That should be all the supplies they took, but no need to cut short the hunt. I can stay out a little while longer.","Это должны быть все припасы, которые они забрали, но нет нужды прерывать охоту. Я могу остаться еще ненадолго."
+"That should be all the supplies they took, but no need to cut short the hunt. I can stay out a little while longer.","Это должны быть все припасы, которые они забрали, но нет нужды прерывать охоту. Я могу остаться ещё ненадолго."
 That should do it! My lab equipment's all fixed.,Вот и всё! Мое лабораторное оборудование полностью исправно.
 That should do it. Return to camp to witness the spectacle!,"Этого должно хватить. Возвращайся в лагерь, чтобы увидеть это зрелище!"
-That should do it. This will make my golem fly! And they said I was crazy! Bwa-ha!,Этого должно хватить. Мой голем полетит! А они еще называли меня сумасшедшим! Бва-ха!
+That should do it. This will make my golem fly! And they said I was crazy! Bwa-ha!,Этого должно хватить. Мой голем полетит! А они ещё называли меня сумасшедшим! Бва-ха!
 That smells like it's been dead for weeks. Disgusting. Start over.,"Пахнет так, будто оно протухло несколько недель назад. Отвратительно. Начни сначала."
 That sounds like our target. Time to track him down.,"Похоже, это наша цель. Пора выследить его."
 That thing is starting to make my fur stand on end.,Эта штука начинает заставлять мою шерсть вставать дыбом.
@@ -310,7 +310,7 @@ That'll teach you to mess with the superior intelligence of the Pact!,Это н�
 That's a Pact camp ahead. It's under attack!,Впереди лагерь Pact. Он под атакой!
 That's a problem. Put it down!,Это проблема. Уничтожь его!
 That's a shame. I hate to waste ammunition.,Какая жалость. Ненавижу тратить боеприпасы впустую.
-"That's about all the artifacts I can handle for now, but I can wait a bit longer to see what else turns up.","Это пока все артефакты, с которыми я могу справиться, но я могу подождать еще немного, чтобы увидеть, что еще найдется."
+"That's about all the artifacts I can handle for now, but I can wait a bit longer to see what else turns up.","Это пока все артефакты, с которыми я могу справиться, но я могу подождать ещё немного, чтобы увидеть, что ещё найдётся."
 That's all I can manage in this corrupted soil. Zhaitan is a plague on us all.,"Это всё, что я могу сделать в этой зараженной почве. Zhaitan — это чума для всех нас."
 That's all the urchins! All of them! Quaggans can return home!,Это все ежи! Все до единого! Квагганы могут вернуться домой!
 That's an unsatisfying answer. What do you know that I don't?,"Неудовлетворительный ответ. Что вы знаете такого, чего не знаю я?"
@@ -318,7 +318,7 @@ That's becoming something of a trend.,Это становится своего �
 That's better. Let's see the Branded get past that. Ha!,"Так-то лучше. Посмотрим, как Клейменные пройдут через это. Ха!"
 "That's certainly a unique interpretation of the word ""line"".","Это, безусловно, уникальная интерпретация слова «линия»."
 "That's done. Still, I'd boil that water before drinking it.","Готово. И всё же, я бы прокипятил эту воду, прежде чем пить."
-"That's enough relics. But if you find more, we'll still take them while we're boxing everything up.","Реликвий достаточно. Но если найдешь еще, мы примем их, пока упаковываем всё остальное."
+"That's enough relics. But if you find more, we'll still take them while we're boxing everything up.","Реликвий достаточно. Но если найдёшь ещё, мы примем их, пока упаковываем всё остальное."
 That's enough rotten dolyak to make Kormir weep. Or lure out a—,"Этого тухлого мяса дольяка хватит, чтобы заставить Kormir плакать. Или выманить..."
 That's enough scouting for today. Let's head back.,На сегодня разведки достаточно. Давайте возвращаться.
 "That's enough to get this thing functional. Bring me whatever else you can find and I can reinforce it, but I'm getting started on this artillery now.","Этого достаточно, чтобы заставить штуковину работать. Приносите всё, что ещё найдёте, я смогу её усилить, но я уже начинаю работу над артиллерией."
@@ -326,7 +326,7 @@ That's half of them. We'd better hurry before they start gathering in force.,"Э
 "That's how it's done. General Ranai would be proud. You ever meet Ranai, Eng?","Вот как это делается. General Ranai гордился бы. Ты когда-нибудь встречал Ranai, Eng?"
 "That's how it's done. Well done, everyone.","Вот так это делается. Отличная работа, все."
 That's it for me. Time to head in.,На сегодня с меня хватит. Пора возвращаться.
-That's it! Go after her tail again.,Вот так! Снова атакуй ее хвост.
+That's it! Go after her tail again.,Вот так! Снова атакуй её хвост.
 That's it! Soon Ascalon City will be back in charr paws.,Вот так! Скоро Ascalon City снова окажется в лапах чарр.
 "That's it, everyone. Back to the ship. Resume firing on the beach!","Вот так, все. Назад на корабль. Возобновить огонь по пляжу!"
 "That's it. Keep up the pressure, Wayfinder!","Вот так. Продолжай давить, Проводник!"
@@ -343,10 +343,10 @@ That's much better. Thank you from the bottom of quaggan's heart.,Так гор�
 "That's right, get of out ofout of here you cowards! And this time stay out!","Вот так, убирайтесь отсюда, трусы! И в этот раз не возвращайтесь!"
 "That's right, run away! Come back again and I'll make you history.","Правильно, бегите! Вернетесь снова, и я превращу вас в историю."
 "That's right, soldier. This is Steeleye. We'll always turn them back.","Всё верно, солдат. Это Steeleye. Мы всегда дадим им отпор."
-That's right. Onward to the Stone of Hazaan. They're going to be surprised to see us.,"Верно. Вперед к Камню Hazaan. Они удивятся, увидев нас."
+That's right. Onward to the Stone of Hazaan. They're going to be surprised to see us.,"Верно. Вперёд к Камню Hazaan. Они удивятся, увидев нас."
 That's so messy!,Это так небрежно!
 That's terrible!,Это ужасно!
-That's the junundu lure right there. I'll get it started.,Вот и приманка джунунду. Я запущу ее.
+That's the junundu lure right there. I'll get it started.,Вот и приманка джунунду. Я запущу её.
 That's the last of Morwood's shifting vine gates.,Это последние из сдвигающихся врат из лоз Morwood.
 That's the last of the imps. What of the mosshearts?,Это был последний из бесов. А что насчет mosshearts?
 "That's the last of them. Good job, everyone!","Это были последние. Отличная работа, все!"
@@ -356,7 +356,7 @@ That's the last of those fleabags.,Это были последние из эт�
 "That's the way. Don't relent. If you've got it, then use it.",Вот так. Не сдавайтесь. Если есть чем — используйте.
 That's two. Hurry! Let's go! C'mon!,Это второй. Скорее! Пошли! Давай!
 That's unfortunate. We are woefully outnumbered. We'll have to be more vigilant.,Это прискорбно. Нас катастрофически мало. Нам нужно быть бдительнее.
-That's what I thought. And we'll have to be stealthy; the jotun camp should be just up this hill.,Я так и думал. И нам придется действовать скрытно; лагерь jotun должен быть прямо на этом холме.
+That's what I thought. And we'll have to be stealthy; the jotun camp should be just up this hill.,Я так и думал. И нам придётся действовать скрытно; лагерь jotun должен быть прямо на этом холме.
 That's what I'm talking about! Bring that heat to the next arena!,Вот это я понимаю! Покажи этот жар на следующей арене!
 "That's what we need. Enough alpine lilies, and I think I can make a cure for this sickness.","Это то, что нам нужно. Достаточно альпийских лилий, и, думаю, я смогу создать лекарство от этой хвори."
 Thaumanova Reactor Fallout,Последствия реактора Тауманова
@@ -399,7 +399,7 @@ The Flame Legion have taken over Bloodsaw Mill. I don't want to think about what
 The Flame Legion is actually doing us a favor by showing up here. We get to repay them for all damage they caused!,"Flame Legion оказывает нам услугу, появляясь здесь. Мы сможем отплатить им за весь причиненный ущерб!"
 "The Flame Legion is trying to prevent us from fixin' up the plant, but we've got our best engineer, Kyron, on the task. Make sure the Flame Legion doesn't get near her.","Flame Legion пытается помешать нам починить завод, но у нас за дело взялся лучший инженер, Kyron. Убедитесь, что Flame Legion не приближается к ней."
 "The Flame Legion killed my pet devourer. (growl) I'd like to join the assault against them, but I need to capture a new devourer egg. Can you cover my back while I search through the devourer nests?","Flame Legion убили моего питомца-пожирателя. (рычит) Я хочу присоединиться к штурму, но мне нужно добыть новое яйцо пожирателя. Прикроешь меня, пока я буду обыскивать гнёзда?"
-"The Flame Legion started this mess, and now they've come back to do more damage. Once Kyron finishes repairs on the machinery, they'll have no choice to turn tail and run.","Flame Legion начал этот бардак, а теперь вернулся, чтобы натворить еще больше бед. Как только Kyron закончит ремонт оборудования, им ничего не останется, как поджать хвосты и сбежать."
+"The Flame Legion started this mess, and now they've come back to do more damage. Once Kyron finishes repairs on the machinery, they'll have no choice to turn tail and run.","Flame Legion начал этот бардак, а теперь вернулся, чтобы натворить ещё больше бед. Как только Kyron закончит ремонт оборудования, им ничего не останется, как поджать хвосты и сбежать."
 "The Flame Legion will try to fight for this land. Break their bones, break their spirit!","Flame Legion попытается сражаться за эту землю. Сломайте их кости, сломайте их дух!"
 "The Flame incursion will be defeated! First step, recapture the mill!",Вторжение Пламени будет подавлено! Первый шаг — отбить лесопилку!
 "The Foefire? If she was a ghost of Ascalon, doesn't that mean she will reappear?","Огненный шторм? Если она была призраком Ascalon, разве это не значит, что она вернётся?"
@@ -452,7 +452,7 @@ The Pact Campaign Against the Flame Legion,Кампания Пакта прот�
 The Pact agents were right. The bugs are drawn to the magic flowing through here.,"Агенты Пакта были правы. Жуков притягивает магия, текущая здесь."
 The Pact is regrouping before any more assaults can begin.,Pact перегруппировывается перед началом новых штурмов.
 "The Pact soldiers warned us, but the bugs tear through the jungle like a storm.","Солдаты Пакта предупреждали нас, но жуки проносятся сквозь джунгли, словно шторм."
-The Pact will never submit to them or their so-called god. We'll be standing long after their flames are quenched.,"Pact никогда не подчинится им или их так называемому богу. Мы будем стоять еще долго после того, как их пламя погаснет."
+The Pact will never submit to them or their so-called god. We'll be standing long after their flames are quenched.,"Pact никогда не подчинится им или их так называемому богу. Мы будем стоять ещё долго после того, как их пламя погаснет."
 The Path to Arah,Путь к Arah
 The Path to Ascension,Путь к Вознесению
 The Priory is preparing to launch field surveys into Mistburned Barrens.,Priory готовится начать полевые исследования в Mistburned Barrens.
@@ -490,7 +490,7 @@ The air attends my whim!,Воздух подчиняется моей воле!
 The anomaly is vulnerable!,Аномалия уязвима!
 The area around Aekki must be protected to collect the relics,"Территория вокруг Aekki должна быть защищена, чтобы собрать реликвии"
 "The area's safe for now, but we need to stay alert for future attempts to corrupt our forces.","Район пока в безопасности, но нам нужно сохранять бдительность на случай будущих попыток осквернить наши силы."
-The basilisk departs in: 10:00,Василиск уйдет через: 10:00
+The basilisk departs in: 10:00,Василиск уйдёт через: 10:00
 The beast returns! Quick—use the launch pad to get up there and stop it!,"Зверь возвращается! Быстрее — используйте пусковую площадку, чтобы подняться туда и остановить его!"
 The beast will burrow and escape in: 10:00,Зверь зароется в землю и сбежит через: 10:00
 The beast will flee the area in: 15:00,Зверь покинет область через: 15:00

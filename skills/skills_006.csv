@@ -21,19 +21,19 @@ Detonate Rifle Turret,Детонировать винтовочную турел
 Detonate Rocket Turret,Детонировать ракетную турель
 Detonate Supply Crate Turrets,Детонировать турели ящика с припасами
 Detonate Thumper Turret,Детонировать ударную турель
-Detonate a burst of ice that chills nearby foes.,"Детонирует ледяной взрыв, который охлаждает ближайших врагов."
-Detonate a burst of ice that immobilizes nearby foes.,"Детонирует ледяной взрыв, который обездвиживает ближайших врагов."
-Detonate the dome to heal nearby allies.,"Детонировать купол, чтобы исцелить ближайших союзников."
-Detonate the orb to burn foes and cure conditions on allies in the blast radius.,"Детонировать сферу, чтобы сжечь врагов и снять состояния с союзников в радиусе взрыва."
+Detonate a burst of ice that chills nearby foes.,"Взорвать заряд льда, который замораживает противников поблизости."
+Detonate a burst of ice that immobilizes nearby foes.,"Взорвать заряд льда, который замораживает противников поблизости."
+Detonate the dome to heal nearby allies.,"Создать вокруг себя купол, который отталкивает противников назад и поглощает снаряды."
+Detonate the orb to burn foes and cure conditions on allies in the blast radius.,"Взорвать шар, чтобы поджечь противников и снять состояния с союзников в радиусе взрыва."
 "Detonate the sphere to cause it to explode, damaging and chilling foes.","Детонировать сферу, чтобы вызвать её взрыв, наносящий урон и охлаждающий врагов."
-Detonate your Blossoming Aura manually.,Детонировать вашу цветущую ауру вручную.
-Detonate your air pocket to teleport to its location.,"Детонировать ваш воздушный карман, чтобы телепортироваться к его местоположению."
+Detonate your Blossoming Aura manually.,Взорвать вашу Цветущую ауру вручную.
+Detonate your air pocket to teleport to its location.,Взорвать ваш воздушный карман и переместиться к нему.
 "Detonate your beacon, debilitating enemies and bolstering allies.","Детонировать ваш маяк, ослабляя врагов и усиливая союзников."
-Detonate your cluster bomb in midair.,Детонировать вашу кассетную бомбу в воздухе.
+Detonate your cluster bomb in midair.,Подорвать вашу кассетную бомбу над землей.
 Detonate your flame turret.,Детонировать вашу огнеметную турель.
 Detonate your harpoon turret.,Детонировать вашу гарпунную турель.
 Detonate your healing turret.,Детонировать вашу лечащую турель.
-Detonate your ink shot and shadowstep to it. Gain stealth if enemies are struck by this skill.,"Детонировать ваш чернильный выстрел и совершить теневой шаг к нему. Получите скрытность, если этот навык поразит врагов."
+Detonate your ink shot and shadowstep to it. Gain stealth if enemies are struck by this skill.,"Подорвать чернильный заряд и сделать Призрачный Шаг в место подрыва. Стать невидимым, если это умение поразит врагов."
 Detonate your mine to damage foes and remove a boon from them.,"Детонировать вашу мину, чтобы нанести урон врагам и снять с них благословение."
 "Detonate your mine, damaging nearby foes.","Взорвите свою мину, нанося урон ближайшим врагам."
 Detonate your net turret.,Взорвите свою сетевую турель.
@@ -41,7 +41,7 @@ Detonate your rifle turret.,Взорвите свою винтовочную т�
 Detonate your rocket turret.,Взорвите свою ракетную турель.
 Detonate your supply crate turrets.,Взорвите турели из ящика с припасами.
 Detonate your thumper turret.,Взорвите свою грохочущую турель.
-Detonates when enemies draw near.,Детонирует при приближении врагов.
+Detonates when enemies draw near.,"Создать контактную мину под вашей целью и медпакет под собой, когда вы выводите противника из строя."
 Detonation Damage,Урон от детонации
 Detonation Window,Окно детонации
 Devastator,Опустошитель
@@ -51,7 +51,7 @@ Devourer Venom,Яд пожирателя
 Devouring Cut,Пожирающий разрез
 Devouring Darkness,Пожирающая тьма
 Devouring Visage,Пожирающий лик
-Dhuum calls forth deadly claws that pull foes toward him.,"Dhuum призывает смертоносные когти, которые притягивают к нему врагов."
+Dhuum calls forth deadly claws that pull foes toward him.,Резануть вашего противника.
 "Dhuum creates a rippling fracture in the ground, erupting after a short time.","Dhuum создает волнообразный разлом в земле, который извергается спустя короткое время."
 "Dhuum links two targets, causing their souls to merge and destroy each other if they're in close proximity.","Dhuum связывает две цели, заставляя их души слиться и уничтожить друг друга, если они находятся близко друг к другу."
 "Dhuum pulls foes toward him, consuming them if they fail to escape.","Dhuum притягивает врагов к себе, поглощая их, если они не успевают сбежать."
@@ -127,28 +127,28 @@ Drain,Истощение
 Drains the heat from foes.,Вытягивает тепло из врагов.
 Drake's Breath,Дыхание дракона
 Drake's Swipe,Удар дракона
-Draw a symbol on the ground that heals allies and damages foes.,"Начертите на земле символ, который исцеляет союзников и наносит урон врагам."
+Draw a symbol on the ground that heals allies and damages foes.,"Начертать на земле символ, который исцеляет союзников и наносит урон противникам."
 Draw both hidden pistols and unload a volley of bullets on your foe.,Достаньте оба скрытых пистолета и обрушьте на врага шквал пуль.
 "Draw conditions from nearby allies to yourself, and inflict weakness on yourself.",Перетяните состояния с ближайших союзников на себя и наложите на себя слабость.
 Dread Visage,Облик ужаса
 Dreg Detritus,Мусор дрегов
 Dreg Flop,Плюх дрега
-Drive piranhas into a feeding frenzy around your foe. Apply fury to your pet.,Ввергните пираний в пищевое безумие вокруг вашего врага. Наложите ярость на вашего питомца.
+Drive piranhas into a feeding frenzy around your foe. Apply fury to your pet.,"Призвать косяк рыб-умертвий, которые нападают на вашего противника."
 Drop Gunk,Сбросить грязь
 Drop Mine,Сбросить мину
 Drop Urn of Saint Viktor,Сбросить урну святого Виктора
 "Drop a comet of ice on target foe, damaging and dazing foes in the area.","Сбросить ледяную комету на цель, нанося урон и оглушая врагов в области."
-Drop a giant ice spike on foes to make them vulnerable.,"Сбросить гигантский ледяной шип на врагов, делая их уязвимыми."
+Drop a giant ice spike on foes to make them vulnerable.,"Бросить в противников гигантский ледяной шип, делая их уязвимыми."
 Drop a mine that deals damage to enemies that trigger it.,"Сбросьте мину, которая наносит урон врагам, активировавшим её."
-Drop a pack of bandages that provides a little healing.,"Сбросьте набор бинтов, обеспечивающий небольшое исцеление."
-Drop a smoke bomb and vanish in stealth.,Сбросить дымовую шашку и исчезнуть в невидимости.
+Drop a pack of bandages that provides a little healing.,"Позвать на помощь своих союзников. Восстанавливает здоровье, пока вы используете это умение."
+Drop a smoke bomb and vanish in stealth.,"Установить заряд с таймером, который создает облако дыма, ослепляющее противников поблизости."
 Drop additional bombs at your location.,Сбросить дополнительные бомбы в выбранной области.
-Drop an explosive dragon's tooth on your foe.,Сбросить взрывающийся драконий зуб на врага.
+Drop an explosive dragon's tooth on your foe.,Бросить в противника взрывающийся драконий зуб.
 "Drop from above, delivering a massive strike on the focused area.","Спрыгнуть сверху, нанося мощный удар по выбранной области."
 "Drop from above, delivering a powerful attack to enemies while granting boons to allies.","Спрыгнуть сверху, нанося мощный удар по врагам и накладывая благословения на союзников."
 "Drop from above, granting barrier and healing to allies in the affected area.","Спрыгнуть сверху, даруя барьер и исцеление союзникам в области действия."
 Drop gunk at your location to inflict a random condition.,"Сбросьте грязь в вашем местоположении, чтобы наложить случайное состояние."
-Drop mines behind you as you dodge.,Сбрасывать мины позади себя при уклонении.
+Drop mines behind you as you dodge.,Оставить за собой мины при увороте.
 Drop the Hammer,Сбросить молот
 Drum Playing,Игра на барабанах
 Dual Attack,Двойная атака
@@ -193,7 +193,7 @@ Earth Attunement,Настройка земли
 Earth Render,Земляной удар
 Earth Sphere,Сфера земли
 Earthen Rush,Земляной рывок
-Earthen Spear,Земляное копье
+Earthen Spear,Земляное копьё
 Earthen Synergy,Земляная синергия
 Earthen Vortex,Земляной вихрь
 Earthfall,Землепад
@@ -217,7 +217,7 @@ Echoing Erosion,Эхо эрозии
 Echoing Eruption,Эхо извержения
 Eclipsed Backlash,Затменная отдача
 Ectoplasm,Эктоплазма
-"Ectoplasm covers the ground, damaging and crippling foes caught in it.","Эктоплазма покрывает землю, нанося урон и замедляя врагов, попавших в нее."
+"Ectoplasm covers the ground, damaging and crippling foes caught in it.","Эктоплазма покрывает землю, нанося урон и замедляя врагов, попавших в неё."
 Ectoplasmic Flame,Эктоплазменное пламя
 Ectoplasmic fire covers foes' skin.,Эктоплазменный огонь покрывает кожу врагов.
 "Ectoplasmic ooze slams into the ground, physically damaging everyone around it.","Эктоплазменная слизь ударяется о землю, нанося физический урон всем вокруг."
@@ -241,7 +241,7 @@ Electrified Shield,Электрический щит
 Electrified Tornado,Электрический торнадо
 "Electrify your enemy, making them vulnerable.","Электризует врага, делая его уязвимым."
 "Electrify your shield, preparing to throw it at foes. Stun nearby enemies that attack you while blocking.","Электризует ваш щит, подготавливая его к броску во врагов. Оглушает ближайших противников, атакующих вас во время блокирования."
-Electrify your tornado form and make it shoot lightning.,"Электризует вашу форму торнадо, заставляя её выпускать молнии."
+Electrify your tornado form and make it shoot lightning.,"Насытить ваш торнадо электричеством, заставив его выпускать молнии."
 Electro-Repulsion,Электроотталкивание
 Electro-whirl,Электрический вихрь
 Electrocute,Удар током
@@ -288,7 +288,7 @@ Ember Sweep,Угольный взмах
 Embrace the Darkness,Принятие тьмы
 Embue allies with protection.,Наделить союзников протекцией.
 Emergency Jade Shield,Аварийный нефритовый щит
-Emit noxious fumes that poisons foes in the area. Poison duration is increased on disabled foes.,"Испускает ядовитые пары, отравляющие врагов в области. Длительность отравления увеличивается на врагах с наложенными эффектами контроля."
+Emit noxious fumes that poisons foes in the area. Poison duration is increased on disabled foes.,"Выпустить ядовитые пары, которые отравляют противников в области. Отравление длится дольше у выведенных из строя противников."
 Emits a damaging stench.,"Испускает зловоние, наносящее урон."
 Empathic Manipulation,Эмпатическая манипуляция
 Empower,Усиление
@@ -297,8 +297,8 @@ Empowered Phantasms Created,Созданы усиленные фантазмы
 Empowered Stun,Усиленное оглушение
 Empowering Blast,Усиливающий взрыв
 Empowering Misery,Усиливающее страдание
-Encase your hammer with earthen spikes to deliver a powerful blow.,"Окутайте свой молот земными шипами, чтобы нанести мощный удар."
-Encase your target in a block of solid ice. Duration is increased per stack of Water Arrow.,Заключите цель в глыбу твердого льда. Длительность увеличивается за каждый заряд Water Arrow.
+Encase your hammer with earthen spikes to deliver a powerful blow.,Усилить свой молот каменными шипами и нанести мощный удар.
+Encase your target in a block of solid ice. Duration is increased per stack of Water Arrow.,Заключить вашу цель в кусок прочного льда. Длительность увеличивается за каждый стек умения Water Arrow.
 Enchanted Daggers,Зачарованные кинжалы
 End Death Shroud,Завершить саван смерти
 Ending Heal,Завершающее исцеление
@@ -360,27 +360,27 @@ As you remain in Harbinger Shroud, you accumulate blight over time.
 Пока действует ""Саван Предвестника"", вы постепенно накапливаете скверну.
 <c=@reminder>Скверна уменьшает ваш максимальный запас здоровья.</c>"
 Enter Radiant Forge,Войдите в Сияющую Кузню
-Enter Radiant Forge. The recharge time of this skill is reduced for each unused radiant weapon in shroud.,Войдите в Сияющую Кузню. Время восстановления этого умения уменьшается за каждое неиспользованное сияющее оружие в саване.
+Enter Radiant Forge. The recharge time of this skill is reduced for each unused radiant weapon in shroud.,"Активировать сияющую кузницу. Время перезарядки этого умения уменьшается за каждое лучезарное оружие, которое не было использовано в саване."
 Enter Shadow Shroud,Войдите в Теневой Саван
 "Entomb your foe, making them sink. Fire <c=@abilitytype>Crimson Tide</c> at your target multiple times.","Заточите врага, заставив его утонуть. Выпустите <c=@abilitytype>Багровый прилив</c> по вашей цели несколько раз."
 "Envelop target friend or foe with energy from the Mists. The energy explodes outward after a short delay or when manually detonated, granting barrier to nearby allies. The amount of barrier granted increases over time. If targeting an enemy, the aura also deals damage over time, and it does additional damage when the aura explodes based on how long the aura lasts.","Окутайте дружественную или враждебную цель энергией из Туманов. Энергия взрывается наружу после небольшой задержки или при ручной детонации, накладывая барьер на ближайших союзников. Количество накладываемого барьера увеличивается со временем. Если цель — враг, аура также наносит периодический урон, а при взрыве наносит дополнительный урон, зависящий от длительности действия ауры."
-Envelop yourself in a fiery shield that burns foes and grants might each time you are struck (cooldown of 1 second per attacker).,"Окутывает себя огненным щитом, который поджигает врагов и дарует могущество при каждом ударе (перезарядка 1 секунда на атакующего)."
-Envelop yourself in a stony barrier that improves toughness.,"Окутывает себя каменным барьером, повышающим стойкость."
+Envelop yourself in a fiery shield that burns foes and grants might each time you are struck (cooldown of 1 second per attacker).,"Окружить себя огненным щитом, который поджигает противников и дарует вам Мощь каждый раз, когда вам наносят удар (перезарядка 1 секунда на атакующего)."
+Envelop yourself in a stony barrier that improves toughness.,"Окружить себя каменным барьером, который увеличивает вашу Прочность."
 "Envelop yourself in stony armor, making yourself invulnerable.","Окутайте себя каменной броней, делая себя неуязвимым."
 "Envelop yourself in thorns, striking nearby enemies and gaining stability for a brief duration. Gain additional bonuses and Nature's Strength if you strike an enemy.","Оберните себя шипами, поражая ближайших врагов и получая устойчивость на короткое время. Получите дополнительные бонусы и Силу природы, если поразите врага."
-Envelop yourself with electrical energy that stuns nearby foes if they attack you. Each attacker can be affected by this only once every 2 seconds.,"Окутайте себя электрической энергией, которая оглушает ближайших врагов, если они атакуют вас. Каждый атакующий может попасть под этот эффект не чаще одного раза в 2 секунды."
-"Enveloped in a fiery shield that burns foes, grants might each time you are struck (1-second cooldown per attacker).","Окутан огненным щитом, который сжигает врагов и дает мощь каждый раз, когда вас бьют (перезарядка 1 секунда на каждого атакующего)."
+Envelop yourself with electrical energy that stuns nearby foes if they attack you. Each attacker can be affected by this only once every 2 seconds.,"Окружить себя электрической энергией, которая оглушает противников поблизости, если они вас атакуют. Каждый нападающий может быть поражен только один раз в 2 секунды."
+"Enveloped in a fiery shield that burns foes, grants might each time you are struck (1-second cooldown per attacker).","Окутан огненным щитом, который сжигает врагов и даёт мощь каждый раз, когда вас бьют (перезарядка 1 секунда на каждого атакующего)."
 Enveloping Haze,Окутывающая дымка
 Envoy of Exuberance,Посланник изобилия
 Epidemic,Эпидемия
 Equalizing Blow,Уравнивающий удар
-Equip a kit that gives you grenade skills.,"Экипируйте набор, дающий вам навыки гранат."
+Equip a kit that gives you grenade skills.,"Достать снаряжение, которое замещает ваше оружие гранатами."
 Eroding Curse,Разъедающее проклятие
 Eruption,Извержение
 Eruption Vent,Вентиляция извержения
 Eruption of Rot,Извержение гнили
 Escape,Побег
-Escape toward the surface and heal.,Сбегите к поверхности и исцелитесь.
+Escape toward the surface and heal.,Всплыть прямо на поверхность и исцелиться.
 Essence Blast,Взрыв эссенции
 Essence Sap,Вытягивание эссенции
 Essence of Animated Sand,Эссенция ожившего песка
@@ -412,11 +412,11 @@ Evade,Уклонение
 Evade Distance,Дистанция уклонения
 Evade all attacks.,Уклоняйтесь от всех атак.
 "Evade attacks and hurl damaging daggers, dealing multiple conditions to enemies.","Уклоняйтесь от атак и метайте наносящие урон кинжалы, накладывая на врагов несколько состояний."
-Evade attacks and remove conditions from yourself. Your next spear skill recharges faster.,Уклоняйтесь от атак и снимайте с себя состояния. Ваше следующее умение копья перезаряжается быстрее.
-Evade backward and fire a shot that immobilizes your foe.,"Уклонитесь назад и выстрелите, обездвижив противника."
-Evade backward while firing an immobilizing shot.,"Уклонитесь назад, совершая обездвиживающий выстрел."
+Evade attacks and remove conditions from yourself. Your next spear skill recharges faster.,Уклониться от атак и снять с себя состояния. Ваше следующее умение копья будет перезаряжено быстрее.
+Evade backward and fire a shot that immobilizes your foe.,"Уклониться назад и сделать выстрел, который обездвиживает противника."
+Evade backward while firing an immobilizing shot.,"Уклониться, отпрыгнув назад и обездвиживая противника выстрелом."
 Evade incoming attacks.,Уклоняйтесь от входящих атак.
-Evade while delivering a powerful final attack.,Уклонение во время выполнения мощного завершающего удара.
+Evade while delivering a powerful final attack.,"Уклониться, проведя мощную завершающую атаку."
 "Evade your foe and then strike, dealing increased damage from the side or behind.","Уклонитесь от врага и нанесите удар, нанося повышенный урон сбоку или сзади."
 Evasion Duration While Swinging,Длительность уклонения во время взмаха
 Evasive Strike,Уклоняющий удар
@@ -433,13 +433,13 @@ Exit Radiant Forge,Выход из сияющей кузни
 Exit Reaper's Shroud,Выход из савана жнеца
 Exit Ritualist's Shroud,Выход из савана ритуалиста
 Exit Shadow Shroud,Выход из теневого савана
-Exit berserk mode.,Выход из режима берсерка.
+Exit berserk mode.,"Вам даруются Устойчивость и выносливость, когда вы становитесь берсерком. Черты, срабатывающие при активации состояния берсерка, также срабатывают и когда вы перестаете быть берсерком. Вы можете перестать быть берсерком раньше срока."
 "Exit your shadow shroud, breaking the tether between you and your ally.","Выйдите из своего теневого савана, разрывая связь между вами и вашим союзником."
 Explode,Взорвать
 Explode a bone minion.,Взорвать костяного миньона.
 Explodes in an eruption of energy that deals massive damage to all foes.,"Взрывается извержением энергии, нанося огромный урон всем врагам."
 Explodes upon impact.,Взрывается при ударе.
-"Explodes when an enemy enters proximity, dealing heavy damage.","Взрывается, когда враг приближается, нанося тяжелый урон."
+"Explodes when an enemy enters proximity, dealing heavy damage.","Взрывается, когда враг приближается, нанося тяжёлый урон."
 Explodes with astral energy.,Взрывается астральной энергией.
 "Explodes, floating and damaging nearby enemies.","Взрывается, подбрасывая и повреждая ближайших врагов."
 Exploding Spores,Взрывающиеся споры
@@ -490,7 +490,7 @@ Fang Grapple,Захват клыком
 "Fear overtakes the mind, wracking the body with incredible pain. Targets closer to the source of Terrorstorm take increased damage.","Страх овладевает разумом, терзая тело невероятной болью. Цели, находящиеся ближе к источнику Шторма ужаса, получают увеличенный урон."
 Feast,Пир
 Feast of Corruption,Пир порчи
-Featherfoot Grace,Грация легкой поступи
+Featherfoot Grace,Грация лёгкой поступи
 Feedback,Обратная связь
 Feeding Frenzy,Пиршество
 Feigned Surge,Ложный рывок

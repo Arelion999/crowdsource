@@ -21,7 +21,7 @@ Immobilizes but greatly boosts attack and defense.,"Обездвиживает, 
 Immobilizes • AoE,Обездвиживает • По области
 Immobilizes • Bleeds,Обездвиживает • Вызывает кровотечение
 Immobilizes • Summons Totem • Blinds,Обездвиживает • Призывает тотем • Ослепляет
-Immobilizing a foe poisons them. Striking a foe with unique conditions equal to or more than the threshold immobilizes them.,"Обездвиживание врага отравляет его. Удар по врагу, на котором уникальных состояний не меньше порогового числа, обездвиживает его."
+Immobilizing a foe poisons them. Striking a foe with unique conditions equal to or more than the threshold immobilizes them.,"Когда вы обездвиживете противника, вы отравляете его. Когда вы наносите удар противнику с числом уникальных состояний равным или превышающим порог, вы обездвиживаете его."
 Immune from damage but vulnerable to crowd control.,"Невосприимчив к урону, но уязвим для эффектов контроля."
 Immune to Blind • Knocks Down,Невосприимчив к ослеплению • Сбивает с ног
 Immune to Burning • Fire Shield • Summons Minions,Невосприимчив к горению • Огненный щит • Призывает прислужников
@@ -138,7 +138,7 @@ Infiltrator Seric,Лазутчик Серик
 Infinite Glacial Gathering Tools,Бесконечные ледниковые инструменты сбора
 Infinite Strong Swing,Бесконечный сильный замах
 Inflict a random condition on your foe.,Накладывает на противника случайное состояние.
-Inflict bleeding on enemies you immobilize or disable.,"Вызывает кровотечение у врагов, которых вы обездвиживаете или выводите из строя."
+Inflict bleeding on enemies you immobilize or disable.,"Вы вызываете кровотечение у противников, которых обездвижили или вывели из строя."
 Inflicting a condition on a foe grants <c=@abilitytype>carapace</c>. Gain incoming damage reduction while at or above the <c=@abilitytype>carapace</c> threshold.,"Наложение состояния на врага даёт <c=@abilitytype>панцирь</c>. Пока количество <c=@abilitytype>панциря</c> не ниже порогового, входящий урон снижается."
 Inflicts Bleeding • Immobilizes • Buffs Allies,Вызывает кровотечение • Обездвиживает • Усиливает союзников
 Inflicts Bleeding • Immobilizes • Buffs Allies • Dazes • Tramples,Вызывает кровотечение • Обездвиживает • Усиливает союзников • Ошеломляет • Затаптывает
@@ -333,10 +333,10 @@ It's all skill and a little luck.,Всё дело в мастерстве и к�
 It's an ambush! Look out!,Это засада! Осторожно!
 It's an honor.,Это честь для меня.
 It's back where it belongs.,"Оно вернулось туда, где ему место."
-"It's beautiful out here, isn't it? So green and fertile. Applenook is a place of simple, hardworking folk who take their harvests from the sea and the soil. But I must urge caution—pirates are thick as weeds out on the lake and give the people no end of grief.","Красиво здесь, правда? Так зелено и плодородно. Эпплнук — место простых работящих людей, что берут урожай у моря и у земли. Но призываю к осторожности: пиратов на озере что сорняков, и от них местным одно горе."
+"It's beautiful out here, isn't it? So green and fertile. Applenook is a place of simple, hardworking folk who take their harvests from the sea and the soil. But I must urge caution—pirates are thick as weeds out on the lake and give the people no end of grief.","Красиво здесь, правда? Так зелёно и плодородно. Эпплнук — место простых работящих людей, что берут урожай у моря и у земли. Но призываю к осторожности: пиратов на озере что сорняков, и от них местным одно горе."
 "It's because I follow Hare. Others mock me for it, saying Hare isn't a true Spirit of the Wild. But Hare will help me find the yeti, even if no one else believes me.","Это потому, что я следую за Зайцем. Другие смеются надо мной, говорят, что Заяц — не настоящий Дух Дикой природы. Но Заяц поможет мне найти йети, даже если больше никто мне не верит."
 It's burning me!,Оно меня жжёт!
-It's easy when you know how.,"Легко, когда знаешь как."
+It's easy when you know how.,"Лёгко, когда знаешь как."
 It's fun to compete with everyone. As long as we're winning.,Соревноваться со всеми весело. Пока мы побеждаем.
 It's getting desperate. Watch out for those gusts!,Оно в отчаянии. Берегись этих порывов ветра!
 "It's going to take a good, long while to fix this mess, and a lot of replacement parts we don't have.","На разгребание этого бардака уйдёт уйма времени и куча запчастей, которых у нас нет."
@@ -460,7 +460,7 @@ Kaineng Lights Mount Select License[s],Лицензи[я|и|й] на выбор 
 Kalak,Калак
 Kaldar's Hot Seat,Горячее место Калдара
 Kalf,Кальф
-Kalla's Fervor causes you to heal for a percentage of your outgoing damage. Citadel Bombardment dazes enemies the first time that it strikes them.,«Пыл Каллы» исцеляет вас на процент от исходящего урона. «Бомбардировка цитадели» ошеломляет врагов при первом попадании по ним.
+Kalla's Fervor causes you to heal for a percentage of your outgoing damage. Citadel Bombardment dazes enemies the first time that it strikes them.,"Страсть Каллы исцеляет вас пропорционально урону, который вы наносите. Обстрел из Цитадели при первом попадании по противникам ошеломляет их."
 "Kalla's Fervor increases your healing to other allies. Orders from Above lasts longer, heals allies, and affects a larger area.","«Пыл Каллы» увеличивает ваше исцеление других союзников. «Приказы свыше» длятся дольше, исцеляют союзников и действуют на большей площади."
 Kanata Redwing,Каната Красное Крыло
 Kappa Mudstomper,Каппа Грязетоп
@@ -473,7 +473,7 @@ Katerina,Катерина
 Kathall,Катхолл
 Katlin Verndjes,Катлин Верндьес
 Kaven Sharpeye,Кавен Зоркий Глаз
-Keee!,Кииии!
+Keee!,Ки-и-и-и!
 Keep Kash and their crew alive during the entire siege on the freebooters.,Не дайте Кэшу и его команде погибнуть за всю осаду вольных пиратов.
 Keep Waypoint,Точка перемещения крепости
 Keep an eye to your back; loyalists everywhere. And they're eager to cut down Astral Ward and followers of Peitha alike.,"Береги спину: лоялисты повсюду. И они с одинаковой охотой рубят и Астральную стражу, и последователей Пейты."

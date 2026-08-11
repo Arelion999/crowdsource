@@ -27,7 +27,7 @@ Add a selectable personal enhancement at the tavern which will increases the rat
 Add a trader merchant to the market whose stock rotates daily. Guild members may purchase only one item each day.,"Добавьте на рынок торговца, чей ассортимент меняется ежедневно. Члены гильдии могут покупать только один предмет в день."
 "Add an invulnerability coordinator to the arena, allowing for brawling without taking damage.","Добавьте координатора неуязвимости на арену, позволяющего драться без получения урона."
 "Add an obstacles coordinator to the arena, allowing players to enter the arena as a decorator and place walls.","Добавьте координатора препятствий на арену, позволяющего игрокам входить на арену в роли декоратора и размещать стены."
-Add an option for the obstacles coordinator to turn on a boundary around the brawling area to prevent ring-outs.,"Добавьте опцию для координатора препятствий, включающую границу вокруг зоны боя, чтобы предотвратить вылет за пределы ринга."
+Add an option for the obstacles coordinator to turn on a boundary around the brawling area to prevent ring-outs.,"Добавьте настройку для координатора препятствий, включающую границу вокруг зоны боя, чтобы предотвратить вылет за пределы ринга."
 Add an ore node to the workshop that randomly generates either copper or iron when mined.,"Добавьте рудный узел в мастерскую, который при добыче случайным образом даёт либо медь, либо железо."
 Add ancient logs as a possible output from the workshop's lumber synthesizer.,Добавьте древние брёвна как возможный результат работы синтезатора древесины в мастерской.
 Add coarse leather as a possible output from the workshop's leather synthesizer.,Добавить грубую кожу как возможный результат работы кожевенного синтезатора мастерской.
@@ -89,7 +89,7 @@ Allow decorators in the arena to place turrets that weaken nearby combatants.,"�
 Allows guild members to create a permanent guild emblem design at the Guild Registrar for use on banners and other displays.,Позволяет членам гильдии создать постоянный дизайн эмблемы гильдии у Регистратора гильдии для использования на знамёнах и других дисплеях.
 Allows your guild to build consumables that can be used to activate various world events.,Позволяет гильдии создавать расходные материалы для активации различных мировых событий.
 Arena Brawling: Free-for-All Fighters,Арена: Бойцы «каждый сам за себя»
-Arena Brawling: Green Team,Арена: Зеленая команда
+Arena Brawling: Green Team,Арена: Зелёная команда
 Arena Brawling: Invulnerable Fighters,Арена: Неуязвимые бойцы
 Arena Restoration 1,Восстановление арены 1
 Arena Restoration 2,Восстановление арены 2
@@ -224,7 +224,7 @@ General Merchant,Торговец
 Gift Levitator,Левитатор подарков
 Gilded Banner,Позолоченное знамя
 Golem Siege,Осадный голем
-Gourmet Feast: Double-click to serve Mint-Pear Cured Meat Flatbreads to anyone nearby. Feast stays active for 5 minutes.,"Гурманский пир: Дважды щелкните, чтобы подать лепёшки с мятно-грушевой вяленой мясной начинкой всем рядом. Пир активен в течение 5 минут."
+Gourmet Feast: Double-click to serve Mint-Pear Cured Meat Flatbreads to anyone nearby. Feast stays active for 5 minutes.,"Гурманский пир: Дважды щёлкните, чтобы подать лепёшки с мятно-грушевой вяленой мясной начинкой всем рядом. Пир активен в течение 5 минут."
 Grants access to a 50-slot guild vault and gold storage.,Даёт доступ к гильдейскому хранилищу на 50 ячеек и хранилищу золота.
 Greer's Token (Guild Decoration),Жетон Грира (украшение гильдии)
 Guild Anthems,Гимны гильдии
@@ -332,7 +332,7 @@ Obstacle: Cripple Turret,Препятствие: Турель калечения
 Obstacle: Fan Trap,Препятствие: Вентиляторная ловушка
 Obstacle: Fear Turret,Препятствие: Турель страха
 Obstacle: Flame Turret,Препятствие: Огненная турель
-Obstacle: Green Torch,Препятствие: Зеленый факел
+Obstacle: Green Torch,Препятствие: Зелёный факел
 Obstacle: Heal Turret,Препятствие: Лечащая турель
 Obstacle: Knockback Turret,Препятствие: Отбрасывающая турель
 Obstacle: Lava Floor,Препятствие: Лавовый пол
@@ -483,7 +483,7 @@ Tavern Restoration 1,Восстановление таверны 1
 Tavern Restoration 2,Восстановление таверны 2
 Teleporter Entrance,Вход телепорта
 Teleporter Exit,Выход телепорта
-The Deep Cave will expand your treasure trove by another 100 slots.,Глубокая пещера расширит вашу сокровищницу еще на 100 ячеек.
+The Deep Cave will expand your treasure trove by another 100 slots.,Глубокая пещера расширит вашу сокровищницу ещё на 100 ячеек.
 "The guild's claimed objectives now always emanate an aura that applies boons to allies in the vicinity while the guild holds the objective. Initially, the aura applies a +5 supply capacity.","Захваченные цели гильдии теперь всегда излучают ауру, которая накладывает благословения на союзников поблизости, пока гильдия удерживает цель. Изначально аура даёт +5 к запасу припасов."
 "The workshop's plant synthesizers will now output even more possible vegetables, fruits, and herbs.","Растительные синтезаторы мастерской теперь будут выдавать ещё больше возможных овощей, фруктов и трав."
 "The workshop's plant synthesizers will now output more possible vegetables, fruits, and herbs.","Растительные синтезаторы мастерской теперь будут выдавать больше возможных овощей, фруктов и трав."

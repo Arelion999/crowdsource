@@ -1,8 +1,8 @@
 english,translate
-Knock back foes with a wave of magical energy.,Отбросьте врагов волной магической энергии.
-Knock back your foe with a kick.,Отбросьте врага ударом ноги.
+Knock back foes with a wave of magical energy.,Оттолкнуть противников волной магической энергии.
+Knock back your foe with a kick.,Оттолкнуть противника назад пинком.
 Knock back your foe with your rifle butt. Recover ammunition for each of your other rifle skills and fully recharge your rifle <c=@abilitytype>burst</c> skills. Successfully striking a foe reduces the recharge time of this skill.,Отбросьте врага прикладом винтовки. Восстановите боеприпасы для каждого из ваших других навыков винтовки и полностью перезарядите навыки <c=@abilitytype>залпа</c>. Успешное попадание по врагу сокращает время восстановления этого навыка.
-Knock down your foe with a charged wind blast.,Сбейте врага с ног заряженным порывом ветра.
+Knock down your foe with a charged wind blast.,Сбить вашего противника с ног сильным порывом ветра.
 "Knock down your foe. Weakened foes stay knocked down longer. Recharges Fierce Blow if you control a foe with this ability.
 <c=reminder>Recharges Fierce Blow if striking a target with a defiance bar.</c>","Сбейте врага с ног. Ослабленные враги дольше остаются сбитыми с ног. Перезаряжает «Свирепый удар», если вы контролируете врага с помощью этой способности.
 <c=reminder>Перезаряжает «Свирепый удар» при попадании по цели с полоской стойкости.</c>"
@@ -26,35 +26,35 @@ Lash out against nearby foes.,Нанесите удар по ближайшим 
 "Lash out with bear claws, damaging foes in front of you.","Атакуйте медвежьими когтями, нанося урон врагам перед собой."
 "Lash out with raven wings, damaging and crippling your target.","Атакуйте вороньими крыльями, нанося урон и накладывая увечье на цель."
 "Lash out with raven wings, damaging your target.","Атакуйте вороньими крыльями, нанося урон цели."
-Lash your foe with lightning.,Хлестните врага молнией.
+Lash your foe with lightning.,Хлыстнуть своего противника молнией.
 "Lashes out in a series of furious strikes, knocking back and damaging enemies and calling down fire from the skies.","Наносит серию яростных ударов, отбрасывая и повреждая врагов, а также призывая огонь с небес."
 Lashtail Venom,Яд хвоста-хлыста
 Launch,Подброс
 Launch Personal Battering Ram,Запуск личного тарана
 Launch Wall,Запуск стены
-Launch a deployable net wall to immobilize foes caught within.,"Запустите развертываемую сетчатую стену, чтобы обездвижить врагов, попавших в нее."
+Launch a deployable net wall to immobilize foes caught within.,"Запустите развертываемую сетчатую стену, чтобы обездвижить врагов, попавших в неё."
 "Launch a fist that explodes on the first target hit, damaging and stunning nearby enemies.","Запустите кулак, который взрывается при попадании в первую цель, нанося урон и оглушая ближайших врагов."
 Launch a harpoon from your belt.,Запустите гарпун с пояса.
 Launch a large boulder that bleeds and immobilizes your foe.,"Запустите большой валун, который вызывает кровотечение и обездвиживает врага."
-"Launch a large magnetic force that reflects projectiles along its path, crippling foes that touch it.","Запустите мощную магнитную силу, которая отражает снаряды на своем пути, накладывая увечье на врагов, коснувшихся ее."
-Launch a mortar round that chills foes in the target area.,"Запустите минометный снаряд, который охлаждает врагов в целевой области."
-Launch a mortar round that spreads poisonous gas in an area.,"Запустите минометный снаряд, который распространяет ядовитый газ в области."
-Launch a phosphorous mortar round that burns brightly at impact point.,"Запустите фосфорный минометный снаряд, который ярко вспыхивает в точке удара."
-Launch a projectile that inflicts conditions.,"Запустите снаряд, накладывающий состояния."
-Launch a slow-moving homing missile.,Запустите медленно летящую самонаводящуюся ракету.
-Launch a spear of lightning that makes your foe vulnerable.,"Запустите копье молнии, которое делает вашего врага уязвимым."
+"Launch a large magnetic force that reflects projectiles along its path, crippling foes that touch it.","Запустите мощную магнитную силу, которая отражает снаряды на своем пути, накладывая увечье на врагов, коснувшихся её."
+Launch a mortar round that chills foes in the target area.,"Выстрелить минометным снарядом, который замораживает противников в выбранной области."
+Launch a mortar round that spreads poisonous gas in an area.,"Выстрелить минометным снарядом, который выпускает отравляющий газ в выбранной области."
+Launch a phosphorous mortar round that burns brightly at impact point.,"Выстрелить фосфорным минометным снарядом, который ярко вспыхивает в точке удара."
+Launch a projectile that inflicts conditions.,"Выстрелить снарядом, который накладывает состояния."
+Launch a slow-moving homing missile.,Запустить медленно двигающуюся самонаводящуюся ракету.
+Launch a spear of lightning that makes your foe vulnerable.,"Запустите копьё молнии, которое делает вашего врага уязвимым."
 "Launch a sphere outward from the Mists. The sphere will attack nearby foes as it travels, poisoning them.","Запустите сферу из Туманов. Сфера будет атаковать ближайших врагов по мере движения, отравляя их."
-Launch a twisting earthen vortex at your enemies.,Запустите крутящийся земляной вихрь в своих врагов.
-Launch a wave that terrorizes foes it hits. You may activate March of Undeath to shadowstep to the wave.,"Запустите волну, которая ужасает пораженных врагов. Вы можете активировать «Марш нежити», чтобы теневым шагом переместиться к волне."
+Launch a twisting earthen vortex at your enemies.,Выпустить в противников крутящийся земляной вихрь.
+Launch a wave that terrorizes foes it hits. You may activate March of Undeath to shadowstep to the wave.,"Выпустить пугающую врагов волну. Вы можете использовать Марш Мертвецов, чтобы сделать Призрачный Шаг к этой волне."
 Launch an arc of light at your foe.,Запустите дугу света во врага.
 "Launch an explosive round from your mortar, damaging foes in the target area.","Запустите взрывной снаряд из своего миномета, нанося урон врагам в целевой области."
-Launch an orb of lightning that fires projectiles at nearby foes.,"Запустите сферу молнии, которая выпускает снаряды по ближайшим врагам."
-Launch an orb that bounces between foes and applies conditions.,"Запустите сферу, которая отскакивает между врагами и накладывает состояния."
-Launch another arc of light at your target.,Запустите еще одну дугу света в цель.
-Launch spikes at all nearby foes.,Запустите шипы во всех ближайших врагов.
-Launch three waves of heat. Each burns foes and grants vigor to allies.,Запустите три волны жара. Каждая сжигает врагов и дает бодрость союзникам.
-Launch your foe backward with mighty wing beats.,Отбросьте врага назад мощными взмахами крыльев.
-Launch your foe with a banishing smash.,Подбросьте врага изгоняющим ударом.
+Launch an orb of lightning that fires projectiles at nearby foes.,"Создать шаровую молнию, которая выпускает метательные снаряды в противников поблизости."
+Launch an orb that bounces between foes and applies conditions.,"Запустить шар энергии, который рикошетит между противниками и союзниками. Первое попадание вызывает у противников боль, а следующие - замешательство. Союзникам рикошеты шара даруют Ярость и Мощь."
+Launch another arc of light at your target.,Запустите ещё одну дугу света в цель.
+Launch spikes at all nearby foes.,Выпустить шипы во всех противников поблизости.
+Launch three waves of heat. Each burns foes and grants vigor to allies.,Запустите три волны жара. Каждая сжигает врагов и даёт бодрость союзникам.
+Launch your foe backward with mighty wing beats.,Отбросить противников назад могучими ударами крыльев.
+Launch your foe with a banishing smash.,Отбросить вашего противника сокрушительным изгоняющим ударом.
 Launch your foe with a powerful smash. Striking a foe refreshes <c=@abilitytype>Mighty Blow</c> and allows your next <c=@abilitytype>Mighty Blow</c> to teleport to that foe.,С силой отбросьте врага мощным ударом. Попадание по врагу обновляет <c=@abilitytype>Мощный удар</c> и позволяет вашему следующему <c=@abilitytype>Мощному удару</c> телепортироваться к этому врагу.
 Lava Chains,Лавовые цепи
 Lava Font,Лавовый источник
@@ -65,25 +65,25 @@ Leading Swipe,Ведущий взмах
 Leafy Bandage,Лиственная повязка
 Leap,Прыжок
 Leap Damage,Урон от прыжка
-Leap and knock nearby foes back.,Прыгните и отбросьте ближайших врагов назад.
+Leap and knock nearby foes back.,Прыгнуть и отбросить назад противников поблизости.
 "Leap and strike your foe, inflicting slow.","Прыгните и ударьте врага, наложив замедление."
 "Leap and strike your foe. The less health your target has, the more damage you cause.","Прыгните и ударьте врага. Чем меньше здоровья у вашей цели, тем больше урона вы наносите."
-Leap at your foe and cripple them.,Прыгните на врага и искалечьте его.
-Leap at your foe and deliver a massive attack that cascades outward.,"Прыгните на врага и нанесите мощный удар, который распространяется наружу."
-Leap at your foe and hit them with electrical damage.,Прыгните на врага и нанесите ему урон электричеством.
-Leap at your foe and knock them down.,Прыгните на врага и сбейте его с ног.
-Leap at your foe and unleash a seismic wave that inflicts damages and bleeding.,"Прыгните на врага и высвободите сейсмическую волну, которая наносит урон и вызывает кровотечение."
-Leap at your foe with a flaming attack that causes burning.,"Прыгните на врага с огненной атакой, вызывающей горение."
-Leap at your foe. Inflicts blindness and heals you for each foe hit. Heal for a lesser amount for each target struck beyond the first.,"Прыгните на врага. Накладывает слепоту и исцеляет вас за каждого пораженного врага. Исцеление меньше за каждую цель, пораженную после первой."
-Leap at your target and strike nearby foes while healing yourself. Healing is increased if a foe is struck.,"Прыгните на цель и ударьте ближайших врагов, исцеляя себя. Исцеление увеличивается, если враг поражен."
-Leap at your target with an overhead strike that dazes them.,"Прыгните на цель с ударом сверху, который ошеломляет ее."
+Leap at your foe and cripple them.,Прыгнуть к противнику и сделать его хромым.
+Leap at your foe and deliver a massive attack that cascades outward.,"Прыгнуть к вашему противнику и провести мощную атаку, расходящуюся каскадами."
+Leap at your foe and hit them with electrical damage.,Прыгнуть к вашему противнику и нанести ему урон электричеством.
+Leap at your foe and knock them down.,Прыгнуть к противнику и сбить его с ног.
+Leap at your foe and unleash a seismic wave that inflicts damages and bleeding.,"Прыгнуть к противнику и вызвать сейсмическую волну, которая наносит урон и вызывает кровотечение."
+Leap at your foe with a flaming attack that causes burning.,"Прыгнуть к вашему противнику в пламенной атаке, которая подожжет его."
+Leap at your foe. Inflicts blindness and heals you for each foe hit. Heal for a lesser amount for each target struck beyond the first.,"Прыгнуть к вашему противнику. Вызывает слепоту и исцеляет вас за каждого пораженного противника. Слегка исцелиться дополнительно на каждого пораженного противника, кроме первого."
+Leap at your target and strike nearby foes while healing yourself. Healing is increased if a foe is struck.,"Прыгнуть к вашей цели, нанести удар противникам поблизости и исцелиться. Если цель была поражена, исцеление будет увеличено."
+Leap at your target with an overhead strike that dazes them.,"Прыгните на цель с ударом сверху, который ошеломляет её."
 Leap attack that knocks down foes.,"Атака в прыжке, сбивающая врагов с ног."
-Leap away from your foe while firing a crippling shot.,"Отпрыгните от врага, выпустив калечащий выстрел."
+Leap away from your foe while firing a crippling shot.,"Отпрыгнуть от вашего противника, произведя выстрел, который делает противника хромым."
 "Leap finisher that leaps to the target, slamming down with massive force.","Прыжковый финишер, который прыгает к цели, обрушиваясь с огромной силой."
-"Leap forward and slam the ground with your hammer, gaining boons for each target struck.","Прыгните вперед и ударьте молотом по земле, получая благословения за каждую пораженную цель."
-"Leap forward and slam the ground with your hammer, knocking down nearby enemies.","Прыгните вперед и ударьте молотом по земле, сбивая ближайших врагов с ног."
-Leap forward and slash at your foe. Gain quickness if you successfully strike.,Прыгните вперед и полосните врага. Получите стремительность при успешном попадании.
-"Leap forward and smash the ground, inflicting conditions on foes while granting barrier and boons to allies.","Прыгните вперед и ударьте по земле, накладывая состояния на врагов и даруя барьер и благословения союзникам."
+"Leap forward and slam the ground with your hammer, gaining boons for each target struck.","Прыгните вперёд и ударьте молотом по земле, получая благословения за каждую пораженную цель."
+"Leap forward and slam the ground with your hammer, knocking down nearby enemies.","Прыгните вперёд и ударьте молотом по земле, сбивая ближайших врагов с ног."
+Leap forward and slash at your foe. Gain quickness if you successfully strike.,Прыгните вперёд и полосните врага. Получите стремительность при успешном попадании.
+"Leap forward and smash the ground, inflicting conditions on foes while granting barrier and boons to allies.","Прыгните вперёд и ударьте по земле, накладывая состояния на врагов и даруя барьер и благословения союзникам."
 "Leap into an area, and deliver a massive blow to enemies.",Прыгните в область и нанесите мощный удар по врагам.
 Leap of Faith,Прыжок веры
 "Leap onto foe, crippling them.","Прыгните на врага, наложив на него увечье."
@@ -96,19 +96,19 @@ Leap of Faith,Прыжок веры
 "Leap to the target and slash, inflicting cripple and vulnerability.","Прыгните к цели и нанесите удар, накладывая хромоту и уязвимость."
 "Leap to the targeted area, inflicting fear on foes at your ending point. Grant barrier to your tethered ally and nearby allies based on targets struck. Heal your tethered ally based on targets struck.","Прыгните в целевую область, накладывая страх на врагов в точке приземления. Дайте барьер связанному союзнику и ближайшим союзникам в зависимости от количества пораженных целей. Исцелите связанного союзника в зависимости от количества пораженных целей."
 "Leap to the targeted location, empowering allies and damaging enemies. Gain adrenaline if you affect another ally.","Прыгните в целевую область, усиливая союзников и нанося урон врагам. Получите адреналин, если затронете другого союзника."
-"Leap to your destination, evading through the air. Daze enemies near your impact point.","Прыгните к месту назначения, уклоняясь в полете. Ошеломите врагов рядом с точкой приземления."
-Leap to your target and create an arc of light that strikes nearby foes. Gain quickness based on your heat level.,"Прыгнуть к цели и создать световую дугу, которая бьет противников поблизости. Вам даруется Проворство."
-Leap to your target and create an arc of light that strikes nearby foes. Gain quickness.,"Прыгнуть к цели и создать световую дугу, которая бьет противников поблизости. Вам даруется Проворство."
-"Leap to your target and cripple them. If your target is disabled, defiant, or movement impaired, immobilize them instead.","Прыгните к цели и наложите на нее хромоту. Если цель под действием контроля, стойкости или замедления, вместо этого обездвижьте ее."
-Leap to your target and summon a clone if you hit. Can be recast to return to your starting point.,"Прыгните к цели и призовите клона, если попадете. Можно использовать повторно, чтобы вернуться в исходную точку."
+"Leap to your destination, evading through the air. Daze enemies near your impact point.","Прыгните к месту назначения, уклоняясь в полёте. Ошеломите врагов рядом с точкой приземления."
+Leap to your target and create an arc of light that strikes nearby foes. Gain quickness based on your heat level.,"Прыгнуть к цели и создать световую дугу, которая бьёт противников поблизости. Вам даруется Проворство."
+Leap to your target and create an arc of light that strikes nearby foes. Gain quickness.,"Прыгнуть к цели и создать световую дугу, которая бьёт противников поблизости. Вам даруется Проворство."
+"Leap to your target and cripple them. If your target is disabled, defiant, or movement impaired, immobilize them instead.","Прыгните к цели и наложите на неё хромоту. Если цель под действием контроля, стойкости или замедления, вместо этого обездвижьте её."
+Leap to your target and summon a clone if you hit. Can be recast to return to your starting point.,"Прыгнуть к вашей цели и создать клон при попадании. Умение можно использовать повторно, чтобы вернуться в первоначальную позицию."
 "Leap toward your destination, damaging foes upon impact.","Прыгните к месту назначения, нанося урон врагам при приземлении."
 "Leap toward your target, unleashing intense energy on the area if you strike them. Your primary target becomes the focus of your other skills. If a focused target dies, this skill is refreshed.","Прыгните к цели, высвобождая мощную энергию в области, если попадете. Ваша основная цель становится фокусом для других ваших умений. Если сфокусированная цель погибает, это умение перезаряжается."
 Leaping Lizard,Прыгающая ящерица
 Leaping Slice,Прыгающий разрез
 Leaping Strike,Прыгающий удар
 Leaps and attaches to an enemy.,Прыгает и прикрепляется к врагу.
-"Leaps forward, creating an area of corruption that deals damage and inflicts torment. Creates a dark combo field.","Прыгает вперед, создавая область порчи, которая наносит урон и накладывает боль. Создает комбо-поле тьмы."
-"Leaps forward, dealing damage and creating a damaging field.","Прыгает вперед, нанося урон и создавая наносящее урон поле."
+"Leaps forward, creating an area of corruption that deals damage and inflicts torment. Creates a dark combo field.","Прыгает вперёд, создавая область порчи, которая наносит урон и накладывает боль. Создает комбо-поле тьмы."
+"Leaps forward, dealing damage and creating a damaging field.","Прыгает вперёд, нанося урон и создавая наносящее урон поле."
 "Leaps to the target and creates a massive shock wave, damaging and knocking back enemies.","Прыгает к цели и создает мощную ударную волну, нанося урон и отбрасывая врагов."
 Leash Range,Дистанция привязки
 Leave Beastmode,Выйти из режима зверя
@@ -120,16 +120,16 @@ Leave Ritualist's Shroud and return to your normal form.,Покиньте сав
 Leave a trail of flame in your wake that damage enemies.,"Оставьте за собой след пламени, который наносит урон врагам."
 Leave a trail of glue behind you that hampers enemy movement.,"Оставьте за собой след из клея, который затрудняет передвижение врагов."
 Leave the celestial avatar form.,Покиньте форму небесного аватара.
-Leaves a trail of cleansing flames. Inflicts heavy damage to foes.,Оставляет след из очищающего пламени. Наносит тяжелый урон врагам.
+Leaves a trail of cleansing flames. Inflicts heavy damage to foes.,Оставляет след из очищающего пламени. Наносит тяжёлый урон врагам.
 "Leaves pools of corruption that damage and corrupt boons. Pools grow when Somber stands in them, and shrink when he's outside of them.","Оставляет лужи порчи, которые наносят урон и портят благословения. Лужи растут, когда Somber стоит в них, и уменьшаются, когда он выходит за их пределы."
-Leech a foe's health to heal yourself.,"Вытяните здоровье из врага, чтобы исцелить себя."
-Leech health from a foe to heal yourself.,"Вытяните здоровье из врага, чтобы исцелить себя."
+Leech a foe's health to heal yourself.,"Высосать здоровье у противника, чтобы исцелить себя."
+Leech health from a foe to heal yourself.,"Высосать здоровье у противника, чтобы исцелить себя."
 "Left undisturbed, the Eye unleashes its power on all foes in the area.","Оставшись без помех, Око высвобождает свою силу на всех врагов в области."
 Legendary Alliance,Легендарный альянс
 Legendary Alliance Stance,Стойка легендарного альянса
 Legendary Assassin Stance,Стойка легендарного ассасина
 Legendary Centaur Stance,Стойка легендарного кентавра
-"Legendary Centaur. Collect energy, pulling it into the tablet to build up its power. After a short delay the energy will be released, healing nearby allies.","Легендарный кентавр. Собирает энергию, притягивая ее в планшет для накопления силы. После короткой задержки энергия высвобождается, исцеляя ближайших союзников."
+"Legendary Centaur. Collect energy, pulling it into the tablet to build up its power. After a short delay the energy will be released, healing nearby allies.","Легендарный кентавр. Собирает энергию, притягивая её в планшет для накопления силы. После короткой задержки энергия высвобождается, исцеляя ближайших союзников."
 "Legendary Centaur. Force energy to erupt from the tablet, knocking down nearby foes and healing nearby allies.","Легендарный кентавр. Вынуждает энергию извергаться из планшета, сбивая с ног ближайших врагов и исцеляя ближайших союзников."
 "Legendary Centaur. Remove conditions from allies near the tablet, and heal them for a small amount per condition removed.",Легендарный кентавр. Снимает состояния с союзников рядом с планшетом и исцеляет их на небольшое количество за каждое снятое состояние.
 Legendary Centaur. Summon a protective barrier around the tablet that blocks enemy projectiles.,"Легендарный кентавр. Призывает защитный барьер вокруг планшета, который блокирует вражеские снаряды."
@@ -141,7 +141,7 @@ Legendary Renegade Stance,Легендарная стойка ренегата
 Legendary Renegade. Summon Kus Darkrazor to disrupt your enemies.,"Легендарный ренегат. Призовите Kus Darkrazor, чтобы дезориентировать врагов."
 Less than 33% Health,Здоровье ниже 33%
 Less than 66% Health,Здоровье ниже 66%
-"Lesser ""Guard!""",Малый «В ружье!»
+"Lesser ""Guard!""",Малый «В ружьё!»
 "Lesser ""Sic 'Em!""",Малая «Взять!»
 Lesser Arcane Shield,Малый магический щит
 Lesser Call of the Wild,Малый зов дикой природы
@@ -238,7 +238,7 @@ Lightning Bolt,Удар молнии
 Lightning Breath,Дыхание молнии
 Lightning Cage,Клетка молний
 Lightning Flash,Вспышка молнии
-Lightning Javelin,Копье молнии
+Lightning Javelin,Копьё молнии
 Lightning Leap,Прыжок молнии
 Lightning Orb,Сфера молнии
 Lightning Rod Charges,Заряды громоотвода
@@ -271,9 +271,9 @@ Luminary's Blessing,Благословение Светила
 Luminous Staff,Светящийся посох
 Lunar Impact,Лунный удар
 Lunge,Выпад
-Lunge at your foe and strike them with your sword.,Выполните выпад к противнику и ударьте его мечом.
+Lunge at your foe and strike them with your sword.,Броситься на противника и ударить его мечом.
 "Lunge at your foe, striking them with your sword.","Выполните выпад к противнику, ударив его мечом."
-"Lunge forward, crippling opponents in the path.","Выпад вперед, накладывающий увечье на противников на пути."
+"Lunge forward, crippling opponents in the path.","Выпад вперёд, накладывающий увечье на противников на пути."
 Lute Playing,Игра на лютне
 Mace Bash,Удар булавой
 Mace Blast,Взрыв булавы
@@ -299,20 +299,20 @@ Magnetic Leap,Магнитный прыжок
 Magnetic Shield,Магнитный щит
 Magnetic Surge,Магнитный всплеск
 Magnetic Wave,Магнитная волна
-Mai Trin follows up with another sweep of her rapier.,Mai Trin наносит еще один взмах своей рапирой.
-"Mai Trin leaps forward, striking and knocking down enemies in her path.","Mai Trin прыгает вперед, поражая и сбивая с ног врагов на своем пути."
-Mai Trin lunges forward to deliver a crippling thrust with her rapier.,"Mai Trin делает выпад вперед, нанося калечащий удар своей рапирой."
+Mai Trin follows up with another sweep of her rapier.,Mai Trin наносит ещё один взмах своей рапирой.
+"Mai Trin leaps forward, striking and knocking down enemies in her path.","Mai Trin прыгает вперёд, поражая и сбивая с ног врагов на своем пути."
+Mai Trin lunges forward to deliver a crippling thrust with her rapier.,"Mai Trin делает выпад вперёд, нанося калечащий удар своей рапирой."
 Mai Trin overloads her pistol with energy from the Mists before releasing a devastating explosion.,"Mai Trin перегружает свой пистолет энергией из Mists, после чего высвобождает разрушительный взрыв."
-"Mai Trin releases a blast of black powder from her pistol to blind her enemies, then leaps backward.","Mai Trin выпускает облако черного пороха из пистолета, чтобы ослепить врагов, а затем отпрыгивает назад."
+"Mai Trin releases a blast of black powder from her pistol to blind her enemies, then leaps backward.","Mai Trin выпускает облако чёрного пороха из пистолета, чтобы ослепить врагов, а затем отпрыгивает назад."
 "Mai Trin slashes at her opponents, inflicting bleeding before dodging backward.","Mai Trin полосует своих противников, вызывая кровотечение, а затем отпрыгивает назад."
-Mai Trin sweeps her rapier forward in an arc.,Mai Trin делает дуговой взмах рапирой вперед.
-Mai Trin teleports behind her target and delivers two quick slashes with her rapier.,Mai Trin телепортируется за спину своей цели и наносит два быстрых удара рапирой.
-"Mai Trin unleashes a flurry of attacks with her sword, teleporting before each strike.","Mai Trin обрушивает шквал атак своим мечом, телепортируясь перед каждым ударом."
-Maiming Spear,Калечащее копье
+Mai Trin sweeps her rapier forward in an arc.,Mai Trin делает дуговой взмах рапирой вперёд.
+Mai Trin teleports behind her target and delivers two quick slashes with her rapier.,Уклониться и ткнуть противника.
+"Mai Trin unleashes a flurry of attacks with her sword, teleporting before each strike.","Сделать Призрачный Шаг и провести яростную атаку против противников поблизости. Вам даруется Мощь каждый раз, когда вы наносите противнику урон."
+Maiming Spear,Калечащее копьё
 Mainshock,Главный удар
-Make lava erupt from the target area.,Заставьте лаву извергнуться из целевой области.
-Make your foe flee in fear.,Заставьте врага бежать в страхе.
-Make your foe vulnerable with a shot to their vitals.,"Сделайте врага уязвимым, выстрелив в его жизненно важные органы."
+Make lava erupt from the target area.,Создать извержение лавы в выбранной области.
+Make your foe flee in fear.,Заставить своего противника убегать в страхе.
+Make your foe vulnerable with a shot to their vitals.,"Выпустить стрелу, которая пробивает врагов. Если стрела попадет во вторую цель, все пораженные противники будут хромать."
 Makes enemies more vulnerable to Decima's fluxlance beams.,Делает врагов более уязвимыми к лучам fluxlance от Decima.
 Makes enemies vulnerable to dancing sparks.,Делает врагов уязвимыми к танцующим искрам.
 Malice Gained upon Critical Hit,"Злоба, полученная при критическом ударе"
@@ -334,7 +334,7 @@ Man O' War,Боевой корабль
 Manifest Sand Shade,Проявление песчаной тени
 Manifest Toxin,Проявление токсина
 "Manifest a powerful cyclone at the target location, periodically damaging enemies.","Создает мощный циклон в указанной области, периодически нанося урон врагам."
-Manifest an electrical field that stuns foes crossing it.,"Создает электрическое поле, оглушающее пересекающих его врагов."
+Manifest an electrical field that stuns foes crossing it.,"Создать электрическое поле, которое оглушает пересекающих его противников."
 Manifest flames that damage enemies on an interval.,"Создает пламя, наносящее урон врагам с определенным интервалом."
 Mantis Sting,Жало богомола
 Mantra of Concentration,Мантра концентрации
@@ -351,7 +351,7 @@ Mantra of Truth,Мантра истины
 March of Undeath,Марш нежити
 Mariner's Frenzy,Ярость моряка
 Mariner's Shot,Выстрел моряка
-"Mark a single target; after a short delay, bombard the area with spears that deal more damage to the marked target and continue to track their location.","Отметьте одну цель; после небольшой задержки обрушьте на область копья, которые наносят больше урона отмеченной цели и продолжают отслеживать ее местоположение."
+"Mark a single target; after a short delay, bombard the area with spears that deal more damage to the marked target and continue to track their location.","Отметьте одну цель; после небольшой задержки обрушьте на область копья, которые наносят больше урона отмеченной цели и продолжают отслеживать её местоположение."
 "Mark an area for judgment, rapidly healing allies and then blasting foes in the area.","Отметьте область для суда, быстро исцеляя союзников, а затем поражая врагов в этой области."
 Mark of Anguish,Метка мучений
 Mark of Blood,Метка крови
@@ -414,7 +414,7 @@ Maximum Wall Hits,Макс. попаданий по стене
 Maximum-Strength Daze,Ошеломление максимальной силы
 "McLeod fires a quick shot at a target, applying torment.","McLeod делает быстрый выстрел в цель, накладывая боль."
 "McLeod sends out a flurry of slashes at frontline targets, applying confusion with each hit.","McLeod обрушивает шквал ударов на цели в первой линии, накладывая замешательство с каждым попаданием."
-McLeod slashes foes.,McLeod атакует врагов.
+McLeod slashes foes.,Резануть вашего противника.
 McLeod teleports and blasts the area.,McLeod телепортируется и взрывает область.
 Measured Shot,Выверенный выстрел
 Mech Command. Pulse a barrier and boons to all nearby allies.,Команда меха. Создайте барьер и наложите благословения на всех ближайших союзников.
@@ -476,7 +476,7 @@ Minion Damage,Урон прислужника
 Minion Lifetime,Время жизни прислужника
 "Minister Li fires a bolt of energy at targets in sequential order. This bolt explodes on impact, dealing significant damage and applying extreme vulnerability to targets in an area. Targets with extreme vulnerability are killed by this attack.","Minister Li выпускает энергетический снаряд по целям в последовательном порядке. Снаряд взрывается при попадании, нанося значительный урон и накладывая эффект «Крайняя уязвимость» на цели в области поражения. Цели с «Крайней уязвимостью» погибают от этой атаки."
 "Minister Li fires a bolt of energy at targets in sequential order. This bolt explodes on impact, dealing significant damage and applying extreme vulnerability to targets in an area. Targets with extreme vulnerability take significant damage from this attack.","Minister Li выпускает энергетический снаряд по целям в последовательном порядке. Снаряд взрывается при попадании, нанося значительный урон и накладывая эффект «Крайняя уязвимость» на цели в области поражения. Цели с «Крайней уязвимостью» получают значительный урон от этой атаки."
-Minister Li fires a shell at long-range targets that explode on the first enemy hit.,"Minister Li выпускает снаряд по дальним целям, который взрывается при первом же попадании во врага."
+Minister Li fires a shell at long-range targets that explode on the first enemy hit.,"Использовать все заряды, чтобы выстрелить из вашего меча пулей, которая взрывается, попав в первого противника на своем пути. Нанести дополнительный урон и наложить эффекты, зависящие от числа использованных зарядов."
 "Minister Li launches forward to a target location, damaging and launching enemies in his path.","Minister Li совершает рывок к выбранной цели, нанося урон и отбрасывая врагов на своем пути."
 "Minister Li swings his blade with mighty strength, creating a cone-shaped shock wave that deals significant damage and launches enemies.","Minister Li с огромной силой взмахивает клинком, создавая конусообразную ударную волну, которая наносит значительный урон и отбрасывает врагов."
 Mirage Advance,Продвижение миража

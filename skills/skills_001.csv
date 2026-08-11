@@ -1,5 +1,5 @@
 english,translate
-"""Advance!""",«Вперед!»
+"""Advance!""",«Вперёд!»
 """Aftershock!""",«Афтершок!»
 """Brace Yourselves!""",«Держитесь!»
 """Chilled to the Bone!""",«Леденящий холод!»
@@ -12,7 +12,7 @@ english,translate
 """For Great Justice!""",«Во имя справедливости!»
 """Guard!""",«Защищай!»
 """Hold the Line!""",«Держать строй!»
-"""Knuckles"" slams the platform, knocking foes into the air before following up with a spin attack.","«Knuckles» бьет по платформе, подбрасывая врагов в воздух, а затем проводит вращающуюся атаку."
+"""Knuckles"" slams the platform, knocking foes into the air before following up with a spin attack.","«Knuckles» бьёт по платформе, подбрасывая врагов в воздух, а затем проводит вращающуюся атаку."
 """Never Surrender!""",«Никогда не сдаваться!»
 """Nothing Can Save You!""",«Ничто вас не спасет!»
 """On My Mark!""",«По моей команде!»
@@ -58,7 +58,7 @@ english,translate
 <c=@reminder>Клоны, использующие эту атаку, распространяют свои благословения вокруг вас, а не на себя.</c>"
 <c=@abilitytype>Ambush.</c> Release a wave of energy that interrupts and confuses foes.,"<c=@abilitytype>Засада.</c> Выпустите волну энергии, прерывающую и сбивающую с толку врагов."
 "<c=@abilitytype>Ambush.</c> Shoot a beam at a targeted foe, and secondary beams at foes near your target.",<c=@abilitytype>Засада.</c> Выстрелите лучом в выбранную цель и вторичными лучами во врагов рядом с ней.
-<c=@abilitytype>Ambush.</c> Slice your foe with a flurry of blades. Each blade inflicts different conditions.,<c=@abilitytype>Засада.</c> Разрежьте врага градом клинков. Каждый клинок накладывает разные состояния.
+<c=@abilitytype>Ambush.</c> Slice your foe with a flurry of blades. Each blade inflicts different conditions.,<c=@abilitytype>Засада.</c> Порезать противника градом клинков. Каждый клинок накладывает новое состояние.
 "<c=@abilitytype>Ambush.</c> Spray invigorating magic, damaging enemies and healing allies.","<c=@abilitytype>Засада.</c> Распылите бодрящую магию, нанося урон врагам и исцеляя союзников."
 "<c=@abilitytype>Arcane.</c> Blast the area, hitting foes with critical damage and healing yourself. Healing effectiveness is increased per target hit. If this skill finishes a combo, you heal an additional amount.","<c=@abilitytype>Мистический.</c> Взорвите область, нанося врагам критический урон и исцеляя себя. Эффективность исцеления увеличивается за каждую пораженную цель. Если этот навык завершает комбо, вы получаете дополнительное исцеление."
 <c=@abilitytype>Arcane.</c> Blast your foe with energy for critical damage.,"<c=@abilitytype>Мистический.</c> Поразите врага энергией, нанося критический урон."
@@ -88,25 +88,25 @@ english,translate
 "<c=@abilitytype>Beast. </c> Emit a cacophonous screech, dazing and tormenting nearby enemies.","<c=@abilitytype>Зверь. </c> Издайте какофонический визг, оглушая и мучая врагов поблизости."
 "<c=@abilitytype>Beast. </c>Bite your foe, chilling them.","<c=@abilitytype>Зверь. </c>Укусите вашего врага, накладывая холод."
 <c=@abilitytype>Beast. </c>Blind your foes with a slash.,<c=@abilitytype>Зверь. </c>Ослепите врагов рубящим ударом.
-<c=@abilitytype>Beast. </c>Boil the water around your foe.,<c=@abilitytype>Зверь. </c>Вскипятите воду вокруг вашего врага.
+<c=@abilitytype>Beast. </c>Boil the water around your foe.,<c=@abilitytype>Зверь. </c>Довести до кипения воду вокруг вашего противника.
 <c=@abilitytype>Beast. </c>Breathe a cone of fire that burns foes.,"<c=@abilitytype>Зверь. </c>Выдохните конус огня, который поджигает врагов."
 "<c=@abilitytype>Beast. </c>Breathe a cone of frost, damaging and chilling foes.","<c=@abilitytype>Зверь. </c>Выдохните конус мороза, нанося урон и накладывая холод на врагов."
 <c=@abilitytype>Beast. </c>Breathe bolts of lightning that bounce to nearby foes.,"<c=@abilitytype>Зверь. </c>Выдохните разряды молнии, которые отскакивают к врагам поблизости."
 "<c=@abilitytype>Beast. </c>Channel an expanding stream of flame from above. When the engulfed region reaches its full size, it becomes a fire field.","<c=@abilitytype>Зверь. </c>Направьте расширяющийся поток пламени сверху. Когда охваченная область достигает полного размера, она становится огненным полем."
 "<c=@abilitytype>Beast. </c>Charge forward, headbutting foes and electrifying its destination.","<c=@abilitytype>Зверь. </c>Рваните вперёд, бодая врагов и электризуя место назначения."
 "<c=@abilitytype>Beast. </c>Charge into a foe, pushing them back and causing them to bleed.","<c=@abilitytype>Зверь. </c>Врежьтесь во врага, отбрасывая его назад и заставляя истекать кровью."
-<c=@abilitytype>Beast. </c>Charge the water around your foe with electricity.,<c=@abilitytype>Зверь. </c>Зарядите воду вокруг врага электричеством.
+<c=@abilitytype>Beast. </c>Charge the water around your foe with electricity.,"<c=@abilitytype>Зверь. </c>Зарядить воду вокруг вашего противника электричеством. Противники, которые активируют умения, будут ошеломлены."
 <c=@abilitytype>Beast. </c>Create a cloud of smoke for the smokescale to hide in.,"<c=@abilitytype>Зверь. </c>Создайте облако дыма, в котором сможет спрятаться чешуйчатый."
 "<c=@abilitytype>Beast. </c>Create a cone of sound, dazing foes.","<c=@abilitytype>Зверь. </c>Создайте конус звука, оглушая врагов."
 "<c=@abilitytype>Beast. </c>Create a high-pitched screech, dazing nearby foes.","<c=@abilitytype>Зверь. </c>Издайте пронзительный визг, оглушая ближайших врагов."
 "<c=@abilitytype>Beast. </c>Create a pulse of ley energy around your target, dazing nearby enemies.","<c=@abilitytype>Зверь. </c>Создайте импульс лей-энергии вокруг цели, оглушая ближайших врагов."
-<c=@abilitytype>Beast. </c>Create a sonic barrier that reflects projectiles.,"<c=@abilitytype>Зверь. </c>Создайте звуковой барьер, отражающий снаряды."
+<c=@abilitytype>Beast. </c>Create a sonic barrier that reflects projectiles.,"<c=@abilitytype>Зверь. </c>Создать звуковой барьер, отражающий метательные снаряды."
 <c=@abilitytype>Beast. </c>Cure a condition on yourself and all nearby allies.,<c=@abilitytype>Зверь. </c>Исцелите одно состояние у себя и всех ближайших союзников.
 <c=@abilitytype>Beast. </c>Deploy a barrier that shields allies from incoming projectiles and grants protection.,"<c=@abilitytype>Зверь. </c>Разверните барьер, защищающий союзников от входящих снарядов и дарующий протекцию."
 "<c=@abilitytype>Beast. </c>Draw in and release a blast of your energy, dealing hefty damage to nearby foes.","<c=@abilitytype>Зверь. </c>Втяните и выпустите взрыв своей энергии, нанося значительный урон ближайшим врагам."
 <c=@abilitytype>Beast. </c>Emit a cone of discordant sonic energy to confuse foes.,"<c=@abilitytype>Зверь. </c>Испустите конус диссонирующей звуковой энергии, чтобы сбить с толку врагов."
-<c=@abilitytype>Beast. </c>Emit a noxious cloud that poisons and damages foes.,"<c=@abilitytype>Зверь. </c>Испустите ядовитое облако, отравляющее и наносящее урон врагам."
-<c=@abilitytype>Beast. </c>Enter a frenzy. Attack faster and bleed on each hit.,<c=@abilitytype>Зверь. </c>Войдите в неистовство. Атакуйте быстрее и заставляйте истекать кровью при каждом ударе.
+<c=@abilitytype>Beast. </c>Emit a noxious cloud that poisons and damages foes.,"<c=@abilitytype>Зверь. </c>Выпустить в противника ядовитое облако, которое наносит урон и отравляет противника."
+<c=@abilitytype>Beast. </c>Enter a frenzy. Attack faster and bleed on each hit.,"<c=@abilitytype>Зверь. </c>Призвать косяк рыб-умертвий, которые нападают на вашего противника."
 <c=@abilitytype>Beast. </c>Fire a barrage of spikes at your target.,<c=@abilitytype>Зверь. </c>Выпускает залп шипов в цель.
 <c=@abilitytype>Beast. </c>Fire a missile that roots foes for a period of time.,"<c=@abilitytype>Зверь. </c>Выпускает снаряд, который обездвиживает врагов на время."
 "<c=@abilitytype>Beast. </c>Fires a sweeping breath attack, damaging foes.","<c=@abilitytype>Зверь. </c>Совершает размашистую атаку дыханием, нанося урон врагам."
@@ -117,19 +117,19 @@ english,translate
 <c=@abilitytype>Beast. </c>Howl at foes to chill them.,"<c=@abilitytype>Зверь. </c>Воет на врагов, накладывая на них холод."
 <c=@abilitytype>Beast. </c>Howl at foes to immobilize them.,"<c=@abilitytype>Зверь. </c>Воет на врагов, чтобы обездвижить их."
 <c=@abilitytype>Beast. </c>Howl at foes to send them running in fear.,"<c=@abilitytype>Зверь. </c>Воет на врагов, обращая их в бегство от страха."
-<c=@abilitytype>Beast. </c>Howl to heal and grant regeneration to nearby allies.,"<c=@abilitytype>Зверь. </c>Воет, чтобы исцелить и дать регенерацию союзникам поблизости."
+<c=@abilitytype>Beast. </c>Howl to heal and grant regeneration to nearby allies.,<c=@abilitytype>Зверь. </c>Даровать себе Регенерацию.
 <c=@abilitytype>Beast. </c>Howl to summon hyena allies to fight with you.,"<c=@abilitytype>Зверь. </c>Воет, чтобы призвать союзников-гиен для совместной борьбы."
 "<c=@abilitytype>Beast. </c>Launch a beehive at your enemy, covering the ground with sticky honey on impact.","<c=@abilitytype>Зверь. </c>Запускает улей во врага, покрывая землю липким мёдом при ударе."
 <c=@abilitytype>Beast. </c>Leap at a foe and make them bleed.,<c=@abilitytype>Зверь. </c>Прыгает на врага и заставляет его истекать кровью.
 "<c=@abilitytype>Beast. </c>Leap at your foe, chilling them.","<c=@abilitytype>Зверь. </c>Прыгает на врага, накладывая на него холод."
 "<c=@abilitytype>Beast. </c>Let out a noble roar, granting superspeed to nearby allies.","<c=@abilitytype>Зверь. </c>Издаёт благородный рык, даруя сверхскорость союзникам поблизости."
 <c=@abilitytype>Beast. </c>Make your foe bleed with a fierce mauling.,<c=@abilitytype>Зверь. </c>Заставляет врага истекать кровью яростным заклёвыванием.
-<c=@abilitytype>Beast. </c>Maul your foe fiercely and chill them.,<c=@abilitytype>Зверь. </c>Яростно терзайте врага и накладывайте оцепенение.
-<c=@abilitytype>Beast. </c>Maul your foe fiercely and poison them.,<c=@abilitytype>Зверь. </c>Яростно терзайте врага и отравляйте.
+<c=@abilitytype>Beast. </c>Maul your foe fiercely and chill them.,<c=@abilitytype>Зверь. </c>Нанести противнику жестокий удар и заморозить его.
+<c=@abilitytype>Beast. </c>Maul your foe fiercely and poison them.,<c=@abilitytype>Зверь. </c>Нанести противнику жестокий удар и отравить его.
 "<c=@abilitytype>Beast. </c>Maul your foe, weakening them.","<c=@abilitytype>Зверь. </c>Терзайте врага, ослабляя его."
 <c=@abilitytype>Beast. </c>Pounce on your target and grant fury to nearby allies.,<c=@abilitytype>Зверь. </c>Прыгните на цель и даруйте ярость союзникам поблизости.
 <c=@abilitytype>Beast. </c>Pull foes toward you and bind them briefly.,<c=@abilitytype>Зверь. </c>Притяните врагов к себе и на короткое время свяжите.
-<c=@abilitytype>Beast. </c>Purge all conditions from yourself.,<c=@abilitytype>Зверь. </c>Снимите с себя все состояния.
+<c=@abilitytype>Beast. </c>Purge all conditions from yourself.,<c=@abilitytype>Зверь. </c>Снять с себя все состояния.
 <c=@abilitytype>Beast. </c>Rapidly launch projectiles that bleed your target.,"<c=@abilitytype>Зверь. </c>Быстро запускайте снаряды, вызывающие кровотечение у цели."
 <c=@abilitytype>Beast. </c>Release a powerful roar that blinds nearby foes.,"<c=@abilitytype>Зверь. </c>Издайте мощный рёв, ослепляющий врагов поблизости."
 <c=@abilitytype>Beast. </c>Restore health to your allies and grant them a reprieve from conditions.,<c=@abilitytype>Зверь. </c>Восстановите здоровье союзникам и даруйте им избавление от состояний.
@@ -157,7 +157,7 @@ english,translate
 "<c=@abilitytype>Beast. </c>Whirl your tentacles, immobilizing the foes you strike.","<c=@abilitytype>Зверь. </c>Вращайте щупальца, обездвиживая пораженных врагов."
 <c=@abilitytype>Beast. </c>Your next attack immoblizes your foe.,<c=@abilitytype>Зверь. </c>Ваша следующая атака обездвиживает врага.
 <c=@abilitytype>Beast. </c>Your next three attacks poison your foe.,<c=@abilitytype>Зверь. </c>Ваши следующие три атаки отравляют врага.
-<c=@abilitytype>Beast. </c>Your next two attacks stun your victims.,<c=@abilitytype>Зверь. </c>Ваши следующие две атаки оглушают жертв.
+<c=@abilitytype>Beast. </c>Your next two attacks stun your victims.,<c=@abilitytype>Зверь. </c>Две ваши следующие атаки оглушат ваши жертвы.
 <c=@abilitytype>Beast. </c>Your next two attacks weaken your foes and make them vulnerable.,<c=@abilitytype>Зверь. </c>Ваши следующие две атаки ослабляют врагов и делают их уязвимыми.
 <c=@abilitytype>Beast.</c> Exhale a swarm of insects that hits multiple foes.,"<c=@abilitytype>Зверь.</c> Выдохните рой насекомых, поражающий нескольких врагов."
 "<c=@abilitytype>Beast.</c> Fire malignant magic at nearby enemies, corrupting boons on enemies it hits.","<c=@abilitytype>Зверь.</c> Выстрелите злокачественной магией в ближайших врагов, превращая благословения на пораженных врагах в проклятия."
@@ -173,30 +173,30 @@ english,translate
 "<c=@abilitytype>Burst.</c> Carve a path to victory, dealing damage to enemies in front of you while healing and granting regeneration to nearby allies.","<c=@abilitytype>Взрыв.</c> Прорубите путь к победе, нанося урон врагам перед собой, исцеляя и даруя регенерацию ближайшим союзникам."
 <c=@abilitytype>Burst.</c> Critically strike your target. This attack cannot be blocked and does increased damage for each boon on your target.,<c=@abilitytype>Взрыв.</c> Нанесите критический удар цели. Эта атака не может быть заблокирована и наносит повышенный урон за каждое благословение на цели.
 "<c=@abilitytype>Burst.</c> Deliver a circular attack to foes around you, and gain fury. Deal more damage to foes with low health.",<c=@abilitytype>Взрыв.</c> Нанесите круговую атаку по врагам вокруг вас и получите ярость. Наносите больше урона врагам с низким здоровьем.
-<c=@abilitytype>Burst.</c> Fire a forceful shot.,<c=@abilitytype>Рывок.</c> Выстрелите мощным снарядом.
-<c=@abilitytype>Burst.</c> Fire a forceful shot. Damage increases with adrenaline level.,<c=@abilitytype>Рывок.</c> Выстрелите мощным снарядом. Урон увеличивается с уровнем адреналина.
-<c=@abilitytype>Burst.</c> Fire a powerful shot. Damage increases with adrenaline level. Deal increased damage to enemies that are affected by crowd control or below the health threshold.,"<c=@abilitytype>Рывок.</c> Выстрелите мощным снарядом. Урон увеличивается с уровнем адреналина. Наносит повышенный урон врагам, находящимся под контролем или ниже порога здоровья."
-<c=@abilitytype>Burst.</c> Fire a powerful shot. Deal increased damage to enemies that are affected by crowd control or below the health threshold.,"<c=@abilitytype>Рывок.</c> Выстрелите мощным снарядом. Наносит повышенный урон врагам, находящимся под контролем или ниже порога здоровья."
+<c=@abilitytype>Burst.</c> Fire a forceful shot.,<c=@abilitytype>Рывок.</c> Произвести сильный выстрел. Урон увеличивается с возрастанием уровня адреналина.
+<c=@abilitytype>Burst.</c> Fire a forceful shot. Damage increases with adrenaline level.,<c=@abilitytype>Рывок.</c> Произвести сильный выстрел. Урон увеличивается с возрастанием уровня адреналина.
+<c=@abilitytype>Burst.</c> Fire a powerful shot. Damage increases with adrenaline level. Deal increased damage to enemies that are affected by crowd control or below the health threshold.,"<c=@abilitytype>Рывок.</c> Произвести сильный выстрел. Урон увеличивается с возрастанием уровня адреналина. Нанести повышенный урон противникам, на которых наложены эффекты контроля или чье здоровье ниже порога."
+<c=@abilitytype>Burst.</c> Fire a powerful shot. Deal increased damage to enemies that are affected by crowd control or below the health threshold.,"<c=@abilitytype>Рывок.</c> Произвести сильный выстрел. Урон увеличивается с возрастанием уровня адреналина. Нанести повышенный урон противникам, на которых наложены эффекты контроля или чье здоровье ниже порога."
 "<c=@abilitytype>Burst.</c> Ignite target area, burning nearby foes. Effect increases with adrenaline level.","<c=@abilitytype>Рывок.</c> Подожгите целевую область, нанося ожоги ближайшим врагам. Эффект увеличивается с уровнем адреналина."
 "<c=@abilitytype>Burst.</c> Ignite the target area, burning nearby foes.","<c=@abilitytype>Рывок.</c> Подожгите целевую область, нанося ожоги ближайшим врагам."
 <c=@abilitytype>Burst.</c> Immobilize your foes with a flurry of bleeding strikes.,<c=@abilitytype>Рывок.</c> Обездвижьте врагов шквалом кровоточащих ударов.
 <c=@abilitytype>Burst.</c> Immobilize your foes with a flurry of bleeding strikes. Effect increases with adrenaline level.,<c=@abilitytype>Рывок.</c> Обездвижьте врагов шквалом кровоточащих ударов. Эффект увеличивается с уровнем адреналина.
-"<c=@abilitytype>Burst.</c> Jump up and throw a spear at your targeted location, dealing damage in an area. Damage dealt is increased with adrenaline level, and the opponent closest to the epicenter takes additional damage.","<c=@abilitytype>Рывок.</c> Подпрыгните и бросьте копье в указанное место, нанося урон по области. Наносимый урон увеличивается с уровнем адреналина, а ближайший к эпицентру противник получает дополнительный урон."
-"<c=@abilitytype>Burst.</c> Jump up and throw a spear at your targeted location, dealing damage in an area. The opponent closest to the epicenter takes additional damage.","<c=@abilitytype>Рывок.</c> Подпрыгните и бросьте копье в указанное место, нанося урон по области. Ближайший к эпицентру противник получает дополнительный урон."
-<c=@abilitytype>Burst.</c> Leap at your foe with a devastating attack.,<c=@abilitytype>Рывок.</c> Атакуйте врага сокрушительным прыжком.
-<c=@abilitytype>Burst.</c> Leap at your foe with a devastating attack. Effect increases with adrenaline level. Gain might if this attack hits.,<c=@abilitytype>Рывок.</c> Атакуйте врага сокрушительным прыжком. Эффект увеличивается с уровнем адреналина. При попадании даёт могущество.
+"<c=@abilitytype>Burst.</c> Jump up and throw a spear at your targeted location, dealing damage in an area. Damage dealt is increased with adrenaline level, and the opponent closest to the epicenter takes additional damage.","<c=@abilitytype>Рывок.</c> Подпрыгните и бросьте копьё в указанное место, нанося урон по области. Наносимый урон увеличивается с уровнем адреналина, а ближайший к эпицентру противник получает дополнительный урон."
+"<c=@abilitytype>Burst.</c> Jump up and throw a spear at your targeted location, dealing damage in an area. The opponent closest to the epicenter takes additional damage.","<c=@abilitytype>Рывок.</c> Подпрыгните и бросьте копьё в указанное место, нанося урон по области. Ближайший к эпицентру противник получает дополнительный урон."
+<c=@abilitytype>Burst.</c> Leap at your foe with a devastating attack.,"<c=@abilitytype>Рывок.</c> Прыгнуть к противнику в разрушительной атаке. Эффект усиливается с возрастанием уровня адреналина. Вам даруется Мощь, если эта атака попадает в цель."
+<c=@abilitytype>Burst.</c> Leap at your foe with a devastating attack. Effect increases with adrenaline level. Gain might if this attack hits.,"<c=@abilitytype>Рывок.</c> Прыгнуть к противнику в разрушительной атаке. Эффект усиливается с возрастанием уровня адреналина. Вам даруется Мощь, если эта атака попадает в цель."
 <c=@abilitytype>Burst.</c> Release a conical wave of sound that blows away boons on targets it hits. Stuns foes using skills.,"<c=@abilitytype>Рывок.</c> Выпустите коническую звуковую волну, сдувающую благословения с поражённых целей. Оглушает врагов, использующих навыки."
 "<c=@abilitytype>Burst.</c> Strike all foes around you, stunning them.","<c=@abilitytype>Рывок.</c> Поразите всех врагов вокруг себя, оглушая их."
 "<c=@abilitytype>Burst.</c> Strike all foes around you, stunning them. Effect increases with adrenaline level.","<c=@abilitytype>Рывок.</c> Поразите всех врагов вокруг себя, оглушая их. Эффект усиливается с уровнем адреналина."
-<c=@abilitytype>Burst.</c> Strike all foes around you. Effect increases with adrenaline level.,<c=@abilitytype>Рывок.</c> Поразите всех врагов вокруг себя. Эффект усиливается с уровнем адреналина.
+<c=@abilitytype>Burst.</c> Strike all foes around you. Effect increases with adrenaline level.,<c=@abilitytype>Рывок.</c> Ударить всех противников вокруг вас. Эффект усиливается с возрастанием уровня адреналина.
 "<c=@abilitytype>Burst.</c> Strike your foe and remove boons. Stunned, dazed, or knocked-down foes are immobilized.","<c=@abilitytype>Рывок.</c> Поразите врага и снимите благословения. Оглушённые, ошеломлённые или сбитые с ног враги обездвиживаются."
 "<c=@abilitytype>Burst.</c> Strike your foe, inflicting bleeding. If you hit a foe using a skill, additional bleeding and torment are inflicted.","<c=@abilitytype>Рывок.</c> Поразите врага, нанося кровотечение. Если вы поразили врага, использующего навык, наносится дополнительное кровотечение и боль."
-<c=@abilitytype>Burst.</c> Strike your target and remove boons. Deal more damage if your target has no boons.,"<c=@abilitytype>Рывок.</c> Поразите цель и снимите благословения. Наносите больше урона, если у цели нет благословений."
-<c=@abilitytype>Burst.</c> Stun your foe with a skull crack.,<c=@abilitytype>Рывок.</c> Оглушите врага трещиной в черепе.
-<c=@abilitytype>Burst.</c> Stun your foe with a skull crack. Effect increases with adrenaline level.,<c=@abilitytype>Рывок.</c> Оглушите врага трещиной в черепе. Эффект усиливается с уровнем адреналина.
-<c=@abilitytype>Cantrip.</c> Convert all your conditions into vulnerability.,<c=@abilitytype>Фокус.</c> Преобразуйте все ваши состояния в уязвимость.
-<c=@abilitytype>Cantrip.</c> Create a ring of spores around yourself that explodes after a short duration. Enemies hit by all spores are knocked down.,"<c=@abilitytype>Фокус.</c> Создайте кольцо спор вокруг себя, которое взрывается через короткое время. Враги, поражённые всеми спорами, сбиваются с ног."
-<c=@abilitytype>Cantrip.</c> Cure a condition and heal yourself with every pulse.,<c=@abilitytype>Уловка.</c> Снимайте состояние и исцеляйте себя с каждым импульсом.
+<c=@abilitytype>Burst.</c> Strike your target and remove boons. Deal more damage if your target has no boons.,"<c=@abilitytype>Рывок.</c> Нанести удар по цели и снять дары. Нанести повышенный урон, если у цели нет даров."
+<c=@abilitytype>Burst.</c> Stun your foe with a skull crack.,"<c=@abilitytype>Рывок.</c> Оглушить противника, пробив ему голову. Эффект усиливается с возрастанием уровня адреналина."
+<c=@abilitytype>Burst.</c> Stun your foe with a skull crack. Effect increases with adrenaline level.,"<c=@abilitytype>Рывок.</c> Оглушить противника, пробив ему голову. Эффект усиливается с возрастанием уровня адреналина."
+<c=@abilitytype>Cantrip.</c> Convert all your conditions into vulnerability.,<c=@abilitytype>Фокус.</c> Превратить все лежащие на вас состояния в уязвимость.
+<c=@abilitytype>Cantrip.</c> Create a ring of spores around yourself that explodes after a short duration. Enemies hit by all spores are knocked down.,"<c=@abilitytype>Фокус.</c> Создать вокруг себя кольцо из спор, которые взрываются после короткой задержки. Противники, пораженные всеми спорами, будут сбиты с ног."
+<c=@abilitytype>Cantrip.</c> Cure a condition and heal yourself with every pulse.,<c=@abilitytype>Уловка.</c> Снять состояние и исцелить себя на каждом такте.
 <c=@abilitytype>Cantrip.</c> Cure conditions and burn foes. Gain might for each condition removed.,<c=@abilitytype>Уловка.</c> Снимайте состояния и сжигайте врагов. Получайте мощь за каждое снятое состояние.
 "<c=@abilitytype>Cantrip.</c> Knock away nearby foes with a burst of shadow magic, then stealth yourself. If this skill hits your marked target, they'll be launched instead.","<c=@abilitytype>Фокус.</c> Отбросьте ближайших врагов взрывом теневой магии, затем станьте невидимым. Если это умение попадает по вашей отмеченной цели, она будет подброшена."
 "<c=@abilitytype>Cantrip.</c> Lose all malice, instantly refresh Deadeye's Mark, and gain initiative. Gain additional initiative for each stack of malice you had prior to using this skill.","<c=@abilitytype>Фокус.</c> Потеряйте всю злобу, мгновенно обновите Метку Стрелка и получите инициативу. Получите дополнительную инициативу за каждый стак злобы, который был у вас до использования этого умения."
@@ -205,74 +205,74 @@ english,translate
 "<c=@abilitytype>Cantrip.</c> Reveal yourself if you are stealthed and remove boons from your target after a short delay. If the foe is your marked target, they are also immobilized.","<c=@abilitytype>Фокус.</c> Раскройте себя, если вы невидимы, и снимите благословения с цели после небольшой задержки. Если враг является вашей отмеченной целью, он также обездвиживается."
 <c=@abilitytype>Cantrip.</c> Surround nearby foes with a cage of nature they cannot escape. <c=@reminder>Enemies that were not struck are unaffected by active cages.</c>,"<c=@abilitytype>Фокус.</c> Окружите ближайших врагов клеткой природы, из которой они не могут сбежать. <c=@reminder>Враги, которые не были поражены, не подвержены действию активных клеток.</c>"
 "<c=@abilitytype>Cantrip.</c> Surround yourself with elements of nature, gaining defensive boons and damage reduction. Striking an enemy while this fortification is active reduces the cooldown of this ability.","<c=@abilitytype>Фокус.</c> Окружите себя стихиями природы, получая защитные благословения и снижение урона. Удар по врагу, пока это укрепление активно, сокращает время восстановления этого умения."
-<c=@abilitytype>Cantrip.</c> Teleport to target area.,<c=@abilitytype>Уловка.</c> Телепортируйтесь в целевую область.
+<c=@abilitytype>Cantrip.</c> Teleport to target area.,<c=@abilitytype>Уловка.</c> Переместиться в выбранную область.
 "<c=@abilitytype>Cantrip.</c> Teleport to your target, delivering a bolt of lightning at your location.","<c=@abilitytype>Фокус.</c> Телепортируйтесь к цели, нанося удар молнии в вашем местоположении."
 "<c=@abilitytype>Cantrip.</c> Teleport to your target, making nearby enemies vulnerable. If an enemy is struck, this skill's recharge is reduced.","<c=@abilitytype>Фокус.</c> Телепортируйтесь к цели, делая ближайших врагов уязвимыми. Если враг поражён, восстановление этого умения сокращается."
-<c=@abilitytype>Cantrip.</c> Throw an orb of shadow magic that damages nearby foes at your targeted location. You may reactivate this skill to swap places with the orb. Deals increased damage to your marked target.,"<c=@abilitytype>Фокус.</c> Бросьте сферу теневой магии, которая наносит урон ближайшим врагам в указанном месте. Вы можете повторно активировать это умение, чтобы поменяться местами со сферой. Наносит повышенный урон вашей отмеченной цели."
-<c=@abilitytype>Cantrip.</c> Transfer your conditions to your marked target and then heal yourself.,"<c=@abilitytype>Фокус.</c> Перенесите свои состояния на отмеченную цель, а затем исцелите себя."
-<c=@abilitytype>Cantrip.</c> Vanish into stealth.,"<c=@abilitytype>Фокус.</c> Исчезните, становясь невидимым."
+<c=@abilitytype>Cantrip.</c> Throw an orb of shadow magic that damages nearby foes at your targeted location. You may reactivate this skill to swap places with the orb. Deals increased damage to your marked target.,"<c=@abilitytype>Фокус.</c> Бросить шар тёмной магии, наносящий урон противникам поблизости от выбранного места. Вы можете повторно активировать это умение, чтобы обменяться местами с шаром. Урон по отмеченной цели увеличивается."
+<c=@abilitytype>Cantrip.</c> Transfer your conditions to your marked target and then heal yourself.,"<c=@abilitytype>Фокус.</c> Перенести свои состояния на отмеченную вами цель, а затем исцелить себя."
+<c=@abilitytype>Cantrip.</c> Vanish into stealth.,"<c=@abilitytype>Фокус.</c> Исчезнуть, став невидимым."
 "<c=@abilitytype>Cantrip.</c> While active, you take no damage from incoming attacks or conditions. When the cantrip ends, heal based on a percentage of your missing health.","<c=@abilitytype>Фокус.</c> Пока активно, вы не получаете урона от атак или состояний. Когда фокус заканчивается, исцелитесь на процент от вашего недостающего здоровья."
 <c=@abilitytype>Celestial Avatar. </c> Call down energy onto the targeted area to heal allies.,"<c=@abilitytype>Небесный аватар.</c> Призовите энергию в целевую область, чтобы исцелить союзников."
 <c=@abilitytype>Celestial Avatar.</c> Call down a massive lunar beam to heal allies and daze foes.,"<c=@abilitytype>Небесный аватар.</c> Призовите мощный лунный луч, чтобы исцелить союзников и ошеломить врагов."
-"<c=@abilitytype>Celestial Avatar.</c> Channel your celestial powers, pulsing cripple and slow. Once the channel ends, any foes still within its radius will be trapped by a black hole, immobilizing them.","<c=@abilitytype>Небесный аватар.</c> Направляйте свои небесные силы, пульсируя хромотой и замедлением. Как только направление закончится, все враги, оставшиеся в радиусе действия, будут пойманы черной дырой, которая их обездвижит."
+"<c=@abilitytype>Celestial Avatar.</c> Channel your celestial powers, pulsing cripple and slow. Once the channel ends, any foes still within its radius will be trapped by a black hole, immobilizing them.","<c=@abilitytype>Небесный аватар.</c> Направляйте свои небесные силы, пульсируя хромотой и замедлением. Как только направление закончится, все враги, оставшиеся в радиусе действия, будут пойманы чёрной дырой, которая их обездвижит."
 <c=@abilitytype>Celestial Avatar.</c> Gather tidal force to rapidly heal nearby allies.,"<c=@abilitytype>Небесный аватар.</c> Соберите приливную силу, чтобы быстро исцелить ближайших союзников."
 <c=@abilitytype>Celestial Avatar.</c> Summon a seed that heals and cleanses nearby allies of conditions when it blossoms.,"<c=@abilitytype>Небесный аватар.</c> Призовите семя, которое исцеляет и очищает ближайших союзников от состояний, когда оно расцветает."
-<c=@abilitytype>Chain.</c> <c=@abilitytype>Shroud.</c> Cleave foes in front of you again. This skill inherits traits from Life Blast.,<c=@abilitytype>Цепь.</c> <c=@abilitytype>Тень.</c> Вновь рассекайте врагов перед собой. Это умение наследует черты от Удара жизни.
-<c=@abilitytype>Chain.</c> <c=@abilitytype>Shroud.</c> Cleave foes in front of you. This skill inherits traits from Life Blast.,<c=@abilitytype>Цепь.</c> <c=@abilitytype>Тень.</c> Рассекайте врагов перед собой. Это умение наследует черты от Удара жизни.
+<c=@abilitytype>Chain.</c> <c=@abilitytype>Shroud.</c> Cleave foes in front of you again. This skill inherits traits from Life Blast.,"<c=@abilitytype>Цепь.</c> <c=@abilitytype>Тень.</c> Снова рассечь противников, стоящих перед вами."
+<c=@abilitytype>Chain.</c> <c=@abilitytype>Shroud.</c> Cleave foes in front of you. This skill inherits traits from Life Blast.,"<c=@abilitytype>Цепь.</c> <c=@abilitytype>Тень.</c> Рассечь противников, стоящих перед вами."
 <c=@abilitytype>Chain.</c> A balanced staff strike.,<c=@abilitytype>Цепь.</c> Сбалансированный удар посохом.
-<c=@abilitytype>Chain.</c> A follow-up reverse-handed staff strike.,<c=@abilitytype>Цепь.</c> Последующий обратный удар посохом.
-<c=@abilitytype>Chain.</c> Bash your foe again.,<c=@abilitytype>Цепь.</c> Снова ударьте врага.
-<c=@abilitytype>Chain.</c> Bleed your foe with a gash.,<c=@abilitytype>Цепь.</c> Заставьте врага истекать кровью глубокой раной.
-<c=@abilitytype>Chain.</c> Bleed your foe with a slash.,<c=@abilitytype>Цепь.</c> Заставьте врага истекать кровью порезом.
-<c=@abilitytype>Chain.</c> Bring down your hammer on your foe.,<c=@abilitytype>Цепь.</c> Обрушьте молот на врага.
-<c=@abilitytype>Chain.</c> Chop your foe twice.,<c=@abilitytype>Цепь.</c>Дважды разрубите врага.
-<c=@abilitytype>Chain.</c> Cleave foes in front of you again.,<c=@abilitytype>Цепь.</c>Снова рассеките врагов перед собой.
-<c=@abilitytype>Chain.</c> Cleave foes in front of you.,<c=@abilitytype>Цепь.</c>Рассеките врагов перед собой.
-<c=@abilitytype>Chain.</c> Fire a wide piercing projectile from your blade. Heal if a target is struck. Healing is reduced for each target beyond the first.,<c=@abilitytype>Цепь.</c>Выпустите широкий пронзающий снаряд из клинка. Исцеляет при попадании в цель. Исцеление снижается для каждой последующей цели.
-<c=@abilitytype>Chain.</c> Fire an even wider piercing projectile that inflicts chill.,"<c=@abilitytype>Цепь.</c>Выпустите еще более широкий пронзающий снаряд, накладывающий холод."
-<c=@abilitytype>Chain.</c> Fire another wide piercing projectile from your blade.,<c=@abilitytype>Цепь.</c>Выпустите еще один широкий пронзающий снаряд из клинка.
-<c=@abilitytype>Chain.</c> Gash your foe to make them vulnerable.,"<c=@abilitytype>Цепь.</c>Нанесите врагу глубокий порез, чтобы сделать его уязвимым."
-"<c=@abilitytype>Chain.</c> Heave your spear, gaining swiftness if you strike an enemy. If your enemy is far away, use Bee's Sting instead.","<c=@abilitytype>Цепь.</c>Метните копье, получая быстроту при попадании во врага. Если враг далеко, используйте Жало пчелы."
-<c=@abilitytype>Chain.</c> Poison and bleed your foe.,<c=@abilitytype>Цепь.</c>Отравите врага и вызовите у него кровотечение.
-<c=@abilitytype>Chain.</c> Shoot a bolt of energy at your target.,<c=@abilitytype>Цепь.</c>Выпустите энергетический заряд в цель.
-<c=@abilitytype>Chain.</c> Shoot a second bolt of energy at your target.,<c=@abilitytype>Цепь.</c>Выпустите второй энергетический заряд в цель.
-<c=@abilitytype>Chain.</c> Slam your foe with a rush of water.,<c=@abilitytype>Цепь.</c>Ударьте врага потоком воды.
-<c=@abilitytype>Chain.</c> Slam your hammer into your foe to leave them vulnerable.,"<c=@abilitytype>Цепь.</c>Ударьте врага молотом, чтобы сделать его уязвимым."
-<c=@abilitytype>Chain.</c> Slash your foe again.,<c=@abilitytype>Цепь.</c>Порезать вашего противника еще раз.
-<c=@abilitytype>Chain.</c> Slash your foe once.,<c=@abilitytype>Цепь.</c>Полосните врага один раз.
-<c=@abilitytype>Chain.</c> Slash your foe to make them vulnerable.,"<c=@abilitytype>Цепь.</c> Рубите врага, делая его уязвимым."
-<c=@abilitytype>Chain.</c> Slash your foe twice.,<c=@abilitytype>Цепь.</c> Рубите врага дважды.
-<c=@abilitytype>Chain.</c> Slash your foes with your spear.,<c=@abilitytype>Цепь.</c> Рубите врагов копьём.
-<c=@abilitytype>Chain.</c> Slice foes in front of you with your spear.,<c=@abilitytype>Цепь.</c> Разрезайте врагов перед собой копьём.
-<c=@abilitytype>Chain.</c> Smack your foe. Repair turrets.,<c=@abilitytype>Цепь.</c> Ударьте врага. Ремонтируйте турели.
-<c=@abilitytype>Chain.</c> Smack your hammer into your foe while empowering yourself.,"<c=@abilitytype>Цепь.</c> Ударьте молотом по врагу, усиливая себя."
-<c=@abilitytype>Chain.</c> Stab foes and chill them. Gain a soul shard if you strike a foe.,"<c=@abilitytype>Цепь.</c> Пронзайте врагов и замораживайте их. Получите осколок души, если поразите врага."
+<c=@abilitytype>Chain.</c> A follow-up reverse-handed staff strike.,<c=@abilitytype>Цепь.</c> Последующий удар другим концом посоха.
+<c=@abilitytype>Chain.</c> Bash your foe again.,<c=@abilitytype>Цепь.</c> Стукнуть вашего противника.
+<c=@abilitytype>Chain.</c> Bleed your foe with a gash.,<c=@abilitytype>Цепь.</c> Нанести противнику глубокий кровоточащий разрез.
+<c=@abilitytype>Chain.</c> Bleed your foe with a slash.,<c=@abilitytype>Цепь.</c> Нанести противнику кровоточащий порез.
+<c=@abilitytype>Chain.</c> Bring down your hammer on your foe.,<c=@abilitytype>Цепь.</c> Обрушить молот на противника.
+<c=@abilitytype>Chain.</c> Chop your foe twice.,<c=@abilitytype>Цепь.</c>Дважды рубануть по противнику.
+<c=@abilitytype>Chain.</c> Cleave foes in front of you again.,"<c=@abilitytype>Цепь.</c>Снова рассечь противников, стоящих перед вами."
+<c=@abilitytype>Chain.</c> Cleave foes in front of you.,"<c=@abilitytype>Цепь.</c>Рассечь противников, стоящих перед вами."
+<c=@abilitytype>Chain.</c> Fire a wide piercing projectile from your blade. Heal if a target is struck. Healing is reduced for each target beyond the first.,"<c=@abilitytype>Цепь.</c>Выпустить из своего клинка длинный прокалывающий снаряд. Исцелиться, если цель будет поражена. Исцеление уменьшается для каждой цели, кроме первой."
+<c=@abilitytype>Chain.</c> Fire an even wider piercing projectile that inflicts chill.,"<c=@abilitytype>Цепь.</c>Выпустите ещё более широкий пронзающий снаряд, накладывающий холод."
+<c=@abilitytype>Chain.</c> Fire another wide piercing projectile from your blade.,<c=@abilitytype>Цепь.</c>Выпустите ещё один широкий пронзающий снаряд из клинка.
+<c=@abilitytype>Chain.</c> Gash your foe to make them vulnerable.,"<c=@abilitytype>Цепь.</c>Нанести противнику глубокую рану, сделав его уязвимым."
+"<c=@abilitytype>Chain.</c> Heave your spear, gaining swiftness if you strike an enemy. If your enemy is far away, use Bee's Sting instead.","<c=@abilitytype>Цепь.</c>Метните копьё, получая быстроту при попадании во врага. Если враг далеко, используйте Жало пчелы."
+<c=@abilitytype>Chain.</c> Poison and bleed your foe.,<c=@abilitytype>Цепь.</c>Отравить вашего противника и вызвать у него кровотечение.
+<c=@abilitytype>Chain.</c> Shoot a bolt of energy at your target.,<c=@abilitytype>Цепь.</c>Выпустить стрелу энергии в вашу цель.
+<c=@abilitytype>Chain.</c> Shoot a second bolt of energy at your target.,<c=@abilitytype>Цепь.</c>Выпустить вторую стрелу энергии в вашу цель.
+<c=@abilitytype>Chain.</c> Slam your foe with a rush of water.,<c=@abilitytype>Цепь.</c>Ударить противника бушующей водой.
+<c=@abilitytype>Chain.</c> Slam your hammer into your foe to leave them vulnerable.,"<c=@abilitytype>Цепь.</c>Стукнуть молотом по противнику, делая его уязвимым."
+<c=@abilitytype>Chain.</c> Slash your foe again.,<c=@abilitytype>Цепь.</c>Порезать вашего противника ещё раз.
+<c=@abilitytype>Chain.</c> Slash your foe once.,<c=@abilitytype>Цепь.</c>Порезать вашего противника.
+<c=@abilitytype>Chain.</c> Slash your foe to make them vulnerable.,"<c=@abilitytype>Цепь.</c> Порезать вашего противника, сделав его уязвимым."
+<c=@abilitytype>Chain.</c> Slash your foe twice.,<c=@abilitytype>Цепь.</c> Дважды порезать вашего противника.
+<c=@abilitytype>Chain.</c> Slash your foes with your spear.,<c=@abilitytype>Цепь.</c> Порезать противников копьём.
+<c=@abilitytype>Chain.</c> Slice foes in front of you with your spear.,<c=@abilitytype>Цепь.</c> Разрезать копьём противников перед вами.
+<c=@abilitytype>Chain.</c> Smack your foe. Repair turrets.,<c=@abilitytype>Цепь.</c> Хлопнуть вашего противника. Починить турели.
+<c=@abilitytype>Chain.</c> Smack your hammer into your foe while empowering yourself.,"<c=@abilitytype>Цепь.</c> Ударить молотом по противнику, усиливая при этом себя."
+<c=@abilitytype>Chain.</c> Stab foes and chill them. Gain a soul shard if you strike a foe.,"<c=@abilitytype>Цепь.</c> Толкнуть противников и заморозить их. Получить осколок души, если вы нанесли противнику урон."
 "<c=@abilitytype>Chain.</c> Stab your foe, crippling them for a short time.","<c=@abilitytype>Цепь.</c> Пронзите врага, нанося ему замедление на короткое время."
-<c=@abilitytype>Chain.</c> Strike foes and chill them. A successful strike reduces the recharge on Gravedigger.,<c=@abilitytype>Цепь.</c> Поражайте врагов и замораживайте их. Успешный удар сокращает перезарядку «Могильщика».
+<c=@abilitytype>Chain.</c> Strike foes and chill them. A successful strike reduces the recharge on Gravedigger.,<c=@abilitytype>Цепь.</c> Ударить противников и заморозить их. Успешное попадание сокращает перезарядку умения Gravedigger.
 <c=@abilitytype>Chain.</c> Strike with your mace.,<c=@abilitytype>Цепь.</c> Ударьте булавой.
 "<c=@abilitytype>Chain.</c> Strike with your spear, crippling your foe. If your enemy is far away, use Bee's Sting instead.","<c=@abilitytype>Цепь.</c> Ударьте копьём, замедляя врага. Если враг далеко, используйте «Пчелиное жало»."
 "<c=@abilitytype>Chain.</c> Strike your foe again, bleeding them. Gain endurance with a successful strike.","<c=@abilitytype>Цепь.</c> Снова ударьте врага, вызывая кровотечение. При успешном ударе восстановите выносливость."
 <c=@abilitytype>Chain.</c> Strike your foe again.,<c=@abilitytype>Цепь.</c> Толкнуть вашего противника.
-<c=@abilitytype>Chain.</c> Strike your foe and gain might. Gain additional might on critical hit.,<c=@abilitytype>Цепь.</c> Ударьте врага и получите могущество. При критическом ударе получите дополнительное могущество.
-<c=@abilitytype>Chain.</c> Strike your foe twice.,<c=@abilitytype>Цепь.</c> Ударьте врага дважды.
-<c=@abilitytype>Chain.</c> Strike your foe with a watery blow.,<c=@abilitytype>Цепь.</c> Нанесите удар по врагу водной атакой.
-<c=@abilitytype>Chain.</c> Strike your foe. This attack deals increased critical damage.,<c=@abilitytype>Цепь.</c> Ударьте врага. Эта атака наносит повышенный критический урон.
-<c=@abilitytype>Chain.</c> Strike your foe. This attack has increased critical-hit damage.,<c=@abilitytype>Цепь.</c> Ударьте врага. Эта атака наносит повышенный критический урон.
+<c=@abilitytype>Chain.</c> Strike your foe and gain might. Gain additional might on critical hit.,<c=@abilitytype>Цепь.</c> Ударить противника и даровать себе Мощь. Получить дополнительную Мощь при критическом попадании.
+<c=@abilitytype>Chain.</c> Strike your foe twice.,<c=@abilitytype>Цепь.</c> Дважды ударить противника.
+<c=@abilitytype>Chain.</c> Strike your foe with a watery blow.,<c=@abilitytype>Цепь.</c> Поразить противника ударом воды.
+<c=@abilitytype>Chain.</c> Strike your foe. This attack deals increased critical damage.,<c=@abilitytype>Цепь.</c> Ударить противника. Эта атака наносит повышенный критический урон.
+<c=@abilitytype>Chain.</c> Strike your foe. This attack has increased critical-hit damage.,<c=@abilitytype>Цепь.</c> Ударить противника. Эта атака наносит повышенный критический урон.
 "<c=@abilitytype>Chain.</c> Swing your spear. If your enemy is far away, use Bee's Sting instead.","<c=@abilitytype>Цепь.</c> Размахнитесь копьём. Если враг далеко, вместо этого используйте «Укус пчелы»."
-<c=@abilitytype>Chain.</c> Whack your foe. Repairs turrets.,<c=@abilitytype>Цепь.</c> Ударьте врага. Ремонтирует турели.
+<c=@abilitytype>Chain.</c> Whack your foe. Repairs turrets.,<c=@abilitytype>Цепь.</c> Шмякнуть вашего противника. Починить турели.
 "<c=@abilitytype>Citadel Order.</c> Open a portal through the mists of time, unleashing a storm of artillery from the united legions.","<c=@abilitytype>Приказ Цитадели.</c> Откройте портал сквозь туман времени, обрушив шквал артиллерии объединённых легионов."
 "<c=@abilitytype>Citadel Order.</c> Orders from above arrive, renewing your abilities and those of your nearby allies.","<c=@abilitytype>Приказ Цитадели.</c> Приказы сверху прибывают, обновляя ваши способности и способности ваших ближайших союзников."
 <c=@abilitytype>Citadel Order.</c> Refresh the duration of your Kalla's Fervor and grant nearby allies might for every stack.,<c=@abilitytype>Приказ Цитадели.</c> Обновите длительность вашего «Рвения Каллы» и даруйте ближайшим союзникам мощь за каждый стак.
 "<c=@abilitytype>Clone.</c> Block the next attack, and counter by inflicting torment and creating clones that cast Ether Bolt.","<c=@abilitytype>Клон.</c> Блокируйте следующую атаку и контратакуйте, накладывая боль и создавая клонов, которые накладывают «Эфирный разряд»."
-<c=@abilitytype>Clone.</c> Block your foe and create an illusion when attacked.,<c=@abilitytype>Клон.</c> Блокируйте атаку врага и создавайте иллюзию при получении урона.
-<c=@abilitytype>Clone.</c> Create a downed clone of yourself to attack your target.,"<c=@abilitytype>Клон.</c> Создайте поверженного клона себя, чтобы атаковать вашу цель."
-<c=@abilitytype>Clone.</c> Deliver a damaging attack directly to your target. Summon a clone that casts Ether Bolt. Inflict torment instead if you have the maximum number of illusions.,"<c=@abilitytype>Клон.</c> Нанесите прямой урон цели. Призовите клона, который накладывает «Эфирный разряд». Если у вас максимальное количество иллюзий, вместо этого наложите мучение."
-<c=@abilitytype>Clone.</c> Gain stealth and summon an illusion to attack your foe.,<c=@abilitytype>Клон.</c> Получите скрытность и призовите иллюзию для атаки на врага.
+<c=@abilitytype>Clone.</c> Block your foe and create an illusion when attacked.,"<c=@abilitytype>Клон.</c> Блокировать противника и создать иллюзию, когда вы будете атакованы."
+<c=@abilitytype>Clone.</c> Create a downed clone of yourself to attack your target.,"<c=@abilitytype>Клон.</c> Сделать Призрачный Шаг и создать клон самого себя в павшем состоянии, который будет атаковать противников."
+<c=@abilitytype>Clone.</c> Deliver a damaging attack directly to your target. Summon a clone that casts Ether Bolt. Inflict torment instead if you have the maximum number of illusions.,"<c=@abilitytype>Клон.</c> Нанести цели урон прямой атакой. Призвать клон, который использует заклинание Ether Bolt. Если у вас уже есть максимальное число иллюзий, вместо этого вы вызовете у цели боль."
+<c=@abilitytype>Clone.</c> Gain stealth and summon an illusion to attack your foe.,"<c=@abilitytype>Клон.</c> Стать невидимым и создать иллюзию, которая атакует вашего противника."
 "<c=@abilitytype>Clone.</c> Retreat back, summoning a clone to attack your foe while granting chaos armor to nearby allies.","<c=@abilitytype>Клон.</c> Отступите назад, призвав клона для атаки врага и надев хаотическую броню на союзников поблизости."
-<c=@abilitytype>Clone.</c> Shadowstep and create a downed clone of yourself to attack foes in range.,<c=@abilitytype>Клон.</c> Теневой шаг и создание поверженного клона себя для атаки врагов в радиусе действия.
+<c=@abilitytype>Clone.</c> Shadowstep and create a downed clone of yourself to attack foes in range.,"<c=@abilitytype>Клон.</c> Сделать Призрачный Шаг и создать клон самого себя в павшем состоянии, который будет атаковать противников."
 "<c=@abilitytype>Clone.</c> Shoot a bullet through a portal. It reappears above the target location and explodes, damaging enemies and healing allies. Create a clone if you hit an enemy or ally.","<c=@abilitytype>Клон.</c> Выстрелите пулей через портал. Она появляется над целью и взрывается, нанося урон врагам и исцеляя союзников. Создайте клона, если попадете во врага или союзника."
-"<c=@abilitytype>Clone.</c> Summon an illusion that leaps at your target, crippling them. After the initial leap, the clone will execute the Mind Slash sword chain.","<c=@abilitytype>Клон.</c> Призовите иллюзию, которая прыгает на цель, накладывая на нее состояние замедления. После первого прыжка клон выполнит цепь атак мечом «Удар разума»."
-<c=@abilitytype>Clone.</c> Summon two clones to attack your foe.,<c=@abilitytype>Клон.</c> Призовите двух клонов для атаки врага.
+"<c=@abilitytype>Clone.</c> Summon an illusion that leaps at your target, crippling them. After the initial leap, the clone will execute the Mind Slash sword chain.","<c=@abilitytype>Клон.</c> Призовите иллюзию, которая прыгает на цель, накладывая на неё состояние замедления. После первого прыжка клон выполнит цепь атак мечом «Удар разума»."
+<c=@abilitytype>Clone.</c> Summon two clones to attack your foe.,"<c=@abilitytype>Клон.</c> Создать два клона, которые атакуют вашего противника."
 "<c=@abilitytype>Clone.</c> Surge toward your foe, striking enemies on the way and creating a clone upon reaching your initial target.","<c=@abilitytype>Клон.</c> Устремитесь к врагу, поражая врагов на пути и создавая клона при достижении изначальной цели."
 "<c=@abilitytype>Clone.</c> Teleport away from your target, summoning a clone that casts Winds of Chaos.","<c=@abilitytype>Клон.</c> Телепортируйтесь от цели, призвав клона, который использует «Ветры хаоса»."
 "<c=@abilitytype>Command. </c> Heal yourself and allies in an area around you. 
@@ -301,39 +301,39 @@ english,translate
 "<c=@abilitytype>Command.</c> Your pet rushes at your foe, revealing them and dealing increased damage.","<c=@abilitytype>Команда.</c> Ваш питомец бросается на врага, раскрывая его и нанося повышенный урон."
 <c=@abilitytype>Command.</c> Your pet will seek out and revive a downed ally.,<c=@abilitytype>Команда.</c> Ваш питомец найдёт и оживит поверженного союзника.
 "<c=@abilitytype>Conjure.</c> Manifest a fiery greatsword in your hands and at the target location. When it lands, it damages and burns foes. Wielders of this weapon gain increased power and condition damage and cast <c=@abilitytype>Lesser Fiery Eruption</c> at regular intervals on random enemies.","<c=@abilitytype>Призыв.</c> Создайте огненный двуручный меч в своих руках и в указанном месте. При падении он наносит урон и поджигает врагов. Владельцы этого оружия получают повышенную силу и урон от состояний, а также периодически накладывают <c=@abilitytype>Малое огненное извержение</c> на случайных врагов."
-<c=@abilitytype>Conjure.</c> Manifest a frost bow in your hands and at the target location. Wielders of this weapon gain increased condition duration and healing power.,<c=@abilitytype>Призыв.</c> Создайте ледяной лук в своих руках и в указанном месте. Владельцы этого оружия получают увеличенную длительность состояний и силу исцеления.
-<c=@abilitytype>Conjure.</c> Manifest a lava axe in your hands and at the target location. Wielders of the weapon gain increased power and condition damage.,<c=@abilitytype>Призыв.</c> Создайте лавовый топор в своих руках и в указанном месте. Владельцы оружия получают повышенную силу и урон от состояний.
-<c=@abilitytype>Conjure.</c> Manifest a lightning hammer in your hands and at the target location. Wielders of this weapon gain increased precision and ferocity.,<c=@abilitytype>Призыв.</c> Создайте молниеносный молот в своих руках и в указанном месте. Владельцы этого оружия получают повышенную точность и свирепость.
-<c=@abilitytype>Conjure.</c> Manifest a magnetic shield in your hands and at the target location. Wielders of the weapon gain increased toughness and vitality.,<c=@abilitytype>Призыв.</c> Создайте магнитный щит в своих руках и в указанном месте. Владельцы оружия получают повышенную стойкость и живучесть.
+<c=@abilitytype>Conjure.</c> Manifest a frost bow in your hands and at the target location. Wielders of this weapon gain increased condition duration and healing power.,"<c=@abilitytype>Призыв.</c> Явить Лук-из-Мороза у себя в руках и в выбранной области. У тех, кто держит это оружие в руках, будут увеличены длительность состояний и сила исцеления."
+<c=@abilitytype>Conjure.</c> Manifest a lava axe in your hands and at the target location. Wielders of the weapon gain increased power and condition damage.,"<c=@abilitytype>Призыв.</c> Явить Топор-из-Пламени у себя в руках и в выбранной области. У тех, кто держит это оружие в руках, будут увеличены сила и урон от состояний."
+<c=@abilitytype>Conjure.</c> Manifest a lightning hammer in your hands and at the target location. Wielders of this weapon gain increased precision and ferocity.,"<c=@abilitytype>Призыв.</c> Явить Молот-из-Молнии у себя в руках и в выбранной области. У тех, кто держит это оружие в руках, будут увеличены точность и жестокость."
+<c=@abilitytype>Conjure.</c> Manifest a magnetic shield in your hands and at the target location. Wielders of the weapon gain increased toughness and vitality.,"<c=@abilitytype>Призыв.</c> Явить магнитный щит у себя в руках и в выбранной области. У тех, кто держит это оружие в руках, будут увеличены прочность и живучесть."
 "<c=@abilitytype>Consecration.</c> Consecrate the target area, granting stability to allies inside.","<c=@abilitytype>Освящение.</c> Освятите область цели, даруя устойчивость союзникам внутри."
 "<c=@abilitytype>Consecration.</c> Create a ring of fire. With each pulse, burn foes while removing conditions from allies inside the area of effect.","<c=@abilitytype>Освящение.</c> Создает кольцо огня. С каждым импульсом поджигает врагов, снимая состояния с союзников в зоне действия."
-<c=@abilitytype>Consecration.</c> Form a protective healing shelter for allies. Block foes and their missiles from entering.,<c=@abilitytype>Освящение.</c> Создает защитное исцеляющее убежище для союзников. Блокирует врагов и их снаряды от проникновения.
-<c=@abilitytype>Consecration.</c> Summon a barrier of mystic power that reflects projectiles.,"<c=@abilitytype>Освящение.</c> Призывает барьер мистической силы, отражающий снаряды."
-<c=@abilitytype>Corruption. </c>Bleed yourself to grant might to allies around you and bleed your target.,"<c=@abilitytype>Порча.</c> Вызывайте у себя кровотечение, чтобы наделить союзников вокруг мощью и наложить кровотечение на цель."
+<c=@abilitytype>Consecration.</c> Form a protective healing shelter for allies. Block foes and their missiles from entering.,<c=@abilitytype>Освящение.</c> Создать защитное исцеляющее убежище для союзников. Непроницаемо для врагов и снарядов.
+<c=@abilitytype>Consecration.</c> Summon a barrier of mystic power that reflects projectiles.,"<c=@abilitytype>Освящение.</c> Создать барьер из мистической силы, который отражает снаряды."
+<c=@abilitytype>Corruption. </c>Bleed yourself to grant might to allies around you and bleed your target.,"<c=@abilitytype>Порча.</c> Вызвать у себя кровотечение, даруя Мощь союзникам вокруг вас, и вызвать кровотечение у своей цели."
 "<c=@abilitytype>Corruption. </c>Feast on your conditions, gaining health for each one consumed. You become vulnerable.","<c=@abilitytype>Порча.</c> Поглощайте свои состояния, восстанавливая здоровье за каждое. Вы становитесь уязвимы."
 "<c=@abilitytype>Corruption.</c> Apply vulnerability to yourself. Spread conditions on a target foe to all nearby foes at a reduced duration.
 <c=@reminder>WvW only: does not affect structures or targets with resistance.</c>","<c=@abilitytype>Порча.</c> Наложите на себя уязвимость. Распространите состояния с выбранного врага на всех ближайших врагов с уменьшенной длительностью.
 <c=@reminder>Только WvW: не действует на строения и цели с сопротивляемостью.</c>"
-<c=@abilitytype>Corruption.</c> Create a virulent cloud that inflicts conditions on foes in its area. This plague inflicts additional conditions every second it persists. Inflict bleeding on yourself.,"<c=@abilitytype>Порча.</c> Создайте ядовитое облако, накладывающее состояния на врагов в области действия. Этот мор накладывает дополнительные состояния каждую секунду. Наложите на себя кровотечение."
-<c=@abilitytype>Corruption.</c> Poison yourself. Transform boons on your foe into negative conditions.,<c=@abilitytype>Порча.</c> Отравите себя. Превратите благословения на враге в негативные состояния.
+<c=@abilitytype>Corruption.</c> Create a virulent cloud that inflicts conditions on foes in its area. This plague inflicts additional conditions every second it persists. Inflict bleeding on yourself.,"<c=@abilitytype>Порча.</c> Создать облако инфекции, которое накладывает различные состояния на противников. Эта чума вызывает дополнительные состояния каждую секунду своего существования. Вызвать у себя кровотечение."
+<c=@abilitytype>Corruption.</c> Poison yourself. Transform boons on your foe into negative conditions.,"<c=@abilitytype>Порча.</c> Отравить себя. Превратить дары, лежащие на выбранном противнике, в негативные состояния."
 <c=@abilitytype>Corruption.</c> Release a noxious explosion and leave behind a cloud that poisons foes in the area.,"<c=@abilitytype>Порча.</c> Выпускает ядовитый взрыв и оставляет облако, отравляющее врагов в области."
-<c=@abilitytype>Corruption.</c> Weaken yourself and envelope the target area in a noxious cloud that blocks enemy missiles and poisons foes and leaves them weakened.,"<c=@abilitytype>Порча.</c> Ослабьте себя и окутайте целевую область ядовитым облаком, которое блокирует вражеские снаряды, отравляет врагов и накладывает на них слабость."
+<c=@abilitytype>Corruption.</c> Weaken yourself and envelope the target area in a noxious cloud that blocks enemy missiles and poisons foes and leaves them weakened.,"<c=@abilitytype>Порча.</c> Вызвать у себя слабость. Выбранную область окутывает вредоносное облако, которое блокирует снаряды, отравляет противников и делает их слабыми."
 <c=@abilitytype>Damage Increase above 100%% Heat</c>,<c=@abilitytype>Увеличение урона выше 100%% Нагрев</c>
 <c=@abilitytype>Damage Increase above 50%% Heat</c>,<c=@abilitytype>Увеличение урона выше 50%% Нагрев</c>
-<c=@abilitytype>Deception.</c> Blind nearby foes and grant stealth to nearby allies.,<c=@abilitytype>Обман.</c> Ослепляет ближайших врагов и дарует скрытность ближайшим союзникам.
-<c=@abilitytype>Deception.</c> Call more thieves to support you in combat.,"<c=@abilitytype>Обман.</c> Призывает больше воров, чтобы поддержать вас в бою."
+<c=@abilitytype>Deception.</c> Blind nearby foes and grant stealth to nearby allies.,<c=@abilitytype>Обман.</c> Ослепить противников поблизости и наделить невидимостью союзников поблизости.
+<c=@abilitytype>Deception.</c> Call more thieves to support you in combat.,<c=@abilitytype>Обман.</c> Позвать на помощь своих приятелей-воров.
 "<c=@abilitytype>Deception.</c> Create a mirage at your current location and heal over time. When the mirage expires, it spawns a mirage mirror.","<c=@abilitytype>Обман.</c> Создаёт мираж в вашем текущем местоположении и исцеляет со временем. Когда мираж исчезает, он порождает зеркало миража."
 <c=@abilitytype>Deception.</c> Create a pulsing refuge at the target area that heals allies and cloaks them in stealth.,"<c=@abilitytype>Обман.</c> Создаёт пульсирующее убежище в целевой области, которое исцеляет союзников и укрывает их скрытностью."
 <c=@abilitytype>Deception.</c> Create a smoke screen that blocks missiles and blinds foes.,"<c=@abilitytype>Обман.</c> Создаёт дымовую завесу, которая блокирует снаряды и ослепляет врагов."
-<c=@abilitytype>Deception.</c> Draw in shards of crystal sand that confuse foes they pass through on their way to your targeted location. The shards form a Mirage Mirror upon reaching their destination.,"<c=@abilitytype>Обман.</c> Притягивает осколки кристаллического песка, которые сбивают с толку врагов, проходя через них на пути к выбранной цели. Осколки образуют Зеркало миража по достижении места назначения."
-<c=@abilitytype>Deception.</c> Evade backward and gain Mirage Cloak.,<c=@abilitytype>Обман.</c> Уклоняется назад и получает Плащ миража.
+<c=@abilitytype>Deception.</c> Draw in shards of crystal sand that confuse foes they pass through on their way to your targeted location. The shards form a Mirage Mirror upon reaching their destination.,"<c=@abilitytype>Обман.</c> Втянуть осколки кристального песка, которые вызывают замешательство у противников, встречающимся им на пути к указанному месту. Осколки создадут зеркало миража, когда достигнут цели."
+<c=@abilitytype>Deception.</c> Evade backward and gain Mirage Cloak.,<c=@abilitytype>Обман.</c> Уклониться назад и получить покров миража.
 "<c=@abilitytype>Deception.</c> Return to your starting location, and cure three conditions.",<c=@abilitytype>Обман.</c> Возвращается в исходное местоположение и излечивает три состояния.
-<c=@abilitytype>Deception.</c> Shadowstep and unleash an attack that blinds and dazes your target and nearby foes. You may reactivate this skill to return to your original position.,"<c=@abilitytype>Обман.</c> Теневой шаг и наносит удар, который ослепляет и оглушает вашу цель и ближайших врагов. Вы можете повторно активировать это умение, чтобы вернуться в исходное положение."
-<c=@abilitytype>Deception.</c> Shadowstep and unleash an attack that blinds your target and nearby foes. You may reactivate this skill to return to your original position.,"<c=@abilitytype>Обман.</c> Теневой шаг и наносит удар, который ослепляет вашу цель и ближайших врагов. Вы можете повторно активировать это умение, чтобы вернуться в исходное положение."
-<c=@abilitytype>Deception.</c> Shadowstep to a target location and confuse nearby foes.,<c=@abilitytype>Обман.</c> Теневой шаг к выбранной цели и сбивает с толку ближайших врагов.
+<c=@abilitytype>Deception.</c> Shadowstep and unleash an attack that blinds and dazes your target and nearby foes. You may reactivate this skill to return to your original position.,"<c=@abilitytype>Обман.</c> Сделать Призрачный Шаг и провести атаку, которая ослепляет и ошеломляет цель и противников поблизости. Вы можете повторно использовать это умение, чтобы вернуться в исходную точку."
+<c=@abilitytype>Deception.</c> Shadowstep and unleash an attack that blinds your target and nearby foes. You may reactivate this skill to return to your original position.,"<c=@abilitytype>Обман.</c> Сделать Призрачный Шаг и провести атаку, которая ослепляет и ошеломляет цель и противников поблизости. Вы можете повторно использовать это умение, чтобы вернуться в исходную точку."
+<c=@abilitytype>Deception.</c> Shadowstep to a target location and confuse nearby foes.,<c=@abilitytype>Обман.</c> Сделать Призрачный Шаг к выбранному месту и вызвать замешательство у противников поблизости.
 "<c=@abilitytype>Deception.</c> Shadowstep to target area. Becomes Shadow Return, which returns you to your starting area and cures three conditions.","<c=@abilitytype>Обман.</c> Теневой шаг в целевую область. Становится Теневым возвратом, который возвращает вас в исходную область и излечивает три состояния."
-<c=@abilitytype>Deception.</c> Vanish in stealth and cure conditions. Then gain regeneration and heal yourself.,<c=@abilitytype>Обман.</c> Исчезает в скрытности и излечивает состояния. Затем получает регенерацию и исцеляет себя.
-<c=@abilitytype>Deception.</c> You and all your illusions shadowstep to a random point around your target and gain Mirage Cloak. Illusions' actions are interrupted when they change focus to the targeted foe.,"<c=@abilitytype>Обман.</c> Вы и все ваши иллюзии делаете теневой шаг к случайной точке вокруг вашей цели и получаете Плащ миража. Действия иллюзий прерываются, когда они переключают внимание на выбранного врага."
+<c=@abilitytype>Deception.</c> Vanish in stealth and cure conditions. Then gain regeneration and heal yourself.,<c=@abilitytype>Обман.</c> Скрыться в невидимости и снять состояния. Затем даровать себе Регенерацию и исцелиться.
+<c=@abilitytype>Deception.</c> You and all your illusions shadowstep to a random point around your target and gain Mirage Cloak. Illusions' actions are interrupted when they change focus to the targeted foe.,"<c=@abilitytype>Обман.</c> Вы и все ваши иллюзии делаете Призрачный Шаг в случайное место вокруг вашей цели и получаете покров миража. Действия иллюзий будут прерваны, когда они переключат свой фокус на выбранного противника."
 "<c=@abilitytype>Dual Attack.</c> After a short channel, launch a hyper-fast boulder that decimates foes in its path.","<c=@abilitytype>Двойная атака.</c> После короткого канала запустите сверхбыстрый валун, уничтожающий врагов на своем пути."
 <c=@abilitytype>Dual Attack.</c> Bleed your foe with ice and sharpened stones.,<c=@abilitytype>Двойная атака.</c> Кровоточите врага льдом и заостренными камнями.
 <c=@abilitytype>Dual Attack.</c> Blind your foes with burning ashes.,<c=@abilitytype>Двойная атака.</c> Ослепите врагов горячим пеплом.
@@ -345,8 +345,8 @@ english,translate
 <c=@abilitytype>Dual Attack.</c> Fire a superheated jet of plasma at your foe.,<c=@abilitytype>Двойная атака.</c> Выстрелите перегретой струей плазмы во врага.
 <c=@abilitytype>Dual Attack.</c> Form a frozen blade and spin it toward your enemies.,<c=@abilitytype>Двойная атака.</c> Сформируйте замерзший клинок и раскрутите его в сторону врагов.
 <c=@abilitytype>Dual Attack.</c> Gain fire and frost aura. Reduce the recharge of your primary attunement. Your next strike will deal additional damage to enemies around your target and remove conditions from you.,<c=@abilitytype>Двойная атака.</c> Получите ауру огня и льда. Уменьшите перезарядку вашей основной стихии. Ваш следующий удар нанесет дополнительный урон врагам вокруг цели и снимет с вас состояния.
-<c=@abilitytype>Dual Attack.</c> Gain might and superspeed. Reduce the recharge of your primary attunement. Your next strike will deal additional damage to enemies around your target.,<c=@abilitytype>Двойная атака.</c> Дает мощь и сверхскорость. Уменьшает перезарядку основной стихии. Ваш следующий удар нанесет дополнительный урон врагам вокруг цели.
-<c=@abilitytype>Dual Attack.</c> Gain stability. Reduce the recharge of your primary attunement. Your next strike will deal additional damage to enemies around your target and inflict conditions.,<c=@abilitytype>Двойная атака.</c> Дает устойчивость. Уменьшает перезарядку основной стихии. Ваш следующий удар нанесет дополнительный урон врагам вокруг цели и наложит состояния.
+<c=@abilitytype>Dual Attack.</c> Gain might and superspeed. Reduce the recharge of your primary attunement. Your next strike will deal additional damage to enemies around your target.,<c=@abilitytype>Двойная атака.</c> Даёт мощь и сверхскорость. Уменьшает перезарядку основной стихии. Ваш следующий удар нанесет дополнительный урон врагам вокруг цели.
+<c=@abilitytype>Dual Attack.</c> Gain stability. Reduce the recharge of your primary attunement. Your next strike will deal additional damage to enemies around your target and inflict conditions.,<c=@abilitytype>Двойная атака.</c> Даёт устойчивость. Уменьшает перезарядку основной стихии. Ваш следующий удар нанесет дополнительный урон врагам вокруг цели и наложит состояния.
 <c=@abilitytype>Dual Attack.</c> Heal yourself. Reduce the recharge of your primary attunement. Your next strike will deal additional damage to enemies around your target and heal you.,<c=@abilitytype>Двойная атака.</c> Лечит вас. Уменьшает перезарядку основной стихии. Ваш следующий удар нанесет дополнительный урон врагам вокруг цели и вылечит вас.
 <c=@abilitytype>Dual Attack.</c> Launch a ball of plasma that explodes on impact at your foes.,"<c=@abilitytype>Двойная атака.</c> Запускает шар плазмы, взрывающийся при попадании по врагам."
 <c=@abilitytype>Dual Attack.</c> Launch a fire and ice bolt while evading.,"<c=@abilitytype>Двойная атака.</c> Запускает огненный и ледяной снаряды, уклоняясь."
@@ -390,10 +390,10 @@ english,translate
 "<c=@abilitytype>Elixir.</c> Drink Elixir B to gain fury, might, resolution, and swiftness, then extend the duration of boons on yourself.","<c=@abilitytype>Эликсир.</c> Выпейте эликсир B, чтобы получить ярость, мощь, решимость и быстроту, а затем продлите длительность благ на себе."
 "<c=@abilitytype>Elixir.</c> Drink Elixir C, converting all conditions into boons, then heal yourself per boon on you.","<c=@abilitytype>Эликсир.</c> Выпейте эликсир C, преобразуя все состояния в благословения, затем исцелите себя за каждое благословение на вас."
 "<c=@abilitytype>Elixir.</c> Drink Elixir H to heal yourself and gain protection, regeneration, and swiftness.","<c=@abilitytype>Эликсир.</c> Выпейте эликсир H, чтобы исцелить себя и получить протекцию, регенерацию и быстроту."
-<c=@abilitytype>Elixir.</c> Drink Elixir R to refill your endurance and remove immobilizing effects.,"<c=@abilitytype>Эликсир.</c> Выпейте эликсир R, чтобы восстановить выносливость и снять эффекты обездвиживания."
+<c=@abilitytype>Elixir.</c> Drink Elixir R to refill your endurance and remove immobilizing effects.,"<c=@abilitytype>Эликсир.</c> Выпить эликсир R, чтобы восстановить свой запас выносливости и снять эффект обездвиживания."
 "<c=@abilitytype>Elixir.</c> Drink Elixir U, gaining quickness, stability, and vigor.","<c=@abilitytype>Эликсир.</c> Выпейте эликсир U, получая скорость, устойчивость и энергию."
 "<c=@abilitytype>Elixir.</c> Drink Elixir X to become a rampaging brute, whirling tornado, or powerful lich. Underwater, become either a withering plague or a whirlpool.","<c=@abilitytype>Эликсир.</c> Выпейте эликсир X, чтобы превратиться в буйного зверя, кружащийся торнадо или могучего лича. Под водой — в иссушающую чуму или водоворот."
-<c=@abilitytype>Elixir.</c> Launch a mortar round that heals allies in the target area.,"<c=@abilitytype>Эликсир.</c> Запустите снаряд из мортиры, исцеляющий союзников в целевой области."
+<c=@abilitytype>Elixir.</c> Launch a mortar round that heals allies in the target area.,"<c=@abilitytype>Эликсир.</c> Выстрелить минометным снарядом, который исцеляет союзников в выбранной области."
 "<c=@abilitytype>Elixir.</c> Launch an elixir orb, healing allies on impact and creating an area of continual healing.","<c=@abilitytype>Эликсир.</c> Запустите сферу эликсира, исцеляя союзников при ударе и создавая зону непрерывного лечения."
 "<c=@abilitytype>Elixir.</c> Leap backward, spraying an acidic elixir on the ground that damages nearby foes.","<c=@abilitytype>Эликсир.</c> Прыгните назад, распыляя кислотный эликсир на землю, наносящий урон ближайшим врагам."
 "<c=@abilitytype>Elixir.</c> Quaff an elixir, converting conditions into boons.","<c=@abilitytype>Эликсир.</c> Выпейте эликсир, преобразуя состояния в благословения."
@@ -403,8 +403,8 @@ english,translate
 "<c=@abilitytype>Elixir.</c> Toss Elixir B at a location, granting stability and one of the following boons to allies: fury, might, resolution, or swiftness.","<c=@abilitytype>Эликсир.</c> Бросьте эликсир B в указанное место, даруя союзникам устойчивость и один из следующих бонусов: ярость, мощь, решимость или скорость."
 "<c=@abilitytype>Elixir.</c> Toss Elixir C, converting conditions into boons for allies.","<c=@abilitytype>Эликсир.</c> Бросьте эликсир C, преобразуя состояния в бонусы для союзников."
 "<c=@abilitytype>Elixir.</c> Toss Elixir H to grant protection, regeneration, and vigor to allies.","<c=@abilitytype>Эликсир.</c> Бросьте эликсир H, чтобы дать союзникам протекцию, регенерацию и энергию."
-<c=@abilitytype>Elixir.</c> Toss Elixir R to revive allies at a location.,"<c=@abilitytype>Эликсир.</c> Бросьте эликсир R, чтобы воскресить союзников в указанном месте."
-<c=@abilitytype>Elixir.</c> Toss Elixir R to revive allies at a point.,"<c=@abilitytype>Эликсир.</c> Бросьте эликсир R, чтобы воскресить союзников в точке."
+<c=@abilitytype>Elixir.</c> Toss Elixir R to revive allies at a location.,"<c=@abilitytype>Эликсир.</c> Швырнуть эликсир R, оживляя союзников в точке падения."
+<c=@abilitytype>Elixir.</c> Toss Elixir R to revive allies at a point.,"<c=@abilitytype>Эликсир.</c> Швырнуть эликсир R, оживляя союзников в точке падения."
 "<c=@abilitytype>Elixir.</c> Toss Elixir S, granting stealth to allies in the area.","<c=@abilitytype>Эликсир.</c> Бросьте эликсир S, даруя невидимость союзникам в области."
 "<c=@abilitytype>Elixir.</c> Toss Elixir S, granting stealth to allies in the target area.","<c=@abilitytype>Эликсир.</c> Бросьте эликсир S, даруя невидимость союзникам в целевой области."
 "<c=@abilitytype>Elixir.</c> Toss Elixir U, breaking stuns on allies and granting them superspeed.","<c=@abilitytype>Эликсир.</c> Бросьте эликсир U, снимая оглушения с союзников и даруя им сверхскорость."
@@ -452,9 +452,9 @@ english,translate
 "<c=@abilitytype>Gadget.</c> Activate your A.E.D., enabling the system to heal you after a brief period of time. If you take lethal damage while A.E.D. is active, it ends and heals you for a large amount and removes conditions.","<c=@abilitytype>Устройство.</c> Активируйте свой А.Э.Д., позволяя системе исцелить вас через короткое время. Если вы получите смертельный урон, пока А.Э.Д. активен, он завершится и исцелит вас на большую величину, а также снимет состояния."
 "<c=@abilitytype>Gadget.</c> Activate your A.E.D., enabling the system to heal you after a brief period of time. If you take lethal damage while A.E.D. is active, it ends and heals you for a large amount, grants shock aura, and removes conditions.","<c=@abilitytype>Устройство.</c> Активируйте свой А.Э.Д., позволяя системе исцелить вас через короткое время. Если вы получите смертельный урон, пока А.Э.Д. активен, он завершится и исцелит вас на большую величину, даст шоковую ауру и снимет состояния."
 "<c=@abilitytype>Gadget.</c> Break out of stun, gaining resistance, clearing blindness, and removing damaging conditions.","<c=@abilitytype>Устройство.</c> Выйдите из оглушения, получая сопротивляемость, снимая слепоту и удаляя наносящие урон состояния."
-"<c=@abilitytype>Gadget.</c> Fly forward, damaging foes with your rocket exhaust. Cures immobilized, crippled, and chilled. Gain superspeed when this skill ends.","<c=@abilitytype>Устройство.</c> Летите вперед, нанося урон врагам выхлопом ракеты. Лечит обездвиживание, хромоту и холод. Получите сверхскорость, когда навык завершится."
+"<c=@abilitytype>Gadget.</c> Fly forward, damaging foes with your rocket exhaust. Cures immobilized, crippled, and chilled. Gain superspeed when this skill ends.","<c=@abilitytype>Устройство.</c> Летите вперёд, нанося урон врагам выхлопом ракеты. Лечит обездвиживание, хромоту и холод. Получите сверхскорость, когда навык завершится."
 "<c=@abilitytype>Gadget.</c> Fly forward, removing movement-impairing conditions and damaging foes with your rocket exhaust. 
-<c=@reminder>Movement-impairing conditions include cripple, chill, and immobilize.</c>","<c=@abilitytype>Гаджет.</c> Летите вперед, снимая эффекты, снижающие скорость передвижения, и нанося урон врагам струей ракетного двигателя.
+<c=@reminder>Movement-impairing conditions include cripple, chill, and immobilize.</c>","<c=@abilitytype>Гаджет.</c> Летите вперёд, снимая эффекты, снижающие скорость передвижения, и нанося урон врагам струей ракетного двигателя.
 <c=@reminder>Эффекты, снижающие скорость передвижения, включают в себя хромоту, заморозку и неподвижность.</c>"
 "<c=@abilitytype>Gadget.</c> Gain resistance, clear blindness, and remove damaging conditions.","<c=@abilitytype>Устройство.</c> Получите сопротивляемость, снимите слепоту и удалите наносящие урон состояния."
 <c=@abilitytype>Gadget.</c> Launch a target foe with a concealed ram head.,<c=@abilitytype>Устройство.</c> Подбросьте выбранного врага скрытой бараньей головой.
@@ -464,50 +464,50 @@ english,translate
 "<c=@abilitytype>Gadget.</c> Throw out a remote-controlled land mine that damages, knocks back, and removes a boon from nearby foes.","<c=@abilitytype>Гаджет.</c> Бросает управляемую мину, которая наносит урон, отбрасывает и снимает один бонус с ближайших врагов."
 "<c=@abilitytype>Gadget.</c> Throw out a remote-controlled land mine that damages, knocks back, and removes a boon from nearby foes. A second mine is planted at your location after the first lands.","<c=@abilitytype>Гаджет.</c> Бросает управляемую мину, которая наносит урон, отбрасывает и снимает один бонус с ближайших врагов. После приземления первой мины вторая устанавливается на вашем месте."
 <c=@abilitytype>Glamour.</c> Create a dome around you that reflects projectiles.,"<c=@abilitytype>Иллюзия.</c> Создаёт вокруг вас купол, отражающий снаряды."
-<c=@abilitytype>Glamour.</c> Create a dome around your foes that reflects projectiles.,"<c=@abilitytype>Иллюзия.</c> Создаёт вокруг врагов купол, отражающий снаряды."
-<c=@abilitytype>Glamour.</c> Create a field of energy that rips boons from foes and cures conditions on allies.,"<c=@abilitytype>Иллюзия.</c> Создаёт энергетическое поле, которое снимает бонусы с врагов и исцеляет союзников от состояний."
-<c=@abilitytype>Glamour.</c> Create a wall that grants stealth to you and your allies.,"<c=@abilitytype>Иллюзия.</c> Создаёт стену, дарующую скрытность вам и вашим союзникам."
+<c=@abilitytype>Glamour.</c> Create a dome around your foes that reflects projectiles.,"<c=@abilitytype>Иллюзия.</c> Создать купол вокруг ваших противников, который отражает снаряды."
+<c=@abilitytype>Glamour.</c> Create a field of energy that rips boons from foes and cures conditions on allies.,"<c=@abilitytype>Иллюзия.</c> Создать поле энергии, которое снимает дары с противников и состояния с союзников."
+<c=@abilitytype>Glamour.</c> Create a wall that grants stealth to you and your allies.,"<c=@abilitytype>Иллюзия.</c> Создать стену, которая даёт невидимость вам и вашим союзникам."
 "<c=@abilitytype>Glamour.</c> Create an area that warps time, granting you and your allies quickness while slowing enemies.","<c=@abilitytype>Иллюзия.</c> Создаёт область, искажающую время, даруя вам и союзникам проворство и замедляя врагов."
 "<c=@abilitytype>Glamour.</c> Create an area that warps time, granting you and your allies quickness. Enemies in the field are slowed.","<c=@abilitytype>Иллюзия.</c> Создаёт область, искажающую время, даруя вам и союзникам проворство. Враги в поле замедляются."
 "<c=@abilitytype>Glamour.</c> Create an entry portal at your location that teleports allies to your exit portal.
 <c=@reminder>(Creating a new entrance portal while you have an active portal will destroy the active portal.)</c>","<c=@abilitytype>Иллюзия.</c> Создаёт входной портал в вашем местоположении, который телепортирует союзников к выходному порталу.
 <c=@reminder>(Создание нового входного портала при наличии активного уничтожит текущий.)</c>"
 <c=@abilitytype>Glamour.</c> Create an exit portal.,<c=@abilitytype>Иллюзия.</c> Создаёт портал выхода.
-<c=@abilitytype>Glyph. </c>Pulls enemies toward you.,<c=@abilitytype>Глиф. </c>Притягивает врагов к вам.
-<c=@abilitytype>Glyph. </c>Push nearby enemies away from you.,<c=@abilitytype>Глиф. </c>Отталкивает ближайших врагов от вас.
-<c=@abilitytype>Glyph.</c> Break stun for nearby allies.,<c=@abilitytype>Глиф.</c> Снимает оглушение с ближайших союзников.
-<c=@abilitytype>Glyph.</c> Channel the power of the stars to prevent harm to your allies.,"<c=@abilitytype>Глиф.</c> Направляет силу звёзд, чтобы защитить союзников от вреда."
-<c=@abilitytype>Glyph.</c> Create a firestorm at the target area.,<c=@abilitytype>Глиф.</c> Создаёт огненную бурю в указанной области.
+<c=@abilitytype>Glyph. </c>Pulls enemies toward you.,<c=@abilitytype>Глиф. </c>Притянуть противников или оттолкнуть их.
+<c=@abilitytype>Glyph. </c>Push nearby enemies away from you.,<c=@abilitytype>Глиф. </c>Притянуть противников или оттолкнуть их.
+<c=@abilitytype>Glyph.</c> Break stun for nearby allies.,<c=@abilitytype>Глиф.</c> Ошеломить противников или снять оглушение с союзников.
+<c=@abilitytype>Glyph.</c> Channel the power of the stars to prevent harm to your allies.,"<c=@abilitytype>Глиф.</c> Собрать силу звезд, чтобы предохранить своих союзников от вреда."
+<c=@abilitytype>Glyph.</c> Create a firestorm at the target area.,<c=@abilitytype>Глиф.</c> Создать огненную бурю в выбранной области.
 "<c=@abilitytype>Glyph.</c> Create a lightning storm at the targeted area.
 <c=@reminder>Damage is reduced per target each time foes are struck by this skill.</c>","<c=@abilitytype>Глиф.</c> Создаёт грозу в указанной области.
 <c=@reminder>Урон уменьшается для каждой цели каждый раз, когда враги поражаются этим умением.</c>"
-<c=@abilitytype>Glyph.</c> Create a sandstorm at the target area.,<c=@abilitytype>Глиф.</c> Создаёт песчаную бурю в указанной области.
-<c=@abilitytype>Glyph.</c> Create a storm based on your attunement.,"<c=@abilitytype>Глиф.</c> Создаёт бурю, соответствующую вашей настройке."
+<c=@abilitytype>Glyph.</c> Create a sandstorm at the target area.,<c=@abilitytype>Глиф.</c> Создать песчаную бурю в выбранной области.
+<c=@abilitytype>Glyph.</c> Create a storm based on your attunement.,"<c=@abilitytype>Глиф.</c> Создать бурю, зависящую от вашей Стихии."
 "<c=@abilitytype>Glyph.</c> Create an ice storm at the targeted area.
 <c=@reminder>Damage is reduced per target each time foes are struck by this skill.</c>","<c=@abilitytype>Глиф.</c> Создаёт ледяную бурю в указанной области.
 <c=@reminder>Урон уменьшается для каждой цели каждый раз, когда враги поражаются этим умением.</c>"
 "<c=@abilitytype>Glyph.</c> Damage and impair foes, or heal and remove conditions from allies.",<c=@abilitytype>Глиф.</c> Наносит урон и ослабляет врагов или лечит и снимает состояния с союзников.
-<c=@abilitytype>Glyph.</c> Daze foes or break stun for allies.,<c=@abilitytype>Глиф.</c> Оглушает врагов или снимает оглушение с союзников.
-<c=@abilitytype>Glyph.</c> Draw your enemies in or knock them away.,<c=@abilitytype>Глиф.</c> Притягивает врагов или отбрасывает их.
-<c=@abilitytype>Glyph.</c> Greatly heal your allies while healing yourself and your pet for a minor amount.,"<c=@abilitytype>Глиф.</c> Сильно лечит союзников, одновременно немного леча себя и питомца."
+<c=@abilitytype>Glyph.</c> Daze foes or break stun for allies.,<c=@abilitytype>Глиф.</c> Ошеломить противников или снять оглушение с союзников.
+<c=@abilitytype>Glyph.</c> Draw your enemies in or knock them away.,<c=@abilitytype>Глиф.</c> Притянуть противников или оттолкнуть их.
+<c=@abilitytype>Glyph.</c> Greatly heal your allies while healing yourself and your pet for a minor amount.,<c=@abilitytype>Глиф.</c> Значительно исцелить себя и питомца и слегка исцелить союзников поблизости.
 "<c=@abilitytype>Glyph.</c> Greatly heal yourself and your pet, while healing nearby allies for a minor amount.","<c=@abilitytype>Глиф.</c> Сильно лечит вас и вашего питомца, одновременно немного леча ближайших союзников."
 "<c=@abilitytype>Glyph.</c> Heal allies, cleanse conditions, and grant stability to allies in the area.","<c=@abilitytype>Глиф.</c> Лечит союзников, снимает состояния и даёт устойчивость союзникам в области."
-<c=@abilitytype>Glyph.</c> Heal and remove conditions from nearby allies.,<c=@abilitytype>Глиф.</c> Лечит и снимает состояния с ближайших союзников.
-<c=@abilitytype>Glyph.</c> Heal yourself and gain a boon based on your attunement.,"<c=@abilitytype>Глиф.</c> Лечит вас и даёт бонус, соответствующий вашей настройке."
-<c=@abilitytype>Glyph.</c> Inflict bleeding and debilitate nearby foes.,<c=@abilitytype>Глиф.</c>Наложите кровотечение и ослабьте ближайших врагов.
-<c=@abilitytype>Glyph.</c> Prevent health drain while downed and revive downed allies in the targeted area. Heal and grant boons to allies in that area.,<c=@abilitytype>Глиф.</c>Предотвратите потерю здоровья в состоянии downed и воскресите павших союзников в целевой области. Исцелите и дайте благословения союзникам в этой области.
-<c=@abilitytype>Glyph.</c> Revive allies around you.,<c=@abilitytype>Глиф.</c>Воскресите союзников вокруг вас.
-<c=@abilitytype>Glyph.</c> Revive allies with different attunement effects.,<c=@abilitytype>Глиф.</c>Воскресите союзников с различными эффектами настройки.
-<c=@abilitytype>Glyph.</c> Revive an ally with full health.,<c=@abilitytype>Глиф.</c>Воскресите союзника с полным здоровьем.
-<c=@abilitytype>Glyph.</c> Revive an ally; you're revived the next time you're downed.,"<c=@abilitytype>Глиф.</c>Воскресите союзника; вы будете воскрешены в следующий раз, когда упадете."
-<c=@abilitytype>Glyph.</c> Revive and teleport an ally to your location.,<c=@abilitytype>Глиф.</c>Воскресите и телепортируйте союзника к вашему местоположению.
-<c=@abilitytype>Glyph.</c> Summon a lesser air elemental.,<c=@abilitytype>Глиф.</c>Призовите малого элементаля воздуха.
-<c=@abilitytype>Glyph.</c> Summon a lesser earth elemental.,<c=@abilitytype>Глиф.</c>Призовите малого элементаля земли.
-<c=@abilitytype>Glyph.</c> Summon a lesser elemental based on your attunement.,"<c=@abilitytype>Глиф.</c>Призывает малого элементаля, соответствующего вашей настройке."
-<c=@abilitytype>Glyph.</c> Summon a lesser fire elemental.,<c=@abilitytype>Глиф.</c>Призывает малого элементаля огня.
-<c=@abilitytype>Glyph.</c> Summon a lesser water elemental.,<c=@abilitytype>Глиф.</c>Призывает малого элементаля воды.
-<c=@abilitytype>Glyph.</c> Summon an elemental based on your attunement.,"<c=@abilitytype>Глиф.</c>Призывает элементаля, соответствующего вашей настройке."
-<c=@abilitytype>Glyph.</c> Unleash elemental energy around yourself. Its effect will differ based on your attunement.,<c=@abilitytype>Глиф.</c>Высвобождает энергию стихий вокруг вас. Эффект зависит от вашей настройки.
+<c=@abilitytype>Glyph.</c> Heal and remove conditions from nearby allies.,<c=@abilitytype>Глиф.</c> Нанести урон и ограничить противников или исцелить и снять состояния с союзников.
+<c=@abilitytype>Glyph.</c> Heal yourself and gain a boon based on your attunement.,"<c=@abilitytype>Глиф.</c> Исцелить себя и получить дар, зависящий от вашей Стихии."
+<c=@abilitytype>Glyph.</c> Inflict bleeding and debilitate nearby foes.,<c=@abilitytype>Глиф.</c>Нанести урон и ограничить противников или исцелить и снять состояния с союзников.
+<c=@abilitytype>Glyph.</c> Prevent health drain while downed and revive downed allies in the targeted area. Heal and grant boons to allies in that area.,"<c=@abilitytype>Глиф.</c>Собрать силу звезд, чтобы предохранить своих союзников от вреда."
+<c=@abilitytype>Glyph.</c> Revive allies around you.,<c=@abilitytype>Глиф.</c>Оживить союзников вокруг себя.
+<c=@abilitytype>Glyph.</c> Revive allies with different attunement effects.,"<c=@abilitytype>Глиф.</c>Оживить союзников с эффектами, зависящими от вашей Стихии."
+<c=@abilitytype>Glyph.</c> Revive an ally with full health.,<c=@abilitytype>Глиф.</c>Оживить союзника с полным запасом здоровья.
+<c=@abilitytype>Glyph.</c> Revive an ally; you're revived the next time you're downed.,"<c=@abilitytype>Глиф.</c>Оживить союзника; вы будете оживлены в следующий раз, когда будете повержены."
+<c=@abilitytype>Glyph.</c> Revive and teleport an ally to your location.,<c=@abilitytype>Глиф.</c>Оживить союзника и переместить его в ваше местоположение.
+<c=@abilitytype>Glyph.</c> Summon a lesser air elemental.,"<c=@abilitytype>Глиф.</c>Призвать малого элементаля, зависящего от вашей Стихии."
+<c=@abilitytype>Glyph.</c> Summon a lesser earth elemental.,"<c=@abilitytype>Глиф.</c>Призвать малого элементаля, зависящего от вашей Стихии."
+<c=@abilitytype>Glyph.</c> Summon a lesser elemental based on your attunement.,"<c=@abilitytype>Глиф.</c>Призвать малого элементаля, зависящего от вашей Стихии."
+<c=@abilitytype>Glyph.</c> Summon a lesser fire elemental.,"<c=@abilitytype>Глиф.</c>Призвать малого элементаля, зависящего от вашей Стихии."
+<c=@abilitytype>Glyph.</c> Summon a lesser water elemental.,"<c=@abilitytype>Глиф.</c>Призвать малого элементаля, зависящего от вашей Стихии."
+<c=@abilitytype>Glyph.</c> Summon an elemental based on your attunement.,"<c=@abilitytype>Глиф.</c>Призвать элементаля, зависящего от вашей Стихии."
+<c=@abilitytype>Glyph.</c> Unleash elemental energy around yourself. Its effect will differ based on your attunement.,<c=@abilitytype>Глиф.</c>Высвободить вокруг себя силу Стихий. Эффект будет зависеть от вашей текущей Стихии.
 <c=@abilitytype>Glyph.</c> Use nature energy to connect to foes or allies.,<c=@abilitytype>Глиф.</c>Использует энергию природы для связи с врагами или союзниками.
 <c=@abilitytype>Heat Threshold</c>,<c=@abilitytype>Порог нагрева</c>
 "<c=@abilitytype>Instrument.</c> Gain distortion and strum the harp, continuously healing nearby allies.
@@ -526,7 +526,7 @@ The drum will then consume all notes to continue playing in the background. The 
 <c=@abilitytype>Kneel.</c> Fire a bullet that grants you boons and inflicts conditions on your target.,"<c=@abilitytype>Встать на колено.</c> Выстрелите пулей, которая дарует вам благословения и накладывает состояния на цель."
 <c=@abilitytype>Kneel.</c> Fire a shot that inflicts vulnerability on your target. Applies additional vulnerability against your marked target.,"<c=@abilitytype>Встать на колено.</c> Сделайте выстрел, накладывающий уязвимость на цель. Накладывает дополнительную уязвимость на вашу отмеченную цель."
 <c=@abilitytype>Kneel.</c> Fire three bullets that grant might if they hit your target.,"<c=@abilitytype>Встать на колено.</c> Выпустите три пули, дарующие мощь при попадании в цель."
-<c=@abilitytype>Kneel.</c> Shadowstep forward while granting yourself stealth.,"<c=@abilitytype>Встать на колено.</c> Сделайте теневой шаг вперед, накладывая на себя скрытность."
+<c=@abilitytype>Kneel.</c> Shadowstep forward while granting yourself stealth.,"<c=@abilitytype>Встать на колено.</c> Сделайте теневой шаг вперёд, накладывая на себя скрытность."
 "<c=@abilitytype>Kneel.</c> Stop kneeling and move freely. If you used at least one kneel skill, gain swiftness.","<c=@abilitytype>Встать на колени.</c> Прекратить стоять на коленях и свободно двигаться. Если вы использовали хотя бы одно умение на коленях, получите быстроту."
 "<c=@abilitytype>Lead Attack.</c> Cripple your foe with a quick strike.
 <c=@reminder>Striking an enemy with a lead attack enables follow-up attacks.</c>","<c=@abilitytype>Ведущая атака.</c> Оглушите врага быстрым ударом.

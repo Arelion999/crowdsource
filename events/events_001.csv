@@ -8,16 +8,16 @@ english,translate
 """Fine. My troops will stay in case the ghosts return, but I'll see this done personally.""","«Хорошо. Мои войска останутся на случай, если призраки вернутся, но я прослежу за этим лично»."
 """Flame Legion inbound! Get to cover!""",«Приближается Flame Legion! В укрытие!»
 """Give us the warhorn and we'll make your deaths quick.""","«Отдайте нам боевой рог, и мы сделаем вашу смерть быстрой»."
-"""Help!"" Ahaahahaha. ""Heeeeeeelp!"" Hahahaha.","""Помогите!"" Ахахахаха. ""Помогиииите!"" Хахахаха."
-"""I appreciate the help, really, but you totally smell like a dredge. You seriously need a bath.""","""Я ценю помощь, правда, но от вас ужасно пахнет дреджами. Вам серьезно нужно принять ванну."""
+"""Help!"" Ahaahahaha. ""Heeeeeeelp!"" Hahahaha.","""Помогите!"" Ахахахаха. ""Помоги-и-и-ите!"" Хахахаха."
+"""I appreciate the help, really, but you totally smell like a dredge. You seriously need a bath.""","""Я ценю помощь, правда, но от вас ужасно пахнет дреджами. Вам серьёзно нужно принять ванну."""
 """Incoming! Look out!""",«Враги! Берегись!»
 """Inquest Control"" objective appears. After killing enough enemies, the event succeeds.","Появляется цель ""Контроль Inquest"". После убийства достаточного количества врагов событие считается выполненным."
-"""It's done. As long as the warhorn is entombed, that ghostly commander will be properly contained.""","«Готово. Пока боевой рог погребен, этот призрачный командир будет надежно заперт»."
+"""It's done. As long as the warhorn is entombed, that ghostly commander will be properly contained.""","«Готово. Пока боевой рог погребен, этот призрачный командир будет надёжно заперт»."
 """Just keep moving!""",«Просто продолжайте двигаться!»
 """Let's move! They'll be tracking our scent!""",«Двигаемся! Они возьмут наш след!»
-"""Looks like we'll have to fight our way through. Fine by me! (roar)""","«Похоже, нам придется пробиваться с боем. Меня это устраивает! (рык)»"
+"""Looks like we'll have to fight our way through. Fine by me! (roar)""","«Похоже, нам придётся пробиваться с боем. Меня это устраивает! (рык)»"
 """Nasty little beastie""?","""Мерзкой тварью""?"
-"""No. The artifact is too strong to break. We'll have to return it to the ruins.""","«Нет. Артефакт слишком силен, чтобы его сломать. Нам придется вернуть его в руины»."
+"""No. The artifact is too strong to break. We'll have to return it to the ruins.""","«Нет. Артефакт слишком силен, чтобы его сломать. Нам придётся вернуть его в руины»."
 """Peel their muscles from their core.""",«Содерите их мышцы с костей».
 """Place of learning,"" I called it. Pah!","«Место обучения», называл я это. Тьфу!"
 """Protector"" of Kaineng",«Защитник» Кайнэнга
@@ -43,8 +43,8 @@ english,translate
 %str1%: Please...leave here...before you are all destroyed...,%str1%: Пожалуйста... уходите отсюда... пока вы все не погибли...
 "%str1%: Reach deep inside, and you will feel the emptiness already growing there.","%str1%: Загляните глубоко внутрь, и вы почувствуете, как пустота уже растет там."
 "%str1%: The end is the beginning, and the beginning will be nothingness.","%str1%: Конец — это начало, а начало будет ничем."
-"%str1%: The end will come fast, and death will be your deliverance.","%str1%: Конец придет быстро, и смерть станет вашим избавлением."
-%str1%: The pain... It's too much to bear!,%str1%: Эта боль... Её слишком тяжело выносить!
+"%str1%: The end will come fast, and death will be your deliverance.","%str1%: Конец придёт быстро, и смерть станет вашим избавлением."
+%str1%: The pain... It's too much to bear!,%str1%: Эта боль... Её слишком тяжёло выносить!
 "%str1%: There is an ocean of Void, and you are already drowning in it.","%str1%: Существует океан Пустоты, вы уже тонете в нем."
 %str1%: There is only Void...there is only Void...there is only—(gasp) I...I can feel its grip loosening!,"%str1%: Есть только Пустота... есть только Пустота... есть только—(вздох) Я... Я чувствую, как её хватка ослабевает!"
 %str1%: Void is all that is and all that must be.,"%str1%: Пустота — это все, что есть, и все, что должно быть."
@@ -64,8 +64,8 @@ english,translate
 (growl) Who goes there?,(рычит) Кто здесь?
 "(growls) Come on then, you vermin! If I'm going to oblivion, I'm not going alone!","(рычит) Ну же, вредители! Если я отправляюсь в небытие, то не один!"
 (growls) These plague-ridden vermin are back again! How?,(рычит) Эти чумные твари снова здесь! Как?
-(heavy breathing) Wow. Tired. Really tired. Must nap now.,(тяжелое дыхание) Ух. Устал. Очень устал. Нужно вздремнуть.
-(laugh) I found it! I found it!,(смеется) Я нашел его! Я нашел его!
+(heavy breathing) Wow. Tired. Really tired. Must nap now.,(тяжёлое дыхание) Ух. Устал. Очень устал. Нужно вздремнуть.
+(laugh) I found it! I found it!,(смеется) Я нашёл его! Я нашёл его!
 "(laugh) I want my tombstone to say, ""He was dumb, but lovable."" All right. Here I go!","(смеется) Я хочу, чтобы на моем надгробии было написано: «Он был глуп, но мил». Ладно. Погнали!"
 (laugh) That'll be a nice surprise for some Orrian creature.,(смеется) Это будет приятный сюрприз для какой-нибудь твари из Orrian.
 (laugh) Those fools. They should've killed me when they had the chance.,"(смеется) Эти дураки. Им следовало убить меня, пока была возможность."
@@ -122,7 +122,7 @@ A friend of yours?,Твой друг?
 "A friendly Veteran River Drake appears, attacks and eats the thief, much to the horror of the crew members.","Появляется дружелюбный Veteran River Drake, нападает и съедает вора, к ужасу членов банды."
 A ghost and a necromancer? I didn't know that was possible.,"Призрак и некромант? Я не знал, что такое возможно."
 A good hunter stalks his prey before he strikes. Those supplies are as good as mine.,Хороший охотник выслеживает добычу перед ударом. Эти припасы уже считай мои.
-"A good start, but we're not done yet.","Хорошее начало, но мы еще не закончили."
+"A good start, but we're not done yet.","Хорошее начало, но мы ещё не закончили."
 "A grave insult, coming from the likes of you.","Тяжкое оскорбление, исходящее от таких, как ты."
 A great find! I knew this graveyard would be filled with important relics.,"Великолепная находка! Я знал, что это кладбище полно важных реликвий."
 A guild officer needs to activate this rush for you before you can participate.,"Офицер гильдии должен активировать эту гонку, прежде чем вы сможете принять участие."
@@ -154,10 +154,10 @@ A spearmaster enters the arena next. Elegance in perfect balance with her brutal
 A turtle baited is an ecosystem aided.,Приманка для черепахи — помощь экосистеме.
 A war council—and they're alone. Now's our chance. Let's strike before they can call for help!,"Военный совет — и они одни. Теперь наш шанс. Ударим, пока они не позвали на помощь!"
 AER-0000,AER-0000
-AHHHH! I'm fine. Everything's perfectly fine.,АААХ! Я в порядке. Всё совершенно в порядке.
-Aaaand there goes the power.,Иии... энергия пропала.
-"Aaa—! Everyone, hang on!",Ааа—! Всем держаться!
-Aah—somebody get a waystation in here! Use it to break their ranks.,"А-а, кто-нибудь, поставьте здесь путевую точку! Используйте ее, чтобы прорвать их ряды."
+AHHHH! I'm fine. Everything's perfectly fine.,А-А-АХ! Я в порядке. Всё совершенно в порядке.
+Aaaand there goes the power.,И-и-и... энергия пропала.
+"Aaa—! Everyone, hang on!",А-а-а—! Всем держаться!
+Aah—somebody get a waystation in here! Use it to break their ranks.,"А-а, кто-нибудь, поставьте здесь путевую точку! Используйте её, чтобы прорвать их ряды."
 Aatxe,Aatxe
 Abandoned Supplies,Брошенные припасы
 Aberrant Portal,Аберрантный портал
@@ -258,7 +258,7 @@ Agreed. We need to take down that tree. How are we set for explosives?,Согл�
 Aha! There's the part I needed.,"Ага! Вот та деталь, что мне была нужна."
 "Aha! This is the one! Just the right size. Perfect color and weight. Looks just like my old pet. I'll call him, ""Grr"".","Ага! Вот оно! Идеальный размер. Идеальный цвет и вес. Вылитый мой старый питомец. Назову его ""Grr""."
 Ahgi,Ahgi
-Ahh! Agh! Please. Stop hurting. Must stop. Begging. Stop!,Ааа! Агх! Пожалуйста. Перестаньте причинять боль. Должен прекратить. Умоляю. Хватит!
+Ahh! Agh! Please. Stop hurting. Must stop. Begging. Stop!,А-а-а! Агх! Пожалуйста. Перестаньте причинять боль. Должен прекратить. Умоляю. Хватит!
 "Ahh. Thank you. Without that infernal stone to bind me, I will rend these lands once more!","А-а-а. Благодарю. Без этого адского камня, сковывающего меня, я снова разорву эти земли на части!"
 Aid the Pact soldiers around the airship wreck,Помоги солдатам Пакта вокруг обломков дирижабля
 Aid the caravan.,Помогите каравану.
@@ -306,7 +306,7 @@ All right! Good as new. The processors are working better than ever.,"Отлич
 "All right, soldiers. It's time to do what we came here for. Use everything you've got to hold this position!","Хорошо, солдаты. Пришло время сделать то, ради чего мы здесь. Используйте всё, что у вас есть, чтобы удержать эту позицию!"
 "All right, that's dealt with. Back to work.","Ладно, с этим покончено. Вернемся к работе."
 "All right, this one is in good shape. We can move on.","Отлично, этот в хорошем состоянии. Можем двигаться дальше."
-"All right, you're up. Grab a bomb and head out to the tower. Try to set it at a weak spot!","Хорошо, твоя очередь. Хватай бомбу и направляйся к башне. Постарайся установить ее в уязвимом месте!"
+"All right, you're up. Grab a bomb and head out to the tower. Try to set it at a weak spot!","Хорошо, твоя очередь. Хватай бомбу и направляйся к башне. Постарайся установить её в уязвимом месте!"
 "All right. Anyone able and willing, follow me!","Хорошо. Все, кто может и хочет, следуйте за мной!"
 "All right. If you're not fit for combat, report immediately to sanitation duty.","Хорошо. Если вы не пригодны к бою, немедленно отправляйтесь на санитарные работы."
 "All right. Listen up, outsiders, because I'm only going to explain things once.","Так, слушайте сюда, чужаки, потому что я объясняю только один раз."
@@ -334,7 +334,7 @@ Allies overrun in: x:00,Союзники будут подавлены чере�
 Allies retreat in: 10:00,Союзники отступают через: 10:00
 Allies retreat to Firewatch Encampment in: 10:23,Союзники отступают к лагерю Firewatch через: 10:23
 Alluring Sabotage,Заманчивый саботаж
-Almost done. Just a little bit longer and I'll have a great sample to work with.,"Почти готово. Еще немного, и у меня будет отличный образец для работы."
+Almost done. Just a little bit longer and I'll have a great sample to work with.,"Почти готово. Ещё немного, и у меня будет отличный образец для работы."
 "Almost have enough, I think. Let's just check one more place.","Почти собрали, думаю. Давай проверим ещё одно место."
 Almost perfect. Décor a little lacking. But we make do.,Почти идеально. Декора маловато. Но мы справимся.
 Almost there. No one's going to get skewered by the Risen if this works.,"Почти готово. Никто не будет пронзен Risen, если это сработает."
@@ -354,7 +354,7 @@ Always have a backup weapon handy.,Всегда держи запасное ор
 "Always right on time, Wayfinder. The Inquest can construct a solid bridge... Mind lending a hand or weapon in destroying them both?","Всегда вовремя, Проводник. Инквест умеет строить прочные мосты... Не поможешь руками или оружием уничтожить их оба?"
 "Alya is focusing on casting magic. / Alya is fighting, not casting magic.","Alya сосредоточена на сотворении магии. / Alya сражается, а не творит магию."
 "Alya is focusing on casting magic. | Alya is fighting, not casting magic.","Alya сосредоточена на сотворении магии. | Alya сражается, а не творит магию."
-"Am I still alive? Ooh, ouch. Yep, I'm alive.","Я еще жив? Ох, больно. Да, я жив."
+"Am I still alive? Ooh, ouch. Yep, I'm alive.","Я ещё жив? Ох, больно. Да, я жив."
 Amadi,Amadi
 Amar,Amar
 Amazing summoning techniques!,Изумительная техника призыва!
@@ -392,13 +392,13 @@ Ancient Recovery Golem,Древний голем восстановления
 Ancient Shark,Ancient Shark
 Ancient Warbeast,Древний боевой зверь
 "And I'm glad to see you have things under control. No problems, then?","А я рад видеть, что ты держишь всё под контролем. Проблем нет?"
-And I've come to view the murals...as part of an art history exchange program...,И я пришел осмотреть фрески... в рамках программы обмена по истории искусств...
+And I've come to view the murals...as part of an art history exchange program...,И я пришёл осмотреть фрески... в рамках программы обмена по истории искусств...
 And a four!,И четыре!
 And a one...,И раз...
 And a three...,И три...
 And a two!,И два!
 And absorbing his power in place of Kormir?,И поглощает его силу вместо Kormir?
-And be sure to dispose of any remaing eggs you find!,"И не забудь избавиться от всех оставшихся яиц, которые найдешь!"
+And be sure to dispose of any remaing eggs you find!,"И не забудь избавиться от всех оставшихся яиц, которые найдёшь!"
 "And even if he were to defeat us, we'd simply rise to fight again.","И даже если он победит нас, мы просто восстанем, чтобы сражаться снова."
 "And he won't be jovial about it, either. Let me know when you're ready.","И он не будет этому рад. Дайте знать, когда будете готовы."
 And here I thought our greatest worry was dragon spawn.,"А я-то думал, что наша главная забота — порождения драконов."
@@ -434,11 +434,11 @@ Annihilate the destroyers loosed by the dredge.,"Уничтожьте разру
 Anomalous Tentacle,Аномальное щупальце
 Anomalous energies will dissipate in: 8:00,Аномальная энергия рассеется через: 8:00
 Another acid attack!,Снова кислотная атака!
-"Another banquet, just for us.","Еще один банкет, только для нас."
-"Another bombardment... Just like last time, you'll have to trust me again—intercept those impact sites!","Очередная бомбардировка... Как и в прошлый раз, вам снова придется довериться мне — перехватывайте эти места падения!"
-Another challenge behind me.,Еще одно испытание позади.
-Another pet rescued. Keep it up and we should have enough.,"Еще один питомец спасен. Продолжайте в том же духе, и у нас будет достаточно."
-Another reason to get this done quickly.,Еще одна причина закончить это побыстрее.
+"Another banquet, just for us.","Ещё один банкет, только для нас."
+"Another bombardment... Just like last time, you'll have to trust me again—intercept those impact sites!","Очередная бомбардировка... Как и в прошлый раз, вам снова придётся довериться мне — перехватывайте эти места падения!"
+Another challenge behind me.,Ещё одно испытание позади.
+Another pet rescued. Keep it up and we should have enough.,"Ещё один питомец спасен. Продолжайте в том же духе, и у нас будет достаточно."
+Another reason to get this done quickly.,Ещё одна причина закончить это побыстрее.
 Answer lore questions to draw out a challenger from the legions for a duel,"Ответь на вопросы по истории, чтобы вызвать претендента из легионов на дуэль"
 Answer riddles posed by Raven's statues,Ответь на загадки статуй Raven
 Answer the children's quizzes to prove your knowledge.,"Ответьте на вопросы детей, чтобы доказать свои знания."
@@ -461,15 +461,15 @@ Archstone Coast (meta event),Archstone Coast (мета-событие)
 Arctic Tuna,Арктический тунец
 Ardent Gale,Ardent Gale
 Are we making these paintings for the celebration?,Мы рисуем эти картины для праздника?
-Are we still going to perform? What's going on out there? I'm so confused...,Мы все еще будем выступать? Что там происходит? Я так запутался...
+Are we still going to perform? What's going on out there? I'm so confused...,Мы все ещё будем выступать? Что там происходит? Я так запутался...
 Are you numbskulls capable of anything? Let me show you how it's done.,"Вы, остолопы, хоть на что-то способны? Позвольте показать, как это делается."
 "Are you prepared for our attack on the organ chamber? If everyone's affairs are in order, we can begin. Just...don't take too long, yeah?","Ты готов к нашей атаке на камеру органа? Если у всех всё готово, можем начинать. Только... не затягивай, ладно?"
 "Are you ready to begin the assault on the organ chambers? When everyone's ready, we'll start. Can't wait too long, though. Time's wasting!","Вы готовы начать штурм камер органов? Когда все будут готовы, мы начнем. Но долго ждать не можем. Время уходит!"
 Are you ready to bring some balance back to the land?,Готовы вернуть равновесие в эти земли?
-Are you serious? Can our purifiers handle all that sludge?,Ты серьезно? Наши очистители справятся со всей этой жижей?
+Are you serious? Can our purifiers handle all that sludge?,Ты серьёзно? Наши очистители справятся со всей этой жижей?
 Are you still here?,Ты всё ещё здесь?
 Are you sure you want to switch out of student mode? Student mode disabled.,"Вы уверены, что хотите выйти из режима обучения? Режим обучения отключен."
-"Are you sure? They let you stay with them, after all. I'd say the experiment was a complete success.","Вы уверены? В конце концов, они позволили вам остаться с ними. Я бы сказал, что эксперимент прошел успешно."
+"Are you sure? They let you stay with them, after all. I'd say the experiment was a complete success.","Вы уверены? В конце концов, они позволили вам остаться с ними. Я бы сказал, что эксперимент прошёл успешно."
 Area Searched,Область осмотрена
 Areas Remaining,Оставшиеся области
 "Argh, shut if off!","Аргх, выключите её!"
@@ -487,11 +487,11 @@ Artillery repaired,Артиллерия отремонтирована
 "As I recall, this ""trouble"" was yours. The Lionguard asked the Priory to help with the spectral pirates.","Насколько я помню, эта «неприятность» была твоей. Lionguard попросила Priory помочь со спектральными пиратами."
 As if they were being hunted. This is a bad sign.,Как будто на них охотились. Это плохой знак.
 "As krewes begin their new operations, you may encounter various weapons or objects of seer descent.","По мере того как команды начинают новые операции, вы можете столкнуться с различным оружием или объектами, созданными Seer."
-"As long as I got breath in my lungs, this cannon won't stop firing. Rawr!","Пока я дышу, эта пушка не перестанет стрелять. Ррраар!"
+"As long as I got breath in my lungs, this cannon won't stop firing. Rawr!","Пока я дышу, эта пушка не перестанет стрелять. Р-р-раар!"
 "As long as we keep my resonators running, our target should be here in no time.","Пока мы поддерживаем работу моих резонаторов, наша цель скоро будет здесь."
 "As order returns to nature, may your spirit as well. Good-bye, brother.","Пусть порядок вернется в природу, а вместе с ним и твой дух. Прощай, брат."
-"As soon as the supplies are packed, we can get going. It'd sure be nice to get a few more, though.","Как только припасы будут упакованы, мы сможем выдвигаться. Хотя было бы неплохо раздобыть еще немного."
-"As the stars guide ships in the dark of night, so too shall Koda find a way to guide us through our dark times.","Как звезды ведут корабли в ночной тьме, так и Koda найдет способ провести нас через темные времена."
+"As soon as the supplies are packed, we can get going. It'd sure be nice to get a few more, though.","Как только припасы будут упакованы, мы сможем выдвигаться. Хотя было бы неплохо раздобыть ещё немного."
+"As the stars guide ships in the dark of night, so too shall Koda find a way to guide us through our dark times.","Как звезды ведут корабли в ночной тьме, так и Koda найдёт способ провести нас через тёмные времена."
 "As thrilling as this is, my dread is growing the longer we stay here.","Как бы захватывающе это ни было, мой страх растет, чем дольше мы здесь остаемся."
 As will anyone who intrudes in krait territory.,"Как и любой, кто вторгнется на территорию крэйтов."
 Ascalonian Commander,Аскалонский Коммандир

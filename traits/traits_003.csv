@@ -1,69 +1,69 @@
 english,translate
-Gain might when you block attacks.,Дает могущество при блокировании атак.
-Gain might when you dodge.,Дает могущество при уклонении.
-Gain might when you gain fury.,Дает могущество при получении ярости.
-Gain might when you grant yourself fury.,Дает могущество при наложении на себя ярости.
-Gain might when you inflict bleeding on a foe.,Дает могущество при наложении кровотечения на врага.
-Gain might when you strike a foe based on their health percent.,Дает могущество при ударе по врагу в зависимости от процента его здоровья.
-Gain might when you strike a foe below the health threshold.,Получайте могущество при ударе по врагу с уровнем здоровья ниже порогового.
-Gain might when your Virtue skill 1 passive effect triggers; gain more might while wielding a scepter.,Получайте могущество при срабатывании пассивного эффекта вашего навыка Добродетели 1; получайте больше могущества при использовании скипетра.
-Gain might while wielding a flamethrower. Might applied to you gains increased duration. Napalm grants you stability and a fire aura.,Получайте могущество при использовании огнемета. Длительность накладываемого на вас могущества увеличена. Напалм дает вам стабильность и ауру огня.
-Gain might while you have stability. Your Function Gyro applies stability to allies when cast.,"Получайте могущество, пока у вас есть стабильность. Ваш Функциональный гироскоп накладывает стабильность на союзников при использовании."
+Gain might when you block attacks.,Даёт могущество при блокировании атак.
+Gain might when you dodge.,Даёт могущество при уклонении.
+Gain might when you gain fury.,Даёт могущество при получении ярости.
+Gain might when you grant yourself fury.,Даёт могущество при наложении на себя ярости.
+Gain might when you inflict bleeding on a foe.,Даёт могущество при наложении кровотечения на врага.
+Gain might when you strike a foe based on their health percent.,Даёт могущество при ударе по врагу в зависимости от процента его здоровья.
+Gain might when you strike a foe below the health threshold.,"Вам даруется Мощь, когда вы наносите удар противнику, чье здоровье ниже порога."
+Gain might when your Virtue skill 1 passive effect triggers; gain more might while wielding a scepter.,"Вам даруется Мощь от пассивного эффекта 1-го умения Добродетели. Вам даруется больше Мощи, если вы вооружены скипетром."
+Gain might while wielding a flamethrower. Might applied to you gains increased duration. Napalm grants you stability and a fire aura.,Получайте могущество при использовании огнемета. Длительность накладываемого на вас могущества увеличена. Напалм даёт вам стабильность и ауру огня.
+Gain might while you have stability. Your Function Gyro applies stability to allies when cast.,"Вам даруется Мощь, когда у вас есть дар Устойчивости. Ваш Робокоптер дарует союзникам Устойчивость при активации."
 "Gain motivation when you enter combat. If no refrains are active, automatically activate the refrain of Chant of Action.","Получайте мотивацию при вступлении в бой. Если активных рефренов нет, автоматически активируется рефрен Песни действия."
 Gain movement speed for each point of upkeep currently in use.,Получайте бонус к скорости передвижения за каждую единицу используемого поддержания.
 Gain one <c=@abilitytype>familiar</c> charge when attuning to your selected element.,Получайте один заряд <c=@abilitytype>фамильяра</c> при настройке на выбранную стихию.
-Gain power and a chance to gain might on critical strike. Double these bonuses while wielding a greatsword or underwater spear. Greatsword and underwater spear skills recharge faster.,Получайте силу и шанс получить могущество при критическом ударе. Удваивайте эти бонусы при использовании двуручного меча или подводного копья. Навыки двуручного меча и подводного копья перезаряжаются быстрее.
-Gain power and additional power while wielding a sword or underwater spear. Successfully evading an attack while wielding a sword or underwater spear recharges Steal.,Получайте силу и дополнительную силу при использовании меча или подводного копья. Успешное уклонение от атаки с мечом или подводным копьем перезаряжает Кражу.
-Gain power while in fire attunement.,"Получайте силу, находясь в настройке огня."
+Gain power and a chance to gain might on critical strike. Double these bonuses while wielding a greatsword or underwater spear. Greatsword and underwater spear skills recharge faster.,"Ваша Сила увеличивается, и вы получаете шанс даровать себе Мощь при критическом ударе. Эти бонусы удваиваются, если вы вооружены двуручным мечом или подводным копьём. Умения двуручного меча и подводного копья перезаряжаются быстрее."
+Gain power and additional power while wielding a sword or underwater spear. Successfully evading an attack while wielding a sword or underwater spear recharges Steal.,Получайте силу и дополнительную силу при использовании меча или подводного копья. Успешное уклонение от атаки с мечом или подводным копьём перезаряжает Кражу.
+Gain power while in fire attunement.,"Ваша Сила увеличивается, пока вы используете силу Огня."
 "Gain power, then gain extra power while you are revealed.","Получайте силу, а затем дополнительную силу, пока вы раскрыты."
 Gain precision. Gain additional precision while wielding a rifle. Enter stealth when you dodge roll with a rifle equipped.,Получайте точность. Получайте дополнительную точность при использовании винтовки. Уходите в скрытность при перекате с экипированной винтовкой.
-Gain protection after a successful Full Counter.,Получайте защиту после успешного Полного контратаки.
+Gain protection after a successful Full Counter.,Вам даруется Протекция после успешной Круговой контратаки.
 Gain protection when activating a <c=@abilitytype>Stance</c>. Activate Lesser Stone Resonance when using an elite skill.,Получайте протекцию при активации <c=@abilitytype>Стойки</c>. Активируйте Малый каменный резонанс при использовании элитного навыка.
 "Gain protection when you are disabled.
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.","Получайте протекцию, когда вас выводят из строя.
 <c=@reminder>Вывод из строя включает оглушение, ошеломление, отбрасывание, притягивание, нокдаун, погружение, подбрасывание, запуск, провокацию и страх."
-Gain protection when you block an incoming attack with aegis.,Получайте защиту при блокировании входящей атаки с помощью эгиды.
-Gain protection when you use a healing skill.,Получайте защиту при использовании навыка лечения.
+Gain protection when you block an incoming attack with aegis.,"Вам даруется Протекция, когда вы блокируете атаку с помощью Эгиды."
+Gain protection when you use a healing skill.,Вам даруется Протекция при использовании исцеляющего умения.
 "Gain protection when you use your profession skill 2.
 <c=@reminder>This trait affects True Nature when you are a herald.</c>","Получайте протекцию при использовании навыка профессии 2.
 <c=@reminder>Эта черта влияет на Истинную природу, когда вы вестник.</c>"
 "Gain quickness and recharge your <c=@abilitytype>Burst</c> skills when you strike a foe that is below the health threshold. Gain increased outgoing healing when you strike with a <c=@abilitytype>Burst</c> skill, based on adrenaline spent.",Получайте проворство и перезаряжайте свои навыки <c=@abilitytype>Взрыва</c> при ударе по врагу с уровнем здоровья ниже порогового. Получайте увеличенное исходящее лечение при ударе навыком <c=@abilitytype>Взрыва</c> в зависимости от потраченного адреналина.
-Gain quickness and stability when you disable an enemy.,Получайте быстроту и стабильность при выводе врага из строя.
-Gain quickness when marking a foe. Your power and precision are increased while under this effect.,Получайте быстроту при пометке врага. Ваша сила и точность увеличиваются под действием этого эффекта.
+Gain quickness and stability when you disable an enemy.,"Вам даруются Проворство и Устойчивость, когда вы выводите противника из строя."
+Gain quickness when marking a foe. Your power and precision are increased while under this effect.,"Вам даруется Проворство, когда вы отмечаете цель. Ваши Сила и Точность увеличиваются под действием этого эффекта."
 "Gain quickness when you disable an enemy. While you have quickness, your movement speed is increased. <c=@reminder>This stacks with other movement speed increases.</c>","Получайте проворство при выводе врага из строя. Пока у вас есть проворство, ваша скорость передвижения увеличена. <c=@reminder>Суммируется с другими бонусами к скорости передвижения.</c>"
-Gain quickness when you interrupt a foe.,Получайте быстроту при прерывании навыка врага.
-Gain quickness when you swap weapons. Deal increased damage to foes with stability or protection.,Получайте быстроту при смене оружия. Наносите увеличенный урон врагам со стабильностью или защитой.
-Gain regeneration and frost aura when you use a healing skill.,Получайте регенерацию и ауру мороза при использовании навыка лечения.
+Gain quickness when you interrupt a foe.,"Вы получаете Проворство, когда прерываете противника."
+Gain quickness when you swap weapons. Deal increased damage to foes with stability or protection.,"Вам даруется Проворство, когда вы меняете оружие. Вы наносите повышенный урон противникам с даром Устройчивости или Протекции."
+Gain regeneration and frost aura when you use a healing skill.,Вам даруется Регенерация и морозная аура при активации исцеляющего умения.
 "Gain regeneration when you are inflicted with bleeding, poison, or burning. While you have regeneration, you take reduced strike damage.","Получайте регенерацию при наложении на вас кровотечения, яда или горения. Пока у вас есть регенерация, вы получаете уменьшенный урон от ударов."
-Gain regeneration when you gain Mirage Cloak. The duration of incoming damaging conditions is reduced while you are regenerating.,"Получайте регенерацию при получении Плаща миража. Длительность входящих наносящих урон состояний уменьшается, пока вы регенерируете."
-Gain resistance after using a healing skill.,Получайте сопротивление после использования навыка лечения.
+Gain regeneration when you gain Mirage Cloak. The duration of incoming damaging conditions is reduced while you are regenerating.,"Вам даруется Регенерация, когда вы получаете покров миража. Длительность наносящих урон состояний уменьшена, пока у вас есть дар Регенерации."
+Gain resistance after using a healing skill.,Вам даруется Сопротивляемость после активации исцеляющего умения.
 Gain resistance and remove a damaging condition when you use a <c=@abilitytype>Legendary Demon</c> skill.,Получайте сопротивляемость и снимайте наносящее урон состояние при использовании навыка <c=@abilitytype>Легендарного демона</c>.
-Gain resistance when you dodge.,Получайте сопротивление при уклонении.
-Gain resistance when you invoke a legend.,Получайте сопротивление при призыве легенды.
-Gain resolution after you dodge.,Получайте решимость после уклонения.
+Gain resistance when you dodge.,Вам даруется Сопротивляемость при увороте.
+Gain resistance when you invoke a legend.,"Вам даруется Сопротивляемость, когда вы взываете к легенде."
+Gain resolution after you dodge.,Вам даруется Решимость после уворота.
 "Gain resolution and aegis when disabled.
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Получайте решимость и эгиду при выводе из строя.
 <c=@reminder>Вывод из строя включает оглушение, ошеломление, отбрасывание, притягивание, нокдаун, погружение, подбрасывание, запуск, провокацию и страх.</c>"
-Gain resolution when using a heal skill.,Получайте решимость при использовании навыка лечения.
+Gain resolution when using a heal skill.,"Вам даруется Решимость, когда вы используете исцеляющее умение."
 Gain resolution when you activate a <c=@abilitytype>Virtue</c>. Resolution you grant has increased duration.,Получайте решимость при активации <c=@abilitytype>Добродетели</c>. Длительность даруемой вами решимости увеличена.
-Gain resolution when you use invoke a legend.,Получайте решимость при призыве легенды.
-Gain stability and damage reduction when entering Harbinger Shroud. Gain ferocity based on your vitality.,Получайте стабильность и снижение урона при входе в Саван предвестника. Получайте свирепость в зависимости от вашей живучести.
-Gain stability and endurance when entering berserk mode. Traits that trigger when entering berserk mode also trigger when exiting berserk mode. You can now exit berserk mode early.,"Получайте стабильность и выносливость при входе в режим берсерка. Черты, срабатывающие при входе в режим берсерка, также срабатывают при выходе из него. Теперь вы можете выйти из режима берсерка досрочно."
-Gain stability and heal yourself when you break stuns.,Получайте стабильность и лечите себя при снятии оглушения.
-Gain stability and swiftness when starting an <c=@abilitytype>overload</c>.,Получайте стабильность и стремительность при начале <c=@abilitytype>перегрузки</c>.
+Gain resolution when you use invoke a legend.,"Вам даруется Решимость, когда вы взываете к легенде."
+Gain stability and damage reduction when entering Harbinger Shroud. Gain ferocity based on your vitality.,"Вы получаете дар Устойчивости и снижение урона, когда надеваете Саван Предвестника. Ваша Жестокость увеличивается в зависимости от вашей Живучести."
+Gain stability and endurance when entering berserk mode. Traits that trigger when entering berserk mode also trigger when exiting berserk mode. You can now exit berserk mode early.,"Вам даруются Устойчивость и выносливость, когда вы становитесь берсерком. Черты, срабатывающие при активации состояния берсерка, также срабатывают и когда вы перестаете быть берсерком. Вы можете перестать быть берсерком раньше срока."
+Gain stability and heal yourself when you break stuns.,"Вы даруете себе устойчивость и исцеляетесь, когда сбрасываете оглушение."
+Gain stability and swiftness when starting an <c=@abilitytype>overload</c>.,Получить Устойчивость и Быстроту при начале форсажа . <c=@abilitytype>перегрузки</c>.
 "Gain stability when disabling an enemy. Deal increased strike damage to disabled, exposed, or defiant foes.
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Получайте устойчивость при выводе врага из строя. Наносите увеличенный урон от ударов выведенным из строя, уязвимым или непокорным врагам.
 <c=@reminder>Вывод из строя включает оглушение, ошеломление, отбрасывание, притягивание, нокдаун, погружение, подбрасывание, запуск, провокацию и страх.</c>"
-Gain stability when you disable a foe. Deal increased strike damage while you have stability.,"Получайте стабильность при выводе врага из строя. Наносите увеличенный урон от ударов, пока у вас есть стабильность."
-Gain stability when you gain might at or above the threshold. Might grants bonus power.,Получайте стабильность при получении могущества на пороговом уровне или выше. Могущество дает бонус к силе.
+Gain stability when you disable a foe. Deal increased strike damage while you have stability.,"Вам даруется Устойчивость, когда вы выводите противника из строя. Вы наносите повышенный прямой урон, пока у вас есть дар Устойчивости."
+Gain stability when you gain might at or above the threshold. Might grants bonus power.,Получайте стабильность при получении могущества на пороговом уровне или выше. Могущество даёт бонус к силе.
 Gain stability when you use a <c=@abilitytype>Shatter</c> skill. Grant an additional boon to nearby allies based on which <c=@abilitytype>Shatter</c> is used.,"Получайте устойчивость при использовании навыка <c=@abilitytype>Раскола</c>. Даруйте дополнительное благо ближайшим союзникам в зависимости от того, какой <c=@abilitytype>Раскол</c> был использован."
 Gain stacks of <c=@abilitytype>Battle Scars</c> while in combat.,Получайте заряды <c=@abilitytype>Боевых шрамов</c> во время боя.
-Gain stacks of Consume Shadows at regular intervals while in Shadow Shroud. Exiting Shadow Shroud consumes your remaining shadow force and heals allies based on the number of stacks you have gained. Allies that are fully healed receive the rest of the value in barrier.,Получайте заряды Поглощения теней через равные промежутки времени в Саване теней. Выход из Савана теней поглощает оставшуюся силу тени и лечит союзников в зависимости от количества накопленных зарядов. Полностью вылеченные союзники получают остаток значения в виде барьера.
-Gain superspeed when attuning to air.,Получайте суперскорость при настройке на воздух.
+Gain stacks of Consume Shadows at regular intervals while in Shadow Shroud. Exiting Shadow Shroud consumes your remaining shadow force and heals allies based on the number of stacks you have gained. Allies that are fully healed receive the rest of the value in barrier.,"Пока вы находитесь в Саване Теней, вы получаете стеки Поглощения теней через равные промежутки времени. Покидание Савана Теней поглощает всю оставшуюся силу теней и исцеляет союзников поблизости пропорционально поглощенной энергии. Союзники, которые исцелились полностью, получают остаток исцеления как барьер."
+Gain superspeed when attuning to air.,"Вы получаете сверхскорость, когда обращаетесь к силе Воздуха."
 Gain superspeed when inflicting inhibiting conditions on enemies.,Получайте суперскорость при наложении на врагов ограничивающих состояний.
-Gain superspeed when you enter or exit stealth.,Получайте суперскорость при входе в скрытность или выходе из нее.
-Gain swiftness upon dodging.,Получайте стремительность при уклонении.
-Gain swiftness when swapping weapons in combat.,Получайте стремительность при смене оружия в бою.
+Gain superspeed when you enter or exit stealth.,Получайте суперскорость при входе в скрытность или выходе из неё.
+Gain swiftness upon dodging.,Вам даруется Быстрота при увороте.
+Gain swiftness when swapping weapons in combat.,Вам даруется Быстрота при смене оружия в бою.
 Gain swiftness when using a <c=@abilitytype>Dual Attack.</c> Deal increased strike damage to enemies while under the effects of swiftness or superspeed.,"Получайте быстроту при использовании <c=@abilitytype>двойной атаки.</c> Наносите повышенный урон ударами врагам, находясь под действием стремительности или суперскорости."
 "Gain swiftness when you are inflicted with inhibiting conditions. When gaining either superspeed or swiftness, also gain regeneration and cleanse a condition. Swiftness has increased effectiveness.</c>",Получайте быстроту при наложении на вас ограничивающих состояний. При получении суперскорости или стремительности также получайте регенерацию и снимайте одно состояние. Эффективность стремительности повышена.</c>
 "Gain the power to craft sand shadows and command them using your life force. Gain access to <c=@abilitytype>Punishment</c> and <c=@abilitytype>Shade</c> skills.
@@ -71,24 +71,24 @@ Gain swiftness when using a <c=@abilitytype>Dual Attack.</c> Deal increased stri
 <c=@reminder>Навыки тени наследуют эффекты черт, влияющих на навыки савана.</c>"
 Gain the same boons as the legend equipped in the other slot.,"Получайте те же благословения, что и у легенды, экипированной в другом слоте."
 "Gain toughness when wielding a shield, and shield skills gain reduced recharge.","Получайте стойкость при использовании щита, а время перезарядки навыков щита сокращается."
-Gain vigor at the end of your dodge roll.,Получайте энергию в конце переката.
-Gain vigor upon successfully evading an attack.,Получайте энергию при успешном уклонении от атаки.
-Gain vigor when delivering a critical hit.,Получайте энергию при нанесении критического удара.
-Gain vigor when successfully evading an attack.,Получайте энергию при успешном уклонении от атаки.
+Gain vigor at the end of your dodge roll.,Вам даруется Энергичность после уворота с перекатом.
+Gain vigor upon successfully evading an attack.,Вам даруется Энергичность при успешном уклонении от атаки.
+Gain vigor when delivering a critical hit.,"Вам даруется Энергичность, когда вы наносите критический удар."
+Gain vigor when successfully evading an attack.,Вам даруется Энергичность после успешного уклонения от атаки.
 Gain vigor when using a <c=@abilitytype>Dual Attack.</c> Dodge rolling grants a barrier.,Получайте энергию при использовании <c=@abilitytype>двойной атаки.</c> Перекат накладывает барьер.
-Gain vigor when you critically strike a foe.,Получайте энергию при нанесении критического удара по врагу.
-Gain vitality and ferocity based on a percentage of your power.,Получайте живучесть и свирепость в зависимости от процента вашей силы.
-Gain vitality based on a percentage of your power. Gain life force when you strike a foe below the health threshold.,Получайте живучесть в зависимости от процента вашей силы. Получайте жизненную силу при ударе по врагу с уровнем здоровья ниже порогового.
-Gain vitality based on a portion of your power. Damage is decreased from foes within the range threshold.,Получайте живучесть в зависимости от части вашей силы. Урон от врагов в пределах порогового диапазона снижается.
+Gain vigor when you critically strike a foe.,"Вам даруется Энергичность, когда вы наносите критический удар."
+Gain vitality and ferocity based on a percentage of your power.,Ваша Живучесть и Жестокость увеличиваются в зависимости от вашей Силы.
+Gain vitality based on a percentage of your power. Gain life force when you strike a foe below the health threshold.,"Ваша Живучесть увеличивается в зависимости от вашей Силы. Вы получаете жизненную силу, когда наносит удар противнику, чье здоровье ниже порога."
+Gain vitality based on a portion of your power. Damage is decreased from foes within the range threshold.,"Ваша Живучесть увеличивается в зависимости от вашей Силы. Урон от противников, которые находятся от вас не дальше порога дистанции, уменьшен."
 Gain vitality. <c=@abilitytype>Unleashed Ambush</c> skills siphon health if they hit. Siphon healing is reduced for each target struck beyond the first. <c=@reminder> Cannot siphon the same target more than once per skill.</c>,"Получайте живучесть. Навыки <c=@abilitytype>высвобожденной засады</c> вытягивают здоровье при попадании. Исцеление от вытягивания снижается для каждой цели, пораженной после первой. <c=@reminder>Нельзя вытянуть здоровье из одной и той же цели более одного раза за навык.</c>"
-Gain vitality. Blocking an attack causes Justice to reach its maximum charge and reduces the cooldown of Spear of Justice.,Получайте живучесть. Блокирование атаки доводит Правосудие до максимального заряда и сокращает время перезарядки Копья Правосудия.
+Gain vitality. Blocking an attack causes Justice to reach its maximum charge and reduces the cooldown of Spear of Justice.,Ваша Живучесть увеличивается. Блокирование атаки максимально заряжает Справедливость и уменьшает время перезарядки Копья Справедливости.
 Gain vitality. Gain barrier when you use a <c=@abilitytype>morph</c> skill.,Получайте живучесть. Получайте барьер при использовании навыка <c=@abilitytype>трансформации.</c>
-Gain vitality. Grant Luminary's Blessing to allies when you equip a radiant weapon.,Получайте живучесть. Даруйте Благословение Светила союзникам при экипировке сияющего оружия.
-Gain vitality. Soothing Mist is more effective.,Получайте живучесть. Успокаивающий туман становится эффективнее.
-Gaining chaos aura grants boons to nearby allies.,Получение хаотичной ауры дарует благословения ближайшим союзникам.
-Gaining health grants a proportionate amount of barrier. Conversion amount increases while at full health.,Получение здоровья дает пропорциональное количество барьера. Количество преобразования увеличивается при полном здоровье.
-Gaining quickness increases the duration of other boons affecting you.,"Получение быстроты увеличивает длительность других благословений, действующих на вас."
-Gaining stealth blinds nearby foes. Blinding a foe siphons health from them.,Получение скрытности ослепляет ближайших врагов. Ослепление врага вытягивает из него здоровье.
+Gain vitality. Grant Luminary's Blessing to allies when you equip a radiant weapon.,"Ваша Живучесть увеличена. Вы даёте Благословение Люминара союзникам, когда берете лучезарное оружие."
+Gain vitality. Soothing Mist is more effective.,Ваша Живучесть увеличивается. Повышается эффективность черты Soothing Mist.
+Gaining chaos aura grants boons to nearby allies.,При получении ауры хаоса вы даёте дары союзникам поблизости.
+Gaining health grants a proportionate amount of barrier. Conversion amount increases while at full health.,Получение здоровья даёт пропорциональное количество барьера. Количество преобразования увеличивается при полном здоровье.
+Gaining quickness increases the duration of other boons affecting you.,Получение дара Проворства увеличивает длительность других лежащих на вас даров.
+Gaining stealth blinds nearby foes. Blinding a foe siphons health from them.,Переход в невидимость ослепляет противников поблизости. Ослепление противников похищает у них здоровье.
 Gain resolution when you block or are struck by a critical hit. Strike damage taken is reduced by a percentage while you have resolution.,"Получайте решимость при блокировании или получении критического удара. Урон от ударов снижается на определенный процент, пока на вас действует решимость."
 Gale Force,Штормовая сила
 Gale Song,Песнь шторма
@@ -108,49 +108,49 @@ Grand Entrance,Грандиозный выход
 "Grant a boon to nearby allies when changing attunements.
 <c=@reminder>Note: This effect will not trigger when attuning to the same element.</c>","Даруйте благословение ближайшим союзникам при смене настройки.
 <c=@reminder>Примечание: этот эффект не сработает при настройке на ту же стихию.</c>"
-Grant aegis to other nearby allies whenever you give yourself distortion or use Shatter skill 4.,"Даруйте эгиду другим ближайшим союзникам всякий раз, когда накладываете на себя искажение или используете навык Раскола 4."
-Grant allies quickness when you use your heal skill.,Даруйте союзникам быстроту при использовании навыка исцеления.
-Grant barrier and dark aura to nearby allies when you use a healing skill.,Даруйте барьер и темную ауру ближайшим союзникам при использовании навыка исцеления.
-Grant barrier to yourself when using Dual Attack skills.,Дает барьер вам при использовании навыков Двойной атаки.
-"Grant boons to allies whenever you use a Legendary Entity Skill, depending on which skill was used.","Дает благословения союзникам при использовании навыка Легендарной сущности, в зависимости от того, какой навык был применен."
-Grant boons to allies within the radius of your <c=@abilitytype>Celestial Avatar</c> skills.,Дает благословения союзникам в радиусе действия ваших навыков <c=@abilitytype>Небесного аватара</c>.
-Grant boons to allies you grant auras to.,"Дает благословения союзникам, которым вы накладываете ауры."
-Grant boons to nearby allies when swapping pets.,Дает благословения ближайшим союзникам при смене питомца.
-Grant boons to nearby allies when you equip a radiant weapon.,Дает благословения ближайшим союзникам при экипировке сияющего оружия.
-Grant boons to nearby allies when you hit an enemy with a <c=@abilitytype>Burst</c> skill.,Дает благословения ближайшим союзникам при попадании по врагу навыком <c=@abilitytype>Взрыва</c>.
+Grant aegis to other nearby allies whenever you give yourself distortion or use Shatter skill 4.,"Вы даруете Эгиду союзникам поблизости каждый раз, когда получаете эффект Искажения или используете 4-е умение Осколков."
+Grant allies quickness when you use your heal skill.,Вы даруете союзникам Проворство при использовании исцеляющего умения.
+Grant barrier and dark aura to nearby allies when you use a healing skill.,Даруйте барьер и тёмную ауру ближайшим союзникам при использовании навыка исцеления.
+Grant barrier to yourself when using Dual Attack skills.,Даёт барьер вам при использовании навыков Двойной атаки.
+"Grant boons to allies whenever you use a Legendary Entity Skill, depending on which skill was used.","Даёт благословения союзникам при использовании навыка Легендарной сущности, в зависимости от того, какой навык был применен."
+Grant boons to allies within the radius of your <c=@abilitytype>Celestial Avatar</c> skills.,Даёт благословения союзникам в радиусе действия ваших навыков <c=@abilitytype>Небесного аватара</c>.
+Grant boons to allies you grant auras to.,"Даёт благословения союзникам, которым вы накладываете ауры."
+Grant boons to nearby allies when swapping pets.,Даёт благословения ближайшим союзникам при смене питомца.
+Grant boons to nearby allies when you equip a radiant weapon.,Даёт благословения ближайшим союзникам при экипировке сияющего оружия.
+Grant boons to nearby allies when you hit an enemy with a <c=@abilitytype>Burst</c> skill.,Даёт благословения ближайшим союзникам при попадании по врагу навыком <c=@abilitytype>Взрыва</c>.
 "Grant boons to nearby allies when you successfully combo a field with a blast, leap, or whirl finisher. Your function gyro is now a blast finisher.
-<c=@reminder>Whirl finishers can only trigger this trait once per interval.</c>","Дает благословения ближайшим союзникам при успешном выполнении комбо в поле с помощью финишера взрыва, прыжка или вращения. Ваш функциональный гироскоп теперь является финишером взрыва.
+<c=@reminder>Whirl finishers can only trigger this trait once per interval.</c>","Даёт благословения ближайшим союзникам при успешном выполнении комбо в поле с помощью финишера взрыва, прыжка или вращения. Ваш функциональный гироскоп теперь является финишером взрыва.
 <c=@reminder>Финишеры вращения могут активировать эту черту только один раз за интервал.</c>"
-Grant boons to nearby allies when you summon a spirit.,Дает благословения ближайшим союзникам при призыве духа.
-Grant boons to nearby allies when you use a <c=@abilitytype>familliar</c> skill.,Дает благословения ближайшим союзникам при использовании навыка <c=@abilitytype>фамильяра</c>.
-Grant endurance when you remove a condition from an ally.,Дает выносливость при снятии состояния с союзника.
-Grant fury to yourself and nearby allies when you critically strike a foe.,Дает ярость вам и ближайшим союзникам при критическом ударе по врагу.
+Grant boons to nearby allies when you summon a spirit.,Даёт благословения ближайшим союзникам при призыве духа.
+Grant boons to nearby allies when you use a <c=@abilitytype>familliar</c> skill.,Даёт благословения ближайшим союзникам при использовании навыка <c=@abilitytype>фамильяра</c>.
+Grant endurance when you remove a condition from an ally.,Даёт выносливость при снятии состояния с союзника.
+Grant fury to yourself and nearby allies when you critically strike a foe.,Даёт ярость вам и ближайшим союзникам при критическом ударе по врагу.
 Grant fury to yourself and nearby allies when you critically strike an enemy.,"Вы даруете Ярость себе и союзникам поблизости, когда наносите противнику критический удар."
-Grant might to nearby allies when you critically strike.,Дает мощь ближайшим союзникам при критическом ударе.
-Grant nearby allies regeneration when you use a warhorn skill. Heal allies when you grant them regeneration.,"Дает ближайшим союзникам регенерацию при использовании навыка боевого рога. Исцеляет союзников, когда вы даете им регенерацию."
-Grant protection to nearby allies when you use Shatter skill 2.,Дает защиту ближайшим союзникам при использовании навыка Раскола 2.
-Grant protection to nearby allies when you use a heal skill.,Дает защиту ближайшим союзникам при использовании навыка исцеления.
-Grant protection to nearby allies when you use a healing skill.,Дает защиту ближайшим союзникам при использовании навыка исцеления.
-Grant protection when you remove a condition from an ally.,Дает защиту при снятии состояния с союзника.
-Grant regeneration to nearby allies when you use a healing skill's associated tool belt skill.,"Дает регенерацию ближайшим союзникам при использовании навыка пояса инструментов, связанного с навыком исцеления."
-Grant regeneration to nearby allies when you use a healing skill.,Дает регенерацию ближайшим союзникам при использовании навыка исцеления.
-Grant regeneration to nearby allies when you use a healing skill. You and your pet gain healing power based on power.,"Дает регенерацию ближайшим союзникам при использовании навыка исцеления. Вы и ваш питомец получаете силу исцеления, основанную на силе."
-Grant regeneration when you remove a condition from an ally.,Дает регенерацию при снятии состояния с союзника.
+Grant might to nearby allies when you critically strike.,Даёт мощь ближайшим союзникам при критическом ударе.
+Grant nearby allies regeneration when you use a warhorn skill. Heal allies when you grant them regeneration.,"Даёт ближайшим союзникам регенерацию при использовании навыка боевого рога. Исцеляет союзников, когда вы даёте им регенерацию."
+Grant protection to nearby allies when you use Shatter skill 2.,Даёт защиту ближайшим союзникам при использовании навыка Раскола 2.
+Grant protection to nearby allies when you use a heal skill.,Даёт защиту ближайшим союзникам при использовании навыка исцеления.
+Grant protection to nearby allies when you use a healing skill.,Даёт защиту ближайшим союзникам при использовании навыка исцеления.
+Grant protection when you remove a condition from an ally.,Даёт защиту при снятии состояния с союзника.
+Grant regeneration to nearby allies when you use a healing skill's associated tool belt skill.,"Даёт регенерацию ближайшим союзникам при использовании навыка пояса инструментов, связанного с навыком исцеления."
+Grant regeneration to nearby allies when you use a healing skill.,Даёт регенерацию ближайшим союзникам при использовании навыка исцеления.
+Grant regeneration to nearby allies when you use a healing skill. You and your pet gain healing power based on power.,"Даёт регенерацию ближайшим союзникам при использовании навыка исцеления. Вы и ваш питомец получаете силу исцеления, основанную на силе."
+Grant regeneration when you remove a condition from an ally.,Даёт регенерацию при снятии состояния с союзника.
 "Grant stability to nearby allies when attuning to earth.
-<c=@reminder>Note: This effect will not trigger when attuning to the same element.</c>","Дает устойчивость ближайшим союзникам при настройке на землю.
+<c=@reminder>Note: This effect will not trigger when attuning to the same element.</c>","Даёт устойчивость ближайшим союзникам при настройке на землю.
 <c=@reminder>Примечание: Этот эффект не сработает при настройке на тот же элемент.</c>"
-Grant superspeed and stealth to nearby allies when leaving celestial avatar form.,Дает суперскорость и скрытность ближайшим союзникам при выходе из формы небесного аватара.
-Grant vigor to nearby allies when attuning to water. Restore endurance to allies you grant vigor.,"Дает энергию ближайшим союзникам при настройке на воду. Восстанавливает выносливость союзникам, которым вы даете энергию."
-Grant yourself barrier when you use a healing or elite skill. <c=@reminder>The cooldowns for this trait are separate for healing and elite skills.</c>,Дает вам барьер при использовании навыка исцеления или элитного навыка. <c=@reminder>Перезарядки этой черты для навыков исцеления и элитных навыков раздельные.</c>
+Grant superspeed and stealth to nearby allies when leaving celestial avatar form.,Даёт суперскорость и скрытность ближайшим союзникам при выходе из формы небесного аватара.
+Grant vigor to nearby allies when attuning to water. Restore endurance to allies you grant vigor.,"Даёт энергию ближайшим союзникам при настройке на воду. Восстанавливает выносливость союзникам, которым вы даёте энергию."
+Grant yourself barrier when you use a healing or elite skill. <c=@reminder>The cooldowns for this trait are separate for healing and elite skills.</c>,Даёт вам барьер при использовании навыка исцеления или элитного навыка. <c=@reminder>Перезарядки этой черты для навыков исцеления и элитных навыков раздельные.</c>
 "Granting an ally a barrier removes conditions afflicting them and grants might.
-<c=@reminder>This effect only occurs with barrier from scourge skills and traits.</c>","Наложение барьера на союзника снимает с него состояния и дает мощь.
+<c=@reminder>This effect only occurs with barrier from scourge skills and traits.</c>","Наложение барьера на союзника снимает с него состояния и даёт мощь.
 <c=@reminder>Этот эффект срабатывает только от барьера, создаваемого навыками и чертами бичевателя.</c>"
 Great Fortitude,Великая стойкость
 Greatsword Proficiency,Владение двуручным мечом
 Grenadier,Гренадер
 Guard Counter,Контрудар стража
 Guarded Initiation,Защищенное начало
-Gun X Sword,Ружье и меч
+Gun X Sword,Ружьё и меч
 Guns and Glory,Оружие и слава
 Gyroscopic Acceleration,Гироскопическое ускорение
 HGH,HGH
@@ -165,9 +165,9 @@ Hardened Chrome,Закаленный хром
 Hardening Persistence,Упорство закалки
 Hardy Conduit,Стойкий проводник
 Harmonious Conduit,Гармоничный проводник
-Harmonious Harp's distortion lasts longer. Strike damage from nearby enemies is reduced while the harp is playing in the background.,"Искажение Гармоничной арфы длится дольше. Урон от ударов ближайших врагов снижается, пока арфа играет на фоне."
+Harmonious Harp's distortion lasts longer. Strike damage from nearby enemies is reduced while the harp is playing in the background.,"Искажение от Гармоничной лиры длится дольше. Пока лира играет на заднем плане, вы получаете меньше прямого урона от противников поблизости."
 Harmonize,Гармонизировать
-Harness light and flame to bolster yourself and allies or disrupt your enemies. Gain access to Radiant Forge and <c=@abilitytype>stance</c> skills.,"Используйте свет и пламя, чтобы укрепить себя и союзников или помешать врагам. Получите доступ к навыкам Сияющей кузницы и <c=@abilitytype>стойки</c>."
+Harness light and flame to bolster yourself and allies or disrupt your enemies. Gain access to Radiant Forge and <c=@abilitytype>stance</c> skills.,"Обуздайте свет и пламя, чтобы укреплять себя и союзников и уничтожать своих врагов. Вы получаете доступ к Сияющей кузнице и умениям- стойкам . <c=@abilitytype>стойки</c>."
 Harp Radius,Радиус арфы
 Harp's Number of Targets,Количество целей арфы
 Havoc Specialist,Специалист по хаосу
@@ -175,39 +175,39 @@ Heal,Исцеление
 "Heal allies around yourself when using a <c=@abilitytype>Legend</c> skill. Heal allies around Ventari's Tablet when using a <c=@abilitytype>Legendary Centaur</c> skill.
 <c=@reminder>Dragon Facet skills and Ventari's Will cannot activate this trait.</c>","Исцеляйте союзников вокруг себя при использовании навыка <c=@abilitytype>Легенды</c>. Исцеляйте союзников вокруг Таблички Ventari при использовании навыка <c=@abilitytype>Легендарного кентавра</c>.
 <c=@reminder>Навыки Dragon Facet и Ventari's Will не могут активировать эту черту.</c>"
-Heal allies in an area when you exit shroud. Increase healing to other allies.,Исцеляйте союзников в области при выходе из савана. Увеличьте исцеление других союзников.
-Heal allies in the area around you when you shadowstep. Gain shadow force for each ally in the radius. Wells grant resistance on their initial impact.,Исцеляйте союзников в области вокруг себя при использовании теневого шага. Получайте теневую силу за каждого союзника в радиусе. Колодца накладывают сопротивление при первом срабатывании.
+Heal allies in an area when you exit shroud. Increase healing to other allies.,"Вы исцеляете союзников вокруг вас, когда выходите из Савана. Исцеление других союзников увеличивается."
+Heal allies in the area around you when you shadowstep. Gain shadow force for each ally in the radius. Wells grant resistance on their initial impact.,Исцелить союзников в области вокруг себя при выполнении Призрачного Шага. Получить силу теней за каждого союзника в области. Источники даруют Сопротивляемость при первом срабатывании.
 "Heal allies when you grant them boons. Grant boons to allies when your upkeep cost is equal to or higher than the threshold.
 <c=@reminder>An ally can only be affected by this skill once per interval.</c>","Исцеляйте союзников, когда даруете им благословения. Даруйте благословения союзникам, когда стоимость поддержания равна или выше порогового значения.
 <c=@reminder>Союзник может быть затронут этим навыком только один раз за интервал.</c>"
-Heal allies you grant an aura to. Grant frost aura to nearby allies when struck while below the health threshold.,"Исцеляйте союзников, которым даруете ауру. Накладывайте ледяную ауру на ближайших союзников при получении удара, если здоровье ниже порогового значения."
-Heal and cleanse conditions from yourself and nearby allies when you use a <c=@abilitytype>Shatter</c> skill.,Исцеляйте и снимайте состояния с себя и ближайших союзников при использовании навыка <c=@abilitytype>Раскола</c>.
+Heal allies you grant an aura to. Grant frost aura to nearby allies when struck while below the health threshold.,"Исцелить союзников, на которых вы наложили ауру. Наложить морозную ауру на союзников поблизости, когда вы получаете урон, и ваше здоровье ниже порога."
+Heal and cleanse conditions from yourself and nearby allies when you use a <c=@abilitytype>Shatter</c> skill.,"Вы исцеляетесь и снимаете с себя состояния и союзников поблизости, когда разбиваете иллюзии на осколки . <c=@abilitytype>Раскола</c>."
 "Heal and gain endurance whenever you gain affinity. Additionally, gain energy when you reach maximum affinity.","Исцеляйтесь и получайте выносливость при получении сродства. Кроме того, получайте энергию при достижении максимального сродства."
 Heal every second based on upkeep.,Исцеляйтесь каждую секунду в зависимости от поддержания.
-Heal every second for each point of upkeep currently in use.,"Исцеляйтесь каждую секунду за каждую единицу поддержания, используемую в данный момент."
-Heal every second while you have barrier. Heal when you evolve.,"Исцеляйтесь каждую секунду, пока на вас действует барьер. Исцеляйтесь при эволюции."
+Heal every second for each point of upkeep currently in use.,"Вы исцеляетесь каждую секунду за каждую единицу восстановления энергии, которую вы тратите в данный момент."
+Heal every second while you have barrier. Heal when you evolve.,"Вы исцеляетесь каждую секунду, пока у вас есть барьер. Вы исцеляетесь, когда изменяетесь."
 Heal for a percentage of outgoing damage.,Исцеление в процентах от исходящего урона.
 Heal for a percentage of your outgoing damage.,Исцеление в процентах от вашего исходящего урона.
 "Heal nearby allies when attuning to water.
 <c=@reminder>This effect will not trigger when attuning to the same element, but will be triggered by overload skills.</c>","Исцеляйте ближайших союзников при настройке на воду.
 <c=@reminder>Этот эффект не сработает при настройке на тот же элемент, но будет вызван навыками перегрузки.</c>"
-Heal nearby allies when using a tool belt skill.,Исцеляйте ближайших союзников при использовании навыка пояса инструментов.
+Heal nearby allies when using a tool belt skill.,Вы исцеляете союзников поблизости при использовании умений на Поясе.
 "Heal nearby allies when you summon a creature.
 <c=@reminder>Spirits and minions are creatures.</c>","Исцеляйте ближайших союзников при призыве существа.
 <c=@reminder>Духи и миньоны являются существами.</c>"
 Heal per unit of heat,Исцеление за единицу жара
-Heal when you enter or exit stealth. Stealth yourself and your target when reviving an ally. <c=@reminder>This effect also applies to stealth you grant to allies.</c>,"Исцеляйтесь при входе в скрытность или выходе из нее. Накладывайте скрытность на себя и свою цель при воскрешении союзника. <c=@reminder>Этот эффект также применяется к скрытности, которую вы даруете союзникам.</c>"
-Heal when you use a merged skill. You can swap pets while merged.,Исцеляйтесь при использовании объединенного навыка. Вы можете менять питомцев во время объединения.
-Heal yourself and gain Blood Reckoning when entering berserk mode.,Исцеляйте себя и получайте Кровавую расплату при входе в режим берсерка.
-Heal yourself and gain adrenaline for each point of motivation spent.,Исцеляйте себя и получайте адреналин за каждую единицу потраченной мотивации.
-Heal yourself and gain swiftness when you use a skill that has an energy cost.,"Исцеляйте себя и получайте стремительность при использовании навыка, требующего затрат энергии."
+Heal when you enter or exit stealth. Stealth yourself and your target when reviving an ally. <c=@reminder>This effect also applies to stealth you grant to allies.</c>,"Исцеляйтесь при входе в скрытность или выходе из неё. Накладывайте скрытность на себя и свою цель при воскрешении союзника. <c=@reminder>Этот эффект также применяется к скрытности, которую вы даруете союзникам.</c>"
+Heal when you use a merged skill. You can swap pets while merged.,"Вы исцеляетесь при использовании умений питомца слившись со зверем. Когда вы слиты со зверем, вы можете менять питомцев."
+Heal yourself and gain Blood Reckoning when entering berserk mode.,"Вы исцеляетесь и используете Кровавую расплату, когда становитесь берсерком."
+Heal yourself and gain adrenaline for each point of motivation spent.,Вы исцеляетесь и получаете адреналин за каждый потраченный стек мотивации.
+Heal yourself and gain swiftness when you use a skill that has an energy cost.,"Вы исцеляете себя и даруете себе Быстроту, когда используете умение, требующее энергию для активации."
 "Heal yourself when you create a light field or finish a combo in a light field.
 <c=@reminder>Whirl finishers can only trigger this trait once per interval.</c>","Исцеляйте себя при создании поля света или завершении комбо в поле света.
 <c=@reminder>Вихревые завершающие удары могут активировать эту черту только один раз за интервал.</c>"
-Heal yourself when you grant a boon to an ally.,Исцеляйте себя при даровании благословения союзнику.
+Heal yourself when you grant a boon to an ally.,"Вы исцеляетесь, когда накладываете дар на союзника."
 Heal yourself when you grant yourself a boon. Remove a condition from yourself when you use an <c=@abilitytype>elixir</c> skill. Gain increased concentration.,Исцеляйте себя при даровании себе благословения. Снимите состояние с себя при использовании навыка <c=@abilitytype>эликсира</c>. Получите повышенную концентрацию.
-Heal yourself when you use a <c=@abilitytype>familiar</c> skill.,Исцеляйте себя при использовании навыка <c=@abilitytype>фамильяра</c>.
-Heal yourself whenever you use a skill that uses initiative. Heal yourself for each point of initiative spent.,"Исцеляйте себя при использовании навыка, требующего инициативу. Исцеляйте себя за каждую единицу потраченной инициативы."
+Heal yourself when you use a <c=@abilitytype>familiar</c> skill.,Вы исцеляетесь при использовании умения фамильяра . <c=@abilitytype>фамильяра</c>.
+Heal yourself whenever you use a skill that uses initiative. Heal yourself for each point of initiative spent.,"Вы исцеляетесь каждый раз, когда используете умение, требующее инициативы. Вы исцеляете себя за каждое потраченное очко инициативы."
 Healer's Gift,Дар целителя
 Healer's Resolution,Решимость целителя
 Healing Conversion Rate,Коэффициент преобразования исцеления
@@ -220,7 +220,7 @@ Healing Power below 75%% Health,Сила исцеления ниже 75%% здо
 Healing Ripple,Волна исцеления
 Healing While in Shroud,Исцеление в саване
 Healing and Barrier Increase,Увеличение исцеления и барьера
-Healing done to other allies is increased for a short duration after invoking a legend.,Исцеление других союзников увеличивается на короткое время после призыва легенды.
+Healing done to other allies is increased for a short duration after invoking a legend.,Исцеление вами остальных союзников увеличивается на некоторое время после обращения к легенде.
 Healing increased per level.,Исцеление увеличивается с уровнем.
 Healing on Evolve,Исцеление при эволюции
 Healing per Interval,Исцеление за интервал
@@ -228,14 +228,14 @@ Healing per Motivation Spent,Исцеление за потраченную мо
 Healing per Stack,Исцеление за стак
 Healing vs. Bleeding Target,Исцеление против кровоточащей цели
 Healing with Fury,Исцеление с яростью
-Heals allies around you when you use a charge of a <c=@abilitytype>mantra</c>.,Исцеляет союзников вокруг вас при использовании заряда <c=@abilitytype>мантры</c>.
+Heals allies around you when you use a charge of a <c=@abilitytype>mantra</c>.,"Вы исцеляете союзников вокруг себя, когда используете заряды мантр . <c=@abilitytype>мантры</c>."
 Health Increase,Увеличение здоровья
 Health Insurance,Страхование здоровья
 Health per Initiative,Здоровье за инициативу
 Heat Therapy,Тепловая терапия
 Heat the Soul,Нагреть душу
-Heavy Light,Тяжелый свет
-Heavy Metal,Тяжелый металл
+Heavy Light,Тяжёлый свет
+Heavy Metal,Тяжёлый металл
 Heightened Focus,Повышенная концентрация
 Hematic Focus,Гематологический фокус
 Herald and Weapon Damage Increase,Увеличение урона вестника и оружия
@@ -253,7 +253,7 @@ Hitting with a <c=@abilitytype>burst</c> skill casts Magebane Tether on your tar
 "Holo Leap removes movement-impairing conditions, grants superspeed instead of swiftness, and inflicts cripple.","Голопрыжок снимает замедляющие эффекты, даёт сверхскорость вместо быстроты и накладывает хромоту."
 Holy Reckoning,Святое возмездие
 Honed Axes,Отточенные топоры
-Honorable Staff,Почетный посох
+Honorable Staff,Почётный посох
 Hungering Darkness,Алчущая тьма
 Hunter's Determination,Решимость охотника
 Hunter's Fortification,Укрепление охотника
@@ -267,39 +267,39 @@ Illusionary Defense,Иллюзорная защита
 Illusionary Inspiration,Иллюзорное вдохновение
 Illusionary Membrane,Иллюзорная мембрана
 Illusionary Reversion,Иллюзорный возврат
-Illusions deal increased strike damage.,Иллюзии наносят увеличенный прямой урон.
-Illusions inflict bleeding on critical hits.,Иллюзии накладывают кровотечение при критических попаданиях.
+Illusions deal increased strike damage.,Иллюзии наносят повышенный прямой урон.
+Illusions inflict bleeding on critical hits.,Иллюзии вызывают кровотечения при критических попаданиях.
 Illusions shattered by Distortion become Mirage Mirrors. <c=@abilitytype>Ambush</c> skills become available for a short time whenever you grant distortion to yourself.,"Иллюзии, разрушенные Искажением, становятся Зеркалами Миража. <c=@abilitytype>Засада</c> становится доступной на короткое время, когда вы даруете Искажение себе."
 Imbued Haste,Наполненная спешка
-Immobilize a target when you cripple them with a skill. Deal increased strike damage to foes affected with movement-impairing conditions.,"Обездвиживает цель, когда вы накладываете на неё замедление с помощью умения. Наносит повышенный урон врагам, на которых действуют замедляющие состояния."
+Immobilize a target when you cripple them with a skill. Deal increased strike damage to foes affected with movement-impairing conditions.,"Когда ваше умение делает цель хромой, вы обездвиживаете цель. Увеличивает прямой урон по противникам с состояниями, ограничивающими передвижение."
 Immobilizing a foe poisons them. Striking a foe below the health threshold immobilizes them.,Обездвиживание врага отравляет его. Удар по врагу с уровнем здоровья ниже порогового обездвиживает его.
 Immortal Dragon,Бессмертный дракон
 Impact Savant,Ударный знаток
 Impacting Disruption,Ударное нарушение
 Implacable Foe,Неумолимый враг
-Improve a boon based on your familiar.,Улучшите благословение в зависимости от вашего фамильяра.
-Improve the effects of the True Nature skill.,Улучшить эффекты навыка Истинная природа.
+Improve a boon based on your familiar.,Улучшить дары в зависимости от вашего фамильяра.
+Improve the effects of the True Nature skill.,Усиливает эффекты умения True Nature.
 "Improves greatsword skills. Mirror Blade bounces additional times, and Phantasmal Berserker summons an additional berserker and deals less damage.","Улучшает навыки большого меча. «Зеркальный клинок» отскакивает дополнительное количество раз, а «Призрачный берсерк» призывает дополнительного берсерка и наносит меньше урона."
 Improvisation,Импровизация
 Incendiary Powder,Зажигательный порошок
 Incensed Response,Разгневанный ответ
 Incoming Damage Adjustment,Корректировка входящего урона
 Incoming Healing Increase,Увеличение входящего исцеления
-Incoming strike damage is reduced while you have resistance on you.,"Входящий прямой урон снижен, пока на вас действует сопротивление."
+Incoming strike damage is reduced while you have resistance on you.,"Получаемый прямой урон уменьшается, если у вас есть дар Сопротивляемости."
 Increase below 25%,Увеличение ниже 25%
 Increase below 50%,Увеличение ниже 50%
 Increase below 75%,Увеличение ниже 75%
 Increase healing to other allies. <c=@abilitytype>Legendary Centaur</c> skills apply boons in an area.,Увеличить лечение других союзников. <c=@abilitytype>Легендарный кентавр</c> навыки накладывают благословения в области.
-Increase healing to other allies. Gain astral force each interval while not in celestial avatar form.,"Увеличивает исцеление других союзников. Получайте астральную силу каждый интервал, пока не находитесь в форме небесного аватара."
+Increase healing to other allies. Gain astral force each interval while not in celestial avatar form.,"Увеличивает исцеление других союзников. Вы периодически получаете астральную силу, пока не находитесь в форме Небесного аватара."
 Increase healing to other allies. Summoning an illusion heals all allies around you.,Увеличивает исцеление других союзников. Призыв иллюзии исцеляет всех союзников вокруг вас.
-Increase healing to other allies. Water-weapon skills gain reduced recharge.,Увеличивает исцеление других союзников. Умения водного оружия получают сокращенную перезарядку.
-Increase the blast radius of grenades. Using a healing skill casts Lesser Grenade Barrage.,Увеличивает радиус взрыва гранат. Использование навыка лечения вызывает Малый гранатный залп.
+Increase healing to other allies. Water-weapon skills gain reduced recharge.,"Исцеление, направленное на союзников, увеличивается. Оружейные умения Воды перезаряжаются быстрее."
+Increase the blast radius of grenades. Using a healing skill casts Lesser Grenade Barrage.,Увеличивает радиус взрыва гранат. При активации исцеляющего умения вы также используете Lesser Grenade Barrage.
 Increase the duration of boons and conditions applied by <c=@abilitytype>traps</c>. Offensive <c=@abilitytype>traps</c> inflict cripple.,"Увеличивает длительность благословений и состояний, накладываемых <c=@abilitytype>ловушками</c>. Наступательные <c=@abilitytype>ловушки</c> накладывают хромоту."
 "Increase the duration of burning you apply. Gain fire aura when you critically hit an enemy. Berserker skills detonate fire aura, damaging and burning nearby foes.","Увеличивает длительность накладываемого вами горения. Получайте огненную ауру при критическом ударе по врагу. Умения берсерка детонируют огненную ауру, нанося урон и поджигая ближайших врагов."
-Increase the maximum malice-stack count. Restore initiative and gain boons upon reaching the maximum number of malice stacks.,Увеличивает максимальное количество стаков злобы. Восстанавливайте инициативу и получайте благословения при достижении максимального количества стаков злобы.
-Increase your healing to other allies each time you block an attack. Mace skills gain reduced recharge and their boons gain increased duration.,"Увеличивает ваше исцеление других союзников каждый раз, когда вы блокируете атаку. Умения булавы получают сокращенную перезарядку, а их благословения — увеличенную длительность."
-Increase your incoming healing effectiveness and healing to other allies.,Увеличивает эффективность вашего входящего исцеления и исцеление других союзников.
-Increase your incoming healing effectiveness. Gain increased healing to others while using a med kit.,Увеличивает эффективность вашего входящего исцеления. Получайте увеличенное исцеление других при использовании аптечки.
+Increase the maximum malice-stack count. Restore initiative and gain boons upon reaching the maximum number of malice stacks.,Увеличивает максимальный лимит злобности. Восстанавливает инициативу и даёт дары при достижении максимума злобности.
+Increase your healing to other allies each time you block an attack. Mace skills gain reduced recharge and their boons gain increased duration.,"Увеличивает ваше исцеление других союзников каждый раз, когда вы блокируете атаку. Умения булавы перезаряжаются быстрее, а дары от них длятся дольше."
+Increase your incoming healing effectiveness and healing to other allies.,Увеличивает эффективность вашего исцеления и исцеления вами союзников.
+Increase your incoming healing effectiveness. Gain increased healing to others while using a med kit.,"Усиливает получаемое вами исцеление. Увеличивает исцеление, даваемое вами союзникам, пока вы используете меднабор."
 Increased Attack Speed,Увеличенная скорость атаки
 Increased Malice Cap,Увеличенный лимит злобы
 Increased Missiles per Kalla's Fervor,Увеличенное количество снарядов за Рвение Каллы
@@ -318,13 +318,13 @@ Increased outgoing strike damage.,Увеличенный исходящий пр
 Increased stealth duration from mesmer skills. Gain random boons while you are in stealth.,"Увеличенная длительность скрытности от умений месмера. Получайте случайные благословения, находясь в скрытности."
 Increased strike and condition damage per stack.,Увеличенный прямой урон и урон от состояний за стак.
 Increased toughness per stack.,Увеличенная стойкость за стак.
-Increases all damage dealt per initiative spent. Steal gains reduced recharge time.,Увеличивает весь наносимый урон за каждую потраченную единицу инициативы. Кража получает уменьшенное время восстановления.
+Increases all damage dealt per initiative spent. Steal gains reduced recharge time.,Увеличивает весь урон за каждое потраченное очко инициативы. Кража перезаряжается быстрее.
 Increases critical-hit chance by 25%%.,Увеличивает шанс критического удара на 25%%.
-Increases critical-hit chance for each condition on the foe. Gain condition damage based on your precision.,Увеличивает шанс критического удара за каждое состояние на противнике. Дает бонус к урону от состояний на основе вашей точности.
+Increases critical-hit chance for each condition on the foe. Gain condition damage based on your precision.,Увеличивает шанс критического удара за каждое состояние на противнике. Даёт бонус к урону от состояний на основе вашей точности.
 Increases healing.,Увеличивает эффективность исцеления.
 "Increases maximum heat capacity. While above 100%% heat, periodically gain might. Some skills and traits gain additional heat tiers.",Увеличивает максимальную теплоёмкость. При нагреве выше 100%% периодически даёт мощь. Некоторые навыки и черты получают дополнительные уровни нагрева.
-Increases maximum initiative by 3. Gain increased expertise.,Увеличивает максимальный запас инициативы на 3. Дает бонус к мастерству.
-Increases the amount of life force gained from all sources.,Увеличивает количество получаемой жизненной силы из всех источников.
+Increases maximum initiative by 3. Gain increased expertise.,Увеличивает максимальный запас инициативы на 3. Даёт бонус к мастерству.
+Increases the amount of life force gained from all sources.,"Увеличивается количество жизненной силы, получаемой любыми путями."
 Increases the number of allied targets.,Увеличивает количество союзных целей.
 Increases your ferocity.,Увеличивает вашу ярость.
 Indomitable Courage,Неукротимая отвага
@@ -332,14 +332,14 @@ Ineptitude,Неумелость
 Infinite Forge,Бесконечная кузница
 Infinite Horizon,Бесконечный горизонт
 "Inflict poison when striking a foe with a dual wield attack. Gain increased condition damage.
-<c=@reminder>Applies poison once per attack use.</c>","Наносит отравление при попадании по врагу атакой парным оружием. Дает бонус к урону от состояний.
+<c=@reminder>Applies poison once per attack use.</c>","Наносит отравление при попадании по врагу атакой парным оружием. Даёт бонус к урону от состояний.
 <c=@reminder>Накладывает отравление один раз за использование атаки.</c>"
 Inflict torment on foes struck.,Наносит боль пораженным врагам.
 "Inflict vulnerability when you interrupt a foe.
 <c=@reminder>This trait can only affect enemies with defiance bars once per interval.</c>","Наносит уязвимость при прерывании навыка врага.
 <c=@reminder>Эта черта может воздействовать на врагов с полоской прорыва только раз в определенный интервал.</c>"
-Inflicting a condition on a foe grants <c=@abilitytype>carapace</c>. Gain pulsing protection while at or above the <c=@abilitytype>carapace</c> threshold.,Наложение состояния на врага дает <c=@abilitytype>панцирь</c>. Дает пульсирующую протекцию при достижении порога <c=@abilitytype>панциря</c> или выше.
-Inflicting fear on a foe gives you boons and increases your strike damage for a short time.,Наложение страха на врага дает вам благословения и на короткое время увеличивает ваш прямой урон.
+Inflicting a condition on a foe grants <c=@abilitytype>carapace</c>. Gain pulsing protection while at or above the <c=@abilitytype>carapace</c> threshold.,Наложение состояния на врага даёт <c=@abilitytype>панцирь</c>. Даёт пульсирующую протекцию при достижении порога <c=@abilitytype>панциря</c> или выше.
+Inflicting fear on a foe gives you boons and increases your strike damage for a short time.,Наложение страха на врага даёт вам благословения и на короткое время увеличивает ваш прямой урон.
 Initiative Spent,Потраченная инициатива
 Initiative on Dodge,Инициатива при уклонении
 Initiative on Enter,Инициатива при входе
@@ -359,7 +359,7 @@ Instant Reflexes,Мгновенные рефлексы
 "Instrument. Perform with your lute, sending out damaging sound waves toward an enemy and healing tones toward allies.The lute will then consume all notes to continue playing in the background. The lute's duration is extended for each note consumed.","Инструмент. Выступайте с лютней, посылая наносящие урон звуковые волны во врагов и исцеляющие тона союзникам.Лютня поглотит все ноты, чтобы продолжить играть в фоновом режиме. Длительность игры лютни увеличивается за каждую поглощенную ноту."
 "Instrument. Play an enchanting tune with the flute, confusing enemies in front of you. Enemies in the center of the music will be dazed.The flute will then consume all notes to continue playing in the background. The flute's duration is extended for each note consumed.","Инструмент. Сыграйте чарующую мелодию на флейте, сбивая с толку врагов перед собой. Враги в центре музыки будут ошеломлены.Флейта поглотит все ноты, чтобы продолжить играть в фоновом режиме. Длительность игры флейты увеличивается за каждую поглощенную ноту."
 "Instrument. Slam the drum to release a percussive shock wave, disabling enemies. The strength of the disable increases the closer an enemy is.The drum will then consume all notes to continue playing in the background. The drum's duration is extended for each note consumed.","Инструмент. Ударьте в барабан, чтобы высвободить ударную волну, выводящую врагов из строя. Сила вывода из строя увеличивается по мере приближения врага.Барабан поглотит все ноты, чтобы продолжить играть в фоновом режиме. Длительность игры барабана увеличивается за каждую поглощенную ноту."
-Instruments provide bonuses while playing in the background.,Инструменты дают бонусы во время игры в фоновом режиме.
+Instruments provide bonuses while playing in the background.,"Инструменты дают бонусы, когда играют на заднем плане."
 "Interrupting a foe inflicts blind, and blinding a foe inflicts confusion.
 <c=@reminder>This trait can only activate on enemies with defiance bars once per interval.</c>","Прерывание навыка врага накладывает слепоту, а ослепление врага накладывает замешательство.
 <c=@reminder>Эта черта может активироваться на врагах с полоской прорыва только раз в определенный интервал.</c>"
@@ -378,9 +378,9 @@ Invoker's Rage,Ярость призывателя
 Invoking Harmony,Гармония призыва
 Invoking Torment,Призыв мучений
 Invoking a legend casts a skill based on the legend you invoked. <c=@reminder>Invoking Razah casts the skill associated with the legend you have equipped in your other slot instead. </c>,"Призыв легенды активирует навык, основанный на призванной легенде. <c=@reminder>Призыв Разы активирует навык, связанный с легендой, экипированной в другой ячейке. </c>"
-Invoking a legend grants boons to nearby allies based on the legend that was invoked.,Призыв легенды накладывает благословения на ближайших союзников в зависимости от призванной легенды.
-Invoking a legend removes a condition.,Призыв легенды снимает состояние.
-Invoking a legend while at or below the energy threshold grants extra energy to your new legend.,Призыв легенды при уровне энергии на пороге или ниже него дает дополнительную энергию вашей новой легенде.
+Invoking a legend grants boons to nearby allies based on the legend that was invoked.,Обращение к легенде даёт Дары союзникам поблизости в зависимости от легенды.
+Invoking a legend removes a condition.,Обращение к легенде снимает состояние.
+Invoking a legend while at or below the energy threshold grants extra energy to your new legend.,Призыв легенды при уровне энергии на пороге или ниже него даёт дополнительную энергию вашей новой легенде.
 Iron Sight,Железный прицел
 Jagged Horror Lifetime Duration,Длительность жизни зубчатого ужаса
 Jagged Horror Maximum,Максимум зубчатых ужасов
@@ -393,7 +393,7 @@ Justice Duration Increase,Увеличение длительности Прав
 Justice is Blind,Правосудие слепо
 Kalla's Fervor causes you to heal for a percentage of your outgoing damage. Citadel Bombardment pulls more missiles into Tyria for every stack of Kalla's Fervor affecting you.,Рвение Каллы позволяет вам восстанавливать здоровье в процентах от наносимого урона. Бомбардировка цитадели притягивает больше ракет в Тайрию за каждый наложенный на вас стек Рвения Каллы.
 Kalla's Fervor increases your healing to other allies. Orders from Above lasts longer and affects a larger area.,Пыл Каллы увеличивает ваше лечение союзников. Приказы свыше действуют дольше и затрагивают большую область.
-Kalla's Fervor you inspire lasts longer and is more potent. Heroic Command grants more might per stack of Kalla's Fervor.,Вдохновляемый вами Пыл Каллы длится дольше и становится сильнее. Героическая команда даёт больше могущества за каждый стак Пыла Каллы.
+Kalla's Fervor you inspire lasts longer and is more potent. Heroic Command grants more might per stack of Kalla's Fervor.,Наполняющая вас страсть Каллы длится дольше и становится сильнее. Героический приказ дарует больше Мощи за каждый стек страсти Каллы.
 Keen Observer,Зоркий наблюдатель
 Kindled Zeal,Раздутое рвение
 Kinetic Accelerators,Кинетические ускорители
@@ -402,7 +402,7 @@ Kinetic Charge,Кинетический заряд
 Kinetic Insight,Кинетическое прозрение
 King of Fires,Король огня
 Kleptomaniac,Клептоман
-Landing a critical hit while under the effects of fury increases the duration of fury. Gain increased ferocity while under the effects of fury.,"Критический удар под действием ярости увеличивает длительность ярости. Получайте повышенную свирепость, находясь под действием ярости."
+Landing a critical hit while under the effects of fury increases the duration of fury. Gain increased ferocity while under the effects of fury.,"Нанесение критического удара под действием Ярости увеличивает длительность Ярости. Ваша Жестокость увеличивается, пока вы находитесь под действием Ярости."
 Larcenous Torment,Воровское мучение
 Laser's Edge,Лазерная грань
 Last Blaze,Последнее пламя
@@ -412,8 +412,8 @@ Latent Stamina,Скрытая выносливость
 Lead Attacks,Ведущие атаки
 Lead the Wind,Ведущий ветер
 Leader of the Pack,Вожак стаи
-Leave a Mark of Blood when you dodge.,Оставляйте Метку крови при уклонении.
-Leave behind lesser caltrops when you dodge.,Оставляйте малые капканы при уклонении.
+Leave a Mark of Blood when you dodge.,Оставить при увороте Метку Mark of Blood.
+Leave behind lesser caltrops when you dodge.,Вы оставляете позади себя шипы с помощью Lesser Caltrops при увороте.
 Leeching Venoms,Похищающие яды
 Leg Specialist,Специалист по ногам
 "Legendary Dragon. Consume. Consume Facet of Nature to unify allies, granting them your boons. Facet of Nature will be disabled while this skill is recharging.","Легендарный дракон. Поглощение. Поглотите Аспект природы, чтобы объединить союзников, наделив их вашими благословениями. Аспект природы будет отключен во время перезарядки этого навыка."
@@ -423,7 +423,7 @@ Legendary Lore,Легендарные знания
 Let Loose,Высвобождение
 Lethal Tempo,Смертельный темп
 Lethal Tempo Duration Reduction,Сокращение длительности Смертельного темпа
-"Lethal Tempo grants increased damage, but has reduced duration. Justice's duration is modified.","Смертельный темп дает увеличенный урон, но имеет сокращенную длительность. Длительность Правосудия изменена."
+"Lethal Tempo grants increased damage, but has reduced duration. Justice's duration is modified.","Смертельный темп даёт увеличенный урон, но имеет сокращенную длительность. Длительность Правосудия изменена."
 Leviathan Strength,Сила Левиафана
 Liberating Liaise,Освобождающее взаимодействие
 Liberator's Vow,Обет освободителя
@@ -442,15 +442,15 @@ Lingering Light,Затяжной свет
 Lingering Spirits,Затяжные духи
 Live Fast,Живи быстро
 Live Vicariously,Живи чужим
-Lively Lute and Crescendo grant boons to affected allies.,Живая лютня и Крещендо накладывают благословения на затронутых союзников.
-Lively Lute fires an additional wave at your enemy. The lute's damage bonus is increased.,Живая лютня выпускает дополнительную волну по вашему врагу. Бонус к урону лютни увеличен.
+Lively Lute and Crescendo grant boons to affected allies.,"Жизнерадостная лютня и Крещендо дают дары союзникам, попавшим под их воздействие."
+Lively Lute fires an additional wave at your enemy. The lute's damage bonus is increased.,Жизнерадостная лютня выпускает дополнительную волну в противника. Дополнительный урон лютни увеличивается.
 Lock On,Захват цели
 Longbow Proficiency,Владение длинным луком
 Loremaster,Знаток преданий
 Lose a condition when you enter shroud and every few seconds while you remain in shroud. Gain <c=@abilitytype>carapace</c> when removing conditions from yourself.,"Снимает состояние при входе в саван и каждые несколько секунд, пока вы в нем находитесь. Получайте <c=@abilitytype>панцирь</c> при снятии состояний с себя."
-Lose conditions every interval. Health degenerates more slowly while downed.,Снимает состояния через определенный интервал. Здоровье в сбитом состоянии убывает медленнее.
-Lose conditions when activating Cosmic Wisdom and at a set interval while Cosmic Wisdom is active.,"Снимает состояния при активации Космической мудрости и через заданный интервал, пока Космическая мудрость активна."
-Lose conditions when you gain Mirage Cloak.,Снимает состояния при получении Плаща миража.
+Lose conditions every interval. Health degenerates more slowly while downed.,С вас периодически снимаются состояния. Здоровье в поверженном состоянии теряется медленнее.
+Lose conditions when activating Cosmic Wisdom and at a set interval while Cosmic Wisdom is active.,"Вы снимаете с себя состояния при активации Космической Мудрости и периодически, пока Космическая Мудрость активна."
+Lose conditions when you gain Mirage Cloak.,"С вас снимаются состояния, когда вы получаете покров миража."
 Loss Aversion,Неприятие потерь
 Lotus Poison,Яд лотоса
 Lotus Training,Тренировка лотоса
@@ -458,7 +458,7 @@ Loud Whistle,Громкий свист
 Love Song,Песня любви
 Low-Health Damage Reduction,Снижение урона при низком уровне здоровья
 Lucid Singularity,Ясная сингулярность
-Luminary's Blessing now also reduces incoming condition damage.,Благословение Светила теперь также снижает входящий урон от состояний.
+Luminary's Blessing now also reduces incoming condition damage.,Благословение Люминара теперь также снижает получаемый урон от состояний.
 Lush Forest,Пышный лес
 Lute-Playing Damage Increase,Увеличение урона от игры на лютне
 Mace Proficiency,Владение булавой
@@ -476,11 +476,11 @@ Mantle of Sand,Песчаная мантия
 Marauder's Resilience,Стойкость мародера
 "Mark a target, causing your initiative attacks to generate malice when they hit or critically hit your mark. Lose malice when the mark ends or when this skill is recast on a new target.Malice is only gained once per skill use.","Отметьте цель, чтобы ваши инициативные атаки генерировали злобу при попадании или критическом ударе по метке. Злоба теряется, когда действие метки заканчивается или когда этот навык применяется повторно на новую цель.Злоба начисляется только один раз за использование навыка."
 Mark of Evasion,Метка уклонения
-"Mark. Inscribe a mark that bleeds foes when they trigger it, and grants regeneration to allies.","Метка. Начертайте метку, которая вызывает кровотечение у врагов при срабатывании и дает регенерацию союзникам."
+"Mark. Inscribe a mark that bleeds foes when they trigger it, and grants regeneration to allies.","Метка. Начертайте метку, которая вызывает кровотечение у врагов при срабатывании и даёт регенерацию союзникам."
 Mark. Inscribe a mark that inflicts chill and poison on foes when triggered.,"Метка. Начертайте метку, которая накладывает холод и яд на врагов при срабатывании."
-Marking a target or striking your mark with a stealth attack will immediately grant malice.,Отметка цели или удар по вашей метке атакой из невидимости немедленно дает злобу.
-Marks become unblockable and generate life force when triggered.,Метки становятся неблокируемыми и генерируют жизненную силу при срабатывании.
-Marks can be triggered by allies to heal them and provide them with additional benefits. Create Lesser Chilblains at your location when you use your fourth shroud skill.,"Метки могут быть активированы союзниками, чтобы исцелить их и дать дополнительные преимущества. Создает Малые обморожения в вашем местоположении при использовании четвертого навыка савана."
+Marking a target or striking your mark with a stealth attack will immediately grant malice.,Отметка цели или удар по вашей метке атакой из невидимости немедленно даёт злобу.
+Marks become unblockable and generate life force when triggered.,"Метки нельзя блокировать и они дают жизненную силу, когда срабатывают."
+Marks can be triggered by allies to heal them and provide them with additional benefits. Create Lesser Chilblains at your location when you use your fourth shroud skill.,"Союзники могут активировать ваши метки, чтобы исцелиться и получить дополнительные бонусы. Вы создаете в своем местоположении метку Lesser Chilblains при активации четвертого умения Савана."
 Martial Cadence,Боевой ритм
 Mass Momentum,Массовый импульс
 Master Fencer,Мастер фехтования
@@ -492,7 +492,7 @@ Master of Misdirection,Мастер дезинформации
 Master's Fortitude,Стойкость мастера
 Master-at-Arms,Мастер оружия
 "Mastery of tengu wind magic allows you to conjure the Cyclone Bow at will. Using arrow-consuming skills grants Wind Force. After you reach the Wind Force threshold, you are able to use Hawkeye. Gain access to <c=@abilitytype>Squalls</c>.
-<c=@reminder>Using Cyclone Bow skills consumes arrows. You generate arrows every interval.</c>","Мастерство магии ветра тенгу позволяет вам по желанию призывать Лук циклона. Использование навыков, расходующих стрелы, дает Силу ветра. Достигнув порога Силы ветра, вы сможете использовать Соколиный глаз. Получите доступ к <c=@abilitytype>Шквалам</c>.
+<c=@reminder>Using Cyclone Bow skills consumes arrows. You generate arrows every interval.</c>","Мастерство магии ветра тенгу позволяет вам по желанию призывать Лук циклона. Использование навыков, расходующих стрелы, даёт Силу ветра. Достигнув порога Силы ветра, вы сможете использовать Соколиный глаз. Получите доступ к <c=@abilitytype>Шквалам</c>.
 <c=@reminder>Использование навыков Лука циклона расходует стрелы. Вы генерируете стрелы через определенный интервал.</c>"
 Matching weapon skills to charge familiar.,Сопоставление навыков оружия для зарядки фамильяра.
 Max Duration,Максимальная длительность
@@ -509,7 +509,7 @@ Maximum Life Force Increase,Максимальное увеличение жиз
 Maximum Notes,Максимум нот
 Maximum Stacks Effectiveness,Максимальная эффективность стаков
 "Maximum adrenaline is capped at 2 bars, and only level 1 bursts are available. Gain access to the Full Counter burst and <c=@abilitytype>Meditation</c> skills.","Максимум адреналина ограничен 2 шкалами, доступны только взрывные навыки 1 уровня. Получите доступ к взрывному навыку Полный контратакующий удар и навыкам <c=@abilitytype>Медитации</c>."
-Maximum life force is increased.,Максимальная жизненная сила увеличена.
+Maximum life force is increased.,Максимальный запас жизненной силы увеличен.
 Mayhem,Хаос
 Mech Arms: High-Impact Drivers,Механические руки: Ударные приводы
 Mech Arms: Jade Cannons,Механические руки: Нефритовые пушки
@@ -535,7 +535,7 @@ Med Kit Bonus,Бонус аптечки
 Medic's Feedback,Отклик медика
 Medical Dispersion Field,Поле медицинского рассеивания
 Meditation. Cure conditions and damage nearby foes. Deal more damage if a condition is cured.,"Медитация. Снимите состояния и нанесите урон ближайшим врагам. Наносите больше урона, если состояние было снято."
-"Meditation. Gain endurance and swiftness. Your next few strikes create an arc of chain lightning. If air is your specialized element, this skill breaks stun and grants blur.","Медитация. Получите выносливость и быстроту. Ваши следующие несколько ударов создают дугу цепной молнии. Если воздух — ваш специализированый элемент, этот навык снимает оглушение и дает размытие."
+"Meditation. Gain endurance and swiftness. Your next few strikes create an arc of chain lightning. If air is your specialized element, this skill breaks stun and grants blur.","Медитация. Получите выносливость и быстроту. Ваши следующие несколько ударов создают дугу цепной молнии. Если воздух — ваш специализированый элемент, этот навык снимает оглушение и даёт размытие."
 "Meditation. Heal yourself. For a brief time, heal yourself based on a percentage of damage dealt to enemies.","Медитация. Исцелите себя. В течение короткого времени исцеляйте себя на основе процента урона, нанесенного врагам."
 Meld with Shadows,Слияние с тенями
 "Melee attacks become ranged, have an increased chance to critically hit, and apply vulnerability. Unlocks the Mech Command skill Spark Revolver.","Атаки ближнего боя становятся дальними, имеют повышенный шанс критического удара и накладывают уязвимость. Открывает навык команды меха «Искровой револьвер»."
