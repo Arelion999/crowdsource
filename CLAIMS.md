@@ -27,10 +27,10 @@
 | `items_013.csv` | items | 500 | 12,145 | Ancient Boreal Focus Skin | ✅ | Магистр Клод, Приорат Дурманд |
 | `items_014.csv` | items | 500 | 12,594 | Araneae Longbow Skin | ✅ | Магистр Клод, Приорат Дурманд |
 | `items_015.csv` | items | 500 | 13,707 | Assassin's Rascal Mask | ✅ | Магистр Клод, Приорат Дурманд — вычитано |
-| `items_016.csv` | items | 499 | 11,061 | Aureate Warhammer of Water | ✅ | Автозаполнение из словаря + PR #1 — черновик, 498/499 (100%), нужна вычитка |
-| `items_017.csv` | items | 500 | 14,656 | Barrel of Jahin White | ✅ | Автозаполнение из словаря + PR #1 — черновик, 500/500 (100%), нужна вычитка |
-| `items_018.csv` | items | 500 | 16,276 | Berserker's Glimmering Resin Focus | ✅ | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
-| `items_019.csv` | items | 500 | 15,829 | Berserker's Shattered Sword | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `items_016.csv` | items | 499 | 11,061 | Aureate Warhammer of Water | ✅ | Магистр Клод, Приорат Дурманд — вычитано |
+| `items_017.csv` | items | 500 | 14,656 | Barrel of Jahin White | ✅ | Магистр Клод, Приорат Дурманд — вычитано |
+| `items_018.csv` | items | 500 | 16,276 | Berserker's Glimmering Resin Focus | ✅ | Магистр Клод, Приорат Дурманд — вычитано |
+| `items_019.csv` | items | 500 | 15,829 | Berserker's Shattered Sword | ✅ | Магистр Клод, Приорат Дурманд — вычитано |
 | `items_020.csv` | items | 500 | 11,726 | Bladed Coat Box | ✅ | Автозаполнение из словаря + PR #1 — черновик, 499/500 (100%), нужна вычитка |
 | `items_021.csv` | items | 500 | 13,434 | Boundary Marker for the Desolation | ✅ | Автозаполнение из словаря + PR #1 — черновик, 493/500 (99%), нужна вычитка |
 | `items_022.csv` | items | 500 | 12,586 | Branded Residue | ✅ | Автозаполнение из словаря + PR #1 — черновик, 498/500 (100%), нужна вычитка |
