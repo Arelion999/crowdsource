@@ -31,15 +31,15 @@
 | `items_017.csv` | items | 500 | 14,656 | Barrel of Jahin White | ✅ | Магистр Клод, Приорат Дурманд — вычитано |
 | `items_018.csv` | items | 500 | 16,276 | Berserker's Glimmering Resin Focus | ✅ | Магистр Клод, Приорат Дурманд — вычитано |
 | `items_019.csv` | items | 500 | 15,829 | Berserker's Shattered Sword | ✅ | Магистр Клод, Приорат Дурманд — вычитано |
-| `items_020.csv` | items | 500 | 11,726 | Bladed Coat Box | ✅ | Автозаполнение из словаря + PR #1 — черновик, 499/500 (100%), нужна вычитка |
-| `items_021.csv` | items | 500 | 13,434 | Boundary Marker for the Desolation | ✅ | Автозаполнение из словаря + PR #1 — черновик, 493/500 (99%), нужна вычитка |
-| `items_022.csv` | items | 500 | 12,586 | Branded Residue | ✅ | Автозаполнение из словаря + PR #1 — черновик, 498/500 (100%), нужна вычитка |
-| `items_023.csv` | items | 500 | 20,421 | Caldera Skyscale Skin | ✅ | Автозаполнение из словаря + PR #1 — черновик, 494/500 (99%), нужна вычитка |
-| `items_024.csv` | items | 500 | 14,148 | Carrion Destroyer Pistol | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
-| `items_025.csv` | items | 500 | 15,045 | Carrion Prowler Pants | ✅ | Автозаполнение из словаря + PR #1 — черновик, 499/500 (100%), нужна вычитка |
-| `items_026.csv` | items | 500 | 14,761 | Cavalier's Amulet | ✅ | Автозаполнение из словаря + PR #1 — черновик, 500/500 (100%), нужна вычитка |
-| `items_027.csv` | items | 500 | 12,506 | Ceremonial Stave of Rage | ✅ | Автозаполнение из словаря + PR #1 — черновик, 493/500 (99%), нужна вычитка |
-| `items_028.csv` | items | 500 | 13,173 | Chest of Natural Protection | ✅ | Автозаполнение из словаря — черновик, 497/500 (99%), нужна вычитка |
+| `items_020.csv` | items | 500 | 11,726 | Bladed Coat Box | ✅ | Магистр Клод, Приорат Дурманд — вычитано |
+| `items_021.csv` | items | 500 | 13,434 | Boundary Marker for the Desolation | ✅ | Магистр Клод, Приорат Дурманд — вычитано |
+| `items_022.csv` | items | 500 | 12,586 | Branded Residue | ✅ | Магистр Клод, Приорат Дурманд — вычитано |
+| `items_023.csv` | items | 500 | 20,421 | Caldera Skyscale Skin | ✅ | Магистр Клод, Приорат Дурманд — вычитано |
+| `items_024.csv` | items | 500 | 14,148 | Carrion Destroyer Pistol | ✅ | Магистр Клод, Приорат Дурманд — вычитано |
+| `items_025.csv` | items | 500 | 15,045 | Carrion Prowler Pants | ✅ | Магистр Клод, Приорат Дурманд — вычитано |
+| `items_026.csv` | items | 500 | 14,761 | Cavalier's Amulet | ✅ | Магистр Клод, Приорат Дурманд — вычитано |
+| `items_027.csv` | items | 500 | 12,506 | Ceremonial Stave of Rage | ✅ | Магистр Клод, Приорат Дурманд — вычитано |
+| `items_028.csv` | items | 500 | 13,173 | Chest of Natural Protection | ✅ | Магистр Клод, Приорат Дурманд — вычитано |
 | `items_029.csv` | items | 500 | 15,140 | Cleric's Destroyer Harpoon Gun | ✅ | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
 | `items_030.csv` | items | 500 | 38,487 | Cleric's Soft Wood Warhorn of Air | ✅ | Автозаполнение из словаря + PR #1 — черновик, 448/500 (90%), нужна вычитка |
 | `items_031.csv` | items | 500 | 34,799 | Commander's Tormented Rifle of Force |  | Автозаполнение из словаря + PR #1 — черновик, 469/500 (94%), нужна вычитка |
