@@ -47,11 +47,21 @@ DBC = None
 
 def search(q, where, cat, typ, only, limit, reg=""):
     """Строки по подстроке + фильтры. Возвращает список словарей."""
-    sql = ["SELECT s.hash, s.english, s.ru FROM string s"]
+    # Все фильтры обязаны стоять в самом запросе: если отсеивать их после
+    # LIMIT, выборка берётся из первых N строк базы, и «регион Kryta» с лимитом
+    # 5 даёт одну строку вместо пяти. DISTINCT — потому что у строки бывает
+    # несколько мест на карте и несколько записей в фактах.
+    sql = ["SELECT DISTINCT s.hash, s.english, s.ru FROM string s"]
     args, cond = [], []
     if cat:
         sql.append("JOIN place p ON p.hash=s.hash AND p.kind='категория' AND p.ref=?")
         args.append(cat)
+    if reg:
+        sql.append("JOIN geo gf ON gf.key=s.key AND gf.region=?")
+        args.append(reg)
+    if typ:
+        sql.append("JOIN item itf ON itf.key=s.key AND itf.type=?")
+        args.append(typ)
     if q:
         like = "%" + q + "%"
         if where == "en":
@@ -85,8 +95,6 @@ def search(q, where, cat, typ, only, limit, reg=""):
             d["fact"] = "/".join(bits) + (" · ур. %s" % f["level"] if f["level"] else "")
         else:
             d["fact"] = ""
-        if typ and (not f or f["type"] != typ):
-            continue
         g = DBC.execute("SELECT kind, map, region, continent FROM geo WHERE key=? LIMIT 1",
                         (item_key(r["english"]),)).fetchone()
         if g:
@@ -95,8 +103,6 @@ def search(q, where, cat, typ, only, limit, reg=""):
             d["region"] = g["region"] or ""
         else:
             d["geo"] = d["region"] = ""
-        if reg and d["region"] != reg:
-            continue
         d["cats"] = [x[0] for x in DBC.execute(
             "SELECT DISTINCT name FROM place WHERE hash=? AND kind='категория'", (r["hash"],))]
         d["files"] = [x[0] for x in DBC.execute(
