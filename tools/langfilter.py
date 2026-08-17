@@ -24,21 +24,28 @@ CROWD = os.path.dirname(HERE)
 REPORT = os.path.join(CROWD, "sync", "reports", "non_english.csv")
 REPORT_APPLIED = os.path.join(CROWD, "sync", "reports", "non_english_deleted.csv")
 
-FR = re.compile(r"\b(le|la|les|des|une|du|au|aux|vous|nous|pour|avec|dans|est|sont|été|"
-                r"pièces?|secondes?|possession|disponibles?|contre|semaine|terminer|"
+# Слова языка делятся надвое, иначе английское уходит в удаление.
+# STRONG — французские и только французские. WEAK — те, что есть и в английском:
+# «la» из напева «La-la-la», «suit» из «Dredge Diving Suit», «dire» из «Vicious
+# Dire Boar», «possession», «son», «plus», «par», «note». Улика — только STRONG;
+# WEAK лишь усиливает подозрение, но сам по себе ничего не доказывает.
+FR = re.compile(r"\b(le|les|des|une|du|de|au|aux|vous|nous|pour|avec|dans|est|sont|été|"
+                r"pièces?|secondes?|disponibles?|contre|semaine|terminer|"
                 r"retour|jour|jeu|votre|tous|toutes|guilde|élite|manche|"
                 r"marchandises?|actif|interne|suivant|exclusif|restants?|instable|"
                 r"envahisseur|requis|acheter|épisode|succès|déverrouiller|gauche|droite|"
-                r"salue|rit|pleure|prie|suit|ramasse|remercie|menace|acclame|boude|creuse|"
-                r"drague|fanfaronne|sifflote|titube|tremble|tombe|parle|joue|perd|chantons|"
-                r"ici|non|oui|ça|cette|cet|qui|que|quoi|mais|plus|très|bien|sur|par|son|ses|"
-                r"mon|ma|mes|notre|leur|elle|ils|elles|être|avoir|faire|dire|aller)\b", re.I)
+                r"salue|rit|pleure|prie|ramasse|remercie|menace|acclame|boude|creuse|"
+                r"drague|fanfaronne|sifflote|titube|tombe|parle|joue|perd|chantons|"
+                r"ici|ça|cette|cet|qui|que|quoi|mais|très|bien|ses|notre|leur|elle|ils|"
+                r"elles|être|avoir|faire|aller|maintenant|beaucoup|obtention|objet|zone)\b", re.I)
+FR_WEAK = re.compile(r"\b(la|plus|son|par|dire|non|sur|ma|mon|mes|suit|possession|place|"
+                     r"note|coup|second)\b", re.I)
 DE = re.compile(r"\b(der|die|das|und|nicht|sie|ihr|ein|eine|mit|für|auf|ist|sind|von|wird|"
                 r"woche|zurück|gegen|beenden|spiel|kaufen|erforderlich|folge|freischalten)\b", re.I)
 ES = re.compile(r"\b(los|las|una|para|con|por|que|más|está|son|semana|volver|contra|juego|"
                 r"comprar|requiere|episodio|desbloquear)\b", re.I)
 EN = re.compile(r"\b(the|and|you|your|for|with|that|this|are|was|have|will|from|not|but|all|"
-                r"his|her|they|there|what|when|who|how|of|to|in|on|is|it|be|as|at|by|we|"
+                r"his|her|they|there|what|when|who|how|of|to|in|on|is|it|be|as|at|by|we|die|"
                 r"defeated|used|given|eaten|crafted|collected|visited|completed|unlocked)\b", re.I)
 DIA_FR = re.compile(r"[éèêëàâçùûîïôœÉÈÊÀÂÇÙÎÔŒ]")
 DIA_DE = re.compile(r"[äöüßÄÖÜ]")
@@ -50,10 +57,20 @@ FR_TAIL = re.compile(r"^/(?:boire|carte|ciseaux|danseducrabe|dire|escouade|feuil
                      r"aboiement|rire|soupir)\)|^\"?(?:Wouf|Miaou|MIAOU)\b", re.I)
 
 
+# Названия дополнений и игр остаются английскими в любой локализации, поэтому
+# из подсчёта английских слов их надо вынуть: иначе «La Corne de Maguuma est
+# accessible avec l'extension "Secrets of the Obscure"» набирает два «английских»
+# слова из кавычек и перестаёт считаться французской.
+QUOTED = re.compile(r"[\"«][^\"»]{3,60}[\"»]")
+PRODUCT = re.compile(r"Guild Wars 2|Secrets of the Obscure|Heart of Thorns|Path of Fire|"
+                     r"End of Dragons|Janthir Wilds|Visions of Eternity|Living World", re.I)
+
+
 def verdict(en_text):
     """('fr'|'de'|'es'|'', уверенность, почему)."""
     e = en_text
-    n_en = len(EN.findall(e))
+    bare = PRODUCT.sub(" ", QUOTED.sub(" ", e))
+    n_en = len(EN.findall(bare))
     scores = {"fr": len(FR.findall(e)), "de": len(DE.findall(e)), "es": len(ES.findall(e))}
     lang = max(scores, key=scores.get)
     n = scores[lang]
@@ -72,6 +89,12 @@ def verdict(en_text):
         return dia, "под вопросом", "несколько слов с диакритикой, английских слов нет"
     if n == 1 and n_en == 0 and dia and len(e.split()) <= 6:
         return lang, "под вопросом", "служебное слово языка и диакритика"
+    # Короткие фразы вроде «La plus rapide» держатся на двусмысленных словах.
+    # Признать их языком автоматически нельзя, но и молчать не стоит — в список,
+    # и только если рядом есть хоть одно надёжное слово языка.
+    weak = len(FR_WEAK.findall(e))
+    if n >= 1 and weak >= 1 and n_en == 0 and len(e.split()) >= 2:
+        return lang, "под вопросом", "надёжное слово языка %d + двусмысленных %d" % (n, weak)
     return "", "", ""
 
 
