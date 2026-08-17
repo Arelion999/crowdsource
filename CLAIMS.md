@@ -1,6 +1,6 @@
 # Батчи перевода GW2 RU — доска захвата
 
-Всего батчей: **992** | строк: **473,857** | заполнено: **450,888** (95.2%), пусто **22,969** | вычитано человеком: **64,216** (13.6%).
+Всего батчей: **992** | строк: **473,623** | заполнено: **452,927** (95.6%), пусто **20,696** | вычитано человеком: **66,255** (14.0%).
 
 > Чтобы забиндить батч — впиши свой ник и поставь 🔨 (в работе). Готово → ✅ + ссылка на файл/PR.
 >
@@ -953,7 +953,7 @@
 | `site_055.csv` | site | 500 | 18,142 | Those are all the questions I have. | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
 | `site_056.csv` | site | 336 | 14,134 | What'd you mean by this being your place? | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
 | `new_125.csv` | new | 500 | 31,403 | "'Rimstone. If you're gonna stare, then stare | ✅ | K13or |
-| `new_126.csv` | new | 500 | 37,671 | 0 clone |  |  |
+| `new_126.csv` | new | 500 | 37,671 | 0 clone | ✅ | K13or |
 | `new_127.csv` | new | 500 | 25,767 | Achievement Eligibility: Not Today |  |  |
 | `new_128.csv` | new | 500 | 18,458 | Amulettes |  |  |
 | `new_129.csv` | new | 500 | 19,835 | Armes |  |  |
@@ -969,7 +969,7 @@
 | `new_139.csv` | new | 500 | 15,835 | Focus main gauche |  |  |
 | `new_140.csv` | new | 500 | 19,822 | Gift[s] of the World |  |  |
 | `new_141.csv` | new | 500 | 26,019 | Ha-ha. Good times. |  |  |
-| `new_142.csv` | new | 500 | 34,191 | How can I say no to Captain Lo— |  |  |
+| `new_142.csv` | new | 500 | 34,191 | How can I say no to Captain Lo— | ✅ | K13or |
 | `new_143.csv` | new | 500 | 31,141 | I know. I helped get the cows back in, rememb |  |  |
 | `new_144.csv` | new | 500 | 34,305 | I'm fairly confident we'll prevail. |  |  |
 | `new_145.csv` | new | 500 | 23,139 | In readiness, stillness. |  |  |
@@ -990,11 +990,11 @@
 | `new_160.csv` | new | 500 | 17,500 | Stepping out of the portal was like walking i |  |  |
 | `new_161.csv` | new | 500 | 21,189 | Tas d'essence vile |  |  |
 | `new_162.csv` | new | 500 | 42,697 | That'd be Laranthir. I suppose we should send | ✅ | K13or |
-| `new_163.csv` | new | 500 | 40,517 | The minotaurs are southeast of here. Good hun |  |  |
-| `new_164.csv` | new | 500 | 35,971 | This area is rife with Dragon's corruption. H |  |  |
+| `new_163.csv` | new | 500 | 40,517 | The minotaurs are southeast of here. Good hun | ✅ | K13or |
+| `new_164.csv` | new | 500 | 35,971 | This area is rife with Dragon's corruption. H | ✅ | K13or |
 | `new_165.csv` | new | 500 | 15,589 | Torche dokkaebi |  |  |
 | `new_166.csv` | new | 500 | 23,405 | Une zone d'orichalque a été ajoutée à votre z |  |  |
-| `new_167.csv` | new | 500 | 41,485 | Votez ! |  |  |
+| `new_167.csv` | new | 500 | 41,485 | Votez ! | ✅ | K13or |
 | `new_168.csv` | new | 500 | 30,742 | We've gone over this. If I'm tending the chic |  |  |
 | `new_169.csv` | new | 500 | 31,115 | Whoa! Joko is incredible! |  |  |
 | `new_170.csv` | new | 500 | 28,611 | You have questions. |  |  |
