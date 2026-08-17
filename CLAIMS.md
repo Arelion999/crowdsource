@@ -1,6 +1,6 @@
 # Батчи перевода GW2 RU — доска захвата
 
-Всего батчей: **992** | строк: **473,878** | заполнено: **450,062** (95.0%), пусто **23,816** | вычитано человеком: **63,390** (13.4%).
+Всего батчей: **992** | строк: **473,857** | заполнено: **450,388** (95.0%), пусто **23,469** | вычитано человеком: **63,716** (13.4%).
 
 > Чтобы забиндить батч — впиши свой ник и поставь 🔨 (в работе). Готово → ✅ + ссылка на файл/PR.
 >
@@ -952,7 +952,7 @@
 | `site_054.csv` | site | 500 | 27,559 | Sure can! We have the distinguished honor of  | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
 | `site_055.csv` | site | 500 | 18,142 | Those are all the questions I have. | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
 | `site_056.csv` | site | 336 | 14,134 | What'd you mean by this being your place? | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
-| `new_125.csv` | new | 500 | 31,403 | "'Rimstone. If you're gonna stare, then stare |  |  |
+| `new_125.csv` | new | 500 | 31,403 | "'Rimstone. If you're gonna stare, then stare | ✅ | K13or |
 | `new_126.csv` | new | 500 | 37,671 | 0 clone |  |  |
 | `new_127.csv` | new | 500 | 25,767 | Achievement Eligibility: Not Today |  |  |
 | `new_128.csv` | new | 500 | 18,458 | Amulettes |  |  |
