@@ -50,6 +50,12 @@ EN = re.compile(r"\b(the|and|you|your|for|with|that|this|are|was|have|will|from|
 DIA_FR = re.compile(r"[éèêëàâçùûîïôœÉÈÊÀÂÇÙÎÔŒ]")
 DIA_DE = re.compile(r"[äöüßÄÖÜ]")
 DIA_ES = re.compile(r"[áíóúñ¿¡]")
+# Неразрывный пробел перед «!», «?», «:», «;» — французская типографика: клиент
+# отдаёт U+00A0 там, где в английском не бывает пробела вовсе. Признак сильный,
+# он один вытащил 942 строки, которых не видели списки слов, — в том числе 411 в
+# одном new_172, где текст сплошь из имён и цифр.
+NBSP_FR = re.compile("\u00a0\\s*[!?:;\u00bb]|\u00ab\\s*\u00a0")
+
 # французские хвосты команд и звуков, где служебных слов нет вовсе
 FR_TAIL = re.compile(r"^/(?:boire|carte|ciseaux|danseducrabe|dire|escouade|feuille|groupe|"
                      r"pierre|poucebas|poucehaut|siffler|tremblefort|chuchoter|biceps|"
@@ -76,6 +82,8 @@ def verdict(en_text):
     n = scores[lang]
     if FR_TAIL.search(e):
         return "fr", "уверенно", "команда или звук французского клиента"
+    if NBSP_FR.search(e):
+        return "fr", "уверенно", "неразрывный пробел перед знаком — французская типографика"
     if n >= 2 and n > n_en:
         return lang, "уверенно", "служебных слов языка %d против английских %d" % (n, n_en)
     dia = ("fr" if DIA_FR.search(e) else "de" if DIA_DE.search(e) else
