@@ -35,6 +35,19 @@ except Exception:
 
 WORD = re.compile(r"[A-Z][A-Za-z'’\-]{2,}")
 
+# Ключ для сверки с фактами игры. Гардеробные строки приходят обёрнутыми в
+# %str1%%str2%…%str3%%str4%, а счётные — с разметкой [s]/[pl:"…"]; по сырому
+# тексту они не находятся, и 3 607 названий предметов оставались без типа вещи.
+STRIP_STR = re.compile(r"%str\d+%")
+STRIP_PL = re.compile(r"\[(?:s|pl:\"[^\"]*\")\]")
+
+
+def item_key(s):
+    s = STRIP_STR.sub("", s or "")
+    s = STRIP_PL.sub("", s)
+    return re.sub(r"\s{2,}", " ", s).strip()
+
+
 
 def hx(h):
     """FNV-1a 64 бита беззнаковый, а целые SQLite знаковые — храним hex-строкой."""
@@ -63,9 +76,10 @@ def cmd_build(_args):
         CREATE TABLE term_hit(hash TEXT, term TEXT, bad TEXT);
         CREATE TABLE ctx(hash TEXT PRIMARY KEY, kind TEXT);
         CREATE TABLE batch(name TEXT PRIMARY KEY, human INT, note TEXT);
-        CREATE TABLE item(name TEXT, kind TEXT, type TEXT, subtype TEXT,
+        CREATE TABLE item(key TEXT, name TEXT, kind TEXT, type TEXT, subtype TEXT,
                           weight TEXT, rarity TEXT, level TEXT);
         CREATE INDEX i_item ON item(name);
+        CREATE INDEX i_item_key ON item(key);
         CREATE TABLE skill(id TEXT, vid TEXT, name TEXT, descr TEXT, prof TEXT,
                            type TEXT, weapon TEXT, slot TEXT,
                            name_ru TEXT, descr_ru TEXT);
@@ -316,8 +330,9 @@ def cmd_build(_args):
     if os.path.exists(ifp):
         for r in list(csv.reader(open(ifp, encoding="utf-8-sig")))[1:]:
             if len(r) >= 7 and r[0].strip():
-                itm.append(tuple(x.strip() for x in r[:7]))
-    db.executemany("INSERT INTO item VALUES (?,?,?,?,?,?,?)", itm)
+                row = tuple(x.strip() for x in r[:7])
+                itm.append((item_key(row[0]),) + row)
+    db.executemany("INSERT INTO item VALUES (?,?,?,?,?,?,?,?)", itm)
     print("фактов о предметах: %d" % len(itm))
 
     # Тип сущности: чем эта штука является по данным API (tools/apicat.py)
@@ -355,7 +370,7 @@ def cmd_find(args):
         print("\n%s\n  RU %s" % (en[:150], (ru or "(нет перевода)")[:150]))
         for _n, kind, typ, sub, wgt, rar in db.execute(
                 "SELECT name, kind, type, subtype, weight, rarity FROM item "
-                "WHERE name=? LIMIT 2", (en.strip(),)):
+                "WHERE key=? LIMIT 2", (item_key(en),)):
             bits = [x for x in (typ, sub if sub != typ else "", wgt, rar) if x]
             print("  ЭТО %s (%s)" % ("/".join(bits), kind))
         for kind, name, ref in db.execute(
@@ -586,7 +601,7 @@ def cmd_proof(args):
 
     facts = collections.defaultdict(list)
     for nm, kind, typ, sub, wgt, rar, lvl in db.execute(
-            "SELECT name, kind, type, subtype, weight, rarity, level FROM item"):
+            "SELECT key, kind, type, subtype, weight, rarity, level FROM item"):
         facts[nm].append((kind, typ, sub, wgt, rar, lvl))
 
     H = human_rows(db, skip=fp)
