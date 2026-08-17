@@ -1,6 +1,6 @@
 # Батчи перевода GW2 RU — доска захвата
 
-Всего батчей: **992** | строк: **475,127** | заполнено: **450,303** (94.8%), пусто **24,824** | вычитано человеком: **81,070** (17.1%).
+Всего батчей: **992** | строк: **474,883** | заполнено: **450,303** (94.8%), пусто **24,580** | вычитано человеком: **81,070** (17.1%).
 
 > Чтобы забиндить батч — впиши свой ник и поставь 🔨 (в работе). Готово → ✅ + ссылка на файл/PR.
 >
@@ -356,7 +356,7 @@
 | `ui_169.csv` | ui | 399 | 18,565 | Zenith Kris Skin[s] |  | Автозаполнение из словаря + PR #1 — черновик, 366/399 (92%), нужна вычитка |
 | `new_001.csv` | new | 500 | 20,699 | "B" was in the mine again. Didn't catch a gli | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_002.csv` | new | 500 | 49,736 | (The battered remains of an Inquest golem lie | ✅ | Магистр Клод, Приорат Дурманд |
-| `new_003.csv` | new | 500 | 20,197 | A singular focus on overwhelming the enemy. | ✅ | Магистр Клод, Приорат Дурманд |
+| `new_003.csv` | new | 500 | 20,197 | A singular focus on overwhelming the enemy. |  | Магистр Клод, Приорат Дурманд |
 | `new_004.csv` | new | 500 | 14,942 | Arise, my creation. | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_005.csv` | new | 500 | 16,711 | Blitz workers are keeping track of how many c | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_006.csv` | new | 500 | 22,224 | Caught the Beast in Record Time | ✅ | Магистр Клод, Приорат Дурманд |
@@ -364,7 +364,7 @@
 | `new_008.csv` | new | 500 | 19,754 | Completed Convincing the Corsair | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_009.csv` | new | 500 | 44,005 | Constructed %num1%/%num2% Portal Device[s] | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_010.csv` | new | 500 | 24,357 | Defeat %num2% players in ranked matches durin | ✅ | Магистр Клод, Приорат Дурманд |
-| `new_011.csv` | new | 500 | 21,751 | Deputy Styne | ✅ | Магистр Клод, Приорат Дурманд + автозаполнение из словаря, 500/500 (100%) |
+| `new_011.csv` | new | 500 | 21,751 | Deputy Styne |  | Магистр Клод, Приорат Дурманд + автозаполнение из словаря, 500/500 (100%) |
 | `new_012.csv` | new | 500 | 17,655 | Earned a Gold Medal in the Moon Camp Covert S | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_013.csv` | new | 500 | 17,021 | Fascinating, but I have to go. | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_014.csv` | new | 500 | 21,769 | Frenzies • Poisons | ✅ | Магистр Клод, Приорат Дурманд |
@@ -420,7 +420,7 @@
 | `new_064.csv` | new | 500 | 17,780 | Historian Symon |  | Автозаполнение из словаря + PR #1 — черновик, 38/500 (8%), нужна вычитка |
 | `new_065.csv` | new | 500 | 28,124 | I admire passion, but you may want to tone it | ✅ | Автозаполнение из словаря + PR #1 — черновик, 54/500 (11%), нужна вычитка |
 | `new_066.csv` | new | 500 | 27,046 | I like your Braham miniature. | ✅ | Автозаполнение из словаря + PR #1 — черновик, 53/500 (11%), нужна вычитка |
-| `new_067.csv` | new | 500 | 24,981 | I'll deactivate tailor and become a huntsman. | ✅ | Автозаполнение из словаря + PR #1 — черновик, 55/500 (11%), нужна вычитка |
+| `new_067.csv` | new | 500 | 24,981 | I'll deactivate tailor and become a huntsman. |  | Автозаполнение из словаря + PR #1 — черновик, 55/500 (11%), нужна вычитка |
 | `new_068.csv` | new | 500 | 25,651 | I've got your back. | ✅ | Автозаполнение из словаря + PR #1 — черновик, 30/500 (6%), нужна вычитка |
 | `new_069.csv` | new | 500 | 17,085 | Indeed. Looks like I must've forgotten one. |  | Автозаполнение из словаря + PR #1 — черновик, 32/500 (6%), нужна вычитка |
 | `new_070.csv` | new | 500 | 21,979 | Isn't traveling wonderful? | ✅ | Автозаполнение из словаря + PR #1 — черновик, 36/500 (7%), нужна вычитка |
