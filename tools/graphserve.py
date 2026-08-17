@@ -37,10 +37,15 @@ def conn():
     return db
 
 
+KIND_RU = {"region": "регион", "map": "карта", "sector": "сектор",
+           "landmark": "достопримечательность", "waypoint": "путевая точка",
+           "vista": "обзор", "unlock": "проход", "task": "сердце почёта",
+           "skill_challenge": "испытание героя", "mastery_point": "точка мастерства",
+           "adventure": "приключение", "poi": "точка"}
 DBC = None
 
 
-def search(q, where, cat, typ, only, limit):
+def search(q, where, cat, typ, only, limit, reg=""):
     """Строки по подстроке + фильтры. Возвращает список словарей."""
     sql = ["SELECT s.hash, s.english, s.ru FROM string s"]
     args, cond = [], []
@@ -59,6 +64,8 @@ def search(q, where, cat, typ, only, limit):
         cond.append("(s.ru IS NULL OR s.ru='')")
     elif only == "defect":
         cond.append("EXISTS (SELECT 1 FROM defect d WHERE d.hash=s.hash)")
+    elif only == "geo":
+        cond.append("EXISTS (SELECT 1 FROM geo g WHERE g.key=s.key)")
     elif only == "latin":
         cond.append("s.ru GLOB '*[A-Za-z][A-Za-z][A-Za-z]*'")
     if cond:
@@ -79,6 +86,16 @@ def search(q, where, cat, typ, only, limit):
         else:
             d["fact"] = ""
         if typ and (not f or f["type"] != typ):
+            continue
+        g = DBC.execute("SELECT kind, map, region, continent FROM geo WHERE key=? LIMIT 1",
+                        (item_key(r["english"]),)).fetchone()
+        if g:
+            d["geo"] = "%s · %s" % (KIND_RU.get(g["kind"], g["kind"]),
+                                    " / ".join(x for x in (g["region"], g["map"]) if x))
+            d["region"] = g["region"] or ""
+        else:
+            d["geo"] = d["region"] = ""
+        if reg and d["region"] != reg:
             continue
         d["cats"] = [x[0] for x in DBC.execute(
             "SELECT DISTINCT name FROM place WHERE hash=? AND kind='категория'", (r["hash"],))]
@@ -105,6 +122,11 @@ def detail(h):
         "SELECT m.en, e.ru FROM mention m LEFT JOIN entity e ON e.en=m.en WHERE m.hash=?", (h,))]
     d["terms"] = [dict(term=x["term"], bad=x["bad"]) for x in DBC.execute(
         "SELECT term, bad FROM term_hit WHERE hash=?", (h,))]
+    d["geo"] = [dict(kind=KIND_RU.get(g["kind"], g["kind"]), map=g["map"],
+                     region=g["region"], continent=g["continent"], x=g["x"], y=g["y"])
+                for g in DBC.execute(
+                    "SELECT kind, map, region, continent, x, y FROM geo WHERE key=? LIMIT 6",
+                    (item_key(r["english"]),))]
     facts = DBC.execute("SELECT name, kind, type, subtype, weight, rarity, level FROM item "
                         "WHERE key=?", (item_key(r["english"]),)).fetchall()
     d["facts"] = [dict(zip(("name", "kind", "type", "subtype", "weight", "rarity", "level"), f))
@@ -149,6 +171,7 @@ tr:hover td{background:var(--card)}
      border:1px solid var(--line);color:var(--dim);margin:1px 3px 1px 0;white-space:nowrap}
 .tag.fact{color:var(--accent);border-color:var(--accent)}
 .tag.bad{color:var(--warn);border-color:var(--warn)}
+.tag.geo{color:var(--ok);border-color:var(--ok)}
 .tag.ok{color:var(--ok);border-color:var(--ok)}
 .empty{color:var(--warn)}
 #det{position:fixed;right:0;top:0;bottom:0;width:min(460px,92vw);background:var(--card);
@@ -171,8 +194,10 @@ tr:hover td{background:var(--card)}
     <select id=type><option value="">любой предмет</option><option>Weapon</option>
       <option>Armor</option><option>Trinket</option><option>Consumable</option>
       <option>Container</option><option>Back</option><option>Gathering</option></select>
+    <select id=reg><option value="">все регионы</option></select>
     <select id=only><option value="">без фильтра<option value=defect>с дефектом
-      <option value=notran>без перевода<option value=latin>латиница в переводе</select>
+      <option value=notran>без перевода<option value=latin>латиница в переводе
+      <option value=geo>есть место на карте</select>
     <select id=limit><option>100</option><option>250</option><option>500</option></select>
   </div>
 </header>
@@ -182,6 +207,10 @@ tr:hover td{background:var(--card)}
 <script>
 const $=s=>document.querySelector(s), rows=$('#rows'), det=$('#det');
 let timer=null;
+fetch('/api/regions').then(r=>r.json()).then(rs=>{
+  $('#reg').innerHTML='<option value="">все регионы</option>'+
+    rs.map(r=>`<option>${r}</option>`).join('');
+});
 fetch('/api/cats').then(r=>r.json()).then(cs=>{
   $('#cat').innerHTML='<option value="">все категории</option>'+
     cs.map(c=>`<option value="${c.ref}">${c.name} (${c.n})</option>`).join('');
@@ -189,7 +218,8 @@ fetch('/api/cats').then(r=>r.json()).then(cs=>{
 function esc(s){return (s||'').replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]))}
 function go(){
   const p=new URLSearchParams({q:$('#q').value,where:$('#where').value,cat:$('#cat').value,
-    type:$('#type').value,only:$('#only').value,limit:$('#limit').value});
+    type:$('#type').value,only:$('#only').value,limit:$('#limit').value,
+    reg:$('#reg').value});
   $('#msg').textContent='ищу…';
   fetch('/api/search?'+p).then(r=>r.json()).then(d=>{
     rows.innerHTML=d.map(r=>`<tr onclick="open_('${r.hash}')">
@@ -208,6 +238,9 @@ function open_(h){
       <div class=k>перевод</div><pre>${esc(d.ru)||'<i>нет</i>'}</pre>
       ${d.facts.length?'<div class=k>чем является по игре</div>'+d.facts.map(f=>
         `<div>${esc([f.type,f.subtype,f.weight,f.rarity,f.level?'ур. '+f.level:''].filter(Boolean).join(' / '))}</div>`).join(''):''}
+      ${d.geo.length?'<div class=k>место на карте</div>'+d.geo.map(g=>
+        `<div>${esc(g.kind)} — ${esc([g.continent,g.region,g.map].filter(Boolean).join(' / '))}
+         <span class=muted>${g.x?`(${g.x}, ${g.y})`:''}</span></div>`).join(''):''}
       ${d.places.length?'<div class=k>где лежит</div>'+d.places.map(p=>
         `<div class=muted>${esc(p.kind)}: ${esc(p.name)} <span class=en>${esc(p.ref)}</span></div>`).join(''):''}
       ${d.defects.length?'<div class=k>дефекты</div>'+d.defects.map(x=>
@@ -242,11 +275,15 @@ class H(BaseHTTPRequestHandler):
         try:
             if u.path == "/":
                 self._send(PAGE, "text/html; charset=utf-8")
+            elif u.path == "/api/regions":
+                self._send(json.dumps([r[0] for r in DBC.execute(
+                    "SELECT region, count(*) n FROM geo WHERE region<>'' "
+                    "GROUP BY region ORDER BY n DESC")], ensure_ascii=False))
             elif u.path == "/api/cats":
                 self._send(json.dumps(cats(), ensure_ascii=False))
             elif u.path == "/api/search":
                 r = search(one("q"), one("where", "both"), one("cat"), one("type"),
-                           one("only"), one("limit", "100"))
+                           one("only"), one("limit", "100"), one("reg"))
                 self._send(json.dumps(r, ensure_ascii=False))
             elif u.path == "/api/string":
                 self._send(json.dumps(detail(one("h")), ensure_ascii=False))
