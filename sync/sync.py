@@ -77,11 +77,25 @@ def load_json(p, default):
 def save_json(p, d):
     json.dump(d, open(p, "w", encoding="utf-8"), ensure_ascii=False)
 
+def bin_english():
+    """Английские строки из dictionary.bin — он теперь источник, а не CSV-слой."""
+    try:
+        sys.path.insert(0, os.path.join(CROWD, "tools"))
+        import dict_tool as D
+    except Exception as e:
+        print("  ! не читается bin: %s" % e)
+        return set()
+    out = set()
+    for _name, es in D.read_sections(D.OUR_BIN):
+        for _h, en, _ru in es:
+            if en:
+                out.add(norm(en))
+    return out
+
+
 def our_english_norm():
-    seen = set()
-    for fp in (glob.glob(os.path.join(CYRDIR, "dict_*.csv")) + [CYR] +
-               glob.glob(os.path.join(CYRDIR, "pn_*.csv")) +
-               glob.glob(os.path.join(CROWD, "*", "*.csv"))):
+    seen = bin_english()
+    for fp in glob.glob(os.path.join(CROWD, "*", "*.csv")):
         try:
             with open(fp, encoding="utf-8") as f:
                 r = csv.reader(f); next(r, None)
@@ -191,14 +205,7 @@ def main():
     if not old_map:
         cand = set(new_map.values())  # первый снимок: сверяемся со всей таблицей
     ours = our_english_norm()
-    exact = set()
-    with open(CYR, encoding="utf-8") as f:
-        r = csv.reader(f); next(r, None)
-        for row in r:
-            if row:
-                exact.add(row[0])
-    new = sorted({en for en in cand
-                  if norm(en) not in ours and en not in exact and translatable(en)})
+    new = sorted({en for en in cand if norm(en) not in ours and translatable(en)})
 
     if changed or removed:
         rep = write_report(changed, removed)
@@ -206,7 +213,6 @@ def main():
 
     if new:
         start = max_new_index() + 1
-        append_cyrillic(new)
         claims_rows = write_batches(new, start)
         update_claims(claims_rows, len(new))
         print(f"Добавлено новых строк: {len(new)} (~{sum(len(x) for x in new):,} знаков)")
@@ -217,7 +223,7 @@ def main():
     save_json(SNAP, new_map)
     save_json(STATE, {"last_count": count})
     if new or changed or removed:
-        print("Готово. Не забудь закоммитить crowdsource/ и запустить release.py.")
+        print("Готово. Дальше: перевести батчи, frombatches --batches-win --apply, index.py build.")
 
 if __name__ == "__main__":
     main()

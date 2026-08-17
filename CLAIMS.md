@@ -1,6 +1,6 @@
 # Батчи перевода GW2 RU — доска захвата
 
-Всего батчей: **940** | строк: **450,522** | заполнено: **450,065** (99.9%), пусто **457** | вычитано человеком: **56,393** (12.5%).
+Всего батчей: **992** | строк: **476,243** | заполнено: **450,065** (94.5%), пусто **26,178** | вычитано человеком: **63,392** (13.3%).
 
 > Чтобы забиндить батч — впиши свой ник и поставь 🔨 (в работе). Готово → ✅ + ссылка на файл/PR.
 >
@@ -952,3 +952,55 @@
 | `site_054.csv` | site | 500 | 27,559 | Sure can! We have the distinguished honor of  | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
 | `site_055.csv` | site | 500 | 18,142 | Those are all the questions I have. | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
 | `site_056.csv` | site | 336 | 14,134 | What'd you mean by this being your place? | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
+| `new_125.csv` | new | 500 | 31,403 | "'Rimstone. If you're gonna stare, then stare |  |  |
+| `new_126.csv` | new | 500 | 37,671 | 0 clone |  |  |
+| `new_127.csv` | new | 500 | 25,767 | Achievement Eligibility: Not Today |  |  |
+| `new_128.csv` | new | 500 | 18,458 | Amulettes |  |  |
+| `new_129.csv` | new | 500 | 19,835 | Armes |  |  |
+| `new_130.csv` | new | 500 | 36,225 | Baril vide |  |  |
+| `new_131.csv` | new | 500 | 18,658 | Bonus en cours : Chances de réaliser un criti |  |  |
+| `new_132.csv` | new | 500 | 19,569 | Can we go back, please? |  |  |
+| `new_133.csv` | new | 500 | 20,832 | Check back often, as we discover new weapons, |  |  |
+| `new_134.csv` | new | 500 | 16,139 | Conteur[f:"Conteuse"] : Balthazar |  |  |
+| `new_135.csv` | new | 500 | 22,048 | Daze • Stun • Bleed |  |  |
+| `new_136.csv` | new | 500 | 23,793 | Dodges attacks periodically, granted upon def |  |  |
+| `new_137.csv` | new | 500 | 16,578 | Emogg, l'Animorphe |  |  |
+| `new_138.csv` | new | 500 | 16,303 | Explorateur[f:"Exploratrice "] d'Orr |  |  |
+| `new_139.csv` | new | 500 | 15,835 | Focus main gauche |  |  |
+| `new_140.csv` | new | 500 | 19,822 | Gift[s] of the World |  |  |
+| `new_141.csv` | new | 500 | 26,019 | Ha-ha. Good times. |  |  |
+| `new_142.csv` | new | 500 | 34,191 | How can I say no to Captain Lo— |  |  |
+| `new_143.csv` | new | 500 | 31,141 | I know. I helped get the cows back in, rememb |  |  |
+| `new_144.csv` | new | 500 | 34,305 | I'm fairly confident we'll prevail. |  |  |
+| `new_145.csv` | new | 500 | 23,139 | In readiness, stillness. |  |  |
+| `new_146.csv` | new | 500 | 29,355 | It's nice to meet you, Master. Can you tell m |  |  |
+| `new_147.csv` | new | 500 | 29,404 | Kodan[s] |  |  |
+| `new_148.csv` | new | 500 | 20,106 | Let's see here... Maybe if I push this. Flip  |  |  |
+| `new_149.csv` | new | 500 | 16,817 | Marcheboue |  |  |
+| `new_150.csv` | new | 500 | 19,274 | Mini-colosse séraphin |  |  |
+| `new_151.csv` | new | 500 | 24,311 | My gut burns with resolve! We can win! |  |  |
+| `new_152.csv` | new | 500 | 29,947 | OK, later then. |  |  |
+| `new_153.csv` | new | 500 | 18,484 | Our new friends have chosen wisely. We make o |  |  |
+| `new_154.csv` | new | 500 | 16,105 | Pioneer Golem 02 |  |  |
+| `new_155.csv` | new | 500 | 18,061 | Preparations are underway for a celebratory c |  |  |
+| `new_156.csv` | new | 500 | 16,702 | Ravisseur |  |  |
+| `new_157.csv` | new | 500 | 18,154 | Retake the Astral Ward camp from the Kryptis. |  |  |
+| `new_158.csv` | new | 500 | 21,764 | Saurien |  |  |
+| `new_159.csv` | new | 500 | 21,154 | Sky Dance |  |  |
+| `new_160.csv` | new | 500 | 17,500 | Stepping out of the portal was like walking i |  |  |
+| `new_161.csv` | new | 500 | 21,189 | Tas d'essence vile |  |  |
+| `new_162.csv` | new | 500 | 42,697 | That'd be Laranthir. I suppose we should send |  |  |
+| `new_163.csv` | new | 500 | 40,517 | The minotaurs are southeast of here. Good hun |  |  |
+| `new_164.csv` | new | 500 | 35,971 | This area is rife with Dragon's corruption. H |  |  |
+| `new_165.csv` | new | 500 | 15,589 | Torche dokkaebi |  |  |
+| `new_166.csv` | new | 500 | 23,405 | Une zone d'orichalque a été ajoutée à votre z |  |  |
+| `new_167.csv` | new | 500 | 41,485 | Votez ! |  |  |
+| `new_168.csv` | new | 500 | 30,742 | We've gone over this. If I'm tending the chic |  |  |
+| `new_169.csv` | new | 500 | 31,115 | Whoa! Joko is incredible! |  |  |
+| `new_170.csv` | new | 500 | 28,611 | You have questions. |  |  |
+| `new_171.csv` | new | 500 | 13,632 | Zone 1 – n° 4 |  |  |
+| `new_172.csv` | new | 500 | 20,249 | [F]Piste[pl:"Pistes"] 10 : Battle with the Ta |  |  |
+| `new_173.csv` | new | 500 | 14,651 | [F]Statue[pl:"Statues"] perdue[pl:"perdues"] |  |  |
+| `new_174.csv` | new | 500 | 14,044 | [M]Explorateur Pattefer |  |  |
+| `new_175.csv` | new | 500 | 15,182 | [M]Plafonnier kodan |  |  |
+| `new_176.csv` | new | 221 | 7,207 | d'absorption |  |  |
