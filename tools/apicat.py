@@ -118,14 +118,62 @@ def cmd_fetch(args):
         print("%-24s ids %5d -> строк %5d" % (cat, len(ids), len(set(rows))))
 
 
+STRIP_STR = re.compile(r"%str\d+%")
+STRIP_PL = re.compile(r"\[(?:s|pl:\"[^\"]*\")\]")
+
+
+def key(s):
+    """Ключ сверки: без обёртки гардероба и без плюрал-разметки.
+
+    Без него из «основного» не опознаётся ни одна гардеробная строка
+    (%str1%%str2%…) и ни одна счётная («Flute[s]») — а это десятки тысяч."""
+    s = STRIP_PL.sub("", STRIP_STR.sub("", s or ""))
+    return re.sub(r"\s{2,}", " ", s).strip()
+
+
+# Файлы выгрузки, у которых вторая колонка — НЕ категория словаря.
+SKIP = {"charr_wiki.csv", "warband_roster.csv", "skills.csv", "mechanical.csv",
+        "gw2skills.csv"}   # у этого вторая колонка — описание, а не категория
+
+
 def load_api():
+    """en-ключ -> категория словаря. Три источника, приоритет сверху вниз."""
     want = {}
+
+    # 1) эндпоинты API: quests, titles, masteries, minis, colors и прочие
     for fp in sorted(os.listdir(APIDIR)) if os.path.isdir(APIDIR) else []:
-        if not fp.endswith(".csv"):
+        if not fp.endswith(".csv") or fp in SKIP:
             continue
         for r in list(csv.reader(open(os.path.join(APIDIR, fp), encoding="utf-8")))[1:]:
             if len(r) >= 2 and r[0].strip():
-                want.setdefault(r[0].strip(), r[1].strip())
+                want.setdefault(key(r[0]), r[1].strip())
+
+    # 2) умения и таланты: название и описание — разные категории
+    sfp = os.path.join(APIDIR, "skills.csv")
+    if os.path.exists(sfp):
+        for r in list(csv.reader(open(sfp, encoding="utf-8-sig")))[1:]:
+            if len(r) > 3:
+                if r[2].strip():
+                    want.setdefault(key(r[2]), "skill_names")
+                if r[3].strip():
+                    want.setdefault(key(r[3]), "skill_descriptions")
+
+    # 3) факты о предметах (tools/itemfacts.py): что игра зовёт предметом и обликом
+    ffp = os.path.join(APIDIR, "facts", "items.csv")
+    if os.path.exists(ffp):
+        for r in list(csv.reader(open(ffp, encoding="utf-8-sig")))[1:]:
+            if len(r) > 1 and r[0].strip():
+                want.setdefault(key(r[0]), "skins" if r[1] == "skins" else "item_names")
+
+    # 4) списки названий и описаний, разведённые пользователем
+    sp = os.path.join(CROWD, "sync", "api", "split")
+    for fn in sorted(os.listdir(sp)) if os.path.isdir(sp) else []:
+        if not fn.startswith("dict_") or not fn.endswith(".csv"):
+            continue
+        cat = fn[len("dict_"):-4]
+        for r in list(csv.reader(open(os.path.join(sp, fn), encoding="utf-8-sig")))[1:]:
+            if r and r[0].strip():
+                want.setdefault(key(r[0]), cat)
     return want
 
 
@@ -144,7 +192,7 @@ def survey():
     move, ok, absent = [], 0, 0
     for h, cats in where.items():
         en = en_of.get(h)
-        cat = want.get(en) if en else None
+        cat = want.get(key(en)) if en else None
         if not cat:
             continue
         if cat in cats:
