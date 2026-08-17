@@ -1,6 +1,6 @@
 # Батчи перевода GW2 RU — доска захвата
 
-Всего батчей: **992** | строк: **473,857** | заполнено: **450,388** (95.0%), пусто **23,469** | вычитано человеком: **63,716** (13.4%).
+Всего батчей: **992** | строк: **473,857** | заполнено: **450,888** (95.2%), пусто **22,969** | вычитано человеком: **64,216** (13.6%).
 
 > Чтобы забиндить батч — впиши свой ник и поставь 🔨 (в работе). Готово → ✅ + ссылка на файл/PR.
 >
@@ -989,7 +989,7 @@
 | `new_159.csv` | new | 500 | 21,154 | Sky Dance |  |  |
 | `new_160.csv` | new | 500 | 17,500 | Stepping out of the portal was like walking i |  |  |
 | `new_161.csv` | new | 500 | 21,189 | Tas d'essence vile |  |  |
-| `new_162.csv` | new | 500 | 42,697 | That'd be Laranthir. I suppose we should send |  |  |
+| `new_162.csv` | new | 500 | 42,697 | That'd be Laranthir. I suppose we should send | ✅ | K13or |
 | `new_163.csv` | new | 500 | 40,517 | The minotaurs are southeast of here. Good hun |  |  |
 | `new_164.csv` | new | 500 | 35,971 | This area is rife with Dragon's corruption. H |  |  |
 | `new_165.csv` | new | 500 | 15,589 | Torche dokkaebi |  |  |
