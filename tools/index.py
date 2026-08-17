@@ -63,7 +63,15 @@ def connect(create=False):
 def cmd_build(_args):
     os.makedirs(os.path.dirname(DB), exist_ok=True)
     if os.path.exists(DB):
-        os.remove(DB)
+        try:
+            os.remove(DB)
+        except PermissionError:
+            # базу держит открытой веб-интерфейс (tools/graphserve.py) — Windows
+            # не даёт удалить занятый файл, и сборка падала стектрейсом на месте
+            sys.exit("база занята другим процессом: %s
+"
+                     "останови веб-интерфейс (tools/graphserve.py) и повтори"
+                     % os.path.relpath(DB, CROWD))
     db = connect(create=True)
     db.executescript("""
         CREATE TABLE string(hash TEXT PRIMARY KEY, english TEXT, ru TEXT);
