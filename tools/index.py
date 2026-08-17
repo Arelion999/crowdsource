@@ -68,13 +68,12 @@ def cmd_build(_args):
         except PermissionError:
             # базу держит открытой веб-интерфейс (tools/graphserve.py) — Windows
             # не даёт удалить занятый файл, и сборка падала стектрейсом на месте
-            sys.exit("база занята другим процессом: %s
-"
-                     "останови веб-интерфейс (tools/graphserve.py) и повтори"
-                     % os.path.relpath(DB, CROWD))
+            sys.exit("база занята другим процессом: %s | останови веб-интерфейс "
+                     "(tools/graphserve.py) и повтори" % os.path.relpath(DB, CROWD))
     db = connect(create=True)
     db.executescript("""
-        CREATE TABLE string(hash TEXT PRIMARY KEY, english TEXT, ru TEXT);
+        CREATE TABLE string(hash TEXT PRIMARY KEY, english TEXT, ru TEXT, key TEXT);
+        CREATE INDEX i_string_key ON string(key);
         CREATE TABLE place(hash TEXT, kind TEXT, name TEXT, ref TEXT);
         CREATE TABLE entity(en TEXT PRIMARY KEY, ru TEXT, layer TEXT);
         CREATE TABLE mention(hash TEXT, en TEXT);
@@ -84,6 +83,10 @@ def cmd_build(_args):
         CREATE TABLE term_hit(hash TEXT, term TEXT, bad TEXT);
         CREATE TABLE ctx(hash TEXT PRIMARY KEY, kind TEXT);
         CREATE TABLE batch(name TEXT PRIMARY KEY, human INT, note TEXT);
+        CREATE TABLE geo(key TEXT, name TEXT, kind TEXT, map TEXT, region TEXT,
+                        continent TEXT, x TEXT, y TEXT);
+        CREATE INDEX i_geo_key ON geo(key);
+        CREATE INDEX i_geo_map ON geo(map);
         CREATE TABLE item(key TEXT, name TEXT, kind TEXT, type TEXT, subtype TEXT,
                           weight TEXT, rarity TEXT, level TEXT);
         CREATE INDEX i_item ON item(name);
@@ -145,8 +148,8 @@ def cmd_build(_args):
     nh = sum(1 for x in bat if x[1])
     print("батчей на доске: %d | заполнены человеком: %d" % (len(bat), nh))
 
-    db.executemany("INSERT INTO string VALUES (?,?,?)",
-                   ((hx(h), en, ru) for h, (en, ru) in strings.items()))
+    db.executemany("INSERT INTO string VALUES (?,?,?,?)",
+                   ((hx(h), en, ru, item_key(en)) for h, (en, ru) in strings.items()))
     db.executemany("INSERT INTO place VALUES (?,?,?,?)", places)
     db.executemany("INSERT INTO entity VALUES (?,?,?)",
                    ((en, ru, lay) for en, (ru, lay) in ents.items()))
@@ -343,6 +346,20 @@ def cmd_build(_args):
     db.executemany("INSERT INTO item VALUES (?,?,?,?,?,?,?,?)", itm)
     print("фактов о предметах: %d" % len(itm))
 
+    # Место на карте: континент -> регион -> карта -> сектор -> точка
+    # (tools/mapdata.py fetch). От места зависит и род названия, и соседи по
+    # канону: постройки одного региона должны звучать одинаково.
+    geo = []
+    gfp = os.path.join(CROWD, "sync", "api", "places.csv")
+    if os.path.exists(gfp):
+        for r in list(csv.reader(open(gfp, encoding="utf-8-sig")))[1:]:
+            if len(r) >= 7 and r[0].strip():
+                geo.append((item_key(r[0]), r[0].strip(), r[1], r[2], r[3], r[4], r[5], r[6]))
+    db.executemany("INSERT INTO geo VALUES (?,?,?,?,?,?,?,?)", geo)
+    gk = {g[0] for g in geo}
+    bound = sum(1 for _h, (en, _ru) in strings.items() if en and item_key(en) in gk)
+    print("мест на карте: %d | строк словаря привязано к месту: %d" % (len(geo), bound))
+
     # Тип сущности: чем эта штука является по данным API (tools/apicat.py)
     apid = os.path.join(CROWD, "sync", "api")
     types = {}
@@ -381,6 +398,11 @@ def cmd_find(args):
                 "WHERE key=? LIMIT 2", (item_key(en),)):
             bits = [x for x in (typ, sub if sub != typ else "", wgt, rar) if x]
             print("  ЭТО %s (%s)" % ("/".join(bits), kind))
+        for kind, mp, reg, cont in db.execute(
+                "SELECT kind, map, region, continent FROM geo WHERE key=? LIMIT 3",
+                (item_key(en),)):
+            where = " / ".join(x for x in (cont, reg, mp) if x)
+            print("  НА КАРТЕ %s — %s" % (kind, where))
         for kind, name, ref in db.execute(
                 "SELECT kind, name, ref FROM place WHERE hash=? ORDER BY kind", (h,)):
             print("     %-10s %-26s %s" % (kind, name, ref))
