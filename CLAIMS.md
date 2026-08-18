@@ -1,6 +1,6 @@
 # Батчи перевода GW2 RU — доска захвата
 
-Всего батчей: **996** | строк: **472,033** | заполнено: **455,905** (96.6%), пусто **16,128** | вычитано человеком: **69,235** (14.7%).
+Всего батчей: **996** | строк: **472,033** | заполнено: **456,146** (96.6%), пусто **15,887** | вычитано человеком: **86,915** (18.4%).
 
 > Чтобы забиндить батч — впиши свой ник и поставь 🔨 (в работе). Готово → ✅ + ссылка на файл/PR.
 >
@@ -40,14 +40,14 @@
 | `items_026.csv` | items | 500 | 14,761 | Cavalier's Amulet | ✅ | Магистр Клод, Приорат Дурманд — вычитано |
 | `items_027.csv` | items | 500 | 12,506 | Ceremonial Stave of Rage | ✅ | Магистр Клод, Приорат Дурманд — вычитано |
 | `items_028.csv` | items | 500 | 13,173 | Chest of Natural Protection | ✅ | Магистр Клод, Приорат Дурманд — вычитано |
-| `items_029.csv` | items | 500 | 15,140 | Cleric's Destroyer Harpoon Gun | ✅ | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
+| `items_029.csv` | items | 500 | 15,140 | Cleric's Destroyer Harpoon Gun | ✅ | Arelion999 — вычитан: стат Cleric's сведён из семи форм, сеты и кавычки (258 строк) |
 | `items_030.csv` | items | 500 | 38,487 | Cleric's Soft Wood Warhorn of Air | ✅ | Автозаполнение из словаря + PR #1 — черновик, 448/500 (90%), нужна вычитка |
 | `items_031.csv` | items | 500 | 34,799 | Commander's Tormented Rifle of Force |  | Автозаполнение из словаря + PR #1 — черновик, 469/500 (94%), нужна вычитка |
 | `items_032.csv` | items | 500 | 27,671 | Contains Mist Shard shoulders recipes and a c | ✅ | Автозаполнение из словаря + PR #1 — черновик, 434/500 (87%), нужна вычитка |
 | `items_033.csv` | items | 500 | 11,689 | Crimson Lion Torch Skin | ✅ | Автозаполнение из словаря + PR #1 — черновик, 389/500 (78%), нужна вычитка |
-| `items_034.csv` | items | 500 | 15,917 | Deathcamas of Dreams | ✅ | Автозаполнение из словаря + PR #1 — черновик, 498/500 (100%), нужна вычитка |
-| `items_035.csv` | items | 500 | 15,754 | Dessert Feast: Double-click to set out a Tray | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
-| `items_036.csv` | items | 500 | 13,697 | Dire Orrian Longsword of Blood | ✅ | Автозаполнение из словаря + PR #1 — черновик, 498/500 (100%), нужна вычитка |
+| `items_034.csv` | items | 500 | 15,917 | Deathcamas of Dreams | ✅ | Arelion999 — вычитан: слоты плеч и ног разведены, класс Defender's (63 строки) |
+| `items_035.csv` | items | 500 | 15,754 | Dessert Feast: Double-click to set out a Tray | ✅ | Arelion999 — вычитан: стат Dire сведён из пяти форм, Aureate, Krytan (145 строк) |
+| `items_036.csv` | items | 500 | 13,697 | Dire Orrian Longsword of Blood | ✅ | Arelion999 — вычитан: два стата сразу, Dire к «грозному» и Diviner's к «Прорицателя», семья Orrian пересобрана по компонентам (287 строк) |
 | `items_037.csv` | items | 500 | 42,392 | Dolyaks gain increased health and toughness. |  | Автозаполнение из словаря + PR #1 — черновик, 466/500 (93%), нужна вычитка |
 | `items_038.csv` | items | 500 | 44,460 | Double-click to choose an ascended armor piec |  | Автозаполнение из словаря + PR #1 — черновик, 448/500 (90%), нужна вычитка |
 | `items_039.csv` | items | 500 | 39,041 | Double-click to learn a Jade Punk pistol reci | ✅ | Автозаполнение из словаря + PR #1 — черновик, 486/500 (97%), нужна вычитка |
@@ -65,37 +65,37 @@
 | `items_051.csv` | items | 498 | 28,147 | Golden Axe |  | Автозаполнение из словаря + PR #1 — черновик, 443/498 (89%), нужна вычитка |
 | `items_052.csv` | items | 499 | 13,093 | Greenflin Seraph Leather Leggings | ✅ | Автозаполнение из словаря + PR #1 — черновик, 479/499 (96%), нужна вычитка |
 | `items_053.csv` | items | 500 | 15,127 | Harathi Short Bow | ✅ | Автозаполнение из словаря + PR #1 — черновик, 485/500 (97%), нужна вычитка |
-| `items_054.csv` | items | 500 | 11,629 | Heart of an Ember | ✅ | Автозаполнение из словаря + PR #1 — черновик, 496/500 (99%), нужна вычитка |
+| `items_054.csv` | items | 500 | 11,629 | Heart of an Ember | ✅ | Arelion999 — стат Hearty сведён к канону «сытный» (112 строк); осталось 129 строк, где стат потерян, и 31 коллизия из черновика |
 | `items_055.csv` | items | 500 | 14,807 | Hidden Stash | ✅ | Автозаполнение из словаря + PR #1 — черновик, 479/500 (96%), нужна вычитка |
 | `items_056.csv` | items | 500 | 12,605 | Honed Privateer Coat of Scavenging | ✅ | Автозаполнение из словаря + PR #1 — черновик, 482/500 (96%), нужна вычитка |
 | `items_057.csv` | items | 498 | 24,252 | Hunter's Wood Stool |  | Автозаполнение из словаря + PR #1 — черновик, 470/498 (94%), нужна вычитка |
 | `items_058.csv` | items | 499 | 13,953 | Increases the rate at which customers enter y | ✅ | Автозаполнение из словаря + PR #1 — черновик, 412/499 (83%), нужна вычитка |
 | `items_059.csv` | items | 499 | 13,834 | Island Shrub | ✅ | Автозаполнение из словаря + PR #1 — черновик, 490/499 (98%), нужна вычитка |
-| `items_060.csv` | items | 499 | 11,496 | Keeper's Blade | ✅ | Автозаполнение из словаря — черновик, 499/499 (100%), нужна вычитка |
+| `items_060.csv` | items | 499 | 11,496 | Keeper's Blade | ✅ | Arelion999 — вычитан: стат Knight's, Auric, Cabalist, слоты и кавычки (157 строк) |
 | `items_061.csv` | items | 500 | 10,846 | Kodan Scepter Skin | ✅ | Автозаполнение из словаря — черновик, 498/500 (100%), нужна вычитка |
 | `items_062.csv` | items | 499 | 11,075 | Leafy Sea Dragon | ✅ | Автозаполнение из словаря — черновик, 472/499 (95%), нужна вычитка |
-| `items_063.csv` | items | 499 | 11,803 | Lingering Adept Helm | ✅ | Автозаполнение из словаря + PR #1 — черновик, 470/499 (94%), нужна вычитка |
-| `items_064.csv` | items | 499 | 11,839 | Mace Token | ✅ | Автозаполнение из словаря + PR #1 — черновик, 137/499 (27%), нужна вычитка |
+| `items_063.csv` | items | 499 | 11,803 | Lingering Adept Helm | ✅ | Arelion999 — вычитан: Lingering, Lionguard, Lucky, Lunatic, Luxon, Luminous (76 строк) |
+| `items_064.csv` | items | 499 | 11,839 | Mace Token | ✅ | Arelion999 — вычитан: наборы Full Moon и Ursan, 12 коллизий, кавычки (60 строк) |
 | `items_065.csv` | items | 500 | 11,635 | Maguuma Jack | ✅ | Автозаполнение из словаря + PR #1 — черновик, 213/500 (43%), нужна вычитка |
 | `items_066.csv` | items | 498 | 17,464 | Malign Processional Flame | ✅ | Автозаполнение из словаря + PR #1 — черновик, 249/498 (50%), нужна вычитка |
 | `items_067.csv` | items | 500 | 14,706 | Meal Feast: Double-click to set out a Feast o | ✅ | Автозаполнение из словаря + PR #1 — черновик, 436/500 (87%), нужна вычитка |
-| `items_068.csv` | items | 378 | 9,004 | Mighty Bronze Axe | ✅ | Автозаполнение из словаря + PR #1 — черновик, 378/378 (100%), нужна вычитка |
-| `items_069.csv` | items | 380 | 9,956 | Mini Eelob Poisonfang | ✅ | Автозаполнение из словаря — черновик, 370/380 (97%), нужна вычитка |
+| `items_068.csv` | items | 378 | 9,004 | Mighty Bronze Axe | ✅ | Arelion999 — вычитан: стат Mighty сведён к «мощный», шесть коллизий типов и слотов (83 строки) |
+| `items_069.csv` | items | 380 | 9,956 | Mini Eelob Poisonfang | ✅ | Arelion999 — вычитан: приставка Mini сведена к канону слоя «Мини-», семейства лам, детёнышей и экзокостюмов, регистр (259 строк) |
 | `items_070.csv` | items | 448 | 10,025 | Mini SERV Golem | ✅ | Автозаполнение из словаря + PR #1 — черновик, 446/448 (100%), нужна вычитка |
 | `items_071.csv` | items | 499 | 10,669 | Mist Lord's Shield | ✅ | Автозаполнение из словаря + PR #1 — черновик, 499/499 (100%), нужна вычитка |
 | `items_072.csv` | items | 500 | 10,740 | Morning Sea Dye | ✅ | Автозаполнение из словаря + PR #1 — черновик, 400/500 (80%), нужна вычитка |
 | `items_073.csv` | items | 500 | 13,135 | Night Shade Dye | ✅ | Автозаполнение из словаря + PR #1 — черновик, 496/500 (99%), нужна вычитка |
 | `items_074.csv` | items | 500 | 12,976 | Oiled Hardened Shoulderguard Padding | ✅ | Автозаполнение из словаря + PR #1 — черновик, 451/500 (90%), нужна вычитка |
-| `items_075.csv` | items | 500 | 10,576 | Orrian Focus of Air | ✅ | Автозаполнение из словаря + PR #1 — черновик, 242/500 (48%), нужна вычитка |
+| `items_075.csv` | items | 500 | 10,576 | Orrian Focus of Air | ✅ | Arelion999 — вычитан: канон Orrian и наборы обликов оружия, 198 строк; validate.py чист |
 | `items_076.csv` | items | 499 | 14,666 | Pastel Purple Dye | ✅ | Автозаполнение из словаря + PR #1 — черновик, 499/499 (100%), нужна вычитка |
 | `items_077.csv` | items | 500 | 14,167 | Permanent Great Jungle Wurm Finisher | ✅ | Автозаполнение из словаря + PR #1 — черновик, 499/500 (100%), нужна вычитка |
 | `items_078.csv` | items | 500 | 12,226 | Plate of Coq Au Vin with Mint Garnish | ✅ | Автозаполнение из словаря — черновик, 475/500 (95%), нужна вычитка |
 | `items_079.csv` | items | 500 | 17,089 | Precise Bronze Shield | ✅ | Автозаполнение из словаря + PR #1 — черновик, 500/500 (100%), нужна вычитка |
-| `items_080.csv` | items | 500 | 11,189 | PvP Prize Package | ✅ | Автозаполнение из словаря — черновик, 497/500 (99%), нужна вычитка |
-| `items_081.csv` | items | 500 | 15,540 | Rabid Winged Pants of the Necromancer | ✅ | Автозаполнение из словаря — черновик, 87/500 (17%), нужна вычитка |
-| `items_082.csv` | items | 500 | 16,155 | Rampager's Krait Crook | ✅ | Автозаполнение из словаря — черновик, 95/500 (19%), нужна вычитка |
-| `items_083.csv` | items | 500 | 16,602 | Ravaging Cabalist Hood of Divinity | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
-| `items_084.csv` | items | 500 | 25,098 | Ravaging Steam Pistol | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `items_080.csv` | items | 500 | 11,189 | PvP Prize Package | ✅ | Arelion999 — вычитан: коллизии типов вещей, Aurora, Quaggan (22 строки) |
+| `items_081.csv` | items | 500 | 15,540 | Rabid Winged Pants of the Necromancer | ✅ | Arelion999 — стат Rampager's сведён к канону «Буяна» (292 строки); осталось 62 строки, где стат вписан в фразу и нужен перевод целиком, и 57 строк с названиями сетов в кавычках |
+| `items_082.csv` | items | 500 | 16,155 | Rampager's Krait Crook | ✅ | Arelion999 — стат Rampager's сведён к канону «Буяна» (262 строки); осталось 46 строк со статом внутри фразы и 108 строк с названиями сетов в кавычках |
+| `items_083.csv` | items | 500 | 16,602 | Ravaging Cabalist Hood of Divinity | ✅ | Arelion999 — вычитан: стат Ravaging сведён во всех 500 строках (237 правок) |
+| `items_084.csv` | items | 500 | 25,098 | Ravaging Steam Pistol | ✅ | Arelion999 — вычитан: стат Ravaging сведён к «опустошающий», рамка строк Recipe Unlock из десяти форм в одну (232 строки) |
 | `items_085.csv` | items | 500 | 17,303 | Recipe Unlock: Double-click to unlock the Che | ✅ | Автозаполнение из словаря — черновик, 494/500 (99%), нужна вычитка |
 | `items_086.csv` | items | 500 | 15,348 | Recipe: Celestial Emblazoned Helm | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
 | `items_087.csv` | items | 500 | 14,743 | Recipe: Feast of Orrian Steak Frittes | ✅ | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
@@ -109,31 +109,31 @@
 | `items_095.csv` | items | 500 | 13,310 | Resilient Krytan Rifle | ✅ | Автозаполнение из словаря + PR #1 — черновик, 499/500 (100%), нужна вычитка |
 | `items_096.csv` | items | 500 | 11,985 | Royal Flame Greatsword | ✅ | Автозаполнение из словаря + PR #1 — черновик, 499/500 (100%), нужна вычитка |
 | `items_097.csv` | items | 500 | 13,126 | Salvaged from the Perfected Short Bow. Used t | ✅ | Автозаполнение из словаря + PR #1 — черновик, 499/500 (100%), нужна вычитка |
-| `items_098.csv` | items | 500 | 13,046 | Scroll of Passage | ✅ | Автозаполнение из словаря + PR #1 — черновик, 237/500 (47%), нужна вычитка |
-| `items_099.csv` | items | 500 | 12,805 | Seraph Emblazoned Boots | ✅ | Автозаполнение из словаря + PR #1 — черновик, 118/500 (24%), нужна вычитка |
-| `items_100.csv` | items | 500 | 15,490 | Shaman's Draconic Coat |  | Автозаполнение из словаря — черновик, 32/500 (6%), нужна вычитка |
+| `items_098.csv` | items | 500 | 13,046 | Scroll of Passage | ✅ | Arelion999 — вычитан: стат Sentinel's сведён к «стража», набор Destroyer по эталону, 12 коллизий типов и слотов (149 строк) |
+| `items_099.csv` | items | 500 | 12,805 | Seraph Emblazoned Boots | ✅ | Arelion999 — вычитаны наборы обликов, Seraph Pearl и Cabalist (138 строк); сеты Banded/Privateer/Conjurer ещё нет |
+| `items_100.csv` | items | 500 | 15,490 | Shaman's Draconic Coat | ✅ | Arelion999 — вычитан: Privateer, Shiverpeak, кавычки, коллизии (131 строка) |
 | `items_101.csv` | items | 500 | 11,223 | Shards of Glory Converter | ✅ | Автозаполнение из словаря + PR #1 — черновик, 389/500 (78%), нужна вычитка |
 | `items_102.csv` | items | 500 | 13,274 | Silver Shatterer Trophy | ✅ | Автозаполнение из словаря — черновик, 497/500 (99%), нужна вычитка |
-| `items_103.csv` | items | 500 | 15,103 | Snack Feast: Double-click to set out a Feast  | ✅ | Автозаполнение из словаря + PR #1 — черновик, 500/500 (100%), нужна вычитка |
+| `items_103.csv` | items | 500 | 15,103 | Snack Feast: Double-click to set out a Feast  | ✅ | Arelion999 — вычитан: стат Soldier's был чист, правлены кавычки и коллизия (9 строк) |
 | `items_104.csv` | items | 500 | 19,536 | Soldier's Reinforced Scale Gauntlets | ✅ | Автозаполнение из словаря + PR #1 — черновик, 428/500 (86%), нужна вычитка |
 | `items_105.csv` | items | 500 | 10,561 | Spinel Gold Amulet | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
 | `items_106.csv` | items | 500 | 11,943 | Steelstar's Flanged Mace | ✅ | Автозаполнение из словаря — черновик, 494/500 (99%), нужна вычитка |
-| `items_107.csv` | items | 500 | 14,490 | Strong Iron Dagger of Force | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `items_107.csv` | items | 500 | 14,490 | Strong Iron Dagger of Force | ✅ | Arelion999 — вычитан: стат Strong сведён во всех 464 строках (296 правок) |
 | `items_108.csv` | items | 500 | 13,707 | Sturdy Darksteel Mining Pick | ✅ | Автозаполнение из словаря — черновик, 326/500 (65%), нужна вычитка |
 | `items_109.csv` | items | 500 | 13,584 | Superior Sigil of Blight | ✅ | Автозаполнение из словаря + PR #1 — черновик, 400/500 (80%), нужна вычитка |
 | `items_110.csv` | items | 499 | 18,703 | Tamini Sword | ✅ | Автозаполнение из словаря + PR #1 — черновик, 402/499 (81%), нужна вычитка |
 | `items_111.csv` | items | 500 | 44,577 | The Predator Vol. 3 | ✅ | Автозаполнение из словаря + PR #1 — черновик, 451/500 (90%), нужна вычитка |
 | `items_112.csv` | items | 500 | 16,049 | This short bow will not display an emblem if  | ✅ | Автозаполнение из словаря + PR #1 — черновик, 464/500 (93%), нужна вычитка |
-| `items_113.csv` | items | 500 | 13,310 | Tormented Aurillium | ✅ | Автозаполнение из словаря + PR #1 — черновик, 465/500 (93%), нужна вычитка |
+| `items_113.csv` | items | 500 | 13,310 | Tormented Aurillium | ✅ | Arelion999 — вычитан: набор Tormented сведён к канону ui_151 «Облик истязающего…», кавычки в семье Track (42 строки) |
 | `items_114.csv` | items | 500 | 14,360 | Track 6: Roar of the Delta | ✅ | Автозаполнение из словаря — черновик, 417/500 (83%), нужна вычитка |
 | `items_115.csv` | items | 500 | 20,841 | Trusty Blade | ✅ | Автозаполнение из словаря + PR #1 — черновик, 499/500 (100%), нужна вычитка |
 | `items_116.csv` | items | 499 | 42,540 | Unlocks the Winter's Presence collection. | ✅ | Автозаполнение из словаря + PR #1 — черновик, 491/499 (98%), нужна вычитка |
 | `items_117.csv` | items | 500 | 31,306 | Used to chop down all saplings. Grants a 33%% | ✅ | Автозаполнение из словаря + PR #1 — черновик, 488/500 (98%), нужна вычитка |
-| `items_118.csv` | items | 500 | 11,500 | Vagabond's Pulleybow | ✅ | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
-| `items_119.csv` | items | 500 | 11,945 | Verata's Herald | ✅ | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
+| `items_118.csv` | items | 500 | 11,500 | Vagabond's Pulleybow | ✅ | Arelion999 — вычитан: стат Valkyrie развёрнут из прилагательного в родительный после вещи (247 строк) |
+| `items_119.csv` | items | 500 | 11,945 | Verata's Herald | ✅ | Arelion999 — вычитан: набор Vigil's Honor, стат-префиксы, Veteran (63 строки) |
 | `items_120.csv` | items | 500 | 12,887 | Vigorous Steel Shield | ✅ | Автозаполнение из словаря + PR #1 — черновик, 499/500 (100%), нужна вычитка |
 | `items_121.csv` | items | 500 | 12,777 | Wanderer's Leystone Vambraces | ✅ | Автозаполнение из словаря + PR #1 — черновик, 499/500 (100%), нужна вычитка |
-| `items_122.csv` | items | 500 | 10,236 | White Bass | ✅ | Автозаполнение из словаря + PR #1 — черновик, 500/500 (100%), нужна вычитка |
+| `items_122.csv` | items | 500 | 10,236 | White Bass | ✅ | Arelion999 — вычитан: Wupwup, Woad, Writ, Worn, наборы Winter's (142 строки) |
 | `items_123.csv` | items | 500 | 12,285 | Wurm's Gilded Blessing Enrichment | ✅ | Автозаполнение из словаря + PR #1 — черновик, 496/500 (99%), нужна вычитка |
 | `items_124.csv` | items | 71 | 1,228 | Zodiac Medium Helmet | ✅ | Автозаполнение из словаря — черновик, 71/71 (100%), нужна вычитка |
 | `items_125.csv` | items | 500 | 40,808 | "/BloodstoneBoogie" Emote Tome | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
@@ -220,7 +220,7 @@
 | `ui_033.csv` | ui | 500 | 15,804 | Best Performance | ✅ | Автозаполнение из словаря + PR #1 — черновик, 464/500 (93%), нужна вычитка |
 | `ui_034.csv` | ui | 499 | 13,931 | Bleeds • Swiftness |  | Автозаполнение из словаря + PR #1 — черновик, 479/499 (96%), нужна вычитка |
 | `ui_035.csv` | ui | 499 | 15,324 | Bonefish[pl:"Bonefish"] | ✅ | Автозаполнение из словаря + PR #1 — черновик, 495/499 (99%), нужна вычитка |
-| `ui_036.csv` | ui | 499 | 16,979 | Bowl[s] of Green Chile Ice Cream |  | Автозаполнение из словаря + PR #1 — черновик, 461/499 (92%), нужна вычитка |
+| `ui_036.csv` | ui | 499 | 16,979 | Bowl[s] of Green Chile Ice Cream | ✅ | Arelion999 — вычитаны коробки рецептов и брони, класс Branded (129 строк); класс Bowl[s] ещё нет |
 | `ui_037.csv` | ui | 500 | 21,652 | Brandstone Node[s] | ✅ | Автозаполнение из словаря + PR #1 — черновик, 478/500 (96%), нужна вычитка |
 | `ui_038.csv` | ui | 497 | 33,570 | Bug Bite | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_039.csv` | ui | 496 | 20,852 | Call Destroyer | ✅ | Автозаполнение из словаря + PR #1 — черновик, 482/496 (97%), нужна вычитка |
@@ -255,7 +255,7 @@
 | `ui_068.csv` | ui | 500 | 33,230 | Found in the chest in the Volcanic Fractal. | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_069.csv` | ui | 499 | 16,781 | Fractured Forged Magic |  | Автозаполнение из словаря + PR #1 — черновик, 482/499 (97%), нужна вычитка |
 | `ui_070.csv` | ui | 499 | 31,686 | FXVille, Inc. | ✅ | Магистр Клод, Приорат Дурманд + автозаполнение из словаря, 497/499 (100%) |
-| `ui_071.csv` | ui | 500 | 16,497 | Gather supplies for the Astral Ward before ti |  | Автозаполнение из словаря + PR #1 — черновик, 492/500 (98%), нужна вычитка |
+| `ui_071.csv` | ui | 500 | 16,497 | Gather supplies for the Astral Ward before ti | ✅ | Arelion999 — вычитан: имена драконов, топонимы, коллизии даров (27 строк) |
 | `ui_072.csv` | ui | 498 | 14,984 | Gift[s] of the Ursus |  | Автозаполнение из словаря + PR #1 — черновик, 474/498 (95%), нужна вычитка |
 | `ui_073.csv` | ui | 500 | 19,052 | Gold Rank Chest |  | Автозаполнение из словаря + PR #1 — черновик, 484/500 (97%), нужна вычитка |
 | `ui_074.csv` | ui | 493 | 44,398 | Green Mine | ✅ | Магистр Клод, Приорат Дурманд |
@@ -279,8 +279,8 @@
 | `ui_092.csv` | ui | 499 | 15,761 | Machined Shield Backing[s] |  | Автозаполнение из словаря + PR #1 — черновик, 480/499 (96%), нужна вычитка |
 | `ui_093.csv` | ui | 495 | 21,066 | Maklain's Minstrel's Inscription[s] | ✅ | Автозаполнение из словаря + PR #1 — черновик, 483/495 (98%), нужна вычитка |
 | `ui_094.csv` | ui | 500 | 17,970 | Maximum number of monuments already placed in | ✅ | Автозаполнение из словаря + PR #1 — черновик, 490/500 (98%), нужна вычитка |
-| `ui_095.csv` | ui | 477 | 12,893 | Midnight Lotus Fishing Rod Skin now available |  | Автозаполнение из словаря + PR #1 — черновик, 452/477 (95%), нужна вычитка |
-| `ui_096.csv` | ui | 491 | 13,794 | Mini Ley-Line Scavenger[s] |  | Автозаполнение из словаря + PR #1 — черновик, 366/491 (75%), нужна вычитка |
+| `ui_095.csv` | ui | 477 | 12,893 | Midnight Lotus Fishing Rod Skin now available | ✅ | Arelion999 — вычитан: форма 2 в группах склонения, приставка Mini внутрь группы, три формы там, где их не было (188 строк) |
+| `ui_096.csv` | ui | 491 | 13,794 | Mini Ley-Line Scavenger[s] | ✅ | Arelion999 — вычитан: восстановлено «Мини», имена и каноны (57 строк); «Мини-фигурка» в 16 строках оставлена |
 | `ui_097.csv` | ui | 499 | 16,721 | Minimum Players |  | Автозаполнение из словаря + PR #1 — черновик, 488/499 (98%), нужна вычитка |
 | `ui_098.csv` | ui | 498 | 17,863 | Mithril Sword Blade[s] |  | Автозаполнение из словаря + PR #1 — черновик, 490/498 (98%), нужна вычитка |
 | `ui_099.csv` | ui | 494 | 35,023 | Mortar Mastery IV: Increased Damage | ✅ | Магистр Клод, Приорат Дурманд |
@@ -313,10 +313,10 @@
 | `ui_126.csv` | ui | 498 | 28,257 | Rune[s] of the Ogre | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_127.csv` | ui | 494 | 23,659 | Satchel[s] of Valkyrie Exalted Armor |  | Автозаполнение из словаря + PR #1 — черновик, 482/494 (98%), нужна вычитка |
 | `ui_128.csv` | ui | 498 | 22,043 | Sea Raider Door | ✅ | Автозаполнение из словаря + PR #1 — черновик, 488/498 (98%), нужна вычитка |
-| `ui_129.csv` | ui | 498 | 16,448 | Send mail |  | Автозаполнение из словаря + PR #1 — черновик, 487/498 (98%), нужна вычитка |
+| `ui_129.csv` | ui | 498 | 16,448 | Send mail | ✅ | Arelion999 — вычитан: канон Sentinel/Dominion, наборы обликов, коллизии имён (70 строк) |
 | `ui_130.csv` | ui | 499 | 17,339 | Shaman Gamli needs a plant called winter sage |  | Автозаполнение из словаря + PR #1 — черновик, 480/499 (96%), нужна вычитка |
 | `ui_131.csv` | ui | 499 | 19,348 | Shout to Sayida to steer her ship right. |  | Автозаполнение из словаря + PR #1 — черновик, 487/499 (98%), нужна вычитка |
-| `ui_132.csv` | ui | 499 | 14,014 | Siren Warhorn |  | Автозаполнение из словаря + PR #1 — черновик, 382/499 (77%), нужна вычитка |
+| `ui_132.csv` | ui | 499 | 14,014 | Siren Warhorn | ✅ | Arelion999 — 45 пустых заполнено, канон имён вычитан (Skimmer/Skritt/Skyscale, 123 строки); сплошная вычитка по смыслу не делалась |
 | `ui_133.csv` | ui | 497 | 19,666 | Slab[s] of the Solid Ocean | ✅ | Автозаполнение из словаря + PR #1 — черновик, 489/497 (98%), нужна вычитка |
 | `ui_134.csv` | ui | 499 | 25,013 | Soldier's Backpack Strap |  | Автозаполнение из словаря + PR #1 — черновик, 489/499 (98%), нужна вычитка |
 | `ui_135.csv` | ui | 489 | 20,944 | Speak to Egan, Kasolov, or Koptev. | ✅ | Автозаполнение из словаря + PR #1 — черновик, 482/489 (99%), нужна вычитка |
@@ -336,7 +336,7 @@
 | `ui_149.csv` | ui | 495 | 31,890 | This panel displays all your available utilit | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_150.csv` | ui | 496 | 15,967 | Throw Jar | ✅ | Автозаполнение из словаря + PR #1 — черновик, 492/496 (99%), нужна вычитка |
 | `ui_151.csv` | ui | 489 | 37,826 | Timekeeper's Harvesting Sickle[s] | ✅ | Магистр Клод, Приорат Дурманд |
-| `ui_152.csv` | ui | 500 | 20,451 | Tower (Neutral)<brx>• 40 points on capture<br | ✅ | Автозаполнение из словаря + PR #1 — черновик, 175/500 (35%), нужна вычитка |
+| `ui_152.csv` | ui | 500 | 20,451 | Tower (Neutral)<brx>• 40 points on capture<br | ✅ | Arelion999 — вычитан: семья Track, форма 2 склонения из запрещённой в верную, номера треков и глагольные прочтения (269 строк) |
 | `ui_153.csv` | ui | 498 | 25,377 | Track[pl:"Copies of Track"] 5: Mountain March |  | Автозаполнение из словаря + PR #1 — черновик, 428/498 (86%), нужна вычитка |
 | `ui_154.csv` | ui | 497 | 20,571 | Tray[s] of Rosemary Bread | ✅ | Автозаполнение из словаря + PR #1 — черновик, 481/497 (97%), нужна вычитка |
 | `ui_155.csv` | ui | 498 | 23,796 | Tyrian Fishing Reward[s] | ✅ | Автозаполнение из словаря + PR #1 — черновик, 488/498 (98%), нужна вычитка |
@@ -346,7 +346,7 @@
 | `ui_159.csv` | ui | 500 | 21,175 | Violent Outburst | ✅ | Автозаполнение из словаря + PR #1 — черновик, 484/500 (97%), нужна вычитка |
 | `ui_160.csv` | ui | 500 | 18,185 | Wanted: Morg |  | Автозаполнение из словаря + PR #1 — черновик, 487/500 (97%), нужна вычитка |
 | `ui_161.csv` | ui | 486 | 42,419 | Wayfinder,I found one of the Oracle Cards aft | ✅ | Магистр Клод, Приорат Дурманд |
-| `ui_162.csv` | ui | 497 | 27,994 | While airborne, rapidly dash forward. |  | Автозаполнение из словаря + PR #1 — черновик, 471/497 (95%), нужна вычитка |
+| `ui_162.csv` | ui | 497 | 27,994 | While airborne, rapidly dash forward. | ✅ | Arelion999 — вычитан: канон White Mantle, ящики с добычей, имена (40 строк) |
 | `ui_163.csv` | ui | 497 | 31,235 | Wisteria Arborscale Skyscale Skin now availab | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_164.csv` | ui | 499 | 33,099 | WvW mission where members must capture an obj | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_165.csv` | ui | 500 | 33,003 | You can't teleport while a player is on the c | ✅ | Магистр Клод, Приорат Дурманд |
@@ -422,10 +422,10 @@
 | `new_066.csv` | new | 500 | 27,046 | I like your Braham miniature. | ✅ | Автозаполнение из словаря + PR #1 — черновик, 53/500 (11%), нужна вычитка |
 | `new_067.csv` | new | 500 | 24,981 | I'll deactivate tailor and become a huntsman. |  | Автозаполнение из словаря + PR #1 — черновик, 55/500 (11%), нужна вычитка |
 | `new_068.csv` | new | 500 | 25,651 | I've got your back. | ✅ | Автозаполнение из словаря + PR #1 — черновик, 30/500 (6%), нужна вычитка |
-| `new_069.csv` | new | 500 | 17,085 | Indeed. Looks like I must've forgotten one. | ✅ | Автозаполнение из словаря + PR #1 — черновик, 32/500 (6%), нужна вычитка |
+| `new_069.csv` | new | 500 | 17,085 | Indeed. Looks like I must've forgotten one. |  | Автозаполнение из словаря + PR #1 — черновик, 32/500 (6%), нужна вычитка |
 | `new_070.csv` | new | 500 | 21,979 | Isn't traveling wonderful? | ✅ | Автозаполнение из словаря + PR #1 — черновик, 36/500 (7%), нужна вычитка |
 | `new_071.csv` | new | 500 | 16,089 | Jora. Mountain Walker, Kinslayer, Curse Break | ✅ | Автозаполнение из словаря + PR #1 — черновик, 24/500 (5%), нужна вычитка |
-| `new_072.csv` | new | 500 | 14,634 | Kill them quickly! | ✅ | Автозаполнение из словаря + PR #1 — черновик, 27/500 (5%), нужна вычитка |
+| `new_072.csv` | new | 500 | 14,634 | Kill them quickly! |  | Автозаполнение из словаря + PR #1 — черновик, 27/500 (5%), нужна вычитка |
 | `new_073.csv` | new | 500 | 14,540 | La gran evasión | ✅ | Автозаполнение из словаря + PR #1 — черновик, 26/500 (5%), нужна вычитка |
 | `new_074.csv` | new | 500 | 18,672 | Let me guess. Trouble? | ✅ | Автозаполнение из словаря + PR #1 — черновик, 31/500 (6%), нужна вычитка |
 | `new_075.csv` | new | 500 | 18,018 | Lionguard Moirin |  | Автозаполнение из словаря + PR #1 — черновик, 44/500 (9%), нужна вычитка |
@@ -730,13 +730,13 @@
 | `ach_002.csv` | ach | 500 | 19,957 | A Season of Merriment |  | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
 | `ach_003.csv` | ach | 500 | 19,086 | Artillery Specialist |  | Автозаполнение из словаря — черновик, 495/500 (99%), нужна вычитка |
 | `ach_004.csv` | ach | 500 | 15,531 | Bolt III: Zap |  | Автозаполнение из словаря — черновик, 498/500 (100%), нужна вычитка |
-| `ach_005.csv` | ach | 500 | 27,500 | Chasing Tales: Warrior Poet |  | Автозаполнение из словаря — черновик, 497/500 (99%), нужна вычитка |
-| `ach_006.csv` | ach | 500 | 29,762 | Complete Return to Whisper in the Dark achiev |  | Автозаполнение из словаря — черновик, 448/500 (90%), нужна вычитка |
+| `ach_005.csv` | ach | 500 | 27,500 | Chasing Tales: Warrior Poet | ✅ | Автозаполнение из словаря — черновик, нужна вычитка; 28 пустых добил Arelion999 |
+| `ach_006.csv` | ach | 500 | 29,762 | Complete Return to Whisper in the Dark achiev | ✅ | Автозаполнение из словаря — черновик, нужна вычитка; 71 пустую добил Arelion999 |
 | `ach_007.csv` | ach | 500 | 33,103 | Complete all of the "Clear out the elementals |  | Автозаполнение из словаря — черновик, 498/500 (100%), нужна вычитка |
 | `ach_008.csv` | ach | 500 | 31,158 | Complete the Shaman's Rookery jumping puzzle  |  | Автозаполнение из словаря — черновик, 498/500 (100%), нужна вычитка |
-| `ach_009.csv` | ach | 500 | 15,270 | Court Is Adjourned |  | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
+| `ach_009.csv` | ach | 500 | 15,270 | Court Is Adjourned | ✅ | Arelion999 — вычитан: топонимы сведены к слою с падежом по предлогу, легендарки в кавычки (121 строка); 25 названий из перевода в слое ещё нет |
 | `ach_010.csv` | ach | 500 | 15,008 | Daily Maguuma Jungle Lumberer |  | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
-| `ach_011.csv` | ach | 500 | 32,596 | Defeat Queen's Gauntlet opponent. |  | Автозаполнение из словаря — черновик, 482/500 (96%), нужна вычитка |
+| `ach_011.csv` | ach | 500 | 32,596 | Defeat Queen's Gauntlet opponent. | ✅ | Arelion999 — вычитан: три формы склонения при счётчике, пустые ячейки, коллизии карт (35 строк); 300 строк с латиницей из слоя оставлены как есть |
 | `ach_012.csv` | ach | 500 | 25,141 | Defeat the grand champion in the Ooze Pit. |  | Автозаполнение из словаря — черновик, 495/500 (99%), нужна вычитка |
 | `ach_013.csv` | ach | 500 | 24,110 | Do not trigger any Gravitational Waves during |  | Автозаполнение из словаря — черновик, 487/500 (97%), нужна вычитка |
 | `ach_014.csv` | ach | 500 | 18,113 | Egg Protector | ✅ | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
@@ -751,13 +751,13 @@
 | `ach_023.csv` | ach | 500 | 23,375 | Open trick-or-treat bags. |  | Автозаполнение из словаря — черновик, 460/500 (92%), нужна вычитка |
 | `ach_024.csv` | ach | 500 | 18,785 | Protector of the Skyward Marches |  | Автозаполнение из словаря — черновик, 492/500 (98%), нужна вычитка |
 | `ach_025.csv` | ach | 500 | 17,328 | Repel the Branded from the Free City of Amnoo |  | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
-| `ach_026.csv` | ach | 500 | 16,731 | Scavenge for supplies times. | ✅ | Автозаполнение из словаря — черновик, 495/500 (99%), нужна вычитка |
+| `ach_026.csv` | ach | 500 | 16,731 | Scavenge for supplies times. | ✅ | Arelion999 — вычитан: канон Skyscale, топонимы, кавычки и точки (110 строк) |
 | `ach_027.csv` | ach | 500 | 20,892 | Slay champion Emperor Mattake near Ancient Ho | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
 | `ach_028.csv` | ach | 500 | 23,891 | Still Waters Run Deep |  | Автозаполнение из словаря — черновик, 482/500 (96%), нужна вычитка |
 | `ach_029.csv` | ach | 500 | 22,648 | Take down tier 1, tier 2, and tier 3 rift hun | ✅ | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
 | `ach_030.csv` | ach | 500 | 21,199 | They honestly thought they picked the winning | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
 | `ach_031.csv` | ach | 500 | 31,614 | Unlock Sunspear skins in your wardrobe by cra |  | Автозаполнение из словаря — черновик, 494/500 (99%), нужна вычитка |
-| `ach_032.csv` | ach | 500 | 21,385 | Visions of the Past: Canach's Lair |  | Автозаполнение из словаря — черновик, 486/500 (97%), нужна вычитка |
+| `ach_032.csv` | ach | 500 | 21,385 | Visions of the Past: Canach's Lair | ✅ | Автозаполнение из словаря — черновик, нужна вычитка; 52 пустых добил Arelion999 |
 | `ach_033.csv` | ach | 466 | 27,919 | Wintersday Skritt Hit V | ✅ | Автозаполнение из словаря — черновик, 466/466 (100%), нужна вычитка |
 | `events_001.csv` | events | 500 | 23,102 | "Assistant Fanatic Remove Specialist" seems l | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
 | `events_002.csv` | events | 500 | 15,029 | Ash Horizon | ✅ | Автозаполнение из словаря — черновик, 497/500 (99%), нужна вычитка |

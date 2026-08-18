@@ -4,10 +4,10 @@ Shaman's Draconic Gauntlets,Драконьи наручи шамана
 Shaman's Draconic Helm,Драконий шлем шамана
 Shaman's Draconic Legs,Драконьи поножи шамана
 Shaman's Draconic Pauldrons,Драконьи наплечники шамана
-Shaman's Einhänder,
-Shaman's Einhänder of Agony,
-Shaman's Einhänder of Bloodlust,
-Shaman's Einhänder of Earth,
+Shaman's Einhänder,Эйнхандер шамана
+Shaman's Einhänder of Agony,Эйнхандер шамана агонии
+Shaman's Einhänder of Bloodlust,Эйнхандер шамана жажды крови
+Shaman's Einhänder of Earth,Эйнхандер шамана земли
 Shaman's Einhänder of the Geomancer,Одноручный меч шамана-геоманта
 Shaman's Emblazoned Boots,Расписные сапоги шамана
 Shaman's Emblazoned Coat,Начертанный плащ шамана
@@ -41,7 +41,7 @@ Shaman's Etched Bulwark of Rage,Выкованный бастион ярости
 Shaman's Etched Bulwark of Vision,"Выгравированный бастион шамана, дарующий прозрение"
 Shaman's Etched Cudgel of Accuracy,Выкованная дубинка шамана с рунами точности
 Shaman's Etched Cudgel of Blood,Шаманский инкрустированный дубинный посох крови
-Shaman's Etched Cudgel of Rage,Шамáнский резной дуби́н я́рости
+Shaman's Etched Cudgel of Rage,Гравированная дубина шамана ярости
 Shaman's Etched Cudgel of Vision,Шаманский резной посох провидца
 Shaman's Etched Greatbow of Accuracy,"Большой лук шамана с руническими узорами, увеличивающий точность."
 Shaman's Etched Greatbow of Blood,Большой лук шамана с кровавым узором
@@ -72,8 +72,8 @@ Shaman's Etched Short Bow of Blood,Короткий лук шамана с кр�
 Shaman's Etched Short Bow of Rage,Короткий лук шамана ярости с руническими узорами
 Shaman's Etched Short Bow of Vision,Короткий лук шамана с рунами предвидения
 Shaman's Etched Skeggox of Accuracy,Выгравированный шлем шамана скэггокс точности
-Shaman's Etched Skeggox of Blood,Выкованный шаманом шкурник скэггокс из крови
-Shaman's Etched Skeggox of Rage,"Выкованный шаманом шкурник ""Ярость"""
+Shaman's Etched Skeggox of Blood,Выкованный шаманом скеггокс скэггокс из крови
+Shaman's Etched Skeggox of Rage,Гравированный скеггокс шамана ярости
 Shaman's Etched Skeggox of Vision,Шаманский резной скиггокс провидения
 Shaman's Etched Sledgehammer of Accuracy,Выкованный молот шамана с рунами точности
 Shaman's Etched Sledgehammer of Blood,Выкованный молот шамана из крови
@@ -208,43 +208,43 @@ Shaman's Pearl Handcannon,Жемчужный ручной пулемёт шам�
 Shaman's Pearl Impaler,Жемчужный пронзатель шамана
 Shaman's Pearl Needler,Жемчужная игла шамана
 Shaman's Pearl Quarterstaff,Жезл шамана из жемчуга
-Shaman's Pearl Reaver,Жемчужная сабля шамана
+Shaman's Pearl Reaver,Жемчужный жнец шамана
 Shaman's Pearl Rod,Жемчужный посох шамана
 Shaman's Pearl Sabre,Жемчужная сабля шамана
-Shaman's Pearl Shell,Жемчужная раковина шамана
+Shaman's Pearl Shell,Жемчужная ракушка шамана
 Shaman's Pearl Siren,Жемчужная сирена шамана
 Shaman's Pearl Speargun,Жемчужный гарпун шамана
 Shaman's Pearl Stinger,Жемчужный жалодел шамана
 Shaman's Pearl Trident,Жемчужный трезубец шамана
-Shaman's Privateer Boots,Сапоги частного корсара шамана
-Shaman's Privateer Boots of Hoelbrak,Частные кожаные сапоги шамана из Хёльбрака
-Shaman's Privateer Boots of Lyssa,Частные сапоги лиссанского шамана
+Shaman's Privateer Boots,Сапоги капера шамана
+Shaman's Privateer Boots of Hoelbrak,Каперские кожаные сапоги шамана из Хёльбрака
+Shaman's Privateer Boots of Lyssa,Сапоги капера шамана Лиссы
 Shaman's Privateer Boots of Melandru,Сапоги пирата-шамана Меландру
-Shaman's Privateer Boots of the Flock,"Частные кожаные сапоги шамана ""Стая"""
+Shaman's Privateer Boots of the Flock,Каперские кожаные сапоги шамана «Стая»
 Shaman's Privateer Coat,Шляпа шамана
-Shaman's Privateer Coat of Hoelbrak,Шуба частного судовладельца Хоэльбрака (шаман)
+Shaman's Privateer Coat of Hoelbrak,Куртка капера шамана Хоэльбрака
 Shaman's Privateer Coat of Infiltration,Личная кожаная куртка шамана для скрытных операций
-Shaman's Privateer Coat of Rage,"Личная куртка шамана ""Ярость"""
+Shaman's Privateer Coat of Rage,Куртка капера шамана «Ярость»
 Shaman's Privateer Coat of Strength,Штормовая куртка шамана
-Shaman's Privateer Gloves,Перчатки частного штурмана шамана
+Shaman's Privateer Gloves,Перчатки капера шамана
 Shaman's Privateer Gloves of Balthazar,Перчатки пирата-шамана из Бхалтазара
-Shaman's Privateer Gloves of Melandru,Перчатки шамана-корсара Меландру
-Shaman's Privateer Gloves of Rata Sum,Перчатки шамана-корсара из Рата Сум
-Shaman's Privateer Gloves of the Flock,"Перчатки частного штормового шамана ""Стая"""
+Shaman's Privateer Gloves of Melandru,Перчатки капера шамана Меландру
+Shaman's Privateer Gloves of Rata Sum,Перчатки капера шамана из Рата Сум
+Shaman's Privateer Gloves of the Flock,Перчатки капера шамана «Стая»
 Shaman's Privateer Hat,Шляпа шамана-капитана
 Shaman's Privateer Hat of Divinity,Личная треуголка шамана из Божественного Предела
 Shaman's Privateer Hat of the Citadel,Шляпа цитадельного шамана-капера
 Shaman's Privateer Hat of the Flame Legion,Шляпа пирата-шамана Легиона Пламени
-Shaman's Privateer Pants,"Штаны ""Частный корсар"" шамана"
-Shaman's Privateer Pants of Grenth,"Штаны ""Частный Корсар"" Шамана из Грента"
+Shaman's Privateer Pants,Штаны «капер» шамана
+Shaman's Privateer Pants of Grenth,Штаны «капер» Шамана из Грента
 Shaman's Privateer Pants of Lyssa,Штаны лиссанского пирата-шамана
-Shaman's Privateer Pants of Melandru,Штаны шамана-корсара Меландру
-Shaman's Privateer Pants of the Afflicted,Штаны шамана-корсара из числа поражённых
-Shaman's Privateer Shoulders,"Плечи ""Частный корсар шамана"""
-Shaman's Privateer Shoulders of Mercy,"Плечи ""Милосердие шамана"" (Частный отряд)"
-Shaman's Privateer Shoulders of Rata Sum,Плечи шамана-корсара из Рата Сум
-Shaman's Privateer Shoulders of the Eagle,"Плечи шамана-корсара ""Орлиное перо"""
-Shaman's Privateer Shoulders of the Lich,Плечи шамана-корсара из Лича
+Shaman's Privateer Pants of Melandru,Штаны капера шамана Меландру
+Shaman's Privateer Pants of the Afflicted,Штаны капера шамана из числа поражённых
+Shaman's Privateer Shoulders,Плечи «капер шамана»
+Shaman's Privateer Shoulders of Mercy,Плечи «Милосердие шамана» (капер)
+Shaman's Privateer Shoulders of Rata Sum,Плечи капера шамана из Рата Сум
+Shaman's Privateer Shoulders of the Eagle,Плечи капера шамана «Орлиное перо»
+Shaman's Privateer Shoulders of the Lich,Плечи капера шамана из Лича
 Shaman's Reclaimed Axe,Топор шамана
 Shaman's Reclaimed Axe of Earth,"Топор Земли, возвращённый шаманом"
 Shaman's Reclaimed Dagger,Восстановленный кинжал шамана
@@ -291,7 +291,7 @@ Shaman's Reinforced Scale Gauntlets,Усиленные чешуйчатые на
 Shaman's Reinforced Scale Gauntlets of Hoelbrak,Усиленные чешуйчатые наручи шамана из Хёльбрака
 Shaman's Reinforced Scale Gauntlets of Melandru,Укреплённые чешуйчатые наручи Меландру шамана
 Shaman's Reinforced Scale Gauntlets of Scavenging,Усиленные чешуйчатые наручи шамана с бонусом к сбору
-Shaman's Reinforced Scale Gauntlets of the Flock,"Усиленные чешуйчатые наручи шамана ""Стая"""
+Shaman's Reinforced Scale Gauntlets of the Flock,Усиленные чешуйчатые наручи шамана «Стая»
 Shaman's Reinforced Scale Helm,Усиленный чешуйчатый шлем шамана
 Shaman's Reinforced Scale Helm of Hoelbrak,Усиленный чешуйчатый шлем шамана из Хёльбрака
 Shaman's Reinforced Scale Helm of the Citadel,Усиленный чешуйчатый шлем цитадели шамана
@@ -304,7 +304,7 @@ Shaman's Reinforced Scale Legs of Vampirism,Усиленные чешуйчат�
 Shaman's Reinforced Scale Pauldrons,Усиленные плечевые накладки шамана
 Shaman's Reinforced Scale Pauldrons of Divinity,Усиленные плечевые накладки шамана из божественной чешуи
 Shaman's Reinforced Scale Pauldrons of Hoelbrak,Усиленные чешуйчатые наплечники шамана из Хёльбрака
-Shaman's Reinforced Scale Pauldrons of the Pack,"Усиленные плечевые накладки шамана из клана ""Стая"""
+Shaman's Reinforced Scale Pauldrons of the Pack,Усиленные плечевые накладки шамана из клана «Стая»
 Shaman's Reinforced Scale Pauldrons of the Traveler,Усиленные плечевые накладки из чешуи шамана Путешественника
 Shaman's Ring,Кольцо шамана
 Shaman's Rogue Coat of Hoelbrak,Шаманская кожаная куртка из Хёльбрака
@@ -320,20 +320,20 @@ Shaman's Rogue Pauldrons of Dwayna,Наплечники Шамана-Разбо�
 Shaman's Rogue Pauldrons of Hoelbrak,Плечевые покровы шамана-вора из Хёльбрака
 Shaman's Rogue Pauldrons of the Traveler,"Наплечники странника, украшенные шаманскими узорами"
 Shaman's Scallywag Chest of Divinity,Сундук шамана-негодяя из Божественного Предела
-Shaman's Scallywag Chest of the Dolyak,"Сундук шамана-мошенника ""Дольяк"""
-Shaman's Scallywag Gauntlets,"Перчатки ""Шаманский сорвиголова"""
+Shaman's Scallywag Chest of the Dolyak,Сундук шамана-мошенника «Дольяк»
+Shaman's Scallywag Gauntlets,Перчатки «Шаманский сорвиголова»
 Shaman's Scallywag Gauntlets of the Centaur,Наручи шамана-негодяя кентавра
-Shaman's Scallywag Gauntlets of the Flock,"Наручи шамана-негодяя ""Стайный зов"""
-Shaman's Scallywag Greaves of Dwayna,"Наголенники ""Хитроумный шаман"" Двайны"
-Shaman's Scallywag Greaves of the Flame Legion,"Поножи ""Шустрый шаман"" Легиона Пламени"
-Shaman's Scallywag Helm,"Шлем ""Шаманский сорвиголова"""
+Shaman's Scallywag Gauntlets of the Flock,Наручи шамана-негодяя «Стайный зов»
+Shaman's Scallywag Greaves of Dwayna,Наголенники «Хитроумный шаман» Двайны
+Shaman's Scallywag Greaves of the Flame Legion,Поножи «Шустрый шаман» Легиона Пламени
+Shaman's Scallywag Helm,Шлем «Шаманский сорвиголова»
 Shaman's Scallywag Helm of the Flock,Шлем шамана-негодяя из стаи
 Shaman's Scallywag Helm of Vampirism,Шлем шамана-негодяя вампира
-Shaman's Scallywag Legs,"Штаны ""Шаманский сорвиголова"""
-Shaman's Scallywag Legs of the Traveler,"Штаны ""Шаманский пройдоха"" для путешественника"
-Shaman's Scallywag Legs of Vampirism,"Штаны ""Шаманский разбойник"" с вампиризмом"
-Shaman's Scallywag Pauldrons of Strength,"Наплечники ""Шаманский разбойник"" силы"
-Shaman's Scallywag Pauldrons of Vampirism,"Наплечники ""Шаманский разбойник"" с вампиризмом"
+Shaman's Scallywag Legs,Штаны «Шаманский сорвиголова»
+Shaman's Scallywag Legs of the Traveler,Штаны «Шаманский пройдоха» для путешественника
+Shaman's Scallywag Legs of Vampirism,Штаны «Шаманский разбойник» с вампиризмом
+Shaman's Scallywag Pauldrons of Strength,Наплечники «Шаманский разбойник» силы
+Shaman's Scallywag Pauldrons of Vampirism,Наплечники «Шаманский разбойник» с вампиризмом
 Shaman's Seer Boots of the Dolyak,Сапоги шамана-провидца из шкуры дольяка
 Shaman's Seer Boots of the Flame Legion,Сапоги шамана-провидца Легиона Пламени
 Shaman's Seer Coat of Divinity,Мантия провидца шамана божественной силы
@@ -349,107 +349,107 @@ Shaman's Seer Mask of the Flame Legion,Маска шамана-провидца 
 Shaman's Seer Pants,Штаны шаманского провидца
 Shaman's Seer Pants of the Dolyak,Штаны шамана-провидца из шкуры дольяка
 Shaman's Seer Pants of Vampirism,Штаны шамана-провидца вампиризма
-Shaman's Shiverpeak Arquebus,Аркебус шамана Ледяного пика
-Shaman's Shiverpeak Arquebus of Agony,"Аркебуз шамана из Ледяных вершин, несущий агонию"
-Shaman's Shiverpeak Arquebus of Bloodlust,"Аркебус шамана из Ледяных пиков, пробуждающий жажду крови"
-Shaman's Shiverpeak Arquebus of Earth,Аркебуз Земли шамана Шиверпика
-Shaman's Shiverpeak Arquebus of the Geomancer,Аркебус шамана из Ледяных пиков геоманта
-Shaman's Shiverpeak Beacon,"Маяк Шэмана, возвышающийся над Шиверпиком"
-Shaman's Shiverpeak Beacon of Agony,Шаманский маяк Агонии в Ледяных Вершинах
+Shaman's Shiverpeak Arquebus,Аркебус шамана Дрожащих гор
+Shaman's Shiverpeak Arquebus of Agony,"Аркебуз шамана из Дрожащих гор, несущий агонию"
+Shaman's Shiverpeak Arquebus of Bloodlust,"Аркебус шамана из Дрожащих гор, пробуждающий жажду крови"
+Shaman's Shiverpeak Arquebus of Earth,Аркебуз Земли шамана Дрожащих гор
+Shaman's Shiverpeak Arquebus of the Geomancer,Аркебус шамана из Дрожащих гор геоманта
+Shaman's Shiverpeak Beacon,"Маяк Шэмана, возвышающийся над Дрожащие горыом"
+Shaman's Shiverpeak Beacon of Agony,Шаманский маяк Агонии в Дрожащих горах
 Shaman's Shiverpeak Beacon of Bloodlust,Маяк Кровавой Жажды шамана
-Shaman's Shiverpeak Beacon of Earth,"Маяк Земли шамана, расположенный в Ледяных вершинах"
-Shaman's Shiverpeak Beacon of the Geomancer,Маяк геоманта в Ледяных вершинах шаманов
-Shaman's Shiverpeak Bow,Лук Шамана из Ледяных Вершин
-Shaman's Shiverpeak Bow of Agony,"Лук Шамана из Ледяных Вершин, несущий агонию"
-Shaman's Shiverpeak Bow of Bloodlust,"Лук шамана из Ледяной Вершины, дарующий жажду крови"
-Shaman's Shiverpeak Bow of Earth,Лук Земли шамана Шиверпика
-Shaman's Shiverpeak Bow of the Geomancer,Лук шамана из Ледяных пиков геоманта
-Shaman's Shiverpeak Club,Клуб шаманов Ледяного пика
-Shaman's Shiverpeak Club of Agony,"Клуб агонии ""Шиверпик"" шамана"
-Shaman's Shiverpeak Club of Bloodlust,"Клуб ""Шиверпик"" шаманов клана Кровавой Жажды"
-Shaman's Shiverpeak Club of Earth,Клуб Земли шамана Шиверпик
-Shaman's Shiverpeak Club of the Geomancer,"Клуб геомантов ""Дрожь Шиверпика"""
-Shaman's Shiverpeak Dirk,Кинжал шамана из Ледяной Вершины
-Shaman's Shiverpeak Dirk of Agony,Кинжал агонии шамана Шиверпика
-Shaman's Shiverpeak Dirk of Bloodlust,"Широкий кинжал шамана из Шиверпика, пробуждающий жажду крови."
-Shaman's Shiverpeak Dirk of Earth,Кинжал шамана из Ледяного пика
-Shaman's Shiverpeak Dirk of the Geomancer,Широкий кинжал шамана из Ледяной Вершины геоманта
-Shaman's Shiverpeak Handcannon,Ручная пушка шамана из Ледяного пика
-Shaman's Shiverpeak Handcannon of Agony,"Ручная пушка шамана из Ледяного пика, несущая агонию"
-Shaman's Shiverpeak Handcannon of Bloodlust,"Ручная пушка шамана из Ледяной Вершины, пробуждающая жажду крови."
-Shaman's Shiverpeak Handcannon of Earth,"Ручной пулемёт шамана из Ледяных пиков, стихия Земли"
-Shaman's Shiverpeak Handcannon of the Geomancer,Ручная пушка шамана из Ледяного пика геоманта
-Shaman's Shiverpeak Hatchet,Топор шамана из Ледяных вершин
-Shaman's Shiverpeak Hatchet of Agony,Топор агонии шамана Шиверпика
-Shaman's Shiverpeak Hatchet of Air,"Топор шамана из Ледяного пика, дарующий силу воздуха"
-Shaman's Shiverpeak Hatchet of Bloodlust,"Топор шамана из Ледяной Вершины, дарующий жажду крови."
-Shaman's Shiverpeak Hatchet of Earth,Топор Земли шамана Шиверпика
-Shaman's Shiverpeak Maul,Топор шамана из Ледяных пиков
+Shaman's Shiverpeak Beacon of Earth,"Маяк Земли шамана, расположенный в Дрожащих горах"
+Shaman's Shiverpeak Beacon of the Geomancer,Маяк геоманта в Дрожащих горах шаманов
+Shaman's Shiverpeak Bow,Лук Шамана из Дрожащих гор
+Shaman's Shiverpeak Bow of Agony,"Лук Шамана из Дрожащих гор, несущий агонию"
+Shaman's Shiverpeak Bow of Bloodlust,"Лук шамана из Дрожащих гор, дарующий жажду крови"
+Shaman's Shiverpeak Bow of Earth,Лук Земли шамана Дрожащих гор
+Shaman's Shiverpeak Bow of the Geomancer,Лук шамана из Дрожащих гор геоманта
+Shaman's Shiverpeak Club,Клуб шаманов Дрожащих гор
+Shaman's Shiverpeak Club of Agony,Клуб агонии «Дрожащие горы» шамана
+Shaman's Shiverpeak Club of Bloodlust,Клуб «Дрожащие горы» шаманов клана Кровавой Жажды
+Shaman's Shiverpeak Club of Earth,Клуб Земли шамана Дрожащие горы
+Shaman's Shiverpeak Club of the Geomancer,Клуб геомантов «Дрожь Дрожащих гор»
+Shaman's Shiverpeak Dirk,Кинжал шамана Дрожащих гор
+Shaman's Shiverpeak Dirk of Agony,Кинжал агонии шамана Дрожащих гор
+Shaman's Shiverpeak Dirk of Bloodlust,"Широкий кинжал шамана из Дрожащих гор, пробуждающий жажду крови."
+Shaman's Shiverpeak Dirk of Earth,Кинжал шамана Дрожащих гор земли
+Shaman's Shiverpeak Dirk of the Geomancer,Широкий кинжал шамана из Дрожащих гор геоманта
+Shaman's Shiverpeak Handcannon,Ручная пушка шамана из Дрожащих гор
+Shaman's Shiverpeak Handcannon of Agony,"Ручная пушка шамана из Дрожащих гор, несущая агонию"
+Shaman's Shiverpeak Handcannon of Bloodlust,"Ручная пушка шамана из Дрожащих гор, пробуждающая жажду крови."
+Shaman's Shiverpeak Handcannon of Earth,"Ручной пулемёт шамана из Дрожащих гор, стихия Земли"
+Shaman's Shiverpeak Handcannon of the Geomancer,Ручная пушка шамана из Дрожащих гор геоманта
+Shaman's Shiverpeak Hatchet,Топорик шамана Дрожащих гор
+Shaman's Shiverpeak Hatchet of Agony,Топор агонии шамана Дрожащих гор
+Shaman's Shiverpeak Hatchet of Air,"Топор шамана из Дрожащих гор, дарующий силу воздуха"
+Shaman's Shiverpeak Hatchet of Bloodlust,"Топор шамана из Дрожащих гор, дарующий жажду крови."
+Shaman's Shiverpeak Hatchet of Earth,Топор Земли шамана Дрожащих гор
+Shaman's Shiverpeak Maul,Молот шамана Дрожащих гор
 Shaman's Shiverpeak Maul of Agony,Шипещий молот агонии шамана
-Shaman's Shiverpeak Maul of Bloodlust,"Топор шамана из Ледяного пика, пробуждающий жажду крови."
-Shaman's Shiverpeak Maul of Earth,Широкоборт Шамана из Ледяных Вершин
-Shaman's Shiverpeak Maul of the Geomancer,"Шаманский молот ""Ледяной пик"" геоманта"
-Shaman's Shiverpeak Shield,Щит шамана из Ледяной Вершины
-Shaman's Shiverpeak Shield of Agony,Щит Агонии шамана Шиверпика
-Shaman's Shiverpeak Shield of Bloodlust,"Щит Шэмана из Ледяной Вершины, дарующий жажду крови"
-Shaman's Shiverpeak Shield of Earth,Щит Земли шамана Шиверпика
-Shaman's Shiverpeak Shield of the Geomancer,Щит шамана из Ледяной Вершины геоманта
-Shaman's Shiverpeak Short Bow,Короткий лук шамана из Ледяных пиков
-Shaman's Shiverpeak Short Bow of Agony,"Короткий лук из Ледяной Вершины шамана, несущий агонию"
-Shaman's Shiverpeak Short Bow of Bloodlust,"Короткий лук из Шиверпика шамана, дарующий жажду крови."
+Shaman's Shiverpeak Maul of Bloodlust,"Топор шамана из Дрожащих гор, пробуждающий жажду крови."
+Shaman's Shiverpeak Maul of Earth,Широкоборт Шамана из Дрожащих гор
+Shaman's Shiverpeak Maul of the Geomancer,Молот шамана Дрожащих гор геоманта
+Shaman's Shiverpeak Shield,Щит шамана из Дрожащих гор
+Shaman's Shiverpeak Shield of Agony,Щит Агонии шамана Дрожащих гор
+Shaman's Shiverpeak Shield of Bloodlust,"Щит Шэмана из Дрожащих гор, дарующий жажду крови"
+Shaman's Shiverpeak Shield of Earth,Щит Земли шамана Дрожащих гор
+Shaman's Shiverpeak Shield of the Geomancer,Щит шамана из Дрожащих гор геоманта
+Shaman's Shiverpeak Short Bow,Короткий лук шамана из Дрожащих гор
+Shaman's Shiverpeak Short Bow of Agony,"Короткий лук из Дрожащих гор шамана, несущий агонию"
+Shaman's Shiverpeak Short Bow of Bloodlust,"Короткий лук из Дрожащих гор шамана, дарующий жажду крови."
 Shaman's Shiverpeak Short Bow of Earth,Короткий лук из ледяных пиков шамана земли
-Shaman's Shiverpeak Short Bow of the Geomancer,Короткий лук шамана из Ледяных вершин геоманта
-Shaman's Shiverpeak Speargun,Копьё шамана из Ледяных пиков
-Shaman's Shiverpeak Speargun of Agony,Копьё агонии шамана из Ледяных пиков
-Shaman's Shiverpeak Speargun of Bloodlust,"Копьё шамана из Ледяного пика, дарующее жажду крови"
-Shaman's Shiverpeak Speargun of Earth,Копьё шамана из Ледяного пика (Земля)
-Shaman's Shiverpeak Speargun of the Geomancer,Копьё шамана из Ледяной Вершины геоманта
-Shaman's Shiverpeak Staff,Посох шамана из Ледяной Вершины
-Shaman's Shiverpeak Staff of Agony,Посох агонии шамана Шиверпика
-Shaman's Shiverpeak Staff of Bloodlust,"Посох шамана из Ледяного пика, пробуждающая жажду крови"
-Shaman's Shiverpeak Staff of Earth,Посох Земли шамана из Шиверпика
-Shaman's Shiverpeak Staff of the Geomancer,Посох шамана из Ледяной Вершины геоманта
-Shaman's Shiverpeak Talisman,Талисман шамана из Ледяной Вершины
-Shaman's Shiverpeak Talisman of Agony,Талисман агонии шамана Ледяного пика
-Shaman's Shiverpeak Talisman of Bloodlust,"Талисман шамана из Ледяных пиков, дарующий жажду крови."
-Shaman's Shiverpeak Talisman of Earth,Талисман Земли шамана Шиверпика
-Shaman's Shiverpeak Talisman of the Geomancer,Талисман геоманта из Шиверпика шамана
-Shaman's Shiverpeak Trident,Трезубец шамана из Ледяной Вершины
-Shaman's Shiverpeak Trident of Agony,Трезубец агонии шамана Шиверпика
-Shaman's Shiverpeak Trident of Bloodlust,"Трезубец шамана из Ледяной Вершины, пробуждающий жажду крови."
-Shaman's Shiverpeak Trident of Earth,Трезубец Земли шамана Шиверпика
-Shaman's Shiverpeak Trident of the Geomancer,Трезубец геоманта из Ледяной Вершины шамана
-Shaman's Shiverpeak Wand,Посох шамана из Ледяной Вершины
-Shaman's Shiverpeak Wand of Agony,Посох агонии шамана Шиверпика
-Shaman's Shiverpeak Wand of Bloodlust,Посох жажды крови шамана Шиверпика
-Shaman's Shiverpeak Wand of Earth,Жезл Земли шамана из Ледяных пиков
-Shaman's Shiverpeak Wand of the Geomancer,Посох геоманта из Ледяной Вершины шамана
-Shaman's Shiverpeak Warhorn,Военный рог шамана Шиверпика
-Shaman's Shiverpeak Warhorn of Agony,Военный рог агонии шамана Шиверпика
-Shaman's Shiverpeak Warhorn of Bloodlust,"Военный рог шамана из Ледяных вершин, пробуждающий жажду крови."
-Shaman's Shiverpeak Warhorn of Earth,Военный рог Земли шамана Шиверпика
-Shaman's Shiverpeak Warhorn of the Geomancer,"Военный рог шамана ""Ледяной пик"" геоманта"
+Shaman's Shiverpeak Short Bow of the Geomancer,Короткий лук шамана из Дрожащих гор геоманта
+Shaman's Shiverpeak Speargun,Копьё шамана из Дрожащих гор
+Shaman's Shiverpeak Speargun of Agony,Копьё агонии шамана из Дрожащих гор
+Shaman's Shiverpeak Speargun of Bloodlust,"Копьё шамана из Дрожащих гор, дарующее жажду крови"
+Shaman's Shiverpeak Speargun of Earth,Копьё шамана из Дрожащих гор (Земля)
+Shaman's Shiverpeak Speargun of the Geomancer,Копьё шамана из Дрожащих гор геоманта
+Shaman's Shiverpeak Staff,Посох шамана из Дрожащих гор
+Shaman's Shiverpeak Staff of Agony,Посох агонии шамана Дрожащих гор
+Shaman's Shiverpeak Staff of Bloodlust,"Посох шамана из Дрожащих гор, пробуждающая жажду крови"
+Shaman's Shiverpeak Staff of Earth,Посох Земли шамана из Дрожащих гор
+Shaman's Shiverpeak Staff of the Geomancer,Посох шамана из Дрожащих гор геоманта
+Shaman's Shiverpeak Talisman,Талисман шамана из Дрожащих гор
+Shaman's Shiverpeak Talisman of Agony,Талисман агонии шамана Дрожащих гор
+Shaman's Shiverpeak Talisman of Bloodlust,"Талисман шамана из Дрожащих гор, дарующий жажду крови."
+Shaman's Shiverpeak Talisman of Earth,Талисман Земли шамана Дрожащих гор
+Shaman's Shiverpeak Talisman of the Geomancer,Талисман геоманта из Дрожащих гор шамана
+Shaman's Shiverpeak Trident,Трезубец шамана из Дрожащих гор
+Shaman's Shiverpeak Trident of Agony,Трезубец агонии шамана Дрожащих гор
+Shaman's Shiverpeak Trident of Bloodlust,"Трезубец шамана из Дрожащих гор, пробуждающий жажду крови."
+Shaman's Shiverpeak Trident of Earth,Трезубец Земли шамана Дрожащих гор
+Shaman's Shiverpeak Trident of the Geomancer,Трезубец геоманта из Дрожащих гор шамана
+Shaman's Shiverpeak Wand,Жезл шамана Дрожащих гор
+Shaman's Shiverpeak Wand of Agony,Жезл шамана Дрожащих гор агонии
+Shaman's Shiverpeak Wand of Bloodlust,Посох жажды крови шамана Дрожащих гор
+Shaman's Shiverpeak Wand of Earth,Жезл Земли шамана из Дрожащих гор
+Shaman's Shiverpeak Wand of the Geomancer,Посох геоманта из Дрожащих гор шамана
+Shaman's Shiverpeak Warhorn,Военный рог шамана Дрожащих гор
+Shaman's Shiverpeak Warhorn of Agony,Военный рог агонии шамана Дрожащих гор
+Shaman's Shiverpeak Warhorn of Bloodlust,"Военный рог шамана из Дрожащих гор, пробуждающий жажду крови."
+Shaman's Shiverpeak Warhorn of Earth,Военный рог Земли шамана Дрожащих гор
+Shaman's Shiverpeak Warhorn of the Geomancer,Боевой рог шамана Дрожащих гор геоманта
 Shaman's Sneakthief Coat of the Centaur,Плащ шамана-ворюги из клана Кентавр
 Shaman's Sneakthief Gloves,Перчатки скрытного шамана
-Shaman's Sneakthief Gloves of Mercy,"Перчатки хитрого шамана ""Милосердие"""
+Shaman's Sneakthief Gloves of Mercy,Перчатки хитрого шамана «Милосердие»
 Shaman's Sneakthief Gloves of the Pack,Перчатки скрытного шамана из стаи
-Shaman's Sneakthief Leggings,"Леггинсы ""Скрытный шаман"""
-Shaman's Sneakthief Leggings of the Dolyak,"Леггинсы ""Скрытный шаман"" из шкуры дольяка."
-Shaman's Sneakthief Leggings of the Pack,"Леггинсы ""Скрытный шаман"" из комплекта ""Стая"""
+Shaman's Sneakthief Leggings,Леггинсы «Скрытный шаман»
+Shaman's Sneakthief Leggings of the Dolyak,Леггинсы «Скрытный шаман» из шкуры дольяка.
+Shaman's Sneakthief Leggings of the Pack,Леггинсы «Скрытный шаман» из комплекта «Стая»
 Shaman's Sneakthief Mask,Маска тайного вора шамана
 Shaman's Sneakthief Mask of Melandru,Маска Шэмана-Скрытника Меландру
 Shaman's Sneakthief Mask of the Grove,Маска тайного вора из рощи шамана
-Shaman's Sneakthief Sandals of the Flock,"Сандалии ""Скрытный шаман"" из стаи"
+Shaman's Sneakthief Sandals of the Flock,Сандалии «Скрытный шаман» из стаи
 Shaman's Sneakthief Sandals of the Traveler,Сандалии Скрытного Шамана Путешественника
-Shaman's Sneakthief Shoulderguards of Divinity,"Наплечники ""Скрытный вор"" из Божественного Предела"
-Shaman's Sneakthief Shoulderguards of the Flock,"Наплечники шамана-ворчуна ""Стая"""
+Shaman's Sneakthief Shoulderguards of Divinity,Наплечники «Скрытный вор» из Божественного Предела
+Shaman's Sneakthief Shoulderguards of the Flock,Наплечники шамана-ворчуна «Стая»
 Shaman's Stormforged Axe,"Топор шамана, выкованный в буре"
 Shaman's Stormforged Dagger,Штормокованный кинжал шамана
 Shaman's Stormforged Focus,Шаманский штормокованный фокус
 Shaman's Stormforged Greatsword,"Великий меч шамана, выкованный в буре"
 Shaman's Stormforged Hammer,Молот штормового кузнеца шамана
 Shaman's Stormforged Longbow,"Длинный лук шамана, выкованный во время бури"
-Shaman's Stormforged Mace,Штормокованный посох шамана
+Shaman's Stormforged Mace,Штормокованная булава шамана
 Shaman's Stormforged Pistol,Штормокованный пистолет шамана
 Shaman's Stormforged Rifle,Штурмовая винтовка шамана
 Shaman's Stormforged Scepter,Штормокованный скипетр шамана
@@ -460,10 +460,10 @@ Shaman's Stormforged Sword,"Клинок шамана, закалённый бу
 Shaman's Stormforged Torch,Факел штормового кузнеца шамана
 Shaman's Stormforged Warhorn,"Военный рог шамана, выкованный в буре"
 Shaman's Vision,Видение шамана
-Shaman's Zweihänder,
-Shaman's Zweihänder of Agony,
-Shaman's Zweihänder of Bloodlust,
-Shaman's Zweihänder of Earth,
+Shaman's Zweihänder,Цвайхендер шамана
+Shaman's Zweihänder of Agony,Цвайхендер шамана агонии
+Shaman's Zweihänder of Bloodlust,Цвайхендер шамана жажды крови
+Shaman's Zweihänder of Earth,Цвайхендер шамана земли
 Shaman's Zweihänder of the Geomancer,Двуручный меч шамана-геоманта
 Shank Breastplate,Нагрудник Шанка
 Shank Coat,Куртка Шанка
@@ -474,7 +474,7 @@ Shank Sword,Меч Шанка
 Shard o' War,Осколок войны
 Shard of Arah,Осколок Араха
 Shard of Bava Nisos,Осколок Бава-Нисоса
-Shard of Call of the Void,"Осколок ""Зов Бездны"""
+Shard of Call of the Void,Осколок «Зов Бездны»
 Shard of Crystal,Осколок кристалла
 Shard of Crystallized Blood of Jormag,Осколок кристаллизованной крови Йормаги
 Shard of Crystallized Mists Essence,Осколок кристаллизованной эссенции Туманов
