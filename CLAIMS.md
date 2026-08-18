@@ -1,6 +1,6 @@
 # Батчи перевода GW2 RU — доска захвата
 
-Всего батчей: **996** | строк: **472,234** | заполнено: **454,078** (96.2%), пусто **18,156** | вычитано человеком: **67,408** (14.3%).
+Всего батчей: **996** | строк: **472,033** | заполнено: **455,905** (96.6%), пусто **16,128** | вычитано человеком: **69,235** (14.7%).
 
 > Чтобы забиндить батч — впиши свой ник и поставь 🔨 (в работе). Готово → ✅ + ссылка на файл/PR.
 >
@@ -959,7 +959,7 @@
 | `new_129.csv` | new | 500 | 19,835 | Armes | ✅ | K13or |
 | `new_130.csv` | new | 500 | 36,225 | Baril vide | ✅ | K13or |
 | `new_131.csv` | new | 500 | 18,658 | Bonus en cours : Chances de réaliser un criti | ✅ | K13or |
-| `new_132.csv` | new | 500 | 19,569 | Can we go back, please? |  |  |
+| `new_132.csv` | new | 500 | 19,569 | Can we go back, please? | ✅ | K13or |
 | `new_133.csv` | new | 500 | 20,832 | Check back often, as we discover new weapons, |  |  |
 | `new_134.csv` | new | 500 | 16,139 | Conteur[f:"Conteuse"] : Balthazar |  |  |
 | `new_135.csv` | new | 500 | 22,048 | Daze • Stun • Bleed |  |  |
@@ -1004,7 +1004,7 @@
 | `new_174.csv` | new | 500 | 14,044 | [M]Explorateur Pattefer |  |  |
 | `new_175.csv` | new | 500 | 15,182 | [M]Plafonnier kodan |  |  |
 | `new_176.csv` | new | 221 | 7,207 | d'absorption |  |  |
-| `new_177.csv` | new | 500 | 24,441 | "RC Golem chess"? |  |  |
-| `new_178.csv` | new | 500 | 27,380 | I don't think it's quite as simple as that. T |  |  |
-| `new_179.csv` | new | 500 | 28,200 | Recipe[s]: Wanderer's Emblazoned Helm |  |  |
-| `new_180.csv` | new | 138 | 8,238 | What do you know about the Blood Legion? |  |  |
+| `new_177.csv` | new | 500 | 24,441 | "RC Golem chess"? | ✅ | K13or |
+| `new_178.csv` | new | 500 | 27,380 | I don't think it's quite as simple as that. T | ✅ | K13or |
+| `new_179.csv` | new | 500 | 28,200 | Recipe[s]: Wanderer's Emblazoned Helm | ✅ | K13or |
+| `new_180.csv` | new | 138 | 8,238 | What do you know about the Blood Legion? | ✅ | K13or |
