@@ -1,6 +1,6 @@
 # Батчи перевода GW2 RU — доска захвата
 
-Всего батчей: **992** | строк: **473,623** | заполнено: **452,927** (95.6%), пусто **20,696** | вычитано человеком: **66,255** (14.0%).
+Всего батчей: **992** | строк: **472,490** | заполнено: **454,082** (96.1%), пусто **18,408** | вычитано человеком: **67,410** (14.3%).
 
 > Чтобы забиндить батч — впиши свой ник и поставь 🔨 (в работе). Готово → ✅ + ссылка на файл/PR.
 >
@@ -954,11 +954,11 @@
 | `site_056.csv` | site | 336 | 14,134 | What'd you mean by this being your place? | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
 | `new_125.csv` | new | 500 | 31,403 | "'Rimstone. If you're gonna stare, then stare | ✅ | K13or |
 | `new_126.csv` | new | 500 | 37,671 | 0 clone | ✅ | K13or |
-| `new_127.csv` | new | 500 | 25,767 | Achievement Eligibility: Not Today |  |  |
-| `new_128.csv` | new | 500 | 18,458 | Amulettes |  |  |
-| `new_129.csv` | new | 500 | 19,835 | Armes |  |  |
-| `new_130.csv` | new | 500 | 36,225 | Baril vide |  |  |
-| `new_131.csv` | new | 500 | 18,658 | Bonus en cours : Chances de réaliser un criti |  |  |
+| `new_127.csv` | new | 500 | 25,767 | Achievement Eligibility: Not Today | ✅ | K13or |
+| `new_128.csv` | new | 500 | 18,458 | Amulettes | ✅ | K13or |
+| `new_129.csv` | new | 500 | 19,835 | Armes | ✅ | K13or |
+| `new_130.csv` | new | 500 | 36,225 | Baril vide | ✅ | K13or |
+| `new_131.csv` | new | 500 | 18,658 | Bonus en cours : Chances de réaliser un criti | ✅ | K13or |
 | `new_132.csv` | new | 500 | 19,569 | Can we go back, please? |  |  |
 | `new_133.csv` | new | 500 | 20,832 | Check back often, as we discover new weapons, |  |  |
 | `new_134.csv` | new | 500 | 16,139 | Conteur[f:"Conteuse"] : Balthazar |  |  |
