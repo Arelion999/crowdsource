@@ -1,6 +1,6 @@
 # Батчи перевода GW2 RU — доска захвата
 
-Всего батчей: **992** | строк: **473,623** | заполнено: **453,168** (95.7%), пусто **20,455** | вычитано человеком: **83,935** (17.7%).
+Всего батчей: **996** | строк: **472,033** | заполнено: **456,146** (96.6%), пусто **15,887** | вычитано человеком: **86,915** (18.4%).
 
 > Чтобы забиндить батч — впиши свой ник и поставь 🔨 (в работе). Готово → ✅ + ссылка на файл/PR.
 >
@@ -954,12 +954,12 @@
 | `site_056.csv` | site | 336 | 14,134 | What'd you mean by this being your place? | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
 | `new_125.csv` | new | 500 | 31,403 | "'Rimstone. If you're gonna stare, then stare | ✅ | K13or |
 | `new_126.csv` | new | 500 | 37,671 | 0 clone | ✅ | K13or |
-| `new_127.csv` | new | 500 | 25,767 | Achievement Eligibility: Not Today |  |  |
-| `new_128.csv` | new | 500 | 18,458 | Amulettes |  |  |
-| `new_129.csv` | new | 500 | 19,835 | Armes |  |  |
-| `new_130.csv` | new | 500 | 36,225 | Baril vide |  |  |
-| `new_131.csv` | new | 500 | 18,658 | Bonus en cours : Chances de réaliser un criti |  |  |
-| `new_132.csv` | new | 500 | 19,569 | Can we go back, please? |  |  |
+| `new_127.csv` | new | 500 | 25,767 | Achievement Eligibility: Not Today | ✅ | K13or |
+| `new_128.csv` | new | 500 | 18,458 | Amulettes | ✅ | K13or |
+| `new_129.csv` | new | 500 | 19,835 | Armes | ✅ | K13or |
+| `new_130.csv` | new | 500 | 36,225 | Baril vide | ✅ | K13or |
+| `new_131.csv` | new | 500 | 18,658 | Bonus en cours : Chances de réaliser un criti | ✅ | K13or |
+| `new_132.csv` | new | 500 | 19,569 | Can we go back, please? | ✅ | K13or |
 | `new_133.csv` | new | 500 | 20,832 | Check back often, as we discover new weapons, |  |  |
 | `new_134.csv` | new | 500 | 16,139 | Conteur[f:"Conteuse"] : Balthazar |  |  |
 | `new_135.csv` | new | 500 | 22,048 | Daze • Stun • Bleed |  |  |
@@ -1004,3 +1004,7 @@
 | `new_174.csv` | new | 500 | 14,044 | [M]Explorateur Pattefer |  |  |
 | `new_175.csv` | new | 500 | 15,182 | [M]Plafonnier kodan |  |  |
 | `new_176.csv` | new | 221 | 7,207 | d'absorption |  |  |
+| `new_177.csv` | new | 500 | 24,441 | "RC Golem chess"? | ✅ | K13or |
+| `new_178.csv` | new | 500 | 27,380 | I don't think it's quite as simple as that. T | ✅ | K13or |
+| `new_179.csv` | new | 500 | 28,200 | Recipe[s]: Wanderer's Emblazoned Helm | ✅ | K13or |
+| `new_180.csv` | new | 138 | 8,238 | What do you know about the Blood Legion? | ✅ | K13or |
