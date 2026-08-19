@@ -1,339 +1,217 @@
 english,translate
-Emotional Manipulator,
-Empathie,
-Empowered (Tier 1),
-Empowered (Tier 10),
-Empowered (Tier 2),
-Empowered (Tier 3),
-Empowered (Tier 4),
-Empowered (Tier 5),
-Empowered (Tier 6),
-Empowered (Tier 7),
-Empowered Bloodstone Shard,
-Empowered Shadow,
-Empowered by the All Seer.,
-Empreintes astrales,
-"Empress Ihn has no intention of restoring the palace for her own use, given its problematic history.",
-Emprunt,
-Emprunter,
-Empty Balloon Basket,
-Empty Water Balloon,
-En avant,
-En instance,
-En savoir plus,
-En savoir plus.,
-En vie : %num1% %str1%,
-En vie : %str1%,
-En vrac,
-En-cas,
-Enables Coalescing Haze to Use Mind Sere,
-Encased,
-Enchanted,
-Enclave invariante,
-Enclume,
-"Encodage[pl:""Encodages""] fractal[pl:""fractals""]",
-Encore plus loin,
-Encourager,
-Encroachers attack us! Defend what is ours!,
-Encrypted Message[s],
-Encryption Level,
-End the transformation and forfeit the adventure.,
-"Endless, golden shinies!",
-Endurance : %num1%/%num2%,
-Endurance latente,
-Endurance of the Vigilant,
-Endurance par Malice,
-Endurance par cible,
-Endurance par coup,
-Endure,
-Enemies create flaming missiles when damaged. Incoming condition damage is reduced by 20%%.,
-Enemies will retreat in: %str1%,
-Enemy Torch Runners,
-Enemy down! August and I needed some good news.,
-"Enemy down...not that it did us much good. Sorry, Commander, but this looks like a dead end.",
-Enemy fire incoming!,
-Enemy in range.,
-"Enemy inbound from the west, closing fast on your position.",
-Enemy spotted. But I haven't seen a Mordrem take the field like this before.,
-"Enemy swings arm, doing damage and creating a wind force that spins players around it.",
-"Enemy swings its arm, doing damage and knocking back players hit.",
-Enemy trebuchet repaired.,
-Enemy's got their eye on our landing zone! Let's get in there and clear 'em out!,
-Enemy—neutralized.,
-Energetic Crab[s],
-Energie,
-Energie :,
-Energy Absorption,
-Energy Absorption Mode,
-Energy Orb,
-Energy Relay Alpha,
-Energy Relay Beta,
-Energy Relay Delta,
-Energy Relay Gamma,
-Energy Relays,
-Energy Shield • Arcing Energy Beam,
-Energy Shield • Arcing Energy Beam • Slings Goop,
-Energy Vortex,
-Energy hums within this orb; it can be used to energize the vibrant crystal.,
-Enervation Ray,
-Eng! Never mind. Just take them out however you can!,
-Engage Ankka.,
-Engage Mai Trin.,
-Engage the Watchknight Triumvirate.,
+Emotional Manipulator,Манипулятор чувствами
+Empowered (Tier 1),Усилен (ступень 1)
+Empowered (Tier 10),Усилен (ступень 10)
+Empowered (Tier 2),Усилен (ступень 2)
+Empowered (Tier 3),Усилен (ступень 3)
+Empowered (Tier 4),Усилен (ступень 4)
+Empowered (Tier 5),Усилен (ступень 5)
+Empowered (Tier 6),Усилен (ступень 6)
+Empowered (Tier 7),Усилен (ступень 7)
+Empowered Bloodstone Shard,Усиленный осколок камня крови
+Empowered Shadow,Усиленная тень
+Empowered by the All Seer.,Усилен Всевидящим.
+"Empress Ihn has no intention of restoring the palace for her own use, given its problematic history.",Императрица Ин не намерена восстанавливать дворец для себя — уж слишком тяжела его история.
+Empty Balloon Basket,Пустая корзина воздушного шара
+Empty Water Balloon,Пустой водяной шар
+Enables Coalescing Haze to Use Mind Sere,Позволяет «Сгущающейся дымке» использовать «Иссушение разума»
+Encased,Заключён в оболочку
+Enchanted,Зачарован
+Encroachers attack us! Defend what is ours!,На нас напали захватчики! Защищайте своё!
+Encrypted Message[s],[Зашифрованное сообщение|Зашифрованных сообщения|Зашифрованных сообщений]
+Encryption Level,Уровень шифрования
+End the transformation and forfeit the adventure.,Прервать превращение и отказаться от приключения.
+"Endless, golden shinies!",Бесконечные золотые блестяшки!
+Endurance of the Vigilant,Стойкость Бдительных
+Endure,Выстоять
+Enemies create flaming missiles when damaged. Incoming condition damage is reduced by 20%%.,"Получая урон, враги создают пылающие снаряды. Входящий урон от состояний снижен на 20%%."
+Enemies will retreat in: %str1%,Враги отступят через: %str1%
+Enemy Torch Runners,Вражеские факелоносцы
+Enemy down! August and I needed some good news.,Враг повержен! Нам с Августом не хватало хороших вестей.
+"Enemy down...not that it did us much good. Sorry, Commander, but this looks like a dead end.","Враг повержен... хотя толку от этого немного. Простите, командир, но, похоже, это тупик."
+Enemy fire incoming!,Огонь противника!
+Enemy in range.,Враг в пределах досягаемости.
+"Enemy inbound from the west, closing fast on your position.","Противник заходит с запада, быстро приближается к вашей позиции."
+Enemy spotted. But I haven't seen a Mordrem take the field like this before.,Противник замечен. Но чтобы мордрем так выходил в поле — такого я ещё не видел.
+"Enemy swings arm, doing damage and creating a wind force that spins players around it.","Враг машет рукой, нанося урон и создавая вихрь, который закручивает игроков вокруг него."
+"Enemy swings its arm, doing damage and knocking back players hit.","Враг машет рукой, нанося урон и отбрасывая задетых игроков."
+Enemy trebuchet repaired.,Вражеский требушет починен.
+Enemy's got their eye on our landing zone! Let's get in there and clear 'em out!,Враг положил глаз на нашу зону высадки! Идём туда и вычистим их!
+Enemy—neutralized.,Противник—нейтрализован.
+Energetic Crab[s],[Энергичный краб|Энергичных краба|Энергичных крабов]
+Energy Absorption,Поглощение энергии
+Energy Absorption Mode,Режим поглощения энергии
+Energy Orb,Сфера энергии
+Energy Relay Alpha,Энергетический ретранслятор «Альфа»
+Energy Relay Beta,Энергетический ретранслятор «Бета»
+Energy Relay Delta,Энергетический ретранслятор «Дельта»
+Energy Relay Gamma,Энергетический ретранслятор «Гамма»
+Energy Relays,Энергетические ретрансляторы
+Energy Shield • Arcing Energy Beam,Энергощит • Дуговой энергетический луч
+Energy Shield • Arcing Energy Beam • Slings Goop,Энергощит • Дуговой энергетический луч • Метает слизь
+Energy Vortex,Вихрь энергии
+Energy hums within this orb; it can be used to energize the vibrant crystal.,В этой сфере гудит энергия; ею можно напитать искристый кристалл.
+Enervation Ray,Луч изнеможения
+Eng! Never mind. Just take them out however you can!,Тьфу! Неважно. Просто уложи их как получится!
+Engage Ankka.,Вступите в бой с Анккой.
+Engage Mai Trin.,Вступите в бой с Май Трин.
+Engage the Watchknight Triumvirate.,Вступите в бой с Триумвиратом часовых рыцарей.
 Engagement,
-Engagement durable,
-Engaging enemy.,
-Engelure verte,
-Engelures,
-Engineer Brizzi,
-Engineer Kayle Brightshock,
-Engrais,
-Enhances Self • Teleports • Protection,
-Enhances allies with Frontal Mastery.,
-Enhances allies with Occipital Mastery.,
-Enhances allies with Parietal Mastery.,
-Enhances allies with Temporal Mastery.,
-Enjoy playing with the grawl. I'm out of here.,
-Enjoy the sun.,
-Enjoy your statue.,
-Enjoy!,
-Enlever,
-Ennuis en perspective,
-"Enough! Don't try and reason with me. Now, move out! Double time!",
-"Enough, Tazza. It's over. Just surrender. It's the only sane answer to this equation.",
-"Enough, you bore me.",
-Enqueste,
-Enraged Cook,
-Enraged Ice Elemental,
-Enraged after consuming Strugar. 200%% increase in damage and increased movement speed.,
-Ensemble,
-Ensemble II,
-Ensemble II (actif),
-Entangle Greer,
-Entangled Vines,
-"Enter ""Human.""",
-Enter Arena,
-Enter Augury Rock,
-Enter Seanan's bandit camp?,
-Enter the Deep and confront what resides within.,
-Enter the crab quarantine?,
-Enter the kodan settlement.,
-Enter the portal into Bava Nisos.,
-Enterrer,
-"Entitled ""A History of Ebonhawke"", this book discusses Ebonhawke's founding from the charr perspective and makes an effort to be as detached and even-handed as possible.",
-Entraide,
-Entrance,
-Entropie,
-"Entry to the Garden of Seborhin has slowed since the dragon corruption overtook the Kodash Bazaar. Some merchants moved there, but it is still mostly home to young adults and retirees. No place in Vabbi is as beautiful and carefree as the garden.",
-Envenomed Blades,
-Envie,
-"Environmental effect: Jormag is draining energy from the surrounding ice, causing slowness and dealing periodic damage.",
-"Environmental effect: Though deadly to most, ice streams have no effect on skimmers or their riders.",
-Envol,
-"EoD, Extension 3",
-Eparch has empowered his wyvern—staying any longer is certain death. Retreat for now and wait for another opportunity.,
-Eparch is draining your emotional essence.,
-Epaules,
-Epines,
-Equicalibre,
-Equip Marjory's Tassi box to investigate the crime scene.,
-Equip Tassi Box,
-Equip the Heart of the Obscure.,
-Equipped with a pistol. Granted upon defeating Adil.,
-Erable,
-Erable noir,
-Ergot invalidant,
-Ergoville,
-"Erika is obsessed with Jora. She sees some of her own life in Jora's story. Me, I just like looking at her statue. They don't make women like that any more!",
+Engaging enemy.,Вступаю в бой с противником.
+Engineer Brizzi,Инженер Бриззи
+Engineer Kayle Brightshock,Инженер Кейл Яркий Удар
+Enhances Self • Teleports • Protection,Усиливает себя • Телепортируется • Протекция
+Enhances allies with Frontal Mastery.,Даёт союзникам Лобное мастерство.
+Enhances allies with Occipital Mastery.,Даёт союзникам Затылочное мастерство.
+Enhances allies with Parietal Mastery.,Даёт союзникам Теменное мастерство.
+Enhances allies with Temporal Mastery.,Даёт союзникам Височное мастерство.
+Enjoy playing with the grawl. I'm out of here.,Развлекайся с гравлами. С меня хватит.
+Enjoy the sun.,Наслаждайся солнцем.
+Enjoy your statue.,Радуйся своей статуе.
+Enjoy!,Наслаждайтесь!
+"Enough! Don't try and reason with me. Now, move out! Double time!",Довольно! Не пытайся меня переубедить. А теперь выдвигаемся! Бегом!
+"Enough, Tazza. It's over. Just surrender. It's the only sane answer to this equation.","Довольно, Тацца. Всё кончено. Просто сдавайся. Это единственный разумный ответ в этом уравнении."
+"Enough, you bore me.","Довольно, ты мне наскучил."
+Enraged Cook,Разъярённый повар
+Enraged Ice Elemental,Разъярённый элементаль льда
+Enraged after consuming Strugar. 200%% increase in damage and increased movement speed.,"Разъярён после поглощения Стругара. Урон повышен на 200%%, скорость передвижения увеличена."
+Entangle Greer,Опутайте Грира
+Entangled Vines,Опутывающие лозы
+"Enter ""Human.""",Введите «Человек».
+Enter Arena,Войти на арену
+Enter Augury Rock,Войти в Скалу Прорицаний
+Enter Seanan's bandit camp?,Войти в бандитский лагерь Сианана?
+Enter the Deep and confront what resides within.,"Спуститесь в Глубину и встретьтесь с тем, что там обитает."
+Enter the crab quarantine?,Войти в крабий карантин?
+Enter the kodan settlement.,Войдите в поселение кодан.
+Enter the portal into Bava Nisos.,Войдите в портал в Баву-Нисос.
+"Entitled ""A History of Ebonhawke"", this book discusses Ebonhawke's founding from the charr perspective and makes an effort to be as detached and even-handed as possible.","Эта книга под названием «История Эбонхока» рассказывает об основании Эбонхока с точки зрения чарров и старается быть настолько отстранённой и беспристрастной, насколько это возможно."
+Entrance,Вход
+"Entry to the Garden of Seborhin has slowed since the dragon corruption overtook the Kodash Bazaar. Some merchants moved there, but it is still mostly home to young adults and retirees. No place in Vabbi is as beautiful and carefree as the garden.","Поток гостей в Сад Себорина поредел с тех пор, как драконья порча захватила базар Кодаш. Часть торговцев перебралась туда, но живут в саду в основном молодёжь да старики. Нигде в Вабби нет места красивее и беспечнее этого сада."
+Envenomed Blades,Отравленные клинки
+"Environmental effect: Jormag is draining energy from the surrounding ice, causing slowness and dealing periodic damage.","Эффект местности: Йормаг вытягивает энергию из окружающего льда, вызывая медлительность и нанося периодический урон."
+"Environmental effect: Though deadly to most, ice streams have no effect on skimmers or their riders.","Эффект местности: смертельные для большинства, потоки льда не действуют на скиммеров и их наездников."
+Eparch has empowered his wyvern—staying any longer is certain death. Retreat for now and wait for another opportunity.,Эпарх усилил свою виверну — задержаться дольше значит погибнуть. Отступите пока и дождитесь другой возможности.
+Eparch is draining your emotional essence.,Эпарх вытягивает сущность ваших чувств.
+Equip Marjory's Tassi box to investigate the crime scene.,"Возьмите ящик Тасси у Марджори, чтобы осмотреть место преступления."
+Equip Tassi Box,Взять ящик Тасси
+Equip the Heart of the Obscure.,Возьмите Сердце Незримого.
+Equipped with a pistol. Granted upon defeating Adil.,Вооружён пистолетом. Получено за победу над Адилем.
+"Erika is obsessed with Jora. She sees some of her own life in Jora's story. Me, I just like looking at her statue. They don't make women like that any more!",Эрика помешана на Йоре. Она видит в её истории кусочек собственной жизни. А мне просто нравится смотреть на её статую. Таких женщин больше не делают!
 Errant,
-Erratic Energy Discharges,
-Erudit,
-"Escalier[pl:""Escaliers""] kryptis",
-Escaliers,
-Escape Switch,
-Escape the dangerous snowstorm within the time limit.,
-Escaped Test Subject,
-Escarmouche,
-Escarmouche (%num1%),
-Escort Agent Arwyna to the ogre camp.,
-Escort Alchemist Briella to the Rift Hunters.,
-Escort Brugh to Morgan's Spiral.,
-Escort Nokta into the Great Tree as he looks for potential pets.,
-Escort Scholar Riagan to the ritual location.,
-Escort the Vigil Bomb,
-Escort the dock thugs out of the spat with Sayida's crew.,
-Escort the lore seeker to the underground lake.,
-Escort window closes in: %str1%,
-Escort your unlikely ally to the Trading Post.,
-Esker aride,
-Espace,
-Espace vide,
-Espace vital,
-Espadon,
-Espadon aquarium,
-Espadon bioluminescent,
-Espadon colossal,
-Espadon dokkaebi,
-Espadon en aciel,
-Espadon en canne en sucre%str2%%str1%%str3%%str4%,
-Espadon flamboyant vermillon,
-Espadon glacial,
-Espadon harathi,
-Espadon indigo éthéré%str2%%str1%%str3%%str4%,
-Espadon laser,
-Espadon orchestral%str2%%str1%%str3%%str4%,
-Espadon primitif,
-Espadon roche-tonnerre%str2%%str1%%str3%%str4%,
-Espadon sylvestre,
-Espadon tengu%str2%%str1%%str3%%str4%,
-Espadon tribal,
-Espadon zodiacal,
-Espadon éclate-golem,
-"Espadon[pl:""Espadons""] en mithril basique[pl:""basiques""]",
-"Espadon[pl:""Espadons""] fractal[pl:""fractals""]",
-Espadons,
-Espauliers lourds étherlames,
-Espauliers vermillons,
-Esprit brillant,
-Esprit errant,
-Esprit inflexible,
-Esprit vigilant,
-"Esprit[pl:""Esprits""]",
-Esprits,
-Esquifs,
-Esquisse,
-Esquisse experte,
-Essence Empowerment,
-Essence Manipulation Letter[s],
-Essence for Resurrection Spell,
-Essence mystique,
-"Essence[pl:""Essences""] d'or",
-Estimated output accepted. Crystal tuning completed.,
-Estimations,
-Estoc perturbant,
-Estomac,
-Estonie,
-Etain,
+Erratic Energy Discharges,Беспорядочные разряды энергии
+Escape Switch,Рычаг побега
+Escape the dangerous snowstorm within the time limit.,Выберитесь из опасного бурана за отведённое время.
+Escaped Test Subject,Сбежавший подопытный
+Escort Agent Arwyna to the ogre camp.,Проводите агента Арвину до лагеря огров.
+Escort Alchemist Briella to the Rift Hunters.,Проводите алхимика Бриеллу к Охотникам за разломами.
+Escort Brugh to Morgan's Spiral.,Проводите Бруга до Спирали Моргана.
+Escort Nokta into the Great Tree as he looks for potential pets.,"Проводите Нокту к Великому Древу, пока он ищет будущих питомцев."
+Escort Scholar Riagan to the ritual location.,Проводите учёного Риагана к месту ритуала.
+Escort the Vigil Bomb,Сопроводите бомбу Стража
+Escort the dock thugs out of the spat with Sayida's crew.,Выведите портовых громил из стычки с командой Сайиды.
+Escort the lore seeker to the underground lake.,Проводите искателя знаний к подземному озеру.
+Escort window closes in: %str1%,Окно сопровождения закроется через: %str1%
+Escort your unlikely ally to the Trading Post.,Проводите своего неожиданного союзника к Торговому посту.
+Essence Empowerment,Наделение сущностью
+Essence Manipulation Letter[s],[Письмо|Письма|Писем] об управлении сущностью
+Essence for Resurrection Spell,Сущность для заклинания воскрешения
+Estimated output accepted. Crystal tuning completed.,Расчётная мощность принята. Настройка кристалла завершена.
 Ether,
-Ethereal Form,
-Etherlame[s],
-Ethiopie,
-Ettin Pen,
-"Ettin refuse? You mean, like, their garbage?",
-Eum Ji,
-Euphorie martiale,
-Evade Forward,
-Evade Right,
-Evades Mursaat Defenses,
-Evades • Burning,
-Evaluate the obstacles and deal with each one expertly.,
-"Even as I write the final notes, I am preparing to become the captain of the Seraph Guard, commissioned by Queen Salma herself. I leave my duties in the capable hands of Master Exemplar Livia.",
-"Even as old as it is, this statue was obviously never completed. The sculptor carved what appear to be words in the base.",
-"Even ghosts can be afraid, huh?",
-"Even the Chosen could not stay away. Once freed from their prison at the Door of Komalie, many seem to have returned. They've been seen haunting near the bloodstone.",
-"Even the strong will perish when the dragons make their move. Destroyers have begun appearing on both sides of the wall, and they only signal the beginning.",
-"Even when someone hurts you, you can still miss them. It's not stupid.",
-Evennia gathered a band of royalists called The Shining Blade who vowed to expose and thwart the White Mantle and the inhuman sorcerers they worshipped.,
-"Eventually, we'll have to deal with these fire creatures, but right now, Koloss needs our help. He's got a more pressing problem.",
-"Ever heard the joke about the Whispers agent? Of course, you haven't. No one has.",
-"Ever since Butcher's Block started hosting Meatoberfest, my boss has been selling them our cattle. At first it was just a few, but now they buy them almost as fast as we can fatten them.",
-"Ever since the crash, we've been trying to learn about this place. However, now I'm more concerned with keeping my eyes on the magister.",
-"Ever vigilant, sir.",
-Every bit helps.,
-"Every flake is unique, you know. I could stand here the rest of my life and never see every kind. I'm determined to see as many as I can. That will be my legend!",
-"Every night, the same terrors. It never changes. The mender was unable to help Me, and I feel like I'm losing control of myself.",
-Every one of you is expected to master the art of handling one of these colossal beasts by the time you graduate.,
-Every simulation I have run indicates that catastrophic failure of the stone will create a blast large enough to engulf Kryta in magical fallout.,
-Every true scientist thinks the unthinkable.,
-Everyone Loves Wizards,
-Everyone else is celebrating. Why not us? We did our part.,
-Everyone in my club has caught a jackalope! You go out at night with a torch and a bag. Then you make the mating call!,
-"Everyone likes cats, right?",
-"Everyone looks for treasure in the dirt, running around with picks and shovels like glorified miners. They couldn't be more wrong.",
-"Everyone says that, but he never really seems that way to me. He's quite brilliant, you know, and a renowned archaeologist.",
-Everyone should follow the Sun.,
-Everyone should join us in the sun.,
-"Everyone, listen up! We've suffered a serious setback, but we are far from beaten.",
-Everything in this jungle belongs to Mordremoth!,
-"Everything's gotta balance, Commander! What happens to one champion has to happen to the other.",
-Everything...,
-Evil extraction commencing now.,
-"Evil forces possess the upper hand here, and their influence can be felt in the very soil. If you could help me secure this terrain, it would aid me, and the others with me, greatly.",
-Evil places?,
-Evon Grincelame,
+Ethereal Form,Эфирная форма
+Ettin Pen,Загон для эттинов
+"Ettin refuse? You mean, like, their garbage?","Эттинские отбросы? В смысле, их мусор?"
+Eum Ji,Ым Джи
+Evade Forward,Уклонение вперёд
+Evade Right,Уклонение вправо
+Evades Mursaat Defenses,Уклоняется от обороны мурсаат
+Evades • Burning,Уклоняется • Горение
+Evaluate the obstacles and deal with each one expertly.,Оцените препятствия и мастерски разберитесь с каждым.
+"Even as I write the final notes, I am preparing to become the captain of the Seraph Guard, commissioned by Queen Salma herself. I leave my duties in the capable hands of Master Exemplar Livia.","Уже дописывая последние строки, я готовлюсь стать капитаном Стражи серафимов по поручению самой королевы Салмы. Свои обязанности оставляю в надёжных руках мастера-образца Ливии."
+"Even as old as it is, this statue was obviously never completed. The sculptor carved what appear to be words in the base.",Даже при своей древности эта статуя явно так и не была закончена. Скульптор вырезал на основании нечто похожее на слова.
+"Even ghosts can be afraid, huh?","Значит, и призракам бывает страшно?"
+"Even the Chosen could not stay away. Once freed from their prison at the Door of Komalie, many seem to have returned. They've been seen haunting near the bloodstone.","Даже Избранные не смогли остаться в стороне. Освободившись из темницы у Двери Комали, многие, похоже, вернулись. Их видели у камня крови."
+"Even the strong will perish when the dragons make their move. Destroyers have begun appearing on both sides of the wall, and they only signal the beginning.","Даже сильные сгинут, когда драконы двинутся. Разрушители начали появляться по обе стороны стены, и это лишь начало."
+"Even when someone hurts you, you can still miss them. It's not stupid.","Даже когда тебе делают больно, по человеку всё равно можно скучать. Это не глупость."
+Evennia gathered a band of royalists called The Shining Blade who vowed to expose and thwart the White Mantle and the inhuman sorcerers they worshipped.,"Эвенния собрала отряд роялистов под названием Сияющий Клинок, поклявшийся разоблачить и остановить Белую Мантию и нечеловеческих колдунов, которым та поклонялась."
+"Eventually, we'll have to deal with these fire creatures, but right now, Koloss needs our help. He's got a more pressing problem.","Рано или поздно нам придётся разобраться с этими огненными тварями, но сейчас Колоссу нужна наша помощь. У него дело посрочнее."
+"Ever heard the joke about the Whispers agent? Of course, you haven't. No one has.",Слышал анекдот про агента Шёпота? Конечно нет. Никто не слышал.
+"Ever since Butcher's Block started hosting Meatoberfest, my boss has been selling them our cattle. At first it was just a few, but now they buy them almost as fast as we can fatten them.","С тех пор как в Мясницкой колоде стали проводить Мясотоберфест, мой хозяин продаёт им наш скот. Сперва было немного, а теперь берут почти так же быстро, как мы успеваем откармливать."
+"Ever since the crash, we've been trying to learn about this place. However, now I'm more concerned with keeping my eyes on the magister.","С самого крушения мы пытаемся разобраться в этом месте. Впрочем, сейчас меня больше заботит не спускать глаз с магистра."
+"Ever vigilant, sir.","Всегда начеку, сэр."
+Every bit helps.,Любая мелочь пригодится.
+"Every flake is unique, you know. I could stand here the rest of my life and never see every kind. I'm determined to see as many as I can. That will be my legend!","Знаешь, каждая снежинка неповторима. Я мог бы простоять здесь всю оставшуюся жизнь и не увидеть всех видов. Я твёрдо решил увидеть как можно больше. Это и будет моей легендой!"
+"Every night, the same terrors. It never changes. The mender was unable to help Me, and I feel like I'm losing control of myself.","Каждую ночь одни и те же ужасы. Ничего не меняется. Целитель не смог мне помочь, и я чувствую, что теряю власть над собой."
+Every one of you is expected to master the art of handling one of these colossal beasts by the time you graduate.,"От каждого из вас ждут, что к выпуску вы овладеете искусством управления одним из этих исполинских зверей."
+Every simulation I have run indicates that catastrophic failure of the stone will create a blast large enough to engulf Kryta in magical fallout.,"Все мои расчёты показывают: катастрофическое разрушение камня даст выброс, достаточный, чтобы накрыть Криту магическими осадками."
+Every true scientist thinks the unthinkable.,Всякий настоящий учёный думает о немыслимом.
+Everyone Loves Wizards,Все любят волшебников
+Everyone else is celebrating. Why not us? We did our part.,Все остальные празднуют. А мы почему нет? Мы своё сделали.
+Everyone in my club has caught a jackalope! You go out at night with a torch and a bag. Then you make the mating call!,В моём клубе каждый поймал по джекалопу! Выходишь ночью с факелом и мешком. А потом издаёшь брачный зов!
+"Everyone likes cats, right?","Все ведь любят кошек, правда?"
+"Everyone looks for treasure in the dirt, running around with picks and shovels like glorified miners. They couldn't be more wrong.","Все ищут сокровища в земле, бегают с кирками и лопатами, как заправские шахтёры. И все они глубоко неправы."
+"Everyone says that, but he never really seems that way to me. He's quite brilliant, you know, and a renowned archaeologist.","Так все говорят, но мне он таким никогда не казался. Он ведь весьма блестящий ум и известный археолог."
+Everyone should follow the Sun.,Всем следует идти за Солнцем.
+Everyone should join us in the sun.,Пусть все присоединятся к нам на солнце.
+"Everyone, listen up! We've suffered a serious setback, but we are far from beaten.","Все слушайте! Мы понесли серьёзную неудачу, но мы далеко не разбиты."
+Everything in this jungle belongs to Mordremoth!,Всё в этих джунглях принадлежит Мордремоту!
+"Everything's gotta balance, Commander! What happens to one champion has to happen to the other.","Всё должно быть в равновесии, командир! Что случилось с одним чемпионом, должно случиться и с другим."
+Everything...,Всё...
+Evil extraction commencing now.,Извлечение зла начинается.
+"Evil forces possess the upper hand here, and their influence can be felt in the very soil. If you could help me secure this terrain, it would aid me, and the others with me, greatly.","Здесь верх держат злые силы, и их влияние чувствуется в самой земле. Если бы вы помогли мне закрепиться на этой земле, это очень выручило бы меня и тех, кто со мной."
+Evil places?,Дурные места?
 Ex machina,
-Exactly what we were hoping for.,
-"Exactly! I can transform you to look like a Human Separatist, and you can go in and wreak havoc in the Flame Legion camp. Then, we repeat the process in the Separatist camp.",
-Exactly. The chak are killers. Now we just need to motivate them to kill Mordrem. Got it? I need those cannons to clear the way.,
-Exalted Head,
-Exalted armor's almost as showstopping as Scruffy. Perfect for fending off destroyers.,
-"Exalted, prepare as you might, we Mordrem are coming. You cannot resist forever.",
-Examen expert,
-Examine Sample,
-Examine the Pro League Season 1 Finals teams.,
-Examine the book further.,
-Examine the modified blueprints.,
-Examine the piece of paper.,
+Exactly what we were hoping for.,"Как раз то, на что мы надеялись."
+"Exactly! I can transform you to look like a Human Separatist, and you can go in and wreak havoc in the Flame Legion camp. Then, we repeat the process in the Separatist camp.","Именно! Я могу превратить тебя в человека-сепаратиста, и ты пойдёшь наводить смуту в лагере Легиона Пламени. А потом повторим то же самое в лагере сепаратистов."
+Exactly. The chak are killers. Now we just need to motivate them to kill Mordrem. Got it? I need those cannons to clear the way.,"Именно. Чаки — убийцы. Осталось только подтолкнуть их убивать мордремов. Ясно? Мне нужны эти пушки, чтобы расчистить путь."
+Exalted Head,Голова Возвышенного
+Exalted armor's almost as showstopping as Scruffy. Perfect for fending off destroyers.,"Броня Возвышенных почти так же ослепительна, как Скраффи. То что надо против разрушителей."
+"Exalted, prepare as you might, we Mordrem are coming. You cannot resist forever.","Возвышенные, готовьтесь как хотите — мы, мордремы, идём. Вечно вам не устоять."
+Examine Sample,Осмотреть образец
+Examine the Pro League Season 1 Finals teams.,Изучите команды финала первого сезона Профессиональной лиги.
+Examine the book further.,Изучить книгу подробнее.
+Examine the modified blueprints.,Изучить изменённые чертежи.
+Examine the piece of paper.,Осмотреть клочок бумаги.
 Excavation,
-Excavation Molodets,
-Excavations ininterrompues,
-Excellent! Well done!,
-"Excellent, and I would expect no less from any officer of the Pact.",
-Excellent. I'm far too vital to risk taking on those horrors. You've come along at the perfect moment!,
-"Excellent. Set up the defenses. I'll try to remember what my old swordsmaster, Bongo, taught me.",
-"Excellent. You have your next mission. Dismissed, Commander.",
-"Excelsior! I do so wish you could understand the data I'm seeing on these crystals. With this, I'll undoubtedly be able to take control of Calx's antique golems. They'll be a superior addition to my collection.",
-"Excuse me, friends, but I must speak with the commander.",
-Excuse me? Magic tricks?,
-Excuuuse me! You're in my research space.,
-Executes Targets • Reflects Projectiles,
-Executioner Amala,
-"Exemplary work, Commander. The odds of our survival have objectively increased.",
-Exhaust Discharge,
-Existential Instability,
-Exit Convo,
-Exit to Command Center,
+Excavation Molodets,Раскопки Молодец
+Excellent! Well done!,Отлично! Молодец!
+"Excellent, and I would expect no less from any officer of the Pact.","Отлично, и меньшего я бы не ждал ни от одного офицера Пакта."
+Excellent. I'm far too vital to risk taking on those horrors. You've come along at the perfect moment!,"Отлично. Я слишком важен, чтобы рисковать собой против этих ужасов. Вы появились как нельзя вовремя!"
+"Excellent. Set up the defenses. I'll try to remember what my old swordsmaster, Bongo, taught me.","Отлично. Ставьте оборону. А я попробую вспомнить, чему учил меня старый наставник по мечу, Бонго."
+"Excellent. You have your next mission. Dismissed, Commander.","Отлично. Задание вы получили. Свободны, командир."
+"Excelsior! I do so wish you could understand the data I'm seeing on these crystals. With this, I'll undoubtedly be able to take control of Calx's antique golems. They'll be a superior addition to my collection.","Эксельсиор! Как бы мне хотелось, чтобы ты понимал данные, которые я вижу на этих кристаллах. С их помощью я наверняка сумею взять под контроль старинных големов Калкса. Они станут превосходным пополнением моей коллекции."
+"Excuse me, friends, but I must speak with the commander.","Простите, друзья, но мне нужно поговорить с командиром."
+Excuse me? Magic tricks?,Прошу прощения? Фокусы?
+Excuuuse me! You're in my research space.,Прошу проще-е-ения! Вы на моей исследовательской площадке.
+Executes Targets • Reflects Projectiles,Казнит цели • Отражает снаряды
+Executioner Amala,Палач Амала
+"Exemplary work, Commander. The odds of our survival have objectively increased.","Образцовая работа, командир. Наши шансы на выживание объективно выросли."
+Exhaust Discharge,Выхлопной разряд
+Existential Instability,Экзистенциальная нестабильность
+Exit Convo,Выйти из разговора
+Exit to Command Center,Выход в командный центр
 Exitare%str2%%str1%%str3%%str4%,
-Exited the Lost Basilica through the Sewers,
-Exiting the caverns in: %str1%,
+Exited the Lost Basilica through the Sewers,Выход из Потерянной базилики через канализацию
+Exiting the caverns in: %str1%,Выход из пещер через: %str1%
 Exitus%str2%%str1%%str3%%str4%,
-Exmaine,
-Exode,
-Exorcisms Completed,
+Exmaine,Осмотреть
+Exorcisms Completed,Проведено экзорцизмов
 Exordium%str2%%str1%%str3%%str4%,
-Exp : %num1%,
+Exp : %num1%,Опыт: %num1%
 Expansion,
-Expectorate,
-Expedition Progress,
-Expelling Cough,
-"Experience. That, and I'm not stupid. Anyone with eyes can see that the Risen are expanding their territory. They've taken over that swamp for now, but that's just a stepping stone.",
-Experiment with components in the Discovery Pane at a leatherworking station to learn new recipes.,
-Experimental Console,
-Experimental Flamethrower,
-Experimental Goo,
-Experimental Hammer,
-Experimental Weapon Parts,
-"Experimentations have yielded few results. The vines are resilient to common methods of extermination, but can be injured—even killed—with enough force. Unfortunately, such force is in short supply.",
-"Expert[f:""Experte""]",
-"Expert[f:""Experte""] en Ogres",
-"Expert[f:""Experte""] en babioles, Monde 1",
-"Expert[f:""Experte""] en babioles, Monde 2",
-"Expert[f:""Experte""] en cache-cache",
-"Expert[f:""Experte""] en limons",
-"Expert[f:""Experte""] en secrets, Monde 1",
-"Expert[f:""Experte""] en secrets, Monde 2",
-Expertise acquise : %str1%,
-Expertise en arcs courts,
-Expertise en armes,
-Expertise en espadons,
-Expertise en fusils,
-Expertise en masses,
-Expertise en pistolets,
-Expertise en sceptres,
-Expertise en torches,
-"Explain the other adventurer specializations, engineers and rangers.",
-"Explain the other adventurer specializations, thieves and rangers.",
-Explodes unless Defeated • Destroys Repair Golems,
-Exploding Crates,
-Exploit,
-Exploitation,
+Expectorate,Отхаркивать
+Expedition Progress,Ход экспедиции
+Expelling Cough,Отхаркивающий кашель
+"Experience. That, and I'm not stupid. Anyone with eyes can see that the Risen are expanding their territory. They've taken over that swamp for now, but that's just a stepping stone.","Опыт. Ну и то, что я не дурак. Любой, у кого есть глаза, видит: восставшие расширяют свои владения. Пока они заняли это болото, но это лишь ступенька."
+Experiment with components in the Discovery Pane at a leatherworking station to learn new recipes.,"Пробуйте сочетать компоненты в окне открытий у станка кожевника, чтобы узнавать новые рецепты."
+Experimental Console,Экспериментальный пульт
+Experimental Flamethrower,Экспериментальный огнемёт
+Experimental Goo,Экспериментальная слизь
+Experimental Hammer,Экспериментальный молот
+Experimental Weapon Parts,Экспериментальные детали оружия
+"Experimentations have yielded few results. The vines are resilient to common methods of extermination, but can be injured—even killed—with enough force. Unfortunately, such force is in short supply.","Опыты дали немного. Лозы стойки к обычным способам истребления, но их можно ранить и даже убить, если приложить достаточно силы. К сожалению, такой силы у нас в обрез."
+"Explain the other adventurer specializations, engineers and rangers.",Расскажите о других специализациях искателей приключений — инженерах и рейнджерах.
+"Explain the other adventurer specializations, thieves and rangers.",Расскажите о других специализациях искателей приключений — ворах и рейнджерах.
+Explodes unless Defeated • Destroys Repair Golems,"Взрывается, если не победить • Уничтожает ремонтных големов"
+Exploding Crates,Взрывающиеся ящики
+Exploit,Использовать
