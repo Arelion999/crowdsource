@@ -183,6 +183,27 @@ def strip_known(s):
 # Запрещённые формы имён берём прямо из GLOSSARY.md — из колонки «НЕ так» (~~форма~~).
 # Правило привязано к оригиналу: ругаемся на «Хрустальный оазис» только когда в EN
 # действительно Crystal Oasis, иначе поймали бы честную хрустальную банку.
+# Запрещённая форма записана в глоссарии в именительном падеже, а в тексте она
+# стоит в любом. Сравнение по точной строке пропускало «Криты», «ледорождённых»,
+# «Древних драконов» — то есть почти всё, кроме словарной формы. Собираем из слова
+# основу и допускаем за ней русское окончание; основа короче четырёх букв не
+# склоняется, чтобы не ловить однокоренной мусор.
+RU_END = ('ый|ий|ой|ая|яя|ое|ее|ые|ие|ого|его|ому|ему|ым|им|ом|ем|ых|их|ыми|ими|ую|юю'
+          '|ов|ев|ам|ям|ами|ями|ах|ях|а|я|о|е|ы|и|у|ю|й|ь')
+STRIP = re.compile(r'(?:ый|ий|ой|ая|яя|ое|ее|ые|ие|а|я|о|е|ы|и|й|ь)$')
+
+def ban_pattern(ban):
+    """Запрещённая форма во всех падежах: «Крита» -> Крит + окончание."""
+    parts = []
+    for word in ban.split():
+        if re.fullmatch(r'[А-Яа-яЁё-]{5,}', word):
+            stem = STRIP.sub('', word)
+            if len(stem) >= 4:
+                parts.append(re.escape(stem) + '(?:' + RU_END + ')?')
+                continue
+        parts.append(re.escape(word))
+    return r'(?<![А-Яа-яЁё])' + r'\s+'.join(parts) + r'(?![А-Яа-яЁё])'
+
 def load_glossary_bans(path=None):
     path = path or os.path.join(os.path.dirname(os.path.abspath(__file__)), 'GLOSSARY.md')
     rules = []
@@ -207,11 +228,15 @@ def load_glossary_bans(path=None):
                                         for e in ens), re.I)
             # Если «НЕ так» отличается от канона только регистром («Дозор Духов» /
             # «Дозор духов») — правило про регистр, ищем точно. Иначе регистр не важен.
-            ban_re = [(b, re.compile(r'(?<![А-Яа-яЁё])' + re.escape(b) + r'(?![А-Яа-яЁё])',
+            ban_re = [(b, re.compile(ban_pattern(b),
                                      0 if b.lower() == cells[1].lower() else re.I))
                       for b in bans]
             rules.append((en_re, cells[1], ban_re))
     return rules
+
+# Слово, при котором запрет снимается: оно само законно переводится запрещённой
+# формой, и правило иначе даёт ложное срабатывание.
+GLOSS_ALSO_OK = {'Скайскейл': 'griffon'}
 
 GLOSSARY_BANS = load_glossary_bans()
 
@@ -707,6 +732,11 @@ def check_row(en, ru):
         errs.append(f"потерян родовой маркер [{gm.group(1)}] в начале строки")
     for en_re, canon, bans in GLOSSARY_BANS:
         if not en_re.search(en):
+            continue
+        # Запрет привязан к оригиналу, но иногда в строке стоят оба существа сразу:
+        # «Ride a skyscale or griffon…». Тогда «грифон» в переводе — не подмена
+        # скайскейла, а честный перевод соседнего слова.
+        if canon in GLOSS_ALSO_OK and re.search(GLOSS_ALSO_OK[canon], en, re.I):
             continue
         for bad, bad_re in bans:
             if bad_re.search(ru):

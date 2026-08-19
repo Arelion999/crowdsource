@@ -971,16 +971,16 @@
 | `new_141.csv` | new | 500 | 26,019 | Ha-ha. Good times. | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_142.csv` | new | 500 | 34,191 | How can I say no to Captain Lo— | ✅ | K13or |
 | `new_143.csv` | new | 500 | 31,141 | I know. I helped get the cows back in, rememb | ✅ | Магистр Клод, Приорат Дурманд |
-| `new_144.csv` | new | 500 | 34,305 | I'm fairly confident we'll prevail. |  |  |
-| `new_145.csv` | new | 500 | 23,139 | In readiness, stillness. |  |  |
-| `new_146.csv` | new | 500 | 29,355 | It's nice to meet you, Master. Can you tell m |  |  |
-| `new_147.csv` | new | 500 | 29,404 | Kodan[s] |  |  |
-| `new_148.csv` | new | 500 | 20,106 | Let's see here... Maybe if I push this. Flip  |  |  |
-| `new_149.csv` | new | 500 | 16,817 | Marcheboue |  |  |
-| `new_150.csv` | new | 500 | 19,274 | Mini-colosse séraphin |  |  |
-| `new_151.csv` | new | 500 | 24,311 | My gut burns with resolve! We can win! |  |  |
-| `new_152.csv` | new | 500 | 29,947 | OK, later then. |  |  |
-| `new_153.csv` | new | 500 | 18,484 | Our new friends have chosen wisely. We make o |  |  |
+| `new_144.csv` | new | 500 | 34,305 | I'm fairly confident we'll prevail. | 🔨 | Магистр Клод, Приорат Дурманд |
+| `new_145.csv` | new | 500 | 23,139 | In readiness, stillness. | 🔨 | Магистр Клод, Приорат Дурманд |
+| `new_146.csv` | new | 500 | 29,355 | It's nice to meet you, Master. Can you tell m | 🔨 | Магистр Клод, Приорат Дурманд |
+| `new_147.csv` | new | 500 | 29,404 | Kodan[s] | 🔨 | Магистр Клод, Приорат Дурманд |
+| `new_148.csv` | new | 500 | 20,106 | Let's see here... Maybe if I push this. Flip  | 🔨 | Магистр Клод, Приорат Дурманд |
+| `new_149.csv` | new | 500 | 16,817 | Marcheboue | 🔨 | Магистр Клод, Приорат Дурманд |
+| `new_150.csv` | new | 500 | 19,274 | Mini-colosse séraphin | 🔨 | Магистр Клод, Приорат Дурманд |
+| `new_151.csv` | new | 500 | 24,311 | My gut burns with resolve! We can win! | 🔨 | Магистр Клод, Приорат Дурманд |
+| `new_152.csv` | new | 500 | 29,947 | OK, later then. | 🔨 | Магистр Клод, Приорат Дурманд |
+| `new_153.csv` | new | 500 | 18,484 | Our new friends have chosen wisely. We make o | 🔨 | Магистр Клод, Приорат Дурманд |
 | `new_154.csv` | new | 500 | 16,105 | Pioneer Golem 02 |  |  |
 | `new_155.csv` | new | 500 | 18,061 | Preparations are underway for a celebratory c |  |  |
 | `new_156.csv` | new | 500 | 16,702 | Ravisseur |  |  |
