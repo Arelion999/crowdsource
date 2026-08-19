@@ -96,7 +96,10 @@ EDGE_WS = " \t             　"
 NOSPACE = re.compile(r'\s+')
 # Подпись письма: последняя строка вида «—Rytlock», «— Warmaster Jofast».
 SIGNATURE = re.compile(r'\n[ \t]*[—–][ \t]*([^\n]{2,40})[ \t]*$')
-PLURAL_EN = re.compile(r'\[s\]|\[pl:')
+# ["s"] — тот же плюрал-маркер, только кавычки уехали внутрь скобки (ArenaNet,
+# «Recollection["s"] of the Bearkin's Hunts»). Без этого варианта правило считает,
+# что склонять не по чему, и ругается на верную группу форм.
+PLURAL_EN = re.compile(r'\[s\]|\[pl:|\["s"\]')
 NUM_PH = re.compile(r'%num\d*%')
 # «Recipe[s]: », «Trophy: » — структурный префикс имени предмета. Если в переводе
 # нет двоеточия, слово-префикс просто потеряли (так new_023 лишился всех «Рецепт»).
