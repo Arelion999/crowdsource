@@ -204,8 +204,8 @@ EMP Mine,ЭМИ-мина
 ERROR: Golem control array has insufficient bandwidth to control more golems of this type.,"ОШИБКА: у управляющей матрицы големов не хватает пропускной способности, чтобы вести ещё големов этого типа."
 EXIT INTERFACE,ВЫХОД ИЗ ИНТЕРФЕЙСА
 EXP,ОПЫТ
-EXPG,
-EXPM +%num1%,
+EXPG,EXPG
+EXPM +%num1%,EXPM +%num1%
 "Each aspect of real beings was needed: their freedom, their strength. And yes, even their suffering. It was the only way.","Нужна была каждая грань настоящих существ: их свобода, их сила. И да, даже их страдание. Иначе было нельзя."
 Each awakened conduit increases Decima's outgoing damage. Stacks intensity.,Каждый пробуждённый проводник повышает исходящий урон Децимы. Складывается по силе.
 "Each krewe brings its finest golem to battle in the arena. Whichever golem is still standing at fight's end is declared the victor. That krewe also wins the title of ""superior golemancer!""","Каждая команда выставляет на арену своего лучшего голема. Тот голем, что устоит к концу боя, объявляется победителем. Его команда получает и звание «превосходного големанта»!"
@@ -245,10 +245,10 @@ Edmonds's Greatsword,Двуручный меч Эдмондса
 Eee!,И-и!
 Effigy Scrap,Обломок изваяния
 Effigy of the Deceased,Изваяние усопшего
-Effort Up Major Breathe 01,
-Effort Up Major Breathe 02,
-Effort Up Major Breathe 03,
-Effort Up Major Breathe 04,
+Effort Up Major Breathe 01,"Усилие, большой вдох 01"
+Effort Up Major Breathe 02,"Усилие, большой вдох 02"
+Effort Up Major Breathe 03,"Усилие, большой вдох 03"
+Effort Up Major Breathe 04,"Усилие, большой вдох 04"
 Efforts are underway to cleanse Ox's shrine.,Идёт работа по очищению святилища Быка.
 Efforts are underway to cleanse Wolverine's shrine.,Идёт работа по очищению святилища Росомахи.
 Efia Adana,Эфия Адана
