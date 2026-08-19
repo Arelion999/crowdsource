@@ -273,7 +273,10 @@ def cmd_claim(a):
     parts = lines[hit].split("|")
     if len(parts) < 4:
         sys.exit(f"неожиданный формат строки: {lines[hit][:80]}")
-    parts[-3] = "  " if a.unclaim else " ✅ "
+    # ✅ на доске значит «пустых ячеек не осталось» и ставится только при 100%.
+    # Захват батча в работу — это 🔨, иначе доска врёт: пустой батч числится готовым.
+    mark = "  " if a.unclaim else (" ✅ " if a.done else " 🔨 ")
+    parts[-3] = mark
     parts[-2] = "  " if a.unclaim else f" {a.who} "
     lines[hit] = "|".join(parts)
     open(CLAIMS, "w", encoding="utf-8", newline="").write("\n".join(lines))
@@ -307,6 +310,8 @@ def main():
     p.add_argument("batch")
     p.add_argument("--who", default=DEFAULT_WHO)
     p.add_argument("--unclaim", action="store_true")
+    p.add_argument("--done", action="store_true",
+                   help="поставить ✅ вместо 🔨 — только когда пустых ячеек не осталось")
     p.set_defaults(fn=cmd_claim)
 
     a = ap.parse_args()
