@@ -5,7 +5,7 @@ You have received extra map-bonus reward points.,Вы получили допо�
 You have recently overheated and cannot reactivate Photon Forge.,Вы недавно перегрелись и не можете снова включить Фотонную кузню.
 You have recently transferred and may not perform another transfer at this time.Transfer Availability In: %str1%,Вы недавно совершали перенос и пока не можете выполнить ещё один.Перенос будет доступен через: %str1%
 You have removed your motivation and are now tracking tier 1 rifts.,Вы убрали своё побуждение и теперь отслеживаете разломы 1-го уровня.
-You have repeated the maximum PvP rank %num1% time[s].,Вы повторили максимальный ранг PvP %num1% раз[|а|].
+You have repeated the maximum PvP rank %num1% time[s].,Вы повторили максимальный ранг PvP %num1% [раз|раза|раз].
 You have rescued Queen Jennah!,Вы спасли королеву Дженну!
 You have run out of bait.,У вас закончилась наживка.
 You have run out of Rare Motivations. Obtain more Rare Motivations to continue hunting tier 3 rifts.,"У вас закончились редкие побуждения. Раздобудьте ещё редких побуждений, чтобы продолжать охоту на разломы 3-го уровня."
@@ -111,8 +111,8 @@ You learned a skill: %str1%,Вы изучили умение: %str1%
 You left the recon route and have been disqualified.,Вы сошли с разведмаршрута и дисквалифицированы.
 "You live near Andrew's tavern. He and his daughter Petra have always been there for you. They even visited while you were recovering, even though they have problems of their own, including a recent increase in street crime.","Вы живёте близ таверны Эндрю. Он и его дочь Петра всегда были рядом с вами. Они даже навещали вас, пока вы поправлялись, хотя у них и своих бед хватает — в том числе недавний всплеск уличной преступности."
 You lose 5 resilience each time you're hit.,Вы теряете 5 стойкости при каждом попадании по вам.
-You lost %num1% pip[s] for deserting the game.,Вы потеряли %num1% делени[е|я|й] за дезертирство из игры.
-You lost %num1% pip[s] from your defeat.,Вы потеряли %num1% делени[е|я|й] из-за поражения.
+You lost %num1% pip[s] for deserting the game.,Вы потеряли %num1% [деление|деления|делений] за дезертирство из игры.
+You lost %num1% pip[s] from your defeat.,Вы потеряли %num1% [деление|деления|делений] из-за поражения.
 You lost.,Вы проиграли.
 You made Cook Forah happy.,Вы порадовали повариху Фору.
 You made it!,Вы справились!
@@ -273,8 +273,8 @@ You must have Adrenal Mushrooms unlocked in order to use this.,"Чтобы эт�
 You must have an ally targeted to use that skill.,"Чтобы применить это умение, нужно выбрать целью союзника."
 You must have an enemy or ally targeted to use that skill.,"Чтобы применить это умение, нужно выбрать целью врага или союзника."
 You must have an enemy targeted to use that skill.,"Чтобы применить это умение, нужно выбрать целью врага."
-You must have at least %num1% open space[s] in your inventory to pick up this item.,"Чтобы подобрать этот предмет, в инвентаре должно быть свободно хотя бы %num1% мест[о|а|]."
-You must have at least %num1% open space[s] in your inventory to use this item.,"Чтобы использовать этот предмет, в инвентаре должно быть свободно хотя бы %num1% мест[о|а|]."
+You must have at least %num1% open space[s] in your inventory to pick up this item.,"Чтобы подобрать этот предмет, в инвентаре должно быть свободно хотя бы %num1% [место|места|мест]."
+You must have at least %num1% open space[s] in your inventory to use this item.,"Чтобы использовать этот предмет, в инвентаре должно быть свободно хотя бы %num1% [место|места|мест]."
 "You must have at least Fractal Empowerment 2, Karmic Retribution 2, and Agony Impedance 2 to purchase Mist Attunement.","Чтобы купить «Настройку на Туманы», нужны хотя бы «Усиление фракталов 2», «Кармическое воздаяние 2» и «Помеха агонии 2»."
 You must have Blazing Speed Mushrooms unlocked in order to use this.,"Чтобы это использовать, нужно разблокировать Грибы пылающей скорости."
 You must have both halves of the key to open the chest!,"Чтобы открыть сундук, нужны обе половины ключа!"
