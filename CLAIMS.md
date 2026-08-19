@@ -1,6 +1,6 @@
 # Батчи перевода GW2 RU — доска захвата
 
-Всего батчей: **996** | строк: **472,033** | заполнено: **456,163** (96.6%), пусто **15,870** | вычитано человеком: **99,855** (21.2%).
+Всего батчей: **996** | строк: **470,880** | заполнено: **459,204** (97.5%), пусто **11,676** | вычитано человеком: **102,896** (21.9%).
 
 > Чтобы забиндить батч — впиши свой ник и поставь 🔨 (в работе). Готово → ✅ + ссылка на файл/PR.
 >
@@ -960,17 +960,17 @@
 | `new_130.csv` | new | 500 | 36,225 | Baril vide | ✅ | K13or |
 | `new_131.csv` | new | 500 | 18,658 | Bonus en cours : Chances de réaliser un criti | ✅ | K13or |
 | `new_132.csv` | new | 500 | 19,569 | Can we go back, please? | ✅ | K13or |
-| `new_133.csv` | new | 500 | 20,832 | Check back often, as we discover new weapons, | 🔨 | Магистр Клод, Приорат Дурманд |
-| `new_134.csv` | new | 500 | 16,139 | Conteur[f:"Conteuse"] : Balthazar | 🔨 | Магистр Клод, Приорат Дурманд |
-| `new_135.csv` | new | 500 | 22,048 | Daze • Stun • Bleed | 🔨 | Магистр Клод, Приорат Дурманд |
-| `new_136.csv` | new | 500 | 23,793 | Dodges attacks periodically, granted upon def | 🔨 | Магистр Клод, Приорат Дурманд |
-| `new_137.csv` | new | 500 | 16,578 | Emogg, l'Animorphe | 🔨 | Магистр Клод, Приорат Дурманд |
-| `new_138.csv` | new | 500 | 16,303 | Explorateur[f:"Exploratrice "] d'Orr | 🔨 | Магистр Клод, Приорат Дурманд |
-| `new_139.csv` | new | 500 | 15,835 | Focus main gauche | 🔨 | Магистр Клод, Приорат Дурманд |
-| `new_140.csv` | new | 500 | 19,822 | Gift[s] of the World | 🔨 | Магистр Клод, Приорат Дурманд |
-| `new_141.csv` | new | 500 | 26,019 | Ha-ha. Good times. | 🔨 | Магистр Клод, Приорат Дурманд |
+| `new_133.csv` | new | 500 | 20,832 | Check back often, as we discover new weapons, | ✅ | Магистр Клод, Приорат Дурманд |
+| `new_134.csv` | new | 500 | 16,139 | Conteur[f:"Conteuse"] : Balthazar | ✅ | Магистр Клод, Приорат Дурманд |
+| `new_135.csv` | new | 500 | 22,048 | Daze • Stun • Bleed | ✅ | Магистр Клод, Приорат Дурманд |
+| `new_136.csv` | new | 500 | 23,793 | Dodges attacks periodically, granted upon def | ✅ | Магистр Клод, Приорат Дурманд |
+| `new_137.csv` | new | 500 | 16,578 | Emogg, l'Animorphe | ✅ | Магистр Клод, Приорат Дурманд |
+| `new_138.csv` | new | 500 | 16,303 | Explorateur[f:"Exploratrice "] d'Orr | ✅ | Магистр Клод, Приорат Дурманд |
+| `new_139.csv` | new | 500 | 15,835 | Focus main gauche | ✅ | Магистр Клод, Приорат Дурманд |
+| `new_140.csv` | new | 500 | 19,822 | Gift[s] of the World | ✅ | Магистр Клод, Приорат Дурманд |
+| `new_141.csv` | new | 500 | 26,019 | Ha-ha. Good times. | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_142.csv` | new | 500 | 34,191 | How can I say no to Captain Lo— | ✅ | K13or |
-| `new_143.csv` | new | 500 | 31,141 | I know. I helped get the cows back in, rememb | 🔨 | Магистр Клод, Приорат Дурманд |
+| `new_143.csv` | new | 500 | 31,141 | I know. I helped get the cows back in, rememb | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_144.csv` | new | 500 | 34,305 | I'm fairly confident we'll prevail. |  |  |
 | `new_145.csv` | new | 500 | 23,139 | In readiness, stillness. |  |  |
 | `new_146.csv` | new | 500 | 29,355 | It's nice to meet you, Master. Can you tell m |  |  |
