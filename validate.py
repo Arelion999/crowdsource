@@ -231,12 +231,21 @@ def load_glossary_bans(path=None):
             ban_re = [(b, re.compile(ban_pattern(b),
                                      0 if b.lower() == cells[1].lower() else re.I))
                       for b in bans]
-            rules.append((en_re, cells[1], ban_re))
+            # Запрет бывает куском самого канона: «Огненное Сердце» лежит внутри
+            # «Возвышенности Огненного Сердца», «Гендарран» — внутри «Гендарранских
+            # полей». Без оговорки правило ругается на верный перевод.
+            canon_re = re.compile(ban_pattern(cells[1].split(' / ')[0]), re.I)
+            rules.append((en_re, cells[1], ban_re, canon_re))
     return rules
 
 # Слово, при котором запрет снимается: оно само законно переводится запрещённой
 # формой, и правило иначе даёт ложное срабатывание.
 GLOSS_ALSO_OK = {'Скайскейл': 'griffon'}
+# Правило иногда цепляет однокоренной оригинал, к которому канон не относится:
+# «Sovereign» в глоссарии — про сет оружия, а Sovereign of Nayos — глава сюжета,
+# Sovereign Eye of Zhaitan — босс. Их канон не касается.
+GLOSS_SKIP_EN = {'«Властелин»': r"Sovereign(?:'s|\s+(?:of|Eye))|(?:Mother|High)\s+Sovereign"
+                                r'|(?<![A-Za-z])sovereign(?![A-Za-z])'}
 
 GLOSSARY_BANS = load_glossary_bans()
 
@@ -730,7 +739,7 @@ def check_row(en, ru):
     gm = GENDER_MARK.match(en)
     if gm and not ru.startswith(f'[{gm.group(1)}]'):
         errs.append(f"потерян родовой маркер [{gm.group(1)}] в начале строки")
-    for en_re, canon, bans in GLOSSARY_BANS:
+    for en_re, canon, bans, canon_re in GLOSSARY_BANS:
         if not en_re.search(en):
             continue
         # Запрет привязан к оригиналу, но иногда в строке стоят оба существа сразу:
@@ -738,8 +747,13 @@ def check_row(en, ru):
         # скайскейла, а честный перевод соседнего слова.
         if canon in GLOSS_ALSO_OK and re.search(GLOSS_ALSO_OK[canon], en, re.I):
             continue
+        if canon in GLOSS_SKIP_EN and re.search(GLOSS_SKIP_EN[canon], en, re.I):
+            continue
+        # Места, занятые каноном: попадание запрета внутрь них не в счёт.
+        ok = [m.span() for m in canon_re.finditer(ru)]
         for bad, bad_re in bans:
-            if bad_re.search(ru):
+            if any(not any(a <= m.start() and m.end() <= z for a, z in ok)
+                   for m in bad_re.finditer(ru)):
                 errs.append(f"форма «{bad}» запрещена глоссарием, канон — «{canon}»")
     if STRESS_ANY.search(STRESS_OK.sub('', ru)):
         errs.append("знак ударения не на гласной (мусор от набора)")
