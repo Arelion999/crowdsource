@@ -132,20 +132,33 @@ You look like a tree. Stay still to avoid detection.
 
 Stun your target with a nonlethal compression bolt. The launcher holds three bolts and can be reloaded when empty.
 
-<c=@warning>Note:</c> Reloading the launcher generates heat.","<c=#B0B0B0>Выработано тепла:</c> <c=#F8C56E>0</c>Оглушите цель несмертельным сжимающим болтом. В пусковом устройстве три болта, и его можно перезарядить, когда оно опустеет.<c=@warning>Примечание:</c> перезарядка устройства вырабатывает тепло."
+<c=@warning>Note:</c> Reloading the launcher generates heat.","<c=#B0B0B0>Выработано тепла:</c> <c=#F8C56E>0</c>
+
+Оглушите цель несмертельным сжимающим болтом. В пусковом устройстве три болта, и его можно перезарядить, когда оно опустеет.
+
+<c=@warning>Примечание:</c> перезарядка устройства вырабатывает тепло."
 "<c=#B0B0B0>Heat generated:</c> <c=#F8C56E>1–3</c>
 
 Compress up to three new stun bolts.
 
-<c=@warning>Note:</c> Should the heat capacity allow it, the arm will only produce three bolts to prevent itself from overheating. If it's close to overheating, fewer bolts will be produced.","<c=#B0B0B0>Выработано тепла:</c> <c=#F8C56E>1–3</c>Сожмите до трёх новых оглушающих болтов.<c=@warning>Примечание:</c> если позволит запас тепла, рука произведёт лишь три болта, чтобы не перегреться. Если перегрев близок, болтов будет меньше."
+<c=@warning>Note:</c> Should the heat capacity allow it, the arm will only produce three bolts to prevent itself from overheating. If it's close to overheating, fewer bolts will be produced.","<c=#B0B0B0>Выработано тепла:</c> <c=#F8C56E>1–3</c>
+
+Сожмите до трёх новых оглушающих болтов.
+
+<c=@warning>Примечание:</c> если позволит запас тепла, рука произведёт лишь три болта, чтобы не перегреться. Если перегрев близок, болтов будет меньше."
 "<c=#B0B0B0>Heat generated:</c> <c=#F8C56E>1–Maintains</c>
 
 Toggle Arboreal Camouflage, which increases heat levels by one constant unit when active.
 
 All enemies, even those who are alert or suspicious, will pay no attention to a motionless tree. Health will not regenerate and gliding is unavailable while camouflaged.
 
-<c=@warning>Note:</c> A moving tree attracts attention.","<c=#B0B0B0>Выработано тепла:</c> <c=#F8C56E>1 — поддержание</c>Переключает «Древесную маскировку», которая при включении постоянно повышает уровень тепла на единицу.
-Все враги, даже настороженные и подозрительные, не обратят внимания на неподвижное дерево. Пока маскировка активна, здоровье не восстанавливается, а планирование недоступно.<c=@warning>Примечание:</c> движущееся дерево привлекает внимание."
+<c=@warning>Note:</c> A moving tree attracts attention.","<c=#B0B0B0>Выработано тепла:</c> <c=#F8C56E>1 — поддержание</c>
+
+Переключает «Древесную маскировку», которая при включении постоянно повышает уровень тепла на единицу.
+
+Все враги, даже настороженные и подозрительные, не обратят внимания на неподвижное дерево. Пока маскировка активна, здоровье не восстанавливается, а планирование недоступно.
+
+<c=@warning>Примечание:</c> движущееся дерево привлекает внимание."
 "<c=#B0B0B0>Heat generated:</c> <c=#F8C56E>2</c>
 
 Teleport to the targeted location.
@@ -159,7 +172,11 @@ Teleport to the targeted location.
 
 Instantly electrocutes a target. Heat is generated upon successful attacks.
 
-<c=@warning>Note:</c> This attack will only succeed if the target is in range and unaware of your presence. A successful attack will cause nearby enemies to detect you.","<c=#B0B0B0>Выработано тепла:</c> <c=#F8C56E>4</c>Мгновенно бьёт цель током. Тепло вырабатывается при успешных атаках.<c=@warning>Примечание:</c> эта атака удастся, только если цель в пределах досягаемости и не подозревает о вашем присутствии. Успешная атака заставит ближайших врагов вас обнаружить."
+<c=@warning>Note:</c> This attack will only succeed if the target is in range and unaware of your presence. A successful attack will cause nearby enemies to detect you.","<c=#B0B0B0>Выработано тепла:</c> <c=#F8C56E>4</c>
+
+Мгновенно бьёт цель током. Тепло вырабатывается при успешных атаках.
+
+<c=@warning>Примечание:</c> эта атака удастся, только если цель в пределах досягаемости и не подозревает о вашем присутствии. Успешная атака заставит ближайших врагов вас обнаружить."
 <c=#F2D479>                    </c>,<c=#F2D479>                    </c>
 <c=#F2D479>                   </c>,<c=#F2D479>                   </c>
 <c=#F2D479>                  </c>,<c=#F2D479>                  </c>
@@ -296,7 +313,13 @@ From those who are just beginning their spellcasting journey to those who are lo
 
 Since his own spellcasting journey began nearly two-hundred years ago, Tobias Ludwig sought to dedicate his life to the study of ward spells and their application. Ultimately, this pursuit grew to include what Ludwig would eventually refer to as his life's calling: teaching.  
 
-Ludwig's introduction to ward spells was as humble as his roots. After putting in an exhausting day's work on his family's farm, he and his twin brother Elias would retire to the barn and blow off steam the way siblings do best: smacking each other senseless. It was these formative years of roughhousing that gave Ludwig ample opportunity to test out his spellcasting skills. Elias proved a worthy and more-than-willing opponent. And since Tobias had no desire to cause actual damage to his brother (not to mention that their mother would have been furious), protection wards became his personal favorite. Hard to imagine that sibling roughhousing would get the ball rolling on what would eventually become some of the most groundbreaking developments in magical defensive work of the modern age.","Руководство для начинающих по сотворению, развеиванию и основам заклинаний От тех, кто лишь начинает свой путь заклинателя, до тех, кто ищет доступный обзор основ оберегающих чар, — «Ludwig's» стремится быть настольным справочником по всевозможному сотворению, развеиванию и заклинаниям. С тех пор как собственный путь заклинателя начался почти двести лет назад, Tobias Ludwig стремился посвятить жизнь изучению оберегающих чар и их применения. В конце концов это устремление разрослось до того, что Ludwig впоследствии назовёт делом всей своей жизни: обучения. Знакомство Ludwig с оберегающими чарами было столь же скромным, как и его корни. Отработав изнурительный день на семейной ферме, он и его брат-близнец Elias удалялись в амбар и спускали пар так, как лучше всего умеют братья: колошматя друг друга до одури. Именно эти становящие годы потасовок дали Ludwig вдоволь случаев испытать свои навыки заклинателя. Elias оказался достойным и более чем охочим противником. А поскольку у Tobias не было желания причинять брату настоящий вред (не говоря уж о том, что их мать пришла бы в ярость), защитные обереги стали его личным любимцем. Трудно вообразить, что братская возня положит начало тому, что со временем станет одними из самых новаторских достижений в магической оборонительной работе современной эпохи."
+Ludwig's introduction to ward spells was as humble as his roots. After putting in an exhausting day's work on his family's farm, he and his twin brother Elias would retire to the barn and blow off steam the way siblings do best: smacking each other senseless. It was these formative years of roughhousing that gave Ludwig ample opportunity to test out his spellcasting skills. Elias proved a worthy and more-than-willing opponent. And since Tobias had no desire to cause actual damage to his brother (not to mention that their mother would have been furious), protection wards became his personal favorite. Hard to imagine that sibling roughhousing would get the ball rolling on what would eventually become some of the most groundbreaking developments in magical defensive work of the modern age.","Руководство для начинающих по сотворению, развеиванию и основам заклинаний
+
+От тех, кто лишь начинает свой путь заклинателя, до тех, кто ищет доступный обзор основ оберегающих чар, — «Ludwig's» стремится быть настольным справочником по всевозможному сотворению, развеиванию и заклинаниям.
+
+С тех пор как собственный путь заклинателя начался почти двести лет назад, Tobias Ludwig стремился посвятить жизнь изучению оберегающих чар и их применения. В конце концов это устремление разрослось до того, что Ludwig впоследствии назовёт делом всей своей жизни: обучения.
+
+Знакомство Ludwig с оберегающими чарами было столь же скромным, как и его корни. Отработав изнурительный день на семейной ферме, он и его брат-близнец Elias удалялись в амбар и спускали пар так, как лучше всего умеют братья: колошматя друг друга до одури. Именно эти становящие годы потасовок дали Ludwig вдоволь случаев испытать свои навыки заклинателя. Elias оказался достойным и более чем охочим противником. А поскольку у Tobias не было желания причинять брату настоящий вред (не говоря уж о том, что их мать пришла бы в ярость), защитные обереги стали его личным любимцем. Трудно вообразить, что братская возня положит начало тому, что со временем станет одними из самых новаторских достижений в магической оборонительной работе современной эпохи."
 A Blade to the Gut,Клинок в брюхо
 A Blizzard Sweeps In,Надвигается метель
 A Bloodstone-Crazed Beast Has Appeared,Появился обезумевший от камня крови зверь
@@ -316,8 +339,13 @@ Ingredients:
 - Fish Fillet  
 - Rice  
 - Seaweed  
-- Crawfish","Кантийский фаворит, даже для тех, кто отказывается его пробовать. Отлично для свиданий втроём! Ингредиенты: - Рыбное филе - Рис - Морская капуста - Раки
--Crawfish"
+- Crawfish","Кантийский фаворит, даже для тех, кто отказывается его пробовать. Отлично для свиданий втроём!
+
+Ингредиенты:
+- Рыбное филе
+- Рис
+- Морская капуста
+- Раки"
 A Captain's Journal,Журнал капитана
 A Chance Encounter,Случайная встреча
 A Charged Bouquet for Kodama,Заряженный букет для Кодамы
@@ -398,8 +426,13 @@ INGREDIENTS:
 - Cooked Meat  
 - Tomato  
 - Herbs  
-- Eggs","Классика и любимец завсегдатаев полей потасовок. Травы уравновешивают дичный привкус мяса, а кислинка помидора помогает его размягчить. Лучше всего подавать средней прожарки с буханкой хлеба. ИНГРЕДИЕНТЫ: - Готовое мясо - Помидор - Травы - Яйца
--Eggs"
+- Eggs","Классика и любимец завсегдатаев полей потасовок. Травы уравновешивают дичный привкус мяса, а кислинка помидора помогает его размягчить. Лучше всего подавать средней прожарки с буханкой хлеба.
+
+ИНГРЕДИЕНТЫ:
+- Готовое мясо
+- Помидор
+- Травы
+- Яйца"
 A conjured doorway cannot be summoned in this map.,На этой карте нельзя призвать создаваемый проход.
 "A copy of the text ""Novvi's Science Journals"" with several notes scribbled in the margins. They seem to be rather critical of the text's proposed theories.
 
@@ -609,8 +642,13 @@ INGREDIENTS:
 - Cooked Meat  
 - Tomato  
 - Pumpkin  
-- Carrot","Сытная порция похлёбки, особенно хороша в зимнюю пору. Мясо вальравна на удивление вкусно, особенно в сочетании с корнеплодами и тыквой на гарнир. Однако его нужно томить на среднем огне, иначе мясо затвердеет до каменистой текстуры и станет несъедобным. ИНГРЕДИЕНТЫ: - Готовое мясо - Помидор - Тыква - Морковь
--Carrot"
+- Carrot","Сытная порция похлёбки, особенно хороша в зимнюю пору. Мясо вальравна на удивление вкусно, особенно в сочетании с корнеплодами и тыквой на гарнир. Однако его нужно томить на среднем огне, иначе мясо затвердеет до каменистой текстуры и станет несъедобным.
+
+ИНГРЕДИЕНТЫ:
+- Готовое мясо
+- Помидор
+- Тыква
+- Морковь"
 A helping hand is needed around the festival.,На фестивале нужна помощь.
 A hidden conjured doorway is already in this location.,В этом месте уже есть скрытый создаваемый проход.
 A large map for distance testing.,Большая карта для проверки дистанции.
@@ -779,7 +817,9 @@ A strong foe is preparing to attack your ally.,Сильный враг гото�
 The longer you look at them the more they seem to move slightly, as if attempting to change shape. You can't discern anything from the pattern, but they match the cadence of written language.
 
 When you blink, you can still see the symbols on the inside of your eyelids.","Табличка из странного чёрного камня, что слабо светится. Её поверхность покрыта знаками, но они не совпадают ни с известными метками криптис, ни с каким-либо тирийским языком.
+
 Чем дольше на них смотришь, тем сильнее кажется, что они слегка движутся, будто пытаясь сменить форму. Из узора ничего не разобрать, но он совпадает по строю с письменной речью.
+
 Когда моргаешь, знаки всё ещё видны на внутренней стороне век."
 A team captain already exists. Are you sure you want to replace the team captain?,Капитан команды уже назначен. Заменить капитана команды?
 A tidal pool is about to appear at your location!,На вашем месте вот-вот появится приливная лужа!
@@ -827,8 +867,15 @@ we promise to marry each other
 so we aren't old and alone.
 
 Signed,  
-Min & Rama","Потёртая записка, написанная детским почерком. Похоже, в ней намекается, что 30 лет — это «старость». Брачный договор Если к 30 мы не женаты, обещаем пожениться друг с другом, чтобы не быть старыми и одинокими.
-Подписано, Мин и Рама"
+Min & Rama","Потёртая записка, написанная детским почерком. Похоже, в ней намекается, что 30 лет — это «старость».
+
+Брачный договор
+Если к 30 мы не женаты,
+обещаем пожениться друг с другом,
+чтобы не быть старыми и одинокими.
+
+Подписано,
+Мин и Рама"
 "APPROVED:
 
 Ley-Energy Distillation Module: Distills ley energy down to its most pure form, essential for uses where any impurities would be dangerous.
@@ -974,15 +1021,25 @@ Well, do I have an opportunity for you. Treasure is out there for the taking, ne
 —Astora
 
 P.S. As a taste of the action awaiting you, I'll give you a treasure key just for stopping by. Don't keep me waiting!","Искатели приключений, у вас полно загадочных ключей, но не хватает замков? Хотите разнообразить источники добычи? Или просто ненавидите крайтов?
-Что ж, у меня для вас есть предложение. Сокровища лежат и ждут — под волнами открытых вод. Загляните ко мне во Львиную Арку и узнайте, как влиться в дело.—АсторР.
-S. Чтобы вы распробовали, я дам вам ключ от сокровищницы просто за визит. Не заставляйте меня ждать!"
+
+Что ж, у меня для вас есть предложение. Сокровища лежат и ждут — под волнами открытых вод. Загляните ко мне во Львиную Арку и узнайте, как влиться в дело.
+
+—Астор
+
+P.S. Чтобы вы распробовали, я дам вам ключ от сокровищницы просто за визит. Не заставляйте меня ждать!"
 "After ""escaping,"" I have moved on to an observation point along what I believe to be the southern edge of Inner Nayos, overlooking a hive of loyalist activity.  
   
 The ""rabble""—who seem to have taken pity on me, sharing bits of edible flora—incessantly reiterate that the area was not the loyalists' to occupy and that their presence is unwanted. Given the unfriendly nature of the Kryptis roaming the area, I can understand their anger.  
   
 My new friends seem to greatly fear the nearby area to the west, which I will attempt to observe next. One of my benefactors—Skup, the others call him—referred to it as something like, ""the door things only go in.""  
   
-—Operative Selly","После «побега» я перебралась к наблюдательной точке вдоль того, что считаю южной кромкой Внутреннего Найоса, с видом на улей лоялистской возни. «Сброд» — который, кажется, надо мной сжалился и делится съедобной флорой — беспрестанно твердит, что эти края лоялистам занимать не пристало и что их присутствие нежеланно. Учитывая недружелюбие бродящих здесь криптис, их гнев мне понятен. Мои новые друзья, похоже, сильно боятся ближайшей области к западу, за которой я попробую понаблюдать следующей. Один из моих благодетелей — прочие зовут его Скуп — назвал её как-то вроде «дверь, куда только входят». —Оперативница Селли"
+—Operative Selly","После «побега» я перебралась к наблюдательной точке вдоль того, что считаю южной кромкой Внутреннего Найоса, с видом на улей лоялистской возни.
+
+«Сброд» — который, кажется, надо мной сжалился и делится съедобной флорой — беспрестанно твердит, что эти края лоялистам занимать не пристало и что их присутствие нежеланно. Учитывая недружелюбие бродящих здесь криптис, их гнев мне понятен.
+
+Мои новые друзья, похоже, сильно боятся ближайшей области к западу, за которой я попробую понаблюдать следующей. Один из моих благодетелей — прочие зовут его Скуп — назвал её как-то вроде «дверь, куда только входят».
+
+—Оперативница Селли"
 "After Westergard found that old journal, everyone's been wanted to carve out some sort of town history for Hullgarden. Aside from stories told by the folks that have been here longest—current winner being Granny Bog, sitting pretty at ninety-six years—we don't know a whole lot.   
    
 Granny Bog says that when her grandpap's grandpap arrived at Castora, all they could find was a couple of hulls dragged up shore. Found an old firepit, too, but it hadn't been used in months—or years. They turned those hulls into Hullgarden and the rest is history. But who knows how many ""Hullgardens"" there were before us... I shudder to think how many souls have been stranded here. Probably fared a whole lot worse than us, too.  
@@ -1129,7 +1186,7 @@ Should this nonsense persist—both the placement of vile literature in my libra
 Каждая глава, рассказанная через эти ужасные, эротические встречи с женщиной-каппой Рейко, заканчивается неким «посылом» о большом влиянии Министерства Чистоты на «национальный позитив». Это возмутительно, и я боюсь, что подобный надуманный мусор может попасть в руки нашей молодежи. Есть порнография и получше, уверяю вас.
 
 Если эта ерунда продолжится — как размещение гнусной литературы в моей библиотеке, так и её производство — мне, Министру Приде, придётся принять меры."
-"After returning from the Mists, Marjory requested my presence at the Dead End Bar to help figure out Scarlet's endgame. With some help from Emissary Vorpp, we pored over the evidence.Scarlet—Ceara back then—had studied at all three asura colleges and attracted the attention of Omadd, who wanted to understand the very nature of the Eternal Alchemy. Omadd took Ceara on as an assistant and eventually experimented on her with a special mind-isolating machine. As her mind was exposed to Tyria's magical network, she encountered something that drove her mad. Sporting a new name, Scarlet went on to make friends and allies of various outcast factions across Tyria, pairing them together for their mutual benefit, but also her own. These groups began to terrorize the lands from Ascalon to Kryta all while she set up her probes, virtually unnoticed. She used intel about ley lines gathered from her studies in Rata Sum and her time in the Inquest to narrow her list of targets. Her tampering with the watchknights allowed her the chance to bolster her ranks and reverse engineer and modify future versions. Finally, Scarlet's ploy to install Captain Mai Trin on the Captain's Council in Lion's Arch was attempted to weaken the city's defenses and leadership from the inside. Mai Trin ultimately failed, but with the rest of the evidence taken into consideration—Scarlet's gathering armies, airships, and equipment; probes searching for ley lines; assassinations—we came to an alarming conclusion: Scarlet Briar's next target was Lion's Arch.","Вернувшись из Туманов, Марджори попросила меня прийти в бар «Тупик», чтобы помочь разобраться с конечной целью Скарлет. С помощью посланника Ворппа мы изучили улики. Скарлет — тогда ещё Сиара — училась во всех трёх асурских колледжах и привлекла внимание Омадда, который хотел понять саму суть Вечного Алхимика. Омадд взял Сиару в помощницы и в конце концов провёл над ней эксперимент с помощью специальной машины, изолирующей разум. Когда её разум соприкоснулся с магической сетью Тирии, она столкнулась с чем-то, что свело её с ума. Приняв новое имя, Скарлет начала заводить друзей и союзников среди различных изгоев по всей Тирии, объединяя их для взаимной выгоды, но также и для своей. Эти группы начали терроризировать земли от Аскалона до Крайты, пока она незаметно устанавливала свои зонды. Она использовала информацию о линиях магии, полученную во время учёбы в Рата-Суме и работы в Инквесте, чтобы сузить список целей. Её вмешательство в работу часовых рыцарей позволило ей укрепить свои ряды, а также провести обратную разработку и модифицировать будущие версии. Наконец, попытка Скарлет посадить капитана Май Трин в Совет капитанов Львиного Архива была направлена на ослабление обороны города и руководства изнутри. Май Трин в конечном счёте потерпела неудачу, но с учётом всех остальных улик — армий, дирижаблей и снаряжения, собранных Скарлет; зондов, ищущих линии магии; убийств — мы пришли к тревожному выводу: следующей целью Скарлет Брайер был Львиный Архив."
+"After returning from the Mists, Marjory requested my presence at the Dead End Bar to help figure out Scarlet's endgame. With some help from Emissary Vorpp, we pored over the evidence.Scarlet—Ceara back then—had studied at all three asura colleges and attracted the attention of Omadd, who wanted to understand the very nature of the Eternal Alchemy. Omadd took Ceara on as an assistant and eventually experimented on her with a special mind-isolating machine. As her mind was exposed to Tyria's magical network, she encountered something that drove her mad. Sporting a new name, Scarlet went on to make friends and allies of various outcast factions across Tyria, pairing them together for their mutual benefit, but also her own. These groups began to terrorize the lands from Ascalon to Kryta all while she set up her probes, virtually unnoticed. She used intel about ley lines gathered from her studies in Rata Sum and her time in the Inquest to narrow her list of targets. Her tampering with the watchknights allowed her the chance to bolster her ranks and reverse engineer and modify future versions. Finally, Scarlet's ploy to install Captain Mai Trin on the Captain's Council in Lion's Arch was attempted to weaken the city's defenses and leadership from the inside. Mai Trin ultimately failed, but with the rest of the evidence taken into consideration—Scarlet's gathering armies, airships, and equipment; probes searching for ley lines; assassinations—we came to an alarming conclusion: Scarlet Briar's next target was Lion's Arch.","Вернувшись из Туманов, Марджори попросила меня прийти в бар «Тупик», чтобы помочь разобраться с конечной целью Скарлет. С помощью посланника Ворппа мы изучили улики. Скарлет — тогда ещё Сиара — училась во всех трёх асурских колледжах и привлекла внимание Омадда, который хотел понять саму суть Вечного Алхимика. Омадд взял Сиару в помощницы и в конце концов провёл над ней эксперимент с помощью специальной машины, изолирующей разум. Когда её разум соприкоснулся с магической сетью Тирии, она столкнулась с чем-то, что свело её с ума. Приняв новое имя, Скарлет начала заводить друзей и союзников среди различных изгоев по всей Тирии, объединяя их для взаимной выгоды, но также и для своей. Эти группы начали терроризировать земли от Аскалона до Крайты, пока она незаметно устанавливала свои зонды. Она использовала информацию о лей-линиях, полученную во время учёбы в Рата-Суме и работы в Инквесте, чтобы сузить список целей. Её вмешательство в работу часовых рыцарей позволило ей укрепить свои ряды, а также провести обратную разработку и модифицировать будущие версии. Наконец, попытка Скарлет посадить капитана Май Трин в Совет капитанов Львиного Архива была направлена на ослабление обороны города и руководства изнутри. Май Трин в конечном счёте потерпела неудачу, но с учётом всех остальных улик — армий, дирижаблей и снаряжения, собранных Скарлет; зондов, ищущих лей-линии; убийств — мы пришли к тревожному выводу: следующей целью Скарлет Брайер был Львиный Архив."
 "After the obliteration of Apavim near the start of the war and our decisive victory in the Valley of Agony centuries later, our remaining luminaries and elders reconvened in Janthir, near the Golden Lake. They discussed suitable locations to break ground on a new city. A fresh start, free from the tyrannical oversight of the seers.  
   
 It did not take long for the gathered host to realize that our best option was beneath our very talons, in Janthir. We had long maintained an outpost at the lake; its enchanted waters were well suited for the crafting of our scrying eyes and other spell craft, as our ancestors in Nayos would do. Its importance made it a prime strategic target for the seers, one Yagon exploited to set our final trap.  
@@ -1186,9 +1243,17 @@ To get to the bazaar:
 
 Safe travels!
 —Captain Magnus","Эй, %str1%!
+
 Ты говорил, что заглянешь на Базар Четырёх Ветров, но при такой толчее я подумал, что ты оценишь этот маршрут. Поблагодаришь потом.
-Чтобы попасть на базар:— ступай в Гавань Санктум во Львиной Арке;— поговори с распорядителем перевозок к Лабиринтовым Утёсам;— сядь на корабль до Лабиринтовых Утёсов;— пройди через базар.
-Лёгкой дороги!—Капитан Магнус"
+
+Чтобы попасть на базар:
+— ступай в Гавань Санктум во Львиной Арке;
+— поговори с распорядителем перевозок к Лабиринтовым Утёсам;
+— сядь на корабль до Лабиринтовых Утёсов;
+— пройди через базар.
+
+Лёгкой дороги!
+—Капитан Магнус"
 "Ai,
 
 Read this one alone.
@@ -1347,7 +1412,11 @@ Ale Cart,Тележка с элем
 
 Thank you.
 
-—Meinolf Njordson","У всех охотников, что кормят Ньордстед, включая меня, недавно вырос улов. Хватило даже насушить и отложить впрок. Полагаю, это стало возможно благодаря твоей помощи. Спасибо.—Мейнольф Ньордсон"
+—Meinolf Njordson","У всех охотников, что кормят Ньордстед, включая меня, недавно вырос улов. Хватило даже насушить и отложить впрок. Полагаю, это стало возможно благодаря твоей помощи.
+
+Спасибо.
+
+—Мейнольф Ньордсон"
 "All problems exist on a continuum, from the most immediate local effects at the bottom, up to their true source at the top. We've been told to focus on doing what good we can with what's directly in front of us, but why? Is it because this materially changes the problem, or merely because it's the most soothing balm we can apply on ourselves?
 
 Consider a river flowing down from the mountains, polluted with mining runoff. You can treat the water where it meets the village below, but this process will never end. Each gallon you purify will help a villager that day, but they will need you just as much the next. You must go upstream and stop the runoff, and that is where you will meet the true resistance, because that is where someone benefits from the way things are.
@@ -1355,8 +1424,11 @@ Consider a river flowing down from the mountains, polluted with mining runoff. Y
 This too is where our system fails, because it is far too easy for those with control to entrench themselves deeper. And the more they shore up their defenses, the more powerful of a force will be needed to remove them. I fear we have already passed the point where the mechanisms that exist within the system are inadequate for the task. Something more radical will be required, though as of yet, no one has been willing to step outside of what is to find what could be.
 
 But someone must.","Все беды существуют на некоем непрерывном отрезке — от самых непосредственных местных последствий внизу до их истинного истока наверху. Нам велят сосредоточиться на том, чтобы творить посильное добро с тем, что прямо перед нами, — но зачем? Оттого ли, что это существенно меняет саму беду, — или лишь оттого, что это самый успокоительный бальзам, каким мы можем умастить самих себя?
+
 Возьмём реку, что стекает с гор, отравленную рудничными стоками. Можно очищать воду там, где она встречает деревню внизу, но этому не будет конца. Каждый галлон, что ты очистишь, поможет жителю в тот день, но назавтра ты понадобишься ему ровно так же. Нужно идти вверх по течению и остановить стоки — и именно там ты встретишь настоящее сопротивление, ибо именно там кто-то извлекает выгоду из того, как всё устроено.
+
 И тут же наша система даёт сбой, ведь тем, у кого власть, слишком лёгко окапываться всё глубже. И чем крепче они укрепляют оборону, тем более могучая сила понадобится, чтобы их сместить. Боюсь, мы уже миновали ту черту, за которой существующие внутри системы механизмы неспособны справиться с задачей. Потребуется нечто более радикальное — хотя пока никто не пожелал выйти за пределы того, что есть, чтобы отыскать то, что могло бы быть.
+
 Но кто-то должен."
 "All who oppose our kingdom's repression of historical and scientific truth are grateful for your support of our efforts.
 
@@ -1382,7 +1454,13 @@ Those of us who care about them (and there's quite a few; turns out lots of peop
 
 Asked Pete if he had any ideas, but he just brought it back to talking about wavehawks, like always. Said something about how the wavehawks have managed to adapt to the magic here and use it to their advantage and whatnot (not writing it all down here, he goes on and on). The magic appears to maybe mess with the whales' ability to navigate.  
   
-At the very least, we can keep trying to shove them back into the water. No beached-whale explosions on my watch!","Киты всегда меня завораживали — ещё на большой земле. Умные, прекрасные создания. И всё же они то и дело выбрасываются здесь на отмель, при всём своём уме. Те из нас, кому они небезразличны (а таких немало; оказывается, куча народу любит китов!), придумали способ возвращать их в воду... иногда, во всяком случае. Мы стараемся как можем! Спросил Пита, нет ли у него идей, но он, как всегда, свёл всё к волноклювам. Толковал что-то о том, как волноклювы сумели приспособиться к здешней магии и обратить её себе на пользу, и всё в таком духе (не стану записывать всё целиком, его же не остановить). Похоже, магия, возможно, сбивает китам способность ориентироваться. По крайней мере, мы можем и дальше пытаться спихивать их обратно в воду. Никаких взрывов выброшенных китов на моём веку!"
+At the very least, we can keep trying to shove them back into the water. No beached-whale explosions on my watch!","Киты всегда меня завораживали — ещё на большой земле. Умные, прекрасные создания. И всё же они то и дело выбрасываются здесь на отмель, при всём своём уме.
+
+Те из нас, кому они небезразличны (а таких немало; оказывается, куча народу любит китов!), придумали способ возвращать их в воду... иногда, во всяком случае. Мы стараемся как можем!
+
+Спросил Пита, нет ли у него идей, но он, как всегда, свёл всё к волноклювам. Толковал что-то о том, как волноклювы сумели приспособиться к здешней магии и обратить её себе на пользу, и всё в таком духе (не стану записывать всё целиком, его же не остановить). Похоже, магия, возможно, сбивает китам способность ориентироваться.
+
+По крайней мере, мы можем и дальше пытаться спихивать их обратно в воду. Никаких взрывов выброшенных китов на моём веку!"
 "Always found whales fascinating, even back on the mainland. Smart, beautiful creatures. Yet they keep beaching themselves here on the strand, despite all their smarts.    Those of us who care about them (and there's quite a few; turns out lots of people love whales!) have figured out a way to get them back in the water...sometimes, anyhow. We do our best!  Asked Pete if he had any ideas, but he just brought it back to talking about wavehawks, like always. Said something about how the wavehawks have managed to adapt to the magic here and use it to their advantage and whatnot (not writing it all down here, he goes on and on). The magic appears to maybe mess with the whales' ability to navigate.    At the very least, we can keep trying to shove them back into the water. No beached-whale explosions on my watch!","Китообразные всегда меня завораживали, даже на материке. Умные, красивые существа. И всё же они выбрасываются на берег здесь, на отмели, несмотря на весь свой ум. Те из нас, кто заботится о них (а таких немало; оказывается, многие любят китов!), нашли способ вернуть их в воду... иногда, во всяком случае. Мы делаем всё возможное! Спросил Пита, есть ли у него какие-нибудь идеи, но он снова заговорил о волновых ястребах, как всегда. Сказал что-то о том, как волновые ястребы смогли приспособиться к здешней магии и использовать её в своих интересах и всё такое (не буду всё это здесь записывать, он может говорить без умолку). Магия, похоже, может мешать китам ориентироваться. По крайней мере, мы можем продолжать пытаться толкать их обратно в воду. Никаких взрывов выброшенных на берег китов на моей вахте!"
 "An <c=@Event>event</c> is something that happens in the world for a limited time. Anyone in the area can participate in the event.
 
@@ -1549,12 +1627,24 @@ Do you recall Sejm from the temple? He was another shaman of Wurm. We...we were 
   
 ~~I woke up to the smell of burning.~~ Smoke choked me awake. ~~I couldn't tell if our tent was on fire.~~  
    
-I should not be writing this in a letter. When we are together again, I will tell you this story face-to-face.","Арина, Мне никогда не уйти от вины, что я испытал, покинув тебя и твою мать. Я так и не рассказал, что случилось в тот день, даже когда наши пути снова сошлись... Помнишь Сейма из храма? Он был ещё одним шаманом Вурма. Мы... мы шли через северный пик с Кнутом — искали новые деревни, чтобы позвать их в дом. Кнута отозвали раньше, чтобы он был с Гаэртой при родах. Мы с Сеймом решили идти дальше. ~~Я проснулся от запаха гари.~~ Дым разбудил меня удушьем. ~~Я не мог понять, горит ли наш шатёр.~~ Не стоит мне писать об этом в письме. Когда мы снова будем вместе, я расскажу эту историю с глазу на глаз."
+I should not be writing this in a letter. When we are together again, I will tell you this story face-to-face.","Арина,
+
+Мне никогда не уйти от вины, что я испытал, покинув тебя и твою мать. Я так и не рассказал, что случилось в тот день, даже когда наши пути снова сошлись...
+
+Помнишь Сейма из храма? Он был ещё одним шаманом Вурма. Мы... мы шли через северный пик с Кнутом — искали новые деревни, чтобы позвать их в дом. Кнута отозвали раньше, чтобы он был с Гаэртой при родах. Мы с Сеймом решили идти дальше.
+
+~~Я проснулся от запаха гари.~~ Дым разбудил меня удушьем. ~~Я не мог понять, горит ли наш шатёр.~~
+
+Не стоит мне писать об этом в письме. Когда мы снова будем вместе, я расскажу эту историю с глазу на глаз."
 "Arina,  
   
 I've been saving this journal since I first left the homestead all those years ago. I haven't had the heart to read it myself, but I imagine these pages contain something you need to hear. About your mother, about me... It feels like a century has passed since those days. I barely remember that man, but maybe you do. Maybe one day—another day—I'll have the heart to read each page.  
   
-—Your father","Арина, Я хранил этот дневник с тех самых пор, как много лет назад покинул усадьбу. Мне не хватало духу прочесть его самому, но, полагаю, на этих страницах есть то, что тебе нужно услышать. О твоей матери, обо мне... Кажется, с тех дней прошёл век. Я едва помню того человека, но, может, ты помнишь. Может, однажды — в другой день — у меня хватит духу прочесть каждую страницу. —Твой отец"
+—Your father","Арина,
+
+Я хранил этот дневник с тех самых пор, как много лет назад покинул усадьбу. Мне не хватало духу прочесть его самому, но, полагаю, на этих страницах есть то, что тебе нужно услышать. О твоей матери, обо мне... Кажется, с тех дней прошёл век. Я едва помню того человека, но, может, ты помнишь. Может, однажды — в другой день — у меня хватит духу прочесть каждую страницу.
+
+—Твой отец"
 Arm Trap,Ловушка для рук
 "As I linger on these shores, I wonder... How many of my kind will see their dreams to fruition? How many fledglings are doomed to wilt before their dreams are realized? Standing here now, I pity those that will never fulfill their own. How I once thought I would never see mine complete, or even understand what it meant...  
   
@@ -1622,11 +1712,41 @@ I chose not, rather
 I was chosen,  
 to illuminate the Way.
 --------------------","Как я и предсказывал, скудные источники пищи измотали двух остальных куда быстрее, чем меня. Оба выговаривали мне за нежелание охотиться: Tatyanna сочла меня «себялюбцем», Ulrich пробормотал под нос какую-то колкость. Я сказал им: перестали бы тратить силы на нытьё о голодных резях — держались бы лучше. Это их заткнуло — по крайней мере, пока. Впрочем, я и сам предпочитаю держаться особняком.
-Я же, напротив, нахожу боль идеальным якорем для медитации. И именно этому взращённому состоянию ясности я обязан тем, что случилось после. Поздней ночью, откуда-то из бескрайней тьмы, я услышал зов — не это ли слышит Tatyanna, когда мы с Ulrich уходим в руины и оставляем её одну? Началось с низкого рокота. В полусне я принял его за ранние раскаты грома. Потом стал различать связные слова...«Они не видят твоего предназначения... Того, на что ты способен...»
-Проснувшись окончательно, я решился выйти в ночь. Я побрёл, пытаясь распознать, откуда идёт их источник, всё ещё не зная, сон это или явь. Словно чтобы ободрить меня, голос воззвал снова:«Ты праведный человек... Прошу, помоги мне...»
+
+Я же, напротив, нахожу боль идеальным якорем для медитации. И именно этому взращённому состоянию ясности я обязан тем, что случилось после.
+
+Поздней ночью, откуда-то из бескрайней тьмы, я услышал зов — не это ли слышит Tatyanna, когда мы с Ulrich уходим в руины и оставляем её одну? Началось с низкого рокота. В полусне я принял его за ранние раскаты грома. Потом стал различать связные слова...
+
+«Они не видят твоего предназначения... Того, на что ты способен...»
+
+Проснувшись окончательно, я решился выйти в ночь. Я побрёл, пытаясь распознать, откуда идёт их источник, всё ещё не зная, сон это или явь. Словно чтобы ободрить меня, голос воззвал снова:
+
+«Ты праведный человек... Прошу, помоги мне...»
+
 Затем — тишина, лишь выхолаживающий ветер.
-Остаток ночи я пролежал без сна, между медитацией и оцепенением. Померещилось? Был ли этот голос порождением пустого желудка? Одинокого разума, расписывающего пустую бездну? Нет. Он был настоящим. Ясным, как звон одинокого колокола над пропастью.«Ты праведный человек».
-Ночь я провёл в размышлениях о послании и его источнике. Пока не решил, делиться ли с остальными: для Tatyanna это может стать последней раной, что сведёт её с ума, а на что готов пойти Ulrich ради миссии нашего лжепророка — мне неведомо. К тому же они, похоже, не жаждут моего общества. Но это неважно. С самых ранних моих воспоминаний жизнь была одиноким бродом через паводок. Saul тоже нёс громаду откровения в одиночку. Но он не прятал её свет — он держал его перед собой, как фонарь, ведя тех, кто рядом, чтобы и они увидели путь.--------------------Как сосуд Преданности, дай мне сил исполнить роль проводника, наставить незрячих на истинный путь. Да стану я подношением, тело моё — жертвой, пресуществлением смертной плоти. Я — обетная свеча, зажжённое пламя, пред которым тьма покоряется свету. Не я избрал — я был избран, чтобы озарить Путь.--------------------
+
+Остаток ночи я пролежал без сна, между медитацией и оцепенением. Померещилось? Был ли этот голос порождением пустого желудка? Одинокого разума, расписывающего пустую бездну? Нет. Он был настоящим. Ясным, как звон одинокого колокола над пропастью.
+
+«Ты праведный человек».
+
+Ночь я провёл в размышлениях о послании и его источнике. Пока не решил, делиться ли с остальными: для Tatyanna это может стать последней раной, что сведёт её с ума, а на что готов пойти Ulrich ради миссии нашего лжепророка — мне неведомо. К тому же они, похоже, не жаждут моего общества.
+
+Но это неважно. С самых ранних моих воспоминаний жизнь была одиноким бродом через паводок. Saul тоже нёс громаду откровения в одиночку. Но он не прятал её свет — он держал его перед собой, как фонарь, ведя тех, кто рядом, чтобы и они увидели путь.
+
+--------------------
+Как сосуд Преданности,
+дай мне сил
+исполнить роль проводника,
+наставить незрячих на истинный путь.
+Да стану я подношением,
+тело моё — жертвой,
+пресуществлением смертной плоти.
+Я — обетная свеча,
+зажжённое пламя,
+пред которым тьма покоряется свету.
+Не я избрал —
+Я был избран,
+чтобы озарить Путь.
 --------------------"
 "As I've pieced together snippets of conversation, it seems the relationship between Eparch, Heitor, and Ignaxious is rather complex.  
   
@@ -1646,7 +1766,11 @@ Ignaxious is ambitious and dedicated to Eparch, and he seems to be willing to ta
  
 Thanks for playing Guild Wars 2!
 
-—The Guild Wars 2 Team","В честь третьего года защиты Тирии мы хотели бы вручить вам этот Наряд королевской гвардии, заказанный самой королевой Дженной. Спасибо, что играете в Guild Wars 2!—Команда Guild Wars 2"
+—The Guild Wars 2 Team","В честь третьего года защиты Тирии мы хотели бы вручить вам этот Наряд королевской гвардии, заказанный самой королевой Дженной.
+
+Спасибо, что играете в Guild Wars 2!
+
+—Команда Guild Wars 2"
 "As a direct result of recent events, your deeds have become well known around Kevach's lodge. Your help and bravery are truly an inspiration for us all. Safe journey to you. 
 
 —Skaald Stjarna","Прямо благодаря недавним событиям о твоих деяниях узнали по всему дому Кеваха. Твоя помощь и отвага поистине вдохновляют всех нас. Лёгкой дороги.
@@ -1753,7 +1877,7 @@ Ideally, I'll claw my way out of this mess... But only time will tell.","Как 
   
 - Некоторые из моих записей зарыты у небольшого водопада стока древней кузницы, рядом с лабораторией, которую распорядители называют Звериной Аптекой.  
   
-- Некоторые из моих записей зарыты между старыми зарослями в карьере. Я полагаю, что заметил поблизости разорванные линии лей.  
+- Некоторые из моих записей зарыты между старыми зарослями в карьере. Я полагаю, что заметил поблизости разорванные лей-линии.  
   
 - Некоторые из моих записей зарыты у самой южной границы дальнего Глубоколесья, чуть севернее безопасной поляны.  
   
@@ -1815,10 +1939,15 @@ Tyria needs a hero, but who could think to rise above such chaos? Who wields the
 Palawa Joko.
 
 Join our wise and illustrious leader as he single-handedly drives back the savage charr horde, marches across the Shiverpeaks without a single break in his stride, and saves all of Tyria from generations of traitors and false heroes!","Аскалон — выжженная пустошь.
+
 Орр гниёт на дне моря.
+
 Крайта стонет под гнётом фанатичных убийц.
+
 Тирии нужен герой, но кому под силу подняться над таким хаосом? Кто владеет мощью, способной превозмочь столь невероятные преграды? Герой, о котором говорилось в прославленных «Пророчествах Огнеискателя», был предназначен выжечь эту злокачественную опухоль. Как звали того героя?
+
 Палава Джоко.
+
 Присоединяйтесь к нашему мудрому и славному вождю, что в одиночку отбрасывает дикую орду чарров, шагает через Мерцающие Пики без единой заминки и спасает всю Тирию от поколений предателей и лжегероев!"
 Ascalonian Aqueduct,Аскалонский акведук
 "Ascend the unnatural tower and confront its denizens, as well as your own nightmares. Keep your friends close and push through three levels to the top!
@@ -1925,8 +2054,28 @@ to bear it witness.
 The tithe to bask in its gift  
 be not the burning of the flesh,  
 but the illumination of the soul.
-------------------------","Наконец-то мы обосновались в Баве Нисос. Хотя путь сюда стал испытанием упорства, я рад перемене обстановки и благоговею перед этой священной землёй, на которой стоял сам Saul. Ulrich и Татьянна, напротив, поглощены лишь телесными желаниями, страшась нехватки пищи. Мне голод не в новинку: изрядную часть юности я провёл, терзаемый его муками. Даже вступив в Белую Мантию, я продолжал поститься как упражнение в самодисциплине. Практика, за которую я теперь особенно благодарен. Обходиться малым — урок, который многим из наших не помешало бы усвоить, включая нашего нынешнего «вождя». Хоть он и не осмелился сказать это мне в лицо, я почуял раздражение Кодекуса моим нежеланием готовить мясную снедь. Он принял принцип за слабость — «слабый желудок» для охоты, как он выразился. Я обвинил бы его в том же, с одной поправкой: желудок — далеко не предел его слабости. Но это перестаёт меня заботить, покуда Кодекус не возвращается. Зная его историю трусости, не понимаю, отчего прочие ждут ответа на свои письма, не говоря уже о его блудном возвращении. Да и какая разница? Это мы выдержали паломничество, это мы истинно идём путём Saul. Славы, которой Кодекус не ведает, и которая, подозреваю, ровно такова, как начертала судьба. Как бы то ни было, Ulrich счёл наше открытие Бавы Нисос доказательством праведной власти Кодекуса.
-Я начинаю новую главу этого пути молитвой собственного сочинения. Перед лицом земных невзгод пусть она напоминает мне о моём обете познать непознаваемое и увидеть Незримое:------------------------Несущим Мудрость, Даруйте мне ваш вечный пламень незримого света, дабы я вложил его в ножны против пустого дыхания раздора, и понёс его свет тем немногим избранным, кому дано его узреть. Пусть подать за причастие к его дару будет не сожжением плоти, но озарением души.------------------------
+------------------------","Наконец-то мы обосновались в Баве Нисос. Хотя путь сюда стал испытанием упорства, я рад перемене обстановки и благоговею перед этой священной землёй, на которой стоял сам Saul.
+
+Ulrich и Татьянна, напротив, поглощены лишь телесными желаниями, страшась нехватки пищи. Мне голод не в новинку: изрядную часть юности я провёл, терзаемый его муками. Даже вступив в Белую Мантию, я продолжал поститься как упражнение в самодисциплине. Практика, за которую я теперь особенно благодарен.
+
+Обходиться малым — урок, который многим из наших не помешало бы усвоить, включая нашего нынешнего «вождя». Хоть он и не осмелился сказать это мне в лицо, я почуял раздражение Кодекуса моим нежеланием готовить мясную снедь. Он принял принцип за слабость — «слабый желудок» для охоты, как он выразился. Я обвинил бы его в том же, с одной поправкой: желудок — далеко не предел его слабости.
+
+Но это перестаёт меня заботить, покуда Кодекус не возвращается. Зная его историю трусости, не понимаю, отчего прочие ждут ответа на свои письма, не говоря уже о его блудном возвращении. Да и какая разница? Это мы выдержали паломничество, это мы истинно идём путём Saul. Славы, которой Кодекус не ведает, и которая, подозреваю, ровно такова, как начертала судьба. Как бы то ни было, Ulrich счёл наше открытие Бавы Нисос доказательством праведной власти Кодекуса.
+
+Я начинаю новую главу этого пути молитвой собственного сочинения. Перед лицом земных невзгод пусть она напоминает мне о моём обете познать непознаваемое и увидеть Незримое:
+
+------------------------
+Несущим Мудрость,
+Даруйте мне ваш вечный пламень
+незримого света,
+дабы я вложил его в ножны
+против пустого дыхания раздора,
+и понёс его свет
+тем немногим избранным,
+кому дано его узреть.
+Пусть подать за причастие к его дару
+будет не сожжением плоти,
+но озарением души.
 ------------------------"
 "At least a few of those godsforsaken skritt were marginally useful. [lbracket]Transcriber's note: Yes, that's all he said. He's a very rude fellow.[rbracket]
 —Rhoban","По крайней мере, пара-тройка этих богом забытых скриттов оказались хоть немного полезны. [lbracket]Прим. переписчика: Да, это всё, что он сказал. Крайне грубый тип.[rbracket]
@@ -1990,11 +2139,18 @@ If you answered yes to any of those questions, you may be qualified to participa
 Don't miss this exciting opportunity to work with the latest and greatest innovations in jade tech. You've seen what Xunlai Jade can do for you, now let us see what you can do for Xunlai Jade!
 
 *Volunteer applicants will undergo a comprehensive background check and must sign a nondisclosure agreement stipulating that they will not disclose any proprietary secrets divulged during their time with Xunlai Jade. Applicants must also sign a waiver of liability, releasing Xunlai Jade from any legal claims that may result from the injury, death, or dismemberment of applicants. Thank you!","Внимание!
+
 Восхищают ли вас чудеса нефритовых технологий?
+
 Обладаете ли вы острым умом и жгучим любопытством к устройству мира?
+
 Не терпится ли вам вести свою страну к более светлому и передовому завтра?
+
 Если хоть на один из этих вопросов вы ответили «да», возможно, вы годитесь для участия в оплачиваемом трудовом исследовании компании Сюньлай Джейд.
-Не упустите эту заманчивую возможность поработать с новейшими и величайшими достижениями нефритовых технологий. Вы видели, что Сюньлай Джейд может сделать для вас, — теперь позвольте нам увидеть, что вы можете сделать для Сюньлай Джейд!*Кандидаты-добровольцы пройдут всестороннюю проверку и обязаны подписать соглашение о неразглашении, обязующее их не разглашать никаких служебных секретов, ставших известными за время сотрудничества с Сюньлай Джейд. Кандидаты также обязаны подписать отказ от ответственности, освобождающий Сюньлай Джейд от любых правовых претензий, могущих возникнуть в результате травмы, гибели или расчленения кандидатов. Благодарим!"
+
+Не упустите эту заманчивую возможность поработать с новейшими и величайшими достижениями нефритовых технологий. Вы видели, что Сюньлай Джейд может сделать для вас, — теперь позвольте нам увидеть, что вы можете сделать для Сюньлай Джейд!
+
+*Кандидаты-добровольцы пройдут всестороннюю проверку и обязаны подписать соглашение о неразглашении, обязующее их не разглашать никаких служебных секретов, ставших известными за время сотрудничества с Сюньлай Джейд. Кандидаты также обязаны подписать отказ от ответственности, освобождающий Сюньлай Джейд от любых правовых претензий, могущих возникнуть в результате травмы, гибели или расчленения кандидатов. Благодарим!"
 "Attention!
 
 New and exciting recipes have been developed. Speak to me in Lion's Arch to learn more.
@@ -2044,8 +2200,20 @@ As you are aware, MinTel has had misgivings about the trust you decided to place
 • Numerous counts of assault, insurrection, and anarchy as captain of the nefarious gang of brigands named Aetherblades.
 • Aiding and abetting the violent and illegal acts of a famed Krytan criminal Scarlet Briar.
 
-As noted above, this list is (we believe) only a partial account of Ms. Trin's past actions, but even so, the crimes which we are now fully aware of are more than enough for us to recommend that Ms. Trin be terminated and taken into MinSec custody immediately. We await your prompt response in this matter.","Вниманию: леди ДжунС глубочайшим прискорбием мы вынуждены доложить о результатах нашего расследования касательно сотрудницы 44236 (Mai Trin).
-Как вам известно, у МинРазведки были сомнения в доверии, которое вы решили оказать г-же Трин, ещё с того инцидента с безопасностью, когда вы впервые о ней узнали. Ныне наш долг — сообщить, что ваше доверие и впрямь было неуместным. У г-жи Трин обширное преступное прошлое на её родине, в Крайте, и это лишь те случаи, о которых известно нашим агентам. Мы считаем крайне вероятным, что существуют свидетельства и куда более тяжких деяний. Г-жа Трин повинна, полностью или отчасти, в:• Убийстве некоего капитана Theo Эшфорда.• Попытке переворота против Совета капитанов во Львиной Арке.• Сопротивлении аресту и бегстве от правосудия.• Покушении на капитана Эллен Кил из Львиной стражи.• Покушении на видного Коммандира Пакта.• Многочисленных случаях нападения, мятежа и анархии в качестве капитана гнусной шайки разбойников под названием Эфирные клинки.• Пособничестве и подстрекательстве к насильственным и незаконным деяниям прославленной крайтанской преступницы Scarlet Briar.
+As noted above, this list is (we believe) only a partial account of Ms. Trin's past actions, but even so, the crimes which we are now fully aware of are more than enough for us to recommend that Ms. Trin be terminated and taken into MinSec custody immediately. We await your prompt response in this matter.","Вниманию: леди Джун
+
+С глубочайшим прискорбием мы вынуждены доложить о результатах нашего расследования касательно сотрудницы 44236 (Mai Trin).
+
+Как вам известно, у МинРазведки были сомнения в доверии, которое вы решили оказать г-же Трин, ещё с того инцидента с безопасностью, когда вы впервые о ней узнали. Ныне наш долг — сообщить, что ваше доверие и впрямь было неуместным. У г-жи Трин обширное преступное прошлое на её родине, в Крайте, и это лишь те случаи, о которых известно нашим агентам. Мы считаем крайне вероятным, что существуют свидетельства и куда более тяжких деяний. Г-жа Трин повинна, полностью или отчасти, в:
+
+• Убийстве некоего капитана Theo Эшфорда.
+• Попытке переворота против Совета капитанов во Львиной Арке.
+• Сопротивлении аресту и бегстве от правосудия.
+• Покушении на капитана Эллен Кил из Львиной стражи.
+• Покушении на видного Коммандира Пакта.
+• Многочисленных случаях нападения, мятежа и анархии в качестве капитана гнусной шайки разбойников под названием Эфирные клинки.
+• Пособничестве и подстрекательстве к насильственным и незаконным деяниям прославленной крайтанской преступницы Scarlet Briar.
+
 Как отмечено выше, этот перечень, по нашему мнению, — лишь частичный отчёт о прошлых деяниях г-жи Трин, но даже при этом известных нам преступлений более чем достаточно, чтобы рекомендовать немедленно уволить г-жу Трин и взять её под стражу МинБеза. Ожидаем вашего скорого ответа по этому делу."
 Attus Ricsaw,Аттус Риксо
 Auki,Ауки
@@ -2087,10 +2255,44 @@ It is clear to any with half a brain that Joko is kidnapping these civilians to 
 
 Lonai and I have gotten a few volunteers together, and we make for the Bone Palace at dawn. I don't know how you assassinate an undead king, but I figure if I hit him hard enough, I might be able to bust a few of those bones that hold his ugly face together.
 
-Not that I am at all questioning my skills, but should I not return and someone finds this, please send my love to my wife and children.","Примечание автора: Хотя мой издатель настаивает, что нет нужды продолжать летопись моих деяний, я чувствую долг перед читателями продолжать. Если «Koss о Koss» остаётся исчерпывающим разбором моего прошлого, то это расширенное издание станет разбором настоящего. Сезон Отпрыска185-й день, 1093 г. от ИсходаПроклят тот день, когда мы выпустили этот ходячий труп! Силы Joko всё донимают патрули на окраинах Vabbi. Солнечные копья должны прислать подкрепление для защиты границы, но нас так мало, что мы можем выделить лишь горстку. Немало времени уйдёт, прежде чем мы восстановим численность после битвы при Гандаре.220-й день, 1093 г. от ИсходаМелонни продолжает меня донимать. Говорит, что я вдоволь навоевался, что пора оставить сражения новому поколению рекрутов. Честно говоря, если бы хоть один из них одолел меня в поединке, я бы подумал о том, чтобы повесить меч на стену. Пока никто не впечатлил. Завтра я выступаю к границе с Опустошением. Возвышение Joko — и моя вина не меньше, чем чья-либо, а потому я намерен стать частью решения. К тому же вряд ли кто-то из этих новобранцев способен сдержать короля-мертвеца.
-Сезон Колосса, 271-й день, 1093 г. от ИсходаКошмары, пять ночей подряд. Я вижу пылающее поместье и слышу крики. Боюсь, это мои дети, хотя я так давно не слышал их голосов, что попросту не могу сказать наверняка. Но есть и другой голос: его. Смех.
-Солнечные копья не желают внимать моим предостережениям о Joko, к моему растущему отчаянию. Лич веками был занозой в боку Элоны, так что не понимаю, отчего Орден полагает, будто Joko удовольствуется тем, что останется в Опустошении. Он что-то замышляет, и я боюсь, что мои сны — лишь намёк на грядущее. 301-й день, 1093 г. от ИсходаЭти глупцы-принцы в Vabbi всё сидят сложа руки, пока их граждан то и дело похищают силы Joko! И пока знать Vabbi заламывает руки, Солнечные копья ничем не лучше. Они сидят на границе, более чем готовые проучить эту гниющую груду костей, — но отказываются действовать!
-Кошмары не унимаются и с каждой ночью становятся яснее. Теперь я вижу: это не угроза, а предостережение. Быть может, это Kormir шлёт мне весть? Я отправил Melonni весточку — увезти наших детей в безопасное место.325-й день, 1093 г. от ИсходаХватит. Любому с половиной мозга ясно, что Joko похищает этих мирных жителей, чтобы растить армию. Достаточно взглянуть на число пропавших, чтобы заключить: лич готовит вторжение. Мы с Lonai собрали несколько добровольцев и на рассвете выступаем к Костяному дворцу. Не знаю, как убивают короля-мертвеца, но думаю, если ударить достаточно сильно, я сумею перебить пару-тройку тех костей, что держат вместе его уродливую морду.
+Not that I am at all questioning my skills, but should I not return and someone finds this, please send my love to my wife and children.","Примечание автора: Хотя мой издатель настаивает, что нет нужды продолжать летопись моих деяний, я чувствую долг перед читателями продолжать. Если «Koss о Koss» остаётся исчерпывающим разбором моего прошлого, то это расширенное издание станет разбором настоящего.
+
+Сезон Отпрыска
+
+185-й день, 1093 г. от Исхода
+
+Проклят тот день, когда мы выпустили этот ходячий труп! Силы Joko всё донимают патрули на окраинах Vabbi. Солнечные копья должны прислать подкрепление для защиты границы, но нас так мало, что мы можем выделить лишь горстку. Немало времени уйдёт, прежде чем мы восстановим численность после битвы при Гандаре.
+
+220-й день, 1093 г. от Исхода
+
+Мелонни продолжает меня донимать. Говорит, что я вдоволь навоевался, что пора оставить сражения новому поколению рекрутов. Честно говоря, если бы хоть один из них одолел меня в поединке, я бы подумал о том, чтобы повесить меч на стену. Пока никто не впечатлил. Завтра я выступаю к границе с Опустошением.
+
+Возвышение Joko — и моя вина не меньше, чем чья-либо, а потому я намерен стать частью решения. К тому же вряд ли кто-то из этих новобранцев способен сдержать короля-мертвеца.
+
+Сезон Колосса
+
+271-й день, 1093 г. от Исхода
+
+Кошмары, пять ночей подряд. Я вижу пылающее поместье и слышу крики. Боюсь, это мои дети, хотя я так давно не слышал их голосов, что попросту не могу сказать наверняка. Но есть и другой голос: его. Смех.
+
+Солнечные копья не желают внимать моим предостережениям о Joko, к моему растущему отчаянию. Лич веками был занозой в боку Элоны, так что не понимаю, отчего Орден полагает, будто Joko удовольствуется тем, что останется в Опустошении. Он что-то замышляет, и я боюсь, что мои сны — лишь намёк на грядущее.
+
+301-й день, 1093 г. от Исхода
+
+Эти глупцы-принцы в Vabbi всё сидят сложа руки, пока их граждан то и дело похищают силы Joko! И пока знать Vabbi заламывает руки, Солнечные копья ничем не лучше. Они сидят на границе, более чем готовые проучить эту гниющую груду костей, — но отказываются действовать!
+
+Кошмары не унимаются и с каждой ночью становятся яснее. Теперь я вижу: это не угроза, а предостережение. Быть может, это Kormir шлёт мне весть?
+
+Я отправил Melonni весточку — увезти наших детей в безопасное место.
+
+325-й день, 1093 г. от Исхода
+
+Хватит.
+
+Любому с половиной мозга ясно, что Joko похищает этих мирных жителей, чтобы растить армию. Достаточно взглянуть на число пропавших, чтобы заключить: лич готовит вторжение.
+
+Мы с Lonai собрали несколько добровольцев и на рассвете выступаем к Костяному дворцу. Не знаю, как убивают короля-мертвеца, но думаю, если ударить достаточно сильно, я сумею перебить пару-тройку тех костей, что держат вместе его уродливую морду.
+
 Не то чтобы я хоть сколько-нибудь сомневался в своих умениях, но, если я не вернусь и кто-то найдёт эти записи, — прошу, передайте мою любовь жене и детям."
 "Author: Blish
 
@@ -2563,11 +2765,7 @@ Knut Whitebear","Бхьюр, мой винир.
 Смодур. У нас были разногласия, но сейчас не время цепляться за мелкие ссоры и ""древние"" распри. У нас едва хватит эля до конца недели, и я не думаю, что переживу зиму без него.  
   
 Кнут Белый Медведь"
-"Bhuer, my venir.    I wish I was writing under better circumstances, but I've got refugees spilling out of the Shiverpeaks like maggots from a corpse. We've overwhelmed, our homesteads full.I wouldn't be writing if I wasn't concerned. I've been hearing things about the Flame Legion. I know you aren't making daisy chains and singing ballads with that lot, but if Smodur knows anything about these attacks... I can't ignore the whispers. I need to know where he stands in this, figure out what they're doing. Blood is rolling down the mountain, and I don't like the smell.    Smodur. We've had our differences, but this isn't the time to lean on petty disagreements and ""ancient"" rivalries. We've barely enough ale to get through another week, and I don't think I'll last the winter without.    Knut Whitebear","Бьюр, мой венир. Я бы хотел писать при лучших обстоятельствах, но у меня беженцы вытекают из Шиверпиков, как личинки из трупа. Мы перегружены, наши усадьбы полны. Я бы не писал, если бы не был обеспокоен. Я слышал кое-что о Легионе Пламени. Я знаю, что ты не плетешь венки и не поешь баллады с этой компанией, но если Смодур знает что-то об этих атаках... Я не могу игнорировать шепот. Мне нужно знать, на чьей он стороне, понять, что они делают. Кровь течет с горы, и мне не нравится запах.
-
-    Смодур. У нас были разногласия, но сейчас не время опираться на мелкие споры и ""древние"" распри. У нас едва хватит эля на неделю, и я не думаю, что переживу зиму без него.
-
-    Кнут Белый Медведь"
+"Bhuer, my venir.    I wish I was writing under better circumstances, but I've got refugees spilling out of the Shiverpeaks like maggots from a corpse. We've overwhelmed, our homesteads full.I wouldn't be writing if I wasn't concerned. I've been hearing things about the Flame Legion. I know you aren't making daisy chains and singing ballads with that lot, but if Smodur knows anything about these attacks... I can't ignore the whispers. I need to know where he stands in this, figure out what they're doing. Blood is rolling down the mountain, and I don't like the smell.    Smodur. We've had our differences, but this isn't the time to lean on petty disagreements and ""ancient"" rivalries. We've barely enough ale to get through another week, and I don't think I'll last the winter without.    Knut Whitebear","Бьюр, мой венир. Я бы хотел писать при лучших обстоятельствах, но у меня беженцы вытекают из Шиверпиков, как личинки из трупа. Мы перегружены, наши усадьбы полны. Я бы не писал, если бы не был обеспокоен. Я слышал кое-что о Легионе Пламени. Я знаю, что ты не плетешь венки и не поешь баллады с этой компанией, но если Смодур знает что-то об этих атаках... Я не могу игнорировать шепот. Мне нужно знать, на чьей он стороне, понять, что они делают. Кровь течет с горы, и мне не нравится запах. Смодур. У нас были разногласия, но сейчас не время опираться на мелкие споры и ""древние"" распри. У нас едва хватит эля на неделю, и я не думаю, что переживу зиму без него. Кнут Белый Медведь"
 "Blanketed by forest thicket, Mori Village became the first permanent settlement of the Angchu tengu after they were driven out of their ancestral home by the Ministry of Purity.
 
 This plaque was placed by the Ministry of Archives to improve education efforts following the collapse of the Ministry of Purity.
