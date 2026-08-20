@@ -15,7 +15,7 @@ Honor of the Waves (Upper Deck),Честь волн (Верхняя палуба
 Honor of the Waves Dungeon Track,Трек подземелья «Честь волн»
 Honor of the Waves Story,История «Честь волн»
 "Honor of the Waves Token Loot Box[pl:""Boxes""]","Ящик с жетоном ""Честь волн""[|и|а]"
-"Honor of the Waves Weapons Box[pl:""Boxes""]",Ящик с добычей «Оружие Чести Волн»
+"Honor of the Waves Weapons Box[pl:""Boxes""]",[Сундук|Сундука|Сундуков] с оружием «Честь волн»
 Honor of the WavesStory recommended level: <c=#CC9900>76</c>Explorable recommended level: <c=#CC9900>80</c>,Честь волнРекомендуемый уровень для истории: <c=#CC9900>76</c>Рекомендуемый уровень для исследования: <c=#CC9900>80</c>
 "Honor Owl, Wolverine, and Ox by pouring out a Draught of Hunter's Ale at their shrines.","Почтите Сову, Росомаху и Быка, вылив глоток охотничьего эля у их святилищ."
 "Honor the victims of these corrupt creatures by giving them a proper burial, and don't let their sacrifice go to waste.","Почтите память жертв этих порочных созданий, устроив им достойное погребение, и не дайте их жертве пропасть даром."
@@ -28,7 +28,7 @@ Hooded Windbreaker (Up) Skin[s],[Облик|Облика|Обликов] вет�
 Hooded Windbreaker Package,Набор ветровки с капюшоном
 Hoof to Face,Копытом в лицо
 "Hoof[pl:""Hooves""]",Копыто[а|я|ит]
-"Hoofed Shoes Box[pl:""Boxes""]",Коробка Поношенных обувь
+"Hoofed Shoes Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с копытными башмаками
 Hooga Dizdiz,Хуга Диздиз
 Hop In,Запрыгивай
 "Hope this finds you. Plant-man had to explain how to send. Moot goes on without a hitch now. You helped keep peace there, yes? Thank you.—Zeetoktin, Vigil Recon","Надеюсь, это письмо доходит до тебя. Человек-растение объяснил, как отправлять. Теперь Мут проходит без проблем. Ты помог сохранить там мир, да? Спасибо. — Зиетоктин, разведчик Дозора."
@@ -58,7 +58,7 @@ Horseradish Root[s],[Корень|Корня|Корней] хрена
 "Horseshoe Crab[pl:""Crabs""]",[Краб-подкова|краба|крабов]
 Hospital Hub,Больничный узел
 Hospital Ship Leader,Лидер госпитального корабля
-"Host<br>• Set your ""Home"" location<br>• Return to your ""Portal"" location","Хост<br>• Установите местоположение ""Дом""<br>• Вернитесь к местоположению ""Портал"""
+"Host<br>• Set your ""Home"" location<br>• Return to your ""Portal"" location",Хост<br>• Установите местоположение «Дом»<br>• Вернитесь к местоположению «Портал»
 Hostage Noble,Знатный заложник
 Hostage Rescue Recording[s],[Запись|Записи|Записей] спасения заложника
 Hostile All,Все враждебные
@@ -75,10 +75,10 @@ Hot Tar Spray,Распыление горячего гудрона
 Hotwire Mine,Фугасная мина
 Hound Death Throes,Предсмертные конвульсии гончей
 Hound of Balthazar buff,Бонус гончей Бальтазара
-"Hound of Balthazar Loot Box[pl:""Boxes""]",Ящик с добычей пса Бальтазара
+"Hound of Balthazar Loot Box[pl:""Boxes""]",[Ящик|Ящика|Ящиков] с добычей пса Бальтазара
 Hound of Balthazar Warclaw Skin[s],[Облик|Облика|Обликов] боевого волка «Гончая Балтазара»
 Houndmaster Leap,Прыжок псаря
-"Houndskin Mantle Box[pl:""Boxes""]",Ящик с мантией Псокожи
+"Houndskin Mantle Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с накидкой из шкуры гончей
 hour[s],[час|часа|часов]
 Hourglass Staff Skin[s],[Облик|Облика|Обликов] посоха «Песочные часы»
 House a Glob of Chromatic Ooze,Дом Глыба Хроматической Слизи
@@ -107,7 +107,7 @@ How clear and understandable is combat?,Насколько понятен и я�
 How clear and understandable is the content you're experiencing?,"Насколько понятен и ясен контент, который вы проходите?"
 How clear and understandable is the interface?,Насколько понятен и ясен интерфейс?
 How dare you defile my birth chamber.,Как ты смеешь осквернять мою родовую камеру.
-"How did you like the ""%str1%"" event?","Как вам понравилось событие ""%str1%""?"
+"How did you like the ""%str1%"" event?",Как вам понравилось событие «%str1%»?
 How do you do?,Как поживаете?
 How do you feel about the overall difficulty? (1 Easy - 5 Hard),Как вы оцениваете общую сложность? (1 Лёгко - 5 Сложно)
 How easy and approachable is the game to play?,Насколько игра проста и доступна для игры?
@@ -148,7 +148,7 @@ Howls to Summon Allies,"Вой, чтобы призвать союзников"
 HQ Dale,Штаб Дейла
 "Hrodir and his party tracked the great wurm for sixteen days through the valley, into the forest, and to the edge of the waters beyond. With keen eyes, they spotted the small disturbances of the soil that it had passed under, and they tracked the way the birds flew out of its path. Finally, at the water's edge, they cornered it, pouring jugs of mead into the sand to force it to surface. There, they brought down the beast, feasted beneath the moonlight beside the great sea, and carried home its mighty jaws as trophies.","Хродир и его отряд выслеживали великого червя шестнадцать дней через долину, в лес и до края вод за ним. Зоркими глазами они заметили небольшие нарушения почвы, под которыми он проползал, и проследили, как птицы улетали с его пути. Наконец, у кромки воды они загнали его в угол, выливая кувшины медовухи в песок, чтобы заставить его всплыть. Там они сразили зверя, пировали при лунном свете у великого моря и унесли домой его могучие челюсти в качестве трофеев."
 "Hronk has put together a way to track the MIG. Exceptional! Now, to find where that rogue golem has gone and get it back under your control.","Хронк разработал способ отслеживания МИГ. Превосходно! Теперь нужно найти, куда делся тот беглый голем, и вернуть его под ваш контроль."
-Hronk's Magi Inscription[s],[Надпись|Надписи|Надписей] мага Хронка
+Hronk's Magi Inscription[s],[Гравировка|Гравировки|Гравировок] мага Хронка
 Hronk's Magi Insignia[s],[Инсигния|Инсигнии|Инсигний] мага Хронка
 Hua'racche,Хуа'ракке
 Huge (five times average size).,Огромный (в пять раз больше среднего).
@@ -191,14 +191,14 @@ Humming Krait Crystal[s],[Кристалл|Кристалла|Кристалло
 Humorous Troll Befriended,Приятель-тролль-шутник
 "Humphead Wrasse[pl:""Wrasses""]",[Лезвик|лезвика|лезвиков]
 Hundred Petals Noble Skyscale Skin[s],[Облик|Облика|Обликов] благородного скайскейла «Сто лепестков»
-"Hundreds of people flow in and out through the asura gate, but few show the kind of selflessness you've shown. You had no obligation to assist the Ebon Vanguard, but when you saw our need, you stood up to help. Thank you for easing the burden on on our city. I hope others follow in your example. If you wish to continue to seek others in need of help, I recommend you speak to Watchman Brikken outside the Hawkgates or Lieutenant Briggins near Forlorn Hope.—Commander Varalyn","Сотни людей проходят через врата асуров туда и обратно, но мало кто проявляет такую самоотверженность, как вы. У вас не было обязанности помогать Эбоновому Авангарду, но, увидев нашу нужду, вы встали на помощь. Спасибо, что облегчили бремя нашего города. Надеюсь, другие последуют вашему примеру. Если хотите продолжить поиски тех, кому нужна помощь, советую поговорить со стражником Бриккеном у Ястребиных врат или с лейтенантом Бриггинсом у «Безнадёжной Надежды». — Коммандер Варалин"
+"Hundreds of people flow in and out through the asura gate, but few show the kind of selflessness you've shown. You had no obligation to assist the Ebon Vanguard, but when you saw our need, you stood up to help. Thank you for easing the burden on on our city. I hope others follow in your example. If you wish to continue to seek others in need of help, I recommend you speak to Watchman Brikken outside the Hawkgates or Lieutenant Briggins near Forlorn Hope.—Commander Varalyn","Сотни людей проходят через врата асуров туда и обратно, но мало кто проявляет такую самоотвержённость, как вы. У вас не было обязанности помогать Эбоновому Авангарду, но, увидев нашу нужду, вы встали на помощь. Спасибо, что облегчили бремя нашего города. Надеюсь, другие последуют вашему примеру. Если хотите продолжить поиски тех, кому нужна помощь, советую поговорить со стражником Бриккеном у Ястребиных врат или с лейтенантом Бриггинсом у «Безнадёжной Надежды». — Коммандер Варалин"
 Hune is grateful for your assistance.,Хьюн благодарен за вашу помощь.
 Hungry for adventure? Take along some of these!,Голодны до приключений? Возьмите с собой немного этого!
-Hungry Hungry Hylek Skills,Голодные-голодные умения хайлеков
+Hungry Hungry Hylek Skills,Голодные-голодные умения хилеков
 "Hungry karka want in on the action. Avoid them, or better yet, use them to your advantage. Bonus points for manipulating karka into eliminating other players!","Голодные карки хотят присоединиться к действию. Избегайте их, или, что ещё лучше, используйте их в своих интересах. Бонусные очки за манипулирование карками, чтобы они устраняли других игроков!"
 Hungry Lookout,Голодный дозорный
 Hungry Refugee,Голодный беженец
-Hungry Refugee Child,Голодный ребенок-беженец
+Hungry Refugee Child,Голодный ребёнок-беженец
 Hungry Seraph Soldier,Голодный солдат Серафимов
 Hunk of Flesh,Кусок плоти
 Hunk[s] of Flesh,[Кусок|Куска|Кусков] плоти
@@ -285,7 +285,7 @@ Hunt down the Corrupted Facet.,Выследите Искаженную Гран�
 Hunt down the Crackling Brandspark.,Выследите Трескучую Искру.
 Hunt down the distraught choya.,Выследите расстроенного чойя.
 Hunt down the Forged Brutalizer.,Выследите Кованого Крушителя.
-Hunt down the Forged Corpsrazer.,Выследите Кованого Трупного Разорителя.
+Hunt down the Forged Corpsrazer.,Выследите Кованого Трупного Жнеца.
 Hunt down the Forged Forerunner.,Выследите Кованого Предтечу.
 Hunt down the Forged Lieutenant.,Выследите Кованого Лейтенанта.
 Hunt down the Forged Lurker.,Выследите Кованого Притаившегося.
@@ -344,8 +344,8 @@ Hunter's Embroidered Cotton Insignia[s],[Вышитая хлопковая ин�
 Hunter's Embroidered Wool Insignia[s],[Вышитая шерстяная инсигния|Вышитые шерстяные инсигнии|Вышитых шерстяных инсигний] охотника
 Hunter's Intricate Cotton Insignia[s],[Замысловатая хлопковая инсигния|Замысловатые хлопковые инсигнии|Замысловатых хлопковых инсигний] охотника
 Hunter's Intricate Wool Insignia[s],[Замысловатая шерстяная инсигния|Замысловатые шерстяные инсигнии|Замысловатых шерстяных инсигний] охотника
-Hunter's Iron Imbued Inscription[s],[Пропитанная железная надпись|Пропитанные железные надписи|Пропитанных железных надписей] охотника
-Hunter's Iron Plated Inscription[s],[Пластинчатая железная надпись|Пластинчатые железные надписи|Пластинчатых железных надписей] охотника
+Hunter's Iron Imbued Inscription[s],[Пропитанная железная гравировка|Пропитанные железные гравировки|Пропитанных железных гравировок] охотника
+Hunter's Iron Plated Inscription[s],[Пластинчатая железная гравировка|Пластинчатые железные гравировки|Пластинчатых железных гравировок] охотника
 Hunter's Journal Updated!,Дневник охотника обновлен!
 Hunter's Journal: Entry 1,Дневник охотника: Запись 1
 Hunter's Journal: Entry 10,Дневник охотника: Запись 10
@@ -367,19 +367,19 @@ Hunter's Journal: Entry 7,Дневник охотника: Запись 7
 Hunter's Journal: Entry 8,Дневник охотника: Запись 8
 Hunter's Journal: Entry 9,Дневник охотника: Запись 9
 Hunter's Mark,Метка охотника
-Hunter's Seasoned Inscription[s],[Выдержанная надпись|Выдержанные надписи|Выдержанных надписей] охотника
+Hunter's Seasoned Inscription[s],[Выдержанная гравировка|Выдержанные гравировки|Выдержанных гравировок] охотника
 Hunter's Short-Bow Stave[s],[Древко короткого лука охотника|Древка короткого лука охотника|Древков короткого лука охотника]
 Hunter's Short-Bow String[s],[Тетива короткого лука охотника|Тетивы короткого лука охотника|Тетив короткого лука охотника]
-Hunter's Soft Inscription[s],[Мягкая надпись охотника|Мягкие надписи охотника|Мягких надписей охотника]
-Hunter's Steel Imbued Inscription[s],[Стальная пропитанная надпись охотника|Стальные пропитанные надписи охотника|Стальных пропитанных надписей охотника]
-Hunter's Steel Plated Inscription[s],[Стальная пластинчатая надпись охотника|Стальные пластинчатые надписи охотника|Стальных пластинчатых надписей охотника]
+Hunter's Soft Inscription[s],[Мягкая гравировка охотника|Мягкие гравировки охотника|Мягких гравировок охотника]
+Hunter's Steel Imbued Inscription[s],[Стальная пропитанная гравировка охотника|Стальные пропитанные гравировки охотника|Стальных пропитанных гравировок охотника]
+Hunter's Steel Plated Inscription[s],[Стальная пластинчатая гравировка охотника|Стальные пластинчатые гравировки охотника|Стальных пластинчатых гравировок охотника]
 Hunter's Strong Chair[s],[Прочный стул охотника|Прочных стула охотника|Прочных стульев охотника]
 Hunter's Strong Stool[s],[Прочный табурет охотника|Прочных табурета охотника|Прочных табуретов охотника]
 Hunter's Wood Chair[s],Стул[|а|ьев] из древесины охотника
 Hunter's Wood Footrest[s],Подставк[а|и|ок] для ног из древесины охотника
 Hunter's Wood Footstool[s],Табурет[|а|ов] для ног из древесины охотника
 Hunter's Wood Stool[s],Табурет[|а|ов] из древесины охотника
-Hunter's Wool Insignia[s],Эмблем[а|ы|] из шерсти охотника
+Hunter's Wool Insignia[s],Инсигний[а|ы|] из шерсти охотника
 Hunter[s],[Охотник|Охотника|Охотников]
 Hunting Call,Охотничий зов
 Hunting Hound,Охотничья гончая
@@ -411,45 +411,45 @@ Hydraulic Fluid,Гидравлическая жидкость
 Hydrocatalytic Reagent[s],[Реагент|Реагента|Реагентов] гидрокатализатора
 Hydrostatic Disparity Field Toggle,Переключатель гидростатического поля несоответствия
 Hyena Trap,Ловушка для гиены
-Hylek Alchemy Apprentice Tome[s],[Книга|Книги|Книг] ученика алхимии хайлеков
-Hylek Alchemy Chapter 1: Poisons,Глава 1 алхимии Хайлека: Яды
-Hylek Alchemy Chapter 2: Healing Breath,Глава 2 алхимии Хайлека: Целительное дыхание
-Hylek Alchemy Chapter 3: Sun God's Breath,Глава 3 алхимии Хайлека: Дыхание бога солнца
-Hylek Alchemy Supplies,Принадлежности для алхимии Хайлека
-Hylek Amini,Хайлек Амини
-Hylek Artistic Perspective,Художественная перспектива Хайлека
-Hylek Blow Dart,Духовая стрела Хайлека
-Hylek Blowdart,Духовая стрела Хайлека
-Hylek Blue Hue Potion[s],[Зелье|Зелья|Зелий] синего оттенка хайлеков
-Hylek Breath Weapon,Дыхательное оружие Хайлека
-Hylek Bullfrog Hammer,Молот лягушки-быка Хайлека
-Hylek Camp,Лагерь Хайлека
-Hylek Cuicani,Куикани Хайлека
-Hylek Dart Poison Gland[s],[Железа|Железы|Желез] ядовитого дротика хайлеков
-Hylek Defender,Защитник Хайлека
-Hylek Elixir,Эликсир хайлека
-Hylek Green Hue Potion[s],[Зелье|Зелья|Зелий] зелёного оттенка хайлеков
-Hylek Hidden,Скрытый хайлек
-Hylek Language Effect,Эффект языка хайлек
+Hylek Alchemy Apprentice Tome[s],[Книга|Книги|Книг] ученика алхимии хилеков
+Hylek Alchemy Chapter 1: Poisons,Глава 1 алхимии Хилека: Яды
+Hylek Alchemy Chapter 2: Healing Breath,Глава 2 алхимии Хилека: Целительное дыхание
+Hylek Alchemy Chapter 3: Sun God's Breath,Глава 3 алхимии Хилека: Дыхание бога солнца
+Hylek Alchemy Supplies,Принадлежности для алхимии Хилека
+Hylek Amini,Хилек Амини
+Hylek Artistic Perspective,Художественная перспектива Хилека
+Hylek Blow Dart,Духовая стрела Хилека
+Hylek Blowdart,Духовая стрела Хилека
+Hylek Blue Hue Potion[s],[Зелье|Зелья|Зелий] синего оттенка хилеков
+Hylek Breath Weapon,Дыхательное оружие Хилека
+Hylek Bullfrog Hammer,Молот лягушки-быка Хилека
+Hylek Camp,Лагерь Хилека
+Hylek Cuicani,Куикани Хилека
+Hylek Dart Poison Gland[s],[Железа|Железы|Желез] ядовитого дротика хилеков
+Hylek Defender,Защитник Хилека
+Hylek Elixir,Эликсир хилека
+Hylek Green Hue Potion[s],[Зелье|Зелья|Зелий] зелёного оттенка хилеков
+Hylek Hidden,Скрытый хилек
+Hylek Language Effect,Эффект языка хилек
 "Hylek Loot Box[pl:""Boxes""]",Ящик с добычей хилков[|я|и]
-Hylek Maintenance Kit[s],[Набор|Набора|Наборов] для обслуживания хайлеков
-Hylek Maintenance Oil[s],[Масло|Масла|Масел] для обслуживания хайлеков
-"Hylek of the Astrozintli Forelands revere the life serpent Xiuquatl. While it's too small and gentle to be their savior, those traits make it Tequatl's perfect opposite—and a potent symbol of hope.","Хайлеки из Астрозинтлийских предгорий почитают змея жизни Шиукуатля. Хотя он слишком мал и нежен, чтобы быть их спасителем, эти черты делают его полной противоположностью Текватля — и мощным символом надежды."
-Hylek Orange Hue Potion[s],[Зелье|Зелья|Зелий] оранжевого оттенка хайлеков
-Hylek Poison,Яд хайлека
-Hylek Poison Skin,Облик яда хайлека
-Hylek Potion,Зелье хайлека
-Hylek Protection,Защита хайлека
-Hylek Red Hue Potion[s],[Зелье|Зелья|Зелий] красного оттенка хайлеков
-Hylek Region Marker,Маркер региона хайлека
-Hylek Salve,Мазь хайлека
-Hylek Stomp,Топот хайлека
-Hylek Tlamatini,Хайлек Тламатини
-Hylek Tongue[s],[Язык|Языка|Языков] хайлеков
-Hylek Torpedo,Хайлекская торпеда
-Hylek Treasure,Хайлекское сокровище
-Hylek Weapon,Хайлекское оружие
-Hylek Yellow Hue Potion[s],[Зелье|Зелья|Зелий] жёлтого оттенка хайлеков
+Hylek Maintenance Kit[s],[Набор|Набора|Наборов] для обслуживания хилеков
+Hylek Maintenance Oil[s],[Масло|Масла|Масел] для обслуживания хилеков
+"Hylek of the Astrozintli Forelands revere the life serpent Xiuquatl. While it's too small and gentle to be their savior, those traits make it Tequatl's perfect opposite—and a potent symbol of hope.","Хилеки из Астрозинтлийских предгорий почитают змея жизни Шиукуатля. Хотя он слишком мал и нежен, чтобы быть их спасителем, эти черты делают его полной противоположностью Текватля — и мощным символом надежды."
+Hylek Orange Hue Potion[s],[Зелье|Зелья|Зелий] оранжевого оттенка хилеков
+Hylek Poison,Яд хилека
+Hylek Poison Skin,Облик яда хилека
+Hylek Potion,Зелье хилека
+Hylek Protection,Защита хилека
+Hylek Red Hue Potion[s],[Зелье|Зелья|Зелий] красного оттенка хилеков
+Hylek Region Marker,Маркер региона хилека
+Hylek Salve,Мазь хилека
+Hylek Stomp,Топот хилека
+Hylek Tlamatini,Хилек Тламатини
+Hylek Tongue[s],[Язык|Языка|Языков] хилеков
+Hylek Torpedo,Хилекская торпеда
+Hylek Treasure,Хилекское сокровище
+Hylek Weapon,Хилекское оружие
+Hylek Yellow Hue Potion[s],[Зелье|Зелья|Зелий] жёлтого оттенка хилеков
 Hymn to the Prophets (Infused),Гимн Пророкам (Насыщенный)
 Hymn[s] of Glory,[Гимн|Гимна|Гимнов] славы
 Hype Up the Crowd,Разогреть толпу
@@ -478,7 +478,7 @@ I am not wielding a weapon. Open your Inventory (%str1%) and hand me a weapon if
 I am of %str1% descent.,Я происхожу из рода %str1%.
 I am ready,Я готов
 I am ready!,Я готов!
-"I am safe for a time.    My notions of master espionage shattered, I was dragged by a Kryptis patrol inside Heitor's Gate, ostensibly to be presented to Heitor herself.    Ignaxious—see Field Report 2—observed my presence and ordered I be released into his custody instead. The patrol leader resisted initially, insisting Heitor's orders were to deliver any detainees to her directly, but after a few moments of silence (during which I can only assume Ignaxious appealed to him telepathically), the patrol leader's resistance turned quickly to acquiescence.    Recalling his ambition and loyalties, I deceived Ignaxious, posturing as a high-ranking member of the ward with valuable information. He believed my fabrications initially and enthusiastically secreted me through a series of portals to a location secure enough to question me at his leisure, telepathically.    I believed myself quite strong, mentally, and my Astral Ward training did help, to a point. But as the questioning became increasingly spirited, my façade cracked. Soon Ignaxious discovered the truth, and no questioning technique wounded me as much as his final words: ""A research lackey turned ineffectual mole. Feed it to the rabble.""    —Operative Selly","Я в безопасности на время. Мои представления о высшем шпионаже разбились вдребезги, когда патруль криптисов протащил меня внутрь Врат Гейтора, якобы чтобы представить самой Гейтор. Игнаксиус — см. Полевой отчёт 2 — заметил мое присутствие и приказал передать меня под его опеку. Командир патруля сначала сопротивлялся, настаивая, что приказы Гейтора — доставлять всех задержанных напрямую ей, но после нескольких мгновений тишины (в течение которых, как я могу предположить, Игнаксиус обращался к нему телепатически) сопротивление командира быстро сменилось согласием. Вспомнив его амбиции и преданность, я обманул Игнаксиуса, притворившись высокопоставленным членом оплота, владеющим ценной информацией. Он сначала поверил моим выдумкам и с энтузиазмом тайно провел меня через серию порталов в место, достаточно безопасное, чтобы допросить меня на досуге, телепатически. Я считал себя довольно сильным ментально, и моя подготовка в Астральном оплоте помогла, до определенного момента. Но когда допрос стал все более напористым, моя маска треснула. Вскоре Игнаксиус узнал правду, и никакая техника допроса не ранила меня так сильно, как его последние слова: «Исследовательский прихвостень, ставший никчёмным кротом. Скоростите его черни». —Оперативник Сэлли"
+"I am safe for a time.    My notions of master espionage shattered, I was dragged by a Kryptis patrol inside Heitor's Gate, ostensibly to be presented to Heitor herself.    Ignaxious—see Field Report 2—observed my presence and ordered I be released into his custody instead. The patrol leader resisted initially, insisting Heitor's orders were to deliver any detainees to her directly, but after a few moments of silence (during which I can only assume Ignaxious appealed to him telepathically), the patrol leader's resistance turned quickly to acquiescence.    Recalling his ambition and loyalties, I deceived Ignaxious, posturing as a high-ranking member of the ward with valuable information. He believed my fabrications initially and enthusiastically secreted me through a series of portals to a location secure enough to question me at his leisure, telepathically.    I believed myself quite strong, mentally, and my Astral Ward training did help, to a point. But as the questioning became increasingly spirited, my façade cracked. Soon Ignaxious discovered the truth, and no questioning technique wounded me as much as his final words: ""A research lackey turned ineffectual mole. Feed it to the rabble.""    —Operative Selly","Я в безопасности на время. Мои представления о высшем шпионаже разбились вдребезги, когда патруль криптисов протащил меня внутрь Врат Гейтора, якобы чтобы представить самой Гейтор. Игнаксиус — см. Полевой отчёт 2 — заметил мое присутствие и приказал передать меня под его опеку. Командир патруля сначала сопротивлялся, настаивая, что приказы Гейтора — доставлять всех задержанных напрямую ей, но после нескольких мгновений тишины (в течение которых, как я могу предположить, Игнаксиус обращался к нему телепатически) сопротивление командира быстро сменилось согласием. Вспомнив его амбиции и преданность, я обманул Игнаксиуса, притворившись высокопоставленным членом оплота, владеющим ценной информацией. Он сначала поверил моим выдумкам и с энтузиазмом тайно провел меня через серию порталов в место, достаточно безопасное, чтобы допросить меня на досуге, телепатически. Я считал себя довольно сильным ментально, и моя подготовка в Астральном оплоте помогла, до определенного момента. Но когда допрос стал все более напористым, моя маска треснула. Вскоре Игнаксиус узнал правду, и никакая техника допроса не ранила меня так сильно, как его последние слова: «Исследовательский прихвостень, ставший никчёмным кротом. Скоростите его чёрни». —Оперативник Сэлли"
 "I am thirsty from all the walking we did, but I would not trust any of the Water here.","Я хочу пить после всей этой ходьбы, но не доверял бы ни одной здешней воде."
 "I am writing to pass along to you the enormous gratitude of the villagers of Smokestead for your recent help. Your efforts in aiding our attempts to regain control of the vineyards outside Smokestead Village were an inspiration to those of us who were beginning to weary of the seemingly endless conflict. Because of your help, we now feel safe enough to continue our search for an answer to the ghost problem that afflicts this area. When we succeed, I will make certain that your part in the victory is well known. —Bryllana Deepmind","Я пишу, чтобы передать вам огромную благодарность жителей Дымного Подворья за вашу недавнюю помощь. Ваши усилия по оказанию помощи в наших попытках вернуть контроль над виноградниками за пределами Дымного Подворья вдохновили тех из нас, кто начал уставать от, казалось бы, бесконечного конфликта. Благодаря вашей помощи мы теперь чувствуем себя в достаточной безопасности, чтобы продолжить поиски решения проблемы призраков, терзающих эту местность. Когда мы добьемся успеха, я позабочусь о том, чтобы ваша роль в победе была широко известна. —Бриллана Глубинный Разум"
 "I am writing to tell you thanks for defending the Zintl Holy Grounds. My tribe and I are indebted to you. I told the sylvari, Alardin, about you. Look for him at Dryground Village, to the southeast.","Я пишу, чтобы поблагодарить вас за защиту Священных Земель Зинтл. Мое племя и я в долгу перед вами. Я рассказал о вас сильвари, Алардину. Ищите его в Деревне Сухой Земли, к юго-востоку."
@@ -491,7 +491,7 @@ I barely made it out alive. Slimy scum!,Я едва выбрался живым.
 I bet he didn't see that coming!,"Бьюсь об заклад, он этого не ожидал!"
 I came across this letter among some bandit supplies.,Я наткнулся на это письмо среди припасов бандитов.
 "I came up for air and noticed that the Corsair base is in disarray. Good job. I'd advise you not to linger, in case they catch onto what you've been doing over there.—Agent Carter, Order of Whispers","Я вынырнул на поверхность и заметил, что база корсаров в беспорядке. Отличная работа. Я бы посоветовал вам не задерживаться, на случай, если они догадаются, чем вы там занимались. —Агент Картер, Орден Шепотов"
-"I can feel Raven's presence so strongly here in Bjora Marches. Like he's fighting Jormag and the Sons of Svanir's stranglehold on the region. He wants to help. I don't think it's a coincidence Almorra and I discovered these ancient Raven lenses in Darkrime Delves right around the time the fraenir arrived.I don't know how or when these lenses were created, but it's clear they're very old. Several centuries, at least. They seem to react to the Raven shrines scattered around the wilds, revealing passageways and providing protection from the cold. The other day, the lens I was carrying even showed me an echo from the recent past, involving a norn patrol. I think it was teaching me how to use it.I have theories about these lenses I'll never be able to prove. The things it can do—protect, teach, reveal—lead me to believe Raven bestowed them on our ancestors to defend against attackers. Maybe even Jormag specifically. I think that's why they're making an appearance again now. Raven wants us to fight back. To take down the fraenir and free the region. And as long as we have Almorra, I know we can do it.","Я так сильно чувствую присутствие Ворона здесь, в Бьора-Маркес. Словно он борется с удушающей хваткой Джормага и Сыновей Сванира в этом регионе. Он хочет помочь. Не думаю, что это совпадение, что мы с Альморрой обнаружили эти древние линзы Ворона в Тёмных Глубинах как раз в то время, когда прибыл фраенир. Я не знаю, как и когда были созданы эти линзы, но ясно, что они очень старые. Как минимум несколько столетий. Они, кажется, реагируют на святилища Ворона, разбросанные по диким землям, открывая проходы и защищая от холода. На днях линза, которую я носил, даже показала мне эхо недавнего прошлого с участием норнского патруля. Думаю, она учила меня, как ею пользоваться. У меня есть теории об этих линзах, которые я никогда не смогу доказать. То, что они могут делать — защищать, учить, открывать — приводит меня к мысли, что Ворон даровал их нашим предкам для защиты от врагов. Возможно, даже специально от Джормага. Думаю, поэтому они снова появляются сейчас. Ворон хочет, чтобы мы дали отпор. Сразили фраенира и освободили регион. И пока с нами Альморра, я знаю, что мы сможем это сделать."
+"I can feel Raven's presence so strongly here in Bjora Marches. Like he's fighting Jormag and the Sons of Svanir's stranglehold on the region. He wants to help. I don't think it's a coincidence Almorra and I discovered these ancient Raven lenses in Darkrime Delves right around the time the fraenir arrived.I don't know how or when these lenses were created, but it's clear they're very old. Several centuries, at least. They seem to react to the Raven shrines scattered around the wilds, revealing passageways and providing protection from the cold. The other day, the lens I was carrying even showed me an echo from the recent past, involving a norn patrol. I think it was teaching me how to use it.I have theories about these lenses I'll never be able to prove. The things it can do—protect, teach, reveal—lead me to believe Raven bestowed them on our ancestors to defend against attackers. Maybe even Jormag specifically. I think that's why they're making an appearance again now. Raven wants us to fight back. To take down the fraenir and free the region. And as long as we have Almorra, I know we can do it.","Я так сильно чувствую присутствие Ворона здесь, в Бьора-Маркес. Словно он борется с удушающей хваткой Йормага и Сыновей Сванира в этом регионе. Он хочет помочь. Не думаю, что это совпадение, что мы с Альморрой обнаружили эти древние линзы Ворона в Тёмных Глубинах как раз в то время, когда прибыл фраенир. Я не знаю, как и когда были созданы эти линзы, но ясно, что они очень старые. Как минимум несколько столетий. Они, кажется, реагируют на святилища Ворона, разбросанные по диким землям, открывая проходы и защищая от холода. На днях линза, которую я носил, даже показала мне эхо недавнего прошлого с участием норнского патруля. Думаю, она учила меня, как ею пользоваться. У меня есть теории об этих линзах, которые я никогда не смогу доказать. То, что они могут делать — защищать, учить, открывать — приводит меня к мысли, что Ворон даровал их нашим предкам для защиты от врагов. Возможно, даже специально от Йормага. Думаю, поэтому они снова появляются сейчас. Ворон хочет, чтобы мы дали отпор. Сразили фраенира и освободили регион. И пока с нами Альморра, я знаю, что мы сможем это сделать."
 I Can Haz Warhornz?,Я хочу боевые рожки?
 "I can hear her. Her voice lingers at the edge of my mind like a memory I've long forgotten—the lightest touch. Bubbling beneath the ocean waves, deep below... Her voice, like a feather against my scales.","Я слышу её. Её голос задерживается на краю моего сознания, как давно забытое воспоминание — легчайшее прикосновение. Бурля под океанскими волнами, глубоко внизу... Её голос, словно перо, касающееся моей чешуи."
 "I can't believe I lived to see the day when the Hawkgates were opened for good, and yet here I am in my second year overseeing a camp outside of Ebonhawke's walls. Our proximity makes us a desirable destination for Ebonhawke's citizens, even though the wilderness in between can be deadly—as you yourself experienced. Thank you for helping to remove those dangers.—Lieutenant Tyler","Не могу поверить, что дожил до дня, когда Ястребиные врата были открыты навсегда, и вот я уже второй год управляю лагерем за стенами Эбонхока. Наша близость делает нас желанным местом для граждан Эбонхока, хотя дикая местность между нами может быть смертельно опасной — как вы сами испытали. Спасибо за помощь в устранении этих опасностей. — Лейтенант Тайлер"

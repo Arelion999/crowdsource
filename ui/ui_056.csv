@@ -8,7 +8,7 @@ Double-click to play %str1%.,"Дважды щёлкните, чтобы сыгр
 Double-click to poison yourself.<br>These would be safer in the hands of an expert.,"Двойной щелчок, чтобы отравить себя.<br>Эти вещи были бы безопаснее в руках эксперта."
 "Double-click to receive a random Battle Commendation. While Commended, receive a bonus damage aura and eligibility for bonus XP from killing specific types of creatures.","Дважды щёлкните, чтобы получить случайную боевую рекомендацию. Пока вы рекомендованы, получаете ауру дополнительного урона и право на бонусный опыт за убийство определенных типов существ."
 "Double-click to receive an Elonian Landscape, Elonian Beasts, Awakened, Zhaitan, and Mordremoth Dye Kit.","Дважды щёлкните, чтобы получить набор красителей «Элонский пейзаж», «Элонские звери», «Пробужденные», «Жаитан» и «Мордремоф»."
-"Double-click to receive the minis Poowulpi the Persnicketous, Peggellegg the ""Pirate,"" and Kookoochoo the Incredulous.","Дважды щёлкните, чтобы получить миниатюры Пувульпи Привередливого, Пеггеллега ""Пирата"" и Кукучу Недоверчивого."
+"Double-click to receive the minis Poowulpi the Persnicketous, Peggellegg the ""Pirate,"" and Kookoochoo the Incredulous.","Дважды щёлкните, чтобы получить миниатюры Пувульпи Привередливого, Пеггеллега «Пирата» и Кукучу Недоверчивого."
 "Double-click to receive the Super Banana, Super Yeti, and Super Raccoon miniatures.","Дважды щёлкните, чтобы получить миниатюры Супер-банан, Супер-йети и Супер-енот."
 Double-click to receive three random items from Living World Season 1.,"Дважды щёлкните, чтобы получить три случайных предмета из первого сезона «Живого мира»."
 Double-click to reinforce gear.,"Дважды щёлкните, чтобы укрепить снаряжение."
@@ -17,10 +17,10 @@ Double-click to select stats.,"Дважды щёлкните, чтобы выб�
 Double-click to sell this item,"Дважды щёлкните, чтобы продать этот предмет."
 Double-click to transfer all of the bonuses from one item to another item of the same type. The item you take stats from will be destroyed in the process.,"Дважды щёлкните, чтобы перенести все бонусы с одного предмета на другой предмет того же типа. Предмет, с которого вы берете характеристики, будет уничтожен в процессе."
 "Double-click to transform into a Janthiri floppy fish.<br><br><c=@flavor>""Glub.""</c>","Дважды щёлкните, чтобы превратиться в джантирскую тряпичную рыбку.<br><br><c=@flavor>«Глуб».</c>"
-"Double-click to transform into a truffle-hungry porcine hero.<c=@flavor>""Oink!""<br>—Truffle Pig Motto</c>","Дважды щёлкните, чтобы превратиться в голодного до трюфелей свиного героя.<c=@flavor>""Хрю!""<br>—Девиз трюфельной свиньи</c>"
+"Double-click to transform into a truffle-hungry porcine hero.<c=@flavor>""Oink!""<br>—Truffle Pig Motto</c>","Дважды щёлкните, чтобы превратиться в голодного до трюфелей свиного героя.<c=@flavor>«Хрю!»<br>—Девиз трюфельной свиньи</c>"
 Double-click to unlock %str1% permanently.,"Дважды щёлкните, чтобы навсегда разблокировать %str1%."
 Double-click to unlock this trait.,"Дважды щёлкните, чтобы разблокировать эту черту."
-"Double-click while underwater to transform into a koi.<br><br><c=@flavor>""Don't be coy, be a koi!""</c>","Дважды щёлкните под водой, чтобы превратиться в кои.<br><br><c=@flavor>""Не будь застенчивым, будь кои!""</c>"
+"Double-click while underwater to transform into a koi.<br><br><c=@flavor>""Don't be coy, be a koi!""</c>","Дважды щёлкните под водой, чтобы превратиться в кои.<br><br><c=@flavor>«Не будь застенчивым, будь кои!»</c>"
 Double-Edged Stance,Обоюдоострая стойка
 Double-Edged Strike,Обоюдоострый удар
 Double-tap forward to autorun or backward to flip.,"Дважды нажмите вперёд, чтобы бежать автоматически, или назад, чтобы перевернуться."
@@ -75,7 +75,7 @@ Draconic Sword Skin[s],Облик[|а|ов] драконьего меча
 Draconic Torch Skin[s],Облик[|а|ов] драконьего факела
 Draconic Tribute[s],[Драконья дань|Драконьи дани|Драконьих даней]
 Draconic Warhorn Skin[s],Облик[|а|ов] драконьего рога
-"Draconic Weapon Box[pl:""Boxes""]",Драконья коробка с оружием
+"Draconic Weapon Box[pl:""Boxes""]",[Сундук|Сундука|Сундуков] с драконьим оружием
 Draconic Weapons,Драконье оружие
 Draconic Wings Backpack and Glider Combo[s],Комплект[|а|ов] «Драконьи крылья» (ранец и планер)
 Draconic Wings Backpack[s],Ранец[|а|ов] «Драконьи крылья»
@@ -240,17 +240,17 @@ Dragon's Jade Blunderbuss Skin[s],[Облик|Облика|Обликов] не�
 Dragon's Jade Cudgel Skin[s],[Облик|Облика|Обликов] нефритовой дубинки дракона
 Dragon's Jade Flame Skin[s],[Облик|Облика|Обликов] нефритового пламени дракона
 Dragon's Jade Flintlock Skin[s],[Облик|Облика|Обликов] нефритового кремнёвого пистолета дракона
-Dragon's Jade Harbinger Skin[s],[Облик|Облика|Обликов] нефритового вестника дракона
+Dragon's Jade Harbinger Skin[s],[Облик|Облика|Обликов] нефритового предвестника дракона
 Dragon's Jade Hornbow Skin[s],[Облик|Облика|Обликов] нефритового рогового лука дракона
 Dragon's Jade Kris Skin[s],[Облик|Облика|Обликов] нефритового криса дракона
 Dragon's Jade Lacerator Skin[s],[Облик|Облика|Обликов] нефритового раздирателя дракона
 Dragon's Jade Needler Skin[s],Облик[|а|ов] «Драконий нефритовый игольник»
 Dragon's Jade Quarterstaff Skin[s],Облик[|а|ов] «Драконий нефритовый посох»
-Dragon's Jade Reaver Skin[s],Облик[|а|ов] «Драконий нефритовый рейвер»
+Dragon's Jade Reaver Skin[s],Облик[|а|ов] «Драконий нефритовый жнец»
 Dragon's Jade Truncheon Skin[s],Облик[|а|ов] «Драконья нефритовая дубинка»
 Dragon's Jade Wall Skin[s],Облик[|а|ов] «Драконий нефритовый щит»
 Dragon's Jade Warhammer Skin[s],Облик[|а|ов] «Драконий нефритовый боевой молот»
-"Dragon's Jade Weapon Box[pl:""Boxes""]",Ящик с оружием из драконьего нефрита
+"Dragon's Jade Weapon Box[pl:""Boxes""]",[Сундук|Сундука|Сундуков] с драконьим нефритовым оружием
 Dragon's Jade Weapons,Оружие Драконьего нефрита
 Dragon's Might,Драконья мощь
 Dragon's Orichalcum Imbued Inscription[s],Напитанн[ая орихалком гравировка|ые орихалком гравировки|ых орихалком гравировок] Дракона
@@ -284,7 +284,7 @@ Dragonfall (Underground),Падение дракона (Подземелье)
 Dragonfall Coffer[s],Ларец[|а|ов] Падения Дракона
 Dragonfall Empowerment[s],[Укрепление|Укрепления|Укреплений] Драконьего падения
 Dragonfall Reward Track,Трек наград «Падение дракона»
-"Dragonfish Candy[pl:""Candies""]",Леденец из драконьей рыбы
+"Dragonfish Candy[pl:""Candies""]",[Конфета|Конфеты|Конфет] «Рыба-дракон»
 "Dragonfish[pl:""Dragonfish""]",[Драконья рыба|Драконьи рыбы|Драконьих рыб]
 Dragonfly Cupcake[s],[Кекс|Кекса|Кексов] «Стрекоза»
 Dragonhunter's Auric Sharpening Stone[s],[Точильный камень|Точильного камня|Точильных камней] драконоборца с ауриком
@@ -298,7 +298,7 @@ Dragonsblood Shrapnel Bolt,Картечный болт из драконьей �
 Dragonsblood Spear,Копьё из драконьей крови
 Dragonsblood Spears,Копья из драконьей крови
 Dragonsblood Weapon Recipe Book[s],[Книга рецептов|Книги рецептов|Книг рецептов] оружия из крови дракона
-"Dragonscale Epaulettes Box[pl:""Boxes""]",Коробка драконьей чешуи
+"Dragonscale Epaulettes Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с наплечниками из драконьей чешуи
 Dragonstorm Entry,Вход в Драконий шторм
 Dragonstorm Sector,Сектор Драконий Шторм
 Dragonvine Priory Strap[s],[Ремень|Ремня|Ремней] Приората из лозы дракона
@@ -367,7 +367,7 @@ Dreadbell (Level 65),Колокол ужаса (65 уровень)
 Dreadnought Raptor Skin[s],Облик[|а|ов] дредноута-раптора
 Dreadnought Skiff Skin[s],Облик[|а|ов] дредноута-скиффа
 Dream Essence: High above the pools of Mourning's Shade.,Эссенция грёз: Высоко над заводями Скорбной Тени.
-"Dream Essence: In northeast Defiled Cradle, where Eventide's bridge once marched east to Mourning's Shade.","Эссенция грёз: В северо-восточной части Осквернённой Колыбели, где мост Вечерней Зари когда-то вёл на восток к Скорбной Тени."
+"Dream Essence: In northeast Defiled Cradle, where Eventide's bridge once marched east to Mourning's Shade.","Эссенция грёз: В северо-восточной части Осквернённой Колыбели, где мост Вечёрней Зари когда-то вёл на восток к Скорбной Тени."
 "Dream Essence: In the Old Settlement's southern grasslands, near stones bathed in starlight.","Эссенция грёз: В южных лугах Старого Поселения, у камней, омытых звёздным светом."
 Dream Fish,Рыба грёз
 Dream of Ancient Orr,Грёзы Древнего Орра
@@ -395,7 +395,7 @@ Dreamthistle Sword Skin[s],[Облик|Облика|Обликов] меча «�
 Dreamthistle Torch Skin[s],[Облик|Облика|Обликов] факела «Снотополох»
 Dreamthistle Trident Skin[s],[Облик|Облика|Обликов] трезубца «Снотополох»
 Dreamthistle Warhorn Skin[s],[Облик|Облика|Обликов] боевого рога «Снотополох»
-"Dreamthistle Weapon Box[pl:""Boxes""]",Коробка с оружием из лунного чертополоха
+"Dreamthistle Weapon Box[pl:""Boxes""]",[Сундук|Сундука|Сундуков] с оружием «Чертополох грёз»
 Dreamthistle Weapons,Оружие «Грезы чертополоха»
 Dreamwalker Dagger Skin[s],[Облик|Облика|Обликов] кинжала «Сноходец»
 Dreamwalker Longbow Skin[s],[Облик|Облика|Обликов] длинного лука «Сноходец»
@@ -407,13 +407,13 @@ Dreamwalker Wings Backpack[s],[Сумка|Сумки|Сумок] «Крылья 
 Dredge Aggro Tracker,Трекер агро дреджей
 Dredge Automated Cannon,Автоматическая пушка дредж
 Dredge Automated Turret,Автоматическая турель дредж
-"Dredge Bomber Loot Box[pl:""Boxes""]",Ящик с добычей от диггера-подрывника
+"Dredge Bomber Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей бомбардировщика дреджей
 Dredge Bomber[s],[Подрывник|Подрывника|Подрывников] дредж
 Dredge Camp,Лагерь дредж
 Dredge Cannon,Пушка Дредж
 Dredge Cannonball,Пушечное ядро Дредж
 Dredge Chest,Сундук дредж
-"Dredge Disaggregator Loot Box[pl:""Boxes""]",Ящик с добычей «Дредж Разрушитель»
+"Dredge Disaggregator Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей расщепителя дреджей
 Dredge Disaggregator[s],[Дизъюнктор|Дизъюнктора|Дизъюнкторов] дредж
 Dredge Document Barrel,Бочка с документами дредж
 Dredge Drink,Напиток Дредж
@@ -435,16 +435,16 @@ Dredge Mortars,Дреджутовые мортиры
 "Dredge Oscillator Loot Box[pl:""Boxes""]","Ящик с добычей ""Дредж-осциллятор""[|щики|щиков]"
 Dredge Oscillator[s],[Осциллятор|Осциллятора|Осцилляторов] дредж
 Dredge Personnel Carrier,Транспорт для перевозки личного состава Дредж
-"Dredge Resonator Loot Box[pl:""Boxes""]",Ящик с добычей из Дредж-резонатора
+"Dredge Resonator Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей резонатора дреджей
 Dredge Resonator[s],[Резонатор|Резонатора|Резонаторов] дредж
-"Dredge Reverberant Loot Box[pl:""Boxes""]",Ящик с добычей Дреджа-Реверберанта
+"Dredge Reverberant Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей ревербератора дреджей
 Dredge Reverberant[s],[Ревербератор|Ревербератора|Ревербераторов] дредж
 "Dredge Sonic Reverberant Loot Box[pl:""Boxes""]","Ящик с добычей Дреджа ""Сонический Ревербератор""[|щики|щиков]"
 Dredge Sonic Rifle,Звуковая винтовка дреджей
 Dredge Spiral Drill[s],[Спиральное сверло|Спирального сверла|Спиральных свёрл] дредж
 Dredge Storm Generator,Генератор бури дреджей
 Dredge Storm Generator[s],[Генератор бури|Генератора бури|Генераторов бури] дредж
-Dredge Strazar,Дредж Стразер
+Dredge Strazar,Стразар дреджей
 Dredge Suit,Костюм дреджей
 Dredge Supplier Yuliya,Поставщица дреджей Юлия
 Dredge Sword,Меч дреджей
