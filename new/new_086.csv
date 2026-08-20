@@ -15,9 +15,9 @@ Read a page.,Прочитайте страницу.
 Read another page.,Продолжить чтение.
 Read delivery instructions.,Ознакомьтесь с инструкциями по доставке.
 Read further.,Читать далее.
-Read inscription,Прочитать надпись
+Read inscription,Прочитать гравировку
 Read some.,Прочитайте немного.
-Read the Inscription,Прочитайте надпись.
+Read the Inscription,Прочитайте гравировка.
 Read the Jade Brotherhood security log.,Прочитайте журнал безопасности Нефритового братства.
 Read the first line.,Прочитай первую строку.
 Read the letter from Empress Ihn.,Прочитайте письмо от императрицы Инь.
@@ -80,7 +80,7 @@ Reciclar objetos,Перерабатывать предметы
 Recipe Book,Книга рецептов
 Recipe[s]: Box of Berserker's Gladiator Armor (Rare),Рецепт[|а|ов]: ящик с доспехами берсерка-гладиатора (редкий)
 Recipe[s]: Box of Carrion Barbaric Armor (Master),Рецепт[|а|ов]: ящик варварской брони из падали (мастерский)
-Recipe[s]: Box of Honed Scale Armor,Рецепт[|а|ов]: ящик отточенной чешуйчатой брони
+Recipe[s]: Box of Honed Scale Armor,Рецепт[|а|ов]: ящик заточенной чешуйчатой брони
 Recipe[s]: Box of Hunter's Gladiator Armor (Rare),Рецепт[|а|ов]: ящик с доспехами гладиатора-охотника (редкий)
 Recipe[s]: Box of Hunter's Scale Armor,Рецепт[|а|ов]: ящик с пластинчатой броней охотника
 Recipe[s]: Box of Hunter's Scale Armor (Master),Рецепт[|а|ов]: ящик с элементами брони охотника (мастерская версия)
@@ -127,13 +127,13 @@ Recipe[s]: Feast of Stuffed Peppers,Рецепт[|а|ов]: пир фаршир�
 Recipe[s]: Feast of Super Veggie Pizzas,Рецепт[|а|ов]: пир супер-овощной пиццы
 Recipe[s]: Feast of Tarragon Stuffed Poultry,Рецепт[|а|ов]: пир фаршированной птицы с тархуном
 Recipe[s]: Giant Chocolate Raspberry Cake,Рецепт[|а|ов]: гигантский шоколадно-малиновый торт
-Recipe[s]: Harrier's Warbeast Boots,"Рецепт[|а|ов]: военные сапоги ""Гарриер"""
-Recipe[s]: Harrier's Warbeast Greaves,Рецепт[|а|ов]: поножи боевого зверя «Гарриер»
+Recipe[s]: Harrier's Warbeast Boots,Рецепт[|а|ов]: военные сапоги «Вестник»
+Recipe[s]: Harrier's Warbeast Greaves,Рецепт[|а|ов]: поножи боевого зверя «Вестник»
 Recipe[s]: Harrier's Warbeast Leggings,Рецепт[|а|ов]: поножи боевого зверя «Хариер»
 Recipe[s]: Harrier's Warbeast Mantle,Рецепт[|а|ов]: боевой плащ рейнджера
-Recipe[s]: Harrier's Warbeast Pauldrons,"Рецепт[|а|ов]: плечевые накладки для боевого зверя ""Гарриер"""
-Recipe[s]: Harrier's Warbeast Shoes,"Рецепт[|а|ов]: военные сапоги ""Гарриер"""
-Recipe[s]: Harrier's Warbeast Shoulders,"Рецепт[|а|ов]: плечи для боевого зверя ""Гарриер"""
+Recipe[s]: Harrier's Warbeast Pauldrons,Рецепт[|а|ов]: плечевые накладки для боевого зверя «Вестник»
+Recipe[s]: Harrier's Warbeast Shoes,Рецепт[|а|ов]: военные сапоги «Вестник»
+Recipe[s]: Harrier's Warbeast Shoulders,Рецепт[|а|ов]: плечи для боевого зверя «Вестник»
 Recipe[s]: Keeper's Zealot's Insignia,Рецепт[|а|ов]: знамя фанатика-хранителя
 Recipe[s]: Laranthir's Leather Breather,Рецепт[|а|ов]: кожаная броня Ларантира
 Recipe[s]: Laranthir's Pauldrons,Рецепт[|а|ов]: наплечники Ларантира
@@ -284,12 +284,12 @@ Recipe[s]: Satchel of Hearty Leather Armor (Master),Рецепт[|а|ов]: су
 Recipe[s]: Satchel of Hearty Masquerade Armor (Rare),"Рецепт[|а|ов]: сумка с комплектом брони ""Праздничный маскарад"" (редкий)"
 Recipe[s]: Satchel of Hearty Outlaw Armor,Рецепт[|а|ов]: сумка с комплектом прочной брони изголовщика
 Recipe[s]: Satchel of Hearty Student Armor,Рецепт[|а|ов]: сумка с комплектом прочной брони для учеников
-Recipe[s]: Satchel of Honed Acolyte Armor,Рецепт[|а|ов]: сумка с отточенной бронёй аколита
-Recipe[s]: Satchel of Honed Leather Armor,Рецепт[|а|ов]: сумка с отточенной кожаной броней
-Recipe[s]: Satchel of Honed Leather Armor (Master),Рецепт[|а|ов]: сумка с отточенной кожаной броней (мастерская)
-Recipe[s]: Satchel of Honed Masquerade Armor (Rare),Рецепт[|а|ов]: сумка с отточенной маскировочной броней (редкая)
-Recipe[s]: Satchel of Honed Outlaw Armor,Рецепт[|а|ов]: сумка с отточенной броней изгоя
-Recipe[s]: Satchel of Honed Student Armor,Рецепт[|а|ов]: сумка с отточенными элементами доспехов студента
+Recipe[s]: Satchel of Honed Acolyte Armor,Рецепт[|а|ов]: сумка с заточенной бронёй аколита
+Recipe[s]: Satchel of Honed Leather Armor,Рецепт[|а|ов]: сумка с заточенной кожаной броней
+Recipe[s]: Satchel of Honed Leather Armor (Master),Рецепт[|а|ов]: сумка с заточенной кожаной броней (мастерская)
+Recipe[s]: Satchel of Honed Masquerade Armor (Rare),Рецепт[|а|ов]: сумка с заточенной маскировочной броней (редкая)
+Recipe[s]: Satchel of Honed Outlaw Armor,Рецепт[|а|ов]: сумка с заточенной броней изгоя
+Recipe[s]: Satchel of Honed Student Armor,Рецепт[|а|ов]: сумка с заточенными элементами доспехов студента
 Recipe[s]: Satchel of Hunter's Acolyte Armor,Рецепт[|а|ов]: сумка с доспехами адепта-охотника
 Recipe[s]: Satchel of Hunter's Acolyte Armor (Master),Рецепт[|а|ов]: сумка с доспехами адепта охотника (мастерская)
 Recipe[s]: Satchel of Hunter's Leather Armor,Рецепт[|а|ов]: сумка с кожей для брони охотника
@@ -307,9 +307,9 @@ Recipe[s]: Satchel of Knight's Prowler Armor,Рецепт[|а|ов]: сумка 
 Recipe[s]: Satchel of Knight's Rascal Armor,Рецепт[|а|ов]: сумка с доспехами рыцарского разбойника
 Recipe[s]: Satchel of Knight's Rascal Armor (Master),Рецепт[|а|ов]: сумка с комплектом брони «Рыцарский сорванец» (мастерская)
 Recipe[s]: Satchel of Knight's Winged Armor,Рецепт[|а|ов]: сумка с элементами крылатого доспеха рыцаря
-Recipe[s]: Satchel of Malign Embroidered Armor,Рецепт[|а|ов]: сумка с узорчатой злобной броней
+Recipe[s]: Satchel of Malign Embroidered Armor,Рецепт[|а|ов]: сумка с узорчатой пагубной броней
 Recipe[s]: Satchel of Malign Embroidered Armor (Master),Рецепт[|а|ов]: сумка с узорчатой броней (мастерское качество)
-Recipe[s]: Satchel of Malign Seeker Armor,"Рецепт[|а|ов]: сумка с чертежами брони ""Злобный ищущий"""
+Recipe[s]: Satchel of Malign Seeker Armor,Рецепт[|а|ов]: сумка с чертежами брони «Пагубный ищущий»
 Recipe[s]: Satchel of Mighty Embroidered Armor,Рецепт[|а|ов]: сумка с мощной расшитой броней
 Recipe[s]: Satchel of Mighty Embroidered Armor (Master),Рецепт[|а|ов]: сумка с мощной расшитой броней (мастерская)
 Recipe[s]: Satchel of Mighty Seeker Armor,Рецепт[|а|ов]: сумка с мощной броней ищущего

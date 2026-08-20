@@ -13,7 +13,7 @@ I'll deactivate weaponsmith and become an artificer.,Я отменю специ�
 I'll deal with you!,Я с тобой поквитаюсь!
 I'll defend you.,Я тебя защищу.
 "I'll destroy you myself! In Jormag's name, I will kill you all!","Я уничтожу вас лично. Во имя Jormag, я убью вас всех!"
-I'll die fighting before I'll die in here.,
+I'll die fighting before I'll die in here.,"Скорее погибну в бою, чем сдохну здесь."
 I'll do it!,Я сделаю это!
 "I'll do my best, Caithe. Thank you for warning me.","Я постараюсь изо всех сил, Кейти. Спасибо за предупреждение."
 I'll do what I can. Hurry!,"Я сделаю всё, что смогу. Поторопись!"
@@ -90,7 +90,7 @@ I'll pass this time.,В этот раз пропущу.
 I'll prepare the Sunspears to reclaim Champion's Dawn. Then I'll meet you at the old dock at Issnur Bay.,Я подготовлю Солнцекопей к возвращению Чемпионского Рассвета. Затем встретимся у старой пристани в бухте Исснур.
 "I'll pretend I didn't hear that. Did you find another book, at least? I can't stress the importance of those documents enough. In the wrong hands...","Я сделаю вид, что не слышал этого. Ты хоть другую книгу нашёл? Не могу преувеличить важность этих документов. В чужих руках..."
 I'll protect you! Take cover under my shield!,Я защищу тебя! Прячься за моим щитом!
-"I'll relay what I understand from the ward investigators. In short, the fractals generated here in Lion's Arch have been destabilized by recent events—both the Kryptis and Janthir conflicts.","Я передам вам то, что мне удалось выяснить у исследователей разломов. Если коротко, то фракталы, генерируемые здесь, в Королевской Гавани, были дестабилизированы недавними событиями — как конфликтом с Криптисом, так и войной с Джантиром."
+"I'll relay what I understand from the ward investigators. In short, the fractals generated here in Lion's Arch have been destabilized by recent events—both the Kryptis and Janthir conflicts.","Я передам вам то, что мне удалось выяснить у исследователей разломов. Если коротко, то фракталы, генерируемые здесь, в Львиной Арке, были дестабилизированы недавними событиями — как конфликтом с Криптисом, так и войной с Джантиром."
 I'll remain here so as not to give us away.,"Я останусь здесь, чтобы нас не заметили."
 I'll remember this place.,Я запомню это место.
 I'll rescue the missing squad.,Я спасу пропавший отряд.
@@ -246,7 +246,7 @@ I'm incapacitated!,Я обездвижен!
 I'm interested in browsing your stock.,Я хотел бы ознакомиться с вашим ассортиментом.
 I'm itching to finish things here so we can start marching on Zhaitan's domain. The stagnant wait is affecting my combat skills.,"Мне не терпится закончить здесь, чтобы мы могли начать наступление на владения Зайтана. Эта затянувшаяся пауза сказывается на моих боевых навыках."
 I'm just glad to have survived the crash.,"Я просто рад, что пережил крушение."
-"I'm just homesick, I guess. I miss my family in Lion's Arch.","Просто тоскую по дому, наверное. Скучаю по своей семье в Королевской Гавани."
+"I'm just homesick, I guess. I miss my family in Lion's Arch.","Просто тоскую по дому, наверное. Скучаю по своей семье в Львиной Арке."
 "I'm just interested in a chat, if you have the time.","Я готов пообщаться, если у тебя есть время."
 I'm just not sure you have anything I need right now.,"Боюсь, у вас сейчас нет ничего, что мне могло бы пригодиться."
 I'm just warming up.,Я только разминаюсь.
@@ -355,7 +355,7 @@ I'm seeing a MASSIVE spectral energy spike. Every pirate on that island's coming
 "I'm smart, see? I got lots of papers filled up with squiggles.","Я умный, понимаешь? У меня куча бумаг, исписанных закорючками."
 I'm so antsy. We need to get moving. Go tell that charr that we're ready to go.,"Я вся извелась. Нужно двигаться дальше. Сходи, скажи этому чарру, что мы готовы к отправлению."
 I'm so damn hungry. I can't hold out much longer.,Я так зверски голоден. Я больше не смогу долго продержаться.
-"I'm so glad to be back in Lion's Arch! Not that I didn't like the guild hall, but...","Я так рад вернуться в Королевскую гавань! Хотя мне и нравился гильдейский зал, но..."
+"I'm so glad to be back in Lion's Arch! Not that I didn't like the guild hall, but...","Я так рад вернуться в Львиную Арку! Хотя мне и нравился гильдейский зал, но..."
 I'm so glad we've found you!,"Я так рад, что мы вас нашли!"
 I'm so good it hurts.,"Я настолько хорош, что это сводит с ума."
 I'm so hungry.,Я так проголодался.
@@ -480,7 +480,7 @@ I've forgotten more than you'll ever know.,"Я забыл больше, чем �
 "I've given you a list. I even titled it ""Beetle Saddle.""",Я дал тебе список. Я даже назвал его «Седло для жука».
 I've got a hoe. I'll show you how to use it.,"У меня есть мотыга. Я покажу тебе, как ею пользоваться."
 "I've got a limited supply, but if you're interested, I can show you what I've got. You won't see a selection like this anywhere else.","У меня не так много, но если вам интересно, я могу показать, что у меня есть. Вы больше нигде не увидите такого ассортимента."
-I've got a special assignment for you. The Captain's Council in Lion's Arch. I want you on it.,"У меня для тебя особое задание. Капитанский совет в Королевской Гавани. Я хочу, чтобы ты вошёл в его состав."
+I've got a special assignment for you. The Captain's Council in Lion's Arch. I want you on it.,"У меня для тебя особое задание. Капитанский совет в Львиной Арке. Я хочу, чтобы ты вошёл в его состав."
 I've got a surprise for ya.,У меня есть для тебя сюрприз.
 I've got better things to do anyway.,У меня и так полно дел.
 I've got ectoplasm. Let's see what this does!,"У меня есть эктоплазма. Интересно, что с ней можно сделать!"

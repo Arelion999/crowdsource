@@ -58,7 +58,7 @@ english,translate
 +30%% к восстановлению выносливости"
 "80%% Chance to Gain Might on Dodge
 +30%% to Endurance Regeneration
-+10%% Experience from Kills","80%% шанс получить могущество при уклонении
++10%% Experience from Kills","80%% шанс получить мощь при уклонении
 +30%% к восстановлению выносливости
 +10%% опыта за убийства"
 "80%% Chance to Gain Might on Kill
@@ -248,7 +248,7 @@ For a short time after using this skill, your weapon skills that cost initiative
 "<c=@abilitytype>Defensive Artifact.</c> Summon a holo-dancer decoy that taunts enemies and grants boons to nearby allies. It self-destructs if it is not destroyed, dealing damage to enemies in a large area and granting additional boons to allies.<br>
 For a short time after using this skill, the next utility skill you use has reduced cooldown.","<c=@abilitytype>Оборонительный артефакт.</c> Призовите голо-танцора-приманку, который провоцирует врагов и дарует благословения ближайшим союзникам. Он самоуничтожается, если его не уничтожат, нанося урон врагам в большой области и даруя дополнительные благословения союзникам.<br>
 В течение короткого времени после использования этого навыка следующий используемый вами навык утилиты имеет уменьшенное время восстановления."
-"<c=@abilitytype>Dual Wield.</c> Pistol whip your foe, stunning them, then slash repeatedly with your sword.","<c=@abilitytype>Бой двумя оружиями.</c> Оглушите врага ударом пистолета, затем нанесите несколько ударов мечом."
+"<c=@abilitytype>Dual Wield.</c> Pistol whip your foe, stunning them, then slash repeatedly with your sword.","<c=@abilitytype>Бой на два оружия.</c> Оглушите врага ударом пистолета, затем нанесите несколько ударов мечом."
 "<c=@abilitytype>Engage.</c> Barrel roll forward, damaging foes and healing allies that you pass though. <c=@abilitytype>Hold</c> the skill to activate the dismount portion of the engage skill.
 
 Healing reduces each time the same individual is hit within a short time frame.","<c=@abilitytype>Встреча.</c> Сделайте кувырок вперёд, нанося урон врагам и исцеляя союзников, через которых вы проходите. <c=@abilitytype>Удержание</c> навыка активирует часть навыка встречи, связанную со спешиванием.

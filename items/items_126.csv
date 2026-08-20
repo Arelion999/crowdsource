@@ -299,7 +299,7 @@ A Gift of Relics is made by combining these items in the Mystic Forge:,«Дар 
 • 1 Relic
 • 250 Piles of Lucent Crystal 
 • 250 Piles of Lucent Crystal
-• 250 Piles of Lucent Crystal","Мистическая Грань создается путем объединения этих предметов в Мистической Кузнице:
+• 250 Piles of Lucent Crystal","Мистическая Грань создается путем объединения этих предметов в Мистической кузнице:
 • 1 Реликвия
 • 250 Куч Сияющего Кристалла
 • 250 Куч Сияющего Кристалла
@@ -365,7 +365,7 @@ A gift of metal used to create generation one and two legendary weapons and the 
 A gift of music used to create The Minstrel.,"Дар музыки, используемый для создания «The Minstrel»."
 "A gift of music used to create The Minstrel.,'Дар музыки",используемый для создания «Менестреля».'
 A gift of nature used to create Kudzu.,"Дар природы, используемый для создания «Kudzu»."
-A gift of stealth used to create The Predator.,"Дар скрытности, используемый для создания «The Predator»."
+A gift of stealth used to create The Predator.,"Дар невидимости, используемый для создания «The Predator»."
 A gift of water used to craft Frenzy.,"Дар воды, используемый для создания «Frenzy»."
 A gift of weather used to create Meteorlogicus.,"Дар погоды, используемый для создания «Meteorlogicus»."
 A gift of wood used to create generation one and two legendary weapons and the legendary back item Ad Infinitum.,"Дар дерева, используемый для создания легендарного оружия первого и второго поколений, а также легендарного наспинного предмета «Ad Infinitum»."
@@ -506,7 +506,7 @@ Double-click to locate.","Секретное письмо, которое сле
 Дважды щёлкните, чтобы найти."
 "A sliver of potential solidified from the Mists.,
 Use 12 petals to crystalize a Teal Bloom.,
-<c=@reminder>May be sold to vendors.</c>","Осколок потенциала, затвердевший из Туманностей.,
+<c=@reminder>May be sold to vendors.</c>","Осколок потенциала, затвердевший из Туманов.,
 Используйте 12 лепестков, чтобы кристаллизовать бирюзовый цветок.,
 <c=@reminder>Можно продать торговцам.</c>"
 "A special explosive that destroys steam creatures. Remember,' don''t use too much.'","Особая взрывчатка, уничтожающая паровых созданий. Помните, не используйте слишком много."
@@ -899,7 +899,7 @@ Created by combining the following in the Mystic Forge:,
 • 100 Ley-Infused Sands,
 • 250 Coral Orbs,• 250 коралловых сфер
 • 1 Relic of the Sunless","Объедините Дар Пляжа, Дар Солнца
-Создаётся путём объединения в Мистической Кузнице:
+Создаётся путём объединения в Мистической кузнице:
 • 250 Куча Крупнозернистого Песка,
 • 100 Песок с Наложением Магии Лей-Линий,
 • 250 Коралловая Сфера,
@@ -1019,7 +1019,7 @@ Created in the Mystic Forge by combining:,
 '• 1 Воспоминание о врагах Медвежьего рода'"
 "Combine in the Mystic Forge with Meaty Plant Food, Bloodstone Dust
 <c=@flavor>A crackling pile of elementally charged essence.</c>","Совместите в Мистической кузнице с Мясистой растительной пищей, Пылью кровавого камня
-<c=@flavor>Потрескивающая куча заряженной элементальным зарядом сущности.</c>"""
+<c=@flavor>Потрескивающая куча заряженной элементальным зарядом сущности.</c>«"
 "Combine in the Mystic Forge with Meaty Plant Food, Bloodstone Dust
 <c=@flavor>This cool, clear mineral water from a sacred glacier could purify and nourish a magically growing plant.<c>","Соедините в Мистической кузнице с Мясной растительной пищей, Кровавой каменной пылью
 <c=@flavor>Эта прохладная, прозрачная минеральная вода из священного ледника может очистить и напитать магически растущее растение.<c>"
@@ -1043,7 +1043,7 @@ Created in the Mystic Forge by combining:,
 «<c=@flavor>Этот шар явно очень могущественен. Он гудит и трепещет, словно не может сдержать своего веселья.</c>»"
 "Combine in the Mystic Forge with a Clay Pot, Bloodstone Dust
 <c=@flavor>A stone taken from the Mists, steeped in its power.</c>","Скомбинируйте в Мистической кузнице с глиняным горшком, пылью кровавого камня
-<c=@flavor>Камень, взятый из Туманностей, пропитанный их силой.</c>"
+<c=@flavor>Камень, взятый из Туманов, пропитанный их силой.</c>"
 "Combine in the Mystic Forge with a Grow Lamp, Bloodstone Bricks
 <c=@flavor>A large and potent cluster of Foxfire.</c>","Скомбинируйте в Мистической кузнице с лампой роста, кирпичами из кровавого камня
 <c=@flavor>Большой и мощный кластер лисьего огня.</c>"

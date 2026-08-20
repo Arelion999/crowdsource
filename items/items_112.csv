@@ -1,15 +1,15 @@
 english,translate
 "This short bow will not display an emblem if you are not representing this guild.
-Double-click to imbue another short bow's stats into this appearance (one-time ability).","Этот короткий лук не будет отображать эмблему, если вы не представляете эту гильдию.
+Double-click to imbue another short bow's stats into this appearance (one-time ability).","Этот короткий лук не будет отображать инсигнию, если вы не представляете эту гильдию.
 Дважды щёлкните, чтобы вживить в этот облик характеристики другого короткого лука (одноразовое действие)."
 This sign declares the area a protected cat reserve.,Этот знак объявляет территорию заповедником для кошек.
 This small access card has a series of numbers and letters along one edge.,Эта маленькая карточка доступа имеет ряд цифр и букв вдоль одного края.
 This soot-covered ring appears to be humming with magic.,"Это покрытое сажей кольцо, кажется, наполнено магическим гулом."
 "This speargun will not display emblem if you are not representing this guild.
-Double-click to imbue another speargun's stats into this appearance (one-time ability).","Это гарпунное ружьё не будет отображать эмблему, если вы не представляете эту гильдию.
+Double-click to imbue another speargun's stats into this appearance (one-time ability).","Это гарпунное ружьё не будет отображать инсигнию, если вы не представляете эту гильдию.
 Дважды щёлкните, чтобы вживить в этот облик характеристики другого гарпунного ружья (одноразовое действие)."
 "This staff will not display emblem if you are not representing this guild.
-Double-click to imbue another staff's stats into this appearance (one-time ability).","Этот посох не будет отображать эмблему, если вы не представляете эту гильдию.
+Double-click to imbue another staff's stats into this appearance (one-time ability).","Этот посох не будет отображать инсигнию, если вы не представляете эту гильдию.
 Дважды щёлкните, чтобы вживить в этот облик характеристики другого посоха (одноразовое действие)."
 This statuette has a faint herbal scent.,Эта статуэтка имеет слабый травяной запах.
 This statuette has the head of a horned lion and the tail of a fish. It's like nothing you've ever seen in Tyria.,Эта статуэтка имеет голову рогатого льва и хвост рыбы. Вы никогда не видели ничего подобного в Тирии.
@@ -18,7 +18,7 @@ This statuette is in pristine condition. Surely it was carved very recently.,Э�
 This statuette is unnaturally cold.,Эта статуэтка неестественно холодная.
 This still-intact power core has a crystal input socket at one end.,Этот всё ещё целый силовой сердечник имеет кристаллическое входное гнездо на одном конце.
 "This stone is attuned to ley-line energy. Carrying it will indicate when a Ley-Line Anomaly appears.
-Double-click to get a reading.","Этот камень настроен на энергию линий магии. Ношение его будет указывать на появление Аномалии линий магии.
+Double-click to get a reading.","Этот камень настроен на энергию лей-линий. Ношение его будет указывать на появление Аномалии лей-линий.
 Дважды щёлкните, чтобы получить показания."
 This stone shimmers like translucent gold and teleports you back to the egg chamber in Tarir.,"Этот камень мерцает, как полупрозрачное золото, и телепортирует вас обратно в камеру с яйцом в Тарире."
 "This strange asuran device provides permanent access to the Mistlock Sanctuary, a place that exists simultaneously in both Tyria and the Mists.
@@ -69,7 +69,7 @@ This token signifies an assassination you performed.,Этот знак свид�
 This tool will remove the infusions from any item without destroying either the infusion or the item. Can be purchased from a vendor inside the Fractals of the Mists.,"Этот инструмент позволяет извлечь инфузию из любого предмета, не уничтожая ни саму инфузию, ни предмет. Можно приобрести у торговца внутри Осколков Туманов."
 "This tool will remove the upgrades from any item, without destroying either the upgrade or the item.","Этот инструмент удалит улучшения из любого предмета, не уничтожая ни улучшение, ни сам предмет."
 This tough sinew can be turned into thread by Seamstress Aina.,Эту прочную жилу можно превратить в нить у портнихи Айны.
-This unusual material can be used in the Mystic Forge to craft Riftstalker weaponry.,Этот необычный материал можно использовать в Таинственной кузнице для создания оружия Рассекателя Бездны.
+This unusual material can be used in the Mystic Forge to craft Riftstalker weaponry.,Этот необычный материал можно использовать в Мистической кузнице для создания оружия Рассекателя Бездны.
 This veteran container has a champion bag.,Этот контейнер ветерана содержит сумку чемпиона.
 "This vial of goo smells awful.
 <c=@flavor>When you hold it, you get a tingling feeling that reminds you of the Mystic Forge.</c>","Эта склянка с жижей ужасно воняет.
@@ -430,7 +430,7 @@ Tizlak's Brazier,Жаровня Тизлака
 Tizlak's Breastplate,Нагрудник Тизлака
 Tizlak's Breeches,Штаны Тизлака
 Tizlak's Claymore,Клеймор Тизлака
-Tizlak's Cloth Breather,Тканевая дыхательная масканая масканая маска Тизлака
+Tizlak's Cloth Breather,Тканевая дыхательная маска Тизлака
 Tizlak's Commander's Inscription,Командирская гравировка Тизлака
 Tizlak's Commander's Insignia,Командирская инсигния Тизлака
 Tizlak's Doublet,Дублет Тизлака
@@ -444,10 +444,10 @@ Tizlak's Guise,Личина Тизлака
 Tizlak's Harpoon Gun,Гарпунное ружьё Тизлака
 Tizlak's Herald,Глашатай Тизлака
 Tizlak's Impaler,Пронзатель Тизлака
-Tizlak's Leather Breather,Кожаная дыхательная масканая масканая маска Тизлака
+Tizlak's Leather Breather,Кожаная дыхательная маска Тизлака
 Tizlak's Leggings,Поножи Тизлака
 Tizlak's Masque,Маска Тизлака
-Tizlak's Metal Breather,Металлическая дыхательная масканая масканая маска Тизлака
+Tizlak's Metal Breather,Металлическая дыхательная маска Тизлака
 Tizlak's Musket,Мушкет Тизлака
 Tizlak's Pauldrons,Наплечники Тизлака
 Tizlak's Razor,Бритва Тизлака
