@@ -25,7 +25,7 @@ Petrified Echovald Sapling,Окаменелый саженец эховальд�
 Petrified Sliver[s],[Окаменелый осколок|Окаменелых осколка|Окаменелых осколков]
 Petrified Stump,Окаменелый пень
 Petrified Wood Node[s],[Месторождение|Месторождения|Месторождений] окаменелого дерева
-"Petrified Wood[pl:""Wood""]",
+"Petrified Wood[pl:""Wood""]",[Окаменелое дерево|Окаменелых дерева|Окаменелых деревьев]
 "Petrifish[pl:""Petrifish""]",Каменная [рыбка|рыбки|рыбок]
 Petrifying Box of Fun,Окаменяющая коробка веселья
 Pets cannot be switched during combat.,Нельзя сменить питомца во время боя.
@@ -55,7 +55,7 @@ Phantasmal Arrow,Фантомная стрела
 Phantasmal Arrows,Фантомные стрелы
 Phantasmal Javelin,Фантомное копьё
 Phantasmal Tonic[s],[Эликсир|Эликсира|Эликсиров] призрака
-"Phantasmic Belongings[pl:""Belongings""]",
+"Phantasmic Belongings[pl:""Belongings""]",[Призрачные пожитки|Призрачных пожитка|Призрачных пожитков]
 "Phantom Pollock[pl:""Pollock""]",Фантомный поллок[|а|и]
 Phantom's Hood Skin[s],[Облик|Облика|Обликов] капюшона призрака
 Pharaoh's Package,Посылка фараона
@@ -78,20 +78,20 @@ Phialslinger Outfit[s],Костюм[|а|ов] «Файлслингер»
 Philosopher's Stone[s],Философск[ий|их|их] камен[ь|я|ей]
 Phlox Dye[s],Краск[а|и|ок] «Флокс»
 Phobic Trigger,Фобический триггер
-Phoenix Axe Skin[s],Облик[|а|ов] топора «Феникс»
-Phoenix Dagger Skin[s],Облик[|а|ов] кинжала «Феникс»
+Phoenix Axe Skin[s],[Облик|Облика|Обликов] топора «Феникс»
+Phoenix Dagger Skin[s],[Облик|Облика|Обликов] кинжала «Феникс»
 Phoenix Dawn,Феникс Рассвет
 Phoenix Finisher,Финишер Феникс
 Phoenix Fire,Огонь Феникса
-Phoenix Focus Skin[s],Облик[|а|ов] фокуса «Феникс»
+Phoenix Focus Skin[s],[Облик|Облика|Обликов] фокуса «Феникс»
 Phoenix Glider[s],Планер[|а|ов] «Феникс»
-Phoenix Glove Skin[s],Облик[|а|ов] перчаток «Феникс»
-Phoenix Greatsword Skin[s],Облик[|а|ов] большого меча «Феникс»
-Phoenix Hammer Skin[s],Облик[|а|ов] молота «Феникс»
+Phoenix Glove Skin[s],[Облик|Облика|Обликов] перчаток «Феникс»
+Phoenix Greatsword Skin[s],[Облик|Облика|Обликов] большого меча «Феникс»
+Phoenix Hammer Skin[s],[Облик|Облика|Обликов] молота «Феникс»
 Phoenix Kite Glider[s],Планер-кайт[|а|ов] «Феникс»
 Phoenix Lantern[s],Фонар[ь|я|ей] «Феникс»
-Phoenix Light Armor Skin[s],Облик[|а|ов] лёгкой брони «Феникс»
-Phoenix Longbow Skin[s],Облик[|а|ов] длинного лука «Феникс»
+Phoenix Light Armor Skin[s],[Облик|Облика|Обликов] лёгкой брони «Феникс»
+Phoenix Longbow Skin[s],[Облик|Облика|Обликов] длинного лука «Феникс»
 Phoenix Mace Skin[s],Облик[|ы|ов] булавы «Феникс»
 Phoenix Mantle Skin[s],Облик[|ы|ов] оплечья «Феникс»
 Phoenix Mantle[s],Оплечь[е|я|ий] «Феникс»
@@ -108,11 +108,11 @@ Phoenix Short Bow Skin[s],Облик[|ы|ов] короткого лука «Ф�
 Phoenix Staff Skin[s],Облик[|ы|ов] посоха «Феникс»
 Phoenix Sword Skin[s],Облик[|ы|ов] меча «Феникс»
 Phoenix Token[s],Жетон[|а|ов] Феникса
-Phoenix Torch Skin[s],Облик[|а|ов] факела «Феникс»
-Phoenix Vest Skin[s],Облик[|а|ов] жилета «Феникс»
+Phoenix Torch Skin[s],[Облик|Облика|Обликов] факела «Феникс»
+Phoenix Vest Skin[s],[Облик|Облика|Обликов] жилета «Феникс»
 Phoenix Vest[s],Жилет[|а|ов] «Феникс»
-Phoenix Warhorn Skin[s],Облик[|а|ов] боевого рога «Феникс»
-"Phoenix Weapon Box[pl:""Boxes""]",Фениксовый ящик для оружия
+Phoenix Warhorn Skin[s],[Облик|Облика|Обликов] боевого рога «Феникс»
+"Phoenix Weapon Box[pl:""Boxes""]",[Сундук|Сундука|Сундуков] с оружием феникса
 Phoenix Weapons,Оружие Феникса
 Phospholuminescent Infusion[s],Фосфолюминесцентная инфузи[я|и|й]
 Phosphor Brand (Level 37),Фосфорное клеймо (Уровень 37)
@@ -174,7 +174,7 @@ Pickup Radius,Радиус подбора
 Picnic Blanket Chair[s],Пикниковый стул[|а|ьев]
 Piece of Paper,Клочок бумаги
 Piece of Wood,Кусок дерева
-"Piece[pl:""Pieces""] of Skyscale Food",Кусок еды для скайскейла
+"Piece[pl:""Pieces""] of Skyscale Food",[Кусок|Куска|Кусков] еды для скайскейла
 Piece[s] of Ambrite,Кусок[|ка|ков] амбрита
 Piece[s] of Arctic Kelp,Кусок[|ка|ков] арктической ламинарии
 Piece[s] of Candy Corn,Кусок[|ка|ков] кукурузной конфеты
@@ -407,12 +407,12 @@ Pistol Token[s],Токен[|а|ов] пистолета
 "Pistol whip your foe, dazing them, then slash repeatedly with your sword.","Оглушите врага ударом пистолета, затем нанесите серию ударов мечом."
 Pistol • Focus,Пистолет • Фокус
 Pistol[s],Пистолет[|а|ов]
-Pit Fighter Coat Skin[s],Облик[|а|ов] куртки «Боец ямы»
-Pit Fighter Helm Skin[s],Облик[|а|ов] шлема «Боец ямы»
-Pit Fighter Sandals Skin[s],Облик[|а|ов] сандалий «Боец ямы»
-Pit Fighter Shoulderguard Skin[s],Облик[|а|ов] наплечников «Боец ямы»
-Pit Fighter Skirt Skin[s],Облик[|а|ов] юбки «Боец ямы»
-Pit Fighter Wristguards Skin[s],Облик[|а|ов] наручей «Боец ямы»
+Pit Fighter Coat Skin[s],[Облик|Облика|Обликов] куртки «Боец ямы»
+Pit Fighter Helm Skin[s],[Облик|Облика|Обликов] шлема «Боец ямы»
+Pit Fighter Sandals Skin[s],[Облик|Облика|Обликов] сандалий «Боец ямы»
+Pit Fighter Shoulderguard Skin[s],[Облик|Облика|Обликов] наплечников «Боец ямы»
+Pit Fighter Skirt Skin[s],[Облик|Облика|Обликов] юбки «Боец ямы»
+Pit Fighter Wristguards Skin[s],[Облик|Облика|Обликов] наручей «Боец ямы»
 Pitch Dye[s],Краск[а|и|ок] «Смола»
 Pitcher[s] of Desert-Spiced Coffee,Кувшин[|а|ов] кофе с пустынными специями
 Pitiful!,Жалко!
@@ -420,7 +420,7 @@ Pixtor appreciates your assistance.,Пикстор ценит вашу помо�
 Pixx's Insight,Проницательность Пикса
 Piñata,Пиньята
 Piñata Bashing,Битьё пиньяты
-"Piñata Bits[pl:""Bits""]",
+"Piñata Bits[pl:""Bits""]",[Кусочки пиньяты|Кусочка пиньяты|Кусочков пиньяты]
 Piñata Bowl,Чаша пиньяты
 Piñata Popper,Хлопушка пиньяты
 Piñatas bashed: %num1%,Пиньят разбито: %num1%

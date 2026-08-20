@@ -3,13 +3,13 @@ Gold Rank Chest,Золотой сундук ранга
 Gold Setting[s],[Золотая оправа|Золотой оправы|Золотых оправ]
 "Gold Shark Loot Box[pl:""Boxes""]",Золотая коробка с добычей[|ки|чи]
 Gold Tiger Chest,Золотой сундук тигра
-"Gold Tiger Loot Box[pl:""Boxes""]",Золотая тигровая шкатулка
+"Gold Tiger Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей «Золотой тигр»
 Gold Trade Limit: %num1%,Лимит золотой торговли: %num1%
 "Gold Twin Largos Trophy[pl:""Trophies""]",Золотой трофей за близнецов Ларгосов[|а|ов]
 "Gold Ura Trophy[pl:""Trophies""]",Золотой Ура трофей
 Gold Wall[s],[Золотая стена|Золотой стены|Золотых стен]
 Gold Wolf Chest,Золотой сундук волка
-"Gold Wolf Loot Box[pl:""Boxes""]",Золотая волчья шкатулка
+"Gold Wolf Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей «Золотой волк»
 Gold WvW Rank (1395-2544),Золотой ранг WvW (1395-2544)
 "Gold-Trimmed Journal, Page 1","Журнал с золотой окантовкой, страница 1"
 "Gold-Trimmed Journal, Page 2","Журнал с золотой окантовкой, страница 2"
@@ -103,7 +103,7 @@ Golem Launch,Запуск голема
 Golem Leap,Прыжок голема
 Golem Left Arm[s],Левая рук[а|и|] голема
 Golem Leg,Нога голема
-"Golem Loot Box[pl:""Boxes""]",Ящик с добычей голема
+"Golem Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей голема
 Golem Mark II,Голем Марк II
 Golem Part,Часть голема
 Golem Parts Collected,Собранные части голема
@@ -214,8 +214,8 @@ Graceful Bladed Wings Package,Набор «Изящные клинокрылья
 Graceful Bladed Wings Package now available!,Набор «Изящные клинокрылья» теперь доступен!
 Graceful Leap,Изящный прыжок
 Grade points earned.,Заработаны очки оценки.
-Gradient Glasses (Down) Skin[s],Облик[|а|ов] очков с градиентом (вниз)
-Gradient Glasses (Up) Skin[s],Облик[|а|ов] очков с градиентом (вверх)
+Gradient Glasses (Down) Skin[s],[Облик|Облика|Обликов] очков с градиентом (вниз)
+Gradient Glasses (Up) Skin[s],[Облик|Облика|Обликов] очков с градиентом (вверх)
 Gradient Glasses Package,Набор «Градиентные очки»
 Gradient Glasses Package now available!,Набор «Градиентные очки» теперь доступен!
 Grallis Crushspecter,Граллис Крушспектр
@@ -232,7 +232,7 @@ Grand Fountain,Великий фонтан
 Grand Fountain[s],Большой фонтан[|а|ов]
 Grand Frost Legion Chest,Великий сундук Легиона Льда
 Grand Icebrood Saga Cache[s],Большой тайник[|а|ов] Саги о Ледяном отродье
-Grand Lion Griffon Skin[s],Облик[|а|ов] Большого льва-грифона
+Grand Lion Griffon Skin[s],[Облик|Облика|Обликов] Большого льва-грифона
 Grand Lyceum Waypoint,Точка пути Великого лицея
 Grand Master Kyren,Великий мастер Кайрен
 Grand Piazza has been recaptured!,Великая площадь отбита!
@@ -296,7 +296,7 @@ Grape Dye[s],[Краска|Краски|Красок] «Виноград»
 Grape Gum Dye[s],[Краска|Краски|Красок] «Виноградная жвачка»
 Grape Leaf Dye[s],[Краска|Краски|Красок] «Виноградный лист»
 Grape Pie[s],[Пирог|Пирога|Пирогов] с виноградом
-"Grape Seed Pouch[pl:""Pouches""]",Мешочек с виноградными косточками
+"Grape Seed Pouch[pl:""Pouches""]",[Мешочек|Мешочка|Мешочков] с семенами винограда
 Grape Shade Dye[s],[Краска|Краски|Красок] «Виноградная тень»
 Grape[s],[Виноградина|Виноградины|Виноградин]
 Grapefruit Dye[s],[Краситель|Красители|Красителей] «Грейпфрут»
@@ -334,7 +334,7 @@ Gravel Storm,Гравийная буря
 Gravel[s],[Гравий|Гравия|Гравиев]
 Gravelgun (Level 37),Гравийное ружьё (Ур. 37)
 Gravelgun (Level 60),Гравийное ружьё (Ур. 60)
-"Graveling Loot Box[pl:""Boxes""]",Ящик с добычей Гравилинга
+"Graveling Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей гравелингов
 Graveling[s],[Гравелинг|Гравелинга|Гравелингов]
 Graven Electrum,Гробный электрум
 Gravewater Ooze,Могильная слизь
@@ -372,7 +372,7 @@ Grawl Effigy,Чучело граула
 Grawl Firestone[s],[Огненный камень гравлов|Огненных камня гравлов|Огненных камней гравлов]
 Grawl Food Sack,Мешок с едой граула
 Grawl Food Sack[s],[Мешок еды гравлов|Мешка еды гравлов|Мешков еды гравлов]
-"Grawl Loot Box[pl:""Boxes""]",
+"Grawl Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей граулов
 Grawl Painting,Гравловая картина
 Grawl Paw[s],[Лапа гравла|Лапы гравла|Лап гравлов]
 Grawl Potion[s],[Зелье гравлов|Зелья гравлов|Зелий гравлов]
@@ -427,7 +427,7 @@ Great Lodge Legend-Throne[s],Легендарный трон[|а|ов] Вели�
 Great Skelk,Великий скэлк
 Great skelk group members,Великие члены группы скелков
 Great Sledge (Level 44),Великая Кувалда (Уровень 44)
-Great Steamblade Skin[s],Облик[|а|ов] Великого парового клинка
+Great Steamblade Skin[s],[Облик|Облика|Обликов] Великого парового клинка
 Great Swing,Великий Взмах
 Great Tree,Великое Дерево
 Great Turtle Highlands,Великие Черепашьи Нагорья
@@ -453,7 +453,7 @@ Greater Reinforced Shot,Большой усиленный выстрел
 Greater Rune[s] of Holding,Большая рун[а|ы|] хранения
 Greater Shattering Bolt,Большой дробящий болт
 Greater Spread Shot,Большой разбросанный выстрел
-Greatsaw Greatsword Skin[s],Облик[|а|ов] Большого меча «Великая пила»
+Greatsaw Greatsword Skin[s],[Облик|Облика|Обликов] Большого меча «Великая пила»
 Greatsword (Known),Великий меч (известный)
 Greatsword Combo 01,Комбинация великого меча 01
 Greatsword Combo 02,Комбинация великого меча 02
