@@ -157,10 +157,10 @@ Assist Stout Darkmind,Помогите Стоуту Темноразуму.
 "Assist Tyrian Alliance efforts in the region by escorting allies to research locations, exploring sealed chambers, plundering Inquest caches, and helping pack expedition bags.","Содействуйте усилиям Tyrian Alliance в регионе, сопровождая союзников к местам исследований, изучая запечатанные камеры, грабя тайники Inquest и помогая упаковывать экспедиционные сумки."
 Assist Ulta Metamagicals with their asura gate research.,Помогите Ульте Метамагикалс в их исследованиях врат асуры.
 Assist Valiant Caillech with the Risen.,Помогите доблестной Кайлех с Восставшими.
-"Assist in dragonfly hunts, gather soft marsh plants for the hatchlings, and protect the Michotl from evil hylek and krait.","Помогайте в охоте на стрекоз, собирайте мягкие болотные растения для вылупившихся детенышей и защищайте Мичотль от злых хайлеков и крэйтов."
+"Assist in dragonfly hunts, gather soft marsh plants for the hatchlings, and protect the Michotl from evil hylek and krait.","Помогайте в охоте на стрекоз, собирайте мягкие болотные растения для вылупившихся детенышей и защищайте Мичотль от злых хилеков и крэйтов."
 Assist the Ash Legion,Помогите Пепельному легиону
 Assist the Ash Legion soldiers of Shadow Cleft.,Помогите солдатам Пепельного Легиона из Теневой Расселины.
-"Assist the Atzintli by battling the krait, rescuing captive hylek, and repairing territory markers.","Помогите Atzintli, сражаясь с крэйтами, спасая пленных хайлеков и восстанавливая территориальные маркеры."
+"Assist the Atzintli by battling the krait, rescuing captive hylek, and repairing territory markers.","Помогите Atzintli, сражаясь с крэйтами, спасая пленных хилеков и восстанавливая территориальные маркеры."
 "Assist the Beetletun farmers by freeing their friends, killing centaurs, and harassing centaur camps.","Помогите фермерам Beetletun, освобождая их друзей, убивая кентавров и совершая набеги на лагеря кентавров."
 Assist the Blood Legion,Помогите Кровавому легиону
 Assist the Chaos krewe,Помогите крю Хаоса
@@ -234,7 +234,7 @@ Braxa Scalehunter is glad to have your help.,Бракса Чешуелов ра�
 "Break up fights, salvage shipwrecked goods, return pillaged supplies, test Mehdi's grog, rouse sleeping corsairs, and catch bombs with water buckets.","Разнимайте драки, спасайте товары с затонувших кораблей, возвращайте награбленное, пробуйте грог Mehdi, будите спящих корсаров и ловите бомбы ведрами с водой."
 Brilliant Minds,Блестящие умы
 Brilliant work you've done.,Блестящая работа.
-"Bring Blopp lush kelp, defeat Inquest, neutralize poisonous ampoules, and defeat crazed hylek.","Принеси Блоппу сочные водоросли, победи Инквест, нейтрализуй ядовитые ампулы и победи безумных хайлеков."
+"Bring Blopp lush kelp, defeat Inquest, neutralize poisonous ampoules, and defeat crazed hylek.","Принеси Блоппу сочные водоросли, победи Инквест, нейтрализуй ядовитые ампулы и победи безумных хилеков."
 "Bring corsair supplies and tasteless roots to the supply depot, and rid the allied encampment of Awakened spies.",Доставьте припасы корсаров и безвкусные коренья на склад снабжения и избавьте лагерь союзников от шпионов Пробужденных.
 "Bring firefly essence to alchemy tables, set spike traps, and stomp Orrian grub holes.","Принесите эссенцию светлячков к алхимическим столам, установите ловушки с шипами и растопчите норы оррианских личинок."
 "Bring fresh food to the starving Seraph soldiers, kill White Mantle, subdue angry mobs, and bring goods to merchants.","Приносите свежую еду голодающим солдатам Серафимов, убивайте Белую Мантию, усмиряйте разъяренные толпы и доставляйте товары торговцам."
@@ -268,7 +268,7 @@ Cause chaos among the centaurs.,Посей хаос среди кентавро�
 Centaur front weakened.,Фронт кентавров ослаблен.
 Centaur lines weakened.,Ряды кентавров ослаблены.
 Centurion Truthbringer salutes you.,Центурион Правдоносец приветствует вас.
-"Challenge the minions of Jormag, the ice dragon.",Бросьте вызов приспешникам ледяного дракона Джормага.
+"Challenge the minions of Jormag, the ice dragon.",Бросьте вызов приспешникам ледяного дракона Йормага.
 Charr delegation assisted.,Делегация чарров получила помощь.
 Check bushes for bandit spies and ambushers. Return Seraph supplies to Goran. Help Seraph and the local skritt.,Проверяйте кусты на наличие бандитских шпионов и засад. Верните припасы Серафимов Goran. Помогите Серафимам и местным скайриттам.
 "Check bushes for bandits, clear mud wallows, and cull hostile creatures from the area.","Проверяйте кусты на наличие бандитов, расчищайте грязевые валлы и отсеивайте враждебных существ из этого района."
@@ -331,7 +331,8 @@ Crucibis Forgeweld salutes you.,Круцибис Форджвельд приве
 "Dear %str1%, 
 Thanks to you for helping my brothers and sisters. Your efforts will allow our village to continue to grow and prosper, and remain at peace. You are a friend to all ogres of Degun Shun.
 — Shelp","Дорогой %str1%,
-Спасибо, что помогли моим братьям и сестрам. Ваши усилия позволят нашей деревне расти, процветать и жить в мире. Вы — друг всех огров из Degun Shun."
+Спасибо, что помогли моим братьям и сестрам. Ваши усилия позволят нашей деревне расти, процветать и жить в мире. Вы — друг всех огров из Degun Shun.
+— Shelp"
 "Dearest %str1%, it is with great pleasure that quaggan writes you! You are quaggan's favorite now because you were so good about keeping the krait away. You inspired quaggans. One day, quaggans will throw the krait out of Nonmoa Lake, and quaggans will have a free and safe home. Love!","Дорогой(ая) %str1%, квагган с огромным удовольствием пишет тебе! Теперь ты любимчик кваггана, потому что ты так здорово отгонял краитов. Ты вдохновил квагганов. Однажды квагганы выкинут краитов из озера Nonmoa Lake, и у квагганов будет свободный и безопасный дом. С любовью!"
 "Decipher dwarven headstones, and protect Priory researchers.",Расшифровывайте надгробия дварфов и защищайте исследователей Приората.
 "Defeat Branded Forgotten, and destroy the crystals and seeds that protect them. Gather the lights of the Forgotten from the prophecy verses inside Augury Rock.","Победите Branded Forgotten, уничтожьте кристаллы и семена, которые их защищают. Соберите свет Forgotten из пророческих стихов внутри Augury Rock."
@@ -357,7 +358,7 @@ Thanks to you for helping my brothers and sisters. Your efforts will allow our v
 "Defeat would-be bandit assassins, find baneberries for Aidem Finlay, and calm ghosts haunting the hidden lake.","Побеждайте потенциальных убийц-бандитов, находите ягоды проклятия для Aidem Finlay и успокаивайте призраков, обитающих в скрытом озере."
 "Defend Pact patrols from Sons of Svanir, destroy corrupted ice crystals, and repair damaged flag stands.","Защищайте патрули Pact от Sons of Svanir, уничтожайте оскверненные ледяные кристаллы и чините поврежденные стойки для знамен."
 "Defend Priory healing sick quaggan, burn diseased corpses and cull plague carriers like skale, rats, and crows.","Защищайте Приорат, исцеляя больных квагганов, сжигайте зараженные трупы и уничтожайте разносчиков чумы, таких как скайлы, крысы и вороны."
-"Defend Swampwatch Post from Risen, fix hylek region markers, retrieve piles of wood, assist dehydrated Thlamatini, and test potions against the Risen.","Защищайте Болотный Дозор от Восставших, чините региональные маркеры хайлеков, собирайте кучи дров, помогайте обезвоженным Тламатини и испытывайте зелья против Восставших."
+"Defend Swampwatch Post from Risen, fix hylek region markers, retrieve piles of wood, assist dehydrated Thlamatini, and test potions against the Risen.","Защищайте Болотный Дозор от Восставших, чините региональные маркеры хилеков, собирайте кучи дров, помогайте обезвоженным Тламатини и испытывайте зелья против Восставших."
 Defend Travelen's Steading against Svanir attacks.,Защищайте Усадьбу Травелена от нападений Сванира.
 "Defend Zephyr's Trace from threats, revive villagers, clean up Forged cannonballs, fashion makeshift weapons to arm defenders, and resupply weapon crates.","Защитите Тропу Зефира от угроз, оживляйте жителей, убирайте ядра Кузни, создавайте импровизированное оружие для защитников и пополняйте ящики с оружием."
 Defend machine gun emplacements along the road and kill shamans in the forest. Destroy shrines to provoke the shamans out of hiding.,"Защищайте пулеметные точки вдоль дороги и убивайте шаманов в лесу. Уничтожайте святилища, чтобы выманить шаманов из укрытия."
@@ -375,7 +376,7 @@ Destroy corrupted ice blocking the main road. Help the Lionguard defending Snowh
 "Destroy dredge mortars, turrets, APCs, towers, and reinforcements, and clear out cave spiders and their nests.","Уничтожайте мортиры, турели, БТР, башни и подкрепления dredge, а также зачищайте пещерных пауков и их гнезда."
 "Destroy effigies, light supplies on fire, ignite stolen explosives, burn paintings, and fight the Dragon Tribe grawl.","Уничтожайте чучела, поджигайте припасы, взрывайте украденную взрывчатку, сжигайте картины и сражайтесь с grawl из Dragon Tribe."
 "Destroy grawl effigies and reduce the local grawl presence, clear out undead creatures, assist the outpost and patrols, and raise the flags of the Alliance.","Уничтожайте идолов grawl и сокращайте присутствие grawl в округе, зачищайте нежить, помогайте аванпосту и патрулям, а также поднимайте флаги Альянса."
-"Destroy horrid illusions, use ley-line magic to reclaim corrupted pools, and channel ley-line energy into Lyssa's reliquary.","Уничтожайте ужасные иллюзии, используйте магию линий лей, чтобы очистить оскверненные омуты, и направьте энергию линий лей в реликварий Lyssa."
+"Destroy horrid illusions, use ley-line magic to reclaim corrupted pools, and channel ley-line energy into Lyssa's reliquary.","Уничтожайте ужасные иллюзии, используйте магию лей-линий, чтобы очистить оскверненные омуты, и направьте энергию лей-линий в реликварий Lyssa."
 "Destroy icebrood, free refugees, light the way, and protect the kodan.","Уничтожайте ледяных отродий, освобождайте беженцев, освещайте путь и защищайте коданов."
 "Destroy ogre supplies and flag stands, prevent brawls between charr and humans, help patrols combat ogres, and revive fallen allies.","Уничтожайте припасы и флагштоки огров, предотвращайте драки между чаррами и людьми, помогайте патрулям сражаться с ограм и оживляйте павших союзников."
 Destroy or confiscate bandit supplies. Destroy bandit weapons and roadblocks.,Уничтожай или конфискуй припасы бандитов. Уничтожай оружие и блокпосты бандитов.
@@ -415,7 +416,9 @@ Dragon's corruption destroyed.,Осквернение дракона уничт�
 "Drakkitoka and skritt of Ratatosk thank tall, strong, and stompy %str1%, for spider squishings. Now, very few spiders left, and they leave us alone! No more scratchy bites, no more sticky webs. Our tunnels are open to you, always. We put shinies in this letter—take them, all for you! Yes! Bye-bye!","Драккитока и скритты из Рататоска благодарят высокого, сильного и топающего %str1%, за раздавливание пауков. Теперь пауков осталось очень мало, и они нас не трогают! Больше нет царапающих укусов, больше нет липких паутин. Наши туннели открыты для тебя, всегда. Мы положили в это письмо блестяшки — забери их, всё для тебя! Да! Пока-пока!"
 "Drakkitoka and skritt of Ratatosk thank tall, strong, and stompy %str1%, for spider squishings. Now, very few spiders left, and they leave us alone! No more scratchy bites, no more sticky webs. Our tunnels are open to you, always. We put shinies in this letter—take them, all for you! Yes! Bye-bye!
 
-—Drakkitoka","Drakkitoka и сквитты Ratatosk благодарят высокого, сильного и топочущего %str1% за раздавливание пауков. Теперь пауков осталось совсем мало, и они оставляют нас в покое! Больше никаких царапающих укусов, никакой липкой паутины. Наши туннели открыты для тебя, всегда. Мы положили блестяшки в это письмо — возьми их, всё для тебя! Да! Пока-пока!"
+—Drakkitoka","Drakkitoka и сквитты Ratatosk благодарят высокого, сильного и топочущего %str1% за раздавливание пауков. Теперь пауков осталось совсем мало, и они оставляют нас в покое! Больше никаких царапающих укусов, никакой липкой паутины. Наши туннели открыты для тебя, всегда. Мы положили блестяшки в это письмо — возьми их, всё для тебя! Да! Пока-пока!
+
+—Drakkitoka"
 Drakkitoka is thankful for your help.,Драккитока благодарна за вашу помощь.
 Dredge Munitions,Боеприпасы Дреджа
 Dredge Nuisance,Dredge-неприятности

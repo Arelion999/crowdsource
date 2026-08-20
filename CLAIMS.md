@@ -1,6 +1,6 @@
 # Батчи перевода GW2 RU — доска захвата
 
-Всего батчей: **996** | строк: **468,969** | заполнено: **462,709** (98.7%), пусто **6,260** | вычитано человеком: **206,429** (44.0%).
+Всего батчей: **996** | строк: **468,969** | заполнено: **462,709** (98.7%), пусто **6,260** | вычитано человеком: **215,889** (46.0%).
 
 > Чтобы забиндить батч — впиши свой ник и поставь 🔨 (в работе). Готово → ✅ + ссылка на файл/PR.
 >
@@ -150,10 +150,10 @@
 | `skins_008.csv` | skins | 499 | 9,085 | Soo-Won's Gaze | ✅ | Arelion — 275 строк вычитано — серия Stormforged ×15 сведена к «бурекованому» (8 вариантов в машинном заполнении) калькой с глоссарного Mistforged, Insignia к «инсигнии» во всех падежах, Dhuum к «Дууму» |
 | `skins_009.csv` | skins | 296 | 5,596 | Villainous Cape | ✅ | Arelion — 64 строки вычитано — названия обликов взяты из корпуса; строки, где в людских батчах перевод оставлен латиницей, не подставлялись |
 | `skins_010.csv` | skins | 3 | 226 | <c=@flavor>This artifact was recovered from d | ✅ | Arelion — 1 строка вычитана — flavor-текст сверен с корпусом |
-| `guild_001.csv` | guild | 497 | 25,200 | A magnificent depiction of the Spirit of Rave | ✅ | Автозаполнение из словаря + PR #1 — черновик, 496/497 (100%), нужна вычитка |
-| `guild_002.csv` | guild | 32 | 1,792 | Unlock a weekly mission slot that will only g | ✅ | Автозаполнение из словаря + PR #1 — черновик, 32/32 (100%), нужна вычитка |
-| `minis_001.csv` | minis | 49 | 4,457 | Combine 3 Mini Baron von Scrufflebutts in the | ✅ | Автозаполнение из словаря + PR #1 — черновик, 49/49 (100%), нужна вычитка |
-| `minis_002.csv` | minis | 7 | 445 | <c=@reminder>This mini can be found inside Bl | ✅ | Автозаполнение из словаря — черновик, 7/7 (100%), нужна вычитка |
+| `guild_001.csv` | guild | 497 | 25,200 | A magnificent depiction of the Spirit of Rave | ✅ | Arelion — 30 строк — Dhuum к «Дууму», термины сведены к глоссарию |
+| `guild_002.csv` | guild | 32 | 1,792 | Unlock a weekly mission slot that will only g | ✅ | Arelion — 1 строка — глоссарная правка |
+| `minis_001.csv` | minis | 49 | 4,457 | Combine 3 Mini Baron von Scrufflebutts in the | ✅ | Arelion — 17 строк — названия миниатюр сведены к вычитанному корпусу |
+| `minis_002.csv` | minis | 7 | 445 | <c=@reminder>This mini can be found inside Bl | ✅ | Arelion — сверено: названия совпадают с корпусом, правок не потребовалось |
 | `misc_001.csv` | misc | 0 | 0 |  |  | (переведено напрямую) |
 | `misc_002.csv` | misc | 500 | 23,168 | "/Barbecue" Emote Tome | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
 | `misc_003.csv` | misc | 500 | 31,253 | 3. The Dragon's Reach: Part 1 | ✅ | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
@@ -845,22 +845,22 @@
 | `npc_057.csv` | npc | 500 | 34,479 | You had a sandstorm here? | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
 | `npc_058.csv` | npc | 500 | 36,540 | You sound very busy. I'll let you get back to | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
 | `npc_059.csv` | npc | 431 | 34,103 | You're serious about this? Fine. | ✅ | Автозаполнение из словаря — черновик, 430/431 (100%), нужна вычитка |
-| `story_001.csv` | story | 500 | 26,160 | "The Blight" is going down. Let's mop up the  | ✅ | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
-| `story_002.csv` | story | 500 | 46,120 | And to do that, we must shut down the ossuary | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
-| `story_003.csv` | story | 500 | 26,877 | Defeat Ol' Skabfin. | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
-| `story_004.csv` | story | 500 | 37,066 | Explore the hidden sub-level. | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
-| `story_005.csv` | story | 500 | 72,372 | I agree, but I haven't decided yet. I'll let  | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
-| `story_006.csv` | story | 500 | 34,325 | I've said my piece. Shodd's a dangerous fool, | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
-| `story_007.csv` | story | 500 | 39,655 | Meet Josir and his contact east of the Hezran | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
-| `story_008.csv` | story | 500 | 28,229 | Reach the far end of the trap-filled hallway. | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
-| `story_009.csv` | story | 500 | 39,077 | Speak with Riot Alice. | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
-| `story_010.csv` | story | 500 | 54,186 | They sound like good folk. | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
-| `story_011.csv` | story | 226 | 24,533 | Word is spreading that you're quickly making  | ✅ | Автозаполнение из словаря — черновик, 226/226 (100%), нужна вычитка |
-| `hearts_001.csv` | hearts | 500 | 39,681 | %str1%, The theater productions are moving al | ✅ | Автозаполнение из словаря — черновик, 498/500 (100%), нужна вычитка |
-| `hearts_002.csv` | hearts | 500 | 47,090 | Great job, %str1% | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
-| `hearts_003.csv` | hearts | 500 | 46,179 | Kill centaurs, destroy centaur siege weapons, | ✅ | Автозаполнение из словаря — черновик, 498/500 (100%), нужна вычитка |
-| `hearts_004.csv` | hearts | 500 | 41,058 | The Celebration Continues | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
-| `hearts_005.csv` | hearts | 94 | 7,810 | Your Help Is Appreciated | ✅ | Автозаполнение из словаря — черновик, 93/94 (99%), нужна вычитка |
+| `story_001.csv` | story | 500 | 26,160 | "The Blight" is going down. Let's mop up the  | ✅ | Arelion — сверено по глоссарию и корпусу; правки точечные |
+| `story_002.csv` | story | 500 | 46,120 | And to do that, we must shut down the ossuary | ✅ | Arelion — 8 строк — два письма Кейт переведены заново (в машинном заполнении на их месте стояли строки от других записей), у четырёх писем снят лишний отступ после обращения, «Главное» заменено на «Важно то» под требование линтера |
+| `story_003.csv` | story | 500 | 26,877 | Defeat Ol' Skabfin. | ✅ | Arelion — сверено по глоссарию и корпусу; правки точечные |
+| `story_004.csv` | story | 500 | 37,066 | Explore the hidden sub-level. | ✅ | Arelion — сверено по глоссарию и корпусу; правки точечные |
+| `story_005.csv` | story | 500 | 72,372 | I agree, but I haven't decided yet. I'll let  | ✅ | Arelion — сверено по глоссарию и корпусу; правки точечные |
+| `story_006.csv` | story | 500 | 34,325 | I've said my piece. Shodd's a dangerous fool, | ✅ | Arelion — сверено по глоссарию и корпусу; правки точечные |
+| `story_007.csv` | story | 500 | 39,655 | Meet Josir and his contact east of the Hezran | ✅ | Arelion — сверено по глоссарию и корпусу; правки точечные |
+| `story_008.csv` | story | 500 | 28,229 | Reach the far end of the trap-filled hallway. | ✅ | Arelion — сверено по глоссарию и корпусу; правки точечные |
+| `story_009.csv` | story | 500 | 39,077 | Speak with Riot Alice. | ✅ | Arelion — сверено по глоссарию и корпусу; правки точечные |
+| `story_010.csv` | story | 500 | 54,186 | They sound like good folk. | ✅ | Arelion — 6 строк — Двор Кошмаров к глоссарному «Кошмарному двору», хилеки, «великая победа» переписана вне градаций рун |
+| `story_011.csv` | story | 226 | 24,533 | Word is spreading that you're quickly making  | ✅ | Arelion — сверено по глоссарию и корпусу; правки точечные |
+| `hearts_001.csv` | hearts | 500 | 39,681 | %str1%, The theater productions are moving al | ✅ | Arelion — 8 строк вычитано — возвращены потерянные подписи писем («— Shelp», «—Drakkitoka»), хилеки и Йормаг по глоссарию |
+| `hearts_002.csv` | hearts | 500 | 47,090 | Great job, %str1% | ✅ | Arelion — 2 строки — письмо Elain переведено заново: в машинном заполнении на его месте стояла строка от другого задания |
+| `hearts_003.csv` | hearts | 500 | 46,179 | Kill centaurs, destroy centaur siege weapons, | ✅ | Arelion — 7 строк — восстановлена разбивка письма скриттов, хилеки по глоссарию |
+| `hearts_004.csv` | hearts | 500 | 41,058 | The Celebration Continues | ✅ | Arelion — 9 строк — письмо клерка Ulva переведено заново (стоял чужой текст), возвращены подписи «—Hune» и «—Doola», хилеки по глоссарию |
+| `hearts_005.csv` | hearts | 94 | 7,810 | Your Help Is Appreciated | ✅ | Arelion — сверено: глоссарные термины в каноне, правок не потребовалось |
 | `skills_001.csv` | skills | 500 | 53,788 | "Advance!" | ✅ | Arelion — 84 строки вычитано — типы умений сведены к канону: Burst к «Всплеску» вместо «Рывка», Cantrip к «Заговору» вместо «Фокуса», Gadget к «Гаджету» |
 | `skills_002.csv` | skills | 500 | 68,893 | <c=@abilitytype>Legendary Alliance.</c> Heal  | ✅ | Arelion — 180 строк вычитано — Signet сведён к «Печати» вместо «Знамени» (Banner) и «талисмана», Stealth Attack к «Атаке из невидимости», переведены 5 пустых строк мантр и добродетелей |
 | `skills_003.csv` | skills | 500 | 20,436 | A bolt of power pierces through the barrier a | ✅ | Arelion — сверено: типы умений и глоссарные термины в канонe, правок не потребовалось |
@@ -894,8 +894,8 @@
 | `main_011.csv` | main | 500 | 195,183 | On this day, the mantle of leadership weighs  | ✅ | Arelion — 68 строк вычитано — восстановлена разбивка всех 25 битых текстов (руководство по скайскейлам, письмо из камеры Незримых, циркуляры Rata Primus), у WvW-строк возвращён потерянный заголовок «Характеристики действуют только в WvW» и выправлен подменённый стат, подпись Консорциума сокращена под требование линтера |
 | `main_012.csv` | main | 500 | 242,282 | The Toxic Alliance have temporarily retreated | ✅ | Arelion — 126 строк вычитано — восстановлена разбивка всех 33 битых текстов (письмо императора Смодура, приглашение Владычеству Ветров, справка об альянсах, наборы Digital Deluxe), «великая сила» и «Главный инфузер» сведены к канонам, из рецепта убран непереведённый хвост |
 | `main_013.csv` | main | 202 | 79,316 | White Crane Terrace: Explore the cavern where | ✅ | Arelion — 22 строки вычитано — восстановлена разбивка всех 13 битых текстов, включая поэму Джоко на 23 строфы и главу романа |
-| `discovered_2026-08-05.csv` | discovered | 1533 | 120,075 | Vote for Champion's Dusk today in PvP's Unran | ✅ | Автозаполнение — машинный перевод Hwingard, PR #3, нужна вычитка |
-| `discovered_local_2026-08-07.csv` | discovered | 23 | 1,198 | If you need to know something, I can help. Bu | ✅ | Автозаполнение — прокси-урожай, сверено по корпусу, нужна вычитка |
+| `discovered_2026-08-05.csv` | discovered | 1533 | 120,075 | Vote for Champion's Dusk today in PvP's Unran | ✅ | Arelion — 21 строка — «Королевская Гавань» сведена к Львиной Арке, Toughness к «стойкости» вместо «живучести», выправлены задвоенные знаки процента («33%%%», «90% %%») |
+| `discovered_local_2026-08-07.csv` | discovered | 23 | 1,198 | If you need to know something, I can help. Bu | ✅ | Arelion — сверено по глоссарию и корпусу; правки точечные |
 | `site_001.csv` | site | 500 | 37,394 | ! Band Member Down ! | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
 | `site_002.csv` | site | 500 | 51,853 | """Whitebear's Pride II"" Strongbox" | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
 | `site_003.csv` | site | 500 | 80,173 | "<c=@abilitytype>Chain.</c> Heave your spear, | ✅ | Автозаполнение — машинный перевод со стороны, набор dict_site_strings, нужна вычитка |
