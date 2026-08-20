@@ -26,7 +26,7 @@ Grants a chance to receive bonus harvesting materials in addition to your gather
 Даёт шанс получить дополнительные материалы при сборе, в дополнение к обычным результатам. Типы материалов определяются уровнем вашего персонажа и местоположением в мире."
 "Used to chop down all saplings.
 
-Grants a chance to receive bonus leather scraps in addition to your gathering results. Material types are determined by your character level and location in the world.","Срубить все саженцы
+Grants a chance to receive bonus leather scraps in addition to your gathering results. Material types are determined by your character level and location in the world.","Используется для вырубки всех саженцев.
 
 Даёт шанс получить дополнительные кожаные обрезки помимо результатов сбора. Типы материалов определяются уровнем вашего персонажа и местоположением в мире."
 "Used to chop down all saplings.
@@ -46,14 +46,14 @@ Increases movement speed by 100%% for 5 seconds after gathering completes.","И�
 После завершения сбора увеличивает скорость передвижения на 100%% в течение 5 секунд."
 "Used to chop down all saplings.
 
-Replaces gathering results with logs used in higher-level crafting recipes. Material types are determined by the type of node gathered from. Elder wood can be improved a limited number of times each day.","Раньше использовалось для вырубки всех саженцев.
+Replaces gathering results with logs used in higher-level crafting recipes. Material types are determined by the type of node gathered from. Elder wood can be improved a limited number of times each day.","Используется для вырубки всех саженцев.
 
 Теперь при сборе материалов вместо обычных ресурсов получаются брёвна, которые используются в более сложных рецептах крафта. Тип материала определяется типом собранного ресурса. Древнюю древесину можно улучшать ограниченное количество раз в день."
 "Used to chop down all saplings.
 
 Rewards unbound magic on each swing in addition to logging results.","Используется для вырубки всех саженцев.
 
-Даёт не связанную магию каждым взмахом в дополнение к результатам заготовки древесины."
+Даёт несвязанную магию каждым взмахом в дополнение к результатам заготовки древесины."
 "Used to chop down all saplings.
 
 Rewards Volatile Magic on each swing in addition to logging results.","Используется для вырубки всех саженцев.
@@ -61,7 +61,7 @@ Rewards Volatile Magic on each swing in addition to logging results.","Испо�
 Даёт нестабильную магию каждым взмахом в дополнение к результатам заготовки древесины."
 "Used to chop down all saplings. Rewards unbound magic on each swing in addition to logging results. Unlimited use.
 
-<c=@Reminder>This item can be exchanged for an updated version at the Black Lion Exchange Specialist.</c>","Использовался для вырубки всех саженцев. Даёт не связанную магию с каждым ударом в дополнение к результатам рубки. Неограниченное использование.
+<c=@Reminder>This item can be exchanged for an updated version at the Black Lion Exchange Specialist.</c>","Используется для вырубки всех саженцев. Даёт несвязанную магию с каждым ударом в дополнение к результатам рубки. Неограниченное использование.
 
 <c=@Reminder>Этот предмет можно обменять на обновлённую версию у специалиста по обмену в «Чёрном льве».</c>"
 Used to chop down all saplings. Unlimited use.,Используется для рубки всех саженцев. Неограниченное использование.
@@ -167,7 +167,7 @@ Used to craft harpoon guns.,Используется для создания г�
 Used to craft Howl.,Используется для создания Вой.
 Used to craft Inscriptions which are used in weapon crafting.,"Используется для создания надписей, применяемых в создании оружия."
 "Used to craft inscriptions, which are used in weapon crafting.","Используется для создания надписей, применяемых в создании оружия."
-"Used to craft insignias, which are used in armor crafting.","Используется для создания эмблем, применяемых в создании брони."
+"Used to craft insignias, which are used in armor crafting.","Используется для создания инсигний, применяемых в создании брони."
 Used to craft Intricate Jewels.,Используется для создания затейливых самоцветов.
 Used to craft Iron Boots.,Используется для создания железных ботинок.
 Used to craft Iron Coats.,Используется для создания железных курток.
@@ -241,7 +241,7 @@ Used to craft scepters.,Используется для создания ски�
 Used to craft Shields.,Используется для создания щитов.
 Used to craft shields.,Используется для создания щитов.
 Used to craft short bows.,Используется для создания коротких луков.
-Used to craft sigils.,Используется для создания символов.
+Used to craft sigils.,Используется для создания сигилов.
 Used to craft Silk Boots.,Используется для создания шелковых ботинок.
 Used to craft Silk Coats.,Используется для создания шелковых курток.
 Used to craft Silk Gloves.,Используется для создания шелковых перчаток.
@@ -283,49 +283,49 @@ Used to craft The Legend.,Используется для создания Ле�
 Used to craft the legendary dagger Claw of the Khan-Ur.,Используется для создания легендарного кинжала «Коготь Хан-Ура».
 "Used to craft the legendary dagger precursor Claw of Resolution.
 Combine in the Mystic Forge with Mystic Runestones, a Gift of Metal, and a Gift of the Mists to create the Gift of the Four Legions.","Используется для создания предшественника легендарного кинжала Коготь Решимости.
-Соедините в Мистической кузне с Мистическими руническими камнями, Даром Металла и Даром Туманов, чтобы создать Дар Четырёх Легионов."
+Соедините в Мистической кузнице с Мистическими руническими камнями, Даром Металла и Даром Туманов, чтобы создать Дар Четырёх Легионов."
 "Used to craft the legendary focus precursor Ars Goetia.
 Combine in the Mystic Forge with Mystic Runestones, a Gift of Energy, and a Gift of the Mists to create the Gift of Ipos.","Используется для создания прецедента легендарного фокуса Арс Гоэтия.
-Совместите в Мистической кузне с Мистическими Рунными Камнями, Подарком энергии и Подарком Туманов, чтобы создать подарок Ипоса."
+Совместите в Мистической кузнице с Мистическими Рунными Камнями, Подарком энергии и Подарком Туманов, чтобы создать подарок Ипоса."
 "Used to craft the legendary focus, the Binding of Ipos.",Используется для создания легендарного фокуса — «Связка Ипоса».
-Used to craft the legendary greatsword Exordium.,Используется для создания легендарного большого меча Экзордиум.
+Used to craft the legendary greatsword Exordium.,Используется для создания легендарного двуручного меча Экзордиум.
 "Used to craft the legendary greatsword precursor Exitare.
 Combine in the Mystic Forge with Mystic Runestones, a Gift of Metal, and a Gift of the Mists to create the Gift of Exordium.","Используется для создания предшественника легендарного двуручного меча «Exitare».
-Соедините в Мистической кузне с Мистическими рунами, Даром металла и Даром Туманов, чтобы создать Дар Экзордиума."
+Соедините в Мистической кузнице с Мистическими рунами, Даром металла и Даром Туманов, чтобы создать Дар Экзордиума."
 "Used to craft the legendary hammer precursor Might of Arah.
 Combine in the Mystic Forge with Mystic Runestones, a Gift of Metal , and a Gift of the Mists to create the Gift of Arah.","Используется для создания предшественника легендарного молота Могущество Араха.
-Соедините в Мистической кузне с Мистическими руническими камнями, Даром Металла , и Даром Туманов, чтобы создать Дар Араха."
+Соедините в Мистической кузнице с Мистическими руническими камнями, Даром Металла, и Даром Туманов, чтобы создать Дар Араха."
 Used to craft the legendary longbow Pharus.,Используется для создания легендарного длинного лука Фарус.
 "Used to craft the legendary longbow precursor Spero.
 Combine in the Mystic Forge with Mystic Runestones, a Gift of Wood, and a Gift of the Mists to create the Gift of Pharus.","Используется для создания прекурсора легендарного длинного лука Сперо.
-Соедините в Мистической кузне с Мистическими Рунами, Даром дерева и Даром Туманов, чтобы создать Дар Фаруса."
+Соедините в Мистической кузнице с Мистическими Рунами, Даром дерева и Даром Туманов, чтобы создать Дар Фаруса."
 "Used to craft the legendary mace precursor Endeavor.
 Combine in the Mystic Forge with Mystic Runestones, a Gift of Metal, and a Gift of the Mists to create the Gift of Eureka.","Используется для создания предшественника легендарного булавы «Усилие».
-Соедините в Мистической кузне с Мистическими Рунами, Даром Металла и Даром Туманов, чтобы создать Дар Эврики."
+Соедините в Мистической кузнице с Мистическими Рунами, Даром Металла и Даром Туманов, чтобы создать Дар Эврики."
 "Used to craft the legendary rifle precursor Man o' War.
 Combine in the Mystic Forge with Mystic Runestones, a Gift of Wood, and a Gift of the Mists to create the Gift of Divinity.","Используется для создания прецедента легендарного винтовки Ман о' Вар.
-Совместите в Мистической кузне с Мистическими Рунными Камнями, Подарком из дерева и Подарком Туманов, чтобы создать подарок Божественности."
-Used to craft the legendary rifle the HMS Divinity.,"Используется для создания легендарной винтовки ""HMS Divinity""."
+Совместите в Мистической кузнице с Мистическими Рунными Камнями, Подарком из дерева и Подарком Туманов, чтобы создать подарок Божественности."
+Used to craft the legendary rifle the HMS Divinity.,Используется для создания легендарной винтовки «HMS Divinity».
 "Used to craft the legendary scepter precursor Tlehco.
 Combine in the Mystic Forge with Mystic Runestones, a Gift of Energy, and a Gift of the Mists to create the Gift of Xiuquatl.","Используется для создания прекурсора легендарного скипетра Тлехко.
-Совместите в Мистической кузне с мистическими руническими камнями, Даром энергии и Даром Туманов, чтобы создать Дар Сиуакатля."
+Совместите в Мистической кузнице с мистическими руническими камнями, Даром энергии и Даром Туманов, чтобы создать Дар Сиуакатля."
 Used to craft the legendary scepter Xiuquatl.,Используется для создания легендарного скипетра Сюкуатль.
-Used to craft the legendary shield Shooshadoo.,Использовался для создания легендарного щита Шушададу.
-Used to craft the legendary sword the Shining Blade.,Использовался для создания легендарного меча Сияющее Лезвие.
-Used to craft the legendary torch Flames of War.,"Используется для создания легендарного факела ""Пламя войны""."
+Used to craft the legendary shield Shooshadoo.,Используется для создания легендарного щита Шушададу.
+Used to craft the legendary sword the Shining Blade.,Используется для создания легендарного меча Сияющий клинок.
+Used to craft the legendary torch Flames of War.,Используется для создания легендарного факела «Пламя войны».
 "Used to craft the legendary torch precursor Liturgy.
 Combine in the Mystic Forge with Mystic Runestones, a Gift of Wood, and a Gift of the Mists to create the Gift of Balthazar.","Используется для создания легендарного предшественника факела «Литания».
-Соедините в Мистической кузне с Мистическими Рунами, Даром дерева и Даром Туманов, чтобы создать Дар Балтазара."
+Соедините в Мистической кузнице с Мистическими Рунами, Даром дерева и Даром Туманов, чтобы создать Дар Балтазара."
 "Used to craft the legendary warhorn precursor Call of the Void.
 Combine in the Mystic Forge with Mystic Runestones, a Gift of Wood, and a Gift of the Mists to create the Gift of Verdarach.","Используется для создания предшественника легендарного рога Зов Пустоты.
-Совместите в Мистической кузне с Мистическими Рунными Камнями, Подарком дерева и Подарком Туманов, чтобы создать подарок Вердараха."
+Совместите в Мистической кузнице с Мистическими Рунными Камнями, Подарком дерева и Подарком Туманов, чтобы создать подарок Вердараха."
 Used to craft the legendary warhorn the Verdarach.,Используется для создания легендарного боевого рога Вердараха.
 "Used to craft the legendary-shield precursor, Friendship.
 Combine in the Mystic Forge with Mystic Runestones, a Gift of Metal, and a Gift of the Mists to create the Gift of Shooshadoo.","Используется для создания прекурсора легендарного щита «Дружба».
-Соедините в Мистической кузне с Мистическими Рунами, Даром Металла и Даром Туманов, чтобы создать Дар Шушадо."
+Соедините в Мистической кузнице с Мистическими Рунами, Даром Металла и Даром Туманов, чтобы создать Дар Шушадо."
 "Used to craft the legendary-sword precursor, Save the Queen.
 Combine in the Mystic Forge with Mystic Runestones, a Gift of Metal, and a Gift of the Mists to create the Gift of the Blade.","Используется для создания предшественника легендарного меча «Спаси Королеву».
-Соедините в Мистической кузне с Мистическими Рунами, Даром Металла и Даром Туманов, чтобы создать Дар Клинка."
+Соедините в Мистической кузнице с Мистическими Рунами, Даром Металла и Даром Туманов, чтобы создать Дар Клинка."
 Used to craft the longbow Odonata.,Используется для создания длинного лука Odonata.
 Used to craft The Lover.,Используется для создания Возлюбленного.
 Used to craft the mace Blattellidae.,Используется для создания боевого молота Blattellidae.
@@ -355,7 +355,7 @@ Used to craft Torches.,Используется для создания факе
 Used to craft torches.,Используется для создания факелов.
 Used to craft Tridents.,Используется для создания трезубцев.
 Used to craft tridents.,Используется для создания трезубцев.
-"Used to craft Unbound, the precursor to the legendary backpack Ad Infinitum. Extras can be purchased from the Aetherblade Quartermaster in the Captain Mai Trin Boss fractal for Balls of Dark Energy.","Необходим для создания неограниченного, предшественника легендарного ранца Ad Infinitum. Дополнительные экземпляры можно приобрести у Кварталмейстера Эфирных клинков во Фрактале «Босс капитан Май Трин» за Шары тёмной энергии."
+"Used to craft Unbound, the precursor to the legendary backpack Ad Infinitum. Extras can be purchased from the Aetherblade Quartermaster in the Captain Mai Trin Boss fractal for Balls of Dark Energy.","Необходим для создания Освобождённого, предтечи легендарного ранца Ad Infinitum. Дополнительные экземпляры можно приобрести у Кварталмейстера Эфирных клинков во Фрактале «Босс капитан Май Трин» за Шары тёмной энергии."
 Used to craft Venom.,Используется для создания Яда.
 Used to craft Warbeast Orichalcum Shoulders.,Используется для создания Варбист-Орихалковых Наплечников.
 Used to craft Warhorns.,Используется для создания Рогов.
@@ -486,7 +486,7 @@ Grants a 33%% chance to gain an extra strike while gathering.","Использу
 Даёт 33%% шанс получить дополнительный удар при сборе."
 "Used to gather all plants.
 
-Grants a chance to receive a bonus watchwork sprocket after gathering in addition to your harvesting results.","Раньше использовался для сбора всех растений.
+Grants a chance to receive a bonus watchwork sprocket after gathering in addition to your harvesting results.","Используется для сбора всех растений.
 
 Даёт шанс получить бонусную шестерню часовничного механизма после сбора, кроме результатов урожая."
 "Used to gather all plants.
@@ -516,7 +516,7 @@ Grants a chance to receive bonus wood logs in addition to your gathering results
 Даёт шанс получить дополнительную древесину вместе с результатами сбора. Типы материалов определяются уровнем вашего персонажа и местом в мире."
 "Used to gather all plants.
 
-Grants a small chance to receive a bonus crafting material after gathering in addition to your gathering results.","Раньше использовался для сбора всех растений.
+Grants a small chance to receive a bonus crafting material after gathering in addition to your gathering results.","Используется для сбора всех растений.
 
 Даёт небольшой шанс получить бонусный материал для ремесла после сбора, кроме результатов сбора."
 "Used to gather all plants.
@@ -536,13 +536,13 @@ Rewards Volatile Magic in addition to harvesting results.","Использует
 Даёт Волатильную магию в дополнение к результатам сбора."
 "Used to gather all plants. Rewards unbound magic in addition to harvesting results. Unlimited use.
 
-<c=@Reminder>This item can be exchanged for an updated version at the Black Lion Exchange Specialist.</c>","Использовался для сбора всех растений. Даёт не связанную магию в дополнение к результатам сбора. Неограниченное использование.
+<c=@Reminder>This item can be exchanged for an updated version at the Black Lion Exchange Specialist.</c>","Используется для сбора всех растений. Даёт несвязанную магию в дополнение к результатам сбора. Неограниченное использование.
 
 <c=@Reminder>Этот предмет можно обменять на обновлённую версию у специалиста по обмену в «Чёрном льве».</c>"
 Used to gather all plants. Unlimited use.,Используется для сбора всех растений. Неограниченное использование.
 "Used to gather Asparagus, Cayenne Peppers, Leeks, Winter Root Vegetables, Verdant Herbs, Raspberries, Butternut Squash, Artichokes, and all other lesser edible plants.","Используется для сбора спаржи, кайенского перца, лука-порея, зимних корнеплодов, зелёных трав, малины, мускатной тыквы, артишоков и всех других менее ценных съедобных растений."
 "Used to gather Blackberries, Variegated Taproots, Scallions, Portobello Mushrooms, Mature Herbs, Sugar Pumpkins, Cauliflower, and all other lesser edible plants. Can also harvest Coral.","Используется для сбора ежевики, пёстрых корнеплодов, зелёного лука, портобелло, зрелых трав, сахарных тыкв, цветной капусты и всех других менее ценных съедобных растений. Также можно собирать кораллы."
-"Used to gather Blueberries, Button Mushrooms, Onions, Carrots, Herb Seedlings, Potatoes, and Lettuce.","Используется для сбора черники, шампиньонов, лука, моркови, саженцев трав, картофеля и салата."
+"Used to gather Blueberries, Button Mushrooms, Onions, Carrots, Herb Seedlings, Potatoes, and Lettuce.","Используется для сбора чёрники, шампиньонов, лука, моркови, саженцев трав, картофеля и салата."
 "Used to gather Taproots, Spinach, Strawberries, Herb Sprouts, and all other lesser edible plants. Can also crack open Clams.","Используется для сбора корнеплодов, шпината, клубники, ростков трав и всех других менее ценных съедобных растений. Также можно вскрывать моллюсков."
 "Used to gather Zucchini, Kale, Root Vegetables, Varied Mushrooms, Young Herbs, Grapes, Cabbage, and all other lesser edible plants.","Используется для сбора цукини, капусты кале, корнеплодов, различных грибов, молодых трав, винограда, капусты и всех других менее ценных съедобных растений."
 Used to gild decorations. Earned by completing the event cycle in Auric Basin.,Используется для позолоты украшений. Добывается за прохождение цикла событий в Бассейне Аурика.
@@ -555,11 +555,11 @@ Gathers from all nearby plants when harvesting.","Используется дл�
 Собирает все ближайшие растения при сборе урожая."
 "Used to harvest all plants.
 
-Replaces gathering results with ingredients used in higher-level crafting recipes. Material types are determined by the type of node gathered from. Select cooking ingredients can be improved a limited number of times each day.","Раньше использовалось для сбора всех растений.
+Replaces gathering results with ingredients used in higher-level crafting recipes. Material types are determined by the type of node gathered from. Select cooking ingredients can be improved a limited number of times each day.","Используется для сбора всех растений.
 
 Заменяет результаты сбора ингредиентами, используемыми в рецептах более высокого уровня. Типы материалов определяются типом собранного ресурса. Некоторые кулинарные ингредиенты можно улучшить ограниченное количество раз в день."
 "Used to harvest all plants.
-Gain snowflakes when gathering.","Раньше использовалось для сбора всех видов растений.
+Gain snowflakes when gathering.","Используется для сбора всех видов растений.
 Теперь при сборе можно получить снежинки."
 Used to harvest all plants. Unlimited use.,Используется для сбора всех растений. Безлимитное использование.
 "Used to harvest all plants. Unlimited use. In addition to your harvesting results, this tool has a small chance to reward additional items after gathering completes.
@@ -571,7 +571,7 @@ Used to make a Gift of Stormy Skies.,Используется для созда�
 Used to make a recording of a heroic deed.,Используется для создания записи героического деяния.
 Used to make books.,Используется для создания книг.
 Used to make grawl shrines in Bitterfrost Frontier.,Используется для создания святилищ граулей в Приграничье Горькой Мороси.
-Used to make ink sets. Purchased from master scribes.,Используется для создания наборов чернил. Куплено у мастеров-писцов.
+Used to make ink sets. Purchased from master scribes.,Используется для создания наборов чёрнил. Куплено у мастеров-писцов.
 Used to make scribing kits.,Используется для создания наборов для письма.
 Used to make the scribe's sketchbook for Uzolan's Mechanical Orchestra.,Используется для создания альбома писца для Механического оркестра Узолана.
 Used to make theses and sketchbooks.,Используется для создания диссертаций и альбомов.
@@ -579,7 +579,7 @@ Used to make weapon etchings from tengu carvings.,Используется дл�
 Used to mine all metals.,Используется для добычи всех металлов.
 "Used to mine all metals.
 
-33%% chance to complete gathering instantly.","Использовалось для добычи всех металлов.
+33%% chance to complete gathering instantly.","Используется для добычи всех металлов.
 
 33%% шанс мгновенно завершить сбор."
 "Used to mine all metals.
@@ -599,12 +599,12 @@ Grants a 33%% chance to gain an extra strike while gathering.","Использу
 Даёт 33%% шанс получить дополнительный удар при сборе ресурсов."
 "Used to mine all metals.
 
-Grants a chance to receive a bonus crafting material on each swing in addition to your gathering results.","Раньше использовался для добычи всех металлов.
+Grants a chance to receive a bonus crafting material on each swing in addition to your gathering results.","Используется для добычи всех металлов.
 
 Даёт шанс получить бонусный материал для ремесла при каждом ударе, кроме результатов сбора."
 "Used to mine all metals.
 
-Grants a chance to receive a bonus watchwork sprocket on each swing in addition to your gathering results.","Раньше использовался для добычи всех металлов.
+Grants a chance to receive a bonus watchwork sprocket on each swing in addition to your gathering results.","Используется для добычи всех металлов.
 
 Даёт шанс получить бонусную шестерню часовничного механизма при каждом ударе, кроме результатов сбора."
 "Used to mine all metals.
@@ -639,7 +639,7 @@ Increases movement speed by 100%% for 5 seconds after gathering completes.","И�
 Увеличивает скорость передвижения на 100%% в течение 5 секунд после завершения сбора."
 "Used to mine all metals.
 
-Replaces gathering results with ores used in higher-level crafting recipes. Material types are determined by the type of node gathered from. Mithril ore can be improved a limited number of times each day.","Раньше использовался для добычи всех видов руды.
+Replaces gathering results with ores used in higher-level crafting recipes. Material types are determined by the type of node gathered from. Mithril ore can be improved a limited number of times each day.","Используется для добычи всех видов руды.
 
 Теперь при сборе ресурсов вместо обычных материалов можно получить руду, используемую в более сложных рецептах крафта. Тип материала определяется типом собранного ресурса. Руда мифрила может быть улучшена ограниченное количество раз в день."
 "Used to mine all metals.
@@ -654,7 +654,7 @@ Rewards Volatile Magic on each swing in addition to mining results.","Испол
 Даёт Волшебную Нестабильность при каждом взмахе в дополнение к результатам добычи."
 "Used to mine all metals. Rewards unbound magic on each swing in addition to mining results. Unlimited use.
 
-<c=@Reminder>This item can be exchanged for an upgraded version at the Black Lion Exchange Specialist.</c>","Использовался для добычи всех металлов. Даёт не связанную магию с каждым ударом в дополнение к результатам добычи. Неограниченное использование.
+<c=@Reminder>This item can be exchanged for an upgraded version at the Black Lion Exchange Specialist.</c>","Используется для добычи всех металлов. Даёт несвязанную магию с каждым ударом в дополнение к результатам добычи. Неограниченное использование.
 
 <c=@Reminder>Этот предмет можно обменять на улучшенную версию у специалиста по обмену в «Чёрном льве».</c>"
 Used to mine all metals. Unlimited use.,Используется для добычи всех металлов. Неограниченное использование.
@@ -672,9 +672,9 @@ Used to mine Copper Ore.,Используется для добычи медно
 Used to mix various alchemical substances.,Используется для смешивания различных алхимических веществ.
 Used to open a greater nightmare pod in the Silverwastes. The chest is located at the heart of the Hidden Depths.,Используется для открытия большого кошмарного стручка в Серебряных пустошах. Сундук находится в сердце Скрытых глубин.
 "Used to open airship cargo in Verdant Brink. Cargo can contain airship parts, crafting materials, armor, weapons, and recipes.","Используется для открытия груза дирижабля в Зелёной гряде. Груз может содержать части дирижабля, материалы для крафта, броню, оружие и рецепты."
-Used to open chests containing lost Sunspear writings.,Использовался для открытия сундуков с утерянными записями Солнеспира.
+Used to open chests containing lost Sunspear writings.,Используется для открытия сундуков с утерянными записями Солнечных копий.
 Used to open locked kodan caches.,Используется для открытия запертых тайников коданов.
-Used to open prisoner cages.,«Используется для открытия клеток с заключёнными».
+Used to open prisoner cages.,Используется для открытия клеток с заключёнными.
 "Used to open trade crates in the Crystal Desert.
 
 <c=@flavor>""Don't waste time watching a merchant's eyes or lips; watch their hands to find their keys.""
@@ -700,7 +700,7 @@ Used to refine or distress decorations.,Используется для улуч
 
 Created by combining Transcendental Ink, Binding, Parchment, and Brandsparks in the Mystic Forge.","Используется для отслеживания успокаивающих действий и мыслей.
 
-Создается путем объединения Трансцендентальных чернил, Переплета, Пергамента и Искр бренда в Таинственной кузнице."
+Создается путем объединения Трансцендентальных чёрнил, Переплета, Пергамента и Искр бренда в Таинственной кузнице."
 Used to unlock Aether Chests in Twilight Arbor.,Используется для открытия Эфирных сундуков в Сумеречной беседке.
 Used to unlock the chest that contains the Stonefist Knuckle Salve in the Domain of Istan.,"Используется, чтобы открыть сундук, содержащий мазь для костяшек «Каменный кулак» в области Истан."
 Used to upgrade WvW and PvP ascended armor into Legendary Armor.,Используется для улучшения вознесенной брони из WvW и PvP в Легендарную броню.
@@ -711,7 +711,7 @@ Used when purchased. Unlocks the southeast shrine as a waypoint. This is an acco
 Used when purchased. Unlocks the southwestern shrine as a waypoint. This is an account-wide unlock.,Используется при покупке. Открывает юго-западное святилище как точку пути. Это открытие для всей учётной записи.
 Used with Copper Ore to refine Bronze Ingots. Can be purchased from Master Craftsmen.,Используется с Медной рудой для выплавки Бронзовых слитков. Можно приобрести у Мастеров-ремесленников.
 "Used with exotic inscriptions and insignias to change the stats on ascended weapons and armor in the Mystic Forge.
-Warning: All upgrades will be lost.","Используется с экзотическими надписями и эмблемами для изменения характеристик вознесённого оружия и брони в Мистической кузнице.
+Warning: All upgrades will be lost.","Используется с экзотическими гравировками и инсигниями для изменения характеристик вознесённого оружия и брони в Мистической кузнице.
 Предупреждение: Все улучшения будут утеряны."
 Used with Iron to refine Steel. Can be purchased from Master Craftsmen.,Используется с железом для переработки в сталь. Можно приобрести у мастеров-ремесленников.
 Used with Platinum to refine Darksteel. Can be purchased from Master Craftsmen.,Используется с платиной для переработки в тёмную сталь. Можно приобрести у мастеров-ремесленников.
@@ -730,8 +730,8 @@ Using this item will allow you to unlock all the waypoints in a region of your c
 An upgraded version of this can be crafted using recipes purchased throughout the Crystal Desert.","Использование откроет все классы веса этого облика.
 Улучшенную версию можно создать с помощью рецептов, купленных в Кристальной пустыне."
 Usoku's Needle,Игла Усоку
-Utility Backpack,Утилитарный рюкзак
-Utility Primer,Грунтовка-утилита
+Utility Backpack,Вспомогательный рюкзак
+Utility Primer,Вспомогательный праймер
 "Utility Station: Double-click to set out a Decade Enhancement Station, which allows players in the area to sharpen their weapons. Station stays active for ten minutes.","Станция полезных предметов: Дважды щёлкните, чтобы установить Станцию улучшения «Десятилетие», позволяющую игрокам рядом затачивать оружие. Станция активна в течение десяти минут."
 Utility Station: Double-click to set out a model of Gate Hub Plaza which allows players in the area to apply maintenance oil to their weapons. Station stays active for five minutes.,"Станция полезных предметов: Дважды щёлкните, чтобы установить модель Площади Воротной Гавани, позволяющую игрокам рядом наносить смазку на оружие. Станция активна в течение пяти минут."
 "Utility Station: Double-click to set out a model of Gate Hub Plaza, which allows players in the area to apply maintenance oil to their weapons. Station stays active for five minutes. Only usable in WvW.","Станция полезных предметов: Дважды щёлкните, чтобы установить модель Площади Воротной Гавани, позволяющую игрокам рядом наносить смазку на оружие. Станция активна в течение пяти минут. Используется только в WvW."
@@ -742,70 +742,70 @@ Utility Station: Double-click to set out a model of Gate Hub Plaza which allows 
 "Utility Station: Double-click to set out a model of the towers of Lion's Arch, which allows players in the area to sharpen their weapons. Station stays active for five minutes. Only usable in WvW.","Станция полезных предметов: Дважды щёлкните, чтобы установить модель башен Львиного Архива, позволяющую игрокам поблизости точить своё оружие. Станция активна в течение пяти минут. Используется только в WvW."
 Utterly inedible.,Совершенно несъедобно.
 Uzolan's Mechanical Orchestra,Механический оркестр Узолана
-Uzolan's Notes,«Заметки Узолана»
+Uzolan's Notes,Заметки Узолана
 V.O.X.'s Battle Box,Боевая коробка «V.O.X».
 V: The Weeping Mountain,V: Плачущая гора
-Vabbian Bronze Dye,Ваббианская бронзовая краска
+Vabbian Bronze Dye,Ваббийская бронзовая краска
 Vabbian Griffon Expert: Bronze,Ваббианский эксперт по грифонам: бронза
 Vabbian Griffon Master: Bronze,Ваббианский мастер грифонов: бронза
 Vabbian Strongbox,Ваббианский сундук
-Vacation Lounge Chair,Шезлонг для отдыха
+Vacation Lounge Chair,Отпускной шезлонг
 Vacationers at Pearl Islet heard a loud splash to the east several days ago.,Отдыхающие на Жемчужном островке несколько дней назад слышали громкий всплеск к востоку.
 Vacuumagic Polarizer,Вакуумный поляризатор
 Vagabond's Architeuthis,Архитеутис бродяги
 Vagabond's Barnacle Scraper,Скребок для ракушек бродяги
-Vagabond's Bent Circuit,Изогнутая цепь скитальца
-Vagabond's Boltcaster,Болтомёт скитальца
-Vagabond's Bombard,Бомбарда скитальца
-Vagabond's Boregun,Буровая пушка скитальца
-Vagabond's Cannon Law,Пушка закона скитальца
-Vagabond's Cape Skin,Облик плаща Бродяги
-Vagabond's Chainblade,Цепной клинок скитальца
-Vagabond's Charr Alarm Clock,Будильник чарров скитальца
-Vagabond's Chromecurve,Хромокривая скитальца
-Vagabond's Concordance,Конкорданс скитальца
-Vagabond's Crack o' Red Dawn,Трещина красного рассвета скитальца
-Vagabond's Cragvox,Скалоголос скитальца
-Vagabond's Crowncrusher,Крушитель корон скитальца
-Vagabond's Cry,Крик скитальца
-Vagabond's Darkdevoted Kris,Тёмно-преданный крис скитальца
-Vagabond's Deerchaser,Бродяги Оленегон
-Vagabond's Dignity,Бродяги Достоинство
-Vagabond's Discharging Pole,Бродяги Разрядный шест
-Vagabond's Discretion,Бродяги Осмотрительность
-Vagabond's Disputation,Бродяги Диспут
-Vagabond's Dun Targe,Бродяги Дан Тарг
-Vagabond's Eagle's Perch,Бродяги Орлиный насест
-Vagabond's Eerie Conch,Бродяги Жуткая раковина
-Vagabond's Elkslayer,Бродяги Лосеубийца
-Vagabond's Eye of Astrix,Бродяги Глаз Астрикса
-Vagabond's Flangeflare,Бродяги Флангфлейр
-Vagabond's Forkfang,Бродяги Вилкоклык
-Vagabond's Francisca,Бродяги Франциска
-Vagabond's Geared Maw,Бродяги Шестеренчатая пасть
-Vagabond's Gladium Prod,Бродяги Гладиум Прод
-Vagabond's Gravelgun,Гравийное ружьё Бродяги
-Vagabond's Grawlgrinder,Граулодробилка Бродяги
-Vagabond's Great Sledge,Большая кувалда Бродяги
-Vagabond's Griffoncrack,Грифонолом Бродяги
-Vagabond's Honor of Njal,Честь Ньяла Бродяги
+Vagabond's Bent Circuit,Изогнутая цепь бродяги
+Vagabond's Boltcaster,Болтомёт бродяги
+Vagabond's Bombard,Бомбарда бродяги
+Vagabond's Boregun,Буровая пушка бродяги
+Vagabond's Cannon Law,Пушка закона бродяги
+Vagabond's Cape Skin,Облик плаща бродяги
+Vagabond's Chainblade,Цепной клинок бродяги
+Vagabond's Charr Alarm Clock,Будильник чарров бродяги
+Vagabond's Chromecurve,Хромокривая бродяги
+Vagabond's Concordance,Конкорданс бродяги
+Vagabond's Crack o' Red Dawn,Трещина красного рассвета бродяги
+Vagabond's Cragvox,Скалоголос бродяги
+Vagabond's Crowncrusher,Крушитель корон бродяги
+Vagabond's Cry,Крик бродяги
+Vagabond's Darkdevoted Kris,Тёмно-преданный крис бродяги
+Vagabond's Deerchaser,Оленегон бродяги
+Vagabond's Dignity,Достоинство бродяги
+Vagabond's Discharging Pole,Разрядный шест бродяги
+Vagabond's Discretion,Осмотрительность бродяги
+Vagabond's Disputation,Диспут бродяги
+Vagabond's Dun Targe,Дан Тарг бродяги
+Vagabond's Eagle's Perch,Орлиный насест бродяги
+Vagabond's Eerie Conch,Жуткая раковина бродяги
+Vagabond's Elkslayer,Лосеубийца бродяги
+Vagabond's Eye of Astrix,Глаз Астрикса бродяги
+Vagabond's Flangeflare,Флангфлейр бродяги
+Vagabond's Forkfang,Вилкоклык бродяги
+Vagabond's Francisca,Франциска бродяги
+Vagabond's Geared Maw,Шестеренчатая пасть бродяги
+Vagabond's Gladium Prod,Гладиум Прод бродяги
+Vagabond's Gravelgun,Гравийное ружьё бродяги
+Vagabond's Grawlgrinder,Граулодробилка бродяги
+Vagabond's Great Sledge,Большая кувалда бродяги
+Vagabond's Griffoncrack,Грифонолом бродяги
+Vagabond's Honor of Njal,Честь Ньяла бродяги
 Vagabond's Hood Skin,Облик: Капюшон бродяги
-Vagabond's Housebreaker,Разрушитель домов Бродяги
-Vagabond's Hue,Оттенок Бродяги
-Vagabond's Immutabilis,Иммутабилис Бродяги
-Vagabond's Impulse Spire,Импульсный шпиль Бродяги
-Vagabond's Kessene Wreath,Венок Кессена Бродяги
-Vagabond's Lantern of the Lost,Фонарь Потерянных Бродяги
-Vagabond's Legion's Light,Свет Легиона Бродяги
-Vagabond's Leopard's Bite,Укус леопарда Бродяги
-Vagabond's Majestic Hand,Величественная рука Бродяги
-Vagabond's Mournsword,Скитальца Скорбный меч
-Vagabond's Nucleus,Скитальца Ядро
-Vagabond's Obedience,Скитальца Послушание
-Vagabond's Ominous Egg,Скитальца Зловещее яйцо
-Vagabond's Oxenblade,Скитальца Бычий клинок
+Vagabond's Housebreaker,Разрушитель домов бродяги
+Vagabond's Hue,Оттенок бродяги
+Vagabond's Immutabilis,Иммутабилис бродяги
+Vagabond's Impulse Spire,Импульсный шпиль бродяги
+Vagabond's Kessene Wreath,Венок Кессена бродяги
+Vagabond's Lantern of the Lost,Фонарь Потерянных бродяги
+Vagabond's Legion's Light,Свет Легиона бродяги
+Vagabond's Leopard's Bite,Укус леопарда бродяги
+Vagabond's Majestic Hand,Величественная рука бродяги
+Vagabond's Mournsword,Скорбный меч бродяги
+Vagabond's Nucleus,Ядро бродяги
+Vagabond's Obedience,Послушание бродяги
+Vagabond's Ominous Egg,Зловещее яйцо бродяги
+Vagabond's Oxenblade,Бычий клинок бродяги
 Vagabond's Package,Посылка бродяги
-Vagabond's Phosphor Brand,Скитальца Фосфорное клеймо
-Vagabond's Pride of Arms,Скитальца Гордость оружия
-Vagabond's Prince's Praise,Скитальца Хвала принца
-Vagabond's Problem Solver,Скитальца Решатель проблем
+Vagabond's Phosphor Brand,Фосфорное клеймо бродяги
+Vagabond's Pride of Arms,Гордость оружия бродяги
+Vagabond's Prince's Praise,Хвала принца бродяги
+Vagabond's Problem Solver,Решатель проблем бродяги
