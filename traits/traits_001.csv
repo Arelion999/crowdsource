@@ -20,7 +20,7 @@ english,translate
 "<c=@abilitytype>Burst</c> skills deal more damage, grant swiftness, and restore a portion of adrenaline spent.","<c=@abilitytype>Взрывные</c> навыки наносят больше урона, дают быстроту и восстанавливают часть потраченного адреналина."
 <c=@abilitytype>Burst</c> skills have an increased critical chance. Gain bonus critical-hit chance and ferocity for a duration when you hit with a burst skill. Duration is based on adrenaline spent.,<c=@abilitytype>Взрывные</c> Вспышки ярости имеют увеличенный шанс на критическое попадание. Ваши Жестокость и шанс на критическое попадание возрастают на некоторое время после нанесения урона вспышкой ярости. Длительность эффекта зависит от потраченного адреналина.
 <c=@abilitytype>Burst</c> skills restore endurance on hit.,<c=@abilitytype>Взрывные</c> Вспышки ярости восстанавливают выносливость при попадании.
-<c=@abilitytype>Cantrip.</c> Gain stability and shape-shift into a tornado that damages and launches foes.,"<c=@abilitytype>Уловка.</c> Обрести дар Устойчивости и превратиться в торнадо, который наносит урон противникам и отбрасывает их."
+<c=@abilitytype>Cantrip.</c> Gain stability and shape-shift into a tornado that damages and launches foes.,"<c=@abilitytype>Заговор.</c> Обрести дар Устойчивости и превратиться в торнадо, который наносит урон противникам и отбрасывает их."
 <c=@abilitytype>Cantrips</c> grant barrier to you and your pet.,<c=@abilitytype>Уловки</c> Колдовство даёт барьер вам и вашему питомцу.
 <c=@abilitytype>Cantrips</c> grant boons.,<c=@abilitytype>Уловки</c> накладывают благословения.
 <c=@abilitytype>Carapace</c> stacks grant power and condition damage.,Стеки <c=@abilitytype>панциря</c> Стеки панциря увеличивают вашу Силу и урон от состояний.
@@ -62,8 +62,8 @@ Luxon abilities grant might.","<c=@abilitytype>Легендарный Альян
 <c=@abilitytype>Phantasms</c> deal increased strike damage for each stack of might you have. Gain might when your phantasms become clones.,"<c=@abilitytype>Фантомы</c> Фантомы наносят увеличенный прямой урон за каждый стек Мощи, лежащий на вас. Вам даруется Мощь, когда ваши фантомы становятся клонами."
 <c=@abilitytype>Phantasms</c> spawn with quickness. Gain quickness when you create a phantasm.,<c=@abilitytype>Фантомы</c> Фантомы создаются с даром Проворства. Вам даруется Проворство при создании фантома.
 <c=@abilitytype>Phantasms</c> take conditions from you when summoned.,<c=@abilitytype>Фантомы</c> Фантомы при создании переносят на себя лежащие на вас состояния.
-<c=@abilitytype>Physical</c> skills grant endurance when activated.,Навыки <c=@abilitytype>Physical</c> Умения грубой силы дают выносливость при активации.
-"<c=@abilitytype>Resonance.</c> If Legendary Assassin Stance is equipped, this skill deals additional damage and removes boons if only one enemy was struck by this attack.","<c=@abilitytype>Resonance.</c> Если экипирована стойка Legendary Assassin Stance, этот навык наносит дополнительный урон и снимает boon, если атака поразила только одного врага."
+<c=@abilitytype>Physical</c> skills grant endurance when activated.,Умения <c=@abilitytype>Физическое</c> дают выносливость при активации.
+"<c=@abilitytype>Resonance.</c> If Legendary Assassin Stance is equipped, this skill deals additional damage and removes boons if only one enemy was struck by this attack.","<c=@abilitytype>Резонанс.</c> Если экипирована стойка легендарного ассасина, это умение наносит дополнительный урон и снимает благодати, когда атака поразила лишь одного врага."
 "<c=@abilitytype>Resonance.</c> If Legendary Centaur Stance is equipped, you additionally heal allies around you during channeling, and you take reduced strike and condition damage for a short amount of time after channeling completes.","<c=@abilitytype>Резонанс.</c> Если экипирована Legendary Centaur Stance, вы дополнительно лечите союзников вокруг себя во время направления, а также получаете уменьшенный урон от ударов и состояний в течение короткого времени после завершения направления."
 "<c=@abilitytype>Resonance.</c> If Legendary Demon Stance is equipped, the maximum number of projectiles is always fired regardless of conditions removed, and all projectiles are fired at the closest enemy instead.","<c=@abilitytype>Резонанс.</c> Если экипирована Легендарная стойка демона, всегда выпускается максимальное количество снарядов независимо от снятых состояний, и все снаряды летят в ближайшего врага."
 "<c=@abilitytype>Resonance.</c> If Legendary Dwarf Stance is equipped, the additional energy cost for breaking stuns is reduced, and the boons are also granted to allies in a radius around you.","<c=@abilitytype>Резонанс.</c> Если экипирована стойка Легендарного Дварфа, стоимость дополнительной энергии для снятия оглушений снижается, а благословения также даруются союзникам в радиусе вокруг вас."
@@ -79,8 +79,8 @@ Luxon abilities grant might.","<c=@abilitytype>Легендарный Альян
 <c=@abilitytype>Shout</c> skills convert conditions to boons on allies.,<c=@abilitytype>Крик</c> Крики превращают лежащие на союзниках состояния в дары.
 <c=@abilitytype>Shout</c> skills heal allies. Gain healing power based on your power.,<c=@abilitytype>Крик</c> навыки исцеляют союзников. Получите силу исцеления в зависимости от вашей силы.
 <c=@abilitytype>Shouts</c> now siphon health. This effect is increased on foes in melee range.,<c=@abilitytype>Крики</c> Крики вытягивают здоровье. Этот эффект действует сильнее на противников на дистанции ближнего боя.
-<c=@abilitytype>Shroud</c> skills gain reduced recharge.,Навыки <c=@abilitytype>Shroud</c> Умения Савана перезаряжаются быстрее.
-<c=@abilitytype>Signet Passive:</c> Grants a 25% increase in movement speed.<c=@abilitytype>Signet Active:</c> Blind your target and nearby foes.,<c=@abilitytype>Signet Passive:</c> Увеличивает скорость передвижения на 25%.<c=@abilitytype>Signet Active:</c> Ослепите цель и ближайших врагов.
+<c=@abilitytype>Shroud</c> skills gain reduced recharge.,Умения <c=@abilitytype>Саван</c> перезаряжаются быстрее.
+<c=@abilitytype>Signet Passive:</c> Grants a 25% increase in movement speed.<c=@abilitytype>Signet Active:</c> Blind your target and nearby foes.,<c=@abilitytype>Печать (пассивно):</c> Увеличивает скорость передвижения на 25%.<c=@abilitytype>Печать (активно):</c> Ослепите цель и ближайших врагов.
 <c=@abilitytype>Signets</c> continue to grant their passive bonuses while recharging. Gain an aura when you use a <c=@abilitytype>signet</c> skill.,<c=@abilitytype>Печати</c> Печати сохраняют свои пассивные эффекты во время перезарядки. Вам даётся аура при активации печати . <c=@abilitytype>печати</c>.
 <c=@abilitytype>Signets</c> gain improved passive effects and continue to grant their passive bonuses while recharging.,<c=@abilitytype>Печати</c> Пассивные эффекты печатей улучшаются и продолжают работать при перезарядке печати.
 <c=@abilitytype>Signets</c> grant a stacking ferocity boon on use. Cast Lesser Signet of Might when striking a foe below the health threshold.,"<c=@abilitytype>Печати</c> Печати дают накапливаемый бонус к Жестокости при использовании. Вы используете Lesser Signet of Might, когда наносите удар противнику, чье здоровье ниже порога."
@@ -88,14 +88,15 @@ Luxon abilities grant might.","<c=@abilitytype>Легендарный Альян
 "<c=@abilitytype>Signets</c> have improved active effects, and activating one grants you distortion.","<c=@abilitytype>Печати</c> имеют улучшенные активные эффекты, а активация одной даёт вам искажение."
 <c=@abilitytype>Signets</c> steal health and remove boons from affected foes. Siphon healing is reduced for each target struck beyond the first.,"<c=@abilitytype>Печати</c> Печати похищают здоровье и снимают дары с пораженных противников. Исцеление от похищения здоровья уменьшается за каждую пораженную цель, кроме первой."
 <c=@abilitytype>Spirit Weapons</c> gain additional casts and burn foes with their first strike.,<c=@abilitytype>Духовное оружие</c> получает дополнительные заряды и поджигает врагов первой атакой.
-<c=@abilitytype>Spirits</c> slam again when they finish shaking.,"Навыки <c=@abilitytype>Spirit</c> Духи ударят по земле ещё раз после того, как перестанут встряхиваться."
+<c=@abilitytype>Spirits</c> slam again when they finish shaking.,"Умения <c=@abilitytype>Духи</c> ударяют по земле ещё раз, когда перестают трястись."
 <c=@abilitytype>Squalls</c> remove movement-impairing conditions and a damaging condition.,"<c=@abilitytype>Шквалы</c> Шквалы снимают состояния, ограничивающие передвижение, и одно наносящее урон состояние."
 <c=@abilitytype>Stance</c> skills gain increased duration on you and grant their effects to nearby allies for a reduced duration.,<c=@abilitytype>Стойка</c> Стойки длятся дольше для вас и распространяются на некоторое время на союзников поблизости.
 <c=@abilitytype>Stances</c> grant protection to affected allies and blind affected enemies.,<c=@abilitytype>Стойки</c> Стойки даруют Протекцию союзникам и ослепляют противников.
 "<c=@abilitytype>Stances</c> grant vigor and barrier when activated, and they have increased duration.","<c=@abilitytype>Стойки</c> дают энергию и барьер при активации, а также имеют увеличенную длительность."
 <c=@abilitytype>Stealth Attack</c> skills inflict vulnerability and grant fury upon successfully hitting foes.,<c=@abilitytype>Скрытая атака</c> навыки накладывают уязвимость и даруют ярость при успешном попадании по врагам.
 "<c=@abilitytype>Stealth attacks<c/> siphon health if they hit.
-<c=@reminder>Cannot siphon the same target more than once per interval.</c>",
+<c=@reminder>Cannot siphon the same target more than once per interval.</c>","<c=@abilitytype>Атаки из невидимости<c/> похищают здоровье при попадании.
+<c=@reminder>Нельзя похитить здоровье у одной цели чаще одного раза за интервал.</c>"
 <c=@abilitytype>Survival</c> skills grant fury and remove conditions.,<c=@abilitytype>Выживание</c> Выживания даруют Ярость и снимают состояния.
 <c=@abilitytype>Symbols</c> are improved and heal allies.,<c=@abilitytype>Символы</c> Символы улучшаются и исцеляют союзников.
 <c=@abilitytype>Symbols</c> inflict vulnerability on foes. Deal increased strike damage to vulnerable foes.,<c=@abilitytype>Символы</c> Символы вызывают у противников уязвимость. Прямой урон по уязвимым противникам увеличен.
@@ -106,7 +107,7 @@ Luxon abilities grant might.","<c=@abilitytype>Легендарный Альян
 <c=@abilitytype>Turrets.</c> Turrets create a reflective barrier when built and grant boons to allies around them on a regular interval.,<c=@abilitytype>Турели.</c> Турели создают отражающий барьер при размещении и накладывают дары на союзников вокруг себя с регулярным интервалом.
 <c=@abilitytype>Unleashed Ambush</c> skills grant boons to nearby allies. Refresh Unleashed Power when you swap weapons.,<c=@abilitytype>Навыки высвобожденной засады</c> дают благословения ближайшим союзникам. Обновляют «Высвобожденную силу» при смене оружия.
 "<c=@abilitytype>Venom</c> utility skills siphon life from struck foes. Gain stacks of Spider Venom when you enter or exit stealth.
-<c=@reminder>Siphoning can only occur once per strike.</c>","<c=@abilitytype>Навыки ядов</c> вытягивают жизнь из пораженных врагов. Получайте заряды «Яда паука» при входе в скрытность или выходе из неё.
+<c=@reminder>Siphoning can only occur once per strike.</c>","<c=@abilitytype>Навыки ядов</c> вытягивают жизнь из пораженных врагов. Получайте заряды «Яда паука» при входе в невидимость или выходе из неё.
 <c=@reminder>Вытягивание жизни может сработать только один раз за удар.</c>"
 <c=@abilitytype>Virtue:</c> Regenerates health.</c><c=@abilitytype>Activate:</c> Heal yourself and nearby allies.,<c=@abilitytype>Добродетель:</c> Регенерирует здоровье.</c><c=@abilitytype>Активация:</c> Исцеляет вас и ближайших союзников.
 <c=@abilitytype>Virtues</c> apply boons to allies when activated. Deal increased strike damage for each boon on you.,<c=@abilitytype>Добродетели</c> накладывают благословения на союзников при активации. Наносят повышенный прямой урон за каждое имеющееся на вас благословение.
@@ -200,7 +201,7 @@ Applied Force,Приложенная сила
 <c=@reminder>Эффект Яда Гнилостного Валлоу не может быть применен к вам.</c>"
 Apply boons to nearby allies while channeling <c=@abilitytype>overloads</c> and when successfully completing an <c=@abilitytype>overload</c> channel.,Накладывайте благословения на ближайших союзников во время подготовки <c=@abilitytype>перегрузок</c> и при успешном завершении подготовки <c=@abilitytype>перегрузки</c>.
 Apply conditions to enemies when you disable them. Perform an additional strike when using Cosmic Wisdom that damages and burns enemies.,"Вы накладываете на врагов состояния, когда выводите их из строя. При активации Космической Мудрости вы наносите дополнительный удар, который наносит врагам урон и поджигает их."
-Apply vulnerability when you steal. Gain might when you hit with a stealth attack.,Накладывайте уязвимость при краже. Получайте мощь при попадании атакой из скрытности.
+Apply vulnerability when you steal. Gain might when you hit with a stealth attack.,Накладывайте уязвимость при краже. Получайте мощь при попадании атакой из невидимости.
 Applying might to an ally heals you.,Дарование Мощи союзникам исцеляет вас.
 Applying vulnerability to foes grants stacks of <c=@abilitytype>Battle Scars</c>. The healing from Battle Scars is increased while you are below the health threshold.,"Наложение уязвимости на врагов даёт заряды <c=@abilitytype>Боевых Шрамов</c>. Исцеление от Боевых Шрамов увеличено, пока ваше здоровье ниже порогового значения."
 Aquamancer's Training,Обучение Акваманта
@@ -313,7 +314,7 @@ Blood as Sand,Кровь как песок
 Bloodlust,Жажда крови
 Bloodsong,Кровавая песнь
 Bloody Roar,Кровавый рев
-Blurred Inscriptions,Размытые надписи
+Blurred Inscriptions,Размытые гравировки
 Body Blow,Удар по телу
 Boiling Point,Точка кипения
 Bold Reversal,Смелый разворот
@@ -408,7 +409,7 @@ Celestial Shadow,Celestial Shadow
 Centaur Skill Healing,Лечение навыком кентавра
 Chain Reactivity,Цепная реактивность
 Chance on Critical Hit,Шанс при критическом ударе
-Chance on Critical Strike to Gain Might,Шанс получить могущество при критическом ударе
+Chance on Critical Strike to Gain Might,Шанс получить мощь при критическом ударе
 Chance to Bleed,Шанс вызвать кровотечение
 Chant of Freedom grants superspeed to affected allies when activated.,"Хорал Свободы при активации даёт сверхскорость союзникам, попавшим под его действие."
 Chant of Recuperation removes conditions from affected allies when activated.,"Когда Хорал Выздоровления активен, он снимает состояния с союзников, попавших под его воздействие."

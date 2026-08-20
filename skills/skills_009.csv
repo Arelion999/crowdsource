@@ -262,7 +262,7 @@ Locks onto one foe and damages the first target in its line of sight.,Захва
 Locust Swarm,Рой саранчи
 Lofted Cryoflash,Воздушная криовспышка
 Long Range Shot,Дальний выстрел
-Long-Range Daze,Оглушение на расстоянии
+Long-Range Daze,Ошеломление на расстоянии
 Long-Range Radius,Радиус дальнего действия
 Long-range explosive shots.,Взрывные снаряды дальнего действия.
 Lotus Strike,Удар лотоса
@@ -317,7 +317,7 @@ Makes enemies more vulnerable to Decima's fluxlance beams.,Делает враг
 Makes enemies vulnerable to dancing sparks.,Делает врагов уязвимыми к танцующим искрам.
 Malice Gained upon Critical Hit,"Злоба, полученная при критическом ударе"
 Malice Gained upon Hit,"Злоба, полученная при ударе"
-Malice Threshold for Stealth,Порог злобы для скрытности
+Malice Threshold for Stealth,Порог злобы для невидимости
 Malicious Ashen Assault,Злобная пепельная атака
 Malicious Backstab,Злобный удар в спину
 Malicious Cunning Salvo,Злобный хитрый залп
@@ -372,7 +372,7 @@ Maw Barrier Radius,Радиус барьера пасти
 Max Barrier,Макс. барьер
 Max Bombs,Макс. бомб
 Max Damage Increase,Макс. увеличение урона
-Maximum <c=@abilitytype>Crimson Tide</c> Activations,Максимальное количество активаций <c=@abilitytype>«Алого прилива»</c>
+Maximum <c=@abilitytype>Crimson Tide</c> Activations,Максимальное количество активаций <c=@abilitytype>Багровый прилив</c>
 Maximum Barrier,Максимальный барьер
 Maximum Blade Duration,Максимальная длительность клинка
 Maximum Boon Scaling,Максимальное масштабирование от благословений
@@ -390,7 +390,7 @@ Maximum Knockback Distance,Максимальная дистанция отбр�
 Maximum Launch Distance,Максимальная дистанция подбрасывания
 Maximum Leash Range,Максимальная дистанция привязки
 Maximum Malice,Максимум злобы
-Maximum Might Threshold,Максимальный порог могущества
+Maximum Might Threshold,Максимальный порог мощи
 Maximum Mines,Максимальное количество мин
 Maximum Movement Speed,Максимальная скорость передвижения
 Maximum Number of Allied Targets,Максимальное количество союзных целей

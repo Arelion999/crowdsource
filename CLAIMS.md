@@ -1,6 +1,6 @@
 # Батчи перевода GW2 RU — доска захвата
 
-Всего батчей: **996** | строк: **468,969** | заполнено: **462,702** (98.7%), пусто **6,267** | вычитано человеком: **196,883** (42.0%).
+Всего батчей: **996** | строк: **468,969** | заполнено: **462,709** (98.7%), пусто **6,260** | вычитано человеком: **206,429** (44.0%).
 
 > Чтобы забиндить батч — впиши свой ник и поставь 🔨 (в работе). Готово → ✅ + ссылка на файл/PR.
 >
@@ -861,26 +861,26 @@
 | `hearts_003.csv` | hearts | 500 | 46,179 | Kill centaurs, destroy centaur siege weapons, | ✅ | Автозаполнение из словаря — черновик, 498/500 (100%), нужна вычитка |
 | `hearts_004.csv` | hearts | 500 | 41,058 | The Celebration Continues | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
 | `hearts_005.csv` | hearts | 94 | 7,810 | Your Help Is Appreciated | ✅ | Автозаполнение из словаря — черновик, 93/94 (99%), нужна вычитка |
-| `skills_001.csv` | skills | 500 | 53,788 | "Advance!" | ✅ | Автозаполнение из словаря — черновик, 486/500 (97%), нужна вычитка |
-| `skills_002.csv` | skills | 500 | 68,893 | <c=@abilitytype>Legendary Alliance.</c> Heal  |  | Автозаполнение из словаря — черновик, 427/500 (85%), нужна вычитка |
-| `skills_003.csv` | skills | 500 | 20,436 | A bolt of power pierces through the barrier a | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
-| `skills_004.csv` | skills | 500 | 19,137 | Bleed multiple foes in a line with a piercing | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
-| `skills_005.csv` | skills | 500 | 25,390 | Confusing Images |  | Автозаполнение из словаря — черновик, 494/500 (99%), нужна вычитка |
-| `skills_006.csv` | skills | 500 | 16,425 | Destroys tiles and chains attacks to allies w | ✅ | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
-| `skills_007.csv` | skills | 500 | 23,150 | Fiery Frost | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
-| `skills_008.csv` | skills | 500 | 17,619 | Grenade Barrage | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
-| `skills_009.csv` | skills | 500 | 17,447 | Knock back foes with a wave of magical energy | ✅ | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
-| `skills_010.csv` | skills | 500 | 18,202 | Mist-Charged Chop | ✅ | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
-| `skills_011.csv` | skills | 500 | 21,024 | Quickening Screech | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
-| `skills_012.csv` | skills | 500 | 18,309 | Shadow Gouge | ✅ | Автозаполнение из словаря — черновик, 498/500 (100%), нужна вычитка |
-| `skills_013.csv` | skills | 500 | 31,149 | Stone Sweep | ✅ | Автозаполнение из словаря — черновик, 497/500 (99%), нужна вычитка |
-| `skills_014.csv` | skills | 500 | 19,899 | The whispering shadow summons multiple freezi | ✅ | Автозаполнение из словаря — черновик, 498/500 (100%), нужна вычитка |
-| `skills_015.csv` | skills | 141 | 6,265 | Whirlpool | ✅ | Автозаполнение из словаря — черновик, 139/141 (99%), нужна вычитка |
-| `traits_001.csv` | traits | 500 | 29,187 | 1 second |  | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
-| `traits_002.csv` | traits | 500 | 33,084 | Cull the Weak | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
-| `traits_003.csv` | traits | 500 | 28,477 | Gain might when you block attacks. | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
-| `traits_004.csv` | traits | 500 | 21,072 | Mental Anguish | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
-| `traits_005.csv` | traits | 406 | 30,238 | Strike up the band and unleash a wave of soni | ✅ | Автозаполнение из словаря — черновик, 406/406 (100%), нужна вычитка |
+| `skills_001.csv` | skills | 500 | 53,788 | "Advance!" | ✅ | Arelion — 84 строки вычитано — типы умений сведены к канону: Burst к «Всплеску» вместо «Рывка», Cantrip к «Заговору» вместо «Фокуса», Gadget к «Гаджету» |
+| `skills_002.csv` | skills | 500 | 68,893 | <c=@abilitytype>Legendary Alliance.</c> Heal  | ✅ | Arelion — 180 строк вычитано — Signet сведён к «Печати» вместо «Знамени» (Banner) и «талисмана», Stealth Attack к «Атаке из невидимости», переведены 5 пустых строк мантр и добродетелей |
+| `skills_003.csv` | skills | 500 | 20,436 | A bolt of power pierces through the barrier a | ✅ | Arelion — сверено: типы умений и глоссарные термины в канонe, правок не потребовалось |
+| `skills_004.csv` | skills | 500 | 19,137 | Bleed multiple foes in a line with a piercing | ✅ | Arelion — сверено: типы умений и глоссарные термины в канонe, правок не потребовалось |
+| `skills_005.csv` | skills | 500 | 25,390 | Confusing Images | ✅ | Arelion — 1 строка переведена — описание умения с перечнем состояний контроля по глоссарию (нокдаун, отталкивание, провокация) |
+| `skills_006.csv` | skills | 500 | 16,425 | Destroys tiles and chains attacks to allies w | ✅ | Arelion — 1 строка — Stealth к глоссарной «невидимости» |
+| `skills_007.csv` | skills | 500 | 23,150 | Fiery Frost | ✅ | Arelion — 1 строка — Stealth к глоссарной «невидимости» |
+| `skills_008.csv` | skills | 500 | 17,619 | Grenade Barrage | ✅ | Arelion — 3 строки — Harrier к «вестнику» по глоссарию, Stealth к «невидимости» |
+| `skills_009.csv` | skills | 500 | 17,447 | Knock back foes with a wave of magical energy | ✅ | Arelion — 4 строки — Stealth к «невидимости», Daze к «ошеломлению» (за «оглушением» закреплён Stun) |
+| `skills_010.csv` | skills | 500 | 18,202 | Mist-Charged Chop | ✅ | Arelion — сверено: типы умений и глоссарные термины в канонe, правок не потребовалось |
+| `skills_011.csv` | skills | 500 | 21,024 | Quickening Screech | ✅ | Arelion — сверено: типы умений и глоссарные термины в канонe, правок не потребовалось |
+| `skills_012.csv` | skills | 500 | 18,309 | Shadow Gouge | ✅ | Arelion — 3 строки — Stealth к «невидимости», Might к «мощи» вместо «могущества» |
+| `skills_013.csv` | skills | 500 | 31,149 | Stone Sweep | ✅ | Arelion — сверено: типы умений и глоссарные термины в канонe, правок не потребовалось |
+| `skills_014.csv` | skills | 500 | 19,899 | The whispering shadow summons multiple freezi | ✅ | Arelion — 2 строки — Stealth к «невидимости» |
+| `skills_015.csv` | skills | 141 | 6,265 | Whirlpool | ✅ | Arelion — 2 строки — Stealth к «невидимости» |
+| `traits_001.csv` | traits | 500 | 29,187 | 1 second | ✅ | Arelion — 12 строк вычитано — непереведённые типы умений (Physical, Shroud, Spirits, Resonance, Signet) переведены по канону, снято дублирование «Навыки X Умения Y», переведена пустая строка |
+| `traits_002.csv` | traits | 500 | 33,084 | Cull the Weak | ✅ | Arelion — 5 строк — Virtues и Mantras переведены, Stealth к «невидимости» |
+| `traits_003.csv` | traits | 500 | 28,477 | Gain might when you block attacks. | ✅ | Arelion — 17 строк — Honed к глоссарному «заточенному», Mending к «врачующему» (за «исцеляющим» закреплён Healing), Stealth к «невидимости» |
+| `traits_004.csv` | traits | 500 | 21,072 | Mental Anguish | ✅ | Arelion — 5 строк — meditation переведена, Stealth к «невидимости» |
+| `traits_005.csv` | traits | 406 | 30,238 | Strike up the band and unleash a wave of soni | ✅ | Arelion — 3 строки — Stealth к «невидимости», Daze к «ошеломлению» |
 | `main_001.csv` | main | 500 | 128,769 | ! | ✅ | Arelion — 52 строки вычитано — восстановлена разбивка всех 22 битых текстов (сборник стихов на 50 строк, видения криптисов, письма Райтлока и Зойи), две подписи сокращены до канона «Приорат Дурманд», чтобы уместиться в требуемые линтером 45 знаков |
 | `main_002.csv` | main | 500 | 5,164 | ((1005053)) | ✅ | Arelion — 500 служебных идентификаторов вида ((1005053)) — перевод обязан совпадать с оригиналом, сверено построчно, расхождений нет |
 | `main_003.csv` | main | 500 | 4,987 | ((318363)) | ✅ | Arelion — 500 служебных идентификаторов вида ((318363)) — перевод обязан совпадать с оригиналом, сверено построчно, расхождений нет |

@@ -1,13 +1,13 @@
 english,translate
-Gain might when you block attacks.,Даёт могущество при блокировании атак.
-Gain might when you dodge.,Даёт могущество при уклонении.
-Gain might when you gain fury.,Даёт могущество при получении ярости.
-Gain might when you grant yourself fury.,Даёт могущество при наложении на себя ярости.
-Gain might when you inflict bleeding on a foe.,Даёт могущество при наложении кровотечения на врага.
-Gain might when you strike a foe based on their health percent.,Даёт могущество при ударе по врагу в зависимости от процента его здоровья.
+Gain might when you block attacks.,Даёт мощь при блокировании атак.
+Gain might when you dodge.,Даёт мощь при уклонении.
+Gain might when you gain fury.,Даёт мощь при получении ярости.
+Gain might when you grant yourself fury.,Даёт мощь при наложении на себя ярости.
+Gain might when you inflict bleeding on a foe.,Даёт мощь при наложении кровотечения на врага.
+Gain might when you strike a foe based on their health percent.,Даёт мощь при ударе по врагу в зависимости от процента его здоровья.
 Gain might when you strike a foe below the health threshold.,"Вам даруется Мощь, когда вы наносите удар противнику, чье здоровье ниже порога."
 Gain might when your Virtue skill 1 passive effect triggers; gain more might while wielding a scepter.,"Вам даруется Мощь от пассивного эффекта 1-го умения Добродетели. Вам даруется больше Мощи, если вы вооружены скипетром."
-Gain might while wielding a flamethrower. Might applied to you gains increased duration. Napalm grants you stability and a fire aura.,Получайте могущество при использовании огнемета. Длительность накладываемого на вас могущества увеличена. Напалм даёт вам стабильность и ауру огня.
+Gain might while wielding a flamethrower. Might applied to you gains increased duration. Napalm grants you stability and a fire aura.,Получайте мощь при использовании огнемета. Длительность накладываемого на вас мощи увеличена. Напалм даёт вам стабильность и ауру огня.
 Gain might while you have stability. Your Function Gyro applies stability to allies when cast.,"Вам даруется Мощь, когда у вас есть дар Устойчивости. Ваш Робокоптер дарует союзникам Устойчивость при активации."
 "Gain motivation when you enter combat. If no refrains are active, automatically activate the refrain of Chant of Action.","Получайте мотивацию при вступлении в бой. Если активных рефренов нет, автоматически активируется рефрен Песни действия."
 Gain movement speed for each point of upkeep currently in use.,Получайте бонус к скорости передвижения за каждую единицу используемого поддержания.
@@ -16,7 +16,7 @@ Gain power and a chance to gain might on critical strike. Double these bonuses w
 Gain power and additional power while wielding a sword or underwater spear. Successfully evading an attack while wielding a sword or underwater spear recharges Steal.,"Ваша Сила увеличивается. Сила дополнительно увеличивается, пока вы вооружены мечом или подводным копьём. Успешное уклонение от атаки, когда вы вооружены мечом или подводным копьём, перезаряжает Кражу."
 Gain power while in fire attunement.,"Ваша Сила увеличивается, пока вы используете силу Огня."
 "Gain power, then gain extra power while you are revealed.","Получайте силу, а затем дополнительную силу, пока вы раскрыты."
-Gain precision. Gain additional precision while wielding a rifle. Enter stealth when you dodge roll with a rifle equipped.,Получайте точность. Получайте дополнительную точность при использовании винтовки. Уходите в скрытность при перекате с экипированной винтовкой.
+Gain precision. Gain additional precision while wielding a rifle. Enter stealth when you dodge roll with a rifle equipped.,Получайте точность. Получайте дополнительную точность при использовании винтовки. Уходите в невидимость при перекате с экипированной винтовкой.
 Gain protection after a successful Full Counter.,Вам даруется Протекция после успешной Круговой контратаки.
 Gain protection when activating a <c=@abilitytype>Stance</c>. Activate Lesser Stone Resonance when using an elite skill.,Получайте протекцию при активации <c=@abilitytype>Стойки</c>. Активируйте Малый каменный резонанс при использовании элитного навыка.
 "Gain protection when you are disabled.
@@ -55,16 +55,16 @@ Gain stability and swiftness when starting an <c=@abilitytype>overload</c>.,По
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Получайте устойчивость при выводе врага из строя. Наносите увеличенный урон от ударов выведенным из строя, уязвимым или непокорным врагам.
 <c=@reminder>Вывод из строя включает оглушение, ошеломление, отбрасывание, притягивание, нокдаун, погружение, подбрасывание, запуск, провокацию и страх.</c>"
 Gain stability when you disable a foe. Deal increased strike damage while you have stability.,"Вам даруется Устойчивость, когда вы выводите противника из строя. Вы наносите повышенный прямой урон, пока у вас есть дар Устойчивости."
-Gain stability when you gain might at or above the threshold. Might grants bonus power.,Получайте стабильность при получении могущества на пороговом уровне или выше. Могущество даёт бонус к силе.
+Gain stability when you gain might at or above the threshold. Might grants bonus power.,Получайте стабильность при получении мощи на пороговом уровне или выше. Могущество даёт бонус к силе.
 Gain stability when you use a <c=@abilitytype>Shatter</c> skill. Grant an additional boon to nearby allies based on which <c=@abilitytype>Shatter</c> is used.,"Получайте устойчивость при использовании навыка <c=@abilitytype>Раскола</c>. Даруйте дополнительное благо ближайшим союзникам в зависимости от того, какой <c=@abilitytype>Раскол</c> был использован."
 Gain stacks of <c=@abilitytype>Battle Scars</c> while in combat.,Получайте заряды <c=@abilitytype>Боевых шрамов</c> во время боя.
 Gain stacks of Consume Shadows at regular intervals while in Shadow Shroud. Exiting Shadow Shroud consumes your remaining shadow force and heals allies based on the number of stacks you have gained. Allies that are fully healed receive the rest of the value in barrier.,"Пока вы находитесь в Саване Теней, вы получаете стеки Поглощения теней через равные промежутки времени. Покидание Савана Теней поглощает всю оставшуюся силу теней и исцеляет союзников поблизости пропорционально поглощенной энергии. Союзники, которые исцелились полностью, получают остаток исцеления как барьер."
 Gain superspeed when attuning to air.,"Вы получаете сверхскорость, когда обращаетесь к силе Воздуха."
 Gain superspeed when inflicting inhibiting conditions on enemies.,Получайте суперскорость при наложении на врагов ограничивающих состояний.
-Gain superspeed when you enter or exit stealth.,Получайте суперскорость при входе в скрытность или выходе из неё.
+Gain superspeed when you enter or exit stealth.,Получайте суперскорость при входе в невидимость или выходе из неё.
 Gain swiftness upon dodging.,Вам даруется Быстрота при увороте.
 Gain swiftness when swapping weapons in combat.,Вам даруется Быстрота при смене оружия в бою.
-Gain swiftness when using a <c=@abilitytype>Dual Attack.</c> Deal increased strike damage to enemies while under the effects of swiftness or superspeed.,"Получайте быстроту при использовании <c=@abilitytype>двойной атаки.</c> Наносите повышенный урон ударами врагам, находясь под действием стремительности или суперскорости."
+Gain swiftness when using a <c=@abilitytype>Dual Attack.</c> Deal increased strike damage to enemies while under the effects of swiftness or superspeed.,"Получайте быстроту при использовании <c=@abilitytype>Двойная атака.</c> Наносите повышенный урон ударами врагам, находясь под действием стремительности или суперскорости."
 "Gain swiftness when you are inflicted with inhibiting conditions. When gaining either superspeed or swiftness, also gain regeneration and cleanse a condition. Swiftness has increased effectiveness.</c>",Получайте быстроту при наложении на вас ограничивающих состояний. При получении суперскорости или стремительности также получайте регенерацию и снимайте одно состояние. Эффективность стремительности повышена.</c>
 "Gain the power to craft sand shadows and command them using your life force. Gain access to <c=@abilitytype>Punishment</c> and <c=@abilitytype>Shade</c> skills.
 <c=@reminder>Shade skills inherit the effects of traits that affect shroud skills.</c>","Получите силу создавать песчаные тени и управлять ими с помощью своей жизненной силы. Получите доступ к навыкам <c=@abilitytype>наказания</c> и <c=@abilitytype>тени.</c>
@@ -75,7 +75,7 @@ Gain vigor at the end of your dodge roll.,Вам даруется Энергич
 Gain vigor upon successfully evading an attack.,Вам даруется Энергичность при успешном уклонении от атаки.
 Gain vigor when delivering a critical hit.,"Вам даруется Энергичность, когда вы наносите критический удар."
 Gain vigor when successfully evading an attack.,Вам даруется Энергичность после успешного уклонения от атаки.
-Gain vigor when using a <c=@abilitytype>Dual Attack.</c> Dodge rolling grants a barrier.,Получайте энергию при использовании <c=@abilitytype>двойной атаки.</c> Перекат накладывает барьер.
+Gain vigor when using a <c=@abilitytype>Dual Attack.</c> Dodge rolling grants a barrier.,Получайте энергию при использовании <c=@abilitytype>Двойная атака.</c> Перекат накладывает барьер.
 Gain vigor when you critically strike a foe.,"Вам даруется Энергичность, когда вы наносите критический удар."
 Gain vitality and ferocity based on a percentage of your power.,Ваша Живучесть и Жестокость увеличиваются в зависимости от вашей Силы.
 Gain vitality based on a percentage of your power. Gain life force when you strike a foe below the health threshold.,"Ваша Живучесть увеличивается в зависимости от вашей Силы. Вы получаете жизненную силу, когда наносит удар противнику, чье здоровье ниже порога."
@@ -196,7 +196,7 @@ Heal nearby allies when using a tool belt skill.,Вы исцеляете сою�
 <c=@reminder>Spirits and minions are creatures.</c>","Исцеляйте ближайших союзников при призыве существа.
 <c=@reminder>Духи и миньоны являются существами.</c>"
 Heal per unit of heat,Исцеление за единицу жара
-Heal when you enter or exit stealth. Stealth yourself and your target when reviving an ally. <c=@reminder>This effect also applies to stealth you grant to allies.</c>,"Исцеляйтесь при входе в скрытность или выходе из неё. Накладывайте скрытность на себя и свою цель при воскрешении союзника. <c=@reminder>Этот эффект также применяется к скрытности, которую вы даруете союзникам.</c>"
+Heal when you enter or exit stealth. Stealth yourself and your target when reviving an ally. <c=@reminder>This effect also applies to stealth you grant to allies.</c>,"Исцеляйтесь при входе в невидимость или выходе из неё. Накладывайте невидимость на себя и свою цель при воскрешении союзника. <c=@reminder>Этот эффект также применяется к невидимости, которую вы даруете союзникам.</c>"
 Heal when you use a merged skill. You can swap pets while merged.,"Вы исцеляетесь при использовании умений питомца слившись со зверем. Когда вы слиты со зверем, вы можете менять питомцев."
 Heal yourself and gain Blood Reckoning when entering berserk mode.,"Вы исцеляетесь и используете Кровавую расплату, когда становитесь берсерком."
 Heal yourself and gain adrenaline for each point of motivation spent.,Вы исцеляетесь и получаете адреналин за каждый потраченный стек мотивации.
@@ -252,7 +252,7 @@ High-Health Damage Increase,Увеличение урона при высоко�
 Hitting with a <c=@abilitytype>burst</c> skill casts Magebane Tether on your target if they are within range.,"Попадание навыком <c=@abilitytype>взрыва</c> накладывает Оковы Магоборца на цель, если она находится в радиусе действия."
 "Holo Leap removes movement-impairing conditions, grants superspeed instead of swiftness, and inflicts cripple.","Голопрыжок снимает замедляющие эффекты, даёт сверхскорость вместо быстроты и накладывает хромоту."
 Holy Reckoning,Святое возмездие
-Honed Axes,Отточенные топоры
+Honed Axes,Заточенные топоры
 Honorable Staff,Почётный посох
 Hungering Darkness,Алчущая тьма
 Hunter's Determination,Решимость охотника
@@ -315,7 +315,7 @@ Increased outgoing healing.,Увеличенное исходящее исцел
 Increased outgoing strike and condition damage.,Увеличенный исходящий прямой урон и урон от состояний.
 Increased outgoing strike damage and movement speed.,Увеличенный исходящий прямой урон и скорость передвижения.
 Increased outgoing strike damage.,Увеличенный исходящий прямой урон.
-Increased stealth duration from mesmer skills. Gain random boons while you are in stealth.,"Увеличенная длительность скрытности от умений месмера. Получайте случайные благословения, находясь в скрытности."
+Increased stealth duration from mesmer skills. Gain random boons while you are in stealth.,"Увеличенная длительность невидимости от умений месмера. Получайте случайные благословения, находясь в невидимости."
 Increased strike and condition damage per stack.,Увеличенный прямой урон и урон от состояний за стак.
 Increased toughness per stack.,Увеличенная стойкость за стак.
 Increases all damage dealt per initiative spent. Steal gains reduced recharge time.,Увеличивает весь урон за каждое потраченное очко инициативы. Кража перезаряжается быстрее.
@@ -347,7 +347,7 @@ Initiative on Evade,Инициатива при увороте
 Initiative on Exit,Инициатива при выходе
 Inner Fire,Внутренний огонь
 Innervating Alloy,Иннервирующий сплав
-Inscription,Надпись
+Inscription,Гравировка
 Insidious Disruption,Коварное нарушение
 Inspired Virtue,Вдохновляющая добродетель
 Inspiring Distortion,Вдохновляющее искажение
@@ -540,4 +540,4 @@ Meditation. Cure conditions and damage nearby foes. Deal more damage if a condit
 Meld with Shadows,Слияние с тенями
 "Melee attacks become ranged, have an increased chance to critically hit, and apply vulnerability. Unlocks the Mech Command skill Spark Revolver.","Атаки ближнего боя становятся дальними, имеют повышенный шанс критического удара и накладывают уязвимость. Открывает навык команды меха «Искровой револьвер»."
 Mender's Purity,Чистота целителя
-Mending Might,Исцеляющая мощь
+Mending Might,Врачующая мощь
