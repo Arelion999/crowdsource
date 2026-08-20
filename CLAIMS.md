@@ -1,6 +1,6 @@
 # Батчи перевода GW2 RU — доска захвата
 
-Всего батчей: **996** | строк: **469,464** | заполнено: **461,961** (98.4%), пусто **7,503** | вычитано человеком: **116,496** (24.8%).
+Всего батчей: **996** | строк: **468,969** | заполнено: **462,640** (98.7%), пусто **6,329** | вычитано человеком: **117,175** (25.0%).
 
 > Чтобы забиндить батч — впиши свой ник и поставь 🔨 (в работе). Готово → ✅ + ссылка на файл/PR.
 >
@@ -981,9 +981,9 @@
 | `new_151.csv` | new | 500 | 24,311 | My gut burns with resolve! We can win! | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_152.csv` | new | 500 | 29,947 | OK, later then. | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_153.csv` | new | 500 | 18,484 | Our new friends have chosen wisely. We make o | ✅ | Магистр Клод, Приорат Дурманд |
-| `new_154.csv` | new | 500 | 16,105 | Pioneer Golem 02 |  |  |
-| `new_155.csv` | new | 500 | 18,061 | Preparations are underway for a celebratory c |  |  |
-| `new_156.csv` | new | 500 | 16,702 | Ravisseur |  |  |
+| `new_154.csv` | new | 500 | 16,105 | Pioneer Golem 02 | ✅ | Магистр Клод, Приорат Дурманд |
+| `new_155.csv` | new | 500 | 18,061 | Preparations are underway for a celebratory c | ✅ | Магистр Клод, Приорат Дурманд |
+| `new_156.csv` | new | 500 | 16,702 | Ravisseur | ✅ | Магистр Клод, Приорат Дурманд |
 | `new_157.csv` | new | 500 | 18,154 | Retake the Astral Ward camp from the Kryptis. |  |  |
 | `new_158.csv` | new | 500 | 21,764 | Saurien |  |  |
 | `new_159.csv` | new | 500 | 21,154 | Sky Dance |  |  |
