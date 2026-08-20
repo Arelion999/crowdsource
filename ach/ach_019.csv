@@ -182,7 +182,7 @@ Kiel: Dungeon Runner,Kiel: Бегун по подземельям
 Kiel: Homeland Support,Kiel: Поддержка родины
 Kiel: Maw Mulcher,Kiel: Измельчитель Maw
 Kill %num2% Aberrant.,Убейте %num2% аберрантов.
-Kill %num2% Aetherblade pirate or other enemies trying to spoil the Jubilee.,
+Kill %num2% Aetherblade pirate or other enemies trying to spoil the Jubilee.,"Убейте %num2% пират[а|ов|ов] из эфирных клинков или других врагов, что портят Юбилей."
 Kill %num2% Branded during the Shatterer battle.,Уничтожьте %num2% помеченных во время битвы с Разрушителем.
 Kill %num2% Crystal Desert predators.,Убейте %num2% хищников Кристальной пустыни.
 Kill %num2% Fallen.,Убейте %num2% падших.
@@ -198,21 +198,21 @@ Kill %num2% centaur[s] in the Crown Pavilion.,Убейте %num2% [кентав�
 Kill %num2% centaurs.,Убейте %num2% кентавров.
 Kill %num2% chak.,Убейте %num2% чаков.
 Kill %num2% champion chak.,Убейте %num2% чемпионов-чаков.
-Kill %num2% champion foes.,
+Kill %num2% champion foes.,Убейте %num2% враг[а|ов|ов] ранга чемпиона.
 Kill %num2% champions of the krait.,Убейте %num2% чемпионов крайтов.
 Kill %num2% crustaceans.,Убейте %num2% ракообразных.
 Kill %num2% destroyers.,Убейте %num2% разрушителей.
 Kill %num2% devourers.,Убейте %num2% пожирателей.
 Kill %num2% different factions of Scarlet's minions anywhere in Tyria.,Убейте %num2% разных фракций прислужников Скарлет в любой точке Тирии.
-Kill %num2% different professions.,
+Kill %num2% different professions.,Убейте представителей %num2% разн[ой|ых|ых] професси[и|й|й].
 Kill %num2% djinn.,Убейте %num2% джиннов.
 Kill %num2% drakes.,Убейте %num2% дрейков.
 Kill %num2% dredge.,Убейте %num2% дреджей.
 Kill %num2% elementals.,Убейте %num2% элементалей.
 Kill %num2% enemies using profession combinations with another player.,"Убейте %num2% врагов, используя комбинации профессий с другим игроком."
-Kill %num2% enemies.,
-Kill %num2% enemy guard NPCs.,
-Kill %num2% enemy guard.,
+Kill %num2% enemies.,Убейте %num2% враг[а|ов|ов].
+Kill %num2% enemy guard NPCs.,Убейте %num2% вражеск[ого|их|их] стражник[а|ов|ов].
+Kill %num2% enemy guard.,Убейте %num2% вражеск[ого|их|их] стражник[а|ов|ов].
 Kill %num2% enemy player[s] in rated arena games.,Убейте %num2% вражеских игроков в рейтинговых аренных играх.
 Kill %num2% enemy supply caravan[s].,Убейте %num2% вражеских караванов с припасами.
 "Kill %num2% enemy[pl:""enemies""] while defending your team's capture points during rated Revenge of the Capricorn matches.","Убейте %num2% врагов, защищая точки захвата своей команды в рейтинговых матчах «Месть Козерога»."
@@ -223,7 +223,7 @@ Kill %num2% giants.,Убейте %num2% великанов.
 Kill %num2% grawl.,Убейте %num2% гроулов.
 Kill %num2% great jungle wurm egg[s] before the larvae hatch.,"Убейте %num2% яиц большого джунглевого вурма, пока личинки не вылупились."
 Kill %num2% griffons.,Убейте %num2% грифонов.
-Kill %num2% hallucinations triggered by toxic pollen.,
+Kill %num2% hallucinations triggered by toxic pollen.,"Убейте %num2% галлюцинаци[ю|и|й], вызванных ядовитой пыльцой."
 Kill %num2% harpies.,Убейте %num2% гарпий.
 Kill %num2% hostile animals in the Drizzlewood Coast.,Убейте %num2% враждебных животных на Моросистом побережье.
 Kill %num2% hostile hylek.,Убейте %num2% враждебных хилеков.
@@ -245,11 +245,11 @@ Kill %num2% members of the Sons of Svanir.,Убейте %num2% членов Сы
 Kill %num2% members of the Toxic Alliance.,Убейте %num2% членов Ядовитого Альянса.
 Kill %num2% minotaurs.,Убейте %num2% минотавров.
 Kill %num2% of Palawa Joko's minions.,Убейте %num2% приспешников Палавы Джоко.
-Kill %num2% of Scarlet's Aetherblade minions.,
-Kill %num2% of Scarlet's Molten Alliance minions.,
-Kill %num2% of Scarlet's twisted watchwork minions.,
+Kill %num2% of Scarlet's Aetherblade minions.,Убейте %num2% приспешник[а|ов|ов] Скарлет из эфирных клинков.
+Kill %num2% of Scarlet's Molten Alliance minions.,Убейте %num2% приспешник[а|ов|ов] Скарлет из Расплавленного альянса.
+Kill %num2% of Scarlet's twisted watchwork minions.,Убейте %num2% искажённ[ого|ых|ых] приспешник[а|ов|ов] Скарлет из часовых механизмов.
 Kill %num2% of the Lunatic Court rebels.,Убейте %num2% мятежников Безумного двора.
-Kill %num2% of the Mad King's minions.,
+Kill %num2% of the Mad King's minions.,Убейте %num2% приспешник[а|ов|ов] Безумного Короля.
 Kill %num2% ogre[s] in the Crown Pavilion.,Убейте %num2% [огр|огра|огров] в Павильоне Короны.
 Kill %num2% ogres.,Убейте %num2% огров.
 Kill %num2% oozes.,Убейте %num2% слизней.
@@ -258,16 +258,16 @@ Kill %num2% pirates.,Убейте %num2% пиратов.
 Kill %num2% plants.,Убейте %num2% растений.
 Kill %num2% player[s] in PvP.,Убейте %num2% игрок[а|а|ов] в PvP.
 Kill %num2% player[s].,Убейте %num2% игрок[а|а|ов].
-Kill %num2% players in WvW.,
+Kill %num2% players in WvW.,Убейте %num2% игрок[а|ов|ов] в WvW.
 Kill %num2% raid bosses. Killing bosses with challenge mode on and killing more difficult bosses progresses this faster.,Убейте %num2% рейдовых боссов. Убийства боссов в режиме испытания и более сложных боссов ускоряют прогресс.
 Kill %num2% raptors.,Убейте %num2% рапторов.
 Kill %num2% skale.,Убейте %num2% скейлов.
 Kill %num2% skelk.,Убейте %num2% скелков.
 Kill %num2% skritt.,Убейте %num2% скриттов.
 Kill %num2% spiders.,Убейте %num2% пауков.
-Kill %num2% spore-corrupted creatures.,
+Kill %num2% spore-corrupted creatures.,"Убейте %num2% существ[о|а|], заражённых спорами."
 Kill %num2% trolls.,Убейте %num2% троллей.
-Kill %num2% veteran foes.,
+Kill %num2% veteran foes.,Убейте %num2% враг[а|ов|ов] ранга ветерана.
 Kill %num2% wind riders.,Убейте %num2% ветряных наездников.
 Kill %num2% wurms.,Убейте %num2% вурмов.
 Kill %num2% Flame Legionnaire[s] in the Crown Pavilion.,Убейте %num2% Пламенный легионер[|а|ов] на площади Короны.
