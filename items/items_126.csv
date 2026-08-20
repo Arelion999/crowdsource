@@ -19,11 +19,11 @@ english,translate
 "<c=@flavor>""While some may pray to Balthazar,' this reminds me that a soldier''s peace is inevitable.""
 —Sergeant Yarbrough</c>'","<c=@flavor>«Пока некоторые молятся Бальтазару, это напоминает мне, что покой солдата неизбежен».
 —Сержант Ярбро</c>"
-"<c=@flavor>""Who's a good little journeykit?""</c>","<c=@flavor>""Кто тут хороший маленький путешественник?""</c>"
+"<c=@flavor>""Who's a good little journeykit?""</c>",<c=@flavor>«Кто тут хороший маленький путешественник?»</c>
 "<c=@flavor>""Why did they come here? What were these used for? If only I could find the answers."",<c=@flavor>""""Зачем они пришли? Для чего это использовалось? Если бы я только мог найти ответы.""""","<c=@flavor>""Зачем они пришли? Для чего это использовалось? Если бы я только мог найти ответы."",<c=@flavor>""""Зачем они пришли? Для чего это использовалось? Если бы я только мог найти ответы."""""
 "<c=@flavor>""With a hero like you around, the Flame Legion doesn't stand a chance.""
 —Corva Sharpclaw</c>","<c=@flavor>«С таким героем, как ты, рядом у Легиона Пламени нет шансов».
--Корва Остроког</c>"
+—Корва Остроког</c>"
 "<c=@flavor>""Wolf watches over you."",<c=@flavor>""""Волк присматривает за тобой.""""",<c=@flavor>«Волк присматривает за тобой».<c=@flavor>«Волк присматривает за тобой»
 "<c=@flavor>""Yes yes, it was a tragedy. But also an opportunity! Those dam pieces are historical artifacts!""
 —Cin</c>","<c=@flavor>«Да, да, это была трагедия. Но и возможность тоже! Эти куски дамбы — исторические артефакты!»
@@ -52,8 +52,8 @@ english,translate
 "<c=@flavor>A token of my eternal love.,<c=@flavor>Знак моей вечной любви.","<c=@flavor>Знак моей вечной любви.,<c=@flavor>Знак моей вечной любви."
 <c=@flavor>Amira asked you to be careful with these.</c>,<c=@flavor>Амира просила вас быть осторожными с ними.</c>
 "<c=@flavor>An attached note reads, ""Until the last enemy of Kryta falls
-Double-click to open.","<c=@flavor>Прилагаемая записка гласит: ""Пока не падет последний враг Крайта
-Дважды щёлкните, чтобы открыть."""
+Double-click to open.","<c=@flavor>Прилагаемая записка гласит: «Пока не падет последний враг Крайта
+Дважды щёлкните, чтобы открыть.»"
 "<c=@flavor>And just like that,' he''s gone. A bag of his old belongings is all that''s left.</c>'","<c=@flavor>И вот так,' он ушёл. Мешок с его старыми вещами — все, что осталось.</c>'"
 <c=@flavor>Be sure to pet the jade behemoth. Who's a good jade behemoth?</c>,<c=@flavor>Обязательно погладьте нефритового бегемота. Кто у нас хороший нефритовый бегемот?</c>
 "<c=@flavor>Dear brothers, when will we sing again? I'm beginning to forget our song.</c>","<c=@flavor>Братья мои, когда мы снова запоём? Я начинаю забывать нашу песню.</c>"
@@ -281,7 +281,7 @@ Combine this weapon in the Mystic Forge with:,Соедините это оруж
 "<c=@flavor>Use for details. You will be able to confirm/cancel.</c>""","<c=@flavor>Используйте для подробностей. Вы сможете подтвердить/отменить.</c>"""
 <c=@flavor>Using your warclaw can help you escape Ignaxious or break Knaebelag's defiance.</c>,<c=@flavor>Использование боевого когтя поможет вам сбежать от Игнаксиуса или сломить упрямство Кнабелага.</c>
 <c=@flavor>WARNING: Flammable,<c=@flavor>ВНИМАНИЕ: Легковоспламеняющееся
-"<c=@flavor>WARNING: Flammable,","<c=@flavor>ПРЕДУПРЕЖДЕНИЕ: Легковоспламеняющийся,"
+"<c=@flavor>WARNING: Flammable,",<c=@flavor>ПРЕДУПРЕЖДЕНИЕ: Легковоспламеняющийся
 <c=@flavor>Warclaws are bound by potent souls. What if they originated from these creatures?</c>,"<c=@flavor>Боевые когти связаны мощными душами. Что, если они произошли от этих существ?</c>"
 <c=@flavor>Who would have thought education could be so thrilling?</c>,"<c=@flavor>Кто бы мог подумать, что обучение может быть таким захватывающим?</c>"
 "<c=@flavor>With this relic and through our rites, you shall become eternal—an anchor for the people in times of war and peace.</c>",<c=@flavor>С этим реликтом и через наши обряды ты станешь вечным — якорем для народа во времена войны и мира.</c>
@@ -294,7 +294,7 @@ Combine this weapon in the Mystic Forge with:,Соедините это оруж
 "<c=@reminder>The Knife Tail Gang have broken into the Trading Company vaults, and Evon's furious!</c=@reminder>","<c=@reminder>Банда Ножехвостов вломилась в хранилища Торговой компании, и Эвон в ярости!</c=@reminder>"
 <c=@reminder>This item is used in collections for the legendary accessory Vision.,<c=@reminder>Этот предмет используется в коллекциях для легендарного аксессуара «Видение».
 <c=@reminder>This mount skin can be found very rarely when completing group events and the meta-event finale in the Eternity's Garden map in Castora.</c>,<c=@reminder>Этот облик скакуна можно найти очень редко при завершении групповых событий и финала метасобытия на карте Сад Вечности в Касторе.</c>
-A Gift of Relics is made by combining these items in the Mystic Forge:,«Дар реликвий» создаётся путём объединения этих предметов в Таинственной кузнице:
+A Gift of Relics is made by combining these items in the Mystic Forge:,«Дар реликвий» создаётся путём объединения этих предметов в Мистической кузнице:
 "A Mystic Facet is made by combining these items in the Mystic Forge:
 • 1 Relic
 • 250 Piles of Lucent Crystal 
@@ -349,7 +349,8 @@ A gift bag!","Фрагмент Аурин, настроенный на воду 
 Подарочный пакет!"
 A gift from Kosmas to his broodling. Where did he find this?,Подарок от Космаса его отпрыску. Где он такое нашёл?
 "A gift from Kosmas to his broodling. Where did he find this?,
-This item only has value as part of the Missing Brood collection.",Этот предмет имеет ценность только как часть коллекции «Пропавший выводок».
+This item only has value as part of the Missing Brood collection.","Дар от Космаса его выводку. Где он его нашёл?,
+Этот предмет имеет ценность только как часть коллекции «Пропавший выводок»."
 A gift of color used to create The Bifrost.,"Дар цвета, используемый для создания «The Bifrost»."
 A gift of darkness used to create Twilight.,"Дар тьмы, используемый для создания «Twilight»."
 A gift of energy used to create generation one and two legendary weapons and the legendary trinkets Vision and Aurora.,"Дар энергии, используемый для создания легендарного оружия первого и второго поколений, а также легендарных украшений «Vision» и «Aurora»."
@@ -400,7 +401,7 @@ Made by combining these items in the Mystic Forge:,
 • 250 Armored Scales,• 250 бронированных чешуй
 • 250 Vicious Claws,
 • 250 Ancient Bones","Подарок, используемый для создания легендарного оружия.,'Подарок, используемый для создания легендарного оружия.'
-Создается путем объединения этих предметов в Таинственной кузнице:,
+Создается путем объединения этих предметов в Мистической кузнице:,
 • 250 Злобных клыков,
 • 250 Бронированных чешуй,• 250 бронированных чешуй
 • 250 Злобных когтей,
@@ -421,7 +422,7 @@ Made by combining these items in the Mystic Forge:,
 • 1 Дар энергии,
 • 1 Дар музыки,
 • 100 Ледяных рунных камней,
-• 1 Великий знак энергии"
+• 1 высший сигил энергии"
 A gift used to create the legendary greatsword Sunrise.,"Дар, используемый для создания легендарного двуручного меча «Sunrise»."
 A gift used to create the legendary greatsword Twilight.,"Дар, используемый для создания легендарного двуручного меча «Twilight»."
 A gift used to create the legendary hammer The Juggernaut.,"Дар, используемый для создания легендарного молота «The Juggernaut»."
@@ -437,7 +438,7 @@ Made by combining these items in the Mystic Forge:,
 • 1 Дар дерева,
 • 1 Дар природы,
 • 100 Ледяных рунических камней,
-• 1 Высший знак скорости"
+• 1 высший сигил скорости"
 A gift used to create the legendary mace The Moot.,"Дар, используемый для создания легендарной булавы «The Moot»."
 A gift used to create the legendary pistol Quip.,"Дар, используемый для создания легендарного пистолета «Quip»."
 A gift used to create the legendary rifle The Predator.,"Дар, используемый для создания легендарного ружья «The Predator»."
@@ -452,11 +453,11 @@ Made by combining these items in the Mystic Forge:,
 • 1 Gift of Color,• 1 Дар цвета
 • 100 Icy Runestones,
 • 1 Superior Sigil of Nullification","Дар, используемый для создания легендарного посоха «Бифрост».,
-Создаётся путём объединения этих предметов в Мистической кузне:,
+Создаётся путём объединения этих предметов в Мистической кузнице:,
 • 1 Дар энергии,
 • 1 Дар цвета,• 1 Дар цвета,
 • 100 Ледяных рунных камней,
-• 1 Высший знак обнуления"
+• 1 высший сигил обнуления"
 A gift used to create the legendary sword Bolt.,"Дар, используемый для создания легендарного меча «Bolt»."
 A gift used to create the legendary torch Rodgort.,"Дар, используемый для создания легендарного факела «Rodgort»."
 A gift used to create the legendary trident Kraitkin.,"Дар, используемый для создания легендарного трезубца «Kraitkin»."
@@ -512,7 +513,8 @@ Use 12 petals to crystalize a Teal Bloom.,
 "A sugary root grown in the choya village.""","Сладкий корень, выращенный в деревне чойя."""
 "A tarnished silver locket containing an exquisite miniature family portrait. At least, it was exquisite before it was defaced.","Потускневший серебряный медальон с изысканным миниатюрным семейным портретом. По крайней мере, он был изысканным, пока его не испортили."
 "A treat that combines the flavors of common crustaceans and three types of fish. Double-click to feed this to your skimmer.,'«Угощение, сочетающее вкусы обычных ракообразных и трёх видов рыбы». Дважды щёлкните, чтобы скормить его скату.'
-Gives bonus Mastery experience once per day.","Даёт дополнительный опыт мастерства один раз в день."""
+Gives bonus Mastery experience once per day.","Угощение, сочетающее вкусы обычных ракообразных и трёх видов рыбы. Дважды щёлкните, чтобы скормить его скиммеру.,
+Даёт дополнительный опыт мастерства один раз в день."
 A unicorn statue used to create The Dreamer.,"Статуя единорога, используемая для создания «Мечтателя»."
 A vial of liquid flame used to create Incinerator and Rodgort.,"Флакон жидкого пламени, используемый для создания «Инсинератора» и «Родгорта»."
 A vial of pure quicksilver used to create The Juggernaut.,"Флакон чистой ртути, используемый для создания «Джаггернаута»."
@@ -667,7 +669,7 @@ Can be exchanged for raid currency at specific vendors.,Можно обменя�
 "Can be found at the same location as elegy mosaics.""","Можно найти там же, где и мозаики элегии."""
 Can be traded with Mordrem researchers across Tyria for valuable items.,Можно обменять у исследователей Мордрем по всей Тирии на ценные предметы.
 "Can be used in the Mystic Forge in place of Twilight to add the greatsword Eternity to your Legendary Armory.,
-<c=@warning>If you have two instances of Eternity unlocked in the armory, please contact Customer Support.</c>","Может быть использован в Таинственной кузнице вместо Сумерек, чтобы добавить большой меч Вечность в вашу Легендарную оружейную.,
+<c=@warning>If you have two instances of Eternity unlocked in the armory, please contact Customer Support.</c>","Может быть использован в Мистической кузнице вместо Сумерек, чтобы добавить большой меч Вечность в вашу Легендарную оружейную.,
 <c=@warning>Если у вас есть два экземпляра Вечности, открытых в оружейной, обратитесь в службу поддержки клиентов.</c>"
 "Can contain ancient or elder wood logs.,
 Purchase from renown region karma merchants across the Crystal Desert with trade contracts.,Покупайте у торговцев кармы в регионах известности по всей Пустыне Хрусталя за торговые контракты.
@@ -751,7 +753,7 @@ Gain snowflakes when gathering.","Можно добывать Древнее, С
 Gain snowflakes when gathering.","Позволяет добывать орихалк и мифрил
 При сборе даёт снежинки."
 Cannot be used in combat.,Нельзя использовать в бою.
-Cannot be used in the Mystic Forge if transmuted.,"Нельзя использовать в Мистической кузне, если предмет трансмутирован."
+Cannot be used in the Mystic Forge if transmuted.,"Нельзя использовать в Мистической кузнице, если предмет трансмутирован."
 "Carrying this item increases the chance of Bandit Executioners attacking during a bounty hunt.""",Ношение этого предмета увеличивает шанс нападения Бандитов-Палачей во время охоты за головами.
 "Celestial""","Небесный"""
 "Cethis,
@@ -774,7 +776,7 @@ This item is acquired from the Klobjarne Geirr: Raid or Convergence Victories ac
 Этот предмет получен за достижение «Клобьярне Гейрр: Победы в рейдах или конвергенциях»."
 "Combine 250 Refined Metal, 250 Refined Wood
 This item is purchased from Deft Lahar in your homestead.","Соедините 250 единиц очищенного металла и 250 единиц очищенной древесины.
-Этот предмет можно приобрести у Дефта Лахара в вашем поместье."
+Этот предмет можно приобрести у Дефта Лахара в вашем усадьбе."
 "Combine a Gift of Adventure, a Gift of the Seas
 Purchased from Visions of Eternity map vendors in exchange for:,
 • 2 Vision Crystals,
@@ -817,7 +819,7 @@ Created in the Mystic Forge by combining:,
 • 100 Neutralized Titan Alloys,
 • 100 Shards of Lowland Shore,
 • 100 Shards of Janthir Syntri","Соедините «Дар собирателя охоты», «Дар непокрытых земель».
-Создаётся в Таинственной кузнице путём объединения:
+Создаётся в Мистической кузнице путём объединения:
 • 100 сладких обработанных сосновых досок,
 • 100 нейтрализованных сплавов титана,
 • 100 осколков низинного берега,
@@ -839,7 +841,7 @@ Created in the Mystic Forge by combining:,
 • 1 Gift of Condensed Might,
 • 1 Gift of Condensed Magic,
 • 38 Mystic Clovers","Соедините Дар диких земель Джантира, Дар поселенца
-Создается в Таинственной кузнице путем объединения:,
+Создается в Мистической кузнице путем объединения:,
 • 1 Дар объятий убежища,
 • 1 Дар сгущенной мощи,
 • 1 Дар сгущенной магии,
@@ -850,7 +852,7 @@ Created in the Mystic Forge by combining:,
 • 1 Gift of Uncovered Grounds,• 1 [Дар|Дара|Даров] непокрытых земель
 • 1 Gift of Expertise,
 • 1 Bloodstone Shard","Объедините Дар Диких земель Янтира, Дар домовладельца
-Создаётся в Таинственной кузнице путём объединения:,
+Создаётся в Мистической кузнице путём объединения:,
 • 1 Дар охотника за добычей,
 • 1 Дар непокрытых земель,
 • 1 Дар мастерства,
@@ -864,7 +866,7 @@ Created in the Mystic Forge by combining:,
 • 1 Gift of Bones ,
 '• 1 Memory of Bearkin''s Hunts',
 '• 1 Memory of Bearkin''s Victories'","Объедините Дар Воспоминателя Воспоминаний, 100 мистических рун
-Создаётся в Таинственной кузнице путём объединения:,
+Создаётся в Мистической кузнице путём объединения:,
 • 25 Сказаний о приключениях ,• 25 рассказов о приключениях
 • 1 Дар костей ,
 '• 1 Воспоминание об охотах Медвежьего рода',
@@ -874,13 +876,23 @@ Created in the Mystic Forge by combining:,
 • 200 Meaty Asparagus Skewers,
 • 100 Bowls of Black Pepper Cactus Salad,
 • 30 Mystic Clovers,
-• 5 Fruits of the Shadow","• 5 плодов тени"""
+• 5 Fruits of the Shadow","Соедините Дар закуски и Дар основного блюда
+Создаётся в Мистической кузнице объединением:,
+• 200 мясных шашлычков со спаржей,
+• 100 мисок салата из кактуса с чёрным перцем,
+• 30 мистических клеверов,
+• 5 плодов тени"
 "Combine a Gift of the Appetizer, a Gift of the Entrée
 Created in the Mystic Forge by combining:,
 • 200 Plates of Orrian Steak Frittes,
 • 100 Plates of Truffle Steak,
 • 50 Plates of Spicy Herbed Chicken,
-• 5 Fruits of the Shadow","• 5 плодов тени"""
+• 5 Fruits of the Shadow","Соедините Дар закуски и Дар основного блюда
+Создаётся в Мистической кузнице объединением:,
+• 200 тарелок оррианского стейка с картофелем фри,
+• 100 тарелок стейка с трюфелями,
+• 50 тарелок пряной курицы с травами,
+• 5 плодов тени"
 "Combine a Gift of the Beach, a Gift of the Sun
 Created by combining the following in the Mystic Forge:,
 • 250 Piles of Coarse Sand,
@@ -899,7 +911,7 @@ Created in the Mystic Forge by combining:,
 • 1 Gift of Scales,
 • 1 Gift of Titan Understanding,
 • 1 Bloodstone Shard","Объедините Дар Туманоожжённых Островов, Дар Теней
-Создаётся в Таинственной Кузнице путём объединения:,
+Создаётся в Мистической кузнице путём объединения:,
 • 1 Дар Тьмы,
 • 1 Дар Чешуи,
 • 1 Дар Понимания Титанов,
@@ -910,7 +922,7 @@ Created in the Mystic Forge by combining:,
 • 1 Gift of the Entrée,
 • 1 Gift of the Side Course,
 • 1 Gift of the Dessert","Объедините Дар Туманоожжённых островов, Дар Теней
-Создаётся в Таинственной кузнице путём объединения:,
+Создаётся в Мистической кузнице путём объединения:,
 • 1 Дар закуски,• 1 Дар закуски
 • 1 Дар основного блюда,
 • 1 Дар гарнира,
@@ -921,7 +933,7 @@ Created in the Mystic Forge by combining:,
 • 1 Gift of Janthir Syntri,
 • 1 Gift of Mistburned Barrens,
 • 1 Gift of Bava Nisos","Объедините дар руин Мурсаата, дар странствий Джантира
-Создаётся в Таинственной кузнице путём объединения:,
+Создаётся в Мистической кузнице путём объединения:,
 • 1 дара Низменного берега,
 • 1 дара Джантир-Синтри,
 • 1 дара Туманных пустошей,
@@ -932,7 +944,7 @@ Created in the Mystic Forge by combining:,
 • 50 Mists Gate Residues,
 • 100 Shards of Mistburned Barrens,
 • 100 Shards of Bava Nisos","Объедините Дар руин Мурсаата, Дар странствий Джантира
-Создаётся в Таинственной кузнице путём объединения:
+Создаётся в Мистической кузнице путём объединения:
 • 100 флаконов титанового расплавленного жидкого обсидиана
 • 50 Остатков врат Туманов
 • 100 Осколков выжженных туманом пустошей
@@ -954,7 +966,7 @@ Created by combining the following in the Mystic Forge:,
 • 2 Gifts of Condensed Magic,
 • 2 Gifts of Condensed Might,
 • 250 Sun Beads","Объедините Дар Солнца и Дар Пляжа
-Создаётся путём объединения следующего в Таинственной кузнице:,
+Создаётся путём объединения следующего в Мистической кузнице:,
 • 2 Дара Света,
 • 2 Дара сгущённой магии,
 • 2 Дара сгущённой мощи,
@@ -998,27 +1010,27 @@ Created in the Mystic Forge by combining:,
 • 6 Deldrimor Steel Spear Heads,• 6 дельдриморских стальных наконечников копий
 • 6 Large Spiritwood Hafts,
 • 6 Vision Crystals,
-'• 1 Memory of Bearkin''s Adversaries'","Соедините в Мистической кузне Дар заостренного наконечника и Дар металла
+'• 1 Memory of Bearkin''s Adversaries'","Соедините в Мистической кузнице Дар заостренного наконечника и Дар металла
 Остатки можно купить у торговцев у сердец известности, если вы потеряли предметы.,
-Создано в Мистической кузне путем объединения:,
+Создано в Мистической кузнице путем объединения:,
 • 6 дельдриморских стальных наконечников копий,• 6 дельдриморских стальных наконечников копий
 • 6 больших топорищ из духовной древесины,
 • 6 кристаллов видения,
 '• 1 Воспоминание о врагах Медвежьего рода'"
 "Combine in the Mystic Forge with Meaty Plant Food, Bloodstone Dust
-<c=@flavor>A crackling pile of elementally charged essence.</c>","Совместите в Таинственной кузнице с Мясистой растительной пищей, Пылью кровавого камня
+<c=@flavor>A crackling pile of elementally charged essence.</c>","Совместите в Мистической кузнице с Мясистой растительной пищей, Пылью кровавого камня
 <c=@flavor>Потрескивающая куча заряженной элементальным зарядом сущности.</c>"""
 "Combine in the Mystic Forge with Meaty Plant Food, Bloodstone Dust
 <c=@flavor>This cool, clear mineral water from a sacred glacier could purify and nourish a magically growing plant.<c>","Соедините в Мистической кузнице с Мясной растительной пищей, Кровавой каменной пылью
 <c=@flavor>Эта прохладная, прозрачная минеральная вода из священного ледника может очистить и напитать магически растущее растение.<c>"
 "Combine in the Mystic Forge with Meaty Plant Food, Bloodstone Dust
-<c=@flavor>This dust crackles and pops with magical energy.</c>","Совместите в Таинственной кузнице с Мясистой растительной пищей, Пылью кровавого камня
+<c=@flavor>This dust crackles and pops with magical energy.</c>","Совместите в Мистической кузнице с Мясистой растительной пищей, Пылью кровавого камня
 <c=@flavor>Эта пыль потрескивает и искрится магической энергией.</c>"
 "Combine in the Mystic Forge with Piquant Plant Food, Bloodstone Dust
-<c=@flavor>A sticky pile of residue left behind by a powerful spirit.<c>","Объедините в Таинственной кузнице с пряным растительным кормом, пылью кровавого камня
+<c=@flavor>A sticky pile of residue left behind by a powerful spirit.<c>","Объедините в Мистической кузнице с пряным растительным кормом, пылью кровавого камня
 <c=@flavor>Липкая куча остатков, оставленная могущественным духом.<c>"
 "Combine in the Mystic Forge with Piquant Plant Food, Bloodstone Dust
-<c=@flavor>The Font of Rhand is known to be a very magical place.</c>","Соедините в Таинственной кузнице с Пикантной растительной пищей, Пылью кровавого камня
+<c=@flavor>The Font of Rhand is known to be a very magical place.</c>","Соедините в Мистической кузнице с Пикантной растительной пищей, Пылью кровавого камня
 <c=@flavor>Известно, что Источник Ранда — очень магическое место.</c>"
 "Combine in the Mystic Forge with Piquant Plant Food, Bloodstone Dust
 <c=@flavor>The waters of the Maguuma Jungle are famous for having inherent healing powers.</c>","Скомбинируйте в Таинственной кузне с Острой растительной пищей, Пылью кровавого камня
@@ -1027,7 +1039,7 @@ Created in the Mystic Forge by combining:,
 '<c=@flavor>It''s very difficult to focus your eyes on this stone. The space around it is rich with magical energy.<c>'","Соедините в Мистической кузнице с глиняным горшком, пылью кровавого камня
 '<c=@flavor>Очень трудно сфокусировать взгляд на этом камне. Пространство вокруг него насыщено магической энергией.<c>'"
 "Combine in the Mystic Forge with a Clay Pot, Bloodstone Dust
-'<c=@flavor>This orb is clearly very powerful. It buzzes and warbles as if it can''t contain its mirth.</c>'","Объедините в Таинственной кузнице с глиняным горшком, пылью кровавого камня
+'<c=@flavor>This orb is clearly very powerful. It buzzes and warbles as if it can''t contain its mirth.</c>'","Объедините в Мистической кузнице с глиняным горшком, пылью кровавого камня
 «<c=@flavor>Этот шар явно очень могущественен. Он гудит и трепещет, словно не может сдержать своего веселья.</c>»"
 "Combine in the Mystic Forge with a Clay Pot, Bloodstone Dust
 <c=@flavor>A stone taken from the Mists, steeped in its power.</c>","Скомбинируйте в Мистической кузнице с глиняным горшком, пылью кровавого камня
@@ -1036,20 +1048,20 @@ Created in the Mystic Forge by combining:,
 <c=@flavor>A large and potent cluster of Foxfire.</c>","Скомбинируйте в Мистической кузнице с лампой роста, кирпичами из кровавого камня
 <c=@flavor>Большой и мощный кластер лисьего огня.</c>"
 "Combine in the Mystic Forge with a Grow Lamp, Bloodstone Bricks
-<c=@flavor>Every crack in its container glows from the light within.</c>","Объедините в Таинственной кузнице с лампой для роста, кровавыми каменными кирпичами
+<c=@flavor>Every crack in its container glows from the light within.</c>","Объедините в Мистической кузнице с лампой для роста, кровавыми каменными кирпичами
 <c=@flavor>Каждая трещина в его контейнере светится изнутри.</c>"
 "Combine in the Mystic Forge with a Heat Stone, Bloodstone Bricks
-<c=@flavor>A steaming hot stone from the core of a powerful Destroyer.</c>","Объедините в Таинственной кузнице с Камнем жара, Кирпичами из кровавого камня
+<c=@flavor>A steaming hot stone from the core of a powerful Destroyer.</c>","Объедините в Мистической кузнице с Камнем жара, Кирпичами из кровавого камня
 <c=@flavor>Парящий горячий камень из ядра могущественного Разрушителя.</c>"
 "Combine in the Mystic Forge with a Hero Weapon, Grandmaster Mark Shards
-Combine in the Mystic Forge with 3 Salvaged Dredge Backpacks to create a Salvaged Dredge Inferno Backpack.","Объедините в Таинственной кузнице с героическим оружием и осколками знака грандмастера.
-Объедините в Таинственной кузнице с 3 восстановленными рюкзаками дредноутов, чтобы создать восстановленный адский рюкзак дредноутов."
+Combine in the Mystic Forge with 3 Salvaged Dredge Backpacks to create a Salvaged Dredge Inferno Backpack.","Объедините в Мистической кузнице с героическим оружием и осколками знака грандмастера.
+Объедините в Мистической кузнице с 3 восстановленными рюкзаками дредноутов, чтобы создать восстановленный адский рюкзак дредноутов."
 "Combine in the Mystic Forge with a Vial of Liquid Shadowstone, a Gift of Galdra
 'Purchased from the renown heart vendor in Artificer''s Islet in Eternity''s Garden in exchange for:',Куплено у торговца за сердечную признательность на Островке ремесленника в Саду вечности в обмен на:
 • 1 Shadowstone Orb,
 • 1 Shadowstone Containment Frame,
 • 1 Gift of Restoration,
-• 200 Seer Runestones","Соедините в Таинственной кузнице с Флаконом жидкого теневого камня, Даром Галдры
+• 200 Seer Runestones","Соедините в Мистической кузнице с Флаконом жидкого теневого камня, Даром Галдры
 'Куплено у торговца за сердечную признательность на Островке ремесленника в Саду вечности в обмен на:',
 • 1 Сфера теневого камня,
 • 1 Каркас для удержания теневого камня,
@@ -1060,11 +1072,16 @@ Combine in the Mystic Forge with 3 Salvaged Dredge Backpacks to create a Salvage
 • 1 Gift of Research,
 • 1 Preserved Eidolon Hide,
 '• 1 Gift of Eternity''s Garden Exploration',
-• 1 Gift of Regrowth","• 1 Дар возрождения"""
+• 1 Gift of Regrowth","Соедините в Мистической кузнице с флаконом жидкого теневого камня и Даром теневых камней
+Покупается у торговца сердца известности в Приюте Пилигрима в Саду Вечности в обмен на:,
+• 1 Дар исследования,
+• 1 сохранённая шкура эйдолона,
+• 1 Дар исследования Сада Вечности,
+• 1 Дар возрождения"
 "Combine this item in the Mystic Forge with:
 • 1 Gift of Galdra
 • 1 Gift of Shadowstones
-• 1 Mystic Tribute</c>","Соедините этот предмет в Мистической кузне с:
+• 1 Mystic Tribute</c>","Соедините этот предмет в Мистической кузнице с:
 • 1 Gift of Galdra
 • 1 Gift of Shadowstones
 • 1 Mystic Tribute</c>"
@@ -1072,147 +1089,147 @@ Combine this weapon in the Mystic Forge with:,Соедините это оруж
 "Combine this weapon in the Mystic Forge with:
 • 1 Gift of Bolt
 • 1 Gift of Mastery
-• 1 Gift of Fortune</c>","Соедините это оружие в Мистической кузне с:
+• 1 Gift of Fortune</c>","Соедините это оружие в Мистической кузнице с:
 • 1 Gift of Bolt
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>"
 "Combine this weapon in the Mystic Forge with:
 • 1 Gift of Frenzy
 • 1 Gift of Mastery
-• 1 Gift of Fortune</c>","Соедините это оружие в Мистической кузне с:
+• 1 Gift of Fortune</c>","Соедините это оружие в Мистической кузнице с:
 • 1 Gift of Frenzy
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>"
 "Combine this weapon in the Mystic Forge with:
 • 1 Gift of Frostfang
 • 1 Gift of Mastery
-• 1 Gift of Fortune</c>","Соедините это оружие в Мистической кузне с:
+• 1 Gift of Fortune</c>","Соедините это оружие в Мистической кузнице с:
 • 1 Gift of Frostfang
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>"
 "Combine this weapon in the Mystic Forge with:
 • 1 Gift of Howler
 • 1 Gift of Mastery
-• 1 Gift of Fortune</c>","Соедините это оружие в Мистической кузне с:
+• 1 Gift of Fortune</c>","Соедините это оружие в Мистической кузнице с:
 • 1 Gift of Howler
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>"
 "Combine this weapon in the Mystic Forge with:
 • 1 Gift of Incinerator
 • 1 Gift of Mastery
-• 1 Gift of Fortune</c>","Соедините это оружие в Мистической кузне с:
+• 1 Gift of Fortune</c>","Соедините это оружие в Мистической кузнице с:
 • 1 Gift of Incinerator
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>"
 "Combine this weapon in the Mystic Forge with:
 • 1 Gift of Janthir Wilds
 • 1 Gift of the Homesteader
-• 1 Gift of Klobjarne Geirr</c>","Соедините это оружие в Мистической кузне с:
+• 1 Gift of Klobjarne Geirr</c>","Соедините это оружие в Мистической кузнице с:
 • 1 Gift of Janthir Wilds
 • 1 Gift of the Homesteader
 • 1 Gift of Klobjarne Geirr</c>"
 "Combine this weapon in the Mystic Forge with:
 • 1 Gift of Kamohoali'i Kotaki
 • 1 Gift of Mastery
-• 1 Gift of Fortune</c>","Соедините это оружие в Мистической кузне с:
+• 1 Gift of Fortune</c>","Соедините это оружие в Мистической кузнице с:
 • 1 Gift of Kamohoali'i Kotaki
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>"
 "Combine this weapon in the Mystic Forge with:
 • 1 Gift of Kraitkin
 • 1 Gift of Mastery
-• 1 Gift of Fortune</c>","Соедините это оружие в Мистической кузне с:
+• 1 Gift of Fortune</c>","Соедините это оружие в Мистической кузнице с:
 • 1 Gift of Kraitkin
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>"
 "Combine this weapon in the Mystic Forge with:
 • 1 Gift of Kudzu
 • 1 Gift of Mastery
-• 1 Gift of Fortune</c>","Соедините это оружие в Мистической кузне с:
+• 1 Gift of Fortune</c>","Соедините это оружие в Мистической кузнице с:
 • 1 Gift of Kudzu
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>"
 "Combine this weapon in the Mystic Forge with:
 • 1 Gift of Meteorlogicus
 • 1 Gift of Mastery
-• 1 Gift of Fortune</c>","Соедините это оружие в Мистической кузне с:
+• 1 Gift of Fortune</c>","Соедините это оружие в Мистической кузнице с:
 • 1 Gift of Meteorlogicus
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>"
 "Combine this weapon in the Mystic Forge with:
 • 1 Gift of Quip
 • 1 Gift of Mastery
-• 1 Gift of Fortune</c>","Соедините это оружие в Мистической кузне с:
+• 1 Gift of Fortune</c>","Соедините это оружие в Мистической кузнице с:
 • 1 Gift of Quip
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>"
 "Combine this weapon in the Mystic Forge with:
 • 1 Gift of Rodgort
 • 1 Gift of Mastery
-• 1 Gift of Fortune</c>","Соедините это оружие в Мистической кузне с:
+• 1 Gift of Fortune</c>","Соедините это оружие в Мистической кузнице с:
 • 1 Gift of Rodgort
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>"
 "Combine this weapon in the Mystic Forge with:
 • 1 Gift of Sunrise
 • 1 Gift of Mastery
-• 1 Gift of Fortune</c>","Соедините это оружие в Мистической кузне с:
+• 1 Gift of Fortune</c>","Соедините это оружие в Мистической кузнице с:
 • 1 Gift of Sunrise
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>"
 "Combine this weapon in the Mystic Forge with:
 • 1 Gift of The Bifrost
 • 1 Gift of Mastery
-• 1 Gift of Fortune</c>","Соедините это оружие в Мистической кузне с:
+• 1 Gift of Fortune</c>","Соедините это оружие в Мистической кузнице с:
 • 1 Gift of The Bifrost
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>"
 "Combine this weapon in the Mystic Forge with:
 • 1 Gift of The Dreamer
 • 1 Gift of Mastery
-• 1 Gift of Fortune</c>","Соедините это оружие в Мистической кузне с:
+• 1 Gift of Fortune</c>","Соедините это оружие в Мистической кузнице с:
 • 1 Gift of The Dreamer
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>"
 "Combine this weapon in the Mystic Forge with:
 • 1 Gift of The Flameseeker Prophecies
 • 1 Gift of Mastery
-• 1 Gift of Fortune</c>","Соедините это оружие в Мистической кузне с:
+• 1 Gift of Fortune</c>","Соедините это оружие в Мистической кузнице с:
 • 1 Gift of The Flameseeker Prophecies
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>"
 "Combine this weapon in the Mystic Forge with:
 • 1 Gift of The Juggernaut
 • 1 Gift of Mastery
-• 1 Gift of Fortune</c>","Соедините это оружие в Мистической кузне с:
+• 1 Gift of Fortune</c>","Соедините это оружие в Мистической кузнице с:
 • 1 Gift of The Juggernaut
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>"
 "Combine this weapon in the Mystic Forge with:
 • 1 Gift of The Minstrel
 • 1 Gift of Mastery
-• 1 Gift of Fortune</c>","Соедините это оружие в Мистической кузне с:
+• 1 Gift of Fortune</c>","Соедините это оружие в Мистической кузнице с:
 • 1 Gift of The Minstrel
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>"
 "Combine this weapon in the Mystic Forge with:
 • 1 Gift of The Moot
 • 1 Gift of Mastery
-• 1 Gift of Fortune</c>","Соедините это оружие в Мистической кузне с:
+• 1 Gift of Fortune</c>","Соедините это оружие в Мистической кузнице с:
 • 1 Gift of The Moot
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>"
 "Combine this weapon in the Mystic Forge with:
 • 1 Gift of The Predator
 • 1 Gift of Mastery
-• 1 Gift of Fortune</c>","Соедините это оружие в Мистической кузне с:
+• 1 Gift of Fortune</c>","Соедините это оружие в Мистической кузнице с:
 • 1 Gift of The Predator
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>"
 "Combine this weapon in the Mystic Forge with:
 • 1 Gift of Twilight
 • 1 Gift of Mastery
-• 1 Gift of Fortune</c>","Соедините это оружие в Мистической кузне с:
+• 1 Gift of Fortune</c>","Соедините это оружие в Мистической кузнице с:
 • 1 Gift of Twilight
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>"
@@ -1368,7 +1385,7 @@ This item only has value as part of a collection.","Создано путём в
 This item only has value as part of a collection.","Создано путём инкрустации пары серёжек из крыльев стрекозы, купленных у повара Хуэлика в Метрике.
 Этот предмет ценен только как часть коллекции."
 Created in the Mystic Forge by combining:,Создано в Мистической кузнице путём соединения:
-"Created in the Mystic Forge by combining:,Создано в Таинственной кузнице путем объединения:",Создано в Таинственной кузнице путём объединения:
+"Created in the Mystic Forge by combining:,Создано в Таинственной кузнице путем объединения:",Создано в Мистической кузнице путём объединения:
 "Crystalline formations of dragon magic, veined with blue.
 Emissaries in the Eye of the North have interest in these.,
 Obtained from Priority Strikes or by combining shards.","Кристаллические образования драконьей магии, пронизанные голубым.
@@ -1659,7 +1676,7 @@ Double-click to locate.,"Дважды щёлкните, чтобы найти н
 Contains a Legendary Insight, a boss token used to obtain guild or homestead decorations
 Double-click to open. <c=@flavor>Finders keepers!</c>,'Дважды щелкните, чтобы открыть. <c=@flavor>Кто нашел, того и вещь!</c>'
 Double-click to open. Choose an account-bound weight class of the Visage of Nourys. (This item cannot be sold.)","Дважды щёлкните, чтобы открыть. ,
-Содержит прозрение легендарного предмета — босс-жетон, используемый для получения украшений гильдии или жилища.
+Содержит прозрение легендарного предмета — босс-жетон, используемый для получения украшений гильдии или усадьбы.
 Дважды щёлкните, чтобы открыть. <c=@flavor>Кто нашёл, того и вещь!</c>,'Дважды щёлкните, чтобы открыть. <c=@flavor>Кто нашёл, того и вещь!</c>'
 Дважды щёлкните, чтобы открыть. Выберите привязанный к учётной записи класс веса личины Нурис. (Этот предмет нельзя продать.)"
 "Double-click to open. Contains various plants, a Resonating Sliver

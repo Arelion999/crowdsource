@@ -13,10 +13,14 @@ english,translate
 <c=@Reminder>Этот предмет был обновлен. Откройте этот контейнер, чтобы получить ключ от сундука Чёрного льва и сундук Чёрного льва, обновленные до последней версии.</c>"
 "Double-click to open.,
 Affected by magic find.,
-Available exclusively from Black Lion Chests during Dragon Bash.","Доступно исключительно из чёрных львиных сундуков во время Пляски драконов."""
+Available exclusively from Black Lion Chests during Dragon Bash.","Дважды щёлкните, чтобы открыть.,
+Подвержено влиянию поиска магии.,
+Доступно исключительно из сундуков Чёрного льва во время Пляски драконов."
 "Double-click to open.,
 Affected by magic find.,
-Available exclusively from Black Lion Chests during Lunar New Year.","Доступно исключительно из сундуков Чёрного льва во время Лунного Нового года."""
+Available exclusively from Black Lion Chests during Lunar New Year.","Дважды щёлкните, чтобы открыть.,
+Подвержено влиянию поиска магии.,
+Доступно исключительно из сундуков Чёрного льва во время Лунного Нового года."
 "Double-click to open.,
 Affected by magic find.,
 Available exclusively from Black Lion Chests during the Festival of the Four Winds.","Дважды щёлкните, чтобы открыть.,
@@ -124,7 +128,9 @@ Double-click to open.","Дважды щёлкните, чтобы открыть
 Дважды щёлкните, чтобы открыть."
 "Double-click to open.,
 Contains loot from creatures.,Содержит трофеи с существ.
-<c=@reminder>Affected by magic-find bonuses.</c>","<c=@reminder>Подвержено влиянию бонусов к поиску магии.</c>"""
+<c=@reminder>Affected by magic-find bonuses.</c>","Дважды щёлкните, чтобы открыть.,
+Содержит трофеи с существ.,Содержит трофеи с существ.
+<c=@reminder>Подвержено влиянию бонусов к поиску магии.</c>"
 "Double-click to open.,
 Contains materials from Amnytas.","Дважды щёлкните, чтобы открыть.
 Содержит материалы из Амнитаса."
@@ -138,10 +144,10 @@ Purchase these recipes from renown merchants in Elona after learning the base re
 Purchase these recipes from renown merchants in Elona after learning the base recipes from the story.","Дважды щёлкните, чтобы выбрать рецепт перчаток маршала копья. Могут изучить бронекузнецы и кожевники.
 Купите эти рецепты у известных торговцев в Элоне после изучения базовых рецептов из сюжета."
 "Double-click to pick a recipe for Spearmarshal Helms. Can be learned by armorsmiths, leatherworkers
-Purchase these recipes from renown merchants in Elona after learning the base recipes from the story.","Дважды щёлкните, чтобы выбрать рецепт шлемов копьемаршала. Могут изучить броненосцы, кожевники
+Purchase these recipes from renown merchants in Elona after learning the base recipes from the story.","Дважды щёлкните, чтобы выбрать рецепт шлемов копьёмаршала. Могут изучить броненосцы, кожевники
 Купите эти рецепты у известных торговцев в Элоне после изучения базовых рецептов из сюжета."
 "Double-click to pick a recipe for Spearmarshal Pants. Can be learned by armorsmiths, leatherworkers
-Purchase these recipes from renown merchants in Elona after learning the base recipes from the story.","Дважды щёлкните, чтобы выбрать рецепт штанов Копьемаршала. Может быть изучен бронниками, кожевниками
+Purchase these recipes from renown merchants in Elona after learning the base recipes from the story.","Дважды щёлкните, чтобы выбрать рецепт штанов Копьёмаршала. Может быть изучен бронниками, кожевниками
 Купите эти рецепты у известных торговцев в Элоне после изучения базовых рецептов из сюжета."
 "Double-click to pick a recipe for Spearmarshal Shoulder Pieces. Can be learned by armorsmiths, leatherworkers
 Purchase these recipes from renown merchants in Elona after learning the base recipes from the story.","Дважды щёлкните, чтобы выбрать рецепт наплечников маршала копья. Могут изучить броненосцы и кожевники.
@@ -233,7 +239,7 @@ Each dye box contains 7 random dyes (5 common and 2 uncommon or rare).","Каж�
 Каждая коробка с красками содержит 7 случайных красок (5 обычных и 2 необычных или редких)."
 "Each mini can be activated from your inventory to follow you around the world.
 Combine these three minis in the Mystic Forge with the Mini Mai Trin from the Black Lion Chest to create a Mini Scarlet Briar.","Каждую миниатюру можно активировать из инвентаря, чтобы она следовала за вами по миру.
-Объедините эти три миниатюры в Таинственной кузнице с миниатюрой Май Трин из Чёрного львиного сундука, чтобы создать миниатюру Алой Шиповницы."
+Объедините эти три миниатюры в Мистической кузнице с миниатюрой Май Трин из Чёрного львиного сундука, чтобы создать миниатюру Алой Шиповницы."
 Earned by completing the Eternity's Garden Mastery achievement. Additional copies can be purchased from Visions of Eternity map vendors.,Заработано за завершение достижения «Мастерство Сада вечности». Дополнительные копии можно купить у торговцев на карте «Видения вечности».
 "Earned by completing the Starlit Weald Mastery achievement. 
 Additional copies can be purchased from Visions of Eternity vendors afterward.","Зарабатывается за выполнение достижения «Мастерство Звёздной рощи».
@@ -281,7 +287,7 @@ Enables the superheated state of the Falling Star spear.","Эмпатия, со�
 Пустой кристалл Клейма,Пустой кристалл Клейма
 Пустая бутылка джинна,Пустая бутылка джинна
 Пустой медовый горшок,Пустой медовый горшок
-Пустая фляга хайлека,Пустая фляга хайлека
+Пустая фляга хилека,Пустая фляга хилека
 Пустая бочка,Пустая бочка
 Пустой контейнер для образцов,Пустой контейнер для образцов
 Пустая раковина улитки,
@@ -296,7 +302,8 @@ Equipment Template tabs allow a character to swap to an additional set of equipm
 Fashion Template tabs allow accounts to swap and store an additional set of cosmetics for all your characters.,Вкладки шаблонов моды позволяют учётным записям менять и хранить дополнительный набор косметики для всех ваших персонажей.
 Filled with all the nutrients a growing raptor needs! Double-click to feed this to your raptor.,"Содержит все питательные вещества, необходимые растущему раптору! Дважды щёлкните, чтобы накормить этим вашего раптора."
 "Filled with all the nutrients a growing springer needs! Double-click to feed this to your springer.,'«Содержит все питательные вещества, необходимые растущему прыгуну! Дважды щёлкните, чтобы накормить своего прыгуна.»'
-Gives bonus Mastery experience once per day.","Даёт дополнительный опыт мастерства один раз в день."""
+Gives bonus Mastery experience once per day.","Содержит все питательные вещества, необходимые растущему спрингеру! Дважды щёлкните, чтобы скормить это вашему спрингеру.,
+Даёт дополнительный опыт мастерства один раз в день."
 Filled with all the nutrients a growing warclaw needs! Double-click to feed this to your warclaw.,"Содержит все питательные вещества, необходимые растущему боевому когтю! Дважды щёлкните, чтобы накормить этим вашего боевого когтя."
 First Drop:,Первая капля:
 Found by completing the meta-event finale in Gyala Delve.,Найдено при завершении финала мета-события в Ущелье Гьялы.
@@ -323,8 +330,8 @@ Natural","Гидеон Хоторн II,
 Gives bonus Mastery experience once per day.,Раз в день даёт дополнительный опыт мастерства.
 "Gives bonus Mastery experience once per day.""","Даёт дополнительный опыт мастерства один раз в день."""
 "Gives one standalone homestead decoration of Orrax Contained.,Даёт одно отдельное украшение жилища «Орракс заточён».
-This homestead decoration cannot be crafted.","Даёт одно отдельное украшение жилища «Орракс заточён».
-Это украшение жилища нельзя создать."
+This homestead decoration cannot be crafted.","Даёт одно отдельное украшение усадьбы «Орракс заточён».
+Это украшение усадьбы нельзя создать."
 "Grants 10 agony resistance. ,«Даёт 10 сопротивления агонии.
 <c=@reminder>With Fractal Attunement Mastery, this item grants an additional 5 agony resistance.</c>","Даёт 10 сопротивления агонии. ,«Даёт 10 сопротивления агонии.
 <c=@reminder>С умением «Фрактальная гармония» этот предмет даёт дополнительные 5 сопротивления агонии.</c>"
@@ -552,9 +559,9 @@ Grown in the homestead. The seedlings are purchased from Deft Lahar.","Птен�
 Глашатай Гриззлмута,
 Пронзатель Гриззлмута,
 Мушкет Гриззлмута,
-Бешеная надпись Гриззлмута,
+Бешеная гравировка Гриззлмута,
 Бритва Гризлмута,
-Рейвер Гризлмута,
+Жнец Гризлмута,
 Револьвер Гризлмута,
 Короткий лук Гризлмута,
 Шпиль Гризлмута,
@@ -582,18 +589,20 @@ Grown in the homestead. The seedlings are purchased from Deft Lahar.","Птен�
 Лампа роста,
 Выращено в усадьбе. Саженцы получены от Дефта Лахара."
 "Heart of fire,' soul of flame. Smoke and ashes mark this beast''s domain.'","Сердце огня, душа пламени. Дым и пепел отмечают владения этого зверя."
-Herald of Aurene Outfit,Наряд глашатая Аурены
+Herald of Aurene Outfit,Наряд «Вестник Аурены»
 "Holding this empty bottle, you feel slightly uncomfortable
 <c=@flavor>Abandoned long ago, but only recently realized.</c>","Держа эту пустую бутылку, вы чувствуете лёгкий дискомфорт
 <c=@flavor>Покинута давно, но осознана только недавно.</c>"
 "Immediately adds 1 Café Transporter to your stock of homestead decorations.,«Немедленно добавляет 1 кафе-транспортёр в ваш запас украшений жилища.»
-<c=@flavor>Café customers will enter and exit your homestead from this decoration if it is placed instead of from the waypoint.</c>","Немедленно добавляет 1 кафе-транспортёр в ваш запас украшений жилища.,«Немедленно добавляет 1 кафе-транспортёр в ваш запас украшений жилища».
-<c=@flavor>Если установлено это украшение, посетители кафе будут входить и выходить из вашего жилища через него, а не через точку перемещения.</c>"
+<c=@flavor>Café customers will enter and exit your homestead from this decoration if it is placed instead of from the waypoint.</c>","Немедленно добавляет 1 кафе-транспортёр в ваш запас украшений усадьбы.,«Немедленно добавляет 1 кафе-транспортёр в ваш запас украшений усадьбы».
+<c=@flavor>Если установлено это украшение, посетители кафе будут входить и выходить из вашего усадьбы через него, а не через точку перемещения.</c>"
 Immediately receive 150 research notes.,Немедленно получите 150 исследовательских заметок.
 "In Echovald Wilds,' deactivate the haywire Gods'' Vengeance.'",В дебрях Эховалда отключите разбушевавшуюся «Месть богов».
 "In honor of those who cleared the way.,
 Double-click to open.,'Дважды щелкните, чтобы открыть.'
-Contains bonus Airship Parts.","Содержит бонусные детали дирижабля."""
+Contains bonus Airship Parts.","В честь тех, кто расчистил путь.,
+Дважды щёлкните, чтобы открыть.,
+Содержит бонусные детали дирижабля."
 "In honor of those who cleared the way.,
 Double-click to open.,'Дважды щелкните, чтобы открыть.'
 Contains bonus Lumps of Aurillium.","В честь тех, кто расчистил путь.,
@@ -938,7 +947,7 @@ Made by combining these items in the Mystic Forge:,Создаётся путём
 • 1 Bloodstone Shard
 • 250 Obsidian Shards
 • 1 Gift of Exploration
-• 1 Gift of Battle","Создаётся соединением этих предметов в Мистической кузне:
+• 1 Gift of Battle","Создаётся соединением этих предметов в Мистической кузнице:
 • 1 Bloodstone Shard
 • 250 Obsidian Shards
 • 1 Gift of Exploration
@@ -947,7 +956,7 @@ Made by combining these items in the Mystic Forge:,Создаётся путём
 • 1 Gift of Energy
 • 1 Eel Statue
 • 100 Icy Runestones
-• 1 Superior Sigil of Venom","Создаётся соединением этих предметов в Мистической кузне:
+• 1 Superior Sigil of Venom","Создаётся соединением этих предметов в Мистической кузнице:
 • 1 Gift of Energy
 • 1 Eel Statue
 • 100 Icy Runestones
@@ -956,7 +965,7 @@ Made by combining these items in the Mystic Forge:,Создаётся путём
 • 1 Gift of Energy
 • 1 Gift of Color
 • 100 Icy Runestones
-• 1 Superior Sigil of Nullification","Создаётся соединением этих предметов в Мистической кузне:
+• 1 Superior Sigil of Nullification","Создаётся соединением этих предметов в Мистической кузнице:
 • 1 Gift of Energy
 • 1 Gift of Color
 • 100 Icy Runestones
@@ -965,7 +974,7 @@ Made by combining these items in the Mystic Forge:,Создаётся путём
 • 1 Gift of Energy
 • 1 Gift of Music
 • 100 Icy Runestones
-• 1 Superior Sigil of Energy","Создаётся соединением этих предметов в Мистической кузне:
+• 1 Superior Sigil of Energy","Создаётся соединением этих предметов в Мистической кузнице:
 • 1 Gift of Energy
 • 1 Gift of Music
 • 100 Icy Runestones
@@ -974,7 +983,7 @@ Made by combining these items in the Mystic Forge:,Создаётся путём
 • 1 Gift of Energy
 • 1 Gift of Weather
 • 100 Icy Runestones
-• 1 Superior Sigil of Air","Создаётся соединением этих предметов в Мистической кузне:
+• 1 Superior Sigil of Air","Создаётся соединением этих предметов в Мистической кузнице:
 • 1 Gift of Energy
 • 1 Gift of Weather
 • 100 Icy Runestones
@@ -983,7 +992,7 @@ Made by combining these items in the Mystic Forge:,Создаётся путём
 • 1 Gift of Metal
 • 1 Gift of Darkness
 • 100 Icy Runestones
-• 1 Superior Sigil of Blood","Создаётся соединением этих предметов в Мистической кузне:
+• 1 Superior Sigil of Blood","Создаётся соединением этих предметов в Мистической кузнице:
 • 1 Gift of Metal
 • 1 Gift of Darkness
 • 100 Icy Runestones
@@ -992,7 +1001,7 @@ Made by combining these items in the Mystic Forge:,Создаётся путём
 • 1 Gift of Metal
 • 1 Gift of Entertainment
 • 100 Icy Runestones
-• 1 Superior Sigil of Energy","Создаётся соединением этих предметов в Мистической кузне:
+• 1 Superior Sigil of Energy","Создаётся соединением этих предметов в Мистической кузнице:
 • 1 Gift of Metal
 • 1 Gift of Entertainment
 • 100 Icy Runestones
@@ -1001,7 +1010,7 @@ Made by combining these items in the Mystic Forge:,Создаётся путём
 • 1 Gift of Metal
 • 1 Gift of History
 • 100 Icy Runestones
-• 1 Superior Sigil of Battle","Создаётся соединением этих предметов в Мистической кузне:
+• 1 Superior Sigil of Battle","Создаётся соединением этих предметов в Мистической кузнице:
 • 1 Gift of Metal
 • 1 Gift of History
 • 100 Icy Runestones
@@ -1010,7 +1019,7 @@ Made by combining these items in the Mystic Forge:,Создаётся путём
 • 1 Gift of Metal
 • 1 Gift of Ice
 • 100 Icy Runestones
-• 1 Superior Sigil of Ice","Создаётся соединением этих предметов в Мистической кузне:
+• 1 Superior Sigil of Ice","Создаётся соединением этих предметов в Мистической кузнице:
 • 1 Gift of Metal
 • 1 Gift of Ice
 • 100 Icy Runestones
@@ -1019,7 +1028,7 @@ Made by combining these items in the Mystic Forge:,Создаётся путём
 • 1 Gift of Metal
 • 1 Gift of Light
 • 100 Icy Runestones
-• 1 Superior Sigil of Strength","Создаётся соединением этих предметов в Мистической кузне:
+• 1 Superior Sigil of Strength","Создаётся соединением этих предметов в Мистической кузнице:
 • 1 Gift of Metal
 • 1 Gift of Light
 • 100 Icy Runestones
@@ -1028,7 +1037,7 @@ Made by combining these items in the Mystic Forge:,Создаётся путём
 • 1 Gift of Metal
 • 1 Gift of Lightning
 • 100 Icy Runestones
-• 1 Superior Sigil of Air","Создаётся соединением этих предметов в Мистической кузне:
+• 1 Superior Sigil of Air","Создаётся соединением этих предметов в Мистической кузнице:
 • 1 Gift of Metal
 • 1 Gift of Lightning
 • 100 Icy Runestones
@@ -1037,7 +1046,7 @@ Made by combining these items in the Mystic Forge:,Создаётся путём
 • 1 Gift of Metal
 • 1 Shark Statue
 • 100 Icy Runestones
-• 1 Superior Sigil of Agony","Создаётся соединением этих предметов в Мистической кузне:
+• 1 Superior Sigil of Agony","Создаётся соединением этих предметов в Мистической кузнице:
 • 1 Gift of Metal
 • 1 Shark Statue
 • 100 Icy Runestones
@@ -1046,7 +1055,7 @@ Made by combining these items in the Mystic Forge:,Создаётся путём
 • 1 Gift of Metal
 • 1 Vial of Liquid Flame
 • 100 Icy Runestones
-• 1 Superior Sigil of Fire","Создаётся соединением этих предметов в Мистической кузне:
+• 1 Superior Sigil of Fire","Создаётся соединением этих предметов в Мистической кузнице:
 • 1 Gift of Metal
 • 1 Vial of Liquid Flame
 • 100 Icy Runestones
@@ -1055,7 +1064,7 @@ Made by combining these items in the Mystic Forge:,Создаётся путём
 • 1 Gift of Metal
 • 1 Vial of Quicksilver
 • 1 100 Icy Runestones
-• 1 Superior Sigil of Benevolence","Создаётся соединением этих предметов в Мистической кузне:
+• 1 Superior Sigil of Benevolence","Создаётся соединением этих предметов в Мистической кузнице:
 • 1 Gift of Metal
 • 1 Vial of Quicksilver
 • 1 100 Icy Runestones
@@ -1064,7 +1073,7 @@ Made by combining these items in the Mystic Forge:,Создаётся путём
 • 1 Gift of Wood
 • 1 Gift of Entertainment
 • 100 Icy Runestones
-• 1 Superior Sigil of Stamina","Создаётся соединением этих предметов в Мистической кузне:
+• 1 Superior Sigil of Stamina","Создаётся соединением этих предметов в Мистической кузнице:
 • 1 Gift of Wood
 • 1 Gift of Entertainment
 • 100 Icy Runestones
@@ -1073,7 +1082,7 @@ Made by combining these items in the Mystic Forge:,Создаётся путём
 • 1 Gift of Wood
 • 1 Gift of Nature
 • 100 Icy Runestones
-• 1 Superior Sigil of Celerity","Создаётся соединением этих предметов в Мистической кузне:
+• 1 Superior Sigil of Celerity","Создаётся соединением этих предметов в Мистической кузнице:
 • 1 Gift of Wood
 • 1 Gift of Nature
 • 100 Icy Runestones
@@ -1082,7 +1091,7 @@ Made by combining these items in the Mystic Forge:,Создаётся путём
 • 1 Gift of Wood
 • 1 Gift of Stealth
 • 100 Icy Runestones
-• 1 Superior Sigil of Force","Создаётся соединением этих предметов в Мистической кузне:
+• 1 Superior Sigil of Force","Создаётся соединением этих предметов в Мистической кузнице:
 • 1 Gift of Wood
 • 1 Gift of Stealth
 • 100 Icy Runestones
@@ -1091,7 +1100,7 @@ Made by combining these items in the Mystic Forge:,Создаётся путём
 • 1 Gift of Wood
 • 1 Gift of Water
 • 100 Icy Runestones
-• 1 Superior Sigil of Rage","Создаётся соединением этих предметов в Мистической кузне:
+• 1 Superior Sigil of Rage","Создаётся соединением этих предметов в Мистической кузнице:
 • 1 Gift of Wood
 • 1 Gift of Water
 • 100 Icy Runestones
@@ -1100,7 +1109,7 @@ Made by combining these items in the Mystic Forge:,Создаётся путём
 • 1 Gift of Wood
 • 1 Unicorn Statue
 • 100 Icy Runestones
-• 1 Superior Sigil of Purity","Создаётся соединением этих предметов в Мистической кузне:
+• 1 Superior Sigil of Purity","Создаётся соединением этих предметов в Мистической кузнице:
 • 1 Gift of Wood
 • 1 Unicorn Statue
 • 100 Icy Runestones
@@ -1109,7 +1118,7 @@ Made by combining these items in the Mystic Forge:,Создаётся путём
 • 1 Gift of Wood
 • 1 Vial of Liquid Flame
 • 100 Icy Runestones
-• 1 Superior Sigil of Fire","Создаётся соединением этих предметов в Мистической кузне:
+• 1 Superior Sigil of Fire","Создаётся соединением этих предметов в Мистической кузнице:
 • 1 Gift of Wood
 • 1 Vial of Liquid Flame
 • 100 Icy Runestones
@@ -1118,7 +1127,7 @@ Made by combining these items in the Mystic Forge:,Создаётся путём
 • 1 Gift of Wood
 • 1 Wolf Statue
 • 100 Icy Runestones
-• 1 Superior Sigil of Accuracy","Создаётся соединением этих предметов в Мистической кузне:
+• 1 Superior Sigil of Accuracy","Создаётся соединением этих предметов в Мистической кузнице:
 • 1 Gift of Wood
 • 1 Wolf Statue
 • 100 Icy Runestones
@@ -1127,7 +1136,7 @@ Made by combining these items in the Mystic Forge:,Создаётся путём
 • 250 Vials of Powerful Blood
 • 250 Powerful Venom Sacs
 • 250 Elaborate Totems
-• 250 Piles of Crystalline Dust","Создаётся соединением этих предметов в Мистической кузне:
+• 250 Piles of Crystalline Dust","Создаётся соединением этих предметов в Мистической кузнице:
 • 250 Vials of Powerful Blood
 • 250 Powerful Venom Sacs
 • 250 Elaborate Totems
@@ -1136,7 +1145,7 @@ Made by combining these items in the Mystic Forge:,Создаётся путём
 • 250 Vicious Fangs
 • 250 Armored Scales
 • 250 Vicious Claws
-• 250 Ancient Bones","Создаётся соединением этих предметов в Мистической кузне:
+• 250 Ancient Bones","Создаётся соединением этих предметов в Мистической кузнице:
 • 250 Vicious Fangs
 • 250 Armored Scales
 • 250 Vicious Claws
@@ -1145,12 +1154,12 @@ Made by combining these items in the Mystic Forge:,Создаётся путём
 • 77 Mystic Clovers
 • 250 Globs of Ectoplasm
 • 1 Gift of Might
-• 1 Gift of Magic","Создаётся соединением этих предметов в Мистической кузне:
+• 1 Gift of Magic","Создаётся соединением этих предметов в Мистической кузнице:
 • 77 Mystic Clovers
 • 250 Globs of Ectoplasm
 • 1 Gift of Might
 • 1 Gift of Magic"
-"Made by combining these items in the Mystic Forge:,Создается путем объединения этих предметов в Таинственной кузнице:","Создаётся путём объединения этих предметов в Таинственной кузнице:,Создается путем объединения этих предметов в Таинственной кузнице:"
+"Made by combining these items in the Mystic Forge:,Создается путем объединения этих предметов в Таинственной кузнице:","Создаётся путём объединения этих предметов в Мистической кузнице:,Создается путем объединения этих предметов в Мистической кузнице:"
 "May Contain: ,«Может содержать: 
 • Tomes of Mentorship,
 • Tomes of Knowledge,
@@ -1181,7 +1190,8 @@ Obscure","Олава Скумасдоттир,
 <c=@Flavor>This item is not required to complete the collection and can be discarded.</c >","Один из запрещенных текстов, запрошенных Баламом Ри. Дважды щёлкните, чтобы прочитать.
 <c=@Flavor>Этот предмет не требуется для завершения коллекции, и его можно выбросить.</c >"
 "One wrong move and this will crumble to pieces.,
-This item only has value as part of the Missing Brood collection.",Этот предмет имеет ценность только как часть коллекции «Пропавший выводок».
+This item only has value as part of the Missing Brood collection.","Одно неверное движение — и это рассыплется на кусочки.,
+Этот предмет имеет ценность только как часть коллекции «Пропавший выводок»."
 Only effective during April Fools.,Действует только в День дурака.
 "Open to choose a new weapon skin to unlock for your account.,
 <c=@Flavor>A gift from a friend, in hope that you will carry on our struggle.</c>","Откройте, чтобы выбрать новый облик оружия для разблокировки на вашей учётной записи.,
@@ -1198,17 +1208,17 @@ With Fractal Attunement Mastery, grants an additional 5 agony resistance.","Ли
 Цена увеличивается при достижении лимита покупки.
 Этот предмет даёт «Скорбную слезу Альбы», которую можно употребить для получения 10 единиц сопротивления агонии на 1 час.
 С мастерством «Сосредоточение на фракталах» даёт дополнительные 5 единиц сопротивления агонии."
-Purchase the recipe for this item from any Mystic Forge vendor and reach a chef rating of 400 to craft.,Рецепт этого предмета покупается у любого торговца Мистической кузни; для изготовления нужен уровень повара 400.
-Purchase the recipe for this item from any Mystic Forge vendor and reach a huntsman rating of 400 to craft.,Рецепт этого предмета покупается у любого торговца Мистической кузни; для изготовления нужен уровень охотника 400.
-Purchase the recipe for this item from any Mystic Forge vendor and reach a jeweler rating of 400 to craft.,Рецепт этого предмета покупается у любого торговца Мистической кузни; для изготовления нужен уровень ювелира 400.
-"Purchase the recipe for this item from any Mystic Forge vendor and reach a jeweler rating of 400 to craft.""","Купите рецепт этого предмета у любого торговца Таинственной кузницы и достигните рейтинга ювелира 400, чтобы создать его."
-Purchase the recipe for this item from any Mystic Forge vendor and reach a leatherworker rating of 400 to craft.,Рецепт этого предмета покупается у любого торговца Мистической кузни; для изготовления нужен уровень кожевника 400.
-Purchase the recipe for this item from any Mystic Forge vendor and reach a tailor rating of 400 to craft.,Рецепт этого предмета покупается у любого торговца Мистической кузни; для изготовления нужен уровень портного 400.
-"Purchase the recipe for this item from any Mystic Forge vendor and reach a tailor rating of 400 to craft.""","Купите рецепт этого предмета у любого торговца Таинственной кузницы и достигните 400 уровня портняжного дела, чтобы создать."""
-Purchase the recipe for this item from any Mystic Forge vendor and reach a weaponsmith rating of 400 to craft.,Рецепт этого предмета покупается у любого торговца Мистической кузни; для изготовления нужен уровень оружейника 400.
-Purchase the recipe for this item from any Mystic Forge vendor and reach an armorsmith rating of 400 to craft.,Рецепт этого предмета покупается у любого торговца Мистической кузни; для изготовления нужен уровень бронника 400.
-"Purchase the recipe for this item from any Mystic Forge vendor and reach an armorsmith rating of 400 to craft.""","""Приобретите рецепт этого предмета у любого торговца Мистической кузни и достигните уровня кузнеца брони 400, чтобы создать его."""
-Purchase the recipe for this item from any Mystic Forge vendor and reach an artificer rating of 400 to craft.,Рецепт этого предмета покупается у любого торговца Мистической кузни; для изготовления нужен уровень артифактора 400.
+Purchase the recipe for this item from any Mystic Forge vendor and reach a chef rating of 400 to craft.,Рецепт этого предмета покупается у любого торговца Мистической кузницы; для изготовления нужен уровень повара 400.
+Purchase the recipe for this item from any Mystic Forge vendor and reach a huntsman rating of 400 to craft.,Рецепт этого предмета покупается у любого торговца Мистической кузницы; для изготовления нужен уровень охотника 400.
+Purchase the recipe for this item from any Mystic Forge vendor and reach a jeweler rating of 400 to craft.,Рецепт этого предмета покупается у любого торговца Мистической кузницы; для изготовления нужен уровень ювелира 400.
+"Purchase the recipe for this item from any Mystic Forge vendor and reach a jeweler rating of 400 to craft.""","Купите рецепт этого предмета у любого торговца Мистической кузницы и достигните рейтинга ювелира 400, чтобы создать его."
+Purchase the recipe for this item from any Mystic Forge vendor and reach a leatherworker rating of 400 to craft.,Рецепт этого предмета покупается у любого торговца Мистической кузницы; для изготовления нужен уровень кожевника 400.
+Purchase the recipe for this item from any Mystic Forge vendor and reach a tailor rating of 400 to craft.,Рецепт этого предмета покупается у любого торговца Мистической кузницы; для изготовления нужен уровень портного 400.
+"Purchase the recipe for this item from any Mystic Forge vendor and reach a tailor rating of 400 to craft.""","Купите рецепт этого предмета у любого торговца Мистической кузницы и достигните 400 уровня портняжного дела, чтобы создать."""
+Purchase the recipe for this item from any Mystic Forge vendor and reach a weaponsmith rating of 400 to craft.,Рецепт этого предмета покупается у любого торговца Мистической кузницы; для изготовления нужен уровень оружейника 400.
+Purchase the recipe for this item from any Mystic Forge vendor and reach an armorsmith rating of 400 to craft.,Рецепт этого предмета покупается у любого торговца Мистической кузницы; для изготовления нужен уровень бронника 400.
+"Purchase the recipe for this item from any Mystic Forge vendor and reach an armorsmith rating of 400 to craft.""","Приобретите рецепт этого предмета у любого торговца Мистической кузницы и достигните уровня кузнеца брони 400, чтобы создать его."
+Purchase the recipe for this item from any Mystic Forge vendor and reach an artificer rating of 400 to craft.,Рецепт этого предмета покупается у любого торговца Мистической кузницы; для изготовления нужен уровень артифактора 400.
 "Purchase these recipes from renown merchants in Elona after learning the base recipes from the story.""","Приобретите эти рецепты у известных торговцев в Элоне после изучения базовых рецептов из сюжета."""
 Purchased from Huntmaster Arnorr in Untamed Crags in Starlit Weald after completing the Starlit Weald Mastery achievement.,Покупается у Хантмастера Арнорра в Неукрощённых утёсах в Звёздной роще после выполнения достижения «Мастерство Звёздной рощи».
 Purchased from Rojan the Penitent in Frostgorge Sound after successfully defeating the Claw of Jormag.,Покупается у Роджана Кающегося в Заливе Морозного Ущелья после успешного поражения Когтя Йормага.
@@ -1291,12 +1301,14 @@ Can only be used by characters who wear light armor.","Облики не име�
 Can only be used by characters who wear medium armor.","Облики не имеют собственных характеристик.
 Может использоваться только персонажами, носящими среднюю броню."
 "Smells good enough to eat.,
-This item only has value as part of the Missing Brood collection.",Этот предмет имеет ценность только как часть коллекции «Пропавший выводок».
+This item only has value as part of the Missing Brood collection.","Пахнет так, что хочется съесть.,
+Этот предмет имеет ценность только как часть коллекции «Пропавший выводок»."
 "Some kind of rare and unusual breed... No,' it''s just a stone that looks like a fish.'","Какая-то редкая и необычная порода... Нет, это просто камень, похожий на рыбу."
 Some of our rarest chests have gone mad! Getting this chest to open is going to be a journey.,Некоторые из наших редчайших сундуков сошли с ума! Заставить этот сундук открыться будет настоящим приключением.
 Someone in Sun's Refuge might be interested in this.,Кого-то в Солнечном Приюте это может заинтересовать.
 "Souvenir tooth taken from a ""Big lizard! Saurian!"",
-This item only has value as part of the Missing Brood collection.",Этот предмет имеет ценность только как часть коллекции «Пропавший выводок».
+This item only has value as part of the Missing Brood collection.","Сувенирный зуб, взятый у «Большой ящерицы! Заврианина!»,
+Этот предмет имеет ценность только как часть коллекции «Пропавший выводок»."
 Speak to a Black Lion Armor Trader at the trading post in any major city to exchange this item for an outfit wearable in combat.,"Поговорите с торговцом доспехами из Чёрного льва на торговом посту в любом крупном городе, чтобы обменять этот предмет на наряд, который можно носить в бою."
 Speak to a Black Lion Armor Trader in any major city to exchange this for a helmet skin with the same look.,"Поговорите с торговцем доспехами из Чёрного льва в любом крупном городе, чтобы обменять это на облик шлема с таким же внешним видом."
 Speak to a Black Lion Armor Trader to exchange this for a portable bundle item.,"Поговорите с торговцем доспехами из Чёрного льва, чтобы обменять это на переносной связной предмет."
@@ -1304,10 +1316,10 @@ Speak to a Black Lion Armor Trader to exchange this for a portable bundle item.,
 Store Living World portal scrolls inside of this tome.,Храните свитки порталов Живого мира внутри этого фолианта.
 "Surprisingly,' newborn skimmer pups don''t need any parental care after birth.
 Combine 1 Black and 2 Gold Mini Skimmer Pups with 20 Unidentified Dyes in the Mystic Forge to create a Mini Lantern Skimmer Pup.'","Как ни странно, новорожденные детеныши скатов-прыгунов не нуждаются в родительской опеке после рождения.
-Объедините 1 чёрного и 2 золотых мини-детеныша ската-прыгуна с 20 неопознанными красителями в Таинственной кузнице, чтобы создать мини-детеныша ската-прыгуна-фонарика."
+Объедините 1 чёрного и 2 золотых мини-детеныша ската-прыгуна с 20 неопознанными красителями в Мистической кузнице, чтобы создать мини-детеныша ската-прыгуна-фонарика."
 "Surprisingly,' newborn skimmer pups don''t need any parental care after birth.
 Combine 1 Black and 2 Orange Mini Skimmer Pups with 12 Unidentified Dyes in the Mystic Forge to create a Mini Gold Skimmer Pup.'","Удивительно, но новорожденные детеныши скиммеров не нуждаются в родительской заботе после рождения.
-Соедините 1 чёрного и 2 оранжевых мини-детеныша скиммера с 12 неопознанными красителями в Таинственной кузнице, чтобы создать мини-золотого детеныша скиммера."
+Соедините 1 чёрного и 2 оранжевых мини-детеныша скиммера с 12 неопознанными красителями в Мистической кузнице, чтобы создать мини-золотого детеныша скиммера."
 "Surprisingly,' newborn skimmer pups don''t need any parental care after birth.
 Combine 1 Blue and 2 Green Mini Skimmer Pups with 4 Unidentified Dyes in the Mystic Forge to create a Mini Orange Skimmer Pup.
 Combine 1 Orange and 2 Blue Mini Skimmer Pups with 4 Unidentified Dyes in the Mystic Forge to create a Mini Purple Skimmer Pup.'","Как ни странно, новорождённые детёныши ската не нуждаются в родительской заботе после рождения.
@@ -1315,7 +1327,7 @@ Combine 1 Orange and 2 Blue Mini Skimmer Pups with 4 Unidentified Dyes in the My
 Соедините 1 оранжевого и 2 синих мини-детёныша ската с 4 неопознанными красителями в Мистической кузнице, чтобы создать мини-фиолетового детёныша ската."
 "Surprisingly,' newborn skimmer pups don''t need any parental care after birth.
 Combine 1 Purple and 2 White Mini Skimmer Pups with 12 Unidentified Dyes in the Mystic Forge to create a Mini Silver Skimmer Pup.'","Удивительно, но новорождённые детёныши скатов не нуждаются в родительской заботе после рождения.
-Соедините 1 фиолетового и 2 белых мини-детёныша ската с 12 неопознанными красителями в Таинственной кузнице, чтобы создать мини-детёныша серебряного ската.'"
+Соедините 1 фиолетового и 2 белых мини-детёныша ската с 12 неопознанными красителями в Мистической кузнице, чтобы создать мини-детёныша серебряного ската.'"
 "Swirling Mists faintly glow within.,
 <c=@reminder>May be sold to vendors.</c>","Внутри слабо мерцают кружащиеся туманы.,
 <c=@reminder>Можно продать торговцам.</c>"
@@ -1438,6 +1450,7 @@ The War Eternal Supply Drop","Припасы «Новые горизонты»,
 Ваучер на наряд Чёрного льва, Набор «Победная краска»
 Третья поставка:,
 2 билета на получение миниатюры Чёрного льва, Ваучер на рюкзак и планёр Чёрного льва
+Четвёртая поставка:,Четвёртая поставка:
 Четвёртая поставка:,
 1 билет на оружие Чёрного льва, 1 золотой ключ от сундука Чёрного льва
 Норны: Легенды и наследие
@@ -1453,7 +1466,7 @@ The War Eternal Supply Drop","Припасы «Новые горизонты»,
 Хищник. Том 1
 Хищник. Том 2
 Хищник. Том 3
-Каратель
+Жнец
 Чистый звук природы
 Ожерелье Королевы
 Посох ворона
@@ -1487,7 +1500,7 @@ The War Eternal Supply Drop","Припасы «Новые горизонты»,
 Обувь Близнецов
 Большой лук Близнецов
 Поножи Близнецов
-Скорбная надпись Близнецов
+Скорбная гравировка Близнецов
 Скорбный знак Близнецов
 Хваты Близнецов
 Обличье Близнецов
@@ -1499,7 +1512,7 @@ The War Eternal Supply Drop","Припасы «Новые горизонты»,
 Мушкет Близнецов
 Наплечники Близнецов
 Бритва Близнецов
-Разоритель Близнецов
+Жнец Близнецов
 Револьвер Близнецов
 Короткий лук Близнецов
 Наплечник Близнецов
@@ -1589,7 +1602,10 @@ Double-click to unpack.","Содержит подходящий набор из 
 "This device detects power caches by attuning its frequency to one of the four types of matter: aqueous, gaseous
 This device has recorded several conversations. Agent Brandubh in Diessa Plateau will want this information.,Это устройство записало несколько разговоров. Агенту Брандубу в Диессе-Плато понадобится эта информация.
 This device is designed to transcribe the unique energy signatures of the krait obelisk shards for further study.,
-This device is tuned to monitor spatial fluctuations and can predict locations of portal invasions.","Это устройство обнаруживает тайники с энергией, настраивая свою частоту на один из четырёх типов материи: водный. Это устройство записало несколько разговоров. Агенту Брандубу в Диессе-Плато понадобится эта информация. Это устройство предназначено для расшифровки уникальных энергетических сигнатур осколков обелисков крайтов для дальнейшего изучения. Это устройство настроено на мониторинг пространственных колебаний и может предсказывать места вторжений порталов."
+This device is tuned to monitor spatial fluctuations and can predict locations of portal invasions.","Это устройство обнаруживает тайники с энергией, настраивая свою частоту на один из четырёх типов материи: водную, газообразную
+Это устройство записало несколько разговоров. Агенту Брандубу в Плато Диессы они пригодятся.
+Это устройство записало несколько разговоров. Агенту Брандубу в Плато Диессы они пригодятся.
+Это устройство записало несколько разговоров."
 "This device looks like it does something,' but you don''t know how to turn it on.'","Это устройство выглядит так, будто оно что-то делает,' но вы не знаете, как его включить.'"
 "This enormous goblet, stained with countless shades of ale
 This equipment can hold an additional upgrade.,Это снаряжение может вместить дополнительное улучшение.
@@ -1707,7 +1723,7 @@ This works in WvW and PvP.,Это работает в WvW и PvP.
 "To create the Gift of War Prosperity, combine this in the Mystic Forge with:
 • 15 Mystic Clovers
 • 1 Gift of Condensed Might
-• 1 Gift of Condensed Magic","Чтобы создать Gift of War Prosperity, соедините его в Мистической кузне с:
+• 1 Gift of Condensed Magic","Чтобы создать Gift of War Prosperity, соедините его в Мистической кузнице с:
 • 15 Mystic Clovers
 • 1 Gift of Condensed Might
 • 1 Gift of Condensed Magic"
@@ -1747,7 +1763,7 @@ Effect Radius: 360","«Развернуть целеуказатель. Этот
 Дальность развёртывания: 1,200
 Радиус действия: 360"
 Unstable Rift Motivations can be found in tier 2 and 3 rifts or bought from the Trading Post.,Нестабильные мотивации разлома можно найти в разломах 2 и 3 уровня или купить на Торговой площадке.
-"Unsworn""",«Непоклявшийся»
+"Unsworn""",Непоклявшийся
 "Usable by any character, this pack comes with everything a pirate captain needs to pillage
 Appearance skins override the look of your equipment and have no stats of their own.","Может использоваться любым персонажем. Этот набор содержит всё, что нужно капитану пиратов для грабежа.
 Облики внешности изменяют вид вашего снаряжения и не имеют собственных характеристик."
@@ -1818,7 +1834,8 @@ Used to chop down all saplings.","Используется для рубки с�
 Используется для рубки всех саженцев.,Используется для рубки всех саженцев.
 Используется для рубки всех саженцев."
 "Used to chop down all saplings. Rewards unbound magic on each swing in addition to logging results. Unlimited use.,
-<c=@Reminder>This item can be exchanged for an updated version at the Black Lion Exchange Specialist.</c>","<c=@Reminder>Этот предмет можно обменять на обновлённую версию у специалиста по обмену «Чёрный лев».</c>"""
+<c=@Reminder>This item can be exchanged for an updated version at the Black Lion Exchange Specialist.</c>","Используется для вырубки всех саженцев. Даёт несвязанную магию с каждым ударом в дополнение к результатам рубки. Неограниченное использование.,
+<c=@Reminder>Этот предмет можно обменять на обновлённую версию у специалиста по обмену «Чёрный лев».</c>"
 "Used to chop down all saplings.,
 Replaces gathering results with logs used in higher-level crafting recipes. Material types are determined by the type of node gathered from. Elder wood can be improved a limited number of times each day.","Используется для рубки всех саженцев.,
 Заменяет результаты сбора на бревна, используемые в рецептах крафта более высокого уровня. Типы материалов определяются типом собираемого узла. Древнюю древесину можно улучшить ограниченное количество раз в день."
@@ -1830,7 +1847,7 @@ Used to craft the legendary focus precursor Ars Goetia.","Используетс
 "Used to craft the legendary greatsword precursor Exitare.,
 Combine in the Mystic Forge with Mystic Runestones, a Gift of Metal
 Used to craft the legendary hammer precursor Might of Arah.","Используется для создания легендарного большого меча-предшественника Изитара.,
-Смешайте в Таинственной кузнице с Мистическими руническими камнями, Даром металла
+Смешайте в Мистической кузнице с Мистическими руническими камнями, Даром металла
 Используется для создания легендарного молота-предшественника Мощь Ары."
 "Used to craft the legendary scepter precursor Tlehco.,
 Combine in the Mystic Forge with Mystic Runestones, a Gift of Energy
@@ -1838,7 +1855,7 @@ Used to craft the legendary shield Shooshadoo.,
 Used to craft the legendary sword the Shining Blade.,
 Used to craft the legendary torch Flames of War.,
 Used to craft the legendary torch precursor Liturgy.","Используется для создания легендарного предшественника скипетра Тлеко.,
-Соедините в Таинственной кузнице с Таинственными руническими камнями, Даром энергии
+Соедините в Мистической кузнице с Таинственными руническими камнями, Даром энергии
 Используется для создания легендарного щита Шушаду.,
 Используется для создания легендарного меча Сияющий клинок.,
 Используется для создания легендарного факела Пламя войны.,
@@ -1849,7 +1866,8 @@ Used to create a Gift of Shadowstones.,Используется для созд�
 'Purchased from the renown heart vendor in Artificer''s Islet in Eternity''s Garden.'","Используется для создания Дара теневых камней.,
 'Куплено у торговца сердца в Островке Ремесленника в Саду Вечности.'"
 "Used to create a Gift of Shadowstones.,
-'Purchased from the renown heart vendor in Pilgrim''s Rest in Eternity''s Garden.'","Куплено у продавца сердец известности в Пилигримс-Рест в Саду Вечности."""
+'Purchased from the renown heart vendor in Pilgrim''s Rest in Eternity''s Garden.'","Используется для создания Дара теневых камней.,
+Покупается у торговца сердца известности в Приюте Пилигрима в Саду Вечности."
 "Used to create a Gift of the Elders and a Gift of the Seas.,Используется для создания Дара старейшин и Дара морей.","Используется для создания Да́ра старейшин и Да́ра морей.,Используется для создания Дара старейшин и Дара морей."
 Used to create a Gift of the People.,Используется для создания Дара народа.
 Used to create a Gift of the Survivors.,Используется для создания Дара выживших.
@@ -1869,14 +1887,16 @@ Used to gather all plants.","Используется для сбора цуки
 Используется для сбора всех растений.,Используется для сбора всех растений.
 Используется для сбора всех растений."
 "Used to gather all plants. Rewards unbound magic in addition to harvesting results. Unlimited use.,«Используется для сбора всех растений. В награду за сбор даёт необузданную магию. Неограниченное использование.»
-<c=@Reminder>This item can be exchanged for an updated version at the Black Lion Exchange Specialist.</c>","<c=@Reminder>Этот предмет можно обменять на обновлённую версию у специалиста по обмену «Чёрный лев».</c>"""
+<c=@Reminder>This item can be exchanged for an updated version at the Black Lion Exchange Specialist.</c>","Используется для сбора всех растений. Даёт несвязанную магию в дополнение к результатам сбора. Неограниченное использование.,
+<c=@Reminder>Этот предмет можно обменять на обновлённую версию у специалиста по обмену «Чёрный лев».</c>"
 Used to harvest all plants.,Используется для сбора всех растений.
 "Used to harvest all plants. Unlimited use. In addition to your harvesting results, this tool has a small chance to reward additional items after gathering completes.",Используется для сбора всех растений. Безлимитное использование. В дополнение к результатам сбора этот инструмент с небольшим шансом может дать дополнительные предметы после завершения сбора.
 "Used to harvest all plants.,
 Replaces gathering results with ingredients used in higher-level crafting recipes. Material types are determined by the type of node gathered from. Select cooking ingredients can be improved a limited number of times each day.","Используется для сбора всех растений.,
 Заменяет результаты сбора ингредиентами, используемыми в рецептах более высокого уровня. Типы материалов определяются типом собранного узла. Некоторые кулинарные ингредиенты можно улучшать ограниченное количество раз в день."
 "Used to mine all metals. Rewards unbound magic on each swing in addition to mining results. Unlimited use.,
-<c=@Reminder>This item can be exchanged for an upgraded version at the Black Lion Exchange Specialist.</c>","<c=@Reminder>Этот предмет можно обменять на улучшенную версию у специалиста по обмену «Чёрного льва».</c>"""
+<c=@Reminder>This item can be exchanged for an upgraded version at the Black Lion Exchange Specialist.</c>","Используется для добычи всех металлов. Даёт несвязанную магию с каждым ударом в дополнение к результатам добычи. Неограниченное использование.,
+<c=@Reminder>Этот предмет можно обменять на обновлённую версию у специалиста по обмену «Чёрный лев».</c>"
 Used to mine all metals. Unlimited uses. This tool has a small chance to reward a watchwork sprocket on each swing in addition to your mining results.,Используется для добычи всех металлов. Неограниченное использование. Этот инструмент имеет небольшой шанс наградить часовой механизм при каждом ударе в дополнение к результатам добычи.
 "Used to mine all metals.,
 Replaces gathering results with ores used in higher-level crafting recipes. Material types are determined by the type of node gathered from. Mithril ore can be improved a limited number of times each day.","Используется для добычи всех металлов.,
@@ -1908,7 +1928,7 @@ Knowledge","Вольц Бэйлуокер,
 Знания"
 Ventari Follower Kite,Воздушный змей последователя Вентари
 What better than to see and be seen?,"Что может быть лучше, чем видеть и быть увиденным?"
-"Whatever power this scroll had is gone now. Near its bottom is an inscription in antique script: ""No refunds!—Kohn.""","Какая бы сила ни была у этого свитка, теперь она исчезла. Внизу есть надпись старинным шрифтом: ""Возврату не подлежит!—Кон""."
+"Whatever power this scroll had is gone now. Near its bottom is an inscription in antique script: ""No refunds!—Kohn.""","Какая бы сила ни была у этого свитка, теперь она исчезла. Внизу есть гравировка старинным шрифтом: «Возврату не подлежит!—Кон»."
 "Whatever this device did,' it''s clearly not going to do it anymore.'","Что бы это устройство ни делало,' оно явно больше этого не сделает.'"
 "When purchased, gain a stack of a Lowland Kodan Expertise and increase its duration by 4 hours
 1: +10%% Experience,
