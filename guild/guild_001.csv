@@ -48,7 +48,7 @@ Add rugged leather as a possible output from the workshop's leather synthesizer.
 Add seasoned logs as a possible output from the workshop's lumber synthesizer.,Добавить выдержанные бревна как возможный результат из синтезатора пиломатериалов в мастерской.
 Add silk scraps as a possible output from the workshop's cloth synthesizer.,Добавить шелковые лоскуты как возможный результат из синтезатора ткани в мастерской.
 Add silver as a possible output from the workshop's ore synthesizer.,Добавить серебро как возможный результат из синтезатора руды в мастерской.
-Add special decorations that can be inscribed with custom messages to the basic decorations merchant's inventory.,"Добавить особые украшения, на которые можно нанести индивидуальные гравировки, в инвентарь торговца базовыми украшениями."
+Add special decorations that can be inscribed with custom messages to the basic decorations merchant's inventory.,"Добавить особые украшения, на которые можно нанести индивидуальные надписи, в инвентарь торговца базовыми украшениями."
 Add thick leather as a possible output from the workshop's leather synthesizer.,Добавить толстую кожу как возможный результат из синтезатора кожи в мастерской.
 Adds a +25 power bonus to the boons applied by the guild's aura around claimed objectives.,"Добавляет бонус +25 к силе к благословениям, накладываемым аурой гильдии вокруг захваченных целей."
 Adds a +25 precision bonus to the boons applied by the guild's aura around claimed objectives.,"Добавляет бонус +25 к точности к благословениям, накладываемым аурой гильдии вокруг захваченных целей."
@@ -385,21 +385,21 @@ Samarog's Door,Дверь Самарога
 Scarred Ice Monolith,Испещрённый шрамами ледяной монолит
 Scarred Ice Sheet,Изуродованный ледяной щит
 Schematic: Vault Transport,Схема: Транспорт хранилища
-Scribing: Airship Defense,Гравировки: Оборона дирижабля
-Scribing: Armored Dolyaks,Гравировки: Бронированные дольяки
-Scribing: Arrow Cart,Гравировки: Стреломёт
-Scribing: Assault Roller,Гравировки: Штурмовой каток
-Scribing: Ballista,Гравировки: Баллиста
-Scribing: Catapult,Гравировки: Катапульта
-Scribing: Centaur Banner,Гравировки: Знамя кентавра
-Scribing: Cloaking Waters,Гравировки: Маскирующие воды
-Scribing: Dragon Banner,Гравировки: Знамя дракона
-Scribing: Emergency Waypoint,Гравировки: Аварийный путь
-Scribing: Flame Ram,Гравировки: Огненный таран
-Scribing: Guild Banquet,Гравировки: Гильдейский банкет
-Scribing: Guild Experience Banner,Гравировки: Знамя опыта гильдии
-Scribing: Guild Gathering and Swiftness Banner,Гравировки: Знамя сбора и скорости гильдии
-Scribing: Guild Gathering Bonus Banner,Гравировки: Знамя бонуса сбора гильдии
+Scribing: Airship Defense,Письмоводство: Оборона дирижабля
+Scribing: Armored Dolyaks,Письмоводство: Бронированные дольяки
+Scribing: Arrow Cart,Письмоводство: Стреломёт
+Scribing: Assault Roller,Письмоводство: Штурмовой каток
+Scribing: Ballista,Письмоводство: Баллиста
+Scribing: Catapult,Письмоводство: Катапульта
+Scribing: Centaur Banner,Письмоводство: Знамя кентавра
+Scribing: Cloaking Waters,Письмоводство: Маскирующие воды
+Scribing: Dragon Banner,Письмоводство: Знамя дракона
+Scribing: Emergency Waypoint,Письмоводство: Аварийный путь
+Scribing: Flame Ram,Письмоводство: Огненный таран
+Scribing: Guild Banquet,Письмоводство: Гильдейский банкет
+Scribing: Guild Experience Banner,Письмоводство: Знамя опыта гильдии
+Scribing: Guild Gathering and Swiftness Banner,Письмоводство: Знамя сбора и скорости гильдии
+Scribing: Guild Gathering Bonus Banner,Письмоводство: Знамя бонуса сбора гильдии
 Scribing: Guild Gold and Magic Find Banner,Создание: Золото гильдии и знамя поиска магии
 Scribing: Guild Gold from Kills Banner,Письменность: Гильдийское золото за убийства (баннер)
 Scribing: Guild Heroes Banner,Письмоводство: Знамя гильдии «Герои»
@@ -415,16 +415,16 @@ Scribing: Hardened Siege,Письмоводство: Укреплённая ос
 Scribing: Healing Mist,Письмоводство: Целительный туман
 Scribing: Invincible Dolyak,Письмоводство: Неуязвимый дольяк
 Scribing: Invulnerable Fortifications,Письмоводство: Неуязвимые укрепления
-Scribing: Iron Guards,Гравировки: Железные стражи
-Scribing: Minor Supply Drop,Гравировки: Малый припасы
-Scribing: Packed Dolyaks,Гравировки: Упакованные дольяки
-Scribing: Presence of the Keep,Гравировки: Присутствие крепости
-Scribing: Sabotage Depot,Гравировки: Склад саботажа
-Scribing: Siege Golem,Гравировки: Осадный голем
-Scribing: Speedy Dolyaks,Гравировки: Быстрые дольяки
-Scribing: Turret Gates,Гравировки: Ворота-турели
-Scribing: Turtle Banner,Гравировки: Знамя черепахи
-Scribing: Watchtower,Гравировки: Сторожевая башня
+Scribing: Iron Guards,Письмоводство: Железные стражи
+Scribing: Minor Supply Drop,Письмоводство: Малый припасы
+Scribing: Packed Dolyaks,Письмоводство: Упакованные дольяки
+Scribing: Presence of the Keep,Письмоводство: Присутствие крепости
+Scribing: Sabotage Depot,Письмоводство: Склад саботажа
+Scribing: Siege Golem,Письмоводство: Осадный голем
+Scribing: Speedy Dolyaks,Письмоводство: Быстрые дольяки
+Scribing: Turret Gates,Письмоводство: Ворота-турели
+Scribing: Turtle Banner,Письмоводство: Знамя черепахи
+Scribing: Watchtower,Письмоводство: Сторожевая башня
 Season 1: Bronze Guild Challenger Trophy,Сезон 1: Бронзовый трофей претендента гильдии
 Season 1: Gold Guild Challenger Trophy,Сезон 1: Золотой трофей претендента гильдии
 Season 1: Platinum Guild Challenger Trophy,Сезон 1: Платиновый трофей претендента гильдии
