@@ -1,6 +1,6 @@
 # Батчи перевода GW2 RU — доска захвата
 
-Всего батчей: **996** | строк: **468,969** | заполнено: **462,770** (98.7%), пусто **6,199** | вычитано человеком: **241,547** (51.5%).
+Всего батчей: **996** | строк: **468,969** | заполнено: **462,783** (98.7%), пусто **6,186** | вычитано человеком: **254,721** (54.3%).
 
 > Чтобы забиндить батч — впиши свой ник и поставь 🔨 (в работе). Готово → ✅ + ссылка на файл/PR.
 >
@@ -759,33 +759,33 @@
 | `ach_031.csv` | ach | 500 | 31,614 | Unlock Sunspear skins in your wardrobe by cra | ✅ | Arelion — 12 строк вычитано — глоссарные каноны (сигил вместо символа, лей-линия, усадьба, Горнило Вечности, Йормаг) и топонимы по GLOSSARY; переведены пустые строки достижений с группами форм после числа |
 | `ach_032.csv` | ach | 500 | 21,385 | Visions of the Past: Canach's Lair | ✅ | Arelion — 1 строк вычитано — глоссарные каноны (сигил вместо символа, лей-линия, усадьба, Горнило Вечности, Йормаг) и топонимы по GLOSSARY; переведены пустые строки достижений с группами форм после числа |
 | `ach_033.csv` | ach | 466 | 27,919 | Wintersday Skritt Hit V | ✅ | Arelion — 1 строк вычитано — глоссарные каноны (сигил вместо символа, лей-линия, усадьба, Горнило Вечности, Йормаг) и топонимы по GLOSSARY; переведены пустые строки достижений с группами форм после числа |
-| `events_001.csv` | events | 500 | 23,102 | "Assistant Fanatic Remove Specialist" seems l | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
-| `events_002.csv` | events | 500 | 15,029 | Ash Horizon | ✅ | Автозаполнение из словаря — черновик, 497/500 (99%), нужна вычитка |
-| `events_003.csv` | events | 500 | 15,718 | Brewing Potion in: x:xx | ✅ | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
-| `events_004.csv` | events | 500 | 18,062 | Champion Icebrood Norn | ✅ | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
-| `events_005.csv` | events | 500 | 16,629 | Consortium Item | ✅ | Автозаполнение из словаря — черновик, 498/500 (100%), нужна вычитка |
-| `events_006.csv` | events | 500 | 21,059 | Defeat the Champion Svanir Brute | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
-| `events_007.csv` | events | 500 | 21,346 | Defeat the light-infused Inquest golem blocki | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
-| `events_008.csv` | events | 500 | 21,643 | Defend the seal until the Pact cannon is back | ✅ | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
-| `events_009.csv` | events | 500 | 18,218 | Drive back Underworld creatures by destroying |  | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
-| `events_010.csv` | events | 500 | 19,118 | Escort the PAC-7000 golem along its northern  |  | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
-| `events_011.csv` | events | 500 | 18,665 | Force Malchor's ghost to reveal itself. | ✅ | Автозаполнение из словаря — черновик, 498/500 (100%), нужна вычитка |
-| `events_012.csv` | events | 500 | 24,116 | Help Ashwah search for his missing daughter i | ✅ | Автозаполнение из словаря — черновик, 498/500 (100%), нужна вычитка |
-| `events_013.csv` | events | 500 | 27,600 | I can do some archaeological research on this |  | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
-| `events_014.csv` | events | 500 | 21,509 | Iron Legion Challenger | ✅ | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
-| `events_015.csv` | events | 500 | 17,075 | Koris |  | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
-| `events_016.csv` | events | 500 | 21,498 | Moas wrangled |  | Автозаполнение из словаря — черновик, 498/500 (100%), нужна вычитка |
-| `events_017.csv` | events | 500 | 19,850 | Okay... but I don't actually know how to pain |  | Автозаполнение из словаря — черновик, 495/500 (99%), нужна вычитка |
-| `events_018.csv` | events | 500 | 20,555 | Prevent the dredge from constructing a barric | ✅ | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
-| `events_019.csv` | events | 500 | 15,848 | Recover the sunken Consortium cargo polluting | ✅ | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
-| `events_020.csv` | events | 500 | 16,922 | Safe journey, sister. Oh—and Brenda? |  | Автозаполнение из словаря — черновик, 492/500 (98%), нужна вычитка |
-| `events_021.csv` | events | 500 | 19,932 | Soma's Rage | ✅ | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
-| `events_022.csv` | events | 500 | 22,209 | Supply Dolyak |  | Автозаполнение из словаря — черновик, 496/500 (99%), нужна вычитка |
-| `events_023.csv` | events | 500 | 29,104 | The boss jungle tendril is defeated, but the  | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
-| `events_024.csv` | events | 500 | 16,298 | Time left before Vanak retreats: 10:00 | ✅ | Автозаполнение из словаря — черновик, 492/500 (98%), нужна вычитка |
-| `events_025.csv` | events | 500 | 19,115 | Use debris in the environment to help destroy | ✅ | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
-| `events_026.csv` | events | 500 | 25,943 | We have morals, unlike some people! Speaking  | ✅ | Автозаполнение из словаря — черновик, 498/500 (100%), нужна вычитка |
-| `events_027.csv` | events | 175 | 9,785 | You krewe will be assigned to one of three ne | ✅ | Автозаполнение из словаря — черновик, 174/175 (99%), нужна вычитка |
+| `events_001.csv` | events | 500 | 23,102 | "Assistant Fanatic Remove Specialist" seems l | ✅ | Arelion — 1 строк вычитано — хилеки, лей-линии и сигилы по глоссарию; шкалы событий «morale: x%» вернули потерянный знак процента |
+| `events_002.csv` | events | 500 | 15,029 | Ash Horizon | ✅ | Arelion — 1 строк вычитано — хилеки, лей-линии и сигилы по глоссарию; шкалы событий «morale: x%» вернули потерянный знак процента |
+| `events_003.csv` | events | 500 | 15,718 | Brewing Potion in: x:xx | ✅ | Arelion — сверено по глоссарию и корпусу, правок не потребовалось |
+| `events_004.csv` | events | 500 | 18,062 | Champion Icebrood Norn | ✅ | Arelion — 1 строк вычитано — хилеки, лей-линии и сигилы по глоссарию; шкалы событий «morale: x%» вернули потерянный знак процента |
+| `events_005.csv` | events | 500 | 16,629 | Consortium Item | ✅ | Arelion — 3 строк вычитано — хилеки, лей-линии и сигилы по глоссарию; шкалы событий «morale: x%» вернули потерянный знак процента |
+| `events_006.csv` | events | 500 | 21,059 | Defeat the Champion Svanir Brute | ✅ | Arelion — 4 строк вычитано — хилеки, лей-линии и сигилы по глоссарию; шкалы событий «morale: x%» вернули потерянный знак процента |
+| `events_007.csv` | events | 500 | 21,346 | Defeat the light-infused Inquest golem blocki | ✅ | Arelion — 5 строк вычитано — хилеки, лей-линии и сигилы по глоссарию; шкалы событий «morale: x%» вернули потерянный знак процента |
+| `events_008.csv` | events | 500 | 21,643 | Defend the seal until the Pact cannon is back | ✅ | Arelion — 7 строк вычитано — хилеки, лей-линии и сигилы по глоссарию; шкалы событий «morale: x%» вернули потерянный знак процента |
+| `events_009.csv` | events | 500 | 18,218 | Drive back Underworld creatures by destroying | ✅ | Arelion — 7 строк вычитано — хилеки, лей-линии и сигилы по глоссарию; шкалы событий «morale: x%» вернули потерянный знак процента |
+| `events_010.csv` | events | 500 | 19,118 | Escort the PAC-7000 golem along its northern  | ✅ | Arelion — 2 строк вычитано — хилеки, лей-линии и сигилы по глоссарию; шкалы событий «morale: x%» вернули потерянный знак процента |
+| `events_011.csv` | events | 500 | 18,665 | Force Malchor's ghost to reveal itself. | ✅ | Arelion — 1 строк вычитано — хилеки, лей-линии и сигилы по глоссарию; шкалы событий «morale: x%» вернули потерянный знак процента |
+| `events_012.csv` | events | 500 | 24,116 | Help Ashwah search for his missing daughter i | ✅ | Arelion — 8 строк вычитано — хилеки, лей-линии и сигилы по глоссарию; шкалы событий «morale: x%» вернули потерянный знак процента |
+| `events_013.csv` | events | 500 | 27,600 | I can do some archaeological research on this | ✅ | Arelion — 2 строк вычитано — хилеки, лей-линии и сигилы по глоссарию; шкалы событий «morale: x%» вернули потерянный знак процента |
+| `events_014.csv` | events | 500 | 21,509 | Iron Legion Challenger | ✅ | Arelion — 2 строк вычитано — хилеки, лей-линии и сигилы по глоссарию; шкалы событий «morale: x%» вернули потерянный знак процента |
+| `events_015.csv` | events | 500 | 17,075 | Koris | ✅ | Arelion — 5 строк вычитано — хилеки, лей-линии и сигилы по глоссарию; шкалы событий «morale: x%» вернули потерянный знак процента |
+| `events_016.csv` | events | 500 | 21,498 | Moas wrangled | ✅ | Arelion — 3 строк вычитано — хилеки, лей-линии и сигилы по глоссарию; шкалы событий «morale: x%» вернули потерянный знак процента |
+| `events_017.csv` | events | 500 | 19,850 | Okay... but I don't actually know how to pain | ✅ | Arelion — 6 строк вычитано — хилеки, лей-линии и сигилы по глоссарию; шкалы событий «morale: x%» вернули потерянный знак процента |
+| `events_018.csv` | events | 500 | 20,555 | Prevent the dredge from constructing a barric | ✅ | Arelion — 1 строк вычитано — хилеки, лей-линии и сигилы по глоссарию; шкалы событий «morale: x%» вернули потерянный знак процента |
+| `events_019.csv` | events | 500 | 15,848 | Recover the sunken Consortium cargo polluting | ✅ | Arelion — 5 строк вычитано — хилеки, лей-линии и сигилы по глоссарию; шкалы событий «morale: x%» вернули потерянный знак процента |
+| `events_020.csv` | events | 500 | 16,922 | Safe journey, sister. Oh—and Brenda? | ✅ | Arelion — 4 строк вычитано — хилеки, лей-линии и сигилы по глоссарию; шкалы событий «morale: x%» вернули потерянный знак процента |
+| `events_021.csv` | events | 500 | 19,932 | Soma's Rage | ✅ | Arelion — сверено по глоссарию и корпусу, правок не потребовалось |
+| `events_022.csv` | events | 500 | 22,209 | Supply Dolyak | ✅ | Arelion — 3 строк вычитано — хилеки, лей-линии и сигилы по глоссарию; шкалы событий «morale: x%» вернули потерянный знак процента |
+| `events_023.csv` | events | 500 | 29,104 | The boss jungle tendril is defeated, but the  | ✅ | Arelion — 1 строк вычитано — хилеки, лей-линии и сигилы по глоссарию; шкалы событий «morale: x%» вернули потерянный знак процента |
+| `events_024.csv` | events | 500 | 16,298 | Time left before Vanak retreats: 10:00 | ✅ | Arelion — сверено по глоссарию и корпусу, правок не потребовалось |
+| `events_025.csv` | events | 500 | 19,115 | Use debris in the environment to help destroy | ✅ | Arelion — 4 строк вычитано — хилеки, лей-линии и сигилы по глоссарию; шкалы событий «morale: x%» вернули потерянный знак процента |
+| `events_026.csv` | events | 500 | 25,943 | We have morals, unlike some people! Speaking  | ✅ | Arelion — 2 строк вычитано — хилеки, лей-линии и сигилы по глоссарию; шкалы событий «morale: x%» вернули потерянный знак процента |
+| `events_027.csv` | events | 175 | 9,785 | You krewe will be assigned to one of three ne | ✅ | Arelion — сверено по глоссарию и корпусу, правок не потребовалось |
 | `npc_001.csv` | npc | 500 | 41,122 | "...The crowd, they cheered, they clapped, th | ✅ | Автозаполнение из словаря — черновик, 499/500 (100%), нужна вычитка |
 | `npc_002.csv` | npc | 500 | 42,197 | A squad of Pact Vigil has just attacked Barro | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
 | `npc_003.csv` | npc | 500 | 31,439 | All the basic plants: vegetables, herbs, chic | ✅ | Автозаполнение из словаря — черновик, 500/500 (100%), нужна вычитка |
