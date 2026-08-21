@@ -245,7 +245,24 @@ GLOSS_ALSO_OK = {'Скайскейл': 'griffon'}
 # «Sovereign» в глоссарии — про сет оружия, а Sovereign of Nayos — глава сюжета,
 # Sovereign Eye of Zhaitan — босс. Их канон не касается.
 GLOSS_SKIP_EN = {'«Властелин»': r"Sovereign(?:'s|\s+(?:of|Eye))|(?:Mother|High)\s+Sovereign"
-                                r'|(?<![A-Za-z])sovereign(?![A-Za-z])'}
+                                r'|(?<![A-Za-z])sovereign(?![A-Za-z])',
+                 # Inscription — не только компонент крафта: «An inscription on this
+                 # memorial says…», «The inscription inside the ring is too worn». Там
+                 # «надпись» и есть правильный перевод. Признак компонента — крафтовый
+                 # контекст (recipe, crafting, стат, ремесленник) или имя предмета с
+                 # заглавной («Orichalcum Imbued Inscription», «Inscription[s]»); если
+                 # ни одного нет, а рядом стоит слово про чтение/камень/страницу —
+                 # запрет снимаем.
+                 'инсигния / гравировка':
+                     r"(?s)\A"
+                     r"(?!.*(?:\brecipe|\bcraft|\bexotic\b|\bascended\b|\bstats?\b|\battribute"
+                     r"|insignia|smith\b|artificer|huntsman|leatherworker|tailor|jeweler"
+                     r"|\+Power|\+Vitality|\+Toughness|\+Precision|\+Healing|\+Condition"
+                     r"|(?-i:Inscription\[s\]|[A-Z][a-z]+(?:'s)?\s+(?:[A-Z][a-z]+\s+)*Inscription)))"
+                     r".*(?:(?-i:(?<![A-Za-z])inscription)|reads|\bread\b|says|\bsay\b|inscribed"
+                     r"|engraved|etched|carved|memorial|gravestone|headstone|tombstone|plaque"
+                     r"|monument|statue|obelisk|shrine|\bgrave\b|illegible|legible|discernable"
+                     r"|epitaph|\bpages?\b|scroll)"}
 
 GLOSSARY_BANS = load_glossary_bans()
 
