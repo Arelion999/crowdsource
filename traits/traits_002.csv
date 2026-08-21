@@ -452,8 +452,8 @@ Gain attribute increases while in combat.,Получайте увеличени�
 Gain attributes based on your equipped legends. Those attributes are increased further when Cosmic Wisdom is active.,"Ваши характеристики увеличиваются в зависимости от выбранных вами легенд. Характеристики дополнительно увеличиваются, когда активна Космическая Мудрость."
 Gain barrier when you convert flow into charges while below the charge threshold.,"Получайте барьер при конвертации потока в заряды, пока вы ниже порогового значения заряда."
 "Gain barrier when you strike foes with a stealth attack. When you apply stealth to allies, you also grant them barrier.
-<c=@reminder>This effect can only be received once and will reset when stealth is removed.</c>","Получайте барьер при нанесении удара по врагам с помощью скрытной атаки. Когда вы накладываете скрытность на союзников, вы также даёте им барьер.
-<c=@reminder>Этот эффект можно получить только один раз, и он сбрасывается при снятии скрытности.</c>"
+<c=@reminder>This effect can only be received once and will reset when stealth is removed.</c>","Получайте барьер при нанесении удара по врагам с помощью скрытной атаки. Когда вы накладываете невидимость на союзников, вы также даёте им барьер.
+<c=@reminder>Этот эффект можно получить только один раз, и он сбрасывается при снятии невидимости.</c>"
 Gain barrier when you successfully finish a combo field with a leap or a blast. Every third successful finish grants you might and a larger barrier that is shared with allies.,"Вы получаете барьер, когда успешно выполняете комбо-финал прыжок или взрыв в комбо-полях. Каждый третий успешный комбо-финал дарует вам Мощь и даёт повышенный барьер вам и вашим союзникам."
 Gain bonus critical-hit chance while stealthed. This bonus lingers for a short duration after you've been revealed.,"Ваш шанс на критическое попадание повышается, когда вы невидимы. Этот бонус сохраняется некоторое время после вашего разоблачения."
 "Gain bonus power, which is increased when wielding a dagger.","Получайте бонус к силе, который увеличивается при использовании кинжала."
@@ -554,16 +554,16 @@ Gain initiative on swapping weapons while in combat.,Вы получаете и�
 "Gain initiative when you dodge, and gain initiative and regeneration when you evade an attack.
 <c=@reminder>Evading can only trigger this trait once per interval.</c>","Восстанавливает инициативу при уклонении, а также инициативу и регенерацию при уклонении от атаки.
 <c=@reminder>Уклонение может активировать эту черту только один раз за интервал.</c>"
-Gain initiative when you enter or exit stealth.,Восстанавливает инициативу при входе в скрытность или выходе из неё.
+Gain initiative when you enter or exit stealth.,Восстанавливает инициативу при входе в невидимость или выходе из неё.
 "Gain kinetic charges when you use a tool belt skill. At maximum, charges gain a burst of speed.",Даёт кинетические заряды при использовании навыка пояса инструментов. При максимуме зарядов даёт рывок скорости.
 "Gain knowledge of Elonian lore, igniting a fierce drive to purge corruption and manifesting your <c=@abilitytype>Virtues</c> as mystic tomes. Gain access to <c=@abilitytype>Mantras</c>.
-<c=@reminder>Using Tome skills consumes pages. You regenerate pages every interval.</c>","Даёт знание элонских легенд, разжигая яростное стремление очистить порчу и воплощая ваши <c=@abilitytype>Virtues</c> в виде мистических фолиантов. Даёт доступ к <c=@abilitytype>Mantras</c>.
+<c=@reminder>Using Tome skills consumes pages. You regenerate pages every interval.</c>","Даёт знание элонских легенд, разжигая яростное стремление очистить порчу и воплощая ваши <c=@abilitytype>Добродетели</c> в виде мистических фолиантов. Даёт доступ к <c=@abilitytype>Мантры</c>.
 <c=@reminder>Использование навыков фолианта расходует страницы. Вы восстанавливаете страницы каждый интервал.</c>"
 Gain life force and health when you apply a boon to yourself or remove a boon from an enemy.,"Вам даётся жизненная сила и здоровье, когда вы даёте себе дар или снимаете дар с противника."
 Gain life force every interval up to the threshold when not in shroud. Gain protection when you enter shroud.,"Восстанавливает жизненную силу каждый интервал до порогового значения, если вы не в саване. Даёт защиту при входе в саван."
 Gain life force when you enter Harbinger Shroud.,"Вы получаете жизненную силу, когда надеваете Саван Предвестника."
 "Gain life force when you inflict burning, and remove or corrupt a boon.","Восстанавливает жизненную силу при наложении горения, а также при снятии или порче благословения."
 "Gain light aura when entering Radiant Forge. Luminary skills detonate light aura, damaging enemies and healing allies.","Получайте ауру света при входе в Сияющую Кузню. Навыки Светоча взрывают ауру света, нанося урон врагам и исцеляя союзников."
-Gain might and fury when you disable a foe.,Даёт могущество и ярость при выведении врага из строя.
+Gain might and fury when you disable a foe.,Даёт мощь и ярость при выведении врага из строя.
 "Gain might for using any skill while attuned to fire. When leaving fire attunement or successfully completing a fire overload, unleash a Flame Expulsion.","Получайте мощь за использование любого навыка, находясь в настройке на огонь. При выходе из настройки на огонь или успешном завершении перегрузки огня высвобождайте Извержение пламени."
 Gain might on weapon swap. <c=@abilitytype>Burst</c> skills gain reduced recharge.,Получайте мощь при смене оружия. Навыки <c=@abilitytype>Рывок</c> получают уменьшенное время восстановления.

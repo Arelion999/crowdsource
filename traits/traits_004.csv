@@ -99,7 +99,7 @@ Payback,Расплата
 Peak Performance,Пиковая производительность
 Percent Recharged on Interrupt,Процент перезарядки при прерывании
 Percentage per Ally,Процент за союзника
-Perfect Inscriptions,Идеальные надписи
+Perfect Inscriptions,Идеальные гравировки
 Perilous Skies,Опасные небеса
 Periodically gain Soldier's Focus. Hitting with a burst skill expends Soldier's Focus to grant might to nearby allies.,Периодически даёт Сосредоточенность Солдата. Попадания с помощью вспышек ярости позволяют Сосредоточенности Солдата давать Мощь союзникам поблизости.
 Periodically gain barrier for each unique boon you have.,Периодически даёт барьер за каждый лежащий на вас уникальный дар.
@@ -264,7 +264,7 @@ Remove conditions from nearby allies when you grant yourself light aura. Gain li
 <c=@reminder>Spirits and minions are creatures.</c>","Снимает состояния с ближайших союзников при призыве существа.
 <c=@reminder>Духи и миньоны являются существами.</c>"
 Remove conditions from yourself when you successfully combo a field with a leap finisher. Remove conditions from nearby allies when you successfully combo a field with a blast finisher.,Снимает с вас состояния при использовании комбо-финалов прыжков в комбо-полях. Снимает состояния с союзников поблизости при использовании вами комбо-финалов взрывов в комбо-полях.
-Remove conditions when you enter or exit stealth. <c=@reminder>This effect also applies to stealth you grant to allies.</c>,"Снимает состояния при входе в скрытность или выходе из неё. <c=@reminder>Этот эффект также распространяется на скрытность, которую вы даёте союзникам.</c>"
+Remove conditions when you enter or exit stealth. <c=@reminder>This effect also applies to stealth you grant to allies.</c>,"Снимает состояния при входе в невидимость или выходе из неё. <c=@reminder>Этот эффект также распространяется на невидимость, которую вы даёте союзникам.</c>"
 Remove conditions when you or your pet unleash.,"Снять состояние, когда освобождаетесь вы или ваш питомец."
 Remove conditions when you swap pets.,При смене питомца вы снимаете состояния.
 Remove conditions when you swap weapons.,Вы снимаете с себя состояния при смене оружия.
@@ -291,7 +291,7 @@ Resolute Blessing,Решительное благословение
 Resolute Counter,Решительный контратакующий удар
 Resolute Evasion,Решительное уклонение
 Resolute Subconscious,Решительное подсознание
-Resolution increases your chances to critically strike and grants might each interval.,Решимость увеличивает ваш шанс критического удара и даёт могущество каждый интервал.
+Resolution increases your chances to critically strike and grants might each interval.,Решимость увеличивает ваш шанс критического удара и даёт мощь каждый интервал.
 Resolve Duration Increase,Увеличение длительности Решимости
 Resounding Timbre,Громкий тембр
 Resplendent Weaponry,Великолепное вооружение
@@ -338,7 +338,7 @@ Seething Malice,Кипящая злоба
 Seize the Moment,Уловить момент
 "Select an element to specialize in, greatly reducing its recharge time and gaining a familiar of that element. The familiar's basic skill charges as you use weapon skills, charging more rapidly when you use a weapon skill of its element. Using the familiar's basic skill three times will enable its empowered skill. 
 Gain access to <c=@abilitytype>meditation</c> skills.","Выберите стихию для специализации, значительно сокращая время её перезарядки и призывая фамильяра этой стихии. Базовый навык фамильяра заряжается по мере использования вами оружейных навыков, причем быстрее всего — при использовании навыка той же стихии. Использование базового навыка фамильяра трижды откроет доступ к его усиленному навыку.
-Получите доступ к навыкам типа <c=@abilitytype>meditation</c>."
+Получите доступ к навыкам типа <c=@abilitytype>медитация</c>."
 Self-Deception,Самообман
 Selfless Daring,Бескорыстная отвага
 Septic Corruption,Септическое заражение
@@ -387,7 +387,7 @@ Shrapnel,Шрапнель
 Shredding,Разрывание
 Shroud Gain,Получение савана
 Shroud Knight,Рыцарь савана
-Shroud skill 1 grants might.,Навык савана 1 даёт могущество.
+Shroud skill 1 grants might.,Навык савана 1 даёт мощь.
 Shroud skill 1 inflicts burning on your target.,1-е умение Савана подожжет вашу цель.
 Shroud skill 1 inflicts vulnerability.,1-е умение Савана накладывает уязвимость.
 Shroud skill 2 now additionally converts boons into conditions.,2-е умение Савана теперь также превращает дары в состояния.

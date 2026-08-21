@@ -178,8 +178,8 @@ Fire a blunted arrow designed for target practice. Can also be used to safely tr
 "Fire a bolt that splinters on contact, bleeding nearby targets. Increased range, damage, and radius.","Выстрелите болтом, который расщепляется при контакте, вызывая кровотечение у ближайших целей. Увеличенные дальность, урон и радиус."
 Fire a cloud of shrapnel that causes more damage the closer you are to foes.,"Выстрелите облаком шрапнели, которое наносит больше урона, чем ближе вы к врагам."
 Fire a cluster of micro golems.,Выстрелите роем микроголемов.
-Fire a concoction of Hylek explosives at the ground.,Выстрелите смесью взрывчатки хайлеков в землю.
-Fire a concoction of Hylek explosives at your current target.,Выстрелите смесью взрывчатки хайлеков в текущую цель.
+Fire a concoction of Hylek explosives at the ground.,Выстрелите смесью взрывчатки хилеков в землю.
+Fire a concoction of Hylek explosives at your current target.,Выстрелите смесью взрывчатки хилеков в текущую цель.
 Fire a crippling shot at your target. Crippled foes move at reduced speed until a ration is consumed. Skill consumes one arrow.,"Выстрелите замедляющим выстрелом в цель. Замедленные враги двигаются с пониженной скоростью, пока не съедят паёк. Умение расходует одну стрелу."
 Fire a crushing shot that deals extra damage to chak.,"Выстрелите сокрушительным выстрелом, который наносит дополнительный урон чакам."
 Fire a damaging beam at your target.,Выстрелите лучом урона в вашу цель.
@@ -285,8 +285,8 @@ Fire bleeding arrows with increased range and damage.,Стреляйте кро�
 "Fire bleeding arrows with increased range, damage, radius, and conditions.","Стреляйте кровоточащими стрелами с увеличенной дальностью, уроном, радиусом и эффектами."
 Fire bleeding arrows with increased range.,Стреляйте кровоточащими стрелами с увеличенной дальностью.
 Fire Bloated Putrid Cow,Огненная раздутая гнилая корова
-Fire Bloom Tattoo Chest Skin[s],Облик[|а|ов] нагрудника «Татуировка огненного цветка»
-Fire Bloom Tattoo Legs Skin[s],Облик[|а|ов] поножей «Татуировка огненного цветка»
+Fire Bloom Tattoo Chest Skin[s],[Облик|Облика|Обликов] нагрудника «Татуировка огненного цветка»
+Fire Bloom Tattoo Legs Skin[s],[Облик|Облика|Обликов] поножей «Татуировка огненного цветка»
 Fire Bloom Tattoo Pack,Набор татуировок огненного цветка
 Fire Boulder,Огненный валун
 Fire Bullet,Огненная пуля
@@ -361,7 +361,7 @@ Fire Napalm Shot,Огненный напалмовый выстрел
 Fire Opal[s],Огненный опал[|а|ов]
 Fire Orchid Blossom[s],Огненный [цветок|цветка|цветков] орхидеи
 Fire Orchid Node[s],Огненный узел[|узла|узлов] орхидеи
-"Fire Orchid Strongbox[pl:""Strongboxes""]",Огненный ящик с орхидеями
+"Fire Orchid Strongbox[pl:""Strongboxes""]",[Сундук|Сундука|Сундуков] «Огненная орхидея»
 Fire Packed Incendiary Shells,Огненные начинённые зажигательные снаряды
 Fire Penetrating Sniper Arrows,Огненные проникающие снайперские стрелы
 Fire Pit,Огненная яма

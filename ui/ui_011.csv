@@ -1,26 +1,26 @@
 english,translate
 %str1%%str2%Pirate Flintlock%str3%%str4%,%str1%%str2%Пиратский кремневый пистолет%str3%%str4%
-%str1%%str2%Pirate Harpoon%str3%%str4%,%str1%%str2%Пламенный гарпун%str3%%str4%
+%str1%%str2%Pirate Harpoon%str3%%str4%,%str1%%str2%Пиратский гарпун%str3%%str4%
 %str1%%str2%Pirate Hatchet%str3%%str4%,%str1%%str2%Пиратский топорик%str3%%str4%
 %str1%%str2%Pirate Hook%str3%%str4%,%str1%%str2%Пиратский крюк%str3%%str4%
-%str1%%str2%Pirate Needler%str3%%str4%,%str1%%str2%Пиратская игла%str3%%str4%
+%str1%%str2%Pirate Needler%str3%%str4%,%str1%%str2%Пиратский иглодер%str3%%str4%
 %str1%%str2%Pirate Poppet%str3%%str4%,%str1%%str2%Пиратская кукла%str3%%str4%
 %str1%%str2%Pirate Slayer%str3%%str4%,%str1%%str2%Пиратский убийца%str3%%str4%
-%str1%%str2%Pirate Sledge%str3%%str4%,%str1%%str2%Убийца крайтов%str3%%str4%
-%str1%%str2%Pirate Speargun%str3%%str4%,%str1%%str2%Пиратский гарпунный ружьё%str3%%str4%
+%str1%%str2%Pirate Sledge%str3%%str4%,%str1%%str2%Пиратская кувалда%str3%%str4%
+%str1%%str2%Pirate Speargun%str3%%str4%,%str1%%str2%Пиратское гарпунное ружьё%str3%%str4%
 %str1%%str2%Pirate Trident%str3%%str4%,%str1%%str2%Пиратский трезубец%str3%%str4%
 %str1%%str2%Pistol of the Dragon's Deep%str3%%str4%,%str1%%str2%Пистолет драконьей глубины%str3%%str4%
 %str1%%str2%Pistol%str3%%str4%,%str1%%str2%Пистолет%str3%%str4%
 %str1%%str2%Pit Fighter Chestguard%str3%%str4%,%str1%%str2%Нагрудник бойца ямы%str3%%str4%
 %str1%%str2%Pit Fighter Greaves%str3%%str4%,%str1%%str2%Поножи бойца ямы%str3%%str4%
-%str1%%str2%Pit Fighter Helm%str3%%str4%,%str1%%str2%Шлем бойца ямы%str3%%str4%
+%str1%%str2%Pit Fighter Helm%str3%%str4%,%str1%%str2%Шлем бойца арены%str3%%str4%
 %str1%%str2%Pit Fighter Shoulderguard%str3%%str4%,%str1%%str2%Наплечник бойца ямы%str3%%str4%
 %str1%%str2%Pit Fighter Skirt%str3%%str4%,%str1%%str2%Юбка бойца ямы%str3%%str4%
 %str1%%str2%Pit Fighter Wristguards%str3%%str4%,%str1%%str2%Наручи бойца ямы%str3%%str4%
 %str1%%str2%Plasma Axe%str3%%str4%,%str1%%str2%Плазменный топор%str3%%str4%
 %str1%%str2%Plasma Dagger%str3%%str4%,%str1%%str2%Плазменный кинжал%str3%%str4%
 %str1%%str2%Plasma Focus%str3%%str4%,%str1%%str2%Плазменный фокус%str3%%str4%
-%str1%%str2%Plasma Greatsword%str3%%str4%,%str1%%str2%Плазменный большой меч%str3%%str4%
+%str1%%str2%Plasma Greatsword%str3%%str4%,%str1%%str2%Плазменный двуручный меч%str3%%str4%
 %str1%%str2%Plasma Hammer%str3%%str4%,%str1%%str2%Плазменный молот%str3%%str4%
 %str1%%str2%Plasma Longbow%str3%%str4%,%str1%%str2%Плазменный длинный лук%str3%%str4%
 %str1%%str2%Plasma Mace%str3%%str4%,%str1%%str2%Плазменная булава%str3%%str4%
@@ -35,49 +35,49 @@ english,translate
 %str1%%str2%Plated Axe%str3%%str4%,%str1%%str2%Пластинчатый топор%str3%%str4%
 %str1%%str2%Plated Dagger%str3%%str4%,%str1%%str2%Пластинчатый кинжал%str3%%str4%
 %str1%%str2%Plated Focus%str3%%str4%,%str1%%str2%Пластинчатый фокус%str3%%str4%
-%str1%%str2%Plated Greatsword%str3%%str4%,%str1%%str2%Пластинчатый большой меч%str3%%str4%
+%str1%%str2%Plated Greatsword%str3%%str4%,%str1%%str2%Ламельный двуручный меч%str3%%str4%
 %str1%%str2%Plated Mace%str3%%str4%,%str1%%str2%Пластинчатая булава%str3%%str4%
-%str1%%str2%Plated Rifle%str3%%str4%,%str1%%str2%Пластинчатая винтовка%str3%%str4%
+%str1%%str2%Plated Rifle%str3%%str4%,%str1%%str2%Бронированная ружьё%str3%%str4%
 %str1%%str2%Plated Scepter%str3%%str4%,%str1%%str2%Пластинчатый скипетр%str3%%str4%
 %str1%%str2%Plated Shield%str3%%str4%,%str1%%str2%Пластинчатый щит%str3%%str4%
 %str1%%str2%Plated Short Bow%str3%%str4%,%str1%%str2%Пластинчатый короткий лук%str3%%str4%
 %str1%%str2%Plated Staff%str3%%str4%,%str1%%str2%Пластинчатый посох%str3%%str4%
 %str1%%str2%Plated Sword%str3%%str4%,%str1%%str2%Пластинчатый меч%str3%%str4%
-%str1%%str2%Plated Torch%str3%%str4%,%str1%%str2%Пластинчатый факел%str3%%str4%
+%str1%%str2%Plated Torch%str3%%str4%,%str1%%str2%Бронированный факел%str3%%str4%
 %str1%%str2%Plated Warhorn%str3%%str4%,%str1%%str2%Пластинчатый боевой рог%str3%%str4%
 %str1%%str2%Plush Moto Backpack%str3%%str4%,%str1%%str2%Плюшевый рюкзак Мото%str3%%str4%
-%str1%%str2%Plush Quaggan Backpack%str3%%str4%,%str1%%str2%Плюшевый рюкзак Кваггана%str3%%str4%
-%str1%%str2%Plush Ram Backpack%str3%%str4%,%str1%%str2%Плюшевый рюкзак Барана%str3%%str4%
+%str1%%str2%Plush Quaggan Backpack%str3%%str4%,%str1%%str2%Плюшевый рюкзак кваггана%str3%%str4%
+%str1%%str2%Plush Ram Backpack%str3%%str4%,%str1%%str2%Плюшевый рюкзак-баран%str3%%str4%
 %str1%%str2%Plush Tybalt Backpack%str3%%str4%,%str1%%str2%Плюшевый рюкзак Тибальта%str3%%str4%
 %str1%%str2%Polearm%str3%%str4%,%str1%%str2%Древковое оружие%str3%%str4%
 %str1%%str2%Polychromatic Heavy Breastplate%str3%%str4%,%str1%%str2%Полихроматический тяжёлый нагрудник%str3%%str4%
 %str1%%str2%Polychromatic Heavy Cuisses%str3%%str4%,%str1%%str2%Полихроматические тяжёлые набедренники%str3%%str4%
-%str1%%str2%Polychromatic Heavy Gauntlets%str3%%str4%,%str1%%str2%Полихроматические тяжёлые наручи%str3%%str4%
-%str1%%str2%Polychromatic Heavy Greaves%str3%%str4%,%str1%%str2%Полихроматические тяжёлые поножи%str3%%str4%
+%str1%%str2%Polychromatic Heavy Gauntlets%str3%%str4%,%str1%%str2%Полихромные тяжёлые рукавицы%str3%%str4%
+%str1%%str2%Polychromatic Heavy Greaves%str3%%str4%,%str1%%str2%Полихромные тяжёлые поножи%str3%%str4%
 %str1%%str2%Polychromatic Heavy Helmet%str3%%str4%,%str1%%str2%Полихроматический тяжёлый шлем%str3%%str4%
-%str1%%str2%Polychromatic Heavy Pauldrons%str3%%str4%,%str1%%str2%Полихроматические тяжёлые наплечники%str3%%str4%
-%str1%%str2%Polychromatic Light Crown%str3%%str4%,%str1%%str2%Полихроматическая лёгкая корона%str3%%str4%
+%str1%%str2%Polychromatic Heavy Pauldrons%str3%%str4%,%str1%%str2%Полихромные тяжёлые наплечники%str3%%str4%
+%str1%%str2%Polychromatic Light Crown%str3%%str4%,%str1%%str2%Полихромная световая корона%str3%%str4%
 %str1%%str2%Polychromatic Light Gloves%str3%%str4%,%str1%%str2%Полихроматические лёгкие перчатки%str3%%str4%
-%str1%%str2%Polychromatic Light Mantle%str3%%str4%,%str1%%str2%Полихроматическая лёгкая накидка%str3%%str4%
-%str1%%str2%Polychromatic Light Pants%str3%%str4%,%str1%%str2%Полихроматические лёгкие штаны%str3%%str4%
-%str1%%str2%Polychromatic Light Regalia%str3%%str4%,%str1%%str2%Полихроматическое лёгкое облачение%str3%%str4%
-%str1%%str2%Polychromatic Light Shoes%str3%%str4%,%str1%%str2%Полихроматические лёгкие туфли%str3%%str4%
-%str1%%str2%Polychromatic Medium Boots%str3%%str4%,%str1%%str2%Полихроматические лёгкие ботинки%str3%%str4%
-%str1%%str2%Polychromatic Medium Gloves%str3%%str4%,%str1%%str2%Полихроматические средние перчатки%str3%%str4%
-%str1%%str2%Polychromatic Medium Jacket%str3%%str4%,%str1%%str2%Полихроматическая средняя куртка%str3%%str4%
+%str1%%str2%Polychromatic Light Mantle%str3%%str4%,%str1%%str2%Многоцветный световой плащ%str3%%str4%
+%str1%%str2%Polychromatic Light Pants%str3%%str4%,%str1%%str2%Полихромные световые штаны%str3%%str4%
+%str1%%str2%Polychromatic Light Regalia%str3%%str4%,%str1%%str2%Полихроматический световой регалий%str3%%str4%
+%str1%%str2%Polychromatic Light Shoes%str3%%str4%,%str1%%str2%Полихроматические лёгкие ботинки%str3%%str4%
+%str1%%str2%Polychromatic Medium Boots%str3%%str4%,%str1%%str2%Полихромные средние сапоги%str3%%str4%
+%str1%%str2%Polychromatic Medium Gloves%str3%%str4%,%str1%%str2%Многоцветные средние перчатки%str3%%str4%
+%str1%%str2%Polychromatic Medium Jacket%str3%%str4%,%str1%%str2%Полихромная средняя куртка%str3%%str4%
 %str1%%str2%Polychromatic Medium Leggings%str3%%str4%,%str1%%str2%Полихроматические средние поножи%str3%%str4%
-%str1%%str2%Polychromatic Medium Mask%str3%%str4%,%str1%%str2%Полихроматическая средняя маска%str3%%str4%
+%str1%%str2%Polychromatic Medium Mask%str3%%str4%,%str1%%str2%Полихромная маска (средняя броня)%str3%%str4%
 %str1%%str2%Polychromatic Medium Shoulders%str3%%str4%,%str1%%str2%Полихроматические средние наплечники%str3%%str4%
-%str1%%str2%Pop Gun%str3%%str4%,%str1%%str2%Хлопушка%str3%%str4%
-%str1%%str2%Powered Boots%str3%%str4%,%str1%%str2%Энергетические сапоги%str3%%str4%
-%str1%%str2%Powered Gloves%str3%%str4%,%str1%%str2%Энергетические перчатки%str3%%str4%
+%str1%%str2%Pop Gun%str3%%str4%,%str1%%str2%Пистолет-хлопушка%str3%%str4%
+%str1%%str2%Powered Boots%str3%%str4%,%str1%%str2%Силовые сапоги%str3%%str4%
+%str1%%str2%Powered Gloves%str3%%str4%,%str1%%str2%Усиленные перчатки%str3%%str4%
 %str1%%str2%Powered Left Glove%str3%%str4%,%str1%%str2%Энергетическая левая перчатка%str3%%str4%
 %str1%%str2%Powered Right Glove%str3%%str4%,%str1%%str2%Энергетическая правая перчатка%str3%%str4%
-%str1%%str2%Powered Shoulders%str3%%str4%,%str1%%str2%Энергетические наплечники%str3%%str4%
-%str1%%str2%Powered Vest%str3%%str4%,%str1%%str2%Перчатки «Wrangler»%str3%%str4%
-%str1%%str2%Poyaqui's Noggin%str3%%str4%,%str1%%str2%Голова Пойаки%str3%%str4%
-%str1%%str2%Practical Armorsmith's Backpack%str3%%str4%,%str1%%str2%Практичный рюкзак бронника%str3%%str4%
-%str1%%str2%Practical Artificer's Backpack%str3%%str4%,%str1%%str2%Практичный рюкзак изобретателя%str3%%str4%
+%str1%%str2%Powered Shoulders%str3%%str4%,%str1%%str2%Силовые наплечники%str3%%str4%
+%str1%%str2%Powered Vest%str3%%str4%,%str1%%str2%Усиленный жилет%str3%%str4%
+%str1%%str2%Poyaqui's Noggin%str3%%str4%,%str1%%str2%Голова Пойяки%str3%%str4%
+%str1%%str2%Practical Armorsmith's Backpack%str3%%str4%,%str1%%str2%Практичный рюкзак бронекузнеца%str3%%str4%
+%str1%%str2%Practical Artificer's Backpack%str3%%str4%,%str1%%str2%Практический ранец ремесленника%str3%%str4%
 %str1%%str2%Practical Huntsman's Backpack%str3%%str4%,%str1%%str2%Практичный рюкзак охотника%str3%%str4%
 %str1%%str2%Practical Jeweler's Backpack%str3%%str4%,%str1%%str2%Практичный рюкзак ювелира%str3%%str4%
 %str1%%str2%Practical Leatherworker's Backpack%str3%%str4%,%str1%%str2%Практичный рюкзак кожевника%str3%%str4%
@@ -85,18 +85,18 @@ english,translate
 %str1%%str2%Practical Tailor's Backpack%str3%%str4%,%str1%%str2%Практичный рюкзак портного%str3%%str4%
 %str1%%str2%Practical Weaponsmith's Backpack%str3%%str4%,%str1%%str2%Практичный рюкзак оружейника%str3%%str4%
 %str1%%str2%Predatory Boots%str3%%str4%,%str1%%str2%Хищные сапоги%str3%%str4%
-%str1%%str2%Predatory Bracers%str3%%str4%,%str1%%str2%Хищные наручи%str3%%str4%
+%str1%%str2%Predatory Bracers%str3%%str4%,%str1%%str2%Наручи хищника%str3%%str4%
 %str1%%str2%Predatory Leggings%str3%%str4%,%str1%%str2%Хищные поножи%str3%%str4%
 %str1%%str2%Predatory Mask%str3%%str4%,%str1%%str2%Хищная маска%str3%%str4%
 %str1%%str2%Predatory Shoulderpad%str3%%str4%,%str1%%str2%Хищный наплечник%str3%%str4%
 %str1%%str2%Predatory Vest%str3%%str4%,%str1%%str2%Хищный жилет%str3%%str4%
-%str1%%str2%Primeval Gauntlets%str3%%str4%,%str1%%str2%Первобытные рукавицы%str3%%str4%
-%str1%%str2%Primeval Legplates%str3%%str4%,%str1%%str2%Первобытные наножники%str3%%str4%
+%str1%%str2%Primeval Gauntlets%str3%%str4%,%str1%%str2%Первобытные наручи%str3%%str4%
+%str1%%str2%Primeval Legplates%str3%%str4%,%str1%%str2%Первобытные поножи%str3%%str4%
 %str1%%str2%Primeval Pauldrons%str3%%str4%,%str1%%str2%Первобытные наплечники%str3%%str4%
 %str1%%str2%Primeval Warboots%str3%%str4%,%str1%%str2%Первобытные боевые сапоги%str3%%str4%
 %str1%%str2%Primeval Warhelm%str3%%str4%,%str1%%str2%Первобытный боевой шлем%str3%%str4%
 %str1%%str2%Primeval Warplate%str3%%str4%,%str1%%str2%Первобытная боевая броня%str3%%str4%
-%str1%%str2%Primitive Chestwraps%str3%%str4%,%str1%%str2%Примитивные нагрудные повязки%str3%%str4%
+%str1%%str2%Primitive Chestwraps%str3%%str4%,%str1%%str2%Примитивные обмотки для груди%str3%%str4%
 %str1%%str2%Primitive Cowl%str3%%str4%,%str1%%str2%Примитивный капюшон%str3%%str4%
 %str1%%str2%Primitive Footwraps%str3%%str4%,%str1%%str2%Примитивные обмотки для ног%str3%%str4%
 %str1%%str2%Primitive Handwraps%str3%%str4%,%str1%%str2%Примитивные обмотки для рук%str3%%str4%
@@ -104,36 +104,36 @@ english,translate
 %str1%%str2%Primitive Mantle%str3%%str4%,%str1%%str2%Примитивное оплечье%str3%%str4%
 %str1%%str2%Primitive Pike%str3%%str4%,%str1%%str2%Примитивная пика%str3%%str4%
 %str1%%str2%Primitive Pillar%str3%%str4%,%str1%%str2%Примитивный столб%str3%%str4%
-%str1%%str2%Princess Wand%str3%%str4%,%str1%%str2%Жезл принцессы%str3%%str4%
+%str1%%str2%Princess Wand%str3%%str4%,%str1%%str2%Жезл Принцессы%str3%%str4%
 %str1%%str2%Priory's Historical Axe%str3%%str4%,%str1%%str2%Исторический топор Приората%str3%%str4%
 %str1%%str2%Priory's Historical Boots%str3%%str4%,%str1%%str2%Исторические сапоги Приората%str3%%str4%
 %str1%%str2%Priory's Historical Breastplate%str3%%str4%,%str1%%str2%Исторический нагрудник Приората%str3%%str4%
 %str1%%str2%Priory's Historical Cowl%str3%%str4%,%str1%%str2%Исторический капюшон Приората%str3%%str4%
 %str1%%str2%Priory's Historical Dagger%str3%%str4%,%str1%%str2%Исторический кинжал Приората%str3%%str4%
 %str1%%str2%Priory's Historical Focus%str3%%str4%,%str1%%str2%Исторический фокус Приората%str3%%str4%
-%str1%%str2%Priory's Historical Gauntlets%str3%%str4%,%str1%%str2%Исторические рукавицы Приората%str3%%str4%
+%str1%%str2%Priory's Historical Gauntlets%str3%%str4%,%str1%%str2%Исторические латные перчатки Приората%str3%%str4%
 %str1%%str2%Priory's Historical Glaive%str3%%str4%,%str1%%str2%Историческая глефа Приората%str3%%str4%
 %str1%%str2%Priory's Historical Gloves%str3%%str4%,%str1%%str2%Исторические перчатки Приората%str3%%str4%
 %str1%%str2%Priory's Historical Greatsword%str3%%str4%,%str1%%str2%Исторический двуручный меч Приората%str3%%str4%
-%str1%%str2%Priory's Historical Greaves%str3%%str4%,%str1%%str2%Исторические поножи Приората%str3%%str4%
+%str1%%str2%Priory's Historical Greaves%str3%%str4%,%str1%%str2%Исторические наголенники Приората%str3%%str4%
 %str1%%str2%Priory's Historical Hammer%str3%%str4%,%str1%%str2%Исторический молот Приората%str3%%str4%
 %str1%%str2%Priory's Historical Harpoon%str3%%str4%,%str1%%str2%Исторический гарпун Приората%str3%%str4%
 %str1%%str2%Priory's Historical Helmet%str3%%str4%,%str1%%str2%Исторический шлем Приората%str3%%str4%
-%str1%%str2%Priory's Historical Jerkin%str3%%str4%,%str1%%str2%Историческая куртка Приората%str3%%str4%
-%str1%%str2%Priory's Historical Leggings%str3%%str4%,%str1%%str2%Исторические наголенники Приората%str3%%str4%
+%str1%%str2%Priory's Historical Jerkin%str3%%str4%,%str1%%str2%Исторический колет Приората%str3%%str4%
+%str1%%str2%Priory's Historical Leggings%str3%%str4%,%str1%%str2%Исторические поножи Приората%str3%%str4%
 %str1%%str2%Priory's Historical Longbow%str3%%str4%,%str1%%str2%Исторический длинный лук Приората%str3%%str4%
 %str1%%str2%Priory's Historical Mace%str3%%str4%,%str1%%str2%Историческая булава Приората%str3%%str4%
-%str1%%str2%Priory's Historical Mantle%str3%%str4%,%str1%%str2%Историческое оплечье Приората%str3%%str4%
+%str1%%str2%Priory's Historical Mantle%str3%%str4%,%str1%%str2%Историческая накидка Приората%str3%%str4%
 %str1%%str2%Priory's Historical Mask%str3%%str4%,%str1%%str2%Историческая маска Приората%str3%%str4%
 %str1%%str2%Priory's Historical Pants%str3%%str4%,%str1%%str2%Исторические штаны Приората%str3%%str4%
 %str1%%str2%Priory's Historical Pauldrons%str3%%str4%,%str1%%str2%Исторические наплечники Приората%str3%%str4%
 %str1%%str2%Priory's Historical Pistol%str3%%str4%,%str1%%str2%Исторический пистолет Приората%str3%%str4%
-%str1%%str2%Priory's Historical Rifle%str3%%str4%,%str1%%str2%Историческая винтовка Приората%str3%%str4%
+%str1%%str2%Priory's Historical Rifle%str3%%str4%,%str1%%str2%Историческое ружьё Приората%str3%%str4%
 %str1%%str2%Priory's Historical Scepter%str3%%str4%,%str1%%str2%Исторический скипетр Приората%str3%%str4%
 %str1%%str2%Priory's Historical Shield%str3%%str4%,%str1%%str2%Исторический щит Приората%str3%%str4%
 %str1%%str2%Priory's Historical Shoes%str3%%str4%,%str1%%str2%Исторические туфли Приората%str3%%str4%
 %str1%%str2%Priory's Historical Short Bow%str3%%str4%,%str1%%str2%Исторический короткий лук Приората%str3%%str4%
-%str1%%str2%Priory's Historical Shoulderpads%str3%%str4%,%str1%%str2%Исторические наплечники Приората%str3%%str4%
+%str1%%str2%Priory's Historical Shoulderpads%str3%%str4%,%str1%%str2%Исторические наплечные пластины Приората%str3%%str4%
 %str1%%str2%Priory's Historical Speargun%str3%%str4%,%str1%%str2%Историческое гарпунное ружьё Приората%str3%%str4%
 %str1%%str2%Priory's Historical Staff%str3%%str4%,%str1%%str2%Исторический посох Приората%str3%%str4%
 %str1%%str2%Priory's Historical Sword%str3%%str4%,%str1%%str2%Исторический меч Приората%str3%%str4%
@@ -141,64 +141,64 @@ english,translate
 %str1%%str2%Priory's Historical Torch%str3%%str4%,%str1%%str2%Исторический факел Приората%str3%%str4%
 %str1%%str2%Priory's Historical Trident%str3%%str4%,%str1%%str2%Исторический трезубец Приората%str3%%str4%
 %str1%%str2%Priory's Historical Vambraces%str3%%str4%,%str1%%str2%Исторические наручи Приората%str3%%str4%
-%str1%%str2%Priory's Historical Vestments%str3%%str4%,%str1%%str2%Исторические облачения Приората%str3%%str4%
+%str1%%str2%Priory's Historical Vestments%str3%%str4%,%str1%%str2%Исторические одеяния Приората%str3%%str4%
 %str1%%str2%Priory's Historical Warhorn%str3%%str4%,%str1%%str2%Исторический боевой рог Приората%str3%%str4%
 %str1%%str2%Prismatic Spear%str3%%str4%,%str1%%str2%Призматическое копьё%str3%%str4%
 %str1%%str2%Privateer Axe%str3%%str4%,%str1%%str2%Топор капера%str3%%str4%
 %str1%%str2%Privateer Boots%str3%%str4%,%str1%%str2%Сапоги капера%str3%%str4%
-%str1%%str2%Privateer Coat%str3%%str4%,%str1%%str2%Куртка капера%str3%%str4%
+%str1%%str2%Privateer Coat%str3%%str4%,%str1%%str2%Пальто капера%str3%%str4%
 %str1%%str2%Privateer Dagger%str3%%str4%,%str1%%str2%Каперский кинжал%str3%%str4%
 %str1%%str2%Privateer Focus%str3%%str4%,%str1%%str2%Каперский фокус%str3%%str4%
-%str1%%str2%Privateer Gloves%str3%%str4%,%str1%%str2%Каперские перчатки%str3%%str4%
+%str1%%str2%Privateer Gloves%str3%%str4%,%str1%%str2%Перчатки капера%str3%%str4%
 %str1%%str2%Privateer Hammer%str3%%str4%,%str1%%str2%Каперский молот%str3%%str4%
-%str1%%str2%Privateer Hat%str3%%str4%,%str1%%str2%Каперская шляпа%str3%%str4%
+%str1%%str2%Privateer Hat%str3%%str4%,%str1%%str2%Шляпа капера%str3%%str4%
 %str1%%str2%Privateer Longbow%str3%%str4%,%str1%%str2%Каперский длинный лук%str3%%str4%
 %str1%%str2%Privateer Mace%str3%%str4%,%str1%%str2%Каперская булава%str3%%str4%
-%str1%%str2%Privateer Pants%str3%%str4%,%str1%%str2%Каперские штаны%str3%%str4%
+%str1%%str2%Privateer Pants%str3%%str4%,%str1%%str2%Штаны капера%str3%%str4%
 %str1%%str2%Privateer Pistol%str3%%str4%,%str1%%str2%Каперский пистолет%str3%%str4%
 %str1%%str2%Privateer Rifle%str3%%str4%,%str1%%str2%Каперская винтовка%str3%%str4%
 %str1%%str2%Privateer Scepter%str3%%str4%,%str1%%str2%Каперский скипетр%str3%%str4%
 %str1%%str2%Privateer Shield%str3%%str4%,%str1%%str2%Каперский щит%str3%%str4%
 %str1%%str2%Privateer Short Bow%str3%%str4%,%str1%%str2%Каперский короткий лук%str3%%str4%
-%str1%%str2%Privateer Shoulders%str3%%str4%,%str1%%str2%Каперские наплечники%str3%%str4%
+%str1%%str2%Privateer Shoulders%str3%%str4%,%str1%%str2%Наплечники капера%str3%%str4%
 %str1%%str2%Privateer Staff%str3%%str4%,%str1%%str2%Пиратский посох%str3%%str4%
 %str1%%str2%Privateer Sword%str3%%str4%,%str1%%str2%Пиратский меч%str3%%str4%
 %str1%%str2%Privateer Torch%str3%%str4%,%str1%%str2%Пиратский факел%str3%%str4%
 %str1%%str2%Privateer Warhorn%str3%%str4%,%str1%%str2%Пиратский рог%str3%%str4%
 %str1%%str2%Processing Line Control Bracers%str3%%str4%,%str1%%str2%Браслеты контроля производственной линии%str3%%str4%
 %str1%%str2%Profane Gloves%str3%%str4%,%str1%%str2%Нечестивые перчатки%str3%%str4%
-%str1%%str2%Profane Greatcoat%str3%%str4%,%str1%%str2%Нечестивый сюртук%str3%%str4%
-%str1%%str2%Profane Mantle%str3%%str4%,%str1%%str2%Сапоги «Wolf»%str3%%str4%
-%str1%%str2%Profane Masque%str3%%str4%,%str1%%str2%Нечестивая маска%str3%%str4%
+%str1%%str2%Profane Greatcoat%str3%%str4%,%str1%%str2%Длиннополое пальто нечестивца%str3%%str4%
+%str1%%str2%Profane Mantle%str3%%str4%,%str1%%str2%Нечестивый покров%str3%%str4%
+%str1%%str2%Profane Masque%str3%%str4%,%str1%%str2%Маска «Профан»%str3%%str4%
 %str1%%str2%Profane Pants%str3%%str4%,%str1%%str2%Нечестивые штаны%str3%%str4%
-%str1%%str2%Profane Shoes%str3%%str4%,%str1%%str2%Нечестивые башмаки%str3%%str4%
-%str1%%str2%Protean Boots%str3%%str4%,%str1%%str2%Протейские сапоги%str3%%str4%
-%str1%%str2%Protean Coat%str3%%str4%,%str1%%str2%Протейский сюртук%str3%%str4%
+%str1%%str2%Profane Shoes%str3%%str4%,%str1%%str2%Нечестивая обувь%str3%%str4%
+%str1%%str2%Protean Boots%str3%%str4%,%str1%%str2%Протеевские сапоги%str3%%str4%
+%str1%%str2%Protean Coat%str3%%str4%,%str1%%str2%Протейное Покрытие%str3%%str4%
 %str1%%str2%Protean Epaulets%str3%%str4%,%str1%%str2%Протейские эполеты%str3%%str4%
-%str1%%str2%Protean Gloves%str3%%str4%,%str1%%str2%Протейские перчатки%str3%%str4%
-%str1%%str2%Protean Helm%str3%%str4%,%str1%%str2%Протейский шлем%str3%%str4%
+%str1%%str2%Protean Gloves%str3%%str4%,%str1%%str2%Протеиновые перчатки%str3%%str4%
+%str1%%str2%Protean Helm%str3%%str4%,%str1%%str2%Протейный шлем%str3%%str4%
 %str1%%str2%Protean Leggings%str3%%str4%,%str1%%str2%Протейские поножи%str3%%str4%
 %str1%%str2%Protector's Armor%str3%%str4%,%str1%%str2%Броня защитника%str3%%str4%
-%str1%%str2%Protector's Chausses%str3%%str4%,%str1%%str2%Шоссы защитника%str3%%str4%
+%str1%%str2%Protector's Chausses%str3%%str4%,%str1%%str2%Поножи защитника%str3%%str4%
 %str1%%str2%Protector's Footgear%str3%%str4%,%str1%%str2%Обувь защитника%str3%%str4%
 %str1%%str2%Protector's Gauntlets%str3%%str4%,%str1%%str2%Рукавицы защитника%str3%%str4%
 %str1%%str2%Protector's Helm%str3%%str4%,%str1%%str2%Шлем защитника%str3%%str4%
 %str1%%str2%Protector's Shoulderplates%str3%%str4%,%str1%%str2%Наплечники защитника%str3%%str4%
-%str1%%str2%Prototype Boots%str3%%str4%,%str1%%str2%Прототип сапог%str3%%str4%
-%str1%%str2%Prototype Coat%str3%%str4%,%str1%%str2%Прототип сюртука%str3%%str4%
-%str1%%str2%Prototype Epaulets%str3%%str4%,%str1%%str2%Прототип эполет%str3%%str4%
+%str1%%str2%Prototype Boots%str3%%str4%,%str1%%str2%Прототипные сапоги%str3%%str4%
+%str1%%str2%Prototype Coat%str3%%str4%,%str1%%str2%Прототипная куртка%str3%%str4%
+%str1%%str2%Prototype Epaulets%str3%%str4%,%str1%%str2%Прототипные эполеты%str3%%str4%
 %str1%%str2%Prototype Fractal Capacitor%str3%%str4%,%str1%%str2%Прототип фрактального конденсатора%str3%%str4%
-%str1%%str2%Prototype Gloves%str3%%str4%,%str1%%str2%Прототип перчаток%str3%%str4%
-%str1%%str2%Prototype Helm%str3%%str4%,%str1%%str2%Прототип шлема%str3%%str4%
-%str1%%str2%Prototype Leggings%str3%%str4%,%str1%%str2%Прототип поножей%str3%%str4%
+%str1%%str2%Prototype Gloves%str3%%str4%,%str1%%str2%Прототипные перчатки%str3%%str4%
+%str1%%str2%Prototype Helm%str3%%str4%,%str1%%str2%Прототипный шлем%str3%%str4%
+%str1%%str2%Prototype Leggings%str3%%str4%,%str1%%str2%Прототипные поножи%str3%%str4%
 %str1%%str2%Prototype%str3%%str4%,%str1%%str2%Прототип%str3%%str4%
-%str1%%str2%Prowler Boots%str3%%str4%,%str1%%str2%Сапоги бродяги%str3%%str4%
-%str1%%str2%Prowler Coat%str3%%str4%,%str1%%str2%Сюртук бродяги%str3%%str4%
+%str1%%str2%Prowler Boots%str3%%str4%,%str1%%str2%Сапоги хищника%str3%%str4%
+%str1%%str2%Prowler Coat%str3%%str4%,%str1%%str2%Куртка бродяги%str3%%str4%
 %str1%%str2%Prowler Gloves%str3%%str4%,%str1%%str2%Перчатки бродяги%str3%%str4%
-%str1%%str2%Prowler Helm%str3%%str4%,%str1%%str2%Шлем бродяги%str3%%str4%
-%str1%%str2%Prowler Pants%str3%%str4%,%str1%%str2%Штаны бродяги%str3%%str4%
-%str1%%str2%Prowler Shoulders%str3%%str4%,%str1%%str2%Наплечники «Wrangler»%str3%%str4%
-%str1%%str2%Quad Spinal Blades%str3%%str4%,%str1%%str2%Четверные спинные лезвия%str3%%str4%
+%str1%%str2%Prowler Helm%str3%%str4%,%str1%%str2%Шлем хищника%str3%%str4%
+%str1%%str2%Prowler Pants%str3%%str4%,%str1%%str2%Штаны «Скиталец»%str3%%str4%
+%str1%%str2%Prowler Shoulders%str3%%str4%,%str1%%str2%Наплечники крадущегося%str3%%str4%
+%str1%%str2%Quad Spinal Blades%str3%%str4%,%str1%%str2%Квадратные спинные клинки%str3%%str4%
 %str1%%str2%Quaggan Killer Whale Backpack%str3%%str4%,%str1%%str2%Рюкзак «Квагган-косатка»%str3%%str4%
 %str1%%str2%Quip%str3%%str4%,%str1%%str2%Кип%str3%%str4%
 %str1%%str2%Quiver%str3%%str4%,%str1%%str2%Колчан%str3%%str4%
@@ -213,112 +213,112 @@ english,translate
 %str1%%str2%Radiant Hauberk%str3%%str4%,%str1%%str2%Сияющий хауберк%str3%%str4%
 %str1%%str2%Radiant Leggings%str3%%str4%,%str1%%str2%Поножи адепта%str3%%str4%
 %str1%%str2%Radiant Legguards%str3%%str4%,%str1%%str2%Сияющие набедренники%str3%%str4%
-%str1%%str2%Radiant Mantle%str3%%str4%,%str1%%str2%Сияющая мантия%str3%%str4%
+%str1%%str2%Radiant Mantle%str3%%str4%,%str1%%str2%Сияющее оплечье%str3%%str4%
 %str1%%str2%Radiant Vambraces%str3%%str4%,%str1%%str2%Сияющие наручи%str3%%str4%
 %str1%%str2%Radiant Warhelm%str3%%str4%,%str1%%str2%Сияющий боевой шлем%str3%%str4%
 %str1%%str2%Rage Experiment%str3%%str4%,%str1%%str2%Эксперимент «Ярость»%str3%%str4%
 %str1%%str2%Rage%str3%%str4%,%str1%%str2%Ярость%str3%%str4%
-%str1%%str2%Rage's Fist%str3%%str4%,%str1%%str2%Кулак Ярости%str3%%str4%
+%str1%%str2%Rage's Fist%str3%%str4%,%str1%%str2%Кулак ярости%str3%%str4%
 %str1%%str2%Rampart Gauntlets%str3%%str4%,%str1%%str2%Бастионные рукавицы%str3%%str4%
 %str1%%str2%Rampart Legplates%str3%%str4%,%str1%%str2%Бастионные набедренники%str3%%str4%
 %str1%%str2%Rampart Pauldrons%str3%%str4%,%str1%%str2%Бастионные наплечники%str3%%str4%
 %str1%%str2%Rampart Warboots%str3%%str4%,%str1%%str2%Бастионные боевые сапоги%str3%%str4%
 %str1%%str2%Rampart Warhelm%str3%%str4%,%str1%%str2%Бастионный боевой шлем%str3%%str4%
 %str1%%str2%Rampart Warplate%str3%%str4%,%str1%%str2%Бастионный нагрудник%str3%%str4%
-%str1%%str2%Randa's Eviscerator%str3%%str4%,%str1%%str2%Потрошитель Ранды%str3%%str4%
-%str1%%str2%Rascal Boots%str3%%str4%,%str1%%str2%Сапоги плута%str3%%str4%
+%str1%%str2%Randa's Eviscerator%str3%%str4%,%str1%%str2%Эвисцератор Ранды%str3%%str4%
+%str1%%str2%Rascal Boots%str3%%str4%,%str1%%str2%Плутовские сапоги%str3%%str4%
 %str1%%str2%Rascal Coat%str3%%str4%,%str1%%str2%Куртка плута%str3%%str4%
-%str1%%str2%Rascal Gloves%str3%%str4%,%str1%%str2%Перчатки плута%str3%%str4%
-%str1%%str2%Rascal Mask%str3%%str4%,%str1%%str2%Маска плута%str3%%str4%
-%str1%%str2%Rascal Pants%str3%%str4%,%str1%%str2%Штаны плута%str3%%str4%
-%str1%%str2%Rascal Shoulders%str3%%str4%,%str1%%str2%Наплечники плута%str3%%str4%
-%str1%%str2%Raven Ceremonial Garb%str3%%str4%,%str1%%str2%Церемониальное одеяние Медведицы%str3%%str4%
-%str1%%str2%Raven Ceremonial Gown%str3%%str4%,%str1%%str2%Церемониальное платье ворона%str3%%str4%
-%str1%%str2%Raven Ceremonial Hood%str3%%str4%,%str1%%str2%Церемониальный капюшон Медведицы%str3%%str4%
-%str1%%str2%Raven Ceremonial Sandals%str3%%str4%,%str1%%str2%Церемониальные сандалии Медведицы%str3%%str4%
-%str1%%str2%Ravenswood Branch%str3%%str4%,%str1%%str2%Ветвь Воронова Леса%str3%%str4%
-%str1%%str2%Ravenswood Staff%str3%%str4%,%str1%%str2%Посох из зелёной древесины%str3%%str4%
-%str1%%str2%Rawhide Bracers%str3%%str4%,%str1%%str2%Наручи из сыромятной кожи%str3%%str4%
+%str1%%str2%Rascal Gloves%str3%%str4%,%str1%%str2%Перчатки пройдохи%str3%%str4%
+%str1%%str2%Rascal Mask%str3%%str4%,%str1%%str2%Маска пройдохи%str3%%str4%
+%str1%%str2%Rascal Pants%str3%%str4%,%str1%%str2%Штаны пройдохи%str3%%str4%
+%str1%%str2%Rascal Shoulders%str3%%str4%,%str1%%str2%Наплечники пройдохи%str3%%str4%
+%str1%%str2%Raven Ceremonial Garb%str3%%str4%,%str1%%str2%Церемониальный наряд ворона%str3%%str4%
+%str1%%str2%Raven Ceremonial Gown%str3%%str4%,%str1%%str2%Воронья церемониальная мантия%str3%%str4%
+%str1%%str2%Raven Ceremonial Hood%str3%%str4%,%str1%%str2%Вороньи церемониальные капюшон%str3%%str4%
+%str1%%str2%Raven Ceremonial Sandals%str3%%str4%,%str1%%str2%Церемониальные сандалии ворона%str3%%str4%
+%str1%%str2%Ravenswood Branch%str3%%str4%,%str1%%str2%Ветвь вороньего леса%str3%%str4%
+%str1%%str2%Ravenswood Staff%str3%%str4%,%str1%%str2%Посох Воронова леса%str3%%str4%
+%str1%%str2%Rawhide Bracers%str3%%str4%,%str1%%str2%Наручи из Сырой Кожи%str3%%str4%
 %str1%%str2%Rawhide Mask%str3%%str4%,%str1%%str2%Маска из сыромятной кожи%str3%%str4%
-%str1%%str2%Rawhide Shoulders%str3%%str4%,%str1%%str2%Наплечники из сыромятной кожи%str3%%str4%
-%str1%%str2%Rawhide Vest%str3%%str4%,%str1%%str2%Сапоги архонта%str3%%str4%
-%str1%%str2%Razah's Nightmare%str3%%str4%,%str1%%str2%Кошмар Разы%str3%%str4%
+%str1%%str2%Rawhide Shoulders%str3%%str4%,%str1%%str2%Сыромятные наплечники%str3%%str4%
+%str1%%str2%Rawhide Vest%str3%%str4%,%str1%%str2%Жилет из Сырой Кожи%str3%%str4%
+%str1%%str2%Razah's Nightmare%str3%%str4%,%str1%%str2%Кошмар Разаха%str3%%str4%
 %str1%%str2%Razor of the Broken Voice%str3%%str4%,%str1%%str2%Бритва Сломанного Голоса%str3%%str4%
-%str1%%str2%Razor of the Scion%str3%%str4%,%str1%%str2%Бритва Наследника%str3%%str4%
-%str1%%str2%Razor of the Sunless%str3%%str4%,%str1%%str2%Бритва Солнценосного%str3%%str4%
+%str1%%str2%Razor of the Scion%str3%%str4%,%str1%%str2%Бритва Отпрыска%str3%%str4%
+%str1%%str2%Razor of the Sunless%str3%%str4%,%str1%%str2%Бритва Безсолнечных%str3%%str4%
 %str1%%str2%Razorstone%str3%%str4%,%str1%%str2%Острый камень%str3%%str4%
 %str1%%str2%Reading Glasses%str3%%str4%,%str1%%str2%Очки для чтения%str3%%str4%
-%str1%%str2%Reaper of Souls%str3%%str4%,%str1%%str2%Жнец Душ%str3%%str4%
-%str1%%str2%Reaper's Greatsword%str3%%str4%,%str1%%str2%Большой меч Жнеца%str3%%str4%
-%str1%%str2%Reaper's Hood%str3%%str4%,%str1%%str2%Капюшон Жнеца%str3%%str4%
-%str1%%str2%Reaver of the Broken Voice%str3%%str4%,%str1%%str2%Ривер Сломанного Голоса%str3%%str4%
-%str1%%str2%Reaver of the Mists%str3%%str4%,%str1%%str2%Ривер Туманностей%str3%%str4%
-%str1%%str2%Reaver of the Scion%str3%%str4%,%str1%%str2%Ривер Наследника%str3%%str4%
-%str1%%str2%Reaver of the Sunless%str3%%str4%,%str1%%str2%Ривер Солнценосного%str3%%str4%
-%str1%%str2%Reclaimed Axe%str3%%str4%,%str1%%str2%Топор Возврата%str3%%str4%
-%str1%%str2%Reclaimed Dagger%str3%%str4%,%str1%%str2%Кинжал Возврата%str3%%str4%
-%str1%%str2%Reclaimed Focus%str3%%str4%,%str1%%str2%Фокус Возврата%str3%%str4%
-%str1%%str2%Reclaimed Greatsword%str3%%str4%,%str1%%str2%Двуручный меч «Wrapped»%str3%%str4%
-%str1%%str2%Reclaimed Hammer%str3%%str4%,%str1%%str2%Молот Возврата%str3%%str4%
-%str1%%str2%Reclaimed Longbow%str3%%str4%,%str1%%str2%Длинный лук Возврата%str3%%str4%
-%str1%%str2%Reclaimed Mace%str3%%str4%,%str1%%str2%Булава Возврата%str3%%str4%
-%str1%%str2%Reclaimed Pistol%str3%%str4%,%str1%%str2%Пистолет Возврата%str3%%str4%
-%str1%%str2%Reclaimed Rifle%str3%%str4%,%str1%%str2%Винтовка Возврата%str3%%str4%
-%str1%%str2%Reclaimed Scepter%str3%%str4%,%str1%%str2%Скипетр Возврата%str3%%str4%
-%str1%%str2%Reclaimed Shield%str3%%str4%,%str1%%str2%Щит Возврата%str3%%str4%
-%str1%%str2%Reclaimed Short Bow%str3%%str4%,%str1%%str2%Короткий лук Возврата%str3%%str4%
-%str1%%str2%Reclaimed Staff%str3%%str4%,%str1%%str2%Посох Возврата%str3%%str4%
-%str1%%str2%Reclaimed Sword%str3%%str4%,%str1%%str2%Меч Возврата%str3%%str4%
-%str1%%str2%Reclaimed Torch%str3%%str4%,%str1%%str2%Восстановленный факел%str3%%str4%
-%str1%%str2%Reclaimed Warhorn%str3%%str4%,%str1%%str2%Восстановленный рог войны%str3%%str4%
+%str1%%str2%Reaper of Souls%str3%%str4%,%str1%%str2%Пожинатель душ%str3%%str4%
+%str1%%str2%Reaper's Greatsword%str3%%str4%,%str1%%str2%Двуручный меч Жнеца%str3%%str4%
+%str1%%str2%Reaper's Hood%str3%%str4%,%str1%%str2%Капюшон жнеца%str3%%str4%
+%str1%%str2%Reaver of the Broken Voice%str3%%str4%,%str1%%str2%Жнец Разбитого Голоса%str3%%str4%
+%str1%%str2%Reaver of the Mists%str3%%str4%,%str1%%str2%Жнец Туманов%str3%%str4%
+%str1%%str2%Reaver of the Scion%str3%%str4%,%str1%%str2%Жнец Отпрыска%str3%%str4%
+%str1%%str2%Reaver of the Sunless%str3%%str4%,%str1%%str2%Жнец Безсолнечных%str3%%str4%
+%str1%%str2%Reclaimed Axe%str3%%str4%,%str1%%str2%Восстановленный топор%str3%%str4%
+%str1%%str2%Reclaimed Dagger%str3%%str4%,%str1%%str2%Кинжал отвоёванный%str3%%str4%
+%str1%%str2%Reclaimed Focus%str3%%str4%,%str1%%str2%Восстановленный фокус%str3%%str4%
+%str1%%str2%Reclaimed Greatsword%str3%%str4%,%str1%%str2%Возвращённый двуручный меч%str3%%str4%
+%str1%%str2%Reclaimed Hammer%str3%%str4%,%str1%%str2%Молот из отходов%str3%%str4%
+%str1%%str2%Reclaimed Longbow%str3%%str4%,%str1%%str2%Возвращённый длинный лук%str3%%str4%
+%str1%%str2%Reclaimed Mace%str3%%str4%,%str1%%str2%Возвращённая булава%str3%%str4%
+%str1%%str2%Reclaimed Pistol%str3%%str4%,%str1%%str2%Восстановленный пистолет%str3%%str4%
+%str1%%str2%Reclaimed Rifle%str3%%str4%,%str1%%str2%Восстановленная ружьё%str3%%str4%
+%str1%%str2%Reclaimed Scepter%str3%%str4%,%str1%%str2%Восстановленный скипетр%str3%%str4%
+%str1%%str2%Reclaimed Shield%str3%%str4%,%str1%%str2%Восстановленный щит%str3%%str4%
+%str1%%str2%Reclaimed Short Bow%str3%%str4%,%str1%%str2%Восстановленный короткий лук%str3%%str4%
+%str1%%str2%Reclaimed Staff%str3%%str4%,%str1%%str2%Посох из отходов%str3%%str4%
+%str1%%str2%Reclaimed Sword%str3%%str4%,%str1%%str2%Восстановленный меч%str3%%str4%
+%str1%%str2%Reclaimed Torch%str3%%str4%,%str1%%str2%Факел из утиля%str3%%str4%
+%str1%%str2%Reclaimed Warhorn%str3%%str4%,%str1%%str2%Возвращённый боевой рог%str3%%str4%
 %str1%%str2%Reclamation%str3%%str4%,%str1%%str2%Восстановление%str3%%str4%
 %str1%%str2%Recruit's Wings of Glory%str3%%str4%,%str1%%str2%Крылья славы новобранца%str3%%str4%
 %str1%%str2%Recruit's Wings of War%str3%%str4%,%str1%%str2%Крылья войны новобранца%str3%%str4%
-%str1%%str2%Refined Envoy Boots%str3%%str4%,%str1%%str2%Усовершенствованные сапоги посланника%str3%%str4%
-%str1%%str2%Refined Envoy Breastplate%str3%%str4%,%str1%%str2%Усовершенствованный нагрудник посланника%str3%%str4%
-%str1%%str2%Refined Envoy Cowl%str3%%str4%,%str1%%str2%Усовершенствованный капюшон посланника%str3%%str4%
-%str1%%str2%Refined Envoy Gauntlets%str3%%str4%,%str1%%str2%Усовершенствованные рукавицы посланника%str3%%str4%
-%str1%%str2%Refined Envoy Gloves%str3%%str4%,%str1%%str2%Усовершенствованные перчатки посланника%str3%%str4%
-%str1%%str2%Refined Envoy Greaves%str3%%str4%,%str1%%str2%Усовершенствованные поножи посланника%str3%%str4%
+%str1%%str2%Refined Envoy Boots%str3%%str4%,%str1%%str2%Улучшенные сапоги посланника%str3%%str4%
+%str1%%str2%Refined Envoy Breastplate%str3%%str4%,%str1%%str2%Утончённый нагрудник посланника%str3%%str4%
+%str1%%str2%Refined Envoy Cowl%str3%%str4%,%str1%%str2%Улучшенный капюшон посланника%str3%%str4%
+%str1%%str2%Refined Envoy Gauntlets%str3%%str4%,%str1%%str2%Улучшенные перчатки посланника%str3%%str4%
+%str1%%str2%Refined Envoy Gloves%str3%%str4%,%str1%%str2%Улучшенные Перчатки Посланника%str3%%str4%
+%str1%%str2%Refined Envoy Greaves%str3%%str4%,%str1%%str2%Утончённые поножи посланника%str3%%str4%
 %str1%%str2%Refined Envoy Helmet%str3%%str4%,%str1%%str2%Усовершенствованный шлем посланника%str3%%str4%
-%str1%%str2%Refined Envoy Jerkin%str3%%str4%,%str1%%str2%Усовершенствованная куртка посланника%str3%%str4%
-%str1%%str2%Refined Envoy Leggings%str3%%str4%,%str1%%str2%Усовершенствованные наголенники посланника%str3%%str4%
-%str1%%str2%Refined Envoy Mantle%str3%%str4%,%str1%%str2%Усовершенствованная накидка посланника%str3%%str4%
-%str1%%str2%Refined Envoy Mask%str3%%str4%,%str1%%str2%Усовершенствованная маска посланника%str3%%str4%
-%str1%%str2%Refined Envoy Pants%str3%%str4%,%str1%%str2%Усовершенствованные штаны посланника%str3%%str4%
-%str1%%str2%Refined Envoy Pauldrons%str3%%str4%,%str1%%str2%Усовершенствованные наплечники посланника%str3%%str4%
-%str1%%str2%Refined Envoy Shoes%str3%%str4%,%str1%%str2%Усовершенствованные туфли посланника%str3%%str4%
-%str1%%str2%Refined Envoy Shoulderpads%str3%%str4%,%str1%%str2%Усовершенствованные наплечные накладки посланника%str3%%str4%
-%str1%%str2%Refined Envoy Tassets%str3%%str4%,%str1%%str2%Усовершенствованные набедренники посланника%str3%%str4%
-%str1%%str2%Refined Envoy Vambraces%str3%%str4%,%str1%%str2%Усовершенствованные наручи посланника%str3%%str4%
-%str1%%str2%Refined Envoy Vestments%str3%%str4%,%str1%%str2%Усовершенствованные облачения посланника%str3%%str4%
+%str1%%str2%Refined Envoy Jerkin%str3%%str4%,%str1%%str2%Усовершенствованный жилет посланника%str3%%str4%
+%str1%%str2%Refined Envoy Leggings%str3%%str4%,%str1%%str2%Уточнённые поножи посланника%str3%%str4%
+%str1%%str2%Refined Envoy Mantle%str3%%str4%,%str1%%str2%Оправа утончённого посланника%str3%%str4%
+%str1%%str2%Refined Envoy Mask%str3%%str4%,%str1%%str2%Улучшенная маска посланника%str3%%str4%
+%str1%%str2%Refined Envoy Pants%str3%%str4%,%str1%%str2%Изысканные штаны посланника%str3%%str4%
+%str1%%str2%Refined Envoy Pauldrons%str3%%str4%,%str1%%str2%Утончённые наплечники посланника%str3%%str4%
+%str1%%str2%Refined Envoy Shoes%str3%%str4%,%str1%%str2%Утончённые башмаки посланника%str3%%str4%
+%str1%%str2%Refined Envoy Shoulderpads%str3%%str4%,%str1%%str2%Усовершенствованные наплечники посланника%str3%%str4%
+%str1%%str2%Refined Envoy Tassets%str3%%str4%,%str1%%str2%Улучшенные набедренники посланника%str3%%str4%
+%str1%%str2%Refined Envoy Vambraces%str3%%str4%,%str1%%str2%Усовершенствованные наручи эмиссара%str3%%str4%
+%str1%%str2%Refined Envoy Vestments%str3%%str4%,%str1%%str2%Улучшенное одеяние посланника%str3%%str4%
 %str1%%str2%Refitted Aureate Axe%str3%%str4%,%str1%%str2%Переделанный золотой топор%str3%%str4%
-%str1%%str2%Refitted Aureate Charm%str3%%str4%,%str1%%str2%Переделанный золотой амулет%str3%%str4%
+%str1%%str2%Refitted Aureate Charm%str3%%str4%,%str1%%str2%Переделанный золочёный амулет%str3%%str4%
 %str1%%str2%Refitted Aureate Dirk%str3%%str4%,%str1%%str2%Переделанный золотой кинжал%str3%%str4%
-%str1%%str2%Refitted Aureate Highlander Greatsword%str3%%str4%,%str1%%str2%Переделанный золотой большой меч горца%str3%%str4%
+%str1%%str2%Refitted Aureate Highlander Greatsword%str3%%str4%,%str1%%str2%Переделанный двуручный меч аристократа «Златовержец»%str3%%str4%
 %str1%%str2%Refitted Aureate Longbow%str3%%str4%,%str1%%str2%Переделанный золотой длинный лук%str3%%str4%
 %str1%%str2%Refitted Aureate Mace%str3%%str4%,%str1%%str2%Переделанная золотая булава%str3%%str4%
 %str1%%str2%Refitted Aureate Musket%str3%%str4%,%str1%%str2%Переделанный золотой мушкет%str3%%str4%
-%str1%%str2%Refitted Aureate Pistol%str3%%str4%,%str1%%str2%Переделанный золотой пистолет%str3%%str4%
-%str1%%str2%Refitted Aureate Rinblade%str3%%str4%,%str1%%str2%Переделанный золотой ринблейд%str3%%str4%
+%str1%%str2%Refitted Aureate Pistol%str3%%str4%,%str1%%str2%Переделанный ауреатный пистолет%str3%%str4%
+%str1%%str2%Refitted Aureate Rinblade%str3%%str4%,%str1%%str2%Переделанное блистательное кольцо%str3%%str4%
 %str1%%str2%Refitted Aureate Sconce%str3%%str4%,%str1%%str2%Переделанный золотой факел%str3%%str4%
 %str1%%str2%Refitted Aureate Short Bow%str3%%str4%,%str1%%str2%Переделанный золотой короткий лук%str3%%str4%
-%str1%%str2%Refitted Aureate Staff%str3%%str4%,%str1%%str2%Переделанный золотой посох%str3%%str4%
-%str1%%str2%Refitted Aureate Targe%str3%%str4%,%str1%%str2%Переделанный ауреатский тарч%str3%%str4%
-%str1%%str2%Refitted Aureate Virge%str3%%str4%,%str1%%str2%Переделанный ауреатский верж%str3%%str4%
+%str1%%str2%Refitted Aureate Staff%str3%%str4%,%str1%%str2%Переделанный золочёный посох%str3%%str4%
+%str1%%str2%Refitted Aureate Targe%str3%%str4%,%str1%%str2%Переделанный золотой тарг%str3%%str4%
+%str1%%str2%Refitted Aureate Virge%str3%%str4%,%str1%%str2%Переделанный золотой жезл%str3%%str4%
 %str1%%str2%Refitted Aureate Warhammer%str3%%str4%,%str1%%str2%Переделанный ауреатский боевой молот%str3%%str4%
-%str1%%str2%Refitted Aureate Warhorn%str3%%str4%,%str1%%str2%Переделанный ауреатский боевой рог%str3%%str4%
+%str1%%str2%Refitted Aureate Warhorn%str3%%str4%,%str1%%str2%Обновленный золотистый боевой рог%str3%%str4%
 %str1%%str2%Regret's Memory%str3%%str4%,%str1%%str2%Память сожаления%str3%%str4%
 %str1%%str2%Reinforced Scale Boots%str3%%str4%,%str1%%str2%Укреплённые чешуйчатые сапоги%str3%%str4%
-%str1%%str2%Reinforced Scale Coat%str3%%str4%,%str1%%str2%Укреплённый чешуйчатый мундир%str3%%str4%
-%str1%%str2%Reinforced Scale Gauntlets%str3%%str4%,%str1%%str2%Укреплённые чешуйчатые перчатки%str3%%str4%
+%str1%%str2%Reinforced Scale Coat%str3%%str4%,%str1%%str2%Укреплённый чешуйчатый плащ%str3%%str4%
+%str1%%str2%Reinforced Scale Gauntlets%str3%%str4%,%str1%%str2%Укреплённые чешуйчатые латные перчатки%str3%%str4%
 %str1%%str2%Reinforced Scale Helm%str3%%str4%,%str1%%str2%Укреплённый чешуйчатый шлем%str3%%str4%
 %str1%%str2%Reinforced Scale Legs%str3%%str4%,%str1%%str2%Укреплённые чешуйчатые поножи%str3%%str4%
 %str1%%str2%Reinforced Scale Pauldrons%str3%%str4%,%str1%%str2%Укреплённые чешуйчатые наплечники%str3%%str4%
-%str1%%str2%Remnant of Ascalon%str3%%str4%,%str1%%str2%Остаток Аскалона%str3%%str4%
-%str1%%str2%Renegade's Casque%str3%%str4%,%str1%%str2%Каска ренегата%str3%%str4%
+%str1%%str2%Remnant of Ascalon%str3%%str4%,%str1%%str2%Осколок Аскалона%str3%%str4%
+%str1%%str2%Renegade's Casque%str3%%str4%,%str1%%str2%Шлем ренегата%str3%%str4%
 %str1%%str2%Renegade's Short Bow%str3%%str4%,%str1%%str2%Короткий лук ренегата%str3%%str4%
-%str1%%str2%Repeating Rifle%str3%%str4%,%str1%%str2%Магазинная винтовка%str3%%str4%
+%str1%%str2%Repeating Rifle%str3%%str4%,%str1%%str2%Многозарядное ружьё%str3%%str4%
 %str1%%str2%Replica Mirror of Lyssa%str3%%str4%,%str1%%str2%Реплика зеркала Лиссы%str3%%str4%
 %str1%%str2%Replica Oni Arms%str3%%str4%,%str1%%str2%Реплика рук они%str3%%str4%
 %str1%%str2%Requiem Boots%str3%%str4%,%str1%%str2%Перчатки хаоса%str3%%str4%
@@ -348,47 +348,47 @@ english,translate
 %str1%%str2%Researcher's Shoes%str3%%str4%,%str1%%str2%Туфли исследователя%str3%%str4%
 %str1%%str2%Resonator%str3%%str4%,%str1%%str2%Резонатор%str3%%str4%
 %str1%%str2%Resplendent Curtain%str3%%str4%,%str1%%str2%Великолепный занавес%str3%%str4%
-%str1%%str2%Restless Captain's Heavy Boots%str3%%str4%,%str1%%str2%Тяжёлые сапоги беспокойного капитана%str3%%str4%
-%str1%%str2%Restless Captain's Heavy Coat%str3%%str4%,%str1%%str2%Тяжёлое пальто беспокойного капитана%str3%%str4%
-%str1%%str2%Restless Captain's Heavy Gloves%str3%%str4%,%str1%%str2%Тяжёлые перчатки беспокойного капитана%str3%%str4%
-%str1%%str2%Restless Captain's Heavy Leggings%str3%%str4%,%str1%%str2%Тяжёлые поножи беспокойного капитана%str3%%str4%
-%str1%%str2%Restless Captain's Heavy Mantle%str3%%str4%,%str1%%str2%Тяжёлая мантия беспокойного капитана%str3%%str4%
-%str1%%str2%Restless Captain's Heavy Veil%str3%%str4%,%str1%%str2%Тяжёлая вуаль беспокойного капитана%str3%%str4%
-%str1%%str2%Restless Captain's Light Boots%str3%%str4%,%str1%%str2%Лёгкие сапоги беспокойного капитана%str3%%str4%
-%str1%%str2%Restless Captain's Light Coat%str3%%str4%,%str1%%str2%Лёгкое пальто беспокойного капитана%str3%%str4%
-%str1%%str2%Restless Captain's Light Gloves%str3%%str4%,%str1%%str2%Лёгкие перчатки беспокойного капитана%str3%%str4%
-%str1%%str2%Restless Captain's Light Leggings%str3%%str4%,%str1%%str2%Лёгкие поножи беспокойного капитана%str3%%str4%
-%str1%%str2%Restless Captain's Light Mantle%str3%%str4%,%str1%%str2%Лёгкая мантия беспокойного капитана%str3%%str4%
-%str1%%str2%Restless Captain's Light Veil%str3%%str4%,%str1%%str2%Лёгкая вуаль беспокойного капитана%str3%%str4%
-%str1%%str2%Restless Captain's Medium Boots%str3%%str4%,%str1%%str2%Средние сапоги беспокойного капитана%str3%%str4%
-%str1%%str2%Restless Captain's Medium Coat%str3%%str4%,%str1%%str2%Среднее пальто беспокойного капитана%str3%%str4%
-%str1%%str2%Restless Captain's Medium Gloves%str3%%str4%,%str1%%str2%Средние перчатки беспокойного капитана%str3%%str4%
-%str1%%str2%Restless Captain's Medium Leggings%str3%%str4%,%str1%%str2%Средние поножи беспокойного капитана%str3%%str4%
-%str1%%str2%Restless Captain's Medium Mantle%str3%%str4%,%str1%%str2%Средняя мантия беспокойного капитана%str3%%str4%
-%str1%%str2%Restless Captain's Medium Veil%str3%%str4%,%str1%%str2%Средняя вуаль беспокойного капитана%str3%%str4%
-%str1%%str2%Revolver of the Broken Voice%str3%%str4%,%str1%%str2%Револьвер разбитого голоса%str3%%str4%
-%str1%%str2%Revolver of the Scion%str3%%str4%,%str1%%str2%Клинок Отпрыска%str3%%str4%
-%str1%%str2%Revolver of the Sunless%str3%%str4%,%str1%%str2%Револьвер безсолнечного%str3%%str4%
-%str1%%str2%Rifle of the Dragon's Deep%str3%%str4%,%str1%%str2%Винтовка драконьей глубины%str3%%str4%
+%str1%%str2%Restless Captain's Heavy Boots%str3%%str4%,%str1%%str2%Тяжёлые сапоги Неупокоенного капитана%str3%%str4%
+%str1%%str2%Restless Captain's Heavy Coat%str3%%str4%,%str1%%str2%Тяжёлая куртка Неупокоенного капитана%str3%%str4%
+%str1%%str2%Restless Captain's Heavy Gloves%str3%%str4%,%str1%%str2%Тяжёлые перчатки Неупокоенного капитана%str3%%str4%
+%str1%%str2%Restless Captain's Heavy Leggings%str3%%str4%,%str1%%str2%Тяжёлые поножи Неупокоенного капитана%str3%%str4%
+%str1%%str2%Restless Captain's Heavy Mantle%str3%%str4%,%str1%%str2%Тяжёлая накидка Неупокоенного капитана%str3%%str4%
+%str1%%str2%Restless Captain's Heavy Veil%str3%%str4%,%str1%%str2%Тяжёлая вуаль Неупокоенного капитана%str3%%str4%
+%str1%%str2%Restless Captain's Light Boots%str3%%str4%,%str1%%str2%Лёгкие сапоги Неупокоенного капитана%str3%%str4%
+%str1%%str2%Restless Captain's Light Coat%str3%%str4%,%str1%%str2%Лёгкая куртка Неупокоенного капитана%str3%%str4%
+%str1%%str2%Restless Captain's Light Gloves%str3%%str4%,%str1%%str2%Лёгкие перчатки Неупокоенного капитана%str3%%str4%
+%str1%%str2%Restless Captain's Light Leggings%str3%%str4%,%str1%%str2%Лёгкие поножи Неупокоенного капитана%str3%%str4%
+%str1%%str2%Restless Captain's Light Mantle%str3%%str4%,%str1%%str2%Лёгкая накидка Неупокоенного капитана%str3%%str4%
+%str1%%str2%Restless Captain's Light Veil%str3%%str4%,%str1%%str2%Лёгкая вуаль Неупокоенного капитана%str3%%str4%
+%str1%%str2%Restless Captain's Medium Boots%str3%%str4%,%str1%%str2%Средние сапоги Неупокоенного капитана%str3%%str4%
+%str1%%str2%Restless Captain's Medium Coat%str3%%str4%,%str1%%str2%Средняя куртка Неупокоенного капитана%str3%%str4%
+%str1%%str2%Restless Captain's Medium Gloves%str3%%str4%,%str1%%str2%Средние перчатки Неупокоенного капитана%str3%%str4%
+%str1%%str2%Restless Captain's Medium Leggings%str3%%str4%,%str1%%str2%Средние поножи Неупокоенного капитана%str3%%str4%
+%str1%%str2%Restless Captain's Medium Mantle%str3%%str4%,%str1%%str2%Средняя накидка Неупокоенного капитана%str3%%str4%
+%str1%%str2%Restless Captain's Medium Veil%str3%%str4%,%str1%%str2%Средняя вуаль Неупокоенного капитана%str3%%str4%
+%str1%%str2%Revolver of the Broken Voice%str3%%str4%,%str1%%str2%Револьвер Сломанного Голоса%str3%%str4%
+%str1%%str2%Revolver of the Scion%str3%%str4%,%str1%%str2%Револьвер отпрыска%str3%%str4%
+%str1%%str2%Revolver of the Sunless%str3%%str4%,%str1%%str2%Револьвер бессолнечного%str3%%str4%
+%str1%%str2%Rifle of the Dragon's Deep%str3%%str4%,%str1%%str2%Ружьё драконьей глубины%str3%%str4%
 %str1%%str2%Rifle%str3%%str4%,%str1%%str2%Винтовка%str3%%str4%
-%str1%%str2%Rift Hunter Heavy Boots%str3%%str4%,%str1%%str2%Тяжёлые сапоги охотника за разломами%str3%%str4%
-%str1%%str2%Rift Hunter Heavy Coat%str3%%str4%,%str1%%str2%Тяжёлое пальто охотника за разломами%str3%%str4%
-%str1%%str2%Rift Hunter Heavy Gloves%str3%%str4%,%str1%%str2%Тяжёлые перчатки охотника за разломами%str3%%str4%
-%str1%%str2%Rift Hunter Heavy Helm%str3%%str4%,%str1%%str2%Тяжёлый шлем охотника на разломы%str3%%str4%
-%str1%%str2%Rift Hunter Heavy Leggings%str3%%str4%,%str1%%str2%Тяжёлые поножи охотника на разломы%str3%%str4%
-%str1%%str2%Rift Hunter Heavy Shoulders%str3%%str4%,%str1%%str2%Тяжёлые наплечники охотника на разломы%str3%%str4%
-%str1%%str2%Rift Hunter Light Boots%str3%%str4%,%str1%%str2%Лёгкие сапоги охотника на разломы%str3%%str4%
-%str1%%str2%Rift Hunter Light Coat%str3%%str4%,%str1%%str2%Лёгкая куртка охотника на разломы%str3%%str4%
-%str1%%str2%Rift Hunter Light Gloves%str3%%str4%,%str1%%str2%Лёгкие перчатки охотника на разломы%str3%%str4%
-%str1%%str2%Rift Hunter Light Helm%str3%%str4%,%str1%%str2%Лёгкий шлем охотника на разломы%str3%%str4%
-%str1%%str2%Rift Hunter Light Leggings%str3%%str4%,%str1%%str2%Лёгкие поножи охотника на разломы%str3%%str4%
-%str1%%str2%Rift Hunter Light Shoulders%str3%%str4%,%str1%%str2%Лёгкие наплечники охотника на разломы%str3%%str4%
-%str1%%str2%Rift Hunter Medium Boots%str3%%str4%,%str1%%str2%Средние сапоги охотника на разломы%str3%%str4%
-%str1%%str2%Rift Hunter Medium Coat%str3%%str4%,%str1%%str2%Средняя куртка охотника на разломы%str3%%str4%
-%str1%%str2%Rift Hunter Medium Gloves%str3%%str4%,%str1%%str2%Средние перчатки охотника на разломы%str3%%str4%
-%str1%%str2%Rift Hunter Medium Helm%str3%%str4%,%str1%%str2%Средний шлем охотника на разломы%str3%%str4%
-%str1%%str2%Rift Hunter Medium Leggings%str3%%str4%,%str1%%str2%Средние поножи охотника на разломы%str3%%str4%
-%str1%%str2%Rift Hunter Medium Shoulders%str3%%str4%,%str1%%str2%Средние наплечники охотника на разломы%str3%%str4%
+%str1%%str2%Rift Hunter Heavy Boots%str3%%str4%,%str1%%str2%Тяжёлые сапоги Охотника за разломами%str3%%str4%
+%str1%%str2%Rift Hunter Heavy Coat%str3%%str4%,%str1%%str2%Тяжёлая куртка Охотника за разломами%str3%%str4%
+%str1%%str2%Rift Hunter Heavy Gloves%str3%%str4%,%str1%%str2%Тяжёлые перчатки Охотника за разломами%str3%%str4%
+%str1%%str2%Rift Hunter Heavy Helm%str3%%str4%,%str1%%str2%Тяжёлый шлем Охотника за разломами%str3%%str4%
+%str1%%str2%Rift Hunter Heavy Leggings%str3%%str4%,%str1%%str2%Тяжёлые поножи Охотника за разломами%str3%%str4%
+%str1%%str2%Rift Hunter Heavy Shoulders%str3%%str4%,%str1%%str2%Тяжёлые наплечники Охотника за разломами%str3%%str4%
+%str1%%str2%Rift Hunter Light Boots%str3%%str4%,%str1%%str2%Лёгкие сапоги Охотника за разломами%str3%%str4%
+%str1%%str2%Rift Hunter Light Coat%str3%%str4%,%str1%%str2%Лёгкая куртка Охотника за разломами%str3%%str4%
+%str1%%str2%Rift Hunter Light Gloves%str3%%str4%,%str1%%str2%Лёгкие перчатки Охотника за разломами%str3%%str4%
+%str1%%str2%Rift Hunter Light Helm%str3%%str4%,%str1%%str2%Лёгкий шлем Охотника за разломами%str3%%str4%
+%str1%%str2%Rift Hunter Light Leggings%str3%%str4%,%str1%%str2%Лёгкие поножи Охотника за разломами%str3%%str4%
+%str1%%str2%Rift Hunter Light Shoulders%str3%%str4%,%str1%%str2%Лёгкие наплечники Охотника за разломами%str3%%str4%
+%str1%%str2%Rift Hunter Medium Boots%str3%%str4%,%str1%%str2%Средние сапоги Охотника за разломами%str3%%str4%
+%str1%%str2%Rift Hunter Medium Coat%str3%%str4%,%str1%%str2%Средняя куртка Охотника за разломами%str3%%str4%
+%str1%%str2%Rift Hunter Medium Gloves%str3%%str4%,%str1%%str2%Средние перчатки Охотника за разломами%str3%%str4%
+%str1%%str2%Rift Hunter Medium Helm%str3%%str4%,%str1%%str2%Средний шлем Охотника за разломами%str3%%str4%
+%str1%%str2%Rift Hunter Medium Leggings%str3%%str4%,%str1%%str2%Средние поножи Охотника за разломами%str3%%str4%
+%str1%%str2%Rift Hunter Medium Shoulders%str3%%str4%,%str1%%str2%Средние наплечники Охотника за разломами%str3%%str4%
 %str1%%str2%Right Oni Arm%str3%%str4%,%str1%%str2%Правая рука они%str3%%str4%
 %str1%%str2%Rimed Verdant Axe%str3%%str4%,%str1%%str2%Инеистый зелёный топор%str3%%str4%
 %str1%%str2%Rimed Verdant Blade%str3%%str4%,%str1%%str2%Инеистый зелёный клинок%str3%%str4%
@@ -407,9 +407,9 @@ english,translate
 %str1%%str2%Rimed Verdant Torch%str3%%str4%,%str1%%str2%Инеистый зелёный факел%str3%%str4%
 %str1%%str2%Rimed Verdant Warhorn%str3%%str4%,%str1%%str2%Инеистый зелёный боевой рог%str3%%str4%
 %str1%%str2%Ringmaster's Hat%str3%%str4%,%str1%%str2%Шляпа распорядителя%str3%%str4%
-%str1%%str2%Rockweed Spire%str3%%str4%,%str1%%str2%Шпиль скальной водоросли%str3%%str4%
+%str1%%str2%Rockweed Spire%str3%%str4%,%str1%%str2%Шпиль Камнебуры%str3%%str4%
 %str1%%str2%Rodgort%str3%%str4%,%str1%%str2%Родгорт%str3%%str4%
-%str1%%str2%Rodgort's Flame Experiment%str3%%str4%,%str1%%str2%Эксперимент с пламенем Родгорта%str3%%str4%
+%str1%%str2%Rodgort's Flame Experiment%str3%%str4%,%str1%%str2%Пламенный эксперимент Родгорта%str3%%str4%
 %str1%%str2%Rodgort's Flame%str3%%str4%,%str1%%str2%Пламя Родгорта%str3%%str4%
 %str1%%str2%Rogue Boots%str3%%str4%,%str1%%str2%Сапоги разбойника%str3%%str4%
 %str1%%str2%Rogue Coat%str3%%str4%,%str1%%str2%Куртка разбойника%str3%%str4%
@@ -422,56 +422,56 @@ english,translate
 %str1%%str2%Royal Ascalonian Axe%str3%%str4%,%str1%%str2%Королевский аскалонский топор%str3%%str4%
 %str1%%str2%Royal Ascalonian Dagger%str3%%str4%,%str1%%str2%Королевский аскалонский кинжал%str3%%str4%
 %str1%%str2%Royal Ascalonian Focus%str3%%str4%,%str1%%str2%Королевский аскалонский фокус%str3%%str4%
-%str1%%str2%Royal Ascalonian Greatsword%str3%%str4%,%str1%%str2%Королевский аскалонский большой меч%str3%%str4%
+%str1%%str2%Royal Ascalonian Greatsword%str3%%str4%,%str1%%str2%Королевский аскалонский двуручный меч%str3%%str4%
 %str1%%str2%Royal Ascalonian Hammer%str3%%str4%,%str1%%str2%Королевский аскалонский молот%str3%%str4%
 %str1%%str2%Royal Ascalonian Harpoon%str3%%str4%,%str1%%str2%Королевский аскалонский гарпун%str3%%str4%
 %str1%%str2%Royal Ascalonian Longbow%str3%%str4%,%str1%%str2%Королевский аскалонский длинный лук%str3%%str4%
-%str1%%str2%Royal Ascalonian Mace%str3%%str4%,%str1%%str2%Королевский аскалонский булава%str3%%str4%
+%str1%%str2%Royal Ascalonian Mace%str3%%str4%,%str1%%str2%Королевская аскалонская булава%str3%%str4%
 %str1%%str2%Royal Ascalonian Pistol%str3%%str4%,%str1%%str2%Королевский аскалонский пистолет%str3%%str4%
-%str1%%str2%Royal Ascalonian Rifle%str3%%str4%,%str1%%str2%Королевская аскалонская винтовка%str3%%str4%
+%str1%%str2%Royal Ascalonian Rifle%str3%%str4%,%str1%%str2%Королевское аскалонское ружьё%str3%%str4%
 %str1%%str2%Royal Ascalonian Scepter%str3%%str4%,%str1%%str2%Королевский аскалонский скипетр%str3%%str4%
 %str1%%str2%Royal Ascalonian Shield%str3%%str4%,%str1%%str2%Королевский аскалонский щит%str3%%str4%
 %str1%%str2%Royal Ascalonian Short Bow%str3%%str4%,%str1%%str2%Королевский аскалонский короткий лук%str3%%str4%
-%str1%%str2%Royal Ascalonian Speargun%str3%%str4%,%str1%%str2%Королевское аскалонское копьемёт%str3%%str4%
+%str1%%str2%Royal Ascalonian Speargun%str3%%str4%,%str1%%str2%Королевское аскалонское гарпунное ружьё%str3%%str4%
 %str1%%str2%Royal Ascalonian Staff%str3%%str4%,%str1%%str2%Королевский аскалонский посох%str3%%str4%
 %str1%%str2%Royal Ascalonian Sword%str3%%str4%,%str1%%str2%Королевский аскалонский меч%str3%%str4%
 %str1%%str2%Royal Ascalonian Torch%str3%%str4%,%str1%%str2%Королевский аскалонский факел%str3%%str4%
 %str1%%str2%Royal Ascalonian Trident%str3%%str4%,%str1%%str2%Королевский аскалонский трезубец%str3%%str4%
 %str1%%str2%Royal Ascalonian Warhorn%str3%%str4%,%str1%%str2%Королевский аскалонский боевой рог%str3%%str4%
 %str1%%str2%Rubicon Boots%str3%%str4%,%str1%%str2%Сапоги Рубикона%str3%%str4%
-%str1%%str2%Rubicon Coat%str3%%str4%,%str1%%str2%Куртка Рубикона%str3%%str4%
+%str1%%str2%Rubicon Coat%str3%%str4%,%str1%%str2%Плащ «Рубикон»%str3%%str4%
 %str1%%str2%Rubicon Gloves%str3%%str4%,%str1%%str2%Перчатки Рубикона%str3%%str4%
-%str1%%str2%Rubicon Hat%str3%%str4%,%str1%%str2%Шляпа Рубикона%str3%%str4%
-%str1%%str2%Rubicon Leggings%str3%%str4%,%str1%%str2%Поножи Рубикона%str3%%str4%
-%str1%%str2%Rubicon Shoulderpads%str3%%str4%,%str1%%str2%Наплечники Рубикона%str3%%str4%
+%str1%%str2%Rubicon Hat%str3%%str4%,%str1%%str2%Шляпа «Рубикон»%str3%%str4%
+%str1%%str2%Rubicon Leggings%str3%%str4%,%str1%%str2%Поножи «Рубикон»%str3%%str4%
+%str1%%str2%Rubicon Shoulderpads%str3%%str4%,%str1%%str2%Наплечники Рубикон%str3%%str4%
 %str1%%str2%Ruinmaker%str3%%str4%,%str1%%str2%Разрушитель%str3%%str4%
 %str1%%str2%Runic Cape%str3%%str4%,%str1%%str2%Рунический плащ%str3%%str4%
-%str1%%str2%Runic Hunter Boots%str3%%str4%,%str1%%str2%Сапоги рунического охотника%str3%%str4%
-%str1%%str2%Runic Hunter Coat%str3%%str4%,%str1%%str2%Куртка рунического охотника%str3%%str4%
-%str1%%str2%Runic Hunter Gloves%str3%%str4%,%str1%%str2%Перчатки рунического охотника%str3%%str4%
-%str1%%str2%Runic Hunter Mask%str3%%str4%,%str1%%str2%Маска рунического охотника%str3%%str4%
-%str1%%str2%Runic Hunter Pants%str3%%str4%,%str1%%str2%Штаны рунического охотника%str3%%str4%
-%str1%%str2%Runic Hunter Shoulders%str3%%str4%,%str1%%str2%Наплечники рунического охотника%str3%%str4%
-%str1%%str2%Runic Shaman Boots%str3%%str4%,%str1%%str2%Сапоги рунического шамана%str3%%str4%
-%str1%%str2%Runic Shaman Coat%str3%%str4%,%str1%%str2%Куртка рунического шамана%str3%%str4%
-%str1%%str2%Runic Shaman Gloves%str3%%str4%,%str1%%str2%Перчатки рунического шамана%str3%%str4%
-%str1%%str2%Runic Shaman Mantle%str3%%str4%,%str1%%str2%Мантия рунического шамана%str3%%str4%
-%str1%%str2%Runic Shaman Mask%str3%%str4%,%str1%%str2%Маска рунического шамана%str3%%str4%
-%str1%%str2%Runic Shaman Pants%str3%%str4%,%str1%%str2%Штаны рунического шамана%str3%%str4%
-%str1%%str2%Runic Slayer Breastplate%str3%%str4%,%str1%%str2%Нагрудник рунического убийцы%str3%%str4%
-%str1%%str2%Runic Slayer Gauntlets%str3%%str4%,%str1%%str2%Рукавицы рунического убийцы%str3%%str4%
-%str1%%str2%Runic Slayer Greaves%str3%%str4%,%str1%%str2%Поножи рунического убийцы%str3%%str4%
-%str1%%str2%Runic Slayer Helm%str3%%str4%,%str1%%str2%Шлем рунического убийцы%str3%%str4%
-%str1%%str2%Runic Slayer Pauldrons%str3%%str4%,%str1%%str2%Наплечники рунического убийцы%str3%%str4%
-%str1%%str2%Runic Slayer Tassets%str3%%str4%,%str1%%str2%Набедренники рунического убийцы%str3%%str4%
+%str1%%str2%Runic Hunter Boots%str3%%str4%,%str1%%str2%Рунические сапоги охотника%str3%%str4%
+%str1%%str2%Runic Hunter Coat%str3%%str4%,%str1%%str2%Руническая куртка охотника%str3%%str4%
+%str1%%str2%Runic Hunter Gloves%str3%%str4%,%str1%%str2%Рунические перчатки охотника%str3%%str4%
+%str1%%str2%Runic Hunter Mask%str3%%str4%,%str1%%str2%Руническая маска охотника%str3%%str4%
+%str1%%str2%Runic Hunter Pants%str3%%str4%,%str1%%str2%Рунические штаны охотника%str3%%str4%
+%str1%%str2%Runic Hunter Shoulders%str3%%str4%,%str1%%str2%Рунические наплечники охотника%str3%%str4%
+%str1%%str2%Runic Shaman Boots%str3%%str4%,%str1%%str2%Рунические сапоги шамана%str3%%str4%
+%str1%%str2%Runic Shaman Coat%str3%%str4%,%str1%%str2%Руническая куртка шамана%str3%%str4%
+%str1%%str2%Runic Shaman Gloves%str3%%str4%,%str1%%str2%Рунические перчатки шамана%str3%%str4%
+%str1%%str2%Runic Shaman Mantle%str3%%str4%,%str1%%str2%Руническая накидка шамана%str3%%str4%
+%str1%%str2%Runic Shaman Mask%str3%%str4%,%str1%%str2%Руническая маска шамана%str3%%str4%
+%str1%%str2%Runic Shaman Pants%str3%%str4%,%str1%%str2%Рунические штаны шамана%str3%%str4%
+%str1%%str2%Runic Slayer Breastplate%str3%%str4%,%str1%%str2%Рунический нагрудник убийцы%str3%%str4%
+%str1%%str2%Runic Slayer Gauntlets%str3%%str4%,%str1%%str2%Рунические латные перчатки убийцы%str3%%str4%
+%str1%%str2%Runic Slayer Greaves%str3%%str4%,%str1%%str2%Рунические наголенники убийцы%str3%%str4%
+%str1%%str2%Runic Slayer Helm%str3%%str4%,%str1%%str2%Рунический шлем убийцы%str3%%str4%
+%str1%%str2%Runic Slayer Pauldrons%str3%%str4%,%str1%%str2%Рунические наплечники убийцы%str3%%str4%
+%str1%%str2%Runic Slayer Tassets%str3%%str4%,%str1%%str2%Рунические набедренники убийцы%str3%%str4%
 %str1%%str2%Rusttooth%str3%%str4%,%str1%%str2%Ржавозуб%str3%%str4%
-%str1%%str2%Sailor's Beanie%str3%%str4%,%str1%%str2%Матросская шапочка%str3%%str4%
-%str1%%str2%Saltspray Dragon Scarf%str3%%str4%,%str1%%str2%Шарф солёного дракона%str3%%str4%
+%str1%%str2%Sailor's Beanie%str3%%str4%,%str1%%str2%Матросская бини%str3%%str4%
+%str1%%str2%Saltspray Dragon Scarf%str3%%str4%,%str1%%str2%Шарф «Дракон солёных брызг»%str3%%str4%
 %str1%%str2%Salvation%str3%%str4%,%str1%%str2%Спасение%str3%%str4%
 %str1%%str2%Sanctified Axe%str3%%str4%,%str1%%str2%Освящённый топор%str3%%str4%
 %str1%%str2%Sanctified Dagger%str3%%str4%,%str1%%str2%Освящённый кинжал%str3%%str4%
 %str1%%str2%Sanctified Focus%str3%%str4%,%str1%%str2%Освящённый фокус%str3%%str4%
-%str1%%str2%Sanctified Greatsword%str3%%str4%,%str1%%str2%Освящённый большой меч%str3%%str4%
+%str1%%str2%Sanctified Greatsword%str3%%str4%,%str1%%str2%Освящённый двуручный меч%str3%%str4%
 %str1%%str2%Sanctified Hammer%str3%%str4%,%str1%%str2%Освящённый молот%str3%%str4%
 %str1%%str2%Sanctified Longbow%str3%%str4%,%str1%%str2%Освящённый длинный лук%str3%%str4%
 %str1%%str2%Sanctified Mace%str3%%str4%,%str1%%str2%Освящённая булава%str3%%str4%
@@ -486,8 +486,8 @@ english,translate
 %str1%%str2%Sanctified Warhorn%str3%%str4%,%str1%%str2%Освящённый боевой рог%str3%%str4%
 %str1%%str2%Sarraceniaceae%str3%%str4%,%str1%%str2%Саррацениевые%str3%%str4%
 %str1%%str2%Saryx Axe%str3%%str4%,%str1%%str2%Топор Сарикс%str3%%str4%
-%str1%%str2%Saryx Backpiece%str3%%str4%,%str1%%str2%Заспинник Сарикс%str3%%str4%
+%str1%%str2%Saryx Backpiece%str3%%str4%,%str1%%str2%Наспинная броня Сарикс%str3%%str4%
 %str1%%str2%Saryx Focus%str3%%str4%,%str1%%str2%Фокус Сарикс%str3%%str4%
-%str1%%str2%Saryx Greatsword%str3%%str4%,%str1%%str2%Большой меч Сарикс%str3%%str4%
-%str1%%str2%Saryx Hammer%str3%%str4%,%str1%%str2%Кинжал Сарикса%str3%%str4%
-%str1%%str2%Saryx Longbow%str3%%str4%,%str1%%str2%Длинный лук Сарыкса%str3%%str4%
+%str1%%str2%Saryx Greatsword%str3%%str4%,%str1%%str2%Двуручный меч сарикса%str3%%str4%
+%str1%%str2%Saryx Hammer%str3%%str4%,%str1%%str2%Молот Сарикса%str3%%str4%
+%str1%%str2%Saryx Longbow%str3%%str4%,%str1%%str2%Длинный лук Сарикс%str3%%str4%

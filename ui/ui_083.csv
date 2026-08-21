@@ -17,7 +17,7 @@ Inquest Mark II Staff Skin[s],облик[|а|ов] посоха Марк II Ин
 Inquest Mark II Sword Skin[s],облик[|а|ов] меча Марк II Инквеста
 Inquest Mark II Torch Skin[s],облик[|а|ов] факела Марк II Инквеста
 Inquest Mark II Warhorn Skin[s],облик[|а|ов] рога Марк II Инквеста
-"Inquest Mark II Weapon Box[pl:""Boxes""]",Ящик с оружием Инквест Марка II
+"Inquest Mark II Weapon Box[pl:""Boxes""]",[Сундук|Сундука|Сундуков] с оружием «Инквест Mark II»
 Inquest Mark II Weapons,Оружие Инквест Mark II
 "Inquest Medium Armor Box[pl:""Boxes""]",Сундук с броней Инквест (средняя)
 Inquest Mine,Шахта Инквест
@@ -28,7 +28,7 @@ Inquest Overseer Chair Glider Combo,Комбинация кресла-глайд
 Inquest Overseer Glider[s],глайдер[|а|ов] надзирателя Инквеста
 Inquest Passcode[s],пароль[|я|ей] Инквеста
 Inquest Pilot,Пилот Инквест
-"Inquest Pilot Loot Box[pl:""Boxes""]",Ящик с добычей пилота Инквеста
+"Inquest Pilot Loot Box[pl:""Boxes""]",[Ящик|Ящика|Ящиков] с добычей пилота Инквеста
 Inquest Portal,Портал Инквеста
 Inquest power cells are used for portable energy. There are likely some lying around with other supplies at the Arcanological Survey Station.,"Элементы питания Инквест используются для портативной энергии. Вероятно, некоторые из них валяются среди прочих припасов на Станции арканологических изысканий."
 Inquest Power Core[s],[силовое ядро|силовых ядра|силовых ядер] Инквеста
@@ -48,7 +48,7 @@ Inquest Spy Equipment,Шпионское оборудование Инквест
 Inquest Stash,Тайник Инквеста
 Inquest Supply Crate,Ящик припасов Инквеста
 Inquest Technician,Техник Инквеста
-"Inquest Technician Loot Box[pl:""Boxes""]",Ящик с добычей техника Инквеста
+"Inquest Technician Loot Box[pl:""Boxes""]",[Ящик|Ящика|Ящиков] с добычей техника Инквеста
 Inquest Technological Frequency,Технологическая частота Инквеста
 Inquest Terminal,Терминал Инквест
 Inquest Thumper Turret,Турель-глушитель Инквеста
@@ -60,10 +60,10 @@ Inquisitor Machalina's Journal,Дневник инквизитора Махал�
 Inquisitor's Record,Запись инквизитора
 Inscribe a mark that chills foes when triggered and chains to nearby foes.,"Нанести руну, которая замедляет врагов при срабатывании и цепляется за ближайших врагов."
 Inscribed Shard[s],[Осколок|Осколка|Осколков] с письменами
-Inscription[s] of the Spearmarshal,[Надпись|Надписи|Надписей] копьемаршала
+Inscription[s] of the Spearmarshal,[Гравировка|Гравировки|Гравировок] копьемаршала
 Inscrutable Ooze,Непостижимая слизь
 Insect Larva,Личинка насекомого
-"Insect Loot Box[pl:""Boxes""]",Ящик с насекомыми
+"Insect Loot Box[pl:""Boxes""]",[Ящик|Ящика|Ящиков] с добычей насекомых
 Insect Retreat,Убежище насекомых
 Insect[s],[Насекомое|Насекомых|Насекомых]
 Insecticide Blossom,Инсектицидный цветок
@@ -220,7 +220,7 @@ Invalid target. Attack a foe imbued with the essence weak to this ability.,"Не
 Invalid target. Your target must be open to rending.,Неверная цель. Ваша цель должна быть открыта для разрыва.
 Invalid TROPHY-NAME,Неверное ИМЯ ТРОФЕЯ
 Invalid weapon display data.,Недействительные данные отображения оружия.
-Inventor's Sunglasses Skin[s],Облик[|а|ов] очков изобретателя
+Inventor's Sunglasses Skin[s],[Облик|Облика|Обликов] очков изобретателя
 Inventory Dialog,Диалог инвентаря
 Inventory Full,Инвентарь заполнен
 Inventory is full.,Инвентарь заполнен.
@@ -294,7 +294,7 @@ Investigate Wall Panel,Исследовать стенную панель
 Invis Hero Lord Room,Комната невидимого героя-лорда
 Invisible Berserker's Mushroom Spore[s],Невидимая спор[а|ы|] гриба берсерка
 Invisible Blade,Невидимый клинок
-"Invisible Boot Box[pl:""Boxes""]",Невидимый ящик для сапог
+"Invisible Boot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с невидимыми сапогами
 Invisible Chronomancer's Mushroom Spore[s],Невидимая спор[а|ы|] гриба хрономанта
 Invisible Daredevil's Mushroom Spore[s],Невидимая спор[а|ы|] гриба Лихого Сорвиголовы
 Invisible Dragonhunter's Mushroom Spore[s],Невидимая спор[а|ы|] гриба Ловца Драконов
@@ -375,30 +375,30 @@ Iron Hammer Head[s],Железн[ая|ые|ых] головк[а|и|ок] мол
 Iron Hide,Железная шкура
 Iron Horn[s],Железн[ый|ые|ых] рог[|а|ов]
 Iron Ingot[s],Железн[ый|ые|ых] слиток[|и|ов]
-Iron Legion Banner Skin[s],Облик[|а|ов] знамени Железного легиона
+Iron Legion Banner Skin[s],[Облик|Облика|Обликов] знамени Железного легиона
 Iron Legion Cannon,Пушка Железного легиона
-"Iron Legion Claw Box[pl:""Boxes""]",Железный коготь легиона
+"Iron Legion Claw Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] когтей Железного легиона
 Iron Legion Commendation[s],[Похвальная грамота Железного легиона|Похвальные грамоты Железного легиона|Похвальных грамот Железного легиона]
 Iron Legion Commendations,Награды Железного легиона
-"Iron Legion Crafting Box[pl:""Boxes""]",Ящик Железного Легиона
+"Iron Legion Crafting Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] ремесленника Железного легиона
 Iron Legion Delegation Aide,Помощник делегации Железного легиона
 Iron Legion Engineer Steelhammer,Инженер Сталебой из Стального легиона
 Iron Legion Flamethrowers,Огнемёты Железного легиона
 Iron Legion Gearring,Шестерня Железного легиона
-Iron Legion has completed their trials!,Легион Железа завершил свои испытания!
+Iron Legion has completed their trials!,Железный легион завершил свои испытания!
 Iron Legion Key[s],Ключ[|а|ей] Железного легиона
 Iron Legion Machine Gun,Пулемет Железного Легиона
 Iron Legion Machine Gunner,Пулемётчик Железного Легиона
 Iron Legion Marksman,Стрелок Железного Легиона
 Iron Legion Mine,Мина Железного легиона
 Iron Legion Mortar[s],Мортир[а|ы|] Железного легиона
-"Iron Legion Onyx Materials Box[pl:""Boxes""]",Ящик материалов оникса Легиона Железа
-"Iron Legion Ore Box[pl:""Boxes""]",Ящик руды Легиона Железа
+"Iron Legion Onyx Materials Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] ониксовых материалов Железного легиона
+"Iron Legion Ore Box[pl:""Boxes""]",[Сундук|Сундука|Сундуков] с рудой Железного легиона
 Iron Legion Remote Charge,Дистанционный заряд Железного Легиона
-"Iron Legion Reward Box[pl:""Boxes""]",Ящик награды Легиона Железа
+"Iron Legion Reward Box[pl:""Boxes""]",Ящик награды Железного легиона
 Iron Legion Scout Steeltooth,Разведчик Железного Легиона Стальной Зуб
 Iron Legion Soldier,Солдат Железного Легиона
-Iron Legion Soldier Truegrip,Солдат Легиона Железа Труэлаунч
+Iron Legion Soldier Truegrip,Солдат Железного легиона Труэлаунч
 Iron Legion Special Mission Document[s],Документ особого задания Пепельного легиона
 Iron Legion troops are building cannons to assist with the assault across the bridge. Defeat cache keepers until the cannons have been fully constructed!,"Войска Железного Легиона строят пушки, чтобы помочь с атакой через мост. Уничтожайте хранителей тайников, пока пушки не будут полностью построены!"
 Iron Legion Turret,Турель Железного легиона
@@ -459,7 +459,7 @@ Iron Special Mission: Minesweeper,Железная особая миссия: С
 Iron Special Mission: Percussive Maintenance,Железная особая миссия: Ударное обслуживание
 Iron Special Mission: Recovery Operations,Железная особая миссия: Восстановительные работы
 "Iron Stairs[pl:""Stairs""] (120 x 60)",Железные лестницы (120 x 60)
-"Iron Stairs[pl:""Stairs""] 120 x 120",
+"Iron Stairs[pl:""Stairs""] 120 x 120",[Железная лестница|Железные лестницы|Железных лестниц] 120 x 120
 "Iron Stairs[pl:""Stairs""] 120 x 60",Железные ступени 120 x 60
 Iron Sword Blade[s],Железн[ый|ых|ых] клин[ок|ка|ков] меча
 Iron Sword Hilt[s],Железн[ая|ые|ых] рукоят[ь|и|ей] меча

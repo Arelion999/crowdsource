@@ -418,7 +418,7 @@ english,translate
 ((999401)),((999401))
 (+%str1%%% %str2%),(+%str1%%% %str2%)
 (Currently Available),(Сейчас доступно)
-(Easy) I'll face the raptors.,(Лёгко) Я встречусь с ящерами.
+(Easy) I'll face the raptors.,(Легко) Я встречусь с ящерами.
 (Enter Password),(Введите пароль)
 (Enter character name here),(Введите имя персонажа)
 (Hard) I'll face the elementals.,(Сложно) Я встречусь с элементалями.
@@ -429,7 +429,10 @@ english,translate
 Li-  -ch  -itt c-ve chest be-d -rone
 
 —H","(Бо́льшая часть записки неразборчива, но вам удаётся различить небольшой отрывок.)
-Ли-  -ч  -итт п-щера сунду́к у кр-в-ти —дро́н—H"
+
+Ли-  -ч  -итт п-щера сунду́к у кр-в-ти —дро́н
+
+—H"
 "(Much of the page has been defaced with violent slashes of ink, save for the final paragraph.)
 
 The chef's special for the week was advertised as a ""bento box of succulent seared flank steak and plump baby thundershrimp over ginger rice."" What arrived at the table was a slab of burnt kappa flesh topped with chunks of rubber, which tasted as bad as it looked.
@@ -447,8 +450,13 @@ Oh, to be a cog in the gear train of your heart
 That I might help convey your energy!
 
 (You conclude that this is unlikely to lead anywhere useful.)","(Похоже, книга содержит страницу за страницей асуранских любовных стихов. Вы уделяете миг, чтобы прочесть один.)
-О, быть бы болтом к твоему ключуЧтоб крутящий момент твоей души передался мне!
-О, быть бы шестерёнкой в зубчатой передаче твоего сердцаЧтоб я мог помочь передать твою энергию!(Вы заключаете, что это вряд ли к чему-то полезному приведёт.)"
+
+О, быть бы болтом к твоему ключу
+Чтоб крутящий момент твоей души передался мне!
+О, быть бы шестерёнкой в зубчатой передаче твоего сердца
+Чтоб я мог помочь передать твою энергию!
+
+(Вы заключаете, что это вряд ли к чему-то полезному приведёт.)"
 "(The edges of the document are singed.)
 
 Sandtooth—five silver, merc work
@@ -525,7 +533,12 @@ Urgoz...will...break...you!","(Ниже приведена рифмованна�
 **Specimen**: Larva Coleoptera  
 **Origin**: Castora  
 **Age**: Estimated Three Days Old  
-**Solution**: Saline and Formaldehyde",(Этикетка размазана кровью.) **Образец**: Larva Coleoptera **Происхождение**: Castora **Возраст**: около трёх дней **Раствор**: физраствор и формальдегид
+**Solution**: Saline and Formaldehyde","(Этикетка размазана кровью.)
+
+**Образец**: Larva Coleoptera
+**Происхождение**: Castora
+**Возраст**: около трёх дней
+**Раствор**: физраствор и формальдегид"
 "(The paper is water damaged and torn. The text is nearly illegible.)
 
 Thank you for purchasing the Mr. Quiggles Fun in the Sun Accessory Pack! This bundle of delightful add-ons contains everything you need to vacation in style with your Mr. Quiggles Quaggan Toy. Whether you're teaching him to swim*, helping him achieve the perfect tan**, or building sand castles with him***, this accessory pack is certain to make your trip a memorable one. Have fun!
@@ -584,7 +597,13 @@ When long we...
 ...flour in...  
 12 pineapples, freshly...  
   
-(It's unclear if the list was a recipe or a storage manifest.)","(Текст на этой табличке сильно повреждён. Читаем лишь небольшой отрывок.) 3 горсти молотого... ...муки в... 12 ананасов, свеже... (Неясно, был ли список рецептом или складской описью.)"
+(It's unclear if the list was a recipe or a storage manifest.)","(Текст на этой табличке сильно повреждён. Читаем лишь небольшой отрывок.)
+
+3 горсти молотого...
+...муки в...
+12 ананасов, свеже...
+
+(Неясно, был ли список рецептом или складской описью.)"
 "(The text on this tablet is heavily damaged. Only a small segment is legible.)  
   
 All pilgrims must observe the rites here first, repeat their oath to their people, and pay their tithe for the upkeep of the sacred sites. If these customs are not obeyed, you will be subject to...  
@@ -677,24 +696,8 @@ There is no solace in what lies ahead. All I can do is look to the past, and I c
 нет утешения. Всё, что мне остаётся, — оглядываться в прошлое, и я несу его с собой, куда бы ни шёл.
 
 (Похоже, когда-то страниц было больше, но их вырвали.)"
-"(This appears to be a fragment of a journal.)It's strange. Here, at the end, all I can think about is the beginning.You were so small once. A tiny, jewel-bright bird beginning to test her wings. Every time you took flight, it stole my breath away. I should've spent more time in those moments, little one. Now I'll never see you fly again.And Kralkatorrik—the one who took you from me—has slipped through our fingers again. The end has come. Without you, what hope does Tyria have? My duty now is to bear witness to the end of all things. To stand beside your shell as I wait for reality itself to crumble away.It doesn't frighten me. How could it? My world ended when your heart stopped beating.The Pale Tree, the Dream, Ventari's Tablet—they taught us sylvari are born fully grown. But before you, I was a child. I considered myself the most important creature in the world.I made so many mistakes.(There appear to have been more pages at one point, but they have been removed.)","(Похоже, это фрагмент дневника.)
-Это странно. Здесь, в конце, я могу думать только о начале.
-Ты когда-то была такой маленькой. Крошечной, сияющей драгоценностью птичкой, начинающей испытывать свои крылья. Каждый раз, когда ты взлетала, у меня перехватывало дыхание. Мне следовало бы больше времени проводить в те моменты, малышка. Теперь я никогда не увижу твоего полёта снова.
-И Кралькаторрик — тот, кто отнял тебя у меня — снова ускользнул от нас. Конец настал. Без тебя, какая надежда есть у Тирии? Мой долг теперь — стать свидетелем конца всего сущего. Стоять рядом с твоей скорлупой, ожидая, пока сама реальность рассыплется в прах.
-Это меня не пугает. Как это могло бы? Мой мир закончился, когда твоё сердце перестало биться.
-Бледное Древо, Сон, Скрижаль Вентари — они учили нас, что сильвари рождаются полностью взрослыми. Но до тебя я был ребёнком. Я считал себя самым важным существом в мире.
-Я совершил так много ошибок.
-(Похоже, когда-то здесь было больше страниц, но их удалили.)"
-"(This appears to be a fragment of a journal.)There was a vision.A promise—that we'd win.My god is dead. Aurene, gone. The warmth of Balthazar's spirit is now just cold, lifeless crystal. Kralkatorrik took her from me, just as his Brand will soon take this world.I thought that I had finally found...something. A hope that what I was holding on to was real. That it was pure and good.Maybe it was.Maybe what I had for that short time between my lowest point and the end of all things was as good as it will ever get for me.Or maybe the vision that saw me standing there at her side during the final battle against Kralkatorrik was meant as a warning for me stay away.There is no solace in what lies ahead. All I can do is look to the past, and I carry it with me wherever I go.(There appear to have been more pages at one point, but they have been removed.)","(Похоже, это фрагмент дневника.)
-Было видение.
-Обещание — что мы победим.
-Мой бог мёртв. Аурена, ушла. Тепло духа Балтазара теперь лишь холодный, безжизненный кристалл. Кралькаторрик отнял её у меня, так же как его Порча скоро отнимет этот мир.
-Я думал, что наконец нашёл... что-то. Надежду на то, что то, за что я держался, было реальным. Что это было чистым и добрым.
-Может быть, так и было.
-Может быть, то, что у меня было в то короткое время между моей низшей точкой и концом всего сущего, было настолько хорошо, насколько это вообще возможно для меня.
-Или, может быть, видение, в котором я стоял рядом с ней во время финальной битвы против Кралькаторрика, было предупреждением держаться подальше.
-Нет утешения в том, что ждёт впереди. Всё, что я могу сделать, это оглядываться на прошлое, и я ношу его с собой, куда бы я ни пошёл.
-(Похоже, когда-то здесь было больше страниц, но их удалили.)"
+"(This appears to be a fragment of a journal.)It's strange. Here, at the end, all I can think about is the beginning.You were so small once. A tiny, jewel-bright bird beginning to test her wings. Every time you took flight, it stole my breath away. I should've spent more time in those moments, little one. Now I'll never see you fly again.And Kralkatorrik—the one who took you from me—has slipped through our fingers again. The end has come. Without you, what hope does Tyria have? My duty now is to bear witness to the end of all things. To stand beside your shell as I wait for reality itself to crumble away.It doesn't frighten me. How could it? My world ended when your heart stopped beating.The Pale Tree, the Dream, Ventari's Tablet—they taught us sylvari are born fully grown. But before you, I was a child. I considered myself the most important creature in the world.I made so many mistakes.(There appear to have been more pages at one point, but they have been removed.)","(Похоже, это фрагмент дневника.) Это странно. Здесь, в конце, я могу думать только о начале. Ты когда-то была такой маленькой. Крошечной, сияющей драгоценностью птичкой, начинающей испытывать свои крылья. Каждый раз, когда ты взлетала, у меня перехватывало дыхание. Мне следовало бы больше времени проводить в те моменты, малышка. Теперь я никогда не увижу твоего полёта снова. И Кралькаторрик — тот, кто отнял тебя у меня — снова ускользнул от нас. Конец настал. Без тебя, какая надежда есть у Тирии? Мой долг теперь — стать свидетелем конца всего сущего. Стоять рядом с твоей скорлупой, ожидая, пока сама реальность рассыплется в прах. Это меня не пугает. Как это могло бы? Мой мир закончился, когда твоё сердце перестало биться. Бледное Древо, Сон, Скрижаль Вентари — они учили нас, что сильвари рождаются полностью взрослыми. Но до тебя я был ребёнком. Я считал себя самым важным существом в мире. Я совершил так много ошибок. (Похоже, когда-то здесь было больше страниц, но их удалили.)"
+"(This appears to be a fragment of a journal.)There was a vision.A promise—that we'd win.My god is dead. Aurene, gone. The warmth of Balthazar's spirit is now just cold, lifeless crystal. Kralkatorrik took her from me, just as his Brand will soon take this world.I thought that I had finally found...something. A hope that what I was holding on to was real. That it was pure and good.Maybe it was.Maybe what I had for that short time between my lowest point and the end of all things was as good as it will ever get for me.Or maybe the vision that saw me standing there at her side during the final battle against Kralkatorrik was meant as a warning for me stay away.There is no solace in what lies ahead. All I can do is look to the past, and I carry it with me wherever I go.(There appear to have been more pages at one point, but they have been removed.)","(Похоже, это фрагмент дневника.) Было видение. Обещание — что мы победим. Мой бог мёртв. Аурена, ушла. Тепло духа Балтазара теперь лишь холодный, безжизненный кристалл. Кралькаторрик отнял её у меня, так же как его Порча скоро отнимет этот мир. Я думал, что наконец нашёл... что-то. Надежду на то, что то, за что я держался, было реальным. Что это было чистым и добрым. Может быть, так и было. Может быть, то, что у меня было в то короткое время между моей низшей точкой и концом всего сущего, было настолько хорошо, насколько это вообще возможно для меня. Или, может быть, видение, в котором я стоял рядом с ней во время финальной битвы против Кралькаторрика, было предупреждением держаться подальше. Нет утешения в том, что ждёт впереди. Всё, что я могу сделать, это оглядываться на прошлое, и я ношу его с собой, куда бы я ни пошёл. (Похоже, когда-то здесь было больше страниц, но их удалили.)"
 "(This appears to be a list that Zommoros wrote about ideas for legendary weaponry and other relics. There are many scribbles and crossed-out items)
 
 ""The Living One""
@@ -725,7 +728,37 @@ Prototype: This worked—kind of. The problem was that everybody we tested this 
 
 Idea: A staff that syphons expended life energy from defeated foes, creating a gorgeous aura of light around the weapon.
 
-Prototype: As I've said many a time, magic is not an exact science. I believe it's possible I missed something in my initial formulas, as the staff seems to be syphoning the life energy of the wielder instead of defeated enemies. Immediately upon touching the Syphon Engine, my testers would feel weak, then collapse into a coma. Focus groups rated it very poorly as a result.","(Похоже, это список идей Zommoros для легендарного оружия и прочих реликвий. Он весь в каракулях и вычеркнутых пунктах.) «Живое Существо». Идея: разумная живая винтовка, стреляющая скелетными кулаками. Может беседовать с владельцем, ибо разумна и создана из органического материала. Прототип: «Живое Существо» не делает ничего — лишь кричит в агонии, полностью осознавая тщету своего существования. Сам не знаю, зачем я позволил ему чувствовать боль. Пожалуй, эту затею развивать не стану. «Пёрышко». Идея: кинжал, насыщенный мощной маскирующей магией и способный создавать три своих клона, которые парят в воздухе вокруг владельца и атакуют все предполагаемые угрозы. Прототип: Видимо, я не продумал последствия того, что вокруг моей персоны постоянно будут виться три невидимых ножа. Особенно проблемной оказалась часть про «предполагаемые угрозы»: любого скритта, подошедшего с вопросом, прогоняют невидимые ножи. Это не способствует подобающей профессиональной атмосфере. Пока запишу в безнадёжные. «Двуклинок». Идея: ультрадвуручный меч, разделяющийся на два отдельных обычных двуручника — по одному на каждую пару рук. Прототип: Проблемы, собственно, две. Во-первых, я забыл, что у джиннов четыре руки, а у нашей целевой аудитории обычно всего две, так что держать они могут лишь ОДИН двуручник. Во-вторых — и это, пожалуй, важнее, — ультрадвуручный меч весит немало. И под «немало» я имею в виду, что испытуемые опрокидывались на спину, пригвождённые к земле чудовищным весом «Двуклинка», и барахтались, как перевёрнутая черепаха. Смешно, но непрактично. «Цефалофокус». Идея: фокус в виде живого осьминога, удерживаемый на весу самыми настоящими действующими щупальцами существа! Прототип: Это сработало — почти. Проблема в том, что всем нашим испытателям было очень не по себе, когда магический извивающийся осьминог обвивал руку владельца. Кроме того, было минимум два случая, когда «Цефалофокус» пытался съесть своего владельца, что фокус-группы описали как «не идеально» и «совершенно ужасающе». Пока отложу на полку. «Сифонный Движитель». Идея: посох, вытягивающий отпущенную жизненную энергию из поверженных врагов и создающий вокруг оружия великолепную ауру света. Прототип: Как я не раз говорил, магия — не точная наука. Полагаю, я мог что-то упустить в исходных формулах: посох, похоже, вытягивает жизненную энергию владельца, а не поверженных врагов. Едва коснувшись «Сифонного Движителя», мои испытатели чувствовали слабость, а затем впадали в кому. Фокус-группы, как следствие, оценили его крайне низко."
+Prototype: As I've said many a time, magic is not an exact science. I believe it's possible I missed something in my initial formulas, as the staff seems to be syphoning the life energy of the wielder instead of defeated enemies. Immediately upon touching the Syphon Engine, my testers would feel weak, then collapse into a coma. Focus groups rated it very poorly as a result.","(Похоже, это список идей Zommoros для легендарного оружия и прочих реликвий. Он весь в каракулях и вычеркнутых пунктах.)
+
+«Живое Существо».
+
+Идея: разумная живая винтовка, стреляющая скелетными кулаками. Может беседовать с владельцем, ибо разумна и создана из органического материала.
+
+Прототип: «Живое Существо» не делает ничего — лишь кричит в агонии, полностью осознавая тщету своего существования. Сам не знаю, зачем я позволил ему чувствовать боль. Пожалуй, эту затею развивать не стану.
+
+«Пёрышко».
+
+Идея: кинжал, насыщенный мощной маскирующей магией и способный создавать три своих клона, которые парят в воздухе вокруг владельца и атакуют все предполагаемые угрозы.
+
+Прототип: Видимо, я не продумал последствия того, что вокруг моей персоны постоянно будут виться три невидимых ножа. Особенно проблемной оказалась часть про «предполагаемые угрозы»: любого скритта, подошедшего с вопросом, прогоняют невидимые ножи. Это не способствует подобающей профессиональной атмосфере. Пока запишу в безнадёжные.
+
+«Двуклинок».
+
+Идея: ультрадвуручный меч, разделяющийся на два отдельных обычных двуручника — по одному на каждую пару рук.
+
+Прототип: Проблемы, собственно, две. Во-первых, я забыл, что у джиннов четыре руки, а у нашей целевой аудитории обычно всего две, так что держать они могут лишь ОДИН двуручник. Во-вторых — и это, пожалуй, важнее, — ультрадвуручный меч весит немало. И под «немало» я имею в виду, что испытуемые опрокидывались на спину, пригвождённые к земле чудовищным весом «Двуклинка», и барахтались, как перевёрнутая черепаха. Смешно, но непрактично.
+
+«Цефалофокус».
+
+Идея: фокус в виде живого осьминога, удерживаемый на весу самыми настоящими действующими щупальцами существа!
+
+Прототип: Это сработало — почти. Проблема в том, что всем нашим испытателям было очень не по себе, когда магический извивающийся осьминог обвивал руку владельца. Кроме того, было минимум два случая, когда «Цефалофокус» пытался съесть своего владельца, что фокус-группы описали как «не идеально» и «совершенно ужасающе». Пока отложу на полку.
+
+«Сифонный Движитель».
+
+Идея: посох, вытягивающий отпущенную жизненную энергию из поверженных врагов и создающий вокруг оружия великолепную ауру света.
+
+Прототип: Как я не раз говорил, магия — не точная наука. Полагаю, я мог что-то упустить в исходных формулах: посох, похоже, вытягивает жизненную энергию владельца, а не поверженных врагов. Едва коснувшись «Сифонного Движителя», мои испытатели чувствовали слабость, а затем впадали в кому. Фокус-группы, как следствие, оценили его крайне низко."
 "(This appears to be an excerpt from a larger journal that was written by Zommoros.)
 
 Djinnspit is the most popular vintage of wine in Elona. I take issue with that—not simply because it's a subpar wine manufactured by soulless husks of vintners who care more for money than the art of wine making. Quite simply, it's deceptive marketing.
@@ -737,10 +770,15 @@ A few years ago, some foolhardy adventurer tossed down four bottles of Seborhin 
 No, my favorite is, most surprisingly, something I'd consider a throwaway: Jackspruce Jacaranda. It is not made with jacaranda, of course, but seems to be a grape blend taken from all across the Crystal Oasis. The label is drawn with a most endearing style (showing a jacaranda summoning a lightning bolt into a wine glass), but it is the flavor combination that is most memorable, with a strong and ever-changing floral aroma that evokes the feeling of flying over the Crystal Oasis's most beautiful locales.
 
 My wine collection has grown to a most absurd size, but due to the...UNIQUE conditions that exist within my realm, wine never seems to spoil. Therefore, it would seem I have plenty of time to sample the others to see where they fall in my ever-expanding list of favorites.","(Похоже, это отрывок из более объёмного дневника, написанного Zommoros.)
+
 Djinnspit — самое популярное вино Elona. Я с этим не согласен — и не только потому, что это посредственное вино, изготовленное бездушными оболочками виноделов, которых деньги заботят больше, чем искусство виноделия. Проще говоря, это обманчивый маркетинг.
+
 Когда речь о настоящем элонском вине, есть немало альтернатив заурядному Djinnspit (далее — «расхожее пойло»).
+
 Несколько лет назад некий безрассудный искатель приключений залпом опрокинул четыре бутылки Seborhin 1071 — восхитительного и, к великому сожалению, редкого урожая с оттенками джемовой, но не подавляющей ежевики, аниса, ванили и тончайшей ноткой лакрицы. Однако это не мой любимец.
+
 Нет, мой любимец — что удивительнее всего — то, что я счёл бы проходным: Jackspruce Jacaranda. Разумеется, оно сделано не из жакаранды, но, похоже, представляет собой купаж винограда со всего Crystal Oasis. Этикетка нарисована в прелестнейшем стиле (жакаранда призывает молнию в винный бокал), но запоминается больше всего сочетание вкусов — сильный и вечно меняющийся цветочный аромат, что вызывает ощущение полёта над красивейшими уголками Crystal Oasis.
+
 Моя коллекция вин разрослась до совершенно нелепых размеров, но из-за... УНИКАЛЬНЫХ условий, что царят в моих владениях, вино, похоже, никогда не портится. А значит, у меня, выходит, вдоволь времени, чтобы отведать остальные и определить, где им место в моём вечно растущем списке любимцев."
 "(This book appears to have been printed somewhat cheaply, lacking official publication identifiers. Its many folds and creases suggest it's a popular choice.)
 
@@ -749,11 +787,13 @@ Krach Kazan crossed the field in a few quick strides to where the empress was bo
 ""You have the gratitude of the empire,"" she sobbed. ""Anything, anything you want—you'll have it!""
 
 ""There's only one thing I want,"" he said, pulling away so they could look eye to eye. ""And it isn't jade or jewels or fancy titles. It's for the sons and daughters of Echovald to wake up tomorrow and breathe free. Without freedom, nothing else matters, because a free man owns the most valuable thing in the world—himself.""","(Похоже, эта книга напечатана довольно дёшево и лишена официальных издательских пометок. Многочисленные сгибы и заломы выдают в ней популярное чтиво.)
-Крах Казан пересёк поле в несколько быстрых шагов — туда, где императрица была привязана к дереву, — лёгко ступая меж тел разбойников, которых сразил. Одним взмахом он рассёк её путы. Она бросилась к нему, рыдая в его широкую грудь, обёрнутую цветами великих домов.«Ты заслужил благодарность империи, — всхлипывала она. — Всё, что угодно, всё, чего пожелаешь, — будет твоим!»«Я желаю лишь одного, — сказал он, отстраняясь, чтобы взглянуть ей в глаза. — И это не нефрит, не драгоценности и не пышные титулы. Я хочу, чтобы сыны и дочери Эковальда завтра проснулись и вздохнули свободно. Без свободы всё прочее не имеет значения, ведь свободному человеку принадлежит самое ценное на свете — он сам»."
-"(This book appears to have been printed somewhat cheaply, lacking official publication identifiers. Its many folds and creases suggest it's a popular choice.)Krach Kazan crossed the field in a few quick strides to where the empress was bound to a tree, stepping easily among the bodies of the bandits he had slain. In a single slash, he released her bonds. She threw herself on him, crying into his barrel chest, which was wrapped in the colors of the great houses.""You have the gratitude of the empire,"" she sobbed. ""Anything, anything you want—you'll have it!""""There's only one thing I want,"" he said, pulling away so they could look eye to eye. ""And it isn't jade or jewels or fancy titles. It's for the sons and daughters of Echovald to wake up tomorrow and breathe free. Without freedom, nothing else matters, because a free man owns the most valuable thing in the world—himself.""","(Похоже, эта книга была напечатана довольно дешёво, в ней отсутствуют официальные выходные данные. Многочисленные складки и заломы указывают на то, что это популярный выбор.)
-Крах Казан пересек поле быстрыми шагами туда, где императрица была привязана к дереву, лёгко ступая среди тел бандитов, которых он убил. Одним ударом он освободил её от пут. Она бросилась на него, рыдая в его бочкообразную грудь, которая была обёрнута в цвета великих домов.
-""Ты получишь благодарность империи,"" — всхлипнула она. ""Всё, что угодно — ты получишь это!""
-""Я хочу только одного,"" — сказал он, отстраняясь, чтобы они могли посмотреть друг другу в глаза. ""И это не нефрит, не драгоценности и не пышные титулы. Я хочу, чтобы сыновья и дочери Эховальда проснулись завтра и дышали свободно. Без свободы ничто не имеет значения, потому что свободный человек владеет самой ценной вещью в мире — самим собой."""
+
+Крах Казан пересёк поле в несколько быстрых шагов — туда, где императрица была привязана к дереву, — легко ступая меж тел разбойников, которых сразил. Одним взмахом он рассёк её путы. Она бросилась к нему, рыдая в его широкую грудь, обёрнутую цветами великих домов.
+
+«Ты заслужил благодарность империи, — всхлипывала она. — Всё, что угодно, всё, чего пожелаешь, — будет твоим!»
+
+«Я желаю лишь одного, — сказал он, отстраняясь, чтобы взглянуть ей в глаза. — И это не нефрит, не драгоценности и не пышные титулы. Я хочу, чтобы сыны и дочери Эковальда завтра проснулись и вздохнули свободно. Без свободы всё прочее не имеет значения, ведь свободному человеку принадлежит самое ценное на свете — он сам»."
+"(This book appears to have been printed somewhat cheaply, lacking official publication identifiers. Its many folds and creases suggest it's a popular choice.)Krach Kazan crossed the field in a few quick strides to where the empress was bound to a tree, stepping easily among the bodies of the bandits he had slain. In a single slash, he released her bonds. She threw herself on him, crying into his barrel chest, which was wrapped in the colors of the great houses.""You have the gratitude of the empire,"" she sobbed. ""Anything, anything you want—you'll have it!""""There's only one thing I want,"" he said, pulling away so they could look eye to eye. ""And it isn't jade or jewels or fancy titles. It's for the sons and daughters of Echovald to wake up tomorrow and breathe free. Without freedom, nothing else matters, because a free man owns the most valuable thing in the world—himself.""","(Похоже, эта книга была напечатана довольно дешёво, в ней отсутствуют официальные выходные данные. Многочисленные складки и заломы указывают на то, что это популярный выбор.) Крах Казан пересек поле быстрыми шагами туда, где императрица была привязана к дереву, легко ступая среди тел бандитов, которых он убил. Одним ударом он освободил её от пут. Она бросилась на него, рыдая в его бочкообразную грудь, которая была обёрнута в цвета великих домов. ""Ты получишь благодарность империи,"" — всхлипнула она. ""Всё, что угодно — ты получишь это!"" ""Я хочу только одного,"" — сказал он, отстраняясь, чтобы они могли посмотреть друг другу в глаза. ""И это не нефрит, не драгоценности и не пышные титулы. Я хочу, чтобы сыновья и дочери Эховальда проснулись завтра и дышали свободно. Без свободы ничто не имеет значения, потому что свободный человек владеет самой ценной вещью в мире — самим собой."""
 "(This contract has a note attached to it: ""Happy birthday, boss. You think she's gonna miss this?—Renho"")
 
 1829 CC
@@ -830,16 +870,7 @@ You're one of us. That will never change. No matter what.","(Этот клочо
 Не надо.
 
 Ты одна из нас. Это никогда не изменится. Что бы ни случилось."""
-"(This scrap of paper is filled with half-jotted writing.)Taimi, I'm (There are several words written here and then scribbled out.) sorry about Blish.I know he meant a lot—(This is crossed out with an X.)I know how much he meant to—(This is crossed out with an X.)I wish I could have gotten to know him as well as you did. (This part looks different, clearly written by somebody else.) He had a strength within him that now lives in all of us.(This part is in Braham's handwriting again, apparently written at a later time.)I know you're worried about what we'll think now that we know about your—(All the words following this have been crossed out and scribbled over.)(This last section seems to have been written later on.)Don't be.You're one of us. That will never change. No matter what.","(Этот клочок бумаги исписан торопливыми заметками.)
-Тайми, я (Здесь написано несколько слов, а затем зачеркнуто.) сожалею о Блише.
-Я знаю, как много он значил—(Это перечеркнуто крестом.)
-Я знаю, как много он для тебя значил—(Это перечеркнуто крестом.)
-Хотел бы я узнать его так же хорошо, как ты. (Эта часть выглядит иначе, явно написана кем-то другим.) В нём была сила, которая теперь живёт во всех нас.
-(Эта часть снова почерком Брейхама, написана, по-видимому, позже.)
-Я знаю, ты беспокоишься о том, что мы подумаем, теперь, когда мы знаем о твоей—(Все слова после этого зачёркнуты и замазаны.)
-(Этот последний раздел, похоже, был написан ещё позже.)
-Не надо.
-Ты одна из нас. Это никогда не изменится. Что бы ни случилось."
+"(This scrap of paper is filled with half-jotted writing.)Taimi, I'm (There are several words written here and then scribbled out.) sorry about Blish.I know he meant a lot—(This is crossed out with an X.)I know how much he meant to—(This is crossed out with an X.)I wish I could have gotten to know him as well as you did. (This part looks different, clearly written by somebody else.) He had a strength within him that now lives in all of us.(This part is in Braham's handwriting again, apparently written at a later time.)I know you're worried about what we'll think now that we know about your—(All the words following this have been crossed out and scribbled over.)(This last section seems to have been written later on.)Don't be.You're one of us. That will never change. No matter what.","(Этот клочок бумаги исписан торопливыми заметками.) Тайми, я (Здесь написано несколько слов, а затем зачеркнуто.) сожалею о Блише. Я знаю, как много он значил—(Это перечеркнуто крестом.) Я знаю, как много он для тебя значил—(Это перечеркнуто крестом.) Хотел бы я узнать его так же хорошо, как ты. (Эта часть выглядит иначе, явно написана кем-то другим.) В нём была сила, которая теперь живёт во всех нас. (Эта часть снова почерком Брейхама, написана, по-видимому, позже.) Я знаю, ты беспокоишься о том, что мы подумаем, теперь, когда мы знаем о твоей—(Все слова после этого зачёркнуты и замазаны.) (Этот последний раздел, похоже, был написан ещё позже.) Не надо. Ты одна из нас. Это никогда не изменится. Что бы ни случилось."
 "(This text is not a work of fiction but is based on historical fact as interpreted by the author. Historical facts have been revised based upon new information acquired by the author since the original printing in 1022 AE.)
 
 In this updated 50th Anniversary Edition, the estimable Loremaster Ermenred provides readers a unique look at the Canthan Empire's intricate and storied history. 
@@ -853,7 +884,11 @@ From its comprehensive timeline reaching back to the Age of the Marmoset, to its
   
 We count ourselves among the stars. We do not debase ourselves in worship of the heavens but aspire to the heavens ourselves. Though not all of us will make it, it is better to fall at the gate of glory than to live life mired in the dirt.  
   
-(It goes on for pages in the same fashion.)","(Этот том написан на языке провидцев, но состояние его слишком безупречно, чтобы он был отсюда.) Мы причисляем себя к звёздам. Мы не унижаем себя поклонением небесам, но сами стремимся стать небесами. Пусть не всем нам это удастся, но лучше пасть у врат славы, чем прозябать жизнь, увязнув в грязи. (И так далее, страница за страницей, в том же духе.)"
+(It goes on for pages in the same fashion.)","(Этот том написан на языке провидцев, но состояние его слишком безупречно, чтобы он был отсюда.)
+
+Мы причисляем себя к звёздам. Мы не унижаем себя поклонением небесам, но сами стремимся стать небесами. Пусть не всем нам это удастся, но лучше пасть у врат славы, чем прозябать жизнь, увязнув в грязи.
+
+(И так далее, страница за страницей, в том же духе.)"
 (cough) What have they done to the air here?,(кашель) Что они сделали с воздухом здесь?
 (enter a player's name to invite),(введите имя игрока для приглашения)
 (enter a player's name to join),(введите имя игрока для присоединения)
@@ -954,7 +989,13 @@ Grateful to have my boots on solid ground after two weeks on the seas, fathoms d
   
 The Bastion of the Obscure requested I join the Castoran expedition crew to assess and record any unusual ley-line behavior in the region. I'm just one of a few surveyors to remote regions once blocked by Elder Dragon activity. I even heard one of my peers was in talks with the asura and dwarves. Feeling like I lucked out, from where I'm standing. Warm coastal breezes, a stunning horizon... What's not to like?  
   
-I can already tell this land is ripe with ley magic. It practically bubbles up from the earth and water, coalescing in these brilliant orbs along the beaches, in the rocks, in the plants. I know better than to bother Isgarren while he's lost in his thoughts, but it'd be nice to add his knowledgeable perspective to my notes.","*(Книга на вид новая, сложенный лист пергамента отмечает место читателя. Развернув его, вы замечаете, что он покрыт заметками.)* Рад снова ощутить сапоги на твёрдой земле после двух недель в море — с головой в недавних штудиях о лей-магии. «Исследование лей-заряженного нефрита и его многообещающих применений» за авторством Taimi и Yu Joon, «Управление сырой лей-энергией в новую эпоху» учёной Glenna и вот эта, которую я перечитываю, чтобы освежить основы. Bastion of the Obscure попросил меня присоединиться к команде касторской экспедиции, чтобы оценить и записать любое необычное поведение лей-линий в регионе. Я лишь один из немногих съёмщиков, направленных в удалённые области, некогда перекрытые активностью Старших драконов. Я даже слышал, что кто-то из моих коллег вёл переговоры с асурами и дворфами. Чувствую, что мне повезло, судя по тому, где я стою. Тёплые прибрежные бризы, потрясающий горизонт... Что тут может не нравиться? Я уже вижу, что эта земля богата лей-магией. Она буквально бурлит из земли и воды, сгущаясь в эти сияющие сферы вдоль пляжей, в камнях, в растениях. Мне хватает ума не тревожить Isgarren, пока он погружён в свои мысли, но было бы славно добавить в мои заметки его сведущий взгляд."
+I can already tell this land is ripe with ley magic. It practically bubbles up from the earth and water, coalescing in these brilliant orbs along the beaches, in the rocks, in the plants. I know better than to bother Isgarren while he's lost in his thoughts, but it'd be nice to add his knowledgeable perspective to my notes.","*(Книга на вид новая, сложенный лист пергамента отмечает место читателя. Развернув его, вы замечаете, что он покрыт заметками.)*
+
+Рад снова ощутить сапоги на твёрдой земле после двух недель в море — с головой в недавних штудиях о лей-магии. «Исследование лей-заряженного нефрита и его многообещающих применений» за авторством Taimi и Yu Joon, «Управление сырой лей-энергией в новую эпоху» учёной Glenna и вот эта, которую я перечитываю, чтобы освежить основы.
+
+Bastion of the Obscure попросил меня присоединиться к команде касторской экспедиции, чтобы оценить и записать любое необычное поведение лей-линий в регионе. Я лишь один из немногих съёмщиков, направленных в удалённые области, некогда перекрытые активностью Старших драконов. Я даже слышал, что кто-то из моих коллег вёл переговоры с асурами и дворфами. Чувствую, что мне повезло, судя по тому, где я стою. Тёплые прибрежные бризы, потрясающий горизонт... Что тут может не нравиться?
+
+Я уже вижу, что эта земля богата лей-магией. Она буквально бурлит из земли и воды, сгущаясь в эти сияющие сферы вдоль пляжей, в камнях, в растениях. Мне хватает ума не тревожить Isgarren, пока он погружён в свои мысли, но было бы славно добавить в мои заметки его сведущий взгляд."
 "*(Scrawled in the first page's margin.)*
 
 *Petrus, give me your thoughts on the foreword. I saved it for last, now that the manual is done. Let me know if it's too much at the end. I got emotional. Dame would've been proud, is all.* 
@@ -1050,7 +1091,19 @@ ACCESS CODES
 5. Green: 008000  
 6. Violet: 7F00FF  
   
-Zeroes are the key. Number then position.","**ТОЛЬКО ДЛЯ УПОЛНОМОЧЕННОГО ПЕРСОНАЛА** Что бы ты ни делал, не дай ни одной из лягушек это заполучить. КОДЫ ДОСТУПА 1. Чёрный: 000000 2. Белый: FFFFFF 3. Красный: FF0000 4. Синий: 0000FF 5. Зелёный: 008000 6. Фиолетовый: 7F00FF Ключ — нули. Сначала число, затем позиция."
+Zeroes are the key. Number then position.","**ТОЛЬКО ДЛЯ УПОЛНОМОЧЕННОГО ПЕРСОНАЛА**
+
+Что бы ты ни делал, не дай ни одной из лягушек это заполучить.
+
+КОДЫ ДОСТУПА
+1. Чёрный: 000000
+2. Белый: FFFFFF
+3. Красный: FF0000
+4. Синий: 0000FF
+5. Зелёный: 008000
+6. Фиолетовый: 7F00FF
+
+Ключ — нули. Сначала число, затем позиция."
 "**Akeem, the Wizard of the Obscure**  
 
 The one who brings together our two worlds will die doing so; at the feet of a monstrous force, they will perish.","**Аким, Волшебник Сокрытого**  
@@ -1090,7 +1143,36 @@ Councillor Phlunt
   
 - Two Councillors discussed a ""playdate"" between their two progeny. Nothing came of it after both agreed that the children detested one another on ideological grounds.   
   
-- The meeting was adjourned when High Councillor Flax received an urgent note to return to the Usability Station. The Arcane Council will reconvene when Councillors Ludo and Canni return from business outside of Rata Sum.","**Сводка заседания Тайного Совета** *Записи ведёт голем-секретарь Phlunt* **Присутствуют** Верховный советник Flax Советница Haia Советник Vark Советница Zudo Советник Yahk Советник Bleent Советник Phlunt **Протокол заседания** - Кворум достигнут; двое членов совета отсутствуют. Советница Ludo — в Lion's Arch по делам Тирийского альянса, советница Canni руководит экологическим исследованием в Cantha. Угощение предоставлено шеф-поваром Prazz. - От советника Phlunt поступила петиция: перенести заседания Тайного Совета на кантийское стандартное время, чтобы ему не приходилось прерывать свою ежедневную чайную церемонию. Петиция будет принята к рассмотрению. - Советник Vark вызвался зачитать письмо советницы Ludo. Она сообщает, что через две недели Совет Капитанов проведёт в Lion's Arch саммит между народами Cantha и Elona. Cantha продемонстрирует свои новые нефритовые фильтры с лей-насыщением, и советница Ludo предложила совету отправить студентов от каждого из коллежей понаблюдать. Советник Yahk отверг идею, выразив озабоченность разбазариванием ресурсов. Советник Phlunt поддержал озабоченность Yahk. Советница Zudo выразила несогласие, но была быстро осажена верховным советником Flax. - Верховный советник Flax перешёл к официальной жалобе на угощение, отметив, что черничные тарталетки «сухи и не приносят удовлетворения». Советники Bleent и Yahk согласны. - Советник Yahk отмечает, что заварной крем из слизи, напротив, превосходен. Ввиду этого официальные жалобы на черничные тарталетки отклонены. - Советница Zudo вновь подняла свою петицию о дополнительном доступе коллежей к финансированию после недавних сокращений бюджета. По её словам, несколько исследовательских крю выразили обеспокоенность финансированием и, возможно, будут вынуждены остановить работу. Верховный советник Flax попросил отложить обсуждение петиции, сославшись на неготовность, но предложил, чтобы каждая из этих крю подала запрос на финансирование для индивидуальной оценки. Это предложение удовлетворило советницу Zudo. - Поскольку советница Ludo пробудет в Lion's Arch ещё минимум неделю, советник Yahk вызвался курировать пайки и припасы, готовящиеся для Тирийского альянса. Верховный советник Flax одобрил. - Двое советников обсудили «игровую встречу» своих отпрысков. Ничем не кончилось: оба согласились, что дети презирают друг друга по идеологическим соображениям. - Заседание было прервано, когда верховному советнику Flax доставили срочную записку с требованием вернуться на Станцию Удобства. Тайный Совет соберётся вновь, когда советницы Ludo и Canni вернутся из дел за пределами Rata Sum."
+- The meeting was adjourned when High Councillor Flax received an urgent note to return to the Usability Station. The Arcane Council will reconvene when Councillors Ludo and Canni return from business outside of Rata Sum.","**Сводка заседания Тайного Совета**
+*Записи ведёт голем-секретарь Phlunt*
+
+**Присутствуют**
+Верховный советник Flax
+Советница Haia
+Советник Vark
+Советница Zudo
+Советник Yahk
+Советник Bleent
+Советник Phlunt
+
+**Протокол заседания**
+- Кворум достигнут; двое членов совета отсутствуют. Советница Ludo — в Lion's Arch по делам Тирийского альянса, советница Canni руководит экологическим исследованием в Cantha. Угощение предоставлено шеф-поваром Prazz.
+
+- От советника Phlunt поступила петиция: перенести заседания Тайного Совета на кантийское стандартное время, чтобы ему не приходилось прерывать свою ежедневную чайную церемонию. Петиция будет принята к рассмотрению.
+
+- Советник Vark вызвался зачитать письмо советницы Ludo. Она сообщает, что через две недели Совет Капитанов проведёт в Lion's Arch саммит между народами Cantha и Elona. Cantha продемонстрирует свои новые нефритовые фильтры с лей-насыщением, и советница Ludo предложила совету отправить студентов от каждого из коллежей понаблюдать. Советник Yahk отверг идею, выразив озабоченность разбазариванием ресурсов. Советник Phlunt поддержал озабоченность Yahk. Советница Zudo выразила несогласие, но была быстро осажена верховным советником Flax.
+
+- Верховный советник Flax перешёл к официальной жалобе на угощение, отметив, что черничные тарталетки «сухи и не приносят удовлетворения». Советники Bleent и Yahk согласны.
+
+- Советник Yahk отмечает, что заварной крем из слизи, напротив, превосходен. Ввиду этого официальные жалобы на черничные тарталетки отклонены.
+
+- Советница Zudo вновь подняла свою петицию о дополнительном доступе коллежей к финансированию после недавних сокращений бюджета. По её словам, несколько исследовательских крю выразили обеспокоенность финансированием и, возможно, будут вынуждены остановить работу. Верховный советник Flax попросил отложить обсуждение петиции, сославшись на неготовность, но предложил, чтобы каждая из этих крю подала запрос на финансирование для индивидуальной оценки. Это предложение удовлетворило советницу Zudo.
+
+- Поскольку советница Ludo пробудет в Lion's Arch ещё минимум неделю, советник Yahk вызвался курировать пайки и припасы, готовящиеся для Тирийского альянса. Верховный советник Flax одобрил.
+
+- Двое советников обсудили «игровую встречу» своих отпрысков. Ничем не кончилось: оба согласились, что дети презирают друг друга по идеологическим соображениям.
+
+- Заседание было прервано, когда верховному советнику Flax доставили срочную записку с требованием вернуться на Станцию Удобства. Тайный Совет соберётся вновь, когда советницы Ludo и Canni вернутся из дел за пределами Rata Sum."
 "**Arina, the Outrider of the Ward**  
 
 The lady would look upon the other world and see opportunity.","**Арина, Всадница Стражи**  
@@ -1336,7 +1418,29 @@ Frequency 01, which seems to linger toward the northernmost edge of the mountain
   
 **Hour 14—the Commander Arrives**  
   
-Thank goodness, the commander has finally arrived—and just as my position was detected by the titanspawn. Now the true research begins. To battle we go! Or rather, to battle the commander goes.","**Час 07 — Прибытие и первые наблюдения** Когда до меня дошли вести, что Тирийский альянс готовит наступление на титанов — после того как выяснилось, что есть и третий, — я бросаю все дела, чтобы следить за событиями. Моё расследование переполоха среди ларгосов просто обязано подождать. Главная моя цель — понаблюдать за этими существами, титанами, прежде чем сюда нагрянут войска и погубят всякую надежду на прямое наблюдение (и да, знаю: ничего хорошего в том, что эти твари разгуливают по тирийским пустошам, нет; просто отмечаю, что не каждый день на свет сплавляют нового титана). Но, будь проклята Алхимия, я успеваю как раз к небольшой разведке. Когда один из моих контактов в Ордене Шепота сообщил, что коммандир и союзники планируют прибыть к Mount Balrior сразу после следующего восхода, мне пришлось задействовать все связи до единой, чтобы попасть сюда. Все воздушные перелёты близ Janthir объявлены «крайне рискованными», так что мои партнёры с аэродрома организовали мне высадку на соседнем острове. Кто-то из низинного медвежьего народа указал мне тропу, и начался подъём. По пути мне встречались порождения титанов и волки — ничто из этого не заставит исследователя моего склада и глазом моргнуть, — но всего несколько часов назад я наконец на месте, и... они великолепны. Что за чудо эти создания! Насколько же они превосходят титанов из наших старых записей — Farrah Baelseeker из Приората как раз собирает полный отчёт. Они крупнее, они сильнее. Дело лишь в их возрасте? Или в чём-то ещё? Заметьте, мне недостаёт пустоголовости, чтобы подобраться поближе, — хотя когда прибудет коммандир, я с радостью понаблюдаю, — но эти следы, размеры их порождений. Запахи в воздухе! Всё это восхитительно — но выводы напрашиваются и весьма пугающие. Первые мои вопросы — об их происхождении: кто вновь разжёг кузню? Возможно, этого нам не узнать. Но не спросить нельзя. **Час 11 — Странные вибрации** Мне удалось устроиться на безопасной поляне возле каких-то давно заброшенных руин — вероятно, мурсаатских или Белой Мантии. Поблизости слышны порождения титанов, но меня они пока не обнаружили. С самого прибытия я наблюдаю странные вибрации по всей горе. К счастью, Farrah сообщала о похожих явлениях во время собственной работы в Janthir Syntri, так что при мне инфразвуковой частотный трассер — маленькая реликвия моей жизни до Приората. Как и ожидалось, мне удалось выделить три точки происхождения этих частот. Судя по перемещениям порождений титанов, можно предположить, что источник — сами титаны. В рабочем отчёте Farrah отмечено, что титаны используют выбросы горячего воздуха и энергии, издавая грозоподобные звуки, чтобы переговариваться друг с другом на огромных расстояниях. Те звуки весьма громки, их слышим даже мы (правда, разобрать их невозможно, если вы дальше нескольких ярдов). В данном же случае, полагаю, титаны перешли на менее уловимую частоту связи, чтобы скрыть своё местонахождение. К несчастью для них, они не знают, как хорошо я оснащён. Частота 01, которая держится у самого северного края вершины, обычно коротка и резка — полагаю, это Ura. Частота 02, тяготеющая к востоку, более многословна, но обычно слышна лишь тогда, когда вступает Частота 03. Частота 03, чей источник обитает к западу, ...бессвязна и сложна. Она подчиняется ритмическому рисунку, причём не сказать чтобы достойному восхищения. Я сопоставил её с классической крайтской песней «Битва у Подножия Короля» и склоняюсь к мысли, что Частота 03 — это, возможно, фальшивая попытка... пения? Отсюда вывод: Частота 02 — это Greer, а Частота 03 — Decima. Похоже, она не зря величает себя «Певицей Бури». **Час 14 — Прибытие коммандира** Слава Алхимии, коммандир наконец прибыл — и как раз тогда, когда порождения титанов обнаружили мою позицию. Теперь начинается настоящее исследование. В бой! Точнее, в бой идёт коммандир."
+Thank goodness, the commander has finally arrived—and just as my position was detected by the titanspawn. Now the true research begins. To battle we go! Or rather, to battle the commander goes.","**Час 07 — Прибытие и первые наблюдения**
+
+Когда до меня дошли вести, что Тирийский альянс готовит наступление на титанов — после того как выяснилось, что есть и третий, — я бросаю все дела, чтобы следить за событиями. Моё расследование переполоха среди ларгосов просто обязано подождать. Главная моя цель — понаблюдать за этими существами, титанами, прежде чем сюда нагрянут войска и погубят всякую надежду на прямое наблюдение (и да, знаю: ничего хорошего в том, что эти твари разгуливают по тирийским пустошам, нет; просто отмечаю, что не каждый день на свет сплавляют нового титана). Но, будь проклята Алхимия, я успеваю как раз к небольшой разведке.
+
+Когда один из моих контактов в Ордене Шепота сообщил, что коммандир и союзники планируют прибыть к Mount Balrior сразу после следующего восхода, мне пришлось задействовать все связи до единой, чтобы попасть сюда. Все воздушные перелёты близ Janthir объявлены «крайне рискованными», так что мои партнёры с аэродрома организовали мне высадку на соседнем острове. Кто-то из низинного медвежьего народа указал мне тропу, и начался подъём. По пути мне встречались порождения титанов и волки — ничто из этого не заставит исследователя моего склада и глазом моргнуть, — но всего несколько часов назад я наконец на месте, и... они великолепны.
+
+Что за чудо эти создания! Насколько же они превосходят титанов из наших старых записей — Farrah Baelseeker из Приората как раз собирает полный отчёт. Они крупнее, они сильнее. Дело лишь в их возрасте? Или в чём-то ещё? Заметьте, мне недостаёт пустоголовости, чтобы подобраться поближе, — хотя когда прибудет коммандир, я с радостью понаблюдаю, — но эти следы, размеры их порождений. Запахи в воздухе! Всё это восхитительно — но выводы напрашиваются и весьма пугающие.
+
+Первые мои вопросы — об их происхождении: кто вновь разжёг кузню? Возможно, этого нам не узнать. Но не спросить нельзя.
+
+**Час 11 — Странные вибрации**
+
+Мне удалось устроиться на безопасной поляне возле каких-то давно заброшенных руин — вероятно, мурсаатских или Белой Мантии. Поблизости слышны порождения титанов, но меня они пока не обнаружили.
+
+С самого прибытия я наблюдаю странные вибрации по всей горе. К счастью, Farrah сообщала о похожих явлениях во время собственной работы в Janthir Syntri, так что при мне инфразвуковой частотный трассер — маленькая реликвия моей жизни до Приората. Как и ожидалось, мне удалось выделить три точки происхождения этих частот. Судя по перемещениям порождений титанов, можно предположить, что источник — сами титаны.
+
+В рабочем отчёте Farrah отмечено, что титаны используют выбросы горячего воздуха и энергии, издавая грозоподобные звуки, чтобы переговариваться друг с другом на огромных расстояниях. Те звуки весьма громки, их слышим даже мы (правда, разобрать их невозможно, если вы дальше нескольких ярдов). В данном же случае, полагаю, титаны перешли на менее уловимую частоту связи, чтобы скрыть своё местонахождение. К несчастью для них, они не знают, как хорошо я оснащён.
+
+Частота 01, которая держится у самого северного края вершины, обычно коротка и резка — полагаю, это Ura. Частота 02, тяготеющая к востоку, более многословна, но обычно слышна лишь тогда, когда вступает Частота 03. Частота 03, чей источник обитает к западу, ...бессвязна и сложна. Она подчиняется ритмическому рисунку, причём не сказать чтобы достойному восхищения. Я сопоставил её с классической крайтской песней «Битва у Подножия Короля» и склоняюсь к мысли, что Частота 03 — это, возможно, фальшивая попытка... пения? Отсюда вывод: Частота 02 — это Greer, а Частота 03 — Decima. Похоже, она не зря величает себя «Певицей Бури».
+
+**Час 14 — Прибытие коммандира**
+
+Слава Алхимии, коммандир наконец прибыл — и как раз тогда, когда порождения титанов обнаружили мою позицию. Теперь начинается настоящее исследование. В бой! Точнее, в бой идёт коммандир."
 "**Interviewee**: Born from Thunder  
 **Location**: Forager's Hunt  
 **Titan Observations**: Titanspawn Activity  

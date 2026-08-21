@@ -194,7 +194,8 @@ Crossfire,Перекрестный огонь
 Cruel Strike,Жестокий удар
 "Crush nearby foes with a chilling slam. If your target has been struck by <c=@abilitytype>Banish</c>, teleport to them.","Сокрушите ближайших врагов леденящим ударом. Если ваша цель была поражена <c=@abilitytype>Изгнанием</c>, телепортируйтесь к ней."
 "Crush your opponent's armor, leaving them vulnerable and gaining might. Vulnerability and might stacks doubled if you hit a disabled foe.
-<c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>",
+<c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Сокрушите броню противника, оставляя его уязвимым и получая мощь. Стаки уязвимости и мощи удваиваются, если вы бьёте обездвиженного врага.
+<c=@reminder>К обездвиживанию относятся оглушение, ошеломление, отталкивание, притягивание, нокдаун, погружение, всплытие, отбрасывание, провокация и страх.</c>"
 Crushes the target with the Giant Snowball's frosty form.,Сокрушает цель ледяной формой Гигантского снежка.
 Crushing Abyss,Сокрушающая бездна
 Crushing Blow,Сокрушающий удар

@@ -1,7 +1,7 @@
 english,translate
 Let me guess. Trouble?,Позвольте угадать. Проблемы?
 "Let me have your egg and I'll see to it that the turtle hatches. It's a fairly...delicate process. Meanwhile, if you get me what's on this list, I'll make sure it grows up nice 'n strong.","Отдай мне яйцо, и я позабочусь о том, чтобы черепаха вылупилась. Это довольно деликатный процесс. А пока, если ты достанешь мне всё из этого списка, я сделаю так, чтобы она выросла большой и сильной."
-Let me know if you find any Melandru's Tears out there. The Pact needs them to build a new batch of ley reflectors.,"Сообщите мне, если найдёте где-нибудь Слёзы Меландру. Альянсу нужны они для создания новой партии отражателей линий лей."
+Let me know if you find any Melandru's Tears out there. The Pact needs them to build a new batch of ley reflectors.,"Сообщите мне, если найдёте где-нибудь Слёзы Меландру. Альянсу нужны они для создания новой партии отражателей лей-линий."
 Let me know when Taimi tells you the next hot spot. I'll help wherever I'm needed.,"Сообщите мне, когда Таими скажет, где следующее место назначения. Я помогу, чем смогу."
 Let me repair you.,Позволь мне тебя починить.
 "Let me see this rum, then.",Покажи мне этот ром.
@@ -82,7 +82,7 @@ Ley Buoyancy Charge Dispenser,Диспенсер зарядов леевой п�
 Ley Burst,Взрыв энергии
 Ley Essence,Лей-эссенция
 Ley Line Energy,Энергия линий силы
-Ley Line Recalibration Device,Устройство для перенастройки линий лей.
+Ley Line Recalibration Device,Устройство для перенастройки лей-линий.
 Ley Line Run,Прохождение по линиям силы
 Ley Lines Reflected,Отражённые линии силы
 Ley Reflector,Отражающий луч
@@ -90,13 +90,13 @@ Ley Rift,Разлом Лей-линий
 Ley Slam,Удар молнии
 Ley beam is reflecting at maximum efficiency. All in a day's work!,Луч энергии отражается с максимальной эффективностью. Обычный день!
 Ley energy consumed from the islands,Поглощенная лей-энергия с островов.
-Ley line samples collected: %num1%%%,Собрано образцов силовых линий: %num1%%%
+Ley line samples collected: %num1%%%,Собрано образцов лей-линий: %num1%%%
 Ley-Energy Leak,Утечка лей-энергии
 "Ley-Energy Matter Converter, please.","Преобразователь леевой энергии, пожалуйста."
 Ley-Line Infused Jade,"Нефрит, пропитанный энергией линий Лей."
-Ley-Line Overcharge,Перегрузка линий лей.
+Ley-Line Overcharge,Перегрузка лей-линий.
 Ley-Line Torrent,Лей-лайн поток
-Ley-Linien-Kartographie,Картография линий лей.
+Ley-Linien-Kartographie,Картография лей-линий.
 Ley-Rich Roots,"Корни, богатые лей-рудой"
 Ley-Spotted Moth,Мотылёк с узором из линий.
 Ley-Spotted Moth Caterpillar,Гусеница с узором из линий
@@ -171,9 +171,9 @@ Liga-Top-Stats – Elite,Лучшая статистика лиги – Элит
 Light Ale Keg,Бочонок светлого эля
 Light Bag[s] of Skritt Shinies,Лёгкий [мешок|мешка|мешков] блестяшек скриттов
 Light Bridge Holoprojector,Голопроектор светового моста
-Light Consortium Breathing Mask Skin[s],"Маска для дыхания ""Светлый консорциум"""
+Light Consortium Breathing Mask Skin[s],[Облик|Облика|Обликов] лёгкой дыхательной маски Консорциума
 Light Feedback,Небольшой отзыв
-Light Island Shoulder Skin[s],"Наплечник ""Светлый остров"""
+Light Island Shoulder Skin[s],[Облик|Облика|Обликов] лёгкого наплечника «Остров»
 Light Miner's Bag[s],[Лёгкая сумка шахтёра|Лёгкой сумки шахтёра|Лёгких сумок шахтёра]
 Light Stolen Supplies Bag[s],[Лёгкий мешок|Лёгких мешка|Лёгких мешков] украденных припасов
 Light Supply Bag[s],[Лёгкий мешок|Лёгких мешка|Лёгких мешков] припасов
@@ -181,9 +181,9 @@ Light Supply Bag[s],[Лёгкий мешок|Лёгких мешка|Лёгки�
 Light as a feather.,"Лёгкий, как пёрышко."
 Light candle,Лёгкая свеча
 Light fires to progress deeper into the blizzard,"Разжигайте костры, чтобы продвинуться дальше сквозь метель."
-Light of Deldrimor Plate[s],Доспех из светящегося металла Делдримора
-Light of Deldrimor Plate[s]—Bottom Half,Доспех из дельдриморского света — нижняя часть
-Light of Deldrimor Plate[s]—Top Half,Доспех из дельдриморского света — верхняя часть
+Light of Deldrimor Plate[s],[Пластина|Пластины|Пластин] «Свет Дельдримора»
+Light of Deldrimor Plate[s]—Bottom Half,[Пластина|Пластины|Пластин] «Свет Дельдримора» — нижняя половина
+Light of Deldrimor Plate[s]—Top Half,[Пластина|Пластины|Пластин] «Свет Дельдримора» — верхняя половина
 Light the branch on fire.,Подожгите ветку.
 Light torch,Лёгкий факел
 "Light, come forth!","Свет, явись!"

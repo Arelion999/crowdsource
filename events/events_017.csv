@@ -78,7 +78,7 @@ Optional: Reload the dolyak,Дополнительно: Перезарядите
 Optional: Seek assistance from Captain Uathach south of Caer Astorea.,Дополнительно: обратитесь за помощью к Captain Uathach к югу от Caer Astorea.
 Optional: Seek assistance from Sergeant Talbert north of Overlord's Greatcamp.,Дополнительно: Обратитесь за помощью к сержанту Talbert к северу от Великого лагеря повелителя.
 Optional: Seek assistance from Tactician Marsch.,Дополнительно: обратитесь за помощью к Tactician Marsch.
-Optional: Speed Zildi's progress by hacking the terminals: x%,"Ускорьте прогресс Зилди, взломав терминалы: x."
+Optional: Speed Zildi's progress by hacking the terminals: x%,"Ускорьте прогресс Зилди, взломав терминалы: x%"
 Optional: Talk to Sergeant Ami at the mine gate for support,Дополнительно: Поговорите с Sergeant Ami у ворот шахты для получения поддержки
 "Or, you two could tend to the wounded and begin repairs. We still have a fort to defend.",Или вы двое могли бы заняться ранеными и начать ремонт. Нам ещё защищать форт.
 Orb Energy Drained,Энергия сферы исчерпана
@@ -198,7 +198,7 @@ Pact landing craft remaining,Осталось десантных корабле�
 Pact members alive,Членов Договора в живых
 Pact members alive: 4,Членов Пакта в живых: 4
 Pact morale: 100%,Боевой дух Pact: 100%
-Pact morale: %num1%%%,
+Pact morale: %num1%%%,Боевой дух Пакта: %num1%%%
 Pact soldier abandons mission in: x:xx,Солдат Pact покинет задание через: x:xx
 Pact submarines: x,Подводные лодки Pact: x
 Pact survivors on their feet: 7,Выживших Pact на ногах: 7
@@ -304,7 +304,7 @@ Pioneer Golem,Голем-первопроходец
 Pipryna beckons at %str1%,Pipryna манит к %str1%
 Pirate Blasi,Пират Blasi
 Pirate Captain Huuhes,Pirate Captain Huuhes
-Pirate Strength: %num1%%%,
+Pirate Strength: %num1%%%,Сила пиратов: %num1%%%
 Pirate morale,Боевой дух пиратов
 Pirate morale:,Боевой дух пиратов:
 Pirate morale: x%,Боевой дух пиратов: x%
@@ -407,7 +407,7 @@ Power Cores Recovered by Blue,Энергетических ядер собран
 Power Cores Recovered by Green,Энергетических ядер собрано зелёными
 Power Cores Recovered by Red,Энергетических ядер собрано красными
 Power East Sentry L.O.X.,Восточный часовой L.O.X.
-Power East Sentry L.O.X. with energy from the ley-line energy collectors,Запитайте Восточного часового L.O.X. энергией из коллекторов магических линий
+Power East Sentry L.O.X. with energy from the ley-line energy collectors,Запитайте Восточного часового L.O.X. энергией из коллекторов лей-линий
 Power Grid Reset Progress,Прогресс перезагрузки энергосети
 Power Level,Уровень энергии
 Power Overwhelming (meta event),Необузданная мощь (мета-событие)
@@ -422,7 +422,7 @@ Power West Sentry L.O.X. with energy from the ley-line energy collectors,Зар�
 Power beacons destroyed,Маяки энергии уничтожены
 Power conduits active,Активные силовые кабели
 Power the altar by harvesting unstable magic from elementals,"Запитайте алтарь, собрав нестабильную магию с элементалей"
-Power the golem with ley energy.,Запитайте голема энергией линий лей.
+Power the golem with ley energy.,Запитайте голема энергией лей-линий.
 Power the northeast shrine,Запитай северо-восточный алтарь
 Power the northwest shrine,Запитайте северо-западное святилище
 Power the southeast shrine,Запитать юго-восточное святилище
@@ -432,7 +432,7 @@ Praise be to Joko!,Слава Joko!
 Prangor Warclaws,Prangor Warclaws
 Predictable as they are ugly. So we turn their advantage against them.,"Предсказуемы, как и уродливы. Так что мы обратим их преимущество против них самих."
 Preeda's patience ends in: 10:00,Терпение Preeda иссякнет через: 10:00
-Prelude to Wintersday—Easy,Прелюдия к Дню Зимы — Лёгко
+Prelude to Wintersday—Easy,Прелюдия к Дню Зимы — Легко
 Preparations,Подготовка
 Preparations begin in: 5:00.,Подготовка начнется через: 5:00.
 "Preparations will be completed soon, so get any final training in now.","Подготовка скоро завершится, так что проводите последние тренировки сейчас."
@@ -470,7 +470,7 @@ Prevent Brand energy from overwhelming the area,Не дайте энергии B
 Prevent Inquest thieves from stealing boxes of golem parts and fleeing Soren Draa,Помешайте ворам Inquest украсть ящики с деталями големов и сбежать из Soren Draa
 Prevent Jade Brotherhood from stealing batteries,Не дайте Jade Brotherhood украсть батареи
 Prevent Mipp's kidnapping,Предотвратите похищение Mipp
-Prevent Mordrem Preservers from restoring the Ley-Line Collectors.,Не дайте Мордрем-хранителям восстановить коллекторы магических линий.
+Prevent Mordrem Preservers from restoring the Ley-Line Collectors.,Не дайте Мордрем-хранителям восстановить коллекторы лей-линий.
 Prevent Risen from killing all the sylvari guards!,Не дайте Risen перебить всех стражей-сильвари!
 Prevent White Mantle reinforcements from reaching Saidra's Haven,Не дай подкреплениям Белой Мантии добраться до Убежища Saidra
 Prevent a brawl between the three legions,Предотвратите драку между тремя легионами

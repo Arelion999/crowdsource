@@ -1,6 +1,6 @@
 english,translate
 <Warband survivor> salutes <Character name>.,<Character name> приветствует <Warband survivor>.
-<nowiki />'Bye.,
+<nowiki />'Bye.,<nowiki />Пока.
 <nowiki/>'Tis a thing of beauty. A magical raptor egg!,<nowiki/>Это нечто прекрасное. Магическое яйцо ящера!
 ==[ FIELD TECH TURRET ACCESS DETECTED ]==,==ОБНАРУЖЕН ДОСТУП К ТЕХНИЧЕСКОМУ ТУРЕЛЮ==
 ==[ FIELD TECH TURRET SYSTEMS INITIALIZING ]==,==[СИСТЕМЫ ПОЛЕВЫХ ТЕХНИЧЕСКИХ УСТАНОВОК АКТИВИРУЮТСЯ]==
@@ -14,7 +14,7 @@ english,translate
 > I don't have a number.,> У меня нет номера.
 > Last active transmission,> Последняя активная передача
 > Last programmed destination,> Последний запрограммированный пункт назначения
-> Ley-Line Core Details,> Детали ядра силовых линий
+> Ley-Line Core Details,> Детали ядра лей-линий
 > Magic-Imbued Catalyst Devices,> Магические каталитические устройства
 > Main Menu,> Главное меню
 > Pets,> Питомцы
@@ -56,7 +56,7 @@ A Sunspear in public? Their alliance with Amnoon must be going well.,"Sunspear �
 A Vigil member has been assigned to you and will be standing by. They'll help you settle in and adjust to your new duties.,"К тебе приставлен член Vigil, он будет наготове. Он поможет тебе освоиться и привыкнуть к новым обязанностям."
 "A Vigil squad punches through the undead sieging the haven. Once we've liberated the haven, a combined assault will be plenty to mop up the enemy.","Отряд Vigil прорывается сквозь нежить, осаждающую убежище. Как только мы освободим его, объединённой атаки хватит, чтобы добить врага."
 A White Mantle badge. Looks like Tatyanna's.,"Значок Белой Мантии. Похоже, принадлежит Tatyanna."
-"A barrel from one of the recent shipwrecks, likely connected to the creature that attacked Lion's Arch.","Бочка с одного из недавних кораблекрушений, вероятно, связана с существом, напавшим на Королевскую гавань."
+"A barrel from one of the recent shipwrecks, likely connected to the creature that attacked Lion's Arch.","Бочка с одного из недавних кораблекрушений, вероятно, связана с существом, напавшим на Львиную Арку."
 A barrel o' grog to the one who takes out those guns.,"Бочонок грога тому, кто уничтожит эти пушки."
 A barrier. I think...it's being powered by these machines. And that blue liquid.,Барьер. Думаю... он питается от этих машин. И от этой синей жидкости.
 "A bashing mission. My favorite. I got this. Stand back and watch me, boss!","Миссия по избиению. Мое любимое. Я справлюсь. Отойди и смотри на меня, босс!"
@@ -271,7 +271,7 @@ A few of them went to perform recon. Never heard back from them.,Несколь�
 "A few samples won't hurt anyone. Besides, we have all these other fine artifacts. They aren't going anywhere.","Несколько образцов никому не повредят. К тому же, у нас полно других отличных артефактов. Они никуда не денутся."
 "A few scraps of discarded armor. Might be able to use these to look the part, at least from a distance.","Несколько обрывков брошенной брони. Может, удастся использовать их, чтобы сойти за своего, хотя бы издалека."
 A few scraps of the extractor. There is nothing usable here.,Несколько кусков экстрактора. Здесь нет ничего полезного.
-"A few tapestries with the Order of Whispers emblem on it...oh, wait.","Несколько гобеленов с эмблемой Order of Whispers... о, погоди."
+"A few tapestries with the Order of Whispers emblem on it...oh, wait.","Несколько гобеленов с инсигнией Order of Whispers... о, погоди."
 "A few tengu made it their job to protect the others on their way, and, voilá, the Kestrels were born.","Несколько tengu взяли на себя задачу защищать остальных в пути, и, вуаля, родились Kestrels."
 "A few things: grab those supplies and get them to the quartermaster, feed the hungry sentry, and bust up that annoying speaker. Speaker and supply are outside the camp, staff is close.","Несколько вещей: забери припасы и отнеси их квартирмейстеру, накорми голодного часового и разбей этот надоедливый динамик. Динамик и припасы снаружи лагеря, персонал рядом."
 "A few times, but never without Maw or Grandmaw.","Пару раз, но никогда без Maw или Grandmaw."
@@ -303,7 +303,7 @@ A firstborn. The pleasure is mine. Have we crossed paths?,Перворожден
 "A fish! Well, mostly. Certainly made ya swim really good! But this captain, he was greedy. Feared mutiny. Dunno why, but he did! So he hid the mask! And the parts needed to make it... All 'round...","Рыба! Ну, почти. По крайней мере, она помогла тебе отлично плавать! Но у этого капитана была жадность. Он боялся бунта. Не знаю, почему, но он действительно этого боялся! Поэтому он спрятал маску! И детали, необходимые для её создания... В общем..."
 "A fitting choice, Wayfinder. One of many to come, I'm sure.","Достойный выбор, Проводник. Уверен, их будет ещё немало."
 A fitting end to such a terrible weapon.,"Похоже, это достойный конец для такого ужасного оружия."
-A fleet of Dead Ships has launched from the Straits of Devastation. The Risen sail beneath a cloak of stealth.,Флот Мёртвых Кораблей вышёл из Проливов Разрушения. Risen плывут под покровом скрытности.
+A fleet of Dead Ships has launched from the Straits of Devastation. The Risen sail beneath a cloak of stealth.,Флот Мёртвых Кораблей вышёл из Проливов Разрушения. Risen плывут под покровом невидимости.
 A fleeting moment of clarity before the end.,Миг ясности перед самым концом.
 A flimsy lock secures this door. One good kick might break it.,Дверь держится на хлипком замке. Один хороший удар может её выбить.
 "A flimsy sprout like you will never defeat me. Even so, I'll teach you one final lesson—in pain.","Такой хрупкий росток, как ты, никогда не победит меня. Но все же я преподаю тебе последний урок — урок боли."
@@ -426,7 +426,7 @@ A knight in full armor—attacking defenseless innocents? That isn't right. Why 
 "A large chunk of the bloodstone, still intact. And these foul things!","Большой кусок кровавого камня, все ещё цел. И эти мерзкие твари!"
 A large swarm? We need golem support! I'll run and get some!,Большая орда? Нам нужна поддержка големов! Я сбегаю за ними!
 "A large, parabolic dish...",Большая параболическая антенна...
-"A larger part of the same crate. It has more writing on it, and the symbol could be a logo. There may be more parts along the beach.","Большая часть того же ящика. На нём больше надписей, и символ может быть логотипом. Возможно, на пляже есть и другие части."
+"A larger part of the same crate. It has more writing on it, and the symbol could be a logo. There may be more parts along the beach.","Большая часть того же ящика. На нём больше гравировок, и символ может быть логотипом. Возможно, на пляже есть и другие части."
 "A larva's digging in! Quick, use a shovel to dig it out before it damages the roots.","Личинка зарывается! Скорее, используйте лопату, чтобы выкопать её, пока она не повредила корни."
 A latent power is exciting the lava.,Скрытая сила пробуждает лаву.
 A launch pad? Really?,Пусковая площадка? Серьёзно?
@@ -440,7 +440,7 @@ A letter from the Black Citadel. You must've really brushed some higher-ups the 
 "A letter? Unexpected, but better than the alternative...","Письмо? Неожиданно, но лучше, чем альтернатива..."
 A leviathan!,Левиафан!
 A lewd sketch covers the rest of the text.,Непристойный рисунок закрывает остальной текст.
-A ley line.,Магическая линия.
+A ley line.,Лей-линия.
 A lich from the Crystal Desert thinks he can mess with our territory. He won't be the first human king the Legions have beaten down.,"Лич из Crystal Desert думает, что может соваться на нашу территорию. Он будет не первым человеческим королем, которого разбили Legions."
 A lieutenant broke through our defensive line!,Лейтенант прорвал нашу линию обороны!
 A life free from Void coming out of your every orifice.,"Жизнь без Пустоты, выходящей из каждого твоего отверстия."

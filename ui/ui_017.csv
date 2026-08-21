@@ -1,6 +1,6 @@
 english,translate
-+20 Vitality+14 Healing+14 Power,+20 Живучести +14 Исцеления +14 Силы
-+20 Vitality+14 Power+14 Toughness,+20 Живучести +14 Силы +14 Стойкости
++20 Vitality+14 Healing+14 Power,+20 Живучесть+14 Исцеление+14 Сила
++20 Vitality+14 Power+14 Toughness,+20 Живучесть+14 Сила+14 Стойкость
 +20%% Bleeding Duration,+20%% длительности кровотечения
 +20%% Burning Duration,+20%% длительности горения
 +20%% Burning duration; increase strike damage by 10%% while fire aura is active.,"+20%% длительности горения; увеличение урона от ударов на 10%%, пока активна огненная аура."
@@ -29,59 +29,59 @@ english,translate
 +200 Power for 30 Seconds on Kill+70 Ferocity+10%% Experience from Kills,+200 к силе на 30 секунд при убийстве+70 к свирепости+10%% к опыту за убийство
 +200 Toughness for 10 Seconds on Using a Heal Skill (Cooldown: 20 seconds)+70 Healing Power+10%% Experience from Kills,+200 к стойкости на 10 секунд при использовании лечащего умения (перезарядка: 20 секунд)+70 к силе исцеления+10%% к опыту за убийство
 +21 Agony Infusion[s],+21 [инкрустация|инкрустации|инкрустаций] агонии
-+21 Agony Resistance,+21 к сопротивлению агонии
-+21 Condition Damage,+21 к урону от состояний
-+21 Condition Damage+13 Power+13 Vitality,+21 к урону от состояний+13 к силе+13 к живучести
-+21 Ferocity,+21 к свирепости
-+21 Healing,+21 к исцелению
-+21 Healing Power,+21 к силе исцеления
-+21 Healing+13 Condition Damage+13 Toughness,+21 к исцелению+13 к урону от состояний+13 к стойкости
-+21 Healing+13 Power+13 Toughness,+21 к исцелению+13 к силе+13 к стойкости
-+21 Power,+21 к силе
-+21 Power+13 Ferocity+13 Precision,+21 к силе+13 к свирепости+13 к точности
-+21 Power+13 Ferocity+13 Vitality,+21 к силе+13 к свирепости+13 к живучести
-+21 Precision,+21 к точности
-+21 Precision+13 Condition Damage+13 Power,+21 к точности+13 к урону от состояний+13 к силе
-+21 Precision+13 Ferocity+13 Power,+21 к точности+13 к свирепости+13 к силе
-+21 Precision+13 Toughness+13 Power,+21 к точности+13 к стойкости+13 к силе
-+21 Toughness,+21 к стойкости
-+21 Vitality,+21 к живучести
-+21 Vitality+13 Power+13 Toughness,+21 к живучести+13 к силе+13 к стойкости
++21 Agony Resistance,+21 Сопротивление агонии
++21 Condition Damage,+21 Урон от состояний
++21 Condition Damage+13 Power+13 Vitality,+21 Урон от состояний+13 Сила+13 Живучесть
++21 Ferocity,+21 Свирепость
++21 Healing,+21 Исцеление
++21 Healing Power,+21 Сила исцеления
++21 Healing+13 Condition Damage+13 Toughness,+21 Исцеление+13 Урон от состояний+13 Стойкость
++21 Healing+13 Power+13 Toughness,+21 Исцеление+13 Сила+13 Стойкость
++21 Power,+21 Сила
++21 Power+13 Ferocity+13 Precision,+21 Сила+13 Свирепость+13 Точность
++21 Power+13 Ferocity+13 Vitality,+21 Сила+13 Свирепость+13 Живучесть
++21 Precision,+21 Точность
++21 Precision+13 Condition Damage+13 Power,+21 Точность+13 Урон от состояний+13 Сила
++21 Precision+13 Ferocity+13 Power,+21 Точность+13 Свирепость+13 Сила
++21 Precision+13 Toughness+13 Power,+21 Точность+13 Стойкость+13 Сила
++21 Toughness,+21 Стойкость
++21 Vitality,+21 Живучесть
++21 Vitality+13 Power+13 Toughness,+21 Живучесть+13 Сила+13 Стойкость
 +22 Agony Infusion[s],+22 [инкрустация|инкрустации|инкрустаций] агонии
-+22 Agony Resistance,+22 к сопротивлению страданию
++22 Agony Resistance,+22 Сопротивление агонии
 +22%% Magic Find+150 Fishing Power+10%% Experience from Kills,+22%% к поиску магии+150 к силе рыбной ловли+10%% к опыту за убийства
 +23 Agony Infusion[s],+23 [инкрустация|инкрустации|инкрустаций] агонии
-+23 Agony Resistance,+23 к сопротивлению страданию
++23 Agony Resistance,+23 Сопротивление агонии
 +24 Agony Infusion[s],+24 [инкрустация|инкрустации|инкрустаций] агонии
-+24 Agony Resistance,+24 Сопротивление страданию
++24 Agony Resistance,+24 Сопротивление агонии
 +25 Agony Infusion[s],+25 [инкрустация|инкрустации|инкрустаций] агонии
-+25 Agony Resistance,+25 Сопротивление страданию
++25 Agony Resistance,+25 Сопротивление агонии
 +25 Condition Damage,+25 Урон от состояний
 +25 Condition Damage+15 Power+15 Precision,+25 Урон от состояний+15 Сила+15 Точность
 +25 Condition Damage+15 Power+15 Vitality,+25 Урон от состояний+15 Сила+15 Живучесть
 +25 Ferocity,+25 Свирепость
-+25 Healing,+25 Лечение
-+25 Healing Power,+25 Мощность исцеления
-+25 Healing+15 Condition Damage+15 Toughness,+25 Лечение+15 Урон от состояний+15 Стойкость
-+25 Healing+15 Power+15 Toughness,+25 Лечение+15 Сила+15 Стойкость
++25 Healing,+25 Исцеление
++25 Healing Power,+25 Сила исцеления
++25 Healing+15 Condition Damage+15 Toughness,+25 Исцеление+15 Урон от состояний+15 Стойкость
++25 Healing+15 Power+15 Toughness,+25 Исцеление+15 Сила+15 Стойкость
 +25 Power,+25 Сила
 +25 Power+15 Ferocity+15 Precision,+25 Сила+15 Свирепость+15 Точность
 +25 Power+15 Ferocity+15 Vitality,+25 Сила+15 Свирепость+15 Живучесть
-+25 Power+15 Healing+15 Concentration,+25 к силе атаки+15 к лечению+15 к концентрации
-+25 Power+15 Precision+15 Healing,+25 к силе атаки+15 к точности+15 к лечению
-+25 Power+25 Condition Damage+12 Ferocity+12 Precision,+25 к силе атаки+25 к урону от состояний+12 к свирепости+12 к точности
-+25 Power+25 Healing+12 Condition Damage+12 Precision,+25 к силе атаки+25 к лечению+12 к урону от состояний+12 к точности
-+25 Precision,+25 к точности
-+25 Precision+15 Condition Damage+15 Power,+25 к точности+15 к урону от состояний+15 к силе атаки
-+25 Precision+15 Ferocity+15 Power,+25 к точности+15 к свирепости+15 к силе атаки
-+25 Precision+15 Toughness+15 Power,+25 к точности+15 к стойкости+15 к силе атаки
++25 Power+15 Healing+15 Concentration,+25 Сила+15 Исцеление+15 Концентрация
++25 Power+15 Precision+15 Healing,+25 Сила+15 Точность+15 Исцеление
++25 Power+25 Condition Damage+12 Ferocity+12 Precision,+25 Сила+25 Урон от состояний+12 Свирепость+12 Точность
++25 Power+25 Healing+12 Condition Damage+12 Precision,+25 Сила+25 Исцеление+12 Урон от состояний+12 Точность
++25 Precision,+25 Точность
++25 Precision+15 Condition Damage+15 Power,+25 Точность+15 Урон от состояний+15 Сила
++25 Precision+15 Ferocity+15 Power,+25 Точность+15 Свирепость+15 Сила
++25 Precision+15 Toughness+15 Power,+25 Точность+15 Стойкость+15 Сила
 +25 Swim-Speed Infusion Upgrades,+25 к улучшению инфузии скорости плавания
-+25 Toughness,+25 к стойкости
-+25 Toughness+15 Healing Power+15 Concentration,+25 к стойкости+15 к силе лечения+15 к концентрации
-+25 Toughness+15 Healing+15 Vitality,+25 к стойкости+15 к лечению+15 к живучести
++25 Toughness,+25 Стойкость
++25 Toughness+15 Healing Power+15 Concentration,+25 Стойкость+15 Сила исцеления+15 Концентрация
++25 Toughness+15 Healing+15 Vitality,+25 Стойкость+15 Исцеление+15 Живучесть
 +25 Toughness+25 Condition Damage+12 Condition Duration+12 Vitality,+25 к стойкости+25 к урону от состояний+12 к длительности состояний+12 к живучести
-+25 Vitality,+25 к живучести
-+25 Vitality+15 Power+15 Toughness,+25 к живучести+15 к силе атаки+15 к стойкости
++25 Vitality,+25 Живучесть
++25 Vitality+15 Power+15 Toughness,+25 Живучесть+15 Сила+15 Стойкость
 +25%% damage melee attack. 10%% to break.,+25%% урона в ближнем бою. 10%% шанс сломать.
 +25%% damage on next attack.,+25%% урона в следующей атаке.
 +25%% Movement Speed,+25%% к скорости передвижения
@@ -97,17 +97,17 @@ english,translate
 +28 Agony Infusion[s],+28 [инкрустация|инкрустации|инкрустаций] агонии
 +28 Agony Resistance,+28 Сопротивление агонии
 +29 Agony Infusion[s],+29 [инкрустация|инкрустации|инкрустаций] агонии
-+29 Agony Resistance,+29 к сопротивляемости боли
++29 Agony Resistance,+29 Сопротивление агонии
 +3 Agony Infusion Upgrades,+3 улучшения инфузии агонии
 +3 Agony Infusion[s],+3 [инкрустация|инкрустации|инкрустаций] агонии
-+3 Agony Resistance,+3 к сопротивляемости боли
-+3 Condition Damage,+3 к урону от состояний
-+3 Healing,+3 к исцелению
-+3 Power,+3 к силе
-+3 Precision,+3 к точности
++3 Agony Resistance,+3 Сопротивление агонии
++3 Condition Damage,+3 Урон от состояний
++3 Healing,+3 Исцеление
++3 Power,+3 Сила
++3 Precision,+3 Точность
 +3 to All Stats,+3 ко всем характеристикам
-+3 Toughness,+3 к стойкости
-+3 Vitality,+3 к живучести
++3 Toughness,+3 Стойкость
++3 Vitality,+3 Живучесть
 +3%% Boon Duration,+3%% к длительности блага
 +3%% Burning Duration+10%% Experience from Kills,+3%% к длительности горения+10%% к опыту за убийства
 +3%% Chill Duration+10%% Experience from Kills,+3%% к длительности озноба+10%% к опыту за убийства
@@ -156,22 +156,22 @@ english,translate
 +3%% to All Attributes+20%% Karma+10%% Experience from Kills,+3%% ко всем атрибутам+20%% кармы+10%% опыта за убийства
 +3%% to All Attributes+20%% Magic Find+10%% Experience from Kills,+3%% ко всем атрибутам+20%% к поиску магических предметов+10%% опыта за убийства
 +30 Agony Infusion[s],+30 [инкрустация|инкрустации|инкрустаций] агонии
-+30 Agony Resistance,+30 Сопротивление Агонии
-+30 Concentration,+30 к концентрации
-+30 Condition Damage,+30 к урону от состояний
++30 Agony Resistance,+30 Сопротивление агонии
++30 Concentration,+30 Концентрация
++30 Condition Damage,+30 Урон от состояний
 +30 Condition Damage+10%% Experience from Kills,+30 к урону от состояний+10%% к опыту за убийства
-+30 Ferocity,+30 к свирепости
++30 Ferocity,+30 Свирепость
 +30 FerocityDay: 12%% Chance to Burn on Critical HitNight: 12%% Chance to Steal Life on Critical Hit+10%% Experience from Kills,+30 к свирепостиДень: 12%% шанс поджечь при критическом удареНочь: 12%% шанс украсть жизнь при критическом ударе+10%% к опыту за убийства
-+30 Healing,+30 к исцелению
++30 Healing,+30 Исцеление
 +30 Healing Power+5%% Karma,+30 к силе исцеления+5%% к карме
 +30 Healing+10%% Experience from Kills,+30 к исцелению+10%% к опыту за убийства
-+30 Power,+30 к силе
++30 Power,+30 Сила
 +30 Power+10%% Experience from Kills,+30 к силе+10%% к опыту за убийства
-+30 Precision,+30 к точности
++30 Precision,+30 Точность
 +30 Precision+10%% Experience from Kills,+30 к точности+10%% к опыту за убийства
-+30 Toughness,+30 к стойкости
++30 Toughness,+30 Стойкость
 +30 Toughness+10%% Experience from Kills,+30 к стойкости+10%% к опыту за убийства
-+30 Vitality,+30 к живучести
++30 Vitality,+30 Живучесть
 +30 Vitality+10%% Experience from Kills,+30 к живучести+10%% к опыту за убийства
 +30%% Downed Health+10%% Experience from Kills,+30%% к здоровью в состоянии при смерти+10%% к опыту за убийства
 +30%% Magic Find+10%% Karma+15%% Experience from Kills,+30%% к поиску магических предметов+10%% к карме+15%% к опыту за убийства
@@ -179,63 +179,63 @@ english,translate
 +30%% Magic Find+40%% Gold from Monsters+10%% Experience from Kills+10%% Karma,+30%% к поиску магических предметов+40%% к золоту с монстров+10%% к опыту за убийства+10%% к карме
 +30%% Stun Duration,+30%% к длительности оглушения
 "+30%% Stun Duration, +3%% Damage against Stunned Foes","+30%% к длительности оглушения, +3%% к урону по оглушённым врагам"
-+32 Condition Damage+18 Power+18 Precision,+32 к урону от состояний+18 к силе+18 к точности
-+32 Condition Damage+18 Power+18 Precision+5 Agony Resistance,+32 к урону от состояний+18 к силе+18 к точности+5 к сопротивлению агонии
-+32 Condition Damage+18 Power+18 Vitality,+32 к урону от состояний+18 к силе+18 к живучести
-+32 Condition Damage+18 Precision+18 Toughness,+32 к урону от состояний+18 к точности+18 к стойкости
-+32 Condition Damage+18 Precision+18 Toughness+5 Agony Resistance,+32 к урону от состояний+18 к точности+18 к стойкости+5 к сопротивлению агонии
-+32 Healing Power+18 Precision+18 Vitality,+32 к силе исцеления+18 к точности+18 к живучести
-+32 Healing Power+18 Toughness+18 Power,+32 к силе исцеления+18 к стойкости+18 к силе
-+32 Healing Power+18 Toughness+18 Power+5 Agony Resistance,+32 к силе исцеления+18 к стойкости+18 к силе+5 к сопротивлению агонии
-+32 Healing+18 Condition Damage+18 Toughness,+32 к исцелению+18 к урону от состояний+18 к стойкости
-+32 Healing+18 Condition Damage+18 Toughness+5 Agony Resistance,+32 к исцелению+18 к урону от состояний+18 к стойкости+5 к сопротивлению агонии
-+32 Power+18 Ferocity+18 Precision,+32 к силе+18 к свирепости+18 к точности
-+32 Power+18 Ferocity+18 Precision+5 Agony Resistance,+32 к силе+18 к свирепости+18 к точности+5 к сопротивлению агонии
-+32 Power+18 Ferocity+18 Vitality,+32 к силе+18 к свирепости+18 к живучести
-+32 Power+18 Ferocity+18 Vitality+5 Agony Resistance,+32 к силе+18 к свирепости+18 к живучести+5 к сопротивлению агонии
-+32 Power+18 Healing+18 Concentration,+32 к силе+18 к исцелению+18 к концентрации
-+32 Power+18 Precision+18 Healing Power,+32 к силе+18 к точности+18 к силе исцеления
-+32 Power+18 Toughness+18 Vitality,+32 к силе+18 к стойкости+18 к живучести
-+32 Power+18 Toughness+18 Vitality+5 Agony Resistance,+32 к силе+18 к стойкости+18 к живучести+5 к сопротивлению агонии
-+32 Precision+18 Ferocity+18 Power,+32 к точности+18 к свирепости+18 к силе
-+32 Precision+18 Power+18 Condition Damage,+32 к точности+18 к силе+18 к урону от состояний
-+32 Precision+18 Power+18 Condition Damage+5 Agony Resistance,+32 к точности+18 к силе+18 к урону от состояний+5 к сопротивлению агонии
-+32 Precision+18 Toughness+18 Power,+32 к точности+18 к стойкости+18 к силе
-+32 Precision+18 Toughness+18 Power+5 Agony Resistance,+32 к точности+18 к стойкости+18 к силе+5 к сопротивлению агонии
-+32 Toughness+18 Healing Power+18 Vitality,+32 к стойкости+18 к силе исцеления+18 к живучести
-+32 Toughness+18 Healing Power+18 Vitality+5 Agony Resistance,+32 к стойкости+18 к силе исцеления+18 к живучести+5 к сопротивлению агонии
-+32 Toughness+18 Power+18 Ferocity,+32 к стойкости+18 к силе+18 к свирепости
-+32 Toughness+18 Power+18 Ferocity+5 Agony Resistance,+32 к стойкости+18 к силе+18 к свирепости+5 к сопротивлению агонии
-+32 Toughness+18 Power+18 Precision,+32 к стойкости+18 к силе+18 к точности
-+32 Toughness+18 Power+18 Precision+5 Agony Resistance,+32 к стойкости+18 к силе+18 к точности+5 к сопротивлению агонии
-+32 Vitality+18 Power+18 Toughness,+32 к живучести+18 к силе+18 к стойкости
++32 Condition Damage+18 Power+18 Precision,+32 Урон от состояний+18 Сила+18 Точность
++32 Condition Damage+18 Power+18 Precision+5 Agony Resistance,+32 Урон от состояний+18 Сила+18 Точность+5 Сопротивление агонии
++32 Condition Damage+18 Power+18 Vitality,+32 Урон от состояний+18 Сила+18 Живучесть
++32 Condition Damage+18 Precision+18 Toughness,+32 Урон от состояний+18 Точность+18 Стойкость
++32 Condition Damage+18 Precision+18 Toughness+5 Agony Resistance,+32 Урон от состояний+18 Точность+18 Стойкость+5 Сопротивление агонии
++32 Healing Power+18 Precision+18 Vitality,+32 Сила исцеления+18 Точность+18 Живучесть
++32 Healing Power+18 Toughness+18 Power,+32 Сила исцеления+18 Стойкость+18 Сила
++32 Healing Power+18 Toughness+18 Power+5 Agony Resistance,+32 Сила исцеления+18 Стойкость+18 Сила+5 Сопротивление агонии
++32 Healing+18 Condition Damage+18 Toughness,+32 Исцеление+18 Урон от состояний+18 Стойкость
++32 Healing+18 Condition Damage+18 Toughness+5 Agony Resistance,+32 Исцеление+18 Урон от состояний+18 Стойкость+5 Сопротивление агонии
++32 Power+18 Ferocity+18 Precision,+32 Сила+18 Свирепость+18 Точность
++32 Power+18 Ferocity+18 Precision+5 Agony Resistance,+32 Сила+18 Свирепость+18 Точность+5 Сопротивление агонии
++32 Power+18 Ferocity+18 Vitality,+32 Сила+18 Свирепость+18 Живучесть
++32 Power+18 Ferocity+18 Vitality+5 Agony Resistance,+32 Сила+18 Свирепость+18 Живучесть+5 Сопротивление агонии
++32 Power+18 Healing+18 Concentration,+32 Сила+18 Исцеление+18 Концентрация
++32 Power+18 Precision+18 Healing Power,+32 Сила+18 Точность+18 Сила исцеления
++32 Power+18 Toughness+18 Vitality,+32 Сила+18 Стойкость+18 Живучесть
++32 Power+18 Toughness+18 Vitality+5 Agony Resistance,+32 Сила+18 Стойкость+18 Живучесть+5 Сопротивление агонии
++32 Precision+18 Ferocity+18 Power,+32 Точность+18 Свирепость+18 Сила
++32 Precision+18 Power+18 Condition Damage,+32 Точность+18 Сила+18 Урон от состояний
++32 Precision+18 Power+18 Condition Damage+5 Agony Resistance,+32 Точность+18 Сила+18 Урон от состояний+5 Сопротивление агонии
++32 Precision+18 Toughness+18 Power,+32 Точность+18 Стойкость+18 Сила
++32 Precision+18 Toughness+18 Power+5 Agony Resistance,+32 Точность+18 Стойкость+18 Сила+5 Сопротивление агонии
++32 Toughness+18 Healing Power+18 Vitality,+32 Стойкость+18 Сила исцеления+18 Живучесть
++32 Toughness+18 Healing Power+18 Vitality+5 Agony Resistance,+32 Стойкость+18 Сила исцеления+18 Живучесть+5 Сопротивление агонии
++32 Toughness+18 Power+18 Ferocity,+32 Стойкость+18 Сила+18 Свирепость
++32 Toughness+18 Power+18 Ferocity+5 Agony Resistance,+32 Стойкость+18 Сила+18 Свирепость+5 Сопротивление агонии
++32 Toughness+18 Power+18 Precision,+32 Стойкость+18 Сила+18 Точность
++32 Toughness+18 Power+18 Precision+5 Agony Resistance,+32 Стойкость+18 Сила+18 Точность+5 Сопротивление агонии
++32 Vitality+18 Power+18 Toughness,+32 Живучесть+18 Сила+18 Стойкость
 +33%% Daze Duration,+33%% к длительности ошеломления
-+35 Condition Damage,+35 к урону от состояний
-+35 Ferocity,+35 к свирепости
-+35 Healing,+35 к исцелению
-+35 Healing Power,+35 к силе исцеления
-+35 Power,+35 к силе
-+35 Precision,+35 к точности
-+35 Toughness,+35 к стойкости
-+35 Vitality,+35 к живучести
++35 Condition Damage,+35 Урон от состояний
++35 Ferocity,+35 Свирепость
++35 Healing,+35 Исцеление
++35 Healing Power,+35 Сила исцеления
++35 Power,+35 Сила
++35 Precision,+35 Точность
++35 Toughness,+35 Стойкость
++35 Vitality,+35 Живучесть
 +35%% Magic Find+20%% Gold from Monsters+15%% Experience from Kills,+35%% к поиску магических предметов+20%% золота с монстров+15%% опыта за убийства
-+39 Condition Damage,+39 к урону от состояний
-+39 Ferocity,+39 к свирепости
-+39 Healing,+39 к лечению
-+39 Power,+39 к силе
-+39 Precision,+39 к точности
-+39 Toughness,+39 к стойкости
-+39 Vitality,+39 к живучести
++39 Condition Damage,+39 Урон от состояний
++39 Ferocity,+39 Свирепость
++39 Healing,+39 Исцеление
++39 Power,+39 Сила
++39 Precision,+39 Точность
++39 Toughness,+39 Стойкость
++39 Vitality,+39 Живучесть
 +4 Agony Infusion[s],+4 [инкрустация|инкрустации|инкрустаций] агонии
-+4 Agony Resistance,+4 к сопротивлению агонии
-+4 Concentration,+4 к концентрации
-+4 Condition Damage,+4 к урону от состояний
-+4 Healing,+4 к лечению
-+4 Power,+4 к силе
-+4 Precision,+4 к точности
++4 Agony Resistance,+4 Сопротивление агонии
++4 Concentration,+4 Концентрация
++4 Condition Damage,+4 Урон от состояний
++4 Healing,+4 Исцеление
++4 Power,+4 Сила
++4 Precision,+4 Точность
 +4 to All Stats,+4 ко всем характеристикам
-+4 Toughness,+4 к стойкости
-+4 Vitality,+4 к живучести
++4 Toughness,+4 Стойкость
++4 Vitality,+4 Живучесть
 +4%% Bleeding Duration,+4%% к длительности кровотечения
 +4%% Boon Duration,+4%% к длительности благословений
 +4%% Burning Duration,+4%% к длительности горения
@@ -249,58 +249,58 @@ english,translate
 +4%% Regeneration Duration,+4%% к длительности регенерации
 +4%% Swiftness Duration,+4%% к длительности Спешки
 +4%% Torment Duration,+4%% к длительности Мучения
-+40 Concentration,+40 к Концентрации
++40 Concentration,+40 Концентрация
 +40 Condition Damage for 30 Seconds on Kill+10%% Experience from Kills,+40 к урону от состояний на 30 секунд при убийстве+10%% к опыту за убийства
-+40 Expertise+10%% Experience from Kills,+40 к Мастерству+10%% к опыту за убийства
-+40 FerocityDay: 18%% Chance to Burn on Critical HitNight: 18%% Chance to Steal Life on Critical Hit,+40 к СвирепостиДень: 18%% шанс поджечь при критическом удареНочь: 18%% шанс украсть жизнь при критическом ударе
-+40 FerocityDay: 18%% Chance to Burn on Critical HitNight: 18%% Chance to Steal Life on Critical Hit+10%% Experience from Kills,+40 к СвирепостиДень: 18%% шанс поджечь при критическом удареНочь: 18%% шанс украсть жизнь при критическом ударе+10%% к опыту за убийства
-+40 Power for 30 Seconds on Kill+10%% Experience from Kills,+40 к Силе на 30 секунд при убийстве+10%% к опыту за убийства
-+40 Vitality+15%% Experience from Kills,+40 к Живучести+15%% к опыту за убийства
-+45 Power+45 Precision+45 Condition Damage+45 Toughness+45 Vitality+45 Healing+5%% Critical Damage,+45 к Силе+45 к Точности+45 к урону от состояний+45 к Стойкости+45 к Живучести+45 к Исцелению+5%% к критическому урону
++40 Expertise+10%% Experience from Kills,+40 к экспертизе+10%% к опыту за убийства
++40 FerocityDay: 18%% Chance to Burn on Critical HitNight: 18%% Chance to Steal Life on Critical Hit,+40 к свирепостиДень: 18%% шанс поджечь при критическом удареНочь: 18%% шанс украсть жизнь при критическом ударе
++40 FerocityDay: 18%% Chance to Burn on Critical HitNight: 18%% Chance to Steal Life on Critical Hit+10%% Experience from Kills,+40 к свирепостиДень: 18%% шанс поджечь при критическом удареНочь: 18%% шанс украсть жизнь при критическом ударе+10%% к опыту за убийства
++40 Power for 30 Seconds on Kill+10%% Experience from Kills,+40 к силе на 30 секунд при убийстве+10%% к опыту за убийства
++40 Vitality+15%% Experience from Kills,+40 к живучести+15%% к опыту за убийства
++45 Power+45 Precision+45 Condition Damage+45 Toughness+45 Vitality+45 Healing+5%% Critical Damage,+45 к силе+45 к точности+45 к урону от состояний+45 к стойкости+45 к живучести+45 к исцелению+5%% к критическому урону
 +45 to All Attributes+20%% Magic Find+10%% Experience from Kills,+45 ко всем атрибутам+20%% к поиску магии+10%% к опыту за убийства
 +5 Agony Infusion Upgrades,+5 улучшений инфузии агонии
 +5 Agony Infusion[s],+5 [инкрустация|инкрустации|инкрустаций] агонии
-+5 Agony Resistance,+5 к сопротивлению агонии
++5 Agony Resistance,+5 Сопротивление агонии
 "+5 Agony ResistanceThe next time you would be downed, instead heal 25%% of your total health.",+5 к сопротивлению агонииПри следующем падении вы исцеляете 25%% от максимального запаса здоровья.
-+5 Concentration+5 Agony Resistance,+5 к Концентрации+5 к сопротивлению агонии
-+5 Concentration+7 Agony Resistance,+5 к концентрации+7 к сопротивлению агонии
-+5 Concentration+9 Agony Resistance,+5 к концентрации+9 к сопротивлению агонии
++5 Concentration+5 Agony Resistance,+5 Концентрация+5 Сопротивление агонии
++5 Concentration+7 Agony Resistance,+5 Концентрация+7 Сопротивление агонии
++5 Concentration+9 Agony Resistance,+5 Концентрация+9 Сопротивление агонии
 "+5 Concentration-1%% Damage Taken from Guards, Lords, and Supervisors","+5 к концентрации-1%% урона от стражей, лордов и надзирателей"
 "+5 Condition Damage+1%% Damage to Guards, Lords, and Supervisors","+5 к урону от состояний+1%% урона стражам, лордам и надзирателям"
-+5 Condition Damage+2 Precision,+5 к урону от состояний+2 к точности
-+5 Condition Damage+5 Agony Resistance,+5 к урону от состояний+5 к сопротивлению агонии
-+5 Condition Damage+7 Agony Resistance,+5 к урону от состояний+7 к сопротивлению агонии
-+5 Condition Damage+9 Agony Resistance,+5 к урону от состояний+9 к сопротивлению агонии
-"+5 Expertise+1%% Damage to Guards, Lords, and Supervisors","+5 к мастерству+1%% урона стражам, лордам и надзирателям"
-+5 Expertise+5 Agony Resistance,+5 к мастерству+5 к сопротивлению агонии
-+5 Expertise+7 Agony Resistance,+5 к мастерству+7 к сопротивлению агонии
-+5 Expertise+9 Agony Resistance,+5 к мастерству+9 к сопротивлению агонии
-+5 Healing+2 Power,+5 к лечению+2 к силе
-+5 Healing+5 Agony Resistance,+5 к лечению+5 к сопротивлению агонии
-+5 Healing+7 Agony Resistance,+5 к лечению+7 к сопротивлению агонии
-+5 Healing+9 Agony Resistance,+5 к исцелению+9 к сопротивлению агонии
++5 Condition Damage+2 Precision,+5 Урон от состояний+2 Точность
++5 Condition Damage+5 Agony Resistance,+5 Урон от состояний+5 Сопротивление агонии
++5 Condition Damage+7 Agony Resistance,+5 Урон от состояний+7 Сопротивление агонии
++5 Condition Damage+9 Agony Resistance,+5 Урон от состояний+9 Сопротивление агонии
+"+5 Expertise+1%% Damage to Guards, Lords, and Supervisors","+5 к экспертизе+1%% урона стражам, лордам и надзирателям"
++5 Expertise+5 Agony Resistance,+5 Экспертиза+5 Сопротивление агонии
++5 Expertise+7 Agony Resistance,+5 Экспертиза+7 Сопротивление агонии
++5 Expertise+9 Agony Resistance,+5 Экспертиза+9 Сопротивление агонии
++5 Healing+2 Power,+5 Исцеление+2 Сила
++5 Healing+5 Agony Resistance,+5 Исцеление+5 Сопротивление агонии
++5 Healing+7 Agony Resistance,+5 Исцеление+7 Сопротивление агонии
++5 Healing+9 Agony Resistance,+5 Исцеление+9 Сопротивление агонии
 "+5 Healing-1%% Damage taken from Guards, Lords, and Supervisors","+5 к исцелению-1%% урона от стражей, лордов и надзирателей"
 "+5 Power+1%% Damage to Guards, Lords, and Supervisors","+5 к силе+1%% урона стражам, лордам и надзирателям"
-+5 Power+2 Ferocity,+5 к силе+2 к свирепости
-+5 Power+2 Precision,+5 к силе+2 к точности
-+5 Power+2 Vitality,+5 к силе+2 к живучести
-+5 Power+5 Agony Resistance,+5 к силе+5 к сопротивлению агонии
-+5 Power+7 Agony Resistance,+5 к силе+7 к сопротивлению агонии
-+5 Power+9 Agony Resistance,+5 к силе+9 к сопротивлению агонии
++5 Power+2 Ferocity,+5 Сила+2 Свирепость
++5 Power+2 Precision,+5 Сила+2 Точность
++5 Power+2 Vitality,+5 Сила+2 Живучесть
++5 Power+5 Agony Resistance,+5 Сила+5 Сопротивление агонии
++5 Power+7 Agony Resistance,+5 Сила+7 Сопротивление агонии
++5 Power+9 Agony Resistance,+5 Сила+9 Сопротивление агонии
 "+5 Precision+1%% Damage to Guards, Lords, and Supervisors","+5 к точности+1%% урона стражам, лордам и надзирателям"
-+5 Precision+2 Power,+5 к точности+2 к силе
-+5 Precision+5 Agony Resistance,+5 к точности+5 к сопротивлению агонии
-+5 Precision+7 Agony Resistance,+5 к точности+7 к сопротивлению агонии
-+5 Precision+9 Agony Resistance,+5 к точности+9 к сопротивлению агонии
++5 Precision+2 Power,+5 Точность+2 Сила
++5 Precision+5 Agony Resistance,+5 Точность+5 Сопротивление агонии
++5 Precision+7 Agony Resistance,+5 Точность+7 Сопротивление агонии
++5 Precision+9 Agony Resistance,+5 Точность+9 Сопротивление агонии
 +5 to All Stats,+5 ко всем характеристикам
-+5 Toughness+5 Agony Resistance,+5 к стойкости+5 к сопротивлению агонии
-+5 Toughness+7 Agony Resistance,+5 к стойкости+7 к сопротивлению агонии
-+5 Toughness+9 Agony Resistance,+5 к стойкости+9 к сопротивлению агонии
++5 Toughness+5 Agony Resistance,+5 Стойкость+5 Сопротивление агонии
++5 Toughness+7 Agony Resistance,+5 Стойкость+7 Сопротивление агонии
++5 Toughness+9 Agony Resistance,+5 Стойкость+9 Сопротивление агонии
 "+5 Toughness-1%% Damage taken from Guards, Lords, and Supervisors","+5 к стойкости-1%% урона от стражей, лордов и надзирателей"
-+5 Vitality+2 Toughness,+5 к живучести+2 к стойкости
-+5 Vitality+5 Agony Resistance,+5 к живучести+5 к сопротивлению агонии
-+5 Vitality+7 Agony Resistance,+5 к живучести+7 к сопротивлению агонии
-+5 Vitality+9 Agony Resistance,+5 к живучести+9 к сопротивлению агонии
++5 Vitality+2 Toughness,+5 Живучесть+2 Стойкость
++5 Vitality+5 Agony Resistance,+5 Живучесть+5 Сопротивление агонии
++5 Vitality+7 Agony Resistance,+5 Живучесть+7 Сопротивление агонии
++5 Vitality+9 Agony Resistance,+5 Живучесть+9 Сопротивление агонии
 "+5 Vitality-1%% Damage taken from Guards, Lords, and Supervisors","+5 к живучести-1%% урона от стражей, лордов и надзирателей"
 +5%% Boon Duration,+5%% к длительности благословений
 +5%% Burning Duration+10%% Experience from Kills,+5%% к длительности горения+10%% к опыту за убийства
@@ -365,32 +365,32 @@ english,translate
 +5%% Strike Damage vs. Undead+2%% Strike Damage,+5%% урона в бою против нежити+2%% урона в бою
 +5%% WvW Reward Track Gain,+5%% к прогрессу наград WvW
 +50 Concentration+24%% Magic Find while under the Effect of a Boon+10%% Experience from Kills,+50 Концентрации+24%% к поиску магических предметов под действием блага+10%% опыта за убийства
-+50 Condition Damage,+50 к урону от состояний
++50 Condition Damage,+50 Урон от состояний
 +50 Condition Damage+40 Precision+10%% Experience from Kills,+50 к урону от состояний+40 к точности+10%% опыта за убийства
 +50 Condition Damage+40 Vitality+10%% Experience from Kills,+50 к урону от состояний+40 к живучести+10%% опыта за убийства
-+50 Expertise+40 Condition Damage+10%% Experience from Kills,+50 к мастерству+40 к урону от состояний+10%% опыта за убийство
-+50 Ferocity,+50 к свирепости
++50 Expertise+40 Condition Damage+10%% Experience from Kills,+50 к экспертизе+40 к урону от состояний+10%% опыта за убийство
++50 Ferocity,+50 Свирепость
 +50 FerocityDay: 20%% Chance to Burn on Critical HitNight: 20%% Chance to Steal Life on Critical Hit+10%% Experience from Kills,+50 к свирепостиДень: 20%% шанс поджечь при критическом удареНочь: 20%% шанс украсть жизнь при критическом ударе+10%% опыта за убийство
-+50 Healing,+50 к исцелению
-+50 Healing Power,+50 к силе исцеления
++50 Healing,+50 Исцеление
++50 Healing Power,+50 Сила исцеления
 +50 Healing Power+40 Toughness+5%% Karma,+50 к силе исцеления+40 к стойкости+5%% кармы
 +50 Healing+40 Condition Damage+10%% Experience from Kills,+50 к исцелению+40 к урону от состояний+10%% опыта за убийство
 +50 Healing+40 Precision+10%% Experience from Kills,+50 к исцелению+40 к точности+10%% опыта за убийство
 +50 Healing+40 Precision+15%% Experience from Kills,+50 к исцелению+40 к точности+15%% опыта за убийство
 +50 Healing+40 Vitality+10%% Experience from Kills,+50 к исцелению+40 к живучести+10%% опыта за убийство
-+50 Power,+50 к силе
++50 Power,+50 Сила
 +50 Power+40 Condition Damage+10%% Experience from Kills,+50 к силе+40 к урону от состояний+10%% опыта за убийство
 +50 Power+40 Precision+10%% Experience from Kills,+50 к силе+40 к точности+10%% опыта за убийство
 +50 Power+40 Vitality+10%% Experience from Kills,+50 к силе+40 к живучести+10%% опыта за убийство
 +50 Power+50 Condition DamageGain Might When Using a Heal Skill+10%% Experience from Kills,+50 к силе+50 к урону от состоянийПолучаете мощь при использовании лечащего умения+10%% опыта за убийство
-+50 Precision,+50 к точности
++50 Precision,+50 Точность
 +50 Precision+40 Condition Damage+10%% Experience from Kills,+50 к точности+40 к урону от состояний+10%% к опыту за убийства
 +50 Precision+40 Ferocity+10%% Experience from Kills,+50 к точности+40 к свирепости+10%% к опыту за убийства
 +50 Precision+40 Vitality+10%% Experience from Kills,+50 к точности+40 к живучести+10%% к опыту за убийства
-+50 Toughness,+50 к стойкости
++50 Toughness,+50 Стойкость
 +50 Toughness+40 Condition Damage+10%% Experience from Kills,+50 к стойкости+40 к урону от состояний+10%% к опыту за убийства
 +50 Toughness+40 Precision+10%% Experience from Kills,+50 к стойкости+40 к точности+10%% к опыту за убийства
-+50 Vitality,+50 к живучести
++50 Vitality,+50 Живучесть
 +50 Vitality+40 Toughness+10%% Experience from Kills,+50 к живучести+40 к стойкости+10%% к опыту за убийства
 +50 Vitality+80 Power When Health below 50%%+10%% Experience from Kills,"+50 к живучести+80 к силе, когда здоровье ниже 50%%+10%% к опыту за убийства"
 +50%% chance of crafting critical experience gain.,+50%% к шансу критического успеха в ремесле.
@@ -422,7 +422,7 @@ english,translate
 +60 Condition Damage for 30 Seconds on Kill+10%% Experience from Kills,+60 к урону от состояний на 30 секунд при убийстве+10%% к опыту за убийства
 +60 Condition Damage+50 Precision+10%% Experience from Kills,+60 к урону от состояний+50 к точности+10%% к опыту за убийства
 +60 Condition Damage+50 Vitality+10%% Experience from Kills,+60 к урону от состояний+50 к живучести+10%% к опыту за убийства
-+60 Expertise+50 Condition Damage+10%% Experience from Kills,+60 к мастерству+50 к урону от состояний+10%% к опыту за убийства
++60 Expertise+50 Condition Damage+10%% Experience from Kills,+60 к экспертизе+50 к урону от состояний+10%% к опыту за убийства
 +60 Healing Power+50 Toughness+5%% Karma,+60 к силе исцеления+50 к стойкости+5%% к карме
 +60 Healing+50 Condition Damage+10%% Experience from Kills,+60 к исцелению+50 к урону от состояний+10%% к опыту за убийства
 +60 Healing+50 Precision+10%% Experience from Kills,+60 к исцелению+50 к точности+10%% к опыту за убийства
@@ -439,34 +439,34 @@ english,translate
 +60 Vitality+120 Power When Health below 50%%+10%% Experience from Kills,"+60 к живучести+120 к силе, когда здоровье ниже 50%%+10%% к опыту за убийства"
 +60 Vitality+50 Toughness+10%% Experience from Kills,+60 к живучести+50 к стойкости+10%% к опыту за убийства
 +60%% Downed Health+10%% Damage While Downed+10%% Experience from Kills,+60%% к здоровью в небоеспособном состоянии+10%% к урону в небоеспособном состоянии+10%% к опыту за убийства
-+65 Condition Damage,+65 к урону от состояний
-+65 Ferocity,+65 к свирепости
-+65 Healing,+65 к исцелению
-+65 Power,+65 к силе
-+65 Precision,+65 к точности
-+65 Toughness,+65 к стойкости
-+65 Vitality,+65 к живучести
++65 Condition Damage,+65 Урон от состояний
++65 Ferocity,+65 Свирепость
++65 Healing,+65 Исцеление
++65 Power,+65 Сила
++65 Precision,+65 Точность
++65 Toughness,+65 Стойкость
++65 Vitality,+65 Живучесть
 +7 Agony Infusion Upgrades,+7 улучшений инфузии агонии
 +7 Agony Infusion[s],+7 инкрустаци[я|и|й] агонии
-+7 Agony Resistance,+7 к сопротивлению агонии
++7 Agony Resistance,+7 Сопротивление агонии
 +7 Attack,+7 к атаке
 +7 attack,+7 к атаке
-+7 Condition Damage+3 Precision,"+7 к урону от состояний, +3 к точности"
-+7 Condition Damage+5 Precision,"+7 к урону от состояний, +5 к точности"
-+7 Healing+3 Power,"+7 к лечению, +3 к силе"
-+7 Healing+5 Power,"+7 к лечению, +5 к силе"
-+7 Power+3 Ferocity,"+7 к силе, +3 к свирепости"
-+7 Power+3 Precision,"+7 к силе, +3 к точности"
-+7 Power+3 Vitality,"+7 к силе, +3 к живучести"
-+7 Power+5 Condition Damage,+7 силы +5 урона от состояний
-+7 Power+5 Ferocity,"+7 к силе, +5 к свирепости"
-+7 Power+5 Precision,+7 к силе+5 к точности
-+7 Power+5 Vitality,+7 к силе+5 к живучести
-+7 Precision+3 Power,+7 к точности+3 к силе
-+7 Precision+5 Power,+7 к точности+5 к силе
++7 Condition Damage+3 Precision,+7 Урон от состояний+3 Точность
++7 Condition Damage+5 Precision,+7 Урон от состояний+5 Точность
++7 Healing+3 Power,+7 Исцеление+3 Сила
++7 Healing+5 Power,+7 Исцеление+5 Сила
++7 Power+3 Ferocity,+7 Сила+3 Свирепость
++7 Power+3 Precision,+7 Сила+3 Точность
++7 Power+3 Vitality,+7 Сила+3 Живучесть
++7 Power+5 Condition Damage,+7 Сила+5 Урон от состояний
++7 Power+5 Ferocity,+7 Сила+5 Свирепость
++7 Power+5 Precision,+7 Сила+5 Точность
++7 Power+5 Vitality,+7 Сила+5 Живучесть
++7 Precision+3 Power,+7 Точность+3 Сила
++7 Precision+5 Power,+7 Точность+5 Сила
 +7 to All Stats,+7 ко всем характеристикам
-+7 Vitality+3 Toughness,+7 к живучести+3 к стойкости
-+7 Vitality+5 Toughness,+7 к живучести+5 к стойкости
++7 Vitality+3 Toughness,+7 Живучесть+3 Стойкость
++7 Vitality+5 Toughness,+7 Живучесть+5 Стойкость
 +7%% Boon Duration,+7%% к длительности эффектов
 +7%% Burning Duration+40 Precision+10%% Experience from Kills,+7%% к длительности горения+40 к точности+10%% к опыту за убийство
 +7%% Chill Duration+40 Power+10%% Experience from Kills,+7%% к длительности озноба+40 к силе+10%% к опыту за убийство

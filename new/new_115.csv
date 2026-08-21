@@ -205,11 +205,11 @@ Rangers tame a variety of pet companions to complement their fighting style. Rou
 "<c=#cccccc>Melee or Ranged • Gadgets, Turrets, and Toolkits • Technomancer</c>
 Engineers are jacks-of-all-trades and, with enough time, masters of many. Able to bring dozens of abilities and toolbelt skills to a fight, their art is in choosing the right one to utilize at the perfect time.","<c=#cccccc>Ближний или дальний бой • Приспособления, турели и наборы • Техномант</c>
 Инженеры — мастера на все руки, а со временем — знатоки многого. Способные привнести в бой десятки способностей и умений пояса, они искусны в выборе нужного в самый подходящий момент."
-"<c=@abilitytype>Burst.</c> Jump to the targeted location and slam your hammer down, damaging and stunning foes.","<c=@abilitytype>Взрыв.</c> Прыгните в выбранное место и ударьте молотом, нанося урон и оглушая врагов."
-<c=@abilitytype>Cantrip.</c> Shape-shift into a swirling maelstrom that pulls foes into its destructive vortex.,"<c=@abilitytype>Колдовство.</c> Превратитесь в вихревой поток, который затягивает врагов в свой разрушительный водоворот."
+"<c=@abilitytype>Burst.</c> Jump to the targeted location and slam your hammer down, damaging and stunning foes.","<c=@abilitytype>Всплеск.</c> Прыгните в выбранное место и ударьте молотом, нанося урон и оглушая врагов."
+<c=@abilitytype>Cantrip.</c> Shape-shift into a swirling maelstrom that pulls foes into its destructive vortex.,"<c=@abilitytype>Заговор.</c> Превратитесь в вихревой поток, который затягивает врагов в свой разрушительный водоворот."
 <c=@abilitytype>Combat Tonic.</c> Retain your combat abilities while transforming into another shape.,"<c=@abilitytype>Боевой тоник.</c> Сохраняйте боевые способности, принимая другой облик."
 <c=@abilitytype>Command.</c>Your pet teleports a downed ally within range of you and begins reviving them. Grant regeneration to nearby allies.,<c=@abilitytype>Команда.</c>Ваш питомец телепортирует поверженного союзника в пределах вашей досягаемости и начинает его воскрешать. Дарует регенерацию ближайшим союзникам.
-"<c=@abilitytype>Dual Wield.</c> Do an evasive attack over your opponent, striking nearby foes three times. Each hit causes bleeding.","<c=@abilitytype>Двойное владение.</c> Совершите уклоняющуюся атаку над противником, трижды поражая ближайших врагов. Каждое попадание вызывает кровотечение."
+"<c=@abilitytype>Dual Wield.</c> Do an evasive attack over your opponent, striking nearby foes three times. Each hit causes bleeding.","<c=@abilitytype>Бой на два оружия.</c> Совершите уклоняющуюся атаку над противником, трижды поражая ближайших врагов. Каждое попадание вызывает кровотечение."
 "<c=@abilitytype>Elixir.</c> Burst the orb, instantly healing nearby allies and creating an area of continual healing.","<c=@abilitytype>Эликсир.</c> Взорвите сферу, мгновенно исцеляя ближайших союзников и создавая область постоянного исцеления."
 "<c=@abilitytype>Glyph.</c> Tether yourself to nearby allies. Whenever you're healed, heal the tethered allies as well.","<c=@abilitytype>Глиф.</c> Привязываете себя к ближайшим союзникам. Всякий раз, когда вы исцеляетесь, исцеляете и привязанных союзников."
 "<c=@abilitytype>Glyph.</c> Tether yourself to nearby foes. Whenever you take damage, deal damage to the foes tethered to you.","<c=@abilitytype>Глиф.</c> Привязываете себя к ближайшим врагам. Всякий раз, когда вы получаете урон, наносите урон привязанным к вам врагам."
@@ -325,50 +325,50 @@ Analyze,Анализировать
 Anamar,Анамар
 Anaya,Аная
 Anchored,На якоре
-Ancient Boreal Focus Skin[s],Облик древнего северного фокуса
-Ancient Boreal Greatsword Skin[s],Облик древнего северного двуручного меча
-Ancient Boreal Hammer Skin[s],Облик древнего северного молота
-Ancient Boreal Longbow Skin[s],Облик древнего северного длинного лука
-Ancient Boreal Mace Skin[s],Облик древней северной булавы
-Ancient Boreal Pistol Skin[s],Облик древнего северного пистолета
-Ancient Boreal Rifle Skin[s],Облик древнего северного ружья
-Ancient Boreal Scepter Skin[s],Облик древнего северного скипетра
-Ancient Boreal Shield Skin[s],Облик древнего северного щита
-Ancient Boreal Short Bow Skin[s],Облик древнего северного короткого лука
-Ancient Boreal Staff Skin[s],Облик древнего северного посоха
-Ancient Boreal Sword Skin[s],Облик древнего северного меча
-Ancient Boreal Torch Skin[s],Облик древнего северного факела
-Ancient Boreal Warhorn Skin[s],Облик древнего северного боевого рога
+Ancient Boreal Focus Skin[s],[Облик|Облика|Обликов] древнего северного фокуса
+Ancient Boreal Greatsword Skin[s],[Облик|Облика|Обликов] древнего северного двуручного меча
+Ancient Boreal Hammer Skin[s],[Облик|Облика|Обликов] древнего северного молота
+Ancient Boreal Longbow Skin[s],[Облик|Облика|Обликов] древнего северного длинного лука
+Ancient Boreal Mace Skin[s],[Облик|Облика|Обликов] древней северной булавы
+Ancient Boreal Pistol Skin[s],[Облик|Облика|Обликов] древнего северного пистолета
+Ancient Boreal Rifle Skin[s],[Облик|Облика|Обликов] древнего северного ружья
+Ancient Boreal Scepter Skin[s],[Облик|Облика|Обликов] древнего северного скипетра
+Ancient Boreal Shield Skin[s],[Облик|Облика|Обликов] древнего северного щита
+Ancient Boreal Short Bow Skin[s],[Облик|Облика|Обликов] древнего северного короткого лука
+Ancient Boreal Staff Skin[s],[Облик|Облика|Обликов] древнего северного посоха
+Ancient Boreal Sword Skin[s],[Облик|Облика|Обликов] древнего северного меча
+Ancient Boreal Torch Skin[s],[Облик|Облика|Обликов] древнего северного факела
+Ancient Boreal Warhorn Skin[s],[Облик|Облика|Обликов] древнего северного боевого рога
 Ancient Boreal Weapon Skin Container[s],Контейнер с обликами древнего северного оружия
-Ancient Canthan Gambeson Skin[s],Облик древнего кантанского гамбезона
-Ancient Canthan Gauntlets Skin[s],Облик древних кантанских латных перчаток
-Ancient Canthan Gloves Skin[s],Облик древних кантанских перчаток
-Ancient Canthan Heavy Greaves Skin[s],Облик древних кантанских тяжёлых наголенников
-Ancient Canthan Helm Skin[s],Облик древнего кантанского шлема
-Ancient Canthan Jacket Skin[s],Облик древнего кантанского жакета
+Ancient Canthan Gambeson Skin[s],[Облик|Облика|Обликов] древнего кантанского гамбезона
+Ancient Canthan Gauntlets Skin[s],[Облик|Облика|Обликов] древних кантанских латных перчаток
+Ancient Canthan Gloves Skin[s],[Облик|Облика|Обликов] древних кантанских перчаток
+Ancient Canthan Heavy Greaves Skin[s],[Облик|Облика|Обликов] древних кантанских тяжёлых наголенников
+Ancient Canthan Helm Skin[s],[Облик|Облика|Обликов] древнего кантанского шлема
+Ancient Canthan Jacket Skin[s],[Облик|Облика|Обликов] древнего кантанского жакета
 Ancient Canthan Legging Skins,Облик древних кантанских поножей
-Ancient Canthan Light Boots Skin[s],Облик древних кантанских лёгких сапог
-Ancient Canthan Light Helm Skin[s],Облик древнего кантанского лёгкого шлема
-Ancient Canthan Medium Boots Skin[s],Облик древних кантанских средних сапог
-Ancient Canthan Medium Gloves Skin[s],Облик древних кантанских средних перчаток
-Ancient Canthan Medium Helm Skin[s],Облик древнего кантанского среднего шлема
-Ancient Canthan Medium Leggings Skin[s],Облик древних кантанских средних поножей
-Ancient Canthan Medium Shoulderpads Skin[s],Облик древних кантанских средних наплечников
-Ancient Canthan Shoulderpads Skin[s],Облик древних кантанских наплечников
+Ancient Canthan Light Boots Skin[s],[Облик|Облика|Обликов] древних кантанских лёгких сапог
+Ancient Canthan Light Helm Skin[s],[Облик|Облика|Обликов] древнего кантанского лёгкого шлема
+Ancient Canthan Medium Boots Skin[s],[Облик|Облика|Обликов] древних кантанских средних сапог
+Ancient Canthan Medium Gloves Skin[s],[Облик|Облика|Обликов] древних кантанских средних перчаток
+Ancient Canthan Medium Helm Skin[s],[Облик|Облика|Обликов] древнего кантанского среднего шлема
+Ancient Canthan Medium Leggings Skin[s],[Облик|Облика|Обликов] древних кантанских средних поножей
+Ancient Canthan Medium Shoulderpads Skin[s],[Облик|Облика|Обликов] древних кантанских средних наплечников
+Ancient Canthan Shoulderpads Skin[s],[Облик|Облика|Обликов] древних кантанских наплечников
 Ancient Canthan Shoulderpiece Skins,Коробка с обликом древнего кантанского оплечья
-Ancient Canthan Spaulders Skin[s],Облик древних кантанских оплечий
-Ancient Canthan Tassets Skin[s],Облик древних кантанских набедренников
-Ancient Canthan Tunic Skin[s],Облик древней кантанской туники
+Ancient Canthan Spaulders Skin[s],[Облик|Облика|Обликов] древних кантанских оплечий
+Ancient Canthan Tassets Skin[s],[Облик|Облика|Обликов] древних кантанских набедренников
+Ancient Canthan Tunic Skin[s],[Облик|Облика|Обликов] древней кантанской туники
 Ancient Mariner's Oilcloth Bag[s],Клеёнчатая сумка старого морехода
 Ancient Statuette[s] of Abaddon,Древняя статуэтка Абаддона
 Ancient Statuette[s] of Balthazar,Древняя статуэтка Бальтазара
 Ancient Statuette[s] of Dwayna,Древняя статуэтка Двайны
 Ancient Statuette[s] of Grenth,Древняя статуэтка Грента
 Ancient Statuette[s] of Melandru,Древняя статуэтка Меландру
-Ancient Wood Logging Node[s],Узел добычи древней древесины
+Ancient Wood Logging Node[s],[Узел|Узла|Узлов] добычи древней древесины
 Ande,Анде
 Andorra,Андорра
-Angchu Cavalier Insignia[s],Инсигния кавалериста Ангчу
+Angchu Cavalier Insignia[s],[Инсигния|Инсигнии|Инсигний] кавалериста Ангчу
 Angola,Ангола
 Anima,Анима
 Animation,Анимация
@@ -378,7 +378,7 @@ Ankka's Magnificent Coffer[s],Великолепный сундучок Анкк
 Announcer,Диктор
 Anonymous,Анонимно
 Antigua,Антигуа
-Antique Dragon's Drape Skin[s],Облик старинной драконьей накидки
+Antique Dragon's Drape Skin[s],[Облик|Облика|Обликов] старинной драконьей накидки
 Antler Pattern Snowflake Platform[s],Платформа-снежинка с узором из оленьих рогов
 Antonina,Антонина
 Anura,Анура
@@ -387,7 +387,7 @@ Any,Любой
 Anywhere,В любом месте
 Apidae,Апиды
 Apostrophe,Апостроф
-Apothecary's Elder Inscription[s],Гравировка Аптекаря из старой древесины
+Apothecary's Elder Inscription[s],[Гравировка|Гравировки|Гравировок] Аптекаря из старой древесины
 Apothecary's Embroidered Silk Insignia[s],Вышитая шёлковая инсигния Аптекаря
 Apothecary's Intricate Gossamer Insignia[s],Искусная инсигния Аптекаря из паутинки
 Apothecary's Intricate Silk Insignia[s],Искусная шёлковая инсигния Аптекаря
@@ -408,18 +408,18 @@ Approve,Одобрить
 Apr,Апр
 Aqua,Аква
 Aquamarine,Аквамарин
-Aquarium Greatsword Skin[s],Облик двуручного меча «Аквариум»
+Aquarium Greatsword Skin[s],[Облик|Облика|Обликов] двуручного меча «Аквариум»
 Aquatic,Водный
-Aquatic Ruin Challenge Mote[s],Частица испытания «Водные руины»
+Aquatic Ruin Challenge Mote[s],[Частица|Частицы|Частиц] испытания «Водные руины»
 Araneae,Паукообразные
 Arapaima,Арапаима
 Arc,Дуга
 Arcana,Тайная магия
-Arcane Delights Mount Adoption License[s],Лицензия на нового скакуна «Чародейские изыски»
-Arcane Delights Mount Select License[s],Лицензия на выбор скакуна «Чародейские изыски»
-Arcane Marksman Pistol Skin[s],Облик пистолета чародейского стрелка
-Arcane Marksman Rifle Skin[s],Облик ружья чародейского стрелка
-Arcane Sigil Backpack and Glider Combo[s],Набор: рюкзак и планер «Чародейская печать»
+Arcane Delights Mount Adoption License[s],[Лицензия|Лицензии|Лицензий] на нового скакуна «Чародейские изыски»
+Arcane Delights Mount Select License[s],[Лицензия|Лицензии|Лицензий] на выбор скакуна «Чародейские изыски»
+Arcane Marksman Pistol Skin[s],[Облик|Облика|Обликов] пистолета чародейского стрелка
+Arcane Marksman Rifle Skin[s],[Облик|Облика|Обликов] ружья чародейского стрелка
+Arcane Sigil Backpack and Glider Combo[s],Набор: рюкзак и планер «Чародейская сигил»
 "Arcanum[pl:""Arcana""] of Astral Bearing",Арканум астрального курса
 "Arcanum[pl:""Arcana""] of Astral Footprints",Арканум астральных следов
 "Arcanum[pl:""Arcana""] of Astral Heartbeat",Арканум астрального сердцебиения
@@ -430,26 +430,26 @@ Architecture,Архитектура
 Architeuthis,Архитевтис
 Archway,Арка
 Arctic Jellyfish Stinger[s],Жало арктической медузы
-Arctic Jellyfish Tentacle[s],Щупальце арктической медузы
+Arctic Jellyfish Tentacle[s],[Щупальце|Щупальца|Щупалец] арктической медузы
 Arctodus,Арктодус
-Ardent Glorious Armguard Skin[s],Облик пылких славных наручей
-Ardent Glorious Breastplate Skin[s],Облик пылкого славного нагрудника
-Ardent Glorious Brigandine Skin[s],Облик пылкой славной бригантины
-Ardent Glorious Cap Skin[s],Облик пылкой славной шапки
-Ardent Glorious Crown Skin[s],Облик пылкой славной короны
-Ardent Glorious Epaulet Skin[s],Облик пылких славных эполет
-Ardent Glorious Footgear Skin[s],Облик пылкой славной обуви
-Ardent Glorious Gauntlet Skin[s],Облик пылких славных латных перчаток
-Ardent Glorious Leggings Skin[s],Облик пылких славных поножей
-Ardent Glorious Legguard Skin[s],Облик пылких славных набедренников
-Ardent Glorious Legplate Skin[s],Облик пылких славных латных поножей
-Ardent Glorious Pauldron Skin[s],Облик пылких славных наплечников
-Ardent Glorious Plate Helm Skin[s],Облик пылкого славного латного шлема
-Ardent Glorious Raiment Skin[s],Облик пылкого славного одеяния
-Ardent Glorious Shinplate Skin[s],Облик пылких славных наголенников
-Ardent Glorious Shoulderguard Skin[s],Облик пылких славных оплечий
-Ardent Glorious Wargreaves Skin[s],Облик пылких славных боевых наголенников
-Ardent Glorious Wristplates Skin[s],Облик пылких славных наручных пластин
+Ardent Glorious Armguard Skin[s],[Облик|Облика|Обликов] пылких славных наручей
+Ardent Glorious Breastplate Skin[s],[Облик|Облика|Обликов] пылкого славного нагрудника
+Ardent Glorious Brigandine Skin[s],[Облик|Облика|Обликов] пылкой славной бригантины
+Ardent Glorious Cap Skin[s],[Облик|Облика|Обликов] пылкой славной шапки
+Ardent Glorious Crown Skin[s],[Облик|Облика|Обликов] пылкой славной короны
+Ardent Glorious Epaulet Skin[s],[Облик|Облика|Обликов] пылких славных эполет
+Ardent Glorious Footgear Skin[s],[Облик|Облика|Обликов] пылкой славной обуви
+Ardent Glorious Gauntlet Skin[s],[Облик|Облика|Обликов] пылких славных латных перчаток
+Ardent Glorious Leggings Skin[s],[Облик|Облика|Обликов] пылких славных поножей
+Ardent Glorious Legguard Skin[s],[Облик|Облика|Обликов] пылких славных набедренников
+Ardent Glorious Legplate Skin[s],[Облик|Облика|Обликов] пылких славных латных поножей
+Ardent Glorious Pauldron Skin[s],[Облик|Облика|Обликов] пылких славных наплечников
+Ardent Glorious Plate Helm Skin[s],[Облик|Облика|Обликов] пылкого славного латного шлема
+Ardent Glorious Raiment Skin[s],[Облик|Облика|Обликов] пылкого славного одеяния
+Ardent Glorious Shinplate Skin[s],[Облик|Облика|Обликов] пылких славных наголенников
+Ardent Glorious Shoulderguard Skin[s],[Облик|Облика|Обликов] пылких славных оплечий
+Ardent Glorious Wargreaves Skin[s],[Облик|Облика|Обликов] пылких славных боевых наголенников
+Ardent Glorious Wristplates Skin[s],[Облик|Облика|Обликов] пылких славных наручных пластин
 Are you sure you want to claim %str1%?,"Вы уверены, что хотите получить %str1%?"
 Are you sure you want to select %str1%?,"Вы уверены, что хотите выбрать %str1%?"
 "Are you sure you want to transfer to %str1%?
@@ -466,8 +466,8 @@ Arm,Рука
 Armenia,Армения
 Armor,Броня
 Armored,Бронированный
-Armored Dolyak Improvement[s],Улучшение «Бронированный дольяк»
-Armored Tiger Warclaw Skin[s],Облик боевого когтя «Бронированный тигр»
+Armored Dolyak Improvement[s],[Улучшение|Улучшения|Улучшений] «Бронированный дольяк»
+Armored Tiger Warclaw Skin[s],[Облик|Облика|Обликов] боевого когтя «Бронированный тигр»
 Armors,Броня
 Arone,Арон
 Arowana,Арована
@@ -480,8 +480,8 @@ Art,Искусство
 Arthropoda,Членистоногие
 Artichoke,Артишок
 Artifact,Артефакт
-Artisan Zharra's Cape Skin[s],Облик плаща мастерицы Зарры
-Artisan Zharra's Hood Skin[s],Облик капюшона мастерицы Зарры
+Artisan Zharra's Cape Skin[s],[Облик|Облика|Обликов] плаща мастерицы Зарры
+Artisan Zharra's Hood Skin[s],[Облик|Облика|Обликов] капюшона мастерицы Зарры
 Artisanat,Ремесленничество
 Artists,Художники
 Artsariiv,Арсариив
@@ -494,7 +494,7 @@ Explorable recommended level: <c=#CC9900>35</c>","Аскалонские кат�
 Рекомендуемый уровень для исследования: <c=#CC9900>35</c>"
 Ascalonian Fishing Reward[s],Аскалонская награда за рыбалку
 Ascalonian Fractal Field Research Paper[s],Полевое исследование аскалонского фрактала
-Ascalonian Grassland Waypoint Unlock[s],Открытие путевой точки аскалонских лугов
+Ascalonian Grassland Waypoint Unlock[s],[Открытие|Открытия|Открытий] путевой точки аскалонских лугов
 Ascend,Подняться
 Ascended,Вознесённый
 Asgiim,Асгиим
@@ -503,17 +503,17 @@ Ashen,Пепельный
 Ashfall,Пепелпад
 Ashhe,Ашхе
 Asifa,Асифа
-Askur Camping Cookout Backpiece Remnant[s],Остаток наспинника «Походная кухня Аскура»
+Askur Camping Cookout Backpiece Remnant[s],[Остаток|Остатка|Остатков] наспинника «Походная кухня Аскура»
 Asleep,Спит
 Asmund,Асмунд
 Asparagus,Спаржа
-Aspect Master's Greatsword Skin[s],Облик двуручного меча мастера аспектов
+Aspect Master's Greatsword Skin[s],[Облик|Облика|Обликов] двуручного меча мастера аспектов
 Aspiration,Стремление
 Assassin's Darksteel Plated Inscription[s],Окованная гравировка Ассасина из тёмной стали
-Assassin's Elder Inscription[s],Гравировка Ассасина из старой древесины
+Assassin's Elder Inscription[s],[Гравировка|Гравировки|Гравировок] Ассасина из старой древесины
 Assassin's Embroidered Linen Insignia[s],Вышитая льняная инсигния Ассасина
 Assassin's Embroidered Silk Insignia[s],Вышитая шёлковая инсигния Ассасина
-Assassin's Hard Inscription[s],Гравировка Ассасина из твёрдой древесины
+Assassin's Hard Inscription[s],[Гравировка|Гравировки|Гравировок] Ассасина из твёрдой древесины
 Assassin's Linen Insignia[s],Льняная инсигния Ассасина
 Assassin's Mithril Plated Inscription[s],Окованная мифрилом гравировка Ассасина
 Assassinate,Убийство

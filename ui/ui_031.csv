@@ -39,7 +39,7 @@ Awakened Cache[s],[Тайник|Тайника|Тайников] Пробужд�
 Awakened Catapult[s],[Катапульта|Катапульты|Катапульт] Пробуждённых
 Awakened Chest,Пробуждённый сундук
 Awakened Collector,Пробуждённый коллекционер
-Awakened Defiler,Пробуждённый Осквернитель
+Awakened Defiler,Осквернитель из Пробуждённых
 Awakened Defilers Have Surfaced,Пробуждённые осквернители появились на поверхности
 Awakened Devastator,Пробуждённый разрушитель
 Awakened Dye Kit[s],[Набор|Набора|Наборов] красителей Пробуждённых
@@ -114,8 +114,8 @@ Axemaster Hareth,Мастер топоров Харет
 Ayeni's Journal,Дневник Айени
 "Azure Agony Lens[pl:""Lenses""] (Left)",Азуриновая линза агонии (левая)
 "Azure Agony Lens[pl:""Lenses""] (Right)",Азурная линза агонии (правая)
-Azure Condensed Ley-Line Essence[s],Лазурная сгущённая эссенци[я|и|й] магической линии
-Azure Ley-Line Node,Лазурный узел магических линий
+Azure Condensed Ley-Line Essence[s],Лазурная сгущённая эссенци[я|и|й] лей-линии
+Azure Ley-Line Node,Лазурный узел лей-линий
 Azure Night,Лазурная ночь
 Azurite Crystal[s],Кристалл[|а|ов] азурита
 Azurite Orb[s],Сфер[а|ы|] азурита
@@ -166,9 +166,9 @@ Badge[s] of the Willbender,[Знак|Знака|Знаков] укротител
 Badge[s] of Tribute,Знак[|а|ов] дани
 Badjelly Kelpbed,Баджелли Ламинариевая грядка
 Badly Confused Ettin,Сильно сбитый с толку эттин
-"Baelfire's Armor Box[pl:""Boxes""]",Ящик с доспехами Бэйлфайра
-"Baelfire's Token Loot Box[pl:""Boxes""]",
-"Baelfire's Weapons Box[pl:""Boxes""]",Ящик оружия Бэлфайра
+"Baelfire's Armor Box[pl:""Boxes""]",[Сундук|Сундука|Сундуков] с доспехами Бейлфайра
+"Baelfire's Token Loot Box[pl:""Boxes""]",[Сундук|Сундука|Сундуков] с жетонами Бейлфайра
+"Baelfire's Weapons Box[pl:""Boxes""]",[Сундук|Сундука|Сундуков] с оружием Бейлфайра
 Bag of Shinies,Мешок блестяшек
 Bag Slot Expansion[s],[Расширение|Расширения|Расширений] слота сумки
 Bag-Slot Value Pack,Набор ценных слотов для сумок
@@ -209,7 +209,7 @@ Bag[s] of Incandescent Blotting Powder,Меш[ок|ка|ков] раскален
 Bag[s] of Incandescent Energy,Меш[ок|ка|ков] раскаленной энергии
 Bag[s] of Jewels,Меш[ок|ка|ков] драгоценностей
 Bag[s] of Laurels,Меш[ок|ка|ков] лавров
-Bag[s] of Ley-Line Crystals,[Мешок|Мешка|Мешков] кристаллов магических линий
+Bag[s] of Ley-Line Crystals,[Мешок|Мешка|Мешков] кристаллов лей-линий
 Bag[s] of Loot,[Мешок|Мешка|Мешков] добычи
 Bag[s] of Luck,[Мешок|Мешка|Мешков] удачи
 Bag[s] of Luminous Blotting Powder,[Мешок|Мешка|Мешков] светящегося промокательного порошка
@@ -251,7 +251,7 @@ Bait the Icy Waters,Наживка для ледяных вод
 Baked Doughnut,Печёный пончик
 Baked drake,Запечённый дракон
 Baker Claudette,Пекарь Клодетт
-"Balance Fish[pl:""Fish""]",Сбалансированная рыба
+"Balance Fish[pl:""Fish""]",[Рыба|Рыбы|Рыб] равновесия
 Balance the bar in the highlighted center section by using the left and right arrows to adjust its position.,"Уравновесьте планку в выделенной центральной секции, используя стрелки влево и вправо для регулировки её положения."
 Balance the Signal,Сбалансировать сигнал
 Balance warning: You just took %num1% damage from skill %num2% (damage base %num3% modifier %num4% adjustment %num5%).,Предупреждение о балансе: вы только что получили %num1% урона от навыка %num2% (базовый урон %num3% модификатор %num4% корректировка %num5%).
@@ -289,7 +289,7 @@ Balloon to Labyrinthine Cliffs,Воздушный шар до Лабиринто
 Balloon to the Crown Pavilion,Воздушный шар до Королевского павильона
 Balloon to the Festival of the Four Winds,Воздушный шар до Фестиваля Четырёх Ветров
 Balthazar Back Item Reward Track,Трек наград для предмета спины Балтазара
-"Balthazar Backpack Box[pl:""Boxes""]",Ящик с рюкзаком Бальтазара
+"Balthazar Backpack Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с наспинником Бальтазара
 "Balthazar Statue <c=#a9a9a9>[lbracket]Uncontested[rbracket]</c><br>• Free of Zhaitan's influence, the statue lies dormant.","Статуя Балтазара <c=#a9a9a9>[lbracket]Не оспариваемая[rbracket]</c><br>• Освобожденная от влияния Зайтана, статуя покоится."
 Balthazar Statue <c=#ff8c00>[lbracket]Contested[rbracket]</c><br>• Firestorms raze the area.,Статуя Балтазара <c=#ff8c00>[lbracket]Оспариваемая[rbracket]</c><br>• Область охвачена огненными бурями.
 Balthazar Statue[s],Стату[я|и|й] Бальтазара
@@ -326,12 +326,12 @@ Balthazar's Sword Skin[s],Облик[|а|ов] меча Бальтазара
 Balthazar's Torch Skin[s],Облик[|а|ов] факела Бальтазара
 Balthazar's Triumph,Триумф Бальтазара
 Balthazar's Warhorn Skin[s],[Облик|Облика|Обликов] рога Бальтазара
-"Balthazar's Weapon Box[pl:""Boxes""]",Ящик с оружием Бальтазара
+"Balthazar's Weapon Box[pl:""Boxes""]",[Сундук|Сундука|Сундуков] с оружием Бальтазара
 Balthazar's Weapons,Оружие Бальтазара
 "Balthazar, save—","Бальтазар, спаси—"
 Balthazar<br>High Road,Бальтазар<br>Высокая дорога
 Balthazar<br>Low Road,Бальтазар<br>Низкая дорога
-"Bamboo Awning[pl:""Awnings""]",
+"Bamboo Awning[pl:""Awnings""]",[Бамбуковый тент|Бамбуковых тента|Бамбуковых тентов]
 "Bamboo Canopy[pl:""Canopies""]",Бамбуковый навес|бамбуковые навесы|бамбуковых навесов
 Bamboo Interior Wall[s] (240 x 240),[Бамбуковая внутренняя стена|Бамбуковые внутренние стены|Бамбуковых внутренних стен] (240 x 240)
 Bamboo Sapling,Саженец бамбука
@@ -347,7 +347,7 @@ Banana Peel,Банановая кожура
 Banana[s],[Банан|Банана|Бананов]
 Band Member Down!,Участник группы повержен!
 Bandages Packed,Бинты упакованы
-"Bandit Archer Loot Box[pl:""Boxes""]",Сундук бандита-лучника
+"Bandit Archer Loot Box[pl:""Boxes""]",[Сундук|Сундука|Сундуков] с добычей бандита-лучника
 Bandit Archer[s],[Бандит-лучник|Бандита-лучника|Бандитов-лучников]
 Bandit Barricade,Бандитский баррикад
 Bandit Battle Orders,Боевые приказы бандитов
@@ -363,7 +363,7 @@ Bandit Crest Collector<br>• Trades Goods for Bandit Crests,Коллекцио�
 Bandit Crest Exchange,Обмен бандитских гербов
 Bandit Crest[s],[Бандитский герб|Бандитские гербы|Бандитских гербов]
 Bandit Cutpurse,Бандит-карманник
-"Bandit Cutpurse Loot Box[pl:""Boxes""]",Ящик с добычей от бандита-карманника
+"Bandit Cutpurse Loot Box[pl:""Boxes""]",[Сундук|Сундука|Сундуков] с добычей бандита-карманника
 Bandit Dagger,Кинжал бандита
 Bandit Death Mark[s],[Бандитская метка смерти|Бандитские метки смерти|Бандитских меток смерти]
 Bandit Disguise,Маскировка бандита
@@ -374,7 +374,7 @@ Bandit gang members.,Члены банды бандитов.
 Bandit Golemancer,Големансер-бандит
 Bandit Harpoon,Гарпун бандита
 Bandit Leader,Лидер бандитов
-"Bandit Loot Box[pl:""Boxes""]",Ящик с добычей бандита
+"Bandit Loot Box[pl:""Boxes""]",[Сундук|Сундука|Сундуков] с добычей бандита
 Bandit Mine,Мина бандита
 Bandit miners,Бандиты-шахтёры
 Bandit Munitions,Боеприпасы бандитов
@@ -400,7 +400,7 @@ Bandit Supplies,Припасы разбойников
 Bandit Supply Barrel,Разбойничья бочка с припасами
 Bandit Supply Sack,Разбойничий мешок с припасами
 Bandit Thug,Бандит-головорез
-"Bandit Thug Loot Box[pl:""Boxes""]",Ящик с добычей бандитского головореза
+"Bandit Thug Loot Box[pl:""Boxes""]",[Сундук|Сундука|Сундуков] с добычей бандита-головореза
 Bandit Thug[s],[Бандит-громила|Бандита-громилы|Бандитов-громил]
 Bandit Weapon Crate,Ящик с оружием разбойников
 Bandit Weapon Rack,Стойка с оружием разбойников
@@ -429,8 +429,8 @@ Banned players cannot join the custom arena.,Забаненные игроки �
 Banner Ornament[s],[Орнамент|Орнамента|Орнаментов] знамени
 Banner Pennon[s],[Вымпел|Вымпела|Вымпелов] знамени
 Banner Training,Обучение работе со знаменем
-Banners apply their bonuses to a larger area. Reduces recharge on banners.,Знамена распространяют свои бонусы на большую область. Уменьшает время восстановления знамен.
-Banners do damage when summoned.,Знамена наносят урон при призыве.
+Banners apply their bonuses to a larger area. Reduces recharge on banners.,Знамёна распространяют свои бонусы на большую область. Уменьшает время восстановления знамен.
+Banners do damage when summoned.,Знамёна наносят урон при призыве.
 Bantamweight Hatchling[s],[Детёныш легчайшего веса|Детёныша легчайшего веса|Детёнышей легчайшего веса]
 Banyan Sapling,Саженец баньяна
 Baoba Sapling,Саженец баоба

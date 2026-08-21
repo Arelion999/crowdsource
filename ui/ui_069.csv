@@ -124,8 +124,8 @@ Frenzy Skill 1,Навык неистовства 1
 "Fresh fish are staple, even for juvenile skimmers, and they can help encourage behaviors when training. Find a basket of the freshest fish south of Morningrise Prow in Jetsam Point.","Свежая рыба — основа рациона даже для молодых скатов, и она помогает поощрять поведение при дрессировке. Найдите корзину со свежайшей рыбой к югу от Утёса Утреннего Пробуждения в Точке Выброса."
 Fresh Green Dye[s],Свеж[ая|ие|их] зелён[ая|ые|ых] [краска|краски|красок]
 Fresh Mint,Свежая мята
-Fresh Swim Bottoms Skin[s],Облик[|а|ов] низа купальника «Свежесть»
-Fresh Swim Top Skin[s],Облик[|а|ов] верха купальника «Свежесть»
+Fresh Swim Bottoms Skin[s],[Облик|Облика|Обликов] низа купальника «Свежесть»
+Fresh Swim Top Skin[s],[Облик|Облика|Обликов] верха купальника «Свежесть»
 Fresh Swimsuit Pack[s],Набор[|а|ов] свежих купальников
 Fresh Water,Пресная вода
 "Fresh Winterberry[pl:""Winterberries""]",Свежая зимняя ягода
@@ -143,7 +143,7 @@ Freshwater Tropical Fish,Пресноводная тропическая рыб�
 "Fried Banana Chips[pl:""Chips""]",Жареные банановыеслайсы[Слайс|Слайса|Слайсов]
 Fried Golden Dumpling[s],Жарен[ый|ых|ых] золот[ой|ых|ых] пельмен[ь|я|ей]
 "Fried Oyster Sandwich[pl:""Sandwiches""]",Сэндвич с жареными устрицами
-"Fried Oysters[pl:""Oysters""]",
+"Fried Oysters[pl:""Oysters""]",[Жареные устрицы|Жареных устрицы|Жареных устриц]
 Friend of Dragons,Друг драконов
 "Friend of Lady Peitha,Before your arrival, I stood on the edge of the fog, watching helplessly while my own succumbed to its toxicity as they attempted to flee. Now that the fog has lifted, their essence is trapped, and I am unable to help.I seek someone who can end their suffering. Come find me; your aid is crucial.Message transcribed by Ward Member Benan.","Друг леди Пейты,До вашего прибытия я стоял на краю тумана, беспомощно наблюдая, как мои собственные поддались его токсичности, пытаясь бежать. Теперь, когда туман рассеялся, их сущность заперта, и я не могу помочь.Я ищу того, кто сможет положить конец их страданиям. Приходите ко мне; ваша помощь крайне важна.Сообщение записано членом отделения Бенаном."
 Friend of Raven,Друг ворона
@@ -229,13 +229,13 @@ Frost Jet,Ледяная струя
 Frost Leap,Ледяной прыжок
 Frost Legion Chest,Сундук Легиона Мороза
 Frost Legion Commendation[s],[Рекомендация Морозного легиона|Рекомендации Морозного легиона|Рекомендаций Морозного легиона]
-"Frost Legion Corrupt Materials Box[pl:""Boxes""]",Ящик материалов Коррумпированной ледяной орды | Ящики материалов Коррумпированной ледяной орды | Ящиков материалов Коррумпированной ледяной орды
+"Frost Legion Corrupt Materials Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с осквернёнными материалами Морозного легиона
 "Frost Legion Crafting Box[pl:""Boxes""]",Ящик[|а|ов] крафта Легиона Льда
 Frost Legion Infusion[s],[Инфузия Морозного легиона|Инфузии Морозного легиона|Инфузий Морозного легиона]
 Frost Legion Machine Token[s],[Жетон машины Морозного легиона|Жетона машины Морозного легиона|Жетонов машины Морозного легиона]
-"Frost Legion Resource Box[pl:""Boxes""]",Ящик ресурсов Легиона Льда
-"Frost Legion Spoils Box[pl:""Boxes""]",Ящик трофеев Легиона Снега
-"Frost Legion Trophy Box[pl:""Boxes""]",Ящик трофеев Легиона Снега
+"Frost Legion Resource Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с ресурсами Морозного легиона
+"Frost Legion Spoils Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей Морозного легиона
+"Frost Legion Trophy Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с трофеями Морозного легиона
 Frost Mine,Морозная мина
 Frost Portal,Морозный портал
 Frost Pull,Морозная тяга
@@ -407,7 +407,7 @@ Fuel Cannister[s],[Канистра|Канистры|Канистр] с топл
 Fuel will run out in: %str1%,Топливо закончится через: %str1%
 "Fuel[pl:""Fuel""] for the Fire",Топливо для Огня
 Fuels airships.<br>Event Item,Заправляет дирижабли.<br>Предмет события
-"Fugu Fish[pl:""Fish""]",
+"Fugu Fish[pl:""Fish""]",[Рыба фугу|Рыбы фугу|Рыб фугу]
 Fulgurite[s],[Фульгурит|Фульгурита|Фульгуритов]
 Full Basket,Полная корзина
 Full Health Potions,Полные зелья здоровья
@@ -461,7 +461,7 @@ Furious Tuning Crystal[s],[Кристалл|Кристалла|Кристалл�
 Furrocious Cat Ears Skin[s],[Облик|Облика|Обликов] ушей свирепого кота
 "Furrocious Cat Ears[pl:""Ears""]",[Пушистые кошачьи ушки|Пушистых кошачьих ушек|Пушистых кошачьих ушек]
 Fursta Farhunter,Фурста Дальний Охотник
-"Further Notes[pl:""Notes""] on a Sunspear",
+"Further Notes[pl:""Notes""] on a Sunspear",[Новая заметка|Новые заметки|Новых заметок] о Солнечных копьях
 Furtive Glance,Украдкой взгляд
 Fury Console,Консоль ярости
 Fury of the Brand,Ярость Клейма
@@ -486,7 +486,7 @@ Fused Staff Skin[s],[Облик|Облика|Обликов] посоха «Сп
 Fused Sword Skin[s],[Облик|Облика|Обликов] меча «Сплав»
 Fused Torch Skin[s],[Облик|Облика|Обликов] факела «Сплав»
 Fused Warhorn Skin[s],[Облик|Облика|Обликов] рога «Сплав»
-"Fused Weapon Box[pl:""Boxes""]",Ящик слитого оружия
+"Fused Weapon Box[pl:""Boxes""]",[Сундук|Сундука|Сундуков] со сплавленным оружием
 Fused Weapons,Расплавленное оружие
 Future Fashionable,Модное будущее
 Fuzzy Aurene Hat Skin[s],[Облик|Облика|Обликов] пушистой шапки Аурен
@@ -498,8 +498,8 @@ Fuzzy Bee Skimmer,Пушистый пчелиный скаймер
 Fuzzy Bee Skimmer Skin[s],[Облик|Облика|Обликов] пушистого скакуна-водомёта
 Fuzzy Cat Hat Skin[s],[Облик|Облика|Обликов] пушистой кошачьей шапки
 Fuzzy Cat Hat[s],[Пушистая кошачья шапка|Пушистые кошачьи шапки|Пушистых кошачьих шапок]
-Fuzzy Hylek Hat Skin[s],[Облик|Облика|Обликов] пушистой шапки хайлека
-Fuzzy Hylek Hat[s],[Пушистая шапка хайлека|Пушистые шапки хайлека|Пушистых шапок хайлека]
+Fuzzy Hylek Hat Skin[s],[Облик|Облика|Обликов] пушистой шапки хилека
+Fuzzy Hylek Hat[s],[Пушистая шапка хилека|Пушистые шапки хилека|Пушистых шапок хилека]
 Fuzzy Leopard Hat Skin[s],[Облик|Облика|Обликов] пушистой леопардовой шапки
 Fuzzy Leopard Hat[s],[Пушистая леопардовая шапка|Пушистые леопардовые шапки|Пушистых леопардовых шапок]
 Fuzzy Panda Hat Skin[s],[Облик|Облика|Обликов] пушистой шапки панды

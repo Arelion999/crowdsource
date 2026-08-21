@@ -12,7 +12,7 @@ Add a cloth node to the workshop that randomly generates either jute or wool scr
 Add a leather node to the workshop that randomly generates either rawhide or thin leather when harvested.,"Добавить узел кожи в мастерскую, случайным образом генерирующий сырую или тонкую кожу при сборе."
 Add a lumber node to the workshop that randomly generates either green or soft logs when harvested.,"Добавьте в мастерскую узел древесины, который при сборе случайным образом даёт зелёные или мягкие брёвна."
 Add a merchant to the market who sells basic decorations for your guild hall.,"Добавьте на рынок торговца, продающего базовые украшения для зала гильдии."
-Add a merchant to the market who sells miniatures emblazoned with your guild emblem.,"Добавьте на рынок торговца, продающего миниатюры с эмблемой вашей гильдии."
+Add a merchant to the market who sells miniatures emblazoned with your guild emblem.,"Добавьте на рынок торговца, продающего миниатюры с инсигнией вашей гильдии."
 "Add a minstrel at the tavern who can set an anthem for your guild, which will play at moments of triumph.","Добавьте в таверну менестреля, который может установить гимн для вашей гильдии, звучащий в моменты триумфа."
 Add a personal enhancement at the tavern that increases how often you get map bonuses.,"Добавьте в таверну личное улучшение, увеличивающее частоту получения бонусов карты."
 Add a personal enhancement at the tavern that increases the chance of finding magic items.,"Добавьте в таверну личное улучшение, увеличивающее шанс найти магические предметы."
@@ -86,7 +86,7 @@ Allow decorators in the arena to place turrets that weaken nearby combatants.,"�
 "Allow guild members with the proper permissions to claim a supply camp for the guild, allowing it to gain access to upgrades over time.","Разрешить членам гильдии с соответствующими разрешениями заявлять права на лагерь снабжения для гильдии, позволяя ему получать доступ к улучшениям со временем."
 "Allow guild members with the proper permissions to claim a tower for the guild, allowing it to gain access to upgrades over time.","Разрешить членам гильдии с соответствующими разрешениями заявлять права на башню для гильдии, позволяя ей получать доступ к улучшениям со временем."
 "Allow guild members with the proper permissions to claim Stonemist Castle for the guild, allowing it to gain access to upgrades over time.","Разрешить членам гильдии с соответствующими разрешениями заявлять права на Замок Камнемрака для гильдии, позволяя ему получать доступ к улучшениям со временем."
-Allows guild members to create a permanent guild emblem design at the Guild Registrar for use on banners and other displays.,Позволяет членам гильдии создать постоянный дизайн эмблемы гильдии у Регистратора гильдии для использования на знамёнах и других дисплеях.
+Allows guild members to create a permanent guild emblem design at the Guild Registrar for use on banners and other displays.,Позволяет членам гильдии создать постоянный дизайн инсигнии гильдии у Регистратора гильдии для использования на знамёнах и других дисплеях.
 Allows your guild to build consumables that can be used to activate various world events.,Позволяет гильдии создавать расходные материалы для активации различных мировых событий.
 Arena Brawling: Free-for-All Fighters,Арена: Бойцы «каждый сам за себя»
 Arena Brawling: Green Team,Арена: Зелёная команда
@@ -186,7 +186,7 @@ Crystal Prism,Кристальная призма
 Decima Shard,Осколок Децимы
 Decima's Token (Guild Decoration),Жетон Децимы (гильдейское украшение)
 Deep Cave,Глубокая пещера
-Dhuum's Torch,Факел Дхуума
+Dhuum's Torch,Факел Дуума
 Dragon Banner,Знамя дракона
 Dune Roller,Дюнный каток
 Earned by completing the Eldvin Monastery Brew of the Month Club achievement.,Зарабатывается за завершение достижения «Клуб пива месяца монастыря Эльдвин».
@@ -233,7 +233,7 @@ Guild Armorer 2,Бронник гильдии 2
 Guild Arrow Cart Siege,Осадная стреломётная телега гильдии
 Guild Ballista Siege,Осадный баллиста гильдии
 Guild Catapult Siege,Гильдейская катапульта
-Guild Emblem Template,Шаблон эмблемы гильдии
+Guild Emblem Template,Шаблон инсигнии гильдии
 Guild Enhancement: Critical Crafting,Гильдейское улучшение: Критическое ремесло
 Guild Enhancement: Critical Harvesting,Гильдейское улучшение: Критический сбор
 Guild Enhancement: Experience,Гильдейское улучшение: Опыт
@@ -385,21 +385,21 @@ Samarog's Door,Дверь Самарога
 Scarred Ice Monolith,Испещрённый шрамами ледяной монолит
 Scarred Ice Sheet,Изуродованный ледяной щит
 Schematic: Vault Transport,Схема: Транспорт хранилища
-Scribing: Airship Defense,Надписи: Оборона дирижабля
-Scribing: Armored Dolyaks,Надписи: Бронированные дольяки
-Scribing: Arrow Cart,Надписи: Стреломёт
-Scribing: Assault Roller,Надписи: Штурмовой каток
-Scribing: Ballista,Надписи: Баллиста
-Scribing: Catapult,Надписи: Катапульта
-Scribing: Centaur Banner,Надписи: Знамя кентавра
-Scribing: Cloaking Waters,Надписи: Маскирующие воды
-Scribing: Dragon Banner,Надписи: Знамя дракона
-Scribing: Emergency Waypoint,Надписи: Аварийный путь
-Scribing: Flame Ram,Надписи: Огненный таран
-Scribing: Guild Banquet,Надписи: Гильдейский банкет
-Scribing: Guild Experience Banner,Надписи: Знамя опыта гильдии
-Scribing: Guild Gathering and Swiftness Banner,Надписи: Знамя сбора и скорости гильдии
-Scribing: Guild Gathering Bonus Banner,Надписи: Знамя бонуса сбора гильдии
+Scribing: Airship Defense,Письмоводство: Оборона дирижабля
+Scribing: Armored Dolyaks,Письмоводство: Бронированные дольяки
+Scribing: Arrow Cart,Письмоводство: Стреломёт
+Scribing: Assault Roller,Письмоводство: Штурмовой каток
+Scribing: Ballista,Письмоводство: Баллиста
+Scribing: Catapult,Письмоводство: Катапульта
+Scribing: Centaur Banner,Письмоводство: Знамя кентавра
+Scribing: Cloaking Waters,Письмоводство: Маскирующие воды
+Scribing: Dragon Banner,Письмоводство: Знамя дракона
+Scribing: Emergency Waypoint,Письмоводство: Аварийный путь
+Scribing: Flame Ram,Письмоводство: Огненный таран
+Scribing: Guild Banquet,Письмоводство: Гильдейский банкет
+Scribing: Guild Experience Banner,Письмоводство: Знамя опыта гильдии
+Scribing: Guild Gathering and Swiftness Banner,Письмоводство: Знамя сбора и скорости гильдии
+Scribing: Guild Gathering Bonus Banner,Письмоводство: Знамя бонуса сбора гильдии
 Scribing: Guild Gold and Magic Find Banner,Создание: Золото гильдии и знамя поиска магии
 Scribing: Guild Gold from Kills Banner,Письменность: Гильдийское золото за убийства (баннер)
 Scribing: Guild Heroes Banner,Письмоводство: Знамя гильдии «Герои»
@@ -415,16 +415,16 @@ Scribing: Hardened Siege,Письмоводство: Укреплённая ос
 Scribing: Healing Mist,Письмоводство: Целительный туман
 Scribing: Invincible Dolyak,Письмоводство: Неуязвимый дольяк
 Scribing: Invulnerable Fortifications,Письмоводство: Неуязвимые укрепления
-Scribing: Iron Guards,Надписи: Железные стражи
-Scribing: Minor Supply Drop,Надписи: Малый припасы
-Scribing: Packed Dolyaks,Надписи: Упакованные дольяки
-Scribing: Presence of the Keep,Надписи: Присутствие крепости
-Scribing: Sabotage Depot,Надписи: Склад саботажа
-Scribing: Siege Golem,Надписи: Осадный голем
-Scribing: Speedy Dolyaks,Надписи: Быстрые дольяки
-Scribing: Turret Gates,Надписи: Ворота-турели
-Scribing: Turtle Banner,Надписи: Знамя черепахи
-Scribing: Watchtower,Надписи: Сторожевая башня
+Scribing: Iron Guards,Письмоводство: Железные стражи
+Scribing: Minor Supply Drop,Письмоводство: Малый припасы
+Scribing: Packed Dolyaks,Письмоводство: Упакованные дольяки
+Scribing: Presence of the Keep,Письмоводство: Присутствие крепости
+Scribing: Sabotage Depot,Письмоводство: Склад саботажа
+Scribing: Siege Golem,Письмоводство: Осадный голем
+Scribing: Speedy Dolyaks,Письмоводство: Быстрые дольяки
+Scribing: Turret Gates,Письмоводство: Ворота-турели
+Scribing: Turtle Banner,Письмоводство: Знамя черепахи
+Scribing: Watchtower,Письмоводство: Сторожевая башня
 Season 1: Bronze Guild Challenger Trophy,Сезон 1: Бронзовый трофей претендента гильдии
 Season 1: Gold Guild Challenger Trophy,Сезон 1: Золотой трофей претендента гильдии
 Season 1: Platinum Guild Challenger Trophy,Сезон 1: Платиновый трофей претендента гильдии

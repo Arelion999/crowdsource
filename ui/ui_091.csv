@@ -38,12 +38,12 @@ Lorekeeper Mace Skin[s],[Облик|Облика|Обликов] булавы х
 Lorekeeper Pistol Skin[s],[Облик|Облика|Обликов] пистолета хранителя знаний
 Lorekeeper Rifle Skin[s],[Облик|Облика|Обликов] винтовки хранителя знаний
 Lorekeeper Scepter Skin[s],[Облик|Облика|Обликов] скипетра хранителя знаний
-Lorekeeper Shield Skin[s],Облик[|а|ов] щита «Хранитель преданий»
-Lorekeeper Short Bow Skin[s],Облик[|а|ов] короткого лука «Хранитель преданий»
-Lorekeeper Staff Skin[s],Облик[|а|ов] посоха «Хранитель преданий»
-Lorekeeper Sword Skin[s],Облик[|а|ов] меча «Хранитель преданий»
-Lorekeeper Torch Skin[s],Облик[|а|ов] факела «Хранитель преданий»
-Lorekeeper Warhorn Skin[s],Облик[|а|ов] рога «Хранитель преданий»
+Lorekeeper Shield Skin[s],[Облик|Облика|Обликов] щита «Хранитель преданий»
+Lorekeeper Short Bow Skin[s],[Облик|Облика|Обликов] короткого лука «Хранитель преданий»
+Lorekeeper Staff Skin[s],[Облик|Облика|Обликов] посоха «Хранитель преданий»
+Lorekeeper Sword Skin[s],[Облик|Облика|Обликов] меча «Хранитель преданий»
+Lorekeeper Torch Skin[s],[Облик|Облика|Обликов] факела «Хранитель преданий»
+Lorekeeper Warhorn Skin[s],[Облик|Облика|Обликов] рога «Хранитель преданий»
 "Lorekeeper Weapon Box[pl:""Boxes""]",Ящик с оружием Хранителя знаний[я|и|оружием]
 Lorekeeper Weapons,Оружие Хранителя преданий
 Lormar's Rage,Ярость Лормара
@@ -80,12 +80,12 @@ Lose conditions at a set time interval.,Условия поражения чер
 lose the respect of my comrades.,потерять уважение товарищей.
 Losing Association with Skiff,Потеря связи с лодкой
 Loss Streak,Серия поражений
-"Loss[pl:""Losses""]",
+"Loss[pl:""Losses""]",[Поражение|Поражения|Поражений]
 Lost and Afraid,Потерянный и испуганный
 Lost and Found Merchant<br>• Repurchase Lost Items<br>• Sell Items,Торговец потерянными вещами<br>• Выкупить потерянные предметы<br>• Продать предметы
 Lost and Found Rewards,Награды за потерянные и найденные вещи
 Lost and Found Shinies,Потерянные и найденные блестяшки
-"Lost Arms[pl:""Arms""] of a Verdant Hero",
+"Lost Arms[pl:""Arms""] of a Verdant Hero",[Утраченное оружие|Утраченных оружия|Утраченного оружия] изумрудного героя
 Lost Badge,Потерянный значок
 Lost Badge #1,Потерянный значок #1
 Lost Badge #10,Потерянный значок #10
@@ -228,12 +228,12 @@ Lovestruck Hammer Skin[s],[Облик|Облика|Обликов] молота 
 Lovestruck Longbow Skin[s],[Облик|Облика|Обликов] длинного лука «Влюблённый»
 Lovestruck Mace Skin[s],[Облик|Облика|Обликов] булавы «Влюблённый»
 Lovestruck Pistol Skin[s],[Облик|Облика|Обликов] пистолета «Влюблённый»
-Lovestruck Protector Skin[s],Облик[|а|ов] «Влюблённый защитник»
-Lovestruck Rifle Skin[s],Облик[|а|ов] винтовки «Влюблённый»
-Lovestruck Scepter Skin[s],Облик[|а|ов] скипетра «Влюблённый»
-Lovestruck Short Bow Skin[s],Облик[|а|ов] короткого лука «Влюблённый»
-Lovestruck Staff Skin[s],Облик[|а|ов] посоха «Влюблённый»
-Lovestruck Sword Skin[s],Облик[|а|ов] меча «Влюблённый»
+Lovestruck Protector Skin[s],[Облик|Облика|Обликов] «Влюблённый защитник»
+Lovestruck Rifle Skin[s],[Облик|Облика|Обликов] винтовки «Влюблённый»
+Lovestruck Scepter Skin[s],[Облик|Облика|Обликов] скипетра «Влюблённый»
+Lovestruck Short Bow Skin[s],[Облик|Облика|Обликов] короткого лука «Влюблённый»
+Lovestruck Staff Skin[s],[Облик|Облика|Обликов] посоха «Влюблённый»
+Lovestruck Sword Skin[s],[Облик|Облика|Обликов] меча «Влюблённый»
 "Lovestruck Weapon Box[pl:""Boxes""]",Шкатулка оружия влюблённых[|и|ей]
 Lovestruck Weapons,Оружие «Влюблённый»
 "Lovingly crafted in the authentic New Kaineng style, now with fresh, local braised gnarled boar!    INGREDIENTS:  - Pork - Herbs  - Noodles  - Cabbage","С любовью приготовлено в аутентичном стиле Нового Кайнэнга, теперь со свежей, тушёной местной корявой свининой!    ИНГРЕДИЕНТЫ:  - Свинина - Травы  - Лапша  - Капуста"
@@ -269,7 +269,7 @@ Lowland Pine Log[s],Низменное сосновое бревн[о|а|ен]
 Lowland Pine Sapling,Низменный сосновый саженец
 Lowland Shore Fish,Рыба Низинного Берега
 Lowland Shore Renown Token[s],Жетон[|а|ов] славы Низменного берега
-"Lowland Shore Strongbox[pl:""Strongboxes""]",Низменный берег
+"Lowland Shore Strongbox[pl:""Strongboxes""]",[Сундук|Сундука|Сундуков] низинного побережья
 Lowland Shore: Harvest Shore Salmon Run,Низинный Берег: Лососевый забег на Берегу Урожая
 Lowland Shore: Hide-and-Seek Challenge,Низинный Берег: Испытание «Прятки»
 Lowland Shore: Moon Camp Covert Salmon Run,Низинный Берег: Лососевый забег в Тайнике Лунного лагеря
@@ -280,8 +280,8 @@ Loyalists are gaining control of the coliseum. Stop them!,Лоялисты за�
 Luccia's Journal,Дневник Лючии
 Lucent Crystal Vault Bag[s],[Сумка|Сумки|Сумок] хранилища светящихся кристаллов
 Lucent Mote[s],Светоносная пылинк[а|и|ок]
-"Lucent motes are acquired by salvaging runes, sigils, and relics.","Светящиеся частицы получаются при разборке рун, символов и реликвий."
-Lucent Vulpine Jackal Skin[s],Облик[|а|ов] «Светоносный лисопёс»
+"Lucent motes are acquired by salvaging runes, sigils, and relics.","Светящиеся частицы получаются при разборке рун, сигилов и реликвий."
+Lucent Vulpine Jackal Skin[s],[Облик|Облика|Обликов] «Светоносный лисопёс»
 Luck of Kings,Удача королей
 Luck: %num1%/%num2%,Удача: %num1%/%num2%
 Lucky Coin[s],Счастливая монет[а|ы|]
@@ -294,7 +294,7 @@ Lucky Red Bag[s],[Счастливый красный мешок|Счастли�
 Ludo's Invitation,Приглашение Людо
 Ludo's Paperwork,Бумаги Людо
 Ludwig's Anthology of Ward Spells,Антология защитных заклинаний Людвига
-"Luka TomasdottirBe quiet.Please.Stop.You don't listen to me anymore. It's like I'm talking to a wall. Words won't do. I've screamed at you for so long that I have no voice. There are no more words. I will never speak again. So I write, hoping you will read these words and leave me alone.Day after day you speak to me. At first, I thought you were Aiding Thunder. Even when the kodan outside the village said he was gone.Actually, no—they only said his voice wasn't his own. I thought maybe he was still out there. I thought the warriors of Still Waters Speaking had rashly exiled one of their own in an act of paranoid delusion. Surely the same kodan I met in Frostgorge Sound, the kodan I shared stories with by the fire in Safewatch Vale, could not have turned to madness so easily.So I followed the voice. His voice. I followed it west, across the lake where Svanir was turned.The voice asked me if I wanted to see Aiding Thunder again. Asked me if I wanted to learn the secrets of the kodan.I said yes. Raven's eyes, I said yes. I didn't even stop to ask why Aiding Thunder's voice would ask such things of me. I didn't stop to think.Aiding Thunder emerged from the passage leading down into the frozen lake. He told me to follow him, and we journeyed through the valley unhindered. The creatures that had nipped at my heels not hours before were now granting safe passage. I thought that was strange, to be sure, but I paid it no mind. Perhaps they feared the mighty kodan that was guiding me. Perhaps they had just feasted on some other unfortunate creature, and I was spared simply by a lack of appetite.The kodan took me to these ruins and told me everything I'd ever wanted to know. Not just about the kodan, but about every race in Tyria. The Mists. All that was past, and all that is present. I had asked for knowledge, and I received it. I received so much that I was forced to stop writing as my hands bled.But the voice continued to speak. I looked up and Aiding Thunder was gone. The voice remained. The voice began to change. It was no longer Aiding Thunder's.It was yours.Jormag. I beg of you. Stop whispering to me.I can listen no longer.","Лука Томасдоттир: Замолчи, пожалуйста. Прекрати. Ты больше не слушаешь меня. Словно я разговариваю со стеной. Слова уже не помогут. Я так долго кричала на тебя, что у меня пропал голос. Больше нет слов. Я никогда больше не заговорю. Поэтому я пишу, надеясь, что ты прочитаешь это и оставишь меня в покое. День за днем ты говоришь со мной. Сначала я думала, что это Эйдинг Тандер. Даже когда кодан за пределами деревни сказал, что его больше нет. Точнее, они просто сказали, что это не его голос. Я подумала, может быть, он все ещё там. Я подумала, что воины Старых Вод могли опрометчиво изгнать одного из своих в приступе параноидальной мании. Неужели тот самый кодан, которого я встретила в Фростгорж-Саунд, с которым я делилась историями у костра в Сейфвотч-Вейл, мог так лёгко сойти с ума?
+"Luka TomasdottirBe quiet.Please.Stop.You don't listen to me anymore. It's like I'm talking to a wall. Words won't do. I've screamed at you for so long that I have no voice. There are no more words. I will never speak again. So I write, hoping you will read these words and leave me alone.Day after day you speak to me. At first, I thought you were Aiding Thunder. Even when the kodan outside the village said he was gone.Actually, no—they only said his voice wasn't his own. I thought maybe he was still out there. I thought the warriors of Still Waters Speaking had rashly exiled one of their own in an act of paranoid delusion. Surely the same kodan I met in Frostgorge Sound, the kodan I shared stories with by the fire in Safewatch Vale, could not have turned to madness so easily.So I followed the voice. His voice. I followed it west, across the lake where Svanir was turned.The voice asked me if I wanted to see Aiding Thunder again. Asked me if I wanted to learn the secrets of the kodan.I said yes. Raven's eyes, I said yes. I didn't even stop to ask why Aiding Thunder's voice would ask such things of me. I didn't stop to think.Aiding Thunder emerged from the passage leading down into the frozen lake. He told me to follow him, and we journeyed through the valley unhindered. The creatures that had nipped at my heels not hours before were now granting safe passage. I thought that was strange, to be sure, but I paid it no mind. Perhaps they feared the mighty kodan that was guiding me. Perhaps they had just feasted on some other unfortunate creature, and I was spared simply by a lack of appetite.The kodan took me to these ruins and told me everything I'd ever wanted to know. Not just about the kodan, but about every race in Tyria. The Mists. All that was past, and all that is present. I had asked for knowledge, and I received it. I received so much that I was forced to stop writing as my hands bled.But the voice continued to speak. I looked up and Aiding Thunder was gone. The voice remained. The voice began to change. It was no longer Aiding Thunder's.It was yours.Jormag. I beg of you. Stop whispering to me.I can listen no longer.","Лука Томасдоттир: Замолчи, пожалуйста. Прекрати. Ты больше не слушаешь меня. Словно я разговариваю со стеной. Слова уже не помогут. Я так долго кричала на тебя, что у меня пропал голос. Больше нет слов. Я никогда больше не заговорю. Поэтому я пишу, надеясь, что ты прочитаешь это и оставишь меня в покое. День за днем ты говоришь со мной. Сначала я думала, что это Эйдинг Тандер. Даже когда кодан за пределами деревни сказал, что его больше нет. Точнее, они просто сказали, что это не его голос. Я подумала, может быть, он все ещё там. Я подумала, что воины Старых Вод могли опрометчиво изгнать одного из своих в приступе параноидальной мании. Неужели тот самый кодан, которого я встретила в Фростгорж-Саунд, с которым я делилась историями у костра в Сейфвотч-Вейл, мог так легко сойти с ума?
 
 Поэтому я последовала за голосом. За его голосом. Я пошла на запад, через озеро, где был повержен Сванир. Голос спросил меня, хочу ли я снова увидеть Эйдинга Тандера. Спросил, хочу ли я узнать секреты кодан.
 Я сказала «да». Клянусь вороном, я сказала «да». Я даже не остановилась, чтобы спросить, почему голос Эйдинга Тандера задает мне такие вопросы. Я не стала думать.
@@ -310,7 +310,7 @@ Lumberjack Patron,Покровитель Лесорубов
 Lumbermill Saw,Пила лесопилки
 Luminate Illumination,Иллюминация Люмината
 Luminate's Cache[s],Ларцы Лумината
-Luminate's Keepsake[s],Реликвия Люмината
+Luminate's Keepsake[s],[Сувенир|Сувенира|Сувениров] Люмината
 Luminate's Throne: The Jungle Grows Even Up Here,Трон Луминаты: Джунгли растут даже здесь
 Luminescent Boots Skin[s],[Облик светящихся сапог|Облики светящихся сапог|Обликов светящихся сапог]
 Luminescent Coat Skin[s],[Облик светящегося пальто|Облики светящегося пальто|Обликов светящегося пальто]
@@ -346,7 +346,7 @@ Luminous Medium Jerkin Skin[s],[Облик|Облика|Обликов] сияю
 Luminous Medium Leggings Skin[s],[Облик|Облика|Обликов] сияющих средних поножей
 Luminous Mote[s],Сияющая [искра|искры|искр]
 Luminous Partisan[s],Сияющий [партизан|партизана|партизанов]
-"Luminous Skyscale Horns[pl:""Horns""]",
+"Luminous Skyscale Horns[pl:""Horns""]",[Сияющие рога скайскейла|Сияющих рога скайскейла|Сияющих рогов скайскейла]
 Lump[s] of Aluminum,[Кусок|Куска|Кусков] алюминия
 Lump[s] of Aluminum Bronze,[Кусок|Куска|Кусков] алюминиевой бронзы
 Lump[s] of Aurillium,[Кусок|Куска|Кусков] ауриллиума
@@ -402,7 +402,7 @@ Lunar Rabbit Stompers Skin[s],[Облик|Облика|Обликов] сапо�
 "Lunar, Chinese, Year, New Year, Zodiac","Лунный, Китайский, Год, Новый год, Зодиак"
 Lunatic After-Action Report[s],[Отчёт|Отчёта|Отчётов] о действиях безумца
 "Lunatic Boot Box[pl:""Boxes""]",[Безумная коробка с сапогами|Безумные коробки с сапогами|Безумных коробок с сапогами]
-"Lunatic Coat Box[pl:""Boxes""]",Шкатулка с безумным пальто
+"Lunatic Coat Box[pl:""Boxes""]",[Сундук|Сундука|Сундуков] с лунатическим плащом
 Lunatic Courtier Gear,Снаряжение безумного придворного
 Lunatic Courtiers,Безумные придворные
 "Lunatic Courtiers have been spotted in Queensdale, Kessex Hills, and Gendarran Fields. Lion's Arch has been experiencing severe paranormal disturbances.","Безумные придворные были замечены в Куинсдейле, Кессекс-Хиллз и Гендарранских полях. В Львиной Арке наблюдаются сильные паранормальные возмущения."
@@ -410,10 +410,10 @@ Lunatic Courtiers,Безумные придворные
 "Lunatic Glove Box[pl:""Boxes""]",[Безумная перчаточная коробка|Безумные перчаточные коробки|Безумных перчаточных коробок]
 Lunatic Gossamer Insignia[s],[Знак|Знака|Знаков] паутины безумца
 Lunatic Guard Outfit[s],[Наряд|Наряда|Нарядов] стража безумца
-"Lunatic Hat Box[pl:""Boxes""]",Коробка с безумной шляпой
+"Lunatic Hat Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] шляп безумца
 Lunatic Inquisition Pill,Пилюля безумной инквизиции
-"Lunatic Pants Box[pl:""Boxes""]",Коробка с безумными штанами
-"Lunatic Shoulder Box[pl:""Boxes""]",Ящик с плечом безумца
+"Lunatic Pants Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] безумных штанов
+"Lunatic Shoulder Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с наплечником безумца
 Lunatic Villager Gear,Снаряжение безумного селянина
 Lunch order: I want smashed beef loin with liver bits. AND PICK OUT THE BONES THIS TIME!!!,Заказ на обед: хочу толченую говяжью вырезку с кусочками печени. И ВЫТАЩИ КОСТИ НА ЭТОТ РАЗ!!!
 Lung Capacity,Объём лёгких

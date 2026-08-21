@@ -2,17 +2,17 @@ english,translate
 Dolyaks gain increased health and toughness.,Дольяки получают повышенное здоровье и стойкость.
 Dolyaks gain superspeed.,Дольяки получают суперскорость.
 Dolyaks now carry twice as much supply.,Дольяки теперь несут вдвое больше припасов.
-Domain of Kourna Empowerment,Усиление области Курна
-Domain of Kourna Griffon Expert: Bronze,Эксперт по грифонам области Курны: Бронза
-Domain of Kourna Griffon Master: Bronze,Мастер грифонов области Курны: Бронза
-Domain of Kourna Portal Scroll,Свиток портала во Владения Курны
-Domain of Vabbi: Commander's Choice Chest,Сундук выбора командира в Домене Вобби
-Domain of Vabbi: Hero's Choice Chest,Сундук героя Вобби: Выбор
+Domain of Kourna Empowerment,Усиление Владения Курна
+Domain of Kourna Griffon Expert: Bronze,Эксперт по грифонам Владения Курна: Бронза
+Domain of Kourna Griffon Master: Bronze,Мастер грифонов Владения Курна: Бронза
+Domain of Kourna Portal Scroll,Свиток портала во Владение Курна
+Domain of Vabbi: Commander's Choice Chest,Владение Вабби: Сундук выбора командира
+Domain of Vabbi: Hero's Choice Chest,Владение Вабби: Сундук выбора героя
 Dominator Axe Skin,Облик топора «Доминатор»
 Dominator Dagger Skin,Облик кинжала «Доминатор»
-Dominator Focus Skin,Облик фокусов «Доминатор»
-Dominator Greatsword Skin,Облик большого меча «Доминатор»
-Dominator Hammer Skin,Облик молота доминатора
+Dominator Focus Skin,Облик фокуса «Доминатор»
+Dominator Greatsword Skin,Облик двуручного меча «Доминатор»
+Dominator Hammer Skin,Облик молота «Доминатор»
 Dominator Longbow Skin,Облик длинного лука «Доминатор»
 Dominator Mace Skin,Облик булавы «Доминатор»
 Dominator Pistol Skin,Облик пистолета «Доминатор»
@@ -23,30 +23,30 @@ Dominator Short Bow Skin,Облик короткого лука «Доминат
 Dominator Staff Skin,Облик посоха «Доминатор»
 Dominator Sword Skin,Облик меча «Доминатор»
 Dominator Torch Skin,Облик факела «Доминатор»
-Dominator Warhorn Skin,Облик рога «Доминатор»
-Dominator Weapon Box,Сундук с оружием доминатора
-Dominion Commendation,Похвала Владычества
-Dominion Crafting Box,Ремесленный сундук Владычества
-Dominion Crystal Materials Box,Коробка материалов из кристаллов Доминиона
+Dominator Warhorn Skin,Облик боевого рога «Доминатор»
+Dominator Weapon Box,Сундук с оружием «Доминатор»
+Dominion Commendation,Похвала Доминиона
+Dominion Crafting Box,Ремесленная коробка Доминиона
+Dominion Crystal Materials Box,Коробка кристальных материалов Доминиона
 Dominion Intel Document,Документ разведки Доминиона
 Dominion Material Box,Коробка материалов Доминиона
-Dominion Spoils Box,Коробка трофеев Доминиона
-Dominion Tribune Manica,Трибун Доминиона Маника
-Dominion Tribune Manica Box,Шкатулка Доминион Трибуна Маника
-Dominion Trophy Box,Сундук трофеев Владычества
+Dominion Spoils Box,Коробка добычи Доминиона
+Dominion Tribune Manica,Маника трибуна Доминиона
+Dominion Tribune Manica Box,Коробка с маникой трибуна Доминиона
+Dominion Trophy Box,Коробка трофеев Доминиона
 Don't get booed off the stage.,Не дай себя освистать со сцены.
 Don't really have a need for these anymore.,Они мне больше не нужны.
 Don't try eating it.,Не пытайся это есть.
 "Donate these to Hall Director Soohee outside of Sizhou Hall to help feed the local villagers.
 <c=@Flavor>These fish are only found in the waters of Shinota Shore.</c>
-Renown Item","Отнесите их директору зала Сухи, которая находится возле зала Сичжоу, чтобы помочь накормить местных жителей.
-<c=@Flavor>Эту рыбу можно найти только в водах Шинота-Шор.</c>
-Предмет, дающий очки репутации."
+Renown Item","Отнесите их директору зала Сухи возле зала Сичжоу, чтобы помочь накормить местных жителей.
+<c=@Flavor>Эта рыба водится только в водах берега Шинота.</c>
+Предмет почёта"
 "Donate these to the village stores at Daijun Bay to impress the residents.
 <c=@Flavor>These rare fish are only found in the waters of Daijun Bay.</c>
-Renown Item","Отнесите эти вещи в лавки деревни Дайцзюнь, чтобы произвести впечатление на жителей.
-<c=@Flavor>Этих редких рыб можно найти только в водах бухты Дайцзюнь.</c>
-Предмет для повышения репутации."
+Renown Item","Отнесите их в деревенские лавки бухты Дайцзюнь, чтобы произвести впечатление на жителей.
+<c=@Flavor>Эта редкая рыба водится только в водах бухты Дайцзюнь.</c>
+Предмет почёта"
 Donation Packaging,Упаковка пожертвований
 Donation Receipt,Квитанция о пожертвовании
 Doolsileep's Seashell Charm,Амулет из ракушки Дулсилипа
@@ -63,63 +63,65 @@ Dostoev Hammer,Молот Достоева
 Dostoev Heavy Helm,Тяжёлый шлем Достоева
 Dostoev Leather Helm,Кожаный шлем Достоева
 Dostoev Torch,Факел Достоева
-Double click to receive your returned legendary weapon.,"Дважды щёлкните, чтобы получить возвращенное легендарное оружие."
+Double click to receive your returned legendary weapon.,"Дважды щёлкните, чтобы получить возвращённое легендарное оружие."
 Double click to select an Aurene-themed legendary precursor weapon.,"Дважды щёлкните, чтобы выбрать легендарное оружие-предшественник в тематике Аурены."
-"Double click to summon your skyscale. This will complete the nearest Skyscale Lost collection item on this map. If no such collection item can be found, this item will not be consumed.","Дважды щёлкните, чтобы призвать скайскейл. Это завершит ближайший предмет коллекции «Потерянный скайскейл» на этой карте. Если такой предмет коллекции не найден, этот предмет не будет израсходован."
+"Double click to summon your skyscale. This will complete the nearest Skyscale Lost collection item on this map. If no such collection item can be found, this item will not be consumed.","Дважды щёлкните, чтобы призвать скайскейла. Это завершит ближайший предмет коллекции «Потерянный скайскейл» на этой карте. Если такой предмет коллекции не найден, этот предмет не будет израсходован."
 "Double click to travel to the Memory of Old Lion's Arch or return from it.
-<c=@flavor>Time heals all wounds.</c>","Дважды щёлкните, чтобы переместиться в Память о Старом Львином Утесе или вернуться оттуда.
+<c=@flavor>Time heals all wounds.</c>","Дважды щёлкните, чтобы переместиться в Память о старой Львиной Арке или вернуться оттуда.
 <c=@flavor>Время лечит все раны.</c>"
-"Double-click 4 Mist Core Fragments to create a Perfect Mist Core. Combine with Mystic Clovers, Gift of Condensed Might, and Gift of Condensed Magic in the Mystic Forge to create Gift of Competitive Prosperity.","Дважды щёлкните 4 фрагмента туманной сердцевины, чтобы создать Идеальную туманную сердцевину. Объедините с Мистическими клеверами, Даром сгущенной мощи и Даром сгущенной магии в Мистической кузнице, чтобы создать Дар соревновательного процветания."
-Double-click a stack of 250 to assemble a Twisted Watchwork Shoulder Skin.,"Дважды щёлкните стопку из 250, чтобы собрать плечевой покров «Искривленный часовой механизм»."
-Double-click and choose which Ascended Axe recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесенного топора получить."
-Double-click and choose which Ascended Dagger recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесенного кинжала получить."
-Double-click and choose which Ascended Focus recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесенного фокуса получить."
-Double-click and choose which Ascended Greatsword recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесенного большого меча получить."
-Double-click and choose which Ascended Hammer recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесенного молота получить."
-Double-click and choose which Ascended Harpoon Gun recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесенного гарпунного ружья получить."
-Double-click and choose which Ascended Heavy Boots recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесенных тяжёлых сапог получить."
-Double-click and choose which Ascended Heavy Coat recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесенного тяжёлого мундира получить."
-Double-click and choose which Ascended Heavy Gloves recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесенных тяжёлых перчаток получить."
-Double-click and choose which Ascended Heavy Helm recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесенного тяжёлого шлема получить."
-Double-click and choose which Ascended Heavy Leggings recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесенных тяжёлых поножей получить."
-Double-click and choose which Ascended Heavy Shoulders recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесенных тяжёлых наплечников получить."
-Double-click and choose which Ascended Inscription recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесенной надписи получить."
-Double-click and choose which Ascended Insignia recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесенного знака получить."
-Double-click and choose which Ascended Light Boots recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесенных лёгких сапог получить."
-Double-click and choose which Ascended Light Coat recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесенного лёгкого мундира получить."
-Double-click and choose which Ascended Light Gloves recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесенных лёгких перчаток получить."
-Double-click and choose which Ascended Light Helm recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесенного лёгкого шлема получить."
-Double-click and choose which Ascended Light Leggings recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесенных лёгких поножей получить."
-Double-click and choose which Ascended Light Shoulders recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесенных лёгких наплечников получить."
-Double-click and choose which Ascended Longbow recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесенного длинного лука получить."
-Double-click and choose which Ascended Mace recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесенной булавы получить."
-Double-click and choose which Ascended Medium Boots recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесенных средних сапог получить."
-Double-click and choose which Ascended Medium Coat recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесенной средней куртки получить."
-Double-click and choose which Ascended Medium Gloves recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесенных средних перчаток получить."
-Double-click and choose which Ascended Medium Helm recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесенного среднего шлема получить."
-Double-click and choose which Ascended Medium Leggings recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесенных средних поножей получить."
-Double-click and choose which Ascended Medium Shoulders recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесенных средних наплечников получить."
-Double-click and choose which Ascended Pistol recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесенного пистолета получить."
-Double-click and choose which Ascended Rifle recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесенной винтовки получить."
-Double-click and choose which Ascended Scepter recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесенного скипетра получить."
-Double-click and choose which Ascended Shield recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесенного щита получить."
-Double-click and choose which Ascended Short Bow recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесенного короткого лука получить."
-Double-click and choose which Ascended Spear recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесенного копья получить."
-Double-click and choose which Ascended Staff recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесенного посоха получить."
-Double-click and choose which Ascended Sword recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесенного меча получить."
-Double-click and choose which Ascended Torch recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесенного факела получить."
-Double-click and choose which Ascended Trident recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесенного трезубца получить."
-Double-click and choose which Ascended Warhorn recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесенного боевого рога получить."
-"Double-click during any festival to travel to the festival's location. If you are already at the festival, you will be returned to your homeland.","Дважды щёлкните во время любого фестиваля, чтобы переместиться в место его проведения. Если вы уже на фестивале, вы вернетесь на родину."
-"Double-click during Dragon Bash to travel to Hoelbrak. If you are already in Hoelbrak, you will be returned to your homeland.","Дважды щёлкните во время Праздника дракона, чтобы переместиться в Хоэлбрек. Если вы уже в Хоэлбреке, вы вернетесь на родину."
-"Double-click during Festival of the Four Winds to travel to Labyrinthine Cliffs, the Crown Pavilion, or your homeland, in order based on your current location.","Дважды щёлкните во время Фестиваля четырех ветров, чтобы переместиться в Лабиринтовые утесы, Павильон Короны или на родину, в зависимости от вашего текущего местоположения."
-"Double-click during Halloween to open the doorways between worlds and travel to the Mad King's Labyrinth. If you are already in the Labyrinth, you will be returned safely to Tyria.","Дважды щёлкните во время Хэллоуина, чтобы открыть врата между мирами и переместиться в Лабиринт Безумного короля. Если вы уже в Лабиринте, вы благополучно вернетесь в Тирию."
-"Double-click during Lunar New Year to travel to Divinity's Reach. If you are already in Divinity's Reach, you will be returned to your homeland.","Дважды щёлкните во время Лунного Нового года, чтобы переместиться в Божественный предел. Если вы уже в Божественном пределе, вы вернетесь на родину."
-"Double-click during the Super Adventure Festival to travel directly to the Super Adventure Box. If you are already in the Super Adventure Box, you will be returned to your homeland.","Дважды щёлкните во время Фестиваля суперприключений, чтобы переместиться прямо в Коробку суперприключений. Если вы уже в Коробке суперприключений, вы вернетесь на родину."
-"Double-click during Wintersday to travel to Divinity's Reach. If you are already in Divinity's Reach, you will be returned to your homeland.","Дважды щёлкните во время Зимнего дня, чтобы переместиться в Божественный предел. Если вы уже в Божественном пределе, вы вернетесь на родину."
+"Double-click 4 Mist Core Fragments to create a Perfect Mist Core. Combine with Mystic Clovers, Gift of Condensed Might, and Gift of Condensed Magic in the Mystic Forge to create Gift of Competitive Prosperity.","Дважды щёлкните 4 фрагмента туманного ядра, чтобы создать Идеальное туманное ядро. Объедините с мистическими трилистниками, Даром сгущённой мощи и Даром сгущённой магии в Мистической кузнице, чтобы создать Дар соревновательного процветания."
+Double-click a stack of 250 to assemble a Twisted Watchwork Shoulder Skin.,"Дважды щёлкните стопку из 250, чтобы собрать облик «Искажённые часовые наплечники»."
+Double-click and choose which Ascended Axe recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесённого топора получить."
+Double-click and choose which Ascended Dagger recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесённого кинжала получить."
+Double-click and choose which Ascended Focus recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесённого фокуса получить."
+Double-click and choose which Ascended Greatsword recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесённого двуручного меча получить."
+Double-click and choose which Ascended Hammer recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесённого молота получить."
+Double-click and choose which Ascended Harpoon Gun recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесённого гарпунного ружья получить."
+Double-click and choose which Ascended Heavy Boots recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесённых тяжёлых сапог получить."
+Double-click and choose which Ascended Heavy Coat recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесённой тяжёлой куртки получить."
+Double-click and choose which Ascended Heavy Gloves recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесённых тяжёлых перчаток получить."
+Double-click and choose which Ascended Heavy Helm recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесённого тяжёлого шлема получить."
+Double-click and choose which Ascended Heavy Leggings recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесённых тяжёлых поножей получить."
+Double-click and choose which Ascended Heavy Shoulders recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесённых тяжёлых наплечников получить."
+Double-click and choose which Ascended Inscription recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесённой гравировки получить."
+Double-click and choose which Ascended Insignia recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесённой инсигнии получить."
+Double-click and choose which Ascended Light Boots recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесённых лёгких сапог получить."
+Double-click and choose which Ascended Light Coat recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесённой лёгкой куртки получить."
+Double-click and choose which Ascended Light Gloves recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесённых лёгких перчаток получить."
+Double-click and choose which Ascended Light Helm recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесённого лёгкого шлема получить."
+Double-click and choose which Ascended Light Leggings recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесённых лёгких поножей получить."
+Double-click and choose which Ascended Light Shoulders recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесённых лёгких наплечников получить."
+Double-click and choose which Ascended Longbow recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесённого длинного лука получить."
+Double-click and choose which Ascended Mace recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесённой булавы получить."
+Double-click and choose which Ascended Medium Boots recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесённых средних сапог получить."
+Double-click and choose which Ascended Medium Coat recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесённой средней куртки получить."
+Double-click and choose which Ascended Medium Gloves recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесённых средних перчаток получить."
+Double-click and choose which Ascended Medium Helm recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесённого среднего шлема получить."
+Double-click and choose which Ascended Medium Leggings recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесённых средних поножей получить."
+Double-click and choose which Ascended Medium Shoulders recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесённых средних наплечников получить."
+Double-click and choose which Ascended Pistol recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесённого пистолета получить."
+Double-click and choose which Ascended Rifle recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесённого ружья получить."
+Double-click and choose which Ascended Scepter recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесённого скипетра получить."
+Double-click and choose which Ascended Shield recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесённого щита получить."
+Double-click and choose which Ascended Short Bow recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесённого короткого лука получить."
+Double-click and choose which Ascended Spear recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесённого копья получить."
+Double-click and choose which Ascended Staff recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесённого посоха получить."
+Double-click and choose which Ascended Sword recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесённого меча получить."
+Double-click and choose which Ascended Torch recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесённого факела получить."
+Double-click and choose which Ascended Trident recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесённого трезубца получить."
+Double-click and choose which Ascended Warhorn recipe to receive.,"Дважды щёлкните и выберите, какой рецепт Вознесённого боевого рога получить."
+"Double-click during any festival to travel to the festival's location. If you are already at the festival, you will be returned to your homeland.","Дважды щёлкните во время любого фестиваля, чтобы переместиться в место его проведения. Если вы уже на фестивале, вы вернётесь на родину."
+"Double-click during Dragon Bash to travel to Hoelbrak. If you are already in Hoelbrak, you will be returned to your homeland.","Дважды щёлкните во время Dragon Bash, чтобы переместиться в Хоэлбрак. Если вы уже в Хоэлбраке, вы вернётесь на родину."
+"Double-click during Festival of the Four Winds to travel to Labyrinthine Cliffs, the Crown Pavilion, or your homeland, in order based on your current location.","Дважды щёлкните во время Фестиваля четырёх ветров, чтобы переместиться в Лабиринтовые утёсы, Павильон Короны или на родину — по порядку, в зависимости от вашего текущего местоположения."
+"Double-click during Halloween to open the doorways between worlds and travel to the Mad King's Labyrinth. If you are already in the Labyrinth, you will be returned safely to Tyria.","Дважды щёлкните во время Хэллоуина, чтобы открыть врата между мирами и переместиться в Лабиринт Безумного короля. Если вы уже в Лабиринте, вы благополучно вернётесь в Тирию."
+"Double-click during Lunar New Year to travel to Divinity's Reach. If you are already in Divinity's Reach, you will be returned to your homeland.","Дважды щёлкните во время Лунного Нового года, чтобы переместиться в Божественный предел. Если вы уже в Божественном пределе, вы вернётесь на родину."
+"Double-click during the Super Adventure Festival to travel directly to the Super Adventure Box. If you are already in the Super Adventure Box, you will be returned to your homeland.","Дважды щёлкните во время Фестиваля суперприключений, чтобы переместиться прямо в Коробку суперприключений. Если вы уже в Коробке суперприключений, вы вернётесь на родину."
+"Double-click during Wintersday to travel to Divinity's Reach. If you are already in Divinity's Reach, you will be returned to your homeland.","Дважды щёлкните во время Зимнего дня, чтобы переместиться в Божественный предел. Если вы уже в Божественном пределе, вы вернётесь на родину."
 "Double-click for more information. 
 
-<c=@flavor>For advanced players.</c>",
+<c=@flavor>For advanced players.</c>","Дважды щёлкните для подробностей. 
+
+<c=@flavor>Для опытных игроков.</c>"
 Double-click or trade in at the Guild Decoration Trader to earn a decoration.,"Дважды щёлкните или обменяйте у торговца гильдейскими украшениями, чтобы получить украшение."
 Double-click or trade in at the guild decoration trader to earn a decoration.,"Дважды щёлкните или обменяйте у торговца гильдейскими украшениями, чтобы получить украшение."
 Double-click this item to open it and receive one of the Frostbitten gathering tools.,"Дважды щёлкните этот предмет, чтобы открыть его и получить один из инструментов сбора «Обмороженный»."
@@ -134,94 +136,94 @@ Double-click to access your account bank from anywhere. Single use.,"Дважд�
 Double-click to acquire 25 bait in bulk.,"Дважды щёлкните, чтобы получить 25 наживок оптом."
 "Double-click to acquire a random amount of bait worms.
 
-<c=@flavor>""Careful opening that. It can be a real, well, you know...""</c>","Дважды щёлкните, чтобы получить случайное количество наживки для червей.
+<c=@flavor>""Careful opening that. It can be a real, well, you know...""</c>","Дважды щёлкните, чтобы получить случайное количество червей-наживки.
 
-<c=@flavor>""Будьте осторожны при открытии. Внутри может быть что-то... ну, вы понимаете.""</c>"
+<c=@flavor>«Осторожнее открывайте. Внутри может быть что-то... ну, вы понимаете».</c>"
 "Double-click to acquire a random assortment of bait.
 
-<c=@flavor>""Guaranteed to give you something creepy, something crawly, or both!""</c>","Дважды щёлкните, чтобы получить случайный набор приманок.
+<c=@flavor>""Guaranteed to give you something creepy, something crawly, or both!""</c>","Дважды щёлкните, чтобы получить случайный набор наживки.
 
-<c=@flavor>""Гарантированно содержит что-нибудь жуткое, что-нибудь ползающее или и то, и другое!""</c>"
-Double-click to acquire a set of ascended armor.,"Дважды щёлкните, чтобы получить комплект вознесенной брони."
-Double-click to acquire an account-bound demonic infusion.,"Дважды щёлкните, чтобы получить привязанную к учётной записи демоническую инкрустацию."
+<c=@flavor>«Гарантированно получите что-нибудь жуткое, что-нибудь ползучее или и то и другое!»</c>"
+Double-click to acquire a set of ascended armor.,"Дважды щёлкните, чтобы получить комплект вознесённой брони."
+Double-click to acquire an account-bound demonic infusion.,"Дважды щёлкните, чтобы получить привязанную к учётной записи демоническую инфузию."
 Double-click to acquire an item that unlocks a unique chair.,"Дважды щёлкните, чтобы получить предмет, открывающий уникальный стул."
 "Double-click to acquire the account-bound forms of Ancora.
 
-<c=@flavor>With this relic and through our rites, you shall become eternal—an anchor for the people in times of war and peace.</c>","Дважды щёлкните, чтобы получить привязанные к учётной записи версии «Алькоры».
+<c=@flavor>With this relic and through our rites, you shall become eternal—an anchor for the people in times of war and peace.</c>","Дважды щёлкните, чтобы получить привязанные к учётной записи формы «Анкоры».
 
-<c=@flavor>С помощью этого реликта и наших ритуалов вы станете бессмертными — оплотом для народа во времена войны и мира.</c>"
-Double-click to acquire the account-bound legendary aquabreather Selachimorpha in all weights.,"Дважды щёлкните, чтобы получить легендарный акваланговый артефакт «Селахиморфа», привязанный к учётной записи, во всех вариантах расцветки."
+<c=@flavor>С этой реликвией и через наши обряды вы станете вечным — якорем для народа во времена войны и мира.</c>"
+Double-click to acquire the account-bound legendary aquabreather Selachimorpha in all weights.,"Дважды щёлкните, чтобы получить привязанный к учётной записи легендарная дыхательная маска «Селахиморфа» во всех весовых классах."
 Double-click to activate a one-time firework. Best effects when representing a guild. Cannot be used in WvW.,"Дважды щёлкните, чтобы активировать одноразовый фейерверк. Наилучший эффект при представлении гильдии. Нельзя использовать в WvW."
 Double-click to activate a one-time firework. Best effects when representing a guild. Cannot be used in WvW. Grants a small bonus to experience from all sources when activated.,"Дважды щёлкните, чтобы активировать одноразовый фейерверк. Наилучший эффект при представлении гильдии. Нельзя использовать в WvW. При активации даёт небольшой бонус к опыту из всех источников."
 Double-click to activate a one-time firework. Cannot be used in WvW.,"Дважды щёлкните, чтобы активировать одноразовый фейерверк. Нельзя использовать в WvW."
 Double-click to activate a one-time firework. Cannot be used in WvW. Grants a small bonus to experience from all sources when activated.,"Дважды щёлкните, чтобы активировать одноразовый фейерверк. Нельзя использовать в WvW. Даёт небольшой бонус к опыту из всех источников при активации."
 "Double-click to activate a Scan special-action skill and a blue map circle to help find Buried Treasure. Consumed upon interacting with Buried Treasure.
-<c=@Flavor>Elonians and Tyrians both seek historic artifacts.</c>","Дважды щёлкните, чтобы активировать специальное умение Сканирование и синий круг на карте, помогающий найти Зарытое сокровище. Расходуется при взаимодействии с Зарытым сокровищем.
-<c=@Flavor>Элонианцы и Тирийцы ищут исторические артефакты.</c>"
+<c=@Flavor>Elonians and Tyrians both seek historic artifacts.</c>","Дважды щёлкните, чтобы активировать особое умение «Сканирование» и синий круг на карте, помогающий найти Зарытое сокровище. Расходуется при взаимодействии с Зарытым сокровищем.
+<c=@Flavor>Исторические артефакты ищут и элонцы, и тирийцы.</c>"
 "Double-click to activate a single-use firework.
 Cannot be used in WvW.
-Grants 2 stacks of a small bonus to experience from all sources when activated.","Дважды щёлкните, чтобы активировать фейерверк одноразового использования.
-Нельзя использовать в PvP-режиме «Захват территорий».
-При активации даёт 2 стака небольшого бонуса к опыту, получаемому из всех источников."
+Grants 2 stacks of a small bonus to experience from all sources when activated.","Дважды щёлкните, чтобы активировать одноразовый фейерверк.
+Нельзя использовать в WvW.
+При активации даёт 2 заряда небольшого бонуса к опыту из всех источников."
 "Double-click to activate the relic. It can offer wishes in exchange for Eyes of Kormir, and it can also return you to Spearmarshal's Lament.","Дважды щёлкните, чтобы активировать реликвию. Она может предлагать желания в обмен на Глаза Кормир, а также может вернуть вас в Скорбь Копьемаршала."
 Double-click to activate your effigy fragment.,"Дважды щёлкните, чтобы активировать фрагмент вашего чучела."
 Double-click to activate.,"Дважды щёлкните, чтобы активировать."
-Double-click to add 1 calcified gasp to your wallet.,"Дважды щёлкните, чтобы добавить 1 кальцинированный вздох в кошелек."
-Double-click to add 1 research note to your wallet.,"Дважды щёлкните, чтобы добавить 1 исследовательскую заметку в ваш кошелек."
-Double-click to add 100 calcified gasps to your wallet.,"Дважды щёлкните, чтобы добавить 100 окаменелых вздохов в ваш кошелек."
+Double-click to add 1 calcified gasp to your wallet.,"Дважды щёлкните, чтобы добавить 1 окаменелый вздох в ваш кошелёк."
+Double-click to add 1 research note to your wallet.,"Дважды щёлкните, чтобы добавить 1 исследовательскую заметку в ваш кошелёк."
+Double-click to add 100 calcified gasps to your wallet.,"Дважды щёлкните, чтобы добавить 100 окаменелых вздохов в ваш кошелёк."
 Double-click to add 100 research notes to your wallet.,"Дважды щёлкните, чтобы добавить 100 исследовательских заметок в ваш кошелёк."
-Double-click to add 25 research notes to your wallet.,"Дважды щёлкните, чтобы добавить 25 заметок об исследовании в кошелек."
+Double-click to add 25 research notes to your wallet.,"Дважды щёлкните, чтобы добавить 25 исследовательских заметок в ваш кошелёк."
 "Double-click to add 3 spaces to this account's Build Storage.
 
 Build Storage is the library where already existing builds may be saved, referenced, and copied by all characters on the account.","Дважды щёлкните, чтобы добавить 3 места в Хранилище шаблонов этой учётной записи.
 
 Хранилище шаблонов — это библиотека, где уже существующие сборки могут быть сохранены, просмотрены и скопированы всеми персонажами учётной записи."
-Double-click to add 5 calcified gasps to your wallet.,"Дважды щёлкните, чтобы добавить 5 кальцинированных вздохов в кошелек."
-Double-click to add 5 Pinches of Stardust to your wallet.,"Дважды щёлкните, чтобы добавить 5 щепоток звёздной пыли в кошелек."
+Double-click to add 5 calcified gasps to your wallet.,"Дважды щёлкните, чтобы добавить 5 окаменелых вздохов в ваш кошелёк."
+Double-click to add 5 Pinches of Stardust to your wallet.,"Дважды щёлкните, чтобы добавить 5 щепоток звёздной пыли в кошелёк."
 Double-click to add 5 research notes to your wallet.,"Дважды щёлкните, чтобы добавить 5 исследовательских заметок в ваш кошелёк."
-Double-click to add 5 Static Charges to your wallet.,"Дважды щёлкните, чтобы добавить 5 статических зарядов в кошелек."
-Double-click to add 500 research notes to your wallet.,"Дважды щёлкните, чтобы добавить 500 исследовательских заметок в ваш кошелек."
-Double-click to add a Bandit Skeleton Key to your wallet.,"Дважды щёлкните, чтобы добавить «Скелетный ключ бандита» в ваш кошелек."
-Double-click to add a Festival Token to your wallet.,"Дважды щёлкните, чтобы добавить Фестивальный жетон в кошелек."
-Double-click to add a Machete to your wallet.,"Дважды щёлкните, чтобы добавить мачете в кошелек."
-Double-click to add a Pact Crowbar to your wallet.,"Дважды щёлкните, чтобы добавить ломик Пакта в свой кошелек."
-Double-click to add a Pinch of Stardust to your wallet.,"Дважды щёлкните, чтобы добавить щепотку звёздной пыли в кошелек."
+Double-click to add 5 Static Charges to your wallet.,"Дважды щёлкните, чтобы добавить 5 статических зарядов в кошелёк."
+Double-click to add 500 research notes to your wallet.,"Дважды щёлкните, чтобы добавить 500 исследовательских заметок в ваш кошелёк."
+Double-click to add a Bandit Skeleton Key to your wallet.,"Дважды щёлкните, чтобы добавить отмычку бандита в ваш кошелёк."
+Double-click to add a Festival Token to your wallet.,"Дважды щёлкните, чтобы добавить Фестивальный жетон в кошелёк."
+Double-click to add a Machete to your wallet.,"Дважды щёлкните, чтобы добавить мачете в кошелёк."
+Double-click to add a Pact Crowbar to your wallet.,"Дважды щёлкните, чтобы добавить ломик Пакта в ваш кошелёк."
+Double-click to add a Pinch of Stardust to your wallet.,"Дважды щёлкните, чтобы добавить щепотку звёздной пыли в кошелёк."
 Double-click to add a shared inventory slot to every character on this account.,"Дважды щёлкните, чтобы добавить слот общего инвентаря каждому персонажу этой учётной записи."
-Double-click to add a Static Charge to your wallet.,"Дважды щёлкните, чтобы добавить статический заряд в кошелек."
-Double-click to add a Trader's Key to your wallet.,"«Дважды щёлкните, чтобы добавить ключ торговца в ваш кошелёк»."
+Double-click to add a Static Charge to your wallet.,"Дважды щёлкните, чтобы добавить статический заряд в кошелёк."
+Double-click to add a Trader's Key to your wallet.,"Дважды щёлкните, чтобы добавить ключ торговца в ваш кошелёк."
 Double-click to add a Vial of Chak Acid to your wallet.,"Дважды щёлкните, чтобы добавить фиал с кислотой чаков в ваш кошелёк."
 Double-click to add a Zephyrite Lockpick to your wallet.,"Дважды щёлкните, чтобы добавить отмычку зефирита в кошелёк."
-Double-click to add an Ancient Coin to your wallet.,"Дважды щёлкните, чтобы добавить Древнюю монету в кошелек."
-Double-click to add an Exalted Key to your wallet.,"Дважды щёлкните, чтобы добавить возвышенный ключ в ваш кошелек."
+Double-click to add an Ancient Coin to your wallet.,"Дважды щёлкните, чтобы добавить Древнюю монету в кошелёк."
+Double-click to add an Exalted Key to your wallet.,"Дважды щёлкните, чтобы добавить ключ Возвышенных в ваш кошелёк."
 "Double-click to add an extra bank tab to your account.
 Each account can have up to 19 total bank tabs.","Дважды щёлкните, чтобы добавить дополнительную вкладку банка на вашу учётную запись.
 Каждая учётная запись может иметь до 19 вкладок банка в общей сложности."
 "Double-click to add an extra Fashion Template tab to this account. Each account can unlock up to 7 additional Fashion Template tabs.
 
-Fashion Template tabs allow accounts to swap and store an additional set of cosmetics for all your characters.","Дважды щёлкните, чтобы добавить дополнительную вкладку шаблонов образа на этот аккаунт.
+Fashion Template tabs allow accounts to swap and store an additional set of cosmetics for all your characters.","Дважды щёлкните, чтобы добавить дополнительную вкладку шаблонов образа на эту учётную запись. Каждая учётная запись может открыть до 7 дополнительных вкладок шаблонов образа.
 
-Каждый аккаунт может открыть до 7 дополнительных вкладок шаблонов образа."
+Вкладки шаблонов образа позволяют менять и хранить дополнительный набор косметики для всех ваших персонажей."
 Double-click to add this place of power to your home instance.,"Дважды щёлкните, чтобы добавить это место силы в ваш домашний инстанс."
 Double-click to add to wardrobe.,"Дважды щёлкните, чтобы добавить в гардероб."
 "Double-click to add to wardrobe. (This item is account bound and cannot be sold.)
 
-<c=@flavor>""The price to no longer be on a wild-goose chase for this chair will shock you.""</c>","Двойной щелчок — добавить в гардероб. (Этот предмет привязан к учётной записи и не может быть продан.)
+<c=@flavor>""The price to no longer be on a wild-goose chase for this chair will shock you.""</c>","Дважды щёлкните, чтобы добавить в гардероб. (Этот предмет привязан к учётной записи и не может быть продан.)
 
 <c=@flavor>«Цена, чтобы больше не гоняться за этим стулом, вас поразит».</c>"
-Double-click to advance a character to level 20. Can only be used by characters under level 20.,"Дважды щёлкните, чтобы повысить уровень персонажа до 20. Можно использовать только персонажам ниже 20 уровня."
-Double-click to advance a character to level 30. Can only be used by characters under level 30.,"Дважды щёлкните, чтобы повысить уровень персонажа до 30. Можно использовать только персонажам ниже 30 уровня."
-Double-click to advance a character to level 40. Can only be used by characters under level 40.,"Дважды щёлкните, чтобы повысить персонажа до 40 уровня. Можно использовать только персонажам ниже 40 уровня."
-Double-click to advance a character to level 50. Can only be used by characters under level 50.,"Дважды щёлкните, чтобы повысить персонажа до 50-го уровня. Можно использовать только персонажам ниже 50-го уровня."
-Double-click to advance a character to level 60. Can only be used by characters under level 60.,"Дважды щёлкните, чтобы повысить персонажа до 60-го уровня. Можно использовать только персонажами ниже 60-го уровня."
+Double-click to advance a character to level 20. Can only be used by characters under level 20.,"Дважды щёлкните, чтобы повысить персонажа до 20-го уровня. Могут использовать только персонажи ниже 20-го уровня."
+Double-click to advance a character to level 30. Can only be used by characters under level 30.,"Дважды щёлкните, чтобы повысить персонажа до 30-го уровня. Могут использовать только персонажи ниже 30-го уровня."
+Double-click to advance a character to level 40. Can only be used by characters under level 40.,"Дважды щёлкните, чтобы повысить персонажа до 40-го уровня. Могут использовать только персонажи ниже 40-го уровня."
+Double-click to advance a character to level 50. Can only be used by characters under level 50.,"Дважды щёлкните, чтобы повысить персонажа до 50-го уровня. Могут использовать только персонажи ниже 50-го уровня."
+Double-click to advance a character to level 60. Can only be used by characters under level 60.,"Дважды щёлкните, чтобы повысить персонажа до 60-го уровня. Могут использовать только персонажи ниже 60-го уровня."
 "Double-click to apply this appearance to any other chest armor.
-<c=@flavor>Its baleful flames glow brighter as the hour of Adelbern's curse draws near.</c>","Дважды щёлкните, чтобы применить этот облик к любой другой броне для ног.
-<c=@flavor>Его зловещие языки пламени светятся ярче, когда приближается час проклятия Адельберна.</c>"
+<c=@flavor>Its baleful flames glow brighter as the hour of Adelbern's curse draws near.</c>","Дважды щёлкните, чтобы применить этот облик к любой другой нагрудной броне.
+<c=@flavor>Его зловещие языки пламени разгораются ярче с приближением часа проклятия Адельберна.</c>"
 "Double-click to apply this appearance to any other helms.
-<c=@flavor>Its baleful flames glow brighter as the hour of Adelbern's curse draws near.</c>","Дважды щёлкните, чтобы применить этот облик к любому другому шлему.
-<c=@flavor>Его зловещие языки пламени светятся ярче, когда приближается час проклятия Адельберна.</c>"
+<c=@flavor>Its baleful flames glow brighter as the hour of Adelbern's curse draws near.</c>","Дважды щёлкните, чтобы применить этот облик к любым другим шлемам.
+<c=@flavor>Его зловещие языки пламени разгораются ярче с приближением часа проклятия Адельберна.</c>"
 "Double-click to apply this appearance to any other leg armor.
-<c=@flavor>Its baleful flames glow brighter as the hour of Adelbern's curse draws near.</c>","Дважды щёлкните, чтобы применить внешний вид к любой другой ноговой броне.
-<c=@flavor>Его зловещие пламена светятся ярче с приближением часа проклятия Адельберна.</c>"
+<c=@flavor>Its baleful flames glow brighter as the hour of Adelbern's curse draws near.</c>","Дважды щёлкните, чтобы применить этот облик к любой другой броне для ног.
+<c=@flavor>Его зловещие языки пламени разгораются ярче с приближением часа проклятия Адельберна.</c>"
 Double-click to apply this appearance to your current back item. This will unlock the skin in your wardrobe.,"Дважды щёлкните, чтобы применить этот облик к вашему текущему предмету для спины. Это откроет облик в вашем гардеробе."
 Double-click to apply this appearance to your current boots. This will unlock the skin in your wardrobe.,"Дважды щёлкните, чтобы применить этот облик к вашим текущим ботинкам. Это откроет облик в вашем гардеробе."
 Double-click to apply this appearance to your current chest armor. This will unlock the skin in your wardrobe.,"Дважды щёлкните, чтобы применить этот облик к вашей текущей нагрудной броне. Это откроет облик в вашем гардеробе."
@@ -231,41 +233,41 @@ Double-click to apply this appearance to your current leg armor. This will unloc
 Double-click to apply this appearance to your current leggings. This will unlock the skin in your wardrobe.,"Дважды щёлкните, чтобы применить этот облик к вашим текущим поножам. Это откроет облик в вашем гардеробе."
 Double-click to apply this appearance to your current shoulder armor. This will unlock the skin in your wardrobe.,"Дважды щёлкните, чтобы применить этот облик к вашей текущей наплечной броне. Это откроет облик в вашем гардеробе."
 Double-click to apply this look to another piece of heavy aquatic headgear.,"Дважды щёлкните, чтобы применить этот облик к другому предмету тяжёлого подводного головного убора."
-Double-click to apply this look to another piece of heavy shoulder armor.,"Дважды щёлкните, чтобы применить этот вид к другому элементу тяжёлой наплечной брони."
-Double-click to apply this look to another piece of light aquatic headgear.,"Дважды щёлкните, чтобы применить этот вид к другому лёгкому водному головному убору."
-Double-click to apply this look to another piece of light shoulder armor.,"Дважды щёлкните, чтобы применить этот вид к другому предмету лёгких наплечников."
+Double-click to apply this look to another piece of heavy shoulder armor.,"Дважды щёлкните, чтобы применить этот облик к другому элементу тяжёлой наплечной брони."
+Double-click to apply this look to another piece of light aquatic headgear.,"Дважды щёлкните, чтобы применить этот облик к другому лёгкому водному головному убору."
+Double-click to apply this look to another piece of light shoulder armor.,"Дважды щёлкните, чтобы применить этот облик к другому предмету лёгких наплечников."
 Double-click to apply this look to another piece of medium aquatic headgear.,"Дважды щёлкните, чтобы применить этот облик к другому среднему водному головному убору."
-Double-click to apply this look to another piece of medium shoulder armor.,"Дважды щёлкните, чтобы применить этот вид к другому элементу среднего наплечного бронирования."
-Double-click to apply this look to another piece of shoulder armor.,"Дважды щёлкните, чтобы применить этот вид к другому наплечнику."
-Double-click to apply this look to any back-slot item. Unlocks a matching guild cape.,"Дважды щёлкните, чтобы применить этот вид к любому предмету в слоте спины. Открывает соответствующий гильдейский плащ."
-Double-click to apply this look to any boots.,"Дважды щёлкните, чтобы применить этот вид к любой обуви."
-Double-click to apply this look to any chest armor.,"Дважды щёлкните, чтобы применить этот вид к любой броне груди."
-Double-click to apply this look to any gloves.,"Дважды щёлкните, чтобы применить этот вид к любым перчаткам."
-Double-click to apply this look to any headgear.,"Дважды щёлкните, чтобы применить этот вид к любому головному убору."
-Double-click to apply this look to any helmet.,"Дважды щёлкните, чтобы применить этот вид к любому шлему."
-Double-click to apply this look to any leg armor.,"Дважды щёлкните, чтобы применить этот вид к любой броне ног."
-Double-click to apply this look to any leggings.,"Дважды щёлкните, чтобы применить этот вид к любым поножам."
-Double-click to apply this look to any other axe.,"Дважды щёлкните, чтобы применить этот вид к любому другому топору."
+Double-click to apply this look to another piece of medium shoulder armor.,"Дважды щёлкните, чтобы применить этот облик к другому элементу среднего наплечного бронирования."
+Double-click to apply this look to another piece of shoulder armor.,"Дважды щёлкните, чтобы применить этот облик к другому наплечнику."
+Double-click to apply this look to any back-slot item. Unlocks a matching guild cape.,"Дважды щёлкните, чтобы применить этот облик к любому предмету в слоте спины. Открывает соответствующий гильдейский плащ."
+Double-click to apply this look to any boots.,"Дважды щёлкните, чтобы применить этот облик к любой обуви."
+Double-click to apply this look to any chest armor.,"Дважды щёлкните, чтобы применить этот облик к любой броне груди."
+Double-click to apply this look to any gloves.,"Дважды щёлкните, чтобы применить этот облик к любым перчаткам."
+Double-click to apply this look to any headgear.,"Дважды щёлкните, чтобы применить этот облик к любому головному убору."
+Double-click to apply this look to any helmet.,"Дважды щёлкните, чтобы применить этот облик к любому шлему."
+Double-click to apply this look to any leg armor.,"Дважды щёлкните, чтобы применить этот облик к любой броне ног."
+Double-click to apply this look to any leggings.,"Дважды щёлкните, чтобы применить этот облик к любым поножам."
+Double-click to apply this look to any other axe.,"Дважды щёлкните, чтобы применить этот облик к любому другому топору."
 "Double-click to apply this look to any other axe.
 This will also unlock this skin for your wardrobe.
-<c=@flavor>Threatening yet elegant, this Canthan axe was the weapon of choice for Kurzick warriors.</c>","Дважды щёлкните, чтобы применить этот вид к любому другому топору.
+<c=@flavor>Threatening yet elegant, this Canthan axe was the weapon of choice for Kurzick warriors.</c>","Дважды щёлкните, чтобы применить этот облик к любому другому топору.
 Это также откроет этот облик в вашем гардеробе.
-<c=@flavor>Угрожающий, но элегантный, этот кантанский топор был оружием выбора воинов курциков.</c>"
+<c=@flavor>Угрожающий, но элегантный, этот кантанский топор был оружием выбора воинов курзиков.</c>"
 Double-click to apply this look to any other axe. Additional copies of this item are available from the achievements panel.,"Дважды щёлкните, чтобы применить этот облик к любому другому топору. Дополнительные копии этого предмета доступны на панели достижений."
 "Double-click to apply this look to any other axe. This will also unlock this skin for your wardrobe.
-<c=@flavor>Legend says that only the most dedicated smith could withstand the elements for the decade it took to craft this axe and its rival.</c>","Дважды щёлкните, чтобы применить этот вид к любому другому топору. Это также откроет этот облик в вашем гардеробе.
+<c=@flavor>Legend says that only the most dedicated smith could withstand the elements for the decade it took to craft this axe and its rival.</c>","Дважды щёлкните, чтобы применить этот облик к любому другому топору. Это также откроет этот облик в вашем гардеробе.
 <c=@flavor>Легенда гласит, что только самый преданный кузнец мог выдержать стихию в течение десятилетия, которое потребовалось для создания этого топора и его соперника.</c>"
 "Double-click to apply this look to any other axe. This will also unlock this skin for your wardrobe.
-<c=@flavor>Long ago, heroes would bring proof of their exploits to the Battle Isles in hopes of claiming one of these weapons.</c>","Дважды щёлкните, чтобы применить этот вид к любому другому топору. Это также откроет этот облик в вашем гардеробе.
+<c=@flavor>Long ago, heroes would bring proof of their exploits to the Battle Isles in hopes of claiming one of these weapons.</c>","Дважды щёлкните, чтобы применить этот облик к любому другому топору. Это также откроет этот облик в вашем гардеробе.
 <c=@flavor>Давным-давно герои приносили доказательства своих подвигов на Боевые острова в надежде заполучить одно из этого оружия.</c>"
-Double-click to apply this look to any other axe. Unlocks the ability to purchase the Restored Boreal Axe Recipe.,"Дважды щёлкните, чтобы применить этот вид к любому другому топору. Открывает возможность купить рецепт Восстановленного бореального топора."
+Double-click to apply this look to any other axe. Unlocks the ability to purchase the Restored Boreal Axe Recipe.,"Дважды щёлкните, чтобы применить этот облик к любому другому топору. Открывает возможность купить рецепт восстановленного бореального топора."
 Double-click to apply this look to any other back-slot item.,"Дважды щёлкните, чтобы применить этот облик к любому другому предмету для спины."
 Double-click to apply this look to any other backpack.,"Дважды щёлкните, чтобы применить этот облик к любому другому рюкзаку."
-Double-click to apply this look to any other backpack. Additional copies of this item are available from the Achievements tab.,"Дважды щёлкните, чтобы применить этот вид к любому другому тяжёлому головному убору. Дополнительные копии этого предмета доступны на панели достижений."
+Double-click to apply this look to any other backpack. Additional copies of this item are available from the Achievements tab.,"Дважды щёлкните, чтобы применить этот облик к любому другому рюкзаку. Дополнительные копии этого предмета доступны на панели достижений."
 Double-click to apply this look to any other boots.,"Дважды щёлкните, чтобы применить этот облик к любой другой обуви."
 "Double-click to apply this look to any other boots.
-<c=@flavor>Its baleful flames glow brighter as the hour of Adelbern's curse draws near.</c>","Дважды щёлкните, чтобы применить этот облик к любой другой обуви.
-<c=@flavor>Его зловещее пламя разгорается ярче по мере приближения часа проклятия Адельберна.</c>"
+<c=@flavor>Its baleful flames glow brighter as the hour of Adelbern's curse draws near.</c>","Дважды щёлкните, чтобы применить этот облик к любым другим сапогам.
+<c=@flavor>Его зловещие языки пламени разгораются ярче с приближением часа проклятия Адельберна.</c>"
 Double-click to apply this look to any other chest armor. Additional copies of this item are available from the achievements panel.,"Дважды щёлкните, чтобы применить этот облик к любой другой броне для груди. Дополнительные копии этого предмета доступны на панели достижений."
 Double-click to apply this look to any other dagger.,"Дважды щёлкните, чтобы применить этот облик к любому другому кинжалу."
 "Double-click to apply this look to any other dagger.
@@ -277,7 +279,7 @@ This will also unlock this skin for your wardrobe.
 Это также откроет этот облик в вашем гардеробе.
 <c=@flavor>Говорят, это было одно из самых желанных оружий в лесу Эховальд.</c>"
 Double-click to apply this look to any other dagger. Additional copies of this item are available from the achievements panel.,"Дважды щёлкните, чтобы применить этот облик к любому другому кинжалу. Дополнительные копии этого предмета доступны на панели достижений."
-Double-click to apply this look to any other dagger. Unlocks the ability to purchase the Restored Boreal Dagger Recipe.,"Дважды щёлкните, чтобы применить этот облик к любому другому кинжалу. Открывает возможность приобрести рецепт восстановленного борейского кинжала."
+Double-click to apply this look to any other dagger. Unlocks the ability to purchase the Restored Boreal Dagger Recipe.,"Дважды щёлкните, чтобы применить этот облик к любому другому кинжалу. Открывает возможность купить рецепт восстановленного бореального кинжала."
 Double-click to apply this look to any other focus.,"Дважды щёлкните, чтобы применить этот облик к любому другому фокусу."
 Double-click to apply this look to any other focus. Additional copies of this item are available from the achievements panel.,"Дважды щёлкните, чтобы применить этот облик к любому другому фокусу. Дополнительные копии этого предмета доступны на панели достижений."
 "Double-click to apply this look to any other focus. This skin will be unlocked in your wardrobe for future use.
@@ -289,33 +291,33 @@ Double-click to apply this look to any other focus. Additional copies of this it
 
 <c=@flavor>This artifact was recovered from deep within the Zaishen vaults in the Battle Isles.</c>","Дважды щёлкните, чтобы применить этот облик к любому другому фокусу. Этот облик будет открыт в вашем гардеробе для дальнейшего использования.
 
-<c=@flavor>Этот артефакт был извлечен из глубин хранилищ Зайшена на Боевых островах.</c>"
-Double-click to apply this look to any other focus. This will also unlock this skin for your wardrobe.,"Дважды щёлкните, чтобы применить этот вид к любому другому скипетру. Это также разблокирует облик в вашем гардеробе."
-Double-click to apply this look to any other focus. Unlocks the ability to purchase the Restored Boreal Focus Recipe.,"Дважды щёлкните, чтобы применить этот облик к другому фокусу. Открывает возможность приобрести рецепт восстановленного бореального фокуса."
+<c=@flavor>Этот артефакт был извлечён из глубин хранилищ Зайшена на Боевых островах.</c>"
+Double-click to apply this look to any other focus. This will also unlock this skin for your wardrobe.,"Дважды щёлкните, чтобы применить этот облик к любому другому фокусу. Это также откроет этот облик в вашем гардеробе."
+Double-click to apply this look to any other focus. Unlocks the ability to purchase the Restored Boreal Focus Recipe.,"Дважды щёлкните, чтобы применить этот облик к любому другому фокусу. Открывает возможность купить рецепт восстановленного бореального фокуса."
 Double-click to apply this look to any other footwear. Additional copies of this item are available from the achievements panel.,"Дважды щёлкните, чтобы применить этот облик к любой другой обуви. Дополнительные копии этого предмета доступны на панели достижений."
 Double-click to apply this look to any other gloves.,"Дважды щёлкните, чтобы применить этот облик к другим перчаткам."
 "Double-click to apply this look to any other gloves.
 
-<c=@flavor>The corruption of the ice dragon is strong, but you are stronger.</c>","Дважды щёлкните, чтобы применить этот внешний вид к любым другим перчаткам.
+<c=@flavor>The corruption of the ice dragon is strong, but you are stronger.</c>","Дважды щёлкните, чтобы применить этот облик к любым другим перчаткам.
 
 <c=@flavor>Осквернение ледяного дракона сильное, но вы сильнее.</c>"
 "Double-click to apply this look to any other gloves.
-<c=@flavor>Its baleful flames glow brighter as the hour of Adelbern's curse draws near.</c>","Дважды щёлкните, чтобы применить этот облик к другим перчаткам.
-<c=@flavor>Его зловещее пламя разгорается ярче по мере приближения часа проклятия Адельберна.</c>"
+<c=@flavor>Its baleful flames glow brighter as the hour of Adelbern's curse draws near.</c>","Дважды щёлкните, чтобы применить этот облик к любым другим перчаткам.
+<c=@flavor>Его зловещие языки пламени разгораются ярче с приближением часа проклятия Адельберна.</c>"
 Double-click to apply this look to any other gloves. Additional copies of this item are available from the achievements panel.,"Дважды щёлкните, чтобы применить этот облик к любым другим перчаткам. Дополнительные копии предмета доступны в панели достижений."
-Double-click to apply this look to any other greatsword.,"Дважды щёлкните, чтобы применить этот облик к другому большому мечу."
-Double-click to apply this look to any other greatsword. Additional copies of this item are available from the achievements panel.,"Дважды щёлкните, чтобы применить этот облик к другому большому мечу. Дополнительные копии этого предмета доступны на панели достижений."
-Double-click to apply this look to any other greatsword. This skin will be unlocked in your wardrobe for future use.,"Дважды щёлкните, чтобы применить этот облик к другому большому мечу. Этот облик будет открыт в вашем гардеробе для дальнейшего использования."
-Double-click to apply this look to any other greatsword. Unlocks the ability to purchase the Restored Boreal Greatsword Recipe.,"Дважды щёлкните, чтобы применить этот облик к другому большому мечу. Открывает возможность приобрести рецепт восстановленного бореального большого меча."
-Double-click to apply this look to any other greatsword. Will also unlock this skin for your wardrobe.,"Двойной щелчок, чтобы применить этот облик к любому другому двуручному мечу. Также разблокирует этот облик для вашего гардероба."
+Double-click to apply this look to any other greatsword.,"Дважды щёлкните, чтобы применить этот облик к любому другому двуручному мечу."
+Double-click to apply this look to any other greatsword. Additional copies of this item are available from the achievements panel.,"Дважды щёлкните, чтобы применить этот облик к любому другому двуручному мечу. Дополнительные копии этого предмета доступны на панели достижений."
+Double-click to apply this look to any other greatsword. This skin will be unlocked in your wardrobe for future use.,"Дважды щёлкните, чтобы применить этот облик к любому другому двуручному мечу. Этот облик будет открыт в вашем гардеробе для дальнейшего использования."
+Double-click to apply this look to any other greatsword. Unlocks the ability to purchase the Restored Boreal Greatsword Recipe.,"Дважды щёлкните, чтобы применить этот облик к любому другому двуручному мечу. Открывает возможность купить рецепт восстановленного бореального двуручного меча."
+Double-click to apply this look to any other greatsword. Will also unlock this skin for your wardrobe.,"Дважды щёлкните, чтобы применить этот облик к любому другому двуручному мечу. Это также откроет этот облик в вашем гардеробе."
 Double-click to apply this look to any other hammer.,"Дважды щёлкните, чтобы применить этот облик к другому молоту."
 "Double-click to apply this look to any other hammer.
 
 <c=@flavor>""Normal choya are vicious, but give these guys an extra three feet of height and reach, and they become unstoppable."" —Pit Master Oberon</c>","Дважды щёлкните, чтобы применить этот облик к другому молоту.
 
-<c=@flavor>""Обычные чойя свирепы, но дайте этим парням дополнительных три фута роста и досягаемости, и они станут неудержимы."" —Хозяин ямы Оберон</c>"
-Double-click to apply this look to any other hammer. Additional copies of this item are available from the achievements panel.,"Дважды щёлкните, чтобы применить этот облик к другой булаве. Дополнительные копии этого предмета доступны на панели достижений."
-Double-click to apply this look to any other hammer. Unlocks the ability to purchase the Restored Boreal Hammer Recipe.,"Дважды щёлкните, чтобы применить этот облик к любому другому молоту. Открывает возможность приобрести рецепт восстановленного борейского молота."
+<c=@flavor>«Обычные чойя свирепы, но дайте этим парням лишние три фута роста и досягаемости — и они станут неудержимы». —Хозяин ямы Оберон</c>"
+Double-click to apply this look to any other hammer. Additional copies of this item are available from the achievements panel.,"Дважды щёлкните, чтобы применить этот облик к любому другому молоту. Дополнительные копии этого предмета доступны на панели достижений."
+Double-click to apply this look to any other hammer. Unlocks the ability to purchase the Restored Boreal Hammer Recipe.,"Дважды щёлкните, чтобы применить этот облик к любому другому молоту. Открывает возможность купить рецепт восстановленного бореального молота."
 Double-click to apply this look to any other harpoon gun.,"Дважды щёлкните, чтобы применить этот облик к любому другому гарпунному ружью."
 Double-click to apply this look to any other harpoon gun. Additional copies of this item are available from the achievements panel.,"Дважды щёлкните, чтобы применить этот облик к любому другому гарпунному ружью. Дополнительные копии этого предмета доступны на панели достижений."
 Double-click to apply this look to any other harpoon.,"Дважды щёлкните, чтобы применить этот облик к любому другому гарпуну."
@@ -330,24 +332,24 @@ Double-click to apply this look to any other heavy headgear.,"Дважды щё�
 Double-click to apply this look to any other heavy helm.,"Дважды щёлкните, чтобы применить этот облик к любому другому тяжёлому шлему."
 Double-click to apply this look to any other heavy helmet.,"Дважды щёлкните, чтобы применить этот облик к любому другому тяжёлому шлему."
 Double-click to apply this look to any other heavy leggings.,"Дважды щёлкните, чтобы применить этот облик к любым другим тяжёлым поножам."
-Double-click to apply this look to any other heavy legwear.,"Дважды щёлкните, чтобы применить этот вид к любой другой тяжёлой поножам."
-Double-click to apply this look to any other heavy shoulders.,"Дважды щёлкните, чтобы применить этот вид к любым другим тяжёлым наплечникам."
-Double-click to apply this look to any other helmet.,"Дважды щёлкните, чтобы применить этот вид к любому другому шлему."
-Double-click to apply this look to any other helmet. This skin will be unlocked in your wardrobe for future use.,"Дважды щёлкните, чтобы применить этот вид к любому другому шлему. Этот облик будет разблокирован в вашем гардеробе для дальнейшего использования."
+Double-click to apply this look to any other heavy legwear.,"Дважды щёлкните, чтобы применить этот облик к любым другим тяжёлым поножам."
+Double-click to apply this look to any other heavy shoulders.,"Дважды щёлкните, чтобы применить этот облик к любым другим тяжёлым наплечникам."
+Double-click to apply this look to any other helmet.,"Дважды щёлкните, чтобы применить этот облик к любому другому шлему."
+Double-click to apply this look to any other helmet. This skin will be unlocked in your wardrobe for future use.,"Дважды щёлкните, чтобы применить этот облик к любому другому шлему. Этот облик будет открыт в вашем гардеробе для дальнейшего использования."
 "Double-click to apply this look to any other helmet. This skin will be unlocked in your wardrobe for future use.
-<c=@flavor>""Where'd I find this glorious crown? Can't tell you. It's a secret."" —Koris Deeprunner</c>","Дважды щёлкните, чтобы применить этот вид к любому другому шлему. Этот облик будет разблокирован в вашем гардеробе для дальнейшего использования.
-<c=@flavor>""Где я нашёл эту великолепную корону? Не скажу. Это секрет."" —Корис Глубинный Бегун</c>"
-Double-click to apply this look to any other leg armor. Additional copies of this item are available from the achievements panel.,"Дважды щёлкните, чтобы применить этот вид к любой другой броне для ног. Дополнительные копии этого предмета доступны на панели достижений."
-Double-click to apply this look to any other light armor.,"Дважды щёлкните, чтобы применить этот вид к любой другой лёгкой броне."
-Double-click to apply this look to any other light boots.,"Дважды щёлкните, чтобы применить этот вид к любым другим лёгким ботинкам."
-Double-click to apply this look to any other light coats.,"Дважды щёлкните, чтобы применить этот вид к любым другим лёгким курткам."
-Double-click to apply this look to any other light footwear.,"Дважды щёлкните, чтобы применить этот вид к любой другой лёгкой обуви."
+<c=@flavor>""Where'd I find this glorious crown? Can't tell you. It's a secret."" —Koris Deeprunner</c>","Дважды щёлкните, чтобы применить этот облик к любому другому шлему. Этот облик будет открыт в вашем гардеробе для дальнейшего использования.
+<c=@flavor>«Где я нашёл эту великолепную корону? Не скажу. Это секрет». —Корис Глубинный Бегун</c>"
+Double-click to apply this look to any other leg armor. Additional copies of this item are available from the achievements panel.,"Дважды щёлкните, чтобы применить этот облик к любой другой броне для ног. Дополнительные копии этого предмета доступны на панели достижений."
+Double-click to apply this look to any other light armor.,"Дважды щёлкните, чтобы применить этот облик к любой другой лёгкой броне."
+Double-click to apply this look to any other light boots.,"Дважды щёлкните, чтобы применить этот облик к любым другим лёгким ботинкам."
+Double-click to apply this look to any other light coats.,"Дважды щёлкните, чтобы применить этот облик к любым другим лёгким курткам."
+Double-click to apply this look to any other light footwear.,"Дважды щёлкните, чтобы применить этот облик к любой другой лёгкой обуви."
 Double-click to apply this look to any other light footwear. Additional copies of this item are available from the achievements panel.,"Дважды щёлкните, чтобы применить этот облик к любой другой лёгкой обуви. Дополнительные копии этого предмета можно получить на панели достижений."
-Double-click to apply this look to any other light gloves.,"Дважды щёлкните, чтобы применить этот вид к любым другим лёгким перчаткам."
+Double-click to apply this look to any other light gloves.,"Дважды щёлкните, чтобы применить этот облик к любым другим лёгким перчаткам."
 Double-click to apply this look to any other light gloves. Additional copies of this item are available from the achievements panel.,"Дважды щёлкните, чтобы применить этот облик к любым другим лёгким перчаткам. Дополнительные копии предмета доступны в панели достижений."
-Double-click to apply this look to any other light headgear.,"Дважды щёлкните, чтобы применить этот вид к любому другому лёгкому головному убору."
-Double-click to apply this look to any other light helm.,"Дважды щёлкните, чтобы применить этот вид к любому другому лёгкому шлему."
-Double-click to apply this look to any other light helmet.,"Дважды щёлкните, чтобы применить этот вид к любому другому лёгкому шлему."
+Double-click to apply this look to any other light headgear.,"Дважды щёлкните, чтобы применить этот облик к любому другому лёгкому головному убору."
+Double-click to apply this look to any other light helm.,"Дважды щёлкните, чтобы применить этот облик к любому другому лёгкому шлему."
+Double-click to apply this look to any other light helmet.,"Дважды щёлкните, чтобы применить этот облик к любому другому лёгкому шлему."
 Double-click to apply this look to any other light leggings.,"Дважды щёлкните, чтобы применить этот облик к другим лёгким поножам."
 Double-click to apply this look to any other light legwear.,"Дважды щёлкните, чтобы применить этот облик к другим лёгким штанам."
 Double-click to apply this look to any other light shoulders.,"Дважды щёлкните, чтобы применить этот облик к другим лёгким наплечникам."
@@ -362,11 +364,11 @@ Double-click to apply this look to any other longbow. Additional copies of this 
 "Double-click to apply this look to any other longbow. This will also unlock this skin for your wardrobe.
 <c=@flavor>There are stories of those who traversed the depths of the Underworld for this lightning-imbued bow hundreds of years ago.</c>","Дважды щёлкните, чтобы применить этот облик к другому длинному луку. Это также откроет этот облик в вашем гардеробе.
 <c=@flavor>Ходят легенды о тех, кто столетия назад прошёл глубины Подземного мира ради этого лука, пропитанного молниями.</c>"
-Double-click to apply this look to any other longbow. Unlocks the ability to purchase the Restored Boreal Longbow Recipe.,"Дважды щёлкните, чтобы применить этот облик к другому длинному луку. Открывает возможность купить рецепт Восстановленного бореального длинного лука."
+Double-click to apply this look to any other longbow. Unlocks the ability to purchase the Restored Boreal Longbow Recipe.,"Дважды щёлкните, чтобы применить этот облик к любому другому длинному луку. Открывает возможность купить рецепт восстановленного бореального длинного лука."
 Double-click to apply this look to any other mace.,"Дважды щёлкните, чтобы применить этот облик к другой булаве."
 Double-click to apply this look to any other mace. Additional copies of this item are available from the achievements panel.,"Дважды щёлкните, чтобы применить этот облик к любой другой булаве. Дополнительные копии этого предмета доступны на панели достижений."
 Double-click to apply this look to any other mace. This skin will be unlocked in your wardrobe for future use.,"Дважды щёлкните, чтобы применить этот облик к другой булаве. Этот облик будет открыт в вашем гардеробе для дальнейшего использования."
-Double-click to apply this look to any other mace. Unlocks the ability to purchase the Restored Boreal Mace Recipe.,"Дважды щёлкните, чтобы применить этот облик к другой булаве. Открывает возможность купить рецепт Восстановленной бореальной булавы."
+Double-click to apply this look to any other mace. Unlocks the ability to purchase the Restored Boreal Mace Recipe.,"Дважды щёлкните, чтобы применить этот облик к любому другому булаве. Открывает возможность купить рецепт восстановленного бореального булавы."
 Double-click to apply this look to any other medium armor.,"Дважды щёлкните, чтобы применить этот облик к другой средней броне."
 Double-click to apply this look to any other medium boots.,"Дважды щёлкните, чтобы применить этот облик к другим средним сапогам."
 Double-click to apply this look to any other medium coats.,"Дважды щёлкните, чтобы применить этот облик к любой другой средней куртке."
@@ -383,11 +385,11 @@ Double-click to apply this look to any other one-handed sword.,"Дважды щ�
 Double-click to apply this look to any other pistol.,"Дважды щёлкните, чтобы применить этот облик к любому другому пистолету."
 Double-click to apply this look to any other pistol. Additional copies of this item are available from the achievements panel.,"Дважды щёлкните, чтобы применить этот облик к любому другому пистолету. Дополнительные копии этого предмета доступны на панели достижений."
 Double-click to apply this look to any other pistol. This will also unlock this skin for your wardrobe.,"Дважды щёлкните, чтобы применить этот облик к любому другому пистолету. Это также откроет данный облик в вашем гардеробе."
-Double-click to apply this look to any other pistol. Unlocks the ability to purchase the Restored Boreal Pistol Recipe.,"Дважды щёлкните, чтобы применить этот облик к любому другому пистолету. Открывает возможность приобретения рецепта восстановленного борейского пистолета."
-Double-click to apply this look to any other rifle.,"Дважды щёлкните, чтобы применить этот облик к любому другому винтовке."
-Double-click to apply this look to any other rifle. Additional copies of this item are available from the achievements panel.,"Дважды щёлкните, чтобы применить этот облик к любому другому винтовке. Дополнительные копии этого предмета доступны на панели достижений."
-Double-click to apply this look to any other rifle. This will also unlock this skin for your wardrobe.,"Дважды щёлкните, чтобы применить этот облик к любому другому винтовке. Это также откроет этот облик в вашем гардеробе."
-Double-click to apply this look to any other rifle. Unlocks the ability to purchase the Restored Boreal Rifle Recipe.,"Дважды щёлкните, чтобы применить этот облик к любому другому винтовке. Открывает возможность приобрести рецепт «Восстановленный бореальный винтовка»."
+Double-click to apply this look to any other pistol. Unlocks the ability to purchase the Restored Boreal Pistol Recipe.,"Дважды щёлкните, чтобы применить этот облик к любому другому пистолету. Открывает возможность купить рецепт восстановленного бореального пистолета."
+Double-click to apply this look to any other rifle.,"Дважды щёлкните, чтобы применить этот облик к любому другому ружью."
+Double-click to apply this look to any other rifle. Additional copies of this item are available from the achievements panel.,"Дважды щёлкните, чтобы применить этот облик к любому другому ружью. Дополнительные копии этого предмета доступны на панели достижений."
+Double-click to apply this look to any other rifle. This will also unlock this skin for your wardrobe.,"Дважды щёлкните, чтобы применить этот облик к любому другому ружью. Это также откроет этот облик в вашем гардеробе."
+Double-click to apply this look to any other rifle. Unlocks the ability to purchase the Restored Boreal Rifle Recipe.,"Дважды щёлкните, чтобы применить этот облик к любому другому ружью. Открывает возможность купить рецепт восстановленного бореального ружья."
 Double-click to apply this look to any other scepter.,"Дважды щёлкните, чтобы применить этот облик к любому другому скипетру."
 "Double-click to apply this look to any other scepter.
 This will also unlock this skin for your wardrobe.
@@ -395,128 +397,128 @@ This will also unlock this skin for your wardrobe.
 Это также откроет этот облик в вашем гардеробе.
 <c=@flavor>Этот элегантный скипетр был самым желанным оружием среди месмеров прошлого.</c>"
 Double-click to apply this look to any other scepter. Additional copies of this item are available from the achievements panel.,"Дважды щёлкните, чтобы применить этот облик к любому другому скипетру. Дополнительные копии этого предмета доступны на панели достижений."
-Double-click to apply this look to any other scepter. Unlocks the ability to purchase the Restored Boreal Scepter Recipe.,"Дважды щёлкните, чтобы применить этот облик к любому другому скипетру. Открывает возможность приобрести рецепт «Восстановленный бореальный скипетр»."
+Double-click to apply this look to any other scepter. Unlocks the ability to purchase the Restored Boreal Scepter Recipe.,"Дважды щёлкните, чтобы применить этот облик к любому другому скипетру. Открывает возможность купить рецепт восстановленного бореального скипетра."
 Double-click to apply this look to any other shield.,"Дважды щёлкните, чтобы применить этот облик к любому другому щиту."
 "Double-click to apply this look to any other shield.
 This will also unlock this skin for your wardrobe.
 <c=@flavor>Flawlessly cut amethyst capped with a smooth golden trim, this shield was the ultimate prize for soldiers of the past.</c>","Дважды щёлкните, чтобы применить этот облик к любому другому щиту.
 Это также откроет этот облик в вашем гардеробе.
-<c=@flavor>Безупречно ограненный аметист с гладкой золотой окантовкой — этот щит был высшей наградой для солдат прошлого.</c>"
+<c=@flavor>Безупречно огранённый аметист с гладкой золотой окантовкой — этот щит был высшей наградой для солдат прошлого.</c>"
 Double-click to apply this look to any other shield. Additional copies of this item are available from the achievements panel.,"Дважды щёлкните, чтобы применить этот облик к любому другому щиту. Дополнительные копии этого предмета доступны на панели достижений."
-Double-click to apply this look to any other shield. Unlocks the ability to purchase the Restored Boreal Shield Recipe.,"Дважды щёлкните, чтобы применить этот облик к любому другому щиту. Открывает возможность приобрести рецепт «Восстановленный бореальный щит»."
+Double-click to apply this look to any other shield. Unlocks the ability to purchase the Restored Boreal Shield Recipe.,"Дважды щёлкните, чтобы применить этот облик к любому другому щиту. Открывает возможность купить рецепт восстановленного бореального щита."
 Double-click to apply this look to any other short bow.,"Дважды щёлкните, чтобы применить этот облик к любому другому короткому луку."
-Double-click to apply this look to any other short bow. Additional copies of this item are available from the achievements panel.,"Дважды щёлкните, чтобы применить этот вид к любым другим лёгким наплечникам. Дополнительные копии этого предмета доступны на панели достижений."
-Double-click to apply this look to any other short bow. Unlocks the ability to purchase the Restored Boreal Short Bow Recipe.,"Дважды щёлкните, чтобы применить этот облик к любому другому короткому луку. Открывает возможность приобрести рецепт «Восстановленный бореальный короткий лук»."
+Double-click to apply this look to any other short bow. Additional copies of this item are available from the achievements panel.,"Дважды щёлкните, чтобы применить этот облик к любому другому короткому луку. Дополнительные копии этого предмета доступны на панели достижений."
+Double-click to apply this look to any other short bow. Unlocks the ability to purchase the Restored Boreal Short Bow Recipe.,"Дважды щёлкните, чтобы применить этот облик к любому другому короткому луку. Открывает возможность купить рецепт восстановленного бореального короткого лука."
 Double-click to apply this look to any other shoulder armor. Additional copies of this item are available from the achievements panel.,"Дважды щёлкните, чтобы применить этот облик к любым другим наплечникам. Дополнительные копии предмета доступны в панели достижений."
 Double-click to apply this look to any other shoulder piece.,"Дважды щёлкните, чтобы применить этот облик к любому другому наплечнику."
 "Double-click to apply this look to any other shoulders.
 <c=@flavor>Its baleful flames glow brighter as the hour of Adelbern's curse draws near.</c>","Дважды щёлкните, чтобы применить этот облик к любым другим наплечникам.
-<c=@flavor>Его зловещие языки пламени разгораются ярче по мере приближения часа проклятия Адельберна.</c>"
-Double-click to apply this look to any other spear gun.,"Дважды щёлкните, чтобы применить этот облик к любому другому гарпуномету."
+<c=@flavor>Его зловещие языки пламени разгораются ярче с приближением часа проклятия Адельберна.</c>"
+Double-click to apply this look to any other spear gun.,"Дважды щёлкните, чтобы применить этот облик к любому другому гарпунному ружью."
 Double-click to apply this look to any other spear.,"Дважды щёлкните, чтобы применить этот облик к любому другому копью."
 Double-click to apply this look to any other spear. Additional copies of this item are available from the achievements panel.,"Дважды щёлкните, чтобы применить этот облик к любому другому копью. Дополнительные копии этого предмета доступны на панели достижений."
-Double-click to apply this look to any other spear. This skin will be unlocked in your wardrobe for future use.,"Дважды щёлкните, чтобы применить этот облик к любому другому копью. Этот облик будет разблокирован в вашем гардеробе для дальнейшего использования."
+Double-click to apply this look to any other spear. This skin will be unlocked in your wardrobe for future use.,"Дважды щёлкните, чтобы применить этот облик к любому другому копью. Этот облик будет открыт в вашем гардеробе для дальнейшего использования."
 Double-click to apply this look to any other staff.,"Дважды щёлкните, чтобы применить этот облик к любому другому посоху."
 Double-click to apply this look to any other staff. Additional copies of this item are available from the achievements panel.,"Дважды щёлкните, чтобы применить этот облик к любому другому посоху. Дополнительные копии этого предмета доступны на панели достижений."
 "Double-click to apply this look to any other staff. This skin will be unlocked in your wardrobe for future use.
-<c=@flavor>Few remain of these ancient weapons, crafted to honor a sacred power from distant lands.</c>","Дважды щёлкните, чтобы применить этот облик к любому другому посоху. Этот облик будет разблокирован в вашем гардеробе для дальнейшего использования.
-<c=@flavor>Мало осталось от этого древнего оружия, созданного в честь священной силы из далеких земель.</c>"
+<c=@flavor>Few remain of these ancient weapons, crafted to honor a sacred power from distant lands.</c>","Дважды щёлкните, чтобы применить этот облик к любому другому посоху. Этот облик будет открыт в вашем гардеробе для дальнейшего использования.
+<c=@flavor>Мало осталось от этого древнего оружия, созданного в честь священной силы из далёких земель.</c>"
 "Double-click to apply this look to any other staff. This skin will be unlocked in your wardrobe for future use.
-<c=@flavor>This ancient staff was thought lost in the fall of Quora Sum. Its sands count the hours until impending doom. </c>","Дважды щёлкните, чтобы применить этот облик к любому другому посоху. Этот облик будет разблокирован в вашем гардеробе для дальнейшего использования.
+<c=@flavor>This ancient staff was thought lost in the fall of Quora Sum. Its sands count the hours until impending doom. </c>","Дважды щёлкните, чтобы применить этот облик к любому другому посоху. Этот облик будет открыт в вашем гардеробе для дальнейшего использования.
 <c=@flavor>Считалось, что этот древний посох был утерян при падении Кворы Сум. Его пески отсчитывают часы до неминуемой гибели.</c>"
 "Double-click to apply this look to any other staff. This will also unlock this skin for your wardrobe.
-<c=@flavor>It is said that this staff was carried by Heleyne, one of the Envoys that served as shepherds of souls into the Mists.</c>","Дважды щёлкните, чтобы применить этот облик к любому другому посоху. Это также разблокирует этот облик в вашем гардеробе.
+<c=@flavor>It is said that this staff was carried by Heleyne, one of the Envoys that served as shepherds of souls into the Mists.</c>","Дважды щёлкните, чтобы применить этот облик к любому другому посоху. Это также откроет этот облик в вашем гардеробе.
 <c=@flavor>Говорят, что этот посох носила Хелейн, одна из Посланников, служивших пастырями душ в Туман.</c>"
-Double-click to apply this look to any other staff. Unlocks the ability to purchase the Restored Boreal Staff Recipe.,"Дважды щёлкните, чтобы применить этот облик к любому другому посоху. Разблокирует возможность приобретения рецепта Восстановленного борейского посоха."
+Double-click to apply this look to any other staff. Unlocks the ability to purchase the Restored Boreal Staff Recipe.,"Дважды щёлкните, чтобы применить этот облик к любому другому посоху. Открывает возможность купить рецепт восстановленного бореального посоха."
 Double-click to apply this look to any other sword.,"Дважды щёлкните, чтобы применить этот облик к любому другому мечу."
 Double-click to apply this look to any other sword. Additional copies of this item are available from the achievements panel.,"Дважды щёлкните, чтобы применить этот облик к любому другому мечу. Дополнительные копии этого предмета доступны на панели достижений."
-Double-click to apply this look to any other sword. This will also unlock this skin for your wardrobe.,"Дважды щёлкните, чтобы применить этот облик к любому другому мечу. Это также разблокирует этот облик в вашем гардеробе."
+Double-click to apply this look to any other sword. This will also unlock this skin for your wardrobe.,"Дважды щёлкните, чтобы применить этот облик к любому другому мечу. Это также откроет этот облик в вашем гардеробе."
 "Double-click to apply this look to any other sword. This will also unlock this skin for your wardrobe.
-<c=@flavor>Dismissed by many as a mere myth, this rare blade was long pursued by the heroes of ages past.</c>","Дважды щёлкните, чтобы применить этот облик к любому другому мечу. Это также разблокирует этот облик в вашем гардеробе.
+<c=@flavor>Dismissed by many as a mere myth, this rare blade was long pursued by the heroes of ages past.</c>","Дважды щёлкните, чтобы применить этот облик к любому другому мечу. Это также откроет этот облик в вашем гардеробе.
 <c=@flavor>Многие считают эту редкую лезвие просто мифом, но её долго преследовали герои прошлых времён.</c>"
-Double-click to apply this look to any other sword. Unlocks the ability to purchase the Restored Boreal Sword Recipe.,"Дважды щёлкните, чтобы применить этот облик к любому другому мечу. Разблокирует возможность покупки рецепта Восстановленного бореального меча."
+Double-click to apply this look to any other sword. Unlocks the ability to purchase the Restored Boreal Sword Recipe.,"Дважды щёлкните, чтобы применить этот облик к любому другому мечу. Открывает возможность купить рецепт восстановленного бореального меча."
 Double-click to apply this look to any other torch.,"Дважды щёлкните, чтобы применить этот облик к любому другому факелу."
 "Double-click to apply this look to any other torch.
 This will also unlock this skin for your wardrobe.","Дважды щёлкните, чтобы применить этот облик к любому другому факелу.
-Это также разблокирует этот облик в вашем гардеробе."
+Это также откроет этот облик в вашем гардеробе."
 Double-click to apply this look to any other torch. Additional copies of this item are available from the achievements panel.,"Дважды щёлкните, чтобы применить этот облик к любому другому факелу. Дополнительные копии этого предмета доступны на панели достижений."
-Double-click to apply this look to any other torch. This will also unlock this skin for your wardrobe.,"Дважды щёлкните, чтобы применить этот облик к любому другому факелу. Это также разблокирует этот облик в вашем гардеробе."
-Double-click to apply this look to any other torch. Unlocks the ability to purchase the Restored Boreal Torch Recipe.,"Дважды щёлкните, чтобы применить этот облик к любому другому факелу. Разблокирует возможность покупки рецепта Восстановленного бореального факела."
+Double-click to apply this look to any other torch. This will also unlock this skin for your wardrobe.,"Дважды щёлкните, чтобы применить этот облик к любому другому факелу. Это также откроет этот облик в вашем гардеробе."
+Double-click to apply this look to any other torch. Unlocks the ability to purchase the Restored Boreal Torch Recipe.,"Дважды щёлкните, чтобы применить этот облик к любому другому факелу. Открывает возможность купить рецепт восстановленного бореального факела."
 Double-click to apply this look to any other trident.,"Дважды щёлкните, чтобы применить этот облик к любому другому трезубцу."
 Double-click to apply this look to any other trident. Additional copies of this item are available from the achievements panel.,"Дважды щёлкните, чтобы применить этот облик к любому другому трезубцу. Дополнительные копии этого предмета доступны на панели достижений."
-Double-click to apply this look to any other warhorn.,"Дважды щёлкните, чтобы применить этот облик к любому другому рогу."
+Double-click to apply this look to any other warhorn.,"Дважды щёлкните, чтобы применить этот облик к любому другому боевому рогу."
 "Double-click to apply this look to any other warhorn.
-This will also unlock this skin for your wardrobe.","Дважды щёлкните, чтобы применить этот облик к любому другому рогу.
-Это также разблокирует этот облик в вашем гардеробе."
-Double-click to apply this look to any other warhorn. Additional copies of this item are available from the achievements panel.,"Дважды щёлкните, чтобы применить этот облик к любому другому рогу. Дополнительные копии этого предмета доступны на панели достижений."
-Double-click to apply this look to any other warhorn. Unlocks the ability to purchase the Restored Boreal Warhorn Recipe.,"Дважды щёлкните, чтобы применить этот облик к любому другому рогу. Разблокирует возможность покупки рецепта Восстановленного бореального рога."
+This will also unlock this skin for your wardrobe.","Дважды щёлкните, чтобы применить этот облик к любому другому боевому рогу.
+Это также откроет этот облик в вашем гардеробе."
+Double-click to apply this look to any other warhorn. Additional copies of this item are available from the achievements panel.,"Дважды щёлкните, чтобы применить этот облик к любому другому боевому рогу. Дополнительные копии этого предмета доступны на панели достижений."
+Double-click to apply this look to any other warhorn. Unlocks the ability to purchase the Restored Boreal Warhorn Recipe.,"Дважды щёлкните, чтобы применить этот облик к любому другому боевому рогу. Открывает возможность купить рецепт восстановленного бореального боевого рога."
 Double-click to apply this look to any shoulder armor.,"Дважды щёлкните, чтобы применить этот облик к любой наплечной броне."
-Double-click to apply this look to your conjured doorway.,"Дважды щёлкните, чтобы применить этот вид к вашей призванной двери."
-Double-click to apply this look to your current helm.,"Дважды щёлкните, чтобы применить этот вид к вашему текущему шлему."
+Double-click to apply this look to your conjured doorway.,"Дважды щёлкните, чтобы применить этот облик к вашему созданному проходу."
+Double-click to apply this look to your current helm.,"Дважды щёлкните, чтобы применить этот облик к вашему текущему шлему."
 "Double-click to apply this look to your fishing rod.
-This will also unlock this skin for your wardrobe.","Дважды щёлкните, чтобы применить этот вид к вашей удочке.
-Это также разблокирует этот облик в вашем гардеробе."
+This will also unlock this skin for your wardrobe.","Дважды щёлкните, чтобы применить этот облик к вашей удочке.
+Это также откроет этот облик в вашем гардеробе."
 Double-click to apply this skin to any rifle.,"Дважды щёлкните, чтобы применить этот облик к любому ружью."
 "Double-click to apply this skin to any rifle.
 
-<c=@flavor>""It's a custom masterpiece refined from hundreds of bounties. I doubt even I could evade its mark."" —Nakato Ibori</c>","Двойной щелчок, чтобы применить этот облик любому ружью.
+<c=@flavor>""It's a custom masterpiece refined from hundreds of bounties. I doubt even I could evade its mark."" —Nakato Ibori</c>","Дважды щёлкните, чтобы применить этот облик к любому ружью.
 
-<c=@flavor>«Это произведение искусства, созданное из сотен наград. Сомневаюсь, что даже я смог бы уклониться от его метки». —Накато Ибори</c>"
+<c=@flavor>«Это заказной шедевр, заточенный на сотнях заказов. Сомневаюсь, что даже я ушёл бы от его прицела». —Накато Ибори</c>"
 Double-click to apply this to a gathering tool.,"Дважды щёлкните, чтобы применить это к инструменту для сбора."
 Double-click to apply this to a trinket.,"Дважды щёлкните, чтобы применить это к безделушке."
 Double-click to apply to a piece of armor.,"Дважды щёлкните, чтобы применить к элементу брони."
 Double-click to apply to a weapon.,"Дважды щёлкните, чтобы применить к оружию."
-"Double-click to apply to an accessory, amulet, or ring with an unused upgrade slot.","Дважды щёлкните, чтобы применить к аксессуару, амулету или кольцу с неиспользуемым слотом улучшения."
-Double-click to apply to an item with an unused upgrade slot.,"Дважды щёлкните, чтобы применить к предмету с неиспользуемым слотом улучшения."
-Double-click to apply to an unused aquatic headgear infusion slot.,"Дважды щёлкните, чтобы применить к неиспользуемому слоту инфузии для подводного головного убора."
+"Double-click to apply to an accessory, amulet, or ring with an unused upgrade slot.","Дважды щёлкните, чтобы применить к аксессуару, амулету или кольцу со свободным слотом улучшения."
+Double-click to apply to an item with an unused upgrade slot.,"Дважды щёлкните, чтобы применить к предмету со свободным слотом улучшения."
+Double-click to apply to an unused aquatic headgear infusion slot.,"Дважды щёлкните, чтобы применить к свободному слоту инфузии подводного головного убора."
 "Double-click to apply to an unused aquatic headgear infusion slot.
 
-Dive Master Astora in Lion's Arch can refine this infusion to upgrade it.","Дважды щёлкните, чтобы применить к неиспользуемому слоту инфузии для подводного головного убора.
+Dive Master Astora in Lion's Arch can refine this infusion to upgrade it.","Дважды щёлкните, чтобы применить к свободному слоту инфузии подводного головного убора.
 
-Мастер погружения Астора в гавани Львиного Шрама может улучшить эту инфузию, чтобы повысить её."
-Double-click to apply to an unused aquatic headgear infusion slot. Your account's swim-speed bonus can be raised by Dive Master Astora.,"Дважды щёлкните, чтобы применить к неиспользуемому слоту инфузии для подводного головного убора. Бонус к скорости плавания вашей учётной записи может быть увеличен мастером погружения Асторой."
-Double-click to apply to an unused defensive infusion slot.,"Дважды щёлкните, чтобы применить к неиспользуемому слоту защитной инфузии."
-Double-click to apply to an unused enrichment slot.,"Дважды щёлкните, чтобы применить к пустому слоту обогащения."
-Double-click to apply to an unused enrichment slot. Infuses equipment with Koda's Warmth.,"Дважды щёлкните, чтобы применить к пустому слоту обогащения. Наполняет снаряжение теплотой Коды."
-Double-click to apply to an unused enrichment slot. Infuses equipment with Otter's Blessing.,"Дважды щёлкните, чтобы применить к пустому слоту обогащения. Наполняет снаряжение благословением Выдры."
-Double-click to apply to an unused enrichment slot. Infuses equipment with Wurm's Blessing.,"Дважды щёлкните, чтобы применить к пустому слоту обогащения. Наполняет снаряжение благословением Червя."
-Double-click to apply to an unused infusion slot.,"Дважды щёлкните, чтобы применить к незанятому слоту инфузии."
+Мастер погружения Астора в Львиной Арке может доработать эту инфузию, чтобы улучшить её."
+Double-click to apply to an unused aquatic headgear infusion slot. Your account's swim-speed bonus can be raised by Dive Master Astora.,"Дважды щёлкните, чтобы применить к свободному слоту инфузии подводного головного убора. Бонус к скорости плавания вашей учётной записи может быть увеличен мастером погружения Асторой."
+Double-click to apply to an unused defensive infusion slot.,"Дважды щёлкните, чтобы применить к свободному слоту защитной инфузии."
+Double-click to apply to an unused enrichment slot.,"Дважды щёлкните, чтобы применить к свободному слоту обогащения."
+Double-click to apply to an unused enrichment slot. Infuses equipment with Koda's Warmth.,"Дважды щёлкните, чтобы применить к свободному слоту обогащения. Наполняет снаряжение теплотой Коды."
+Double-click to apply to an unused enrichment slot. Infuses equipment with Otter's Blessing.,"Дважды щёлкните, чтобы применить к свободному слоту обогащения. Наполняет снаряжение благословением Выдры."
+Double-click to apply to an unused enrichment slot. Infuses equipment with Wurm's Blessing.,"Дважды щёлкните, чтобы применить к свободному слоту обогащения. Наполняет снаряжение благословением Червя."
+Double-click to apply to an unused infusion slot.,"Дважды щёлкните, чтобы применить к свободному слоту инфузии."
 "Double-click to apply to an unused infusion slot.
-<c=@flavor>A gift from the treasuries of the King of All Cats.</c>","Дважды щёлкните, чтобы применить к пустому слоту инфузии.
+<c=@flavor>A gift from the treasuries of the King of All Cats.</c>","Дважды щёлкните, чтобы применить к свободному слоту инфузии.
 <c=@flavor>Подарок из сокровищниц Короля всех кошек.</c>"
 "Double-click to apply to an unused infusion slot. 
 <c=@Flavor>""Don't go out!""
 
 ""At night?""
 
-""At all!""</c>","Дважды щёлкните, чтобы применить к пустому слоту инфузии. 
-<c=@Flavor>""Не выходи!""
+""At all!""</c>","Дважды щёлкните, чтобы применить к свободному слоту инфузии. 
+<c=@Flavor>«Не выходи!»
 
-""Ночью?""
+«Ночью?»
 
-""Вообще!""</c>"
+«Вообще!»</c>"
 "Double-click to apply to an unused infusion slot. 
-<c=@Flavor>Warning: Not a toy. The provider is not liable for injury, distress, or existential dread caused by use of this item.</c>","Дважды щёлкните, чтобы применить к пустому слоту инфузии. 
+<c=@Flavor>Warning: Not a toy. The provider is not liable for injury, distress, or existential dread caused by use of this item.</c>","Дважды щёлкните, чтобы применить к свободному слоту инфузии. 
 <c=@Flavor>Предупреждение: Не игрушка. Производитель не несёт ответственности за травмы, расстройства или экзистенциальный ужас, вызванные использованием этого предмета.</c>"
-Double-click to apply to an unused infusion slot. Adds a comforting hum.,"Дважды щёлкните, чтобы применить к пустому слоту инфузии. Добавляет успокаивающее гудение."
-Double-click to apply to an unused infusion slot. Adds a feline hue.,"Дважды щёлкните, чтобы применить к пустому слоту инфузии. Добавляет кошачий оттенок."
-Double-click to apply to an unused infusion slot. Adds a festive confetti explosion.,"Дважды щёлкните, чтобы применить к пустому слоту инфузии. Добавляет праздничный взрыв конфетти."
+Double-click to apply to an unused infusion slot. Adds a comforting hum.,"Дважды щёлкните, чтобы применить к свободному слоту инфузии. Добавляет успокаивающее гудение."
+Double-click to apply to an unused infusion slot. Adds a feline hue.,"Дважды щёлкните, чтобы применить к свободному слоту инфузии. Добавляет кошачий оттенок."
+Double-click to apply to an unused infusion slot. Adds a festive confetti explosion.,"Дважды щёлкните, чтобы применить к свободному слоту инфузии. Добавляет праздничный взрыв конфетти."
 "Double-click to apply to an unused infusion slot. Adds a festive glow.
 <c=@Warning>Warning!</c>
-<c=@Flavor>Captain's Council recommends avoiding direct contact with this substance.</c>","Дважды щёлкните, чтобы применить к пустому слоту инфузии. Добавляет праздничное свечение.
+<c=@Flavor>Captain's Council recommends avoiding direct contact with this substance.</c>","Дважды щёлкните, чтобы применить к свободному слоту инфузии. Добавляет праздничное свечение.
 <c=@Warning>Предупреждение!</c>
 <c=@Flavor>Совет капитана рекомендует избегать прямого контакта с этим веществом.</c>"
-Double-click to apply to an unused infusion slot. Adds a ghoulish hue.,"Дважды щёлкните, чтобы применить к пустому слоту инфузии. Добавляет призрачный оттенок."
-Double-click to apply to an unused infusion slot. Adds a pumpkin-like hue.,"Дважды щёлкните, чтобы применить к пустому слоту инфузии. Добавляет оттенок, похожий на тыкву."
-Double-click to apply to an unused infusion slot. Adds a regal aura worthy of the Khan-Ur.,"Дважды щёлкните, чтобы применить к пустому слоту инфузии. Добавляет королевскую ауру, достойную Хан-Ура."
+Double-click to apply to an unused infusion slot. Adds a ghoulish hue.,"Дважды щёлкните, чтобы применить к свободному слоту инфузии. Добавляет призрачный оттенок."
+Double-click to apply to an unused infusion slot. Adds a pumpkin-like hue.,"Дважды щёлкните, чтобы применить к свободному слоту инфузии. Добавляет оттенок, похожий на тыкву."
+Double-click to apply to an unused infusion slot. Adds a regal aura worthy of the Khan-Ur.,"Дважды щёлкните, чтобы применить к свободному слоту инфузии. Добавляет королевскую ауру, достойную Хан-Ура."
 Double-click to apply to an unused infusion slot. Adds a spectral hue.,"Дважды щёлкните, чтобы применить к свободному слоту инфузии. Добавляет призрачный оттенок."
 Double-click to apply to an unused infusion slot. Adds a wintry chill.,"Дважды щёлкните, чтобы применить к свободному слоту инфузии. Добавляет зимний холод."
 Double-click to apply to an unused infusion slot. Adds an exalted shine.,"Дважды щёлкните, чтобы применить к свободному слоту инфузии. Добавляет возвышенное сияние."
 Double-click to apply to an unused infusion slot. Charges your body with unstable bloodstone.,"Дважды щёлкните, чтобы применить к свободному слоту инфузии. Наполняет тело нестабильным кровавым камнем."
 Double-click to apply to an unused infusion slot. Cherry blossom petals fall around you.,"Дважды щёлкните, чтобы применить к свободному слоту инфузии. Вокруг вас падают лепестки сакуры."
 Double-click to apply to an unused infusion slot. Chromatic bubbles float around you.,"Дважды щёлкните, чтобы применить к свободному слоту инфузии. Вокруг вас парят хроматические пузыри."
-Double-click to apply to an unused infusion slot. Corrupts your flesh with Jormag's power.,"Дважды щёлкните, чтобы применить к свободному слоту инфузии. Разлагает вашу плоть силой Йормага."
-Double-click to apply to an unused infusion slot. Emanate an echo of the Dragonvoid.,"Дважды щёлкните, чтобы применить к свободному слоту инфузии. Излучайте эхо Бездны Дракона."
+Double-click to apply to an unused infusion slot. Corrupts your flesh with Jormag's power.,"Дважды щёлкните, чтобы применить к свободному слоту инфузии. Оскверняет вашу плоть силой Йормага."
+Double-click to apply to an unused infusion slot. Emanate an echo of the Dragonvoid.,"Дважды щёлкните, чтобы применить к свободному слоту инфузии. Излучает эхо Драконьей Пустоты."
 Double-click to apply to an unused infusion slot. Imbue your skin with power from the Wizard of the Celestial.,"Дважды щёлкните, чтобы применить к свободному слоту инфузии. Наделяет кожу силой Небесного Чародея."
 Double-click to apply to an unused infusion slot. Infuses armor with a djinn-like aura.,"Дважды щёлкните, чтобы применить к свободному слоту инфузии. Наделяет броню аурой джинна."
 Double-click to apply to an unused infusion slot. Infuses armor with a spiritual aura.,"Дважды щёлкните, чтобы применить к свободному слоту инфузии. Наделяет броню духовной аурой."
@@ -540,20 +542,20 @@ Double-click to be taken to a random location in Tyria. <c=@warning>USE AT YOUR 
 "Double-click to be transported to your home in your racial city.
 Double-click while in your home to return to where you entered from.","Дважды щёлкните, чтобы переместиться в ваш дом в вашем расовом городе.
 Дважды щёлкните, находясь дома, чтобы вернуться туда, откуда вы вошли."
-Double-click to become a blue hylek for 5 minutes.,"Дважды щёлкните, чтобы стать синим хайлеком на 5 минут."
+Double-click to become a blue hylek for 5 minutes.,"Дважды щёлкните, чтобы стать синим хилеком на 5 минут."
 Double-click to become a jackalope for 5 minutes.,"Дважды щёлкните, чтобы стать зайцелопом на 5 минут."
 Double-click to become a karka for 5 minutes.,"Дважды щёлкните, чтобы стать каркой на 5 минут."
 Double-click to become a Plant Dog.,"Дважды щёлкните, чтобы стать Растительной собакой."
 Double-click to become a wolf.,"Дважды щёлкните, чтобы стать волком."
-Double-click to become a young karka for 5 minutes.,"Дважды щёлкните, чтобы стать молодым карка на 5 минут."
+Double-click to become a young karka for 5 minutes.,"Дважды щёлкните, чтобы стать молодой каркой на 5 минут."
 "Double-click to become an ettin.
 <c=@flavor>""We made this to help us study them."" —Bramm</c>","Дважды щёлкните, чтобы стать эттином.
-<c=@flavor>""Мы сделали это, чтобы изучать их."" — Брамм</c>"
+<c=@flavor>«Мы сделали это, чтобы изучать их». —Брамм</c>"
 "Double-click to bind this glyph to your account.
 
 33% chance to complete gathering instantly.","Дважды щёлкните, чтобы привязать этот глиф к своей учётной записи.
 
-33 % шанс мгновенно завершить сбор."
+33%-ный шанс мгновенно завершить сбор."
 "Double-click to bind this glyph to your account.
 
 Applies the Overload special action skill when fully charged, which grants +100% chance of extra gathering strikes for a limited time. Gather from resource nodes to build charges. Harvesting nodes consume additional charges.","Дважды щёлкните, чтобы привязать этот глиф к вашей учётной записи.
@@ -588,7 +590,7 @@ Grants a 33% chance to receive bonus ores while gathering in addition to your ga
 
 Grants a 33% chance to reward a bonus watchwork sprocket while gathering, in addition to the gathering results.","Дважды щёлкните, чтобы привязать этот глиф к своей учётной записи.
 
-Даёт 33%-ный шанс получить дополнительный шестеренку часового механизма во время сбора ресурсов, помимо обычных результатов."
+Даёт 33%-ный шанс получить дополнительную шестерёнку часового механизма во время сбора ресурсов, помимо обычных результатов."
 "Double-click to bind this glyph to your account.
 
 Grants a 33% chance to reward bonus harvesting ingredient pouches in addition to gathering results. Ingredient pouch types are determined by your character level and location in the world.","Дважды щёлкните, чтобы привязать этот глиф к вашей учётной записи.
@@ -596,9 +598,9 @@ Grants a 33% chance to reward bonus harvesting ingredient pouches in addition to
 Даёт 33%-ный шанс получить дополнительные мешочки с ингредиентами для крафта вместе с обычными результатами сбора ресурсов. Типы мешочков с ингредиентами определяются уровнем вашего персонажа и местоположением в мире."
 "Double-click to bind this glyph to your account.
 
-Grants a 33% chance to reward bonus wood logs while gathering, in addition to gathering results. Material types are determined by your character level and location in the world.","Дважды щёлкните, чтобы привязать этот глиф к вашей учётной записи.
+Grants a 33% chance to reward bonus wood logs while gathering, in addition to gathering results. Material types are determined by your character level and location in the world.","Дважды щёлкните, чтобы привязать этот глиф к своей учётной записи.
 
-Даёт 33%-ный шанс получить дополнительные бревна во время сбора ресурсов, помимо обычных результатов. Типы материалов определяются уровнем вашего персонажа и местоположением в мире."
+Даёт 33%-ный шанс получить дополнительные брёвна во время сбора ресурсов, помимо обычных результатов. Типы материалов определяются уровнем вашего персонажа и местоположением в мире."
 "Double-click to bind this glyph to your account.
 
 Grants a 33%% chance to reward bonus cloth scraps while gathering, in addition to your gathering results. Material types are determined by your character level and location in the world.","Дважды щёлкните, чтобы привязать этот глиф к своей учётной записи.
@@ -606,12 +608,14 @@ Grants a 33%% chance to reward bonus cloth scraps while gathering, in addition t
 Даёт 33%% шанс получить дополнительные обрывки ткани во время сбора ресурсов, в дополнение к обычным результатам. Типы материалов определяются уровнем вашего персонажа и местоположением в мире."
 "Double-click to bind this glyph to your account.
 
-Grants a 33%% chance to reward bonus leather scraps while gathering, in addition to gathering results. Material types are determined by your character level and location in the world.",
+Grants a 33%% chance to reward bonus leather scraps while gathering, in addition to gathering results. Material types are determined by your character level and location in the world.","Дважды щёлкните, чтобы привязать этот глиф к своей учётной записи.
+
+Даёт 33%% шанс получить дополнительные обрезки кожи во время сбора ресурсов, в дополнение к обычным результатам. Типы материалов определяются уровнем вашего персонажа и местоположением в мире."
 "Double-click to bind this glyph to your account.
 
 Increases movement speed by 100% for 5 seconds after gathering completes.","Дважды щёлкните, чтобы привязать этот глиф к своей учётной записи.
 
-Увеличивает скорость передвижения на 100 % в течение 5 секунд после завершения сбора ресурсов."
+Увеличивает скорость передвижения на 100% в течение 5 секунд после завершения сбора ресурсов."
 "Double-click to bind this glyph to your account.
 
 Replaces gathering results with materials used in higher-level crafting recipes. Material types are determined by the type of node gathered from. Mithril ore, elder wood, and select cooking ingredients can be improved a limited number of times each day.","Дважды щёлкните, чтобы привязать этот глиф к своей учётной записи.
@@ -631,28 +635,28 @@ Rewards bonus karma while gathering, in addition to the gathering results.","Д�
 
 Rewards bonus unbound magic while gathering, in addition to the gathering results.","Дважды щёлкните, чтобы привязать этот глиф к своей учётной записи.
 
-При сборе ресурсов вы будете получать дополнительную награду в виде не связанной магии, помимо обычных результатов сбора."
+При сборе ресурсов вы будете получать дополнительную несвязанную магию, помимо обычных результатов сбора."
 "Double-click to bind this glyph to your account.
 
 Rewards bonus Volatile Magic while gathering, in addition to the gathering results.","Дважды щёлкните, чтобы привязать этот глиф к своей учётной записи.
 
-При сборе ресурсов вы будете получать дополнительный бонус в виде нестабильной магии, помимо обычных результатов сбора."
+При сборе ресурсов вы будете получать дополнительную летучую магию, помимо обычных результатов сбора."
 Double-click to bind this item to your account.,"Дважды щёлкните, чтобы привязать этот предмет к вашей учётной записи."
 "Double-click to bind this item to your account.
 Allows you to access basic supplies and sell loot. Reusable.","Дважды щёлкните, чтобы привязать этот предмет к вашей учётной записи.
 Позволяет получать доступ к базовым припасам и продавать добычу. Многоразовый."
 "Double-click to bind this item to your account.
 Summons a personal Black Lion Delivery Agent for 5 minutes anywhere. Allows you to pick up trading post purchases and profits. Reusable.","Дважды щёлкните, чтобы привязать этот предмет к вашей учётной записи.
-Призывает личного агента доставки «Чёрного льва» на 5 минут в любом месте. Позволяет забирать покупки и прибыль с торговой площадки. Многоразовый."
+Призывает личного агента доставки Чёрного Льва на 5 минут в любом месте. Позволяет забирать покупки и прибыль с торгового поста. Многоразовый."
 Double-click to bind this item to your account. Allows reusable bank access from anywhere.,"Дважды щёлкните, чтобы привязать этот предмет к вашей учётной записи. Позволяет многоразовый доступ к банку из любого места."
 Double-click to bind this item to your account. Allows summoning of the crafting station of your choice. Requires 4 minutes to recharge.,"Дважды щёлкните, чтобы привязать этот предмет к вашей учётной записи. Позволяет призвать станцию ремесла по вашему выбору. Требуется 4 минуты для перезарядки."
 Double-click to break into lumps of aurillium.,"Дважды щёлкните, чтобы разбить на куски ауриллиума."
-"Double-click to bring up the Portal Device interface. Allows the monitoring of major threats across Tyria, toggling of alerts, and portal travel to join threat response forces.","Дважды щёлкните, чтобы открыть интерфейс портального устройства. Позволяет отслеживать основные угрозы по всей Тирии, включать/выключать оповещения и путешествовать через портал, чтобы присоединиться к силам реагирования на угрозы."
-"Double-click to bring up the Portal Device interface. Allows the monitoring of Pact operations in Heart of Maguuma, toggling of alerts, and portal travel to join Pact forces.","Дважды щёлкните, чтобы открыть интерфейс портального устройства. Позволяет отслеживать операции Договора в Сердце Магуумы, включать/выключать оповещения и путешествовать через портал, чтобы присоединиться к силам Договора."
+"Double-click to bring up the Portal Device interface. Allows the monitoring of major threats across Tyria, toggling of alerts, and portal travel to join threat response forces.","Дважды щёлкните, чтобы открыть интерфейс портального устройства. Позволяет отслеживать основные угрозы по всей Тирии, переключать оповещения и путешествовать через портал, чтобы присоединиться к силам реагирования на угрозы."
+"Double-click to bring up the Portal Device interface. Allows the monitoring of Pact operations in Heart of Maguuma, toggling of alerts, and portal travel to join Pact forces.","Дважды щёлкните, чтобы открыть интерфейс портального устройства. Позволяет отслеживать операции Пакта в Сердце Магуумы, переключать оповещения и путешествовать через портал, чтобы присоединиться к силам Пакта."
 Double-click to call an ogre pet to aid you for 5 minutes.,"Дважды щёлкните, чтобы призвать питомца-огра в помощь на 5 минут."
 Double-click to change size. Cannot be used in WvW.,"Дважды щёлкните, чтобы изменить размер. Нельзя использовать в WvW."
 Double-click to change your character name once. The abandoned name will be reserved for you to reclaim on a different character for 24 hours. This item will be destroyed when finished.,"Дважды щёлкните, чтобы изменить имя персонажа один раз. Оставленное имя будет зарезервировано для вас, чтобы вы могли забрать его на другом персонаже в течение 24 часов. Этот предмет будет уничтожен после использования."
-Double-click to change your skill bar and play a flute for your friends.,"Дважды щёлкните, чтобы изменить панель навыков и сыграть на флейте для друзей."
+Double-click to change your skill bar and play a flute for your friends.,"Дважды щёлкните, чтобы изменить панель умений и сыграть на флейте для друзей."
 "Double-click to change your skill bar, allowing you to play music for all those nearby.
 
 Cannot be used in combat.","Дважды щёлкните, чтобы изменить панель умений, позволяя вам играть музыку для всех поблизости.
@@ -660,82 +664,82 @@ Cannot be used in combat.","Дважды щёлкните, чтобы измен
 Нельзя использовать в бою."
 Double-click to channel the wolf spirit.,"Дважды щёлкните, чтобы призвать духа волка."
 "Double-click to choose a Black Lion Chest exclusive item. Once chosen, the item will be account bound.
-Last Update: August 2023.","Дважды щёлкните, чтобы выбрать эксклюзивный предмет из сундука «Чёрный лев». После выбора предмет станет привязанным к учётной записи.
+Last Update: August 2023.","Дважды щёлкните, чтобы выбрать эксклюзивный предмет из сундука Чёрного Льва. После выбора предмет станет привязанным к учётной записи.
 Последнее обновление: август 2023 г."
-Double-click to choose a blue Super Adventure Box weapon skin.,"Дважды щёлкните, чтобы выбрать синий внешний вид для оружия из серии «Супер приключение»."
-Double-click to choose a box of ascended armor.,"Дважды щёлкните, чтобы выбрать сундук с вознесенной броней."
-Double-click to choose a box of ascended weapons.,"Дважды щёлкните, чтобы выбрать сундук с вознесенным оружием."
+Double-click to choose a blue Super Adventure Box weapon skin.,"Дважды щёлкните, чтобы выбрать синий облик оружия из Коробки суперприключений."
+Double-click to choose a box of ascended armor.,"Дважды щёлкните, чтобы выбрать сундук с вознесённой броней."
+Double-click to choose a box of ascended weapons.,"Дважды щёлкните, чтобы выбрать сундук с вознесённым оружием."
 Double-click to choose a Caustic Nightmare weapon skin.,"Дважды щёлкните, чтобы выбрать облик оружия «Едкий кошмар»."
-Double-click to choose a chak weapon.,"Дважды щёлкните, чтобы выбрать оружие чак."
+Double-click to choose a chak weapon.,"Дважды щёлкните, чтобы выбрать оружие чаков."
 Double-click to choose a fractal weapon skin.,"Дважды щёлкните, чтобы выбрать облик фрактального оружия."
 Double-click to choose a Gold Fractal weapon.,"Дважды щёлкните, чтобы выбрать золотое фрактальное оружие."
-Double-click to choose a Living World Icebrood Saga material.,"Дважды щёлкните, чтобы выбрать материал из саги «Живой мир: Ледяной брат»."
+Double-click to choose a Living World Icebrood Saga material.,"Дважды щёлкните, чтобы выбрать материал Живого мира «Сага о ледяном отродье»."
 Double-click to choose a Mastery experience reward.,"Дважды щёлкните, чтобы выбрать награду за мастерство."
 Double-click to choose a Mordant Weapon crafting recipe to learn.,"Дважды щёлкните, чтобы изучить рецепт создания едкого оружия."
-Double-click to choose a Mordrem kidney or eye.,"Дважды щёлкните, чтобы выбрать почку или глаз модрема."
-Double-click to choose a novelty.,"Дважды щёлкните, чтобы выбрать новинку."
+Double-click to choose a Mordrem kidney or eye.,"Дважды щёлкните, чтобы выбрать почку или глаз мордрема."
+Double-click to choose a novelty.,"Дважды щёлкните, чтобы выбрать диковинку."
 "Double-click to choose a pair of ascended boots.
-Contains all armor classes.","Дважды щёлкните, чтобы выбрать пару вознесенных сапог.
+Contains all armor classes.","Дважды щёлкните, чтобы выбрать пару вознесённых сапог.
 Содержит все классы брони."
 "Double-click to choose a pair of ascended gloves.
-Contains all armor classes.","Дважды щёлкните, чтобы выбрать пару вознесенных перчаток.
+Contains all armor classes.","Дважды щёлкните, чтобы выбрать пару вознесённых перчаток.
 Содержит все классы брони."
 "Double-click to choose a pair of ascended leggings.
-Contains all armor classes.","Дважды щёлкните, чтобы выбрать пару вознесенных поножей.
+Contains all armor classes.","Дважды щёлкните, чтобы выбрать пару вознесённых поножей.
 Содержит все классы брони."
 "Double-click to choose a pair of ascended shoulders.
-Contains all armor classes.","Дважды щёлкните, чтобы выбрать пару вознесенных наплечников.
+Contains all armor classes.","Дважды щёлкните, чтобы выбрать пару вознесённых наплечников.
 Содержит все классы брони."
-Double-click to choose a pair of stat-selectable ascended Cursed Gloves.,"Дважды щёлкните, чтобы выбрать пару вознесенных Проклятых перчаток с выбираемыми характеристиками."
-Double-click to choose a piece of ascended armor and receive 5 transmutation charges.,"Дважды щёлкните, чтобы выбрать часть вознесенной брони и получить 5 зарядов трансмутации."
-Double-click to choose a piece of ascended armor with selectable attributes.,"Дважды щёлкните, чтобы выбрать часть вознесенной брони с выбираемыми характеристиками."
-Double-click to choose a piece of Ascended armor.,"Дважды щёлкните, чтобы выбрать часть вознесенной брони."
-Double-click to choose a piece of ascended armor.,"Дважды щёлкните, чтобы выбрать часть вознесенной брони."
+Double-click to choose a pair of stat-selectable ascended Cursed Gloves.,"Дважды щёлкните, чтобы выбрать пару вознесённых проклятых перчаток с выбираемыми характеристиками."
+Double-click to choose a piece of ascended armor and receive 5 transmutation charges.,"Дважды щёлкните, чтобы выбрать часть вознесённой брони и получить 5 зарядов трансмутации."
+Double-click to choose a piece of ascended armor with selectable attributes.,"Дважды щёлкните, чтобы выбрать часть вознесённой брони с выбираемыми характеристиками."
+Double-click to choose a piece of Ascended armor.,"Дважды щёлкните, чтобы выбрать часть вознесённой брони."
+Double-click to choose a piece of ascended armor.,"Дважды щёлкните, чтобы выбрать часть вознесённой брони."
 "Double-click to choose a piece of ascended chest armor.
-Contains all armor classes.","Дважды щёлкните, чтобы выбрать часть вознесенной брони для груди.
+Contains all armor classes.","Дважды щёлкните, чтобы выбрать часть вознесённой нагрудной брони.
 Содержит все классы брони."
 "Double-click to choose a piece of ascended headgear.
-Contains all armor classes.","Дважды щёлкните, чтобы выбрать часть вознесенного головного убора.
+Contains all armor classes.","Дважды щёлкните, чтобы выбрать часть вознесённого головного убора.
 Содержит все классы брони."
-Double-click to choose a piece of Bladed armor.,"Дважды щёлкните, чтобы выбрать часть брони Клинка."
-Double-click to choose a piece of gear with Minstrel's stats.,"Дважды щёлкните, чтобы выбрать предмет экипировки с характеристиками Менестреля."
-Double-click to choose a piece of gear with Trailblazer's stats.,"Дважды щёлкните, чтобы выбрать предмет экипировки с характеристиками Первопроходца."
-Double-click to choose a piece of gear with Viper's stats.,"Дважды щёлкните, чтобы выбрать предмет экипировки с характеристиками Гадюки."
-Double-click to choose a piece of Leystone armor.,"Дважды щёлкните, чтобы выбрать часть брони Лейстоуна."
+Double-click to choose a piece of Bladed armor.,"Дважды щёлкните, чтобы выбрать часть клинковой брони."
+Double-click to choose a piece of gear with Minstrel's stats.,"Дважды щёлкните, чтобы выбрать предмет снаряжения с характеристиками «Менестрель»."
+Double-click to choose a piece of gear with Trailblazer's stats.,"Дважды щёлкните, чтобы выбрать предмет снаряжения с характеристиками «Первопроходец»."
+Double-click to choose a piece of gear with Viper's stats.,"Дважды щёлкните, чтобы выбрать предмет снаряжения с характеристиками «Гадюка»."
+Double-click to choose a piece of Leystone armor.,"Дважды щёлкните, чтобы выбрать часть брони из лей-камня."
 "Double-click to choose a piece of light, medium, or heavy armor.","Дважды щёлкните, чтобы выбрать часть лёгкой, средней или тяжёлой брони."
-Double-click to choose a recipe for crafting a single weight of Titanplate Boots.,"Дважды щёлкните, чтобы выбрать рецепт для создания одного вида сапог из титановой пластины."
-Double-click to choose a recipe for crafting a single weight of Titanplate Coat.,"Дважды щёлкните, чтобы выбрать рецепт для создания одного веса титанового покрытия."
-Double-click to choose a recipe for crafting a single weight of Titanplate Gloves.,"Дважды щёлкните, чтобы выбрать рецепт для создания одного веса титановых перчаток."
-Double-click to choose a recipe for crafting a single weight of Titanplate Headpiece.,"Дважды щёлкните, чтобы выбрать рецепт для создания одного веса титанового головного убора."
-Double-click to choose a recipe for crafting a single weight of Titanplate Leggings.,"Дважды щёлкните, чтобы выбрать рецепт для создания одного веса титановых поножей."
-Double-click to choose a recipe for crafting a single weight of Titanplate Shoulders.,"Дважды щёлкните, чтобы выбрать рецепт для создания одного веса титановых наплечников."
-Double-click to choose a recipe for crafting gear with the Commander's stat combination.,"Дважды щёлкните, чтобы выбрать рецепт для создания экипировки со статистическими характеристиками командира."
-Double-click to choose a recipe for crafting gear with the Diviner's stat combination.,"Дважды щёлкните, чтобы выбрать рецепт для создания снаряжения с комбинацией характеристик Предсказателя."
-Double-click to choose a recipe for crafting gear with the Dragon's stat combination.,"Дважды щёлкните, чтобы выбрать рецепт для создания снаряжения с комбинацией характеристик Дракона."
-Double-click to choose a recipe for crafting gear with the Minstrel's stat combination.,"Дважды щёлкните, чтобы выбрать рецепт для создания экипировки со статистическими характеристиками менестреля."
-Double-click to choose a recipe for crafting gear with the Plaguedoctor's stat combination.,"Дважды щёлкните, чтобы выбрать рецепт для создания снаряжения с комбинацией характеристик Чумного доктора."
-Double-click to choose a recipe for crafting gear with the Ritualist's stat combination.,"Дважды щёлкните, чтобы выбрать рецепт для создания снаряжения с комбинацией характеристик Ритуалиста."
-Double-click to choose a recipe for crafting gear with the Seraph stat combination.,"Дважды щёлкните, чтобы выбрать рецепт для создания снаряжения с комбинацией характеристик Серафима."
-Double-click to choose a recipe for crafting gear with the Sinister stat combination.,"Дважды щёлкните, чтобы выбрать рецепт для создания снаряжения с комбинацией характеристик Зловещего."
-Double-click to choose a recipe for crafting gear with the Trailblazer's stat combination.,"Дважды щёлкните, чтобы выбрать рецепт для создания экипировки со статистическими показателями ""Первопроходца""."
-Double-click to choose a recipe for crafting gear with the Vigilant stat combination.,"Дважды щёлкните, чтобы выбрать рецепт для создания экипировки с комбинацией характеристик «Бдительный»."
-Double-click to choose a recipe for crafting gear with the Viper's stat combination.,"Дважды щёлкните, чтобы выбрать рецепт для создания снаряжения с комбинацией характеристик Гадюки."
-Double-click to choose a recipe for crafting gear with the Wanderer's stat combination.,"Дважды щёлкните, чтобы выбрать рецепт для создания экипировки со статистическими показателями «Странника»."
+Double-click to choose a recipe for crafting a single weight of Titanplate Boots.,"Дважды щёлкните, чтобы выбрать рецепт для создания сапог из титановых лат одного весового класса."
+Double-click to choose a recipe for crafting a single weight of Titanplate Coat.,"Дважды щёлкните, чтобы выбрать рецепт для создания куртки из титановых лат одного весового класса."
+Double-click to choose a recipe for crafting a single weight of Titanplate Gloves.,"Дважды щёлкните, чтобы выбрать рецепт для создания перчаток из титановых лат одного весового класса."
+Double-click to choose a recipe for crafting a single weight of Titanplate Headpiece.,"Дважды щёлкните, чтобы выбрать рецепт для создания головного убора из титановых лат одного весового класса."
+Double-click to choose a recipe for crafting a single weight of Titanplate Leggings.,"Дважды щёлкните, чтобы выбрать рецепт для создания поножей из титановых лат одного весового класса."
+Double-click to choose a recipe for crafting a single weight of Titanplate Shoulders.,"Дважды щёлкните, чтобы выбрать рецепт для создания наплечников из титановых лат одного весового класса."
+Double-click to choose a recipe for crafting gear with the Commander's stat combination.,"Дважды щёлкните, чтобы выбрать рецепт для создания снаряжения с комбинацией характеристик «Командир»."
+Double-click to choose a recipe for crafting gear with the Diviner's stat combination.,"Дважды щёлкните, чтобы выбрать рецепт для создания снаряжения с комбинацией характеристик «Прорицатель»."
+Double-click to choose a recipe for crafting gear with the Dragon's stat combination.,"Дважды щёлкните, чтобы выбрать рецепт для создания снаряжения с комбинацией характеристик «Дракон»."
+Double-click to choose a recipe for crafting gear with the Minstrel's stat combination.,"Дважды щёлкните, чтобы выбрать рецепт для создания снаряжения с комбинацией характеристик «Менестрель»."
+Double-click to choose a recipe for crafting gear with the Plaguedoctor's stat combination.,"Дважды щёлкните, чтобы выбрать рецепт для создания снаряжения с комбинацией характеристик «Чумной доктор»."
+Double-click to choose a recipe for crafting gear with the Ritualist's stat combination.,"Дважды щёлкните, чтобы выбрать рецепт для создания снаряжения с комбинацией характеристик «Ритуалист»."
+Double-click to choose a recipe for crafting gear with the Seraph stat combination.,"Дважды щёлкните, чтобы выбрать рецепт для создания снаряжения с комбинацией характеристик «Серафим»."
+Double-click to choose a recipe for crafting gear with the Sinister stat combination.,"Дважды щёлкните, чтобы выбрать рецепт для создания снаряжения с комбинацией характеристик «Зловещий»."
+Double-click to choose a recipe for crafting gear with the Trailblazer's stat combination.,"Дважды щёлкните, чтобы выбрать рецепт для создания снаряжения с комбинацией характеристик «Первопроходец»."
+Double-click to choose a recipe for crafting gear with the Vigilant stat combination.,"Дважды щёлкните, чтобы выбрать рецепт для создания снаряжения с комбинацией характеристик «Бдительный»."
+Double-click to choose a recipe for crafting gear with the Viper's stat combination.,"Дважды щёлкните, чтобы выбрать рецепт для создания снаряжения с комбинацией характеристик «Гадюка»."
+Double-click to choose a recipe for crafting gear with the Wanderer's stat combination.,"Дважды щёлкните, чтобы выбрать рецепт для создания снаряжения с комбинацией характеристик «Странник»."
 Double-click to choose a red celestial infusion.,"Дважды щёлкните, чтобы выбрать красную небесную инфузию."
 Double-click to choose a relic container.,"Дважды щёлкните, чтобы выбрать контейнер с реликвией."
 Double-click to choose a relic.,"Дважды щёлкните, чтобы выбрать реликвию."
 Double-click to choose a reward from the selection.,"Дважды щёлкните, чтобы выбрать награду из предложенных вариантов."
-Double-click to choose a set of ascended armor.,"Дважды щёлкните, чтобы выбрать набор вознесенной брони."
+Double-click to choose a set of ascended armor.,"Дважды щёлкните, чтобы выбрать набор вознесённой брони."
 Double-click to choose a set of legacy-inspired armor.,"Дважды щёлкните, чтобы выбрать набор брони в стиле прошлых дополнений."
-Double-click to choose a stat-selectable ascended Special Ops armor piece.,"Дважды щёлкните, чтобы выбрать предмет брони Вознесённого специального подразделения с настраиваемыми характеристиками."
+Double-click to choose a stat-selectable ascended Special Ops armor piece.,"Дважды щёлкните, чтобы выбрать предмет вознесённой брони спецопераций с выбираемыми характеристиками."
 Double-click to choose a two-week pass to one of the lounges.,"Дважды щёлкните, чтобы выбрать двухнедельный пропуск в один из лаунжей."
 Double-click to choose a vigil weapon.,"Дважды щёлкните, чтобы выбрать оружие Дозора."
 Double-click to choose an abyssal infusion.,"Дважды щёлкните, чтобы выбрать бездонную инфузию."
-Double-click to choose an account bound piece of Extremis armor.,"Двойной щелчок, чтобы выбрать предмет брони Экстремис, привязанный к учётной записи."
+Double-click to choose an account bound piece of Extremis armor.,"Дважды щёлкните, чтобы выбрать предмет брони Экстремис, привязанный к учётной записи."
 Double-click to choose an account bound piece of Restless Captain's armor.,"Дважды щёлкните, чтобы выбрать привязанный к учётной записи элемент брони Беспокойного капитана."
-Double-click to choose an account-bound Corrupted Hero weapon.,"Дважды щёлкните, чтобы выбрать привязанное к учётной записи оружие Оскверненного героя."
-Double-click to choose an account-bound Kurzick weapon.,"Дважды щёлкните, чтобы выбрать привязанное к учётной записи оружие курциков."
-Double-click to choose an account-bound Officer's Remnant weapon.,"Дважды щёлкните, чтобы выбрать привязанное к учётной записи оружие Остатка офицера."
+Double-click to choose an account-bound Corrupted Hero weapon.,"Дважды щёлкните, чтобы выбрать привязанное к учётной записи осквернённое геройское оружие."
+Double-click to choose an account-bound Kurzick weapon.,"Дважды щёлкните, чтобы выбрать привязанное к учётной записи оружие курзиков."
+Double-click to choose an account-bound Officer's Remnant weapon.,"Дважды щёлкните, чтобы выбрать привязанное к учётной записи оружие «Остатки офицера»."
 "Double-click to choose an account-bound, exclusive dye from this pack.","Дважды щёлкните, чтобы выбрать привязанную к учётной записи эксклюзивную краску из этого набора."
-Double-click to choose an Ancient Boreal weapon skin.,"Дважды щёлкните, чтобы выбрать облик оружия Древнего Борея."
+Double-click to choose an Ancient Boreal weapon skin.,"Дважды щёлкните, чтобы выбрать облик древнего бореального оружия."
 Double-click to choose an armor class.,"Дважды щёлкните, чтобы выбрать класс брони."

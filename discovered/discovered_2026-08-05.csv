@@ -34,7 +34,7 @@ Your first attack after entering shroud transfers conditions.<br><c=@reminder>On
 The Guild Wars 2: Path of Fire expansion and the Living World episode ""A Bug in the System"" are required to access this map.","Найдите других игроков, чтобы вместе исследовать Песчаные острова!
 Для доступа к этой карте необходимо установить дополнение Guild Wars 2: Path of Fire и пройти эпизод «Ошибка в системе» из серии Living World."
 "Weaken your foe with a fierce blow, dealing increased damage when striking a controlled or defiant foe.<br><c=@reminder>Controls include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Ослабьте врага мощным ударом, нанося увеличенный урон при атаке под контролем или в состоянии вызова.<br><c=@reminder>Контроль включает оглушение, дезориентацию, отбрасывание, притягивание, сбивание с ног, погружение, поднятие в воздух, насмешку и страх.</c>"
-<c=@abilitytype>Signet Passive:</c> Faster endurance regeneration.<br><c=@abilitytype>Signet Active:</c> Cure all conditions and gain endurance. Gain additional endurance for each condition cured.,"<c=@abilitytype>Пассивный навык ""Знамя"":</c> Ускоренная регенерация выносливости.<br><c=@abilitytype>Активный навык ""Знамя"":</c> Снимает все негативные эффекты и восстанавливает выносливость. Восстанавливает дополнительную выносливость за каждый снятый эффект."
+<c=@abilitytype>Signet Passive:</c> Faster endurance regeneration.<br><c=@abilitytype>Signet Active:</c> Cure all conditions and gain endurance. Gain additional endurance for each condition cured.,<c=@abilitytype>Печать (пассивно):</c> Ускоренная регенерация выносливости.<br><c=@abilitytype>Печать (активно):</c> Снимает все негативные эффекты и восстанавливает выносливость. Восстанавливает дополнительную выносливость за каждый снятый эффект.
 Knock down your foe. Weakened foes stay knocked down longer. Recharges Fierce Blow if you control a foe with this ability.<br><c=reminder>Recharges Fierce Blow if striking a target with a defiance bar.</c>,"Сбивайте врагов с ног. Ослабленные враги дольше остаются в этом состоянии. Если вы используете эту способность, чтобы контролировать врага, то перезаряжается умение «Яростный удар».<br><c=reminder>Перезаряжает умение «Яростный удар» при нанесении удара по цели с полоской сопротивления.</c>"
 "Crush your opponent's armor, leaving them vulnerable and gaining might. Vulnerability and might stacks doubled if you hit a disabled foe.<br><c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Сокрушайте броню противника, делая его уязвимым и получая эффект «Мощь». Эффекты «Уязвимость» и «Мощь» суммируются вдвое, если вы атакуете обездвиженного врага.<br><c=@reminder>Обездвиживание включает оглушение, ошеломление, отбрасывание, притягивание, сбивание с ног, погружение, подъём в воздух, отталкивание, насмешку и страх.</c>"
 "Find others to help you explore Grothmar Valley!
@@ -257,7 +257,7 @@ Grants a 33%% chance to receive a bonus fine crafting material after gathering i
 
 Даёт 33%% шанс получить дополнительный материал для превосходной крафты при сборе ресурсов, помимо обычных результатов сбора."
 Completed Siren's Reef at Fractal Scale 76 or Higher,"Прошли ""Сирений риф"" на уровне сложности фракталов 76 или выше."
-<c=@abilitytype>Signet Passive:</c> Generates life force while in combat.<br><c=@abilitytype>Signet Active:</c> Sacrifice health to revive one nearby downed ally.,"<c=@abilitytype>Пассивная способность знака:</c> Генерирует жизненную силу в бою.<br><c=@abilitytype>Активная способность знака:</c> Пожертвуйте здоровьем, чтобы воскресить одного из находящихся рядом союзников."
+<c=@abilitytype>Signet Passive:</c> Generates life force while in combat.<br><c=@abilitytype>Signet Active:</c> Sacrifice health to revive one nearby downed ally.,"<c=@abilitytype>Печать (пассивно):</c> Генерирует жизненную силу в бою.<br><c=@abilitytype>Печать (активно):</c> Пожертвуйте здоровьем, чтобы воскресить одного из находящихся рядом союзников."
 ((188840)),((188840))
 "Gain Insight when disabling foes or removing boons. Full Counter refreshes all <c=@abilitytype>burst</c> skills on hit.<br><c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt and fear.","Получайте прозрение при ослаблении врагов или снятии благословений. Полная контратака восстанавливает все навыки <c=@abilitytype>быстрой атаки</c> после попадания.<br><c=@reminder>Ослабления включают оглушение, ошеломление, отбрасывание, притягивание, сбивание с ног, погружение, подъём, насмешку и страх."
 "<c=@flavor>""Trick or treat!""</c>
@@ -280,7 +280,7 @@ Reach level 80 with one character on your account.,Достигните 80-го 
 ","Дважды щёлкните, чтобы открыть первую коллекцию в цепочке заданий по созданию Вороньего посоха — предшественника легендарного посоха Невермор.
 "
 Blind and poison foes near your target with a dark cloud.,Ослепляйте и отравляйте врагов рядом с вашей целью тёмным облаком.
-<c=@abilitytype>Signet Passive:</c> Your movement speed is increased.<br><c=@abilitytype>Signet Active:</c>Strike and remove boons from nearby foes. Heal for each foe you strike and for each boon removed.,<c=@abilitytype>Пассивная способность знака:</c> Ваша скорость передвижения увеличена.<br><c=@abilitytype>Активная способность знака:</c>Нанесите удар и снимите благословения с ближайших врагов. Восстановите здоровье за каждого пораженного врага и за каждое снятое благословение.
+<c=@abilitytype>Signet Passive:</c> Your movement speed is increased.<br><c=@abilitytype>Signet Active:</c>Strike and remove boons from nearby foes. Heal for each foe you strike and for each boon removed.,<c=@abilitytype>Печать (пассивно):</c> Ваша скорость передвижения увеличена.<br><c=@abilitytype>Печать (активно):</c>Нанесите удар и снимите благословения с ближайших врагов. Восстановите здоровье за каждого пораженного врага и за каждое снятое благословение.
 Mac version developed by TransGaming Inc. using Cider™. Cider is Copyright © 2000-2013 TransGaming Inc. Additional copyright and license information for sub-components of Cider can be found online at http://transgaming.com/ciderlicense.,Версия для Mac разработана компанией TransGaming Inc. с использованием Cider™. Авторские права на Cider принадлежат компании TransGaming Inc. © 2000–2013 гг. Дополнительная информация об авторских правах и лицензиях на отдельные компоненты Cider доступна в Интернете по адресу http://transgaming.com/ciderlicense.
 "Throw a spear at your target. If it strikes a foe, it inflicts conditions and you may reactivate to teleport to that foe. <br><c=@reminder>This skill recharges when exiting death shroud.</c>","Бросьте копьё в цель. Если оно поразит противника, на него будут наложены эффекты и вы сможете повторно активировать умение, чтобы телепортироваться к этому противнику. <br><c=@reminder>Это умение перезаряжается при выходе из состояния «Саван».</c>"
 "Deal increased strike damage to disabled or defiant foes. Outgoing stun duration increased. <br><c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Наносит увеличенный урон при ударе по ослабленным или находящимся в состоянии защиты противникам. Увеличена длительность оглушения. <br><c=@reminder>Ослабление включает в себя: оглушение, ошеломление, отбрасывание, подтягивание, сбивание с ног, погружение, поднятие в воздух, насмешку и страх.</c>"
@@ -320,9 +320,9 @@ The Guild Wars 2: Heart of Thorns expansion and the Living World episode ""One P
 
 You may have to travel to Lion's Arch to update progress by doing the following:
 • Having the item in your inventory
-• Having the associated achievement completed","Разблокируйте ""Пожирателей"" и ""Обмены"", полученные разными способами. ""Пожиратель волшебника"" использует это достижение, чтобы предоставить вам доступ к большинству соответствующих предметов.
+• Having the associated achievement completed","Разблокируйте «Пожирателей» и «Обмены», полученные разными способами. «Пожиратель волшебника» использует это достижение, чтобы предоставить вам доступ к большинству соответствующих предметов.
 
-Возможно, вам потребуется отправиться в Королевскую гавань, чтобы обновить прогресс, выполнив следующие действия:
+Возможно, вам потребуется отправиться в Львиную Арку, чтобы обновить прогресс, выполнив следующие действия:
 • Предмет находится в вашем инвентаре.
 • Соответствующее достижение выполнено"
 "Complete events in Domain of Vabbi. Group events will grant more progress.
@@ -337,7 +337,7 @@ Earn bonus progress by completing the ""Tear down the statue of Palawa Joko"" ev
 Получите дополнительный прогресс за выполнение события «Разрушьте статую Палавы Джоко»."
 "This title can be purchased from Shiny King M'takk in Hooligan's Route in Lion's Arch if you meet the requirements. 
 
-Surely it must be an official title if a self-proclaimed skritt king gives it to you, right?","Этот титул можно приобрести у Блестящего короля М’такка в районе «Улица хулиганов» в Королевской гавани, если вы соответствуете требованиям.
+Surely it must be an official title if a self-proclaimed skritt king gives it to you, right?","Этот титул можно приобрести у Блестящего короля М’такка в районе «Улица хулиганов» в Львиной Арке, если вы соответствуете требованиям.
 
 В конце концов, это должно быть официальное звание, если его дарит самопровозглашенный король скриттов, верно?"
 "Gain Health Every Second
@@ -481,12 +481,12 @@ Thank you, and happy playing!
 
 You may have to travel to Lion's Arch with the item in your inventory to update progress.","Разблокируйте гоблинов, полученных в Чёрном торговом квартале. Волшебный гоблин использует это достижение, чтобы позволить вам приобретать соответствующие предметы.
 
-Возможно, вам потребуется отправиться в Королевскую гавань с этим предметом в инвентаре, чтобы обновить прогресс."
+Возможно, вам потребуется отправиться в Львиную Арку с этим предметом в инвентаре, чтобы обновить прогресс."
 "Gain 100 Toughness When Health Is above 90%%
 +2%% to All Attributes
-+10%% Experience from Kills","Получите 100 единиц живучести, когда уровень здоровья превышает 90% %%.
-+2 %% ко всем характеристикам.
-+10 %% опыта за убийства."
++10%% Experience from Kills","Получите 100 единиц стойкости, когда уровень здоровья превышает 90%%.
++2%% ко всем характеристикам.
++10%% опыта за убийства."
 "Unlock %num2% pieces of the True Sight armor set by crafting them or purchasing them from the Trading Post and binding them to you.
 
 Unlocking one weight's skin unlocks the other weights' skins.","Создайте или приобретите в торговом центре и привяжите к себе %num2% предмета экипировки из набора ""Истинное зрение"", чтобы открыть их.
@@ -597,7 +597,7 @@ It's raining cats and dogs out there.
 Except the cats are Dominion ordnance, and the dogs are also Dominion ordnance.","Сюжетный инстанс: Неожиданный поворот
 Там дождь льёт как из ведра.
 Кроме того, кошки – это оружие Доминиона, и собаки тоже являются оружием Доминиона."
-"<c=@abilitytype>Psionic.</c> Drop a massive blade on a location, immobilizing enemies. This attack deals increased damage against controlled, downed, or defiant foes. <c=@reminder>Does bonus defiance-bar damage to defiant foes.</c><br><c=@reminder>Controls include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","<c=@abilitytype>Псионический.</c> Обрушьте на цель огромный клинок, обездвиживая врагов. Эта атака наносит увеличенный урон целям, находящимся под контролем, в состоянии оглушения или сопротивления. <c=@reminder>Наносит дополнительный урон шкале сопротивления врагам, находящимся в состоянии сопротивления.</c><br><c=@reminder>Эффекты контроля включают оглушение, ошеломление, отбрасывание, притягивание, сбивание с ног, погружение, подъём, отталкивание и страх.</c>"
+"<c=@abilitytype>Psionic.</c> Drop a massive blade on a location, immobilizing enemies. This attack deals increased damage against controlled, downed, or defiant foes. <c=@reminder>Does bonus defiance-bar damage to defiant foes.</c><br><c=@reminder>Controls include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","<c=@abilitytype>Псионика.</c> Обрушьте на цель огромный клинок, обездвиживая врагов. Эта атака наносит увеличенный урон целям, находящимся под контролем, в состоянии оглушения или сопротивления. <c=@reminder>Наносит дополнительный урон шкале сопротивления врагам, находящимся в состоянии сопротивления.</c><br><c=@reminder>Эффекты контроля включают оглушение, ошеломление, отбрасывание, притягивание, сбивание с ног, погружение, подъём, отталкивание и страх.</c>"
 "Find others to help you explore Dragon's End.
 Requires Guild Wars 2: End of Dragons expansion to access this map.","Найдите других игроков, чтобы вместе исследовать Драконий Предел.
 Для доступа к этой карте требуется дополнение Guild Wars 2: End of Dragons."
@@ -755,7 +755,7 @@ Unlock the siege turtle mount, jade bots, skiffs, fishing, nine new elite specia
 
 <c=@reminder>Material storage is a tab within your account vault that allows you to store crafting materials for easy access when crafting. Items can be deposited directly to the material storage from your inventory at any time.</c>","Поместите предметы в хранилище материалов.
 
-<c=@reminder>Хранилище материалов — это вкладка в вашем личном хранилище, которая позволяет хранить материалы для крафта и лёгко получать к ним доступ во время создания предметов. Вы можете помещать предметы непосредственно в хранилище материалов из своего инвентаря в любое время.</c>"
+<c=@reminder>Хранилище материалов — это вкладка в вашем личном хранилище, которая позволяет хранить материалы для крафта и легко получать к ним доступ во время создания предметов. Вы можете помещать предметы непосредственно в хранилище материалов из своего инвентаря в любое время.</c>"
 "Consume %num2% utility item[s] to obtain utility enhancements.
 
 <c=@reminder>Utility consumables are items that increase specific combat abilities. Double-click utility consumables to use them.</c>","Используйте %num2% предметы, чтобы получить улучшения характеристик.
@@ -941,7 +941,7 @@ Unlock the siege turtle mount, jade bots, skiffs, fishing, nine new elite specia
 Note: Completion of this achievement requires completion of the Riding Skyscales achievements.","Истан пропитан запахом смерти и обмана лишь для тех, кто не способен увидеть…
 
 Примечание: для получения этого достижения необходимо выполнить достижения «Укрощение небесных ящеров»."
-"<c=@abilitytype>Shatter.</c> Destroy all your clones, damaging nearby foes. Strikes again after a delay.<br><c=@reminder>Shatter traits only affect the first strike of this skill.</c>","<c=@abilitytype>Осколки</c>. Уничтожьте всех своих клонов, нанося урон ближайшим врагам. Наносит повторный удар после небольшой задержки.<br><c=@reminder>Таланты «Осколки» влияют только на первый удар этой способности.</c>"
+"<c=@abilitytype>Shatter.</c> Destroy all your clones, damaging nearby foes. Strikes again after a delay.<br><c=@reminder>Shatter traits only affect the first strike of this skill.</c>","<c=@abilitytype>Осколки.</c>. Уничтожьте всех своих клонов, нанося урон ближайшим врагам. Наносит повторный удар после небольшой задержки.<br><c=@reminder>Таланты «Осколки» влияют только на первый удар этой способности.</c>"
 "-10%% Incoming Damage
 +100 Concentration
 +70 Power
@@ -972,7 +972,7 @@ Note: Completion of this achievement requires completion of the Riding Skyscales
 +20%% Шанс найти магический предмет
 +20%% Шанс найти золото
 +10%% Получаемый опыт WXP"
-"Gain barrier when you strike foes with a stealth attack. When you apply stealth to allies, you also grant them barrier.<br><c=@reminder>This effect can only be received once and will reset when stealth is removed.</c>","Получайте барьер при нанесении урона врагам в скрытом режиме. При применении скрытности к союзникам вы также даёте им барьер.<br><c=@reminder>Этот эффект можно получить только один раз, и он сбросится после снятия скрытности.</c>"
+"Gain barrier when you strike foes with a stealth attack. When you apply stealth to allies, you also grant them barrier.<br><c=@reminder>This effect can only be received once and will reset when stealth is removed.</c>","Получайте барьер при нанесении урона врагам в скрытом режиме. При применении невидимости к союзникам вы также даёте им барьер.<br><c=@reminder>Этот эффект можно получить только один раз, и он сбросится после снятия невидимости.</c>"
 "After a number of missile hits, release a volley of arrows at your target and gain an arrow.<br><c=@reminder>Missiles from this trait do not count toward its next trigger.</c>","После нескольких попаданий ракет выпустите залп стрел по цели и получите дополнительную стрелу.<br><c=@reminder>Ракеты, выпущенные этой чертой умения, не учитываются при следующем использовании.</c>"
 Gain concentration. Gain life force when you summon a creature.<br><c=@reminder>Spirits and minions are creatures.</c>,Получите концентрацию. Получайте жизненную силу при призыве существа. <br><c=@reminder> Духи и прислужники — это существа.</c>
 "Gain access to spirit innervation skills, allowing you to channel energy to your spirits for an additional effect. <br>Gain life force when you use an innervate skill.","Получите доступ к навыкам духовной иннервации, позволяющим направлять энергию своим духам для получения дополнительного эффекта. <br>При использовании навыка иннервации вы получаете жизненную силу."
@@ -1363,7 +1363,7 @@ Sec scritima aes, sec faede.","Эмеркадани, один из вас.
 "You would not believe the hurdles I surmounted to get this recording out. I still see angry clouds when I close my eyes...
 —Chief Melodist Flac","Вы не поверите, какие препятствия мне пришлось преодолеть, чтобы закончить эту запись. Даже сейчас, когда я закрываю глаза, я вижу грозные тучи…
 —Главный мелодист Флак"
-<c=@abilitytype>Signet Passive:</c> Grants health every time you cast a spell. <br><c=@abilitytype>Signet Active:</c> Heal yourself.,"<c=@abilitytype>Пассивный навык знака:</c> Восстанавливает здоровье каждый раз, когда вы используете заклинание. <br><c=@abilitytype>Активный навык знака:</c> Лечит вас."
+<c=@abilitytype>Signet Passive:</c> Grants health every time you cast a spell. <br><c=@abilitytype>Signet Active:</c> Heal yourself.,"<c=@abilitytype>Печать (пассивно):</c> Восстанавливает здоровье каждый раз, когда вы используете заклинание. <br><c=@abilitytype>Печать (активно):</c> Лечит вас."
 "Story Instance: Scion & Champion
 
 Hint: A veteran ogre appears each time a crystal reaches a 50%% charge.","Сюжетный инстанс: «Преемник и чемпион»
@@ -1551,8 +1551,8 @@ How long will this go on?","Путешествие продолжается.
 Как долго это будет длиться?"
 "Disabling a foe grants barrier to nearby allies. Your function gyro dazes foes when cast. <br><c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Оглушение противника даёт барьер находящимся рядом союзникам. Ваша способность «Гиро» оглушает врагов при использовании. <br><c=@reminder>К оглушению относятся: стан, оглушение, отбрасывание, подтягивание, сбивание с ног, погружение, поднятие в воздух, насмешка и страх.</c>"
 "Complete the fractal dungeon at this difficulty in the Fractals of the Mists through the portal in Lion's Arch.
-Requires the mastery Follows Advice.","Пройдите фрактальный данж на этой сложности в «Фракталах Туманов», используя портал в Королевской Гавани.
-Требуется знание ""Следуй советам""."
+Requires the mastery Follows Advice.","Пройдите фрактальный данж на этой сложности в «Фракталах Туманов», используя портал в Львиной Арке.
+Требуется знание «Следуй советам»."
 Deal increased strike damage to foes above the health threshold. Also deal more damage to foes with barrier.<br><c=@reminder>Damage bonuses do not stack.</c>,"Наносит увеличенный урон при попадании по противникам, чей уровень здоровья превышает заданный порог. Также наносит больше урона противникам с барьером.<br><c=@reminder>Бонусы к урону не суммируются.</c>"
 <c=@abilitytype>Minions</c> have increased health. Gain <c=@abilitytype>carapace</c> for each minion you control.<br><c=@reminder>Your minions are destroyed when this trait is reassigned.</c>,"У <c=@abilitytype>прислужников</c> увеличено количество здоровья. Вы получаете <c=@abilitytype>защитную броню</c> за каждого прислужника, которым вы управляете.<br><c=@reminder>При переназначении этой черты все ваши прислужники уничтожаются.</c>"
 Enemies you interrupt are inflicted with torment.<br><c=@reminder>This trait can only affect enemies with defiance bars once per interval.</c>,"Враги, прерванные вами, получают эффект «мучение».<br><c=@reminder>Этот талант может воздействовать на врагов с полосками сопротивления не чаще одного раза за интервал.</c>"
@@ -1594,7 +1594,7 @@ Risks: Local fauna remarkably aggressive. Surveyors report possible air-quality 
  
 Эффективность: высокая.
  
-Плюсы: Часть раскопок уже проводилась в прошлом, но место было заброшено. Здесь сохранились богатые залежи. Судя по остаткам конструкций, предыдущие попытки раскопок могли быть предприняты люксонами; возможно, удастся что-то спасти, хотя большая часть, похоже, повреждена коррозией или не подлежит восстановлению. К яшме можно лёгко добраться.
+Плюсы: Часть раскопок уже проводилась в прошлом, но место было заброшено. Здесь сохранились богатые залежи. Судя по остаткам конструкций, предыдущие попытки раскопок могли быть предприняты люксонами; возможно, удастся что-то спасти, хотя большая часть, похоже, повреждена коррозией или не подлежит восстановлению. К яшме можно легко добраться.
  
 Риски: Местная фауна отличается необычайной агрессивностью. По данным геологов, возможно наличие проблем с качеством воздуха — может потребоваться стандартное оборудование для фильтрации воздуха. Доступ по железной дороге затруднен и сложен, но возможен — возможно, это даже плюс, если предпочтительнее избегать пристального внимания регулирующих органов?"
 "Create a holographic launch pad and leap to your foe. The pad remains behind for a short duration, granting increased movement speed to allies who touch it.","Создайте голографическую стартовую площадку и совершите прыжок в сторону врага. Площадка остаётся на месте некоторое время, давая союзникам, которые её коснутся, повышенную скорость передвижения."
@@ -1706,7 +1706,7 @@ Modniir Warleader,Военачальник Моднир
 +2 точности"
 "You are resting in the homestead. If you rest for 4 hours, you will become Well Rested and earn bonus experience. The amount of bonus experience depends on your Homesteading Mastery level.
 
-If you are already Well Rested, any elapsed time will be returned to you when you leave the homestead unless you log out.","Вы отдыхаете в своём жилище. Если отдохнуть здесь 4 часа, вы почувствуете себя бодрым и получите дополнительный опыт. Количество бонусного опыта зависит от вашего уровня владения навыком «Домоводство».
+If you are already Well Rested, any elapsed time will be returned to you when you leave the homestead unless you log out.","Вы отдыхаете в своём усадьбе. Если отдохнуть здесь 4 часа, вы почувствуете себя бодрым и получите дополнительный опыт. Количество бонусного опыта зависит от вашего уровня владения навыком «Домоводство».
 
 Если у вас уже есть эффект «Отдохнувший», то при выходе из дома вам будет возвращено прошедшее время, если только вы не выйдите из учётной записи."
 ((931918)),((931918))
@@ -1797,7 +1797,7 @@ Build 30 stacks to gain increased magic find and 50%% damage reduction from cond
 
 Build 30 stacks to gain a 33%% chance to steal life on critical hits to enemies with Essence of Resilience for 30 minutes.","Получается в бою с врагами, обладающими «Сущностью бдительности», и при подборе их сущности, которая даёт ярость, выносливость и быстроту.
 
-Накопите 30 единиц, чтобы получить 33%%% шанс красть жизнь при критических ударах по врагам с «Сущностью стойкости» в течение 30 минут."
+Накопите 30 единиц, чтобы получить 33%% шанс красть жизнь при критических ударах по врагам с «Сущностью стойкости» в течение 30 минут."
 "In Dragon's End, gain 10 seconds of might and fury when entering and exiting combat. 4%% increase to health, kill experience, and outgoing damage.
 
 Each stack of this effect will grant access to a bonus chest at the end of the Dragon's End's meta-event.","В локации «Конец Дракона» при входе и выходе из боя получайте 10 секунд мощи и ярости, а также 4%% увеличение к здоровью, опыту за убийства и исходящему урону.
@@ -2424,7 +2424,7 @@ Brewmaster Burna,"Бурна, мастер пивоварения"
 
 Build 30 stacks to gain increased magic find, bonus rewards, and a 66%% chance to steal life on critical hits to enemies with the Essence of Resilience for 30 minutes.","Получается в бою с врагами, обладающими сущностью Бдительности, и при сборе их сущности, которая даёт ярость, выносливость и быстроту.
 
-Накопите 30 единиц, чтобы получить повышенный шанс выпадения магических предметов, дополнительные награды и 66%%% шанс кражи здоровья при критических ударах по врагам с сущностью Стойкости в течение 30 минут."
+Накопите 30 единиц, чтобы получить повышенный шанс выпадения магических предметов, дополнительные награды и 66%% шанс кражи здоровья при критических ударах по врагам с сущностью Стойкости в течение 30 минут."
 Shoot a jet of water at foes that also heals allies within its blast radius.,"Выпускает струю воды во врагов, одновременно исцеляя союзников в радиусе поражения."
 Call down a healing rain for your allies at the target area. Applies regeneration and removes conditions.,Обрушьте целительный дождь на союзников в выбранной области. Применяет регенерацию и снимает негативные эффекты.
 "Throw a blast of life force at foe, dealing more damage the more life force you have.","Обрушьте на врага поток жизненной силы, нанося больше урона по мере накопления этой силы."
@@ -2923,7 +2923,7 @@ C.L.E.A.N. Station,Станция C.L.E.A.N.
 Svannijem Hold,Сванний Холд
 Tala Point,Тала-Пойнт
 Lashoosh,Лашуш
-Durgar's Homestead,Родовое поместье Дургар
+Durgar's Homestead,Родовое усадьбе Дургар
 Restricted Zone XRB,Ограниченная зона XRB
 Forward Camp,Передовой лагерь
 Northpasture Camp,Северный Пастбищный Лагерь
@@ -2961,7 +2961,7 @@ Lost Child's Sorrow Waypoint,Путь к скорби потерянного р�
 Scholar's Cleft Waypoint,"Путь Учёного, контрольная точка"
 Isenfall Waypoint,Путь к Айзенфоллу
 Seraph Outriders' Waypoint,Путь серафимских разведчиков
-Torstvedt Homestead Waypoint,Путевая точка у поместья Торстведт
+Torstvedt Homestead Waypoint,Путевая точка у усадьбы Торстведт
 Exile Waypoint,Путь Изгнанника
 Njordstead Waypoint,Путь к Ньёрдстеду
 Soderhem Steading Waypoint,Путевая точка Содерхемская усадьба
@@ -3014,7 +3014,7 @@ Order of Whispers,Орден Шепчущих
 Salvador,Сальвадор
 Tanner,Таннер
 Guardian,Страж
-Ley-Line Confluence Waypoint,Точка перехода к месту схождения линий лей.
+Ley-Line Confluence Waypoint,Точка перехода к месту схождения лей-линий.
 Carver's Ascent,Восхождение Карвера
 Eastwatch Waypoint,Путь к Восточной страже
 Temple of Lost Prayers,Храм Забытых Молитв
