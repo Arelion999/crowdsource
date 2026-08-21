@@ -246,6 +246,12 @@ GLOSS_ALSO_OK = {'Скайскейл': 'griffon'}
 # Sovereign Eye of Zhaitan — босс. Их канон не касается.
 GLOSS_SKIP_EN = {'«Властелин»': r"Sovereign(?:'s|\s+(?:of|Eye))|(?:Mother|High)\s+Sovereign"
                                 r'|(?<![A-Za-z])sovereign(?![A-Za-z])',
+                 # Minor/Major/Superior — префикс рун и сигилов, и канон только про
+                 # него. Со строчной буквы это обычные слова: «grand majority»,
+                 # «major destinations», «Pact superiors». Заглавная отделяет одно
+                 # от другого без исключений — проверено по всему корпусу.
+                 'малая-малый / большая-большой / высшая-высший':
+                     r"(?s)\A(?!.*(?-i:\b(?:Minor|Major|Superior)\b))",
                  # Inscription — не только компонент крафта: «An inscription on this
                  # memorial says…», «The inscription inside the ring is too worn». Там
                  # «надпись» и есть правильный перевод. Признак компонента — крафтовый
@@ -828,8 +834,14 @@ def check_row(en, ru):
     # Подпись письма стоит отдельной строкой после пустой; теряют её вместе с
     # переносами, а пропажу видно только по оригиналу.
     sig = SIGNATURE.search(en)
-    if sig and not re.search(r'[—–]\s*\S', ru.strip()[-45:]):
-        errs.append(f"потеряна подпись «{sig.group(1).strip()[:30]}»")
+    if sig:
+        # Хвоста в 45 знаков хватает не всегда: «—Полевой справочник Приората
+        # Дурманд по скриттам</c>» длиннее, и тире в окно не попадает. Подпись
+        # стоит отдельной строкой, поэтому надёжнее смотреть её начало.
+        tail = [ln for ln in ru.strip().split('\n') if ln.strip()]
+        last = tail[-1] if tail else ''
+        if not re.match(r'\s*[—–]', last) and not re.search(r'[—–]\s*\S', ru.strip()[-45:]):
+            errs.append(f"потеряна подпись «{sig.group(1).strip()[:30]}»")
     # Краевой пробел оригинала — часть склейки («Рецепт: » + название). Лишний
     # краевой пробел — тоже брак: строка склеится с двойным.
     if en.strip(EDGE_WS)[:1] and (en[:len(en) - len(en.lstrip(EDGE_WS))]
