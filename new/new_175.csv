@@ -1,89 +1,20 @@
 english,translate
-[lbracket]%str1%str2%str3%[rbracket],
-[lbracket]Activité[rbracket],
-[lbracket]Améliorations[rbracket],
-[lbracket]Attirée[rbracket],
-[lbracket]Banque[rbracket],
-[lbracket]Blessures graves[rbracket],
-[lbracket]Bonbon[rbracket],
-[lbracket]CBÉ[rbracket],
-[lbracket]Capturée[rbracket],
-[lbracket]Cartographe[rbracket],
-[lbracket]Charognard[rbracket],
-[lbracket]Client satisfait[rbracket],
-[lbracket]Collectionneur[rbracket],
-[lbracket]Colère[rbracket],
-[lbracket]Comptoir[rbracket],
-[lbracket]Concurrente[rbracket],
-[lbracket]Corruption[rbracket],
-"[lbracket]Coureur[f:""Coureuse""][rbracket]",
-[lbracket]Coureur[rbracket],
-[lbracket]Courtier en faveur[rbracket],
-"[lbracket]Craintif[f:""Craintive""][rbracket]",
-[lbracket]Cryptobotaniste[rbracket],
-[lbracket]Decide which side to take.[rbracket],
-[lbracket]Didacticiel[rbracket],
-[lbracket]Dip the Heat Stones in the magma.[rbracket],
-[lbracket]Distrait[rbracket],
-[lbracket]Div.[rbracket],
-[lbracket]Dolyak invulnérable[rbracket],
-[lbracket]Don't intervene.[rbracket],
-[lbracket]Défaite[rbracket],
-[lbracket]Défis[rbracket],
-[lbracket]Désactivé[rbracket],
-[lbracket]Détraqué[rbracket],
-"[lbracket]Eclaireur[f:""Eclaireuse""][rbracket]",
-[lbracket]Employeuse[rbracket],
-[lbracket]En panne[rbracket],
-[lbracket]En patrouille[rbracket],
-[lbracket]Enter the portal.[rbracket],
-[lbracket]Enveloppes[rbracket],
-[lbracket]Establish a strategy.[rbracket],
-[lbracket]Extrémisme[rbracket],
-[lbracket]FTT[rbracket] Extempore Drawbacks,
-"[lbracket]Fournisseur[f:""Fournisseuse""][rbracket]",
-[lbracket]Gingerly take the griffon egg.[rbracket],
-[lbracket]INVALIDE[rbracket],
-"[lbracket]Initiateur[f:""Initiatrice""][rbracket]",
-[lbracket]It looks like it must be a struggle to shelter the griffon egg from the freezing winds at this altitude.[rbracket],
-[lbracket]Jardinier[rbracket],
-[lbracket]JcE[rbracket],
-[lbracket]Leave.[rbracket],
-[lbracket]Malade[rbracket],
-[lbracket]Mode diagnostic[rbracket],
-[lbracket]Mount up![rbracket],
-[lbracket]Méfiance[rbracket],
-[lbracket]Nourriture[rbracket],
-[lbracket]Offre acceptée[rbracket],
-"[lbracket]Partisan[f:""Partisanne""][rbracket]",
-[lbracket]Pers.[rbracket],
-[lbracket]Poissonnier[rbracket],
-[lbracket]Prix[rbracket],
-[lbracket]Questeur[rbracket],
-[lbracket]Regarder[rbracket],
-[lbracket]Round 1[rbracket] Collect as much loot as possible before time runs out!,
-[lbracket]Round 2[rbracket] Collect as much loot as possible before time runs out!,
-[lbracket]Round 3[rbracket] Collect as much loot as possible before time runs out!,
-[lbracket]Réflexion[rbracket],
-[lbracket]SO[rbracket],
-[lbracket]Stabilisé[rbracket],
-[lbracket]Stay on foot.[rbracket],
-"[lbracket]Sympathisant[f:""Sympathisante""] séparatiste[rbracket]",
-[lbracket]TFB[rbracket],
-[lbracket]TFR[rbracket],
-[lbracket]TFV[rbracket],
-[lbracket]Talk to the imperators about the battlefield conditions.[rbracket],
-[lbracket]Tapisserie[rbracket],
-[lbracket]Taxi-raptor[rbracket],
-[lbracket]The broodmother makes no effort to stop you. You sense she wants you to take her egg to Spearmarshal's Lament in Vabbi. She even seems willing to take you partway there herself.[rbracket],
-[lbracket]The broodmother makes no effort to stop you. You sense she wants you to take her egg to one of the nests below. She even seems willing to take you partway there herself.[rbracket],
-[lbracket]Walk away.[rbracket],
-[lbracket]Échanges[rbracket],
-[nosep]%num1%exp,
-[nosep]%num1%o,
-[nosep]%num1%ps,
-[u]Pete Double-lame,
-"apostat[f:""apostate""][pl:""apostats""][pf:""apostates""]",
-"assassin[f:""assassine""][pl:""assassins""][pf:""assassines""]",
+[lbracket]Decide which side to take.[rbracket],"[lbracket]Решить, чью сторону принять.[rbracket]"
+[lbracket]Dip the Heat Stones in the magma.[rbracket],[lbracket]Окунуть жаркие камни в магму.[rbracket]
+[lbracket]Don't intervene.[rbracket],[lbracket]Не вмешиваться.[rbracket]
+[lbracket]Enter the portal.[rbracket],[lbracket]Войти в портал.[rbracket]
+[lbracket]Establish a strategy.[rbracket],[lbracket]Выработать стратегию.[rbracket]
+[lbracket]Gingerly take the griffon egg.[rbracket],[lbracket]Осторожно взять яйцо грифона.[rbracket]
+[lbracket]It looks like it must be a struggle to shelter the griffon egg from the freezing winds at this altitude.[rbracket],"[lbracket]Похоже, укрывать яйцо грифона от ледяных ветров на такой высоте — та ещё морока.[rbracket]"
+[lbracket]Leave.[rbracket],[lbracket]Уйти.[rbracket]
+[lbracket]Mount up![rbracket],[lbracket]По коням![rbracket]
+[lbracket]Round 1[rbracket] Collect as much loot as possible before time runs out!,"[lbracket]Раунд 1[rbracket] Соберите как можно больше добычи, пока не вышло время!"
+[lbracket]Round 2[rbracket] Collect as much loot as possible before time runs out!,"[lbracket]Раунд 2[rbracket] Соберите как можно больше добычи, пока не вышло время!"
+[lbracket]Round 3[rbracket] Collect as much loot as possible before time runs out!,"[lbracket]Раунд 3[rbracket] Соберите как можно больше добычи, пока не вышло время!"
+[lbracket]Stay on foot.[rbracket],[lbracket]Остаться пешком.[rbracket]
+[lbracket]Talk to the imperators about the battlefield conditions.[rbracket],[lbracket]Поговорить с империаторами об обстановке на поле боя.[rbracket]
+[lbracket]The broodmother makes no effort to stop you. You sense she wants you to take her egg to Spearmarshal's Lament in Vabbi. She even seems willing to take you partway there herself.[rbracket],"[lbracket]Матка не пытается вас остановить. Вы чувствуете, что она хочет, чтобы вы отнесли её яйцо к Плачу Копьемаршала в Вабби. Кажется, она даже готова часть пути пронести вас сама.[rbracket]"
+[lbracket]The broodmother makes no effort to stop you. You sense she wants you to take her egg to one of the nests below. She even seems willing to take you partway there herself.[rbracket],"[lbracket]Матка не пытается вас остановить. Вы чувствуете, что она хочет, чтобы вы отнесли её яйцо в одно из гнёзд внизу. Кажется, она даже готова часть пути пронести вас сама.[rbracket]"
+[lbracket]Walk away.[rbracket],[lbracket]Уйти прочь.[rbracket]
 berserker,Берсерк
 cripples,Калечит
