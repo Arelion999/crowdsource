@@ -207,6 +207,15 @@ def ban_pattern(ban):
         parts.append(re.escape(word))
     return r'(?<![А-Яа-яЁё])' + r'\s+'.join(parts) + r'(?![А-Яа-яЁё])'
 
+# Пробел внутри составного EN-термина: в оригинале то же имя встречается и через
+# дефис — «Ley Line Nexus» и «Ley-Line Nexus» лежат в корпусе рядом. re.escape
+# пробел экранирует, поэтому правило видело только вариант с пробелом, а дефисные
+# оригиналы проходили мимо (по корпусу на 21.08.2026 так пряталось 15 строк).
+ESC_SPACE = re.escape(' ')
+# И ровно то же с дефисом: ключ глоссария может быть записан через него
+# («Ley-Line Scavenger»), а в корпусе рядом лежит вариант с пробелом.
+ESC_DASH = re.escape('-')
+
 def load_glossary_bans(path=None):
     path = path or os.path.join(os.path.dirname(os.path.abspath(__file__)), 'GLOSSARY.md')
     rules = []
@@ -219,7 +228,9 @@ def load_glossary_bans(path=None):
         if len(cells) < 3 or cells[0] in ('EN', '---'):
             continue
         ens = [re.sub(r'\(.*?\)', '', x).strip() for x in cells[0].split('/')]
-        ens = [e for e in ens if re.fullmatch(r"[A-Za-z' ]{3,}", e)]
+        # Дефис в ключе разрешён: без него «Ley-Line Scavenger» отсеивался прямо
+        # здесь, и правило по такому термину не собиралось вовсе.
+        ens = [e for e in ens if re.fullmatch(r"[A-Za-z'\- ]{3,}", e)]
         bans = []
         for m in re.finditer(r'~~([^~]+)~~', cells[2]):
             bans += [x.strip() for x in m.group(1).split('/') if len(x.strip()) > 3]
@@ -227,7 +238,9 @@ def load_glossary_bans(path=None):
             # Апостроф в имени бывает и типографским: «Divinity's Reach» в одних
             # строках игры, «Divinity’s Reach» в других. Правило, собранное по
             # ASCII-апострофу, вторые молча пропускало.
-            en_re = re.compile('|'.join(r'\b' + re.escape(e).replace("'", "['’ʼ]") + r'\w{0,3}\b'
+            en_re = re.compile('|'.join(r'\b' + re.escape(e).replace("'", "['’ʼ]")
+                                                .replace(ESC_SPACE, '[ -]')
+                                                .replace(ESC_DASH, '[ -]') + r'\w{0,3}\b'
                                         for e in ens), re.I)
             # Если «НЕ так» отличается от канона только регистром («Дозор Духов» /
             # «Дозор духов») — правило про регистр, ищем точно. Иначе регистр не важен.
