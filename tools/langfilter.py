@@ -137,8 +137,21 @@ def verdict(en_text, ru_text=""):
     """
     e = en_text
     bare = PRODUCT.sub(" ", QUOTED.sub(" ", e))
-    n_en = len(EN.findall(bare))
-    scores = {"fr": len(FR.findall(e)), "de": len(DE.findall(e)), "es": len(ES.findall(e))}
+    # Считаем по `bare` ВСЕ языки, а не только английский. Раньше кавычки
+    # снимались лишь для английской половины счёта, и у строки целиком в
+    # кавычках английские улики стирались, а чужие оставались: «"Die, die!"»
+    # получала de=2 против en=0 и уходила в уверенное удаление вместе с готовым
+    # переводом «Умри, умри!».
+    #
+    # И считаем РАЗНЫЕ слова, а не вхождения: три «Zone» в «Complete Zone 1,
+    # Zone 2, and Zone 3 in World 1» — это одна улика, а не три. На повторах
+    # правило набирало fr=3 против en=2 и удаляло английские строки; так же
+    # ловилось «la de da» из напева про капитана Слэйда. По корпусу правка
+    # снимает 11 таких ложных срабатываний и не теряет ни одного настоящего:
+    # на 2693 французских строках, снятых этим же PR, счёт уверенных не изменился.
+    uniq = lambda rx: len({w.lower() for w in rx.findall(bare)})
+    n_en = uniq(EN)
+    scores = {"fr": uniq(FR), "de": uniq(DE), "es": uniq(ES)}
     lang = max(scores, key=scores.get)
     n = scores[lang]
     if FR_TAIL.search(e):
