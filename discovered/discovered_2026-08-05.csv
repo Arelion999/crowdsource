@@ -698,7 +698,7 @@ Unlock the siege turtle mount, jade bots, skiffs, fishing, nine new elite specia
 <c=@reminder>Задания на повышение репутации отмечены на карте золотым значком сердца. Каждое задание уникально, поэтому, когда вы окажетесь рядом, проверьте интерфейс, чтобы узнать, чем вы можете помочь.</c>"
 "Dodge %num2% incoming attack[s] from enemies.
 
-<c=@reminder>Dodging allows you to evade incoming attacks by spending endurance to roll out of danger, making you temporarily invulnerable. ""Evaded!"" will appear over your character when you successfully dodge an attack.</c>","Уклоняйтесь от %num2% [атаку противников|атаки противников|атак противников].
+<c=@reminder>Dodging allows you to evade incoming attacks by spending endurance to roll out of danger, making you temporarily invulnerable. ""Evaded!"" will appear over your character when you successfully dodge an attack.</c>","Уклоняйтесь от %num2% [атаки противников|атак противников|атак противников].
 
 Уклонение позволяет избежать входящих атак, потратив выносливость на кувырок в сторону и временно становясь неуязвимым. Над вашим персонажем появится надпись «Уклонено!», если вам удалось успешно уклониться от атаки. <c=@reminder></c>"
 "Activate your profession mechanic skills %num2% times.
@@ -843,7 +843,7 @@ Unlock the siege turtle mount, jade bots, skiffs, fishing, nine new elite specia
 <c=@reminder>Интересные места — это особые локации, отмеченные на карте квадратным значком и выделенные названием. </c>"
 "View %num1%/%num2% vista[s].
 
-<c=@reminder>Vistas are scenic locations that show the world from a new perspective, and they are marked with a red triangle icon on the map.</c>","Осмотр %num1%/%num2% [вид|вида|видов].
+<c=@reminder>Vistas are scenic locations that show the world from a new perspective, and they are marked with a red triangle icon on the map.</c>","Осмотр %num1%/%num2% [вида|видов|видов].
 
 <c=@reminder>Виды — это живописные места, с которых открывается новый вид на мир. На карте они отмечены красным треугольным значком.</c>"
 "Loot %num2% defeated enemies.
