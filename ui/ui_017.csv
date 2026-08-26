@@ -150,7 +150,7 @@ english,translate
 +3%% Strike Damage vs. Outlaws+1%% Strike Damage,+3%% урона от ударов по Преступникам+1%% урона от ударов
 +3%% Strike Damage vs. Sons of Svanir+1%% Strike Damage,+3%% урона от ударов по Сынам Сванира+1%% урона от ударов
 +3%% Strike Damage vs. Stunned or Knocked-Down Foes+1%% Strike Damage,+3%% урона от ударов по оглушённым или сбитым с ног врагам+1%% урона от ударов
-+3%% Strike Damage vs. Undead+1%% Strike Damage,+3%% урона от ударов по Нежити+1%% урона от ударов
++3%% Strike Damage vs. Undead+1%% Strike Damage,+3%% урона от ударов по нежити+1%% урона от ударов
 +3%% to All Attributes+10%% Magic Find+10%% Gold from Monsters+10%% Karma+10%% Experience from Kills,+3%% ко всем атрибутам+10%% к поиску магических предметов+10%% золота с монстров+10%% кармы+10%% опыта за убийства
 +3%% to All Attributes+20%% Gold from Monsters+10%% Experience from Kills,+3%% ко всем атрибутам+20%% золота с монстров+10%% опыта за убийства
 +3%% to All Attributes+20%% Karma+10%% Experience from Kills,+3%% ко всем атрибутам+20%% кармы+10%% опыта за убийства
@@ -324,13 +324,13 @@ english,translate
 +5%% Damage vs. Halloween Creatures+10%% Experience from Kills,+5%% к урону против созданий Хэллоуина+10%% к опыту за убийства
 +5%% Damage vs. Ice Brood+10%% Experience from Kills,+5%% к урону против Ледяного Отродья+10%% к опыту за убийства
 +5%% Damage vs. Inquest+10%% Experience from Kills,+5%% к урону против Изыскателей+10%% к опыту за убийства
-+5%% Damage vs. Krait+10%% Experience from Kills,+5%% к урону против Крайтов+10%% к опыту за убийства
++5%% Damage vs. Krait+10%% Experience from Kills,+5%% к урону против крайтов+10%% к опыту за убийства
 +5%% Damage vs. Mordrem+10%% Experience from Kills,+5%% к урону против Мордрема+10%% к опыту за убийства
 +5%% Damage vs. Nightmare Court+10%% Experience from Kills,+5%% урона по Двору Кошмаров+10%% опыта за убийства
 +5%% Damage vs. Ogres+10%% Experience from Kills,+5%% урона по Ограм+10%% опыта за убийства
 +5%% Damage vs. Sons of Svanir+10%% Experience from Kills,+5%% урона по Сынам Сванира+10%% опыта за убийства
 "+5%% Damage vs. Toxic Alliance, Watchwork, Aetherblade, and Molten Alliance+10%% Experience from Kills","+5%% урона по Токсичному альянсу, Часовым механизмам, Эфирным клинкам и Расплавленному альянсу+10%% опыта за убийства"
-+5%% Damage vs. Undead+10%% Experience from Kills,+5%% урона по Нежити+10%% опыта за убийства
++5%% Damage vs. Undead+10%% Experience from Kills,+5%% урона по нежити+10%% опыта за убийства
 +5%% Experience Public Banner[s],Общее знамя «+5%% к опыту»
 +5%% Fear Duration,+5%% длительности страха
 +5%% Gold from Kills Banner[s],Знамя «+5%% к золоту за убийства»
@@ -482,12 +482,12 @@ english,translate
 +7%% Damage vs. Halloween Creatures-4%% Damage from Halloween Creatures+10%% Experience from Kills,+7%% урона по Хэллоуинским существам-4%% урона от Хэллоуинских существ+10%% опыта за убийства
 +7%% Damage vs. Ice Brood-4%% Damage from Ice Brood+10%% Experience from Kills,+7%% урона по Ледяному Отродью-4%% урона от Ледяного Отродья+10%% опыта за убийства
 +7%% Damage vs. Inquest-4%% Damage from Inquest+10%% Experience from Kills,+7%% урона по Инквизиции-4%% урона от Инквизиции+10%% опыта за убийства
-+7%% Damage vs. Krait-4%% Damage from Krait+10%% Experience from Kills,+7%% урона по Крайтам-4%% урона от Крайтов+10%% опыта за убийства
++7%% Damage vs. Krait-4%% Damage from Krait+10%% Experience from Kills,+7%% урона по крайтам-4%% урона от крайтов+10%% опыта за убийства
 +7%% Damage vs. Nightmare Court-4%% Damage from Nightmare Court+10%% Experience from Kills,+7%% урона по Двору Кошмаров-4%% урона от Двора Кошмаров+10%% опыта за убийства
-+7%% Damage vs. Ogre-4%% Damage from Ogre+10%% Experience from Kills,+7%% урона по Ограм-4%% урона от Огров+10%% опыта за убийства
++7%% Damage vs. Ogre-4%% Damage from Ogre+10%% Experience from Kills,+7%% урона по ограм-4%% урона от огров+10%% опыта за убийства
 +7%% Damage vs. Outlaws-4%% Damage from Outlaws+10%% Experience from Kills,+7%% урона по Преступникам-4%% урона от Преступников+10%% опыта за убийства
 +7%% Damage vs. Sons of Svanir-4%% Damage from Sons of Svanir+10%% Experience from Kills,+7%% урона по Сынам Сванира-4%% урона от Сынов Сванира+10%% опыта за убийства
-+7%% Damage vs. Undead-4%% Damage from Undead+10%% Experience from Kills,+7%% урона по Нежити-4%% урона от Нежити+10%% опыта за убийства
++7%% Damage vs. Undead-4%% Damage from Undead+10%% Experience from Kills,+7%% урона по нежити-4%% урона от нежити+10%% опыта за убийства
 +7%% Fear Duration,+7%% длительности страха
 +7%% Poison Duration+40 Precision+10%% Experience from Kills,+7%% длительности яда+40 точности+10%% опыта за убийства
 +7%% Strike Damage vs. Centaurs+3%% Strike Damage,+7%% урона от ударов по Кентаврам+3%% урона от ударов
