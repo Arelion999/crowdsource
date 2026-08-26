@@ -253,7 +253,7 @@ english,translate
 "<c=@abilitytype>Chain.</c> Strike with your spear, crippling your foe. If your enemy is far away, use Bee's Sting instead.","<c=@abilitytype>Цепь.</c> Ударьте копьём, замедляя врага. Если враг далеко, используйте «Пчелиное жало»."
 "<c=@abilitytype>Chain.</c> Strike your foe again, bleeding them. Gain endurance with a successful strike.","<c=@abilitytype>Цепь.</c> Снова ударьте врага, вызывая кровотечение. При успешном ударе восстановите выносливость."
 <c=@abilitytype>Chain.</c> Strike your foe again.,<c=@abilitytype>Цепь.</c> Ударить вашего противника ещё раз.
-<c=@abilitytype>Chain.</c> Strike your foe and gain might. Gain additional might on critical hit.,<c=@abilitytype>Цепь.</c> Ударить противника и даровать себе Мощь. Получить дополнительную Мощь при критическом попадании.
+<c=@abilitytype>Chain.</c> Strike your foe and gain might. Gain additional might on critical hit.,<c=@abilitytype>Цепь.</c> Ударить противника и даровать себе мощь. Получить дополнительную мощь при критическом попадании.
 <c=@abilitytype>Chain.</c> Strike your foe twice.,<c=@abilitytype>Цепь.</c> Ударьте врага дважды.
 <c=@abilitytype>Chain.</c> Strike your foe with a watery blow.,<c=@abilitytype>Цепь.</c> Поразить противника ударом воды.
 <c=@abilitytype>Chain.</c> Strike your foe. This attack deals increased critical damage.,<c=@abilitytype>Цепь.</c> Ударить противника. Эта атака наносит повышенный критический урон.
@@ -501,11 +501,11 @@ english,translate
 <c=@abilitytype>Glyph.</c> Revive an ally with full health.,<c=@abilitytype>Глиф.</c>Оживить союзника с полным запасом здоровья.
 <c=@abilitytype>Glyph.</c> Revive an ally; you're revived the next time you're downed.,"<c=@abilitytype>Глиф.</c>Оживить союзника; вы будете оживлены в следующий раз, когда будете повержены."
 <c=@abilitytype>Glyph.</c> Revive and teleport an ally to your location.,<c=@abilitytype>Глиф.</c>Оживить союзника и переместить его в ваше местоположение.
-<c=@abilitytype>Glyph.</c> Summon a lesser air elemental.,<c=@abilitytype>Глиф.</c>Призвать малого элементаля Воздуха.
+<c=@abilitytype>Glyph.</c> Summon a lesser air elemental.,<c=@abilitytype>Глиф.</c>Призвать малого элементаля воздуха.
 <c=@abilitytype>Glyph.</c> Summon a lesser earth elemental.,<c=@abilitytype>Глиф.</c>Призвать малого элементаля Земли.
 <c=@abilitytype>Glyph.</c> Summon a lesser elemental based on your attunement.,"<c=@abilitytype>Глиф.</c>Призвать малого элементаля, зависящего от вашей Стихии."
 <c=@abilitytype>Glyph.</c> Summon a lesser fire elemental.,<c=@abilitytype>Глиф.</c>Призвать малого элементаля Огня.
-<c=@abilitytype>Glyph.</c> Summon a lesser water elemental.,<c=@abilitytype>Глиф.</c>Призвать малого элементаля Воздуха.
+<c=@abilitytype>Glyph.</c> Summon a lesser water elemental.,<c=@abilitytype>Глиф.</c>Призвать малого элементаля воздуха.
 <c=@abilitytype>Glyph.</c> Summon an elemental based on your attunement.,"<c=@abilitytype>Глиф.</c>Призвать элементаля, зависящего от вашей Стихии."
 <c=@abilitytype>Glyph.</c> Unleash elemental energy around yourself. Its effect will differ based on your attunement.,<c=@abilitytype>Глиф.</c>Высвободить вокруг себя силу Стихий. Эффект будет зависеть от вашей текущей Стихии.
 <c=@abilitytype>Glyph.</c> Use nature energy to connect to foes or allies.,<c=@abilitytype>Глиф.</c>Использует энергию природы для связи с врагами или союзниками.

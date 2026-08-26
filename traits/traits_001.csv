@@ -12,8 +12,8 @@ english,translate
 <c=@reminder>This effect will only occur once on each target struck by an ability.</c>","<c=@abilitytype>Звериные</c> способности накладывают слабость на пораженные цели.
 <c=@reminder>Этот эффект срабатывает только один раз для каждой цели, пораженной способностью.</c>"
 <c=@abilitytype>Beast</c> abilities taunt nearby foes. Ursine and porcine pets deal increased damage and have increased health.,<c=@abilitytype>Звериные</c> Умения зверя провоцируют противников поблизости. Питомцы-медвежьи и свиньи наносят повышенный урон и увеличивают свой запас здоровья.
-<c=@abilitytype>Beast</c> skills grant regeneration around the ranger.,<c=@abilitytype>Звериные</c> Умения зверя даруют Регенерацию вокруг Рейнджера.
-<c=@abilitytype>Beast</c> skills heal allies around the ranger.,<c=@abilitytype>Звериные</c> Умения зверя исцеляют союзников вокруг Рейнджера.
+<c=@abilitytype>Beast</c> skills grant regeneration around the ranger.,<c=@abilitytype>Звериные</c> Умения зверя даруют Регенерацию вокруг рейнджера.
+<c=@abilitytype>Beast</c> skills heal allies around the ranger.,<c=@abilitytype>Звериные</c> Умения зверя исцеляют союзников вокруг рейнджера.
 <c=@abilitytype>Blade</c> attacks inflict bleeding on critical hits. A percentage of your condition damage dealt heals you.,<c=@abilitytype>Клинковые</c> Атаки клинков вызывают кровотечение при критическом попадании. Часть урона от вызванных вами состояний исцеляет вас.
 "<c=@abilitytype>Blades</c> inflict vulnerability on critical hits. After successfully casting a <c=@abilitytype>Bladesong</c>, increase all damage dealt for a short time. This does not stack.",<c=@abilitytype>Клинки</c> вызывают уязвимость при критических ударах. После успешного применения <c=@abilitytype>Песни клинков</c> на короткое время увеличивается весь наносимый урон. Эффект не суммируется.
 <c=@abilitytype>Bladesongs</c> grant aegis.,<c=@abilitytype>Песни клинков</c> дают эгиду.
@@ -23,7 +23,7 @@ english,translate
 <c=@abilitytype>Cantrip.</c> Gain stability and shape-shift into a tornado that damages and launches foes.,"<c=@abilitytype>Заговор.</c> Обрести дар Устойчивости и превратиться в торнадо, который наносит урон противникам и отбрасывает их."
 <c=@abilitytype>Cantrips</c> grant barrier to you and your pet.,<c=@abilitytype>Уловки</c> Колдовство даёт барьер вам и вашему питомцу.
 <c=@abilitytype>Cantrips</c> grant boons.,<c=@abilitytype>Уловки</c> накладывают благословения.
-<c=@abilitytype>Carapace</c> stacks grant power and condition damage.,Стеки <c=@abilitytype>панциря</c> Стеки панциря увеличивают вашу Силу и урон от состояний.
+<c=@abilitytype>Carapace</c> stacks grant power and condition damage.,Стеки <c=@abilitytype>панциря</c> Стеки панциря увеличивают вашу силу и урон от состояний.
 "<c=@abilitytype>Commands</c> copy boons from yourself to your pet.
 <c=@reminder>Soulbeast: when merged, extend the duration of boons on yourself instead.</c>","<c=@abilitytype>Команды</c> копируют благословения с вас на вашего питомца.
 <c=@reminder>Soulbeast: при слиянии вместо этого продлевается длительность благословений на вас самих.</c>"
@@ -121,7 +121,7 @@ Luxon abilities grant might.","<c=@abilitytype>Легендарный Альян
 "<c=@reminder>While out of combat, you will automatically stock a blade every 10 seconds.</c>",<c=@reminder>Вне боя вы будете автоматически накапливать клинок каждые 10 секунд.</c>
 <c=@reminder>Willbender: Heal allies when your Resolve effect triggers.</c>,<c=@reminder>Укротитель (Willbender): исцеляет союзников при срабатывании вашего эффекта Решимости.</c>
 <c=@warning>Does not grant shadow force while in shroud.</c>,"<c=@warning>Не даёт силу тени, пока вы в саване.</c>"
-A percentage of precision is given as a bonus to ferocity and a percentage of power is given as a bonus to condition damage. These bonuses are doubled in berserk mode.,"Часть вашей Точности даётся вам в качестве бонуса к Жестокости, а часть вашей Силы - в качестве бонуса к урону от состояний. Эти бонусы удваивюется, пока вы будете берсерком."
+A percentage of precision is given as a bonus to ferocity and a percentage of power is given as a bonus to condition damage. These bonuses are doubled in berserk mode.,"Часть вашей Точности даётся вам в качестве бонуса к Жестокости, а часть вашей силы - в качестве бонуса к урону от состояний. Эти бонусы удваивюется, пока вы будете берсерком."
 A percentage of the strike damage you deal is converted into barrier.,Часть нанесенного вами прямого урона превращается в барьер.
 "A percentage of your condition damage heals you.
 <c=@reminder>Healing will not occur while life force replaces health.</c>","Процент вашего урона от состояний исцеляет вас.
@@ -262,7 +262,7 @@ Beast. Shrug off all movement-impairing conditions and become unflinching in the
 Beast. Tap into your primal essence and unleash a debilitating roar.,Зверь. Обратитесь к своей первобытной сущности и издайте ослабляющий рев.
 Beastly Warden,Звериный страж
 Becoming a celestial avatar removes conditions from you and nearby allies.,Превращение в Небесный аватар снимает состояния с вас и с союзников поблизости.
-Berserk mode increases power and condition damage.,Состояние берсерка увеличивает вашу Силу и урон от состояний.
+Berserk mode increases power and condition damage.,Состояние берсерка увеличивает вашу силу и урон от состояний.
 Berserker Damage Reduced,Урон берсерка снижен
 Bestial Rage,Звериная ярость
 Beyond the Veil,За завесой
@@ -291,7 +291,7 @@ Bleeding you apply deals increased damage. Stock a <c=@abilitytype>blade</c> aft
 Bleeding you inflict deals more damage.,Наносимое вами кровотечение наносит больше урона.
 Bleeding you inflict has increased duration. Deal increased damage to bleeding foes.,"Кровотечение, которое вы вызвали, длится дольше. Вы наносите увеличенный урон кровоточащим противникам."
 Bleeding you inflict is more dangerous.,"Кровотечение, вызванное вами, опаснее обычного."
-Bleeding you inflict scales off of your power instead of your condition damage.,Сила вызываемого вами кровотечения теперь зависит от вашей Силы вместо вашего урона от состояний.
+Bleeding you inflict scales off of your power instead of your condition damage.,Сила вызываемого вами кровотечения теперь зависит от вашей силы вместо вашего урона от состояний.
 Blighter's Boon,Благословение губителя
 Blind Targets,Ослепленные цели
 Blind nearby foes when you use a healing skill.,"Вы ослепляете противников поблизости, когда используете исцеляющее умение."
@@ -303,7 +303,7 @@ Blinding a target will also apply chill.,"Когда вы ослепляете �
 <c=@reminder>Skills that strike many foes at the same time can heal multiple times.</c>","Ослепление, обездвиживание или воздействие на врага эффектами контроля лечит ближайших союзников.
 <c=@reminder>Навыки, поражающие множество врагов одновременно, могут лечить несколько раз.</c>"
 Blocking an attack grants aegis to nearby allies.,Блокирование атаки даёт эгиду ближайшим союзникам.
-Blocking or dodging an attack grants boons.,Блокирование атаки или уворот от неё дают Дары.
+Blocking or dodging an attack grants boons.,Блокирование атаки или уворот от неё дают дары.
 Blocking or evading an attack stocks <c=@abilitytype>blades</c>. Dodging stocks a blade and causes your next Bladesong to be unblockable.,Блокирование или уклонение от атаки даёт <c=@abilitytype>клинки</c>. Уклонение даёт клинок и делает вашу следующую Песнь клинков неблокируемой.
 Blood Bank,Банк крови
 Blood Fury,Кровавая ярость
@@ -362,7 +362,7 @@ Burning Rage,Пылающая ярость
 Burning you inflict deals increased damage. Burning duration applied by the passive effect of Virtue skill 1 is increased.,"Горение, вызванное вами, наносит больше урона. Горение, вызванное пассивным эффектом 1-го умения Добродетели, длится дольше."
 Burning you inflict has increased duration and your critical hits gain a chance to inflict burning.,"Вызванное вами горение длится дольше, а ваши критические попадания получают шанс поджечь противника."
 "Burning you inflict lasts longer, and your critical hits inflict burning.","Длительность наносимого вами горения увеличена, а ваши критические удары вызывают горение."
-Burning you inflict scales off of your power instead of your condition damage.,"Вызываемое вами горение зависит от вашей Силы, а не от урона от состояний."
+Burning you inflict scales off of your power instead of your condition damage.,"Вызываемое вами горение зависит от вашей силы, а не от урона от состояний."
 Burst Mastery,Мастерство взрыва
 Burst Precision,Точность взрыва
 Burst of Aggression,Всплеск агрессии

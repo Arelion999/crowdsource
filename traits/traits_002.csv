@@ -47,7 +47,7 @@ Deadly Blades,Смертоносные Клинки
 Deadly Strength,Смертоносная Сила
 Deafening Drum releases an additional quick wave after a delay. Deal damage to enemies you disable.,"Оглушительный барабан выпускает дополнительную волну после короткой задержки. Вы наносите урон врагам, которых вывели из строя."
 Deal bonus strike damage based on your distance to the enemy.,Вы наносите дополнительный прямой урон в зависимости от дистанции до противника.
-Deal damage and gain life when stealing. This attack cannot critically hit enemies.,Вы наносите урон и получаете здоровье при Краже. Эта атака не может завершиться критическим попаданием.
+Deal damage and gain life when stealing. This attack cannot critically hit enemies.,Вы наносите урон и получаете здоровье при краже. Эта атака не может завершиться критическим попаданием.
 Deal increased condition damage for each stack of blight you have. Shroud skill 2 also inflicts poison.,"Вы наносите повышенный урон от состояний за каждый стек Скверны, лежащий на вас. 2-е умение Савана накладывает отравление."
 "Deal increased critical damage, which is further increased while your health is above the threshold. Gain bonus critical-hit chance when hitting a foe from behind or the side or when they are defiant.","Наносите увеличенный критический урон, который дополнительно увеличивается, пока ваше здоровье выше порога. Получайте бонусный шанс критического удара при попадании по врагу сзади или сбоку, или когда он непокорен."
 Deal increased critical-hit damage. This bonus is doubled against boonless foes.,"Вы наносите увеличенный критический урон. Этот бонус удваивается, если у противника нет никаких даров."
@@ -407,7 +407,7 @@ Gain Scoundrel's Luck whenever you use Skritt Swipe. Scoundrel's Luck allows you
 Gain Vitality. Your incoming healing is increased.,Ваша Живучесть увеличена. Получаемое вами исцеление увеличено.
 Gain a bonus based on your equipped radiant weapon. This bonus lingers for a period of time after exiting Radiant Forge.,"Вы получаете бонус, зависящий от вашего текущего лучезарного оружия. Этот бонус длится некоторое время после того, как вы покинете Сияющую Кузницу."
 Gain a bonus effect when you finish a combo. <c=@reminder>Bonuses can trigger once per attunement per interval.</c>,Получите бонусный эффект при завершении комбо. <c=@reminder>Бонусы могут срабатывать один раз за настройку за интервал.</c>
-Gain a bonus for each active spirit. Spirits persist when exiting ritualist's shroud but continue to drain life force. Life force that is gained during this time will not be consumed by spirits.,"Получить бонус за каждый активный Дух. Духи останутся существовать после того, как вы оставите Саван Ритуалиста, но продолжат осушать ваш запас жизненной силы. Жизненная сила, полученная в это время, не может быть израсходована Духами."
+Gain a bonus for each active spirit. Spirits persist when exiting ritualist's shroud but continue to drain life force. Life force that is gained during this time will not be consumed by spirits.,"Получить бонус за каждый активный дух. Духи останутся существовать после того, как вы оставите Саван Ритуалиста, но продолжат осушать ваш запас жизненной силы. Жизненная сила, полученная в это время, не может быть израсходована Духами."
 Gain a bonus to all damage dealt for a period of time when attuned to a single element. Gain precision based on a percentage of your vitality.,"Получайте бонус ко всему исходящему урону в течение некоторого времени при настройке на одну стихию. Получайте точность, основанную на проценте от вашей живучести."
 Gain a burst of speed when entering berserk mode.,"Вы ускоряетесь, когда становитесь берсерком."
 "Gain a damage increase when you use a <c=@abilitytype>Shatter</c> skill, increasing per clone shattered.","Получите увеличение урона при использовании навыка <c=@abilitytype>Разрушение</c>, увеличивающееся за каждого разрушенного клона."
@@ -441,7 +441,7 @@ Gain adrenaline on weapon swap.,Вы получаете адреналин пр�
 Gain aegis when you are struck while below the health threshold.,"Вам даруется эгида при получении урона, когда ваше здоровье ниже порога."
 Gain affinity when using a weapon skill that costs energy.,"Вы получаете очки схожести при использовании оружейных умений, которым требуется энергия для активации."
 Gain affinity when you invoke a different legend.,"Вы получаете схожесть, когда обращаетесь к другой легенде."
-Gain alacrity for each clone you shatter. Gain increased critical-strike chance for you and your illusions when you have alacrity.,"Вам даруется рвение за каждый клон, разбитый на Осколки. Когда у вас есть дар Рвения, вы и ваши иллюзии получаете повышенный шанс на критический удар."
+Gain alacrity for each clone you shatter. Gain increased critical-strike chance for you and your illusions when you have alacrity.,"Вам даруется рвение за каждый клон, разбитый на осколки. Когда у вас есть дар Рвения, вы и ваши иллюзии получаете повышенный шанс на критический удар."
 "Gain an additional artifact slot. Whenever you pilfer, you gain an additional, random artifact. You can use one additional artifact when you pilfer with Skritt Swipe.","Получайте дополнительный слот для артефакта. Всякий раз, когда вы крадете, вы получаете дополнительный случайный артефакт. Вы можете использовать один дополнительный артефакт, когда крадете с помощью «Удара скритта» (Skritt Swipe)."
 "Gain an attack of opportunity for you and your pet on interrupting a foe. Daze and stun durations that you inflict last longer.
 <c=@reminder>This trait can only grant an attack of opportunity against enemies with defiance bars once per interval.</c>","Получайте возможность атаки для себя и своего питомца при прерывании врага. Длительность оглушения и ошеломления, которые вы накладываете, увеличена.
@@ -479,7 +479,7 @@ Gain concentration. Empower now grants endurance to allies in addition to its ef
 "Gain concentration. Gain life force when you summon a creature.
 <c=@reminder>Spirits and minions are creatures.</c>","Получайте концентрацию. Получайте жизненную силу при призыве существа.
 <c=@reminder>Духи и миньоны являются существами.</c>"
-Gain condition damage based on your power.,Ваш урон от состояний увеличивается в зависимости от вашей Силы.
+Gain condition damage based on your power.,Ваш урон от состояний увеличивается в зависимости от вашей силы.
 "Gain condition damage based on your toughness. Inflict bleeding when you immobilize a foe.
 <c=@reminder>Bleeding can only occur on the same target once per interval.</c>","Получайте урон от состояний, основанный на вашей стойкости. Накладывайте кровотечение при обездвиживании врага.
 <c=@reminder>Кровотечение может возникнуть на одной цели только один раз за интервал.</c>"
@@ -538,7 +538,7 @@ Gain increased movement speed for each point of upkeep currently in use.,"Ваш
 Gain increased movement speed. Gain swiftness when you activate a virtue.,Увеличивает скорость передвижения. Даёт стремительность при активации добродетели.
 "Gain increased outgoing damage when you grant yourself an aura. <c=@reminder>When this triggers, refresh the duration of all stacks. </c>",Увеличивает исходящий урон при наложении на себя ауры. <c=@reminder>При срабатывании обновляет длительность всех эффектов.</c>
 "Gain increased outgoing strike damage and reduced incoming strike damage. When above the health threshold, outgoing strike damage is further increased. When below the health threshold, incoming strike damage is further reduced.",Увеличивает исходящий прямой урон и снижает входящий прямой урон. При здоровье выше порогового значения исходящий прямой урон дополнительно увеличивается. При здоровье ниже порогового значения входящий прямой урон дополнительно снижается.
-Gain increased power while above the health threshold. Gain increased healing power when below it.,"Ваша Сила увеличивается, пока ваше здоровье выше порога. Ваша Сила исцеления увеличивается, когда ваше здоровье ниже порога."
+Gain increased power while above the health threshold. Gain increased healing power when below it.,"Ваша сила увеличивается, пока ваше здоровье выше порога. Ваша сила исцеления увеличивается, когда ваше здоровье ниже порога."
 Gain increased power. <c=@abilitytype>Willbender Flames</c> deal increased damage to foes they strike.,Увеличивает силу. <c=@abilitytype>Пламя Проклятого Воина</c> наносит пораженным врагам повышенный урон.
 Gain increased shadow force when hitting a foe with <c=@abilitytype>Siphon</c>. Grant increased barrier when targeting an ally.,Увеличивает теневую силу при попадании по врагу <c=@abilitytype>Сифоном</c>. Увеличивает барьер при нацеливании на союзника.
 Gain increased strike damage for a period of time when you shadowstep or use a movement skill.,"Наносимый вами прямой урон увеличивается на некоторое время после того, как вы сделали Призрачный Шаг или использовали умение с перемещением."
@@ -547,8 +547,8 @@ Gain increased strike damage when you equip a radiant weapon.,"Наносимы�
 Gain increased strike damage when you use a <c=@abilitytype>burst</c> skill; this damage increase is based on your adrenaline.,Увеличивает ударный урон при использовании навыка <c=@abilitytype>выплеска</c>; повышение урона зависит от вашего адреналина.
 Gain increased vitality when wielding a sword. Gain bonus vitality based on a portion of your power and condition damage.,Увеличивает живучесть при использовании меча. Даёт бонус к живучести на основе части вашей силы и урона от состояний.
 Gain increased vitality. <c=@abilitytype>Willbender Flames</c> now heal you when they strike an enemy.,Увеличивает живучесть. <c=@abilitytype>Пламя Проклятого Воина</c> теперь исцеляет вас при попадании по врагу.
-Gain increased vitality. Heal each second for each stack of blight you have.,"Ваша Живучесть увеличивается. Вы исцеляетесь каждую секунду за каждый стек скверны, лежащей на вас."
-Gain increased vitality. Healing others is improved based on a percentage of your vitality.,Ваша Живучесть увеличивается. Эффективность исцеления союзников увеличивается в зависимости от вашей Живучести.
+Gain increased vitality. Heal each second for each stack of blight you have.,"Ваша живучесть увеличивается. Вы исцеляетесь каждую секунду за каждый стек скверны, лежащей на вас."
+Gain increased vitality. Healing others is improved based on a percentage of your vitality.,Ваша живучесть увеличивается. Эффективность исцеления союзников увеличивается в зависимости от вашей Живучести.
 Gain initiative and barrier whenever you use an artifact skill. You take reduced strike and condition damage whenever you have barrier.,"Вы получаете инициативу и барьер при использовании умения-артефакта. Вы получаете пониженный прямой урон и урон от состояний, пока на вас действует барьер."
 Gain initiative on swapping weapons while in combat.,Вы получаете инициативу при смене оружия в бою.
 "Gain initiative when you dodge, and gain initiative and regeneration when you evade an attack.

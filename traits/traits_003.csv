@@ -12,9 +12,9 @@ Gain might while you have stability. Your Function Gyro applies stability to all
 "Gain motivation when you enter combat. If no refrains are active, automatically activate the refrain of Chant of Action.","Получайте мотивацию при вступлении в бой. Если активных рефренов нет, автоматически активируется рефрен Песни действия."
 Gain movement speed for each point of upkeep currently in use.,Получайте бонус к скорости передвижения за каждую единицу используемого поддержания.
 Gain one <c=@abilitytype>familiar</c> charge when attuning to your selected element.,Получайте один заряд <c=@abilitytype>фамильяра</c> при настройке на выбранную стихию.
-Gain power and a chance to gain might on critical strike. Double these bonuses while wielding a greatsword or underwater spear. Greatsword and underwater spear skills recharge faster.,"Ваша Сила увеличивается, и вы получаете шанс даровать себе Мощь при критическом ударе. Эти бонусы удваиваются, если вы вооружены двуручным мечом или подводным копьём. Умения двуручного меча и подводного копья перезаряжаются быстрее."
+Gain power and a chance to gain might on critical strike. Double these bonuses while wielding a greatsword or underwater spear. Greatsword and underwater spear skills recharge faster.,"Ваша сила увеличивается, и вы получаете шанс даровать себе мощь при критическом ударе. Эти бонусы удваиваются, если вы вооружены двуручным мечом или подводным копьём. Умения двуручного меча и подводного копья перезаряжаются быстрее."
 Gain power and additional power while wielding a sword or underwater spear. Successfully evading an attack while wielding a sword or underwater spear recharges Steal.,"Ваша Сила увеличивается. Сила дополнительно увеличивается, пока вы вооружены мечом или подводным копьём. Успешное уклонение от атаки, когда вы вооружены мечом или подводным копьём, перезаряжает Кражу."
-Gain power while in fire attunement.,"Ваша Сила увеличивается, пока вы используете силу Огня."
+Gain power while in fire attunement.,"Ваша сила увеличивается, пока вы используете силу Огня."
 "Gain power, then gain extra power while you are revealed.","Получайте силу, а затем дополнительную силу, пока вы раскрыты."
 Gain precision. Gain additional precision while wielding a rifle. Enter stealth when you dodge roll with a rifle equipped.,Получайте точность. Получайте дополнительную точность при использовании винтовки. Уходите в невидимость при перекате с экипированной винтовкой.
 Gain protection after a successful Full Counter.,Вам даруется протекция после успешной Круговой контратаки.
@@ -29,7 +29,7 @@ Gain protection when you use a healing skill.,Вам даруется проте
 <c=@reminder>Эта черта влияет на Истинную природу, когда вы вестник.</c>"
 "Gain quickness and recharge your <c=@abilitytype>Burst</c> skills when you strike a foe that is below the health threshold. Gain increased outgoing healing when you strike with a <c=@abilitytype>Burst</c> skill, based on adrenaline spent.",Получайте проворство и перезаряжайте свои навыки <c=@abilitytype>Взрыва</c> при ударе по врагу с уровнем здоровья ниже порогового. Получайте увеличенное исходящее лечение при ударе навыком <c=@abilitytype>Взрыва</c> в зависимости от потраченного адреналина.
 Gain quickness and stability when you disable an enemy.,"Вам даруются проворство и Устойчивость, когда вы выводите противника из строя."
-Gain quickness when marking a foe. Your power and precision are increased while under this effect.,"Вам даруется проворство, когда вы отмечаете цель. Ваши Сила и Точность увеличиваются под действием этого эффекта."
+Gain quickness when marking a foe. Your power and precision are increased while under this effect.,"Вам даруется проворство, когда вы отмечаете цель. Ваши сила и Точность увеличиваются под действием этого эффекта."
 "Gain quickness when you disable an enemy. While you have quickness, your movement speed is increased. <c=@reminder>This stacks with other movement speed increases.</c>","Получайте проворство при выводе врага из строя. Пока у вас есть проворство, ваша скорость передвижения увеличена. <c=@reminder>Суммируется с другими бонусами к скорости передвижения.</c>"
 Gain quickness when you interrupt a foe.,"Вы получаете проворство, когда прерываете противника."
 Gain quickness when you swap weapons. Deal increased damage to foes with stability or protection.,"Вам даруется проворство, когда вы меняете оружие. Вы наносите повышенный урон противникам с даром Устройчивости или Протекции."
@@ -59,7 +59,7 @@ Gain stability when you gain might at or above the threshold. Might grants bonus
 Gain stability when you use a <c=@abilitytype>Shatter</c> skill. Grant an additional boon to nearby allies based on which <c=@abilitytype>Shatter</c> is used.,"Получайте устойчивость при использовании навыка <c=@abilitytype>Раскола</c>. Даруйте дополнительное благо ближайшим союзникам в зависимости от того, какой <c=@abilitytype>Раскол</c> был использован."
 Gain stacks of <c=@abilitytype>Battle Scars</c> while in combat.,Получайте заряды <c=@abilitytype>Боевых шрамов</c> во время боя.
 Gain stacks of Consume Shadows at regular intervals while in Shadow Shroud. Exiting Shadow Shroud consumes your remaining shadow force and heals allies based on the number of stacks you have gained. Allies that are fully healed receive the rest of the value in barrier.,"Пока вы находитесь в Саване Теней, вы получаете стеки Поглощения теней через равные промежутки времени. Покидание Савана Теней поглощает всю оставшуюся силу теней и исцеляет союзников поблизости пропорционально поглощенной энергии. Союзники, которые исцелились полностью, получают остаток исцеления как барьер."
-Gain superspeed when attuning to air.,"Вы получаете сверхскорость, когда обращаетесь к силе Воздуха."
+Gain superspeed when attuning to air.,"Вы получаете сверхскорость, когда обращаетесь к силе воздуха."
 Gain superspeed when inflicting inhibiting conditions on enemies.,Получайте суперскорость при наложении на врагов ограничивающих состояний.
 Gain superspeed when you enter or exit stealth.,Получайте суперскорость при входе в невидимость или выходе из неё.
 Gain swiftness upon dodging.,Вам даруется быстрота при увороте.
@@ -77,9 +77,9 @@ Gain vigor when delivering a critical hit.,"Вам даруется энерги
 Gain vigor when successfully evading an attack.,Вам даруется энергичность после успешного уклонения от атаки.
 Gain vigor when using a <c=@abilitytype>Dual Attack.</c> Dodge rolling grants a barrier.,Получайте энергию при использовании <c=@abilitytype>Двойная атака.</c> Перекат накладывает барьер.
 Gain vigor when you critically strike a foe.,"Вам даруется энергичность, когда вы наносите критический удар."
-Gain vitality and ferocity based on a percentage of your power.,Ваша Живучесть и Жестокость увеличиваются в зависимости от вашей Силы.
-Gain vitality based on a percentage of your power. Gain life force when you strike a foe below the health threshold.,"Ваша Живучесть увеличивается в зависимости от вашей Силы. Вы получаете жизненную силу, когда наносит удар противнику, чье здоровье ниже порога."
-Gain vitality based on a portion of your power. Damage is decreased from foes within the range threshold.,"Ваша Живучесть увеличивается в зависимости от вашей Силы. Урон от противников, которые находятся от вас не дальше порога дистанции, уменьшен."
+Gain vitality and ferocity based on a percentage of your power.,Ваша живучесть и Жестокость увеличиваются в зависимости от вашей силы.
+Gain vitality based on a percentage of your power. Gain life force when you strike a foe below the health threshold.,"Ваша живучесть увеличивается в зависимости от вашей силы. Вы получаете жизненную силу, когда наносит удар противнику, чье здоровье ниже порога."
+Gain vitality based on a portion of your power. Damage is decreased from foes within the range threshold.,"Ваша живучесть увеличивается в зависимости от вашей силы. Урон от противников, которые находятся от вас не дальше порога дистанции, уменьшен."
 Gain vitality. <c=@abilitytype>Unleashed Ambush</c> skills siphon health if they hit. Siphon healing is reduced for each target struck beyond the first. <c=@reminder> Cannot siphon the same target more than once per skill.</c>,"Получайте живучесть. Навыки <c=@abilitytype>высвобожденной засады</c> вытягивают здоровье при попадании. Исцеление от вытягивания снижается для каждой цели, пораженной после первой. <c=@reminder>Нельзя вытянуть здоровье из одной и той же цели более одного раза за навык.</c>"
 Gain vitality. Blocking an attack causes Justice to reach its maximum charge and reduces the cooldown of Spear of Justice.,Ваша Живучесть увеличивается. Блокирование атаки максимально заряжает Справедливость и уменьшает время перезарядки Копья Справедливости.
 Gain vitality. Gain barrier when you use a <c=@abilitytype>morph</c> skill.,Получайте живучесть. Получайте барьер при использовании навыка <c=@abilitytype>трансформации.</c>
@@ -292,7 +292,7 @@ Increase below 75%,Увеличение ниже 75%
 Increase healing to other allies. <c=@abilitytype>Legendary Centaur</c> skills apply boons in an area.,Увеличить лечение других союзников. <c=@abilitytype>Легендарный кентавр</c> навыки накладывают благословения в области.
 Increase healing to other allies. Gain astral force each interval while not in celestial avatar form.,"Увеличивает исцеление других союзников. Вы периодически получаете астральную силу, пока не находитесь в форме Небесного аватара."
 Increase healing to other allies. Summoning an illusion heals all allies around you.,Увеличивает исцеление других союзников. Призыв иллюзии исцеляет всех союзников вокруг вас.
-Increase healing to other allies. Water-weapon skills gain reduced recharge.,"Исцеление, направленное на союзников, увеличивается. Оружейные умения Воды перезаряжаются быстрее."
+Increase healing to other allies. Water-weapon skills gain reduced recharge.,"Исцеление, направленное на союзников, увеличивается. Оружейные умения воды перезаряжаются быстрее."
 Increase the blast radius of grenades. Using a healing skill casts Lesser Grenade Barrage.,Увеличивает радиус взрыва гранат. При активации исцеляющего умения вы также используете Lesser Grenade Barrage.
 Increase the duration of boons and conditions applied by <c=@abilitytype>traps</c>. Offensive <c=@abilitytype>traps</c> inflict cripple.,"Увеличивает длительность благословений и состояний, накладываемых <c=@abilitytype>ловушками</c>. Наступательные <c=@abilitytype>ловушки</c> накладывают хромоту."
 "Increase the duration of burning you apply. Gain fire aura when you critically hit an enemy. Berserker skills detonate fire aura, damaging and burning nearby foes.","Увеличивает длительность накладываемого вами горения. Получайте огненную ауру при критическом ударе по врагу. Умения берсерка детонируют огненную ауру, нанося урон и поджигая ближайших врагов."
@@ -378,7 +378,7 @@ Invoker's Rage,Ярость призывателя
 Invoking Harmony,Гармония призыва
 Invoking Torment,Призыв мучений
 Invoking a legend casts a skill based on the legend you invoked. <c=@reminder>Invoking Razah casts the skill associated with the legend you have equipped in your other slot instead. </c>,"Призыв легенды активирует навык, основанный на призванной легенде. <c=@reminder>Призыв Разы активирует навык, связанный с легендой, экипированной в другой ячейке. </c>"
-Invoking a legend grants boons to nearby allies based on the legend that was invoked.,Обращение к легенде даёт Дары союзникам поблизости в зависимости от легенды.
+Invoking a legend grants boons to nearby allies based on the legend that was invoked.,Обращение к легенде даёт дары союзникам поблизости в зависимости от легенды.
 Invoking a legend removes a condition.,Обращение к легенде снимает состояние.
 Invoking a legend while at or below the energy threshold grants extra energy to your new legend.,"Обращение к легенде в момент, когда ваша энергия равна или ниже порога, даёт дополнительную энергию вашей новой легенде."
 Iron Sight,Железный прицел
