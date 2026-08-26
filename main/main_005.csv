@@ -2020,7 +2020,7 @@ May Cause Intermittent Gastric Distress","+100 Сила
 "+100 Toughness
 +70 Condition Damage
 +10%% Experience from Kills","+100 к Стойкости
-+70 к Урону от состояний
++70 к урону от состояний
 +10%% опыта за убийства"
 "+100 Toughness
 +70 Healing Power
@@ -2494,7 +2494,7 @@ May Cause Intermittent Gastric Distress","+100 Сила
 +10%% Experience from Kills","+150 Сила
 +10%% Опыт за убийства"
 "+150 Power and Condition Damage for 30 Seconds on Kill
-+10%% Experience from Kills","+150 Сила и Урон от состояний на 30 секунд при убийстве
++10%% Experience from Kills","+150 Сила и урон от состояний на 30 секунд при убийстве
 +10%% Опыт за убийства"
 "+150 Power and Vitality for 30 Seconds on Kill
 +10%% Experience from Kills","+150 Сила и Живучесть на 30 секунд при убийстве
@@ -3018,7 +3018,7 @@ Night: 8%% Chance to Steal Life on Critical Hit
 "+25 Precision
 +15 Condition Damage
 +15 Power","+25 к Точности
-+15 к Урону от состояний
++15 к урону от состояний
 +15 к Силе"
 "+25 Precision
 +15 Ferocity
@@ -3044,7 +3044,7 @@ Night: 8%% Chance to Steal Life on Critical Hit
 +25 Condition Damage
 +12 Condition Duration
 +12 Vitality","+25 к Стойкости
-+25 к Урону от состояний
++25 к урону от состояний
 +12 к Длительности состояний
 +12 к Живучести"
 "+25 Vitality
@@ -3059,7 +3059,7 @@ Night: 8%% Chance to Steal Life on Critical Hit
 +10%% к опыту за убийства"
 "+26%% Magic Find
 +60 Condition Damage","+26%% к Находчивости
-+60 к Урону от состояний"
++60 к урону от состояний"
 "+26%% Magic Find
 +60 Power","+26%% к Находчивости
 +60 к Силе"
@@ -3236,43 +3236,43 @@ Night: 12%% Chance to Steal Life on Critical Hit
 +10%% к Карме"
 "+32 Condition Damage
 +18 Power
-+18 Precision","+32 к Урону от состояний
++18 Precision","+32 к урону от состояний
 +18 к Силе
 +18 к Точности"
 "+32 Condition Damage
 +18 Power
 +18 Precision
-+5 Agony Resistance","+32 к Урону от состояний
++5 Agony Resistance","+32 к урону от состояний
 +18 к Силе
 +18 к Точности
 +5 к Сопротивлению Агонии"
 "+32 Condition Damage
 +18 Power
-+18 Vitality","+32 к Урону от состояний
++18 Vitality","+32 к урону от состояний
 +18 к Силе
 +18 к Живучести"
 "+32 Condition Damage
 +18 Precision
-+18 Toughness","+32 к Урону от состояний
++18 Toughness","+32 к урону от состояний
 +18 к Точности
 +18 к Стойкости"
 "+32 Condition Damage
 +18 Precision
 +18 Toughness
-+5 Agony Resistance","+32 к Урону от состояний
++5 Agony Resistance","+32 к урону от состояний
 +18 к Точности
 +18 к Стойкости
 +5 к Сопротивлению Агонии"
 "+32 Healing
 +18 Condition Damage
 +18 Toughness","+32 к Лечению
-+18 к Урону от состояний
++18 к урону от состояний
 +18 к Стойкости"
 "+32 Healing
 +18 Condition Damage
 +18 Toughness
 +5 Agony Resistance","+32 к Лечению
-+18 к Урону от состояний
++18 к урону от состояний
 +18 к Стойкости
 +5 к Сопротивлению Агонии"
 "+32 Healing Power
