@@ -40,7 +40,7 @@ Dazzling,Ослепляющий
 Deactivate Photon Forge converts conditions into boons based on your heat level.,Деактивация фотонной кузницы превращает состояния в дары в зависимости от уровня нагрева.
 Dead or Alive,Живой или мёртвый
 Deadeye's Gaze,Взгляд Меткого Стрелка
-Deadeye's Mark recharges if your mark is defeated. Gain regeneration when this recharge occurs.,"Метка снайпера перезаряжается, если отмеченная цель повержена. Если это происходит, вам даруется Регенерация."
+Deadeye's Mark recharges if your mark is defeated. Gain regeneration when this recharge occurs.,"Метка снайпера перезаряжается, если отмеченная цель повержена. Если это происходит, вам даруется регенерация."
 Deadly Ambition,Смертельные Амбиции
 Deadly Ambush,Смертельная Засада
 Deadly Blades,Смертоносные Клинки
@@ -169,7 +169,7 @@ Double Helix,Двойная спираль
 Doubled Standards,Удвоенные стандарты
 Draconic Echo,Драконье эхо
 Draconic Fortitude,Драконья стойкость
-Dragon Slash becomes unblockable and ignores blindness. Gain might whenever you convert flow into charges.,"Удар Дракона нельзя блокировать, и он игнорирует слепоту. Вам даруется Мощь при каждом превращении напора в заряды."
+Dragon Slash becomes unblockable and ignores blindness. Gain might whenever you convert flow into charges.,"Удар Дракона нельзя блокировать, и он игнорирует слепоту. Вам даруется мощь при каждом превращении напора в заряды."
 "Dragon Slash has a lower maximum charge level and consumes more flow per charge, but its effectiveness per charge is increased. Grant boons to nearby allies when you use Dragon Slash.","Dragon Slash имеет более низкий максимальный уровень заряда и потребляет больше потока за заряд, но урон за заряд увеличен. Дарует благословения ближайшим союзникам при использовании Dragon Slash."
 Dragon Slash heals you for a percentage of the damage dealt. Gain protection whenever you convert flow into charges.,Удар дракона лечит вас на процент от нанесенного урона. Получайте протекцию при преобразовании потока в заряды.
 Dragonscale Defense,Защита драконьей чешуи
@@ -253,8 +253,8 @@ Enduring Refrain,Длительный рефрен
 Energized Elements,Заряженные элементы
 Energy Amplifier,Усилитель энергии
 Energy Meld grants more endurance and grants its endurance and vigor to nearby allies.,"Умение «Слияние энергии» даёт больше выносливости, а также даёт выносливость и Энергичность союзникам поблизости."
-Energy Meld no longer has an energy cost and grants energy when used in combat.,"Умение «Слияние энергии» не требует энергии для активации и даёт энергию при использовании в бою."
-Energy Meld's cooldown is reduced and it increases the effectiveness of your next dodge.,"Умение «Слияние энергии» перезаряжается быстрее и увеличивает эффективность вашего следующего уворота."
+Energy Meld no longer has an energy cost and grants energy when used in combat.,Умение «Слияние энергии» не требует энергии для активации и даёт энергию при использовании в бою.
+Energy Meld's cooldown is reduced and it increases the effectiveness of your next dodge.,Умение «Слияние энергии» перезаряжается быстрее и увеличивает эффективность вашего следующего уворота.
 Energy Threshold,Порог энергии
 Enhanced Capacity Storage Unit,Улучшенный блок хранения
 Enhanced Embodiment,Улучшенное воплощение
@@ -396,8 +396,8 @@ Gadgeteer,Гаджетолог
 Gain 1 extra adrenaline per hit.,Получайте 1 дополнительную единицу адреналина за удар.
 Gain <c=@abilitytype>carapace</c> when entering shroud.,"Получайте <c=@abilitytype>панцирь</c> Вы получаете панцирь , когда входите в Саван."
 "Gain Combat High when you use Skritt Swipe, increasing your outgoing strike and condition damage. Lose stacks of Combat High every interval.","Получите Боевой подъём при использовании Удара скритта, увеличивая ваш исходящий урон от атак и состояний. Теряйте стаки Боевого подъёма через каждый интервал."
-Gain Elemental Empowerment and might when you disable or immobilize a foe.,"Вам даруется Мощь и Стихийное усиление, когда вы обездвиживаете противника или выводите его из строя."
-Gain Elemental Empowerment and vigor when evading an attack.,"Вам даруется Энергичность и Стихийное усиление, когда вы уклоняетесь от атаки."
+Gain Elemental Empowerment and might when you disable or immobilize a foe.,"Вам даруется мощь и Стихийное усиление, когда вы обездвиживаете противника или выводите его из строя."
+Gain Elemental Empowerment and vigor when evading an attack.,"Вам даруется энергичность и Стихийное усиление, когда вы уклоняетесь от атаки."
 Gain Elemental Empowerment while in combat.,"Пока вы находитесь в бою, на вас действует эффект Стихийного усиления."
 "Gain Insight when disabling foes or removing boons. Full Counter refreshes all <c=@abilitytype>burst</c> skills on hit.
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt and fear.","Получайте Проницательность при оглушении врагов или снятии благословений. Полный контратакующий удар обновляет все <c=@abilitytype>взрывные</c> навыки при попадании.
@@ -438,10 +438,10 @@ Signet skills gain improved passive effects and continue to grant their passive 
 Навыки печатей получают улучшенные пассивные эффекты и продолжают давать свои пассивные бонусы во время перезарядки."
 Gain adrenaline on weapon swap.,Вы получаете адреналин при смене оружия.
 "Gain adrenaline when hit. Remove a condition when you hit with a <c=@abilitytype>burst</c> skill, then remove an additional condition for every bar of adrenaline spent.","Получайте адреналин при получении урона. Снимите одно состояние при попадании навыком <c=@abilitytype>рывка</c>, затем снимите дополнительное состояние за каждую потраченную шкалу адреналина."
-Gain aegis when you are struck while below the health threshold.,"Вам даруется Эгида при получении урона, когда ваше здоровье ниже порога."
+Gain aegis when you are struck while below the health threshold.,"Вам даруется эгида при получении урона, когда ваше здоровье ниже порога."
 Gain affinity when using a weapon skill that costs energy.,"Вы получаете очки схожести при использовании оружейных умений, которым требуется энергия для активации."
 Gain affinity when you invoke a different legend.,"Вы получаете схожесть, когда обращаетесь к другой легенде."
-Gain alacrity for each clone you shatter. Gain increased critical-strike chance for you and your illusions when you have alacrity.,"Вам даруется Рвение за каждый клон, разбитый на Осколки. Когда у вас есть дар Рвения, вы и ваши иллюзии получаете повышенный шанс на критический удар."
+Gain alacrity for each clone you shatter. Gain increased critical-strike chance for you and your illusions when you have alacrity.,"Вам даруется рвение за каждый клон, разбитый на Осколки. Когда у вас есть дар Рвения, вы и ваши иллюзии получаете повышенный шанс на критический удар."
 "Gain an additional artifact slot. Whenever you pilfer, you gain an additional, random artifact. You can use one additional artifact when you pilfer with Skritt Swipe.","Получайте дополнительный слот для артефакта. Всякий раз, когда вы крадете, вы получаете дополнительный случайный артефакт. Вы можете использовать один дополнительный артефакт, когда крадете с помощью «Удара скритта» (Skritt Swipe)."
 "Gain an attack of opportunity for you and your pet on interrupting a foe. Daze and stun durations that you inflict last longer.
 <c=@reminder>This trait can only grant an attack of opportunity against enemies with defiance bars once per interval.</c>","Получайте возможность атаки для себя и своего питомца при прерывании врага. Длительность оглушения и ошеломления, которые вы накладываете, увеличена.
@@ -508,16 +508,16 @@ Gain ferocity for a short duration when you hit with an <c=@abilitytype>explosio
 "Gain ferocity, and gain additional ferocity while attuned to air. Air weapon skills get a reduced recharge time.","Получайте свирепость, а также дополнительную свирепость при настройке на воздух. Воздушные навыки оружия получают сокращенное время перезарядки."
 Gain ferocity. Gain additional ferocity when wielding an axe. Axe skills gain reduced recharge and grant adrenaline when critically striking.,"Ваша Жестокость увеличивается. Вы получаете дополнительную Жестокость, если вы вооружены топором. Умения топора перезаряжаются быстрее и дают адреналин при критических ударах."
 Gain fire aura when an ally picks up a conjured weapon.,"Даёт огненную ауру, когда союзник поднимает сотворенное оружие."
-Gain fury and adrenaline when you immobilize or disable a foe.,"Вам даруются Ярость и адреналин, когда вы обездвиживаете цель или выводите её из строя."
-Gain fury when entering shroud. Gain additional precision.,"Вам даруется Ярость, когда вы входите в Саван. Ваша Точность увеличивается."
-Gain fury when swapping weapons in combat.,Вам даруется Ярость при смене оружия в бою.
-Gain fury when you activate Bladesong Sorrow. Fury increases your expertise.,При активации умения Bladesong Sorrow вам даруется Ярость. Ярость повышает вашу Сноровку.
-Gain fury when you gain might at or above the threshold.,"Вам даруется Ярость, когда дарованная вам Мощь равна или превышает порог."
-Gain fury when you hit a foe with an <c=@abilitytype>Explosion</c>.,"Вам даруется Ярость, когда вы поражаете противника взрывом . <c=@abilitytype>взрывом</c>."
+Gain fury and adrenaline when you immobilize or disable a foe.,"Вам даруются ярость и адреналин, когда вы обездвиживаете цель или выводите её из строя."
+Gain fury when entering shroud. Gain additional precision.,"Вам даруется ярость, когда вы входите в Саван. Ваша Точность увеличивается."
+Gain fury when swapping weapons in combat.,Вам даруется ярость при смене оружия в бою.
+Gain fury when you activate Bladesong Sorrow. Fury increases your expertise.,При активации умения Bladesong Sorrow вам даруется ярость. Ярость повышает вашу Сноровку.
+Gain fury when you gain might at or above the threshold.,"Вам даруется ярость, когда дарованная вам Мощь равна или превышает порог."
+Gain fury when you hit a foe with an <c=@abilitytype>Explosion</c>.,"Вам даруется ярость, когда вы поражаете противника взрывом . <c=@abilitytype>взрывом</c>."
 Gain fury when you inflict bleeding on an enemy. Fury gives an increased critical-strike chance.,Получайте ярость при наложении кровотечения на врага. Ярость даёт увеличенный шанс критического удара.
-Gain fury when you invoke a legend.,"Вам даруется Ярость, когда вы обращаетесь к легенде."
-Gain fury when you strike a foe that has burning stacks over the threshold.,"Вам даруется Ярость, когда вы наносите удар противнику, число стеков горения на котором выше порога."
-Gain fury when you swap weapons. Fury gives an increased critical chance.,Смена оружия дарует Ярость. Ярость даёт повышенный шанс на критическое попадание.
+Gain fury when you invoke a legend.,"Вам даруется ярость, когда вы обращаетесь к легенде."
+Gain fury when you strike a foe that has burning stacks over the threshold.,"Вам даруется ярость, когда вы наносите удар противнику, число стеков горения на котором выше порога."
+Gain fury when you swap weapons. Fury gives an increased critical chance.,Смена оружия дарует ярость. Ярость даёт повышенный шанс на критическое попадание.
 Gain healing power. Gain concentration based on a portion of your healing power.,Ваша сила исцеления увеличивается. Ваша Концентрация увеличивается в зависимости от вашей силы исцеления.
 "Gain health and boons when swapping legends, or by using <c=@abilitytype>Alliance Tactics</c> while attuned to the Legendary Alliance.",Получайте здоровье и благословения при смене легенд или при использовании <c=@abilitytype>Тактики Альянса</c> во время настройки на Легендарный Альянс.
 Gain health and endurance whenever you apply might to yourself.,"Вы получаете здоровье и выносливость, когда даруете себе Мощь."

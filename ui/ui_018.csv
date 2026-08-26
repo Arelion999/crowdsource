@@ -134,7 +134,7 @@ english,translate
 -10%% Incoming Condition Duration,-10%% к длительности входящих состояний
 "-10%% Incoming Damage While Stunned, Knocked Down, or Knocked Back+10%% Experience from Kills","-10%% входящего урона в Оглушении, нокдауне или при отталкивании+10%% опыта за убийства"
 -10%% Incoming Damage+10%% Experience from Kills,-10%% входящего урона+10%% опыта за убийства
--10%% Incoming Damage+100 Concentration+33%% Chance to Gain Might on Critical Hit+10%% Karma+5%% All Experience Gained+20%% Magic Find+20%% Gold Find+10%% WXP Gained,-10%% входящего урона+100 к Концентрации+33%% шанс получить Мощь при критическом ударе+10%% кармы+5%% ко всему получаемому опыту+20%% к поиску магии+20%% к поиску золота+10%% к получаемому мировому опыту
+-10%% Incoming Damage+100 Concentration+33%% Chance to Gain Might on Critical Hit+10%% Karma+5%% All Experience Gained+20%% Magic Find+20%% Gold Find+10%% WXP Gained,-10%% входящего урона+100 к Концентрации+33%% шанс получить мощь при критическом ударе+10%% кармы+5%% ко всему получаемому опыту+20%% к поиску магии+20%% к поиску золота+10%% к получаемому мировому опыту
 -10%% Incoming Damage+100 Concentration+70 Expertise+10%% Karma+5%% All Experience Gained+20%% Magic Find+20%% Gold Find+10%% WXP Gained,-10%% входящего урона+100 к Концентрации+70 к Экспертизе+10%% кармы+5%% ко всему получаемому опыту+20%% к поиску магии+20%% к поиску золота+10%% к получаемому мировому опыту
 -10%% Incoming Damage+100 Concentration+70 Healing Power+10%% Karma+5%% All Experience Gained+20%% Magic Find+20%% Gold Find+10%% WXP Gained,-10%% входящего урона+100 к Концентрации+70 к Силе исцеления+10%% кармы+5%% ко всему получаемому опыту+20%% к поиску магии+20%% к поиску золота+10%% к получаемому мировому опыту
 -10%% Incoming Damage+100 Concentration+70 Power+10%% Karma+5%% All Experience Gained+20%% Magic Find+20%% Gold Find+10%% WXP Gained,-10%% входящего урона+100 к Концентрации+70 к Силе+10%% кармы+5%% ко всему получаемому опыту+20%% к поиску магии+20%% к поиску золота+10%% к получаемому мировому опыту
@@ -165,7 +165,7 @@ english,translate
 -18%% Incoming Condition Duration+60 Vitality+10%% Experience from Kills,-18%% к длительности входящих состояний+60 к Живучести+10%% опыта за убийства
 "-18%% Incoming Damage while Stunned, Knocked Down, or Knocked Back-14%% Incoming Condition Duration","-18%% входящего урона в Оглушении, нокдауне или при отталкивании-14%% к длительности входящих состояний"
 -2%% Incoming Condition Duration,-2%% к длительности входящих состояний
--20%% Incoming Condition Duration+100 Concentration+33%% Chance to Gain Might on Critical Hit+10%% Karma+5%% All Experience Gained+20%% Magic Find+20%% Gold Find+10%% WXP Gained,-20%% к длительности входящих состояний+100 к Концентрации+33%% шанс получить Мощь при критическом ударе+10%% кармы+5%% ко всему получаемому опыту+20%% к поиску магии+20%% к поиску золота+10%% к получаемому мировому опыту
+-20%% Incoming Condition Duration+100 Concentration+33%% Chance to Gain Might on Critical Hit+10%% Karma+5%% All Experience Gained+20%% Magic Find+20%% Gold Find+10%% WXP Gained,-20%% к длительности входящих состояний+100 к Концентрации+33%% шанс получить мощь при критическом ударе+10%% кармы+5%% ко всему получаемому опыту+20%% к поиску магии+20%% к поиску золота+10%% к получаемому мировому опыту
 -20%% Incoming Condition Duration+100 Concentration+70 Expertise+10%% Karma+5%% All Experience Gained+20%% Magic Find+20%% Gold Find+10%% WXP Gained,-20%% к длительности входящих состояний+100 к Концентрации+70 к Экспертизе+10%% кармы+5%% ко всему получаемому опыту+20%% к поиску магии+20%% к поиску золота+10%% к получаемому мировому опыту
 -20%% Incoming Condition Duration+100 Concentration+70 Healing Power+10%% Karma+5%% All Experience Gained+20%% Magic Find+20%% Gold Find+10%% WXP Gained,-20%% к длительности входящих состояний+100 к Концентрации+70 к Силе исцеления+10%% кармы+5%% ко всему получаемому опыту+20%% к поиску магии+20%% к поиску золота+10%% к получаемому мировому опыту
 -20%% Incoming Condition Duration+100 Concentration+70 Power+10%% Karma+5%% All Experience Gained+20%% Magic Find+20%% Gold Find+10%% WXP Gained,-20%% к длительности входящих состояний+100 к Концентрации+70 к Силе+10%% кармы+5%% ко всему получаемому опыту+20%% к поиску магии+20%% к поиску золота+10%% к получаемому мировому опыту
@@ -336,11 +336,11 @@ english,translate
 "100 Fractal Relics[pl:""Relics""]",100 фрактальных реликви[и|й|й]
 100 to 199 DR,От 100 до 199 СУ
 "100%% boost to magic find, WvW rank gain, experience from kills, and gold from kills.10%% bonus to PvP and WvW reward track progress.","+100%% к поиску магии, набору ранга WvW, опыту за убийства и золоту с убийств.+10%% к прогрессу наградных треков PvP и WvW."
-100%% Chance to Gain Fury on Kill+70 Ferocity+10%% Experience from Kills,100%% шанс получить Ярость при убийстве+70 к Свирепости+10%% опыта за убийства
+100%% Chance to Gain Fury on Kill+70 Ferocity+10%% Experience from Kills,100%% шанс получить ярость при убийстве+70 к Свирепости+10%% опыта за убийства
 100%% Chance to Gain Health on Kill+70 Healing Power+10%% Experience from Kills,100%% шанс получить здоровье при убийстве+70 к Силе исцеления+10%% опыта за убийства
-100%% Chance to Gain Might on Dodge+40%% to Endurance Regeneration+10%% Experience from Kills,100%% шанс получить Мощь при уклонении+40%% к восстановлению выносливости+10%% опыта за убийства
-100%% Chance to Gain Might on Kill+70 Ferocity+10%% Experience from Kills,100%% шанс получить Мощь при убийстве+70 к Свирепости+10%% опыта за убийства
-100%% Chance to Gain Might on Kill+70 Power+10%% Experience from Kills,100%% шанс получить Мощь при убийстве+70 к Силе+10%% опыта за убийства
+100%% Chance to Gain Might on Dodge+40%% to Endurance Regeneration+10%% Experience from Kills,100%% шанс получить мощь при уклонении+40%% к восстановлению выносливости+10%% опыта за убийства
+100%% Chance to Gain Might on Kill+70 Ferocity+10%% Experience from Kills,100%% шанс получить мощь при убийстве+70 к Свирепости+10%% опыта за убийства
+100%% Chance to Gain Might on Kill+70 Power+10%% Experience from Kills,100%% шанс получить мощь при убийстве+70 к Силе+10%% опыта за убийства
 100%% Chance to Gather 1 MaterialReduce Ore Node Durability by 25%%,100%% шанс добыть 1 материалПрочность рудной жилы снижается на 25%%
 100%% Chance to Remove a Condition on Using a Heal Skill (Cooldown: 10 Seconds)+70 Healing+10%% Experience from Kills,100%% шанс снять состояние при применении умения исцеления (перезарядка: 10 с)+70 к исцелению+10%% опыта за убийства
 1000 to 1099 DR,От 1000 до 1099 СУ
@@ -404,7 +404,7 @@ english,translate
 "16 Phoenix, 1325 AE",16 Феникса 1325 года ПИ
 16%% (total) damage to guards. All Guard Killer bonuses now also affect enemy lords and supervisors.,+16%% (всего) к урону по стражникам. Все бонусы «Убийца стражников» теперь действуют и на вражеских лордов и надзирателей.
 16%% (total) increase to damage and defense against mercenaries,+16%% (всего) к урону и защите против наёмников
-16%% Chance to Gain Might on Critical Hit During the Day+10%% Experience from Kills,16%% шанс получить Мощь при критическом ударе днём+10%% опыта за убийства
+16%% Chance to Gain Might on Critical Hit During the Day+10%% Experience from Kills,16%% шанс получить мощь при критическом ударе днём+10%% опыта за убийства
 16%% reduced damage (total) from guards. All Defense Against Guards bonuses apply to lords and supervisors.,-16%% (всего) к урону от стражников. Все бонусы «Защита от стражников» действуют на лордов и надзирателей.
 16. Return to Kosmas.,16. Вернитесь к Космасу.
 16. Speak with Zojja.,16. Поговорите с Зойей.
@@ -422,7 +422,7 @@ english,translate
 18—Elona: Hidden below an elegant throne.,18 — Элона: спрятан под изящным троном.
 19—Droknar: Atop a rocky arch.,19 — Дрокнар: на вершине скальной арки.
 1–3 Motivation,1–3 побуждения
-1–3 Motivation: Applies might.,1–3 побуждения: накладывает Мощь.
+1–3 Motivation: Applies might.,1–3 побуждения: накладывает мощь.
 1–3 Motivation: Grants boons to allies.,1–3 побуждения: даёт союзникам боны.
 1—Mourning's Shade: Waterfall that leads to the abyss.,"1 — Тень Скорби: водопад, ведущий в бездну."
 "2 Gold[pl:""Gold""]",2 золот[о|а|ых]
@@ -462,13 +462,13 @@ english,translate
 "20%% (total) damage to guards, lords, and supervisors. Gain 50%% of your endurance back after killing guards, lords, and supervisors.","+20%% (всего) к урону по стражникам, лордам и надзирателям. За убийство стражников, лордов и надзирателей возвращается 50%% выносливости."
 20%% (total) increase to damage and defense against mercenaries,+20%% (всего) к урону и защите против наёмников
 20%% Chance to Gain Health on Kill+10%% Experience from Kills,20%% шанс получить здоровье при убийстве+10%% опыта за убийства
-20%% Chance to Gain Might on Dodge+10%% Experience from Kills,20%% шанс получить Мощь при уклонении+10%% опыта за убийства
-20%% Chance to Gain Might on Kill+10%% Experience from Kills,20%% шанс получить Мощь при убийстве+10%% опыта за убийства
+20%% Chance to Gain Might on Dodge+10%% Experience from Kills,20%% шанс получить мощь при уклонении+10%% опыта за убийства
+20%% Chance to Gain Might on Kill+10%% Experience from Kills,20%% шанс получить мощь при убийстве+10%% опыта за убийства
 20%% Chance to Gain Swiftness on Kill+10%% Experience from Kills,20%% шанс получить Быстроту при убийстве+10%% опыта за убийства
 20%% Chance to Remove a Condition on Using a Heal Skill+10%% Experience from Kills,20%% шанс снять состояние при применении умения исцеления+10%% опыта за убийства
 20%% Chance to Steal Life on Critical Hit+10%% Experience from Kills,20%% шанс похитить жизнь при критическом ударе+10%% опыта за убийства
 20%% increased healing.,+20%% к исцелению.
-"20%% reduced damage (total) from guards, lords, and supervisors. Gain resolution for 10 seconds when you take damage from guards, lords, or supervisors. This effect triggers once every 20 seconds.","-20%% (всего) к урону от стражников, лордов и надзирателей. Получая урон от стражников, лордов или надзирателей, вы получаете Решимость на 10 секунд. Этот эффект срабатывает раз в 20 секунд."
+"20%% reduced damage (total) from guards, lords, and supervisors. Gain resolution for 10 seconds when you take damage from guards, lords, or supervisors. This effect triggers once every 20 seconds.","-20%% (всего) к урону от стражников, лордов и надзирателей. Получая урон от стражников, лордов или надзирателей, вы получаете решимость на 10 секунд. Этот эффект срабатывает раз в 20 секунд."
 200 to 299 DR,От 200 до 299 СУ
 200 to 400 Distance,Расстояние от 200 до 400
 200–300 Range,Дальность 200–300
@@ -494,4 +494,4 @@ english,translate
 "24 Phoenix, 1325 AE",24 Феникса 1325 года ПИ
 "24 Scion, 1326 AE",24 Отпрыска 1326 года ПИ
 "24 x Mechanized Miner Parts   12 x Battery Packs   48 x Pickaxes   144 x Air Filter Packs   Comment: Future deliveries will require specific instructions with departure times, rail transfer procedures, cargo limitations, and the delivery location name.","24 ед. деталей механизированного шахтёра   12 ед. аккумуляторных батарей   48 ед. кирок   144 ед. комплектов воздушных фильтров   Комментарий: Будущие поставки потребуют конкретных инструкций с указанием времени отправления, процедур железнодорожной перевалки, ограничений по грузу и названия места доставки."
-24%% Chance to Gain Might on Critical Hit during the Day24%% Chance to Inflict Chill on Critical Hit during the Night+10%% Experience from Kills,24%% шанс получить Мощь при критическом ударе днём24%% шанс наложить Заморозку при критическом ударе ночью+10%% опыта за убийства
+24%% Chance to Gain Might on Critical Hit during the Day24%% Chance to Inflict Chill on Critical Hit during the Night+10%% Experience from Kills,24%% шанс получить мощь при критическом ударе днём24%% шанс наложить Заморозку при критическом ударе ночью+10%% опыта за убийства

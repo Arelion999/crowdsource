@@ -11,8 +11,8 @@ Method of Madness,Метод безумия
 Meticulous Custodian,Скрупулезный хранитель
 Might Makes Right,Сила даёт право
 Might applied to you grants more power. Your critical-hit chance is increased.,Дарованная вам Мощь даёт больше Силы. Вы имеете увеличенный шанс на критическое попадание.
-Might grants you more power and less condition damage. Gain might when using a legendary stance skill.,"Мощь даёт вам больше Силы и меньше урона от состояний. Вам даруется Мощь, когда вы используете умения легенд."
-Might grants you more power. Gain might when entering shroud.,"Мощь ещё больше увеличивает вашу Силу. Вам даруется Мощь, когда вы входите в Саван."
+Might grants you more power and less condition damage. Gain might when using a legendary stance skill.,"Мощь даёт вам больше Силы и меньше урона от состояний. Вам даруется мощь, когда вы используете умения легенд."
+Might grants you more power. Gain might when entering shroud.,"Мощь ещё больше увеличивает вашу Силу. Вам даруется мощь, когда вы входите в Саван."
 Might of the Protector,Мощь защитника
 "Mighty Blow becomes Glacial Blow. Heal when you disable, immobilize, or chill a foe.","Мощный удар становится Ледяным ударом. Исцеляет вас при наложении на врага эффектов контроля, обездвиживания или охлаждения."
 Minimum Bonus Damage,Минимальный бонус к урону
@@ -39,7 +39,7 @@ Morph. Create a giant blade to maim your enemy. This attack destroys the barrier
 "Morph. Spin around a hunk of metal, then finish with a forward smash.","Морф. Вращает кусок металла, завершая атаку мощным ударом вперёд."
 "Morph. Thrust forward with a spike, piercing the defense of your foe.","Морф. Выпад шипом вперёд, пронзающий защиту вашего врага."
 Motivation Stacks,Стаки мотивации
-Movement skills grant resistance.,Умения с перемещением даруют Сопротивляемость.
+Movement skills grant resistance.,Умения с перемещением даруют сопротивляемость.
 Movement skills grant swiftness and increase flow rate.,Навыки передвижения дают быстрота и увеличивают скорость накопления потока.
 Movement skills grant you swiftness and endurance.,Умения с перемещением даруют Быстроту и выносливость.
 Movement skills grant boons and adrenaline when used.,Навыки передвижения дают благословения и адреналин при использовании.
@@ -50,7 +50,7 @@ Natural Mender,Природный целитель
 Natural Vigor,Природная бодрость
 Nature's Shield,Щит природы
 Nature's Vengeance,Месть природы
-Nearby allies gain boons for each clone you shatter. Grant boons to nearby allies when you summon a <c=@abilitytype>phantasm</c>.,"Союзники поблизости получают дары за каждого клона, разбитого вами на осколки. Вы даруете Рвение союзникам поблизости, когда создаете фантом . <c=@abilitytype>фантазма</c>."
+Nearby allies gain boons for each clone you shatter. Grant boons to nearby allies when you summon a <c=@abilitytype>phantasm</c>.,"Союзники поблизости получают дары за каждого клона, разбитого вами на осколки. Вы даруете рвение союзникам поблизости, когда создаете фантом . <c=@abilitytype>фантазма</c>."
 Nearby allies gain the passive effect of Virtue skill 2.,Близлежащие союзники получают пассивный эффект умения Добродетели 2.
 Nearby foes are blinded by <c=@abilitytype>Beast</c> abilities.,Умения зверя ослепляют противников поблизости. <c=@abilitytype>Зверя</c>.
 Necromantic Corruption,Некромантическая порча
@@ -245,10 +245,10 @@ Refrain effects of chants are stronger. Gain additional motivation when you acti
 Refrains grant bonus effects to you while they are active.,"Рефрены дают вам дополнительные эффекты, пока они активны."
 Refresh the duration of your Luminary's Blessing and trigger its healing when you exit Radiant Forge.,"Вы обновляете длительность Благословения Люминара и запускаете его исцеляющий эффект, когда покидаете Сияющую Кузницу."
 Regain health by spending adrenaline.,Восстанавливает здоровье при трате адреналина.
-Regain opening strike whenever you gain fury. Opening strike deals more damage.,"Вы снова можете нанести открывающий удар каждый раз, когда вам даруется Ярость. Открывающий удар наносит больше урона."
+Regain opening strike whenever you gain fury. Opening strike deals more damage.,"Вы снова можете нанести открывающий удар каждый раз, когда вам даруется ярость. Открывающий удар наносит больше урона."
 Regenerate health while affected by swiftness or superspeed.,"Вы восстанавливаете здоровье, пока находитесь под воздействием Быстроты или сверхскорости."
 "Regenerate health while in shroud. If your life force is above the threshold, your shroud will activate if you would take a lethal blow.","Восстанавливает здоровье, находясь в саване. Если ваша жизненная сила выше порогового значения, саван активируется, если вы должны получить смертельный удар."
-Regeneration heals for more. Gain regeneration when struck while below the health threshold.,"Регенерация даёт больше здоровья. Вам даруется Регенерация при получении урона, когда ваше здоровье ниже порога."
+Regeneration heals for more. Gain regeneration when struck while below the health threshold.,"Регенерация даёт больше здоровья. Вам даруется регенерация при получении урона, когда ваше здоровье ниже порога."
 Reinforced Potency,Усиленная мощь
 Rejuvenation,Омоложение
 Release a burst of torment energy when you switch legends.,Вы выпускаете вспышку болезненной энергии при смене легенды.

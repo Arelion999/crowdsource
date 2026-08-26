@@ -1141,7 +1141,7 @@ Summons a Black Lion Merchant If Your Inventory Is Full after Gathering (20-Minu
 +20%% Gold Find
 +10%% WXP Gained","-20%% к длительности входящих состояний
 +100 к Концентрации
-+33%% шанс получить Мощь при критическом ударе
++33%% шанс получить мощь при критическом ударе
 +10%% кармы
 +5%% ко всему получаемому опыту
 +20%% к поиску магии
@@ -1658,7 +1658,7 @@ surviving. Of course, maybe he's trying to be sneaky and signal some of his old 
 100%%,100%%
 "100%% Chance to Gain Fury on Kill
 +70 Ferocity
-+10%% Experience from Kills","100%% шанс получить Ярость при убийстве
++10%% Experience from Kills","100%% шанс получить ярость при убийстве
 +70 к Свирепости
 +10%% опыта за убийства"
 "100%% Chance to Gain Health on Kill
@@ -1668,17 +1668,17 @@ surviving. Of course, maybe he's trying to be sneaky and signal some of his old 
 +10%% опыта за убийства"
 "100%% Chance to Gain Might on Dodge
 +40%% to Endurance Regeneration
-+10%% Experience from Kills","100%% шанс получить Мощь при уклонении
++10%% Experience from Kills","100%% шанс получить мощь при уклонении
 +40%% к восстановлению выносливости
 +10%% опыта за убийства"
 "100%% Chance to Gain Might on Kill
 +70 Ferocity
-+10%% Experience from Kills","100%% шанс получить Мощь при убийстве
++10%% Experience from Kills","100%% шанс получить мощь при убийстве
 +70 к Свирепости
 +10%% опыта за убийства"
 "100%% Chance to Gain Might on Kill
 +70 Power
-+10%% Experience from Kills","100%% шанс получить Мощь при убийстве
++10%% Experience from Kills","100%% шанс получить мощь при убийстве
 +70 к Силе
 +10%% опыта за убийства"
 "100%% Chance to Gather 1 Material
@@ -1732,7 +1732,7 @@ Supervisor didn't listen to me. Said that my ""personal problems"" had nothing t
 Начальник меня не послушал. Сказал, что мои «личные проблемы» не имеют отношения к компании. Или к джейд-технологиям. Назвал меня лжецом! Пригрозил увольнением. Я не знаю, куда ещё обратиться."
 "13th of MikanImplant is acting up again. Seems to happen a lot more this past year, but I don't see a pattern. Nuna suggested keeping this journal.15th of MikanThis sounds crazy, but I think...my implant is reacting to the power fluctuations. Doesn't make any sense... What does my implant have to do with the power grid? Need to gather more data.29th of MikanConfirmed that my implant does malfunction when we have a significant loss of power in the grid. There's some connection. Something to do with jade tech in general. That's the only explanation...17th of NemnaiSupervisor didn't listen to me. Said that my ""personal problems"" had nothing to do with the company. Or jade tech. Called me a liar! Threatened me with termination. I don't know where else to turn.","13-е число Микана Имплант снова барахлит. Кажется, в этом году это происходит гораздо чаще, но я не вижу никакой закономерности. Нуна предложила вести этот дневник. 15-е число Микана Это звучит безумно, но я думаю... мой имплант реагирует на колебания мощности. Это не имеет никакого смысла... Какое отношение мой имплант имеет к электросети? Нужно собрать больше данных. 29-е число Микана Подтверждено, что мой имплант действительно выходит из строя, когда у нас происходит значительная потеря мощности в сети. Есть какая-то связь. Что-то общее с нефритом. Это единственное объяснение... 17-е число Немная Начальник меня не послушал. Сказал, что мои «личные проблемы» не имеют никакого отношения к компании. Или к нефритовым технологиям. Назвал меня лжецом! Угрожал увольнением. Я не знаю, куда ещё обратиться."
 "16%% Chance to Gain Might on Critical Hit During the Day
-+10%% Experience from Kills","16%% шанс получить Мощь при критическом ударе днём
++10%% Experience from Kills","16%% шанс получить мощь при критическом ударе днём
 +10%% опыта за убийства"
 "1630 CC
 ...for years we've felt Ione's subterranean murmurs, upset that her people turned away from her.
@@ -1868,10 +1868,10 @@ Production is set to begin immediately on our new budget-friendly line. Now that
 +10%% Experience from Kills","20%% шанс получить здоровье при убийстве
 +10%% опыта за убийства"
 "20%% Chance to Gain Might on Dodge
-+10%% Experience from Kills","20%% шанс получить Мощь при уклонении
++10%% Experience from Kills","20%% шанс получить мощь при уклонении
 +10%% опыта за убийства"
 "20%% Chance to Gain Might on Kill
-+10%% Experience from Kills","20%% шанс получить Мощь при убийстве
++10%% Experience from Kills","20%% шанс получить мощь при убийстве
 +10%% опыта за убийства"
 "20%% Chance to Gain Swiftness on Kill
 +10%% Experience from Kills","20%% шанс получить Быстроту при убийстве
@@ -1922,7 +1922,7 @@ Comment: Future deliveries will require specific instructions with departure tim
 Примечание: для будущих поставок потребуются точные указания со временем отправления, порядком передачи по железной дороге, ограничениями по грузу и названием места доставки."
 "24%% Chance to Gain Might on Critical Hit during the Day
 24%% Chance to Inflict Chill on Critical Hit during the Night
-+10%% Experience from Kills","24%% шанс получить Мощь при критическом ударе днём
++10%% Experience from Kills","24%% шанс получить мощь при критическом ударе днём
 24%% шанс наложить Заморозку при критическом ударе ночью
 +10%% опыта за убийства"
 25%%,25%%
@@ -1956,7 +1956,7 @@ Comment: Future deliveries will require specific instructions with departure tim
 +10%% опыта за убийства"
 "28%% Chance to Gain Might on Critical Hit during the Day
 28%% Chance to Inflict Chill on Critical Hit during the Night
-+10%% Experience from Kills","28%% шанс получить Мощь при критическом ударе днём
++10%% Experience from Kills","28%% шанс получить мощь при критическом ударе днём
 28%% шанс наложить Заморозку при критическом ударе ночью
 +10%% опыта за убийства"
 "28%% Chance to Gain Swiftness on Kill
@@ -1977,10 +1977,10 @@ Comment: Future deliveries will require specific instructions with departure tim
 +10%% Experience from Kills","30%% шанс получить здоровье при убийстве
 +10%% опыта за убийства"
 "30%% Chance to Gain Might on Dodge
-+10%% Experience from Kills","30%% шанс получить Мощь при уклонении
++10%% Experience from Kills","30%% шанс получить мощь при уклонении
 +10%% опыта за убийства"
 "30%% Chance to Gain Might on Kill
-+10%% Experience from Kills","30%% шанс получить Мощь при убийстве
++10%% Experience from Kills","30%% шанс получить мощь при убийстве
 +10%% опыта за убийства"
 "30%% Chance to Remove a Condition on Using a Heal Skill
 +10%% Experience from Kills","30%% шанс снять состояние при применении умения исцеления
@@ -2006,11 +2006,11 @@ Comment: Future deliveries will require specific instructions with departure tim
 40%% золота с чудовищ
 +10%% опыта за убийства"
 "36%% Chance to Gain Might on Critical Hit during the Day
-36%% Chance to Inflict Chill on Critical Hit during the Night","36%% шанс получить Мощь при критическом ударе днём
+36%% Chance to Inflict Chill on Critical Hit during the Night","36%% шанс получить мощь при критическом ударе днём
 36%% шанс наложить Заморозку при критическом ударе ночью"
 "36%% Chance to Gain Might on Critical Hit during the Day
 36%% Chance to Inflict Chill on Critical Hit during the Night
-+10%% Experience from Kills","36%% шанс получить Мощь при критическом ударе днём
++10%% Experience from Kills","36%% шанс получить мощь при критическом ударе днём
 36%% шанс наложить Заморозку при критическом ударе ночью
 +10%% опыта за убийства"
 "36%% Chance to Gain Swiftness on Kill
@@ -2026,7 +2026,7 @@ Comment: Future deliveries will require specific instructions with departure tim
 4. ???,4. ???
 "40%% Chance to Gain Might on Critical Hit during the Day
 40%% Chance to Inflict Chill on Critical Hit during the Night
-+10%% Experience from Kills","40%% шанс получить Мощь при критическом ударе днём
++10%% Experience from Kills","40%% шанс получить мощь при критическом ударе днём
 40%% шанс наложить Заморозку при критическом ударе ночью
 +10%% опыта за убийства"
 "40%% Chance to Gain Swiftness on Kill
@@ -2049,12 +2049,12 @@ Comment: Future deliveries will require specific instructions with departure tim
 +10%% опыта за убийства"
 "50%% Chance to Gain Might on Dodge
 +10%% to Endurance Regeneration
-+10%% Experience from Kills","50%% шанс получить Мощь при уклонении
++10%% Experience from Kills","50%% шанс получить мощь при уклонении
 +10%% к восстановлению выносливости
 +10%% опыта за убийства"
 "50%% Chance to Gain Might on Kill
 +40 Ferocity
-+10%% Experience from Kills","50%% шанс получить Мощь при убийстве
++10%% Experience from Kills","50%% шанс получить мощь при убийстве
 +40 к Свирепости
 +10%% опыта за убийства"
 "50%% Chance to Gain Swiftness on Kill
@@ -2094,12 +2094,12 @@ Reduce Ore Node Durability by 50%%","50%% шанс добыть 3–4 матер
 +20%% к восстановлению выносливости"
 "60%% Chance to Gain Might on Kill
 +50 Ferocity
-+10%% Experience from Kills","60%% шанс получить Мощь при убийстве
++10%% Experience from Kills","60%% шанс получить мощь при убийстве
 +50 к Свирепости
 +10%% опыта за убийства"
 "60%% Chance to Gain Might on Kill
 +50 Power
-+10%% Experience from Kills","60%% шанс получить Мощь при убийстве
++10%% Experience from Kills","60%% шанс получить мощь при убийстве
 +50 к Силе
 +10%% опыта за убийства"
 "60%% Chance to Remove a Condition on Using a Heal Skill
@@ -2128,7 +2128,7 @@ Reduce Ore Node Durability by 50%%","50%% шанс добыть 3–4 матер
 +20%% Gold Find
 +10%% WXP Gained","66%% шанс похитить жизнь при критическом ударе
 +100 к Концентрации
-+33%% шанс получить Мощь при критическом ударе
++33%% шанс получить мощь при критическом ударе
 +10%% кармы
 +5%% ко всему получаемому опыту
 +20%% к поиску магии

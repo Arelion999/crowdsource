@@ -116,8 +116,8 @@ Traversing Dusk,Пересекая сумерки
 Trickster,Трюкач
 Trigger Burst of Shadows at your target's location if it dies while marked.,"Создает взрыв теней под вашей целью, если она умирает отмеченной."
 "Trigger the active portion of Numinous Gift when you invoke a legend while in combat. Triggering Numinous Gift grants boons to allies in an area around you, depending on which legends you have equipped.","Активировать активную часть Нуминозного Дара, когда вы призываете легенду, находясь в бою. Активация Нуминозного Дара даёт благословения союзникам в области вокруг вас, в зависимости от того, какие легенды у вас экипированы."
-Triggered virtue effects now grant might to allies in addition to their bonuses. Gain fury when activating Rushing Justice.,При срабатывании эффекта от Добродетели союзникам даруется дополнительная Мощь. При активации умения Rushing Justice вам даруется Ярость.
-Triggered virtue effects reduce the cooldown of active weapon abilities. Gain vigor when activating Flowing Resolve.,При срабатывании эффекта от Добродетели время перезарядки умений вашего текущего оружия уменьшается. При активации умения Flowing Resolve вам даруется Энергичность.
+Triggered virtue effects now grant might to allies in addition to their bonuses. Gain fury when activating Rushing Justice.,При срабатывании эффекта от Добродетели союзникам даруется дополнительная Мощь. При активации умения Rushing Justice вам даруется ярость.
+Triggered virtue effects reduce the cooldown of active weapon abilities. Gain vigor when activating Flowing Resolve.,При срабатывании эффекта от Добродетели время перезарядки умений вашего текущего оружия уменьшается. При активации умения Flowing Resolve вам даруется энергичность.
 Trinket Collector,Коллекционер аксессуаров
 Twice as Vicious,Двойная злоба
 Twin Fangs,Двойные клыки
@@ -284,7 +284,7 @@ Gain access to <c=@abilitytype>Citadel Order</c> skills.","При критиче
 <c=@reminder>Spirits and minions are creatures.</c>","При призыве существа наносит урон врагам вокруг этого существа.
 <c=@reminder>Духи и прислужники являются существами.</c>"
 "When you use a <c=@abilitytype>rage</c> skill, inflict burning on nearby enemies.<c=@abilitytype>Rage</c> skills extend berserk longer.",При использовании навыка <c=@abilitytype>ярости</c> накладывает горение на ближайших врагов. Навыки <c=@abilitytype>ярости</c> продлевают состояние берсерка.
-"When you use a heal skill, gain resistance.",При использовании навыка лечения получайте Сопротивляемость.
+"When you use a heal skill, gain resistance.",При использовании навыка лечения получайте сопротивляемость.
 "When you use a healing skill, heal allies in the area and grant them protection.",При использовании навыка лечения исцелите союзников в области и дайте им Протекцию.
 "When you use an instrument above the note threshold, create an afterimage that plays that instrument after a delay.","При использовании инструмента выше порогового значения ноты создайте послеобраз, который воспроизводит этот инструмент с задержкой."
 "When your mech is struck while under half health, it activates Exigency Protocols, gaining damage reduction and regeneration for a short duration. Regeneration boons you apply are stronger.","Когда вашего меха атакуют при половине здоровья или ниже, он активирует Протоколы Крайней Необходимости, получая снижение урона и Регенерацию на короткое время. Бонусы Регенерации, которые вы применяете, сильнее."
@@ -302,7 +302,7 @@ Gain access to <c=@abilitytype>Citadel Order</c> skills.","При критиче
 "While wielding a staff, gain endurance for each initiative point spent. Gain bonus power, which is increased when wielding a staff.","Держа в руках посох, получайте выносливость за каждое потраченное очко инициативы. Получайте бонусную силу, которая увеличивается при держании посоха."
 "While you are in combat, grant fury to yourself and nearby allies each interval.","Пока вы находитесь в бою, дайте Ярость себе и ближайшим союзникам каждый интервал."
 "While you are in combat, grant might to yourself and nearby allies each interval.","Пока вы находитесь в бою, дайте Мощь себе и ближайшим союзникам каждый интервал."
-"While you have resolution, all damage dealt is increased, and you gain might when you strike foes. Resolution granted to you lasts longer.","Когда у вас есть Резолюция, весь наносимый урон увеличивается, и вы получаете Мощь, когда поражаете врагов. Резолюция, даваемая вам, длится дольше."
+"While you have resolution, all damage dealt is increased, and you gain might when you strike foes. Resolution granted to you lasts longer.","Когда у вас есть Резолюция, весь наносимый урон увеличивается, и вы получаете мощь, когда поражаете врагов. Резолюция, даваемая вам, длится дольше."
 "While you have swiftness, movement-impairing conditions have reduced duration. When you gain swiftness, lose a movement-impairing condition.","Пока у вас есть Призрачность, продолжительность замедляющих состояний сокращается. Когда вы получаете Призрачность, теряйте замедляющее состояние."
 "While your health is above the threshold, strike damage dealt is increased.","Пока ваше здоровье выше порога, урон от ударов увеличивается."
 "While your health is above the threshold, your pet deals increased strike damage. Your pet swap gains recharge reduction.","Пока ваше здоровье выше порога, ваш питомец наносит увеличенный урон от ударов. Ваша смена питомца получает сокращение перезарядки."
@@ -325,7 +325,7 @@ Writ of Persistence,Указ Упорства
 Written in Stone,Написано на Камне
 Wrought-Iron Will,Железная Воля
 Yearning Empowerment,Горящее Усиление
-You and nearby allies gain quickness for each clone you <c=@abilitytype>shatter</c>. Grant quickness to nearby allies when you summon a <c=@abilitytype>phantasm</c>.,Вы и ближайшие союзники получаете Проворство за каждый <c=@abilitytype>разбитый</c> вами клон. Дайте Проворство ближайшим союзникам при вызове <c=@abilitytype>фантома</c>.
+You and nearby allies gain quickness for each clone you <c=@abilitytype>shatter</c>. Grant quickness to nearby allies when you summon a <c=@abilitytype>phantasm</c>.,Вы и ближайшие союзники получаете проворство за каждый <c=@abilitytype>разбитый</c> вами клон. Дайте Проворство ближайшим союзникам при вызове <c=@abilitytype>фантома</c>.
 You and nearby allies recover health while you are attuned to water.,"Вы и союзники поблизости восстанавливаете здоровье, пока вы используете силу Воды."
 You and your nearby allies siphon health with attacks. This effect increases while in Shroud.,"Вы и союзники поблизости высасываете здоровье при атаках. Этот эффект усиливается, пока вы находитесь в Саване."
 "You and your pet deal increased strike damage to disabled, defiant, or movement-impaired foes.
@@ -334,7 +334,7 @@ You and your nearby allies siphon health with attacks. This effect increases whi
 "You and your pet gain ferocity. Axe skills gain reduced recharge, and you gain additional ferocity while wielding an axe.","Вы и ваш питомец получаете стойкость. Навыки топора получают сниженное время восстановления, а вы получаете дополнительную стойкость при использовании топора."
 You and your pet gain increased concentration. Regeneration you apply is more effective.,Концентрация у вас и у вашего питомца увеличена. Даруемая вами Регенерация более эффективна.
 You and your pet gain power. Gain additional power while wielding a sword. Successfully evading an attack grants might.,Вы и ваш питомец получаете силу. Получаете дополнительную силу при использовании меча. Успешное уклонение от атаки даёт мощь.
-You and your pet gain protection when you dodge roll.,"Вам и вашему питомцу даруется Протекция, когда вы совершаете уворот."
+You and your pet gain protection when you dodge roll.,"Вам и вашему питомцу даруется протекция, когда вы совершаете уворот."
 "You and your pet grant each other increased damage and movement speed when striking enemies. <c=@reminder>When this triggers, it refreshes the duration of all stacks.</c>","Вы и ваш питомец наносите друг другу повышенный урон и увеличиваете скорость передвижения при атаке врагов. <c=@reminder>Когда это срабатывает, длительность всех стаков обновляется.</c>"
 You and your pet have a chance to cause bleeding on critical hits.,У вас и у вашего питомца есть шанс вызвать кровотечение при критическом попадании.
 You and your pet inflict vulnerability with your first strike when entering combat.,"Вы и ваш питомец накладываете уязвимость при своем первом, открывающем бой ударе."
@@ -414,7 +414,7 @@ Your first attack when entering combat applies vulnerability. This ability is re
 "Your first attack when entering combat explodes, dealing damage to nearby foes. This ability refreshes after a dodge roll.","Ваша первая атака при вступлении в бой взрывается, нанося урон ближайшим врагам. Эта способность обновляется после кувырка."
 Your first few attacks after entering or exiting Photon Forge inflict burning and deal increased strike damage. This bonus is also granted if you overheat.,Ваши первые несколько атак после активации или дезактивации фотонной кузницы вызывают горение и наносят повышенный прямой урон. Этот эффект также даётся при перегреве.
 Your function gyro grants protection to allies when cast. Using a healing skill's associated toolbelt skill grants protection to nearby allies.,"Ваш функциональный гироскоп при использовании даёт защиту союзникам. Использование навыка пояса инструментов, связанного с навыком лечения, даёт защиту ближайшим союзникам."
-Your longbow and harpoon-gun skills pierce and recharge faster. Point-Blank Shot grants boons.,"Умения длинного лука и гарпунного ружья пробивают цель и перезаряжаются быстрее. Умение «Выстрел в упор» даёт дары."
+Your longbow and harpoon-gun skills pierce and recharge faster. Point-Blank Shot grants boons.,Умения длинного лука и гарпунного ружья пробивают цель и перезаряжаются быстрее. Умение «Выстрел в упор» даёт дары.
 "Your longbow, rifle, and harpoon gun weapon skill 1 attacks are enhanced.","Ваши навыки оружия 1 для длинного лука, винтовки и гарпунного ружья усилены."
 Your movement speed is increased.,Ваша скорость передвижения увеличена.
 "Your next Double Edge skill used on cooldown will always be successful, regardless of the remaining cooldown. If used on Skritt Scuffle, it instead reduces the chance of obtaining an Unstable Skritt Bomb.","Ваш следующий навык «Двойное лезвие», использованный по перезарядке, всегда будет успешным, независимо от оставшегося времени перезарядки. Если используется во время «Свалки Скриттов», он вместо этого снижает шанс получения «Нестабильной бомбы Скриттов»."
@@ -436,7 +436,7 @@ Your pet recovers health each interval.,Ваш питомец восстанав
 "Your pet's attributes are improved and pet skills gain recharge reduction.
 <c=@reminder>Improved attributes are power, condition damage, precision, toughness, and vitality.</c>","Атрибуты вашего питомца улучшены, а навыки питомца получают уменьшение перезарядки.
 <c=@reminder>Улучшенные атрибуты: сила, урон от состояний, точность, стойкость и живучесть.</c>"
-Your phantasms have fury.,Вашим Фантомам даруется Ярость.
+Your phantasms have fury.,Вашим Фантомам даруется ярость.
 Your pistol and harpoon gun attacks now pierce and have increased strike damage.,Ваши атаки из пистолета и гарпунного ружья пробивают цели и наносят повышенный прямой урон.
 Your power and healing power are increased while you have regeneration.,"Ваши Сила и сила исцеления увеличиваются, пока у вас есть дар Регенерации."
 Your power is increased. Gain additional power while wielding a greatsword. Your greatsword skills have reduced recharge.,"Ваша Сила увеличена. Вы получаете дополнительную Силу, пока вооружены двуручным мечом. Умения двуручного меча перезаряжаются быстрее."

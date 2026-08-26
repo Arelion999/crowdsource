@@ -31,7 +31,7 @@ english,translate
 <c=@abilitytype>Conditions to Boons Over 50%% Heat</c>,<c=@abilitytype>Состояния в благословения более 50%% Тепло</c>
 <c=@abilitytype>Consecrations</c> gain increased duration.,<c=@abilitytype>Освящения</c> действуют дольше.
 <c=@abilitytype>Dual Attack</c> skills weaken enemies. Attacks against weakened foes have increased critical chance.,Навыки <c=@abilitytype>двойной атаки</c> ослабляют врагов. Атаки по ослабленным врагам имеют повышенный шанс критического удара.
-<c=@abilitytype>Elixirs</c> gain increased durations and grant might.,<c=@abilitytype>Эликсиры</c> Эликсиры длятся дольше и даруют Мощь.
+<c=@abilitytype>Elixirs</c> gain increased durations and grant might.,<c=@abilitytype>Эликсиры</c> Эликсиры длятся дольше и даруют мощь.
 <c=@abilitytype>Explosions</c> cause vulnerability.,<c=@abilitytype>Взрывы</c> Взрывы вызывают уязвимость.
 <c=@abilitytype>Explosions</c> grant stacking ferocity when they hit.,<c=@abilitytype>Взрывы</c> Взрывы даруют вам стеки Жестокости при попадании.
 <c=@abilitytype>Explosions</c> have a chance to cripple and cause bleeding on hit.,<c=@abilitytype>Взрывы</c> Взрывы имеют шанс вызвать хромоту и кровотечение при попадании.
@@ -50,7 +50,7 @@ Luxon abilities grant might.","<c=@abilitytype>Легендарный Альян
 "<c=@abilitytype>Legendary Centaur.</c> Remove conditions from allies near the tablet, and heal them for a small amount per condition removed.",<c=@abilitytype>Легендарный Кентавр.</c> Снимите состояния с союзников рядом с планшетом и исцелите их на небольшое количество за каждое снятое состояние.
 <c=@abilitytype>Legendary Centaur.</c> Summon a protective barrier around the tablet that blocks enemy projectiles.,"<c=@abilitytype>Легендарный Кентавр.</c> Призовите защитный барьер вокруг планшета, который блокирует вражеские снаряды."
 <c=@abilitytype>Manipulations</c> grant aegis to yourself and nearby allies.,<c=@abilitytype>Манипуляции</c> дают эгиду вам и ближайшим союзникам.
-<c=@abilitytype>Meditation</c> skills heal you and grant fury to nearby allies.,Навыки <c=@abilitytype>медитации</c> Медитации исцеляют вас и даруют Ярость союзникам поблизости.
+<c=@abilitytype>Meditation</c> skills heal you and grant fury to nearby allies.,Навыки <c=@abilitytype>медитации</c> Медитации исцеляют вас и даруют ярость союзникам поблизости.
 <c=@abilitytype>Meditations</c> grant boons to nearby allies.,<c=@abilitytype>Медитации</c> Медитации дают дары союзникам поблизости.
 "<c=@abilitytype>Minions</c> have increased health. Gain <c=@abilitytype>carapace</c> for each minion you control.
 <c=@reminder>Your minions are destroyed when this trait is reassigned.</c>","<c=@abilitytype>Миньоны</c> имеют увеличенное здоровье. Получайте <c=@abilitytype>панцирь</c> за каждого контролируемого миньона.
@@ -59,8 +59,8 @@ Luxon abilities grant might.","<c=@abilitytype>Легендарный Альян
 <c=@abilitytype>Morph</c> skills grant boons to allies. Grant an additional boon based on which <c=@abilitytype>morph</c> skill was used.,"<c=@abilitytype>Морф</c> навыки даруют благословения союзникам. Даруют дополнительное благословение в зависимости от того, какой <c=@abilitytype>морф</c> навык был использован."
 <c=@abilitytype>Overloads</c> grant an aura based on your attunement.,"<c=@abilitytype>Перегрузки</c> Форсажи дают ауру, зависящую от вашей Стихии."
 <c=@abilitytype>Overloads</c> grant protection to nearby allies. Protection gains increased damage reduction.,<c=@abilitytype>Перегрузки</c> Форсажи даруют Протекцию союзникам поблизости. Протекция сильнее снижает получаемый урон.
-<c=@abilitytype>Phantasms</c> deal increased strike damage for each stack of might you have. Gain might when your phantasms become clones.,"<c=@abilitytype>Фантомы</c> Фантомы наносят увеличенный прямой урон за каждый стек Мощи, лежащий на вас. Вам даруется Мощь, когда ваши фантомы становятся клонами."
-<c=@abilitytype>Phantasms</c> spawn with quickness. Gain quickness when you create a phantasm.,<c=@abilitytype>Фантомы</c> Фантомы создаются с даром Проворства. Вам даруется Проворство при создании фантома.
+<c=@abilitytype>Phantasms</c> deal increased strike damage for each stack of might you have. Gain might when your phantasms become clones.,"<c=@abilitytype>Фантомы</c> Фантомы наносят увеличенный прямой урон за каждый стек Мощи, лежащий на вас. Вам даруется мощь, когда ваши фантомы становятся клонами."
+<c=@abilitytype>Phantasms</c> spawn with quickness. Gain quickness when you create a phantasm.,<c=@abilitytype>Фантомы</c> Фантомы создаются с даром Проворства. Вам даруется проворство при создании фантома.
 <c=@abilitytype>Phantasms</c> take conditions from you when summoned.,<c=@abilitytype>Фантомы</c> Фантомы при создании переносят на себя лежащие на вас состояния.
 <c=@abilitytype>Physical</c> skills grant endurance when activated.,Умения <c=@abilitytype>Физическое</c> дают выносливость при активации.
 "<c=@abilitytype>Resonance.</c> If Legendary Assassin Stance is equipped, this skill deals additional damage and removes boons if only one enemy was struck by this attack.","<c=@abilitytype>Резонанс.</c> Если экипирована стойка легендарного ассасина, это умение наносит дополнительный урон и снимает благодати, когда атака поразила лишь одного врага."
@@ -71,8 +71,8 @@ Luxon abilities grant might.","<c=@abilitytype>Легендарный Альян
 <c=@abilitytype>Shatter</c> skills also remove a boon on hit.,<c=@abilitytype>Разрушение</c> Осколки также снимают дары при попадании.
 <c=@abilitytype>Shatter</c> skills deal more damage. This bonus damage is doubled against foes that are not activating skills.,"<c=@abilitytype>Разрушение</c> Осколки наносят больше урона. Дополнительный урон удваивается, если противник не использовал умения."
 <c=@abilitytype>Shatter</c> skills gain recharge reduction.,<c=@abilitytype>Разрушение</c> Осколки перезаряжаются быстрее.
-<c=@abilitytype>Shatter</c> skills generate a clone and grant alacrity if you have enough clones present.,"<c=@abilitytype>Разрушение</c> Осколки создают клон и даруют Рвение, если у вас есть достаточное количество клонов."
-<c=@abilitytype>Shatter</c> skills give vigor. Strike and condition damage dealt is increased when you have vigor.,<c=@abilitytype>Разрушение</c> Осколки даруют Энергичность. Энергичность увеличивает наносимый вами прямой урон и урон от состояний.
+<c=@abilitytype>Shatter</c> skills generate a clone and grant alacrity if you have enough clones present.,"<c=@abilitytype>Разрушение</c> Осколки создают клон и даруют рвение, если у вас есть достаточное количество клонов."
+<c=@abilitytype>Shatter</c> skills give vigor. Strike and condition damage dealt is increased when you have vigor.,<c=@abilitytype>Разрушение</c> Осколки даруют энергичность. Энергичность увеличивает наносимый вами прямой урон и урон от состояний.
 <c=@abilitytype>Shatter</c> skills grant Mirage Cloak if you have enough clones present. Gaining Mirage Cloak recharges Mind Wrack and Cry of Frustration.,"<c=@abilitytype>Разрушение</c> Умения- осколки дают покров миража, если у вас достаточно клонов. Получение покрова миража перезаряжает умения Mind Wrack и Cry of Frustration."
 <c=@abilitytype>Shatter</c> skills inflict torment on hit.,<c=@abilitytype>Разрушение</c> Осколки вызывают боль при попадании.
 <c=@abilitytype>Shatter</c> skills inflict vulnerability on hit.,<c=@abilitytype>Разрушение</c> Осколки накладывают уязвимость при попадании.
@@ -97,7 +97,7 @@ Luxon abilities grant might.","<c=@abilitytype>Легендарный Альян
 "<c=@abilitytype>Stealth attacks<c/> siphon health if they hit.
 <c=@reminder>Cannot siphon the same target more than once per interval.</c>","<c=@abilitytype>Атаки из невидимости<c/> похищают здоровье при попадании.
 <c=@reminder>Нельзя похитить здоровье у одной цели чаще одного раза за интервал.</c>"
-<c=@abilitytype>Survival</c> skills grant fury and remove conditions.,<c=@abilitytype>Выживание</c> Выживания даруют Ярость и снимают состояния.
+<c=@abilitytype>Survival</c> skills grant fury and remove conditions.,<c=@abilitytype>Выживание</c> Выживания даруют ярость и снимают состояния.
 <c=@abilitytype>Symbols</c> are improved and heal allies.,<c=@abilitytype>Символы</c> Символы улучшаются и исцеляют союзников.
 <c=@abilitytype>Symbols</c> inflict vulnerability on foes. Deal increased strike damage to vulnerable foes.,<c=@abilitytype>Символы</c> Символы вызывают у противников уязвимость. Прямой урон по уязвимым противникам увеличен.
 <c=@abilitytype>Tales</c> heal and grant protection to nearby allies.,<c=@abilitytype>Сказания</c> Сказания исцеляют союзников поблизости и даруют им Протекцию.

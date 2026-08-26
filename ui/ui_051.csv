@@ -208,7 +208,7 @@ Deal damage when interrupting a foe.,Наносите урон при преры
 Deal extra damage when your health is above the threshold.,"Наносите дополнительный урон, когда ваше здоровье выше порога."
 Deal extra damage with a flamethrower or elixir gun.,Наносите дополнительный урон огнемётом или эликсирным ружьём.
 "Deal increased damage, take reduced damage, and convert a percentage of outgoing damage into healing.","Наносите повышенный урон, получайте сниженный урон и обращайте долю исходящего урона в исцеление."
-Deal increased strike damage to weakened foes. <c=@abilitytype>Burst</c> skills inflict weakness. <c=@reminder>Can only occur once per interval per target for multihit burst skills.</c>,Наносите повышенный ударный урон ослабленным врагам. Умения <c=@abilitytype>всплеска</c> накладывают Слабость. <c=@reminder>Для многоударных умений всплеска срабатывает лишь раз за интервал на цель.</c>
+Deal increased strike damage to weakened foes. <c=@abilitytype>Burst</c> skills inflict weakness. <c=@reminder>Can only occur once per interval per target for multihit burst skills.</c>,Наносите повышенный ударный урон ослабленным врагам. Умения <c=@abilitytype>всплеска</c> накладывают слабость. <c=@reminder>Для многоударных умений всплеска срабатывает лишь раз за интервал на цель.</c>
 Deal massive damage from the inside.,Наносите огромный урон изнутри.
 Deal more damage when you are within a range of 600 of your target.,"Наносите больше урона, находясь в пределах 600 от цели."
 Deal more damage while attuned to air.,Наносите больше урона в настрое на воздух.

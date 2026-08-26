@@ -22,7 +22,7 @@ english,translate
 "27 Phoenix, 1326 AE",27 Феникса 1326 года ПИ
 27—Jade Mech Habitation Zone 03: Hidden among the naga's crates.,27 — Зона обитания нефритовых мехов 03: спрятан среди ящиков наг.
 28 Mikan 1637 CC,28 микана 1637 г. КК
-28%% Chance to Gain Might on Critical Hit during the Day28%% Chance to Inflict Chill on Critical Hit during the Night+10%% Experience from Kills,28%% шанс получить Мощь при критическом ударе днём28%% шанс наложить Заморозку при критическом ударе ночью+10%% опыта за убийства
+28%% Chance to Gain Might on Critical Hit during the Day28%% Chance to Inflict Chill on Critical Hit during the Night+10%% Experience from Kills,28%% шанс получить мощь при критическом ударе днём28%% шанс наложить Заморозку при критическом ударе ночью+10%% опыта за убийства
 28%% Chance to Gain Swiftness on Kill+10%% Experience from Kills,28%% шанс получить Быстроту при убийстве+10%% опыта за убийства
 28%% Chance to Steal Life on Critical Hit+10%% Experience from Kills,28%% шанс похитить жизнь при критическом ударе+10%% опыта за убийства
 28-Slot Cowrie League Locker,28-ячеечный шкафчик Лиги Каури
@@ -57,10 +57,10 @@ english,translate
 "30 Elegy Mosaics[pl:""Mosaics""]",30 мозаик[|и|] элегии
 30 Nongkam 1637 CC,30 нонгкама 1637 г. КК
 30 seconds remain in your game of hide-and-seek!,До конца вашей игры в прятки осталось 30 секунд!
-30%% Chance on Critical: Inflict Bleeding (3 Seconds)<br><c=@reminder>(Cooldown: 2 Seconds)</c>,30%% шанс при критическом ударе: наложить Кровотечение (3 секунды)<br><c=@reminder>(Перезарядка: 2 секунды)</c>
+30%% Chance on Critical: Inflict Bleeding (3 Seconds)<br><c=@reminder>(Cooldown: 2 Seconds)</c>,30%% шанс при критическом ударе: наложить кровотечение (3 секунды)<br><c=@reminder>(Перезарядка: 2 секунды)</c>
 30%% Chance to Gain Health on Kill+10%% Experience from Kills,30%% шанс получить здоровье при убийстве+10%% опыта за убийства
-30%% Chance to Gain Might on Dodge+10%% Experience from Kills,30%% шанс получить Мощь при уклонении+10%% опыта за убийства
-30%% Chance to Gain Might on Kill+10%% Experience from Kills,30%% шанс получить Мощь при убийстве+10%% опыта за убийства
+30%% Chance to Gain Might on Dodge+10%% Experience from Kills,30%% шанс получить мощь при уклонении+10%% опыта за убийства
+30%% Chance to Gain Might on Kill+10%% Experience from Kills,30%% шанс получить мощь при убийстве+10%% опыта за убийства
 30%% Chance to Remove a Condition on Using a Heal Skill+10%% Experience from Kills,30%% шанс снять состояние при применении умения исцеления+10%% опыта за убийства
 30%% Magic Find+70 Condition Damage+10%% Experience from Kills,30%% к поиску магии+70 к урону от состояний+10%% опыта за убийства
 30%% Magic Find+70 Condition Damage+15%% Experience from Kills,30%% к поиску магии+70 к урону от состояний+15%% опыта за убийства
@@ -85,8 +85,8 @@ english,translate
 33—Rata Novus Promenade: Spends lots of times roaming around consoles.,33 — Променад Рата Новус: много времени бродит у консолей.
 "35%% off all expansions,<br>including select versions of Guild Wars 2: Visions of Eternity.","Скидка 35%% на все дополнения,<br>включая отдельные издания Guild Wars 2: Visions of Eternity."
 35—Soaring Aerie: Takes the scenic route at Soaring Aerie.,35 — Парящее Гнездовье: выбирает живописный путь по Парящему Гнездовью.
-36%% Chance to Gain Might on Critical Hit during the Day36%% Chance to Inflict Chill on Critical Hit during the Night,36%% шанс получить Мощь при критическом ударе днём36%% шанс наложить Заморозку при критическом ударе ночью
-36%% Chance to Gain Might on Critical Hit during the Day36%% Chance to Inflict Chill on Critical Hit during the Night+10%% Experience from Kills,36%% шанс получить Мощь при критическом ударе днём36%% шанс наложить Заморозку при критическом ударе ночью+10%% опыта за убийства
+36%% Chance to Gain Might on Critical Hit during the Day36%% Chance to Inflict Chill on Critical Hit during the Night,36%% шанс получить мощь при критическом ударе днём36%% шанс наложить Заморозку при критическом ударе ночью
+36%% Chance to Gain Might on Critical Hit during the Day36%% Chance to Inflict Chill on Critical Hit during the Night+10%% Experience from Kills,36%% шанс получить мощь при критическом ударе днём36%% шанс наложить Заморозку при критическом ударе ночью+10%% опыта за убийства
 36%% Chance to Gain Swiftness on Kill+2%% Damage While Moving+10%% Experience from Kills,36%% шанс получить Быстроту при убийстве+2%% к урону в движении+10%% опыта за убийства
 36%% Chance to Steal Life on Critical Hit+40 Precision+10%% Experience from Kills,36%% шанс похитить жизнь при критическом ударе+40 к Точности+10%% опыта за убийства
 3a. Speak with the contact at Pub Canach.,3a. Поговорите со связным в «Пабе Канаха».
@@ -114,14 +114,14 @@ english,translate
 4. Return to Field Archivist Cierle.,4. Вернитесь к полевому архивариусу Сиэрль.
 4. Some research notes are buried beneath a ruined observatory by a flowered shrub. Your skimmer's Aetherlocation skill may be of use.,4. Часть исследовательских записей закопана под разрушенной обсерваторией у цветущего куста. Может пригодиться умение скиммера «Эфиролокация».
 "40 Scion, 1325 AE",40 Отпрыска 1325 года ПИ
-40%% Chance to Gain Might on Critical Hit during the Day40%% Chance to Inflict Chill on Critical Hit during the Night+10%% Experience from Kills,40%% шанс получить Мощь при критическом ударе днём40%% шанс наложить Заморозку при критическом ударе ночью+10%% опыта за убийства
+40%% Chance to Gain Might on Critical Hit during the Day40%% Chance to Inflict Chill on Critical Hit during the Night+10%% Experience from Kills,40%% шанс получить мощь при критическом ударе днём40%% шанс наложить Заморозку при критическом ударе ночью+10%% опыта за убийства
 40%% Chance to Gain Swiftness on Kill+3%% Damage While Moving+10%% Experience from Kills,40%% шанс получить Быстроту при убийстве+3%% к урону в движении+10%% опыта за убийства
 40%% Chance to Steal Life on Critical Hit+50 Precision+10%% Experience from Kills,40%% шанс похитить жизнь при критическом ударе+50 к Точности+10%% опыта за убийства
 400 to 499 DR,От 400 до 499 СУ
 400 to 600 Distance,Расстояние от 400 до 600
 "42 Phoenix, 1325 AE",42 Феникса 1325 года ПИ
 "45 Phoenix, 1327 AE",45 Феникса 1327 года ПИ
-45%% Chance on Critical: Inflict Bleeding (4 Seconds)<br><c=@reminder>(Cooldown: 2 Seconds)</c>,45%% шанс при критическом ударе: наложить Кровотечение (4 секунды)<br><c=@reminder>(Перезарядка: 2 секунды)</c>
+45%% Chance on Critical: Inflict Bleeding (4 Seconds)<br><c=@reminder>(Cooldown: 2 Seconds)</c>,45%% шанс при критическом ударе: наложить кровотечение (4 секунды)<br><c=@reminder>(Перезарядка: 2 секунды)</c>
 "48 Phoenix, 1327 AE",48 Феникса 1327 года ПИ
 4a. Speak with the freebooter near the entry to the Booter's Path.,4a. Поговорите с вольным стрелком у входа на Тропу Вольного Стрелка.
 4b. Move the final crate for Freebooter Creig.,4b. Передвиньте последний ящик для вольного стрелка Крейга.
@@ -145,8 +145,8 @@ english,translate
 5.1 Surround,5.1 объёмный
 50%% chance to gain a random boon on killing an enemy.,50%% шанс получить случайный бон при убийстве врага.
 50%% Chance to Gain Health on Kill +40 Healing Power+10%% Experience from Kills,50%% шанс получить здоровье при убийстве +40 к Силе исцеления+10%% опыта за убийства
-50%% Chance to Gain Might on Dodge+10%% to Endurance Regeneration+10%% Experience from Kills,50%% шанс получить Мощь при уклонении+10%% к восстановлению выносливости+10%% опыта за убийства
-50%% Chance to Gain Might on Kill+40 Ferocity+10%% Experience from Kills,50%% шанс получить Мощь при убийстве+40 к Свирепости+10%% опыта за убийства
+50%% Chance to Gain Might on Dodge+10%% to Endurance Regeneration+10%% Experience from Kills,50%% шанс получить мощь при уклонении+10%% к восстановлению выносливости+10%% опыта за убийства
+50%% Chance to Gain Might on Kill+40 Ferocity+10%% Experience from Kills,50%% шанс получить мощь при убийстве+40 к Свирепости+10%% опыта за убийства
 50%% Chance to Gain Swiftness on Kill+4%% Damage while Moving,50%% шанс получить Быстроту при убийстве+4%% к урону в движении
 50%% Chance to Gather 3–4 MaterialsReduce Ore Node Durability by 50%%,50%% шанс добыть 3–4 материалаПрочность рудной жилы снижается на 50%%
 50%% Chance to Remove a Condition on Using a Heal Skill+40 Healing+10%% Experience from Kills,50%% шанс снять состояние при применении умения исцеления+40 к исцелению+10%% опыта за убийства
@@ -190,16 +190,16 @@ english,translate
 "60 Zephyr, 1326 AE",60 Зефира 1326 года ПИ
 60%% Chance on Critical: Remove a Boon<br><c=@reminder>(Cooldown: 5 Seconds)</c>,60%% шанс при критическом ударе: снять бон<br><c=@reminder>(Перезарядка: 5 секунд)</c>
 60%% Chance to Gain Health on Kill+50 Healing Power+10%% Experience from Kills,60%% шанс получить здоровье при убийстве+50 к Силе исцеления+10%% опыта за убийства
-60%% Chance to Gain Might on Dodge+20%% to Endurance Regeneration,60%% шанс получить Мощь при уклонении+20%% к восстановлению выносливости
-60%% Chance to Gain Might on Kill+50 Ferocity+10%% Experience from Kills,60%% шанс получить Мощь при убийстве+50 к Свирепости+10%% опыта за убийства
-60%% Chance to Gain Might on Kill+50 Power+10%% Experience from Kills,60%% шанс получить Мощь при убийстве+50 к Силе+10%% опыта за убийства
+60%% Chance to Gain Might on Dodge+20%% to Endurance Regeneration,60%% шанс получить мощь при уклонении+20%% к восстановлению выносливости
+60%% Chance to Gain Might on Kill+50 Ferocity+10%% Experience from Kills,60%% шанс получить мощь при убийстве+50 к Свирепости+10%% опыта за убийства
+60%% Chance to Gain Might on Kill+50 Power+10%% Experience from Kills,60%% шанс получить мощь при убийстве+50 к Силе+10%% опыта за убийства
 60%% Chance to Remove a Condition on Using a Heal Skill+50 Healing+10%% Experience from Kills,60%% шанс снять состояние при применении умения исцеления+50 к исцелению+10%% опыта за убийства
 60%% to Gain Swiftness on Kill+5%% Damage While Moving+10%% Experience from Kills,60%% на получение Быстроты при убийстве+5%% к урону в движении+10%% опыта за убийства
 60%% to Gain Swiftness on Kill+5%% Damage While Moving+10%% Experience from Kills+30%% Magic Find,60%% на получение Быстроты при убийстве+5%% к урону в движении+10%% опыта за убийства+30%% к поиску магии
 600 to 699 DR,От 600 до 699 СУ
 "63 Scion, 1325 AE",63 Отпрыска 1325 года ПИ
 "65 Scion, 1326 AE",65 Отпрыска 1326 года ПИ
-66%% Chance to Steal Life on Critical Hit+100 Concentration+33%% Chance to Gain Might on Critical Hit+10%% Karma+5%% All Experience Gained+20%% Magic Find+20%% Gold Find+10%% WXP Gained,66%% шанс похитить жизнь при критическом ударе+100 к Концентрации+33%% шанс получить Мощь при критическом ударе+10%% кармы+5%% ко всему получаемому опыту+20%% к поиску магии+20%% к поиску золота+10%% к получаемому мировому опыту
+66%% Chance to Steal Life on Critical Hit+100 Concentration+33%% Chance to Gain Might on Critical Hit+10%% Karma+5%% All Experience Gained+20%% Magic Find+20%% Gold Find+10%% WXP Gained,66%% шанс похитить жизнь при критическом ударе+100 к Концентрации+33%% шанс получить мощь при критическом ударе+10%% кармы+5%% ко всему получаемому опыту+20%% к поиску магии+20%% к поиску золота+10%% к получаемому мировому опыту
 66%% Chance to Steal Life on Critical Hit+100 Concentration+70 Expertise+10%% Karma+5%% All Experience Gained+20%% Magic Find+20%% Gold Find+10%% WXP Gained,66%% шанс похитить жизнь при критическом ударе+100 к Концентрации+70 к Экспертизе+10%% кармы+5%% ко всему получаемому опыту+20%% к поиску магии+20%% к поиску золота+10%% к получаемому мировому опыту
 66%% Chance to Steal Life on Critical Hit+100 Concentration+70 Healing Power+10%% Karma+5%% All Experience Gained+20%% Magic Find+20%% Gold Find+10%% WXP Gained,66%% шанс похитить жизнь при критическом ударе+100 к Концентрации+70 к Силе исцеления+10%% кармы+5%% ко всему получаемому опыту+20%% к поиску магии+20%% к поиску золота+10%% к получаемому мировому опыту
 66%% Chance to Steal Life on Critical Hit+100 Concentration+70 Power+10%% Karma+5%% All Experience Gained+20%% Magic Find+20%% Gold Find+10%% WXP Gained,66%% шанс похитить жизнь при критическом ударе+100 к Концентрации+70 к Силе+10%% кармы+5%% ко всему получаемому опыту+20%% к поиску магии+20%% к поиску золота+10%% к получаемому мировому опыту
@@ -254,7 +254,7 @@ english,translate
 8%% (total) increase to damage and defense against mercenaries,+8%% (всего) к урону и защите против наёмников
 8%% (total) increased siege damage,+8%% (всего) к урону осадных орудий
 8%% (total) increased siege defense,+8%% (всего) к защите осадных орудий
-8%% Chance to Gain Might on Critical Hit during the Day+10%% Experience from Kills,8%% шанс получить Мощь при критическом ударе днём+10%% опыта за убийства
+8%% Chance to Gain Might on Critical Hit during the Day+10%% Experience from Kills,8%% шанс получить мощь при критическом ударе днём+10%% опыта за убийства
 8%% reduced damage (total) from guards,-8%% к получаемому урону (всего) от стражников
 "8. ""Through rift, again far away. Big leaves. Scary monsters—sharp, sharp teeth!""","8. «Сквозь разлом, снова далеко. Большие листья. Страшные чудовища — острые, острые зубы!»"
 8. Check in with the Mist Stranger and your allies.,8. Загляните к Незнакомцу из Туманов и своим союзникам.
@@ -269,12 +269,12 @@ english,translate
 "8. With the Meteor-Wielder's Glove equipped, retrieve the spear.",8. Со снаряжённой Перчаткой Метеороносца заберите копьё.
 80%% Chance to Gain Health on Kill+60 Healing Power,80%% шанс получить здоровье при убийстве+60 к Силе исцеления
 80%% Chance to Gain Health on Kill+60 Healing Power+10%% Experience from Kills,80%% шанс получить здоровье при убийстве+60 к Силе исцеления+10%% опыта за убийства
-80%% Chance to Gain Might on Dodge+30%% Endurance Regeneration,80%% шанс получить Мощь при уклонении+30%% к восстановлению выносливости
-80%% Chance to Gain Might on Dodge+30%% to Endurance Regeneration+10%% Experience from Kills,80%% шанс получить Мощь при уклонении+30%% к восстановлению выносливости+10%% опыта за убийства
-80%% Chance to Gain Might on Kill+60 Ferocity,80%% шанс получить Мощь при убийстве+60 к Свирепости
-80%% Chance to Gain Might on Kill+60 Ferocity+10%% Experience from Kills,80%% шанс получить Мощь при убийстве+60 к Свирепости+10%% опыта за убийства
-80%% Chance to Gain Might on Kill+60 Power,80%% шанс получить Мощь при убийстве+60 к Силе
-80%% Chance to Gain Might on Kill+60 Power+10%% Experience from Kills,80%% шанс получить Мощь при убийстве+60 к Силе+10%% опыта за убийства
+80%% Chance to Gain Might on Dodge+30%% Endurance Regeneration,80%% шанс получить мощь при уклонении+30%% к восстановлению выносливости
+80%% Chance to Gain Might on Dodge+30%% to Endurance Regeneration+10%% Experience from Kills,80%% шанс получить мощь при уклонении+30%% к восстановлению выносливости+10%% опыта за убийства
+80%% Chance to Gain Might on Kill+60 Ferocity,80%% шанс получить мощь при убийстве+60 к Свирепости
+80%% Chance to Gain Might on Kill+60 Ferocity+10%% Experience from Kills,80%% шанс получить мощь при убийстве+60 к Свирепости+10%% опыта за убийства
+80%% Chance to Gain Might on Kill+60 Power,80%% шанс получить мощь при убийстве+60 к Силе
+80%% Chance to Gain Might on Kill+60 Power+10%% Experience from Kills,80%% шанс получить мощь при убийстве+60 к Силе+10%% опыта за убийства
 80%% Chance to Remove a Condition on Using a Heal Skill+60 Healing+10%% Experience from Kills,80%% шанс снять состояние при применении умения исцеления+60 к исцелению+10%% опыта за убийства
 80%% Chance to Remove a Condition Using a Heal Skill+60 Healing,80%% шанс снять состояние при применении умения исцеления+60 к исцелению
 800 to 899 DR,От 800 до 899 СУ
@@ -349,7 +349,7 @@ english,translate
 "<br>—You've entered a Costume Brawl.—Attack other players with skills from toys, bundles, and tonics in this free-for-all.—If you attempt real combat, you'll exit the brawl.","<br>—Вы вошли в Костюмированную потасовку.—Атакуйте других игроков умениями игрушек, наборов и тоников в этой схватке всех против всех.—Если вы попытаетесь вступить в настоящий бой, потасовка для вас закончится."
 "<c=""%str1%"">Warning! This item is transmuted and will function in the Mystic Forge as %str2%.</c>","<c=""%str1%"">Внимание! Этот предмет преображён и в Мистической кузнице будет работать как %str2%.</c>"
 "<c=""%str2%"">Prerequisite:</c> %str1%","<c=""%str2%"">Требование:</c> %str1%"
-"<c=#006eff>Ally Target:</c> <br>0–2 Seconds: Grant might to the linked ally and players around you each interval.<br>2–4 Seconds: Grant more might.<br>4–6 Seconds: Grant even more might. In addition, grant fury. Gain access to Otherworldly Attraction.","<c=#006eff>Цель-союзник:</c> <br>0–2 секунды: каждый интервал даёт Мощь связанному союзнику и игрокам вокруг вас.<br>2–4 секунды: даёт больше Мощи.<br>4–6 секунд: даёт ещё больше Мощи. Кроме того, даёт Ярость. Открывает доступ к «Потустороннему притяжению»."
+"<c=#006eff>Ally Target:</c> <br>0–2 Seconds: Grant might to the linked ally and players around you each interval.<br>2–4 Seconds: Grant more might.<br>4–6 Seconds: Grant even more might. In addition, grant fury. Gain access to Otherworldly Attraction.","<c=#006eff>Цель-союзник:</c> <br>0–2 секунды: каждый интервал даёт мощь связанному союзнику и игрокам вокруг вас.<br>2–4 секунды: даёт больше Мощи.<br>4–6 секунд: даёт ещё больше Мощи. Кроме того, даёт ярость. Открывает доступ к «Потустороннему притяжению»."
 "<c=#006eff>Ally Target:</c> Ally gains barrier and removes a condition per pulse. Striking your target with Energy Bolt during this time detonates the aura immediately, granting barrier and removing conditions on allies around the target.","<c=#006eff>Цель-союзник:</c> союзник получает Барьер и снимает по состоянию за пульс. Попадание по цели «Энергетическим зарядом» в это время немедленно взрывает ауру, давая Барьер и снимая состояния с союзников вокруг цели."
 <c=#006eff>Ally Target:</c> Grant barrier to allies.,<c=#006eff>Цель-союзник:</c> даёт Барьер союзникам.
 "<c=#006eff>Ally Target:</c> Grant swiftness and barrier. Then, fire a quick healing bolt. Effectiveness is reduced for allies that are not the primary target.","<c=#006eff>Цель-союзник:</c> даёт Быстроту и Барьер. Затем выпускает быстрый исцеляющий заряд. Для союзников, не являющихся основной целью, действенность снижена."
@@ -362,7 +362,7 @@ english,translate
 <c=#006eff>Ally Target:</c> Missiles track and grant barrier to allies.,<c=#006eff>Цель-союзник:</c> снаряды наводятся и дают Барьер союзникам.
 <c=#006eff>Ally Target:</c> Missiles track and grant barrier to allies. Effectiveness is reduced for allies that are not the primary target.,"<c=#006eff>Цель-союзник:</c> снаряды наводятся и дают Барьер союзникам. Для союзников, не являющихся основной целью, действенность снижена."
 <c=#006eff>Ally Target:</c> Shadowstep toward your target and launch a healing shot. Effectiveness is reduced for allies that are not the primary target.,"<c=#006eff>Цель-союзник:</c> теневой шаг к вашей цели и исцеляющий выстрел. Для союзников, не являющихся основной целью, действенность снижена."
-<c=#006eff>Ally Target:</c><br>No charges: Grant might to linked ally.<br>One charge: Additionally grants fury.<br>Three charges: All previous effects spread to allies around linked target.,<c=#006eff>Цель-союзник:</c><br>Без зарядов: даёт Мощь связанному союзнику.<br>Один заряд: дополнительно даёт Ярость.<br>Три заряда: все предыдущие эффекты распространяются на союзников вокруг связанной цели.
+<c=#006eff>Ally Target:</c><br>No charges: Grant might to linked ally.<br>One charge: Additionally grants fury.<br>Three charges: All previous effects spread to allies around linked target.,<c=#006eff>Цель-союзник:</c><br>Без зарядов: даёт мощь связанному союзнику.<br>Один заряд: дополнительно даёт ярость.<br>Три заряда: все предыдущие эффекты распространяются на союзников вокруг связанной цели.
 <c=#00FF00>True</c>,<c=#00FF00>Истина</c>
 <c=#00FF00>Unlocked</c>,<c=#00FF00>Разблокировано</c>
 <c=#26c2eb>            </c>,<c=#26c2eb> </c>
@@ -431,7 +431,7 @@ english,translate
 <c=#FF0000>You have already unlocked this mount!</c>,<c=#FF0000>Вы уже разблокировали это ездовое животное!</c>
 <c=#FF0000>You have already unlocked this outfit!</c>,<c=#FF0000>Вы уже разблокировали этот наряд!</c>
 <c=#ff6464>Special price! %num1%%% off! Ends in %str1%.</c>,<c=#ff6464>Особая цена! Скидка %num1%%%! Заканчивается через %str1%.</c>
-<c=#ff6a00>Enemy Target: </c><br>No charges: Damage and inflict vulnerability on linked enemy.<br>One charge: Additionally inflicts cripple.<br>Three charges: All previous effects spread to enemies around linked target.,<c=#ff6a00>Цель-враг: </c><br>Без зарядов: наносит урон и накладывает Уязвимость на связанного врага.<br>Один заряд: дополнительно накладывает Хромоту.<br>Три заряда: все предыдущие эффекты распространяются на врагов вокруг связанной цели.
+<c=#ff6a00>Enemy Target: </c><br>No charges: Damage and inflict vulnerability on linked enemy.<br>One charge: Additionally inflicts cripple.<br>Three charges: All previous effects spread to enemies around linked target.,<c=#ff6a00>Цель-враг: </c><br>Без зарядов: наносит урон и накладывает уязвимость на связанного врага.<br>Один заряд: дополнительно накладывает Хромоту.<br>Три заряда: все предыдущие эффекты распространяются на врагов вокруг связанной цели.
 "<c=#ff6a00>Enemy Target:</c> Chills and poison foes. Then, fire a quick tormenting shot.",<c=#ff6a00>Цель-враг:</c> накладывает Заморозку и Отравление на врагов. Затем выпускает быстрый мучительный выстрел.
 <c=#ff6a00>Enemy Target:</c> Cripple targets.,<c=#ff6a00>Цель-враг:</c> накладывает Хромоту на цели.
 <c=#ff6a00>Enemy Target:</c> Damage foes.,<c=#ff6a00>Цель-враг:</c> наносит урон врагам.
@@ -440,9 +440,9 @@ english,translate
 <c=#ff6a00>Enemy Target:</c> Inflict conditions.,<c=#ff6a00>Цель-враг:</c> накладывает состояния.
 <c=#ff6a00>Enemy Target:</c> Shadowstep away from your target and launch a shot that immobilizes enemies.,"<c=#ff6a00>Цель-враг:</c> теневой шаг прочь от цели и выстрел, обездвиживающий врагов."
 "<c=#ff6a00>Enemy Target:</c> Steal your foe's shadow, slowing them for a period of time while gaining shadow force.","<c=#ff6a00>Цель-враг:</c> похищает тень вашего врага, замедляя его на время и давая вам теневую силу."
-<c=#ff6a00>Enemy Target:</c> Torment foes.,<c=#ff6a00>Цель-враг:</c> накладывает Боль на врагов.
+<c=#ff6a00>Enemy Target:</c> Torment foes.,<c=#ff6a00>Цель-враг:</c> накладывает боль на врагов.
 "<c=#ff6a00>Enemy Target:</c> Weaken and damage target foe over time. Striking your target with Energy Bolt during this time causes the aura to explode after it expires, weakening and damaging foes around your target.","<c=#ff6a00>Цель-враг:</c> со временем ослабляет цель и наносит ей урон. Попадание по цели «Энергетическим зарядом» в это время заставит ауру взорваться по истечении, ослабив врагов вокруг цели и нанеся им урон."
-<c=#ff6a00>Enemy Target:</c><br>0–2 Seconds: Inflict vulnerability on linked enemy each interval.<br>2–4 Seconds: Additionally inflicts cripple.<br>4–6 Seconds: Additionally inflicts slow. Gain access to Otherworldly Attraction.,<c=#ff6a00>Цель-враг:</c><br>0–2 секунды: каждый интервал накладывает Уязвимость на связанного врага.<br>2–4 секунды: дополнительно накладывает Хромоту.<br>4–6 секунд: дополнительно накладывает Медлительность. Открывает доступ к «Потустороннему притяжению».
+<c=#ff6a00>Enemy Target:</c><br>0–2 Seconds: Inflict vulnerability on linked enemy each interval.<br>2–4 Seconds: Additionally inflicts cripple.<br>4–6 Seconds: Additionally inflicts slow. Gain access to Otherworldly Attraction.,<c=#ff6a00>Цель-враг:</c><br>0–2 секунды: каждый интервал накладывает уязвимость на связанного врага.<br>2–4 секунды: дополнительно накладывает Хромоту.<br>4–6 секунд: дополнительно накладывает медлительность. Открывает доступ к «Потустороннему притяжению».
 <c=#FFC957>All dyes have an equal chance to drop.</c>,<c=#FFC957>У всех красок равные шансы выпадения.</c>
 <c=#FFE51F>WARNING</c>: Will not salvage items in invisible bags or shared inventory slots.,<c=#FFE51F>ВНИМАНИЕ</c>: не разбирает предметы в невидимых сумках и общих ячейках инвентаря.
 <c=#FFFF00>%str1%<c>,<c=#FFFF00>%str1%<c>
@@ -483,7 +483,7 @@ english,translate
 <c=@abilitytype>Burst.</c> Leap at your foe with a devastating attack. Effect increases with adrenaline level.,<c=@abilitytype>Всплеск.</c> Прыгните на врага с сокрушительной атакой. Эффект растёт с уровнем адреналина.
 "<c=@abilitytype>Burst.</c> Slash foes in an arc in front of you, ending Dragon Trigger. This attack consumes all charges to deal more damage.","<c=@abilitytype>Всплеск.</c> Рассеките врагов дугой перед собой, завершая «Драконий спуск». Эта атака расходует все заряды, чтобы нанести больше урона."
 "<c=@abilitytype>Burst.</c> Slash to create a blade of air that strikes foes in a line in front of you, ending Dragon Trigger. This attack consumes all charges to deal more damage.","<c=@abilitytype>Всплеск.</c> Рубящим ударом создайте клинок воздуха, что поражает врагов на линии перед вами, завершая «Драконий спуск». Эта атака расходует все заряды, чтобы нанести больше урона."
-<c=@abilitytype>Burst.</c> Strike your foe with an uppercut and gain might.,<c=@abilitytype>Всплеск.</c> Ударьте врага снизу вверх и получите Мощь.
+<c=@abilitytype>Burst.</c> Strike your foe with an uppercut and gain might.,<c=@abilitytype>Всплеск.</c> Ударьте врага снизу вверх и получите мощь.
 <c=@abilitytype>Chain.</c> Bash your foe.,<c=@abilitytype>Цепь.</c> Огрейте врага.
 <c=@abilitytype>Chain.</c> Blast your foe with lightning.,<c=@abilitytype>Цепь.</c> Поразите врага молнией.
 <c=@abilitytype>Chain.</c> Bleed your foe.,<c=@abilitytype>Цепь.</c> Вызовите у врага Кровотечение.
