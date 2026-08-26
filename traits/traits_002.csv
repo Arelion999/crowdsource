@@ -454,7 +454,7 @@ Gain barrier when you convert flow into charges while below the charge threshold
 "Gain barrier when you strike foes with a stealth attack. When you apply stealth to allies, you also grant them barrier.
 <c=@reminder>This effect can only be received once and will reset when stealth is removed.</c>","Получайте барьер при нанесении удара по врагам с помощью скрытной атаки. Когда вы накладываете невидимость на союзников, вы также даёте им барьер.
 <c=@reminder>Этот эффект можно получить только один раз, и он сбрасывается при снятии невидимости.</c>"
-Gain barrier when you successfully finish a combo field with a leap or a blast. Every third successful finish grants you might and a larger barrier that is shared with allies.,"Вы получаете барьер, когда успешно выполняете комбо-финал прыжок или взрыв в комбо-полях. Каждый третий успешный комбо-финал дарует вам Мощь и даёт повышенный барьер вам и вашим союзникам."
+Gain barrier when you successfully finish a combo field with a leap or a blast. Every third successful finish grants you might and a larger barrier that is shared with allies.,"Вы получаете барьер, когда успешно выполняете комбо-финал прыжок или взрыв в комбо-полях. Каждый третий успешный комбо-финал дарует вам мощь и даёт повышенный барьер вам и вашим союзникам."
 Gain bonus critical-hit chance while stealthed. This bonus lingers for a short duration after you've been revealed.,"Ваш шанс на критическое попадание повышается, когда вы невидимы. Этот бонус сохраняется некоторое время после вашего разоблачения."
 "Gain bonus power, which is increased when wielding a dagger.","Получайте бонус к силе, который увеличивается при использовании кинжала."
 "Gain bonuses for each dagger you equip:
@@ -496,7 +496,7 @@ Gain endurance when you successfully steal from an enemy.,"Вы получает
 Gain energy and boons when you switch attunements. <c=@reminder>Energy can only be gained while in combat. </c>,Получайте энергию и благословения при смене настроек. <c=@reminder>Энергию можно получить только в бою.</c>
 Gain energy when you break stun.,"Вы получаете энергию, когда сбрасываете оглушение."
 Gain evasion when you use an elite skill.,Вы получаете уклонение при использовании элитного умения.
-Gain expertise based on a percentage of your vitality. Torment you inflict deals increased damage.,Ваша Сноровка увеличивается в зависимости от вашей Живучести. Вызываемая вами Боль наносит повышенный урон.
+Gain expertise based on a percentage of your vitality. Torment you inflict deals increased damage.,Ваша Сноровка увеличивается в зависимости от вашей Живучести. Вызываемая вами боль наносит повышенный урон.
 Gain expertise based on your precision.,Ваша Сноровка увеличивается в зависимости от вашей Точности.
 Gain expertise. Gain condition damage while wielding a sword. Sword skills gain reduced recharge.,"Ваша Сноровка увеличивается. Ваш урон от состояний увеличивается, пока вы вооружены мечом. Умения меча перезаряжаются быстрее."
 Gain expertise. Increase your outgoing condition damage when you inflict burning.,"Ваша Сноровка увеличивается. Увеличивает ваш урон от состояний, когда вы поджигаете противников."
@@ -512,7 +512,7 @@ Gain fury and adrenaline when you immobilize or disable a foe.,"Вам дару�
 Gain fury when entering shroud. Gain additional precision.,"Вам даруется ярость, когда вы входите в Саван. Ваша Точность увеличивается."
 Gain fury when swapping weapons in combat.,Вам даруется ярость при смене оружия в бою.
 Gain fury when you activate Bladesong Sorrow. Fury increases your expertise.,При активации умения Bladesong Sorrow вам даруется ярость. Ярость повышает вашу Сноровку.
-Gain fury when you gain might at or above the threshold.,"Вам даруется ярость, когда дарованная вам Мощь равна или превышает порог."
+Gain fury when you gain might at or above the threshold.,"Вам даруется ярость, когда дарованная вам мощь равна или превышает порог."
 Gain fury when you hit a foe with an <c=@abilitytype>Explosion</c>.,"Вам даруется ярость, когда вы поражаете противника взрывом . <c=@abilitytype>взрывом</c>."
 Gain fury when you inflict bleeding on an enemy. Fury gives an increased critical-strike chance.,Получайте ярость при наложении кровотечения на врага. Ярость даёт увеличенный шанс критического удара.
 Gain fury when you invoke a legend.,"Вам даруется ярость, когда вы обращаетесь к легенде."
@@ -520,7 +520,7 @@ Gain fury when you strike a foe that has burning stacks over the threshold.,"В�
 Gain fury when you swap weapons. Fury gives an increased critical chance.,Смена оружия дарует ярость. Ярость даёт повышенный шанс на критическое попадание.
 Gain healing power. Gain concentration based on a portion of your healing power.,Ваша сила исцеления увеличивается. Ваша Концентрация увеличивается в зависимости от вашей силы исцеления.
 "Gain health and boons when swapping legends, or by using <c=@abilitytype>Alliance Tactics</c> while attuned to the Legendary Alliance.",Получайте здоровье и благословения при смене легенд или при использовании <c=@abilitytype>Тактики Альянса</c> во время настройки на Легендарный Альянс.
-Gain health and endurance whenever you apply might to yourself.,"Вы получаете здоровье и выносливость, когда даруете себе Мощь."
+Gain health and endurance whenever you apply might to yourself.,"Вы получаете здоровье и выносливость, когда даруете себе мощь."
 Gain health and remove a condition whenever you evade an attack.,Вы получаете здоровье и снимаете с себя состояние при уклонении от атаки.
 Gain health based on adrenaline spent.,Получить здоровье в зависимости от потраченного адреналина.
 "Gain health per unit of heat lost.

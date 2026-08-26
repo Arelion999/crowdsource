@@ -298,14 +298,14 @@ Applies Chilled • Gains Skills When Close to Allies,Накладывает З�
 Applies Conditions • Bombs Contain Rats,Накладывает состояния • В бомбах сидят крысы
 Applies Conditions • Knockback,Накладывает состояния • Отталкивание
 Applies Conditions • Weakens Replicator Shield on Death,Накладывает состояния • Ослабляет щит репликатора при гибели
-Applies Heavy Bleeding • Fast,Накладывает сильное Кровотечение • Быстрый
+Applies Heavy Bleeding • Fast,Накладывает сильное кровотечение • Быстрый
 Applies Quickness and Vigor. Recharges all skills when removed.,Накладывает Проворство и Энергичность. При снятии перезаряжает все умения.
-Applies Vulnerability • AOE,Накладывает Уязвимость • По области
+Applies Vulnerability • AOE,Накладывает уязвимость • По области
 Applies Weakness • Applies Vulnerability • Gains Skills When Close to Allies,Накладывает Слабость • Накладывает Уязвимость • Получает умения рядом с союзниками
 "Applies aegis and swiftness, while removing conditions.","Накладывает Эгиду и Быстроту, снимая состояния."
-Applies poison and bleed to nearby foes.,Накладывает Отравление и Кровотечение на врагов поблизости.
-Applies poison and vulnerability to nearby foes.,Накладывает Отравление и Уязвимость на врагов поблизости.
-"Applies poison, cripple, and weakness to nearby foes.","Накладывает Отравление, Хромоту и Слабость на врагов поблизости."
+Applies poison and bleed to nearby foes.,Накладывает Отравление и кровотечение на врагов поблизости.
+Applies poison and vulnerability to nearby foes.,Накладывает Отравление и уязвимость на врагов поблизости.
+"Applies poison, cripple, and weakness to nearby foes.","Накладывает Отравление, Хромоту и слабость на врагов поблизости."
 "Applies regeneration and protection, and significantly reduces incoming damage.",Накладывает Регенерацию и Протекцию и значительно снижает получаемый урон.
 Applies stacks of poison and infects nearby allies.,Накладывает стаки Отравления и заражает союзников поблизости.
 Applies swiftness.<br>It's harvest time. Get moving!,Накладывает Быстроту.<br>Пора убирать урожай. Живее!

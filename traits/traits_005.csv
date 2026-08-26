@@ -103,7 +103,7 @@ Time between slams,Время между ударами
 Torch Proficiency,Владение факелом
 Torment deals increased damage.,Боль наносит повышенный урон.
 "Torment you inflict deals increased damage and causes your foes to burn.
-<c=@reminder>This trait can only inflict burning on a particular target once every three seconds. </c>","Наносимое вами Боль наносит увеличенный урон и заставляет ваших врагов гореть.
+<c=@reminder>This trait can only inflict burning on a particular target once every three seconds. </c>","Наносимое вами боль наносит увеличенный урон и заставляет ваших врагов гореть.
 <c=@reminder>Эта черта может наложить горение на конкретную цель только один раз в три секунды.</c>"
 Toughness and Vitality Inherited by Mech,"Стойкость и живучесть, наследуемые мехом"
 Transcendent Tempest,Трансцендентная буря
@@ -116,7 +116,7 @@ Traversing Dusk,Пересекая сумерки
 Trickster,Трюкач
 Trigger Burst of Shadows at your target's location if it dies while marked.,"Создает взрыв теней под вашей целью, если она умирает отмеченной."
 "Trigger the active portion of Numinous Gift when you invoke a legend while in combat. Triggering Numinous Gift grants boons to allies in an area around you, depending on which legends you have equipped.","Активировать активную часть Нуминозного Дара, когда вы призываете легенду, находясь в бою. Активация Нуминозного Дара даёт благословения союзникам в области вокруг вас, в зависимости от того, какие легенды у вас экипированы."
-Triggered virtue effects now grant might to allies in addition to their bonuses. Gain fury when activating Rushing Justice.,При срабатывании эффекта от Добродетели союзникам даруется дополнительная Мощь. При активации умения Rushing Justice вам даруется ярость.
+Triggered virtue effects now grant might to allies in addition to their bonuses. Gain fury when activating Rushing Justice.,При срабатывании эффекта от Добродетели союзникам даруется дополнительная мощь. При активации умения Rushing Justice вам даруется ярость.
 Triggered virtue effects reduce the cooldown of active weapon abilities. Gain vigor when activating Flowing Resolve.,При срабатывании эффекта от Добродетели время перезарядки умений вашего текущего оружия уменьшается. При активации умения Flowing Resolve вам даруется энергичность.
 Trinket Collector,Коллекционер аксессуаров
 Twice as Vicious,Двойная злоба
@@ -301,7 +301,7 @@ Gain access to <c=@abilitytype>Citadel Order</c> skills.","При критиче
 "While in shroud, transfer conditions from your tethered ally and cleanse conditions from yourself. Each condition removed in this fashion heals a percentage of your base health and grants your tethered ally barrier.","Находясь в сумраке, передавайте состояния от вашего связанного союзника и снимайте состояния с себя. Каждое снятое таким образом состояние исцеляет процент вашего базового здоровья и даёт вашему связанному союзнику барьер."
 "While wielding a staff, gain endurance for each initiative point spent. Gain bonus power, which is increased when wielding a staff.","Держа в руках посох, получайте выносливость за каждое потраченное очко инициативы. Получайте бонусную силу, которая увеличивается при держании посоха."
 "While you are in combat, grant fury to yourself and nearby allies each interval.","Пока вы находитесь в бою, дайте Ярость себе и ближайшим союзникам каждый интервал."
-"While you are in combat, grant might to yourself and nearby allies each interval.","Пока вы находитесь в бою, дайте Мощь себе и ближайшим союзникам каждый интервал."
+"While you are in combat, grant might to yourself and nearby allies each interval.","Пока вы находитесь в бою, дайте мощь себе и ближайшим союзникам каждый интервал."
 "While you have resolution, all damage dealt is increased, and you gain might when you strike foes. Resolution granted to you lasts longer.","Когда у вас есть Резолюция, весь наносимый урон увеличивается, и вы получаете мощь, когда поражаете врагов. Резолюция, даваемая вам, длится дольше."
 "While you have swiftness, movement-impairing conditions have reduced duration. When you gain swiftness, lose a movement-impairing condition.","Пока у вас есть Призрачность, продолжительность замедляющих состояний сокращается. Когда вы получаете Призрачность, теряйте замедляющее состояние."
 "While your health is above the threshold, strike damage dealt is increased.","Пока ваше здоровье выше порога, урон от ударов увеличивается."
