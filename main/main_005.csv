@@ -1582,8 +1582,8 @@ Goss Aleessh""","*Вы касаетесь свитка, и слова исчез
 +10%% Опыт за убийства"
 "+10%% Damage vs. Nightmare Court
 -10%% Damage from Nightmare Court
-+10%% Experience from Kills","+10%% урона по Кошмарному Двору
--10%% урона от Кошмарного Двора
++10%% Experience from Kills","+10%% урона по Кошмарному двору
+-10%% урона от Кошмарного двора
 +10%% опыта за убийства"
 "+10%% Damage vs. Ogres
 -10%% Damage from Ogres
@@ -3103,7 +3103,7 @@ Night: 8%% Chance to Steal Life on Critical Hit
 +10%% Experience from Kills","+3%% Урон против крайтов
 +10%% Опыт за убийства"
 "+3%% Damage vs. Nightmare Court
-+10%% Experience from Kills","+3%% Урон против Кошмарного Двора
++10%% Experience from Kills","+3%% Урон против Кошмарного двора
 +10%% Опыт за убийства"
 "+3%% Damage vs. Ogres
 +10%% Experience from Kills","+3%% Урон против огров
@@ -3145,7 +3145,7 @@ Night: 8%% Chance to Steal Life on Critical Hit
 +1%% Strike Damage","+3%% Урон от ударов против Карка
 +1%% Урон от ударов"
 "+3%% Strike Damage vs. Nightmare Court
-+1%% Strike Damage","+3%% Урон от ударов против Кошмарного Двора
++1%% Strike Damage","+3%% Урон от ударов против Кошмарного двора
 +1%% Урон от ударов"
 "+3%% Strike Damage vs. Ogres
 +1%% Strike Damage","+3%% Урон от ударов против огров
