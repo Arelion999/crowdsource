@@ -722,9 +722,15 @@ def typography(en, ru):
             break
     if en.strip().lower() in LANG_MENU and ru.strip() != en.strip():
         w.append("название языка из меню выбора языка не переводится")
-    m = GOD_LOWER.search(ru)
-    if m:
+    for m in GOD_LOWER.finditer(ru):
+        # В начале предложения прописная не «прописная в обороте», а орфография:
+        # «Боже мой!» первым словом реплики иначе не пишется. Правило про строчную
+        # относится к обороту внутри фразы.
+        head = ru[:m.start()].rstrip()
+        if not head or head[-1] in '.!?…»"' or head.endswith('<br>'):
+            continue
         w.append(f"«{m.group()}» — в устойчивом обороте со строчной буквы")
+        break
     return w
 
 def check_row(en, ru):
