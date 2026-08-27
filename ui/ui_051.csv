@@ -78,7 +78,7 @@ Dash forward at the speed of light.,Рывок вперёд со скорост�
 Dash forward!,Рывок вперёд!
 "Dash forward, leaving a wall of flames behind and battering aside any that dare stand before the Avatar of Balthazar.","Метнитесь вперёд, оставляя за собой стену пламени и расшвыривая всех, кто посмеет встать перед Аватаром Balthazar."
 "Dash forward, pushing enemies to your right and left.","Рывок вперёд, отталкивая врагов вправо и влево."
-"Dash forward, striking nearby enemies. Gain might for each enemy struck.",Рывок вперёд с ударом по ближайшим врагам. Получите Мощь за каждого поражённого врага.
+"Dash forward, striking nearby enemies. Gain might for each enemy struck.",Рывок вперёд с ударом по ближайшим врагам. Получите мощь за каждого поражённого врага.
 "Dash forward, teleporting enemies hit directly behind you and then dropping bombs on their heads.","Рывок вперёд: телепортируйте задетых врагов прямо себе за спину, а затем сбросьте бомбы им на головы."
 "Dash then fire a quick shot. If the shot hits, you can dash again for a short time.<br><br>If you have an air bullet, consume it to remove inhibiting conditions at the start of the dash. If not, create an air bullet.","Совершите рывок, затем сделайте быстрый выстрел. Если выстрел попадает, вы можете ненадолго совершить рывок снова.<br><br>Если у вас есть воздушная пуля, израсходуйте её, чтобы в начале рывка снять сковывающие состояния. Если нет — создайте воздушную пулю."
 Dash through your enemies with a good look!,Промчитесь сквозь врагов с шиком!
@@ -208,7 +208,7 @@ Deal damage when interrupting a foe.,Наносите урон при преры
 Deal extra damage when your health is above the threshold.,"Наносите дополнительный урон, когда ваше здоровье выше порога."
 Deal extra damage with a flamethrower or elixir gun.,Наносите дополнительный урон огнемётом или эликсирным ружьём.
 "Deal increased damage, take reduced damage, and convert a percentage of outgoing damage into healing.","Наносите повышенный урон, получайте сниженный урон и обращайте долю исходящего урона в исцеление."
-Deal increased strike damage to weakened foes. <c=@abilitytype>Burst</c> skills inflict weakness. <c=@reminder>Can only occur once per interval per target for multihit burst skills.</c>,Наносите повышенный ударный урон ослабленным врагам. Умения <c=@abilitytype>всплеска</c> накладывают Слабость. <c=@reminder>Для многоударных умений всплеска срабатывает лишь раз за интервал на цель.</c>
+Deal increased strike damage to weakened foes. <c=@abilitytype>Burst</c> skills inflict weakness. <c=@reminder>Can only occur once per interval per target for multihit burst skills.</c>,Наносите повышенный ударный урон ослабленным врагам. Умения <c=@abilitytype>всплеска</c> накладывают слабость. <c=@reminder>Для многоударных умений всплеска срабатывает лишь раз за интервал на цель.</c>
 Deal massive damage from the inside.,Наносите огромный урон изнутри.
 Deal more damage when you are within a range of 600 of your target.,"Наносите больше урона, находясь в пределах 600 от цели."
 Deal more damage while attuned to air.,Наносите больше урона в настрое на воздух.

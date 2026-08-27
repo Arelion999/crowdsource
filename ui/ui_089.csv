@@ -30,7 +30,7 @@ Let loose a belch. Reduces opponent's health depending on player's health percen
 Let me have a look.,Дайте взглянуть.
 "Let out a long howl, terrifying foes and calling to nearby pups.","Издайте долгий вой, устрашая врагов и призывая ближайших щенков."
 Let out a moa screech. Bleeds targets in front of you.,Издайте крик моа. Кровотечение у целей перед вами.
-Let out a terrifying snarl to cause Vulnerability to nearby foes and grant yourself Regeneration.,"Издайте устрашающее рычание, чтобы наложить Уязвимость на ближайших врагов и получить Регенерацию."
+Let out a terrifying snarl to cause Vulnerability to nearby foes and grant yourself Regeneration.,"Издайте устрашающее рычание, чтобы наложить уязвимость на ближайших врагов и получить Регенерацию."
 Let out a terrifying snarl to unearth any dredge hiding nearby.,"Издайте устрашающее рычание, чтобы выкопать любых прячущихся поблизости дредж."
 "Let out a wild roar, knocking back enemies, healing allies, giving allies fury, and summoning spirit wolves.Skill cooldown is decreased by hitting enemies with claw attacks.","Издайте дикий рёв, отбрасывая врагов, исцеляя союзников, даруя союзникам Ярость и призывая духовных волков. Время восстановления навыка уменьшается при попадании по врагам атаками когтями."
 Let Priest Bashshar explain his mission.,Пусть жрец Башшар объяснит свою миссию.
@@ -204,29 +204,29 @@ Lextalion has trapped you and is attempting to rend your soul from your body! Do
 Ley Booster,Усилитель лей-линий
 Ley Capacitor,Конденсатор магии
 Ley Fire,Магический огонь
-Ley Line Axe Skin[s],Облик[|а|ов] топора Лей-линии
-Ley Line Charge,Заряд Лей-линии
+Ley Line Axe Skin[s],Облик[|а|ов] топора лей-линии
+Ley Line Charge,Заряд лей-линии
 Ley Line Crystal[s],Кристалл[|а|ов] Лей-линии
-Ley Line Dagger Skin[s],Облик[|а|ов] кинжала Лей-линии
-Ley Line Focus Skin[s],Облик[|а|ов] фокуса Лей-линии
-Ley Line Greatsword Skin[s],Облик[|а|ов] большого меча Лей-линии
-Ley Line Hammer Skin[s],Облик[|а|ов] молота Лей-линии
+Ley Line Dagger Skin[s],Облик[|а|ов] кинжала лей-линии
+Ley Line Focus Skin[s],Облик[|а|ов] фокуса лей-линии
+Ley Line Greatsword Skin[s],Облик[|а|ов] большого меча лей-линии
+Ley Line Hammer Skin[s],Облик[|а|ов] молота лей-линии
 Ley Line Infused Stone[s],Инфузированный кам[ень|ня|ней] Лей-линии
-Ley Line Longbow Skin[s],Облик[|а|ов] длинного лука Лей-линии
-Ley Line Mace Skin[s],Облик[|а|ов] булавы Лей-линии
-Ley Line Pistol Skin[s],Облик[|а|ов] пистолета Лей-линии
-Ley Line Rifle Skin[s],Облик[|а|ов] винтовки Лей-линии
-Ley Line Scepter Skin[s],Облик[|а|ов] скипетра Лей-линии
-Ley Line Shield Skin[s],Облик[|а|ов] щита Лей-линии
-Ley Line Short Bow Skin[s],Облик[|а|ов] короткого лука Лей-линии
+Ley Line Longbow Skin[s],Облик[|а|ов] длинного лука лей-линии
+Ley Line Mace Skin[s],Облик[|а|ов] булавы лей-линии
+Ley Line Pistol Skin[s],Облик[|а|ов] пистолета лей-линии
+Ley Line Rifle Skin[s],Облик[|а|ов] винтовки лей-линии
+Ley Line Scepter Skin[s],Облик[|а|ов] скипетра лей-линии
+Ley Line Shield Skin[s],Облик[|а|ов] щита лей-линии
+Ley Line Short Bow Skin[s],Облик[|а|ов] короткого лука лей-линии
 Ley Line Spark[s],Искр[а|ы|] Лей-линии
-Ley Line Staff Skin[s],Облик[|а|ов] посоха Лей-линии
-Ley Line Sword Skin[s],Облик[|а|ов] меча Лей-линии
-Ley Line Torch Skin[s],Облик[|а|ов] факела Лей-линии
+Ley Line Staff Skin[s],Облик[|а|ов] посоха лей-линии
+Ley Line Sword Skin[s],Облик[|а|ов] меча лей-линии
+Ley Line Torch Skin[s],Облик[|а|ов] факела лей-линии
 Ley Line Trace,След лей-линий
-Ley Line Warhorn Skin[s],Облик[|а|ов] боевого рога Лей-линии
+Ley Line Warhorn Skin[s],Облик[|а|ов] боевого рога лей-линии
 "Ley Line Weapon Box[pl:""Boxes""]",Ящик с оружием из лей-линии[|и|ий]
-Ley Line Weapon Cache[s],Тайник[|а|ов] оружия Лей-линии
+Ley Line Weapon Cache[s],Тайник[|а|ов] оружия лей-линии
 Ley Line Weapons,Оружие лей-линий
 Ley Lines for the Layman: An Examination of World Magic,Лей-линии для непосвящённых: Исследование мировой магии
 Ley magic courses through a grotto south of the Winding Passage. Native wavehawks use it as refuge.,Лей-магия протекает через грот к югу от Извилистого прохода. Местные волновые ястребы используют его как убежище.
@@ -250,22 +250,22 @@ Ley-Infused Lodestone[s],Магнетит[|а|ов] пропитанный ма�
 Ley-Infused Sand[s],Песок[|а|ов] пропитанный магией линий
 Ley-Infused Shadow Elemental,Лей-насыщенный теневой элементаль
 Ley-Jade Crystal,Лей-нефритовый кристалл
-Ley-Line Anomaly,Аномалия Лей-линий
+Ley-Line Anomaly,Аномалия лей-линий
 Ley-Line Axe Core[s],[Ядро|Ядра|Ядер] лей-линии топора
-Ley-Line Blast,Взрыв Лей-линий
-Ley-Line Bolt,Молния Лей-линий
-Ley-Line Burst,Вспышка Лей-линий
-Ley-Line Collector A,Сборщик Лей-линий A
-Ley-Line Collector B,Сборщик Лей-линий B
-Ley-Line Collector C,Сборщик Лей-линий C
-Ley-Line Crystal Collector<br>• Trades Goods for Ley-Line Crystals,Сборщик кристаллов Лей-линий<br>• Обменивает товары на кристаллы Лей-линий
+Ley-Line Blast,Взрыв лей-линий
+Ley-Line Bolt,Молния лей-линий
+Ley-Line Burst,Вспышка лей-линий
+Ley-Line Collector A,Сборщик лей-линий A
+Ley-Line Collector B,Сборщик лей-линий B
+Ley-Line Collector C,Сборщик лей-линий C
+Ley-Line Crystal Collector<br>• Trades Goods for Ley-Line Crystals,Сборщик кристаллов лей-линий<br>• Обменивает товары на кристаллы лей-линий
 Ley-Line Crystal Essence[s],Эссенци[я|и|й] кристалла лей-линий
-Ley-Line Crystals,Кристаллы Лей-линий
+Ley-Line Crystals,Кристаллы лей-линий
 Ley-Line Dagger Core[s],[Ядро|Ядра|Ядер] лей-линии кинжала
 Ley-line Emanation,Эманация лей-линий
-Ley-Line Energy Is Accumulating in Gendarran Fields,Энергия Лей-линий накапливается на Гендарранских полях
-Ley-Line Energy Is Accumulating in Iron Marches,Энергия Лей-линий накапливается в Железных Топях
-Ley-Line Energy Is Accumulating in Timberline Falls,Энергия Лей-линий накапливается в Тимберлайн-Фоллс
+Ley-Line Energy Is Accumulating in Gendarran Fields,Энергия лей-линий накапливается на Гендарранских полях
+Ley-Line Energy Is Accumulating in Iron Marches,Энергия лей-линий накапливается в Железных Топях
+Ley-Line Energy Is Accumulating in Timberline Falls,Энергия лей-линий накапливается в Тимберлайн-Фоллс
 Ley-Line Extractor Manual,Руководство по экстрактору лей-линий
 Ley-Line Focus Core[s],[Ядро|Ядра|Ядер] лей-линии фокуса
 Ley-Line Gliding,Парение на лей-линиях
@@ -398,7 +398,7 @@ Light Lichen,Светлый лишайник
 Light Lime,Светлый лайм
 Light of Deliverance,Свет Избавления
 Light of the Chak,Свет Чак
-Light of the Ley Line,Свет Лей-линии
+Light of the Ley Line,Свет лей-линии
 Light Olive,Светлая оливка
 Light Orange,Светлый оранжевый
 Light Orb,Светлая сфера

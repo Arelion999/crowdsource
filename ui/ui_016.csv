@@ -204,7 +204,7 @@ english,translate
 +10%% Magic Find+10%% Karma+15%% Experience from Kills,+10%% Поиск магии+10%% Карма+15%% Опыт за убийства
 +10%% Magic Find+5%% Bonus Experience from KillsStacks Duration up to 2 Hours,+10%% Поиск магии+5%% Бонусный опыт за убийства; длительность суммируется до 2 часов
 +10%% Might Duration,+10%% Длительность мощи
-+10%% Outgoing Healing+100 Concentration+33%% Chance to Gain Might on Critical Hit+10%% Karma+5%% All Experience Gained+20%% Magic Find+20%% Gold Find+10%% WXP Gained,+10%% Исходящее исцеление+100 Концентрация+33%% шанс получить Мощь при крит. ударе+10%% Карма+5%% Весь получаемый опыт+20%% Поиск магии+20%% Поиск золота+10%% Получаемый опыт WvW
++10%% Outgoing Healing+100 Concentration+33%% Chance to Gain Might on Critical Hit+10%% Karma+5%% All Experience Gained+20%% Magic Find+20%% Gold Find+10%% WXP Gained,+10%% Исходящее исцеление+100 Концентрация+33%% шанс получить мощь при крит. ударе+10%% Карма+5%% Весь получаемый опыт+20%% Поиск магии+20%% Поиск золота+10%% Получаемый опыт WvW
 +10%% Outgoing Healing+100 Concentration+70 Expertise+10%% Karma+5%% All Experience Gained+20%% Magic Find+20%% Gold Find+10%% WXP Gained,+10%% Исходящее исцеление+100 Концентрация+70 Экспертиза+10%% Карма+5%% Весь получаемый опыт+20%% Поиск магии+20%% Поиск золота+10%% Получаемый опыт WvW
 +10%% Outgoing Healing+100 Concentration+70 Healing Power+10%% Karma+5%% All Experience Gained+20%% Magic Find+20%% Gold Find+10%% WXP Gained,+10%% Исходящее исцеление+100 Концентрация+70 Сила исцеления+10%% Карма+5%% Весь получаемый опыт+20%% Поиск магии+20%% Поиск золота+10%% Получаемый опыт WvW
 +10%% Outgoing Healing+100 Concentration+70 Power+10%% Karma+5%% All Experience Gained+20%% Magic Find+20%% Gold Find+10%% WXP Gained,+10%% Исходящее исцеление+100 Концентрация+70 Сила+10%% Карма+5%% Весь получаемый опыт+20%% Поиск магии+20%% Поиск золота+10%% Получаемый опыт WvW
@@ -226,7 +226,7 @@ english,translate
 +10%% Swiftness Duration,+10%% Длительность быстроты
 +10%% Torment Duration,+10%% Длительность боли
 +10%% WvW Experience,+10%% Опыт WvW
-+100 Concentration+25%% Magic Find during Lunar New Year33%% Chance for Might (5 Seconds) on Critical Hit,+100 Концентрация+25%% Поиск магии во время Лунного нового года33%% шанс на Мощь (5 секунд) при крит. ударе
++100 Concentration+25%% Magic Find during Lunar New Year33%% Chance for Might (5 Seconds) on Critical Hit,+100 Концентрация+25%% Поиск магии во время Лунного нового года33%% шанс на мощь (5 секунд) при крит. ударе
 +100 Concentration+40%% Magic Find while under the Effect of a Boon+10%% Experience from Kills,+100 Концентрация+40%% Поиск магии под действием благодати+10%% Опыт за убийства
 +100 Concentration+70 Expertise+1%% All Experience Gained,+100 Концентрация+70 Экспертиза+1%% Весь получаемый опыт
 +100 Concentration+70 Expertise+1%% All Experience GainedMay Cause Intermittent Gastric Distress,+100 Концентрация+70 Экспертиза+1%% Весь получаемый опытМожет вызывать периодическое расстройство желудка
@@ -249,8 +249,8 @@ english,translate
 +100 Expertise+70 Vitality+15%% Experience from Kills,+100 Экспертиза+70 Живучесть+15%% Опыт за убийства
 +100 Expertise33%% Chance to Steal Life on Critical Hit+10%% Experience from Kills,+100 Экспертиза33%% шанс украсть жизнь при крит. ударе+10%% Опыт за убийства
 +100 Ferocity,+100 Свирепость
-+100 Ferocity28%% Chance to Gain Might on Critical Hit+10%% Experience from Kills+30%% Magic Find,+100 Свирепость28%% шанс получить Мощь при крит. ударе+10%% Опыт за убийства+30%% Поиск магии
-+100 Ferocity33%% Chance to Gain Might on Critical Hit+10%% Experience from Kills,+100 Свирепость33%% шанс получить Мощь при крит. ударе+10%% Опыт за убийства
++100 Ferocity28%% Chance to Gain Might on Critical Hit+10%% Experience from Kills+30%% Magic Find,+100 Свирепость28%% шанс получить мощь при крит. ударе+10%% Опыт за убийства+30%% Поиск магии
++100 Ferocity33%% Chance to Gain Might on Critical Hit+10%% Experience from Kills,+100 Свирепость33%% шанс получить мощь при крит. ударе+10%% Опыт за убийства
 +100 Healing,+100 Исцеление
 +100 Healing Power,+100 Сила исцеления
 +100 Healing Power+10%% Outgoing Healing+25%% Magic Find during Lunar New Year,+100 Сила исцеления+10%% Исходящее исцеление+25%% Поиск магии во время Лунного нового года
@@ -398,7 +398,7 @@ english,translate
 +150 Fishing Power+100 Vitality+70 Toughness+10%% Karma+5%% All Experience Gained+20%% Magic Find+20%% Gold Find+10%% WXP Gained,+150 Сила рыбалки+100 Живучесть+70 Стойкость+10%% Карма+5%% Весь получаемый опыт+20%% Поиск магии+20%% Поиск золота+10%% Получаемый опыт WvW
 +150 Fishing Power+45 to All Attributes+10%% Karma+5%% All Experience Gained+20%% Magic Find+20%% Gold Find+10%% WXP Gained,+150 Сила рыбалки+45 ко всем атрибутам+10%% Карма+5%% Весь получаемый опыт+20%% Поиск магии+20%% Поиск золота+10%% Получаемый опыт WvW
 +150 Fishing Power+70 Vitality+10%% Experience from Kills,+150 Сила рыбалки+70 Живучесть+10%% Опыт за убийства
-+150 Power and Condition Damage for 30 Seconds on Kill+10%% Experience from Kills,+150 Сила и Урон от состояний на 30 секунд при убийстве+10%% Опыт за убийства
++150 Power and Condition Damage for 30 Seconds on Kill+10%% Experience from Kills,+150 Сила и урон от состояний на 30 секунд при убийстве+10%% Опыт за убийства
 +150 Power and Vitality for 30 Seconds on Kill+10%% Experience from Kills,+150 Сила и Живучесть на 30 секунд при убийстве+10%% Опыт за убийства
 +150 Power+10%% Experience from Kills,+150 Сила+10%% Опыт за убийства
 +150 Precision+10%% Experience from Kills,+150 Точность+10%% Опыт за убийства

@@ -181,7 +181,7 @@ Create a jade tech waypoint on your current map.<br><br>This skill cannot be use
 Create a magical storm at the target location that applies random conditions to foes and boons to allies.,"Создаёт в целевой точке магическую бурю, накладывающую случайные состояния на врагов и благодати на союзников."
 Create a ring around you that foes cannot cross. Trapped enemies cannot exit the ring while it is active.,"Создаёт вокруг вас кольцо, которое враги не могут пересечь. Пойманные враги не могут покинуть кольцо, пока оно активно."
 Create a wall of ice that you can shatter.,"Создаёт ледяную стену, которую вы можете разбить."
-"Create a whispering blade that flies toward a nearby enemy after a short delay, applying torment and increasing your next strike's damage against that target.","Создаёт шепчущий клинок, который после короткой задержки летит к ближайшему врагу, накладывая Боль и увеличивая урон вашего следующего удара по этой цели."
+"Create a whispering blade that flies toward a nearby enemy after a short delay, applying torment and increasing your next strike's damage against that target.","Создаёт шепчущий клинок, который после короткой задержки летит к ближайшему врагу, накладывая боль и увеличивая урон вашего следующего удара по этой цели."
 "Create an area that warps time, granting you and your allies quickness.","Создаёт область, искривляющую время и дающую вам и вашим союзникам проворство."
 Create the illusion of a Sunspear uprising.,Создайте видимость восстания Солнечных Копий.
 Created %num1%/%num2% Item[s],Создано %num1%/%num2% [предмет|предмета|предметов]
@@ -345,7 +345,7 @@ Damage Immunity,Невосприимчивость к урону
 Damage Increase against Boonless Targets,Прибавка к урону по целям без благодатей
 Damage above Threshold,Урон выше порога
 Damage and daze enemies with a powerful screech.,Наносит урон и ошеломляет врагов мощным визгом.
-Damage and torment nearby enemies.,Наносит урон и накладывает Боль на врагов поблизости.
+Damage and torment nearby enemies.,Наносит урон и накладывает боль на врагов поблизости.
 Damage below Threshold,Урон ниже порога
 Damage done to nearby allies.,"Урон, нанесённый союзникам поблизости."
 Damage every second due to miasma gas. Cannot be removed.,Урон каждую секунду от миазменного газа. Не снимается.
