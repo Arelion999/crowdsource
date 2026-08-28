@@ -28,7 +28,7 @@ english,translate
 +200 Power for 30 seconds on Kill+140 Condition Damage for 30 seconds on Kill+25%% Magic Find during Lunar New Year,+200 к силе на 30 секунд при убийстве+140 к урону от состояний на 30 секунд при убийстве+25%% к поиску магии во время Лунного Нового года
 +200 Power for 30 Seconds on Kill+70 Ferocity+10%% Experience from Kills,+200 к силе на 30 секунд при убийстве+70 к свирепости+10%% к опыту за убийство
 +200 Toughness for 10 Seconds on Using a Heal Skill (Cooldown: 20 seconds)+70 Healing Power+10%% Experience from Kills,+200 к стойкости на 10 секунд при использовании лечащего умения (перезарядка: 20 секунд)+70 к силе исцеления+10%% к опыту за убийство
-+21 Agony Infusion[s],+21 [инкрустация|инкрустации|инкрустаций] агонии
++21 Agony Infusion[s],[Инфузия|Инфузии|Инфузий] агонии +21
 +21 Agony Resistance,+21 Сопротивление агонии
 +21 Condition Damage,+21 Урон от состояний
 +21 Condition Damage+13 Power+13 Vitality,+21 Урон от состояний+13 Сила+13 Живучесть
@@ -47,14 +47,14 @@ english,translate
 +21 Toughness,+21 Стойкость
 +21 Vitality,+21 Живучесть
 +21 Vitality+13 Power+13 Toughness,+21 Живучесть+13 Сила+13 Стойкость
-+22 Agony Infusion[s],+22 [инкрустация|инкрустации|инкрустаций] агонии
++22 Agony Infusion[s],[Инфузия|Инфузии|Инфузий] агонии +22
 +22 Agony Resistance,+22 Сопротивление агонии
 +22%% Magic Find+150 Fishing Power+10%% Experience from Kills,+22%% к поиску магии+150 к силе рыбной ловли+10%% к опыту за убийства
-+23 Agony Infusion[s],+23 [инкрустация|инкрустации|инкрустаций] агонии
++23 Agony Infusion[s],[Инфузия|Инфузии|Инфузий] агонии +23
 +23 Agony Resistance,+23 Сопротивление агонии
-+24 Agony Infusion[s],+24 [инкрустация|инкрустации|инкрустаций] агонии
++24 Agony Infusion[s],[Инфузия|Инфузии|Инфузий] агонии +24
 +24 Agony Resistance,+24 Сопротивление агонии
-+25 Agony Infusion[s],+25 [инкрустация|инкрустации|инкрустаций] агонии
++25 Agony Infusion[s],[Инфузия|Инфузии|Инфузий] агонии +25
 +25 Agony Resistance,+25 Сопротивление агонии
 +25 Condition Damage,+25 Урон от состояний
 +25 Condition Damage+15 Power+15 Precision,+25 Урон от состояний+15 Сила+15 Точность
@@ -87,19 +87,19 @@ english,translate
 +25%% Movement Speed,+25%% к скорости передвижения
 +250 Damage. Range Attack. Knocks down your target.,+250 урона. Дальняя атака. Сбивает цель с ног.
 +250 Damage. Ranged Attack. Knocks down target.,+250 урона. Дальняя атака. Сбивает цель с ног.
-+26 Agony Infusion[s],+26 [инкрустация|инкрустации|инкрустаций] агонии
++26 Agony Infusion[s],[Инфузия|Инфузии|Инфузий] агонии +26
 +26 Agony Resistance,+26 Сопротивление агонии
 +26%% Magic Find+150 Fishing Power+10%% Experience from Kills,+26%% к шансу найти магические предметы+150 к силе рыбной ловли+10%% к опыту за убийства
 +26%% Magic Find+60 Condition Damage,+26%% к шансу найти магические предметы+60 к урону от состояний
 +26%% Magic Find+60 Power,+26%% к шансу найти магические предметы+60 к силе
-+27 Agony Infusion[s],+27 [инкрустация|инкрустации|инкрустаций] агонии
++27 Agony Infusion[s],[Инфузия|Инфузии|Инфузий] агонии +27
 +27 Agony Resistance,+27 Сопротивление агонии
-+28 Agony Infusion[s],+28 [инкрустация|инкрустации|инкрустаций] агонии
++28 Agony Infusion[s],[Инфузия|Инфузии|Инфузий] агонии +28
 +28 Agony Resistance,+28 Сопротивление агонии
-+29 Agony Infusion[s],+29 [инкрустация|инкрустации|инкрустаций] агонии
++29 Agony Infusion[s],[Инфузия|Инфузии|Инфузий] агонии +29
 +29 Agony Resistance,+29 Сопротивление агонии
 +3 Agony Infusion Upgrades,+3 улучшения инфузии агонии
-+3 Agony Infusion[s],+3 [инкрустация|инкрустации|инкрустаций] агонии
++3 Agony Infusion[s],[Инфузия|Инфузии|Инфузий] агонии +3
 +3 Agony Resistance,+3 Сопротивление агонии
 +3 Condition Damage,+3 Урон от состояний
 +3 Healing,+3 Исцеление
@@ -155,7 +155,7 @@ english,translate
 +3%% to All Attributes+20%% Gold from Monsters+10%% Experience from Kills,+3%% ко всем атрибутам+20%% золота с монстров+10%% опыта за убийства
 +3%% to All Attributes+20%% Karma+10%% Experience from Kills,+3%% ко всем атрибутам+20%% кармы+10%% опыта за убийства
 +3%% to All Attributes+20%% Magic Find+10%% Experience from Kills,+3%% ко всем атрибутам+20%% к поиску магических предметов+10%% опыта за убийства
-+30 Agony Infusion[s],+30 [инкрустация|инкрустации|инкрустаций] агонии
++30 Agony Infusion[s],[Инфузия|Инфузии|Инфузий] агонии +30
 +30 Agony Resistance,+30 Сопротивление агонии
 +30 Concentration,+30 Концентрация
 +30 Condition Damage,+30 Урон от состояний
@@ -226,7 +226,7 @@ english,translate
 +39 Precision,+39 Точность
 +39 Toughness,+39 Стойкость
 +39 Vitality,+39 Живучесть
-+4 Agony Infusion[s],+4 [инкрустация|инкрустации|инкрустаций] агонии
++4 Agony Infusion[s],[Инфузия|Инфузии|Инфузий] агонии +4
 +4 Agony Resistance,+4 Сопротивление агонии
 +4 Concentration,+4 Концентрация
 +4 Condition Damage,+4 Урон от состояний
@@ -259,7 +259,7 @@ english,translate
 +45 Power+45 Precision+45 Condition Damage+45 Toughness+45 Vitality+45 Healing+5%% Critical Damage,+45 к силе+45 к точности+45 к урону от состояний+45 к стойкости+45 к живучести+45 к исцелению+5%% к критическому урону
 +45 to All Attributes+20%% Magic Find+10%% Experience from Kills,+45 ко всем атрибутам+20%% к поиску магии+10%% к опыту за убийства
 +5 Agony Infusion Upgrades,+5 улучшений инфузии агонии
-+5 Agony Infusion[s],+5 [инкрустация|инкрустации|инкрустаций] агонии
++5 Agony Infusion[s],[Инфузия|Инфузии|Инфузий] агонии +5
 +5 Agony Resistance,+5 Сопротивление агонии
 "+5 Agony ResistanceThe next time you would be downed, instead heal 25%% of your total health.",+5 к сопротивлению агонииПри следующем падении вы исцеляете 25%% от максимального запаса здоровья.
 +5 Concentration+5 Agony Resistance,+5 Концентрация+5 Сопротивление агонии
@@ -401,7 +401,7 @@ english,translate
 +50%% Experience in All Game Types+50%% Reward Track Gain in PvP and WvWUp to 100%% Bonus Experience for Kill Streaks,+50%% к опыту во всех режимах игры+50%% к прогрессу наград в PvP и WvWДо 100%% бонусного опыта за серии убийств
 +50%% Magic Find+50%% Chance of Critical Crafting Experience Gain+33%% Chance of Extra Gathering Strike10 seconds of Swiftness after GatheringSummons a Black Lion Merchant If Your Inventory Is Full after Gathering (20-Minute Cooldown),"+50%% к поиску магии+50%% к шансу критического успеха в ремесле+33%% к шансу дополнительного удара при сборе10 секунд скорости после сбораПризывает торговца Чёрного Льва, если ваш инвентарь полон после сбора (перезарядка 20 минут)"
 +50%% Magic Find+50%% Experience Gain (All Sources)+30%% WvW Reward Track Progress+30%% PvP Reward Track Progress,+50%% Поиск магии+50%% Получение опыта (все источники)+30%% Прогресс наградного пути WvW+30%% Прогресс наградного пути PvP
-+6 Agony Infusion[s],+6 инкрустаци[я|и|й] агонии
++6 Agony Infusion[s],[Инфузия|Инфузии|Инфузий] агонии +6
 +6 Agony Resistance,+6 Сопротивление агонии
 +6 to All Stats,+6 ко всем характеристикам
 +6%% Bleeding Duration,+6%% к длительности кровотечения
@@ -447,7 +447,7 @@ english,translate
 +65 Toughness,+65 Стойкость
 +65 Vitality,+65 Живучесть
 +7 Agony Infusion Upgrades,+7 улучшений инфузии агонии
-+7 Agony Infusion[s],+7 инкрустаци[я|и|й] агонии
++7 Agony Infusion[s],[Инфузия|Инфузии|Инфузий] агонии +7
 +7 Agony Resistance,+7 Сопротивление агонии
 +7 Attack,+7 к атаке
 +7 attack,+7 к атаке

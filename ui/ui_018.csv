@@ -10,7 +10,7 @@ english,translate
 +7%% Strike Damage vs. Undead+3%% Strike Damage,+7%% урона против нежити+3%% обычного урона
 +75%% damage and 3s knockdown. 30%% chance to break.,+75%% урона и нокдаун на 3 с. 30%% шанс сломаться.
 +75%% damage melee attack. 40%% to break.,Атака ближнего боя с +75%% урона. 40%% шанс сломаться.
-+8 Agony Infusion[s],+8 вливани[е|я|й] агонии
++8 Agony Infusion[s],[Инфузия|Инфузии|Инфузий] агонии +8
 +8 Agony Resistance,+8 к сопротивлению агонии
 +8 Condition Damage+4 Precision,+8 к урону от состояний+4 к Точности
 +8 Healing+4 Power,+8 к исцелению+4 к Силе
@@ -79,8 +79,8 @@ english,translate
 +80 Vitality+60 Toughness+10%% Experience from Kills,+80 к Живучести+60 к Стойкости+10%% опыта за убийства
 +80%% Downed Health+14%% Damage While Downed,+80%% здоровья в поверженном состоянии+14%% урона в поверженном состоянии
 +80%% Downed Health+14%% Damage While Downed+10%% Experience from Kills,+80%% здоровья в поверженном состоянии+14%% урона в поверженном состоянии+10%% опыта за убийства
-+9 Agony Infusion Upgrades,Улучшения «Вливание агонии +9»
-+9 Agony Infusion[s],+9 вливани[е|я|й] агонии
++9 Agony Infusion Upgrades,Улучшения «Инфузия агонии +9»
++9 Agony Infusion[s],[Инфузия|Инфузии|Инфузий] агонии +9
 +9 Agony Resistance,+9 к сопротивлению агонии
 +9 Condition Damage+7 Precision,+9 к урону от состояний+7 к Точности
 +9 Healing+7 Power,+9 к исцелению+7 к Силе
@@ -118,7 +118,7 @@ english,translate
 +9%% Torment Duration,+9%% к длительности Боли
 +9%% Weakness Duration,+9%% к длительности Слабости
 +90 Power,+90 к Силе
-+Miscellaneous Swim-Speed Infusion Upgrades,+Прочие улучшения вливаний скорости плавания
++Miscellaneous Swim-Speed Infusion Upgrades,+Прочие улучшения инфузий скорости плавания
 ", [null]",", [null]"
 ", Costs",", стоимость"
 "- After 5 minutes, eliminated gamers will be placed in a golem pod.",— Через 5 минут выбывшие игроки будут помещены в капсулу голема.
