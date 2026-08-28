@@ -11,7 +11,7 @@ english,translate
 (gasp) (gargle),(вздох) (бульканье)
 "(gasp) Okay, okay! I'll do my chores!","(вздох) Ладно, ладно! Сделаю я свою работу!"
 (gasp) Why...are you here?,(вздох) Почему... ты здесь?
-(groan) Heavy!,(кряхтит) Тяжёло!
+(groan) Heavy!,(кряхтит) Тяжело!
 (groans exhaustedly),(устало стонет)
 (groans painfully),(стонет от боли)
 (groans) No! Our food stores are contaminated... I just hope no one else gets sick. Damned rodents!,"(стонет) Нет! Наши съестные припасы заражены... Надеюсь только, что больше никто не заболеет. Проклятые грызуны!"
@@ -20,7 +20,7 @@ english,translate
 (growl) This place stinks.,(рычит) Ну и вонь тут.
 (growl) You're undoing all of my hard work!,(рычит) Ты губишь всю мою тяжкую работу!
 (growls),(рычит)
-(growls) Grenth! Make them suffer!,(рычит) Гренс! Пусть они страдают!
+(growls) Grenth! Make them suffer!,(рычит) Грент! Пусть они страдают!
 (grumble) (growl),(ворчание) (рычание)
 (grumble) One more obstruction to push through.,"(ворчит) Ещё одно препятствие, которое надо проломить."
 (grumbles intensely),(яростно ворчит)
@@ -51,7 +51,7 @@ english,translate
 (laugh) (sigh),(смех) (вздох)
 (laugh) Fool.,(смех) Глупец.
 (laugh) I can't wait to spar with that crazy charr.,(смех) Не терпится размяться с этим чокнутым чарром.
-"(laugh) I definitely will! We'll have a good chuckle about it. Safe journeys, Valiant.","(смех) Обязательно расскажу! Вместе посмеёмся. Доброго пути, Валиант."
+"(laugh) I definitely will! We'll have a good chuckle about it. Safe journeys, Valiant.","(смех) Обязательно расскажу! Вместе посмеёмся. Доброго пути, Доблестный."
 "(laugh) I have to stay and look after the lodge, but I bet Aldis and Kalle will show you where to find some prey.","(смех) Мне надо остаться и присматривать за домом, но, готова поспорить, Алдис и Калле покажут тебе, где найти дичь."
 (laugh) I think we really made them really mad this time!,"(смех) По-моему, в этот раз мы их и правда разозлили!"
 (laugh) I'd rather scrub my eyes with hot vinegar.,(смех) Лучше уж я протру глаза горячим уксусом.
@@ -93,7 +93,7 @@ english,translate
 (rumbles),(рокочет)
 (sad grunt),(печальное кряхтение)
 (scream of horror),(крик ужаса)
-"(scream) Dwayna, help me!","(кричит) Двайна, помоги мне!"
+"(scream) Dwayna, help me!","(кричит) Двейна, помоги мне!"
 (scream) I...I didn't account... Too many factors... The drilling must...not...stop. (gasp),(кричит) Я... я не учёл... Слишком много факторов... Бурение не должно... не должно... остановиться. (задыхается)
 (scream) You filth—,"(кричит) Ты, мразь..."
 (screams in pain),(кричит от боли)
@@ -234,12 +234,12 @@ english,translate
 756 units by 87 units.,756 на 87 единиц.
 8 percent,8 процентов
 8A,8A
-"<c=@abilitytype>Burst.</c> Dash forward while slashing all foes in a line, healing allies you pass through and ending Dragon Trigger. This attack consumes all charges to increase the healing granted to allies.","<c=@abilitytype>Всплеск.</c> Рванитесь вперёд, рассекая всех врагов на линии и исцеляя союзников, сквозь которых проходите, завершая «Драконий спуск». Эта атака расходует все заряды, чтобы усилить исцеление союзников."
-"<c=@abilitytype>Burst.</c> Dash forward while slashing all foes in a line, inflicting burning and ending Dragon Trigger. This attack consumes all charges to increase burning duration.","<c=@abilitytype>Всплеск.</c> Рванитесь вперёд, рассекая всех врагов на линии и накладывая горение, завершая «Драконий спуск». Эта атака расходует все заряды, чтобы увеличить длительность горения."
-"<c=@abilitytype>Burst.</c> Slash foes in an arc in front of you, applying boons to nearby allies and ending Dragon Trigger. This attack consumes all charges to increase the number of boons applied to allies.","<c=@abilitytype>Всплеск.</c> Рассеките врагов дугой перед собой, накладывая боны на союзников поблизости и завершая «Драконий спуск». Эта атака расходует все заряды, чтобы увеличить число бонов, накладываемых на союзников."
-"<c=@abilitytype>Burst.</c> Slash foes in an arc in front of you, inflicting burning on enemies and ending Dragon Trigger. This attack consumes all charges to increase burning duration.","<c=@abilitytype>Всплеск.</c> Рассеките врагов дугой перед собой, накладывая на них горение и завершая «Драконий спуск». Эта атака расходует все заряды, чтобы увеличить длительность горения."
-"<c=@abilitytype>Burst.</c> Slash to create a blade of air that strikes and burns foes in a line in front of you, ending Dragon Trigger. This attack consumes all charges to increase burning duration.","<c=@abilitytype>Всплеск.</c> Рубящим ударом создайте клинок воздуха, что поражает и поджигает врагов на линии перед вами, завершая «Драконий спуск». Эта атака расходует все заряды, чтобы увеличить длительность горения."
-"<c=@abilitytype>Burst.</c> Slash to create a blade of air that strikes and dazes foes in a line in front of you, ending Dragon Trigger. This attack consumes all charges to increase the duration of daze inflicted.","<c=@abilitytype>Всплеск.</c> Рубящим ударом создайте клинок воздуха, что поражает и ошеломляет врагов на линии перед вами, завершая «Драконий спуск». Эта атака расходует все заряды, чтобы увеличить длительность накладываемого Ошеломления."
+"<c=@abilitytype>Burst.</c> Dash forward while slashing all foes in a line, healing allies you pass through and ending Dragon Trigger. This attack consumes all charges to increase the healing granted to allies.","<c=@abilitytype>Всплеск.</c> Рванитесь вперёд, рассекая всех врагов на линии и исцеляя союзников, сквозь которых проходите, завершая «Драконий триггер». Эта атака расходует все заряды, чтобы усилить исцеление союзников."
+"<c=@abilitytype>Burst.</c> Dash forward while slashing all foes in a line, inflicting burning and ending Dragon Trigger. This attack consumes all charges to increase burning duration.","<c=@abilitytype>Всплеск.</c> Рванитесь вперёд, рассекая всех врагов на линии и накладывая горение, завершая «Драконий триггер». Эта атака расходует все заряды, чтобы увеличить длительность горения."
+"<c=@abilitytype>Burst.</c> Slash foes in an arc in front of you, applying boons to nearby allies and ending Dragon Trigger. This attack consumes all charges to increase the number of boons applied to allies.","<c=@abilitytype>Всплеск.</c> Рассеките врагов дугой перед собой, накладывая боны на союзников поблизости и завершая «Драконий триггер». Эта атака расходует все заряды, чтобы увеличить число бонов, накладываемых на союзников."
+"<c=@abilitytype>Burst.</c> Slash foes in an arc in front of you, inflicting burning on enemies and ending Dragon Trigger. This attack consumes all charges to increase burning duration.","<c=@abilitytype>Всплеск.</c> Рассеките врагов дугой перед собой, накладывая на них горение и завершая «Драконий триггер». Эта атака расходует все заряды, чтобы увеличить длительность горения."
+"<c=@abilitytype>Burst.</c> Slash to create a blade of air that strikes and burns foes in a line in front of you, ending Dragon Trigger. This attack consumes all charges to increase burning duration.","<c=@abilitytype>Всплеск.</c> Рубящим ударом создайте клинок воздуха, что поражает и поджигает врагов на линии перед вами, завершая «Драконий триггер». Эта атака расходует все заряды, чтобы увеличить длительность горения."
+"<c=@abilitytype>Burst.</c> Slash to create a blade of air that strikes and dazes foes in a line in front of you, ending Dragon Trigger. This attack consumes all charges to increase the duration of daze inflicted.","<c=@abilitytype>Всплеск.</c> Рубящим ударом создайте клинок воздуха, что поражает и ошеломляет врагов на линии перед вами, завершая «Драконий триггер». Эта атака расходует все заряды, чтобы увеличить длительность накладываемого Ошеломления."
 <c=@abilitytype>Chain.</c> Strike your foe again. Gain endurance with a successful strike.,<c=@abilitytype>Цепь.</c> Снова бьёт врага. При успешном ударе даёт выносливость.
 <c=@abilitytype>Costume Brawl.</c> Channel the spirit of Mad King Thorn.,<c=@abilitytype>Потасовка ряженых.</c> Направьте дух Безумного короля Торна.
 <c=@abilitytype>Costume Brawl.</c> Create a madly delicious banquet.,<c=@abilitytype>Потасовка ряженых.</c> Устройте безумно вкусный пир.
@@ -249,7 +249,7 @@ english,translate
 <c=@abilitytype>Costume Brawl.</c> Melt into a pile of magical goo.,<c=@abilitytype>Потасовка ряженых.</c> Растекитесь лужей волшебной слизи.
 <c=@abilitytype>Costume Brawl.</c> Summon a cauldron that everyone can use. Trick or treat!,"<c=@abilitytype>Потасовка ряженых.</c> Призовите котёл, которым может воспользоваться каждый. Кошелёк или жизнь!"
 <c=@abilitytype>Costume Brawl.</c> Summon a feline friend as a magical familiar.,<c=@abilitytype>Потасовка ряженых.</c> Призовите кошачьего друга в качестве волшебного фамильяра.
-<c=@abilitytype>Costume Brawl.</c> Summon a madly obedient Candy Corn Servant.,<c=@abilitytype>Потасовка ряженых.</c> Призовите безумно послушного Слугу из кукурузной карамели.
+<c=@abilitytype>Costume Brawl.</c> Summon a madly obedient Candy Corn Servant.,<c=@abilitytype>Потасовка ряженых.</c> Призовите безумно послушного Слугу из конфетной кукурузы.
 <c=@abilitytype>Costume Brawl.</c> Throw a madly flaming pumpkin head.,<c=@abilitytype>Потасовка ряженых.</c> Швырните безумно пылающую тыквенную голову.
 "<c=@abilitytype>Deception.</c> Draw in shards of crystal sand at target location, which confuse foes they pass through. The shards form a mirage mirror when they reach their destination.","<c=@abilitytype>Обман.</c> Стягивает в целевую область осколки хрустального песка, вызывающие замешательство у врагов, сквозь которых проходят. Достигнув цели, осколки образуют зеркало миража."
 "<c=@abilitytype>Glyphs</c> heal nearby allies. While in celestial avatar form, grant protection instead.",<c=@abilitytype>Глифы</c> исцеляют союзников поблизости. В форме небесного аватара вместо этого дают Протекцию.
@@ -257,10 +257,10 @@ english,translate
 "<c=@abilitytype>Tome.</c> Manifest the shimmering purity of the desert sun, reflecting enemy missiles.","<c=@abilitytype>Том.</c> Являет мерцающую чистоту пустынного солнца, отражая вражеские снаряды."
 "<c=@abilitytype>Tome.</c> Recall the memory of fallen heroes, granting allies the searing blades of justice.","<c=@abilitytype>Том.</c> Воскрешает память о павших героях, даруя союзникам жгучие клинки правосудия."
 "<c=@abilitytype>Tome.</c> Recount the stand of Elonian loyalists against Palawa Joko, granting resistance to your allies.","<c=@abilitytype>Том.</c> Повествует о том, как элонские верноподданные выстояли против Палавы Джоко, даруя вашим союзникам сопротивляемость."
-"<c=@abilitytype>Tome.</c> Roused by tales of mythical Sunspear charges, ground and motivate allies before you.","<c=@abilitytype>Том.</c> Воодушевившись преданиями о легендарных атаках Солнечных Копий, укрепляет и воодушевляет союзников перед вами."
+"<c=@abilitytype>Tome.</c> Roused by tales of mythical Sunspear charges, ground and motivate allies before you.","<c=@abilitytype>Том.</c> Воодушевившись преданиями о легендарных атаках Солнечных копий, укрепляет и воодушевляет союзников перед вами."
 <c=@abilitytype>Trap.</c> Lay a trap that creates a ring of weapons that punishes enemies that attempt to cross their threshold.,"<c=@abilitytype>Ловушка.</c> Установите ловушку, создающую кольцо клинков, которое карает врагов, пытающихся пересечь его границу."
 <c=@abilitytype>Trap.</c> Set a trap. You vanish in stealth and shadowstep back to the trap when it is triggered.,"<c=@abilitytype>Ловушка.</c> Установите ловушку. Вы исчезаете в невидимости и теневым шагом возвращаетесь к ловушке, когда она срабатывает."
-"<c=@flavor>""Skritt rip these out of the mines all the time. Looks like this one survived the explosion. The skritt didn't.""<br>—Faithspotter</c>","<c=@flavor>«Скритты постоянно вырывают такое из шахт. Похоже, эта штука пережила взрыв. А скритты — нет».<br>—Верохранитель</c>"
+"<c=@flavor>""Skritt rip these out of the mines all the time. Looks like this one survived the explosion. The skritt didn't.""<br>—Faithspotter</c>","<c=@flavor>«Скритты постоянно вырывают такое из шахт. Похоже, эта штука пережила взрыв. А скритты — нет».<br>—Веровид</c>"
 "<c=@flavor>""Sometimes it's not what the leaders say publicly that shapes the outcome. A memo by an assistant can mean the difference between war and peace.""<br>—Kai</c>","<c=@flavor>«Иногда исход определяет не то, что вожди говорят публично. Записка помощника может значить разницу между войной и миром».<br>—Кай</c>"
 "<c=@flavor>""The writing in these are ancient and beautiful. Makes you wonder what else was lost when Ascalon fell.""<br>—Jinell</c>","<c=@flavor>«Письмена здесь древние и прекрасные. Поневоле задумаешься, что ещё было утрачено с падением Аскалона».<br>—Джинелл</c>"
 "<c=@flavor>""These crystals have some kind of energy. I've modified a standard bow with them. Let me know how it works.""<br>—Olenn</c>","<c=@flavor>«В этих кристаллах есть какая-то энергия. Я переделал ими обычный лук. Расскажи, как он себя покажет».<br>—Оленн</c>"
@@ -277,7 +277,7 @@ A Risen armada has blocked passage for the Pact's submarines.,Армада во�
 A Risen shark forced us to abandon our exploration. Someone kill it!,Восставшая акула вынудила нас прервать разведку. Убейте её кто-нибудь!
 A Selection of Children's Rhymes and Verses,Сборник детских стишков и потешек
 A Vigil assault team is escorting explosives to Barrowstead.,Штурмовая группа Дозора сопровождает взрывчатку в Курганное Подворье.
-A Vigil assault team is heading toward Coiled Watch.,Штурмовая группа Дозора движется к Свернувшемуся Дозору.
+A Vigil assault team is heading toward Coiled Watch.,Штурмовая группа Дозора движется к Свёрнутому дозору.
 A beautiful blend of talents.,Прекрасное сочетание талантов.
 A bit of the code my sire's letter mentioned. I'll take note.,"Кусочек кода, о котором говорилось в письме моего родителя. Возьму на заметку."
 A blue player has marked you for their team and will now track you. Stealthing for long durations will cause you to be revealed.,Синий игрок пометил вас для своей команды и теперь будет отслеживать. Долгое пребывание в невидимости выдаст вас.
@@ -288,9 +288,9 @@ A brilliant ember.,Яркий уголёк.
 A broodmother is down by the dam! Hurry! Kill it before someone gets eaten.,"Матка внизу у плотины! Скорее! Убейте её, пока кого-нибудь не сожрали."
 A bunch of bandits are trying to sabotage the pump house!,Кучка бандитов пытается вывести из строя насосную станцию!
 A bustling market is a thing of beauty.,Оживлённый рынок — это прекрасно.
-"A cacaphony of growls and snarls comes from behind the gates, and the scent of blood is heavy in the air. Are you ready for the challenge?","Из-за ворот доносится какофония рычания и рыка, а в воздухе тяжёло висит запах крови. Готов принять вызов?"
+"A cacaphony of growls and snarls comes from behind the gates, and the scent of blood is heavy in the air. Are you ready for the challenge?","Из-за ворот доносится какофония рычания и рыка, а в воздухе тяжело висит запах крови. Готов принять вызов?"
 A challenge well met.,Вызов принят достойно.
-A challenger has entered the ring. You may assist them if you wish. Failure to work together may be dangerous.,На арену вышёл претендент. При желании можете ему помочь. Неумение действовать сообща может выйти боком.
+A challenger has entered the ring. You may assist them if you wish. Failure to work together may be dangerous.,На арену вышел претендент. При желании можете ему помочь. Неумение действовать сообща может выйти боком.
 A chance is all I need.,Мне нужен всего один шанс.
 "A chance to escape...yes! Riannoc, I want to live. I have to get out of here. I don't want to die!","Шанс сбежать... да! Рианнок, я хочу жить. Мне надо выбраться отсюда. Я не хочу умирать!"
 "A charr! It's building some nefarious device—surely the vanguard of an invasion. Brothers and sisters, to arms! For Ascalon!","Чарр! Он собирает какое-то зловещее устройство — наверняка это авангард вторжения. Братья и сёстры, к оружию! За Аскалон!"
@@ -339,7 +339,7 @@ A glorious combination of skill.,Великолепное сочетание у�
 A good scratch behind the ears goes a long way. Just saying...,Хорошо почесать за ушами — уже полдела. Просто к слову...
 "A good thing. At least, I hope so. Do you know how important this place is? This is where the Seraph base their attacks on the centaurs from. I'm honored to be here.","Это хорошо. По крайней мере, я на это надеюсь. Ты вообще знаешь, насколько важно это место? Отсюда Серафимы наносят удары по кентаврам. Для меня честь быть здесь."
 "A great day for the carnival. Come, enjoy!","Отличный день для карнавала. Заходи, веселись!"
-A great wurm has awoken in the heart of Wychmire Swamp. Defeat it to restore balance!,"В сердце Ведьмовской Топи пробудился великий вурм. Победите его, чтобы восстановить равновесие!"
+A great wurm has awoken in the heart of Wychmire Swamp. Defeat it to restore balance!,"В сердце Болота Вичмайр пробудился великий вурм. Победите его, чтобы восстановить равновесие!"
 A great wurm! My dolyaks will be eaten for sure.,Великий вурм! Моих дольяков точно сожрут.
 A green player has marked you for their team and will now track you. Stealthing for long durations will cause you to be revealed.,Зелёный игрок пометил вас для своей команды и теперь будет отслеживать. Долгое пребывание в невидимости выдаст вас.
 A harmless melee weapon. Hold to enter costume brawl and score points with attacks.,"Безобидное оружие ближнего боя. Держите его, чтобы вступить в костюмированную потасовку и набирать очки атаками."
@@ -377,10 +377,10 @@ A meal today means no travel tomorrow.,Поесть сегодня — знач�
 "A mighty swordsman can match two or three foes, and yet Xavier Sharpstone held against seven.","Могучий мечник может выстоять против двоих-троих, но Ксавье Острокамень держался против семерых."
 A miniature flag with the Ash Legion symbol on it marks this spot.,Это место отмечено миниатюрным флажком с символом Пепельного легиона.
 "A monarch's military triumphs would be commemorated on tiles inside their tomb, honoring both the victorious and the fallen.","Военные триумфы монарха увековечивали на плитах внутри гробницы, чествуя и победителей, и павших."
-"A monument of burled obsidian erected at the site of the fabled last stand of Veruta Hurtstorm, who—although outnumbered ten to one—held the Flame Legion's Noxious Castrum for ten days before succumbing.","Монумент из свилеватого обсидиана, воздвигнутый на месте легендарного последнего боя Веруты Больнобури, которая — при десятикратном превосходстве врага — десять дней удерживала Ядовитый Каструм Легиона Пламени, прежде чем пала."
+"A monument of burled obsidian erected at the site of the fabled last stand of Veruta Hurtstorm, who—although outnumbered ten to one—held the Flame Legion's Noxious Castrum for ten days before succumbing.","Монумент из свилеватого обсидиана, воздвигнутый на месте легендарного последнего боя Веруты Увечешторм, которая — при десятикратном превосходстве врага — десять дней удерживала Ядовитый Каструм Легиона Пламени, прежде чем пала."
 A mother spider is consumed by her children...,Паучиху-мать пожирают её же дети...
 "A mound of stones lies undisturbed in this quiet grotto. Plants grow from the crevices, and bugs go about their business on the rocks.","В этом тихом гроте нетронутой лежит груда камней. Из расщелин пробиваются растения, а по камням снуют по своим делам жуки."
-"A musician of immense skill and passion, Van Leopard penned many of Tyria's greatest hits. Here is a sampling of his work to commemorate his contributions.","Музыкант огромного мастерства и страсти, Ван Леопард написал многие из величайших хитов Тирии. Вот подборка его работ в память о его вкладе."
+"A musician of immense skill and passion, Van Leopard penned many of Tyria's greatest hits. Here is a sampling of his work to commemorate his contributions.","Музыкант огромного мастерства и страсти, Ван Леопард написал многие из величайших шлягеров Тирии. Вот подборка его работ в память о его вкладе."
 A mysterious portal swirls in front of you.,Перед вами кружится загадочный портал.
 A natural barrier.,Естественная преграда.
 A necrotic field is shielding the Awakened Inquest facility.,Некротическое поле прикрывает объект Инквеста Пробуждённых.
@@ -427,7 +427,7 @@ A shot that can be reused quickly but can only destroy one target at a time.,"В
 "A shot that fans out to the sides, capable of striking more than one target.","Выстрел веером в стороны, способный поразить больше одной цели."
 A sign on the device reads: Spherical Cephalic Interspecies Exo Neuro Collection Engine. There's an image depicting waves emanating from skritt and traveling toward the device.,"Надпись на устройстве гласит: «Сферический головной межвидовой экзонейросборочный движок». Рядом изображены волны, исходящие от скриттов и идущие к устройству."
 "A simple ""yes"" would've sufficed. Now, don't botch the activation. You have no idea how much these aetherovariation modules cost.","Хватило бы и простого «да». А теперь не испорти активацию. Ты хоть представляешь, сколько стоят эти эфировариационные модули?"
-"A simple memorial marks the final resting place of Ascalonian hero and Ebon Vanguard commander, Gwen Thackeray—loving wife of Lieutenant Kieran Thackeray and ancestor to Captain Logan Thackeray.",Скромный памятник отмечает место последнего упокоения аскалонской героини и командующей Чёрным Авангардом Гвен Такери — любящей жены лейтенанта Кирана Такери и прародительницы капитана Логана Такери.
+"A simple memorial marks the final resting place of Ascalonian hero and Ebon Vanguard commander, Gwen Thackeray—loving wife of Lieutenant Kieran Thackeray and ancestor to Captain Logan Thackeray.",Скромный памятник отмечает место последнего упокоения аскалонской героини и командующей Эбоновым Авангардом Гвен Теккерей — любящей жены лейтенанта Кирана Теккерей и прародительницы капитана Логана Теккерей.
 A sinister presence can be felt. The air grows colder and carries a hint of rotten blood.,Ощущается зловещее присутствие. Воздух холодает и несёт запах гнилой крови.
 A small blue moa. Or is it?,Маленький синий моа. Или нет?
 A small jungle boar. Or is it?,Маленький джунглевый кабан. Или нет?
@@ -439,7 +439,7 @@ A small victory for the Priory.,Небольшая победа Приората
 A soothing mist.,Умиротворяющий туман.
 A souvenir from Maguuma's depths.,Сувенир из глубин Магуумы.
 A sparring match is currently taking place in the arena.,На арене сейчас идёт учебный поединок.
-A spirit summoned by a member of the Speakers has temporarily shorted out your flashlight.,"Дух, призванный кем-то из Глашатаев, временно вывел из строя ваш фонарь."
+A spirit summoned by a member of the Speakers has temporarily shorted out your flashlight.,"Дух, призванный кем-то из Спикеров, временно вывел из строя ваш фонарь."
 A splendid combination!,Великолепное сочетание!
 A stalactite bombed from the ceiling that causes impact damage and stuns.,"Сталактит, сброшенный с потолка: наносит урон от удара и оглушает."
 "A statue of a Forgotten sits within the crystal. Once a source of great power, the statue now sits drained.","Внутри кристалла заключена статуя Забытого. Некогда источник великой силы, теперь статуя иссякла."
