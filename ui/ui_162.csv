@@ -324,8 +324,8 @@ Window Console,Окно консоли
 Window[s],[Окно|Окна|Окон]
 Windowed - %str1%,Оконный режим - %str1%
 Windowed Fullscreen,Оконный полноэкранный режим
-Windowed Wall[s] (600 x 240),Оконная стен[а|ы|] (600 x 240)
-Windowed Wall[s] (960 x 240),Оконная стен[а|ы|] (960 x 240)
+Windowed Wall[s] (600 x 240),[Стена|Стены|Стен] с окном (600 x 240)
+Windowed Wall[s] (960 x 240),[Стена|Стены|Стен] с окном (960 x 240)
 Windowmakers Thugs,Головорезы Оборотней
 Winds of Change,Ветра перемен
 "Winds of the Garden[pl:""Garden""]",Ветры Сада
