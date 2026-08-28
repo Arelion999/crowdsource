@@ -128,14 +128,14 @@ english,translate
 +%num1%%% Outgoing Damage,+%num1%%% к исходящему урону
 +%num1%/Tick,+%num1%/тик
 +1 Agony Infusion Upgrades,+1 улучшение инфузии агонии
-+1 Agony Infusion[s],+1 инфузия агонии
++1 Agony Infusion[s],[Инфузия|Инфузии|Инфузий] агонии +1
 +1 Agony Resistance,+1 Сопротивление агонии
 +1%% bonus to kill experience.,+1%% бонусного опыта за убийства.
 +1%% Boon Duration+5 Agony Resistance,+1%% Длительность благодати+5 Сопротивление агонии
 +1%% Condition Damage,+1%% Урон от состояний
 +1%% Critical Chance,+1%% Шанс крит. удара
 +1%% Damage,+1%% Урон
-+10 Agony Infusion[s],+10 инфузий агонии
++10 Agony Infusion[s],[Инфузия|Инфузии|Инфузий] агонии +10
 +10 Agony Resistance,+10 Сопротивление агонии
 +10 Concentration,+10 Концентрация
 +10 Condition Damage,+10 Урон от состояний
@@ -288,7 +288,7 @@ english,translate
 +100 Vitality+70 Toughness+10%% Experience from Kills,+100 Живучесть+70 Стойкость+10%% Опыт за убийства
 +100 vitality20%% magic find+10 experience from kills,+100 Живучесть20%% Поиск магии+10 опыт за убийства
 +100%% Downed Health+20%% Damage While Downed+10%% Experience from Kills,+100%% Здоровье поверженного+20%% Урон в поверженном состоянии+10%% Опыт за убийства
-+11 Agony Infusion[s],+11 инфузий агонии
++11 Agony Infusion[s],[Инфузия|Инфузии|Инфузий] агонии +11
 +11 Agony Resistance,+11 Сопротивление агонии
 +11 Condition Damage+8 Power+8 Vitality,+11 Урон от состояний+8 Сила+8 Живучесть
 +11 Condition Damage+8 Precision+8 Toughness,+11 Урон от состояний+8 Точность+8 Стойкость
@@ -300,7 +300,7 @@ english,translate
 +11 Precision+8 Condition Damage+8 Power,+11 Точность+8 Урон от состояний+8 Сила
 +11 Precision+8 Ferocity+8 Power,+11 Точность+8 Свирепость+8 Сила
 +11 Precision+8 Toughness+8 Power,+11 Точность+8 Стойкость+8 Сила
-+12 Agony Infusion[s],+12 инфузий агонии
++12 Agony Infusion[s],[Инфузия|Инфузии|Инфузий] агонии +12
 +12 Agony Resistance,+12 Сопротивление агонии
 +12 Condition Damage+12 Precision+12 Toughness+12 Power+12 Vitality+12 Healing Power+12 Ferocity,+12 Урон от состояний+12 Точность+12 Стойкость+12 Сила+12 Живучесть+12 Сила исцеления+12 Свирепость
 +12 Ferocity+10%% Experience from kills,+12 Свирепость+10%% Опыт за убийства
@@ -331,11 +331,11 @@ english,translate
 +125 Toughness+75 Condition Damage+75 Healing Power,+125 Стойкость+75 Урон от состояний+75 Сила исцеления
 +125 Vitality,+125 Живучесть
 +125 Vitality+75 Power+75 Precision,+125 Живучесть+75 Сила+75 Точность
-+13 Agony Infusion[s],+13 инфузий агонии
++13 Agony Infusion[s],[Инфузия|Инфузии|Инфузий] агонии +13
 +13 Agony Resistance,+13 Сопротивление агонии
 +13 Condition Damage+13 Precision+13 Toughness+13 Power+13 Vitality+13 Healing Power+13 Ferocity+13 Concentration+13 Expertise,+13 Урон от состояний+13 Точность+13 Стойкость+13 Сила+13 Живучесть+13 Сила исцеления+13 Свирепость+13 Концентрация+13 Экспертиза
 +13 Condition Damage+13 Precision+13 Toughness+13 Power+13 Vitality+13 Healing Power+13 Ferocity+5 Agony Resistance,+13 Урон от состояний+13 Точность+13 Стойкость+13 Сила+13 Живучесть+13 Сила исцеления+13 Свирепость+5 Сопротивление агонии
-+14 Agony Infusion[s],+14 инфузий агонии
++14 Agony Infusion[s],[Инфузия|Инфузии|Инфузий] агонии +14
 +14 Agony Resistance,+14 Сопротивление агонии
 +14 Condition Damage,+14 Урон от состояний
 +14 Condition Damage+10 Power+10 Vitality,+14 Урон от состояний+10 Сила+10 Живучесть
@@ -366,7 +366,7 @@ english,translate
 +14 Vitality,+14 Живучесть
 +14 Vitality+10 Healing+10 Power,+14 Живучесть+10 Исцеление+10 Сила
 +14 Vitality+10 Power+10 Toughness,+14 Живучесть+10 Сила+10 Стойкость
-+15 Agony Infusion[s],+15 инфузий агонии
++15 Agony Infusion[s],[Инфузия|Инфузии|Инфузий] агонии +15
 +15 Agony Resistance,+15 Сопротивление агонии
 +15 Condition Damage,+15 Урон от состояний
 +15 Ferocity,+15 Свирепость
@@ -404,7 +404,7 @@ english,translate
 +150 Precision+10%% Experience from Kills,+150 Точность+10%% Опыт за убийства
 +150 toughness,+150 Стойкость
 +150 Vitality+10%% Experience from Kills,+150 Живучесть+10%% Опыт за убийства
-+16 Agony Infusion[s],+16 инфузий агонии
++16 Agony Infusion[s],[Инфузия|Инфузии|Инфузий] агонии +16
 +16 Agony Resistance,+16 Сопротивление агонии
 +16 Condition Damage+10 Power+10 Vitality,+16 Урон от состояний+10 Сила+10 Живучесть
 +16 Healing+10 Power+10 Toughness,+16 Исцеление+10 Сила+10 Стойкость
@@ -418,7 +418,7 @@ english,translate
 +160 Condition Damage for 30 Seconds on Kill+60 Precision+10%% Experience from Kills,+160 Урон от состояний на 30 секунд при убийстве+60 Точность+10%% Опыт за убийства
 +160 Power for 30 Seconds on Kill +60 Ferocity+10%% Experience from Kills,+160 Сила на 30 секунд при убийстве +60 Свирепость+10%% Опыт за убийства
 +160 Power for 30 Seconds on Kill+60 Ferocity,+160 Сила на 30 секунд при убийстве+60 Свирепость
-+17 Agony Infusion[s],+17 инфузий агонии
++17 Agony Infusion[s],[Инфузия|Инфузии|Инфузий] агонии +17
 +17 Agony Resistance,+17 Сопротивление агонии
 +17 Condition Damage+17 Power+9 Expertise+9 Precision,+17 Урон от состояний+17 Сила+9 Экспертиза+9 Точность
 +17 Condition Damage+17 Vitality+9 Concentration+9 Expertise,+17 Урон от состояний+17 Живучесть+9 Концентрация+9 Экспертиза
@@ -433,7 +433,7 @@ english,translate
 +17 Toughness+17 Condition Damage+9 Expertise+9 Vitality,+17 Стойкость+17 Урон от состояний+9 Экспертиза+9 Живучесть
 +17 Toughness+17 Healing+9 Concentration+9 Vitality,+17 Стойкость+17 Исцеление+9 Концентрация+9 Живучесть
 +17%% Strike Damage vs. Dragon Bash Holograms+3%% Strike Damage,+17%% Урон от ударов по голограммам Dragon Bash+3%% Урон от ударов
-+18 Agony Infusion[s],+18 инфузий агонии
++18 Agony Infusion[s],[Инфузия|Инфузии|Инфузий] агонии +18
 +18 Agony Resistance,+18 Сопротивление агонии
 +18 Condition Damage+12 Power+12 Vitality,+18 Урон от состояний+12 Сила+12 Живучесть
 +18 Healing+12 Condition Damage+12 Toughness,+18 Исцеление+12 Урон от состояний+12 Стойкость
@@ -447,13 +447,13 @@ english,translate
 +18 Toughness+12 Healing Power+12 Concentration,+18 Стойкость+12 Сила исцеления+12 Концентрация
 +18 Vitality+12 Power+12 Toughness,+18 Живучесть+12 Сила+12 Стойкость
 +18%% Magic Find+150 Fishing Power+10%% Experience from Kills,+18%% Поиск магии+150 Сила рыбалки+10%% Опыт за убийства
-+19 Agony Infusion[s],+19 инфузий агонии
++19 Agony Infusion[s],[Инфузия|Инфузии|Инфузий] агонии +19
 +19 Agony Resistance,+19 Сопротивление агонии
-+2 Agony Infusion[s],+2 инфузии агонии
++2 Agony Infusion[s],[Инфузия|Инфузии|Инфузий] агонии +2
 +2 Agony Resistance,+2 Сопротивление агонии
 +2%% Boon Duration,+2%% Длительность благодати
 +2%% Condition Duration,+2%% Длительность состояний
-+20 Agony Infusion[s],+20 инфузий агонии
++20 Agony Infusion[s],[Инфузия|Инфузии|Инфузий] агонии +20
 +20 Agony Resistance,+20 Сопротивление агонии
 +20 Concentration,+20 Концентрация
 +20 condition damage+10%% experience from kills,+20 Урон от состояний+10%% опыт за убийства
