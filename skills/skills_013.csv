@@ -55,7 +55,7 @@ Strike foes in front of you with a storm of jabs.,Обрушить на прот
 "Strike nearby enemies, inflicting cripple. Gain barrier for each target struck. <c=@reminder>Barrier is reduced for each target struck beyond the first.</c>","Ударьте по ближайшим врагам, накладывая калечение. Получите барьер за каждую пораженную цель. <c=@reminder>Барьер уменьшается за каждую пораженную цель после первой.</c>"
 "Strike nearby enemies, inflicting damage. Deals increased damage to disabled or defiant enemies.
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Наносит урон ближайшим врагам. Наносит увеличенный урон ослабленным или находящимся в состоянии защиты врагам.
-<c=@reminder>Ослабление включает оглушение, дезориентацию, отбрасывание, притягивание, нокдаун, погружение, подъём, отталкивание, насмешку и страх.</c>"
+<c=@reminder>Ослабление включает оглушение, ошеломление, отталкивание, притягивание, нокдаун, погружение, всплытие, отбрасывание, провокацию и страх.</c>"
 "Strike nearby foes and begin to store up energy, gaining boons and heat each pulse. After charging, the energy explodes, inflicting conditions on nearby foes.","Поразите ближайших врагов и начните накапливать энергию, получая благословения и нагрев с каждым импульсом. После зарядки энергия взрывается, накладывая состояния на ближайших врагов."
 "Strike nearby foes with your radiant hammer, dealing increased damage against foes that are disabled.","Поразите ближайших врагов своим сияющим молотом, нанося увеличенный урон врагам, находящимся под эффектами контроля."
 "Strike nearby foes, pushing them back.","Поразите ближайших врагов, отталкивая их."
@@ -150,7 +150,7 @@ Summon a school of undead fish to swarm your foe.,"Призвать косяк �
 Summon a skritt to pilfer artifacts.,"Призвать скритта, чтобы похитить артефакты."
 "Summon a swirling spore cloud around your pet, destroying projectiles and chilling disabled or defiant enemies.
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Создайте вокруг своего питомца вращающееся облако спор, уничтожающее снаряды и замораживающее обездвиженных или сопротивляющихся врагов.
-<c=@reminder>Обездвиживание включает в себя оглушение, дезориентацию, отбрасывание, притягивание, нокдаун, погружение, подъём, подброс, насмешку и страх.</c>"
+<c=@reminder>Обездвиживание включает в себя оглушение, ошеломление, отталкивание, притягивание, нокдаун, погружение, всплытие, отбрасывание, провокацию и страх.</c>"
 Summon a sylvan hound to fight at your side.,"Призвать лесную гончую, чтобы она сражалась на вашей стороне."
 Summon a well of blood to heal nearby allies.,"Призвать колодец крови, чтобы исцелить ближайших союзников."
 Summon a wurm to fight for you.,"Призвать червя, чтобы он сражался за вас."

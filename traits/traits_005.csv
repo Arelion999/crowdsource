@@ -12,7 +12,7 @@ Striking a foe with vulnerability increases your critical hit chance.,Удар �
 Disabling a foe triggers Controlled Analysis.
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Удар по скрытому врагу активирует Невидимый анализ.
 Обездвиживание врага активирует Контролируемый анализ.
-<c=@reminder>Обездвиживания включают оглушение, ошеломление, отбрасывание, притягивание, нокдаун, погружение, всплытие, подбрасывание, провокацию и страх.</c>"
+<c=@reminder>Обездвиживания включают оглушение, ошеломление, отталкивание, притягивание, нокдаун, погружение, всплытие, отбрасывание, провокацию и страх.</c>"
 Striking an enemy tethered by your Spear of Justice inflicts vulnerability and increases strike damage dealt. Tether duration is increased.,"Удары по противникам, связанным вашим Копьём Справедливости, вызывают уязвимость и наносят увеличенный прямой урон. Длительность привязи увеличена."
 Striking an enemy with the damaging effect from Virtue skill 1 casts Lesser Signet of Wrath.,"Урон, нанесенный противнику 1-м умением Добродетели, активирует Lesser Signet of Wrath."
 Striking foes within the range threshold deals increased strike damage and heals you for a portion of the damage dealt.,"Удары по противникам, находящимся не дальше порога дистанции, наносят повышенный прямой урон и исцеляют вас на часть нанесенного урона."
@@ -330,7 +330,7 @@ You and nearby allies recover health while you are attuned to water.,"Вы и с
 You and your nearby allies siphon health with attacks. This effect increases while in Shroud.,"Вы и союзники поблизости высасываете здоровье при атаках. Этот эффект усиливается, пока вы находитесь в Саване."
 "You and your pet deal increased strike damage to disabled, defiant, or movement-impaired foes.
 <c=@reminder>Affected conditions are stun, taunt, daze, cripple, fear, immobilize, and chilled.</c>","Вы и ваш питомец наносите повышенный урон атаками врагам, находящимся под действием эффектов контроля, сопротивления или замедления.
-<c=@reminder>Затронутые состояния включают: оглушение, насмешку, ошеломление, замедление, страх, обездвиживание и заморозку.</c>"
+<c=@reminder>Затронутые состояния включают: оглушение, провокацию, ошеломление, хромоту, страх, неподвижность и заморозку.</c>"
 "You and your pet gain ferocity. Axe skills gain reduced recharge, and you gain additional ferocity while wielding an axe.","Вы и ваш питомец получаете стойкость. Навыки топора получают сниженное время восстановления, а вы получаете дополнительную стойкость при использовании топора."
 You and your pet gain increased concentration. Regeneration you apply is more effective.,Концентрация у вас и у вашего питомца увеличена. Даруемая вами Регенерация более эффективна.
 You and your pet gain power. Gain additional power while wielding a sword. Successfully evading an attack grants might.,Вы и ваш питомец получаете силу. Получаете дополнительную силу при использовании меча. Успешное уклонение от атаки даёт мощь.
@@ -398,7 +398,7 @@ Your conditions do increased damage and have increased duration. Your concentrat
 "Your conditions last longer, and your damage is increased.","Длительность ваших состояний увеличена, а ваш урон увеличен."
 "Your critical hits deal more damage. Critical hit damage against disabled foes, or foes below the health threshold, is further increased.
 <c=@reminder>Disabled foes are affected by stun, daze, knockback, pull, knockdown, sink, float, fear, taunt, or launch.","Ваши критические удары наносят больше урона. Урон от критических ударов по врагам под действием эффектов контроля или врагам с уровнем здоровья ниже порогового дополнительно увеличен.
-<c=@reminder>Враги под действием эффектов контроля — это те, на кого действуют оглушение, ошеломление, отбрасывание, притягивание, нокдаун, погружение, всплытие, страх, насмешка или подбрасывание."
+<c=@reminder>Враги под действием эффектов контроля — это те, на кого действуют оглушение, ошеломление, отталкивание, притягивание, нокдаун, погружение, всплытие, страх, провокация или отбрасывание."
 Your critical strikes have a chance to inflict a condition based on your attunement.,Ваши критические попадания получают шанс вызвать состояние в зависимости от используемой Стихии.
 Your critical-strike chance and critical damage are increased against foes that are below the health threshold.,"Шанс на критическое попадание и критический урон увеличиваются против врагов, чье здоровье ниже порога."
 Your critical-strike chance is increased.,Ваш шанс критического удара увеличен.

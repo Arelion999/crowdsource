@@ -302,7 +302,7 @@ Restorative Virtues,Восстанавливающие добродетели
 Restore arrows when you or your pet disable an enemy.,"Вы получаете стрелы, когда вы или ваш питомец выводите противника из строя."
 "Retain <c=@abilitytype>Courage</c> passive while it is on cooldown. Grant boons to nearby allies when you disable, immobilize, or slow an enemy.
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Сохраняет пассивный эффект <c=@abilitytype>Мужества</c>, пока он на перезарядке. Дарует благословения ближайшим союзникам, когда вы накладываете эффекты контроля, обездвиживания или замедления на врага.
-<c=@reminder>Эффекты контроля включают оглушение, ошеломление, отбрасывание, притягивание, нокдаун, погружение, подъём, подбрасывание, провокацию и страх.</c>"
+<c=@reminder>Эффекты контроля включают оглушение, ошеломление, отталкивание, притягивание, нокдаун, погружение, всплытие, отбрасывание, провокацию и страх.</c>"
 Retain <c=@abilitytype>Justice</c> passive while it is on cooldown. Granting quickness to an ally also grants Ashes of the Just.,"Сохраняет пассивный эффект <c=@abilitytype>Справедливости</c>, пока он на перезарядке. Дарование стремительности союзнику также даёт Пепел Справедливых."
 Retain <c=@abilitytype>Resolve</c> passive while it is on cooldown. You generate pages more quickly.,"Сохраняет пассивный эффект <c=@abilitytype>Решимости</c>, пока он на перезарядке. Вы создаете страницы быстрее."
 Revealed Training,Тренировка обнаружения
@@ -473,7 +473,7 @@ Steal boons from enemies you strike with <c=@abilitytype>stealth attacks</c>. St
 Steal health and gain shadow force when you torment a foe.,"Крадет здоровье и даёт силу тени, когда вы накладываете боль на врага."
 "Steal health from enemies when you or your pet disable them.
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Крадет здоровье у врагов, когда вы или ваш питомец накладываете на них эффекты контроля.
-<c=@reminder>Эффекты контроля включают оглушение, ошеломление, отбрасывание, притягивание, нокдаун, погружение, всплытие, подбрасывание, провокацию и страх.</c>"
+<c=@reminder>Эффекты контроля включают оглушение, ошеломление, отталкивание, притягивание, нокдаун, погружение, всплытие, отбрасывание, провокацию и страх.</c>"
 "Steal is replaced with Deadeye's Mark, which unlocks new Stolen skills and malice generation. Stealth attacks consume malice for bonus effects. Gain access to rifles and cantrips.","Кража заменяется на Метку меткого стрелка, которая открывает новые украденные навыки и генерацию злобы. Атаки из невидимости расходуют злобу для получения бонусных эффектов. Открывает доступ к винтовкам и уловкам."
 "Steal is replaced with Skritt Swipe, allowing you to pilfer from enemies. Successfully pilfering grants one offensive and one defensive artifact. Only one artifact may be used each time you pilfer, and pilfering overrides any artifacts you already have.","Кража заменяется на Удар скритта, позволяющий обворовывать врагов. Успешная кража даёт один атакующий и один защитный артефакт. Каждый раз можно использовать только один артефакт, а новая кража заменяет уже имеющиеся."
 Steal.,Кража.

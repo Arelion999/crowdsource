@@ -21,7 +21,7 @@ Gain protection after a successful Full Counter.,Вам даруется про�
 Gain protection when activating a <c=@abilitytype>Stance</c>. Activate Lesser Stone Resonance when using an elite skill.,Получайте протекцию при активации <c=@abilitytype>Стойки</c>. Активируйте Малый каменный резонанс при использовании элитного навыка.
 "Gain protection when you are disabled.
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.","Получайте протекцию, когда вас выводят из строя.
-<c=@reminder>Вывод из строя включает оглушение, ошеломление, отбрасывание, притягивание, нокдаун, погружение, подбрасывание, запуск, провокацию и страх."
+<c=@reminder>Вывод из строя включает оглушение, ошеломление, отталкивание, притягивание, нокдаун, погружение, всплытие, отбрасывание, провокацию и страх."
 Gain protection when you block an incoming attack with aegis.,"Вам даруется протекция, когда вы блокируете атаку с помощью Эгиды."
 Gain protection when you use a healing skill.,Вам даруется протекция при использовании исцеляющего умения.
 "Gain protection when you use your profession skill 2.
@@ -43,7 +43,7 @@ Gain resistance when you invoke a legend.,"Вам даруется сопрот�
 Gain resolution after you dodge.,Вам даруется решимость после уворота.
 "Gain resolution and aegis when disabled.
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Получайте решимость и эгиду при выводе из строя.
-<c=@reminder>Вывод из строя включает оглушение, ошеломление, отбрасывание, притягивание, нокдаун, погружение, подбрасывание, запуск, провокацию и страх.</c>"
+<c=@reminder>Вывод из строя включает оглушение, ошеломление, отталкивание, притягивание, нокдаун, погружение, всплытие, отбрасывание, провокацию и страх.</c>"
 Gain resolution when using a heal skill.,"Вам даруется решимость, когда вы используете исцеляющее умение."
 Gain resolution when you activate a <c=@abilitytype>Virtue</c>. Resolution you grant has increased duration.,Получайте решимость при активации <c=@abilitytype>Добродетели</c>. Длительность даруемой вами решимости увеличена.
 Gain resolution when you use invoke a legend.,"Вам даруется решимость, когда вы взываете к легенде."
@@ -53,7 +53,7 @@ Gain stability and heal yourself when you break stuns.,"Вы даруете се
 Gain stability and swiftness when starting an <c=@abilitytype>overload</c>.,Получить Устойчивость и Быстроту при начале форсажа. <c=@abilitytype>перегрузки</c>.
 "Gain stability when disabling an enemy. Deal increased strike damage to disabled, exposed, or defiant foes.
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Получайте устойчивость при выводе врага из строя. Наносите увеличенный урон от ударов выведенным из строя, уязвимым или непокорным врагам.
-<c=@reminder>Вывод из строя включает оглушение, ошеломление, отбрасывание, притягивание, нокдаун, погружение, подбрасывание, запуск, провокацию и страх.</c>"
+<c=@reminder>Вывод из строя включает оглушение, ошеломление, отталкивание, притягивание, нокдаун, погружение, всплытие, отбрасывание, провокацию и страх.</c>"
 Gain stability when you disable a foe. Deal increased strike damage while you have stability.,"Вам даруется устойчивость, когда вы выводите противника из строя. Вы наносите повышенный прямой урон, пока у вас есть дар Устойчивости."
 Gain stability when you gain might at or above the threshold. Might grants bonus power.,Получайте стабильность при получении мощи на пороговом уровне или выше. Могущество даёт бонус к силе.
 Gain stability when you use a <c=@abilitytype>Shatter</c> skill. Grant an additional boon to nearby allies based on which <c=@abilitytype>Shatter</c> is used.,"Получайте устойчивость при использовании навыка <c=@abilitytype>Раскола</c>. Даруйте дополнительное благо ближайшим союзникам в зависимости от того, какой <c=@abilitytype>Раскол</c> был использован."
@@ -157,7 +157,7 @@ HGH,HGH
 Hammer Proficiency,Владение молотом
 "Hammer and mace skills deal increased damage when striking a disabled or defiant foe. Gain adrenaline when you disable a foe.
 <c=@reminder>Disables include stun, taunt, daze, knockback, pull, knockdown, sink, float, fear, and launch.</c>","Навыки молота и булавы наносят увеличенный урон по врагам с наложенными эффектами контроля или непокорности. Получайте адреналин при наложении эффекта контроля на врага.
-<c=@reminder>Эффекты контроля включают оглушение, провокацию, ошеломление, отбрасывание, притягивание, нокдаун, погружение, подбрасывание, страх и запуск.</c>"
+<c=@reminder>Эффекты контроля включают оглушение, провокацию, ошеломление, отталкивание, притягивание, нокдаун, погружение, всплытие, страх и отбрасывание.</c>"
 Hard to Catch,Трудноуловимый
 Hardened Armor,Закаленная броня
 Hardened Auras,Закаленные ауры

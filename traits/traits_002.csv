@@ -66,7 +66,7 @@ Deal increased strike damage to burning foes.,Вы наносите увелич
 Deal increased strike damage to crippled foes. Justice's passive effect cripples enemies.,Прямой урон по хромающим противникам увеличен. Пассивный эффект Добродетели Справедливости делает противников хромыми.
 "Deal increased strike damage to disabled or defiant foes. Outgoing stun duration increased. 
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Наносит увеличенный прямой урон врагам под действием эффектов контроля или непокорности. Длительность исходящего оглушения увеличена.
-<c=@reminder>Эффекты контроля включают оглушение, ошеломление, отбрасывание, притягивание, нокдаун, погружение, всплытие, подбрасывание, провокацию и страх.</c>"
+<c=@reminder>Эффекты контроля включают оглушение, ошеломление, отталкивание, притягивание, нокдаун, погружение, всплытие, отбрасывание, провокацию и страх.</c>"
 Deal increased strike damage to enemies below the health threshold.,"Вы наносите увеличенный прямой урон противникам, чье здоровье ниже порога."
 "Deal increased strike damage to foes above the health threshold. Also deal more damage to foes with barrier.
 <c=@reminder>Damage bonuses do not stack.</c>","Наносит увеличенный прямой урон врагам с уровнем здоровья выше порогового. Также наносит больше урона врагам с барьером.
@@ -80,7 +80,7 @@ Deal increased strike damage to foes with no boons. Focus and axe skills recharg
 Deal increased strike damage to targets based on their vulnerability stacks.,Наносимый вами прямой урон увеличивается за каждый стек уязвимости на цели.
 "Deal increased strike damage to weakened foes. Disabling a foe applies weakness.
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, fear, taunt, and launch.</c>","Наносит увеличенный прямой урон ослабленным врагам. Лишение врага дееспособности накладывает слабость.
-<c=@reminder>Эффекты контроля включают оглушение, ошеломление, отбрасывание, притягивание, нокдаун, погружение, всплытие, страх, провокацию и подбрасывание.</c>"
+<c=@reminder>Эффекты контроля включают оглушение, ошеломление, отталкивание, притягивание, нокдаун, погружение, всплытие, страх, провокацию и отбрасывание.</c>"
 Deal increased strike damage to your target for each unique condition on them.,Вы наносите повышенный прямой урон цели за каждое лежащее на ней уникальное состояние.
 Deal increased strike damage to weakened foes. <c=@abilitytype>Burst</c> skills inflict weakness. <c=@reminder>Can only occur once per interval per target for multihit burst skills.</c>,Наносите повышенный ударный урон ослабленным врагам. <c=@abilitytype>Навыки рывка</c> накладывают слабость. <c=@reminder>Может срабатывать не чаще одного раза за интервал на цель для многоударных навыков рывка.</c>
 Deal increased strike damage when your target is below the health threshold.,"Вы наносите повышенный прямой урон, когда здоровье вашей цели ниже порога."
@@ -130,25 +130,25 @@ Diamond Skin,Алмазная кожа
 Disable Damage,Урон от вывода из строя
 "Disabling a foe also applies vulnerability.
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Вывод врага из строя также накладывает уязвимость.
-<c=@reminder>Вывод из строя включает оглушение, ошеломление, отбрасывание, притягивание, нокдаун, погружение, подбрасывание, запуск, провокацию и страх.</c>"
+<c=@reminder>Вывод из строя включает оглушение, ошеломление, отталкивание, притягивание, нокдаун, погружение, всплытие, отбрасывание, провокацию и страх.</c>"
 "Disabling a foe applies conditions to that foe based on your current state.
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Вывод врага из строя накладывает на него состояния в зависимости от вашего текущего состояния.
-<c=@reminder>Вывод из строя включает оглушение, ошеломление, отбрасывание, притягивание, нокдаун, погружение, подбрасывание, запуск, провокацию и страх.</c>"
+<c=@reminder>Вывод из строя включает оглушение, ошеломление, отталкивание, притягивание, нокдаун, погружение, всплытие, отбрасывание, провокацию и страх.</c>"
 "Disabling a foe cripples your enemy, which leaves them vulnerable and inspires you with Kalla's Fervor.","Обездвиживание врага калечит его, делая уязвимым и вдохновляя вас на Пыл Каллы."
 "Disabling a foe grants barrier to nearby allies. Your function gyro dazes foes when cast. 
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Вывод врага из строя накладывает барьер на ближайших союзников. Ваш функциональный гироскоп ошеломляет врагов при использовании.
-<c=@reminder>Вывод из строя включает оглушение, ошеломление, отбрасывание, притягивание, нокдаун, погружение, подбрасывание, запуск, провокацию и страх.</c>"
+<c=@reminder>Вывод из строя включает оглушение, ошеломление, отталкивание, притягивание, нокдаун, погружение, всплытие, отбрасывание, провокацию и страх.</c>"
 "Disabling a foe grants you boons based on your current state.
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Вывод врага из строя накладывает на вас благословения в зависимости от вашего текущего состояния.
-<c=@reminder>Вывод из строя включает оглушение, ошеломление, отбрасывание, притягивание, нокдаун, погружение, подбрасывание, запуск, провокацию и страх.</c>"
+<c=@reminder>Вывод из строя включает оглушение, ошеломление, отталкивание, притягивание, нокдаун, погружение, всплытие, отбрасывание, провокацию и страх.</c>"
 Disabling a foe increases your damage and condition damage for a short duration.,Вывод противника из строя увеличивает на некоторое время ваш урон и урон от состояний.
 "Disabling a foe inflicts torment on them.
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Вывод врага из строя накладывает на него боль.
-<c=@reminder>Вывод из строя включает оглушение, ошеломление, отбрасывание, притягивание, нокдаун, погружение, подбрасывание, запуск, провокацию и страх.</c>"
+<c=@reminder>Вывод из строя включает оглушение, ошеломление, отталкивание, притягивание, нокдаун, погружение, всплытие, отбрасывание, провокацию и страх.</c>"
 "Disabling a foe slows them.
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>
 <c=@reminder>This trait can only affect the same enemy with once per interval.</c>","Вывод врага из строя замедляет его.
-<c=@reminder>Вывод из строя включает оглушение, ошеломление, отбрасывание, притягивание, нокдаун, погружение, подбрасывание, запуск, провокацию и страх.</c>
+<c=@reminder>Вывод из строя включает оглушение, ошеломление, отталкивание, притягивание, нокдаун, погружение, всплытие, отбрасывание, провокацию и страх.</c>
 <c=@reminder>Эта черта может воздействовать на одного и того же врага только один раз за интервал.</c>"
 Disabling an enemy reduces the cooldown of Evolve.,Вывод противника из строя уменьшает время перезарядки Изменения.
 Discharge a bolt of lightning whenever you use a tool belt skill.,"Вы выпускаете заряд электричества каждый раз, когда используете умение на Поясе Инженера."
@@ -401,7 +401,7 @@ Gain Elemental Empowerment and vigor when evading an attack.,"Вам даруе�
 Gain Elemental Empowerment while in combat.,"Пока вы находитесь в бою, на вас действует эффект Стихийного усиления."
 "Gain Insight when disabling foes or removing boons. Full Counter refreshes all <c=@abilitytype>burst</c> skills on hit.
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt and fear.","Получайте Проницательность при оглушении врагов или снятии благословений. Полный контратакующий удар обновляет все <c=@abilitytype>взрывные</c> навыки при попадании.
-<c=@reminder>Оглушения включают в себя стан, ошеломление, отбрасывание, притягивание, нокдаун, погружение, всплытие, подбрасывание, насмешку и страх."
+<c=@reminder>Оглушения включают в себя оглушение, ошеломление, отталкивание, притягивание, нокдаун, погружение, всплытие, отбрасывание, провокацию и страх."
 Gain Mirage Cloak instead of dodge rolling. <c=@abilitytype>Ambush</c> skills become available for a short time whenever you gain Mirage Cloak. Gain access to <c=@abilitytype>Deception</c> skills.,Получение «Миража» вместо уклонения перекатом. <c=@abilitytype>Засадные</c> умения становятся доступны на короткое время при получении «Миража». Доступ к <c=@abilitytype>обманным</c> умениям.
 Gain Scoundrel's Luck whenever you use Skritt Swipe. Scoundrel's Luck allows you to use double-edge skills on cooldown without backfiring.,Вы получаете Удачу негодяя при использовании Скриттского ограбления. Она позволяет вам использовать перезаряжающиеся умения-авантюры без риска неудачи.
 Gain Vitality. Your incoming healing is increased.,Ваша Живучесть увеличена. Получаемое вами исцеление увеличено.
