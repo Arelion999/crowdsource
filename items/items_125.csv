@@ -306,7 +306,7 @@ Traditional Olmakhan song. <c=@flavor>""""No song so sweet as a young cub''s lau
 "'<c=@flavor>Its baleful flames glow brighter as the hour of Adelbern''s curse draws near.</c>""'","'<c=@flavor>Его зловещее пламя разгорается ярче, когда приближается час проклятия Адельберна.</c>""'"
 '<c=flavor>I''m still working on the size issue.','<c=flavor>Я все ещё работаю над проблемой размера.'
 'Agent''s Pack',Сумка агента
-'Aviator''s Memory Box',Шкатулка воспоминаний авиатора
+'Aviator''s Memory Box',Коробка воспоминаний авиатора
 'Bandit Sniper''s Outfit','Набор бандита-снайпера'
 'Bloody Prince''s Outfit','Наряд Кровавого принца'
 'Bottomless Belcher''s Bluff Kit',Набор «Бездонная глотка Бэлчера»
@@ -370,7 +370,7 @@ Traditional Olmakhan song. <c=@flavor>""""No song so sweet as a young cub''s lau
 "'Trade to alliance field quartermasters in Castora for a pair of Forge Guard''s Leggings.""'","Обменяйте у полевых интендантов альянса в Касторе на пару поножей Кузнечной стражи."""
 "'Trade to alliance field quartermasters in Castora for a pair of Restless Captain''s Leggings.""'","'Обменяйте у полевых интендантов альянса в Касторе на пару поножей Беспокойного капитана.""'"
 'Traveler''s Outfit',Наряд путешественника
-"'Use the box to randomly unlock a Black Lion wardrobe item you don''t already have. Some items—in particular mounts and some weapon sets—are less common than others. Preview to see everything available.""'",'Используйте сундук
+"'Use the box to randomly unlock a Black Lion wardrobe item you don''t already have. Some items—in particular mounts and some weapon sets—are less common than others. Preview to see everything available.""'",'Используйте коробку
 'Vigil''s Honor',Честь Дозора
 'Visionary''s Helm',Шлем Визионера
 'Warmaster''s Pack',Сумка военачальника
@@ -403,10 +403,10 @@ Traditional Olmakhan song. <c=@flavor>""""No song so sweet as a young cub''s lau
 Can be exchanged for a non-soulbound version at merchants in Amnoon.","32 слота,
 Можно обменять на не привязанную к душе версию у торговцев в Амнуне."
 "32 slots. Items in this box will never appear in a sell-to-vendor list and will not move when inventory is sorted.,
-Can be exchanged for a non-soulbound version at merchants in Amnoon.","32 слота. Предметы из этого сундука никогда не появятся в списке продажи торговцу и не будут перемещаться при сортировке инвентаря.
+Can be exchanged for a non-soulbound version at merchants in Amnoon.","32 слота. Предметы из этой коробки никогда не появятся в списке продажи торговцу и не будут перемещаться при сортировке инвентаря.
 Можно обменять на несвязанную версию у торговцев в Амнуне."
 "32 slots. Weapons and armor will fill this box before other empty spaces. The contents of this box will not move when inventory is sorted. Items in this box will never appear in a sell-to-vendor list.,
-Can be exchanged for a non-soulbound version at merchants in Amnoon.","32 слота. Оружие и броня будут помещаться в этот сундук раньше других пустых слотов. Содержимое этого сундука не будет перемещаться при сортировке инвентаря. Предметы из этого сундука никогда не появятся в списке на продажу торговцу.,
+Can be exchanged for a non-soulbound version at merchants in Amnoon.","32 слота. Оружие и броня будут помещаться в эта коробку раньше других пустых слотов. Содержимая этой коробки не будет перемещаться при сортировке инвентаря. Предметы из этой коробки никогда не появятся в списке на продажу торговцу.,
 Можно обменять на не связанную с душой версию у торговцев в Амнуне."
 "33%% chance to complete gathering instantly.""","33%% шанс мгновенно завершить сбор."""""
 403 Frost 0IIX,403 Frost 0IIX
