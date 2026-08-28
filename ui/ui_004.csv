@@ -34,7 +34,7 @@ english,translate
 %str1%%str2%Beastslayer Longbow%str3%%str4%,%str1%%str2%Длинный лук зверобоя%str3%%str4%
 %str1%%str2%Beastslayer Mace%str3%%str4%,%str1%%str2%Булава зверобоя%str3%%str4%
 %str1%%str2%Beastslayer Pistol%str3%%str4%,%str1%%str2%Пистолет зверобоя%str3%%str4%
-%str1%%str2%Beastslayer Rifle%str3%%str4%,%str1%%str2%Ружьё зверобоя%str3%%str4%
+%str1%%str2%Beastslayer Rifle%str3%%str4%,%str1%%str2%Винтовка зверобоя%str3%%str4%
 %str1%%str2%Beastslayer Scepter%str3%%str4%,%str1%%str2%Скипетр зверобоя%str3%%str4%
 %str1%%str2%Beastslayer Shield%str3%%str4%,%str1%%str2%Щит зверобоя%str3%%str4%
 %str1%%str2%Beastslayer Short Bow%str3%%str4%,%str1%%str2%Короткий лук зверобоя%str3%%str4%
@@ -88,7 +88,7 @@ english,translate
 %str1%%str2%Bleeding Edge Inquest Longbow%str3%%str4%,%str1%%str2%Передовой длинный лук Инквеста%str3%%str4%
 %str1%%str2%Bleeding Edge Inquest Mace%str3%%str4%,%str1%%str2%Передовая булава Инквеста%str3%%str4%
 %str1%%str2%Bleeding Edge Inquest Pistol%str3%%str4%,%str1%%str2%Передовой пистолет Инквеста%str3%%str4%
-%str1%%str2%Bleeding Edge Inquest Rifle%str3%%str4%,%str1%%str2%Передовое ружьё Инквеста%str3%%str4%
+%str1%%str2%Bleeding Edge Inquest Rifle%str3%%str4%,%str1%%str2%Передовая винтовка Инквеста%str3%%str4%
 %str1%%str2%Bleeding Edge Inquest Scepter%str3%%str4%,%str1%%str2%Передовой скипетр Инквеста%str3%%str4%
 %str1%%str2%Bleeding Edge Inquest Shield%str3%%str4%,%str1%%str2%Передовой щит Инквеста%str3%%str4%
 %str1%%str2%Bleeding Edge Inquest Short Bow%str3%%str4%,%str1%%str2%Передовой короткий лук Инквеста%str3%%str4%
@@ -113,7 +113,7 @@ english,translate
 %str1%%str2%Blood Moon Longbow%str3%%str4%,%str1%%str2%Длинный лук кровавой луны%str3%%str4%
 %str1%%str2%Blood Moon Mace%str3%%str4%,%str1%%str2%Булава кровавой луны%str3%%str4%
 %str1%%str2%Blood Moon Pistol%str3%%str4%,%str1%%str2%Пистолет кровавой луны%str3%%str4%
-%str1%%str2%Blood Moon Rifle%str3%%str4%,%str1%%str2%Ружьё кровавой луны%str3%%str4%
+%str1%%str2%Blood Moon Rifle%str3%%str4%,%str1%%str2%Винтовка кровавой луны%str3%%str4%
 %str1%%str2%Blood Moon Scepter%str3%%str4%,%str1%%str2%Скипетр кровавой луны%str3%%str4%
 %str1%%str2%Blood Moon Shield%str3%%str4%,%str1%%str2%Щит кровавой луны%str3%%str4%
 %str1%%str2%Blood Moon Short Bow%str3%%str4%,%str1%%str2%Короткий лук кровавой луны%str3%%str4%
@@ -135,7 +135,7 @@ english,translate
 %str1%%str2%Bloodstone Longbow%str3%%str4%,%str1%%str2%Длинный лук из кровавого камня%str3%%str4%
 %str1%%str2%Bloodstone Mace%str3%%str4%,%str1%%str2%Булава из кровавого камня%str3%%str4%
 %str1%%str2%Bloodstone Pistol%str3%%str4%,%str1%%str2%Пистолет из кровавого камня%str3%%str4%
-%str1%%str2%Bloodstone Rifle%str3%%str4%,%str1%%str2%Ружьё из кровавого камня%str3%%str4%
+%str1%%str2%Bloodstone Rifle%str3%%str4%,%str1%%str2%Винтовка из кровавого камня%str3%%str4%
 %str1%%str2%Bloodstone Savant's Staff%str3%%str4%,%str1%%str2%Посох знатока кровавого камня%str3%%str4%
 %str1%%str2%Bloodstone Scepter%str3%%str4%,%str1%%str2%Скипетр из кровавого камня%str3%%str4%
 %str1%%str2%Bloodstone Shield%str3%%str4%,%str1%%str2%Щит из кровавого камня%str3%%str4%
@@ -211,7 +211,7 @@ english,translate
 %str1%%str2%Bronze Javelin%str3%%str4%,%str1%%str2%Бронзовый дротик%str3%%str4%
 %str1%%str2%Bronze Mace%str3%%str4%,%str1%%str2%Бронзовая булава%str3%%str4%
 %str1%%str2%Bronze Pistol%str3%%str4%,%str1%%str2%Бронзовый пистолет%str3%%str4%
-%str1%%str2%Bronze Rifle%str3%%str4%,%str1%%str2%Бронзовое ружьё%str3%%str4%
+%str1%%str2%Bronze Rifle%str3%%str4%,%str1%%str2%Бронзовая винтовка%str3%%str4%
 %str1%%str2%Bronze Shield%str3%%str4%,%str1%%str2%Бронзовый щит%str3%%str4%
 %str1%%str2%Bronze Spear%str3%%str4%,%str1%%str2%Бронзовое копьё%str3%%str4%
 %str1%%str2%Bronze Sword%str3%%str4%,%str1%%str2%Бронзовый меч%str3%%str4%
@@ -258,7 +258,7 @@ english,translate
 %str1%%str2%Candy Cane Longbow%str3%%str4%,%str1%%str2%Леденцовый длинный лук%str3%%str4%
 %str1%%str2%Candy Cane Mace%str3%%str4%,%str1%%str2%Леденцовая булава%str3%%str4%
 %str1%%str2%Candy Cane Pistol%str3%%str4%,%str1%%str2%Леденцовый пистолет%str3%%str4%
-%str1%%str2%Candy Cane Rifle%str3%%str4%,%str1%%str2%Леденцовое ружьё%str3%%str4%
+%str1%%str2%Candy Cane Rifle%str3%%str4%,%str1%%str2%Леденцовая винтовка%str3%%str4%
 %str1%%str2%Candy Cane Scepter%str3%%str4%,%str1%%str2%Леденцовый скипетр%str3%%str4%
 %str1%%str2%Candy Cane Shield%str3%%str4%,%str1%%str2%Леденцовый щит%str3%%str4%
 %str1%%str2%Candy Cane Short Bow%str3%%str4%,%str1%%str2%Леденцовый короткий лук%str3%%str4%
@@ -294,7 +294,7 @@ english,translate
 %str1%%str2%Carnival Longbow%str3%%str4%,%str1%%str2%Карнавальный длинный лук%str3%%str4%
 %str1%%str2%Carnival Mace%str3%%str4%,%str1%%str2%Карнавальная булава%str3%%str4%
 %str1%%str2%Carnival Pistol%str3%%str4%,%str1%%str2%Карнавальный пистолет%str3%%str4%
-%str1%%str2%Carnival Rifle%str3%%str4%,%str1%%str2%Карнавальное ружьё%str3%%str4%
+%str1%%str2%Carnival Rifle%str3%%str4%,%str1%%str2%Карнавальная винтовка%str3%%str4%
 %str1%%str2%Carnival Scepter%str3%%str4%,%str1%%str2%Карнавальный скипетр%str3%%str4%
 %str1%%str2%Carnival Shield%str3%%str4%,%str1%%str2%Карнавальный щит%str3%%str4%
 %str1%%str2%Carnival Short Bow%str3%%str4%,%str1%%str2%Карнавальный короткий лук%str3%%str4%
@@ -315,7 +315,7 @@ english,translate
 %str1%%str2%Cavalier Longbow%str3%%str4%,%str1%%str2%Кавалерийский длинный лук%str3%%str4%
 %str1%%str2%Cavalier Mace%str3%%str4%,%str1%%str2%Кавалерийская булава%str3%%str4%
 %str1%%str2%Cavalier Pistol%str3%%str4%,%str1%%str2%Кавалерийский пистолет%str3%%str4%
-%str1%%str2%Cavalier Rifle%str3%%str4%,%str1%%str2%Кавалерийское ружьё%str3%%str4%
+%str1%%str2%Cavalier Rifle%str3%%str4%,%str1%%str2%Кавалерийская винтовка%str3%%str4%
 %str1%%str2%Cavalier Scepter%str3%%str4%,%str1%%str2%Кавалерийский скипетр%str3%%str4%
 %str1%%str2%Cavalier Shield%str3%%str4%,%str1%%str2%Кавалерийский щит%str3%%str4%
 %str1%%str2%Cavalier Short Bow%str3%%str4%,%str1%%str2%Кавалерийский короткий лук%str3%%str4%
@@ -333,7 +333,7 @@ english,translate
 %str1%%str2%Ceremonial Morning Star%str3%%str4%,%str1%%str2%Церемониальный моргенштерн%str3%%str4%
 %str1%%str2%Ceremonial Pike%str3%%str4%,%str1%%str2%Церемониальная пика%str3%%str4%
 %str1%%str2%Ceremonial Pistol%str3%%str4%,%str1%%str2%Церемониальный пистолет%str3%%str4%
-%str1%%str2%Ceremonial Rifle%str3%%str4%,%str1%%str2%Церемониальное ружьё%str3%%str4%
+%str1%%str2%Ceremonial Rifle%str3%%str4%,%str1%%str2%Церемониальная винтовка%str3%%str4%
 %str1%%str2%Ceremonial Sabre%str3%%str4%,%str1%%str2%Церемониальная сабля%str3%%str4%
 %str1%%str2%Ceremonial Scepter%str3%%str4%,%str1%%str2%Церемониальный скипетр%str3%%str4%
 %str1%%str2%Ceremonial Scimitar%str3%%str4%,%str1%%str2%Церемониальный ятаган%str3%%str4%
@@ -365,7 +365,7 @@ english,translate
 %str1%%str2%Chak Longbow%str3%%str4%,%str1%%str2%Длинный лук чаков%str3%%str4%
 %str1%%str2%Chak Mace%str3%%str4%,%str1%%str2%Булава чаков%str3%%str4%
 %str1%%str2%Chak Pistol%str3%%str4%,%str1%%str2%Пистолет чаков%str3%%str4%
-%str1%%str2%Chak Rifle%str3%%str4%,%str1%%str2%Ружьё чаков%str3%%str4%
+%str1%%str2%Chak Rifle%str3%%str4%,%str1%%str2%Винтовка чаков%str3%%str4%
 %str1%%str2%Chak Scepter%str3%%str4%,%str1%%str2%Скипетр чаков%str3%%str4%
 %str1%%str2%Chak Shield%str3%%str4%,%str1%%str2%Щит чаков%str3%%str4%
 %str1%%str2%Chak Short Bow%str3%%str4%,%str1%%str2%Короткий лук чаков%str3%%str4%
@@ -388,7 +388,7 @@ english,translate
 %str1%%str2%Chaos Mace%str3%%str4%,%str1%%str2%Булава хаоса%str3%%str4%
 %str1%%str2%Chaos of Lyssa%str3%%str4%,%str1%%str2%Хаос Лиссы%str3%%str4%
 %str1%%str2%Chaos Pistol%str3%%str4%,%str1%%str2%Пистолет хаоса%str3%%str4%
-%str1%%str2%Chaos Rifle%str3%%str4%,%str1%%str2%Ружьё хаоса%str3%%str4%
+%str1%%str2%Chaos Rifle%str3%%str4%,%str1%%str2%Винтовка хаоса%str3%%str4%
 %str1%%str2%Chaos Scepter%str3%%str4%,%str1%%str2%Скипетр хаоса%str3%%str4%
 %str1%%str2%Chaos Shield%str3%%str4%,%str1%%str2%Щит хаоса%str3%%str4%
 %str1%%str2%Chaos Short Bow%str3%%str4%,%str1%%str2%Короткий лук хаоса%str3%%str4%
@@ -406,7 +406,7 @@ english,translate
 %str1%%str2%Charged Stormcaller Longbow%str3%%str4%,%str1%%str2%Заряженный длинный лук зова бури%str3%%str4%
 %str1%%str2%Charged Stormcaller Mace%str3%%str4%,%str1%%str2%Заряженная булава зова бури%str3%%str4%
 %str1%%str2%Charged Stormcaller Pistol%str3%%str4%,%str1%%str2%Заряженный пистолет зова бури%str3%%str4%
-%str1%%str2%Charged Stormcaller Rifle%str3%%str4%,%str1%%str2%Заряженное ружьё зова бури%str3%%str4%
+%str1%%str2%Charged Stormcaller Rifle%str3%%str4%,%str1%%str2%Заряженная винтовка зова бури%str3%%str4%
 %str1%%str2%Charged Stormcaller Scepter%str3%%str4%,%str1%%str2%Заряженный скипетр зова бури%str3%%str4%
 %str1%%str2%Charged Stormcaller Shield%str3%%str4%,%str1%%str2%Заряженный щит зова бури%str3%%str4%
 %str1%%str2%Charged Stormcaller Short Bow%str3%%str4%,%str1%%str2%Заряженный короткий лук зова бури%str3%%str4%
@@ -427,7 +427,7 @@ english,translate
 %str1%%str2%Chromatic Resin Longbow%str3%%str4%,%str1%%str2%Длинный лук из хроматической смолы%str3%%str4%
 %str1%%str2%Chromatic Resin Mace%str3%%str4%,%str1%%str2%Булава из хроматической смолы%str3%%str4%
 %str1%%str2%Chromatic Resin Pistol%str3%%str4%,%str1%%str2%Пистолет из хроматической смолы%str3%%str4%
-%str1%%str2%Chromatic Resin Rifle%str3%%str4%,%str1%%str2%Ружьё из хроматической смолы%str3%%str4%
+%str1%%str2%Chromatic Resin Rifle%str3%%str4%,%str1%%str2%Винтовка из хроматической смолы%str3%%str4%
 %str1%%str2%Chromatic Resin Scepter%str3%%str4%,%str1%%str2%Скипетр из хроматической смолы%str3%%str4%
 %str1%%str2%Chromatic Resin Shield%str3%%str4%,%str1%%str2%Щит из хроматической смолы%str3%%str4%
 %str1%%str2%Chromatic Resin Short Bow%str3%%str4%,%str1%%str2%Короткий лук из хроматической смолы%str3%%str4%

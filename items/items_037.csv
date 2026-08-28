@@ -16,7 +16,7 @@ Dominator Hammer Skin,Облик молота «Доминатор»
 Dominator Longbow Skin,Облик длинного лука «Доминатор»
 Dominator Mace Skin,Облик булавы «Доминатор»
 Dominator Pistol Skin,Облик пистолета «Доминатор»
-Dominator Rifle Skin,Облик ружья «Доминатор»
+Dominator Rifle Skin,Облик винтовки «Доминатор»
 Dominator Scepter Skin,Облик скипетра «Доминатор»
 Dominator Shield Skin,Облик щита «Доминатор»
 Dominator Short Bow Skin,Облик короткого лука «Доминатор»
@@ -100,7 +100,7 @@ Double-click and choose which Ascended Medium Helm recipe to receive.,"Дваж�
 Double-click and choose which Ascended Medium Leggings recipe to receive.,"Дважды щёлкните и выберите, какой рецепт вознесённых средних поножей получить."
 Double-click and choose which Ascended Medium Shoulders recipe to receive.,"Дважды щёлкните и выберите, какой рецепт вознесённых средних наплечников получить."
 Double-click and choose which Ascended Pistol recipe to receive.,"Дважды щёлкните и выберите, какой рецепт вознесённого пистолета получить."
-Double-click and choose which Ascended Rifle recipe to receive.,"Дважды щёлкните и выберите, какой рецепт вознесённого ружья получить."
+Double-click and choose which Ascended Rifle recipe to receive.,"Дважды щёлкните и выберите, какой рецепт вознесённой винтовки получить."
 Double-click and choose which Ascended Scepter recipe to receive.,"Дважды щёлкните и выберите, какой рецепт вознесённого скипетра получить."
 Double-click and choose which Ascended Shield recipe to receive.,"Дважды щёлкните и выберите, какой рецепт вознесённого щита получить."
 Double-click and choose which Ascended Short Bow recipe to receive.,"Дважды щёлкните и выберите, какой рецепт вознесённого короткого лука получить."
@@ -386,10 +386,10 @@ Double-click to apply this look to any other pistol.,"Дважды щёлкни�
 Double-click to apply this look to any other pistol. Additional copies of this item are available from the achievements panel.,"Дважды щёлкните, чтобы применить этот облик к любому другому пистолету. Дополнительные копии этого предмета доступны на панели достижений."
 Double-click to apply this look to any other pistol. This will also unlock this skin for your wardrobe.,"Дважды щёлкните, чтобы применить этот облик к любому другому пистолету. Это также откроет данный облик в вашем гардеробе."
 Double-click to apply this look to any other pistol. Unlocks the ability to purchase the Restored Boreal Pistol Recipe.,"Дважды щёлкните, чтобы применить этот облик к любому другому пистолету. Открывает возможность купить рецепт восстановленного бореального пистолета."
-Double-click to apply this look to any other rifle.,"Дважды щёлкните, чтобы применить этот облик к любому другому ружью."
-Double-click to apply this look to any other rifle. Additional copies of this item are available from the achievements panel.,"Дважды щёлкните, чтобы применить этот облик к любому другому ружью. Дополнительные копии этого предмета доступны на панели достижений."
-Double-click to apply this look to any other rifle. This will also unlock this skin for your wardrobe.,"Дважды щёлкните, чтобы применить этот облик к любому другому ружью. Это также откроет этот облик в вашем гардеробе."
-Double-click to apply this look to any other rifle. Unlocks the ability to purchase the Restored Boreal Rifle Recipe.,"Дважды щёлкните, чтобы применить этот облик к любому другому ружью. Открывает возможность купить рецепт восстановленного бореального ружья."
+Double-click to apply this look to any other rifle.,"Дважды щёлкните, чтобы применить этот облик к любой другой винтовке."
+Double-click to apply this look to any other rifle. Additional copies of this item are available from the achievements panel.,"Дважды щёлкните, чтобы применить этот облик к любой другой винтовке. Дополнительные копии этого предмета доступны на панели достижений."
+Double-click to apply this look to any other rifle. This will also unlock this skin for your wardrobe.,"Дважды щёлкните, чтобы применить этот облик к любой другой винтовке. Это также откроет этот облик в вашем гардеробе."
+Double-click to apply this look to any other rifle. Unlocks the ability to purchase the Restored Boreal Rifle Recipe.,"Дважды щёлкните, чтобы применить этот облик к любой другой винтовке. Открывает возможность купить рецепт восстановленной бореальной винтовки."
 Double-click to apply this look to any other scepter.,"Дважды щёлкните, чтобы применить этот облик к любому другому скипетру."
 "Double-click to apply this look to any other scepter.
 This will also unlock this skin for your wardrobe.
@@ -458,10 +458,10 @@ Double-click to apply this look to your current helm.,"Дважды щёлкни
 "Double-click to apply this look to your fishing rod.
 This will also unlock this skin for your wardrobe.","Дважды щёлкните, чтобы применить этот облик к вашей удочке.
 Это также откроет этот облик в вашем гардеробе."
-Double-click to apply this skin to any rifle.,"Дважды щёлкните, чтобы применить этот облик к любому ружью."
+Double-click to apply this skin to any rifle.,"Дважды щёлкните, чтобы применить этот облик к любой винтовке."
 "Double-click to apply this skin to any rifle.
 
-<c=@flavor>""It's a custom masterpiece refined from hundreds of bounties. I doubt even I could evade its mark."" —Nakato Ibori</c>","Дважды щёлкните, чтобы применить этот облик к любому ружью.
+<c=@flavor>""It's a custom masterpiece refined from hundreds of bounties. I doubt even I could evade its mark."" —Nakato Ibori</c>","Дважды щёлкните, чтобы применить этот облик к любой винтовке.
 
 <c=@flavor>«Это заказной шедевр, заточенный на сотнях заказов. Сомневаюсь, что даже я ушёл бы от его прицела». —Накато Ибори</c>"
 Double-click to apply this to a gathering tool.,"Дважды щёлкните, чтобы применить это к инструменту для сбора."

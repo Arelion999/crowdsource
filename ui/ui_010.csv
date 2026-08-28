@@ -25,7 +25,7 @@ english,translate
 %str1%%str2%Mystic Cudgel%str3%%str4%,%str1%%str2%Мистическая дубина%str3%%str4%
 %str1%%str2%Mystic Hornbow%str3%%str4%,%str1%%str2%Мистический роговой лук%str3%%str4%
 %str1%%str2%Mystic Pistol%str3%%str4%,%str1%%str2%Мистический пистолет%str3%%str4%
-%str1%%str2%Mystic Rifle%str3%%str4%,%str1%%str2%Мистическое ружьё%str3%%str4%
+%str1%%str2%Mystic Rifle%str3%%str4%,%str1%%str2%Мистическая винтовка%str3%%str4%
 %str1%%str2%Mystic Spear%str3%%str4%,%str1%%str2%Мистическое копьё%str3%%str4%
 %str1%%str2%Mystic Speargun%str3%%str4%,%str1%%str2%Мистическое гарпунное ружьё%str3%%str4%
 %str1%%str2%Mystic Spike%str3%%str4%,%str1%%str2%Мистический шип%str3%%str4%
@@ -68,7 +68,7 @@ english,translate
 %str1%%str2%Nightmare Mace%str3%%str4%,%str1%%str2%Кошмарная булава%str3%%str4%
 %str1%%str2%Nightmare Nettleguard%str3%%str4%,%str1%%str2%Кошмарный неттлгард%str3%%str4%
 %str1%%str2%Nightmare Pistol%str3%%str4%,%str1%%str2%Кошмарный пистолет%str3%%str4%
-%str1%%str2%Nightmare Rifle%str3%%str4%,%str1%%str2%Кошмарное ружьё%str3%%str4%
+%str1%%str2%Nightmare Rifle%str3%%str4%,%str1%%str2%Кошмарная винтовка%str3%%str4%
 %str1%%str2%Nightmare Scepter%str3%%str4%,%str1%%str2%Кошмарный скипетр%str3%%str4%
 %str1%%str2%Nightmare Shield%str3%%str4%,%str1%%str2%Кошмарный щит%str3%%str4%
 %str1%%str2%Nightmare Short Bow%str3%%str4%,%str1%%str2%Короткий лук кошмаров%str3%%str4%
@@ -100,7 +100,7 @@ english,translate
 %str1%%str2%Norn Greatsword%str3%%str4%,%str1%%str2%Норнский двуручный меч%str3%%str4%
 %str1%%str2%Norn Mace%str3%%str4%,%str1%%str2%Норнская булава%str3%%str4%
 %str1%%str2%Norn Pistol%str3%%str4%,%str1%%str2%Норнский пистолет%str3%%str4%
-%str1%%str2%Norn Rifle%str3%%str4%,%str1%%str2%Норнская ружьё%str3%%str4%
+%str1%%str2%Norn Rifle%str3%%str4%,%str1%%str2%Норнская винтовка%str3%%str4%
 %str1%%str2%Norn Scepter%str3%%str4%,%str1%%str2%Норнский скипетр%str3%%str4%
 %str1%%str2%Norn Shield%str3%%str4%,%str1%%str2%Щит норнов%str3%%str4%
 %str1%%str2%Norn Short Bow%str3%%str4%,%str1%%str2%Норнский короткий лук%str3%%str4%
@@ -142,7 +142,7 @@ english,translate
 %str1%%str2%Obsidian Medium Mask%str3%%str4%,%str1%%str2%Обсидиановая средняя маска%str3%%str4%
 %str1%%str2%Obsidian Medium Shoulders%str3%%str4%,%str1%%str2%Обсидиановые средние наплечники%str3%%str4%
 %str1%%str2%Obsidian Pistol%str3%%str4%,%str1%%str2%Обсидиановый пистолет%str3%%str4%
-%str1%%str2%Obsidian Rifle%str3%%str4%,%str1%%str2%Обсидиановая ружьё%str3%%str4%
+%str1%%str2%Obsidian Rifle%str3%%str4%,%str1%%str2%Обсидиановая винтовка%str3%%str4%
 %str1%%str2%Obsidian Scepter%str3%%str4%,%str1%%str2%Обсидиановый скипетр%str3%%str4%
 %str1%%str2%Obsidian Shield%str3%%str4%,%str1%%str2%Обсидиановый щит%str3%%str4%
 %str1%%str2%Obsidian Staff%str3%%str4%,%str1%%str2%Обсидиановый посох%str3%%str4%
@@ -355,7 +355,7 @@ english,translate
 %str1%%str2%Peacemaker's Longbow%str3%%str4%,%str1%%str2%Длинный лук миротворца%str3%%str4%
 %str1%%str2%Peacemaker's Mace%str3%%str4%,%str1%%str2%Булава миротворца%str3%%str4%
 %str1%%str2%Peacemaker's Pistol%str3%%str4%,%str1%%str2%Пистолет Миротворца%str3%%str4%
-%str1%%str2%Peacemaker's Rifle%str3%%str4%,%str1%%str2%Ружьё Миротворца%str3%%str4%
+%str1%%str2%Peacemaker's Rifle%str3%%str4%,%str1%%str2%Винтовка Миротворца%str3%%str4%
 %str1%%str2%Peacemaker's Scepter%str3%%str4%,%str1%%str2%Скипетр Миротворца%str3%%str4%
 %str1%%str2%Peacemaker's Shield%str3%%str4%,%str1%%str2%Щит Миротворца%str3%%str4%
 %str1%%str2%Peacemaker's Short Bow%str3%%str4%,%str1%%str2%Короткий лук Миротворца%str3%%str4%
@@ -390,7 +390,7 @@ english,translate
 %str1%%str2%Pearlshell Longbow%str3%%str4%,%str1%%str2%Жемчужнораковинный длинный лук%str3%%str4%
 %str1%%str2%Pearlshell Mace%str3%%str4%,%str1%%str2%Жемчужнораковинная булава%str3%%str4%
 %str1%%str2%Pearlshell Pistol%str3%%str4%,%str1%%str2%Жемчужнораковинный пистолет%str3%%str4%
-%str1%%str2%Pearlshell Rifle%str3%%str4%,%str1%%str2%Жемчужнораковинное ружьё%str3%%str4%
+%str1%%str2%Pearlshell Rifle%str3%%str4%,%str1%%str2%Жемчужнораковинная винтовка%str3%%str4%
 %str1%%str2%Pearlshell Scepter%str3%%str4%,%str1%%str2%Жемчужнораковинный скипетр%str3%%str4%
 %str1%%str2%Pearlshell Shield%str3%%str4%,%str1%%str2%Жемчужнораковинный щит%str3%%str4%
 %str1%%str2%Pearlshell Short Bow%str3%%str4%,%str1%%str2%Жемчужнораковинный короткий лук%str3%%str4%
@@ -419,7 +419,7 @@ english,translate
 %str1%%str2%Perfected Envoy Tassets%str3%%str4%,%str1%%str2%Совершенные набедренники посланника%str3%%str4%
 %str1%%str2%Perfected Envoy Vambraces%str3%%str4%,%str1%%str2%Наручи совершенного посланника%str3%%str4%
 %str1%%str2%Perfected Envoy Vestments%str3%%str4%,%str1%%str2%Совершенные одеяния посланника%str3%%str4%
-%str1%%str2%Perfected Rifle%str3%%str4%,%str1%%str2%Совершенная ружьё%str3%%str4%
+%str1%%str2%Perfected Rifle%str3%%str4%,%str1%%str2%Совершенная винтовка%str3%%str4%
 %str1%%str2%Phalanx Gauntlets%str3%%str4%,%str1%%str2%Фаланговые рукавицы%str3%%str4%
 %str1%%str2%Phalanx Legplates%str3%%str4%,%str1%%str2%Фаланговые наголенники%str3%%str4%
 %str1%%str2%Phalanx Shoulders%str3%%str4%,%str1%%str2%Фаланговые наплечники%str3%%str4%

@@ -37,7 +37,7 @@ english,translate
 %str1%%str2%Plated Focus%str3%%str4%,%str1%%str2%Пластинчатый фокус%str3%%str4%
 %str1%%str2%Plated Greatsword%str3%%str4%,%str1%%str2%Ламельный двуручный меч%str3%%str4%
 %str1%%str2%Plated Mace%str3%%str4%,%str1%%str2%Пластинчатая булава%str3%%str4%
-%str1%%str2%Plated Rifle%str3%%str4%,%str1%%str2%Бронированная ружьё%str3%%str4%
+%str1%%str2%Plated Rifle%str3%%str4%,%str1%%str2%Бронированная винтовка%str3%%str4%
 %str1%%str2%Plated Scepter%str3%%str4%,%str1%%str2%Пластинчатый скипетр%str3%%str4%
 %str1%%str2%Plated Shield%str3%%str4%,%str1%%str2%Пластинчатый щит%str3%%str4%
 %str1%%str2%Plated Short Bow%str3%%str4%,%str1%%str2%Пластинчатый короткий лук%str3%%str4%
@@ -128,7 +128,7 @@ english,translate
 %str1%%str2%Priory's Historical Pants%str3%%str4%,%str1%%str2%Исторические штаны Приората%str3%%str4%
 %str1%%str2%Priory's Historical Pauldrons%str3%%str4%,%str1%%str2%Исторические наплечники Приората%str3%%str4%
 %str1%%str2%Priory's Historical Pistol%str3%%str4%,%str1%%str2%Исторический пистолет Приората%str3%%str4%
-%str1%%str2%Priory's Historical Rifle%str3%%str4%,%str1%%str2%Историческое ружьё Приората%str3%%str4%
+%str1%%str2%Priory's Historical Rifle%str3%%str4%,%str1%%str2%Историческая винтовка Приората%str3%%str4%
 %str1%%str2%Priory's Historical Scepter%str3%%str4%,%str1%%str2%Исторический скипетр Приората%str3%%str4%
 %str1%%str2%Priory's Historical Shield%str3%%str4%,%str1%%str2%Исторический щит Приората%str3%%str4%
 %str1%%str2%Priory's Historical Shoes%str3%%str4%,%str1%%str2%Исторические туфли Приората%str3%%str4%
@@ -263,7 +263,7 @@ english,translate
 %str1%%str2%Reclaimed Longbow%str3%%str4%,%str1%%str2%Возвращённый длинный лук%str3%%str4%
 %str1%%str2%Reclaimed Mace%str3%%str4%,%str1%%str2%Возвращённая булава%str3%%str4%
 %str1%%str2%Reclaimed Pistol%str3%%str4%,%str1%%str2%Восстановленный пистолет%str3%%str4%
-%str1%%str2%Reclaimed Rifle%str3%%str4%,%str1%%str2%Восстановленная ружьё%str3%%str4%
+%str1%%str2%Reclaimed Rifle%str3%%str4%,%str1%%str2%Восстановленная винтовка%str3%%str4%
 %str1%%str2%Reclaimed Scepter%str3%%str4%,%str1%%str2%Восстановленный скипетр%str3%%str4%
 %str1%%str2%Reclaimed Shield%str3%%str4%,%str1%%str2%Восстановленный щит%str3%%str4%
 %str1%%str2%Reclaimed Short Bow%str3%%str4%,%str1%%str2%Восстановленный короткий лук%str3%%str4%
@@ -318,7 +318,7 @@ english,translate
 %str1%%str2%Remnant of Ascalon%str3%%str4%,%str1%%str2%Осколок Аскалона%str3%%str4%
 %str1%%str2%Renegade's Casque%str3%%str4%,%str1%%str2%Шлем ренегата%str3%%str4%
 %str1%%str2%Renegade's Short Bow%str3%%str4%,%str1%%str2%Короткий лук ренегата%str3%%str4%
-%str1%%str2%Repeating Rifle%str3%%str4%,%str1%%str2%Многозарядное ружьё%str3%%str4%
+%str1%%str2%Repeating Rifle%str3%%str4%,%str1%%str2%Многозарядная винтовка%str3%%str4%
 %str1%%str2%Replica Mirror of Lyssa%str3%%str4%,%str1%%str2%Реплика зеркала Лиссы%str3%%str4%
 %str1%%str2%Replica Oni Arms%str3%%str4%,%str1%%str2%Реплика рук они%str3%%str4%
 %str1%%str2%Requiem Boots%str3%%str4%,%str1%%str2%Перчатки хаоса%str3%%str4%
@@ -369,7 +369,7 @@ english,translate
 %str1%%str2%Revolver of the Broken Voice%str3%%str4%,%str1%%str2%Револьвер Сломанного Голоса%str3%%str4%
 %str1%%str2%Revolver of the Scion%str3%%str4%,%str1%%str2%Револьвер отпрыска%str3%%str4%
 %str1%%str2%Revolver of the Sunless%str3%%str4%,%str1%%str2%Револьвер бессолнечного%str3%%str4%
-%str1%%str2%Rifle of the Dragon's Deep%str3%%str4%,%str1%%str2%Ружьё драконьей глубины%str3%%str4%
+%str1%%str2%Rifle of the Dragon's Deep%str3%%str4%,%str1%%str2%Винтовка драконьей глубины%str3%%str4%
 %str1%%str2%Rifle%str3%%str4%,%str1%%str2%Винтовка%str3%%str4%
 %str1%%str2%Rift Hunter Heavy Boots%str3%%str4%,%str1%%str2%Тяжёлые сапоги Охотника за разломами%str3%%str4%
 %str1%%str2%Rift Hunter Heavy Coat%str3%%str4%,%str1%%str2%Тяжёлая куртка Охотника за разломами%str3%%str4%
@@ -399,7 +399,7 @@ english,translate
 %str1%%str2%Rimed Verdant Longbow%str3%%str4%,%str1%%str2%Инеистый зелёный длинный лук%str3%%str4%
 %str1%%str2%Rimed Verdant Mace%str3%%str4%,%str1%%str2%Инеистая зелёная булава%str3%%str4%
 %str1%%str2%Rimed Verdant Pistol%str3%%str4%,%str1%%str2%Инеистый зелёный пистолет%str3%%str4%
-%str1%%str2%Rimed Verdant Rifle%str3%%str4%,%str1%%str2%Инеистое зелёное ружьё%str3%%str4%
+%str1%%str2%Rimed Verdant Rifle%str3%%str4%,%str1%%str2%Инеистая зелёная винтовка%str3%%str4%
 %str1%%str2%Rimed Verdant Scepter%str3%%str4%,%str1%%str2%Инеистый зелёный скипетр%str3%%str4%
 %str1%%str2%Rimed Verdant Shield%str3%%str4%,%str1%%str2%Инеистый зелёный щит%str3%%str4%
 %str1%%str2%Rimed Verdant Short Bow%str3%%str4%,%str1%%str2%Инеистый зелёный короткий лук%str3%%str4%
@@ -428,7 +428,7 @@ english,translate
 %str1%%str2%Royal Ascalonian Longbow%str3%%str4%,%str1%%str2%Королевский аскалонский длинный лук%str3%%str4%
 %str1%%str2%Royal Ascalonian Mace%str3%%str4%,%str1%%str2%Королевская аскалонская булава%str3%%str4%
 %str1%%str2%Royal Ascalonian Pistol%str3%%str4%,%str1%%str2%Королевский аскалонский пистолет%str3%%str4%
-%str1%%str2%Royal Ascalonian Rifle%str3%%str4%,%str1%%str2%Королевское аскалонское ружьё%str3%%str4%
+%str1%%str2%Royal Ascalonian Rifle%str3%%str4%,%str1%%str2%Королевская аскалонская винтовка%str3%%str4%
 %str1%%str2%Royal Ascalonian Scepter%str3%%str4%,%str1%%str2%Королевский аскалонский скипетр%str3%%str4%
 %str1%%str2%Royal Ascalonian Shield%str3%%str4%,%str1%%str2%Королевский аскалонский щит%str3%%str4%
 %str1%%str2%Royal Ascalonian Short Bow%str3%%str4%,%str1%%str2%Королевский аскалонский короткий лук%str3%%str4%
@@ -476,7 +476,7 @@ english,translate
 %str1%%str2%Sanctified Longbow%str3%%str4%,%str1%%str2%Освящённый длинный лук%str3%%str4%
 %str1%%str2%Sanctified Mace%str3%%str4%,%str1%%str2%Освящённая булава%str3%%str4%
 %str1%%str2%Sanctified Pistol%str3%%str4%,%str1%%str2%Освящённый пистолет%str3%%str4%
-%str1%%str2%Sanctified Rifle%str3%%str4%,%str1%%str2%Освящённое ружьё%str3%%str4%
+%str1%%str2%Sanctified Rifle%str3%%str4%,%str1%%str2%Освящённая винтовка%str3%%str4%
 %str1%%str2%Sanctified Scepter%str3%%str4%,%str1%%str2%Освящённый скипетр%str3%%str4%
 %str1%%str2%Sanctified Shield%str3%%str4%,%str1%%str2%Освящённый щит%str3%%str4%
 %str1%%str2%Sanctified Short Bow%str3%%str4%,%str1%%str2%Освящённый короткий лук%str3%%str4%

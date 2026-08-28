@@ -5,7 +5,7 @@ english,translate
 %str1%%str2%Lightborne Longbow%str3%%str4%,%str1%%str2%Светорождённый длинный лук%str3%%str4%
 %str1%%str2%Lightborne Mace%str3%%str4%,%str1%%str2%Светорождённая булава%str3%%str4%
 %str1%%str2%Lightborne Pistol%str3%%str4%,%str1%%str2%Светорождённый пистолет%str3%%str4%
-%str1%%str2%Lightborne Rifle%str3%%str4%,%str1%%str2%Светорождённое ружьё%str3%%str4%
+%str1%%str2%Lightborne Rifle%str3%%str4%,%str1%%str2%Светорождённая винтовка%str3%%str4%
 %str1%%str2%Lightborne Scepter%str3%%str4%,%str1%%str2%Светорождённый скипетр%str3%%str4%
 %str1%%str2%Lightborne Shield%str3%%str4%,%str1%%str2%Светорождённый щит%str3%%str4%
 %str1%%str2%Lightborne Short Bow%str3%%str4%,%str1%%str2%Светорождённый короткий лук%str3%%str4%
@@ -33,7 +33,7 @@ english,translate
 %str1%%str2%Lionguard Harpoon%str3%%str4%,%str1%%str2%Гарпун Львиной стражи%str3%%str4%
 %str1%%str2%Lionguard Mace%str3%%str4%,%str1%%str2%Булава Львиной стражи%str3%%str4%
 %str1%%str2%Lionguard Pistol%str3%%str4%,%str1%%str2%Пистолет Львиной стражи%str3%%str4%
-%str1%%str2%Lionguard Rifle%str3%%str4%,%str1%%str2%Ружьё Львиной стражи%str3%%str4%
+%str1%%str2%Lionguard Rifle%str3%%str4%,%str1%%str2%Винтовка Львиной стражи%str3%%str4%
 %str1%%str2%Lionguard Scepter%str3%%str4%,%str1%%str2%Скипетр Львиной стражи%str3%%str4%
 %str1%%str2%Lionguard Shield%str3%%str4%,%str1%%str2%Щит Львиной стражи%str3%%str4%
 %str1%%str2%Lionguard Short Bow%str3%%str4%,%str1%%str2%Короткий лук Львиной стражи%str3%%str4%
@@ -62,7 +62,7 @@ english,translate
 %str1%%str2%Lovestruck Mace%str3%%str4%,%str1%%str2%Влюблённая булава%str3%%str4%
 %str1%%str2%Lovestruck Pistol%str3%%str4%,%str1%%str2%Влюблённый пистолет%str3%%str4%
 %str1%%str2%Lovestruck Protector%str3%%str4%,%str1%%str2%Влюблённый протектор%str3%%str4%
-%str1%%str2%Lovestruck Rifle%str3%%str4%,%str1%%str2%Влюблённое ружьё%str3%%str4%
+%str1%%str2%Lovestruck Rifle%str3%%str4%,%str1%%str2%Влюблённая винтовка%str3%%str4%
 %str1%%str2%Lovestruck Scepter%str3%%str4%,%str1%%str2%Влюблённый скипетр%str3%%str4%
 %str1%%str2%Lovestruck Short Bow%str3%%str4%,%str1%%str2%Влюблённый короткий лук%str3%%str4%
 %str1%%str2%Lovestruck Staff%str3%%str4%,%str1%%str2%Влюблённый посох%str3%%str4%
@@ -113,7 +113,7 @@ english,translate
 %str1%%str2%Lunar Astrolabe Longbow%str3%%str4%,%str1%%str2%Длинный лук «Лунная астролябия»%str3%%str4%
 %str1%%str2%Lunar Astrolabe Mace%str3%%str4%,%str1%%str2%Булава «Лунная астролябия»%str3%%str4%
 %str1%%str2%Lunar Astrolabe Pistol%str3%%str4%,%str1%%str2%Пистолет «Лунная астролябия»%str3%%str4%
-%str1%%str2%Lunar Astrolabe Rifle%str3%%str4%,%str1%%str2%Ружьё «Лунная астролябия»%str3%%str4%
+%str1%%str2%Lunar Astrolabe Rifle%str3%%str4%,%str1%%str2%Винтовка «Лунная астролябия»%str3%%str4%
 %str1%%str2%Lunar Astrolabe Scepter%str3%%str4%,%str1%%str2%Скипетр «Лунная астролябия»%str3%%str4%
 %str1%%str2%Lunar Astrolabe Shield%str3%%str4%,%str1%%str2%Щит «Лунная астролябия»%str3%%str4%
 %str1%%str2%Lunar Astrolabe Short Bow%str3%%str4%,%str1%%str2%Короткий лук «Лунная астролябия»%str3%%str4%
@@ -161,7 +161,7 @@ english,translate
 %str1%%str2%Machined Longbow%str3%%str4%,%str1%%str2%Машинный длинный лук%str3%%str4%
 %str1%%str2%Machined Mace%str3%%str4%,%str1%%str2%Машинная булава%str3%%str4%
 %str1%%str2%Machined Pistol%str3%%str4%,%str1%%str2%Машинный пистолет%str3%%str4%
-%str1%%str2%Machined Rifle%str3%%str4%,%str1%%str2%Машинное ружьё%str3%%str4%
+%str1%%str2%Machined Rifle%str3%%str4%,%str1%%str2%Машинная винтовка%str3%%str4%
 %str1%%str2%Machined Shield%str3%%str4%,%str1%%str2%Машинный щит%str3%%str4%
 %str1%%str2%Machined Short Bow%str3%%str4%,%str1%%str2%Машинный короткий лук%str3%%str4%
 %str1%%str2%Machined Staff%str3%%str4%,%str1%%str2%Машинный посох%str3%%str4%
@@ -267,7 +267,7 @@ english,translate
 %str1%%str2%Merciless Longbow%str3%%str4%,%str1%%str2%Беспощадный длинный лук%str3%%str4%
 %str1%%str2%Merciless Mace%str3%%str4%,%str1%%str2%Беспощадная булава%str3%%str4%
 %str1%%str2%Merciless Pistol%str3%%str4%,%str1%%str2%Беспощадный пистолет%str3%%str4%
-%str1%%str2%Merciless Rifle%str3%%str4%,%str1%%str2%Беспощадное ружьё%str3%%str4%
+%str1%%str2%Merciless Rifle%str3%%str4%,%str1%%str2%Беспощадная винтовка%str3%%str4%
 %str1%%str2%Merciless Scepter%str3%%str4%,%str1%%str2%Беспощадный скипетр%str3%%str4%
 %str1%%str2%Merciless Shield%str3%%str4%,%str1%%str2%Беспощадный щит%str3%%str4%
 %str1%%str2%Merciless Short Bow%str3%%str4%,%str1%%str2%Беспощадный короткий лук%str3%%str4%
@@ -301,7 +301,7 @@ english,translate
 %str1%%str2%Mist Lord's Longbow%str3%%str4%,%str1%%str2%Длинный лук Владыки Тумана%str3%%str4%
 %str1%%str2%Mist Lord's Mace%str3%%str4%,%str1%%str2%Булава Владыки Тумана%str3%%str4%
 %str1%%str2%Mist Lord's Pistol%str3%%str4%,%str1%%str2%Пистолет Владыки Тумана%str3%%str4%
-%str1%%str2%Mist Lord's Rifle%str3%%str4%,%str1%%str2%Ружьё Владыки Тумана%str3%%str4%
+%str1%%str2%Mist Lord's Rifle%str3%%str4%,%str1%%str2%Винтовка Владыки Тумана%str3%%str4%
 %str1%%str2%Mist Lord's Scepter%str3%%str4%,%str1%%str2%Скипетр Владыки Тумана%str3%%str4%
 %str1%%str2%Mist Lord's Shield%str3%%str4%,%str1%%str2%Щит Владыки Тумана%str3%%str4%
 %str1%%str2%Mist Lord's Short Bow%str3%%str4%,%str1%%str2%Короткий лук Владыки Тумана%str3%%str4%
@@ -363,7 +363,7 @@ english,translate
 %str1%%str2%Mistforged Hero's Longbow%str3%%str4%,%str1%%str2%Туманнокованый геройский длинный лук%str3%%str4%
 %str1%%str2%Mistforged Hero's Mace%str3%%str4%,%str1%%str2%Туманнокованая геройская булава%str3%%str4%
 %str1%%str2%Mistforged Hero's Pistol%str3%%str4%,%str1%%str2%Туманнокованый геройский пистолет%str3%%str4%
-%str1%%str2%Mistforged Hero's Rifle%str3%%str4%,%str1%%str2%Туманнокованое геройское ружьё%str3%%str4%
+%str1%%str2%Mistforged Hero's Rifle%str3%%str4%,%str1%%str2%Туманнокованая геройская винтовка%str3%%str4%
 %str1%%str2%Mistforged Hero's Scepter%str3%%str4%,%str1%%str2%Туманнокованый геройский скипетр%str3%%str4%
 %str1%%str2%Mistforged Hero's Shield%str3%%str4%,%str1%%str2%Туманнокованый геройский щит%str3%%str4%
 %str1%%str2%Mistforged Hero's Short Bow%str3%%str4%,%str1%%str2%Туманнокованый геройский короткий лук%str3%%str4%
@@ -381,7 +381,7 @@ english,translate
 %str1%%str2%Mistforged Obsidian Longbow%str3%%str4%,%str1%%str2%Туманнокованый обсидиановый длинный лук%str3%%str4%
 %str1%%str2%Mistforged Obsidian Mace%str3%%str4%,%str1%%str2%Туманнокованая обсидиановая булава%str3%%str4%
 %str1%%str2%Mistforged Obsidian Pistol%str3%%str4%,%str1%%str2%Туманнокованый обсидиановый пистолет%str3%%str4%
-%str1%%str2%Mistforged Obsidian Rifle%str3%%str4%,%str1%%str2%Туманнокованое обсидиановое ружьё%str3%%str4%
+%str1%%str2%Mistforged Obsidian Rifle%str3%%str4%,%str1%%str2%Туманнокованая обсидиановая винтовка%str3%%str4%
 %str1%%str2%Mistforged Obsidian Scepter%str3%%str4%,%str1%%str2%Туманнокованый обсидиановый скипетр%str3%%str4%
 %str1%%str2%Mistforged Obsidian Shield%str3%%str4%,%str1%%str2%Туманнокованый обсидиановый щит%str3%%str4%
 %str1%%str2%Mistforged Obsidian Short Bow%str3%%str4%,%str1%%str2%Туманнокованый обсидиановый короткий лук%str3%%str4%
@@ -424,7 +424,7 @@ english,translate
 %str1%%str2%Mithril Javelin%str3%%str4%,%str1%%str2%Мифриловый дротик%str3%%str4%
 %str1%%str2%Mithril Mace%str3%%str4%,%str1%%str2%Мифриловая булава%str3%%str4%
 %str1%%str2%Mithril Pistol%str3%%str4%,%str1%%str2%Мифриловый пистолет%str3%%str4%
-%str1%%str2%Mithril Rifle%str3%%str4%,%str1%%str2%Мифриловое ружьё%str3%%str4%
+%str1%%str2%Mithril Rifle%str3%%str4%,%str1%%str2%Мифриловая винтовка%str3%%str4%
 %str1%%str2%Mithril Shield%str3%%str4%,%str1%%str2%Мифриловый щит%str3%%str4%
 %str1%%str2%Mithril Spear%str3%%str4%,%str1%%str2%Мифриловое копьё%str3%%str4%
 %str1%%str2%Mithril Sword%str3%%str4%,%str1%%str2%Мифриловый меч%str3%%str4%
@@ -458,7 +458,7 @@ english,translate
 %str1%%str2%Molten Longbow%str3%%str4%,%str1%%str2%Расплавленный длинный лук%str3%%str4%
 %str1%%str2%Molten Mace%str3%%str4%,%str1%%str2%Расплавленная булава%str3%%str4%
 %str1%%str2%Molten Pistol%str3%%str4%,%str1%%str2%Расплавленный пистолет%str3%%str4%
-%str1%%str2%Molten Rifle%str3%%str4%,%str1%%str2%Расплавленное ружьё%str3%%str4%
+%str1%%str2%Molten Rifle%str3%%str4%,%str1%%str2%Расплавленная винтовка%str3%%str4%
 %str1%%str2%Molten Scepter%str3%%str4%,%str1%%str2%Расплавленный скипетр%str3%%str4%
 %str1%%str2%Molten Shield%str3%%str4%,%str1%%str2%Расплавленный щит%str3%%str4%
 %str1%%str2%Molten Short Bow%str3%%str4%,%str1%%str2%Расплавленный короткий лук%str3%%str4%
