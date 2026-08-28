@@ -42,7 +42,7 @@ english,translate
 %str1%%str2%Scavenged Obsidian Staff%str3%%str4%,%str1%%str2%Подобранный обсидиановый посох%str3%%str4%
 %str1%%str2%Scavenged Obsidian Sword%str3%%str4%,%str1%%str2%Меч из обсидиана%str3%%str4%
 %str1%%str2%Scavenged Obsidian Torch%str3%%str4%,%str1%%str2%Добытый обсидиановый факел%str3%%str4%
-%str1%%str2%Scavenged Obsidian Warhorn%str3%%str4%,%str1%%str2%Рог из добытого обсидиана%str3%%str4%
+%str1%%str2%Scavenged Obsidian Warhorn%str3%%str4%,%str1%%str2%Боевой рог из добытого обсидиана%str3%%str4%
 %str1%%str2%Scepter of the Dragon's Deep%str3%%str4%,%str1%%str2%Скипетр глубин дракона%str3%%str4%
 %str1%%str2%Scepter of the Highborn%str3%%str4%,%str1%%str2%Скипетр Высокорожденного%str3%%str4%
 %str1%%str2%Scepter%str3%%str4%,%str1%%str2%Скипетр%str3%%str4%
@@ -133,7 +133,7 @@ english,translate
 %str1%%str2%Seer-Enchanted Staff%str3%%str4%,%str1%%str2%Зачарованный провидцем посох%str3%%str4%
 %str1%%str2%Seer-Enchanted Sword%str3%%str4%,%str1%%str2%Зачарованный меч провидца%str3%%str4%
 %str1%%str2%Seer-Enchanted Torch%str3%%str4%,%str1%%str2%Зачарованный провидцем факел%str3%%str4%
-%str1%%str2%Seer-Enchanted Warhorn%str3%%str4%,%str1%%str2%Зачарованный провидцем рог%str3%%str4%
+%str1%%str2%Seer-Enchanted Warhorn%str3%%str4%,%str1%%str2%Зачарованный провидцем боевой рог%str3%%str4%
 %str1%%str2%Seraph Axe%str3%%str4%,%str1%%str2%Топор Серафимов%str3%%str4%
 %str1%%str2%Seraph Dagger%str3%%str4%,%str1%%str2%Кинжал Серафимов%str3%%str4%
 %str1%%str2%Seraph Focus%str3%%str4%,%str1%%str2%Фокус Серафимов%str3%%str4%
@@ -231,7 +231,7 @@ english,translate
 %str1%%str2%Shimmering Staff%str3%%str4%,%str1%%str2%Мерцающий посох%str3%%str4%
 %str1%%str2%Shimmering Sword%str3%%str4%,%str1%%str2%Мерцающий меч%str3%%str4%
 %str1%%str2%Shimmering Torch%str3%%str4%,%str1%%str2%Мерцающий факел%str3%%str4%
-%str1%%str2%Shimmering Warhorn%str3%%str4%,%str1%%str2%Мерцающий рог%str3%%str4%
+%str1%%str2%Shimmering Warhorn%str3%%str4%,%str1%%str2%Мерцающий боевой рог%str3%%str4%
 %str1%%str2%Shining Aureate Axe%str3%%str4%,%str1%%str2%Сияющий Золотой Топор%str3%%str4%
 %str1%%str2%Shining Aureate Charm%str3%%str4%,%str1%%str2%Сияющий Золотой Амулет%str3%%str4%
 %str1%%str2%Shining Aureate Dirk%str3%%str4%,%str1%%str2%Сияющий Золотой Кинжал%str3%%str4%
@@ -321,7 +321,7 @@ english,translate
 %str1%%str2%Skyscale Staff%str3%%str4%,%str1%%str2%Посох скайскейля%str3%%str4%
 %str1%%str2%Skyscale Sword%str3%%str4%,%str1%%str2%Меч скайскейла%str3%%str4%
 %str1%%str2%Skyscale Torch%str3%%str4%,%str1%%str2%Факел скайскейля%str3%%str4%
-%str1%%str2%Skyscale Warhorn%str3%%str4%,%str1%%str2%Вархорн скайскейля%str3%%str4%
+%str1%%str2%Skyscale Warhorn%str3%%str4%,%str1%%str2%Боевой рог скайскейля%str3%%str4%
 %str1%%str2%Slickpack%str3%%str4%,%str1%%str2%Слиппак%str3%%str4%
 %str1%%str2%Slingshot%str3%%str4%,%str1%%str2%Рогатка%str3%%str4%
 %str1%%str2%Slippers of Dhuum%str3%%str4%,%str1%%str2%Тапочки Дуума%str3%%str4%
@@ -360,7 +360,7 @@ english,translate
 %str1%%str2%Slumbering Mistforged Obsidian Staff%str3%%str4%,%str1%%str2%Дремлющий туманнокованый обсидиановый посох%str3%%str4%
 %str1%%str2%Slumbering Mistforged Obsidian Sword%str3%%str4%,%str1%%str2%Дремлющий туманнокованый обсидиановый меч%str3%%str4%
 %str1%%str2%Slumbering Mistforged Obsidian Torch%str3%%str4%,%str1%%str2%Дремлющий туманнокованый обсидиановый факел%str3%%str4%
-%str1%%str2%Slumbering Mistforged Obsidian Warhorn%str3%%str4%,%str1%%str2%Дремлющий туманнокованый обсидиановый рог%str3%%str4%
+%str1%%str2%Slumbering Mistforged Obsidian Warhorn%str3%%str4%,%str1%%str2%Дремлющий туманнокованый обсидиановый боевой рог%str3%%str4%
 %str1%%str2%Slumbering Obsidian Axe%str3%%str4%,%str1%%str2%Дремлющий обсидиановый топор%str3%%str4%
 %str1%%str2%Slumbering Obsidian Dagger%str3%%str4%,%str1%%str2%Дремлющий обсидиановый кинжал%str3%%str4%
 %str1%%str2%Slumbering Obsidian Focus%str3%%str4%,%str1%%str2%Дремлющий обсидиановый фокус%str3%%str4%
@@ -376,7 +376,7 @@ english,translate
 %str1%%str2%Slumbering Obsidian Staff%str3%%str4%,%str1%%str2%Дремлющий обсидиановый посох%str3%%str4%
 %str1%%str2%Slumbering Obsidian Sword%str3%%str4%,%str1%%str2%Дремлющий обсидиановый меч%str3%%str4%
 %str1%%str2%Slumbering Obsidian Torch%str3%%str4%,%str1%%str2%Дремлющий обсидиановый факел%str3%%str4%
-%str1%%str2%Slumbering Obsidian Warhorn%str3%%str4%,%str1%%str2%Дремлющий обсидиановый рог%str3%%str4%
+%str1%%str2%Slumbering Obsidian Warhorn%str3%%str4%,%str1%%str2%Дремлющий обсидиановый боевой рог%str3%%str4%
 %str1%%str2%Slumbering Suffused Obsidian Heavy Breastplate%str3%%str4%,%str1%%str2%Дремлющий насыщенный обсидиановый тяжёлый нагрудник%str3%%str4%
 %str1%%str2%Slumbering Suffused Obsidian Heavy Cuisses%str3%%str4%,%str1%%str2%Дремлющие насыщенные обсидиановые тяжёлые набедренники%str3%%str4%
 %str1%%str2%Slumbering Suffused Obsidian Heavy Gauntlets%str3%%str4%,%str1%%str2%Дремлющие насыщенные обсидиановые тяжёлые рукавицы%str3%%str4%
@@ -433,7 +433,7 @@ english,translate
 %str1%%str2%Soft Wood Staff%str3%%str4%,%str1%%str2%Посох из мягкой древесины%str3%%str4%
 %str1%%str2%Soft Wood Torch%str3%%str4%,%str1%%str2%Мягкий деревянный факел%str3%%str4%
 %str1%%str2%Soft Wood Trident%str3%%str4%,%str1%%str2%Трезубец из мягкой древесины%str3%%str4%
-%str1%%str2%Soft Wood Warhorn%str3%%str4%,%str1%%str2%Рожок из мягкой древесины%str3%%str4%
+%str1%%str2%Soft Wood Warhorn%str3%%str4%,%str1%%str2%Боевой рог из мягкой древесины%str3%%str4%
 %str1%%str2%Solar Astrolabe Axe%str3%%str4%,%str1%%str2%Топор «Лунная астролябия»%str3%%str4%
 %str1%%str2%Solar Astrolabe Dagger%str3%%str4%,%str1%%str2%Солнечная астролябия: кинжал%str3%%str4%
 %str1%%str2%Solar Astrolabe Focus%str3%%str4%,%str1%%str2%Солнечная астролябия: фокус%str3%%str4%

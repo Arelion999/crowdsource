@@ -21,7 +21,7 @@ english,translate
 %str1%%str2%Sparkling Wrapped Staff%str3%%str4%,%str1%%str2%Сверкающий упакованный посох%str3%%str4%
 %str1%%str2%Sparkling Wrapped Sword%str3%%str4%,%str1%%str2%Сверкающий упакованный меч%str3%%str4%
 %str1%%str2%Sparkling Wrapped Torch%str3%%str4%,%str1%%str2%Сверкающий упакованный факел%str3%%str4%
-%str1%%str2%Sparkling Wrapped Warhorn%str3%%str4%,%str1%%str2%Сверкающий упакованный рог%str3%%str4%
+%str1%%str2%Sparkling Wrapped Warhorn%str3%%str4%,%str1%%str2%Сверкающий упакованный боевой рог%str3%%str4%
 %str1%%str2%Speargun of the Dragon's Deep%str3%%str4%,%str1%%str2%Гарпун драконьей глубины%str3%%str4%
 %str1%%str2%Speargun%str3%%str4%,%str1%%str2%Гарпунное ружьё%str3%%str4%
 %str1%%str2%Spearmarshal's Boots%str3%%str4%,%str1%%str2%Сапоги копьёмаршала%str3%%str4%
@@ -171,7 +171,7 @@ english,translate
 %str1%%str2%Stone-Growth Staff%str3%%str4%,%str1%%str2%Каменный посох%str3%%str4%
 %str1%%str2%Stone-Growth Sword%str3%%str4%,%str1%%str2%Каменный меч%str3%%str4%
 %str1%%str2%Stone-Growth Torch%str3%%str4%,%str1%%str2%Каменный факел%str3%%str4%
-%str1%%str2%Stone-Growth Warhorn%str3%%str4%,%str1%%str2%Каменный рог%str3%%str4%
+%str1%%str2%Stone-Growth Warhorn%str3%%str4%,%str1%%str2%Каменный боевой рог%str3%%str4%
 %str1%%str2%Storm Bow%str3%%str4%,%str1%%str2%Штормовой лук%str3%%str4%
 %str1%%str2%Storm Experiment%str3%%str4%,%str1%%str2%Штормовой эксперимент%str3%%str4%
 %str1%%str2%Storm Eye%str3%%str4%,%str1%%str2%Глаз бури%str3%%str4%
@@ -191,7 +191,7 @@ english,translate
 %str1%%str2%Storm Wizard's Staff%str3%%str4%,%str1%%str2%Посох Грозового Волшебника%str3%%str4%
 %str1%%str2%Storm Wizard's Sword%str3%%str4%,%str1%%str2%Меч Грозового Волшебника%str3%%str4%
 %str1%%str2%Storm Wizard's Torch%str3%%str4%,%str1%%str2%Факел Грозового Волшебника%str3%%str4%
-%str1%%str2%Storm Wizard's Warhorn%str3%%str4%,%str1%%str2%Рог Грозового Волшебника%str3%%str4%
+%str1%%str2%Storm Wizard's Warhorn%str3%%str4%,%str1%%str2%Боевой рог Грозового Волшебника%str3%%str4%
 %str1%%str2%Storm%str3%%str4%,%str1%%str2%Шторм%str3%%str4%
 %str1%%str2%Storm's Eye Axe%str3%%str4%,%str1%%str2%Топор Штормового Ока%str3%%str4%
 %str1%%str2%Storm's Eye Dagger%str3%%str4%,%str1%%str2%Кинжал Ока бури%str3%%str4%
@@ -208,7 +208,7 @@ english,translate
 %str1%%str2%Storm's Eye Staff%str3%%str4%,%str1%%str2%Посох «Око бури»%str3%%str4%
 %str1%%str2%Storm's Eye Sword%str3%%str4%,%str1%%str2%Меч «Око бури»%str3%%str4%
 %str1%%str2%Storm's Eye Torch%str3%%str4%,%str1%%str2%Факел глаза бури%str3%%str4%
-%str1%%str2%Storm's Eye Warhorn%str3%%str4%,%str1%%str2%Рог «Око бури»%str3%%str4%
+%str1%%str2%Storm's Eye Warhorn%str3%%str4%,%str1%%str2%Боевой рог «Око бури»%str3%%str4%
 %str1%%str2%Stormcaller Axe%str3%%str4%,%str1%%str2%Топор зова бури%str3%%str4%
 %str1%%str2%Stormcaller Dagger%str3%%str4%,%str1%%str2%Кинжал зова бури%str3%%str4%
 %str1%%str2%Stormcaller Focus%str3%%str4%,%str1%%str2%Фокус заклинателя бури%str3%%str4%
@@ -258,7 +258,7 @@ english,translate
 %str1%%str2%Strelitzia Crystallinum Staff%str3%%str4%,%str1%%str2%Посох стрелиции кристаллинум%str3%%str4%
 %str1%%str2%Strelitzia Crystallinum Sword%str3%%str4%,%str1%%str2%Меч стрелиции кристаллинум%str3%%str4%
 %str1%%str2%Strelitzia Crystallinum Torch%str3%%str4%,%str1%%str2%Факел «Стрелиция кристаллинум»%str3%%str4%
-%str1%%str2%Strelitzia Crystallinum Warhorn%str3%%str4%,%str1%%str2%Рог «Стрелиция кристаллинум»%str3%%str4%
+%str1%%str2%Strelitzia Crystallinum Warhorn%str3%%str4%,%str1%%str2%Боевой рог «Стрелиция кристаллинум»%str3%%str4%
 %str1%%str2%Strider's Armguards%str3%%str4%,%str1%%str2%Наручи Странника%str3%%str4%
 %str1%%str2%Strider's Boots%str3%%str4%,%str1%%str2%Сапоги заклинателя%str3%%str4%
 %str1%%str2%Strider's Faceguard%str3%%str4%,%str1%%str2%Личина Странника%str3%%str4%
@@ -354,7 +354,7 @@ english,translate
 %str1%%str2%Super Staff%str3%%str4%,%str1%%str2%Сплавленный посох%str3%%str4%
 %str1%%str2%Super Sword%str3%%str4%,%str1%%str2%Супер меч%str3%%str4%
 %str1%%str2%Super Torch%str3%%str4%,%str1%%str2%Супер факел%str3%%str4%
-%str1%%str2%Super Warhorn%str3%%str4%,%str1%%str2%Супер рог%str3%%str4%
+%str1%%str2%Super Warhorn%str3%%str4%,%str1%%str2%Супер боевой рог%str3%%str4%
 %str1%%str2%Swindler Boots%str3%%str4%,%str1%%str2%Сапоги мошенника%str3%%str4%
 %str1%%str2%Swindler Coat%str3%%str4%,%str1%%str2%Пальто мошенника%str3%%str4%
 %str1%%str2%Swindler Gloves%str3%%str4%,%str1%%str2%Перчатки мошенника%str3%%str4%
@@ -388,7 +388,7 @@ english,translate
 "%str1%%str2%Tempest Staff[pl:""Staves""]%str3%%str4%",%str1%%str2%Посох бури%str3%%str4%
 %str1%%str2%Tempest Sword%str3%%str4%,%str1%%str2%Меч бури%str3%%str4%
 "%str1%%str2%Tempest Torch[pl:""Torches""]%str3%%str4%",%str1%%str2%[Факел|факела|факелов] «Буря»%str3%%str4%
-%str1%%str2%Tempest Warhorn%str3%%str4%,%str1%%str2%Рог бури%str3%%str4%
+%str1%%str2%Tempest Warhorn%str3%%str4%,%str1%%str2%Боевой рог бури%str3%%str4%
 %str1%%str2%Tempest's Loop%str3%%str4%,%str1%%str2%Кольцо бури%str3%%str4%
 %str1%%str2%Tempest's Warhorn%str3%%str4%,%str1%%str2%Боевой рог бури%str3%%str4%
 %str1%%str2%Tenebrous Axe%str3%%str4%,%str1%%str2%Мрачный топор%str3%%str4%
