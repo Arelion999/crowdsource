@@ -146,7 +146,7 @@ english,translate
 %str1%%str2%Prismatic Spear%str3%%str4%,%str1%%str2%Призматическое копьё%str3%%str4%
 %str1%%str2%Privateer Axe%str3%%str4%,%str1%%str2%Топор капера%str3%%str4%
 %str1%%str2%Privateer Boots%str3%%str4%,%str1%%str2%Сапоги капера%str3%%str4%
-%str1%%str2%Privateer Coat%str3%%str4%,%str1%%str2%Пальто капера%str3%%str4%
+%str1%%str2%Privateer Coat%str3%%str4%,%str1%%str2%Куртка капера%str3%%str4%
 %str1%%str2%Privateer Dagger%str3%%str4%,%str1%%str2%Каперский кинжал%str3%%str4%
 %str1%%str2%Privateer Focus%str3%%str4%,%str1%%str2%Каперский фокус%str3%%str4%
 %str1%%str2%Privateer Gloves%str3%%str4%,%str1%%str2%Перчатки капера%str3%%str4%
@@ -173,7 +173,7 @@ english,translate
 %str1%%str2%Profane Pants%str3%%str4%,%str1%%str2%Нечестивые штаны%str3%%str4%
 %str1%%str2%Profane Shoes%str3%%str4%,%str1%%str2%Нечестивая обувь%str3%%str4%
 %str1%%str2%Protean Boots%str3%%str4%,%str1%%str2%Протеевские сапоги%str3%%str4%
-%str1%%str2%Protean Coat%str3%%str4%,%str1%%str2%Протейное Покрытие%str3%%str4%
+%str1%%str2%Protean Coat%str3%%str4%,%str1%%str2%Протейная Куртка%str3%%str4%
 %str1%%str2%Protean Epaulets%str3%%str4%,%str1%%str2%Протейские эполеты%str3%%str4%
 %str1%%str2%Protean Gloves%str3%%str4%,%str1%%str2%Протеиновые перчатки%str3%%str4%
 %str1%%str2%Protean Helm%str3%%str4%,%str1%%str2%Протейный шлем%str3%%str4%
@@ -310,7 +310,7 @@ english,translate
 %str1%%str2%Refitted Aureate Warhorn%str3%%str4%,%str1%%str2%Обновленный золотистый боевой рог%str3%%str4%
 %str1%%str2%Regret's Memory%str3%%str4%,%str1%%str2%Память сожаления%str3%%str4%
 %str1%%str2%Reinforced Scale Boots%str3%%str4%,%str1%%str2%Укреплённые чешуйчатые сапоги%str3%%str4%
-%str1%%str2%Reinforced Scale Coat%str3%%str4%,%str1%%str2%Укреплённый чешуйчатый плащ%str3%%str4%
+%str1%%str2%Reinforced Scale Coat%str3%%str4%,%str1%%str2%Укреплённая чешуйчатая куртка%str3%%str4%
 %str1%%str2%Reinforced Scale Gauntlets%str3%%str4%,%str1%%str2%Укреплённые чешуйчатые латные перчатки%str3%%str4%
 %str1%%str2%Reinforced Scale Helm%str3%%str4%,%str1%%str2%Укреплённый чешуйчатый шлем%str3%%str4%
 %str1%%str2%Reinforced Scale Legs%str3%%str4%,%str1%%str2%Укреплённые чешуйчатые поножи%str3%%str4%
@@ -340,7 +340,7 @@ english,translate
 %str1%%str2%Requiem Visage%str3%%str4%,%str1%%str2%Личина реквиема%str3%%str4%
 %str1%%str2%Requiem Walkers%str3%%str4%,%str1%%str2%Поступи реквиема%str3%%str4%
 %str1%%str2%Research%str3%%str4%,%str1%%str2%Исследование%str3%%str4%
-%str1%%str2%Researcher's Coat%str3%%str4%,%str1%%str2%Пальто исследователя%str3%%str4%
+%str1%%str2%Researcher's Coat%str3%%str4%,%str1%%str2%Куртка исследователя%str3%%str4%
 %str1%%str2%Researcher's Epaulets%str3%%str4%,%str1%%str2%Эполеты исследователя%str3%%str4%
 %str1%%str2%Researcher's Livery%str3%%str4%,%str1%%str2%Ливрея исследователя%str3%%str4%
 %str1%%str2%Researcher's Masque%str3%%str4%,%str1%%str2%Маска исследователя%str3%%str4%
@@ -439,7 +439,7 @@ english,translate
 %str1%%str2%Royal Ascalonian Trident%str3%%str4%,%str1%%str2%Королевский аскалонский трезубец%str3%%str4%
 %str1%%str2%Royal Ascalonian Warhorn%str3%%str4%,%str1%%str2%Королевский аскалонский боевой рог%str3%%str4%
 %str1%%str2%Rubicon Boots%str3%%str4%,%str1%%str2%Сапоги Рубикона%str3%%str4%
-%str1%%str2%Rubicon Coat%str3%%str4%,%str1%%str2%Плащ «Рубикон»%str3%%str4%
+%str1%%str2%Rubicon Coat%str3%%str4%,%str1%%str2%Куртка «Рубикон»%str3%%str4%
 %str1%%str2%Rubicon Gloves%str3%%str4%,%str1%%str2%Перчатки Рубикона%str3%%str4%
 %str1%%str2%Rubicon Hat%str3%%str4%,%str1%%str2%Шляпа «Рубикон»%str3%%str4%
 %str1%%str2%Rubicon Leggings%str3%%str4%,%str1%%str2%Поножи «Рубикон»%str3%%str4%
