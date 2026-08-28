@@ -14,7 +14,7 @@ english,translate
 %str1%%str2%Hero's Harpoon Gun%str3%%str4%,%str1%%str2%Геройская гарпунная пушка%str3%%str4%
 %str1%%str2%Hero's Longbow%str3%%str4%,%str1%%str2%Геройский длинный лук%str3%%str4%
 %str1%%str2%Hero's Mace%str3%%str4%,%str1%%str2%Геройская булава%str3%%str4%
-%str1%%str2%Hero's Rifle%str3%%str4%,%str1%%str2%Геройское ружьё%str3%%str4%
+%str1%%str2%Hero's Rifle%str3%%str4%,%str1%%str2%Геройская винтовка%str3%%str4%
 %str1%%str2%Hero's Scepter%str3%%str4%,%str1%%str2%Геройский скипетр%str3%%str4%
 %str1%%str2%Hero's Shield%str3%%str4%,%str1%%str2%Геройский щит%str3%%str4%
 %str1%%str2%Hero's Short Bow%str3%%str4%,%str1%%str2%Геройский короткий лук%str3%%str4%
@@ -58,7 +58,7 @@ english,translate
 %str1%%str2%Icy Dragon Slayer Longbow%str3%%str4%,%str1%%str2%Ледяной длинный лук убийцы драконов%str3%%str4%
 %str1%%str2%Icy Dragon Slayer Mace%str3%%str4%,%str1%%str2%Ледяная булава убийцы драконов%str3%%str4%
 %str1%%str2%Icy Dragon Slayer Pistol%str3%%str4%,%str1%%str2%Ледяной пистолет убийцы драконов%str3%%str4%
-%str1%%str2%Icy Dragon Slayer Rifle%str3%%str4%,%str1%%str2%Ледяное ружьё убийцы драконов%str3%%str4%
+%str1%%str2%Icy Dragon Slayer Rifle%str3%%str4%,%str1%%str2%Ледяная винтовка убийцы драконов%str3%%str4%
 %str1%%str2%Icy Dragon Slayer Scepter%str3%%str4%,%str1%%str2%Ледяной скипетр убийцы драконов%str3%%str4%
 %str1%%str2%Icy Dragon Slayer Shield%str3%%str4%,%str1%%str2%Ледяной щит убийцы драконов%str3%%str4%
 %str1%%str2%Icy Dragon Slayer Short Bow%str3%%str4%,%str1%%str2%Ледяной короткий лук убийцы драконов%str3%%str4%
@@ -96,7 +96,7 @@ english,translate
 %str1%%str2%Immortal Longbow%str3%%str4%,%str1%%str2%Бессмертный длинный лук%str3%%str4%
 %str1%%str2%Immortal Mace%str3%%str4%,%str1%%str2%Бессмертная булава%str3%%str4%
 %str1%%str2%Immortal Pistol%str3%%str4%,%str1%%str2%Бессмертный пистолет%str3%%str4%
-%str1%%str2%Immortal Rifle%str3%%str4%,%str1%%str2%Бессмертное ружьё%str3%%str4%
+%str1%%str2%Immortal Rifle%str3%%str4%,%str1%%str2%Бессмертная винтовка%str3%%str4%
 %str1%%str2%Immortal Scepter%str3%%str4%,%str1%%str2%Бессмертный скипетр%str3%%str4%
 %str1%%str2%Immortal Shield%str3%%str4%,%str1%%str2%Бессмертный щит%str3%%str4%
 %str1%%str2%Immortal Short Bow%str3%%str4%,%str1%%str2%Бессмертный короткий лук%str3%%str4%
@@ -114,7 +114,7 @@ english,translate
 %str1%%str2%Improvised Longbow%str3%%str4%,%str1%%str2%Импровизированный длинный лук%str3%%str4%
 %str1%%str2%Improvised Mace%str3%%str4%,%str1%%str2%Импровизированная булава%str3%%str4%
 %str1%%str2%Improvised Pistol%str3%%str4%,%str1%%str2%Импровизированный пистолет%str3%%str4%
-%str1%%str2%Improvised Rifle%str3%%str4%,%str1%%str2%Импровизированное ружьё%str3%%str4%
+%str1%%str2%Improvised Rifle%str3%%str4%,%str1%%str2%Импровизированная винтовка%str3%%str4%
 %str1%%str2%Improvised Scepter%str3%%str4%,%str1%%str2%Импровизированный скипетр%str3%%str4%
 %str1%%str2%Improvised Shield%str3%%str4%,%str1%%str2%Импровизированный щит%str3%%str4%
 %str1%%str2%Improvised Short Bow%str3%%str4%,%str1%%str2%Импровизированный короткий лук%str3%%str4%
@@ -160,7 +160,7 @@ english,translate
 %str1%%str2%Inquest Mega-Spanner%str3%%str4%,%str1%%str2%Мега-гаечный ключ Инквеста%str3%%str4%
 %str1%%str2%Inquest Pauldrons%str3%%str4%,%str1%%str2%Наплечники Инквеста%str3%%str4%
 %str1%%str2%Inquest Pistol%str3%%str4%,%str1%%str2%Пистолет Инквеста%str3%%str4%
-%str1%%str2%Inquest Rifle%str3%%str4%,%str1%%str2%Ружьё Инквеста%str3%%str4%
+%str1%%str2%Inquest Rifle%str3%%str4%,%str1%%str2%Винтовка Инквеста%str3%%str4%
 %str1%%str2%Inquest Scepter%str3%%str4%,%str1%%str2%Скипетр Инквеста%str3%%str4%
 %str1%%str2%Inquest Shield%str3%%str4%,%str1%%str2%Щит Инквеста%str3%%str4%
 %str1%%str2%Inquest Shoes%str3%%str4%,%str1%%str2%Туфли Инквеста%str3%%str4%
@@ -196,7 +196,7 @@ english,translate
 %str1%%str2%Invoker's Shoulders%str3%%str4%,%str1%%str2%Наплечники заклинателя%str3%%str4%
 %str1%%str2%Iron Axe%str3%%str4%,%str1%%str2%Железный топор%str3%%str4%
 %str1%%str2%Iron Dagger%str3%%str4%,%str1%%str2%Железный кинжал%str3%%str4%
-%str1%%str2%Iron Dominion Rifle%str3%%str4%,%str1%%str2%Ружьё «Владычество железа»%str3%%str4%
+%str1%%str2%Iron Dominion Rifle%str3%%str4%,%str1%%str2%Винтовка «Владычество железа»%str3%%str4%
 %str1%%str2%Iron Greatsword%str3%%str4%,%str1%%str2%Железный двуручный меч%str3%%str4%
 %str1%%str2%Iron Hammer%str3%%str4%,%str1%%str2%Железный молот%str3%%str4%
 %str1%%str2%Iron Legion Combat Blade%str3%%str4%,%str1%%str2%Боевой клинок Железного легиона%str3%%str4%
@@ -208,7 +208,7 @@ english,translate
 %str1%%str2%Iron Mace%str3%%str4%,%str1%%str2%Железная булава%str3%%str4%
 %str1%%str2%Iron Pistol%str3%%str4%,%str1%%str2%Железный пистолет%str3%%str4%
 %str1%%str2%Iron Polearm%str3%%str4%,%str1%%str2%Железное древковое оружие%str3%%str4%
-%str1%%str2%Iron Rifle%str3%%str4%,%str1%%str2%Железное ружьё%str3%%str4%
+%str1%%str2%Iron Rifle%str3%%str4%,%str1%%str2%Железная винтовка%str3%%str4%
 %str1%%str2%Iron Shield%str3%%str4%,%str1%%str2%Железный щит%str3%%str4%
 %str1%%str2%Iron Spear%str3%%str4%,%str1%%str2%Железное копьё%str3%%str4%
 %str1%%str2%Iron Sword%str3%%str4%,%str1%%str2%Железный меч%str3%%str4%
@@ -246,7 +246,7 @@ english,translate
 %str1%%str2%Kaiser Snake Longbow%str3%%str4%,%str1%%str2%Длинный лук «Кайзеров змей»%str3%%str4%
 %str1%%str2%Kaiser Snake Mace%str3%%str4%,%str1%%str2%Булава «Кайзеров змей»%str3%%str4%
 %str1%%str2%Kaiser Snake Pistol%str3%%str4%,%str1%%str2%Пистолет «Кайзеров змей»%str3%%str4%
-%str1%%str2%Kaiser Snake Rifle%str3%%str4%,%str1%%str2%Ружьё «Кайзеров змей»%str3%%str4%
+%str1%%str2%Kaiser Snake Rifle%str3%%str4%,%str1%%str2%Винтовка «Кайзеров змей»%str3%%str4%
 %str1%%str2%Kaiser Snake Scepter%str3%%str4%,%str1%%str2%Скипетр «Кайзеров змей»%str3%%str4%
 %str1%%str2%Kaiser Snake Shield%str3%%str4%,%str1%%str2%Щит «Кайзеров змей»%str3%%str4%
 %str1%%str2%Kaiser Snake Short Bow%str3%%str4%,%str1%%str2%Короткий лук «Кайзеров змей»%str3%%str4%
@@ -265,7 +265,7 @@ english,translate
 %str1%%str2%Keepsake Longbow%str3%%str4%,%str1%%str2%Памятный длинный лук%str3%%str4%
 %str1%%str2%Keepsake Mace%str3%%str4%,%str1%%str2%Памятная булава%str3%%str4%
 %str1%%str2%Keepsake Pistol%str3%%str4%,%str1%%str2%Памятный пистолет%str3%%str4%
-%str1%%str2%Keepsake Rifle%str3%%str4%,%str1%%str2%Памятное ружьё%str3%%str4%
+%str1%%str2%Keepsake Rifle%str3%%str4%,%str1%%str2%Памятная винтовка%str3%%str4%
 %str1%%str2%Keepsake Scepter%str3%%str4%,%str1%%str2%Памятный скипетр%str3%%str4%
 %str1%%str2%Keepsake Shield%str3%%str4%,%str1%%str2%Памятный щит%str3%%str4%
 %str1%%str2%Keepsake Short Bow%str3%%str4%,%str1%%str2%Памятный короткий лук%str3%%str4%
@@ -285,7 +285,7 @@ english,translate
 %str1%%str2%King Toad's Longbow%str3%%str4%,%str1%%str2%Длинный лук Короля Жаба%str3%%str4%
 %str1%%str2%King Toad's Mace%str3%%str4%,%str1%%str2%Булава Короля Жаба%str3%%str4%
 %str1%%str2%King Toad's Pistol%str3%%str4%,%str1%%str2%Пистолет Короля Жаба%str3%%str4%
-%str1%%str2%King Toad's Rifle%str3%%str4%,%str1%%str2%Ружьё Короля Жаба%str3%%str4%
+%str1%%str2%King Toad's Rifle%str3%%str4%,%str1%%str2%Винтовка Короля Жаба%str3%%str4%
 %str1%%str2%King Toad's Scepter%str3%%str4%,%str1%%str2%Скипетр Короля Жаба%str3%%str4%
 %str1%%str2%King Toad's Shield%str3%%str4%,%str1%%str2%Щит Короля Жаба%str3%%str4%
 %str1%%str2%King Toad's Short Bow%str3%%str4%,%str1%%str2%Короткий лук Короля Жаба%str3%%str4%
@@ -313,7 +313,7 @@ english,translate
 %str1%%str2%Kodan Longbow%str3%%str4%,%str1%%str2%Длинный лук коданов%str3%%str4%
 %str1%%str2%Kodan Mace%str3%%str4%,%str1%%str2%Булава коданов%str3%%str4%
 %str1%%str2%Kodan Pistol%str3%%str4%,%str1%%str2%Пистолет коданов%str3%%str4%
-%str1%%str2%Kodan Rifle%str3%%str4%,%str1%%str2%Ружьё коданов%str3%%str4%
+%str1%%str2%Kodan Rifle%str3%%str4%,%str1%%str2%Винтовка коданов%str3%%str4%
 %str1%%str2%Kodan Scepter%str3%%str4%,%str1%%str2%Скипетр коданов%str3%%str4%
 %str1%%str2%Kodan Shield%str3%%str4%,%str1%%str2%Щит коданов%str3%%str4%
 %str1%%str2%Kodan Short Bow%str3%%str4%,%str1%%str2%Короткий лук коданов%str3%%str4%
@@ -362,7 +362,7 @@ english,translate
 %str1%%str2%Krytan Leggings%str3%%str4%,%str1%%str2%Крайтанские поножи%str3%%str4%
 %str1%%str2%Krytan Mace%str3%%str4%,%str1%%str2%Крайтанская булава%str3%%str4%
 %str1%%str2%Krytan Pistol%str3%%str4%,%str1%%str2%Крайтанский пистолет%str3%%str4%
-%str1%%str2%Krytan Rifle%str3%%str4%,%str1%%str2%Крайтанское ружьё%str3%%str4%
+%str1%%str2%Krytan Rifle%str3%%str4%,%str1%%str2%Крайтанская винтовка%str3%%str4%
 %str1%%str2%Krytan Scepter%str3%%str4%,%str1%%str2%Крайтанский скипетр%str3%%str4%
 %str1%%str2%Krytan Shield%str3%%str4%,%str1%%str2%Крайтанский щит%str3%%str4%
 %str1%%str2%Krytan Short Bow%str3%%str4%,%str1%%str2%Крайтанский короткий лук%str3%%str4%
@@ -433,7 +433,7 @@ english,translate
 %str1%%str2%Ley Line Longbow%str3%%str4%,%str1%%str2%Длинный лук лей-линии%str3%%str4%
 %str1%%str2%Ley Line Mace%str3%%str4%,%str1%%str2%Булава лей-линии%str3%%str4%
 %str1%%str2%Ley Line Pistol%str3%%str4%,%str1%%str2%Пистолет лей-линии%str3%%str4%
-%str1%%str2%Ley Line Rifle%str3%%str4%,%str1%%str2%Ружьё лей-линии%str3%%str4%
+%str1%%str2%Ley Line Rifle%str3%%str4%,%str1%%str2%Винтовка лей-линии%str3%%str4%
 %str1%%str2%Ley Line Scepter%str3%%str4%,%str1%%str2%Скипетр лей-линии%str3%%str4%
 %str1%%str2%Ley Line Shield%str3%%str4%,%str1%%str2%Щит лей-линии%str3%%str4%
 %str1%%str2%Ley Line Short Bow%str3%%str4%,%str1%%str2%Короткий лук лей-линии%str3%%str4%

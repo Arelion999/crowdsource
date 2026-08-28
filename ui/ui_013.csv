@@ -112,7 +112,7 @@ english,translate
 %str1%%str2%Steam Hammer%str3%%str4%,%str1%%str2%Паровой молот%str3%%str4%
 %str1%%str2%Steam Mace%str3%%str4%,%str1%%str2%Паровая булава%str3%%str4%
 %str1%%str2%Steam Pistol%str3%%str4%,%str1%%str2%Паровой пистолет%str3%%str4%
-%str1%%str2%Steam Rifle%str3%%str4%,%str1%%str2%Паровое ружьё%str3%%str4%
+%str1%%str2%Steam Rifle%str3%%str4%,%str1%%str2%Паровая винтовка%str3%%str4%
 %str1%%str2%Steam Scepter%str3%%str4%,%str1%%str2%Паровой скипетр%str3%%str4%
 %str1%%str2%Steam Shield%str3%%str4%,%str1%%str2%Паровой щит%str3%%str4%
 %str1%%str2%Steam Short Bow%str3%%str4%,%str1%%str2%Паровой короткий лук%str3%%str4%
@@ -201,7 +201,7 @@ english,translate
 %str1%%str2%Storm's Eye Longbow%str3%%str4%,%str1%%str2%Длинный лук «Глаз бури»%str3%%str4%
 %str1%%str2%Storm's Eye Mace%str3%%str4%,%str1%%str2%Булава «Око бури»%str3%%str4%
 %str1%%str2%Storm's Eye Pistol%str3%%str4%,%str1%%str2%Пистолет «Глаз бури»%str3%%str4%
-%str1%%str2%Storm's Eye Rifle%str3%%str4%,%str1%%str2%Ружьё Штормового Ока%str3%%str4%
+%str1%%str2%Storm's Eye Rifle%str3%%str4%,%str1%%str2%Винтовка Штормового Ока%str3%%str4%
 %str1%%str2%Storm's Eye Scepter%str3%%str4%,%str1%%str2%Скипетр Буреока%str3%%str4%
 %str1%%str2%Storm's Eye Shield%str3%%str4%,%str1%%str2%Щит буреока%str3%%str4%
 %str1%%str2%Storm's Eye Short Bow%str3%%str4%,%str1%%str2%Короткий лук «Око бури»%str3%%str4%
@@ -381,7 +381,7 @@ english,translate
 %str1%%str2%Tempest Longbow%str3%%str4%,%str1%%str2%Длинный лук бури%str3%%str4%
 %str1%%str2%Tempest Mace%str3%%str4%,%str1%%str2%Булава бури%str3%%str4%
 %str1%%str2%Tempest Pistol%str3%%str4%,%str1%%str2%Пистолет Инквеста%str3%%str4%
-%str1%%str2%Tempest Rifle%str3%%str4%,%str1%%str2%Ружьё Инквеста%str3%%str4%
+%str1%%str2%Tempest Rifle%str3%%str4%,%str1%%str2%Винтовка Инквеста%str3%%str4%
 %str1%%str2%Tempest Scepter%str3%%str4%,%str1%%str2%Скипетр бури%str3%%str4%
 %str1%%str2%Tempest Shield%str3%%str4%,%str1%%str2%Щит Инквеста%str3%%str4%
 %str1%%str2%Tempest Short Bow%str3%%str4%,%str1%%str2%Короткий лук бури%str3%%str4%
@@ -398,7 +398,7 @@ english,translate
 %str1%%str2%Tenebrous Longbow%str3%%str4%,%str1%%str2%Мрачный длинный лук%str3%%str4%
 %str1%%str2%Tenebrous Mace%str3%%str4%,%str1%%str2%Мрачная булава%str3%%str4%
 %str1%%str2%Tenebrous Pistol%str3%%str4%,%str1%%str2%Мрачный пистолет%str3%%str4%
-%str1%%str2%Tenebrous Rifle%str3%%str4%,%str1%%str2%Мрачное ружьё%str3%%str4%
+%str1%%str2%Tenebrous Rifle%str3%%str4%,%str1%%str2%Мрачная винтовка%str3%%str4%
 %str1%%str2%Tenebrous Scepter%str3%%str4%,%str1%%str2%Мрачный скипетр%str3%%str4%
 %str1%%str2%Tenebrous Shield%str3%%str4%,%str1%%str2%Мрачный щит%str3%%str4%
 %str1%%str2%Tenebrous Short Bow%str3%%str4%,%str1%%str2%Мрачный короткий лук%str3%%str4%
@@ -415,7 +415,7 @@ english,translate
 %str1%%str2%Tengu Echo Longbow%str3%%str4%,%str1%%str2%Длинный лук «Эхо тенгу»%str3%%str4%
 %str1%%str2%Tengu Echo Mace%str3%%str4%,%str1%%str2%Булава «Эхо тенгу»%str3%%str4%
 %str1%%str2%Tengu Echo Pistol%str3%%str4%,%str1%%str2%Пистолет «Эхо тенгу»%str3%%str4%
-%str1%%str2%Tengu Echo Rifle%str3%%str4%,%str1%%str2%Ружьё «Эхо тенгу»%str3%%str4%
+%str1%%str2%Tengu Echo Rifle%str3%%str4%,%str1%%str2%Винтовка «Эхо тенгу»%str3%%str4%
 %str1%%str2%Tengu Echo Scepter%str3%%str4%,%str1%%str2%Скипетр «Эхо тенгу»%str3%%str4%
 %str1%%str2%Tengu Echo Shield%str3%%str4%,%str1%%str2%Щит «Эхо тенгу»%str3%%str4%
 %str1%%str2%Tengu Echo Short Bow%str3%%str4%,%str1%%str2%Короткий лук «Эхо тенгу»%str3%%str4%
@@ -428,7 +428,7 @@ english,translate
 %str1%%str2%Tengu Hammer%str3%%str4%,%str1%%str2%Молот тенгу%str3%%str4%
 %str1%%str2%Tengu Longbow%str3%%str4%,%str1%%str2%Длинный лук тенгу%str3%%str4%
 %str1%%str2%Tengu Mace%str3%%str4%,%str1%%str2%Булава тенгу%str3%%str4%
-%str1%%str2%Tengu Rifle%str3%%str4%,%str1%%str2%Ружьё тенгу%str3%%str4%
+%str1%%str2%Tengu Rifle%str3%%str4%,%str1%%str2%Винтовка тенгу%str3%%str4%
 %str1%%str2%Tengu Scepter%str3%%str4%,%str1%%str2%Скипетр тенгу%str3%%str4%
 %str1%%str2%Tengu Shield%str3%%str4%,%str1%%str2%Щит тенгу%str3%%str4%
 %str1%%str2%Tengu Staff%str3%%str4%,%str1%%str2%Посох тенгу%str3%%str4%

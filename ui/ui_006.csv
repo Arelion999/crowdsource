@@ -23,7 +23,7 @@ english,translate
 %str1%%str2%Ebon Vanguard Longbow%str3%%str4%,%str1%%str2%Длинный лук Чёрного Авангарда%str3%%str4%
 %str1%%str2%Ebon Vanguard Mace%str3%%str4%,%str1%%str2%Булава Чёрного Авангарда%str3%%str4%
 %str1%%str2%Ebon Vanguard Pistol%str3%%str4%,%str1%%str2%Пистолет Чёрного Авангарда%str3%%str4%
-%str1%%str2%Ebon Vanguard Rifle%str3%%str4%,%str1%%str2%Ружьё Чёрного Авангарда%str3%%str4%
+%str1%%str2%Ebon Vanguard Rifle%str3%%str4%,%str1%%str2%Винтовка Чёрного Авангарда%str3%%str4%
 %str1%%str2%Ebon Vanguard Scepter%str3%%str4%,%str1%%str2%Скипетр Чёрного Авангарда%str3%%str4%
 %str1%%str2%Ebon Vanguard Shield%str3%%str4%,%str1%%str2%Щит Чёрного Авангарда%str3%%str4%
 %str1%%str2%Ebon Vanguard Short Bow%str3%%str4%,%str1%%str2%Короткий лук Чёрного Авангарда%str3%%str4%
@@ -130,7 +130,7 @@ english,translate
 %str1%%str2%Embellished Longbow%str3%%str4%,%str1%%str2%Украшенный длинный лук%str3%%str4%
 %str1%%str2%Embellished Mace%str3%%str4%,%str1%%str2%Украшенная булава%str3%%str4%
 %str1%%str2%Embellished Pistol%str3%%str4%,%str1%%str2%Украшенный пистолет%str3%%str4%
-%str1%%str2%Embellished Rifle%str3%%str4%,%str1%%str2%Украшенное ружьё%str3%%str4%
+%str1%%str2%Embellished Rifle%str3%%str4%,%str1%%str2%Украшенная винтовка%str3%%str4%
 %str1%%str2%Embellished Scepter%str3%%str4%,%str1%%str2%Украшенный скипетр%str3%%str4%
 %str1%%str2%Embellished Shield%str3%%str4%,%str1%%str2%Украшенный щит%str3%%str4%
 %str1%%str2%Embellished Short Bow%str3%%str4%,%str1%%str2%Украшенный короткий лук%str3%%str4%
@@ -260,7 +260,7 @@ english,translate
 %str1%%str2%Fast Constructor's Longbow%str3%%str4%,%str1%%str2%Длинный лук быстрого конструктора%str3%%str4%
 %str1%%str2%Fast Constructor's Mace%str3%%str4%,%str1%%str2%Булава быстрого конструктора%str3%%str4%
 %str1%%str2%Fast Constructor's Pistol%str3%%str4%,%str1%%str2%Пистолет быстрого конструктора%str3%%str4%
-%str1%%str2%Fast Constructor's Rifle%str3%%str4%,%str1%%str2%Ружьё быстрого конструктора%str3%%str4%
+%str1%%str2%Fast Constructor's Rifle%str3%%str4%,%str1%%str2%Винтовка быстрого конструктора%str3%%str4%
 %str1%%str2%Fast Constructor's Scepter%str3%%str4%,%str1%%str2%Скипетр быстрого конструктора%str3%%str4%
 %str1%%str2%Fast Constructor's Shield%str3%%str4%,%str1%%str2%Щит быстрого конструктора%str3%%str4%
 %str1%%str2%Fast Constructor's Short Bow%str3%%str4%,%str1%%str2%Короткий лук быстрого конструктора%str3%%str4%
@@ -289,7 +289,7 @@ english,translate
 %str1%%str2%Fiery Dragon Slayer Longbow%str3%%str4%,%str1%%str2%Огненный длинный лук убийцы драконов%str3%%str4%
 %str1%%str2%Fiery Dragon Slayer Mace%str3%%str4%,%str1%%str2%Огненная булава убийцы драконов%str3%%str4%
 %str1%%str2%Fiery Dragon Slayer Pistol%str3%%str4%,%str1%%str2%Огненный пистолет убийцы драконов%str3%%str4%
-%str1%%str2%Fiery Dragon Slayer Rifle%str3%%str4%,%str1%%str2%Огненное ружьё убийцы драконов%str3%%str4%
+%str1%%str2%Fiery Dragon Slayer Rifle%str3%%str4%,%str1%%str2%Огненная винтовка убийцы драконов%str3%%str4%
 %str1%%str2%Fiery Dragon Slayer Scepter%str3%%str4%,%str1%%str2%Огненный скипетр убийцы драконов%str3%%str4%
 %str1%%str2%Fiery Dragon Slayer Shield%str3%%str4%,%str1%%str2%Огненный щит убийцы драконов%str3%%str4%
 %str1%%str2%Fiery Dragon Slayer Short Bow%str3%%str4%,%str1%%str2%Огненный короткий лук убийцы драконов%str3%%str4%
@@ -351,7 +351,7 @@ english,translate
 %str1%%str2%Flame Legion Wraps%str3%%str4%,%str1%%str2%Обмотки Легиона Пламени%str3%%str4%
 %str1%%str2%Flame Mace%str3%%str4%,%str1%%str2%Пламенная булава%str3%%str4%
 %str1%%str2%Flame Pistol%str3%%str4%,%str1%%str2%Пламенный пистолет%str3%%str4%
-%str1%%str2%Flame Rifle%str3%%str4%,%str1%%str2%Пламенное ружьё%str3%%str4%
+%str1%%str2%Flame Rifle%str3%%str4%,%str1%%str2%Пламенная винтовка%str3%%str4%
 %str1%%str2%Flame Scepter%str3%%str4%,%str1%%str2%Пламенный скипетр%str3%%str4%
 %str1%%str2%Flame Short Bow%str3%%str4%,%str1%%str2%Пламенный короткий лук%str3%%str4%
 %str1%%str2%Flame Spear%str3%%str4%,%str1%%str2%Пламенное копьё%str3%%str4%
@@ -452,7 +452,7 @@ english,translate
 %str1%%str2%Fractal Longbow%str3%%str4%,%str1%%str2%Фрактальный длинный лук%str3%%str4%
 %str1%%str2%Fractal Mace%str3%%str4%,%str1%%str2%Фрактальная булава%str3%%str4%
 %str1%%str2%Fractal Pistol%str3%%str4%,%str1%%str2%Фрактальный пистолет%str3%%str4%
-%str1%%str2%Fractal Rifle%str3%%str4%,%str1%%str2%Фрактальное ружьё%str3%%str4%
+%str1%%str2%Fractal Rifle%str3%%str4%,%str1%%str2%Фрактальная винтовка%str3%%str4%
 %str1%%str2%Fractal Scepter%str3%%str4%,%str1%%str2%Фрактальный скипетр%str3%%str4%
 %str1%%str2%Fractal Shield%str3%%str4%,%str1%%str2%Фрактальный щит%str3%%str4%
 %str1%%str2%Fractal Short Bow%str3%%str4%,%str1%%str2%Фрактальный короткий лук%str3%%str4%
@@ -473,7 +473,7 @@ english,translate
 %str1%%str2%Frostforged Longbow%str3%%str4%,%str1%%str2%Морозокованый длинный лук%str3%%str4%
 %str1%%str2%Frostforged Mace%str3%%str4%,%str1%%str2%Морозокованая булава%str3%%str4%
 %str1%%str2%Frostforged Pistol%str3%%str4%,%str1%%str2%Морозокованый пистолет%str3%%str4%
-%str1%%str2%Frostforged Rifle%str3%%str4%,%str1%%str2%Морозокованое ружьё%str3%%str4%
+%str1%%str2%Frostforged Rifle%str3%%str4%,%str1%%str2%Морозокованая винтовка%str3%%str4%
 %str1%%str2%Frostforged Scepter%str3%%str4%,%str1%%str2%Морозокованый скипетр%str3%%str4%
 %str1%%str2%Frostforged Shield%str3%%str4%,%str1%%str2%Морозокованый щит%str3%%str4%
 %str1%%str2%Frostforged Short Bow%str3%%str4%,%str1%%str2%Морозокованый короткий лук%str3%%str4%
@@ -489,4 +489,4 @@ english,translate
 %str1%%str2%Full Moon Longbow%str3%%str4%,%str1%%str2%Длинный лук «Полная луна»%str3%%str4%
 %str1%%str2%Full Moon Mace%str3%%str4%,%str1%%str2%Булава «Полная луна»%str3%%str4%
 %str1%%str2%Full Moon Pistol%str3%%str4%,%str1%%str2%Пистолет «Полная луна»%str3%%str4%
-%str1%%str2%Full Moon Rifle%str3%%str4%,%str1%%str2%Ружьё «Полная луна»%str3%%str4%
+%str1%%str2%Full Moon Rifle%str3%%str4%,%str1%%str2%Винтовка «Полная луна»%str3%%str4%
