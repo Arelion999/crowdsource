@@ -74,12 +74,12 @@ Copper Deer Chest,Медный сундук оленя
 Copper Dolyak Chest,Медный сундук дольяка
 Copper Doubloon[s],[Медный дублон|Медного дублона|Медных дублонов]
 Copper Dragon Chest,Медный сундук дракона
-Copper Dye[s],[Медная краска|Медной краски|Медных красок]
+Copper Dye[s],[Краска|Краски|Красок] «Медь»
 Copper Filigree[s],[Медная филигрань|Медные филиграни|Медных филиграней]
 Copper Hook[s],[Медный крюк|Медных крюка|Медных крюков]
 Copper Ingot[s],[Медный слиток|Медных слитка|Медных слитков]
 Copper Nib[s],[Медное перо|Медных пера|Медных перьев]
-Copper Penny Dye[s],[Краска|Краски|Красок] «Медное пенни»
+Copper Penny Dye[s],[Краска|Краски|Красок] «Медный пенни»
 Copper Phoenix Chest,Сундук медного феникса
 Copper Pot Dye[s],[Краска|Краски|Красок] «Медный горшок»
 Copper Rabbit Chest,Сундук медного кролика
@@ -128,7 +128,7 @@ Coriander Seed[s],[Семя|Семени|Семян] кориандра
 "Corner Stairs[pl:""Stairs""] 120 x 30",Уголок Лестницы 120 x 30
 "Corner Stairs[pl:""Stairs""] 120 x 360",Угловая лестница 120 x 360
 Corner Wall[s],[Угловая стена|Угловой стены|Угловых стен]
-Cornsilk Dye[s],[Краска|Краски|Красок] «Кукурузный шелк»
+Cornsilk Dye[s],[Краска|Краски|Красок] «Кукурузный шёлк»
 Corporal Dansky,Капрал Дански
 Corporal Francis,Капрал Фрэнсис
 Corporal Vaughan,Капрал Воган
@@ -321,8 +321,8 @@ Countess Anise / Decima,Графиня Аниза / Децима
 Counting down! Time until next point tally %str1%:%str2%,Обратный отсчёт! Время до следующего подсчёта очков %str1%:%str2%
 Counting large crates by the shipping docks.,Подсчёт больших ящиков у погрузочных доков.
 Country Blond,Деревенский блонд
-Country Blue Dye[s],Краситель[|я|ей] «Деревенская синева»
-Country Teal Dye[s],Краситель[|я|ей] «Деревенская бирюза»
+Country Blue Dye[s],[Краска|Краски|Красок] «Деревенская синева»
+Country Teal Dye[s],[Краска|Краски|Красок] «Деревенская бирюза»
 "Courage in the Face of Death[pl:""Death""]",Храбрость перед лицом смерти
 "Courage in the Face of Lost Will[pl:""Will""]",Мужество перед лицом утраченной воли
 "Courage in the Face of Oblivion[pl:""Oblivion""]",[Мужество перед лицом забвения|Мужества перед лицом забвения|Мужеств перед лицом забвения]
@@ -462,9 +462,9 @@ Crazed Harathi Trampler,Одержимый топтун Харати
 Crazed Vigil Marksman,Безумный стрелок из Дозора
 Crazed Whispers Agent,Безумный агент Шепчущих
 "Crazy-strong enemy (40,000,000 health).","Безумно сильный враг (40,000,000 здоровья)."
-Cream Dye[s],[Кремовый краситель|Кремового красителя|Кремовых красителей]
-Cream Shade Dye[s],[Краситель кремового оттенка|Красителя кремового оттенка|Красителей кремового оттенка]
-Creamsicle Dye[s],[Краситель «Кремсикл»|Красителя «Кремсикл»|Красителей «Кремсикл»]
+Cream Dye[s],[Краска|Краски|Красок] «Крем»
+Cream Shade Dye[s],[Краска|Краски|Красок] «Сливочный оттенок»
+Creamsicle Dye[s],[Краска|Краски|Красок] «Сливочное эскимо»
 Creased Journal Page,Помятая страница дневника
 Create 1 Item with the Mystic Forge,Создать 1 предмет в Мистической кузнице
 "Create a bastion at your target location, damaging enemies and assisting allies.","Создайте бастион в указанной точке, нанося урон врагам и помогая союзникам."
