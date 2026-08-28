@@ -6,10 +6,10 @@ Knock down your foe with a charged wind blast.,Сбить вашего прот�
 "Knock down your foe. Weakened foes stay knocked down longer. Recharges Fierce Blow if you control a foe with this ability.
 <c=reminder>Recharges Fierce Blow if striking a target with a defiance bar.</c>","Сбейте врага с ног. Ослабленные враги дольше остаются сбитыми с ног. Перезаряжает «Свирепый удар», если вы контролируете врага с помощью этой способности.
 <c=reminder>Перезаряжает «Свирепый удар» при попадании по цели с полоской стойкости.</c>"
-Knockback,Отбрасывание
-Knockback Distance,Дистанция отбрасывания
-Knockback foes with a spread of rockets.,Отбросьте врагов веером ракет.
-Knockback on Landing,Отбрасывание при приземлении
+Knockback,Отталкивание
+Knockback Distance,Дистанция отталкивания
+Knockback foes with a spread of rockets.,Оттолкните врагов веером ракет.
+Knockback on Landing,Отталкивание при приземлении
 Knockdown,Нокдаун
 Knocks foes down.,Сбивает врагов с ног.
 Knot Shot,Узловой выстрел
@@ -29,7 +29,7 @@ Lash out against nearby foes.,Нанесите удар по ближайшим 
 Lash your foe with lightning.,Хлыстнуть своего противника молнией.
 "Lashes out in a series of furious strikes, knocking back and damaging enemies and calling down fire from the skies.","Наносит серию яростных ударов, отбрасывая и повреждая врагов, а также призывая огонь с небес."
 Lashtail Venom,Яд хвоста-хлыста
-Launch,Подброс
+Launch,Отбрасывание
 Launch Personal Battering Ram,Запуск личного тарана
 Launch Wall,Запуск стены
 Launch a deployable net wall to immobilize foes caught within.,"Выстрелить сетью, которую можно развернуть, чтобы обездвижить противников, которые попадутся в неё."
@@ -385,9 +385,9 @@ Maximum Flow,Максимальный поток
 Maximum Heat,Максимальный жар
 Maximum Impacts,Максимальное количество попаданий
 Maximum Jumps,Максимальное количество прыжков
-Maximum Knockback,Максимальное отбрасывание
-Maximum Knockback Distance,Максимальная дистанция отбрасывания
-Maximum Launch Distance,Максимальная дистанция подбрасывания
+Maximum Knockback,Максимальное отталкивание
+Maximum Knockback Distance,Максимальная дистанция отталкивания
+Maximum Launch Distance,Максимальная дистанция отбрасывания
 Maximum Leash Range,Максимальная дистанция привязки
 Maximum Malice,Максимум злобы
 Maximum Might Threshold,Максимальный порог мощи
@@ -464,7 +464,7 @@ Mine Explosion,Взрыв мины
 Mine Field,Минное поле
 Minimum Barrier,Минимальный барьер
 Minimum Damage,Минимальный урон
-Minimum Knockback,Минимальное отбрасывание
+Minimum Knockback,Минимальное отталкивание
 Minimum Number of Projectiles,Минимальное количество снарядов
 Minimum Pushback,Минимальное отталкивание
 Minimum Range,Минимальная дальность

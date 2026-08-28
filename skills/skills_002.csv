@@ -156,7 +156,7 @@ english,translate
 <c=@abilitytype>Physical.</c> Finish the chain with a pulverizing uppercut.,<c=@abilitytype>Физическое.</c> Завершите цепочку сокрушительным апперкотом.
 "<c=@abilitytype>Physical.</c> Fire a dazing dagger at your enemy. If this ability interrupts a skill, gain initiative and a temporary damage increase.","<c=@abilitytype>Физическое.</c> Метайте оглушающий кинжал во врага. Если эта способность прерывает навык, вы получаете инициативу и временное увеличение урона."
 "<c=@abilitytype>Physical.</c> Fling multiple daggers at a single enemy, inflicting conditions.","<c=@abilitytype>Физическое.</c> Метайте несколько кинжалов в одного врага, накладывая состояния."
-<c=@abilitytype>Physical.</c> Gain stability and launch nearby foes into the air with a powerful stomp. Gain stability for each enemy struck.,<c=@abilitytype>Физическое.</c> Получите устойчивость и подбросьте ближайших врагов в воздух мощным топотом. Получите устойчивость за каждого поражённого врага.
+<c=@abilitytype>Physical.</c> Gain stability and launch nearby foes into the air with a powerful stomp. Gain stability for each enemy struck.,<c=@abilitytype>Физическое.</c> Получите устойчивость и отбросьте ближайших врагов в воздух мощным топотом. Получите устойчивость за каждого поражённого врага.
 "<c=@abilitytype>Physical.</c> Guard yourself with light, negating the next incoming strike and healing you instead, even if the strike would have been lethal. If an effect causes damage that would be lethal, that damage will be negated and you will be healed instead. If no attacks or lethal damage are negated, you will be healed for the lowest set amount.","<c=@abilitytype>Физическое.</c> Защитите себя светом, отражая следующую входящую атаку и исцеляя себя вместо получения урона, даже если атака была бы смертельной. Если эффект наносит смертельный урон, этот урон будет отражён, а вы будете исцелены. Если атаки или смертельный урон не отражены, вы будете исцелены на минимальное установленное количество."
 <c=@abilitytype>Physical.</c> Leap into the air and knock down nearby foes where you land.,<c=@abilitytype>Физическое.</c>Прыгните в воздух и сбейте с ног ближайших врагов в месте приземления.
 "<c=@abilitytype>Physical.</c> Lunge forward and perform a whirlwind kick, weakening and burning any foes left in your wake.","<c=@abilitytype>Физическое.</c>Бросьтесь вперёд и выполните вихревой удар ногой, ослабляя и поджигая всех врагов на своем пути."
@@ -652,8 +652,8 @@ A Lightning strike that dazes foes.,"Удар молнии, ошеломляющ
 A barrage of pistol attacks that inflict poison.,"Серия выстрелов из пистолета, накладывающая яд."
 A basic claw attack.,Порезать противника своими когтями.
 A basic melee attack.,"Вызвать у противника кровотечение, укусив его."
-A basic melee knockback.,Базовое отбрасывание в ближнем бою.
-A basic melee knockdown.,Базовое сбивание с ног в ближнем бою.
+A basic melee knockback.,Базовое отталкивание в ближнем бою.
+A basic melee knockdown.,Базовый нокдаун в ближнем бою.
 A basic multi-projectile attack.,Бросить в противника большой булыжник.
 A basic projectile attack.,Базовая атака снарядом.
 "A beam of focused energy cuts a path through the arena, heavily damaging enemies in its path.","Луч сфокусированной энергии прорезает путь через арену, нанося огромный урон врагам на своем пути."
