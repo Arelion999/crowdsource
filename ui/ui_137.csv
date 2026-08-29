@@ -72,7 +72,7 @@ Steal a foe's health upon landing a critical hit. <br><c=@reminder>(Cooldown: 7 
 Steal as many shinies as you can before time runs out!,"Укради как можно больше блестяшек, пока не вышло время!"
 Steal from the enemy! Use [lbracket]%str1%[rbracket] to Shadowstep to a foe and steal one of their skills. Your Steal skill [lbracket]%str1%[rbracket] will change based on what was stolen.,"Кради у врага! Используй [lbracket]%str1%[rbracket], чтобы совершить теневой шаг к врагу и украсть одно из его умений. Твоё умение кражи [lbracket]%str1%[rbracket] изменится в зависимости от украденного."
 Steal from your foe and knock them down.,Кради у врага и сбивай его с ног.
-Steal health and gain shadow force when you torment a foe.<br><c=@warning>Does not grant shadow force while in shroud.</c>,"Крадёт здоровье и даёт теневую силу, когда вы мучаете врага.<br><c=@warning>Не даёт теневую силу, пока вы в шрауде.</c>"
+Steal health and gain shadow force when you torment a foe.<br><c=@warning>Does not grant shadow force while in shroud.</c>,"Крадёт здоровье и даёт теневую силу, когда вы мучаете врага.<br><c=@warning>Не даёт теневую силу, пока вы в саване.</c>"
 Steal health from nearby foes while in combat.,Крадёт здоровье у ближайших врагов во время боя.
 Steal health upon critically hitting a foe. <br><c=@reminder>(Cooldown: 9 Seconds)</c>,Крадёт здоровье при критическом ударе по врагу. <br><c=@reminder>(Перезарядка: 9 сек.)</c>
 Steal life force from your foe with a slash.,Крадёт жизненную силу у врага рубящим ударом.
