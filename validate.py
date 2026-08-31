@@ -35,7 +35,17 @@
   - потеряна подпись письма («—Rytlock» после пустой строки);
   - краевые пробелы не совпали с оригиналом — ломается склейка «Рецепт: » + название;
   - невидимый символ, которого нет в оригинале (zero-width, мягкий перенос):
-    принесён копипастой, ломает поиск по строке и подстановку имён.
+    принесён копипастой, ломает поиск по строке и подстановку имён;
+  - название из слоя pn_* есть в оригинале, но пропало из перевода — переведено
+    («Легион Пламени напал» вместо «Flame Legion напал») или выброшено. И то и
+    другое необратимо: выключатель имён подставляет русское НА английское, а
+    когда английского в строке нет, подставлять уже некуда. Внутри фразы имя
+    обязано остаться латиницей — слой сам покажет его по-русски.
+    Считается только во ФРАЗЕ: строку, которая сама является названием, гасит
+    своя категория целиком, и русская форма в ней законна. Признак фразы — три
+    и более строчных слова вне самого названия. Класс заведён 2026-08-30 и
+    сразу ловит 6,55% корпуса, потому что до сих пор правило не стереглось:
+    `--warn-names` опускает его до предупреждения на время расчистки.
 
 ПРЕДУПРЕЖДЕНИЯ (не блокируют):
   - лишний перенос строки в переводе (чаще хвостовой);
@@ -301,10 +311,22 @@ GLOSSARY_BANS = load_glossary_bans()
 # Берём КАЖДОЕ заглавное слово перевода, а не имя целиком: в корпусе имя стоит в
 # падеже и по частям («Расплавленный Альянс» -> «Расплавленного Альянса»), целиком
 # оно не найдётся никогда.
+def layer_files(root=None):
+    """Батчи слоя имён.
+
+    Слой живёт в `pn/`, а не в корне: `pn_additions.csv`, `pn_harvest.csv` и
+    прочие `pn_*.csv` в корне — это черновики выгрузок, а не слой. Пока сюда
+    подставлялся корень, защита имён строилась по 2 955 словам из черновиков
+    вместо 24 тысяч записей настоящего слоя.
+    """
+    root = root or os.path.dirname(os.path.abspath(__file__))
+    return sorted(glob.glob(os.path.join(root, 'pn', 'pn_*.csv')))
+
+
 def load_name_words(root=None):
     root = root or os.path.dirname(os.path.abspath(__file__))
     words = set()
-    for path in glob.glob(os.path.join(root, 'pn_*.csv')):
+    for path in layer_files(root):
         try:
             rows = csv.reader(open(path, encoding='utf-8-sig', newline=''))
         except OSError:
@@ -324,6 +346,83 @@ def load_name_words(root=None):
     return words
 
 NAME_WORDS = load_name_words()
+
+# ---- название из слоя переведено прямо в тексте вместо латиницы -------------
+# Выключатель имён работает только если общий словарь оставил название латиницей:
+# игрок гасит `pn_*`, а слой подставляет обратно английское. Если же перевод уже
+# написал название кириллицей, вернуть английский нечем — обратимость потеряна.
+EN_CAP = re.compile(r"[A-Z][A-Za-z'’\-]{2,}")
+LOWER_WORD = re.compile(r'(?<![A-Za-z])[a-z]{2,}(?![A-Za-z])')
+
+# Ошибка или предупреждение. Класс заведён 2026-08-30 и сразу поймал 30 544
+# строки (6,55%) в 934 файлах из 996 — то есть блокирует сдачу почти всего
+# корпуса, потому что до сих пор правила никто не стерёг. Держим ошибкой
+# сознательно: так дефект не размножается дальше. Опустить до предупреждения на
+# время расчистки — поставить False здесь или запустить с `--warn-names`.
+NAME_LOST_IS_ERROR = True
+
+
+def load_name_pairs(root=None):
+    """Названия из батчей слоя, разложенные по первому слову.
+
+    Берём только те, у которых в слое есть русская форма: если её нет, слою
+    нечего подставлять и латиница в переводе останется латиницей сама собой.
+    Одиночные слова не берём — в слое их полно по ошибке («Boots», «Champion»,
+    «Keep»), и кириллица на их месте обычный перевод, а не потеря имени.
+    """
+    by_first = {}
+    for path in layer_files(root):
+        try:
+            rows = csv.reader(open(path, encoding='utf-8-sig', newline=''))
+        except OSError:
+            continue
+        for i, r in enumerate(rows):
+            if not i or len(r) < 2:
+                continue
+            en, ru = r[0].strip(), r[1].strip()
+            if len(en.split()) < 2 or not CYR.search(ru):
+                continue
+            w = EN_CAP.findall(en)
+            if not w:
+                continue
+            rx_en = re.compile(r'(?<![A-Za-z])' + re.escape(en) + r'(?![A-Za-z])')
+            by_first.setdefault(w[0], []).append((en, rx_en))
+    return by_first
+
+
+NAME_PAIRS = load_name_pairs()
+
+
+def layer_name_lost(en, ru):
+    """Названия из слоя, которые есть в оригинале и пропали из перевода.
+
+    Правило простое намеренно: искать русскую форму по основе (как делалось
+    сперва) — значит ловить только те переводы, что совпали со слоем дословно.
+    Мимо проходило «Eye of the North» → «Ока Севера», «Bjora Marches» →
+    «Топях Бьоры»: переводчик взял свою форму, и стемминг её не догонял. Отсюда
+    +11 364 строки находок при той же точности. Отсутствие имени в переводе —
+    достаточная улика: неважно, переведено оно или выброшено, вернуть его к
+    английскому выключателем уже нельзя.
+
+    Считаем только во ФРАЗЕ. Строка, которая сама является названием, гасится
+    своей категорией целиком, и русская форма в ней законна. Признак фразы —
+    три и более строчных слова вне самого названия: «(Annual) A Royal Tradition»
+    и «Soft Wood Short Bow» так отсеиваются, а «Combine this weapon in the
+    Mystic Forge with…» остаётся.
+    """
+    if not NAME_PAIRS or len(en.split()) < 4:
+        return []
+    lc_all = len(LOWER_WORD.findall(en))
+    out = []
+    for w in set(EN_CAP.findall(en)):
+        for name, rx_en in NAME_PAIRS.get(w, ()):
+            if name == en.strip() or name in ru:
+                continue
+            if lc_all - len(LOWER_WORD.findall(name)) < 3:
+                continue
+            if rx_en.search(en):
+                out.append(name)
+    return out
 
 # Русский текст не пишут английским Title Case («Знамя Поиска Магии»). Отличить
 # перенесённую капитализацию от имени собственного по одной строке нельзя, поэтому
@@ -913,6 +1012,11 @@ def check_row(en, ru):
         warns.append("потерян маркер списка •")
     if ru.strip() == en.strip() and not CYR.search(en) and re.search(r'[.!?]', en) and len(en) >= 15:
         warns.append("перевод == оригиналу (возможно, не переведено)")
+    lost = layer_name_lost(en, ru)
+    if lost:
+        msg = ("название из слоя пропало из перевода — оставь латиницей, слой "
+               "подставит русскую форму сам: " + ", ".join(sorted(set(lost))[:3]))
+        (errs if NAME_LOST_IS_ERROR else warns).append(msg)
     srv = server_check(en)
     if srv:
         warns.append(srv)
@@ -995,8 +1099,13 @@ def validate_paths(paths):
     return checked, errors, warnings
 
 def main():
+    global NAME_LOST_IS_ERROR
     args = [a for a in sys.argv[1:] if not a.startswith('-')]
     show_warn = '--warnings' in sys.argv
+    if '--warn-names' in sys.argv:
+        # Пропавшее название из слоя — предупреждением, а не ошибкой. Нужно,
+        # пока класс не расчищен: иначе гейт валит 934 файла из 996.
+        NAME_LOST_IS_ERROR = False
     here = os.path.dirname(os.path.abspath(__file__))
     paths = args or [here]
     checked, errors, warnings = validate_paths(paths)

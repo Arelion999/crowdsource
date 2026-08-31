@@ -219,7 +219,19 @@ def save_map(sections, changes, added):
     if added:
         short = {n.split("\x1f")[0]: n for n in by_cat}
         for h, (en, ru, cat) in added.items():
-            key = short.get(cat) or short.get("основной") or next(iter(by_cat))
+            key = short.get(cat)
+            if key is None:
+                # Категории в bin ещё нет. Раньше такая запись молча падала в
+                # «основной»: слой, заведённый новым словарём, целиком оказался
+                # в общей свалке, и группы отключения у него не было. Заводим
+                # секцию — но только если категория известна DICT_NAMES, иначе
+                # опечатка в имени наплодит словарей-призраков.
+                if cat in DICT_NAMES:
+                    key = "%s\x1f%s" % (cat, DICT_NAMES[cat])
+                    by_cat[key] = []
+                    short[cat] = key
+                else:
+                    key = short.get("основной") or next(iter(by_cat))
             by_cat[key].append((h, en, ru))
     return list(by_cat.items())
 
@@ -2732,6 +2744,13 @@ DICT_NAMES = {
     "pn_names": "Имена: персонажи",
     "pn_world_map": "Имена: карта мира",
     "pn_terms": "Имена: термины",
+    # Слои под классы названий, у которых есть своя группа отключения. Заведены
+    # 2026-08-28: категория гасит строку, которая ЦЕЛИКОМ является названием, а
+    # то же название внутри чужой фразы не гасит ничем — это умеет только слой.
+    # Парность важна: «Предметы: названия» и «Имена: предметы» гасятся вместе.
+    "pn_items": "Имена: предметы",
+    "pn_skills": "Имена: умения",
+    "pn_achievements": "Имена: достижения",
     "heart_of_thorns": "Сердце Терний",
     "path_of_fire": "Путь Огня",
     "end_of_dragons": "Конец Драконов",
