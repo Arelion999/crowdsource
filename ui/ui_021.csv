@@ -167,7 +167,7 @@ english,translate
 "<c=@flavor>""The jar seems to retain a remarkable amount of heat.""<br>—Ahjj</c>","<c=@flavor>«Кувшин, похоже, на удивление хорошо удерживает тепло».<br>—Аджж</c>"
 "<c=@flavor>""The less you train with these, the more dangerous you are, to everyone.""<br>—Vigil Tactician Blazefur</c>","<c=@flavor>«Чем меньше ты тренируешься с этим, тем опаснее ты для всех».<br>—Тактик Дозора Блейзфур</c>"
 "<c=@flavor>""The mission isn't done until you come home.""<br>—Brencis Quickblood</c>","<c=@flavor>«Миссия не закончена, пока не вернёшься домой».<br>—Бренсис Быстрая Кровь</c>"
-"<c=@flavor>""The Modniir never saw it coming.""<br>—Forward Scout Greta</c>",<c=@flavor>«Модниры этого не ожидали».<br>—Передовая разведчица Грета</c>
+"<c=@flavor>""The Modniir never saw it coming.""<br>—Forward Scout Greta</c>",<c=@flavor>«Моднииры этого не ожидали».<br>—Передовая разведчица Грета</c>
 "<c=@flavor>""The natural law of combat is to attack your enemy until they stop attacking you.""<br>—Explorer Brokkar</c>","<c=@flavor>«Естественный закон боя — атаковать врага, пока он не перестанет атаковать тебя».<br>—Изыскатель Броккар</c>"
 "<c=@flavor>""The only thing hidden is the true depth of the pain you are going to cause with this.""<br>—Nessa</c>","<c=@flavor>«Единственное, что скрыто, — истинная глубина боли, которую ты причинишь этим».<br>—Несса</c>"
 "<c=@flavor>""The order thanks you for all your help.""<br>—Agent Kaukiri</c>",<c=@flavor>«Орден благодарит тебя за всю твою помощь».<br>—Агент Каукири</c>
@@ -361,8 +361,8 @@ english,translate
 "<c=@flavor>""With what's around here, you can never have too much armor.""<br>—Zalvax Brokenclaw</c>","<c=@flavor>«С тем, что здесь водится, брони много не бывает».<br>—Залвакс Сломанный Коготь</c>"
 "<c=@flavor>""Wolf watches over you.""<br>—Vigmarr</c>",<c=@flavor>«Волк присматривает за тобой».<br>—Вигмарр</c>
 "<c=@flavor>""Words are the sparks that start the flames of ideas.""<br>—Rebel Isaak</c>","<c=@flavor>«Слова — искры, зажигающие пламя идей».<br>—Бунтарь Айзек</c>"
-"<c=@flavor>""Working with Dolyaks takes good boots. You never know what you might step in.""<br>—Lyot</c>","<c=@flavor>«Работа с долиаками требует хороших сапог. Никогда не знаешь, во что вляпаешься».<br>—Лайот</c>"
-"<c=@flavor>""Working with dolyaks takes good boots. You never know what you might step in.""<br>—Lyot</c>","<c=@flavor>«Работа с долиаками требует хороших сапог. Никогда не знаешь, во что вляпаешься».<br>—Лайот</c>"
+"<c=@flavor>""Working with Dolyaks takes good boots. You never know what you might step in.""<br>—Lyot</c>","<c=@flavor>«Работа с дольяками требует хороших сапог. Никогда не знаешь, во что вляпаешься».<br>—Лайот</c>"
+"<c=@flavor>""Working with dolyaks takes good boots. You never know what you might step in.""<br>—Lyot</c>","<c=@flavor>«Работа с дольяками требует хороших сапог. Никогда не знаешь, во что вляпаешься».<br>—Лайот</c>"
 "<c=@flavor>""Written in a strange dredge script. Looks vaguely like Old Dwarven.""<br>—Engineer Radley</c>",<c=@flavor>«Написано странным шрифтом дреджей. Немного похоже на древнедворфийский».<br>—Инженер Рэдли</c>
 "<c=@flavor>""Yes yes, it was a tragedy. But also an opportunity! Those dam pieces are historical artifacts!""<br>—Cin</c><br><br>This item only has value as part of a collection.","<c=@flavor>«Да, да, это была трагедия. Но и возможность тоже! Эти куски дамбы — исторические артефакты!»<br>—Син</c><br><br>Этот предмет ценен только как часть коллекции."
 "<c=@flavor>""Yes, mines have pins, too. It helps keep them from blowing up when carrying them.""<br>—Tiga</c>","<c=@flavor>«Да, у мин тоже есть чеки. Это помогает не дать им взорваться при переноске».<br>—Тига</c>"
@@ -371,8 +371,8 @@ english,translate
 "<c=@flavor>""You can guard against everything but yourself.""<br>—Guard Splintering Serenity</c>","<c=@flavor>«Ты можешь защититься от всего, кроме самого себя».<br>—Страж Дробящий Покой</c>"
 "<c=@flavor>""You can hear this from the highest peaks""<br>—Pact Crusader D'Stolt</c>",<c=@flavor>«Это слышно с самых высоких пиков».<br>—Крестоносец Пакта Д'Столт</c>
 "<c=@flavor>""You can hit them even harder with my special gloves.""<br>—Latera Painstorm</c>",<c=@flavor>«Ты можешь бить их ещё сильнее в моих особых перчатках».<br>—Латера Мукобуря</c>
-"<c=@flavor>""You can read between the lines. More harnesses than Dolyaks.""<br>—Warmaster Jofast</c>","<c=@flavor>«Ты можешь читать между строк. Больше упряжи, чем Долиаков».<br>—Военачальник Джофаст</c>"
-"<c=@flavor>""You can read between the lines. More harnesses than dolyaks.""<br>—Warmaster Jofast</c>","<c=@flavor>«Ты можешь читать между строк. Больше упряжи, чем долиаков».<br>—Военачальник Джофаст</c>"
+"<c=@flavor>""You can read between the lines. More harnesses than Dolyaks.""<br>—Warmaster Jofast</c>","<c=@flavor>«Ты можешь читать между строк. Больше упряжи, чем Дольяков».<br>—Военачальник Джофаст</c>"
+"<c=@flavor>""You can read between the lines. More harnesses than dolyaks.""<br>—Warmaster Jofast</c>","<c=@flavor>«Ты можешь читать между строк. Больше упряжи, чем дольяков».<br>—Военачальник Джофаст</c>"
 "<c=@flavor>""You can still feel magic pulsing through it's veins.""<br>—Leigheara</c>","<c=@flavor>«Ты всё ещё можешь почувствовать, как магия пульсирует по его венам».<br>—Лейхара</c>"
 "<c=@flavor>""You can't beat your enemy if you have your skull caved in, can you?""<br>—Legionnaire Neverburn</c>","<c=@flavor>«Ты не можешь победить врага, если у тебя проломлен череп, так ведь?»<br>—Легионер Негорящий</c>"
 "<c=@flavor>""You can't have light without a little fire, now, can you?""<br>—Maakel The Immortal</c>","<c=@flavor>«Не бывает света без капельки огня, верно?»<br>—Маакель Бессмертный</c>"
@@ -386,10 +386,10 @@ english,translate
 "<c=@flavor>""You kill enough centaurs, you'll need some gloves. Trust me.""<br>—Barnaby</c>",<c=@flavor>«Убьёшь достаточно кентавров — понадобятся перчатки. Поверь мне».<br>—Барнаби</c>
 "<c=@flavor>""You know what they say about idle hands...""<br>—Zalvax Brokenclaw</c>","<c=@flavor>«Ты знаешь, что говорят про праздные руки...»<br>—Залвакс Сломанный Коготь</c>"
 "<c=@flavor>""You lead like quaggan now. OOOoooOOooo""<br>—Commander Spleedoop</c>","<c=@flavor>«Теперь ты ведёшь себя, как квагган. О-О-О-о-о-о-о-О-О-о-о-о»<br>—Командор Сплидуп</c>"
-"<c=@flavor>""You look tougher than a dolyak in these.""<br>—Warmaster Jofast</c>",<c=@flavor>«В этом ты выглядишь крепче долиака».<br>—Военачальник Джофаст</c>
+"<c=@flavor>""You look tougher than a dolyak in these.""<br>—Warmaster Jofast</c>",<c=@flavor>«В этом ты выглядишь крепче дольяка».<br>—Военачальник Джофаст</c>
 "<c=@flavor>""You make the most noise with motion.""<br>—Sizza</c>",<c=@flavor>«Больше всего шума ты производишь движением».<br>—Сицца</c>
 "<c=@flavor>""You must outthink them.""<br>—Sigrytha</c>",<c=@flavor>«Ты должна их перехитрить».<br>—Сигрита</c>
-"<c=@flavor>""You need a good loud horn when working with dolyaks. Keeps them in line.""<br>—Lyot</c>",<c=@flavor>«С долиаками нужен хороший громкий рог. Держит их в узде».<br>—Лайот</c>
+"<c=@flavor>""You need a good loud horn when working with dolyaks. Keeps them in line.""<br>—Lyot</c>",<c=@flavor>«С дольяками нужен хороший громкий рог. Держит их в узде».<br>—Лайот</c>
 "<c=@flavor>""You need these more than I do. I don't wear shoes.""<br>—Hua'racche</c>","<c=@flavor>«Тебе это нужнее, чем мне. Я не ношу обуви».<br>—Хуарраче</c>"
 "<c=@flavor>""You need to follow your enemy, even if it means into the darkness.""<br>—Warden Spy Alarin</c>","<c=@flavor>«Тебе нужно следовать за врагом, даже если это значит идти во тьму».<br>—Страж-шпион Аларин</c>"
 "<c=@flavor>""You need to learn all you can about your enemy if you're going to defeat them.""<br>—Scholar Maroola</c>","<c=@flavor>«Тебе нужно узнать всё возможное о враге, если хочешь его победить».<br>—Учёная Марула</c>"
