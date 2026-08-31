@@ -1129,7 +1129,7 @@ Summons a Black Lion Merchant If Your Inventory Is Full after Gathering (20-Minu
 -14%% к длительности входящих состояний"
 "-18%% Incoming Damage while Stunned, Knocked Down, or Knocked Back
 -14%% Incoming Condition Duration
-+10%% Experience from Kills","-18%% Входящий урон при оглушении, сбивании с ног или отбрасывании
++10%% Experience from Kills","-18%% Входящий урон при оглушении, нокдауне или отбрасывании
 -14%% Длительность входящих состояний
 +10%% Опыт за убийства"
 "-20%% Incoming Condition Duration
@@ -1322,7 +1322,7 @@ Summons a Black Lion Merchant If Your Inventory Is Full after Gathering (20-Minu
 +10%% опыта за убийства"
 "-20%% Incoming Damage while Stunned, Knocked Down, or Knocked Back
 -20%% Incoming Condition Duration
-+10%% Experience from Kills","-20%% Входящий урон при оглушении, сбивании с ног или отбрасывании
++10%% Experience from Kills","-20%% Входящий урон при оглушении, нокдауне или отбрасывании
 -20%% Длительность входящих состояний
 +10%% Опыт за убийства"
 "-24%% Incoming Stun Duration

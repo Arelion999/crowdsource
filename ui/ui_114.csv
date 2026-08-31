@@ -92,7 +92,7 @@ Ranged Bonus: %str1%<br>Magic Bonus: %str2%,Бонус дальнего боя: 
 Ranged Damage,Урон дальнего боя
 Ranged knockdown attack.,"Дальняя атака, сбивающая с ног."
 Ranged Power,Сила дальнего боя
-Ranged projectile attack that causes knockdown.,"Дальняя атакующая атака снарядом, вызывающая сбивание с ног."
+Ranged projectile attack that causes knockdown.,"Дальняя атакующая атака снарядом, вызывающая нокдаун."
 Ranged Resistance,Сопротивление дальнему бою
 Ranged Resistance: %str1%<br>Magic Resistance: %str2%,Сопротивление дальнему бою: %str1%<br>Магическое сопротивление: %str2%
 Ranged Type Attack,Атака типа «дальний бой»
