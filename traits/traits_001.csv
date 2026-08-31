@@ -114,7 +114,7 @@ Luxon abilities grant might.","<c=@abilitytype>Легендарный Альян
 <c=@abilitytype>Weapon spells</c> remove conditions from affected allies. Affected allies receive the full benefit of <c=@abilitytype>weapon spells</c>.,<c=@abilitytype>Оружейные заклинания</c> снимают состояния с затронутых союзников. Затронутые союзники получают полный эффект от <c=@abilitytype>оружейных заклинаний</c>.
 <c=@abilitytype>Well</c> abilities have an increased area of effect and grant superspeed to nearby allies on their first pulse. Your function gyro also grants superspeed to allies when cast.,"<c=@abilitytype>Колодец</c> Область действия умений- источников увеличивается, и они дают сверхскорость союзникам поблизости на первом такте. Ваш Робокоптер также даёт союзникам сверхскорость при активации."
 <c=@abilitytype>Wells</c> heal allies when they end.,<c=@abilitytype>Колодцы</c> Источники исцеляют союзников при окончании.
-"<c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","<c=@reminder>Эффекты контроля включают оглушение, ошеломление, отбрасывание, притягивание, нокдаун, погружение, всплытие, подбрасывание, провокацию и страх.</c>"
+"<c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","<c=@reminder>Эффекты контроля включают оглушение, ошеломление, отталкивание, притягивание, нокдаун, погружение, всплытие, отбрасывание, провокацию и страх.</c>"
 <c=@reminder>The mech does not count against the target count for this trait.</c>,<c=@reminder>Мех не учитывается в лимите целей для этой черты.</c>
 <c=@reminder>Virtuoso: Triggers when stocking a blade.</c>,<c=@reminder>Virtuoso: срабатывает при накоплении клинка.</c>
 "<c=@reminder>While out of combat, you will automatically generate a note every 10 seconds.</c>",<c=@reminder>Вне боя вы будете автоматически генерировать ноту каждые 10 секунд.</c>
@@ -402,7 +402,7 @@ Cast Lesser Symbol of Resolution when you strike an enemy below the health thres
 Cast Lesser Well of Blood when reviving an ally. Wells of Blood revive allies every pulse.,"Вы используете Lesser Well of Blood, когда оживляете союзника. Источники крови оживляют союзников при каждом такте."
 "Cast Lightning Rod when you disable a foe.
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.","Применяет Lightning Rod при наложении контроля на врага.
-<c=@reminder>Контроль включает оглушение, ошеломление, отбрасывание, притягивание, нокдаун, погружение, всплытие, подбрасывание, провокацию и страх."
+<c=@reminder>Контроль включает оглушение, ошеломление, отталкивание, притягивание, нокдаун, погружение, всплытие, отбрасывание, провокацию и страх."
 Cast a skill when you dodge based on your attunement.,"При увороте создается заклинание, зависящее от вашей текущей Стихии."
 Celestial Being,Небесное существо
 Celestial Shadow,Celestial Shadow
@@ -489,7 +489,7 @@ Convert conditions to boons when you use a <c=@abilitytype>stance</c> skill or e
 <c=@reminder>This trait can only trigger when disabled once per interval.
 Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Преобразуйте наносящие урон состояния в благословения всякий раз, когда вы получаете Искажение или становитесь неспособны действовать.
 <c=@reminder>Эта черта может срабатывать при неспособности действовать только один раз за интервал.
-Неспособность действовать включает оглушение, ошеломление, отбрасывание, притягивание, нокдаун, погружение, всплытие, подбрасывание, провокацию и страх.</c>"
+Неспособность действовать включает оглушение, ошеломление, отталкивание, притягивание, нокдаун, погружение, всплытие, отбрасывание, провокацию и страх.</c>"
 Core Value,Основная ценность
 Corona Burst grants a barrier for each target struck.,Коронарный выброс даёт барьер за каждый удар по цели.
 Corrupted Talent,Оскверненный талант
@@ -510,7 +510,7 @@ Crescendo Healing per Instrument,Исцеление Крещендо за инс
 "Crescendo prompts your last-played instrument to take the spotlight, augmenting Crescendo's effects. Playing an instrument recharges Crescendo if a note was consumed.","Крещендо заставляет ваш последний использованный инструмент выйти на передний план, усиливая эффекты Крещендо. Игра на инструменте перезаряжает Крещендо, если была использована нота."
 "Cripple enemies that you disable.
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Наносит хромоту врагам, которых вы выводите из строя.
-<c=@reminder>Вывод из строя включает оглушение, ошеломление, отбрасывание, притягивание, нокдаун, погружение, всплытие, подбрасывание, провокацию и страх.</c>"
+<c=@reminder>Вывод из строя включает оглушение, ошеломление, отталкивание, притягивание, нокдаун, погружение, всплытие, отбрасывание, провокацию и страх.</c>"
 Cripples foes on hit.,Накладывает увечье на врагов при попадании.
 Critical Chance Increase at Full Endurance,Увеличение шанса критического удара при полной выносливости
 Critical Chance Increase on Defiant Foes,Увеличение шанса критического удара по непокорным врагам
