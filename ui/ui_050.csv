@@ -305,7 +305,7 @@ Damage nearby foes and chill them for 1 second when you swap to this weapon whil
 Damage nearby foes and chill them for 1.5 seconds when you swap to this weapon while in combat.<br><c=@reminder>(Cooldown: 9 Seconds)</c>,Наносит урон ближайшим врагам и замедляет их на 1.5 секунды при смене на это оружие в бою.<br><c=@reminder>(Перезарядка: 9 секунд)</c>
 Damage nearby foes and chill them for 2 seconds when you swap to this weapon while in combat.<br><c=@reminder>(Cooldown: 9 Seconds)</c>,Наносит урон ближайшим врагам и замедляет их на 2 секунды при смене на это оружие в бою.<br><c=@reminder>(Перезарядка: 9 секунд)</c>
 Damage On Skill Use,Урон при использовании навыка
-"Damage over time conditions. (Bleeding, Burning, Confusion, Poison, Torment.)","Состояния урона с течением времени. (Кровотечение, Горение, Замешательство, Отравление, Мучение.)"
+"Damage over time conditions. (Bleeding, Burning, Confusion, Poison, Torment.)","Состояния урона с течением времени. (Кровотечение, Горение, Замешательство, Отравление, Боль.)"
 Damage per Condition,Урон за состояние
 Damage Received,Полученный урон
 Damage Stationary,Урон в неподвижности
