@@ -22,7 +22,7 @@ EXECUTE_WAIT_ACTION
 
 >I'm glad we're working together again.","ВЫПОЛНИТЬ_ВЫВОД_ДАННЫХ
 
->Деятельность Инквеста на установке Рата Примус будет приостановлена на неопределенный срок. Это досадно, так как я только начал определять, как можно миниатюризировать мою портальную технологию для личного использования.
+>Деятельность Инквеста на установке Rata Primus будет приостановлена на неопределенный срок. Это досадно, так как я только начал определять, как можно миниатюризировать мою портальную технологию для личного использования.
 
 >Я сделал локальную резервную копию некоторых данных, но Горрик настоял на создании внешних отказоустойчивых копий. Это сработало, конечно, но не помогло то, что я хранил их все внутри самой Рата Примус. Поэтому, когда Рата Примус была захвачена Пробужденными и нас вынудили эвакуироваться, это значительно усложнило ситуацию. Я, по крайней мере, уверен, что мой алгоритм шифрования невозможно взломать без серьёзного повреждения бортовых данных.
 
@@ -164,7 +164,7 @@ Minister Doh Taelin, Ministry of Archives, 1730 CC","Император Битг
 
 Мы, возможно, попытаемся вернуть дворец позже, но... мы не готовы к этому. Не сейчас, когда так много людей всё ещё нуждаются в крыше над головой. Еде.
 
-Министр До Тэлин, Министерство архивов, 1730 КК"
+Министр До Тэлин, Ministry of Archives, 1730 КК"
 "Empress Haebaragi has been officially crowned Cantha's first leading empress. As you'd expect, the news hasn't been met with unanimous praise, but it's a good step in the right direction nonetheless.
 
 Her first order was to make peace with a small tengu village just south of ministry headquarters. Jimin didn't obey. He killed their ambassador on the spot, claiming loyalty to Minister Yeongi's image of a ""pure Cantha"" (a disgusting, long-dated ideology). Haebaragi was able to call off the attack, giving the rest of the tengu villagers enough time to flee to Echovald Forest.
@@ -177,8 +177,8 @@ Minister Doh Taelin, Ministry of Archives, 1743 CC","Императрица Хэ
 
 Я уже слышал шепот о том, что Ёнги собирает силы против Хэбараги... Одна война заканчивается, начинается другая. И ещё одна.
 
-Министр До Тэлин, Министерство архивов, 1743 CC"
-"Empress Haebaragi has been officially crowned Cantha's first leading empress. As you'd expect, the news hasn't been met with unanimous praise, but it's a good step in the right direction nonetheless.Her first order was to make peace with a small tengu village just south of ministry headquarters. Jimin didn't obey. He killed their ambassador on the spot, claiming loyalty to Minister Yeongi's image of a ""pure Cantha"" (a disgusting, long-dated ideology). Haebaragi was able to call off the attack, giving the rest of the tengu villagers enough time to flee to Echovald Forest.I've already heard whispers of Yeongi rallying forces against Haebaragi... One war ends, another begins. And another.Minister Doh Taelin, Ministry of Archives, 1743 CC","Императрица Хэбараги была официально коронована как первая правящая императрица Кантхи. Как и следовало ожидать, эта новость не была встречена единодушной похвалой, но тем не менее это хороший шаг в правильном направлении.Её первым приказом было заключить мир с небольшой деревней тенгу к югу от штаб-квартиры министерства. Джимин не подчинился. Он убил их посла на месте, заявив о верности образу ""чистой Кантхи"" министра Ёнги (отвратительная, давно устаревшая идеология). Хэбараги удалось отменить атаку, дав остальным жителям деревни тенгу достаточно времени, чтобы бежать в Лес Эховальд.Я уже слышал шепот о том, что Ёнги собирает силы против Хэбараги... Одна война заканчивается, начинается другая. И ещё одна.Министр До Тэлин, Министерство архивов, 1743 CC"
+Министр До Тэлин, Ministry of Archives, 1743 CC"
+"Empress Haebaragi has been officially crowned Cantha's first leading empress. As you'd expect, the news hasn't been met with unanimous praise, but it's a good step in the right direction nonetheless.Her first order was to make peace with a small tengu village just south of ministry headquarters. Jimin didn't obey. He killed their ambassador on the spot, claiming loyalty to Minister Yeongi's image of a ""pure Cantha"" (a disgusting, long-dated ideology). Haebaragi was able to call off the attack, giving the rest of the tengu villagers enough time to flee to Echovald Forest.I've already heard whispers of Yeongi rallying forces against Haebaragi... One war ends, another begins. And another.Minister Doh Taelin, Ministry of Archives, 1743 CC","Императрица Хэбараги была официально коронована как первая правящая императрица Кантхи. Как и следовало ожидать, эта новость не была встречена единодушной похвалой, но тем не менее это хороший шаг в правильном направлении.Её первым приказом было заключить мир с небольшой деревней тенгу к югу от штаб-квартиры министерства. Джимин не подчинился. Он убил их посла на месте, заявив о верности образу ""чистой Кантхи"" министра Ёнги (отвратительная, давно устаревшая идеология). Хэбараги удалось отменить атаку, дав остальным жителям деревни тенгу достаточно времени, чтобы бежать в Лес Эховальд.Я уже слышал шепот о том, что Ёнги собирает силы против Хэбараги... Одна война заканчивается, начинается другая. И ещё одна.Министр До Тэлин, Ministry of Archives, 1743 CC"
 "Enables the superheated state of the Falling Star spear.
 +5 Power
 +9 Agony Resistance","Включает перегретое состояние копья Падающей звезды.
@@ -1980,7 +1980,7 @@ Move close to the monster's remains and use <c=@Quest>F</c> to loot.","Отли�
 Подойди к останкам монстра и используй <c=@Quest>F</c>, чтобы собрать."
 Gran Spitfire,Гран Спитфайр
 "Grand Piazza:
-Find this karka celebrating in a cubicle.","Великая площадь:
+Find this karka celebrating in a cubicle.","Grand Piazza:
 Найдите эту карку, празднующую в кабинке."
 "Grants all the benefits of both Experience Boosters and Item Boosters for 2 hours, including:
 • +50%% Experience from All Sources in All Game Types 
@@ -2171,7 +2171,7 @@ Lion's Arch is all abuzz with tall tales from those alcoves of mystery and villa
 
 —Lady Camilla","Приветствую!
 
-Львиная Арка полнится небылицами о тех укромных обителях тайн и злодейства, что зовутся подземельями. Как твой глашатай, я с нетерпением жду вестей о твоих собственных победах, чтобы их разнести. Место сбора для будущих покорителей подземелий устроено в Форте Марринер, так что прошу — встретимся там!
+Lion's Arch полнится небылицами о тех укромных обителях тайн и злодейства, что зовутся подземельями. Как твой глашатай, я с нетерпением жду вестей о твоих собственных победах, чтобы их разнести. Место сбора для будущих покорителей подземелий устроено в Форте Марринер, так что прошу — встретимся там!
 
 —Леди Камилла"
 "Greetings!
@@ -2531,7 +2531,7 @@ I ask that you head to Janthir Syntri to rendezvous with Isgarren, Waiting Sorro
 Anticipating your arrival,
 Countess Anise","Приветствую, Командир,
 
-Во-первых, хорошие новости: благодаря совместным усилиям Тирийского Альянса, Астральной стражи и нескольких добровольцев из сообщества низменных кодан, нам удалось пробиться через северные острова Джантира к окраинам Бава Нисос.
+Во-первых, хорошие новости: благодаря совместным усилиям Тирийского Альянса, Астральной стражи и нескольких добровольцев из сообщества низменных кодан, нам удалось пробиться через северные острова Джантира к окраинам Bava Nisos.
 
 Теперь о — скажу дипломатично — менее хороших новостях: Несмотря на наш прогресс, мы не смогли получить доступ к самому городу. У нас есть команды, обследующие местность прямо сейчас. Но, как это часто бывает, нам бы пригодилась ваша помощь.
 
@@ -2792,9 +2792,9 @@ So, enjoy the holiday! But keep an eye on those toys...
 Он проведёт по одному дню в каждом городе, после чего состоится его финальное празднество в Львином Архиве.
 
 Его расписание таково:
-1-я остановка: Роща
+1-я остановка: The Grove
 2-я остановка: Оплот Божественности
-3-я остановка: Чёрная Цитадель
+3-я остановка: Black Citadel
 4-я остановка: Хельбрек
 5-я остановка: Рата Сам
 Финальная остановка: Львиный Архив
@@ -2824,7 +2824,7 @@ Master Brewer, Eldvin Monastery","Приветствую, друг!
 Крепкого здоровья и полный стакан для вашей жажды,
 
 — Деш Мец,
-Мастер-пивовар, Монастырь Элдвин"
+Мастер-пивовар, Eldvin Monastery"
 "Greetings, friend,
 
 Bash dragons and celebrate your victories by drinking this unique barley wine! Its mild body and rich fruity flavors will always leave you wanting another sip, which can be dangerous, much like fighting dragons. Dragon Bash Barley Wine greatly adds to the experience of this time of year. 
@@ -2849,7 +2849,7 @@ Good health and a glass for your thirst,
 —Desch Metz,
 Master Brewer, Eldvin Monastery","Приветствую, друг,
 
-Монастырь Элдвин желает тебе счастливого нового года! Мы начинаем этот год напитком месяца — тёмным праздничным варевом, воссозданным по древнему кантанскому рецепту. Этот крепкий напиток дарит вкус, что многим напоминает давно минувшие времена. «Эмпиреальный стаут» идеален для тёмных холодных ночей, когда небо усыпано звёздами.
+Eldvin Monastery желает тебе счастливого нового года! Мы начинаем этот год напитком месяца — тёмным праздничным варевом, воссозданным по древнему кантанскому рецепту. Этот крепкий напиток дарит вкус, что многим напоминает давно минувшие времена. «Эмпиреальный стаут» идеален для тёмных холодных ночей, когда небо усыпано звёздами.
 
 Доброго здравия и полного бокала,
 
@@ -3086,7 +3086,7 @@ As the manager and proprietor of the esteemed Black Lion Trading Company, I inte
 
 —Captain Evon Gnashblade","Приветствую.
 
-Как управляющий и владелец почтенной Торговой компании Чёрного Льва, я намерен применить свои руководящие познания, чтобы дать жителям Львиной Арки слаженное правление и заключить торговое соглашение со Святилищем Зефира. Твоя поддержка помогает мне прокладывать путь в этом состязании. Я буду работать с зефиритами в их святилище и призываю тебя присоединиться ко мне. Вместе мы покажем им, что Львиная Арка — достойный деловой партнёр.
+Как управляющий и владелец почтенной Торговой компании Чёрного Льва, я намерен применить свои руководящие познания, чтобы дать жителям Львиной Арки слаженное правление и заключить торговое соглашение со Святилищем Зефира. Твоя поддержка помогает мне прокладывать путь в этом состязании. Я буду работать с зефиритами в их святилище и призываю тебя присоединиться ко мне. Вместе мы покажем им, что Lion's Arch — достойный деловой партнёр.
 
 —Капитан Эвон Гнэшблейд"
 Greetings. May—I—interest—you—in—a—flaggon—of—my—ooze-based—beverage?,Приветствую. Могу—ли—я—заинтересовать—вас—флягой—моего—напитка—на—основе—слизи?

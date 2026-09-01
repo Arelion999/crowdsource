@@ -154,7 +154,7 @@ There is something curiously and perpetually astounding about this jar.,В эт�
 There with Yakkington: A Traveler's Tale,Там с Яккингтоном: История путешественника
 There with Yakkington: A Traveler's Tale (Infused),Там с Яккингтоном: Путешественническая повесть (Насыщенная)
 There with Yakkington: A Travelers Tale Prologue,«Там с Yakkington: рассказ путешественника» — пролог
-There's a miniature Lion's Arch inside... It looks broken.,"Внутри миниатюрная Львиная Арка... Похоже, она сломана."
+There's a miniature Lion's Arch inside... It looks broken.,"Внутри миниатюрная Lion's Arch... Похоже, она сломана."
 There's something inscribed on the back of the necklace. Double-click to investigate.,"«На обратной стороне ожерелья что-то выгравировано. Дважды щёлкните, чтобы изучить»."
 Thermal Emplacement,Термальная установка
 Thermocatalytic Reagent,Термокаталитический реагент
@@ -271,7 +271,7 @@ Expedition options include the following:
 Варианты экспедиций включают следующее:
 • Архипелаг Небесного Дозора
 • Амнитас
-• Внутренний Найос
+• Inner Nayos
 • Разломы"
 "This adds a Black Lion Expedition Board to your home instance, which can be used to collect exotic resources from across Tyria.
 Expedition options include the following:
@@ -300,10 +300,10 @@ Expedition locations include the following:
 • Siren's Landing","Это добавляет доску экспедиций «Чёрного льва» в ваш домашний экземпляр, которую можно использовать для сбора экзотических ресурсов по всей Тирии. 
 Места экспедиций включают следующее:
 • Сухая вершина и Серебряные пустоши
-• Топь Кровавого камня
-• Бухта Углей
+• Bloodstone Fen
+• Ember Bay
 • Граница Горького мороза
-• Озеро Дорик
+• Lake Doric
 • Гора Драконис
 • Пристань Сирены"
 "This adds a Black Lion Expedition Board to your home instance, which can be used to collect exotic resources from across Tyria. 
@@ -315,9 +315,9 @@ Expedition options include the following:
 • Fishing","Это добавляет доску экспедиций «Чёрного льва» в ваш домашний инстанс, которую можно использовать для сбора экзотических ресурсов по всей Тирии.
 Варианты экспедиций включают следующее:
 • Провинция Сейтун
-• Эховальдские дебри
+• The Echovald Wilds
 • Нью-Кайнэн
-• Конец Дракона
+• Dragon's End
 • Рыбалка"
 "This adds a Black Lion Expedition Board to your home instance, which can be used to collect exotic resources from locations in Living World Season 4.
 Gathering locations include the following:
@@ -328,11 +328,11 @@ Gathering locations include the following:
 • Thunderhead Peaks
 • Dragonfall","Это добавляет доску экспедиций «Чёрного льва» в ваш домашний экземпляр, которую можно использовать для сбора экзотических ресурсов из локаций 4-го сезона «Живого мира».
 Места сбора включают следующее:
-• Владения Истана
+• Domain of Istan
 • Пески Островов
-• Владения Курны
+• Domain of Kourna
 • Утёсы Джахаи
-• Пики Громовой головы
+• Thunderhead Peaks
 • Падение Дракона"
 "This adds a Black Lion Hunters Board to your home instance, which can be used to collect fine crafting materials.
 Collectible materials include:
@@ -561,7 +561,7 @@ Combine a White Tigris Cub, a Gray Tigris Cub, and an Orange Tigris Cub with 5 U
 Соедините белого тигренка, серого тигренка и оранжевого тигренка с 5 неизвестными красками в мистической кузнице, чтобы создать мини-тигренка голубого цвета."
 This giant egg seems like it could be a delicacy to some people.,"Это гигантское яйцо, кажется, может быть деликатесом для некоторых людей."
 "This gift can be given to orphans around the city of Divinity's Reach.
-<c=@flavor>""In these days of giving, remember the orphans. A small gift given will bring great joy.""</c>—Queen Jennah","Этот подарок можно передать сиротам в городе Божественный предел.
+<c=@flavor>""In these days of giving, remember the orphans. A small gift given will bring great joy.""</c>—Queen Jennah","Этот подарок можно передать сиротам в городе Divinity's Reach.
 <c=@flavor>«В эти дни дарения не забудьте о сиротах. Небольшой подарок принесет им огромную радость», — королева Дженна.</c>"
 "This gruesome limb once belonged to one of Zhaitan's undead minions. The asura harvesting team can use this body part for experiments.
 Event Item","Эта жуткая конечность когда-то принадлежала одному из нежити Зайтана. Команда асурских исследователей может использовать эту часть тела для экспериментов.
