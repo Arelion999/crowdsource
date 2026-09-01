@@ -1,7 +1,7 @@
 english,translate
 %str1%%str2%Full Moon Scepter%str3%%str4%,%str1%%str2%Скипетр «Полная луна»%str3%%str4%
 %str1%%str2%Full Moon Shield%str3%%str4%,%str1%%str2%Щит «Полная луна»%str3%%str4%
-%str1%%str2%Full Moon Short Bow%str3%%str4%,%str1%%str2%Короткий лук «Полная луна»%str3%%str4%
+%str1%%str2%Full Moon Short Bow%str3%%str4%,%str1%%str2%Short Bow «Полная луна»%str3%%str4%
 %str1%%str2%Full Moon Spear%str3%%str4%,%str1%%str2%Копьё «Полная луна»%str3%%str4%
 %str1%%str2%Full Moon Staff%str3%%str4%,%str1%%str2%Посох «Полная луна»%str3%%str4%
 %str1%%str2%Full Moon Sword%str3%%str4%,%str1%%str2%Меч «Полная луна»%str3%%str4%
@@ -131,7 +131,7 @@ english,translate
 %str1%%str2%Glimmering Resin Rifle%str3%%str4%,%str1%%str2%Винтовка «Мерцающая смола»%str3%%str4%
 %str1%%str2%Glimmering Resin Scepter%str3%%str4%,%str1%%str2%Скипетр «Мерцающая смола»%str3%%str4%
 %str1%%str2%Glimmering Resin Shield%str3%%str4%,%str1%%str2%Щит «Мерцающая смола»%str3%%str4%
-%str1%%str2%Glimmering Resin Short Bow%str3%%str4%,%str1%%str2%Короткий лук «Мерцающая смола»%str3%%str4%
+%str1%%str2%Glimmering Resin Short Bow%str3%%str4%,%str1%%str2%Short Bow «Мерцающая смола»%str3%%str4%
 %str1%%str2%Glimmering Resin Spear%str3%%str4%,%str1%%str2%Копьё «Мерцающая смола»%str3%%str4%
 %str1%%str2%Glimmering Resin Staff%str3%%str4%,%str1%%str2%Посох «Мерцающая смола»%str3%%str4%
 %str1%%str2%Glimmering Resin Sword%str3%%str4%,%str1%%str2%Меч «Мерцающая смола»%str3%%str4%
@@ -253,7 +253,7 @@ english,translate
 %str1%%str2%Gold Fractal Rifle%str3%%str4%,%str1%%str2%Винтовка «Золотой фрактал»%str3%%str4%
 %str1%%str2%Gold Fractal Scepter%str3%%str4%,%str1%%str2%Скипетр «Золотой фрактал»%str3%%str4%
 %str1%%str2%Gold Fractal Shield%str3%%str4%,%str1%%str2%Щит «Золотой фрактал»%str3%%str4%
-%str1%%str2%Gold Fractal Short Bow%str3%%str4%,%str1%%str2%Короткий лук «Золотой фрактал»%str3%%str4%
+%str1%%str2%Gold Fractal Short Bow%str3%%str4%,%str1%%str2%Short Bow «Золотой фрактал»%str3%%str4%
 %str1%%str2%Gold Fractal Speargun%str3%%str4%,%str1%%str2%Гарпунное ружьё «Золотой фрактал»%str3%%str4%
 %str1%%str2%Gold Fractal Staff%str3%%str4%,%str1%%str2%Посох «Золотой фрактал»%str3%%str4%
 %str1%%str2%Gold Fractal Sword%str3%%str4%,%str1%%str2%Меч «Золотой фрактал»%str3%%str4%
@@ -303,7 +303,7 @@ english,translate
 %str1%%str2%Green Wood Harpoon Gun%str3%%str4%,%str1%%str2%Гарпунная пушка из зелёной древесины%str3%%str4%
 %str1%%str2%Green Wood Longbow%str3%%str4%,%str1%%str2%Длинный лук из зелёной древесины%str3%%str4%
 %str1%%str2%Green Wood Scepter%str3%%str4%,%str1%%str2%Скипетр из зелёной древесины%str3%%str4%
-%str1%%str2%Green Wood Short Bow%str3%%str4%,%str1%%str2%Короткий лук из зелёной древесины%str3%%str4%
+%str1%%str2%Green Wood Short Bow%str3%%str4%,%str1%%str2%Short Bow из зелёной древесины%str3%%str4%
 %str1%%str2%Green Wood Staff%str3%%str4%,%str1%%str2%Посох из зелёной древесины%str3%%str4%
 %str1%%str2%Green Wood Torch%str3%%str4%,%str1%%str2%Факел из зелёной древесины%str3%%str4%
 %str1%%str2%Green Wood Trident%str3%%str4%,%str1%%str2%Трезубец из зелёной древесины%str3%%str4%
@@ -385,7 +385,7 @@ english,translate
 %str1%%str2%Gwyl Monarch's Rifle%str3%%str4%,%str1%%str2%Винтовка Монарха Гвил%str3%%str4%
 %str1%%str2%Gwyl Monarch's Scepter%str3%%str4%,%str1%%str2%Скипетр Монарха Гвил%str3%%str4%
 %str1%%str2%Gwyl Monarch's Shield%str3%%str4%,%str1%%str2%Щит Монарха Гвил%str3%%str4%
-%str1%%str2%Gwyl Monarch's Short Bow%str3%%str4%,%str1%%str2%Короткий лук Монарха Гвил%str3%%str4%
+%str1%%str2%Gwyl Monarch's Short Bow%str3%%str4%,%str1%%str2%Short Bow Монарха Гвил%str3%%str4%
 %str1%%str2%Gwyl Monarch's Spear%str3%%str4%,%str1%%str2%Копьё Монарха Гвил%str3%%str4%
 %str1%%str2%Gwyl Monarch's Staff%str3%%str4%,%str1%%str2%Посох Монарха Гвил%str3%%str4%
 %str1%%str2%Gwyl Monarch's Sword%str3%%str4%,%str1%%str2%Меч Монарха Гвил%str3%%str4%
@@ -401,7 +401,7 @@ english,translate
 %str1%%str2%Hard Wood Harpoon Gun%str3%%str4%,%str1%%str2%Гарпунная пушка из твёрдой древесины%str3%%str4%
 %str1%%str2%Hard Wood Longbow%str3%%str4%,%str1%%str2%Длинный лук из твёрдой древесины%str3%%str4%
 %str1%%str2%Hard Wood Scepter%str3%%str4%,%str1%%str2%Скипетр из твёрдой древесины%str3%%str4%
-%str1%%str2%Hard Wood Short Bow%str3%%str4%,%str1%%str2%Короткий лук из твёрдой древесины%str3%%str4%
+%str1%%str2%Hard Wood Short Bow%str3%%str4%,%str1%%str2%Short Bow из твёрдой древесины%str3%%str4%
 %str1%%str2%Hard Wood Staff%str3%%str4%,%str1%%str2%Посох из твёрдой древесины%str3%%str4%
 %str1%%str2%Hard Wood Torch%str3%%str4%,%str1%%str2%Факел из твёрдой древесины%str3%%str4%
 %str1%%str2%Hard Wood Trident%str3%%str4%,%str1%%str2%Трезубец из твёрдой древесины%str3%%str4%

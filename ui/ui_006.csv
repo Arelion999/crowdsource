@@ -26,7 +26,7 @@ english,translate
 %str1%%str2%Ebon Vanguard Rifle%str3%%str4%,%str1%%str2%Винтовка Чёрного Авангарда%str3%%str4%
 %str1%%str2%Ebon Vanguard Scepter%str3%%str4%,%str1%%str2%Скипетр Чёрного Авангарда%str3%%str4%
 %str1%%str2%Ebon Vanguard Shield%str3%%str4%,%str1%%str2%Щит Чёрного Авангарда%str3%%str4%
-%str1%%str2%Ebon Vanguard Short Bow%str3%%str4%,%str1%%str2%Короткий лук Чёрного Авангарда%str3%%str4%
+%str1%%str2%Ebon Vanguard Short Bow%str3%%str4%,%str1%%str2%Short Bow Чёрного Авангарда%str3%%str4%
 %str1%%str2%Ebon Vanguard Spear%str3%%str4%,%str1%%str2%Копьё Чёрного Авангарда%str3%%str4%
 %str1%%str2%Ebon Vanguard Speargun%str3%%str4%,%str1%%str2%Гарпунное ружьё Чёрного Авангарда%str3%%str4%
 %str1%%str2%Ebon Vanguard Staff%str3%%str4%,%str1%%str2%Посох Чёрного Авангарда%str3%%str4%
@@ -45,7 +45,7 @@ english,translate
 %str1%%str2%Elder Wood Harpoon Gun%str3%%str4%,%str1%%str2%Гарпунная пушка из старой древесины%str3%%str4%
 %str1%%str2%Elder Wood Longbow%str3%%str4%,%str1%%str2%Длинный лук из старой древесины%str3%%str4%
 %str1%%str2%Elder Wood Scepter%str3%%str4%,%str1%%str2%Скипетр из старой древесины%str3%%str4%
-%str1%%str2%Elder Wood Short Bow%str3%%str4%,%str1%%str2%Короткий лук из старой древесины%str3%%str4%
+%str1%%str2%Elder Wood Short Bow%str3%%str4%,%str1%%str2%Short Bow из старой древесины%str3%%str4%
 %str1%%str2%Elder Wood Staff%str3%%str4%,%str1%%str2%Посох из старой древесины%str3%%str4%
 %str1%%str2%Elder Wood Torch%str3%%str4%,%str1%%str2%Факел из старой древесины%str3%%str4%
 %str1%%str2%Elder Wood Trident%str3%%str4%,%str1%%str2%Трезубец из старой древесины%str3%%str4%
@@ -263,7 +263,7 @@ english,translate
 %str1%%str2%Fast Constructor's Rifle%str3%%str4%,%str1%%str2%Винтовка быстрого конструктора%str3%%str4%
 %str1%%str2%Fast Constructor's Scepter%str3%%str4%,%str1%%str2%Скипетр быстрого конструктора%str3%%str4%
 %str1%%str2%Fast Constructor's Shield%str3%%str4%,%str1%%str2%Щит быстрого конструктора%str3%%str4%
-%str1%%str2%Fast Constructor's Short Bow%str3%%str4%,%str1%%str2%Короткий лук быстрого конструктора%str3%%str4%
+%str1%%str2%Fast Constructor's Short Bow%str3%%str4%,%str1%%str2%Short Bow быстрого конструктора%str3%%str4%
 %str1%%str2%Fast Constructor's Spear%str3%%str4%,%str1%%str2%Копьё быстрого конструктора%str3%%str4%
 %str1%%str2%Fast Constructor's Staff%str3%%str4%,%str1%%str2%Посох быстрого конструктора%str3%%str4%
 %str1%%str2%Fast Constructor's Sword%str3%%str4%,%str1%%str2%Меч быстрого конструктора%str3%%str4%
@@ -282,19 +282,19 @@ english,translate
 %str1%%str2%Fervid Censer%str3%%str4%,%str1%%str2%Пылкое кадило%str3%%str4%
 %str1%%str2%Festive Hat%str3%%str4%,%str1%%str2%Праздничная шляпа%str3%%str4%
 %str1%%str2%Festive Winter Hood%str3%%str4%,%str1%%str2%Праздничный зимний капюшон%str3%%str4%
-%str1%%str2%Fiery Dragon Slayer Dagger%str3%%str4%,%str1%%str2%Огненный кинжал убийцы драконов%str3%%str4%
+%str1%%str2%Fiery Dragon Slayer Dagger%str3%%str4%,%str1%%str2%Fiery Dragon Slayer Dagger%str3%%str4%
 %str1%%str2%Fiery Dragon Slayer Focus%str3%%str4%,%str1%%str2%Огненный фокус убийцы драконов%str3%%str4%
 %str1%%str2%Fiery Dragon Slayer Greatsword%str3%%str4%,%str1%%str2%Огненный двуручный меч убийцы драконов%str3%%str4%
 %str1%%str2%Fiery Dragon Slayer Hammer%str3%%str4%,%str1%%str2%Огненный молот убийцы драконов%str3%%str4%
 %str1%%str2%Fiery Dragon Slayer Longbow%str3%%str4%,%str1%%str2%Огненный длинный лук убийцы драконов%str3%%str4%
 %str1%%str2%Fiery Dragon Slayer Mace%str3%%str4%,%str1%%str2%Огненная булава убийцы драконов%str3%%str4%
 %str1%%str2%Fiery Dragon Slayer Pistol%str3%%str4%,%str1%%str2%Огненный пистолет убийцы драконов%str3%%str4%
-%str1%%str2%Fiery Dragon Slayer Rifle%str3%%str4%,%str1%%str2%Огненная винтовка убийцы драконов%str3%%str4%
+%str1%%str2%Fiery Dragon Slayer Rifle%str3%%str4%,%str1%%str2%Fiery Dragon Slayer Rifle%str3%%str4%
 %str1%%str2%Fiery Dragon Slayer Scepter%str3%%str4%,%str1%%str2%Огненный скипетр убийцы драконов%str3%%str4%
 %str1%%str2%Fiery Dragon Slayer Shield%str3%%str4%,%str1%%str2%Огненный щит убийцы драконов%str3%%str4%
 %str1%%str2%Fiery Dragon Slayer Short Bow%str3%%str4%,%str1%%str2%Огненный короткий лук убийцы драконов%str3%%str4%
-%str1%%str2%Fiery Dragon Slayer Staff%str3%%str4%,%str1%%str2%Огненный посох убийцы драконов%str3%%str4%
-%str1%%str2%Fiery Dragon Slayer Sword%str3%%str4%,%str1%%str2%Огненный меч убийцы драконов%str3%%str4%
+%str1%%str2%Fiery Dragon Slayer Staff%str3%%str4%,%str1%%str2%Fiery Dragon Slayer Staff%str3%%str4%
+%str1%%str2%Fiery Dragon Slayer Sword%str3%%str4%,%str1%%str2%Fiery Dragon Slayer Sword%str3%%str4%
 %str1%%str2%Fiery Dragon Slayer Torch%str3%%str4%,%str1%%str2%Огненный факел убийцы драконов%str3%%str4%
 %str1%%str2%Fiery Dragon Slayer Warhorn%str3%%str4%,%str1%%str2%Огненный боевой рог убийцы драконов%str3%%str4%
 %str1%%str2%Fiery Dragon Sword%str3%%str4%,%str1%%str2%Огненный драконий меч%str3%%str4%

@@ -294,7 +294,7 @@ Combine this weapon in the Mystic Forge with:,Соедините это оруж
 "<c=@reminder>The Knife Tail Gang have broken into the Trading Company vaults, and Evon's furious!</c=@reminder>","<c=@reminder>Банда Ножехвостов вломилась в хранилища Торговой компании, и Эвон в ярости!</c=@reminder>"
 <c=@reminder>This item is used in collections for the legendary accessory Vision.,<c=@reminder>Этот предмет используется в коллекциях для легендарного аксессуара «Видение».
 <c=@reminder>This mount skin can be found very rarely when completing group events and the meta-event finale in the Eternity's Garden map in Castora.</c>,<c=@reminder>Этот облик скакуна можно найти очень редко при завершении групповых событий и финала метасобытия на карте Сад Вечности в Касторе.</c>
-A Gift of Relics is made by combining these items in the Mystic Forge:,«Дар реликвий» создаётся путём объединения этих предметов в Мистической кузнице:
+A Gift of Relics is made by combining these items in the Mystic Forge:,«Gift of Relics» создаётся путём объединения этих предметов в Мистической кузнице:
 "A Mystic Facet is made by combining these items in the Mystic Forge:
 • 1 Relic
 • 250 Piles of Lucent Crystal 
@@ -350,7 +350,7 @@ A gift bag!","Фрагмент Аурин, настроенный на воду 
 A gift from Kosmas to his broodling. Where did he find this?,Подарок от Космаса его отпрыску. Где он такое нашёл?
 "A gift from Kosmas to his broodling. Where did he find this?,
 This item only has value as part of the Missing Brood collection.","Дар от Космаса его выводку. Где он его нашёл?,
-Этот предмет имеет ценность только как часть коллекции «Пропавший выводок»."
+Этот предмет имеет ценность только как часть коллекции «Missing Brood»."
 A gift of color used to create The Bifrost.,"Дар цвета, используемый для создания «The Bifrost»."
 A gift of darkness used to create Twilight.,"Дар тьмы, используемый для создания «Twilight»."
 A gift of energy used to create generation one and two legendary weapons and the legendary trinkets Vision and Aurora.,"Дар энергии, используемый для создания легендарного оружия первого и второго поколений, а также легендарных украшений «Vision» и «Aurora»."
@@ -772,7 +772,7 @@ Checked out by Lord Azeem. Last seen in the Temple of Joko in Palawadan.,Выд�
 Collect this and return it to the Sanctuary.,Соберите это и верните в Святилище.
 Collecting this will also provide bonus desert Mastery experience.,Сбор этого также даст бонусный опыт пустынного Мастерства.
 "Combine 25 Tales of Adventure, a Gift of Bones
-This item is acquired from the Klobjarne Geirr: Raid or Convergence Victories achievement.","Скомбинируйте 25 Сказаний о приключениях, Дар костей
+This item is acquired from the Klobjarne Geirr: Raid or Convergence Victories achievement.","Скомбинируйте 25 Сказаний о приключениях, Gift of Bones
 Этот предмет получен за достижение «Клобьярне Гейрр: Победы в рейдах или конвергенциях»."
 "Combine 250 Refined Metal, 250 Refined Wood
 This item is purchased from Deft Lahar in your homestead.","Соедините 250 единиц очищенного металла и 250 единиц очищенной древесины.
@@ -782,7 +782,7 @@ Purchased from Visions of Eternity map vendors in exchange for:,
 • 2 Vision Crystals,
 • 55 Mystic Clovers,
 • 100 Tales of Adventure,
-• 500 Unusual Coins","Объедините Дар приключений, Дар морей
+• 500 Unusual Coins","Объедините Gift of Adventure, Gift of the Seas
 Приобретается у торговцев на картах «Видения вечности» в обмен на:
 • 2 кристалла видений,
 • 55 мистических клеверов,
@@ -790,7 +790,7 @@ Purchased from Visions of Eternity map vendors in exchange for:,
 • 500 необычных монет"
 "Combine a Gift of Darkness, a Gift of Scales
 A Gift of Titan Understanding can be purchased from the renown heart vendor in Mistburned Barrens or Ward Trader Sampaguita.","Соедините дар тьмы, дар чешуи.
-Дар понимания титанов можно приобрести у торговца по симпатиям в Выжженных пустошах или у торговца Спайкампуаты."
+Gift of Titan Understanding можно приобрести у торговца по симпатиям в Выжженных пустошах или у торговца Спайкампуаты."
 "Combine a Gift of Embracing Refuge, a Gift of Condensed Might
 Created in the Mystic Forge by combining:,
 • 250 Refined Metal,
@@ -829,7 +829,7 @@ Created by combining the following in the Mystic Forge:,
 • 250 Obsidian Shards,
 • 250 Beryl, Chrysocola
 • 1 Bloodstone Shard,
-• 100 Mystic Runestones","Объедините Дар инкрустированных самоцветов, Дар солнца
+• 100 Mystic Runestones","Объедините Дар инкрустированных самоцветов, Gift of the Sun
 Создается путем объединения в Мистической кузнице:,
 • 250 осколков обсидиана,
 • 250 берилла, хризоколлы
@@ -842,7 +842,7 @@ Created in the Mystic Forge by combining:,
 • 1 Gift of Condensed Magic,
 • 38 Mystic Clovers","Соедините Дар диких земель Джантира, Дар поселенца
 Создается в Мистической кузнице путем объединения:,
-• 1 Дар объятий убежища,
+• 1 Gift of Embracing Refuge,
 • 1 Дар сгущенной мощи,
 • 1 Дар сгущенной магии,
 • 38 Мистических клеверов"
@@ -858,8 +858,8 @@ Created in the Mystic Forge by combining:,
 • 1 Дар мастерства,
 • 1 Осколок кровавого камня"
 "Combine a Gift of Rays, a Gift of the Survivors
-Acquired by completing the Radiance of the Sun God achievement. Additional copies can be purchased from Shaman Palak in Shipwreck Strand.","Соедините Дар лучей и Дар выживших
-Получено при выполнении достижения «Сияние Бога Солнца». Дополнительные копии можно приобрести у шаманалака в Бухте Кораблекрушений."
+Acquired by completing the Radiance of the Sun God achievement. Additional copies can be purchased from Shaman Palak in Shipwreck Strand.","Соедините Дар лучей и Gift of the Survivors
+Получено при выполнении достижения «Radiance of the Sun God». Дополнительные копии можно приобрести у шаманалака в Бухте Кораблекрушений."
 "Combine a Gift of Recollector of Memories, 100 Mystic Runestones
 Created in the Mystic Forge by combining:,
 • 25 Tales of Adventure ,• 25 рассказов о приключениях
@@ -876,7 +876,7 @@ Created in the Mystic Forge by combining:,
 • 200 Meaty Asparagus Skewers,
 • 100 Bowls of Black Pepper Cactus Salad,
 • 30 Mystic Clovers,
-• 5 Fruits of the Shadow","Соедините Дар закуски и Дар основного блюда
+• 5 Fruits of the Shadow","Соедините Дар закуски и Gift of the Entrée
 Создаётся в Мистической кузнице объединением:,
 • 200 мясных шашлычков со спаржей,
 • 100 мисок салата из кактуса с чёрным перцем,
@@ -887,7 +887,7 @@ Created in the Mystic Forge by combining:,
 • 200 Plates of Orrian Steak Frittes,
 • 100 Plates of Truffle Steak,
 • 50 Plates of Spicy Herbed Chicken,
-• 5 Fruits of the Shadow","Соедините Дар закуски и Дар основного блюда
+• 5 Fruits of the Shadow","Соедините Дар закуски и Gift of the Entrée
 Создаётся в Мистической кузнице объединением:,
 • 200 тарелок оррианского стейка с картофелем фри,
 • 100 тарелок стейка с трюфелями,
@@ -954,9 +954,9 @@ Purchased from Visions of Eternity map vendors in exchange for:,
 • 1 Gift of the Tides,
 • 2 Gifts of Research,
 • 2 Gifts of Condensed Might,
-• 2 Gifts of Condensed Magic","Соберите Дар морей, Дар приключений
+• 2 Gifts of Condensed Magic","Соберите Gift of the Seas, Gift of Adventure
 Приобретается у торговцев карты «Видения вечности» в обмен на:,
-• 1 Дар приливов,
+• 1 Gift of the Tides,
 • 2 Дара исследований,
 • 2 Дара сгущенной мощи,
 • 2 Дара сгущенной магии"
@@ -976,18 +976,18 @@ Purchased from the Foothold Bivouac renown heart vendor in Starlit Weald in exch
 • 1 Gift of the Tides,
 • 1 Bloodstone Shard,
 • 1 Gift of Research,
-• 1 Gift of the Mists","Соедините «Дар выживших», «Дар народа»
+• 1 Gift of the Mists","Соедините «Gift of the Survivors», «Gift of the People»
 Купить у торговца за сердечную признательность в лагере «Футхолд Бивуак» в Звёздной чаще в обмен на:
-• 1 «Дар приливов»,
+• 1 «Gift of the Tides»,
 • 1 Осколок кровавого камня,
-• 1 «Дар исследований»,
+• 1 «Gift of Research»,
 • 1 «Дар туманов»"
 "Combine a Gift of the Survivors, a Gift of the People
 Created by combining the following in the Mystic Forge:,
 • A Gift of Adventure,
 • A Gift of the Seas,
 • A Bloodstone Shard,
-• 250 Obsidian Shards","Объедините «Дар выживших», «Дар народа»
+• 250 Obsidian Shards","Объедините «Gift of the Survivors», «Gift of the People»
 Создается путем комбинирования в Мистической кузнице:
 • «Дара приключений»,
 • «Дара морей»,
@@ -998,7 +998,7 @@ Purchased from Magister Sirkk in Crumbling Precipice in Starlit Weald in exchang
 • 100 Mystic Clovers,
 • 55 Amalgamated Draconic Lodestones,
 • 4 Gifts of Condensed Might,
-• 4 Gifts of Condensed Magic","Соедините Дар выживших, Дар народа
+• 4 Gifts of Condensed Magic","Соедините Gift of the Survivors, Gift of the People
 Куплено у Магистра Сиркка в Осыпающемся обрыве в Звёздной роще в обмен на:,
 • 100 Мистических клеверов,
 • 55 Объединённых драконьих камней-затравок,
@@ -1077,7 +1077,7 @@ Combine in the Mystic Forge with 3 Salvaged Dredge Backpacks to create a Salvage
 • 1 Дар исследования,
 • 1 сохранённая шкура эйдолона,
 • 1 Дар исследования Сада Вечности,
-• 1 Дар возрождения"
+• 1 Gift of Regrowth"
 "Combine this item in the Mystic Forge with:
 • 1 Gift of Galdra
 • 1 Gift of Shadowstones

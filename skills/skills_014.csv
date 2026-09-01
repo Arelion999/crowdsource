@@ -59,7 +59,7 @@ Throw a handful of dirt to bleed your foe.,"Бросить пригоршню з
 Throw a knife at your foe.,Бросить в противника ножом.
 "Throw a knife at your foes, bleeding them.","Бросьте нож во врагов, вызывая у них кровотечение."
 "Throw a knife that bounces off nearby foes, crippling them.","Бросьте нож, который отскакивает от ближайших врагов, накладывая на них увечье."
-Throw a lava axe at your foe. Using another Lava Axe ability grants Double Lava Axe.,Бросьте лавовый топор во врага. Использование другой способности «Лавовый топор» даёт «Двойной лавовый топор».
+Throw a lava axe at your foe. Using another Lava Axe ability grants Double Lava Axe.,Бросьте лавовый топор во врага. Использование другой способности «Lava Axe» даёт «Double Lava Axe».
 "Throw a mist spear toward your foe, inflicting increasing durations of torment the closer the foe is to you.","Бросьте копьё тумана во врага, накладывая боль, длительность которого увеличивается по мере приближения врага к вам."
 Throw a punch of concentrated water.,Бросить пригоршню сжатой воды.
 Throw a rock at your target.,Бросить камень в вашу цель.
@@ -109,7 +109,7 @@ Throw your sword at your foe to impale them.,"Бросить меч в прот�
 Throw your torch and burn your foes in an area.,Бросить факел и поджечь противников в области.
 Throws an expertly packed snowball. Ouch.,Бросает мастерски слепленный снежок. Ай.
 Thrumming Presence,Гудящее присутствие
-Thrumming Presence has made you more vulnerable to Decima's fluxlance attacks.,Гудящее присутствие сделало вас более уязвимым к атакам флюкс-копья Decima.
+Thrumming Presence has made you more vulnerable to Decima's fluxlance attacks.,Thrumming Presence сделало вас более уязвимым к атакам флюкс-копья Decima.
 Thrust,Укол
 Thump,Удар
 Thumper Turret,Турель-молотобоец
@@ -414,7 +414,7 @@ Warband Support,Поддержка отряда
 Warclaw's Engage,Атака боевого когтя
 Warding Rift,Защитный разлом
 Warp,Искажение
-Warps to the target location and performs Spiral Strike.,Телепортируется к цели и выполняет Спиральный удар.
+Warps to the target location and performs Spiral Strike.,Телепортируется к цели и выполняет Spiral Strike.
 Wastrel's Ruin,Руины бездельника
 Water Arrow,Водяная стрела
 Water Attunement,Настройка воды
@@ -439,7 +439,7 @@ Wave of Torment,Волна мучений
 We Bleed Fire,Мы истекаем огнем
 Weak Minded,Слабоумный
 Weaken and cause fear in all foes within earshot.,Ослабляет и внушает страх всем врагам в радиусе слышимости.
-Weaken and damage foes around you. Gain life force per foe struck. Fire a <c=@abilitytype>Crimson Tide</c> at each enemy in the area.,Ослабить и нанести урон врагам вокруг вас. Получить жизненную силу за каждого поражённого врага. Выпустить <c=@abilitytype>Багровый прилив</c> в каждого врага в области.
+Weaken and damage foes around you. Gain life force per foe struck. Fire a <c=@abilitytype>Crimson Tide</c> at each enemy in the area.,Ослабить и нанести урон врагам вокруг вас. Получить жизненную силу за каждого поражённого врага. Выпустить <c=@abilitytype>Crimson Tide</c> в каждого врага в области.
 "Weaken nearby enemies. Grant fury, might, and swiftness to yourself and nearby allies.","Ослабляет ближайших врагов. Дарует ярость, мощь и быстроту вам и ближайшим союзникам."
 "Weaken your foe with a fierce blow, dealing increased damage when striking a controlled or defiant foe.
 <c=@reminder>Controls include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Ослабьте врага сильным ударом, нанося увеличенный урон при атаке подконтрольного или вызывающего сопротивление противника.

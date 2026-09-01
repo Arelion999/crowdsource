@@ -380,7 +380,7 @@ Capacity Increase,Увеличение вместимости
 Carapace Threshold,Порог панциря
 Carbolic Composition,Карболовый состав
 Card Swap,Смена карт
-"Cast ""Search and Rescue!"" when you begin reviving an ally. Moa pets grant barrier to nearby allies with their <c=@abilitytype>Beast</c> skill.",Применяет «Поиск и спасение!» при начале воскрешения союзника. Питомцы-моа накладывают барьер на ближайших союзников с помощью своего умения <c=@abilitytype>Зверя</c>.
+"Cast ""Search and Rescue!"" when you begin reviving an ally. Moa pets grant barrier to nearby allies with their <c=@abilitytype>Beast</c> skill.",Применяет «Search and Rescue!» при начале воскрешения союзника. Питомцы-моа накладывают барьер на ближайших союзников с помощью своего умения <c=@abilitytype>Зверя</c>.
 Cast Dome of the Mists when you use a healing skill.,"Вы используете Dome of the Mists, когда активируете исцеляющее умение."
 Cast Feedback while reviving an ally. Feedback revives allies inside its dome.,"Вы используете Feedback, пока оживляете союзника. Feedback оживляет союзников, находящихся в его куполе."
 "Cast Geyser when you begin reviving a downed ally. Geyser now partially revives downed allies. When you begin reviving an ally, you gain an aura based on your attunement.",Применяет Гейзер при начале воскрешения поверженного союзника. Гейзер теперь частично воскрешает поверженных союзников. При начале воскрешения союзника вы получаете ауру в зависимости от вашей настройки.
@@ -388,7 +388,7 @@ Cast Feedback while reviving an ally. Feedback revives allies inside its dome.,"
 Cast Lesser Arcane Shield when you use an elite skill.,Вы создаете Lesser Arcan Shield при использовании элитного умения.
 Cast Lesser Call of the Wild when you swap pets.,Вы используете Lesser Call of the Wild при смене питомцев.
 Cast Lesser Chaos Storm when you use a healing skill.,"Вы используете Lesser Chaos Storm, когда активируете исцеляющее умение."
-Cast Lesser Cleansing Fire when you have a number of conditions on you.,"Примените Малый очищающий огонь, когда на вас есть несколько состояний."
+Cast Lesser Cleansing Fire when you have a number of conditions on you.,"Примените Lesser Cleansing Fire, когда на вас есть несколько состояний."
 Cast Lesser Endure Pain when you use an elite skill.,Вы используете Lesser Endure Pain при активации элитного умения.
 Cast Lesser Litany of Wrath when you activate Virtue skill 3.,Вы активируете Lesser Litany of Wrath при использовании 3-го умениея Добродетели.
 Cast Lesser Power Cleanse when you use a healing skill.,Вы используете Lesser Power Cleanse при активации исцеляющего умения.

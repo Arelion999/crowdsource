@@ -152,12 +152,12 @@ Drop mines behind you as you dodge.,Оставить за собой мины п
 Drop the Hammer,Сбросить молот
 Drum Playing,Игра на барабанах
 Dual Attack,Двойная атака
-Dual Attack. Bleed your foe with ice and stone.,Двойная атака. Вызвать кровотечение у врага с помощью льда и камня.
-Dual Attack. Bombard your foe with a meteor that inflicts multiple conditions.,"Двойная атака. Обрушить на врага метеор, накладывающий несколько эффектов состояния."
-Dual Attack. Evade backward and grant yourself boons.,Двойная атака. Уклониться назад и получить благословения.
-"Dual Attack. Fire a ball of plasma that explodes when it hits, striking enemies behind the target.","Двойная атака. Выпустить плазменный шар, который взрывается при попадании, поражая врагов позади цели."
-Dual Attack. Fire a quick shot that debilitates your target.,"Двойная атака. Сделать быстрый выстрел, ослабляющий цель."
-"Dual Attack. Fire multiple bullets of fire and ice, inflicting conditions.","Двойная атака. Выпустить несколько огненных и ледяных пуль, накладывая эффекты состояния."
+Dual Attack. Bleed your foe with ice and stone.,Dual Attack. Вызвать кровотечение у врага с помощью льда и камня.
+Dual Attack. Bombard your foe with a meteor that inflicts multiple conditions.,"Dual Attack. Обрушить на врага метеор, накладывающий несколько эффектов состояния."
+Dual Attack. Evade backward and grant yourself boons.,Dual Attack. Уклониться назад и получить благословения.
+"Dual Attack. Fire a ball of plasma that explodes when it hits, striking enemies behind the target.","Dual Attack. Выпустить плазменный шар, который взрывается при попадании, поражая врагов позади цели."
+Dual Attack. Fire a quick shot that debilitates your target.,"Dual Attack. Сделать быстрый выстрел, ослабляющий цель."
+"Dual Attack. Fire multiple bullets of fire and ice, inflicting conditions.","Dual Attack. Выпустить несколько огненных и ледяных пуль, накладывая эффекты состояния."
 Dual Bite,Двойной укус
 Dual Horizon,Двойной горизонт
 Dual Orbits: Air and Earth,Двойные орбиты: Воздух и Земля
@@ -334,7 +334,7 @@ Energy Surge,Энергетический всплеск
 Energy Torrent,Энергетический поток
 Energy Wave,Энергетическая волна
 Energy inflicts damage upon the wielder and their allies.,Энергия наносит урон владельцу и его союзникам.
-"Energy orbs erupt from Qadim and detonate upon landing, damaging and applying Unbridled Chaos to all foes.","Сферы энергии вырываются из Qadim и детонируют при приземлении, нанося урон и накладывая «Необузданный хаос» на всех врагов."
+"Energy orbs erupt from Qadim and detonate upon landing, damaging and applying Unbridled Chaos to all foes.","Сферы энергии вырываются из Qadim и детонируют при приземлении, нанося урон и накладывая «Unbridled Chaos» на всех врагов."
 "Energy orbs overload Qadim, causing a power discharge that deals damage to all foes.","Сферы энергии перегружают Qadim, вызывая разряд энергии, наносящий урон всем врагам."
 Enervating Earth,Обессиливающая земля
 Enervation Blade,Клинок обессиливания
@@ -362,7 +362,7 @@ As you remain in Harbinger Shroud, you accumulate blight over time.
 Enter Radiant Forge,Войдите в Сияющую Кузню
 Enter Radiant Forge. The recharge time of this skill is reduced for each unused radiant weapon in shroud.,"Активировать сияющую кузницу. Время перезарядки этого умения уменьшается за каждое лучезарное оружие, которое не было использовано в саване."
 Enter Shadow Shroud,Войдите в Теневой Саван
-"Entomb your foe, making them sink. Fire <c=@abilitytype>Crimson Tide</c> at your target multiple times.","Заточите врага, заставив его утонуть. Выпустите <c=@abilitytype>Багровый прилив</c> по вашей цели несколько раз."
+"Entomb your foe, making them sink. Fire <c=@abilitytype>Crimson Tide</c> at your target multiple times.","Заточите врага, заставив его утонуть. Выпустите <c=@abilitytype>Crimson Tide</c> по вашей цели несколько раз."
 "Envelop target friend or foe with energy from the Mists. The energy explodes outward after a short delay or when manually detonated, granting barrier to nearby allies. The amount of barrier granted increases over time. If targeting an enemy, the aura also deals damage over time, and it does additional damage when the aura explodes based on how long the aura lasts.","Окутайте дружественную или враждебную цель энергией из Туманов. Энергия взрывается наружу после небольшой задержки или при ручной детонации, накладывая барьер на ближайших союзников. Количество накладываемого барьера увеличивается со временем. Если цель — враг, аура также наносит периодический урон, а при взрыве наносит дополнительный урон, зависящий от длительности действия ауры."
 Envelop yourself in a fiery shield that burns foes and grants might each time you are struck (cooldown of 1 second per attacker).,"Окружить себя огненным щитом, который поджигает противников и дарует вам мощь каждый раз, когда вам наносят удар (перезарядка 1 секунда на атакующего)."
 Envelop yourself in a stony barrier that improves toughness.,"Окружить себя каменным барьером, который увеличивает вашу прочность."

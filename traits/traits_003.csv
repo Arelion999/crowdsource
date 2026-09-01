@@ -64,7 +64,7 @@ Gain superspeed when inflicting inhibiting conditions on enemies.,Получай
 Gain superspeed when you enter or exit stealth.,Получайте суперскорость при входе в невидимость или выходе из неё.
 Gain swiftness upon dodging.,Вам даруется быстрота при увороте.
 Gain swiftness when swapping weapons in combat.,Вам даруется быстрота при смене оружия в бою.
-Gain swiftness when using a <c=@abilitytype>Dual Attack.</c> Deal increased strike damage to enemies while under the effects of swiftness or superspeed.,"Получайте быстроту при использовании <c=@abilitytype>Двойная атака.</c> Наносите повышенный урон ударами врагам, находясь под действием стремительности или суперскорости."
+Gain swiftness when using a <c=@abilitytype>Dual Attack.</c> Deal increased strike damage to enemies while under the effects of swiftness or superspeed.,"Получайте быстроту при использовании <c=@abilitytype>Dual Attack.</c> Наносите повышенный урон ударами врагам, находясь под действием стремительности или суперскорости."
 "Gain swiftness when you are inflicted with inhibiting conditions. When gaining either superspeed or swiftness, also gain regeneration and cleanse a condition. Swiftness has increased effectiveness.</c>",Получайте быстроту при наложении на вас ограничивающих состояний. При получении суперскорости или стремительности также получайте регенерацию и снимайте одно состояние. Эффективность стремительности повышена.</c>
 "Gain the power to craft sand shadows and command them using your life force. Gain access to <c=@abilitytype>Punishment</c> and <c=@abilitytype>Shade</c> skills.
 <c=@reminder>Shade skills inherit the effects of traits that affect shroud skills.</c>","Получите силу создавать песчаные тени и управлять ими с помощью своей жизненной силы. Получите доступ к навыкам <c=@abilitytype>наказания</c> и <c=@abilitytype>тени.</c>
@@ -75,7 +75,7 @@ Gain vigor at the end of your dodge roll.,Вам даруется энергич
 Gain vigor upon successfully evading an attack.,Вам даруется энергичность при успешном уклонении от атаки.
 Gain vigor when delivering a critical hit.,"Вам даруется энергичность, когда вы наносите критический удар."
 Gain vigor when successfully evading an attack.,Вам даруется энергичность после успешного уклонения от атаки.
-Gain vigor when using a <c=@abilitytype>Dual Attack.</c> Dodge rolling grants a barrier.,Получайте энергию при использовании <c=@abilitytype>Двойная атака.</c> Перекат накладывает барьер.
+Gain vigor when using a <c=@abilitytype>Dual Attack.</c> Dodge rolling grants a barrier.,Получайте энергию при использовании <c=@abilitytype>Dual Attack.</c> Перекат накладывает барьер.
 Gain vigor when you critically strike a foe.,"Вам даруется энергичность, когда вы наносите критический удар."
 Gain vitality and ferocity based on a percentage of your power.,Ваша живучесть и Жестокость увеличиваются в зависимости от вашей силы.
 Gain vitality based on a percentage of your power. Gain life force when you strike a foe below the health threshold.,"Ваша живучесть увеличивается в зависимости от вашей силы. Вы получаете жизненную силу, когда наносит удар противнику, чье здоровье ниже порога."
@@ -279,7 +279,7 @@ Impacting Disruption,Ударное нарушение
 Implacable Foe,Неумолимый враг
 Improve a boon based on your familiar.,Улучшить дары в зависимости от вашего фамильяра.
 Improve the effects of the True Nature skill.,Усиливает эффекты умения True Nature.
-"Improves greatsword skills. Mirror Blade bounces additional times, and Phantasmal Berserker summons an additional berserker and deals less damage.","Улучшает навыки двуручного меча. «Зеркальный клинок» отскакивает дополнительное количество раз, а «Призрачный берсерк» призывает дополнительного берсерка и наносит меньше урона."
+"Improves greatsword skills. Mirror Blade bounces additional times, and Phantasmal Berserker summons an additional berserker and deals less damage.","Улучшает навыки двуручного меча. «Mirror Blade» отскакивает дополнительное количество раз, а «Призрачный берсерк» призывает дополнительного берсерка и наносит меньше урона."
 Improvisation,Импровизация
 Incendiary Powder,Зажигательный порошок
 Incensed Response,Разгневанный ответ
@@ -391,8 +391,8 @@ Joy of Movement,Радость движения
 Juggernaut,Джаггернаут
 Justice Duration Increase,Увеличение длительности Правосудия
 Justice is Blind,Правосудие слепо
-Kalla's Fervor causes you to heal for a percentage of your outgoing damage. Citadel Bombardment pulls more missiles into Tyria for every stack of Kalla's Fervor affecting you.,Рвение Каллы позволяет вам восстанавливать здоровье в процентах от наносимого урона. Бомбардировка цитадели притягивает больше ракет в Тайрию за каждый наложенный на вас стек Рвения Каллы.
-Kalla's Fervor increases your healing to other allies. Orders from Above lasts longer and affects a larger area.,Пыл Каллы увеличивает ваше лечение союзников. Приказы свыше действуют дольше и затрагивают большую область.
+Kalla's Fervor causes you to heal for a percentage of your outgoing damage. Citadel Bombardment pulls more missiles into Tyria for every stack of Kalla's Fervor affecting you.,Kalla's Fervor позволяет вам восстанавливать здоровье в процентах от наносимого урона. Бомбардировка цитадели притягивает больше ракет в Тайрию за каждый наложенный на вас стек Рвения Каллы.
+Kalla's Fervor increases your healing to other allies. Orders from Above lasts longer and affects a larger area.,Пыл Каллы увеличивает ваше лечение союзников. Orders from Above действуют дольше и затрагивают большую область.
 Kalla's Fervor you inspire lasts longer and is more potent. Heroic Command grants more might per stack of Kalla's Fervor.,Наполняющая вас страсть Каллы длится дольше и становится сильнее. Героический приказ дарует больше Мощи за каждый стек страсти Каллы.
 Keen Observer,Зоркий наблюдатель
 Kindled Zeal,Раздутое рвение
@@ -423,7 +423,7 @@ Legendary Lore,Легендарные знания
 Let Loose,Высвобождение
 Lethal Tempo,Смертельный темп
 Lethal Tempo Duration Reduction,Сокращение длительности Смертельного темпа
-"Lethal Tempo grants increased damage, but has reduced duration. Justice's duration is modified.","Смертельный темп даёт увеличенный урон, но имеет сокращенную длительность. Длительность Правосудия изменена."
+"Lethal Tempo grants increased damage, but has reduced duration. Justice's duration is modified.","Lethal Tempo даёт увеличенный урон, но имеет сокращенную длительность. Длительность Правосудия изменена."
 Leviathan Strength,Сила Левиафана
 Liberating Liaise,Освобождающее взаимодействие
 Liberator's Vow,Обет освободителя
@@ -470,7 +470,7 @@ Malicious Intent,Злобное намерение
 Malicious Sorcery,Злобное колдовство
 Malicious Swarm,Злобный рой
 "Manifest Sand Shade grants a barrier to allies near it. When you apply barrier, grant boons to the affected target.
-<c=@reminder>This effect only occurs with barrier from scourge skills and traits.</c>","Проявление песчаной тени накладывает барьер на союзников рядом с ней. При наложении барьера дарует благословения затронутой цели.
+<c=@reminder>This effect only occurs with barrier from scourge skills and traits.</c>","Manifest Sand Shade накладывает барьер на союзников рядом с ней. При наложении барьера дарует благословения затронутой цели.
 <c=@reminder>Этот эффект срабатывает только от барьера, созданного навыками и чертами скорджа.</c>"
 Mantle of Sand,Песчаная мантия
 Marauder's Resilience,Стойкость мародера
@@ -538,6 +538,6 @@ Meditation. Cure conditions and damage nearby foes. Deal more damage if a condit
 "Meditation. Gain endurance and swiftness. Your next few strikes create an arc of chain lightning. If air is your specialized element, this skill breaks stun and grants blur.","Медитация. Получите выносливость и быстроту. Ваши следующие несколько ударов создают дугу цепной молнии. Если воздух — ваш специализированый элемент, этот навык снимает оглушение и даёт размытие."
 "Meditation. Heal yourself. For a brief time, heal yourself based on a percentage of damage dealt to enemies.","Медитация. Исцелите себя. В течение короткого времени исцеляйте себя на основе процента урона, нанесенного врагам."
 Meld with Shadows,Слияние с тенями
-"Melee attacks become ranged, have an increased chance to critically hit, and apply vulnerability. Unlocks the Mech Command skill Spark Revolver.","Атаки ближнего боя становятся дальними, имеют повышенный шанс критического удара и накладывают уязвимость. Открывает навык команды меха «Искровой револьвер»."
+"Melee attacks become ranged, have an increased chance to critically hit, and apply vulnerability. Unlocks the Mech Command skill Spark Revolver.","Атаки ближнего боя становятся дальними, имеют повышенный шанс критического удара и накладывают уязвимость. Открывает навык команды меха «Spark Revolver»."
 Mender's Purity,Чистота целителя
 Mending Might,Врачующая мощь

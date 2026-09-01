@@ -5,7 +5,7 @@ english,translate
 "<c=@abilitytype>Legendary Assassin.</c> Call upon the Jade Wind to turn nearby enemies into jade, stunning them for a short duration.","<c=@abilitytype>Легендарный ассасин.</c> Призовите Нефритовый ветер, чтобы превратить врагов поблизости в нефрит, оглушая их на короткое время."
 "<c=@abilitytype>Legendary Assassin.</c> Dodge backward through the Mists. Remove movement-impairing conditions, and gain fury.",<c=@abilitytype>Легендарный ассасин.</c> Уклонитесь назад сквозь Туман. Снимите замедляющие передвижение состояния и получите ярость.
 "<c=@abilitytype>Legendary Assassin.</c> Empower yourself with Shiro's incredible speed and destructive prowess, gaining great movement speed and striking foes an additional time when you hit them. <c=@reminder>This effect can occur once per interval.</c>","<c=@abilitytype>Легендарный ассасин.</c> Наделите себя невероятной скоростью и разрушительной силой Широ, получив большую скорость передвижения и нанося врагам дополнительный удар при попадании. <c=@reminder>Этот эффект может срабатывать раз в интервал.</c>"
-<c=@abilitytype>Legendary Assassin.</c> End the Impossible Odds skill.,<c=@abilitytype>Легендарный ассасин.</c> Завершите умение «Невозможные шансы».
+<c=@abilitytype>Legendary Assassin.</c> End the Impossible Odds skill.,<c=@abilitytype>Легендарный ассасин.</c> Завершите умение «Impossible Odds».
 <c=@abilitytype>Legendary Assassin.</c> Step through the Mists to your target. Your next few attacks can't be blocked.,<c=@abilitytype>Легендарный ассасин.</c> Шагните сквозь Туман к цели. Ваши следующие несколько атак нельзя заблокировать.
 "<c=@abilitytype>Legendary Assassin.</c> Summon enchanted daggers that will attack as you attack, siphoning life from targets hit.","<c=@abilitytype>Легендарный ассасин.</c> Призовите зачарованные кинжалы, которые будут атаковать вместе с вами, высасывая жизнь из пораженных целей."
 <c=@abilitytype>Legendary Centaur.</c> Will the tablet toward the target location.,<c=@abilitytype>Легендарный Кентавр.</c> Направьте скрижаль в целевую точку.
@@ -402,7 +402,7 @@ english,translate
 <c=@abilitytype>Signet Active:</c> Grant resistance and resolution to your pet; it pulls conditions from nearby allies to itself.","<c=@abilitytype>Печать (пассивно):</c> Вы и ваш питомец восстанавливаете здоровье.
 <c=@abilitytype>Печать (активно):</c> Даёт вашему питомцу сопротивляемость и решимость; он переносит негативные эффекты с ближайших союзников на себя."
 "<c=@abilitytype>Signet Passive:</c> Your movement speed is increased.
-<c=@abilitytype>Signet Active:</c>Strike and remove boons from nearby foes. Heal for each foe you strike and for each boon removed.","<c=@abilitytype>Печать (пассивно):</c> Ваша скорость передвижения увеличена.
+<c=@abilitytype>Signet Active:</c>Strike and remove boons from nearby foes. Heal for each foe you strike and for each boon removed.","<c=@abilitytype>Печать (пассивно):</c> Your movement speed is increased.
 <c=@abilitytype>Печать (активно):</c> Нанесите удар и снимите благословения с ближайших врагов. Восстановите здоровье за каждого пораженного врага и за каждое снятое благословение."
 <c=@abilitytype>Signet.</c> Immobilize your target.,<c=@abilitytype>Печать.</c> Обездвиживает вашу цель.
 <c=@abilitytype>Signet.</c> You and your pet take no damage from attacks. You and your pet are still susceptible to conditions and control effects.,<c=@abilitytype>Печать.</c> Вы и ваш питомец не получаете урона от атак. Вы и ваш питомец по-прежнему подвержены состояниям и эффектам контроля.
@@ -410,7 +410,7 @@ english,translate
 "<c=@abilitytype>Spectral.</c> Assume the form of a lich for a brief time, improving your precision and vitality. Gain life force when this skill ends.
 <c=@reminder>Entering this form removes other spectral effects.</c>","<c=@abilitytype>Призрачный.</c> На короткое время принимайте облик лича, повышая точность и жизненную силу. По окончании действия навыка получайте жизненную энергию.
 <c=@reminder>Принятие этой формы снимает другие призрачные эффекты.</c>"
-"<c=@abilitytype>Spectral.</c> Create a shadowy tether and become spectral, consuming conditions for life force. You may return to your initial position by using Spectral Recall.","<c=@abilitytype>Призрачный.</c> Создайте теневую привязь и станьте призрачным, поглощая состояния для жизненной силы. Вы можете вернуться на исходную позицию, используя Призрачный возврат."
+"<c=@abilitytype>Spectral.</c> Create a shadowy tether and become spectral, consuming conditions for life force. You may return to your initial position by using Spectral Recall.","<c=@abilitytype>Призрачный.</c> Создайте теневую привязь и станьте призрачным, поглощая состояния для жизненной силы. Вы можете вернуться на исходную позицию, используя Spectral Recall."
 "<c=@abilitytype>Spectral.</c> Create a spectral ring that protects allies and inflicts fear on foes. Gain life force when a foe is inflicted by fear from this skill.
 <c=@reminder>This skill can only inflict fear on the same foe once per interval.</c>","<c=@abilitytype>Призрачный.</c> Создайте призрачное кольцо, которое защищает союзников и вселяет страх во врагов. Получайте жизненную силу, когда враг оказывается под воздействием страха от этого умения.
 <c=@reminder>Это умение может накладывать эффект страха на одного и того же врага только один раз за интервал.</c>"
@@ -604,7 +604,7 @@ english,translate
 <c=@abilitytype>Activate:</c> Grant aegis, resistance, and Luminary's Blessing to yourself and nearby allies. 
 The next time you use Gleaming Blade, it deals increased damage and immobilizes enemies. The next time you use Radiant Bulwark, it grants barrier to nearby allies.","<c=@abilitytype>Добродетель:</c> Периодически получайте эгиду.
 <c=@abilitytype>Активация:</c> Дарует вам и ближайшим союзникам эгиду, сопротивляемость и благословение Луминарии.
-При следующем использовании умения «Сияющий клинок» оно нанесёт увеличенный урон и обездвижит врагов. При следующем использовании умения «Лучезарный бастион» ближайшие союзники получат барьер."
+При следующем использовании умения «Gleaming Blade» оно нанесёт увеличенный урон и обездвижит врагов. При следующем использовании умения «Лучезарный бастион» ближайшие союзники получат барьер."
 "<c=@abilitytype>Virtue:</c> Regenerates health.</c>
 <c=@abilitytype>Activate:</c> Dart forward, healing allies in the area when you stop.","<c=@abilitytype>Добродетель:</c> Восстанавливает здоровье.</c>
 <c=@abilitytype>Активация:</c> Рывок вперёд; при остановке исцеляет союзников в области."

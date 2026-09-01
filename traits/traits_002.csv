@@ -174,7 +174,7 @@ Dragon Slash becomes unblockable and ignores blindness. Gain might whenever you 
 Dragon Slash heals you for a percentage of the damage dealt. Gain protection whenever you convert flow into charges.,Удар дракона лечит вас на процент от нанесенного урона. Получайте протекцию при преобразовании потока в заряды.
 Dragonscale Defense,Защита драконьей чешуи
 Dread,Ужас
-Drink a Lesser Elixir B when struck while below the health threshold.,"Вы выпиваете Малый Эликсир B, когда получаете урон, и ваше здоровье ниже порога."
+Drink a Lesser Elixir B when struck while below the health threshold.,"Вы выпиваете Малый Elixir B, когда получаете урон, и ваше здоровье ниже порога."
 Drink a Lesser Elixir C when you use a healing skill.,Вы выпиваете Малый Эликсир C при активации исцеляющего умения.
 Druidic Clarity,Друидическая ясность
 Dual Wielding,Владение двумя оружиями
@@ -307,7 +307,7 @@ Expertise Inherited by Mech,"Экспертиза, унаследованная 
 Expertise granted by fury,"Экспертиза, даруемая яростью"
 Explodes on expiration.,Взрывается по истечении времени.
 Explosive Entrance grants barrier. Gain vitality based on a percentage of your power.,Взрывное вступление даёт барьер. Ваша Живучесть увеличивается в зависимости от вашей Силы.
-Explosive Entrance grants you resistance and increased critical-strike chance for a brief duration.,Взрывное появление даёт вам сопротивление и повышенный шанс критического удара на короткое время.
+Explosive Entrance grants you resistance and increased critical-strike chance for a brief duration.,Explosive Entrance даёт вам сопротивление и повышенный шанс критического удара на короткое время.
 Explosive Growth,Взрывной рост
 Explosive Temper,Взрывной характер
 Expose Defenses,Уязвимая защита
@@ -400,7 +400,7 @@ Gain Elemental Empowerment and might when you disable or immobilize a foe.,"Ва
 Gain Elemental Empowerment and vigor when evading an attack.,"Вам даруется энергичность и стихийное усиление, когда вы уклоняетесь от атаки."
 Gain Elemental Empowerment while in combat.,"Пока вы находитесь в бою, на вас действует эффект Стихийного усиления."
 "Gain Insight when disabling foes or removing boons. Full Counter refreshes all <c=@abilitytype>burst</c> skills on hit.
-<c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt and fear.","Получайте Проницательность при оглушении врагов или снятии благословений. Полный контратакующий удар обновляет все <c=@abilitytype>взрывные</c> навыки при попадании.
+<c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt and fear.","Получайте Проницательность при оглушении врагов или снятии благословений. Full Counter обновляет все <c=@abilitytype>взрывные</c> навыки при попадании.
 <c=@reminder>Оглушения включают в себя оглушение, ошеломление, отталкивание, притягивание, нокдаун, погружение, всплытие, отбрасывание, провокацию и страх."
 Gain Mirage Cloak instead of dodge rolling. <c=@abilitytype>Ambush</c> skills become available for a short time whenever you gain Mirage Cloak. Gain access to <c=@abilitytype>Deception</c> skills.,Получение «Миража» вместо уклонения перекатом. <c=@abilitytype>Засадные</c> умения становятся доступны на короткое время при получении «Миража». Доступ к <c=@abilitytype>обманным</c> умениям.
 Gain Scoundrel's Luck whenever you use Skritt Swipe. Scoundrel's Luck allows you to use double-edge skills on cooldown without backfiring.,Вы получаете Удачу негодяя при использовании Скриттского ограбления. Она позволяет вам использовать перезаряжающиеся умения-авантюры без риска неудачи.

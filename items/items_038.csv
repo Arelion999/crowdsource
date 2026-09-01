@@ -100,13 +100,13 @@ Double-click to combine the four norn star charts into the Norn Constellation Ch
 "Double-click to combine the Volatile Spores, Bloodsucker Enzymes, Beetle Juice, Frothy Troll Saliva, Malodorous Mucus, and Salivary Stone in an Empty Hylek Flask to create the Concentrated Maguuma Bacteria.","Дважды щёлкните, чтобы объединить летучие споры, ферменты кровососа, сок жука, пенную слюну тролля, зловонную слизь и слюнный камень в пустой колбе хилека для создания концентрированных бактерий Магуумы."
 Double-click to combine with a Druid Runestone to create a Arboreal Runestone.,"Дважды щёлкните, чтобы объединить с руническим камнем друида и создать Древесный рунический камень."
 Double-click to combine with a Druid Runestone to create a Charged Runestone.,"Дважды щёлкните, чтобы объединить с руническим камнем друида и создать Заряженный рунический камень."
-Double-click to combine with a Druid Runestone to create a Desecrator Runestone.,"Дважды щёлкните, чтобы объединить с руническим камнем друида и создать Рунический камень осквернителя."
-Double-click to combine with a Druid Runestone to create a Glacial Runestone.,"Дважды щёлкните, чтобы объединить с руническим камнем друида и создать Ледниковый рунический камень."
+Double-click to combine with a Druid Runestone to create a Desecrator Runestone.,"Дважды щёлкните, чтобы объединить с руническим камнем друида и создать Desecrator Runestone."
+Double-click to combine with a Druid Runestone to create a Glacial Runestone.,"Дважды щёлкните, чтобы объединить с руническим камнем друида и создать Glacial Runestone."
 Double-click to combine with a Druid Runestone to create a Saurian Runestone.,"Дважды щёлкните, чтобы объединить с руническим камнем друида и создать Ящерный рунический камень."
-Double-click to combine with a Druid Runestone to create a Volcanic Runestone.,"Дважды щёлкните, чтобы объединить с руническим камнем друида и создать Вулканический рунический камень."
+Double-click to combine with a Druid Runestone to create a Volcanic Runestone.,"Дважды щёлкните, чтобы объединить с руническим камнем друида и создать Volcanic Runestone."
 Double-click to combine with a Druid Runestone to create a Wardbough Runestone.,"Дважды щёлкните, чтобы объединить с руническим камнем друида и создать Рунический камень Вардбога."
 Double-click to combine with a Druid Runestone to create a Webby Runestone.,"Дважды щёлкните, чтобы объединить с руническим камнем друида и создать Паутинный рунический камень."
-Double-click to combine with a Druid Runestone to create a Wurm Runestone.,"Дважды щёлкните, чтобы объединить с руническим камнем друида и создать Рунический камень червя."
+Double-click to combine with a Druid Runestone to create a Wurm Runestone.,"Дважды щёлкните, чтобы объединить с руническим камнем друида и создать Wurm Runestone."
 Double-click to combine with a Druid Runestone to create an Aestus Runestone.,"Дважды щёлкните, чтобы объединить с руническим камнем друида и создать Рунический камень Эстуса."
 Double-click to combine with a Druid Runestone to create an Arcanum Runestone.,"Дважды щёлкните, чтобы объединить с руническим камнем друида и создать рунический камень Арканум."
 Double-click to combine with a Druid Runestone to create an Earthen Runestone.,"Дважды щёлкните, чтобы объединить с руническим камнем друида и создать рунический камень Земли."
@@ -256,7 +256,7 @@ Double-click to feed 25 Piles of Bloodstone Dust and 25 Empyreal Fragments to th
 <c=@flavor>There's something charming about the way she chitters.</c>","Дважды щёлкните, чтобы скормить 50 единиц драконитовой руды в обмен на подарок. Если принцессу перекормить драконитом за один день, она насытится.
 <c=@flavor>В том, как она щебечет, есть что-то очаровательное.</c>"
 Double-click to feed 50 Memories of Battle. The converter can be used five times a day.,"Дважды щёлкните, чтобы скормить 50 воспоминаний о битве. Конвертер можно использовать пять раз в день."
-Double-click to feed 50 Piles of Bloodstone Dust in exchange for a gift. Mawdrey II will become full if fed too much dust in a day.,"Дважды щёлкните, чтобы скормить 50 куч пыли кровавого камня в обмен на подарок. Модри II насытится, если скормить ей слишком много пыли за день."
+Double-click to feed 50 Piles of Bloodstone Dust in exchange for a gift. Mawdrey II will become full if fed too much dust in a day.,"Дважды щёлкните, чтобы скормить 50 куч пыли кровавого камня в обмен на подарок. Mawdrey II насытится, если скормить ей слишком много пыли за день."
 Double-click to feed desired food from your inventory to the chick.,"Дважды щёлкните, чтобы покормить птенца выбранной едой из инвентаря."
 Double-click to feed it the food it desires.,"Дважды щёлкните, чтобы накормить его желаемой едой."
 "Double-click to feed this tasty treat to your roller beetle.
@@ -490,7 +490,7 @@ Double-click to gain a moderate amount of karma.,"Дважды щёлкните,
 "Double-click to gain a moderate amount of trade contracts.
 <c=@Flavor>By supporting their allies, you can strengthen ties between Amnoon and the Sunspears.</c>","Дважды щёлкните, чтобы получить умеренное количество торговых контрактов.
 <c=@Flavor>Укрепите связи между Амнуном и Копьеносцами, поддерживая их союзников.</c>"
-Double-click to gain a Molachev Cocktail bundle item.,"Дважды щёлкните, чтобы получить предмет-связку «Коктейль Молачева»."
+Double-click to gain a Molachev Cocktail bundle item.,"Дважды щёлкните, чтобы получить предмет-связку «Molachev Cocktail»."
 Double-click to gain a Molachev Cocktail.,"Дважды щёлкните, чтобы получить коктейль Молачева."
 Double-click to gain a mortar seed turret,"Дважды щёлкните, чтобы получить турель-семя мортиры"
 Double-click to gain a net.,"Дважды щёлкните, чтобы получить сеть."
