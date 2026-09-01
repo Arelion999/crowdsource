@@ -452,7 +452,7 @@ The allied faction weekly vendor now carries additional items.","Когда со
 Misty Cape Scraps are awarded from Strike Missions, Daily Strike achievements, and Weekly Emissary Chests in Eye of the North.","Соберите 100 обрывков туманной мантии.
 Осколки туманной накидки можно получить за выполнение заданий в режиме «Удар», ежедневные достижения режима «Удар» и еженедельные сундуки эмиссара в локации «Глаз Севера»."
 "Collect items related to Ranoah Grindsteel's history to earn her signature Steel Warband pistol.
-<c=@reminder>Requires access to previous Icebrood Saga episodes to complete.</c>","Соберите предметы, связанные с историей Раноа Сталеточ, чтобы получить её уникальный пистолет «Стальная Варварская Сборня».
+<c=@reminder>Requires access to previous Icebrood Saga episodes to complete.</c>","Соберите предметы, связанные с историей Ranoah Grindsteel, чтобы получить её уникальный пистолет «Стальная Варварская Сборня».
 <c=@reminder>Для выполнения задания требуется доступ к предыдущим эпизодам сюжетной линии «Сага о ледяном отродье».</c>"
 "Collect items related to Vishen Steelshot's history to earn her signature Steel Warband sniper rifle.
 <c=@reminder>Requires access to previous Icebrood Saga episodes to complete.</c>","Соберите предметы, связанные с историей Вишен Стилшот, чтобы получить её фирменную снайперскую винтовку «Стальная Варварская».
@@ -577,7 +577,7 @@ FRIDAE: 541362
 VICCIMA: 416325
 
 DEICEPIS: 362145"
-Gain ferocity and quickness while in Reaper's Shroud. Hitting with Life Reap reduces the recharge time of shroud skills.<br><c=@reminder>Recharge reduction can only occur once per use of Life Reap.</c>,"Получайте ярость и проворство, находясь в Саване Жнеца. Атака умением «Жатва жизни» уменьшает время перезарядки умений савана.<br><c=@reminder>Уменьшение времени перезарядки происходит только один раз за использование умения «Жатва жизни».</c>"
+Gain ferocity and quickness while in Reaper's Shroud. Hitting with Life Reap reduces the recharge time of shroud skills.<br><c=@reminder>Recharge reduction can only occur once per use of Life Reap.</c>,"Получайте ярость и проворство, находясь в Саване Жнеца. Атака умением «Life Reap» уменьшает время перезарядки умений савана.<br><c=@reminder>Уменьшение времени перезарядки происходит только один раз за использование умения «Жатва жизни».</c>"
 Completed Siren's Reef at Fractal Scale 51 or Higher,Прошли «Сирений риф» на уровне сложности фракталов 51 или выше.
 Completed Siren's Reef at Fractal Scale 26 or Higher,Прошли «Сирений риф» на уровне сложности фракталов 26 или выше.
 Complete laps of the roller beetle race in Snowden Drifts. (This achievement can be completed in the race event or adventure.),"Проведите несколько кругов на гоночном жуке в Сноуденских пустошах. (Это достижение можно получить как в событии «Гонки», так и в приключении.)"
@@ -611,7 +611,7 @@ Speak with a quaestor in any allied base to change which legion your commendatio
 The Guild Wars 2: Heart of Thorns expansion and the Living World episode ""A Crack in the Ice"" are required to access this map.","Найдите союзников, чтобы вместе выжить в Ледяной Пустоши!
 Для доступа к этой карте необходимо приобрести дополнение Guild Wars 2: Сердце Терний и пройти эпизод «Разлом во льдах» из сюжетной линии Живого мира."
 "While in Celestial Avatar form, your healing of others is significantly increased. Healing another player with a Celestial Avatar skill reduces the cooldown of Celestial Avatar. <br><c=@reminder>Cooldown can only be reduced once per outgoing heal and will occur even if the affected player is at full health.</c>","Находясь в форме Небесного Аватара, вы значительно увеличиваете исцеление других игроков. Использование умения Небесного Аватара для лечения другого игрока уменьшает время восстановления умения Небесный Аватар. <br><c=@reminder>Время восстановления можно уменьшить только один раз за каждое применение исцеления, и это произойдёт даже в том случае, если у цели полное здоровье.</c>"
-Heal allies around yourself when using a <c=@abilitytype>Legend</c> skill. Heal allies around Ventari's Tablet when using a <c=@abilitytype>Legendary Centaur</c> skill.<br><c=@reminder>Dragon Facet skills and Ventari's Will cannot activate this trait.</c>,Восстанавливайте здоровье союзникам вокруг себя при использовании навыка <c=@abilitytype>Легенды</c>. Восстанавливайте здоровье союзникам вокруг Плиты Вентари при использовании навыка <c=@abilitytype>Легендарного Кентавра</c>. Навыки <br>Драконьей грани<c=@reminder> и «Воля Вентари» не могут активировать эту черту.</c>
+Heal allies around yourself when using a <c=@abilitytype>Legend</c> skill. Heal allies around Ventari's Tablet when using a <c=@abilitytype>Legendary Centaur</c> skill.<br><c=@reminder>Dragon Facet skills and Ventari's Will cannot activate this trait.</c>,Восстанавливайте здоровье союзникам вокруг себя при использовании навыка <c=@abilitytype>Легенды</c>. Восстанавливайте здоровье союзникам вокруг Плиты Вентари при использовании навыка <c=@abilitytype>Легендарного Кентавра</c>. Навыки <br>Драконьей грани<c=@reminder> и «Ventari's Will» не могут активировать эту черту.</c>
 "Bash the demon! Smash the demon! Drive it right back into its den!
 Bash the demon! Smash the demon! May it never rise up again!","Бей демона! Раздави демона! Загони его обратно в логово!
 Раздави демона! Уничтожь демона! Пусть он больше никогда не восстанет!"
@@ -671,7 +671,7 @@ Requires the Guild Wars 2: Janthir Wilds expansion to access this map.","Най�
 6 стаков: получение дополнительных коллекционных монет из тайников кодан
 7 стаков: +5%% урона против титанов"
 "Find others to help you explore New Kaineng City.
-Requires Guild Wars 2: End of Dragons expansion to access this map.","Найдите других игроков, чтобы вместе исследовать Новый Кайненг.
+Requires Guild Wars 2: End of Dragons expansion to access this map.","Найдите других игроков, чтобы вместе исследовать New Kaineng.
 Для доступа к этой карте требуется дополнение Guild Wars 2: Конец Драконов."
 "Find others to help you explore the Echovald Wilds.
 Requires Guild Wars 2: End of Dragons expansion to access this map.","Найдите других игроков, чтобы вместе исследовать дикие земли Эховальда.
@@ -835,7 +835,7 @@ Unlock the siege turtle mount, jade bots, skiffs, fishing, nine new elite specia
 
 <c=@reminder>The Mystic Forge transforms items in a variety of ways, including raising the tier of crafting materials and upgrading equipment. The forge can be accessed from major cities throughout Tyria.</c>","Создайте %num2% [предмет|предмета|предметов] в Мистической кузнице.
 
-<c=@reminder>Мистическая кузница преобразует предметы различными способами, включая повышение уровня материалов для крафта и улучшение снаряжения. Кузница доступна из крупных городов по всей Тирии.</c>"
+<c=@reminder>Mystic Forge преобразует предметы различными способами, включая повышение уровня материалов для крафта и улучшение снаряжения. Кузница доступна из крупных городов по всей Тирии.</c>"
 "Discover %num2% point[s] of interest in Queensdale, Metrica Province, Caledon Forest, Wayfarer Foothills, or the Plains of Ashford.
 
 <c=@reminder>Points of interest are special locations marked by name in the world, indicated by a square icon on the map. </c>","Откройте %num2% [интересное место|интересных места|интересных мест] в Квинсдейле, провинции Метрика, лесу Каледон, Предгорьях Странника или равнинах Эшфорда.
@@ -1230,7 +1230,7 @@ Gain health per unit of heat lost.<br><c=@reminder>This trait does not function 
 <c=@reminder>World bosses are challenging events that appear at specific times of day across Tyria. Defeat them to receive chests containing rare equipment and crafting materials. </c>","Победите %num2% мировых боссов в локациях «Кровавый прилив», «Пламенные степи» или «Харатийские просторы».
 
 <c=@reminder>Мировые боссы — это сложные события, которые происходят в определенное время суток по всей Тирии. Победив их, вы получите сундуки с редким снаряжением и материалами для крафта. </c>"
-"Death Shroud is replaced with Harbinger Shroud, granting powerful offensive skills but leaving you vulnerable to attack.<br>As you remain in Harbinger Shroud, you accumulate stacking Blight.<br><c=@reminder>Blight decreases your maximum health.</c>","«Смертельная саван» заменена на «Саван предвестника», дарующая мощные атакующие умения, но делающая вас уязвимым для атак.<br>Пока вы находитесь в состоянии «Саван предвестника», вы накапливаете эффект «Зловоние».<br><c=@reminder>«Зловоние» уменьшает ваш максимальный запас здоровья.</c>"
+"Death Shroud is replaced with Harbinger Shroud, granting powerful offensive skills but leaving you vulnerable to attack.<br>As you remain in Harbinger Shroud, you accumulate stacking Blight.<br><c=@reminder>Blight decreases your maximum health.</c>","«Смертельная саван» заменена на «Harbinger Shroud», дарующая мощные атакующие умения, но делающая вас уязвимым для атак.<br>Пока вы находитесь в состоянии «Саван предвестника», вы накапливаете эффект «Зловоние».<br><c=@reminder>«Зловоние» уменьшает ваш максимальный запас здоровья.</c>"
 "Find others to help you explore Bjora Marches!
 The Guild Wars 2: Path of Fire™ expansion and the Living World episode ""Whisper in the Dark"" are required to access this map.","Найдите других игроков, чтобы вместе исследовать Бьорнские Топи!
 Для доступа к этой карте необходимо приобрести дополнение Guild Wars 2: Путь Огня™ и пройти эпизод «Шёпот во тьме» из серии «Живая история»."
@@ -1312,7 +1312,7 @@ Required to gain access to the Olmakhan quartermaster.","Выполните 10 �
 "Find others to aid Steel Warband's passage north in this vision of the past.
 Guild Wars 2: Path of Fire expansion and the Living World episode ""Steel and Fire"" are required to access this content, which is launched from the Eye of the North Scrying Pool.","Найдите других, кто поможет отряду ""Стальная сталь"" пройти на север в этом видении прошлого.
 Для доступа к этому контенту, который запускается из Оракула в Глазе Севера, необходимо приобрести дополнение Guild Wars 2: Путь Огня и пройти эпизод ""Сталь и пламя"" сюжетной линии Живого мира."
-"Gain access to the Mech Command skill Sky Circus. While dismissed or away for repairs, your mech supports you with an occasional aerial bombardment.<br>Signet skills gain improved passive effects and continue to grant their passive bonuses while recharging.","Получите доступ к навыку «Механизированное командование» — «Небесный цирк». Пока ваш мех находится в режиме ожидания или на ремонте, он периодически поддерживает вас воздушными ударами.<br>Навыки-сигналы получают улучшенные пассивные эффекты и продолжают давать свои пассивные бонусы во время перезарядки."
+"Gain access to the Mech Command skill Sky Circus. While dismissed or away for repairs, your mech supports you with an occasional aerial bombardment.<br>Signet skills gain improved passive effects and continue to grant their passive bonuses while recharging.","Получите доступ к навыку «Механизированное командование» — «Sky Circus». Пока ваш мех находится в режиме ожидания или на ремонте, он периодически поддерживает вас воздушными ударами.<br>Навыки-сигналы получают улучшенные пассивные эффекты и продолжают давать свои пассивные бонусы во время перезарядки."
 "Emercadani onese,  
 Maladretti Sidony icnatare,  
 Isgarren, in soltira maereca,  
@@ -1890,8 +1890,8 @@ Each stack of this effect will grant access to a bonus chest at the end of the D
 +10%% к получаемому количеству очков опыта мира"
 ((305056)),((305056))
 "Is that you, Forgal? Well met, old man! Are you still fighting for the Vigil?","Это ты, Форгал? Рад встрече, старик! Ты всё ещё сражаешься за Дозор?"
-"Warmaster Forgal Kernsson: You may win the battle, dragon, but you will never defeat our spirit!","Военачальник Форгал Кернссон: Ты можешь выиграть битву, дракон, но ты никогда не сломишь наш дух!"
-"Warmaster Forgal Kernsson: I am Forgal, son of Kern. My father was the last Dolyak Shaman! I am a Warmaster of the Vigil! You will never make me kneel!","Военачальник Форгал Кернссон: Я — Форгал, сын Керна. Мой отец был последним шаманом Дольяков! Я — военачальник Дозора! Вы никогда не заставите меня преклонить колено!"
+"Warmaster Forgal Kernsson: You may win the battle, dragon, but you will never defeat our spirit!","Военачальник Forgal Kernsson: Ты можешь выиграть битву, дракон, но ты никогда не сломишь наш дух!"
+"Warmaster Forgal Kernsson: I am Forgal, son of Kern. My father was the last Dolyak Shaman! I am a Warmaster of the Vigil! You will never make me kneel!","Военачальник Forgal Kernsson: Я — Форгал, сын Керна. Мой отец был последним шаманом Дольяков! Я — военачальник Дозора! Вы никогда не заставите меня преклонить колено!"
 "-10%% Incoming Damage
 +35 to All Attributes
 +10%% Karma

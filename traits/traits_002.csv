@@ -204,7 +204,7 @@ Elemental Balance,Стихийный баланс
 Elemental Bastion,Стихийный бастион
 Elemental Dynamo,Стихийное динамо
 Elemental Empowerment,Стихийное усиление
-"Elemental Empowerment is more effective. While at maximum stacks of Elemental Empowerment, its effectiveness is increased further.",Стихийное усиление более эффективно. При достижении максимального количества зарядов Стихийного усиления его эффективность дополнительно возрастает.
+"Elemental Empowerment is more effective. While at maximum stacks of Elemental Empowerment, its effectiveness is increased further.",Elemental Empowerment более эффективно. При достижении максимального количества зарядов Стихийного усиления его эффективность дополнительно возрастает.
 Elemental Enchantment,Стихийное зачарование
 Elemental Epitome,Стихийная квинтэссенция
 Elemental Lockdown,Стихийная блокировка
@@ -396,7 +396,7 @@ Gadgeteer,Гаджетолог
 Gain 1 extra adrenaline per hit.,Получайте 1 дополнительную единицу адреналина за удар.
 Gain <c=@abilitytype>carapace</c> when entering shroud.,"Получайте <c=@abilitytype>панцирь</c> Вы получаете панцирь, когда входите в Саван."
 "Gain Combat High when you use Skritt Swipe, increasing your outgoing strike and condition damage. Lose stacks of Combat High every interval.","Получите Боевой подъём при использовании Удара скритта, увеличивая ваш исходящий урон от атак и состояний. Теряйте стаки Боевого подъёма через каждый интервал."
-Gain Elemental Empowerment and might when you disable or immobilize a foe.,"Вам даруется мощь и Стихийное усиление, когда вы обездвиживаете противника или выводите его из строя."
+Gain Elemental Empowerment and might when you disable or immobilize a foe.,"Вам даруется мощь и Elemental Empowerment, когда вы обездвиживаете противника или выводите его из строя."
 Gain Elemental Empowerment and vigor when evading an attack.,"Вам даруется энергичность и стихийное усиление, когда вы уклоняетесь от атаки."
 Gain Elemental Empowerment while in combat.,"Пока вы находитесь в бою, на вас действует эффект Стихийного усиления."
 "Gain Insight when disabling foes or removing boons. Full Counter refreshes all <c=@abilitytype>burst</c> skills on hit.

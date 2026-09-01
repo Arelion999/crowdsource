@@ -62,17 +62,17 @@ english,translate
 —Крестоносец Вилборг</c>"
 "<c=@flavor>""Great for splitting lumber. Or centaurs.""
 —Forward Scout Luke</c>","<c=@flavor>«Отлично подходит для колки дров. Или кентавров».
-—Передовой разведчик Люк</c>"
+—Forward Scout Luke</c>"
 "<c=@flavor>""Great power in mountain skull. We make small mountain you hold in hand.""
 —Wupwup Chief</c>","<c=@flavor>«Великая сила в горном черепе. Мы делаем маленькую гору, которую держишь в руке».
 —Вождь вапвапов</c>"
 "<c=@flavor>""Great protection and excellent style.""
 —Sheriff Kaargoth Bloodclaw</c>","<c=@flavor>«Отличная защита и превосходный стиль».
-—Шериф Каргот Кровавый Коготь</c>"
+—Шериф Kaargoth Bloodclaw</c>"
 "<c=@flavor>""Guaranteed to ward off undead!""—Cuadinti</c>",<c=@flavor>«Гарантированно отгоняет нежить!»—Куадинти</c>
 "<c=@flavor>""Harpy down makes a good pillow. It's soft and warm.""
 —Sagum Relicseeker</c>","<c=@flavor>«Гарпийий пух делает хорошую подушку. Мягкую и тёплую».
-—Сагум Искатель Реликвий</c>"
+—Sagum Relicseeker</c>"
 "<c=@flavor>""Has never failed me. Well, almost never.""
 —Twitchok</c>","<c=@flavor>«Никогда меня не подводил. Ну, почти никогда».
 —Твичок</c>"
@@ -248,7 +248,7 @@ This item only has value as part of a collection.","<c=@flavor>«Купила э
 —Дану</c>"
 "<c=@flavor>""I keep these daggers sharp, just in case of an attack.""
 —Lexi Price</c>","<c=@flavor>«Держу эти кинжалы острыми на случай нападения».
-—Лекси Прайс</c>"
+—Lexi Price</c>"
 "<c=@flavor>""I know an alchemist who often inquires about such things.""
 —Cin</c>
 
@@ -272,7 +272,7 @@ This item only has value as part of a collection.","<c=@flavor>«Я знаю а�
 "<c=@flavor>""I pity what's on the other side of this speargun.""</c>","<c=@flavor>«Мне жаль того, кто окажется по другую сторону этого гарпунного ружья».</c>"
 "<c=@flavor>""I prefer a sword, but this will do in a pinch.""
 —Lieutenant Pickins</c>","<c=@flavor>«Я предпочитаю меч, но в крайнем случае сойдёт и это».
-—Лейтенант Пикинс</c>"
+—Lieutenant Pickins</c>"
 "<c=@flavor>""I remember this one year when the crabs were stealing all my bait...""
 —Fisherman Will</c>","<c=@flavor>«Помню один год, когда крабы воровали всю мою наживку...»
 —Рыбак Уилл</c>"
@@ -301,7 +301,7 @@ This item only has value as part of a collection.","<c=@flavor>«Я знаю а�
 —Арканист Аурелио Дрожащая Лапа</c>"
 "<c=@flavor>""I'll stop when they're dead.""
 —Broil Cane</c>","<c=@flavor>«Я остановлюсь, когда они умрут».
-—Бройл Кейн</c>"
+—Broil Cane</c>"
 "<c=@flavor>""I'm done with your games, and I'm finished with you. I am not your dearheart.""
 —Caithe</c>","<c=@flavor>«С меня хватит твоих игр, и с тобой я закончила. Я не твоя зазноба».
 —Каите</c>"
@@ -323,7 +323,7 @@ This item only has value as part of a collection.","<c=@flavor>«Я знаю а�
 —Файра </c>"
 "<c=@flavor>""I'm surprised this survived first contact with the enemy.""
 —Magister Pagga</c>","<c=@flavor>«Удивлён, что это пережило первый контакт с врагом».
-—Магистр Пагга</c>"
+—Magister Pagga</c>"
 "<c=@flavor>""I've already learned everything I can from it.""
 —Wistt</c>","<c=@flavor>«Я уже узнала от этого всё, что могла».
 —Уистт</c>"
@@ -332,7 +332,7 @@ This item only has value as part of a collection.","<c=@flavor>«Я знаю а�
 —Гилли</c>"
 "<c=@flavor>""I've seen enough battles to know when to use this and when to use diplomacy.""
 —Tactician Sebastian</c>","<c=@flavor>«Повидал достаточно битв, чтобы знать, когда применять это, а когда — дипломатию».
-—Тактик Себастьян</c>"
+—Tactician Sebastian</c>"
 "<c=@flavor>""If anyone asks, you didn't get it from me.""
 —Mrr'kkant</c>","<c=@flavor>«Если кто спросит — ты получил это не от меня».
 —Мрр'ккант</c>"
@@ -373,10 +373,10 @@ This item only has value as part of a collection.","<c=@flavor>«Я знаю а�
 —Охотник Блок</c>"
 "<c=@flavor>""If you want to keep a piece, it's all yours.""
 —Crusader Brice</c>","<c=@flavor>«Если хочешь оставить кусок себе — он весь твой».
-—Крестоносец Брайс</c>"
+—Crusader Brice</c>"
 "<c=@flavor>""If you wish to see your enemies cower in fear, all you need to do is to give a single blast of this horn.""
 —Kiryn Brant</c>","<c=@flavor>«Хочешь, чтобы враги съёжились от страха? Достаточно единственного гудка этого рога».
-—Кирин Брант</c>"
+—Kiryn Brant</c>"
 "<c=@flavor>""If you're going into caves, at least keep your legs covered. One bad accident can put you out of commission.""
 —Kelgg</c>","<c=@flavor>«Идёшь в пещеры — хотя бы прикрой ноги. Одна беда — и ты выбыл из строя».
 —Келгг</c>"
@@ -396,7 +396,7 @@ This item only has value as part of a collection.","<c=@flavor>«Я знаю а�
 —Изыскатель Требб</c>"
 "<c=@flavor>""In case of centaurs, apply footwear. Then start the party!""
 —Scout Jones</c>","<c=@flavor>«В случае кентавров — надень обувь. Затем начинай вечеринку!»
-—Разведчик Джонс</c>"
+—Scout Jones</c>"
 "<c=@flavor>""In most cases, skritt weapons are cobbled together from random sources. Operate with caution.""
 —Durmand Priory Field Guide to Skritt</c>","<c=@flavor>«Чаще всего оружие скриттов слеплено из чего попало. Обращайся с ним осторожно».
 —Полевой справочник Приората Дурманд по скриттам</c>"
@@ -444,7 +444,7 @@ This item only has value as part of a collection.","<c=@flavor>«Я знаю а�
 —Магистр Иззмек</c>"
 "<c=@flavor>""It's amazing what you can find in a old Skritt cave.""
 —Crusader Aisling</c>","<c=@flavor>«Удивительно, что можно найти в старой пещере скриттов».
-—Крестоносец Эйслинг</c>"
+—Crusader Aisling</c>"
 "<c=@flavor>""It's been recalibrated using the energy readings we took in this area. It'll be quite effective."" 
 —Kamma</c>","<c=@flavor>«Это перекалибровали, используя показания энергии, снятые в этой местности. Будет весьма эффективно». 
 —Камма</c>"
@@ -454,7 +454,7 @@ This item only has value as part of a collection.","<c=@flavor>«Я знаю а�
 —Лаудрен</c>"
 "<c=@flavor>""It's easier to be vigilant when you have this in your hands.""
 —Crusader Brice</c>","<c=@flavor>«Легче быть бдительным, когда это у тебя в руках».
-—Крестоносец Брайс</c>"
+—Crusader Brice</c>"
 "<c=@flavor>""It's either never been used, or it's been licked clean.""</c>","<c=@flavor>«Либо им никогда не пользовались, либо его вылизали дочиста».</c>"
 "<c=@flavor>""It's got a hair-trigger. I wouldn't suggest pointing this at yourself while cleaning.""
 —Vejj</c>","<c=@flavor>«У этого чувствительный спусковой крючок. Не советую направлять это на себя во время чистки».
@@ -468,7 +468,7 @@ This item only has value as part of a collection.","<c=@flavor>«Я знаю а�
 —Вашер Тенепевец</c>"
 "<c=@flavor>""It's not easy to survive in the wilds. There's probably something in here that could save your life.""
 —Magister Roslin</c>","<c=@flavor>«Выжить в глуши непросто. Тут наверняка найдётся что-то, что спасёт тебе жизнь».
-—Магистр Рослин</c>"
+—Magister Roslin</c>"
 "<c=@flavor>""It's not enough to protect the body. One must protect the soul, as well.""
 —Lightbringer Ives</c>","<c=@flavor>«Недостаточно защищать тело. Нужно защищать ещё и душу».
 —Светоносец Айвз</c>"
@@ -503,17 +503,17 @@ This item only has value as part of a collection.","<c=@flavor>«Это не в�
 —Пейден</c>"
 "<c=@flavor>""It's the helm of the upper arm.""
 —Zalvax Brokenclaw</c>","<c=@flavor>«Это шлем для верхней части руки».
-—Залвакс Сломанный Коготь</c>"
+—Zalvax Brokenclaw</c>"
 "<c=@flavor>""Its not the sword that's great, but who wields it.""
 —Pact Crusader D'Stolt</c>","<c=@flavor>«Не меч велик, а тот, кто им владеет».
-—Крестоносец Пакта Д'Столт</c>"
+—Pact Crusader Д'Столт</c>"
 "<c=@flavor>""Its too bad this wont block the stench of this place.""
 —Magister Pagga</c>","<c=@flavor>«Жаль, что это не заблокирует вонь этого места».
-—Магистр Пагга</c>"
+—Magister Pagga</c>"
 "<c=@flavor>""Judging from the condition of this crystal, I'd say the golem this came from took quite a beating before being disassembled.""—Calcutician Doola</c>","<c=@flavor>«Судя по состоянию этого кристалла, голему, из которого он взят, изрядно досталось, прежде чем его разобрали».—Калькутик Дула</c>"
 "<c=@flavor>""Just a copy for your files. Don't worry about the fine print. It's boilerplate.""
 —Advisor Zakk</c>","<c=@flavor>«Просто копия для твоих архивов. Не переживай насчёт мелкого шрифта. Это стандартная формулировка».
-—Советник Закк</c>"
+—Advisor Zakk</c>"
 "<c=@flavor>""Just a small piece of the Terebinth's power.""
 —Leigheara</c>","<c=@flavor>«Всего лишь маленький кусочек силы Теребинта».
 —Лейхара</c>"
@@ -528,7 +528,7 @@ This item only has value as part of a collection.","<c=@flavor>«Это не в�
 —Койдд</c>"
 "<c=@flavor>""Just to remind the world what the Iron Legion is best at.""
 —Centurion Truthbringer</c>","<c=@flavor>«Просто чтобы напомнить миру, в чём Iron Legion лучше всех».
-—Центурион Правдоносец</c>"
+—Centurion Truthbringer</c>"
 "<c=@flavor>""Keep an eye on those ice imps.They are always up to no good.""
 —Suki</c>","<c=@flavor>«Не спускай глаз с этих ледяных бесов. От них всегда одни неприятности».
 —Суки</c>"
@@ -584,7 +584,7 @@ This item only has value as part of a collection.","<c=@flavor>«Это не в�
 "<c=@flavor>""Knowledge of these dangers is the only path to true victory. Many have died for what we have learned.""<br>—Scholar Daphne</c>","<c=@flavor>«Знание об этих опасностях — единственный путь к настоящей победе. Многие погибли за то, что мы узнали».<br>—Учёная Дафна</c>"
 "<c=@flavor>""Let's make a deal.""
 —Lexi Price</c>","<c=@flavor>«Давай договоримся».
-—Лекси Прайс</c>"
+—Lexi Price</c>"
 "<c=@flavor>""Let's see them run after us now!""
 —Hua'racche</c>","<c=@flavor>«Пусть теперь побегают от нас!»
 —Хуарраче</c>"
@@ -706,7 +706,7 @@ This item only has value as part of a collection.","<c=@flavor>«Это не в�
 — Псарь Военное Рыло</c>"
 "<c=@flavor>""Never know when you'll need one of these.""
 —Magister Roslin</c>","<c=@flavor>«Никогда не знаешь, когда такое понадобится».
-—Магистр Рослин</c>"
+—Magister Roslin</c>"
 "<c=@flavor>""Never leave a wrong to ripen into evil or sorrow.""</c>
 —Tenets of Ventari","<c=@flavor>«Не давай несправедливости вызреть во зло или скорбь».</c>
 —Заповеди Вентари"
@@ -741,13 +741,13 @@ This item only has value as part of a collection.","<c=@flavor>«Это не в�
 —Какилак'ка</c>"
 "<c=@flavor>""Not to give them too much credit, but this paint is just as good as some used by the great painters.""
 —Explorer Erikk</c>","<c=@flavor>«Не хочу их перехваливать, но эта краска не хуже той, какой пользуются великие живописцы».
-—Исследователь Эрикк</c>"
+—Explorer Erikk</c>"
 "<c=@flavor>""Not too long ago one of my scouts reported those grawl worshiping him as a thunder god on account of this rifle.""
 —Explorer Erikk</c>","<c=@flavor>«Недавно один из моих разведчиков доложил, что те граулы поклоняются ему как богу грома — из-за этой винтовки».
-—Исследователь Эрикк</c>"
+—Explorer Erikk</c>"
 "<c=@flavor>""Nothing beats a trusty mace.""
 —Legionnaire Kress Rustmaw</c>","<c=@flavor>«Ничто не сравнится с верной булавой».
-—Легионер Кресс Ржапаст</c>"
+—Legionnaire Kress Rustmaw</c>"
 "<c=@flavor>""Nothing can stand against our combined power.""
 —Rhea</c>","<c=@flavor>«Ничто не устоит против нашей объединённой силы».
 —Реа</c>"
@@ -759,7 +759,7 @@ This item only has value as part of a collection.","<c=@flavor>«Это не в�
 —Несси</c>"
 "<c=@flavor>""Nothing is getting past this shield.""
 —Vigil Crusader Rugan</c>","<c=@flavor>«Ничто не пройдёт мимо этого щита».
-—Крестоносец Дозора Руган</c>"
+—Vigil Crusader Rugan</c>"
 "<c=@flavor>""Nothing will try your patience more than skritt.""
 —Scholar Antal the Patient</c>","<c=@flavor>«Ничто не испытает твоё терпение сильнее, чем скритты».
 —Учёная Антал Терпеливая</c>"
@@ -840,7 +840,7 @@ This item only has value as part of a collection.","<c=@flavor>«Это не в�
 —Страж Льва Эстер</c>"
 "<c=@flavor>""Our fight against these creatures won't end. Keep this charm as a reminder to never give up.""
 —Valiant Caillech</c>","<c=@flavor>«Наша борьба с этими тварями не кончится. Храни этот оберег как напоминание никогда не сдаваться».
-—Доблестная Каллех</c>"
+—Valiant Caillech</c>"
 "<c=@flavor>""Our moas prefer the spiked collars.""
 —Cassie</c>","<c=@flavor>«Наши моа предпочитают ошейники с шипами».
 —Кэсси</c>"
@@ -869,13 +869,13 @@ This item only has value as part of a collection.","<c=@flavor>«Это не в�
 —Аэрикс</c>"
 "<c=@flavor>""Perhaps now they'll stay closed.""
 —Historian Garrod</c>","<c=@flavor>«Может, теперь они останутся закрытыми».
-—Историк Гаррод</c>"
+—Historian Garrod</c>"
 "<c=@flavor>""Pew, pew!""
 —Lugung</c>","<c=@flavor>«Пиу, пиу!»
 —Лугунг</c>"
 "<c=@flavor>""Pick up a shield and get in there!""
 —Sergeant Liddy</c>","<c=@flavor>«Хватай щит и вперёд!»
-—Сержант Лидди</c>"
+—Sergeant Liddy</c>"
 "<c=@flavor>""Pictures of great hunts. No more with bad ice brutes around.""
 —Mokooki</c>","<c=@flavor>«Фотографии великих охот. Больше никаких злых ледяных громил рядом».
 —Мокооки</c>"
@@ -911,7 +911,7 @@ This item only has value as part of a collection.","<c=@flavor>«Это не в�
 —Рак Смертегрив</c>"
 "<c=@flavor>""Protects what's between the ears.""
 —Zalvax Brokenclaw</c>","<c=@flavor>«Защищает то, что между ушами».
-—Залвакс Сломанный Коготь</c>"
+—Zalvax Brokenclaw</c>"
 "<c=@flavor>""Protects your insides.""
 —Marksman Kamekeck</c>","<c=@flavor>«Защищает твои внутренности».
 —Стрелок Камекек</c>"
@@ -945,13 +945,13 @@ This item only has value as part of a collection.","<c=@flavor>«Это не в�
 —Дуидда</c>"
 "<c=@flavor>""Quaggan makes the best weapon for the best battles.""
 —Recruit Wongoo</c>","<c=@flavor>«Квагган делает лучшее оружие для лучших битв».
-—Новобранец Вонгу</c>"
+—Recruit Wongoo</c>"
 "<c=@flavor>""Quaggan makes these bejeweled sea shells to protect others from the blood witch's curses. Maybe one day it can protect you.""
 —Doolsileep</c>","<c=@flavor>«Квагган делает эти украшенные самоцветами ракушки, чтобы защитить других от проклятий кровавой ведьмы. Может, однажды она защитит и тебя».
 —Дулслип</c>"
 "<c=@flavor>""Quaggan wants you to stay protected in dark waters.""
 —Recruit Wongoo</c>","<c=@flavor>«Квагган хочет, чтобы ты был защищён в тёмных водах».
-—Новобранец Вонгу</c>"
+—Recruit Wongoo</c>"
 "<c=@flavor>""Quaggan wouldn't know what to do if quaggan couldn't breathe underwater.""
 —Qualdup</c>","<c=@flavor>«Квагган не знал бы, что делать, если бы квагган не мог дышать под водой».
 —Кволдап</c>"
@@ -964,14 +964,14 @@ This item only has value as part of a collection.","<c=@flavor>«Это не в�
 —Поговорка бойца ямы</c>"
 "<c=@flavor>""Recover, reuse, recycle. The equipment we recover is usually a lot less banged up than the soldier.""
 —Sergeant Yarbrough</c>","<c=@flavor>«Восстанавливай, используй повторно, перерабатывай. Снаряжение, которое мы находим, обычно куда меньше побито, чем солдат».
-—Сержант Ярбро</c>"
+—Sergeant Yarbrough</c>"
 "<c=@flavor>""Remember that time we threw grenades at drakes?""</c>","<c=@flavor>«Помнишь, как мы забрасывали дрейков гранатами?»</c>"
 "<c=@flavor>""Remember to show your support.""
 —Evon Gnashblade</c>","<c=@flavor>«Не забудь выразить свою поддержку».
 —Эвон Гнэшблейд</c>"
 "<c=@flavor>""Remember, attack as they lower their guard.""
 —Sergeant Neal</c>","<c=@flavor>«Помни, атакуй, когда они опускают гарду».
-—Сержант Нил</c>"
+—Sergeant Neal</c>"
 "<c=@flavor>""Remember, the pointy end goes out front.""
 —Aerixx</c>","<c=@flavor>«Помни, острый конец идёт вперёд».
 —Аэрикс</c>"
@@ -992,7 +992,7 @@ This item only has value as part of a collection.","<c=@flavor>«Это не в�
 —Бинк</c>"
 "<c=@flavor>""Seems they had fancy spoons too. Well, that answers that question.""
 —Tactician Almonia</c>","<c=@flavor>«Похоже, у них тоже были модные ложки. Что ж, это отвечает на вопрос».
-—Тактик Алмония</c>"
+—Tactician Almonia</c>"
 "<c=@flavor>""Separatists on one side, ghosts on the other. Too many dead charr.""</c>","<c=@flavor>«Сепаратисты с одной стороны, призраки с другой. Слишком много мёртвых чарров».</c>"
 "<c=@flavor>""Serial #1161""</c>",<c=@flavor>«Серийный №1161»</c>
 "<c=@flavor>""Serial #1365""</c>",<c=@flavor>«Серийный №1365»</c>
@@ -1000,17 +1000,17 @@ This item only has value as part of a collection.","<c=@flavor>«Это не в�
 "<c=@flavor>""Serial #455""</c>",<c=@flavor>«Серийный №455»</c>
 "<c=@flavor>""Seriously, I don't want this thing.""
 —Lieutenant Pickins</c>","<c=@flavor>«Если честно, не хочу эту штуку».
-—Лейтенант Пикинс</c>"
+—Lieutenant Pickins</c>"
 "<c=@flavor>""Share and share alike. Sometimes a person needs a little more—uh—motivation, to be of the giving sort.""
 —Maakel The Immortal</c>","<c=@flavor>«Делись по-честному. Иногда человеку нужна чуть большая... э-э... мотивация, чтобы стать щедрым».
 —Маакель Бессмертный</c>"
 "<c=@flavor>""Sharper than your normal dagger...""</c>",<c=@flavor>«Острее обычного кинжала...»</c>
 "<c=@flavor>""Shaved one gram off the pommel to balance everything out.""
 —Crusader Brice</c>","<c=@flavor>«Сбрил один грамм с навершия, чтобы всё уравновесить».
-—Крестоносец Брайс</c>"
+—Crusader Brice</c>"
 "<c=@flavor>""Shaved one half gram off the pommel to balance everything out.""
 —Crusader Brice</c>","<c=@flavor>«Сбрил пол грамма с навершия, чтобы всё уравновесить».
-—Крестоносец Брайс</c>"
+—Crusader Brice</c>"
 "<c=@flavor>""Shhh-shhhimmery.""
 —Qualdup</c>","<c=@flavor>«Ш-ш-ш-ш-ш-шимерно».
 —Кволдап</c>"
@@ -1019,7 +1019,7 @@ This item only has value as part of a collection.","<c=@flavor>«Это не в�
 —Коллекционер Терксли во Львиной Арке</c>"
 "<c=@flavor>""Shoes wear out quickly when you travel often. Travel twice as far with your own set of Lionguard shoes!""
 —Lionguard Rhyn</c>","<c=@flavor>«Обувь быстро изнашивается, когда часто путешествуешь. Пройди вдвое дальше в собственной паре обуви Львиной стражи!»
-—Львиный страж Рин</c>"
+—Lionguard Rhyn</c>"
 "<c=@flavor>""Shoots shinies.""
 —Explorer Grretergrret</c>","<c=@flavor>«Стреляет блестяшками».
 —Изыскатель Гретергрет</c>"
@@ -1031,7 +1031,7 @@ This item only has value as part of a collection.","<c=@flavor>«Это не в�
 —Серафим Элмдер</c>"
 "<c=@flavor>""Siege machinery takes a lot of lumber, and that takes a lot of axes. Sharp, sharp axes.""
 —Crusader Vilborg</c>","<c=@flavor>«На осадные машины уходит уйма древесины, а на неё — уйма топоров. Острых-острых топоров».
-—Крестоносец Вильборг</c>"
+—Crusader Vilborg</c>"
 "<c=@flavor>""Sign below to support removing Dr. Bleent from the Arcane Council.""</c>",<c=@flavor>«Подпишись ниже в поддержку исключения д-ра Блинта из Тайного Совета».</c>
 "<c=@flavor>""Simple and effective.""
 —Warden Brulians</c>","<c=@flavor>«Просто и эффективно».
@@ -1052,7 +1052,7 @@ This item only has value as part of a collection.","<c=@flavor>«Это не в�
 —Верохранитель</c>"
 "<c=@flavor>""Skritt will steal anything not nailed down, and even then it better be nailed to something big.""
 —Laborer Cardy</c>","<c=@flavor>«Скритты стащат всё, что не приколочено, да и приколоченное лучше прибивать к чему-нибудь большому».
-—Рабочий Карди</c>"
+—Laborer Cardy</c>"
 "<c=@flavor>""Smells like rum and body odor.""—Duidda</c>",<c=@flavor>«Пахнет ромом и потом».—Дуидда</c>
 "<c=@flavor>""Sneaking up on someone is easy. Keeping others from noticing you is the hard part.""
 —Morina</c>","<c=@flavor>«Подкрасться к кому-то легко. Труднее — сделать так, чтобы другие тебя не заметили».
@@ -1092,8 +1092,8 @@ This item only has value as part of a collection.","<c=@flavor>«Это не в�
 —Ихтака</c>"
 "<c=@flavor>""Some use water to extinguish flame. I prefer steel.""
 —Corva Sharpclaw</c>","<c=@flavor>«Кто-то тушит пламя водой. Я предпочитаю сталь».
-—Корва Остроког</c>"
-"<c=@flavor>""Something big is coming."" - Captain Vandem</c>",<c=@flavor>«Грядёт что-то большое». - Капитан Вандем</c>
+—Corva Sharpclaw</c>"
+"<c=@flavor>""Something big is coming."" - Captain Vandem</c>",<c=@flavor>«Грядёт что-то большое». - Captain Vandem</c>
 "<c=@flavor>""Sometimes a prisoner needs a little 'motivation'.""
 —Warden Scourgejaw</c>","<c=@flavor>«Иногда пленнику нужна небольшая „мотивация“».
 —Страж Скорджо</c>"
@@ -1130,7 +1130,7 @@ This item only has value as part of a collection.","<c=@flavor>«Иногда д
 —Фартак Осколочник</c>"
 "<c=@flavor>""Sometimes skritt find the strangest things.""
 —Crusader Aisling</c>","<c=@flavor>«Иногда скритты находят самые странные вещи».
-—Крестоносец Эйслинг</c>"
+—Crusader Aisling</c>"
 "<c=@flavor>""Sometimes subtlety is overrated. This will make enough noise to wake my old professor.""
 —Scholar Blix</c>","<c=@flavor>«Иногда скрытность переоценена. Этого хватит, чтобы разбудить моего старого профессора».
 —Учёная Бликс</c>"
@@ -1172,7 +1172,7 @@ This item only has value as part of a collection.","<c=@flavor>«Иногда д
 —Iron Legion</c>"
 "<c=@flavor>""Step one: stop incoming attacks. Step two: repay in full.""
 —Scout Jones</c>","<c=@flavor>«Шаг первый: остановить входящие атаки. Шаг второй: отплатить сполна».
-—Разведчик Джонс</c>"
+—Scout Jones</c>"
 "<c=@flavor>""Sterilize after use to prevent contaminating samples.""</c>","<c=@flavor>«Стерилизовать после использования, чтобы не загрязнить образцы».</c>"
 "<c=@flavor>""Stike hard, strike often.""
 —Blood Legion Motto</c>","<c=@flavor>«Бей сильно, бей часто».
@@ -1188,7 +1188,7 @@ This item only has value as part of a collection.","<c=@flavor>«Иногда д
 —Аноним</c>"
 "<c=@flavor>""Strike fast in order to strike again.""
 —Agent Siobhan</c>","<c=@flavor>«Бей быстро, чтобы ударить снова».
-—Агент Шивон</c>"
+—Agent Siobhan</c>"
 "<c=@flavor>""Strikes fear in the heart of your enemies and alerts your allies to danger.""
 —Goran</c>","<c=@flavor>«Внушает страх в сердца твоих врагов и предупреждает твоих союзников об опасности».
 —Горан</c>"
@@ -1204,7 +1204,7 @@ This item only has value as part of a collection.","<c=@flavor>«Иногда д
 "<c=@flavor>""Swing with confidence knowing the devastation this mace can produce""</c>","<c=@flavor>«Замахивайся уверенно, зная, какие разрушения способна причинить эта булава»</c>"
 "<c=@flavor>""Take care when fighting those steam beasts; who knows where they've been.""
 —Agent Kaukiri</c>","<c=@flavor>«Будь осторожен в бою с этими паровыми тварями — кто знает, где они побывали».
-—Агент Каукири</c>"
+—Agent Kaukiri</c>"
 "<c=@flavor>""Take care: improper maintenance of this device may result in incorrect results...or explosions.""
 —Blopp</c>","<c=@flavor>«Осторожно: неправильное обслуживание этого устройства может привести к неверным результатам... или взрывам».
 —Блопп</c>"
@@ -1288,7 +1288,7 @@ This item only has value as part of a collection.","<c=@flavor>«Иногда д
 —Лэвин</c>"
 "<c=@flavor>""The dredge are no match for our superior weapons and knowledge.""
 —Magister Kathryn</c>","<c=@flavor>«Дреджи не ровня нашему превосходящему оружию и знаниям».
-—Магистр Кэтрин</c>"
+—Magister Kathryn</c>"
 "<c=@flavor>""The edges have been sharpened a bit in order to give the shield a counter-offensive nature. After all, a good offense is the best defense.""
 —Sheriff Bloodclaw</c>","<c=@flavor>«Края немного заточили, чтобы придать щиту контратакующий нрав. В конце концов, лучшая защита — это нападение».
 —Шериф Кровокоготь</c>"
@@ -1302,25 +1302,25 @@ This item only has value as part of a collection.","<c=@flavor>«Иногда д
 —Изыскатель Требб</c>"
 "<c=@flavor>""The extra wrappings are for cold weather.""
 —Scholar Tholin</c>","<c=@flavor>«Дополнительные обмотки — для холодной погоды».
-—Учёный Толин</c>"
+—Scholar Tholin</c>"
 "<c=@flavor>""The faster the kill, the quieter the quarry.""
 —Slayer Feldera</c>","<c=@flavor>«Чем быстрее убийство, тем тише добыча».
 —Убийца Фелдера</c>"
 "<c=@flavor>""The fine craftsmanship of the Ascalonians, passed down through the ages.""
 —Kiryn Brant</c>","<c=@flavor>«Тонкое мастерство аскалонцев, передаваемое через века».
-—Кирин Брант</c>"
+—Kiryn Brant</c>"
 "<c=@flavor>""The first arrow I shot was from a bow such as this. Nevermind about that. That was a long time ago.""
 —Pact Crusader D'Stolt","<c=@flavor>«Первую стрелу я выпустил из такого же лука. Впрочем, неважно. Это было давно».
-—Крестоносец Пакта Д’Стольт"
+—Pact Crusader Д’Стольт"
 "<c=@flavor>""The first arrow I shot was from a bow such as this. Nevermind about that. That was a long time ago.""
 —Pact Crusader D'Stolt</c>","<c=@flavor>«Первую стрелу я выпустил из такого же лука. Впрочем, неважно. Это было давно».
-—Крестоносец Пакта Д’Стольт</c>"
+—Pact Crusader Д’Стольт</c>"
 "<c=@flavor>""The first explorers of this area discovered abnormally powerful ore deposits.""
 —Arcanist Vance</c>","<c=@flavor>«Первые исследователи этой местности обнаружили аномально мощные рудные залежи».
 —Арканист Вэнс</c>"
 "<c=@flavor>""The first page will give you nightmares, ask Abel.""
 —Scholar Worfmir</c>","<c=@flavor>«Первая страница подарит тебе кошмары, спроси Абеля».
-—Учёный Ворфмир</c>"
+—Scholar Worfmir</c>"
 "<c=@flavor>""The Flame Legion was doomed from the start. We are just the instruments of their fate.""
 —Sava Quicksnarl</c>","<c=@flavor>«Flame Legion был обречён с самого начала. Мы лишь орудия их судьбы».
 —Сава Быстрорык</c>"
