@@ -162,7 +162,7 @@ Craft schematics to manufacture a tier 3 improvement that doubles the effect of 
 Craft schematics to manufacture a tier 3 improvement that reveals enemies in the region of your guild's claimed tower on your map.,"Создайте чертежи для изготовления улучшения 3-го уровня, которое показывает врагов в регионе захваченной вашей гильдией башни на вашей карте."
 "Craft schematics to manufacture a tier 3 tactic that spawns an offensive banner at your guild's claimed objective. This banner may be picked up by one of your guild members and carried into battle, offering support to other members of your team in the area.","Создайте чертежи для изготовления тактики 3-го уровня, которая создаёт наступательное знамя у захваченной вашей гильдией цели. Это знамя может поднять один из членов вашей гильдии и нести в бой, оказывая поддержку другим членам вашей команды в области."
 Craft schematics to manufacture a tier 3 tactic that temporarily summons a group of airships to circle Stonemist Castle and bombard invaders while you claim it.,"Создайте чертежи для изготовления тактики 3-го уровня, которая временно призывает группу дирижаблей, чтобы они кружили над замком Стоунмист и бомбардировали захватчиков, пока вы его удерживаете."
-"Craft schematics to manufacture a tier 3 tactic that temporarily summons a waypoint at your claimed objective, even during enemy attack.","Создайте чертежи для изготовления тактики 3-го уровня, которая временно создаёт точку пути у вашей захваченной цели, даже во время вражеской атаки."
+"Craft schematics to manufacture a tier 3 tactic that temporarily summons a waypoint at your claimed objective, even during enemy attack.","Создайте чертежи для изготовления тактики 3-го уровня, которая временно создаёт путевую точку у вашей захваченной цели, даже во время вражеской атаки."
 Craft schematics to manufacture banners that offer allies a 10%% boost to experience and karma gain for 30 minutes.,"Создайте чертежи для изготовления знамён, которые дают союзникам бонус +10%% к получаемому опыту и карме на 30 минут."
 Craft schematics to manufacture banners that offer allies a 10%% boost to gathering chance for 30 minutes.,"Создайте чертежи для изготовления знамён, которые дают союзникам бонус +10%% к шансу сбора ресурсов на 30 минут."
 Craft schematics to manufacture banners that offer allies a 10%% boost to gold gain and a 15%% boost to magic find for 30 minutes.,"Создайте чертежи для изготовления знамён, которые дают союзникам бонус +10%% к получаемому золоту и +15%% к поиску магии на 30 минут."
@@ -270,8 +270,8 @@ Guild Treasure Trove,Сокровищница гильдии
 Guild Trebuchet Siege,Требушет гильдии
 Guild Vault: Stash,Сейф гильдии: Тайник
 Guild Waypoint 10% Discount,Гильдейский маяк: скидка 10%
-Guild Waypoint 15% Discount,Скидка 15% на точку пути гильдии
-Guild Waypoint 5% Discount,Скидка 5% на точку пути гильдии
+Guild Waypoint 15% Discount,Скидка 15% на путевую точку гильдии
+Guild Waypoint 5% Discount,Скидка 5% на путевую точку гильдии
 Guild Weaponsmith 1,Оружейник гильдии 1
 Guild Weaponsmith 2,Оружейник гильдии 2
 Hardened Gates,Закаленные врата
@@ -375,9 +375,9 @@ Qadim Pylon,Пилон Кадима
 Raven Spirit Statue,Статуя духа ворона
 Reaching Twisted Tree,Изогнутое скрученное дерево
 Rec Room Floor Tile,Плитка пола комнаты отдыха
-Reduce the cost of using waypoints by 10%% for all guild members.,Снижает стоимость использования точек перемещения на 10%% для всех членов гильдии.
-Reduce the cost of using waypoints by 15%% for all guild members.,Снижает стоимость использования точек перемещения на 15%% для всех членов гильдии.
-Reduce the cost of using waypoints by 5%% for all guild members.,Снижает стоимость использования точек перемещения на 5%% для всех членов гильдии.
+Reduce the cost of using waypoints by 10%% for all guild members.,Снижает стоимость использования путевых точек на 10%% для всех членов гильдии.
+Reduce the cost of using waypoints by 15%% for all guild members.,Снижает стоимость использования путевых точек на 15%% для всех членов гильдии.
+Reduce the cost of using waypoints by 5%% for all guild members.,Снижает стоимость использования путевых точек на 5%% для всех членов гильдии.
 Repair Anvil,Наковальня для ремонта
 Roller Beetle Rental Post,Аренда жука-катуна
 Sabotage Depot,Склад саботажа
