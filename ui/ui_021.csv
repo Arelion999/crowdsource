@@ -120,7 +120,7 @@ english,translate
 "<c=@flavor>""Speed is your ally.""<br>—Brian</c>",<c=@flavor>«Скорость — твой союзник».<br>—Брайан</c>
 "<c=@flavor>""Standard sentinel patrol torch with a little extra kick.""<br>—Sentinel Jaggedclaw</c>",<c=@flavor>«Стандартный патрульный факел часового с небольшой изюминкой».<br>—Часовой Зазубренный Коготь</c>
 "<c=@flavor>""Stay sharp.""<br>—Warmaster Chan</c>",<c=@flavor>«Держи ухо востро».<br>—Военачальник Чан</c>
-"<c=@flavor>""Steel won't yield.""<br>—Iron Legion</c>",<c=@flavor>«Сталь не отступит».<br>—Железный легион</c>
+"<c=@flavor>""Steel won't yield.""<br>—Iron Legion</c>",<c=@flavor>«Сталь не отступит».<br>—Iron Legion</c>
 "<c=@flavor>""Step one: stop incoming attacks. Step two: repay in full.""<br>—Scout Jones</c>",<c=@flavor>«Шаг первый: остановить входящие атаки. Шаг второй: отплатить сполна».<br>—Разведчик Джонс</c>
 "<c=@flavor>""Stike hard, strike often.""<br>—Blood Legion Motto</c>","<c=@flavor>«Бей сильно, бей часто».<br>—Девиз Кровавого легиона</c>"
 "<c=@flavor>""Stop. Pause. Think. Breathe.""<br>—Motto Of Koda</c>",<c=@flavor>«Стоп. Пауза. Думай. Дыши».<br>—Девиз Коды</c>
@@ -163,7 +163,7 @@ english,translate
 "<c=@flavor>""The greater the strike, the greater the counterblow.""<br>—Crusader Vilborg</c>","<c=@flavor>«Чем сильнее удар, тем сильнее ответный удар».<br>—Крестоносец Вилборг</c>"
 "<c=@flavor>""The hooks are unique to this region. Some people like the way they look.""<br>—Mayor Trisk</c>","<c=@flavor>«Эти крюки уникальны для этого региона. Некоторым нравится, как они выглядят».<br>—Мэр Триск</c>"
 "<c=@flavor>""The inscriptions from the exorcism guide are read while the blade is forged.""<br>—Scholar Worfmir</c>",<c=@flavor>«Надписи из руководства по экзорцизму читаются во время ковки клинка».<br>—Учёный Ворфмир</c>
-"<c=@flavor>""The Iron Legion is built with soldiers like you. Thank you.""<br>—Helo Murkhaunt</c>","<c=@flavor>«Железный легион строится из таких солдат, как ты. Спасибо».<br>—Хело Тёмная Жуть</c>"
+"<c=@flavor>""The Iron Legion is built with soldiers like you. Thank you.""<br>—Helo Murkhaunt</c>","<c=@flavor>«Iron Legion строится из таких солдат, как ты. Спасибо».<br>—Хело Тёмная Жуть</c>"
 "<c=@flavor>""The jar seems to retain a remarkable amount of heat.""<br>—Ahjj</c>","<c=@flavor>«Кувшин, похоже, на удивление хорошо удерживает тепло».<br>—Аджж</c>"
 "<c=@flavor>""The less you train with these, the more dangerous you are, to everyone.""<br>—Vigil Tactician Blazefur</c>","<c=@flavor>«Чем меньше ты тренируешься с этим, тем опаснее ты для всех».<br>—Тактик Дозора Блейзфур</c>"
 "<c=@flavor>""The mission isn't done until you come home.""<br>—Brencis Quickblood</c>","<c=@flavor>«Миссия не закончена, пока не вернёшься домой».<br>—Бренсис Быстрая Кровь</c>"
@@ -266,7 +266,7 @@ english,translate
 "<c=@flavor>""This should help when fighting the icebrood.""<br>—Tor the Tall</c>",<c=@flavor>«Это должно помочь в бою с ледекровными».<br>—Тор Высокий</c>
 "<c=@flavor>""This should help you in your adventures.""<br>—Tor the Tall</c>",<c=@flavor>«Это должно помочь тебе в твоих приключениях».<br>—Тор Высокий</c>
 "<c=@flavor>""This staff has excellent magical properties. Also, it makes for a great walking stick.""<br>—Vejj</c>",<c=@flavor>«У этого посоха отличные магические свойства. А ещё из него выходит отличная трость».<br>—Вэйдж</c>
-"<c=@flavor>""This used to be cursed but the Durmand Priory removed it.""<br>—Professor Maciver</c>","<c=@flavor>«Раньше это было проклято, но Приорат Дурманд снял проклятие».<br>—Профессор Мэйсивер</c>"
+"<c=@flavor>""This used to be cursed but the Durmand Priory removed it.""<br>—Professor Maciver</c>","<c=@flavor>«Раньше это было проклято, но Durmand Priory снял проклятие».<br>—Профессор Мэйсивер</c>"
 "<c=@flavor>""This version is a little more unstable, but worth the risk.""<br>—Seesa</c>","<c=@flavor>«Эта версия немного нестабильнее, но риск того стоит».<br>—Сиса</c>"
 "<c=@flavor>""This wall is our line in the sand. Defenders of this wall are welcome to use our shields."" <br>—Brannen</c>",<c=@flavor>«Эта стена — наша черта на песке. Защитникам этой стены рады пользоваться нашими щитами». <br>—Бранн</c>
 "<c=@flavor>""This was taken from a large Jotun.""<br>—Neida</c>",<c=@flavor>«Это забрали у крупного ётуна».<br>—Нейда</c>
@@ -354,7 +354,7 @@ english,translate
 "<c=@flavor>""Why didn't I try to take your gear? Because I have plenty of my own.""<br>—Carmel</c>",<c=@flavor>«Почему я не попыталась забрать твоё снаряжение? Потому что у меня своего полно».<br>—Кармель</c>
 "<c=@flavor>""Why do they need lanterns? I thought they liked working in the dark.""<br>—Leika</c>","<c=@flavor>«Зачем им фонари? Я думала, они любят работать в темноте».<br>—Лейка</c>"
 "<c=@flavor>""Will these portals never end? I'd like to complete my research.""<br>—Historian Garrod</c>",<c=@flavor>«Неужели эти порталы никогда не закончатся? Хотелось бы завершить свои исследования».<br>—Историк Гаррод</c>
-"<c=@flavor>""With a hero like you around the Flame Legion here wont last long.""<br>—Legionnaire Neverburn</c>","<c=@flavor>«С таким героем, как ты, рядом Легион Пламени здесь долго не продержится».<br>—Легионер Негорящий</c>"
+"<c=@flavor>""With a hero like you around the Flame Legion here wont last long.""<br>—Legionnaire Neverburn</c>","<c=@flavor>«С таким героем, как ты, рядом Flame Legion здесь долго не продержится».<br>—Легионер Негорящий</c>"
 "<c=@flavor>""With a hero like you around, the Flame Legion doesn't stand a chance.""<br>-Corva Sharpclaw</c>","<c=@flavor>«С таким героем, как ты, рядом у Легиона Пламени нет шансов».<br>-Корва Остроког</c>"
 "<c=@flavor>""With a hero like you around, the Flame Legion doesn't stand a chance.""<br>—Corva Sharpclaw</c>","<c=@flavor>«С таким героем, как ты, рядом у Легиона Пламени нет шансов».<br>—Корва Остроког</c>"
 "<c=@flavor>""With this you can end conversations as fast as you start 'em.""<br>—Crusader Brice</c>","<c=@flavor>«С этим ты можешь закончить разговор так же быстро, как начать его».<br>—Крестоносец Брайс</c>"
