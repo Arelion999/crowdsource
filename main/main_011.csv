@@ -1092,7 +1092,7 @@ Please don't intervene, my dear
 
 Or I'll have to kill you","Красны розы 
 
-Командир Договора синь 
+Командир Пакта синь 
 
 Не вмешивайся, милый друг 
 
@@ -2649,9 +2649,9 @@ I look forward to seeing you again. I have some things to tell you about the Pac
 
 Я пишу, чтобы сообщить, что по просьбе Бледного Древа я буду присутствовать на саммите, который вы организуете для обсуждения Мордремота. Мне очень интересно узнать, что мировые лидеры скажут об идее объединения усилий. Я знаю, что мы могли бы использовать дополнительную огневую мощь. С ней, возможно, мы потеряем меньше людей, чем когда сражались с Зайтаном.
 
-Я предвижу, что моё присутствие вызовет некоторый переполох и что участники захотят получить отчёт о планах Союза. Если вы сможете встретиться со мной в Роще до начала собрания, я введу вас в курс дела, чтобы вы могли передать информацию участникам. Если вам удастся убедить лидеров работать вместе, это будет огромная победа.
+Я предвижу, что моё присутствие вызовет некоторый переполох и что участники захотят получить отчёт о планах Пакта. Если вы сможете встретиться со мной в Роще до начала собрания, я введу вас в курс дела, чтобы вы могли передать информацию участникам. Если вам удастся убедить лидеров работать вместе, это будет огромная победа.
 
-С нетерпением жду новой встречи. Мне нужно кое-что рассказать вам о Союзе и наших планах насчёт Мордремота.
+С нетерпением жду новой встречи. Мне нужно кое-что рассказать вам о Пакте и наших планах насчёт Мордремота.
 
 —Траэрн"
 "TO: Commander %str1%
@@ -2667,7 +2667,7 @@ The Seraph of Kryta have secured a new route to our staging area through Fort Va
 
 
 Серафимы Крайты обеспечили новый путь к нашему плацдарму через Форт Вандал. Судя по всему, разбойники недавно спешно покинули это место. Выставленные там стражи могут знать больше. Прошу, путешествуйте осторожно. Возросшая активность мордремов делает дорогу особенно опасной.—Трихерн"
-"TO: Commander %str1%I'm writing to inform you that, at the behest of the Pale Tree, I will be attending the summit you are arranging to discuss Mordremoth. I'm deeply curious to discover what the world leaders will say about the idea of combining efforts. I know we could use the additional firepower. With it, maybe we'll lose fewer people than we did when we fought Zhaitan.I foresee that my presence will cause a bit of a stir and that the attendees will want a report on the Pact's plans. If you could meet with me in the Grove, prior to the gathering, I will fill you in so you can relay the information to the attendees. If you manage to convince the leaders to work together, it will be an enormous victory. I look forward to seeing you again. I have some things to tell you about the Pact and our plans for Mordremoth. —Trahearne","КОМУ: Командир %str1%Я пишу, чтобы сообщить вам, что по настоянию Бледного Древа я буду присутствовать на саммите, который вы организуете для обсуждения Мордремота. Мне очень любопытно узнать, что мировые лидеры скажут об идее объединения усилий. Я знаю, что нам не помешала бы дополнительная огневая мощь. С ней, возможно, мы потеряем меньше людей, чем когда сражались с Зайтаном.Я предвижу, что моё присутствие вызовет некоторый переполох, и участники захотят отчёт о планах Договора. Если вы сможете встретиться со мной в Роще до собрания, я введу вас в курс дела, чтобы вы могли передать информацию участникам. Если вам удастся убедить лидеров работать вместе, это будет огромная победа. С нетерпением жду новой встречи. Мне нужно кое-что рассказать вам о Договоре и наших планах относительно Мордремота. —Траэрн"
+"TO: Commander %str1%I'm writing to inform you that, at the behest of the Pale Tree, I will be attending the summit you are arranging to discuss Mordremoth. I'm deeply curious to discover what the world leaders will say about the idea of combining efforts. I know we could use the additional firepower. With it, maybe we'll lose fewer people than we did when we fought Zhaitan.I foresee that my presence will cause a bit of a stir and that the attendees will want a report on the Pact's plans. If you could meet with me in the Grove, prior to the gathering, I will fill you in so you can relay the information to the attendees. If you manage to convince the leaders to work together, it will be an enormous victory. I look forward to seeing you again. I have some things to tell you about the Pact and our plans for Mordremoth. —Trahearne","КОМУ: Командир %str1%Я пишу, чтобы сообщить вам, что по настоянию Бледного Древа я буду присутствовать на саммите, который вы организуете для обсуждения Мордремота. Мне очень любопытно узнать, что мировые лидеры скажут об идее объединения усилий. Я знаю, что нам не помешала бы дополнительная огневая мощь. С ней, возможно, мы потеряем меньше людей, чем когда сражались с Зайтаном.Я предвижу, что моё присутствие вызовет некоторый переполох, и участники захотят отчёт о планах Пакта. Если вы сможете встретиться со мной в Роще до собрания, я введу вас в курс дела, чтобы вы могли передать информацию участникам. Если вам удастся убедить лидеров работать вместе, это будет огромная победа. С нетерпением жду новой встречи. Мне нужно кое-что рассказать вам о Пакте и наших планах относительно Мордремота. —Траэрн"
 "TO: High Councillor Flax, Arcane Council  
 FROM: Director Ezuli, Rata Sum Port Authority  
 DATE: 1338 AE  
