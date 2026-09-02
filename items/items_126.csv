@@ -289,7 +289,7 @@ Combine this weapon in the Mystic Forge with:,Соедините это оруж
 "<c=@flavor>You won! Now indulge yourself at our world-class leisure destination. —Zalambur</c>""","<c=@flavor>Вы победили! Теперь наслаждайтесь отдыхом в нашем курорте мирового класса. —Заламбур</c>"""
 "<c=@flavor>Zommoros loves crystals.</c>""","<c=@flavor>Зомморос любит кристаллы.</c>"""
 "<c=@flavor>—The landing at Arca struggles to fill its storeroom so it will never starve again. (Site #8)</c>""","<c=@flavor>—Посадка в Арке изо всех сил пытается заполнить свою кладовую, чтобы никогда больше не голодать. (Участок #8)</c>"""
-<c=@reminder>Contains loot stolen from the Black Lion Trading Company by the Knife Tail Gang.</c=@reminder>,"<c=@reminder>Содержит добычу, украденную у Торговой компании Чёрного Льва бандой Ножехвостых.</c=@reminder>"
+<c=@reminder>Contains loot stolen from the Black Lion Trading Company by the Knife Tail Gang.</c=@reminder>,"<c=@reminder>Содержит добычу, украденную у Black Lion Trading Company бандой Ножехвостых.</c=@reminder>"
 "<c=@reminder>Hint: Offer your wisdom to the goddess.</c>""","<c=@reminder>Подсказка: Предложи свою мудрость богине.</c>"""
 "<c=@reminder>The Knife Tail Gang have broken into the Trading Company vaults, and Evon's furious!</c=@reminder>","<c=@reminder>Банда Ножехвостов вломилась в хранилища Торговой компании, и Эвон в ярости!</c=@reminder>"
 <c=@reminder>This item is used in collections for the legendary accessory Vision.,<c=@reminder>Этот предмет используется в коллекциях для легендарного аксессуара «Видение».
@@ -619,7 +619,7 @@ An exquisitely cut sapphire of tremendous size.,Изумительно огра�
 An odd blue wurm husk","Предмет из команды Каменного Кулака, использовавшийся корсаром Мехди.
 Странная синяя оболочка червя"
 "An old sapphire amulet,' weathered by frequent use. It went missing when the Wizard''s Tower left the Kessex Hills.'","Старый сапфировый амулет,' изношенный частым использованием. Он пропал, когда Башня волшебника покинула Kessex Hills.'"
-Anniversary gifts and Black Lion exclusives not included.,Подарки к годовщине и эксклюзивы Чёрного льва не включены.
+Anniversary gifts and Black Lion exclusives not included.,Подарки к годовщине и эксклюзивы Black Lion не включены.
 "Apprentice Jameson needs these samples to devise an antitoxin.,
 Event Item","Ученику Джеймсону нужны эти образцы, чтобы создать противоядие.,
 Предмет события"
@@ -785,7 +785,7 @@ Purchased from Visions of Eternity map vendors in exchange for:,
 • 500 Unusual Coins","Объедините Gift of Adventure, Gift of the Seas
 Приобретается у торговцев на картах «Видения вечности» в обмен на:
 • 2 кристалла видений,
-• 55 мистических клеверов,
+• 55 Mystic Clovers,
 • 100 сказов о приключениях,
 • 500 необычных монет"
 "Combine a Gift of Darkness, a Gift of Scales
@@ -822,7 +822,7 @@ Created in the Mystic Forge by combining:,
 Создаётся в Мистической кузнице путём объединения:
 • 100 сладких обработанных сосновых досок,
 • 100 нейтрализованных сплавов титана,
-• 100 осколков низинного берега,
+• 100 осколков Lowland Shore,
 • 100 осколков Джантир Синтри"
 "Combine a Gift of Infused Gems, a Gift of the Sun
 Created by combining the following in the Mystic Forge:,
@@ -845,7 +845,7 @@ Created in the Mystic Forge by combining:,
 • 1 Gift of Embracing Refuge,
 • 1 Дар сгущенной мощи,
 • 1 Дар сгущенной магии,
-• 38 Мистических клеверов"
+• 38 Mystic Clovers"
 "Combine a Gift of Janthir Wilds, a Gift of the Homesteader
 Created in the Mystic Forge by combining:,
 • 1 Gift of Gatherer of the Hunt,
@@ -880,7 +880,7 @@ Created in the Mystic Forge by combining:,
 Создаётся в Mystic Forge объединением:,
 • 200 мясных шашлычков со спаржей,
 • 100 мисок салата из кактуса с чёрным перцем,
-• 30 мистических клеверов,
+• 30 Mystic Clovers,
 • 5 плодов тени"
 "Combine a Gift of the Appetizer, a Gift of the Entrée
 Created in the Mystic Forge by combining:,
@@ -992,7 +992,7 @@ Created by combining the following in the Mystic Forge:,
 • «Дара приключений»,
 • «Дара морей»,
 • Осколка кровавого камня,
-• 250 обсидиановых осколков"
+• 250 Obsidian Shards"
 "Combine a Gift of the Survivors, a Gift of the People
 Purchased from Magister Sirkk in Crumbling Precipice in Starlit Weald in exchange for:,
 • 100 Mystic Clovers,
@@ -1000,7 +1000,7 @@ Purchased from Magister Sirkk in Crumbling Precipice in Starlit Weald in exchang
 • 4 Gifts of Condensed Might,
 • 4 Gifts of Condensed Magic","Соедините Gift of the Survivors, Gift of the People
 Куплено у Магистра Сиркка в Осыпающемся обрыве в Звёздной роще в обмен на:,
-• 100 Мистических клеверов,
+• 100 Mystic Clovers,
 • 55 Объединённых драконьих камней-затравок,
 • 4 Дара сгущённой мощи,
 • 4 Дара сгущённой магии"

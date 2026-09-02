@@ -384,7 +384,7 @@ The racecourses are a permanent installation, but as a special offer in celebrat
 
 What do you think? I'm workshopping the ad copy a bit. With all the rumors coming out of Elona, I was thinking a bit of sport might be good for morale. It'd be a big boost if a hero like you put in an appearance and maybe set a few track records.
 
-—Evon Gnashblade","Последнее увлечение из Элоны захлестнуло Тирию — гонки на жуках-скакунах! Будь вы легендой колёс, новичком-гонщиком или зрителем, готовым увидеть величайшие острые ощущения по эту сторону Аскалона, вам стоит заглянуть на организованные гонки. Трассы проложены в Гендаранских Полях, Дебрях Брисбана, Горе Мальстрём, Сноуденских Перевалах и на Плато Диссы. А если вам нужно освоиться с управлением жуком, попробуйте испытательный трек в Кессекских холмах!
+—Evon Gnashblade","Последнее увлечение из Элоны захлестнуло Тирию — гонки на жуках-скакунах! Будь вы легендой колёс, новичком-гонщиком или зрителем, готовым увидеть величайшие острые ощущения по эту сторону Аскалона, вам стоит заглянуть на организованные гонки. Трассы проложены в Гендаранских Полях, Brisban Wildlands, Горе Мальстрём, Сноуденских Перевалах и на Плато Диссы. А если вам нужно освоиться с управлением жуком, попробуйте испытательный трек в Кессекских холмах!
 
 Гоночные трассы установлены на постоянной основе, но в честь их грандиозного открытия в течение первого месяца будут ежедневно присуждаться призы гонщикам, завершившим чередующиеся заезды!
 
@@ -1117,20 +1117,20 @@ Minister Doh Taelin, Ministry of Archives, 1737 CC","Они вытеснили �
 "This Black Lion special contains:
 1 Merchant Express
 1 Trading Post Express
-1 Bank Access Express","Этот специальный набор Чёрного Льва содержит:
+1 Bank Access Express","Этот специальный набор Black Lion содержит:
 1 Экспресс-торговец
 1 Экспресс Торговой биржи
 1 Экспресс-банк"
 "This Black Lion special contains: 
 1 Merchant Express
 1 Trading Post Express
-1 Bank Access Express","Этот специальный набор Чёрного Льва содержит: 
+1 Bank Access Express","Этот специальный набор Black Lion содержит: 
 1 Экспресс-торговец
 1 Экспресс Торговой биржи
 1 Экспресс-банк"
 "This Black Lion special contains: 
 1 Revive Orb
-1 Instant Repair Canister","Этот специальный набор Чёрного Льва содержит:
+1 Instant Repair Canister","Этот специальный набор Black Lion содержит:
 1 Сферу возрождения
 1 Канистру мгновенного ремонта"
 "This Black Lion special contains: 
@@ -1140,7 +1140,7 @@ Riding Pants
 Riding Gloves
 Riding Boots
 
-Town clothes cannot be worn while in combat.","Этот специальный набор Чёрного Льва содержит: 
+Town clothes cannot be worn while in combat.","Этот специальный набор Black Lion содержит: 
 Авиаторская шапка
 Метла для езды
 Штаны для езды
@@ -1153,7 +1153,7 @@ Expedition options include the following:
 • Skywatch Archipelago
 • Amnytas
 • Inner Nayos
-• Rifts","Это добавляет доску экспедиций «Чёрного льва» в ваш домашний экземпляр, которую можно использовать для сбора экзотических ресурсов по всей Тирии и Туманам.
+• Rifts","Это добавляет доску экспедиций «Black Lion» в ваш домашний экземпляр, которую можно использовать для сбора экзотических ресурсов по всей Тирии и Туманам.
 Варианты экспедиций включают следующее:
 • Архипелаг Небесного Дозора
 • Амнитас
@@ -1289,12 +1289,12 @@ This item has infinite uses.","Этот забавный предмет инве
 
 Only available in the Crystal Arbiter Appearance Pack from the Black Lion Trading Company Gem Store during select sales.","Этот дельтаплан можно перекрашивать. 
 
-Доступен только в наборе «Облик кристального арбитра» в магазине самоцветов Торговой компании «Чёрный лев» во время избранных распродаж."
+Доступен только в наборе «Облик кристального арбитра» в магазине самоцветов Торговой компании «Black Lion» во время избранных распродаж."
 "This glider is dyeable.
 
 <c=@reminder> Obtained from Black Lion Chests or Black Lion Chest Merchants using Black Lion Statuettes.</c>","Этот планер можно окрашивать.
 
-<c=@reminder> Добывается из сундуков Чёрного Льва или у торговцев сундуками Чёрного Льва за статуэтки Чёрного Льва.</c>"
+<c=@reminder> Добывается из Black Lion Chest или у торговцев Black Lion Chest за статуэтки Black Lion.</c>"
 "This glider is dyeable.
 
 <c=@reminder>Acquired by completing the Emergent Metamorphosis collection in the Visions of Eternity expansion.</c>","Этот дельтаплан можно перекрашивать.
@@ -1304,7 +1304,7 @@ Only available in the Crystal Arbiter Appearance Pack from the Black Lion Tradin
 
 <c=@reminder>Found only in Black Lion Chests during specific times of the year.</c>","Этот планер можно окрашивать.
 
-<c=@reminder>Встречается только в сундуках Чёрного Льва в определённое время года.</c>"
+<c=@reminder>Встречается только в сундуках Black Lion в определённое время года.</c>"
 "This glider is dyeable.
 
 <c=@reminder>Take a Mini Angry Wintersday Gift to Collector Terksli to learn how to unlock this glider skin.</c>","Этот дельтаплан можно перекрашивать.
@@ -1319,12 +1319,12 @@ Only available in the Crystal Arbiter Appearance Pack from the Black Lion Tradin
 
 <c=@reminder>This is only available from the Black Lion Trading Company during limited-time sales.</c>","Этот планер можно окрашивать.
 
-<c=@reminder>Доступен только в Торговой компании Чёрного Льва во время распродаж с ограниченным сроком.</c>"
+<c=@reminder>Доступен только в Black Lion Trading Company во время распродаж с ограниченным сроком.</c>"
 "This glider is dyeable.
 
 Obtained from Black Lion Chests or Black Lion Chest Merchants using Black Lion Statuettes.","Этот планер можно окрашивать.
 
-Добывается из сундуков Чёрного Льва или у торговцев сундуками Чёрного Льва за статуэтки Чёрного Льва."
+Добывается из Black Lion Chest или у торговцев Black Lion Chest за статуэтки Black Lion."
 "This glove skin has no stats of its own and can be applied once to replace the appearance of another gloves item of any weight class.
 This skin can be converted for PvP use.","У этого облика перчаток нет собственных характеристик; его можно один раз применить, чтобы заменить внешний вид другого предмета перчаток любого класса веса.
 Этот облик можно преобразовать для использования в PvP."
@@ -1652,7 +1652,7 @@ The skins have no stats of their own.","В этот набор входят об
 •1 500-Point Essence of Luck","Этот набор содержит следующие предметы:
 •1 Box o' Fun
 •5 Наборов красок
-•5 Ключей от сундука Чёрного льва
+•5 Ключей от Black Lion Chest
 •1 Пакет восстановления
 •1 Пакет торговца
 •5 Ускорителей опыта
@@ -1831,7 +1831,7 @@ Zhaitan called this individual's Risen corpse from a hidden burial site that con
 
 If you need more tickets, they can be found randomly in the Black Lion Chests.","Этот талон можно обменять на миниатюру по вашему выбору. То, что можно купить по этому талону, регулярно меняется, так что загляните позже, если ничего не приглянулось.
 
-Если нужно больше талонов, их можно случайно найти в сундуках Чёрного Льва."
+Если нужно больше талонов, их можно случайно найти в сундуках Black Lion."
 "This version of Guild Wars 2 is outdated.
 Please exit and relaunch the game to download the updated version.","Эта версия Guild Wars 2 устарела.
 Выйдите и перезапустите игру, чтобы загрузить обновлённую версию."
@@ -1952,7 +1952,7 @@ With her feet firmly planted once more on the ground of Rata Sum, Tianni felt so
 "Tier %num1%:
 Participation above %num2%%% grants %num3% reward-track points on the next score tick","Уровень %num1%:
 Участие выше %num2%%% даёт %num3% очков наградного трека при следующем тике счёта"
-Tiger Tracks Leading into the Plains of Ashford,"Тигриные следы, ведущие в Равнины Эшфорда"
+Tiger Tracks Leading into the Plains of Ashford,"Тигриные следы, ведущие в Plains of Ashford"
 Tigh Snatchskull,Тай Снэтчскалл
 Tigris Furyclaw,Тигрис Яростькоготь
 "Time to go back to work, Agent. Something is preying on the quaggans in Lake Wyrmblood, and from the looks of it, that something is the dragon's corruption. Meet me at the lake and we'll get to the bottom of it (get it?). Hey, I may not be handsome or brave, but I can quip with the best of 'em.
@@ -2008,7 +2008,7 @@ Thank you very much for hosting a custom arena. Enjoy!","Чтобы получи
 
 Примечание: если вы слишком отклонитесь от официальных конфигураций, ваша арена не будет начислять славу игрокам. Если вы вносите изменения, пока игроки находятся на вашей пользовательской арене, они будут уведомлены о том, что сервер был перенастроен, и о том, будут ли они продолжать получать славу на этой изменённой пользовательской арене. Другие игроки получают доступ к вашей пользовательской арене через браузер PvP в Сердце Туманов.
 
-Новые пользовательские арены начинаются с 30 дней игрового времени. Оставшееся время отображается в нижней части панели. Чтобы добавить дополнительное время, нажмите «Добавить время» в правом нижнем углу. Для добавления времени требуются жетоны времени пользовательской арены, доступные в Торговой компании «Чёрный лев». Каждый жетон времени добавляет один день времени к пользовательской арене. Кроме того, любой игрок на вашей пользовательской арене может добавить время, дважды щёлкнув жетон времени в своём инвентаре.
+Новые пользовательские арены начинаются с 30 дней игрового времени. Оставшееся время отображается в нижней части панели. Чтобы добавить дополнительное время, нажмите «Добавить время» в правом нижнем углу. Для добавления времени требуются жетоны времени пользовательской арены, доступные в Торговой компании «Black Lion». Каждый жетон времени добавляет один день времени к пользовательской арене. Кроме того, любой игрок на вашей пользовательской арене может добавить время, дважды щёлкнув жетон времени в своём инвентаре.
 
 Большое спасибо за размещение пользовательской арены. Наслаждайтесь!"
 "To all Tyrians,
@@ -2509,7 +2509,7 @@ Please deliver to Camp Leader Wihlford. Kryptis push in Amnytas growing more sev
 Пожалуйста, доставьте лидеру лагеря Уилфорду. Криптис наступает в Амнитасе всё сильнее; мы потеряли два бастиона. Не сможем отправить подкрепление, пока линия не удержана. Разрешение на нарушение протокола с крайней осторожностью. Избегайте городов, держитесь сельской местности."
 "Tribune Brimstone and I have commissioned two soldiers to act as city heralds. They're positioned near the Plains of Ashford exit and the Lion's Arch asura gate, and are knowledgeable about worldwide events of interest to the charr nation. If you're traveling outside of the Citadel, Lion's Arch has also hired heralds. Stay informed and speak with them regularly.
 
-—Imperator Smodur","Трибун Жарокамень и я поручили двум солдатам выступать в роли городских глашатаев. Они находятся возле выхода на Равнины Эшфорда и асурских врат в Львиной Арке и осведомлены о мировых событиях, интересующих нацию чарров. Если вы путешествуете за пределами Цитадели, в Львиной Арке также наняты глашатаи. Будьте в курсе событий и регулярно общайтесь с ними.
+—Imperator Smodur","Трибун Жарокамень и я поручили двум солдатам выступать в роли городских глашатаев. Они находятся возле выхода на Plains of Ashford и асурских врат в Львиной Арке и осведомлены о мировых событиях, интересующих нацию чарров. Если вы путешествуете за пределами Цитадели, в Львиной Арке также наняты глашатаи. Будьте в курсе событий и регулярно общайтесь с ними.
 
 —Император Смодур"
 "Tribune Brimstone came by the tent to utilize our long-range comms devices a few afternoons ago. He tried for a moment or two, but he quickly erupted into growls of frustration—that charr has zero patience for technology. Snarled until I stood from my post to help—and by help, I just didn't want him to break anything—but this only seemed to irritate him further. I offered to take over the task for the sake of our equipment and my escalating blood pressure. He quickly surrendered.      
@@ -2553,11 +2553,11 @@ But someday, it will be time to extend our hands instead. And if I am gone when 
 
 This opportunity won't last long, so check with the Black Lion Requisition Officers stationed near Black Lion Traders in every major city to join in or for more information.
 
-—The Black Lion Trading Company","Ведущая торговая компания Тирии срочно нуждается в базовых товарах и материалах для поддержки знаменитых команд охотников и экспедиций «Чёрного льва» в предоставлении нашим клиентам качественных товаров всех видов. Взамен заинтересованным предпринимателям предлагаются различные эксклюзивные товары «Чёрного льва».
+—The Black Lion Trading Company","Ведущая торговая компания Тирии срочно нуждается в базовых товарах и материалах для поддержки знаменитых команд охотников и экспедиций «Black Lion» в предоставлении нашим клиентам качественных товаров всех видов. Взамен заинтересованным предпринимателям предлагаются различные эксклюзивные товары «Black Lion».
 
-Эта возможность будет доступна недолго, поэтому обращайтесь к офицерам по снабжению «Чёрного льва», которые находятся рядом с торговцами «Чёрного льва» в каждом крупном городе, чтобы присоединиться или получить дополнительную информацию.
+Эта возможность будет доступна недолго, поэтому обращайтесь к офицерам по снабжению «Black Lion», которые находятся рядом с торговцами «Black Lion» в каждом крупном городе, чтобы присоединиться или получить дополнительную информацию.
 
-— Торговая компания «Чёрный лев»"
+— Торговая компания «Black Lion»"
 T䡨ritwanWe art 瑧teningn癧?Thoap.✠ have beed henine in the扩a wave noe f獯me,Тритван Мы есть угрожающий? Тоап.✠ были скрыты в области волна ное ф меня
 "Uenno asked if I needed a ride to wherever I was headed, and I agreed to go with her. I don't usually do spontaneous these days, but...I don't have anywhere better to be, do I? We stopped in Garenhoff first so she could meet with an old friend. I sat at the pier and watched the Wizard's Tower while I waited. What a marvel... Heh, I wonder what the gimmick is.  
 
@@ -3078,7 +3078,7 @@ Requires completion of the Riding Skyscales achievement.","Видение дра
 Requires completion of the Riding Skyscales achievement.","Видение драконов: Аурену можно найти, получив доступ к Разрыву Дракона в этой области. Vision of Equipment: Dragonsblood Weapons также можно найти поблизости.
 Требуется завершение достижения «Верхом на скайскейлах»."
 "Vision of Landscapes: Domain of Istan and Vision of Equipment: Astral Weapons can be found in this area.
-Requires completion of the Riding Skyscales achievement.","Видения пейзажей: Владения Истана и Видения снаряжения: Астральное оружие можно найти в этой области.
+Requires completion of the Riding Skyscales achievement.","Видения пейзажей: Domain of Istan и Видения снаряжения: Астральное оружие можно найти в этой области.
 Требуется завершение достижения «Ездовые скайскейлы»."
 "Vision of Landscapes: Domain of Kourna and Vision of Equipment: Banner of the Commander can be found in this area.
 Requires completion of the Riding Skyscales achievement.","Видения пейзажей: Владения Курны и Видения снаряжения: Штандарт командира можно найти в этой области.
@@ -3704,13 +3704,13 @@ Be sure to check back tomorrow for another gift to help you in your adventures!
 
 Ускорители опыта увеличивают опыт, получаемый за уничтожение врагов, выполнение заданий и все остальные действия, на 30 минут. Чтобы активировать Ускоритель опыта, примите подарок, прикреплённый к этому сообщению, найдите его в инвентаре и дважды щёлкните по нему.
 
-Дополнительные ускорители можно получить в качестве награды за выполнение определённых шагов вашей личной истории или купить напрямую в Торговой компании «Чёрный лев».
+Дополнительные ускорители можно получить в качестве награды за выполнение определённых шагов вашей личной истории или купить напрямую в Торговой компании «Black Lion».
 
 Обязательно загляните завтра за новым подарком, который поможет вам в приключениях!
 
 —ArenaNet"
 "Welcome back, %str1%!We hope you are enjoying your time in Tyria. Attached to this message you will find a Weapon Selection Box. Selection Boxes allow you to select one item from a number of options.To open the Selection Box, simply accept the gift attached to this message and double-click the Selection Box in your inventory. You will then be able to select the weapon of your choice. Be sure to select an item that is usable for your profession. That item can then be equipped by double-clicking it in your inventory.You can see all of your currently equipped gear by visiting the Equipment tab on the Hero panel.Be sure to check back tomorrow for another gift to help you in your adventures!—ArenaNet","С возвращением, %str1%!Надеемся, вам нравится проводить время в Тирии. К этому сообщению прилагается Коробка выбора оружия. Коробки выбора позволяют выбрать один предмет из нескольких вариантов.Чтобы открыть Коробку выбора, просто примите подарок, приложенный к этому сообщению, и дважды щёлкните по Коробке выбора в своём инвентаре. Затем вы сможете выбрать оружие по своему вкусу. Обязательно выберите предмет, подходящий для вашего класса. Этот предмет можно экипировать, дважды щёлкнув по нему в инвентаре.Просмотреть всё ваше текущее снаряжение можно на вкладке «Снаряжение» панели героя.Обязательно загляните завтра, чтобы получить ещё один подарок в помощь вашим приключениям!—ArenaNet"
-"Welcome back, %str1%!We hope you are enjoying your time in Tyria. To help you along in your adventures, we have attached an Experience Booster that will help you gain experience more quickly.Experience Boosters will increase the experience you gain from defeating enemies, completing quests, and all other activities for 30 minutes. To activate the Experience Booster, accept the gift attached to this message, find it in your inventory, and double-click on the Experience Booster.Additional boosters can be earned as rewards for completing certain steps on your personal story quest line or purchased directly from the Black Lion Trading Company.Be sure to check back tomorrow for another gift to help you in your adventures!—ArenaNet","С возвращением, %str1%!Надеемся, вам нравится проводить время в Тирии. Чтобы помочь вам в ваших приключениях, мы приложили Experience Booster, который поможет вам быстрее получать опыт.Усилители опыта увеличивают опыт, получаемый за убийство врагов, выполнение заданий и любые другие действия, на 30 минут. Чтобы активировать Усилитель опыта, примите подарок, приложенный к этому сообщению, найдите его в инвентаре и дважды щёлкните по нему.Дополнительные усилители можно получить в качестве награды за выполнение определённых этапов личной сюжетной линии или приобрести напрямую у Торговой компании Чёрного льва.Обязательно загляните завтра, чтобы получить ещё один подарок в помощь вашим приключениям!—ArenaNet"
+"Welcome back, %str1%!We hope you are enjoying your time in Tyria. To help you along in your adventures, we have attached an Experience Booster that will help you gain experience more quickly.Experience Boosters will increase the experience you gain from defeating enemies, completing quests, and all other activities for 30 minutes. To activate the Experience Booster, accept the gift attached to this message, find it in your inventory, and double-click on the Experience Booster.Additional boosters can be earned as rewards for completing certain steps on your personal story quest line or purchased directly from the Black Lion Trading Company.Be sure to check back tomorrow for another gift to help you in your adventures!—ArenaNet","С возвращением, %str1%!Надеемся, вам нравится проводить время в Тирии. Чтобы помочь вам в ваших приключениях, мы приложили Experience Booster, который поможет вам быстрее получать опыт.Усилители опыта увеличивают опыт, получаемый за убийство врагов, выполнение заданий и любые другие действия, на 30 минут. Чтобы активировать Усилитель опыта, примите подарок, приложенный к этому сообщению, найдите его в инвентаре и дважды щёлкните по нему.Дополнительные усилители можно получить в качестве награды за выполнение определённых этапов личной сюжетной линии или приобрести напрямую у Black Lion Trading Company.Обязательно загляните завтра, чтобы получить ещё один подарок в помощь вашим приключениям!—ArenaNet"
 Welcome to Raintimber Mill. You here to help out with the skelk training program?,"Добро пожаловать на Лесопилку Дождливого Леса. Вы здесь, чтобы помочь с программой дрессировки скелков?"
 "Welcome to Tyria, %str1%!
 
@@ -3792,7 +3792,7 @@ The trials of Orr, and battle with Zhaitan, await you. Be careful, and embrace y
 Good travels,
 —Tyrian Explorers Society","Отлично, %str1%!
 
-Ваши обширные исследования и добрые дела превзошли наши ожидания. Вы бросили вызов Заливе Морозного Ущелья — земле, известной своей лютой стужей и ледяной хваткой Йормага, и одержали победу над врагами.
+Ваши обширные исследования и добрые дела превзошли наши ожидания. Вы бросили вызов Frostgorge Sound — земле, известной своей лютой стужей и ледяной хваткой Йормага, и одержали победу над врагами.
 
 Испытания Орра и битва с Зайтаном ждут вас. Будьте осторожны и примите свою новообретённую силу.
 

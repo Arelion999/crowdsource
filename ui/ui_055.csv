@@ -3,10 +3,10 @@ Dive deep where Dwayna meets the waterway.,"Нырните глубоко там
 Dive forward to avoid attacks.,"Рывок вперёд, чтобы уйти от атак."
 Dive forward to close distance or evade attacks.,"Рывок вперёд, чтобы сократить дистанцию или уклониться от атак."
 Dive into the ground and move just under the surface.,Ныряет в землю и движется у самой поверхности.
-Dive into the ocean using diving goggles at the Cathedral of Verdance in Cursed Shore.,Нырните в океан в очках для ныряния у Собора Зелени на Проклятом Берегу.
+Dive into the ocean using diving goggles at the Cathedral of Verdance in Cursed Shore.,Нырните в океан в очках для ныряния у Собора Зелени на Cursed Shore.
 Dive into the ocean using diving goggles at the Sculptor's End in Malchor's Leap.,Нырните в океан в очках для ныряния у Конца Скульптора на Прыжке Малхора.
-Dive into the ocean using diving goggles in the Shattered Ice Ruins of Frostgorge Sound.,Нырните в океан в очках для ныряния в Руинах Расколотого Льда в Заливе Морозного Ущелья.
-Dive into the ocean using diving goggles near the Buried Archives of Cursed Shore.,Нырните в океан в очках для ныряния у Погребённых Архивов Проклятого Берега.
+Dive into the ocean using diving goggles in the Shattered Ice Ruins of Frostgorge Sound.,Нырните в океан в очках для ныряния в Руинах Расколотого Льда в Frostgorge Sound.
+Dive into the ocean using diving goggles near the Buried Archives of Cursed Shore.,Нырните в океан в очках для ныряния у Погребённых Архивов Cursed Shore.
 Dive into the water using diving goggles near Bloody Bill's Base in Bloodtide Coast.,Нырните в воду в очках для ныряния у Базы Кровавого Билла на Побережье Кровавого Прилива.
 Dive into the water using diving goggles near the Vizier's Tower in Straits of Devastation.,Нырните в воду в очках для ныряния у Башни Визиря в Проливах Опустошения.
 Dive Master Astora,Мастер прыжков Астора
@@ -147,7 +147,7 @@ Documents Acquired,Документы получены
 Dodge Step,Шаг уклонения
 "Dodge to avoid danger by pressing the %str1% key or by double-tapping a movement key. While dodging, you're temporarily invulnerable. The yellow endurance bar above your health drains with each dodge, but it will recover over time.","Уклоняйтесь от опасности, нажав клавишу %str1% или дважды нажав клавишу движения. Во время уклонения вы ненадолго неуязвимы. Жёлтая полоса выносливости над здоровьем убывает с каждым уклонением, но со временем восстанавливается."
 Dodge to evade attacks.,"Уклоняйтесь, чтобы уходить от атак."
-"Dodge tutorials are in Plains of Ashford, Wayfarer Foothills, Queensdale, Caledon Forest, and Metrica Province.","Обучение уклонению есть в Равнинах Эшфорда, Предгорьях Странника, Долине Королевы, Каледонском Лесу и Провинции Метрика."
+"Dodge tutorials are in Plains of Ashford, Wayfarer Foothills, Queensdale, Caledon Forest, and Metrica Province.","Обучение уклонению есть в Plains of Ashford, Предгорьях Странника, Долине Королевы, Каледонском Лесу и Провинции Метрика."
 Dodge two attacks back-to-back.,Уклонитесь от двух атак подряд.
 "Dodging allows you to evade incoming attacks by spending endurance to roll out of danger, making you temporarily invulnerable.","Уклонение позволяет уходить от входящих атак: тратя выносливость, вы откатываетесь от опасности и ненадолго становитесь неуязвимы."
 Dodging drops caltrops.,Уклонение разбрасывает чеснок.
@@ -210,7 +210,7 @@ Dolyak Unarmed,Дольяк без оружия
 Dolyak? Why would you eat a dolyak?!,Дольяк? С чего бы тебе есть дольяка?!
 Dolyak[s],[Дольяк|Дольяка|Дольяков]
 Domain of Anguish,Владения Мучения
-Domain of Istan Reward Track,Наградной трек Владений Истана
+Domain of Istan Reward Track,Наградной трек Domain of Istan
 Domain of Kourna Empowerment[s],[Усиление|Усиления|Усилений] Владений Курны
 Domain of Kourna Griffon Expert,Знаток грифонов Владений Курны
 Domain of Kourna Griffon Master,Мастер грифонов Владений Курны
@@ -218,9 +218,9 @@ Domain of Kourna Reward Track,Наградной трек Владений Ку�
 Domain of the Lost,Владения Потерянных
 Domain of the<br>Resplendent Fist,Владения<br>Блистательного Кулака
 Domain of Torment,Владения Терзания
-Domain of Vabbi Reward Track,Наградной трек Владений Вабби
-Domain of Vabbi: Commander's Choice Chest[s],[Сундук|Сундука|Сундуков] выбора командира: Владения Вабби
-Domain of Vabbi: Hero's Choice Chest[s],[Сундук|Сундука|Сундуков] выбора героя: Владения Вабби
+Domain of Vabbi Reward Track,Наградной трек Domain of Vabbi
+Domain of Vabbi: Commander's Choice Chest[s],[Сундук|Сундука|Сундуков] выбора командира: Domain of Vabbi
+Domain of Vabbi: Hero's Choice Chest[s],[Сундук|Сундука|Сундуков] выбора героя: Domain of Vabbi
 "Dominant Royal Onyx[pl:""Onyxes""]",[Доминирующий королевский оникс|Доминирующих королевских оникса|Доминирующих королевских ониксов]
 Dominator Axe Skin[s],Облик[|а|ов] топора «Доминатор»
 Dominator Dagger Skin[s],Облик[|а|ов] кинжала «Доминатор»
@@ -488,8 +488,8 @@ Double-click to open.< c=@Flavor >Be careful what you wish for.</c>,"Дважд�
 "Double-click to open.<br><c=@flavor>""Xunlai Jade thanks you for your continued support!""</c>","Дважды щёлкните, чтобы открыть.<br><c=@flavor>«Xunlai Jade благодарит вас за неизменную поддержку!»</c>"
 "Double-click to open.<br><c=@flavor>""Xunlai Jade thanks you for your support!""</c>","Дважды щёлкните, чтобы открыть.<br><c=@flavor>«Xunlai Jade благодарит вас за поддержку!»</c>"
 Double-click to open.<br>Affected by magic find.,"Дважды щёлкните, чтобы открыть.<br>Зависит от поиска магии."
-Double-click to open.<br>Affected by magic find.<br>Available exclusively from Black Lion Chests during Dragon Bash.,"Дважды щёлкните, чтобы открыть.<br>Зависит от поиска магии.<br>Доступно исключительно из сундуков Чёрного Льва во время Драконьего Разгрома."
-Double-click to open.<br>Affected by magic find.<br>Available from Black Lion Chests during Lunar New Year.,"Дважды щёлкните, чтобы открыть.<br>Зависит от поиска магии.<br>Доступно из сундуков Чёрного Льва во время Лунного нового года."
+Double-click to open.<br>Affected by magic find.<br>Available exclusively from Black Lion Chests during Dragon Bash.,"Дважды щёлкните, чтобы открыть.<br>Зависит от поиска магии.<br>Доступно исключительно из сундуков Black Lion во время Драконьего Разгрома."
+Double-click to open.<br>Affected by magic find.<br>Available from Black Lion Chests during Lunar New Year.,"Дважды щёлкните, чтобы открыть.<br>Зависит от поиска магии.<br>Доступно из сундуков Black Lion во время Лунного нового года."
 Double-click to open.<br>Affected by magic find.<br>Earned by completing daily achievements during Lunar New Year.,"Дважды щёлкните, чтобы открыть.<br>Зависит от поиска магии.<br>Зарабатывается выполнением ежедневных достижений во время Лунного нового года."
 Double-click to open.<br>Affected by magic find.<br>Earned by completing special Lunar New Year achievements or purchased in Divinity's Reach for Tokens of the Dragon Ball Champion.,"Дважды щёлкните, чтобы открыть.<br>Зависит от поиска магии.<br>Зарабатывается выполнением особых достижений Лунного нового года либо покупается в Божественном пределе за жетоны чемпиона Драконьего мяча."
 Double-click to open.<br>Affected by magic find.<br>Purchasable in Divinity's Reach using Tokens of the Dragon Ball Champion.,"Дважды щёлкните, чтобы открыть.<br>Зависит от поиска магии.<br>Продаётся в Божественном пределе за жетоны чемпиона Драконьего мяча."

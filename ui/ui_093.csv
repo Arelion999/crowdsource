@@ -147,7 +147,7 @@ Map Travel,Путешествие по карте
 Map-complete all locations in Desert Highlands.,Завершите карту-все локации в Нагорьях Пустыни.
 Map-complete all locations in Elon Riverlands.,Завершите карту всех локаций в Элонских реках.
 Map-complete all locations in the Desolation.,Завершите карту всех локаций в Пустоши.
-Map-complete all locations in the Domain of Vabbi.,Завершите карту всех локаций во Владениях Вабби.
+Map-complete all locations in the Domain of Vabbi.,Завершите карту всех локаций в Domain of Vabbi.
 Map: %str1%,Карта: %str1%
 Map: %str1%<br>Nearby: %str2%,Карта: %str1%<br>Рядом: %str2%
 Map: %str1%<br>Sector: %str2%<br>Story Step: %str3%<br>Level: %num1%,Карта: %str1%<br>Сектор: %str2%<br>Этап истории: %str3%<br>Уровень: %num1%
@@ -366,10 +366,10 @@ Mastering the skimmer will increase its hover height and let you heal downed all
 Mastering the warclaw will allow you to attach chains to gates and damage them in World vs. World!,Освоение боевого когтя позволит вам прикреплять цепи к воротам и наносить им урон в «World vs. World»!
 Masterwork Armors,Мастерские доспехи
 Masterwork Axe,Мастерский топор
-Masterwork Black Lion Dye Canister[s]—Blue,Мастерский контейнер[|а|ов] краски Чёрного Льва — синий
-Masterwork Black Lion Dye Canister[s]—Green,Мастерский контейнер[|а|ов] краски Чёрного Льва — зелёный
-Masterwork Black Lion Dye Canister[s]—Red,Мастерский контейнер[|а|ов] краски Чёрного Льва — красный
-Masterwork Black Lion Dye Canister[s]—Yellow,Мастерский контейнер[|а|ов] краски Чёрного Льва — жёлтый
+Masterwork Black Lion Dye Canister[s]—Blue,Мастерский контейнер[|а|ов] краски Black Lion — синий
+Masterwork Black Lion Dye Canister[s]—Green,Мастерский контейнер[|а|ов] краски Black Lion — зелёный
+Masterwork Black Lion Dye Canister[s]—Red,Мастерский контейнер[|а|ов] краски Black Lion — красный
+Masterwork Black Lion Dye Canister[s]—Yellow,Мастерский контейнер[|а|ов] краски Black Lion — жёлтый
 Masterwork Dagger,Мастерский кинжал
 Masterwork Equipment,Мастерское снаряжение
 "Masterwork Essence[pl:""Essence""] of Luck",Мастерское Эсс[енция|енции|енций] удачи

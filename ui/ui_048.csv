@@ -150,7 +150,7 @@ Corrosive Bond[s],[Коррозионная связь|Коррозионной 
 Corrosive Shield,Коррозийный щит
 Corrosive Spray,Коррозийный спрей
 Corrosive Volley,Коррозийный залп
-"Corrupt a Pure Crystalline Phial in your inventory by defeating a Champion Icebrood Quaggan, one of which is located inside the cave in the south of Leopard's Tail Valley of Frostgorge Sound.","Оскверните Pure Crystalline Phial в вашем инвентаре, победив чемпионского Ледяного кваггана, один из которых находится в пещере на юге Долины Леопардового хвоста в Заливе Морозного Ущелья."
+"Corrupt a Pure Crystalline Phial in your inventory by defeating a Champion Icebrood Quaggan, one of which is located inside the cave in the south of Leopard's Tail Valley of Frostgorge Sound.","Оскверните Pure Crystalline Phial в вашем инвентаре, победив чемпионского Ледяного кваггана, один из которых находится в пещере на юге Долины Леопардового хвоста в Frostgorge Sound."
 Corrupt a Pure Crystalline Phial in your inventory by defeating a Veteran Branded Spark found east of Skara Braevus in Blazeridge Steppes.,"Оскверните Pure Crystalline Phial в вашем инвентаре, победив ветерана Клеймёной искры, найденной к востоку от Скара Бравуса в Степях Блейзридж."
 Corrupt a Pure Crystalline Phial in your inventory by defeating the Champion Risen Wraith at the Cathedral of Eternal Radiance in Malchor's Leap.,"Оскверните Pure Crystalline Phial в вашем инвентаре, победив чемпионского Призрака Восставших в Соборе Вечного Сияния в Прыжке Мальхора."
 Corrupt a Pure Crystalline Phial in your inventory by defeating the Shadow Behemoth when it arises in Godslost Swamp of Queensdale.,"Оскверните Pure Crystalline Phial в вашем инвентаре, победив Теневого Бегемота, когда он появится в Забытом богами болоте в Квинсдейле."
@@ -329,7 +329,7 @@ Country Teal Dye[s],[Краска|Краски|Красок] «Деревенс�
 "Courage in the Face of One's Self[pl:""Self""]",Мужество перед лицом собственной сущности
 "Courage in the Face of Shattered Faith[pl:""Faith""]",Смелость перед лицом разорванной веры
 Courage traits are recharging.,Черты мужества перезаряжаются.
-Courageous Work Exploring the Cursed Shore,Отважная работа по исследованию Проклятого берега
+Courageous Work Exploring the Cursed Shore,Отважная работа по исследованию Cursed Shore
 Courier Run,Курьерский забег
 Court of<br>Welcoming,Двор<br>Приветствия
 Courtier Stopped,Курьер остановлен
@@ -404,7 +404,7 @@ Craft Nutritional Tiger Food and deposit it at your den.Recipe obtained from Cym
 Craft Nutritional Tiger Milk and deposit it at your den.Recipe obtained from Cymbel.,Создайте питательное молоко тигра и поместите его в своё логово.Рецепт получен от Симбел.
 Craft the Banner of the Commander to unlock the ability to purchase this item.,"Создайте Знамя Командира, чтобы открыть возможность купить этот предмет."
 Craft Tiger Nesting Materials and deposit them at your den.Recipe obtained from Cymbel.,Создайте материалы для гнезда тигра и поместите их в своё логово.Рецепт получен от Симбел.
-Craft with recipes purchased in the Desolation or the Domain of Vabbi.,"Создавайте по рецептам, купленным в Пустоши или во Владениях Вабби."
+Craft with recipes purchased in the Desolation or the Domain of Vabbi.,"Создавайте по рецептам, купленным в Пустоши или в Domain of Vabbi."
 Crafted by artificers.,Создано алхимиками.
 Crafted by huntsmen.,Создано охотниками.
 Crafted by jewelcrafters.,Создано ювелирами.
@@ -412,7 +412,7 @@ Crafted by leatherworkers.,Создано кожевниками.
 Crafted by tailors.,Создано портными.
 "Crafted from the finest silks, these vestments are a symbol not only of sheer strength but also quick-witted bravery and grit. They know their way around the streets of Kyhlo here and back again.","Сшитые из тончайшего шёлка, эти облачения символизируют не только недюжинную силу, но и сообразительную отвагу и стойкость. Они знают улицы Кайло вдоль и поперёк."
 "Crafted in the Mystic Forge by combining a Charged Quartz Crystal with Globs of Ectoplasm, Bloodstone Dust, and Red Meat. Can also be purchased from the trading post.","Создано в Мистической Кузнице путём соединения Заряженного Кварцевого Кристалла со Сгустками Эктоплазмы, Кровавой Каменной Пылью и Красным Мясом. Также можно приобрести на Торговом Посту."
-Crafted or purchased from the Black Lion Trading Post.,Создано или куплено на Торговом Посту Чёрного Льва.
+Crafted or purchased from the Black Lion Trading Post.,Создано или куплено на Black Lion Trading.
 Crafted through weaponsmithing after unlocking the recipe from Visions of Eternity vendors.,Создано оружейным мастерством после открытия рецепта у торговцев «Видений Вечности».
 "Crafted using Mursaat Obsidian Chunks, Titan Heatstones, Globs of Ectoplasm, and Ancient Wood Planks.","Создано из Осколков Обсидиана Мурсаат, Титановых Термокамней, Сгустков Эктоплазмы и Досок Древней Древесины."
 "Crafted with 250 Orichalcum Ingots, 250 Mithril Ingots, 250 Darksteel Ingots, and 250 Platinum Ingots.Requires level 400 weaponsmithing to craft. The recipe can be purchased from Miyani or Mystic Forge attendants. Ward Crafter Lucirae in Moon Camp Covert can help make this.","Создано из 250 Слитков Орихалка, 250 Слитков Мифрила, 250 Слитков Тёмной Стали и 250 Слитков Платины. Требуется оружейное мастерство 400 уровня. Рецепт можно приобрести у Мияни или у служителей Мистической Кузницы. Мастерица-ремесленница Люсираэль в лагере Лунный Козырь может помочь в создании."

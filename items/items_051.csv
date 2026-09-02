@@ -338,8 +338,8 @@ Grants a small amount of Crystal Desert Mastery experience.,Даёт небол�
 <c=@Flavor>Раньше их активно обменивали в Элоне, но Palawa Joko запретил это. Тем не менее, коллекционеры, учёные и воры по-прежнему ценят эти предметы.</c>"
 Grants a small amount of End of Dragons Mastery experience.,Даёт небольшое количество опыта мастерства «Конец Драконов».
 Grants a small amount of experience. Trade 20 writs to Miyani in Lion's Arch for a tome of knowledge.,Даёт небольшое количество опыта. Обменяйте 20 свитков у Мияни в Львином Архиве на фолиант знаний.
-Grants a small amount of Heart of Maguuma Mastery experience.,Даёт небольшое количество опыта мастерства Сердца Магуумы.
-Grants a small amount of Heart of Maguuma Mastery experience. Only earned once per account.,Даёт небольшое количество опыта мастерства Сердца Магуумы. Можно получить только один раз на учётную запись.
+Grants a small amount of Heart of Maguuma Mastery experience.,Даёт небольшое количество опыта мастерства Heart of Maguuma.
+Grants a small amount of Heart of Maguuma Mastery experience. Only earned once per account.,Даёт небольшое количество опыта мастерства Heart of Maguuma. Можно получить только один раз на учётную запись.
 Grants a small amount of Heart of Thorns Mastery experience.,Даёт небольшое количество опыта мастерства «Сердце Терний».
 Grants a small amount of Icebrood Saga Mastery experience.,Даёт небольшое количество опыта мастерства «Сага о ледяном отродье».
 Grants a small amount of Janthir Wilds Mastery experience.,Даёт небольшое количество опыта мастерства Джантирских дебрей.
@@ -472,7 +472,7 @@ Grants an additional chance of obtaining powerful loot from enemies in Drizzlewo
 • +50%% шанс критического получения опыта при создании
 • +33%% шанс дополнительного удара при сборе
 • 10 секунд быстроты после сбора
-• призыв торговца Чёрного Льва, если ваш инвентарь полон после сбора (время восстановления: 20 минут)"
+• призыв торговца Black Lion, если ваш инвентарь полон после сбора (время восстановления: 20 минут)"
 "Grants both Experience Booster and Item Booster benefits for 30 minutes:
 • +50%% Experience in All Game Types
 • +50%% PvP Reward Track Gain
@@ -489,7 +489,7 @@ Grants an additional chance of obtaining powerful loot from enemies in Drizzlewo
 • +50%% шанс критического получения опыта при создании
 • +33%% шанс дополнительного удара при сборе
 • 10 секунд быстроты после сбора
-• призыв торговца Чёрного Льва, если ваш инвентарь полон после сбора (время восстановления: 20 минут)"
+• призыв торговца Black Lion, если ваш инвентарь полон после сбора (время восстановления: 20 минут)"
 Grants credit toward collecting a Branded Trophy.,Засчитывается в сбор клеймёного трофея.
 Grants credit toward the Experimentation collection.,Засчитывается в коллекцию «Экспериментирование».
 Grants experience on receipt.,Даёт опыт при получении.
@@ -519,7 +519,7 @@ Grants the ability to purchase Carapace boot boxes from bandit crest collectors.
 • +50%% шанс критического получения опыта при крафте
 • +33%% шанс дополнительного удара при сборе
 • 10 секунд быстроты после сбора
-• призыв торговца «Чёрный лев», если инвентарь полон после сбора (перезарядка 20 мин.)"
+• призыв торговца «Black Lion», если инвентарь полон после сбора (перезарядка 20 мин.)"
 "Grants the following benefits for 30 minutes:
 • +50%% Experience from Kills
 • +75%% Gold from Kills
@@ -546,7 +546,7 @@ Grants the ability to purchase Carapace boot boxes from bandit crest collectors.
 • +50%% шанс критического получения опыта при крафте
 • +33%% шанс дополнительного удара при сборе
 • 10 секунд быстроты после сбора
-• призыв торговца «Чёрный лев», если инвентарь полон после сбора (перезарядка 20 мин.)"
+• призыв торговца «Black Lion», если инвентарь полон после сбора (перезарядка 20 мин.)"
 "Grants you a bundle item that has 10 charges of red-, blue-, green-, and yellow-colored fireworks and a one-time Dragon Finale firework that grants a 50%% Magic Find boost to all nearby allies.
 <c=@flavor>""Fortune favors the bold!""</c>","Даёт предмет, содержащий 10 зарядов красных, синих, зелёных и жёлтых фейерверков, а также один уникальный фейерверк «Драконий финал», который дарует всем находящимся рядом союзникам бонус к шансу выпадения магических предметов в размере 50%%.
 <c=@flavor>«Удача сопутствует смелым!»</c>"

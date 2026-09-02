@@ -8,7 +8,7 @@ Harvest plants %num2% times in Jahai Bluffs.,Соберите растения %
 Harvest plants %num2% times in Lake Doric.,Соберите растения %num2% раз у Озера Дорик.
 Harvest plants %num2% times in Siren's Landing.,Соберите растения %num2% раз в Пристани Сирены.
 Harvest plants %num2% times in Thunderhead Peaks.,Соберите растения %num2% раз в Пиках Громовой головы.
-Harvest plants %num2% times in the Domain of Istan.,Соберите растения %num2% раз во Владении Истан.
+Harvest plants %num2% times in the Domain of Istan.,Соберите растения %num2% раз в Domain of Istan.
 Harvest plants %num2% times in the Domain of Kourna.,Соберите растения %num2% раз во Владении Курна.
 Harvest plants %num2% times in the Sandswept Isles.,Соберите растения %num2% раз на Песчаных Островах.
 Harvest plants %num2% times in the Silverwastes.,Соберите растения %num2% раз в Серебряных Пустошах.
@@ -200,7 +200,7 @@ Hero of the Woods,Герой леса
 Hero's Aid,Помощь героя
 Hero's Origin: Caledon Forest,Происхождение героя: Кедронский лес
 Hero's Origin: Metrica Province,Происхождение героя: Провинция Метрика
-Hero's Origin: Plains of Ashford,Происхождение героя: Равнины Эшфорда
+Hero's Origin: Plains of Ashford,Происхождение героя: Plains of Ashford
 Hero's Origin: Queensdale,Происхождение героя: Квинсдейл
 Hero's Origin: Wayfarer Foothills,Происхождение героя: Предгорья Странника
 Heroes of the Forge,Герои кузни
@@ -259,9 +259,9 @@ Home Sweet Home,"Дом, милый дом"
 Home Sweet Homestead: A Concert for the Ages,"Дом, милый дом: Концерт на века"
 Home Sweet Homestead: Amnytas,"Дом, милый дом: Амнитас"
 Home Sweet Homestead: Auric Basin,"Дом, милый дом: Золотая котловина"
-Home Sweet Homestead: Domain of Istan,"Дом, милый дом: Владения Истан"
+Home Sweet Homestead: Domain of Istan,"Дом, милый дом: Domain of Istan"
 Home Sweet Homestead: Domain of Kourna,"Дом, милый дом: Владения Курна"
-Home Sweet Homestead: Domain of Vabbi,"Дом, милый дом: Владения Вабби"
+Home Sweet Homestead: Domain of Vabbi,"Дом, милый дом: Domain of Vabbi"
 Home Sweet Homestead: Dragon's End,"Дом, милый дом: Конец Дракона"
 Home Sweet Homestead: Dragon's Stand,"Дом, милый дом: Плацдарм Дракона"
 Home Sweet Homestead: Dragonfall,"Дом, милый дом: Драконья гибель"
@@ -279,7 +279,7 @@ Home Sweet Homestead: Skywatch Archipelago,"Дом, милый дом: Архи�
 Home Sweet Homestead: The Battle for Lion's Arch,"Дом, милый дом: Битва за Львиную Арку"
 Home Sweet Homestead: The Desolation,"Дом, милый дом: Опустошение"
 Home Sweet Homestead: The Echovald Wilds,"Дом, милый дом: Эховальдские дебри"
-Homestead violators are subject to arrest and inquisition by the Mordant Crescent.,Нарушители границ усадьбы подлежат аресту и допросу Мордантским полумесяцем.
+Homestead violators are subject to arrest and inquisition by the Mordant Crescent.,Нарушители границ усадьбы подлежат аресту и допросу Mordant Crescent.
 Honor of the Waves Collector,Коллекционер Чести Волн
 Honor the Claw of legend and his five closest allies who led their bearkin out of the dragonstorm to safety.,"Почти легендарного Когтя и пятерых его ближайших союзников, которые вывели свой медвежий народ из драконьего шторма в безопасность."
 Honor the empress.,Почти императрицу.
@@ -423,7 +423,7 @@ If the volcano doesn't get you...,Если вулкан тебя не доста
 "If they are so smart, how come they couldn't stop from getting killed?","Если они такие умные, почему они не смогли предотвратить свою гибель?"
 "If they damage it, you repair it.","Если они повредят это, ты починишь."
 "If they just asked nicely, maybe they would get what they wanted.","Если бы они просто вежливо попросили, может, они получили бы то, что хотели."
-"If we brought the Black Lion Trading Company here, we wouldn't need to carry all this junk.","Если бы мы привели сюда Торговую компанию Чёрного Льва, нам не пришлось бы таскать весь этот хлам."
+"If we brought the Black Lion Trading Company here, we wouldn't need to carry all this junk.","Если бы мы привели сюда Black Lion Trading Company, нам не пришлось бы таскать весь этот хлам."
 "If you build it, they will die.","Если ты это построишь, они умрут."
 "If you don't wash your armor now, you'll never get the smell out.","Если не отмоешь доспехи сейчас, никогда не избавишься от запаха."
 "If you have the Knowing Is Half the Battle achievement, progress is doubled for successful ingredient preparations.","Если у вас есть достижение «Knowing Is Half the Battle», прогресс за успешную подготовку ингредиентов удваивается."
@@ -473,8 +473,8 @@ In Pursuit of a God,В погоне за богом
 "In Sanctum Sprint, collect as many crystals as possible.",В «Спринте по святилищу» соберите как можно больше кристаллов.
 "In Sanctum Sprint, use every possible pickup item at least once.",В «Спринте по святилищу» используйте каждый доступный предмет хотя бы раз.
 "In Shipwreck Strand, take a moment to reflect at the graves of the Castorans no longer with us.","На Берегу Кораблекрушений уделите минуту, чтобы почтить память касторанцев, которых больше нет с нами."
-"In Snowden Drifts, successfully stop the Inquest from capturing %num2% ley-line coalescences after contributing ley energy to the Consortium.","В Сноуденских сугробах не дайте Инквесту захватить %num2% слияний лей-линий, предварительно передав лей-энергию Консорциуму."
-"In Snowden Drifts, successfully stop the Inquest from capturing %num2% ley-line coalescences after contributing ley energy to the Priory.","В Сноуденских сугробах не дайте Инквесту захватить %num2% слияний лей-линий, предварительно передав лей-энергию Приорату."
+"In Snowden Drifts, successfully stop the Inquest from capturing %num2% ley-line coalescences after contributing ley energy to the Consortium.","В Snowden Drifts не дайте Инквесту захватить %num2% слияний лей-линий, предварительно передав лей-энергию Консорциуму."
+"In Snowden Drifts, successfully stop the Inquest from capturing %num2% ley-line coalescences after contributing ley energy to the Priory.","В Snowden Drifts не дайте Инквесту захватить %num2% слияний лей-линий, предварительно передав лей-энергию Приорату."
 In Tatters; Not Shattered,"В лохмотьях, но не сломлен"
 In Their Footsteps,По их следам
 In This Together,Вместе в этом

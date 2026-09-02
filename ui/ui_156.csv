@@ -217,10 +217,10 @@ Upgrade Now!,Улучшить сейчас!
 Upgrade or capacity requirements not met to purchase this decoration.,Не выполнены требования по улучшениям или вместимости для покупки этого украшения.
 Upgrade Point,Очко улучшения
 Upgrade prerequisite not met,Не выполнено условие улучшения
-Upgrade Special Black Lion Blue Dye Canisters,Улучшить особые синие баллончики с краской Чёрного Льва
-Upgrade Special Black Lion Green Dye Canisters,Улучшить особые зелёные баллончики с краской Чёрного Льва
-Upgrade Special Black Lion Red Dye Canisters,Улучшить особые красные баллончики с краской Чёрного Льва
-Upgrade Special Black Lion Yellow Dye Canisters,Улучшить особые жёлтые баллончики с краской Чёрного Льва
+Upgrade Special Black Lion Blue Dye Canisters,Улучшить особые синие баллончики с краской Black Lion
+Upgrade Special Black Lion Green Dye Canisters,Улучшить особые зелёные баллончики с краской Black Lion
+Upgrade Special Black Lion Red Dye Canisters,Улучшить особые красные баллончики с краской Black Lion
+Upgrade Special Black Lion Yellow Dye Canisters,Улучшить особые жёлтые баллончики с краской Black Lion
 Upgrade the Hollow base to tier 2 or higher to purchase.,Для покупки улучшите базу «Лощина» до 2-й ступени или выше.
 Upgrade the Howling Caves base to tier 2 or higher to purchase.,Для покупки улучшите базу «Воющие Пещеры» до 2-й ступени или выше.
 Upgrade to a full account to %str1%,"Улучшите до полной учётной записи, чтобы %str1%"
@@ -364,7 +364,7 @@ Use a Glacial Imbued Jar to collect and freeze water cascading down from the min
 Use a Glacial Imbued Jar to collect and freeze water from the Ancient Cave Spring in Gendarran Fields.,Наберите и заморозьте в Ледниковой напитанной банке воду из Древнего пещерного источника на Гендарранских полях.
 Use a Glacial Imbued Jar to collect and freeze water from the Cluster of Waves in Dierdre's Steps in Mount Maelstrom.,Наберите и заморозьте в Ледниковой напитанной банке воду из Скопления Волн на Ступенях Дейрдре на горе Мальстрём.
 Use a Glacial Imbued Jar to collect and freeze Water taken from the Fellmyst Falls in Iron Marches.,"Наберите и заморозьте в Ледниковой напитанной банке воду, взятую из Водопадов Феллмист в Железных Топях."
-Use a Glacial Imbued Jar to collect and freeze water taken from the Gotala Cascade in Brisban Wildlands.,"Наберите и заморозьте в Ледниковой напитанной банке воду, взятую из Каскада Готала в Дебрях Брисбана."
+Use a Glacial Imbued Jar to collect and freeze water taken from the Gotala Cascade in Brisban Wildlands.,"Наберите и заморозьте в Ледниковой напитанной банке воду, взятую из Каскада Готала в Brisban Wildlands."
 Use a Glacial Imbued Jar to collect and freeze water taken from the Hope Falls in Malchor's Leap.,"Наберите и заморозьте в Ледниковой напитанной банке воду, взятую из Водопадов Надежды на Прыжке Малхора."
 Use a Glacial Imbued Jar to collect and freeze water taken from the Infinite Coil Reactor.,"Наберите и заморозьте в Ледниковой напитанной банке воду, взятую из Реактора Бесконечного Кольца."
 Use a Glacial Imbued Jar to collect and freeze water taken from the oasis in Dry Top.,"Наберите и заморозьте в Ледниковой напитанной банке воду, взятую из оазиса на Сухой Вершине."
@@ -373,16 +373,16 @@ Use a Glacial Imbued Jar to collect and freeze water taken from the waterfall ne
 Use a Glacial Imbued Jar to collect and freeze water taken from the waterfall near Orvar's Glen in Sparkfly Fen.,"Наберите и заморозьте в Ледниковой напитанной банке воду, взятую из водопада у Лощины Орвара в Топи Искрокрылов."
 Use a Glacial Imbued Jar to collect and freeze water taken from the waterfall near the Ogham Wilds in Caledon Forest.,"Наберите и заморозьте в Ледниковой напитанной банке воду, взятую из водопада у Дебрей Огама в Каледонском лесу."
 Use a Glacial Imbued Jar to collect ice from the Elemental Source in the Snowblind Fractal.,Соберите Ледниковой напитанной банкой лёд из Источника Стихий во фрактале «Снежная слепота».
-Use a Glacial Imbued Jar to collect ice shavings from a lodge in the Barrowstead region of Frostgorge Sound.,Соберите Ледниковой напитанной банкой ледяную крошку из дома в области Барроустед в Заливе Морозного Ущелья.
-Use a Glacial Imbued Jar to collect ice shavings from Blue Ice Station of Groznev Delve in Frostgorge Sound.,Соберите Ледниковой напитанной банкой ледяную крошку со Станции Синего Льда в Копях Грознева в Заливе Морозного Ущелья.
-Use a Glacial Imbued Jar to collect ice shavings from the freezing cavern of Sector Zuhl in Timberline Falls.,Соберите Ледниковой напитанной банкой ледяную крошку из промёрзшей пещеры Сектора Зул в Тимберлайн-Фоллс.
+Use a Glacial Imbued Jar to collect ice shavings from a lodge in the Barrowstead region of Frostgorge Sound.,Соберите Ледниковой напитанной банкой ледяную крошку из дома в области Барроустед в Frostgorge Sound.
+Use a Glacial Imbued Jar to collect ice shavings from Blue Ice Station of Groznev Delve in Frostgorge Sound.,Соберите Ледниковой напитанной банкой ледяную крошку со Станции Синего Льда в Копях Грознева в Frostgorge Sound.
+Use a Glacial Imbued Jar to collect ice shavings from the freezing cavern of Sector Zuhl in Timberline Falls.,Соберите Ледниковой напитанной банкой ледяную крошку из промёрзшей пещеры Сектора Зул в Timberline Falls.
 Use a Glacial Imbued Jar to collect ice shavings from the Frostgate Falls in Lornar's Pass.,Соберите Ледниковой напитанной банкой ледяную крошку с Водопадов Морозных Врат на перевале Лорнара.
 Use a Glacial Imbued Jar to collect ice shavings from the ice pillar at end of the Underground Facility Fractal.,Соберите Ледниковой напитанной банкой ледяную крошку с ледяного столпа в конце фрактала «Подземный комплекс».
 Use a Glacial Imbued Jar to collect ice shavings from the Icebound Plunge waterfall in Lornar's Pass.,Соберите Ледниковой напитанной банкой ледяную крошку с водопада Ледяного Обрыва на перевале Лорнара.
 Use a Glacial Imbued Jar to collect ice shavings from the large pillar of ice found in the Tribulation Caverns in Dredgehaunt Cliffs.,Соберите Ледниковой напитанной банкой ледяную крошку с большого ледяного столпа в Пещерах Мытарств в Скалах Дреджей.
 Use a Glacial Imbued Jar to collect ice shavings from the Talecrafting Steading in Dredgehaunt Cliffs.,Соберите Ледниковой напитанной банкой ледяную крошку с Усадьбы Сказаний в Скалах Дреджей.
 Use a Glacial Imbued Jar to collect residue from the defeated Ice Elemental summoned by the Svanir Shaman at the Heart of Corruption in Wayfarer Foothills.,"Соберите Ледниковой напитанной банкой остатки побеждённого ледяного элементаля, призванного шаманом Сванира у Сердца Порчи в Предгорьях Странника."
-Use a Glacial Imbued Jar to collect translucent ice crystals from the cave in the Darkhoof Heights in Snowden Drifts.,Соберите Ледниковой напитанной банкой полупрозрачные ледяные кристаллы из пещеры на высотах Тёмного Копыта в Сноуденских сугробах.
+Use a Glacial Imbued Jar to collect translucent ice crystals from the cave in the Darkhoof Heights in Snowden Drifts.,Соберите Ледниковой напитанной банкой полупрозрачные ледяные кристаллы из пещеры на высотах Тёмного Копыта в Snowden Drifts.
 Use a golden key.,Используйте золотой ключ.
 Use a Kodan Cache Key to unlock this cache.,Откройте этот тайник Ключом от тайника коданов.
 Use a Krait Focusing Crystal to commune with the Krait Altar in Caledon Forest.,Прикоснитесь Фокусирующим кристаллом крайтов к Алтарю крайтов в Каледонском лесу.
@@ -394,7 +394,7 @@ Use a Krait Focusing Crystal to commune with the Krait Obelisk Shard in Mount Ma
 Use a Krait Focusing Crystal to commune with the Krait Obelisk Shard in Sparkfly Fen.,Прикоснитесь Фокусирующим кристаллом крайтов к Осколку обелиска крайтов в Топи Искрокрылов.
 Use a Krait Focusing Crystal to commune with the Krait Obelisk Shard in Straits of Devastation.,Прикоснитесь Фокусирующим кристаллом крайтов к Осколку обелиска крайтов в Проливах Опустошения.
 Use a Krait Focusing Crystal to commune with the Krait Obelisk Shard in the Aquatic Ruins Fractal.,Прикоснитесь Фокусирующим кристаллом крайтов к Осколку обелиска крайтов во фрактале «Подводные руины».
-Use a Krait Focusing Crystal to commune with the Krait Obelisk Shard in Timberline Falls.,Прикоснитесь Фокусирующим кристаллом крайтов к Осколку обелиска крайтов в Тимберлайн-Фоллс.
+Use a Krait Focusing Crystal to commune with the Krait Obelisk Shard in Timberline Falls.,Прикоснитесь Фокусирующим кристаллом крайтов к Осколку обелиска крайтов в Timberline Falls.
 Use a Krait Focusing Crystal to commune with the Krait Place of Power in Bloodtide Coast.,Прикоснитесь Фокусирующим кристаллом крайтов к Месту Силы крайтов на Кровавом побережье.
 Use a random conjured doorway skin each time you summon one. (Only picks from your favorites if any have been selected.),"Использовать случайный облик сотворённого прохода при каждом призыве. (Выбор только из избранного, если оно задано.)"
 Use a random glider skin each time you deploy your glider. (Only picks from your favorites if any have been selected.),"Использовать случайный облик планера при каждом раскрытии планера. (Выбор только из избранного, если оно задано.)"

@@ -723,7 +723,7 @@ Unlock the siege turtle mount, jade bots, skiffs, fishing, nine new elite specia
 <c=@reminder>Мировые боссы — это сложные события, которые происходят в определенное время суток по всей Тирии. Победите их, чтобы получить сундуки с редким снаряжением и материалами для крафта. </c>"
 "Speak with %num2% scouts in Queensdale, Metrica Province, Caledon Forest, Wayfarer Foothills, or the Plains of Ashford to discover more about the local area.
 
-<c=@reminder>Scouts appear with a spyglass icon on your map. They can point you toward nearby goals and landmarks when you speak to them.</c>","Поговорите с %num2% разведчиками в Квинсдейле, провинции Метрика, Каледонском лесу, Холмах Путника или на Равнинах Эшфорда, чтобы узнать больше о местности.
+<c=@reminder>Scouts appear with a spyglass icon on your map. They can point you toward nearby goals and landmarks when you speak to them.</c>","Поговорите с %num2% разведчиками в Квинсдейле, провинции Метрика, Каледонском лесу, Холмах Путника или на Plains of Ashford, чтобы узнать больше о местности.
 
 <c=@reminder> Разведчики отображаются на вашей карте значком подзорной трубы. Они могут указать вам ближайшие цели и достопримечательности, если вы с ними поговорите.</c>"
 "Use your utility skills %num2% time[s].
@@ -838,7 +838,7 @@ Unlock the siege turtle mount, jade bots, skiffs, fishing, nine new elite specia
 <c=@reminder>Mystic Forge преобразует предметы различными способами, включая повышение уровня материалов для крафта и улучшение снаряжения. Кузница доступна из крупных городов по всей Тирии.</c>"
 "Discover %num2% point[s] of interest in Queensdale, Metrica Province, Caledon Forest, Wayfarer Foothills, or the Plains of Ashford.
 
-<c=@reminder>Points of interest are special locations marked by name in the world, indicated by a square icon on the map. </c>","Откройте %num2% [интересное место|интересных места|интересных мест] в Квинсдейле, провинции Метрика, Каледонском лесу, Предгорьях Странника или равнинах Эшфорда.
+<c=@reminder>Points of interest are special locations marked by name in the world, indicated by a square icon on the map. </c>","Откройте %num2% [интересное место|интересных места|интересных мест] в Квинсдейле, провинции Метрика, Каледонском лесу, Предгорьях Странника или Plains of Ashford.
 
 <c=@reminder>Интересные места — это особые локации, отмеченные на карте квадратным значком и выделенные названием. </c>"
 "View %num1%/%num2% vista[s].
@@ -903,12 +903,12 @@ Unlock the siege turtle mount, jade bots, skiffs, fishing, nine new elite specia
 <c=@reminder>Точки быстрого перемещения позволяют быстро путешествовать по миру. Они открываются после первого посещения. Вы можете телепортироваться к любой открытой точке быстрого перемещения за небольшую плату.</c>"
 "View %num1%/%num2% vista[s] in Sparkfly Fen, Mount Maelstrom, Iron Marches, Fireheart Rise, or Timberline Falls.
 
-<c=@reminder>Vistas are scenic locations that show the world from a new perspective, and they are marked with a red triangle icon on the map.</c>","Осмотрите %num1%/%num2% [вид|вида|видов] в Топких Болотах, на горе Мальстрём, в Железных Топях, в Огненной Долине или у Тимберлайн-Фоллс.
+<c=@reminder>Vistas are scenic locations that show the world from a new perspective, and they are marked with a red triangle icon on the map.</c>","Осмотрите %num1%/%num2% [вид|вида|видов] в Топких Болотах, на горе Мальстрём, в Железных Топях, в Огненной Долине или у Timberline Falls.
 
 <c=@reminder>Виды — это живописные места, с которых открывается новый вид на мир. На карте они отмечены красным треугольным значком.</c>"
 "Discover 5 points of interest in Sparkfly Fen, Mount Maelstrom, the Iron Marches, the Fireheart Rise, or Timberline Falls.
 
-<c=@reminder>Points of interest are special locations marked by name in the world, indicated by a square icon on the map. </c>","Найдите 5 интересных мест в Болотистой низине Спаркфлай, горе Мальстрём, Железных Топях, Огненной возвышенности или у Тимберлайн-Фоллс.
+<c=@reminder>Points of interest are special locations marked by name in the world, indicated by a square icon on the map. </c>","Найдите 5 интересных мест в Болотистой низине Спаркфлай, горе Мальстрём, Железных Топях, Огненной возвышенности или у Timberline Falls.
 
 <c=@reminder>Интересные места — это особые локации с названиями, которые отображаются на карте квадратным значком. </c>"
 "Enter %num2% World vs. World map[s].
@@ -1636,7 +1636,7 @@ Gendarran Fields to the northeast offers new challenges. If you are looking for 
 
 Мы обращаемся к вам сегодня, чтобы выразить наши поздравления! Вы успешно исследовали все Kessex Hills. Когда вы вошли в этот регион, он был чистым листом, а теперь вы покидаете его, не оставив ни одного камня без внимания. Замечательно! Ваша настойчивость достойна восхищения. Преодолев центавров, крайте, бандитов и некромантов, вы продолжали двигаться вперёд. Мы призываем вас продолжить ваше путешествие.
 
-Gendarran Fields к северо-востоку предлагают новые испытания. Если вы хотите сменить обстановку, отправляйтесь на запад в Дебрях Брисбана. Уверен, это не последний раз, когда вы услышите от нас. <br>Ещё раз поздравляем!
+Gendarran Fields к северо-востоку предлагают новые испытания. Если вы хотите сменить обстановку, отправляйтесь на запад в Brisban Wildlands. Уверен, это не последний раз, когда вы услышите от нас. <br>Ещё раз поздравляем!
 
 —Tyrian Explorers Society"
 <c=@abilitytype>Meditation.</c> Strike foes around you and remove their boons. Deal more damage to foes that lose a boon.,"<c=@abilitytype>Медитация.</c> Нанесите удар по врагам вокруг и снимите с них благословения. Наносите больше урона врагам, потерявшим благословение."
