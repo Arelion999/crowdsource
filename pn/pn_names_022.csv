@@ -10,7 +10,7 @@ Tribune Steelgrip,Трибуна Стальная хватка
 Legendary Forged Demolisher,Легендарный Кованый разрушитель
 Moa Trainer Kappa,Дрессировщица моа Kappa
 Warmaster Kaylar,Магистр войны Кейлар
-Champion Molten Berserker,Чемпион Берсерк Расплава
+Champion Molten Berserker,Чемпион Molten Berserker
 Champion Risen Megalodon,Воскрешенный мегалодон-чемпион
 Scarlet's Twisted Marionette,Искривлённая марионетка Скарлет
 Shining Blade Kimber,Сияющий Клинок Kimber
@@ -19,19 +19,19 @@ Chief Officer Shashoo,Старший офицер Шашу
 Deputy Hamad,Заместитель Хамад
 Legendary Chak Gerent,Легендарный чак-герент
 Legendary Sand Giant,Легендарный песчаный гигант
-Legendary Zehlon Ossa,Легендарный Зельон Осса
+Legendary Zehlon Ossa,Легендарный Zehlon Ossa
 Sage Gorra,Мудрец Gorra
 Security Chief Ziff,Начальник охраны Ziff
 Champion Aetherblade Cannoneer,Чемпион Эфирный пушкарь
 Champion Boneskinner,Чемпион-Костедёр
-Champion Fallen Pineshade,Чемпион: Падшая Сосновая Шейда
+Champion Fallen Pineshade,Чемпион: Fallen Pineshade
 Champion Icebrood Quaggan,Чемпион ледяного выводка квагган
-Champion Mordrem Husk Copper,"Чемпион Мордремская оболочка, медная"
+Champion Mordrem Husk Copper,Чемпион Mordrem Husk Copper
 Champion Mordrem Thrasher Platinum,Платиновый чемпион Mordrem Thrasher
 Champion Mordrem Troll Iron,Чемпион Мордрем-тролль Железо
 Champion Mushroom Emperor,Чемпион Император грибов
 Champion Ram,Чемпион Ram
-Champion Risen Knight,Чемпион Восставший рыцарь
+Champion Risen Knight,Чемпион Risen рыцарь
 Champion Stonehead,Чемпион Каменноголовый
 Elite Aetherblades,Элитные эфирные клинки
 Elite Rot Strider,Элитный гнилостный шагатель
@@ -48,7 +48,7 @@ Scout Acan,Разведчик Акан
 Shining Blade Exemplar Talie,"Сияющий клинок, образец Тали"
 Stegron Hornfist,Стегрон Рогокулак
 Traveling Merchant Orthun,Странствующий торговец Orthun
-Awakened Archon Iberu,Пробуждённый Архонт Iberu
+Awakened Archon Iberu,Пробужденный Архонт Iberu
 Bear Shaman Marga,Шаманка Медведицы Марга
 Beetle Trainer Keploch,Trainer жуков Keploch
 Biomancer Plezzi,Биомант Плецци
@@ -57,7 +57,7 @@ Champion Angry Pet Rock,Чемпион сердитый питомец-каме�
 Champion Arrowhead,Чемпион наконечника стрелы
 Champion Awakened Abomination,Чемпион Пробужденное чудовище
 Champion Balthazar's Lost,Чемпион потерянный Balthazar
-Champion Blighted Beast,Чемпион: Осквернённый зверь
+Champion Blighted Beast,Чемпион: Оскверненный зверь
 Champion Brackish Skale,Чемпион Солоноватый чешуйник
 Champion Captain Cork,Чемпион Капитан Корк
 Champion Crystalwing,Чемпион Crystalwing
@@ -66,21 +66,21 @@ Champion Dredge Commissar,Чемпион-комиссар дрегов
 Champion First Mate Pekknik,Чемпион Первый помощник Pekknik
 Champion Forged Commander,Чемпион Кованый Коммандир
 Champion Forged Lieutenant,Чемпион Кованый лейтенант
-Champion Forged Marauder,Чемпион Кованый мародёр
+Champion Forged Marauder,Чемпион Forged Marauder
 Champion Forged Maverick,Чемпион Кованый Maverick
 Champion Forged Wolfhound,Чемпион: Кованый волкодав
 Champion Gladiator Waine,Чемпион-гладиатор Уэйн
 Champion Grawl Shaman,Граул-шаман чемпион
 Champion Icebrood Goliath,Чемпион ледяного голиафа
-Champion Ignis,Чемпион Игнис
+Champion Ignis,Чемпион Ignis
 Champion Jungle Troll,Чемпион: Тролль джунглей
 Champion Karka,Чемпион-карка
-Champion Kharkaris,Чемпион Харкарис
+Champion Kharkaris,Чемпион Kharkaris
 Champion Krait Witch,Чемпион Крайт Ведьма
-Champion Matriarch Shrilliss,Чемпион Матриарх Шриллис
-Champion Matriarch Talonslayer,Чемпион Матриарх Разрушительница Когтей
-Champion Modniir High Sage,Чемпион Верховный мудрец модниир
-Champion Mordrem Teragriff Gold,"Чемпион Мордремский терагриф, золотой"
+Champion Matriarch Shrilliss,Чемпион Matriarch Shrilliss
+Champion Matriarch Talonslayer,Чемпион Matriarch Talonslayer
+Champion Modniir High Sage,Чемпион Modniir High Sage
+Champion Mordrem Teragriff Gold,Чемпион Mordrem Teragriff Gold
 Champion Mordrem Teragriff Silver,Чемпион Mordrem Teragriff Silver
 Champion Svanir Brute,Чемпион Сванирский громила
 Champion Wayfarer,Чемпион Wayfarer
@@ -100,8 +100,8 @@ High Priestess Amala,Верховная жрица Амала
 Lab Manager Grex,Заведующий лабораторией Грекс
 Lead Explorer Parsa,Старший исследователь Парса
 Legendary Imbued Shaman,Легендарный напитанный шаман
-Legendary Ley-Line Anomaly,Легендарная Аномалия лей-линий
-Legendary Triq Griz Grolak,Легендарный Триг Гриз Гролак
+Legendary Ley-Line Anomaly,Легендарная Ley-Line Anomaly
+Legendary Triq Griz Grolak,Легендарный Triq Griz Grolak
 Legionnaire Virgrol Brashmar,Легионер Виргрол Брашмар
 Lionguard Engineer Dauphan,Инженер Lionguard Dauphan
 Lore Seeker Zolin,Искатель знаний Zolin
