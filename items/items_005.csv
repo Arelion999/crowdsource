@@ -6,7 +6,7 @@ english,translate
 <c=@flavor>The karka have mysterious biological properties.</c>,<c=@flavor>У карка загадочные биологические свойства.</c>
 "<c=@flavor>The karka have mysterious biological properties.</c>
 Can be upgraded in the Mystic Forge.","<c=@flavor>У карка загадочные биологические свойства.</c>
-Можно улучшить в Мистической кузнице."
+Можно улучшить в Mystic Forge."
 "<c=@flavor>The label reads: ""Danger."" It hums pleasantly.</c>",<c=@flavor>На ярлыке написано: «Опасно». Оно приятно гудит.</c>
 <c=@flavor>The largest pink diamond in all of Tyria.</c>,<c=@flavor>Крупнейший розовый бриллиант во всей Тирии.</c>
 "<c=@flavor>The legendary beauty who captured the heart of Prince Rurik, only to perish in the Searing of Ascalon.</c>","<c=@flavor>Легендарная красавица, покорившая сердце принца Рурика и погибшая в Опалении Аскалона.</c>"
@@ -49,8 +49,8 @@ Consuming this item leaves a shiny foil candy wrapper, which is highly prized by
 <c=@flavor>The tyrant's smile remained even as the pitchforks found their mark.</c>,"<c=@flavor>Улыбка тирана не сошла с лица, даже когда вилы нашли свою цель.</c>"
 <c=@flavor>The warm wind of midday.</c>,<c=@flavor>Тёплый ветер полудня.</c>
 <c=@flavor>The wind and waves return even stone to dust.</c>,<c=@flavor>Ветер и волны обращают в пыль даже камень.</c>
-<c=@flavor>The wing feels almost alive and tingles with a feeling that reminds you of the Mystic Forge.</c>,"<c=@flavor>Крыло кажется почти живым и покалывает ощущением, что напоминает Мистическую кузницу.</c>"
-<c=@flavor>The wing tingles with a feeling that reminds you of the Mystic Forge.</c>,"<c=@flavor>Крыло покалывает ощущением, что напоминает Мистическую кузницу.</c>"
+<c=@flavor>The wing feels almost alive and tingles with a feeling that reminds you of the Mystic Forge.</c>,"<c=@flavor>Крыло кажется почти живым и покалывает ощущением, что напоминает Mystic Forge.</c>"
+<c=@flavor>The wing tingles with a feeling that reminds you of the Mystic Forge.</c>,"<c=@flavor>Крыло покалывает ощущением, что напоминает Mystic Forge.</c>"
 <c=@flavor>There are shallow claw marks on this coat.</c>,<c=@flavor>На этой куртке остались неглубокие следы когтей.</c>
 <c=@flavor>There's more to a festival than candy—there's also cake.</c>,"<c=@flavor>Праздник — это не только сладости, но ещё и торт.</c>"
 <c=@flavor>There's no trick—this is a lot of treats! Double-click to open all of them in a sugar-induced frenzy.</c>,"<c=@flavor>Никаких шуток — это гора угощений! Дважды щёлкните, чтобы вскрыть их все в сахарном угаре.</c>"
@@ -68,7 +68,7 @@ Combine this item in the Mystic Forge with:
 • 1 Gift of Shadowstones
 • 1 Mystic Tribute</c>","<c=@flavor>Этот аксессуар используется для создания легендарного аксессуара «Stella Radians».
 
-Соедините этот предмет в Мистической кузнице с:
+Соедините этот предмет в Mystic Forge с:
 • 1 Gift of Galdra
 • 1 Gift of Shadowstones
 • 1 Mystic Tribute</c>"
@@ -139,7 +139,7 @@ Combine this weapon in the Mystic Forge with:
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>","<c=@flavor>Это оружие используется для создания легендарного топора «Frostfang».
 
-Соедините это оружие в Мистической кузнице с:
+Соедините это оружие в Mystic Forge с:
 • 1 Gift of Frostfang
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>"
@@ -151,7 +151,7 @@ Combine this weapon in the Mystic Forge with:
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>","<c=@flavor>Это оружие используется для создания легендарного кинжала «Incinerator».
 
-Соедините это оружие в Мистической кузнице с:
+Соедините это оружие в Mystic Forge с:
 • 1 Gift of Incinerator
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>"
@@ -162,7 +162,7 @@ Combine this weapon in the Mystic Forge with:
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>","<c=@flavor>Это оружие используется для создания легендарного фокуса «The Minstrel».
 
-Соедините это оружие в Мистической кузнице с:
+Соедините это оружие в Mystic Forge с:
 • 1 Gift of The Minstrel
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>"
@@ -170,14 +170,14 @@ Combine this weapon in the Mystic Forge with:
 "<c=@flavor>This weapon is used to craft the legendary greatsword Eternity by combining it in the Mystic Forge with:
 • Sunrise
 • 5 Piles of Crystalline Dust
-• 10 Philosopher's Stones</c>","<c=@flavor>Это оружие используется для создания легендарного двуручного меча «Eternity» — соедините его в Мистической кузнице с:
+• 10 Philosopher's Stones</c>","<c=@flavor>Это оружие используется для создания легендарного двуручного меча «Eternity» — соедините его в Mystic Forge с:
 • Sunrise
 • 5 Piles of Crystalline Dust
 • 10 Philosopher's Stones</c>"
 "<c=@flavor>This weapon is used to craft the legendary greatsword Eternity by combining it in the Mystic Forge with:
 • Twilight
 • 5 Piles of Crystalline Dust
-• 10 Philosopher's Stones</c>","<c=@flavor>Это оружие используется для создания легендарного двуручного меча «Eternity» — соедините его в Мистической кузнице с:
+• 10 Philosopher's Stones</c>","<c=@flavor>Это оружие используется для создания легендарного двуручного меча «Eternity» — соедините его в Mystic Forge с:
 • Twilight
 • 5 Piles of Crystalline Dust
 • 10 Philosopher's Stones</c>"
@@ -189,7 +189,7 @@ Combine this weapon in the Mystic Forge with:
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>","<c=@flavor>Это оружие используется для создания легендарного двуручного меча «Sunrise».
 
-Соедините это оружие в Мистической кузнице с:
+Соедините это оружие в Mystic Forge с:
 • 1 Gift of Sunrise
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>"
@@ -200,7 +200,7 @@ Combine this weapon in the Mystic Forge with:
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>","<c=@flavor>Это оружие используется для создания легендарного двуручного меча «Twilight».
 
-Соедините это оружие в Мистической кузнице с:
+Соедините это оружие в Mystic Forge с:
 • 1 Gift of Twilight
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>"
@@ -212,7 +212,7 @@ Combine this weapon in the Mystic Forge with:
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>","<c=@flavor>Это оружие используется для создания легендарного молота «The Juggernaut».
 
-Соедините это оружие в Мистической кузнице с:
+Соедините это оружие в Mystic Forge с:
 • 1 Gift of The Juggernaut
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>"
@@ -223,7 +223,7 @@ Combine this weapon in the Mystic Forge with:
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>","<c=@flavor>Это оружие используется для создания легендарного гарпунного ружья «Frenzy».
 
-Соедините это оружие в Мистической кузнице с:
+Соедините это оружие в Mystic Forge с:
 • 1 Gift of Frenzy
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>"
@@ -234,7 +234,7 @@ Combine this weapon in the Mystic Forge with:
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>","<c=@flavor>Это оружие используется для создания легендарного длинного лука «Kudzu».
 
-Соедините это оружие в Мистической кузнице с:
+Соедините это оружие в Mystic Forge с:
 • 1 Gift of Kudzu
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>"
@@ -247,7 +247,7 @@ Combine this weapon in the Mystic Forge with:
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>","<c=@flavor>Это оружие используется для создания легендарной булавы «The Moot».
 
-Соедините это оружие в Мистической кузнице с:
+Соедините это оружие в Mystic Forge с:
 • 1 Gift of The Moot
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>"
@@ -259,7 +259,7 @@ Combine this weapon in the Mystic Forge with:
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>","<c=@flavor>Это оружие используется для создания легендарного пистолета «Quip».
 
-Соедините это оружие в Мистической кузнице с:
+Соедините это оружие в Mystic Forge с:
 • 1 Gift of Quip
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>"
@@ -271,7 +271,7 @@ Combine this weapon in the Mystic Forge with:
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>","<c=@flavor>Это оружие используется для создания легендарной винтовки «The Predator».
 
-Соедините это оружие в Мистической кузнице с:
+Соедините это оружие в Mystic Forge с:
 • 1 Gift of The Predator
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>"
@@ -282,7 +282,7 @@ Combine this weapon in the Mystic Forge with:
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>","<c=@flavor>Это оружие используется для создания легендарного скипетра «Meteorlogicus».
 
-Соедините это оружие в Мистической кузнице с:
+Соедините это оружие в Mystic Forge с:
 • 1 Gift of Meteorlogicus
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>"
@@ -295,7 +295,7 @@ Combine this weapon in the Mystic Forge with:
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>","<c=@flavor>Это оружие используется для создания легендарного щита «The Flameseeker Prophecies».
 
-Соедините это оружие в Мистической кузнице с:
+Соедините это оружие в Mystic Forge с:
 • 1 Gift of The Flameseeker Prophecies
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>"
@@ -307,7 +307,7 @@ Combine this weapon in the Mystic Forge with:
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>","<c=@flavor>Это оружие используется для создания легендарного короткого лука «The Dreamer».
 
-Соедините это оружие в Мистической кузнице с:
+Соедините это оружие в Mystic Forge с:
 • 1 Gift of The Dreamer
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>"
@@ -318,7 +318,7 @@ Combine this weapon in the Mystic Forge with:
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>","<c=@flavor>Это оружие используется для создания легендарного копья «Kamohoali'i Kotaki».
 
-Соедините это оружие в Мистической кузнице с:
+Соедините это оружие в Mystic Forge с:
 • 1 Gift of Kamohoali'i Kotaki
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>"
@@ -329,7 +329,7 @@ Combine this weapon in the Mystic Forge with:
 • 1 Gift of the Homesteader
 • 1 Gift of Klobjarne Geirr</c>","<c=@flavor>Это оружие используется для создания легендарного копья «Klobjarne Geirr».
 
-Соедините это оружие в Мистической кузнице с:
+Соедините это оружие в Mystic Forge с:
 • 1 Gift of Janthir Wilds
 • 1 Gift of the Homesteader
 • 1 Gift of Klobjarne Geirr</c>"
@@ -341,7 +341,7 @@ Combine this weapon in the Mystic Forge with:
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>","<c=@flavor>Это оружие используется для создания легендарного посоха «The Bifrost».
 
-Соедините это оружие в Мистической кузнице с:
+Соедините это оружие в Mystic Forge с:
 • 1 Gift of The Bifrost
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>"
@@ -352,7 +352,7 @@ Combine this weapon in the Mystic Forge with:
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>","<c=@flavor>Это оружие используется для создания легендарного меча «Bolt».
 
-Соедините это оружие в Мистической кузнице с:
+Соедините это оружие в Mystic Forge с:
 • 1 Gift of Bolt
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>"
@@ -365,7 +365,7 @@ Combine this weapon in the Mystic Forge with:
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>","<c=@flavor>Это оружие используется для создания легендарного факела «Rodgort».
 
-Соедините это оружие в Мистической кузнице с:
+Соедините это оружие в Mystic Forge с:
 • 1 Gift of Rodgort
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>"
@@ -376,7 +376,7 @@ Combine this weapon in the Mystic Forge with:
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>","<c=@flavor>Это оружие используется для создания легендарного трезубца «Kraitkin».
 
-Соедините это оружие в Мистической кузнице с:
+Соедините это оружие в Mystic Forge с:
 • 1 Gift of Kraitkin
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>"
@@ -387,7 +387,7 @@ Combine this weapon in the Mystic Forge with:
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>","<c=@flavor>Это оружие используется для создания легендарного боевого рога «Howler».
 
-Соедините это оружие в Мистической кузнице с:
+Соедините это оружие в Mystic Forge с:
 • 1 Gift of Howler
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>"
@@ -437,7 +437,7 @@ Combine this weapon in the Mystic Forge with:
 
 Cannot be used in the Mystic Forge if transmuted.","<c=@flavor>Скарлет стояла у нашего порога, и в тот день мы сами перешли в наступление.<c>
 
-Нельзя использовать в Мистической кузнице, если предмет трансмутирован."
+Нельзя использовать в Mystic Forge, если предмет трансмутирован."
 <c=@flavor>We're close to fully cracking the code behind the seers' shadowstone and their magic. Prototypes like this will be a footnote in history as we regain our technological dominance.</c>,"<c=@flavor>Мы близки к тому, чтобы полностью разгадать теневой камень провидцев и их магию. Прототипы вроде этого станут сноской в истории, когда мы вернём себе технологическое господство.</c>"
 "<c=@flavor>Wealth, fame, and power—a recipe for success. One drink gives you what most people can't achieve in a lifetime.</c>","<c=@flavor>Богатство, слава и власть — рецепт успеха. Один глоток даёт то, чего большинству не добиться и за целую жизнь.</c>"
 <c=@Flavor>What could be voiding this much excrement from the sky? Perhaps the beastmaster at the menagerie knows more. Double-click to view location.</c>,"<c=@Flavor>Что способно извергать с неба столько помёта? Возможно, зверолов из зверинца знает больше. Дважды щёлкните, чтобы увидеть место.</c>"
@@ -711,7 +711,7 @@ A faint meat scent emanates from the bottle. Use its self-replenishing contents 
 A faint prickly scent emanates from the bottle. Use its self-replenishing contents to transform into...something.,"От бутылки исходит слабый колючий запах. Используйте её самопополняющееся содержимое, чтобы превратиться... во что-нибудь."
 A faint ursine scent emanates from the bottle. Use its self-replenishing contents to transform into...something.,"От бутылки исходит слабый медвежий запах. Используйте её самопополняющееся содержимое, чтобы превратиться... во что-нибудь."
 "A faint, feline scent emanates from the bottle. Use its self-replenishing contents to transform into...something.","От бутылки исходит слабый кошачий запах. Используйте её самопополняющееся содержимое, чтобы превратиться... во что-нибудь."
-"A favorite treat of Astral Ward skyscales. Get enough and it should hide the taste of any medicine, no matter how awful.","Любимое лакомство скайскейлов Астральной стражи. Если набрать побольше, оно перебьёт вкус любого лекарства, каким бы мерзким оно ни было."
+"A favorite treat of Astral Ward skyscales. Get enough and it should hide the taste of any medicine, no matter how awful.","Любимое лакомство скайскейлов Astral Ward. Если набрать побольше, оно перебьёт вкус любого лекарства, каким бы мерзким оно ни было."
 A Fearful Message,Пугающее послание
 A feather plucked from a harpy. Wode might find these useful.,"Перо, выдернутое у гарпии. Воуду они могут пригодиться."
 A feline familiar frequently found following the footpaths of fallen foes.,"Кошачий питомец, что часто ходит по тропам павших врагов."
@@ -721,30 +721,30 @@ Event Item","Отличный образец яйца, которым интер
 A finely-crafted limited batch. It would make a nice gift for a kodan.,Изысканная малая партия. Из неё выйдёт славный подарок для кодана.
 "A fluffy friend from across the Mists.
 Combine 2 Blue Shiba Inu and a Cream Shiba Inu with 12 Unidentified Dyes in the Mystic Forge to create a Mini Silver Shiba Inu.","Пушистый друг из-за Туманов.
-Соедините 2 синих сиба-ину и одного кремового сиба-ину с 12 неопознанными красками в Мистической кузнице, чтобы создать мини-серебристого сиба-ину."
+Соедините 2 синих сиба-ину и одного кремового сиба-ину с 12 неопознанными красками в Mystic Forge, чтобы создать мини-серебристого сиба-ину."
 "A fluffy friend from across the Mists.
 Combine 2 Crimson and a Red Shiba Inu with 12 Unidentified Dyes in the Mystic Forge to create a Mini Gold Shiba Inu.","Пушистый друг из-за Туманов.
-Соедините 2 багровых и одного красного сиба-ину с 12 неопознанными красками в Мистической кузнице, чтобы создать мини-золотого сиба-ину."
+Соедините 2 багровых и одного красного сиба-ину с 12 неопознанными красками в Mystic Forge, чтобы создать мини-золотого сиба-ину."
 "A fluffy friend from across the Mists.
 Combine 2 Sesame and a Red Shiba Inu with 4 Unidentified Dyes in the Mystic Forge to create a Mini Cream Shiba Inu.
 Combine 2 Sesame and a Black and Tan Shiba Inu with 8 Unidentified Dyes in the Mystic Forge to create a Mini Blue Shiba Inu.","Пушистый друг из-за Туманов.
-Соедините 2 кунжутных и одного красного сиба-ину с 4 неопознанными красками в Мистической кузнице, чтобы создать мини-кремового сиба-ину.
-Соедините 2 кунжутных и одного чёрно-подпалого сиба-ину с 8 неопознанными красками в Мистической кузнице, чтобы создать мини-синего сиба-ину."
+Соедините 2 кунжутных и одного красного сиба-ину с 4 неопознанными красками в Mystic Forge, чтобы создать мини-кремового сиба-ину.
+Соедините 2 кунжутных и одного чёрно-подпалого сиба-ину с 8 неопознанными красками в Mystic Forge, чтобы создать мини-синего сиба-ину."
 "A fluffy friend from across the Mists.
 Combine 3 Red Shiba Inu with 2 Unidentified Dyes in the Mystic Forge to create a Black and Tan Shiba Inu.","Пушистый друг из-за Туманов.
-Соедините 3 красных сиба-ину с 2 неопознанными красками в Мистической кузнице, чтобы создать чёрно-подпалого сиба-ину."
+Соедините 3 красных сиба-ину с 2 неопознанными красками в Mystic Forge, чтобы создать чёрно-подпалого сиба-ину."
 "A fluffy friend from across the Mists.
 Combine a Black and Tan Shiba Inu and 2 Red Shiba Inu with 4 Unidentified Dyes in the Mystic Forge to create a Mini Sesame Shiba Inu.","Пушистый друг из-за Туманов.
-Соедините одного чёрно-подпалого и 2 красных сиба-ину с 4 неопознанными красками в Мистической кузнице, чтобы создать мини-кунжутного сиба-ину."
+Соедините одного чёрно-подпалого и 2 красных сиба-ину с 4 неопознанными красками в Mystic Forge, чтобы создать мини-кунжутного сиба-ину."
 "A fluffy friend from across the Mists.
 Combine a Black and Tan, Cream, and Red Shiba Inu with 8 Unidentified Dyes in the Mystic Forge to create a Mini Crimson Shiba Inu.","Пушистый друг из-за Туманов.
-Соедините чёрно-подпалого, кремового и красного сиба-ину с 8 неопознанными красками в Мистической кузнице, чтобы создать мини-багрового сиба-ину."
+Соедините чёрно-подпалого, кремового и красного сиба-ину с 8 неопознанными красками в Mystic Forge, чтобы создать мини-багрового сиба-ину."
 "A fluffy friend from across the Mists.
 Combine a Gold, Crimson, and Cream Shiba Inu with 20 Unidentified Dyes in the Mystic Forge to create a Mini Blazing Shiba Inu.","Пушистый друг из-за Туманов.
-Соедините золотого, багрового и кремового сиба-ину с 20 неопознанными красками в Мистической кузнице, чтобы создать мини-пылающего сиба-ину."
+Соедините золотого, багрового и кремового сиба-ину с 20 неопознанными красками в Mystic Forge, чтобы создать мини-пылающего сиба-ину."
 "A fluffy friend from across the Mists.
 Combine a Silver, Sesame, and Blue Shiba Inu with 20 Unidentified Dyes in the Mystic Forge to create a Mini Starry Shiba Inu.","Пушистый друг из-за Туманов.
-Соедините серебристого, кунжутного и синего сиба-ину с 20 неопознанными красками в Мистической кузнице, чтобы создать мини-звёздного сиба-ину."
+Соедините серебристого, кунжутного и синего сиба-ину с 20 неопознанными красками в Mystic Forge, чтобы создать мини-звёздного сиба-ину."
 A focus roughly forged from Brand crystal using techniques learned from Forge Master Hilina.,"Фокус, грубо выкованный из кристалла Клейма по приёмам, перенятым у мастера горна Хилины."
 A focus skillfully forged from Brand crystal using techniques learned from Forge Master Hilina.,"Фокус, искусно выкованный из кристалла Клейма по приёмам, перенятым у мастера горна Хилины."
 A focus taken from the husk of a fallen boneskinner.,"Фокус, снятый с оболочки павшего костедёра."
@@ -779,22 +779,22 @@ A gift of blades used to create Tempered Spinal Blades.,"Дар клинков, 
 
 Purchase the recipe for this item from any Mystic Forge vendor and reach a chef rating of 400 to craft.","Дар цвета, используемый для создания «The Bifrost».
 
-Рецепт этого предмета покупается у любого торговца Мистической кузницы; для изготовления нужен уровень повара 400."
+Рецепт этого предмета покупается у любого торговца Mystic Forge; для изготовления нужен уровень повара 400."
 "A gift of darkness used to create Twilight.
 
 Purchase the recipe for this item from any Mystic Forge vendor and reach an armorsmith rating of 400 to craft.","Дар тьмы, используемый для создания «Twilight».
 
-Рецепт этого предмета покупается у любого торговца Мистической кузницы; для изготовления нужен уровень бронника 400."
+Рецепт этого предмета покупается у любого торговца Mystic Forge; для изготовления нужен уровень бронника 400."
 "A gift of energy used to create generation one and two legendary weapons and the legendary trinkets Vision and Aurora.
 
 Purchase the recipe for this item from any Mystic Forge vendor and reach an artificer rating of 400 to craft.","Дар энергии, используемый для создания легендарного оружия первого и второго поколений, а также легендарных украшений «Vision» и «Aurora».
 
-Рецепт этого предмета покупается у любого торговца Мистической кузницы; для изготовления нужен уровень артифактора 400."
+Рецепт этого предмета покупается у любого торговца Mystic Forge; для изготовления нужен уровень артифактора 400."
 "A gift of entertainment used to create legendary weapons Quip and The Moot.
 
 Purchase the recipe for this item from any Mystic Forge vendor and reach an armorsmith rating of 400 to craft.","Дар веселья, используемый для создания легендарного оружия «Quip» и «The Moot».
 
-Рецепт этого предмета покупается у любого торговца Мистической кузницы; для изготовления нужен уровень бронника 400."
+Рецепт этого предмета покупается у любого торговца Mystic Forge; для изготовления нужен уровень бронника 400."
 "A gift of fortune used to create legendary weapons.
 
 Made by combining these items in the Mystic Forge:
@@ -803,7 +803,7 @@ Made by combining these items in the Mystic Forge:
 • 1 Gift of Might
 • 1 Gift of Magic","Дар удачи, используемый для создания легендарного оружия.
 
-Создаётся соединением этих предметов в Мистической кузнице:
+Создаётся соединением этих предметов в Mystic Forge:
 • 77 Mystic Clovers
 • 250 Globs of Ectoplasm
 • 1 Gift of Might
@@ -812,57 +812,57 @@ Made by combining these items in the Mystic Forge:
 
 Purchase the recipe for this item from any Mystic Forge vendor and reach a tailor rating of 400 to craft.","Дар истории, используемый для создания «The Flameseeker Prophecies».
 
-Рецепт этого предмета покупается у любого торговца Мистической кузницы; для изготовления нужен уровень портного 400."
+Рецепт этого предмета покупается у любого торговца Mystic Forge; для изготовления нужен уровень портного 400."
 "A gift of ice used to create Frostfang.
 
 Purchase the recipe for this item from any Mystic Forge vendor and reach a jeweler rating of 400 to craft.","Дар льда, используемый для создания «Frostfang».
 
-Рецепт этого предмета покупается у любого торговца Мистической кузницы; для изготовления нужен уровень ювелира 400."
+Рецепт этого предмета покупается у любого торговца Mystic Forge; для изготовления нужен уровень ювелира 400."
 "A gift of light used to create Sunrise and Endless Summer.
 
 Purchase the recipe for this item from any Mystic Forge vendor and reach an armorsmith rating of 400 to craft.","Дар света, используемый для создания «Sunrise» и «Endless Summer».
 
-Рецепт этого предмета покупается у любого торговца Мистической кузницы; для изготовления нужен уровень бронника 400."
+Рецепт этого предмета покупается у любого торговца Mystic Forge; для изготовления нужен уровень бронника 400."
 "A gift of lightning used to create Bolt.
 
 Purchase the recipe for this item from any Mystic Forge vendor and reach an artificer rating of 400 to craft.","Дар молнии, используемый для создания «Bolt».
 
-Рецепт этого предмета покупается у любого торговца Мистической кузницы; для изготовления нужен уровень артифактора 400."
+Рецепт этого предмета покупается у любого торговца Mystic Forge; для изготовления нужен уровень артифактора 400."
 "A gift of metal used to create generation one and two legendary weapons and the legendary back item Ad Infinitum.
 
 Purchase the recipe for this item from any Mystic Forge vendor and reach a weaponsmith rating of 400 to craft.","Дар металла, используемый для создания легендарного оружия первого и второго поколений, а также легендарного наспинного предмета «Ad Infinitum».
 
-Рецепт этого предмета покупается у любого торговца Мистической кузницы; для изготовления нужен уровень оружейника 400."
+Рецепт этого предмета покупается у любого торговца Mystic Forge; для изготовления нужен уровень оружейника 400."
 "A gift of music used to create The Minstrel.
 
 Purchase the recipe for this item from any Mystic Forge vendor and reach a jeweler rating of 400 to craft.","Дар музыки, используемый для создания «The Minstrel».
 
-Рецепт этого предмета покупается у любого торговца Мистической кузницы; для изготовления нужен уровень ювелира 400."
+Рецепт этого предмета покупается у любого торговца Mystic Forge; для изготовления нужен уровень ювелира 400."
 "A gift of nature used to create Kudzu.
 
 Purchase the recipe for this item from any Mystic Forge vendor and reach a leatherworker rating of 400 to craft.","Дар природы, используемый для создания «Kudzu».
 
-Рецепт этого предмета покупается у любого торговца Мистической кузницы; для изготовления нужен уровень кожевника 400."
+Рецепт этого предмета покупается у любого торговца Mystic Forge; для изготовления нужен уровень кожевника 400."
 "A gift of stealth used to create The Predator.
 
 Purchase the recipe for this item from any Mystic Forge vendor and reach a leatherworker rating of 400 to craft.","Дар невидимости, используемый для создания «The Predator».
 
-Рецепт этого предмета покупается у любого торговца Мистической кузницы; для изготовления нужен уровень кожевника 400."
+Рецепт этого предмета покупается у любого торговца Mystic Forge; для изготовления нужен уровень кожевника 400."
 "A gift of water used to craft Frenzy.
 
 Purchase the recipe for this item from any Mystic Forge vendor and reach a chef rating of 400 to craft.","Дар воды, используемый для создания «Frenzy».
 
-Рецепт этого предмета покупается у любого торговца Мистической кузницы; для изготовления нужен уровень повара 400."
+Рецепт этого предмета покупается у любого торговца Mystic Forge; для изготовления нужен уровень повара 400."
 "A gift of weather used to create Meteorlogicus.
 
 Purchase the recipe for this item from any Mystic Forge vendor and reach an armorsmith rating of 400 to craft.","Дар погоды, используемый для создания «Meteorlogicus».
 
-Рецепт этого предмета покупается у любого торговца Мистической кузницы; для изготовления нужен уровень бронника 400."
+Рецепт этого предмета покупается у любого торговца Mystic Forge; для изготовления нужен уровень бронника 400."
 "A gift of wood used to create generation one and two legendary weapons and the legendary back item Ad Infinitum.
 
 Purchase the recipe for this item from any Mystic Forge vendor and reach a huntsman rating of 400 to craft.","Дар дерева, используемый для создания легендарного оружия первого и второго поколений, а также легендарного наспинного предмета «Ad Infinitum».
 
-Рецепт этого предмета покупается у любого торговца Мистической кузницы; для изготовления нужен уровень охотника 400."
+Рецепт этого предмета покупается у любого торговца Mystic Forge; для изготовления нужен уровень охотника 400."
 A gift that a dog thoughtfully brought for you. Double-click to open.,"Подарок, который пёс заботливо тебе принёс. Дважды щёлкните, чтобы открыть."
 "A gift used in legendary crafting.
 
@@ -875,7 +875,7 @@ To create the Gift of War Prosperity, combine this in the Mystic Forge with:
 
 Получается на пути наград «Gift of Battle» в WvW.
 
-Чтобы создать Gift of War Prosperity, соедините его в Мистической кузнице с:
+Чтобы создать Gift of War Prosperity, соедините его в Mystic Forge с:
 • 15 Mystic Clovers
 • 1 Gift of Condensed Might
 • 1 Gift of Condensed Magic"
@@ -895,7 +895,7 @@ Made by combining these items in the Mystic Forge:
 • 1 Gift of Exploration
 • 1 Gift of Battle","Дар, используемый для создания легендарного оружия.
 
-Создаётся соединением этих предметов в Мистической кузнице:
+Создаётся соединением этих предметов в Mystic Forge:
 • 1 Bloodstone Shard
 • 250 Obsidian Shards
 • 1 Gift of Exploration
@@ -908,7 +908,7 @@ Made by combining these items in the Mystic Forge:
 • 250 Elaborate Totems
 • 250 Piles of Crystalline Dust","Дар, используемый для создания легендарного оружия.
 
-Создаётся соединением этих предметов в Мистической кузнице:
+Создаётся соединением этих предметов в Mystic Forge:
 • 250 Vials of Powerful Blood
 • 250 Powerful Venom Sacs
 • 250 Elaborate Totems
@@ -921,7 +921,7 @@ Made by combining these items in the Mystic Forge:
 • 250 Vicious Claws
 • 250 Ancient Bones","Дар, используемый для создания легендарного оружия.
 
-Создаётся соединением этих предметов в Мистической кузнице:
+Создаётся соединением этих предметов в Mystic Forge:
 • 250 Vicious Fangs
 • 250 Armored Scales
 • 250 Vicious Claws
@@ -940,7 +940,7 @@ Made by combining these items in the Mystic Forge:
 • 100 Icy Runestones
 • 1 Superior Sigil of Ice","Дар, используемый для создания легендарного топора «Frostfang».
 
-Создаётся соединением этих предметов в Мистической кузнице:
+Создаётся соединением этих предметов в Mystic Forge:
 • 1 Gift of Metal
 • 1 Gift of Ice
 • 100 Icy Runestones
@@ -953,7 +953,7 @@ Made by combining these items in the Mystic Forge:
 • 100 Icy Runestones
 • 1 Superior Sigil of Fire","Дар, используемый для создания легендарного кинжала «Incinerator».
 
-Создаётся соединением этих предметов в Мистической кузнице:
+Создаётся соединением этих предметов в Mystic Forge:
 • 1 Gift of Metal
 • 1 Vial of Liquid Flame
 • 100 Icy Runestones
@@ -966,7 +966,7 @@ Made by combining these items in the Mystic Forge:
 • 100 Icy Runestones
 • 1 Superior Sigil of Energy","Дар, используемый для создания легендарного фокуса «The Minstrel».
 
-Создаётся соединением этих предметов в Мистической кузнице:
+Создаётся соединением этих предметов в Mystic Forge:
 • 1 Gift of Energy
 • 1 Gift of Music
 • 100 Icy Runestones
@@ -979,7 +979,7 @@ Made by combining these items in the Mystic Forge:
 • 100 Icy Runestones
 • 1 Superior Sigil of Strength","Дар, используемый для создания легендарного двуручного меча «Sunrise».
 
-Создаётся соединением этих предметов в Мистической кузнице:
+Создаётся соединением этих предметов в Mystic Forge:
 • 1 Gift of Metal
 • 1 Gift of Light
 • 100 Icy Runestones
@@ -992,7 +992,7 @@ Made by combining these items in the Mystic Forge:
 • 100 Icy Runestones
 • 1 Superior Sigil of Blood","Дар, используемый для создания легендарного двуручного меча «Twilight».
 
-Создаётся соединением этих предметов в Мистической кузнице:
+Создаётся соединением этих предметов в Mystic Forge:
 • 1 Gift of Metal
 • 1 Gift of Darkness
 • 100 Icy Runestones
@@ -1005,7 +1005,7 @@ Made by combining these items in the Mystic Forge:
 • 1 100 Icy Runestones
 • 1 Superior Sigil of Benevolence","Дар, используемый для создания легендарного молота «The Juggernaut».
 
-Создаётся соединением этих предметов в Мистической кузнице:
+Создаётся соединением этих предметов в Mystic Forge:
 • 1 Gift of Metal
 • 1 Vial of Quicksilver
 • 1 100 Icy Runestones
@@ -1018,7 +1018,7 @@ Made by combining these items in the Mystic Forge:
 • 100 Icy Runestones
 • 1 Superior Sigil of Rage","Дар, используемый для создания легендарного гарпунного ружья «Frenzy».
 
-Создаётся соединением этих предметов в Мистической кузнице:
+Создаётся соединением этих предметов в Mystic Forge:
 • 1 Gift of Wood
 • 1 Gift of Water
 • 100 Icy Runestones
@@ -1031,7 +1031,7 @@ Made by combining these items in the Mystic Forge:
 • 100 Icy Runestones
 • 1 Superior Sigil of Celerity","Дар, используемый для создания легендарного длинного лука «Kudzu».
 
-Создаётся соединением этих предметов в Мистической кузнице:
+Создаётся соединением этих предметов в Mystic Forge:
 • 1 Gift of Wood
 • 1 Gift of Nature
 • 100 Icy Runestones
@@ -1044,7 +1044,7 @@ Made by combining these items in the Mystic Forge:
 • 100 Icy Runestones
 • 1 Superior Sigil of Energy","Дар, используемый для создания легендарной булавы «The Moot».
 
-Создаётся соединением этих предметов в Мистической кузнице:
+Создаётся соединением этих предметов в Mystic Forge:
 • 1 Gift of Metal
 • 1 Gift of Entertainment
 • 100 Icy Runestones
@@ -1057,7 +1057,7 @@ Made by combining these items in the Mystic Forge:
 • 100 Icy Runestones
 • 1 Superior Sigil of Stamina","Дар, используемый для создания легендарного пистолета «Quip».
 
-Создаётся соединением этих предметов в Мистической кузнице:
+Создаётся соединением этих предметов в Mystic Forge:
 • 1 Gift of Wood
 • 1 Gift of Entertainment
 • 100 Icy Runestones
@@ -1070,7 +1070,7 @@ Made by combining these items in the Mystic Forge:
 • 100 Icy Runestones
 • 1 Superior Sigil of Force","Дар, используемый для создания легендарной винтовки «The Predator».
 
-Создаётся соединением этих предметов в Мистической кузнице:
+Создаётся соединением этих предметов в Mystic Forge:
 • 1 Gift of Wood
 • 1 Gift of Stealth
 • 100 Icy Runestones
@@ -1083,7 +1083,7 @@ Made by combining these items in the Mystic Forge:
 • 100 Icy Runestones
 • 1 Superior Sigil of Air","Дар, используемый для создания легендарного скипетра «Meteorlogicus».
 
-Создаётся соединением этих предметов в Мистической кузнице:
+Создаётся соединением этих предметов в Mystic Forge:
 • 1 Gift of Energy
 • 1 Gift of Weather
 • 100 Icy Runestones
@@ -1096,7 +1096,7 @@ Made by combining these items in the Mystic Forge:
 • 100 Icy Runestones
 • 1 Superior Sigil of Battle","Дар, используемый для создания легендарного щита «The Flameseeker Prophecies».
 
-Создаётся соединением этих предметов в Мистической кузнице:
+Создаётся соединением этих предметов в Mystic Forge:
 • 1 Gift of Metal
 • 1 Gift of History
 • 100 Icy Runestones
@@ -1109,7 +1109,7 @@ Made by combining these items in the Mystic Forge:
 • 100 Icy Runestones
 • 1 Superior Sigil of Purity","Дар, используемый для создания легендарного короткого лука «The Dreamer».
 
-Создаётся соединением этих предметов в Мистической кузнице:
+Создаётся соединением этих предметов в Mystic Forge:
 • 1 Gift of Wood
 • 1 Unicorn Statue
 • 100 Icy Runestones
@@ -1122,7 +1122,7 @@ Made by combining these items in the Mystic Forge:
 • 100 Icy Runestones
 • 1 Superior Sigil of Agony","Дар, используемый для создания легендарного копья «Kamohoali'i Kotaki».
 
-Создаётся соединением этих предметов в Мистической кузнице:
+Создаётся соединением этих предметов в Mystic Forge:
 • 1 Gift of Metal
 • 1 Shark Statue
 • 100 Icy Runestones
@@ -1135,7 +1135,7 @@ Made by combining these items in the Mystic Forge:
 • 100 Icy Runestones
 • 1 Superior Sigil of Nullification","Дар, используемый для создания легендарного посоха «The Bifrost».
 
-Создаётся соединением этих предметов в Мистической кузнице:
+Создаётся соединением этих предметов в Mystic Forge:
 • 1 Gift of Energy
 • 1 Gift of Color
 • 100 Icy Runestones
@@ -1148,7 +1148,7 @@ Made by combining these items in the Mystic Forge:
 • 100 Icy Runestones
 • 1 Superior Sigil of Air","Дар, используемый для создания легендарного меча «Bolt».
 
-Создаётся соединением этих предметов в Мистической кузнице:
+Создаётся соединением этих предметов в Mystic Forge:
 • 1 Gift of Metal
 • 1 Gift of Lightning
 • 100 Icy Runestones
@@ -1161,7 +1161,7 @@ Made by combining these items in the Mystic Forge:
 • 100 Icy Runestones
 • 1 Superior Sigil of Fire","Дар, используемый для создания легендарного факела «Rodgort».
 
-Создаётся соединением этих предметов в Мистической кузнице:
+Создаётся соединением этих предметов в Mystic Forge:
 • 1 Gift of Wood
 • 1 Vial of Liquid Flame
 • 100 Icy Runestones
@@ -1174,7 +1174,7 @@ Made by combining these items in the Mystic Forge:
 • 100 Icy Runestones
 • 1 Superior Sigil of Venom","Дар, используемый для создания легендарного трезубца «Kraitkin».
 
-Создаётся соединением этих предметов в Мистической кузнице:
+Создаётся соединением этих предметов в Mystic Forge:
 • 1 Gift of Energy
 • 1 Eel Statue
 • 100 Icy Runestones
@@ -1187,7 +1187,7 @@ Made by combining these items in the Mystic Forge:
 • 100 Icy Runestones
 • 1 Superior Sigil of Accuracy","Дар, используемый для создания легендарного боевого рога «Howler».
 
-Создаётся соединением этих предметов в Мистической кузнице:
+Создаётся соединением этих предметов в Mystic Forge:
 • 1 Gift of Wood
 • 1 Wolf Statue
 • 100 Icy Runestones

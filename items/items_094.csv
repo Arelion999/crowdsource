@@ -220,8 +220,8 @@ Rejuvenating Warhorn,Омолаживающий боевой рог
 Rejuvenating Wool Insignia,Шерстяная инсигния омолаживающего
 Rejuvenation Booster,Усилитель восстановления
 Relic Chest,Сундук с реликвиями
-Relic Container: Astral Ward Advances Set 1,Контейнер с реликвиями: набор улучшений Астральной стражи 1
-Relic Container: Astral Ward Advances Set 2,Контейнер с реликвиями: набор улучшений Астральной стражи 2
+Relic Container: Astral Ward Advances Set 1,Контейнер с реликвиями: набор улучшений Astral Ward 1
+Relic Container: Astral Ward Advances Set 2,Контейнер с реликвиями: набор улучшений Astral Ward 2
 Relic Container: Conditions,Контейнер с реликвиями: состояния
 Relic Container: Power,Контейнер с реликвиями: сила
 Relic Container: Support,Контейнер с реликвиями: поддержка
@@ -278,7 +278,7 @@ Relic of the Adventurer,Реликвия искателя приключений
 Relic of the Afflicted,Реликвия страждущих
 Relic of the Alliance,Реликвия Альянса
 Relic of the Aristocracy,Реликвия аристократии
-Relic of the Astral Ward,Реликвия Астральной стражи
+Relic of the Astral Ward,Реликвия Astral Ward
 Relic of the Beehive,Реликвия улья
 Relic of the Biomancer,Реликвия биоманта
 Relic of the Blightbringer,Реликвия Носителя Чумы
@@ -364,14 +364,14 @@ Reliquary of the Raven Ceremonial Sandals,Реликварий церемони�
 Remains of the Giant Ice Elemental in Wayfarer Foothills.,Останки гигантского ледяного элементаля в Предгорьях Странника.
 Remains of the Mordrem Vinewrath in the Silverwastes.,Останки мордремского Лозогнева в Серебряных Пустошах.
 Remembrance Dye,Краска «Воспоминание»
-Remnant of a Bearkin War Helm. Used as a replacement for Bearkin War Helm in the Mystic Forge.,Остаток боевого шлема медведя. Используется как замена боевого шлема медведя в Мистической кузнице.
-Remnant of a Salmon of Knowledge Backpiece. Used as a replacement for Salmon of Knowledge Backpiece in the Mystic Forge.,Остаток наспинника «Лосось знаний». Используется как замена наспинника «Лосось знаний» в Мистической кузнице.
+Remnant of a Bearkin War Helm. Used as a replacement for Bearkin War Helm in the Mystic Forge.,Остаток боевого шлема медведя. Используется как замена боевого шлема медведя в Mystic Forge.
+Remnant of a Salmon of Knowledge Backpiece. Used as a replacement for Salmon of Knowledge Backpiece in the Mystic Forge.,Остаток наспинника «Лосось знаний». Используется как замена наспинника «Лосось знаний» в Mystic Forge.
 Remnant of Ascalon,Осколок Аскалона
-Remnants of a boneskinner's rib. Used as a replacement for the Boneskinner's Rib in the Mystic Forge.,Остатки ребра Костодёра. Используется как замена ребра Костодёра в Мистической кузнице.
-Remnants of a boneskinner's spine. Used as a replacement for the Boneskinner's Spine in the Mystic Forge.,Остатки позвоночника Костодёра. Используется как замена позвоночника Костодёра в Мистической кузнице.
-Remnants of a boneskinner's totem. Used as a replacement for the Boneskinner's Totem in the Mystic Forge.,Остатки тотема Костодёра. Используется как замена тотема Костодёра в Мистической кузнице.
-Remnants of a Standing Stones Timepiece. Used as a replacement for the Standing Stones Timepiece in the Mystic Forge.,Остатки часов Стоячих Камней. Используется как замена часов Стоячих Камней в Мистической кузнице.
-Remnants of an Askur Camping Cookout Backpiece. Used as a replacement for the Askur Camping Cookout Backpiece in the Mystic Forge.,Остатки наспинника «Походный пикник Аскура». Используется как замена наспинника «Походный пикник Аскура» в Мистической кузнице.
+Remnants of a boneskinner's rib. Used as a replacement for the Boneskinner's Rib in the Mystic Forge.,Остатки ребра Костодёра. Используется как замена ребра Костодёра в Mystic Forge.
+Remnants of a boneskinner's spine. Used as a replacement for the Boneskinner's Spine in the Mystic Forge.,Остатки позвоночника Костодёра. Используется как замена позвоночника Костодёра в Mystic Forge.
+Remnants of a boneskinner's totem. Used as a replacement for the Boneskinner's Totem in the Mystic Forge.,Остатки тотема Костодёра. Используется как замена тотема Костодёра в Mystic Forge.
+Remnants of a Standing Stones Timepiece. Used as a replacement for the Standing Stones Timepiece in the Mystic Forge.,Остатки часов Стоячих Камней. Используется как замена часов Стоячих Камней в Mystic Forge.
+Remnants of an Askur Camping Cookout Backpiece. Used as a replacement for the Askur Camping Cookout Backpiece in the Mystic Forge.,Остатки наспинника «Походный пикник Аскура». Используется как замена наспинника «Походный пикник Аскура» в Mystic Forge.
 Remove a condition from affected allies after using a <c=@abilitytype>shout</c> skill.,Снимает состояние с затронутых союзников после использования навыка <c=@abilitytype>крика</c>.
 Remove a nondamaging condition whenever you evade an attack.,Снимает не наносящее урон состояние при уклонении от атаки.
 Removing a condition from yourself heals you.,Снятие состояния с себя исцеляет вас.
@@ -416,7 +416,7 @@ Double-click to activate.","Упаковывает усиления в ваше�
 Дважды щёлкните для активации."
 Repair Hammer,Ремонтный молот
 Repair materials used by the skritt brewmaster in Quandry Scratch.,"Материалы для ремонта, которыми пользуется скритт-пивовар в Царапине Недоумения."
-"Replaces Elonian wine in some Mystic Forge recipes involving slivers, fragments, shards, and cores.","Заменяет элонийское вино в некоторых рецептах Мистической кузницы, включающих осколки, фрагменты, обломки и ядра."
+"Replaces Elonian wine in some Mystic Forge recipes involving slivers, fragments, shards, and cores.","Заменяет элонийское вино в некоторых рецептах Mystic Forge, включающих осколки, фрагменты, обломки и ядра."
 Replica Job-o-Tron Backpack,Реплика рюкзака Джоб-о-Трон
 Replica Mirror of Lyssa Skin,Облик «Копия зеркала Лиссы»
 Replica of the Jade Throne,Копия Нефритового трона
