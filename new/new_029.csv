@@ -106,7 +106,7 @@ Took Out Joon's Final Defenses in the Alotted Time,Последние укреп
 Took Out Mai Trin in the Alloted Time,Май Трин повержена в отведённое время
 Took Out One of the Bava Nisos Titan's Vital Organs,Уничтожен один из жизненно важных органов титана Бава Нисос
 Took a Nap at the Astral Ward Camp,Вздремнул в лагере Астральной стражи
-Took a Seat after Arriving in Inner Nayos,Присел по прибытии во Внутренний Найос
+Took a Seat after Arriving in Inner Nayos,Присел по прибытии в Inner Nayos
 Took out Ankka in the Alotted Time,Анкка повержена в отведённое время
 Took out the Dragonvoid in the Allotted Time,Драконья Пустота повержена в отведённое время
 Tookoonee,Тукуни
@@ -150,9 +150,9 @@ Tournament Title Scroll[s]: Mist Champion,Свиток[|а|ов] турнирн�
 Tournament Title Scroll[s]: Tournament Test Subject,Свиток[|а|ов] турнирного титула: «Подопытный турнира»
 Tournament Title Scroll[s]: Triumphant Trio,Свиток[|а|ов] турнирного титула: «Триумфальное трио»
 Tower Lord,Владыка башни
-Tower of Nightmares Destroyed,Башня Кошмаров уничтожена
-Tower of Nightmares Destroyed with Logic,Башня Кошмаров уничтожена логикой
-Tower of Nightmares Violently Destroyed,Башня Кошмаров уничтожена силой
+Tower of Nightmares Destroyed,Tower of Nightmares уничтожена
+Tower of Nightmares Destroyed with Logic,Tower of Nightmares уничтожена логикой
+Tower of Nightmares Violently Destroyed,Tower of Nightmares уничтожена силой
 Tower of Tribulation,Башня Испытаний
 Towers Destroyed,Башни уничтожены
 "Town Record, 1069 AE","Городская летопись, 1069 ПИ"
@@ -194,7 +194,7 @@ Trader Jan,Торговец Ян
 Trader Sidney,Торговец Сидни
 Trader Vell,Торговец Велл
 Trades Rift Essence for Useful Items,Меняет эссенцию разломов на полезные предметы
-"Trahearne has suggested that Malyck speak with Amaranda, a scholar of the Dream. Perhaps if Malyck can remember his Dream, he can explain how he became separated from the Pale Tree.","Трихерн предложил, чтобы Малик поговорил с Амарандой, знатоком Грёзы. Возможно, если Малик вспомнит свою Грёзу, он сможет объяснить, как оказался оторван от Бледного Древа."
+"Trahearne has suggested that Malyck speak with Amaranda, a scholar of the Dream. Perhaps if Malyck can remember his Dream, he can explain how he became separated from the Pale Tree.","Трихерн предложил, чтобы Малик поговорил с Амарандой, знатоком Грёзы. Возможно, если Малик вспомнит свою Грёзу, он сможет объяснить, как оказался оторван от Pale Tree."
 Trailing Terror,Крадущийся ужас
 Train all you want. It'll never really prepare you for war.,Тренируйся сколько угодно. По-настоящему к войне это не подготовит.
 Trained %num1%/%num2% Crafting Discipline[s],Освоено %num1%/%num2% [ремесленную дисциплину|ремесленные дисциплины|ремесленных дисциплин]
@@ -252,7 +252,7 @@ Travel to Lower Level,Перейти на нижний уровень
 Travel to Upper Level,Перейти на верхний уровень
 Travel to World,Перейти в мир
 Travel to Zinder Slope and speak with Seer Amaranda.,Отправляйтесь на склон Зиндер и поговорите с провидицей Амарандой.
-Travel to the Black Citadel to debrief with the representatives of the orders of Tyria.,Отправляйтесь в Чёрную Цитадель на разбор с представителями орденов Тирии.
+Travel to the Black Citadel to debrief with the representatives of the orders of Tyria.,Отправляйтесь в Black Citadel на разбор с представителями орденов Тирии.
 Travel to the Durmand Priory in Lornar's Pass and Infuse the Artifact with the Heart of the Priory,Отправляйтесь в Durmand Priory на Lornar's Pass и напитайте артефакт Сердцем Приората
 Travel to the fortress of Ebonhawke and assist Warmaster Forgal.,Отправляйтесь в крепость Эбонхок и помогите военачальнику Форгалу.
 Traveled Across Dragon's Stand by Wallow,Драконья Твердыня пересечена на валлоу
@@ -339,8 +339,8 @@ Tygor Mindflayer,Тайгор Свежеватель Разума
 Tyler's House,Дом Тайлера
 Tyrant's Contempt,Презрение тирана
 Tyrant's Teeth,Зубы тирана
-Tyrian Alliance Report: Impact on Underwater Societies after Soo-Won,Отчёт Тирийского альянса: последствия для подводных сообществ после Су-Вон
-Tyrian Alliance Report: Orr Resettlement,Отчёт Тирийского альянса: заселение Орра
+Tyrian Alliance Report: Impact on Underwater Societies after Soo-Won,Отчёт Tyrian Alliance: последствия для подводных сообществ после Су-Вон
+Tyrian Alliance Report: Orr Resettlement,Отчёт Tyrian Alliance: заселение Орра
 Tyrian Alliance Report: Questions about the Astral Ward,Отчёт Tyrian Alliance: вопросы об Astral Ward
 Uenno. Tone.,Уэнно. Тон.
 "Ugh, grawl make my skin...crawl. (laugh) Sorry. This is no time for jokes. Just let me know when you're ready to depart.","Фу, от граулов у меня мурашки... по коже. (смеётся) Прости. Не время для шуток. Просто скажи, когда будешь готов выдвигаться."
@@ -420,26 +420,26 @@ Unlock %num2% cat golem miniatures.,Разблокируйте %num2% миниа
 Unlock %num2% special missions by using Charr Intel Documents and Enemy Intel Documents.,"Разблокируйте %num2% особых заданий, используя разведдокументы чарров и вражеские разведдокументы."
 Unlock %num2% special missions by using Special Mission Documents and Legion Special Mission Documents.,"Разблокируйте %num2% особых заданий, используя документы особых заданий и документы особых заданий легиона."
 Unlock %num2% spirit weapons in your wardrobe.,Разблокируйте %num2% духовных оружий в своём гардеробе.
-"Unlock all %num2% Abomination weapon skins by finding them in Inner Nayos events, Secrets of the Obscure Strike Missions, and Convergences or by purchasing them from the Trading Post and binding them to you.","Разблокируйте все %num2% обликов оружия «Мерзость», находя их в событиях Внутреннего Найоса, ударных миссиях Тайн Сокрытого и Схождениях либо купив их на торговом посту и привязав к себе."
+"Unlock all %num2% Abomination weapon skins by finding them in Inner Nayos events, Secrets of the Obscure Strike Missions, and Convergences or by purchasing them from the Trading Post and binding them to you.","Разблокируйте все %num2% обликов оружия «Мерзость», находя их в событиях Inner Nayos, ударных миссиях Тайн Сокрытого и Схождениях либо купив их на Trading Post и привязав к себе."
 Unlock all %num2% Abyssal Fractal weapon skins in your wardrobe.,Разблокируйте все %num2% обликов оружия «Бездонный фрактал» в своём гардеробе.
 Unlock all %num2% Aetherized weapon skins in your wardrobe.,Разблокируйте все %num2% обликов эфиризованного оружия в своём гардеробе.
 Unlock all %num2% Alliance Field Operative armor skins.,Разблокируйте все %num2% обликов брони полевого оперативника Альянса.
 Unlock all %num2% Ambrite weapons in your wardrobe.,Разблокируйте все %num2% амбритовых оружий в своём гардеробе.
 Unlock all %num2% Auric weapon skins in your wardrobe.,Разблокируйте все %num2% обликов аурического оружия в своём гардеробе.
 Unlock all %num2% Bladed armor skins in your wardrobe.,Разблокируйте все %num2% обликов клинковой брони в своём гардеробе.
-Unlock all %num2% Blood Moon weapon skins from Convergences: Mount Balrior in Janthir Wilds or by purchasing them from the Trading Post and binding them to you.,Разблокируйте все %num2% обликов оружия «Blood Moon» в Схождениях: гора Балриор в Диких землях Джантира либо купив их на торговом посту и привязав к себе.
+Unlock all %num2% Blood Moon weapon skins from Convergences: Mount Balrior in Janthir Wilds or by purchasing them from the Trading Post and binding them to you.,Разблокируйте все %num2% обликов оружия «Blood Moon» в Схождениях: гора Балриор в Диких землях Джантира либо купив их на Trading Post и привязав к себе.
 Unlock all %num2% Branded weapon skins in your wardrobe.,Разблокируйте все %num2% обликов клеймёного оружия в своём гардеробе.
 Unlock all %num2% Charged Stormcaller Weapon skins in your wardrobe.,Разблокируйте все %num2% обликов оружия «Заряжённый зов бури» в своём гардеробе.
-Unlock all %num2% Chromatic Resin weapon skins by completing events in Castora or by purchasing them from the Trading Post and binding them to you.,"Разблокируйте все %num2% обликов оружия «Хроматическая смола», завершая события на Касторе либо купив их на торговом посту и привязав к себе."
+Unlock all %num2% Chromatic Resin weapon skins by completing events in Castora or by purchasing them from the Trading Post and binding them to you.,"Разблокируйте все %num2% обликов оружия «Хроматическая смола», завершая события на Касторе либо купив их на Trading Post и привязав к себе."
 Unlock all %num2% Collapsing Star weapon skins in your wardrobe.,Разблокируйте все %num2% обликов оружия «Схлопывающаяся звезда» в своём гардеробе.
 Unlock all %num2% Daydreamer's weapon skins in your wardrobe.,Разблокируйте все %num2% обликов оружия «Мечтатель» в своём гардеробе.
 Unlock all %num2% Destroyer weapon skins in your wardrobe.,Разблокируйте все %num2% обликов оружия разрушителей в своём гардеробе.
 Unlock all %num2% Dominion Tribune Weapon skins in your wardrobe.,Разблокируйте все %num2% обликов оружия трибуна Доминиона в своём гардеробе.
-Unlock all %num2% Eagle Eye weapon skins by completing events and looting chests in Skywatch Archipelago or purchasing them from the trading post and binding them to you.,"Разблокируйте все %num2% обликов оружия «Eagle Eye», завершая события и собирая сундуки в архипелаге Небесного Дозора либо купив их на торговом посту и привязав к себе."
+Unlock all %num2% Eagle Eye weapon skins by completing events and looting chests in Skywatch Archipelago or purchasing them from the trading post and binding them to you.,"Разблокируйте все %num2% обликов оружия «Eagle Eye», завершая события и собирая сундуки в архипелаге Небесного Дозора либо купив их на Trading Post и привязав к себе."
 Unlock all %num2% Extremis armor skins.,Разблокируйте все %num2% обликов брони «Экстремис».
-Unlock all %num2% Fast Constructor's weapon skins by completing Shipwreck Strand content or by purchasing them from the Trading Post and binding them to you.,"Разблокируйте все %num2% обликов оружия «Скорый строитель», проходя содержимое Берега Кораблекрушений либо купив их на торговом посту и привязав к себе."
+Unlock all %num2% Fast Constructor's weapon skins by completing Shipwreck Strand content or by purchasing them from the Trading Post and binding them to you.,"Разблокируйте все %num2% обликов оружия «Скорый строитель», проходя содержимое Берега Кораблекрушений либо купив их на Trading Post и привязав к себе."
 Unlock all %num2% Forge Guard's armor skins.,Разблокируйте все %num2% обликов брони «Страж кузни».
-Unlock all %num2% Full Moon weapon skins by completing events in Janthir Syntri or by purchasing them from the Trading Post and binding them to you.,"Разблокируйте все %num2% обликов оружия «Полная луна», завершая события в Джантир Синтри либо купив их на торговом посту и привязав к себе."
+Unlock all %num2% Full Moon weapon skins by completing events in Janthir Syntri or by purchasing them from the Trading Post and binding them to you.,"Разблокируйте все %num2% обликов оружия «Полная луна», завершая события в Джантир Синтри либо купив их на Trading Post и привязав к себе."
 Unlock all %num2% Glitched Adventure weapon skins in your wardrobe.,Разблокируйте все %num2% обликов оружия «Сбойное приключение» в своём гардеробе.
 Unlock all %num2% Glittering weapon skins in your wardrobe.,Разблокируйте все %num2% обликов мерцающего оружия в своём гардеробе.
 Unlock all %num2% Illuminated Boreal Weapon skins in your wardrobe.,Разблокируйте все %num2% обликов оружия «Озарённый бореал» в своём гардеробе.
@@ -455,21 +455,21 @@ Unlock all %num2% Privateer weapon skins in your wardrobe.,Разблокиру�
 Unlock all %num2% Restless Captain's armor pieces.,Разблокируйте все %num2% предметов брони «Неупокоенный капитан».
 Unlock all %num2% Rimed Verdant weapon skins in your wardrobe.,Разблокируйте все %num2% обликов оружия «Заиндевелая зелень» в своём гардеробе.
 Unlock all %num2% Royal Flame weapon skins in your wardrobe.,Разблокируйте все %num2% обликов оружия «Королевское пламя» в своём гардеробе.
-Unlock all %num2% Saryx weapon skins by completing events and looting chests in Inner Nayos or by purchasing them from the Trading Post and binding them to you.,"Разблокируйте все %num2% обликов оружия «Сарикс», завершая события и собирая сундуки во Внутреннем Найосе либо купив их на торговом посту и привязав к себе."
-Unlock all %num2% Scavenged Obsidian weapon skins from Janthir Wilds or by purchasing them from the Trading Post and binding them to you.,Разблокируйте все %num2% обликов оружия «Собранный обсидиан» в Диких землях Джантира либо купив их на торговом посту и привязав к себе.
+Unlock all %num2% Saryx weapon skins by completing events and looting chests in Inner Nayos or by purchasing them from the Trading Post and binding them to you.,"Разблокируйте все %num2% обликов оружия «Сарикс», завершая события и собирая сундуки в Inner Nayos либо купив их на Trading Post и привязав к себе."
+Unlock all %num2% Scavenged Obsidian weapon skins from Janthir Wilds or by purchasing them from the Trading Post and binding them to you.,Разблокируйте все %num2% обликов оружия «Собранный обсидиан» в Диких землях Джантира либо купив их на Trading Post и привязав к себе.
 Unlock all %num2% Sea-Glass Wave weapon skins by earning them in Janthir Wilds raids or by purchasing them from specific vendors.,"Разблокируйте все %num2% обликов оружия «Волна морского стекла», заработав их в рейдах Диких земель Джантира либо купив у определённых торговцев."
-Unlock all %num2% Seer-Enchanted weapon skins by completing Visions of Eternity content or by purchasing them from the Trading Post and binding them to you.,"Разблокируйте все %num2% обликов оружия «Зачарованное провидцами», проходя содержимое Видений Вечности либо купив их на торговом посту и привязав к себе."
-Unlock all %num2% Serpent's Wrath weapon skins by defeating champions in Janthir Wilds maps or by purchasing them from the Trading Post and binding them to you.,"Разблокируйте все %num2% обликов оружия «Гнев змея», побеждая чемпионов на картах Диких земель Джантира либо купив их на торговом посту и привязав к себе."
-Unlock all %num2% Shattered weapon skins by defeating champions and looting chests in the Horn of Maguuma or purchasing them from the trading post and binding them to you.,"Разблокируйте все %num2% обликов оружия «Расколотое», побеждая чемпионов и собирая сундуки в Роге Магуумы либо купив их на торговом посту и привязав к себе."
+Unlock all %num2% Seer-Enchanted weapon skins by completing Visions of Eternity content or by purchasing them from the Trading Post and binding them to you.,"Разблокируйте все %num2% обликов оружия «Зачарованное провидцами», проходя содержимое Видений Вечности либо купив их на Trading Post и привязав к себе."
+Unlock all %num2% Serpent's Wrath weapon skins by defeating champions in Janthir Wilds maps or by purchasing them from the Trading Post and binding them to you.,"Разблокируйте все %num2% обликов оружия «Гнев змея», побеждая чемпионов на картах Диких земель Джантира либо купив их на Trading Post и привязав к себе."
+Unlock all %num2% Shattered weapon skins by defeating champions and looting chests in the Horn of Maguuma or purchasing them from the trading post and binding them to you.,"Разблокируйте все %num2% обликов оружия «Расколотое», побеждая чемпионов и собирая сундуки в Роге Магуумы либо купив их на Trading Post и привязав к себе."
 Unlock all %num2% Shifting Sands weapon skins in your wardrobe.,Разблокируйте все %num2% обликов оружия «Shifting Sands» в своём гардеробе.
 Unlock all %num2% Sinful weapon skins by completing Strike Missions in Secrets of the Obscure.,"Разблокируйте все %num2% обликов оружия «Греховное», завершая ударные миссии в Тайнах Сокрытого."
-Unlock all %num2% Skyforged weapon skins by completing events and looting chests in Amnytas or purchasing them from the trading post and binding them to you.,"Разблокируйте все %num2% обликов оружия «Небокованое», завершая события и собирая сундуки в Амнитасе либо купив их на торговом посту и привязав к себе."
+Unlock all %num2% Skyforged weapon skins by completing events and looting chests in Amnytas or purchasing them from the trading post and binding them to you.,"Разблокируйте все %num2% обликов оружия «Небокованое», завершая события и собирая сундуки в Амнитасе либо купив их на Trading Post и привязав к себе."
 Unlock all %num2% Skyscale weapon skins by using motivations in tier-3 rift hunts.,"Разблокируйте все %num2% обликов оружия «Скайскейл», используя побуждения в охотах на разломы 3-го уровня."
 Unlock all %num2% Storm Wizard weapon skins in your wardrobe.,Разблокируйте все %num2% обликов оружия «Волшебник бури» в своём гардеробе.
-Unlock all %num2% Strelitzia Crystallinum weapon skins by completing Starlit Weald map content or by purchasing them from the Trading Post and binding them to you.,"Разблокируйте все %num2% обликов оружия «Стрелиция кристаллинум», проходя содержимое карты Звёздной Рощи либо купив их на торговом посту и привязав к себе."
+Unlock all %num2% Strelitzia Crystallinum weapon skins by completing Starlit Weald map content or by purchasing them from the Trading Post and binding them to you.,"Разблокируйте все %num2% обликов оружия «Стрелиция кристаллинум», проходя содержимое карты Звёздной Рощи либо купив их на Trading Post и привязав к себе."
 Unlock all %num2% Tempest weapon skins in your wardrobe.,Разблокируйте все %num2% обликов оружия «Буря» в своём гардеробе.
 Unlock all %num2% Thundercrag weapon skins in your wardrobe.,Разблокируйте все %num2% обликов оружия «Громовая скала» в своём гардеробе.
-Unlock all %num2% Ursan Ornamented weapon skins by completing events in Lowland Shore or by purchasing them from the Trading Post and binding them to you.,"Разблокируйте все %num2% обликов оружия «Медвежий узор», завершая события на Низинном Берегу либо купив их на торговом посту и привязав к себе."
+Unlock all %num2% Ursan Ornamented weapon skins by completing events in Lowland Shore or by purchasing them from the Trading Post and binding them to you.,"Разблокируйте все %num2% обликов оружия «Медвежий узор», завершая события на Lowland Shore либо купив их на Trading Post и привязав к себе."
 Unlock all %num2% Vigil's Honor weapon and armor skins.,Разблокируйте все %num2% обликов оружия и брони «Честь Дозора».
 Unlock all %num2% Whisper's Secret weapon and armor skins.,Разблокируйте все %num2% обликов оружия и брони «Whisper's Secret».
 Unlock all %num2% Winter's weapon skins in your wardrobe.,Разблокируйте все %num2% обликов зимнего оружия в своём гардеробе.

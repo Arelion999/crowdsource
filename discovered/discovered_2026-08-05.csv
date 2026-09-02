@@ -386,7 +386,7 @@ All tips support [CommonMark](https://commonmark.org/help/) markdown.","Тепе
 "Steal health from enemies when you or your pet disable them.<br><c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Восстанавливайте здоровье, нанося урон врагам, когда вы или ваш питомец обездвиживаете их.<br><c=@reminder>Обездвиживание включает в себя оглушение, ошеломление, отталкивание, притягивание, нокдаун, погружение, всплытие, отбрасывание, провокацию и страх.</c>"
 "Complete achievements throughout Inner Nayos, or take a break to enjoy a few adventures.
 
-(Note: The Mastery point is a reward for partial completion of this achievement.)","Выполняйте задания в Внутреннем Найосе или отдохните и отправьтесь в небольшое приключение.
+(Note: The Mastery point is a reward for partial completion of this achievement.)","Выполняйте задания в Inner Nayos или отдохните и отправьтесь в небольшое приключение.
 
 (Примечание: очки мастерства начисляются за частичное выполнение этого достижения)."
 "Earn a gold medal in the Reuniting Lost Kryptis adventure.
@@ -413,7 +413,7 @@ Defeated the Claw of Jormag,Победили Коготь Йормаги
 <c=@reminder>Навыки можно изучать на вкладке «Обучение» панели героя, тратя очки героя. </c>"
 "View %num1%/%num2% vista[s] in Snowden Drifts, Diessa Plateau, Brisban Wildlands, or Kessex Hills.
 
-<c=@reminder>Vistas are scenic locations that show the world from a new perspective, and they are marked with a red triangle icon on the map.</c>","Осмотрите %num1%/%num2% [вид|вида|видов] в Сноуденских пустошах, на плато Диесса, в Брисбанских диких землях или в Кессекских холмах.
+<c=@reminder>Vistas are scenic locations that show the world from a new perspective, and they are marked with a red triangle icon on the map.</c>","Осмотрите %num1%/%num2% [вид|вида|видов] в Сноуденских пустошах, на Diessa Plateau, в Брисбанских диких землях или в Kessex Hills.
 
 <c=@reminder>Виды — это живописные места, с которых открывается новый вид на мир. На карте они отмечены красным треугольником.</c>"
 "View %num1%/%num2% vista[s] in Ruins of Orr or Frostgorge Sound.
@@ -674,7 +674,7 @@ Requires the Guild Wars 2: Janthir Wilds expansion to access this map.","Най�
 Requires Guild Wars 2: End of Dragons expansion to access this map.","Найдите других игроков, чтобы вместе исследовать New Kaineng.
 Для доступа к этой карте требуется дополнение Guild Wars 2: Конец Драконов."
 "Find others to help you explore the Echovald Wilds.
-Requires Guild Wars 2: End of Dragons expansion to access this map.","Найдите других игроков, чтобы вместе исследовать Эховальдские дебри.
+Requires Guild Wars 2: End of Dragons expansion to access this map.","Найдите других игроков, чтобы вместе исследовать Echovald Wilds.
 Для доступа к этой карте требуется дополнение Guild Wars 2: Конец Драконов."
 "Find others to help you explore Thunderhead Peaks!
 The Guild Wars 2: Path of Fire™ expansion and the Living World episode ""All or Nothing"" are required to access this map.","Найдите других игроков, чтобы вместе исследовать Thunderhead Peaks!
@@ -718,12 +718,12 @@ Unlock the siege turtle mount, jade bots, skiffs, fishing, nine new elite specia
 <c=@reminder>Опыт можно получить за победу над врагами, участие в событиях и выполнении заданий, прохождение сюжетных глав и создание предметов.</c>"
 "Defeat %num2% of the world bosses in Queensdale, Wayfarer Foothills, Metrica Province, or Caledon Forest.
 
-<c=@reminder>World bosses are challenging events that appear at specific times of day across Tyria. Defeat them to receive chests containing rare equipment and crafting materials. </c>","Победите %num2% мировых боссов в Квинсдейле, Уайфарер-Футхиллз, Метрической провинции или Каледонском лесу.
+<c=@reminder>World bosses are challenging events that appear at specific times of day across Tyria. Defeat them to receive chests containing rare equipment and crafting materials. </c>","Победите %num2% мировых боссов в Квинсдейле, Уайфарер-Футхиллз, Метрической провинции или Caledon Forest.
 
 <c=@reminder>Мировые боссы — это сложные события, которые происходят в определенное время суток по всей Тирии. Победите их, чтобы получить сундуки с редким снаряжением и материалами для крафта. </c>"
 "Speak with %num2% scouts in Queensdale, Metrica Province, Caledon Forest, Wayfarer Foothills, or the Plains of Ashford to discover more about the local area.
 
-<c=@reminder>Scouts appear with a spyglass icon on your map. They can point you toward nearby goals and landmarks when you speak to them.</c>","Поговорите с %num2% разведчиками в Квинсдейле, провинции Метрика, Каледонском лесу, Холмах Путника или на Равнинах Эшфорда, чтобы узнать больше о местности.
+<c=@reminder>Scouts appear with a spyglass icon on your map. They can point you toward nearby goals and landmarks when you speak to them.</c>","Поговорите с %num2% разведчиками в Квинсдейле, Metrica Province, Caledon Forest, Холмах Путника или на Plains of Ashford, чтобы узнать больше о местности.
 
 <c=@reminder> Разведчики отображаются на вашей карте значком подзорной трубы. Они могут указать вам ближайшие цели и достопримечательности, если вы с ними поговорите.</c>"
 "Use your utility skills %num2% time[s].
@@ -838,7 +838,7 @@ Unlock the siege turtle mount, jade bots, skiffs, fishing, nine new elite specia
 <c=@reminder>Mystic Forge преобразует предметы различными способами, включая повышение уровня материалов для крафта и улучшение снаряжения. Кузница доступна из крупных городов по всей Тирии.</c>"
 "Discover %num2% point[s] of interest in Queensdale, Metrica Province, Caledon Forest, Wayfarer Foothills, or the Plains of Ashford.
 
-<c=@reminder>Points of interest are special locations marked by name in the world, indicated by a square icon on the map. </c>","Откройте %num2% [интересное место|интересных места|интересных мест] в Квинсдейле, провинции Метрика, Каледонском лесу, Предгорьях Странника или равнинах Эшфорда.
+<c=@reminder>Points of interest are special locations marked by name in the world, indicated by a square icon on the map. </c>","Откройте %num2% [интересное место|интересных места|интересных мест] в Квинсдейле, Metrica Province, Caledon Forest, Wayfarer Foothills или Plains of Ashford.
 
 <c=@reminder>Интересные места — это особые локации, отмеченные на карте квадратным значком и выделенные названием. </c>"
 "View %num1%/%num2% vista[s].
@@ -873,7 +873,7 @@ Unlock the siege turtle mount, jade bots, skiffs, fishing, nine new elite specia
 <c=@reminder>После обучения у соответствующего мастера вы сможете создавать предметы на специальных станках в городах и гильдейских залах. Для создания предметов требуются материалы, которые можно найти на различных объектах и получить с побежденных врагов во время исследования мира.</c>"
 "Discover 5 points of interest in the Fields of Ruin, Blazeridge Steppes, Lornar's Pass, Dredgehaunt Cliffs, or the Harathi Hinterlands.
 
-<c=@reminder>Points of interest are special locations marked by name in the world, indicated by a square icon on the map. </c>","Найдите 5 интересных мест в Пустошах Руин, Равнинах Блейзерриджа, Проходе Лорнара, Скалах Дреджей или Харатиских Запустьях.
+<c=@reminder>Points of interest are special locations marked by name in the world, indicated by a square icon on the map. </c>","Найдите 5 интересных мест в Пустошах Руин, Равнинах Блейзерриджа, Проходе Лорнара, Dredgehaunt Cliffs или Харатиских Запустьях.
 
 <c=@reminder>Интересные места — это особые локации, отмеченные на карте квадратным значком и выделенные названием в игровом мире. </c>"
 "Discover 5 waypoints in Sparkfly Fen, Mount Maelstrom, Iron Marches, Fireheart Rise, or Timberline Falls.
@@ -883,12 +883,12 @@ Unlock the siege turtle mount, jade bots, skiffs, fishing, nine new elite specia
 <c=@reminder>Точки быстрого перемещения позволяют быстро путешествовать по миру. Они открываются после первого посещения. Вы можете телепортироваться к любой открытой точке быстрого перемещения за небольшую плату.</c>"
 "View %num1%/%num2% vista[s] in the Fields of Ruin, Blazeridge Steppes, Lornar's Pass, Dredgehaunt Cliffs, or the Harathi Hinterlands.
 
-<c=@reminder>Vistas are scenic locations that show the world from a new perspective, and they are marked with a red triangle icon on the map.</c>","Осмотрите %num1%/%num2% [вид|вида|видов] в Полях Руин, Высотницах Блейзерриджа, Проходе Лорнара, Скалах Дреджей или Харатиских Запустениях.
+<c=@reminder>Vistas are scenic locations that show the world from a new perspective, and they are marked with a red triangle icon on the map.</c>","Осмотрите %num1%/%num2% [вид|вида|видов] в Полях Руин, Высотницах Блейзерриджа, Проходе Лорнара, Dredgehaunt Cliffs или Харатиских Запустениях.
 
 <c=@reminder>Виды — это живописные места, с которых открывается новый вид на мир. На карте они отмечены красным треугольным значком.</c>"
 "Discover 5 waypoints in in the Fields of Ruin, Blazeridge Steppes, Lornar's Pass, Dredgehaunt Cliffs, or the Harathi Hinterlands.
 
-<c=@reminder>Waypoints allow you to travel quickly around the world. They are unlocked by visiting them once. You can teleport to any unlocked waypoint for a small amount of coin.</c>","Найдите 5 точек быстрого перемещения в Полях Руин, Степях Блейзридж, Проходе Лорнара, Скалах Дреджей или Harathi Hinterlands.
+<c=@reminder>Waypoints allow you to travel quickly around the world. They are unlocked by visiting them once. You can teleport to any unlocked waypoint for a small amount of coin.</c>","Найдите 5 точек быстрого перемещения в Полях Руин, Степях Блейзридж, Проходе Лорнара, Dredgehaunt Cliffs или Harathi Hinterlands.
 
 <c=@reminder>Точки быстрого перемещения позволяют быстро путешествовать по миру. Они открываются после однократного посещения. Вы можете телепортироваться к любой открытой точке быстрого перемещения за небольшую плату.</c>"
 "Earn 150 crafting levels.
@@ -1147,7 +1147,7 @@ Overheat now blasts damage to nearby foes and no longer deals its initial damage
 Gain health per unit of heat lost.<br><c=@reminder>This trait does not function while cooling due to an overheat unless Photonic Blasting Module is equipped.</c>,"Восстанавливайте здоровье за каждую единицу потерянного тепла.<br><c=@reminder>Эта черта не действует во время охлаждения из-за перегрева, если не оснащён модуль «Фотонный взрыв».</c>"
 "Complete %num2% renown heart[s] in the Fields of Ruin, Blazeridge Steppes, Lornar's Pass, Dredgehaunt Cliffs, or the Harathi Hinterlands.
 
-<c=@reminder>Renown hearts are marked with a golden heart icon on the map. Every renown heart is different, so check your HUD when nearby to find out how you can assist.</c>","Выполните %num2% [задание|задания|заданий] в локациях: Fields of Ruin, Равнины Блейзербридж, Lornar's Pass, Скалы Дреджей или Harathi Hinterlands.
+<c=@reminder>Renown hearts are marked with a golden heart icon on the map. Every renown heart is different, so check your HUD when nearby to find out how you can assist.</c>","Выполните %num2% [задание|задания|заданий] в локациях: Fields of Ruin, Равнины Блейзербридж, Lornar's Pass, Dredgehaunt Cliffs или Harathi Hinterlands.
 
 <c=@reminder>Задания отмечены на карте золотым значком сердца. Каждое задание уникально, поэтому, оказавшись рядом, проверьте интерфейс, чтобы узнать, чем вы можете помочь.</c>"
 "Earn experience to level up this character to level 70.
@@ -1182,7 +1182,7 @@ Gain health per unit of heat lost.<br><c=@reminder>This trait does not function 
 <c=@reminder>Ресурсные узлы — это скопления руды, саженцы и растения, которые можно собирать с помощью инструментов для сбора ресурсов. Узлы можно найти, исследуя мир.</c>"
 "Participate in %num2% event[s] in the Fields of Ruin, Blazeridge Steppes, Lornar's Pass, Dredgehaunt Cliffs, or the Harathi Hinterlands.
 
-<c=@reminder>You can find events while exploring the world. Events in progress are marked by an orange circle on your map when you're nearby.</c>","Участвуйте в %num2% [событии|событиях|событиях] в Пустошах Руин, Равнинах Блейзерриджа, Проходе Лорнара, Скалах Дреджей или Харатиских Заземьях.
+<c=@reminder>You can find events while exploring the world. Events in progress are marked by an orange circle on your map when you're nearby.</c>","Участвуйте в %num2% [событии|событиях|событиях] в Пустошах Руин, Равнинах Блейзерриджа, Проходе Лорнара, Dredgehaunt Cliffs или Харатиских Заземьях.
 
 <c=@reminder>Вы можете найти события, исследуя мир. Идющие события отмечены оранжевым кружком на карте, когда вы находитесь рядом.</c>"
 "Transmute %num2% item[s].
@@ -1207,12 +1207,12 @@ Gain health per unit of heat lost.<br><c=@reminder>This trait does not function 
 <c=@reminder>Опыт можно получить за победу над врагами, участие в событиях и выполнении заданий, прохождение сюжетных глав и создание предметов.</c>"
 "Discover 5 points of interest in Snowden Drifts, Diessa Plateau, Brisban Wildlands, or Kessex Hills.
 
-<c=@reminder>Points of interest are special locations marked by name in the world, indicated by a square icon on the map. </c>","Найдите 5 интересных мест в Сноуден Дрифтс, на плато Диесса, в Брисбан Уайлдлендс или в Кессекс Хиллз.
+<c=@reminder>Points of interest are special locations marked by name in the world, indicated by a square icon on the map. </c>","Найдите 5 интересных мест в Сноуден Дрифтс, на Diessa Plateau, в Брисбан Уайлдлендс или в Кессекс Хиллз.
 
 <c=@reminder>Интересные места — это особые локации, отмеченные названием на карте и выделенные квадратным значком. </c>"
 "Mine %num2% ore with a mining pick from resource nodes in Dredgehaunt Cliffs, Harathi Hinterlands, or Blazeridge Steppes.
 
-<c=@reminder>Resource nodes are clumps of ore, saplings, and plants that can be gathered using gathering tools. Nodes can be found by exploring the world.</c>","Добывайте %num2% руду с помощью кирки на ресурсных точках в Скалах Дреджей, Харатийских Загорьях или Равнинах Блейзерридж.
+<c=@reminder>Resource nodes are clumps of ore, saplings, and plants that can be gathered using gathering tools. Nodes can be found by exploring the world.</c>","Добывайте %num2% руду с помощью кирки на ресурсных точках в Dredgehaunt Cliffs, Харатийских Загорьях или Равнинах Блейзерридж.
 
 <c=@reminder>Ресурсные точки — это скопления руды, саженцы и растения, которые можно собирать с помощью инструментов для сбора ресурсов. Точки можно найти, исследуя мир.</c>"
 "Participate in %num2% event[s] in Sparkfly Fen, Mount Maelstrom, Iron Marches, Fireheart Rise, or Timberline Falls.
@@ -1282,7 +1282,7 @@ The Guild Wars 2: Heart of Thorns expansion and the Living World episode ""Out o
 
 —Сотрудник ArenaNet"
 "I learned many songs while tracing the steps of the heroes who ventured forth into the heart of the Maguuma Jungle.
-—Chief Melodist Flac","Я выучил много песен, следуя по стопам героев, отправившихся в самое сердце джунглей Магуума.
+—Chief Melodist Flac","Я выучил много песен, следуя по стопам героев, отправившихся в самое сердце Maguuma Jungle.
 —Главный мелодист Флак"
 "Many old medical reports point to some mass event where Tyrians woke up to a searing, white light while the symphony piece ""Overture"" blared in their minds. How fascinating!
 —Chief Melodist Flac","Многие старые медицинские отчёты указывают на некое массовое явление, когда жители Тирии просыпались от ослепительного белого света, а в их головах звучала музыкальная композиция «Увертюра». Как интересно!
@@ -1514,7 +1514,7 @@ Notes: No formal education but extremely gifted. Designed their own jade prosthe
 
 Статус: полный рабочий день
 
-Примечание: Не имеет формального образования, но обладает выдающимися способностями. Разработал собственный нефритовый протез. Ранее был связан с «Нефритовым братством», но отрицает какие-либо текущие связи — настолько сердится при упоминании Братства, что это кажется искренним. Не назначать на проекты с Май Трин. Выразил желание перейти на должность руководителя проекта в отделе медицинских технологий. Следует избегать тем «кошки» и «мелодрамы», так как Яо испытывает трудности с тем, чтобы не говорить об этих темах после того, как они были затронуты."
+Примечание: Не имеет формального образования, но обладает выдающимися способностями. Разработал собственный нефритовый протез. Ранее был связан с «Jade Brotherhood», но отрицает какие-либо текущие связи — настолько сердится при упоминании Братства, что это кажется искренним. Не назначать на проекты с Май Трин. Выразил желание перейти на должность руководителя проекта в отделе медицинских технологий. Следует избегать тем «кошки» и «мелодрамы», так как Яо испытывает трудности с тем, чтобы не говорить об этих темах после того, как они были затронуты."
 "Your critical hits deal more damage. Critical hit damage against disabled foes, or foes below the health threshold, is further increased.<br><c=@reminder>Disabled foes are affected by stun, daze, knockback, pull, knockdown, sink, float, fear, taunt, or launch.","Ваши критические удары наносят больше урона. Урон от критических ударов по обездвиженным противникам или противникам с низким уровнем здоровья дополнительно увеличивается.<br><c=@reminder>Обездвиженные противники находятся под воздействием оглушения, ошеломления, отталкивания, притягивания, нокдауна, погружения, всплытия, страха, провокации или отбрасывания."
 "Using a stolen skill grants additional boons to allies around you. Stolen skills will always be Steal Time, regardless of the target's profession. <br>","Использование украденного умения дарует дополнительные благословения союзникам вокруг вас. Украденные умения всегда будут представлять собой «Кражу времени», независимо от профессии цели. <br>"
 Torment you inflict deals increased damage and causes your foes to burn.<br><c=@reminder>This trait can only inflict burning on a particular target once every three seconds. </c>,"Наносимый вами мучительный урон увеличен, и ваши враги получают эффект горения.<br><c=@reminder>Эта черта может накладывать эффект горения на конкретную цель не чаще одного раза в три секунды.</c>"
@@ -1647,7 +1647,7 @@ Mounts can only be used in designated areas of the world.","Требуется �
 "Gain stability when disabling an enemy. Deal increased strike damage to disabled, exposed, or defiant foes.<br><c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Получайте эффект «Устойчивость» при обездвиживании противника. Наносите увеличенный урон от атак целям, находящимся в состоянии обездвиживания, без защиты или в состоянии вызова.<br><c=@reminder>Обездвиживание включает оглушение, ошеломление, отталкивание, притягивание, нокдаун, погружение, всплытие, отбрасывание, провокацию и страх.</c>"
 "Build up elemental energy when you strike foes. Energy is consumed to imbue the <c=@abilitytype>jade sphere</c> with different elements, creating combo fields and granting boons to allies in the area. <br>Gain access to <c=@abilitytype>Augments</c>.","Накапливайте элементальную энергию при нанесении ударов по врагам. Энергия расходуется для наделения <c=@abilitytype>изумрудной сферы</c> различными элементами, создавая комбинационные поля и даруя благословения союзникам в области действия. <br>Получите доступ к <c=@abilitytype>улучшениям</c>."
 "Explore the Maguuma Jungle and take on the Elder Dragon Mordremoth in Guild Wars 2: Heart of Thorns!
-Unlock the Mastery system, gliders, the revenant class, nine elite specializations, and more!","Исследуйте джунгли Магуума и сразитесь со Старшим драконом Мордремотом в дополнении Guild Wars 2: Сердце терний!
+Unlock the Mastery system, gliders, the revenant class, nine elite specializations, and more!","Исследуйте Maguuma Jungle и сразитесь со Старшим драконом Мордремотом в дополнении Guild Wars 2: Сердце терний!
 Откройте систему мастерств, планеры, класс ревенант, девять элитных специализаций и многое другое!"
 "Cast Lightning Rod when you disable a foe.<br><c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.","Примените умение «Громоотвод», когда вы обездвиживаете противника. <br><c=@reminder>Обездвиживание включает в себя оглушение, ошеломление, отталкивание, притягивание, нокдаун, погружение, всплытие, отбрасывание, провокацию и страх."
 "Double-click to transform into a truffle-hungry porcine hero.
@@ -2904,7 +2904,7 @@ Morgatl Grounds,Моргатские земли
 Naulshead Refuge,Укрытие Наулсхед
 Stormwreck Deeps,Глубоководье Штормовой Крушины
 Hemlock Coil,Катушка из гемелока
-Hanto Trading Post,Торговый пост Ханто
+Hanto Trading Post,Trading Post Ханто
 Hazupl Grounds,Земли Хазупла
 Slaver's Deeps,Глубины работорговцев
 Banshee's Keen,Пронзительный вой Банши
@@ -3667,7 +3667,7 @@ Steals boons from target.","Копирует состояния из источ�
 "Regardless, those rotten scumbags are trouble and need to be shut down!","В любом случае, эти гниды – настоящая проблема, и с ними нужно покончить!"
 You really think they're trying to destroy Tyria?,"Ты действительно думаешь, что они пытаются уничтожить Тирию?"
 Not sure. See you around.,Не уверен(а). Увидимся.
-"I agree! They're reckless and dangerous. They obliterated a town in Metrica Province when a reactor they were working on exploded, and what do they do?","Согласен! Они безрассудны и опасны. Они стёрли с лица земли город в провинции Метрика, когда взорвался реактор, над которым они работали, и что они сделали потом?"
+"I agree! They're reckless and dangerous. They obliterated a town in Metrica Province when a reactor they were working on exploded, and what do they do?","Согласен! Они безрассудны и опасны. Они стёрли с лица земли город в Metrica Province, когда взорвался реактор, над которым они работали, и что они сделали потом?"
 "They come out here and start making an even bigger reactor, using dragon energy. Does that seem sane to you? Beneficial in any way? No, at this point I just have to view them as agents of evil.","Они приходят сюда и начинают строить ещё более мощный реактор, используя энергию драконов. Вам не кажется, что это безумие? Что в этом может быть полезного? Нет, на данном этапе я могу рассматривать их только как агентов зла."
 It doesn't seem sane or beneficial. They're just trouble.,Это кажется неразумным и бессмысленным. Они только приносят проблемы.
 I'm armed and dangerous.,Я вооружён и опасен.

@@ -227,7 +227,7 @@ MONSTER ONLY Vampire Beast Unarmed,ТОЛЬКО МОНСТР: зверь-вам�
 MONSTER ONLY Vigil Sword,ТОЛЬКО МОНСТР: боец Дозора с мечом
 Ma! We got another dead chicken! That cross ol' hen musta pecked it to death.,"Ма! У нас ещё одна дохлая курица! Похоже, та злющая наседка её заклевала."
 Ma'am...,Госпожа...
-Mabon and Lyhr open the Wizard's Tower in: %str1%,Мабон и Лир откроют Башню Волшебника через: %str1%
+Mabon and Lyhr open the Wizard's Tower in: %str1%,Мабон и Лир откроют Wizard's Tower через: %str1%
 Mabon reaches Droknar's Light in: %str1%,Мабон достигнет Света Дрокнара через: %str1%
 Mabon will begin attempting to cleanse Lyhr in: %str1%,Мабон начнёт попытки очистить Лира через: %str1%
 Mach the Carny,Мах Балаганщик
@@ -340,9 +340,9 @@ Master Strategist Rego,Мастер-стратег Рего
 Master Strategist Valde,Мастер-стратег Вальде
 Mastered Skyscale Target Practice in Amnytas,Стрельба по мишеням на скайскейле освоена в Амнитасе
 Mastered Skyscale Target Practice in Skywatch Archipelago,Стрельба по мишеням на скайскейле освоена в архипелаге Небесного Дозора
-Mastered Wizard's Tower: Skyscale Target Practice,Освоено «Башня Волшебника: стрельба по мишеням на скайскейле»
+Mastered Wizard's Tower: Skyscale Target Practice,Освоено «Wizard's Tower: стрельба по мишеням на скайскейле»
 Mastered the Skimmer-Net Scramble,Освоена «Сетевая гонка на скиммере»
-Mastered the Skyscale Target Practice in Inner Nayos Adventure,Освоено приключение «Стрельба по мишеням на скайскейле» во Внутреннем Найосе
+Mastered the Skyscale Target Practice in Inner Nayos Adventure,Освоено приключение «Стрельба по мишеням на скайскейле» в Inner Nayos
 Mat,Мэт
 Matchmaking,Подбор соперников
 Matchmaking lockout is active. Teams are being assigned for the next season.,Подбор соперников заблокирован. Идёт распределение команд на следующий сезон.
@@ -368,7 +368,7 @@ May Melandru blaze your path.,Да проложит Меландру твой п
 May Wolf walk beside you.,Да идёт Волк рядом с тобой.
 May all your theories be sound.,Пусть все твои теории будут верны.
 May courage guide your hand.,Да направит твою руку отвага.
-"May cure sickness, ailments, flesh wounds, or other general maladies.<br><c=@flavor>Claims not evaluated or guaranteed by the Captain's Council.</c>","Может излечивать болезни, недуги, раны и прочие хвори.<br><c=@flavor>Заявления не проверены и не гарантированы Советом капитанов.</c>"
+"May cure sickness, ailments, flesh wounds, or other general maladies.<br><c=@flavor>Claims not evaluated or guaranteed by the Captain's Council.</c>","Может излечивать болезни, недуги, раны и прочие хвори.<br><c=@flavor>Заявления не проверены и не гарантированы Captain's Council.</c>"
 May the Six protect you.,Да защитят тебя Шестеро.
 May the Six watch over you.,Да хранят тебя Шестеро.
 May the Spirits of the Wild watch over you.,Да хранят тебя Духи Дикой природы.
@@ -437,7 +437,7 @@ Meet Tribune Desertgrave's agent at the Serrated Blade.,Встретьтесь �
 Meet Zojja and reconsider the situation.,Встретьтесь с Зойей и пересмотрите положение дел.
 Meet Zojja at the Snaff Memorial Laboratory in Rata Sum.,Встретьтесь с Зойей в Лаборатории памяти Снаффа в Рата-Сум.
 Meet Zojja in her lab to discuss the Infinity Ball.,"Встретьтесь с Зойей в её лаборатории, чтобы обсудить Шар бесконечности."
-Meet the Order representatives at the Pale Tree's garden in the Grove.,Встретьтесь с представителями орденов в саду Бледного Древа в Роще.
+Meet the Order representatives at the Pale Tree's garden in the Grove.,Встретьтесь с представителями орденов в саду Pale Tree в Роще.
 Meet the Order representatives east of Lychcroft Mere.,Встретьтесь с представителями орденов к востоку от Личкрофт-Мира.
 Meet the Preceptors at the Agora in Lion's Arch.,Встретьтесь с наставниками на Агоре в Lion's Arch.
 Meet the exemplars near Darkwound Defile.,Встретьтесь с образцами у ущелья Тёмной Раны.

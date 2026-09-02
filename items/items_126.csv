@@ -592,7 +592,7 @@ Trade to alliance field quartermasters in Castora for a pair of Extremis Boots."
 Обменяйте у полевых интендантов союза в Касторе на пару сапог «Экстремис»"
 "Acquired occasionally from mystery mirrors in Shipwreck Strand.,Приобретается иногда из загадочных зеркал на Берегу кораблекрушений.",Приобретается иногда из загадочных зеркал на Берегу кораблекрушений.
 "Acquired occasionally from mystery mirrors in Starlit Weald.,
-Trade to alliance field quartermasters in Castora for an Extremis Mantle.","Изредка добывается из загадочных зеркал в Звёздной чаще.,
+Trade to alliance field quartermasters in Castora for an Extremis Mantle.","Изредка добывается из загадочных зеркал в Starlit Weald.,
 Обменяйте у полевых интендантов союза в Касторе на мантию «Экстремис»."
 "Acquired occasionally from obscured chests in Shipwreck Strand.,Иногда можно получить из спрятанных сундуков на Берегу кораблекрушений.""",Иногда можно получить из спрятанных сундуков на Берегу кораблекрушений.
 "Acquired occasionally from obscured chests in Starlit Weald.,
@@ -658,7 +658,7 @@ Level 1 of 4","Станьте единым с Туманами и получит
 • 1 дополнительный фрактальный шифр и мешок фрактальных реликвий из последнего сундука в каждом фрактале,
 Уровень 1 из 4"
 Become the Midnight King with this combat tonic.,Станьте Королём Полуночи с помощью этого боевого тоника.
-"Black Lion Chests can be found randomly on enemies or bought from the trading post.""","Чёрные сундуки можно случайно найти на врагах или купить на торговом посту".""
+"Black Lion Chests can be found randomly on enemies or bought from the trading post.""","Чёрные сундуки можно случайно найти на врагах или купить на Trading Post."""""
 "Bring the egg to Gorrik in Arborstone.""","Отнесите яйцо Горрику в Каменный сад".""
 Build Template tabs allow a character to create and swap to an additional build.,Вкладки шаблонов сборок позволяют персонажу создавать и переключаться на дополнительную сборку.
 "By rebuilding the sanctuary,' you will be granted access to Kormir''s sanctum.'","Восстановив святилище,' вы получите доступ к святилищу Кормир.'"
@@ -977,7 +977,7 @@ Purchased from the Foothold Bivouac renown heart vendor in Starlit Weald in exch
 • 1 Bloodstone Shard,
 • 1 Gift of Research,
 • 1 Gift of the Mists","Соедините «Gift of the Survivors», «Gift of the People»
-Купить у торговца за сердечную признательность в лагере «Футхолд Бивуак» в Звёздной чаще в обмен на:
+Купить у торговца за сердечную признательность в лагере «Футхолд Бивуак» в Starlit Weald в обмен на:
 • 1 «Gift of the Tides»,
 • 1 Bloodstone Shard,
 • 1 «Gift of Research»,
@@ -1034,7 +1034,7 @@ Created in the Mystic Forge by combining:,
 <c=@flavor>Известно, что Источник Ранда — очень магическое место.</c>"
 "Combine in the Mystic Forge with Piquant Plant Food, Bloodstone Dust
 <c=@flavor>The waters of the Maguuma Jungle are famous for having inherent healing powers.</c>","Скомбинируйте в Таинственной кузне с Острой растительной пищей, Пылью кровавого камня
-<c=@flavor>Воды джунглей Магуума славятся своими врождёнными целебными свойствами.</c>"
+<c=@flavor>Воды Maguuma Jungle славятся своими врождёнными целебными свойствами.</c>"
 "Combine in the Mystic Forge with a Clay Pot, Bloodstone Dust
 '<c=@flavor>It''s very difficult to focus your eyes on this stone. The space around it is rich with magical energy.<c>'","Соедините в Mystic Forge с глиняным горшком, пылью кровавого камня
 '<c=@flavor>Очень трудно сфокусировать взгляд на этом камне. Пространство вокруг него насыщено магической энергией.<c>'"

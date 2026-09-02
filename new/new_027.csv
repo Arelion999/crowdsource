@@ -23,7 +23,7 @@ Surround yourself with an shield of Arcane energy that blocks the next 5 attacks
 Surrounds itself with a fear-inducing field.,"Окружает себя полем, наводящим страх."
 Surveillance Point,Точка наблюдения
 Surveyed %num1%/%num2% Impacts,Обследовано %num1%/%num2% мест падения
-Survive %num2% chamber[s] in the Tower of Nightmares.,Переживите %num2% [зал|зала|залов] в Башне кошмаров.
+Survive %num2% chamber[s] in the Tower of Nightmares.,Переживите %num2% [зал|зала|залов] в Tower of Nightmares.
 Survived %num1%/%num2% Bloodstone Explosions,Пережито %num1%/%num2% взрывов кровавого камня
 Survived 20 Stacks of Bitter Cold,Пережито 20 стаков Лютого холода
 Survived All Encounters in the Foundry of Failed Creations without Being Downed,Все столкновения в Литейной неудавшихся творений пережиты без единого поражения
@@ -168,7 +168,7 @@ Talisman[s] of Lingering,Талисман[|а|ов] Затягивания
 Talisman[s] of Mending,Талисман[|а|ов] Врачевания
 Talisman[s] of Penetration,Талисман[|а|ов] Пробивания
 Talisman[s] of the Stout,Талисман[|а|ов] Крепости
-Talk to Kelvei in the Fractals of the Mists.,Поговорите с Келвей во Фракталах Туманов.
+Talk to Kelvei in the Fractals of the Mists.,Поговорите с Келвей в Fractals of the Mists.
 Talk to the King Wisp in his den.,Поговорите с Королём-огоньком в его логове.
 Talk with Vetia Foerazer in the Blood Keep to begin this collection.,"Поговорите с Ветией Врагоразительницей в Кровавой Крепости, чтобы начать эту коллекцию."
 Talk your way out of trouble with Dominion forces on the beach %num2% times.,Отговоритесь от неприятностей с силами Доминиона на пляже %num2% раз.
@@ -392,7 +392,7 @@ Thaumanova Anomaly,Аномалия Тауманова
 Thaumanova Reactor Field Researcher,Полевой исследователь реактора Тауманова
 The Battle For Lion's Arch,Битва за Lion's Arch
 The Battle at the Narrow Pass by General Hugo Bronzebeard,"«Битва у Узкого перевала», автор — генерал Хьюго Бронзобород"
-The Black Citadel,Чёрная Цитадель
+The Black Citadel,Black Citadel
 The Branded didn't manage to interrupt Blish while setting up the tracker.,"Клеймёные не смогли помешать Блишу, пока он устанавливал маячок."
 The Centaur War,Война с кентаврами
 The Chronoflux—you're kidding? If those demons harness the anomaly inside...,Хронопоток — ты шутишь? Если эти демоны обуздают аномалию внутри...
@@ -409,7 +409,7 @@ The Elder Dragons,Старшие драконы
 "The Eldvin Monastery supplies the best beer in all of Kryta! But times have been hard for them of late. Between bandits, the recent centaur attacks, and what may be a poor harvest, I wonder if there'll even be any brew this season...","Eldvin Monastery поставляет лучшее пиво во всей Крайте! Но времена у них нынче тяжёлые. Разбойники, недавние нападения кентавров да ещё и неурожай — я уж думаю, будет ли в этом сезоне хоть какая-то варка..."
 The Exalted welcome you.,Возвышенные приветствуют тебя.
 "The Fang of the Serpent hangs here as a reminder of our flight from Jormag. Seeing it quickens the blood, does it not?","Fang of the Serpent висит здесь как напоминание о нашем бегстве от Йормага. При виде него кровь бежит быстрее, не так ли?"
-The Flame Legion is preparing to attack the Black Citadel.,Flame Legion готовится напасть на Чёрную Цитадель.
+The Flame Legion is preparing to attack the Black Citadel.,Flame Legion готовится напасть на Black Citadel.
 The Flame Legion won't soon forget your name! We've got them on the ropes!,Flame Legion нескоро забудет твоё имя! Мы прижали их к канатам!
 The Flame Legion worships Gaheron like a god.,Flame Legion поклоняется Гахерону как богу.
 The Floating Grizwhirls are made by Uzolan.,Парящие Гризвирлы созданы Узоланом.
@@ -423,7 +423,7 @@ The Heart of the Obscure is recharging by absorbing latent magic in the area.,"�
 "The High Kryptis is protecting the tentacle, making it invulnurable. Kill the High Kryptis to remove the protection.","Высший криптис защищает щупальце, делая его неуязвимым. Убейте Высшего криптиса, чтобы снять защиту."
 "The Icebrood Construct collapses, greatly reducing its defense.","Конструкт ледяного отродья оседает, что сильно снижает его защиту."
 The Inquest will succeed in: %str1%,The Inquest добьётся своего через: %str1%
-"The Jade Brotherhood will be keeping a wary eye on you.  As you do risky things, your suspicion level will increase.  If it reaches 100, you will get kicked out of the camp.","Нефритовое Братство будет за вами приглядывать.  Чем рискованнее ваши действия, тем выше уровень подозрений.  Если он достигнет 100, вас выгонят из лагеря."
+"The Jade Brotherhood will be keeping a wary eye on you.  As you do risky things, your suspicion level will increase.  If it reaches 100, you will get kicked out of the camp.","Jade Brotherhood будет за вами приглядывать.  Чем рискованнее ваши действия, тем выше уровень подозрений.  Если он достигнет 100, вас выгонят из лагеря."
 The Key of Ahdashim Achievement,Достижение «Ключ Ахдашима»
 "The Kryptis are watching—suspicious actions will compromise your disguise. At 100 stacks, you'll be ejected from the camp.",Криптисы наблюдают — подозрительные действия выдадут вашу личину. При 100 стаках вас выдворят из лагеря.
 The Kryptis have broken through the barrier between realms. All is lost.,Криптисы прорвали барьер между мирами. Всё пропало.
@@ -450,7 +450,7 @@ The Pact forces are broken and without leadership.,Силы Пакта разб�
 "The Pact is newly formed, but its dedication is unquestioned. All races, all orders of Tyria, are represented in battle against Zhaitan. Upon this alliance lies the future of the world.","Пакт создан недавно, но в его преданности нет сомнений. Все расы, все ордена Тирии представлены в битве против Зайтана. На этом союзе держится будущее мира."
 The Pale Reavers are fighting their way into a Mordrem fortification.,Бледные Жнецы прорываются в укрепление мордремов.
 The Pale Reavers are pushing into the ruins.,Бледные Жнецы продвигаются в руины.
-The Pale Tree guide you.,Да направит тебя Бледное Древо.
+The Pale Tree guide you.,Да направит тебя Pale Tree.
 The Ringmaster is gathering new recruits.,Шпрехшталмейстер набирает новичков.
 The Ringmaster is going to hypnotize the Big Top audience!,Шпрехшталмейстер собирается загипнотизировать публику под куполом!
 The Risen assault on the Lone Post has failed. The Pact remain in control of the southern entrance to Orr.,Штурм Одинокого поста восставшими провалился. Пакт удерживает южный вход в Орр.
@@ -473,7 +473,7 @@ The Special,Фирменное блюдо
 "The Spirits bid you thanks, %str1%. Anything you need, just ask.","Духи благодарят тебя, %str1%. Что бы тебе ни понадобилось — просто попроси."
 The Spirits of the Wild welcome you.,Духи Дикой природы приветствуют тебя.
 The Spirits should be impressed!,Духи должны быть впечатлены!
-The Starlit Weald is calm for now.,В Звёздной чаще пока спокойно.
+The Starlit Weald is calm for now.,В Starlit Weald пока спокойно.
 "The Sunspears were born of a need to protect a nation. By joining this order, we declare our dedication to the people of Elona.","Солнечные Копья родились из нужды защитить народ. Вступая в этот орден, мы заявляем о своей преданности народу Элоны."
 The Svanir is drawing power from the other worshippers and the idol to protect himself.,"Сванир черпает силу у прочих поклоняющихся и у идола, чтобы защитить себя."
 The Vigil Keep is about to be attacked by an undead horde.,На Крепость Дозора вот-вот нападёт орда нежити.
