@@ -46,11 +46,11 @@ english,translate
 3. Bring Lyla's token to the remains.,3. Отнесите знак Лайлы к останкам.
 3. Complete a Fractal of the Mists in quickplay mode and loot the final treasure chest.,3. Пройдите Фрактал Туманов в режиме быстрой игры и заберите добычу из финального сундука.
 3. Complete the Reverie of a Thorn achievement and return to Ridhais.,3. Выполните достижение «Грёзы Терния» и вернитесь к Ридхайс.
-3. Demand answers from Brigadier General Kernel in Lion's Arch.,3. Потребуйте ответов у бригадного генерала Кернела во Львиной Арке.
+3. Demand answers from Brigadier General Kernel in Lion's Arch.,3. Потребуйте ответов у бригадного генерала Кернела в Lion's Arch.
 3. Explore the snow-filled hall.,3. Исследуйте засыпанный снегом зал.
 3. Find Waiting Sorrow's journal.,3. Найдите дневник Ждущей Скорби.
 3. Interview local scouts about the unusual sight.,3. Расспросите местных разведчиков о необычном явлении.
-3. Report back to Magister Tassi in Lion's Arch.,3. Доложите магистру Тасси во Львиной Арке.
+3. Report back to Magister Tassi in Lion's Arch.,3. Доложите магистру Тасси в Lion's Arch.
 3. Rummage for ramen around Jade Mech Habitation Zone 03.,3. Поищите рамен в Зоне обитания нефритовых мехов 03.
 3. Some research notes are buried atop a ridge nearly above a deserted Inquest camp. Your skimmer's Aetherlocation skill may be of use.,3. Часть исследовательских записей закопана на гребне почти над заброшенным лагерем Инквеста. Может пригодиться умение скиммера «Эфиролокация».
 3. Triangulate reef activity by completing events across Castora.,"3. Определите активность рифа, завершая события по всей Касторе."
@@ -217,7 +217,7 @@ english,translate
 66%% Chance to Steal Life on Critical Hit+70 Precision+10%% Experience from Kills+10%% Karma,66%% шанс похитить жизнь при критическом ударе+70 к Точности+10%% опыта за убийства+10%% кармы
 66%% Chance to Steal Life on Critical Hit+70 Precision+15%% Experience from Kills,66%% шанс похитить жизнь при критическом ударе+70 к Точности+15%% опыта за убийства
 66%% Chance to Steal Life on Critical Hit+70 Precision+30%% Magic Find+10%% Experience from Kills,66%% шанс похитить жизнь при критическом ударе+70 к Точности+30%% к поиску магии+10%% опыта за убийства
-6a. Speak with Choole's Astral Ward contact at the hunter's camp.,6a. Поговорите со связным Чуле из Астральной стражи в охотничьем лагере.
+6a. Speak with Choole's Astral Ward contact at the hunter's camp.,6a. Поговорите со связным Чуле из Astral Ward в охотничьем лагере.
 6b. Try to get comms reception near the Choya Conclave.,6b. Попробуйте поймать связь у Конклава Чойя.
 6c. Try to get comms reception overlooking a precipice that cascades with tranquil waters.,"6c. Попробуйте поймать связь над обрывом, с которого каскадом стекают тихие воды."
 6d. Try to get comms reception north of a peaceful glen.,6d. Попробуйте поймать связь к северу от мирной лощины.
@@ -347,7 +347,7 @@ english,translate
 <br><c=@task>Free Item Available!</c>,<br><c=@task>Доступен бесплатный предмет!</c>
 <br><c=@task>New Featured Item!</c>,<br><c=@task>Новый избранный товар!</c>
 "<br>—You've entered a Costume Brawl.—Attack other players with skills from toys, bundles, and tonics in this free-for-all.—If you attempt real combat, you'll exit the brawl.","<br>—Вы вошли в Костюмированную потасовку.—Атакуйте других игроков умениями игрушек, наборов и тоников в этой схватке всех против всех.—Если вы попытаетесь вступить в настоящий бой, потасовка для вас закончится."
-"<c=""%str1%"">Warning! This item is transmuted and will function in the Mystic Forge as %str2%.</c>","<c=""%str1%"">Внимание! Этот предмет преображён и в Мистической кузнице будет работать как %str2%.</c>"
+"<c=""%str1%"">Warning! This item is transmuted and will function in the Mystic Forge as %str2%.</c>","<c=""%str1%"">Внимание! Этот предмет преображён и в Mystic Forge будет работать как %str2%.</c>"
 "<c=""%str2%"">Prerequisite:</c> %str1%","<c=""%str2%"">Требование:</c> %str1%"
 "<c=#006eff>Ally Target:</c> <br>0–2 Seconds: Grant might to the linked ally and players around you each interval.<br>2–4 Seconds: Grant more might.<br>4–6 Seconds: Grant even more might. In addition, grant fury. Gain access to Otherworldly Attraction.","<c=#006eff>Цель-союзник:</c> <br>0–2 секунды: каждый интервал даёт мощь связанному союзнику и игрокам вокруг вас.<br>2–4 секунды: даёт больше Мощи.<br>4–6 секунд: даёт ещё больше Мощи. Кроме того, даёт ярость. Открывает доступ к «Потустороннему притяжению»."
 "<c=#006eff>Ally Target:</c> Ally gains barrier and removes a condition per pulse. Striking your target with Energy Bolt during this time detonates the aura immediately, granting barrier and removing conditions on allies around the target.","<c=#006eff>Цель-союзник:</c> союзник получает барьер и снимает по состоянию за пульс. Попадание по цели «Энергетическим зарядом» в это время немедленно взрывает ауру, давая барьер и снимая состояния с союзников вокруг цели."
