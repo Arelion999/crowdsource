@@ -75,7 +75,7 @@ Builds a mortar on the walls.,Строит миномёт на стенах.
 Builds cannons on the walls of the castle.,Строит пушки на стенах замка.
 Builds cannons on the walls of the keep.,Строит пушки на стенах крепости.
 Builds Turrets and Walls,Строит турели и стены
-"Built upon the ruins of the human city of Rin, the Black Citadel is the headquarters of the charr legions in Ascalon. Commanded by Smodur the Unflinching, Imperator of the Iron Legion, the great city is dominated by the huge metal-shod sphere at its center.","Возведённая на руинах людского города Рин, Чёрная Цитадель — штаб легионов чарров в Аскалоне. Под началом Смодура Непоколебимого, империатора Железного легиона, над великим городом высится огромная окованная металлом сфера в его центре."
+"Built upon the ruins of the human city of Rin, the Black Citadel is the headquarters of the charr legions in Ascalon. Commanded by Smodur the Unflinching, Imperator of the Iron Legion, the great city is dominated by the huge metal-shod sphere at its center.","Возведённая на руинах людского города Рин, Black Citadel — штаб легионов чарров в Аскалоне. Под началом Смодура Непоколебимого, империатора Железного легиона, над великим городом высится огромная окованная металлом сфера в его центре."
 Bulb Punch,Удар луковицей
 Bulb Tangle,Путы луковицы
 Bulk 15,Объём 15
@@ -236,7 +236,7 @@ Burning Oil,Горящее масло
 Burning Oil Build Site,Площадка для постройки горящего масла
 Burning Oil Mastery I: Increase Radius,Мастерство горящего масла I: увеличение радиуса
 Burning Oil Mastery II: Increase Damage,Мастерство горящего масла II: увеличение урона
-Burning Oil Mastery III: Reduce damage received by player,"Мастерство горящего масла III: снижение урона, получаемого игроком"
+Burning Oil Mastery III: Reduce damage received by player,"Burning Oil Mastery III: снижение урона, получаемого игроком"
 Burning Oil Mastery IV: Basic Burning Oil Attacks Burn One Supply from Target,Мастерство горящего масла IV: обычные атаки горящим маслом сжигают у цели одну единицу припасов
 Burning Oil Mastery V: Burning Shell Skill,Мастерство горящего масла V: умение «Горящий купол»
 Burning on Impact,Горение при попадании
@@ -351,7 +351,7 @@ By Material,По материалу
 By Set,По набору
 "By the base of the arm, near what is broken and wildly worn.","У основания руки, рядом с тем, что сломано и дико истёрто."
 By the controls for the confinement pens.,У пультов управления загонами.
-"By the power of the arcane, I call forth the energies of space and time. With words of power and gestures of might, I command the very fabric of reality to bend to my will. Let the Wizard's Tower be transported to a place of my choosing, across mountains, oceans, and lands unknown. Let the tower be protected from harm and disruption, and let it reappear unscathed in its new location. So mote it be.","Силой тайного я призываю энергии пространства и времени. Словами власти и жестами мощи я велю самой ткани яви склониться перед моей волей. Да будет Башня Волшебника перенесена в место по моему выбору, через горы, океаны и неведомые земли. Да будет башня защищена от вреда и потрясений и да явится невредимой на новом месте. Да будет так."
+"By the power of the arcane, I call forth the energies of space and time. With words of power and gestures of might, I command the very fabric of reality to bend to my will. Let the Wizard's Tower be transported to a place of my choosing, across mountains, oceans, and lands unknown. Let the tower be protected from harm and disruption, and let it reappear unscathed in its new location. So mote it be.","Силой тайного я призываю энергии пространства и времени. Словами власти и жестами мощи я велю самой ткани яви склониться перед моей волей. Да будет Wizard's Tower перенесена в место по моему выбору, через горы, океаны и неведомые земли. Да будет башня защищена от вреда и потрясений и да явится невредимой на новом месте. Да будет так."
 "By the Province of Empress IhnCommander,As our relations with Kryta and Queen Jennah blossom, the queen has invited Canthan delegates to come teach Canthan culture in her city. Likewise, she'll be sending some of her own to our shores to do the same.I'm especially eager for you to meet with Sang-Mi. As an adept necromancer yourself, I think you could learn from her teachings.Respectfully,Empress Ihn of Cantha","От провинции императрицы ИньКомандир,По мере того как крепнут наши отношения с Крайтой и королевой Дженной, королева пригласила кантанских посланников обучать кантанской культуре в её городе. Точно так же она пришлёт своих людей к нашим берегам с тем же.Особенно я жду вашей встречи с Сан-Ми. Как искусный некромант, вы, полагаю, могли бы поучиться у неё.С уважением,Императрица Инь Кантанская"
 By the quenching of his mettle!,Закалкой его нрава!
 By the shaping of his mettle!,Ковкой его нрава!
@@ -389,7 +389,7 @@ Cactus Meat,Мясо кактуса
 "Cactus Seed Pouch[pl:""Pouches""]",Мешоч[ек|ка|ков] с семенами кактуса
 Cademkrall Overlook,Обзор Кадемкралль
 Cadet Rescue Recording[s],Запис[ь|и|ей] о спасении кадета
-Caer Evermore thanks you for your vigilance!,Каэр Эвермор благодарит вас за бдительность!
+Caer Evermore thanks you for your vigilance!,Caer Evermore благодарит вас за бдительность!
 Café Activation Token[s],Жетон[|а|ов] запуска кафе
 Café Chair[s]<c=@flavor>Café customers will sit here to order! Note that customers will have difficulty reaching seats high off the ground.</c>,"Стул[|а|ьев] кафе<c=@flavor>Посетители кафе будут садиться сюда, чтобы сделать заказ! Учтите: до высоко расположенных мест им будет трудно добраться.</c>"
 Café Chairs,Стулья кафе
@@ -484,12 +484,12 @@ Calibration Thumper Supplies,Припасы для калибровочного 
 Calibration thumpers can now be constructed around Mount Balrior.,Теперь вокруг горы Балриор можно строить калибровочные землебои.
 "Calibration thumpers can now be constructed around Mount Balrior. Use them to create calibrated essence, and bring it back to base camp to increase synchronization.","Теперь вокруг горы Балриор можно строить калибровочные землебои. С их помощью создавайте откалиброванную эссенцию и несите её в базовый лагерь, чтобы повысить синхронизацию."
 Calimus Pyretooth,Калимус Огнезуб
-Caliph's Steps: Look within some orifices on the Twin Skulls.,Ступени Халифа: загляните в отверстия на Черепах-Близнецах.
-Caliph's Steps: Look within the rocks between the two Twin Skulls.,Ступени Халифа: загляните в камни между двумя Черепами-Близнецами.
-Caliph's Steps: Next to the magma fall at the sealed entrance.,Ступени Халифа: рядом с магмопадом у запечатанного входа.
-Caliph's Steps: On an upper tier of a large room to the northeast of the Sealed Entrance.,Ступени Халифа: на верхнем ярусе большого зала к северо-востоку от Запечатанного Входа.
-Caliph's Steps: On the third shelf up to the northwest of the Sealed Entrance.,Ступени Халифа: на третьем карнизе вверх к северо-западу от Запечатанного Входа.
-Caliph's Steps: Under a rock shelf on the western beach.,Ступени Халифа: под скальным карнизом на западном пляже.
+Caliph's Steps: Look within some orifices on the Twin Skulls.,Caliph's Steps: загляните в отверстия на Черепах-Близнецах.
+Caliph's Steps: Look within the rocks between the two Twin Skulls.,Caliph's Steps: загляните в камни между двумя Черепами-Близнецами.
+Caliph's Steps: Next to the magma fall at the sealed entrance.,Caliph's Steps: рядом с магмопадом у запечатанного входа.
+Caliph's Steps: On an upper tier of a large room to the northeast of the Sealed Entrance.,Caliph's Steps: на верхнем ярусе большого зала к северо-востоку от Запечатанного Входа.
+Caliph's Steps: On the third shelf up to the northwest of the Sealed Entrance.,Caliph's Steps: на третьем карнизе вверх к северо-западу от Запечатанного Входа.
+Caliph's Steps: Under a rock shelf on the western beach.,Caliph's Steps: под скальным карнизом на западном пляже.
 Call a bombardment of mortar strikes in target area.,Вызовите обстрел миномётными ударами по указанной области.
 Call a mortar strike on target area.,Вызовите миномётный удар по указанной области.
 Call a target that your allies can see and follow.,"Отметьте цель, которую ваши союзники смогут видеть и преследовать."

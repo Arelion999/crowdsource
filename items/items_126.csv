@@ -293,7 +293,7 @@ Combine this weapon in the Mystic Forge with:,Соедините это оруж
 "<c=@reminder>Hint: Offer your wisdom to the goddess.</c>""","<c=@reminder>Подсказка: Предложи свою мудрость богине.</c>"""
 "<c=@reminder>The Knife Tail Gang have broken into the Trading Company vaults, and Evon's furious!</c=@reminder>","<c=@reminder>Банда Ножехвостов вломилась в хранилища Торговой компании, и Эвон в ярости!</c=@reminder>"
 <c=@reminder>This item is used in collections for the legendary accessory Vision.,<c=@reminder>Этот предмет используется в коллекциях для легендарного аксессуара «Видение».
-<c=@reminder>This mount skin can be found very rarely when completing group events and the meta-event finale in the Eternity's Garden map in Castora.</c>,<c=@reminder>Этот облик скакуна можно найти очень редко при завершении групповых событий и финала метасобытия на карте Сад Вечности в Касторе.</c>
+<c=@reminder>This mount skin can be found very rarely when completing group events and the meta-event finale in the Eternity's Garden map in Castora.</c>,<c=@reminder>Этот облик скакуна можно найти очень редко при завершении групповых событий и финала метасобытия на карте Eternity's Garden в Касторе.</c>
 A Gift of Relics is made by combining these items in the Mystic Forge:,«Дар реликвий» создаётся путём объединения этих предметов в Мистической кузнице:
 "A Mystic Facet is made by combining these items in the Mystic Forge:
 • 1 Relic
@@ -599,7 +599,7 @@ Trade to alliance field quartermasters in Castora for an Extremis Mantle.","Из
 Trade to alliance field quartermasters in Castora for an Extremis Hood.","Изредка добывается из скрытых сундуков в Звёздной роще.
 Обменяйте у полевых интендантов союза в Касторе на капюшон «Экстремис»."
 "Acquired occasionally from the Hammerhart Rumble! world boss event in Shipwreck Strand.,
-'Trade to alliance field quartermasters in Castora for a Restless Captain''s Coat.'","Получается изредка от мирового босса «Грохот Молотобойца!» в локации Берег кораблекрушений.,
+'Trade to alliance field quartermasters in Castora for a Restless Captain''s Coat.'","Получается изредка от мирового босса «Грохот Молотобойца!» в локации Shipwreck Strand.,
 'Обменяйте у полевых интендантов альянса в Касторе на Куртка Беспокойного капитана.'"
 "Acquired occasionally from the Secrets of the Weald meta-event in Starlit Weald.,
 Trade to alliance field quartermasters in Castora for an Extremis Coat.","Иногда выпадает из мета-события «Тайны Пустоши» в Звёздной Пустоши.,
@@ -618,7 +618,7 @@ An exquisitely cut sapphire of tremendous size.,Изумительно огра�
 "An item from the Stonefist crew used by the Corsair, Mehdi
 An odd blue wurm husk","Предмет из команды Каменного Кулака, использовавшийся корсаром Мехди.
 Странная синяя оболочка червя"
-"An old sapphire amulet,' weathered by frequent use. It went missing when the Wizard''s Tower left the Kessex Hills.'","Старый сапфировый амулет,' изношенный частым использованием. Он пропал, когда Башня волшебника покинула Кессекские холмы.'"
+"An old sapphire amulet,' weathered by frequent use. It went missing when the Wizard''s Tower left the Kessex Hills.'","Старый сапфировый амулет,' изношенный частым использованием. Он пропал, когда Башня волшебника покинула Kessex Hills.'"
 Anniversary gifts and Black Lion exclusives not included.,Подарки к годовщине и эксклюзивы Чёрного льва не включены.
 "Apprentice Jameson needs these samples to devise an antitoxin.,
 Event Item","Ученику Джеймсону нужны эти образцы, чтобы создать противоядие.,
@@ -772,8 +772,8 @@ Checked out by Lord Azeem. Last seen in the Temple of Joko in Palawadan.,Выд�
 Collect this and return it to the Sanctuary.,Соберите это и верните в Святилище.
 Collecting this will also provide bonus desert Mastery experience.,Сбор этого также даст бонусный опыт пустынного Мастерства.
 "Combine 25 Tales of Adventure, a Gift of Bones
-This item is acquired from the Klobjarne Geirr: Raid or Convergence Victories achievement.","Скомбинируйте 25 Сказаний о приключениях, Дар костей
-Этот предмет получен за достижение «Клобьярне Гейрр: Победы в рейдах или конвергенциях»."
+This item is acquired from the Klobjarne Geirr: Raid or Convergence Victories achievement.","Скомбинируйте 25 Сказаний о приключениях, Gift of Bones
+Этот предмет получен за достижение «Klobjarne Geirr: Победы в рейдах или конвергенциях»."
 "Combine 250 Refined Metal, 250 Refined Wood
 This item is purchased from Deft Lahar in your homestead.","Соедините 250 единиц очищенного металла и 250 единиц очищенной древесины.
 Этот предмет можно приобрести у Дефта Лахара в вашем усадьбе."
@@ -840,9 +840,9 @@ Created in the Mystic Forge by combining:,
 • 1 Gift of Embracing Refuge,
 • 1 Gift of Condensed Might,
 • 1 Gift of Condensed Magic,
-• 38 Mystic Clovers","Соедините Дар диких земель Джантира, Дар поселенца
-Создается в Мистической кузнице путем объединения:,
-• 1 Дар объятий убежища,
+• 38 Mystic Clovers","Соедините Дар диких земель Джантира, Gift of the Homesteader
+Создается в Mystic Forge путем объединения:,
+• 1 Gift of Embracing Refuge,
 • 1 Дар сгущенной мощи,
 • 1 Дар сгущенной магии,
 • 38 Мистических клеверов"
@@ -976,11 +976,11 @@ Purchased from the Foothold Bivouac renown heart vendor in Starlit Weald in exch
 • 1 Gift of the Tides,
 • 1 Bloodstone Shard,
 • 1 Gift of Research,
-• 1 Gift of the Mists","Соедините «Дар выживших», «Дар народа»
+• 1 Gift of the Mists","Соедините «Gift of the Survivors», «Gift of the People»
 Купить у торговца за сердечную признательность в лагере «Футхолд Бивуак» в Звёздной чаще в обмен на:
-• 1 «Дар приливов»,
-• 1 Осколок кровавого камня,
-• 1 «Дар исследований»,
+• 1 «Gift of the Tides»,
+• 1 Bloodstone Shard,
+• 1 «Gift of Research»,
 • 1 «Дар туманов»"
 "Combine a Gift of the Survivors, a Gift of the People
 Created by combining the following in the Mystic Forge:,

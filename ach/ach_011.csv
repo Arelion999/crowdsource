@@ -22,7 +22,7 @@ Defeat %num2% dredge.,Победите %num2% дреджей.
 "Defeat %num2% enemy[pl:""enemies""] while defending your team's capture points during Forest of Niflhel rated matches.","Победите %num2% враг[а|а|ов], защищая точки захвата своей команды, в рейтинговых матчах «Лес Нифльхеля»."
 "Defeat %num2% enemy[pl:""enemies""] while defending your team's capture points during Legacy of the Foefire rated matches.","Победите %num2% враг[а|а|ов], защищая точки захвата своей команды, в рейтинговых матчах «Наследие Огня Врагов»."
 "Defeat %num2% enemy[pl:""enemies""] while defending your team's capture points during Skyhammer rated matches.","Победите %num2% враг[а|а|ов], защищая точки захвата своей команды, в рейтинговых матчах «Небесный молот»."
-"Defeat %num2% enemy[pl:""enemies""] while defending your team's capture points during Spirit Watch rated matches.","Победите %num2% враг[а|а|ов], защищая точки захвата своей команды, в рейтинговых матчах «Дозор духов»."
+"Defeat %num2% enemy[pl:""enemies""] while defending your team's capture points during Spirit Watch rated matches.","Победите %num2% враг[а|а|ов], защищая точки захвата своей команды, в рейтинговых матчах «Spirit Watch»."
 "Defeat %num2% enemy[pl:""enemies""] while defending your team's capture points during Temple of the Silent Storm rated matches.","Победите %num2% враг[а|а|ов], защищая точки захвата своей команды, в рейтинговых матчах «Храм Безмолвной Бури»."
 "Defeat %num2% enemy[pl:""enemies""] while defending your team's capture points during rated Djinn's Dominion matches.","Победите %num2% враг[а|а|ов], защищая точки захвата своей команды, в рейтинговых матчах «Владения джинна»."
 "Defeat %num2% enemy[pl:""enemies""] while defending your team's capture points during rated Eternal Coliseum matches.","Победите %num2% враг[а|а|ов], защищая точки захвата своей команды, в рейтинговых матчах «Вечный колизей»."
@@ -43,8 +43,8 @@ Defeat %num2% player[s] during Forest of Niflhel rated matches.,Победите
 Defeat %num2% player[s] during Legacy of the Foefire rated matches.,Победите %num2% игрок[а|а|ов] в рейтинговых матчах «Наследие Огня Врагов».
 Defeat %num2% player[s] during Revenge of the Capricorn rated matches.,Победите %num2% игрок[а|а|ов] в рейтинговых матчах «Месть Козерога».
 Defeat %num2% player[s] during Skyhammer rated matches.,Победите %num2% игрок[а|а|ов] в рейтинговых матчах «Небесный молот».
-Defeat %num2% player[s] during Spirit Watch rated matches.,Победите %num2% игрок[а|а|ов] в рейтинговых матчах «Дозор духов».
-Defeat %num2% player[s] during Sunjiang Backstreets rated matches.,Победите %num2% игрок[а|а|ов] в рейтинговых матчах «Задворки Сунцзяна».
+Defeat %num2% player[s] during Spirit Watch rated matches.,Победите %num2% игрок[а|а|ов] в рейтинговых матчах «Spirit Watch».
+Defeat %num2% player[s] during Sunjiang Backstreets rated matches.,Победите %num2% игрок[а|а|ов] в рейтинговых матчах «Sunjiang Backstreets».
 Defeat %num2% player[s] during Temple of the Silent Storm rated matches.,Победите %num2% игрок[а|а|ов] в рейтинговых матчах «Храм Безмолвной Бури».
 Defeat %num2% players in ranked matches during 2v2 Season Eight.,Победите %num2% игроков в рейтинговых матчах в восьмом сезоне режима «2 на 2».
 Defeat %num2% players in ranked matches during 2v2 Season Five.,Победите %num2% игроков в рейтинговых матчах в пятом сезоне режима «2 на 2».
@@ -257,7 +257,7 @@ Defeat a champion in Bjora Marches.,Победите чемпиона в Bjora M
 "Defeat a champion-rank enemy in Caledon Forest, Metrica Province, Brisban Wildlands, Sparkfly Fen, or Mount Maelstrom.","Победите врага ранга чемпиона в Каледонском лесу, провинции Метрика, Дебрях Брисбана, Сверкающем болоте или горе Мальстрём."
 "Defeat a champion-rank enemy in Queensdale, Gendarran Fields, Kessex Hills, Harathi Hinterlands, Bloodtide Coast, or Southsun Cove.","Победите врага ранга чемпиона в Квинсдейле, Гендарранских полях, Кессекских холмах, Харатинских предгорьях, Побережье Кровавого прилива или бухте Саутсан."
 "Defeat a champion-rank enemy in Wayfarer Foothills, Snowden Drifts, Lornar's Pass, Dredgehaunt Cliffs, Timberline Falls, or Frostgorge Sound.","Победите врага ранга чемпиона в Предгорьях Странника, Сноуденских заносах, перевале Лорнара, Скалах Дреджей, Лесоповальных склонах или Звуке Морозной пропасти."
-"Defeat a champion-rank enemy in the Plains of Ashford, Blazeridge Steppes, Iron Marches, Fields of Ruin, Diessa Plateau, or Fireheart Rise.","Победите врага ранга чемпиона на равнинах Эшфорда, Степях Блейзридж, Железных Топях, Полях руин, плато Дисса или Возвышенности Огненного Сердца."
+"Defeat a champion-rank enemy in the Plains of Ashford, Blazeridge Steppes, Iron Marches, Fields of Ruin, Diessa Plateau, or Fireheart Rise.","Победите врага ранга чемпиона на равнинах Эшфорда, Степях Блейзридж, Железных Топях, Полях руин, плато Дисса или Fireheart Rise."
 "Defeat a champion-rank enemy in the Straits of Devastation, Malchor's Leap, or the Cursed Shore.","Победите врага ранга чемпиона в проливах Опустошения, Прыжке Мальхора или Проклятом берегу."
 Defeat a clone of yourself during the legendary doppelganger group event.,Победите своего клона во время группового события с легендарным двойником.
 Defeat a crazed karka queen on Southsun Cove.,Победите обезумевшую королеву карка на Southsun Cove.
@@ -420,7 +420,7 @@ Defeat the Manifestation of Self-Doubt in the Shining Blade headquarters without
 Defeat the Mark II Beta Exterminator Golem in under three minutes.,Одолейте Mark II Beta Exterminator Golem менее чем за три минуты.
 Defeat the Megadestroyer in the heart of the volcano in Mount Maelstrom.,Одолейте Megadestroyer в сердце вулкана в Mount Maelstrom.
 Defeat the Miniature Sun somewhere in Thunderhead Peaks.,Одолейте Миниатюрное Солнце где-то в Thunderhead Peaks.
-Defeat the Minister of Morale %num2% times in the Cold War raid encounter.,Победите Министра морали %num2% раз в рейдовом столкновении «Холодная война».
+Defeat the Minister of Morale %num2% times in the Cold War raid encounter.,Победите Министра морали %num2% раз в рейдовом столкновении «Cold War».
 Defeat the Mistburned champion in the Find and Defeat the Source of the Mists Runoff Scent event.,Одолейте Mistburned чемпиона в событии «Найти и одолеть источник запаха стока Туманов».
 "Defeat the Molten Berserker before defeating the Molten Firestorm in the first phase of the encounter, then defeat the upgraded Molten Firestorm in the second phase of the encounter in the Molten Boss fractal.","Одолейте Molten Berserker до того, как одолеете Molten Firestorm в первой фазе столкновения, затем одолейте улучшенного Molten Firestorm во второй фазе столкновения во фрактале Molten Boss."
 "Defeat the Molten Firestorm before defeating the Molten Berserker in the first phase of the encounter, then defeat the upgraded Molten Berserker in the second phase of the encounter in the Molten Boss fractal.","Одолейте Molten Firestorm до того, как одолеете Molten Berserker в первой фазе столкновения, затем одолейте улучшенного Molten Berserker во второй фазе столкновения во фрактале Molten Boss."
