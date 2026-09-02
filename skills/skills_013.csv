@@ -209,7 +209,7 @@ Swiftness,Быстрота
 Swing,Взмах
 Swing a holographic blade.,Взмахнуть голографическим клинком.
 "Swing an uppercut at your target, crippling them and granting vigor to nearby allies. Gain Nature's Strength if you hit an enemy. 
-<c=@reminder>This skill cannot activate Force of Nature.</c>","Нанесите апперкот по цели, нанося ей урон и лишая равновесия, а также даруя энергичность находящимся рядом союзникам. Если вы попадете по врагу, получите эффект «Сила природы».
+<c=@reminder>This skill cannot activate Force of Nature.</c>","Нанесите апперкот по цели, нанося ей урон и лишая равновесия, а также даруя энергичность находящимся рядом союзникам. Если вы попадете по врагу, получите эффект «Nature's Strength».
 <c=@reminder>Эта способность не активирует навык «Сила природы».</c>"
 Swing at enemies with your greatsword.,Махнуть двуручным мечом по вашим противникам.
 "Swing your greatsword again, inflicting vulnerability.","Снова взмахните двуручным мечом, накладывая уязвимость."
@@ -353,8 +353,8 @@ The Apocalypse Bringer summons forth allies if its defiance is not broken.,"Ве
 The Blue Guardian distributes its magic to a point that must be absorbed before it unleashes devastating damage.,"Синий Страж распределяет свою магию в точку, которую необходимо поглотить, прежде чем он нанесет разрушительный урон."
 "The Blue Guardian pulses energy every 3 seconds, damaging all foes in range.","Синий Страж пульсирует энергией каждые 3 секунды, нанося урон всем врагам в радиусе действия."
 "The Brood Queen charges, knocking away foes in her path.","Приказать вашему голему из плоти даровать себе Устойчивость и напасть на противника, сбивая с ног или отбрасывая противников у себя на пути."
-"The Brood Queen lashes out, sinking poisonous fangs into her foes as she knocks them down.","Королева выводка наносит удар, вонзая ядовитые клыки во врагов и сбивая их с ног."
-The Brood Queen unleashes its webs to pull and slow opponents.,"Королева выводка выпускает паутину, чтобы притянуть и замедлить противников."
+"The Brood Queen lashes out, sinking poisonous fangs into her foes as she knocks them down.","Brood Queen наносит удар, вонзая ядовитые клыки во врагов и сбивая их с ног."
+The Brood Queen unleashes its webs to pull and slow opponents.,"Brood Queen выпускает паутину, чтобы притянуть и замедлить противников."
 The Broodmother lashes out with poisonous fangs.,Мать выводка наносит удар ядовитыми клыками.
 The Broodmother spreads its webs to damage and slow its foes.,"Мать выводка распыляет паутину, чтобы нанести урон и замедлить врагов."
 The Broodmother unleashes a web to pull in enemies.,"Мать выводка выпускает паутину, чтобы притянуть врагов."
@@ -365,8 +365,8 @@ The Cobalt Knight unleashes an electrified wind that pushes opponents away and s
 "The Cobalt Knight unleashes chaining static arcs that hit three enemies each. Longer arcs deal increased damage. Struck targets become grounded for a few seconds, protecting them from additional arcs.","Кобальтовый рыцарь выпускает цепные статические дуги, поражающие по три врага каждая. Длинные дуги наносят повышенный урон. Пораженные цели заземляются на несколько секунд, что защищает их от дополнительных дуг."
 The Corrupted Luxon channels supernatural terror through his gaze. Look away!,Испорченный люксонец направляет сверхъестественный ужас через свой взгляд. Не смотрите на него!
 The Dreg Shark's forceful flop knocks back foes as it readies to jump back into the sorting piles.,"Мощный шлепок Акульего отродья отбрасывает врагов назад, пока оно готовится прыгнуть обратно в кучи сортировки."
-The Eater of Souls bashes your face in.,Пожиратель душ разбивает вам лицо.
-"The Eater of Souls regurgitates its stomach, spreading a viscous ooze on the ground.","Пожиратель душ извергает свой желудок, разливая вязкую слизь по земле."
+The Eater of Souls bashes your face in.,Eater of Souls разбивает вам лицо.
+"The Eater of Souls regurgitates its stomach, spreading a viscous ooze on the ground.","Eater of Souls извергает свой желудок, разливая вязкую слизь по земле."
 "The Enforcer leaps to the target area, damaging nearby enemies and knocking them down.","Силовик прыгает в целевую область, нанося урон ближайшим врагам и сбивая их с ног."
 "The Enforcer rushes to a location, leaving behind a trail of fire that damages and burns enemies within.","Броситься вперёд к вашей цели и получить Справедливость, нанеся удар и выпустив Пламя Непобедимого."
 "The Enforcer slams the target area with powerful energies, dealing heavy damage and applying extreme vulnerability for a short time. Targets with extreme vulnerability are killed by this attack.","Силовик обрушивает на целевую область мощную энергию, нанося тяжёлый урон и накладывая экстремальную уязвимость на короткое время. Цели с экстремальной уязвимостью погибают от этой атаки."
@@ -393,8 +393,8 @@ The Keep Construct dismantles itself into hundreds of pieces that hail down on t
 "The Keep Construct falls from the ceiling, crushing foes underneath and knocking them down.","Конструкт-хранитель падает с потолка, раздавливая врагов под собой и сбивая их с ног."
 The Keep Construct smashes its arm down behind it with tremendous force.,Конструкт-хранитель с огромной силой обрушивает свою руку позади себя.
 "The Keep Construct smashes its fists into the ground, rippling out waves of Xera's magic.","Конструкт-хранитель ударяет кулаками по земле, пуская волны магии Xera."
-The Magma Elemental explodes upon death.,Магматический элементаль взрывается при смерти.
-"The Magma Elemental stomps down, sending enemies flying.","Магматический элементаль топает, заставляя врагов разлетаться в стороны."
+The Magma Elemental explodes upon death.,Magma Elemental взрывается при смерти.
+"The Magma Elemental stomps down, sending enemies flying.","Magma Elemental топает, заставляя врагов разлетаться в стороны."
 "The Mech Rider launches toward the target with explosive force, dealing heavy damage and applying Extreme Vulnerability to enemies hit. Targets with Extreme Vulnerability take significant damage from this attack.","Мех-наездник бросается к цели с взрывной силой, нанося тяжёлый урон и накладывая экстремальную уязвимость на пораженных врагов. Цели с экстремальной уязвимостью получают значительный урон от этой атаки."
 "The Mech Rider overloads their power core, releasing a continuous blast of deadly jade energy.","Мех-наездник перегружает свое ядро питания, выпуская непрерывный поток смертоносной нефритовой энергии."
 "The Mech Rider swings at the nearest enemy, dealing heavy damage.","Мех-наездник наносит удар по ближайшему врагу, нанося тяжёлый урон."

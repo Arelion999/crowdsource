@@ -66,7 +66,7 @@ A recipe to turn yourself into an Ascalon Ghost,Рецепт превращен�
 <c=@flavor>""Even after death, I shall return! And all my enemies will burn, burn, BURN!""
 —Mad King Thorn</c>","Воспоминания о жизни и деяниях Безумного короля Торна, рассказанные его верными подданными и друзьями. Содержит полный рассказ о жизни короля Освальда Торна, от юности до ужасной смерти.
 <c=@flavor>«Даже после смерти я вернусь! И все мои враги сгорят, сгорят, СГОРЯТ!»
-— Безумный король Торн</c>"
+— Mad King Thorn</c>"
 "A record of your exploits as a hunter.
 Double-click to read.","Запись о ваших подвигах в качестве охотника.
 Дважды щёлкните, чтобы прочитать."
@@ -141,9 +141,9 @@ A shard of pitch black volcanic rock. It is extremely sharp. Sangdo Swiftwing is
 A shard of pure power used to create legendary weapons.,"Осколок чистой силы, используемый для создания легендарного оружия."
 "A shark statue used to create Kamohoali'i Kotaki.
 
-Purchase the recipe for this item from any Mystic Forge vendor and reach a jeweler rating of 400 to craft.","Статуя акулы, используемая для создания Камохоали'и Котаки.
+Purchase the recipe for this item from any Mystic Forge vendor and reach a jeweler rating of 400 to craft.","Статуя акулы, используемая для создания Kamohoali'i Kotaki.
 
-Купите рецепт этого предмета у любого торговца Мистической кузницы и достигните уровня ювелира 400, чтобы изготовить его."
+Купите рецепт этого предмета у любого торговца Mystic Forge и достигните уровня ювелира 400, чтобы изготовить его."
 A shield roughly forged from Brand crystal using techniques learned from Forge Master Hilina.,"Щит, грубо выкованный из кристалла Клейма по техникам, которым обучила мастер кузни Хилина."
 A shield skillfully forged from Brand crystal using techniques learned from Forge Master Hilina.,"Щит, искусно выкованный из кристалла Клейма по техникам, которым обучила мастер кузни Хилина."
 A short bow roughly forged from Brand crystal using techniques learned from Forge Master Hilina.,"Короткий лук, грубо выкованный из кристалла Клейма по техникам, которым обучила мастер кузни Хилина."
@@ -156,7 +156,7 @@ A six-petaled flower from Awakened Father Iweh in Elon Riverlands.,Цветок 
 
 You feel a calming sensation from this parchment, as if reliving the fond yet brief memories of your time in Tyria. 
 
-<c=@flavor>""To those who've come and gone, to those you still have as company, and to those you have yet to meet, may you find joy and shinies wherever you go.""</c>","Набросок Кррсол, Блестящей Блестяшки. На нём, кажется, изображён её друг-скритт, Гарр Свинцовый Коготь.
+<c=@flavor>""To those who've come and gone, to those you still have as company, and to those you have yet to meet, may you find joy and shinies wherever you go.""</c>","Набросок Кррсол, Блестящей Блестяшки. На нём, кажется, изображён её друг-скритт, Gharr Leadclaw.
 
 Вы чувствуете успокаивающее ощущение от этого пергамента, словно переживаете дорогие, но мимолётные воспоминания о вашем времени в Тирии.
 
@@ -488,8 +488,8 @@ Trade to alliance field quartermasters in Castora for a Restless Captain's Coat.
 Trade to alliance field quartermasters in Castora for an Extremis Coat.","Иногда выпадает за мета-событие «Тайны Чащи» в Звёздной чаще.
 Обменяйте у полевых интендантов альянса в Касторе на куртку «Экстремис»."
 Acquired while tracking and training your skyscale.,Получено во время выслеживания и обучения скайскейла.
-Acquiring this item expands your knowledge in the Dragon Slayer Mastery track and instantly grants you karma.,Получение этого предмета расширяет ваши знания в ветке мастерства «Убийца драконов» и мгновенно даёт карму.
-Acquiring this item unlocks a quest from the Wizard's Vault to acquire the Falling Star Spear and Meteor-Wielder's Glove.,При получении этого предмета открывается задание из Хранилища Волшебника на получение копья «Падающая звезда» и перчатки владеющего метеором.
+Acquiring this item expands your knowledge in the Dragon Slayer Mastery track and instantly grants you karma.,Получение этого предмета расширяет ваши знания в ветке мастерства «Dragon Slayer» и мгновенно даёт карму.
+Acquiring this item unlocks a quest from the Wizard's Vault to acquire the Falling Star Spear and Meteor-Wielder's Glove.,При получении этого предмета открывается задание из Хранилища Волшебника на получение копья «Falling Star» и перчатки владеющего метеором.
 Acquiring this item unlocks a quest from the Wizard's Vault to obtain the Coralheart Pillar and Coralheart Stake weapons.,Получение этого предмета открывает задание из Хранилища Волшебника на получение оружия «Столп кораллового сердца» и «Кол кораллового сердца».
 Acquiring this item unlocks a quest from the Wizard's Vault to obtain the forest wisp accessory and infusion.,Получение этого предмета открывает задание из Хранилища Волшебника на получение аксессуара и инфузии лесного огонька.
 Acrid Dye,Краска «Едкость»

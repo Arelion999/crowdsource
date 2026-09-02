@@ -149,14 +149,14 @@ Double-click to gain 50 luck.","С уходом Корага его оставш
 "'""<c=@flavor>""""The enemy doesn''t stand a chance now!""""</c>""'",«<c=@flavor>»«Врагу теперь не поздоровится!»</c>»
 "'""<c=@flavor>""""The first arrow I shot was from a bow such as this. Nevermind about that. That was a long time ago.""""
 —Pact Crusader D''Stolt""'","'""<c=@flavor>""""Первая стрела, которую я выпустил, была из такого лука. Не обращай внимания. Это было давно.""""
-—Крестоносец Пакта Д'Столт""'"
+—Pact Crusader Д'Столт""'"
 "'""<c=@flavor>""""The mission isn''t done until you come home.""""'","'""<c=@flavor>""""Миссия не закончена"
 "'""<c=@flavor>""""The sea is as deep as fate''s are intertwined.""""'","'""<c=@flavor>""""Море так же глубоко, как переплетены судьбы.""""'"
 "'""<c=@flavor>""""There''s more rust than iron left here.""""</c>""'","'""<c=@flavor>""""Здесь больше ржавчины, чем железа.""""</c>""'"
 "'""<c=@flavor>""""There''s only one thing better than a sword...""""'","""'<c=@flavor>""""Есть только одна вещь лучше меча...""""'"
 "'""<c=@flavor>""""These aren''t ACTUALLY everburning. But they will keep your feet from getting charred up around here.""""
 —Brencis Quickblood</c>""'","'""<c=@flavor>""""На самом деле они НЕ вечногорящие. Но они не дадут вашим ногам обуглиться здесь.""""
-—Бренсис Быстрокров</c>""'"
+—Brencis Quickblood</c>""'"
 "'""<c=@flavor>""""These creatures are just fleeing the undead. It''s a shame that they encroach upon the village and have to be dealt with so harshly.""""
 —Quennida</c>""'","""<c=@flavor>""""Эти существа просто спасаются от нежити. Жаль, что они вторгаются в деревню и с ними приходится так сурово разбираться.""""
 —Квеннида</c>""'"
@@ -189,7 +189,7 @@ Double-click to gain 50 luck.","С уходом Корага его оставш
 "'""<c=@flavor>""""Too bad we can''t put them back on the people that made them.""""'","'""<c=@flavor>""""Жаль"
 "'""<c=@flavor>""""Undercoats of certain colors cause aetherovacillation at wavelengths that can enhance an armor''s durability...maybe. We''re still waiting on lab results.""""
 —Peacemaker Owta</c>""'","'""<c=@flavor>""""Подкладки определённых цветов вызывают аэровакуумные колебания на длинах волн, которые могут повышать прочность брони... возможно. Мы всё ещё ждём результаты лабораторных исследований.""""
-—Миротворец Овта</c>""'"
+—Peacemaker Owta</c>""'"
 "'""<c=@flavor>""""Very interesting that the imp''s heart seems frozen but still works.""""'","'""<c=@flavor>""""Очень интересно, что сердце бесёнка кажется замороженным, но всё ещё работает.""""'"
 "'""<c=@flavor>""""Watch out for those destroyer fissures; one wrong move''ll get you a nasty burn.""""'","""<c=@flavor>""""Смотри в оба на эти разломы разрушителей; один неверный шаг — и получишь сильный ожог."""""
 "'""<c=@flavor>""""We aren''t expert marksmen the moment we awaken.""""'","'""<c=@flavor>""""Мы не становимся меткими стрелками в момент пробуждения.""""'"
@@ -663,18 +663,18 @@ Can be exchanged for a non-soulbound version at merchants in Amnoon.","32 сло
 "<c=@flavor>""These can also hold ale."",<c=@flavor>""""Они также могут держать эль.""""","<c=@flavor>""Они также могут держать эль"".,<c=@flavor>""""Они также могут держать эль""""."
 "<c=@flavor>""These guns have so many gears,' I''m sure the one this is from wont be missing it.""'
 —Legionnaire Sleekfur</c>","<c=@flavor>""В этих пушках так много шестерёнок,' что та, из которой эта, наверняка не заметит её пропажи.""'
-—Легионер Гладкошёрст</c>"
+—Legionnaire Sleekfur</c>"
 "<c=@flavor>""These nasty bears will reap what they've sown!""</c>","<c=@flavor>«Эти мерзкие медведи пожнут то, что посеяли!»</c>"
 "<c=@flavor>""These should keep you safe until we can get more supplies."",
 —Magister Kathryn</c>","<c=@flavor>«Они защитят вас, пока мы не получим новые припасы».,
-—Магистр Кэтрин</c>"
+—Magister Kathryn</c>"
 "<c=@flavor>""This can dispell the darkest of nights."",<c=@flavor>""«Это может развеять самую тёмную ночь.»","<c=@flavor>""Это может развеять самую тёмную ночь"".,<c=@flavor>""«Это может развеять самую тёмную ночь»""."
 "<c=@flavor>""This destroys just about anything: artifacts, grubs
 —Jezza</c>","<c=@flavor>«Это уничтожает почти всё: артефакты, личинки
 —Джезза</c>"
 "<c=@flavor>""This field manual appears to have had some heavy use,' possibly as a shield. A few of the pages look like they''ve been gnawed on a bit.""
 —Lionguard Rhyn</c>'","<c=@flavor>""Этот полевой справочник, похоже, много использовали, возможно, в качестве щита. Некоторые страницы выглядят так, будто их немного погрызли.""
-—Львиный страж Рин</c>"
+—Lionguard Rhyn</c>"
 "<c=@flavor>""This is a part from a steam creature,' I''ve studied it all I could maybe you''ll find it more useful.""
 —Garrius</c>'","<c=@flavor>""Это часть парового существа. Я изучил её, как мог, но, возможно, ты найдёшь ей лучшее применение.""
 — Гарриус</c>"
@@ -683,7 +683,7 @@ Can be exchanged for a non-soulbound version at merchants in Amnoon.","32 сло
 <c=@flavor>""""Это самая красивая из всех, что я когда-либо находил""""."
 "<c=@flavor>""This may seem daunting, but remember
 —Magister Pagga</c>","<c=@flavor>«Это может показаться пугающим, но помните
-—Магистр Пагга</c>»"
+—Magister Pagga</c>»"
 "<c=@flavor>""This one lasted longer than the rest."",<c=@flavor>""""Этот продержался дольше остальных.""""","<c=@flavor>""Этот продержался дольше остальных"".,<c=@flavor>""""Этот продержался дольше остальных""""."
 "<c=@flavor>""This pin might be a little too tactical."",<c=@flavor>""""Эта булавка может быть чересчур тактической.""""","<c=@flavor>""Эта булавка может быть чересчур тактической"".,<c=@flavor>""""Эта булавка может быть чересчур тактической""""."
 "<c=@flavor>""This should help when fighting the icebrood."",<c=@flavor>""""Это должно помочь в бою с ледокровавицей.""""","<c=@flavor>«Это должно помочь в бою с ледокровавицей»,<c=@flavor>«""Это должно помочь в бою с ледокровавицей""»"

@@ -220,8 +220,8 @@ english,translate
 "<c=@flavor>""Bandits hate fire.""<br>—Waldo</c>",<c=@flavor>«Бандиты ненавидят огонь».<br>—Уолдо</c>
 "<c=@flavor>""Bang, bang!""<br>—Cakilak'ka</c>","<c=@flavor>«Бах, бах!»<br>—Какилак'ка</c>"
 "<c=@flavor>""Bash the dragon, smash the dragon, may it never rise up again!""<br>—Excerpt from ""Bash the Dragon""</c>","<c=@flavor>«Бей дракона, круши дракона, пусть он никогда больше не восстанет!»<br>—Отрывок из «Бей дракона»</c>"
-"<c=@flavor>""Battle tested. Arcane Council approved.""<br>—Professor Gahf</c>",<c=@flavor>«Проверено в бою. Одобрено Тайным Советом».<br>—Профессор Гаф</c>
-"<c=@flavor>""Be careful not to cut yourself.""<br>—Lightbringer Zykk</c>","<c=@flavor>«Осторожно, не порежься».<br>—Светоносец Зикк</c>"
+"<c=@flavor>""Battle tested. Arcane Council approved.""<br>—Professor Gahf</c>",<c=@flavor>«Проверено в бою. Одобрено Магическим советом».<br>—Professor Gahf</c>
+"<c=@flavor>""Be careful not to cut yourself.""<br>—Lightbringer Zykk</c>","<c=@flavor>«Осторожно, не порежься».<br>—Lightbringer Zykk</c>"
 "<c=@flavor>""Be careful with that! It's very fragile.""<br>—Glaxx</c>",<c=@flavor>«Осторожно с этим! Очень хрупкое».<br>—Глакс</c>
 "<c=@flavor>""Be wise.""<br>—Lahri</c>",<c=@flavor>«Будь мудр».<br>—Лари</c>
 "<c=@flavor>""Bear watches over us.""<br>—Freygunn</c>",<c=@flavor>«Медведь охраняет нас».<br>—Фрейгунн</c>
@@ -231,7 +231,7 @@ english,translate
 "<c=@flavor>""Better to be as far from that rotting flesh smell as possible.""<br>—Priory Explorer Cyara</c>","<c=@flavor>«Лучше держаться подальше от этого запаха гниющей плоти, насколько возможно».<br>—Изыскатель Приората Циара</c>"
 "<c=@flavor>""Between the three of us, there's nothing we can't handle.""<br>—Rhea</c>",<c=@flavor>«Втроём нам любое дело по плечу».<br>—Реа</c>
 "<c=@flavor>""Big battles call for big weapons.""<br>—Arcanist Repth</c>",<c=@flavor>«Большие битвы требуют большого оружия».<br>—Арканист Репт</c>
-"<c=@flavor>""Blasphemy like that of the svanir needs to be cut from this world.""<br>—Crusader D'Stolt</c>",<c=@flavor>«Богохульство вроде свенира нужно вырезать из этого мира».<br>—Крестоносец Д'Столт</c>
+"<c=@flavor>""Blasphemy like that of the svanir needs to be cut from this world.""<br>—Crusader D'Stolt</c>",<c=@flavor>«Богохульство вроде свенира нужно вырезать из этого мира».<br>—Crusader D'Stolt</c>
 "<c=@flavor>""Blast, Build, Battle.""<br>—Iron Legion Motto</c>","<c=@flavor>«Взрывай, строй, сражайся».<br>—Девиз Железного легиона</c>"
 "<c=@flavor>""Bunny watches us, too.""<br>—Bjarni</c>",<c=@flavor>«Кролик тоже следит за нами».<br>—Бьярни</c>
 "<c=@Flavor>""Business is life, and life is good!""<br>—Anonymous Vabbian Trade Official</c>","<c=@Flavor>«Дело — это жизнь, а жизнь хороша!»<br>—Аноним, торговый чиновник Ваббии</c>"
@@ -246,12 +246,12 @@ english,translate
 "<c=@flavor>""Careful what sparks you create.""<br>—Jahr Duskrend</c>","<c=@flavor>«Осторожнее с тем, какие искры высекаешь».<br>—Джар Дасквенд</c>"
 "<c=@flavor>""Careful, very sharp!""<br>—Bordekka</c>","<c=@flavor>«Осторожно, очень острое!»<br>—Бордекка</c>"
 "<c=@flavor>""Careful. The wings will tickle your neck if you move your head too fast.""<br>—Huelic</c>","<c=@flavor>«Осторожно. Крылья пощекочут тебе шею, если резко повернёшь голову».<br>—Хьюлик</c>"
-"<c=@flavor>""Centaurs are highly flammable.""<br>—Forward Scout Luke</c>",<c=@flavor>«Кентавры прекрасно горят».<br>—Передовой разведчик Люк</c>
+"<c=@flavor>""Centaurs are highly flammable.""<br>—Forward Scout Luke</c>",<c=@flavor>«Кентавры прекрасно горят».<br>—Forward Scout Luke</c>
 "<c=@flavor>""Comes in handy if you get spotted sneaking.""<br>—Avarr</c>","<c=@flavor>«Пригодится, если тебя заметят при попытке подкрасться».<br>—Аварр</c>"
 "<c=@flavor>""Coming from the darkness they just grow like that.""<br>—Alarin</c>","<c=@flavor>«Выходя из тьмы, они просто так растут».<br>—Аларин</c>"
-"<c=@flavor>""Communication is the key to a successful operation, regardless of the size.""<br>—Agent Siobhan</c>","<c=@flavor>«Связь — ключ к успешной операции, вне зависимости от масштаба».<br>—Агент Шивон</c>"
+"<c=@flavor>""Communication is the key to a successful operation, regardless of the size.""<br>—Agent Siobhan</c>","<c=@flavor>«Связь — ключ к успешной операции, вне зависимости от масштаба».<br>—Agent Siobhan</c>"
 "<c=@flavor>""Conquer all.""<br>—Blood Legion Motto</c>",<c=@flavor>«Покорить всё».<br>—Девиз Кровавого легиона</c>
-"<c=@flavor>""Cooperation brought us to this point. It will see us through.""<br>—Tactician Almonia</c>",<c=@flavor>«Сотрудничество привело нас сюда. Оно же и проведёт нас дальше».<br>—Тактик Алмония</c>
+"<c=@flavor>""Cooperation brought us to this point. It will see us through.""<br>—Tactician Almonia</c>",<c=@flavor>«Сотрудничество привело нас сюда. Оно же и проведёт нас дальше».<br>—Tactician Almonia</c>
 "<c=@flavor>""Cover your head. That's rule number one when all the other rules go out the window.""<br>—Scholar Blix</c>","<c=@flavor>«Прикрывай голову. Это правило номер один, когда все остальные правила летят к чертям».<br>—Учёная Бликс</c>"
 "<c=@flavor>""Crab grabbin' can be dangerous. Protect those mitts!""<br>—Bram Dawnrazer</c>",<c=@flavor>«Ловля крабов может быть опасной. Береги свои клешни!»<br>—Брам Рассветный Разбойник</c>
 "<c=@flavor>""Customized iron sights for increased damage and accuracy.""<br>—Ulva</c>",<c=@flavor>«Особые прицельные приспособления для увеличенного урона и точности».<br>—Улва</c>
@@ -270,8 +270,8 @@ english,translate
 "<c=@flavor>""Don't eat this one—the stuff I preserved it with doesn't taste too good.""<br>—Elain</c>","<c=@flavor>«Не ешь это — то, чем я это законсервировала, не очень приятно на вкус».<br>—Элейн</c>"
 "<c=@flavor>""Don't get any funny ideas. Only trained techs can replace a gate crystal.""<br>—Glaxx</c>",<c=@flavor>«Даже не думай. Только обученные техники могут заменить кристалл врат».<br>—Глакс</c>
 "<c=@flavor>""Don't go into the water to rescue Wardens without this speargun. It'll keep those undead off you."" <br>—Danu</c>a",<c=@flavor>«Не лезь в воду спасать Стражей без этого гарпунного ружья. Оно удержит нежить подальше от тебя». <br>—Дану</c>
-"<c=@flavor>""Don't just go around touching things. I learned that the unpleasant way.""<br>—Recruit Tochacatl</c>",<c=@flavor>«Не трогай всё подряд без разбора. Я усвоила это неприятным способом».<br>—Новобранец Точакатль</c>
-"<c=@flavor>""Don't mind the centaur blood.""<br>—Corporal Lebeau</c>",<c=@flavor>«Не обращай внимания на кровь кентавра».<br>—Капрал Лебо</c>
+"<c=@flavor>""Don't just go around touching things. I learned that the unpleasant way.""<br>—Recruit Tochacatl</c>",<c=@flavor>«Не трогай всё подряд без разбора. Я усвоила это неприятным способом».<br>—Recruit Tochacatl</c>
+"<c=@flavor>""Don't mind the centaur blood.""<br>—Corporal Lebeau</c>",<c=@flavor>«Не обращай внимания на кровь кентавра».<br>—Corporal Lebeau</c>
 "<c=@flavor>""Don't shoot your own eye out!""<br>—Twitchok</c>",<c=@flavor>«Не отстрели себе глаз!»<br>—Твичок</c>
 "<c=@flavor>""Don't wait for shadows to make the first move. Stab them first."" <br>—Mate Watt</c>","<c=@flavor>«Не жди, пока тени сделают первый ход. Ударь первым». <br>—Матрос Уотт</c>"
 "<c=@flavor>""Don't want anything getting close to you? Then, you want this.""<br>—Nessi</c>","<c=@flavor>«Не хочешь, чтобы к тебе кто-то приближался? Тогда тебе нужно это».<br>—Несси</c>"
@@ -283,7 +283,7 @@ english,translate
 "<c=@flavor>""Enemies of the state flee before the sight of anyone wearing this.""<br>—Goran</c>","<c=@flavor>«Враги государства бегут при одном виде того, кто это носит».<br>—Горан</c>"
 "<c=@flavor>""Enjoy the bubbles!""<br>—Varonos Parump</c>",<c=@flavor>«Наслаждайся пузырьками!»<br>—Варонос Парамп</c>
 "<c=@flavor>""Ettin ring make you strong!""<br>—Krug</c>",<c=@flavor>«Кольцо эттинов делает тебя сильным!»<br>—Круг</c>
-"<c=@flavor>""Even the depths require much.""<br>—Worthy Burden</c>",<c=@flavor>«Даже глубины требуют многого».<br>—Достойное Бремя</c>
+"<c=@flavor>""Even the depths require much.""<br>—Worthy Burden</c>",<c=@flavor>«Даже глубины требуют многого».<br>—Worthy Burden</c>
 "<c=@flavor>""Even the mightiest tree loses a branch from time to time.""<br>—Leigheara</c>",<c=@flavor>«Даже могучее дерево время от времени теряет ветвь».<br>—Лейхара</c>
 "<c=@flavor>""Even the smallest sapling can still be useful.""<br>—Leigheara</c>",<c=@flavor>«Даже самый маленький саженец может быть полезен».<br>—Лейхара</c>
 "<c=@flavor>""Even the tallest tree starts as a tiny seed.""<br>—Diantha</c>",<c=@flavor>«Даже самое высокое дерево начинается с крошечного семени».<br>—Диантха</c>
@@ -292,13 +292,13 @@ english,translate
 "<c=@flavor>""Excellent quality First Haven handwear.""<br>—Clerk Ulva</c>",<c=@flavor>«Первосортные перчатки из Первой Гавани».<br>—Клерк Улва</c>
 "<c=@flavor>""Excessive use has been linked to hearing loss in skritt.""<br>—Dr. Klagg</c>",<c=@flavor>«Чрезмерное использование связывают с потерей слуха у скриттов».<br>—Доктор Клагг</c>
 "<c=@flavor>""Favorite bow. Thank you.""<br>—Mokooki</c>",<c=@flavor>«Любимый лук. Спасибо».<br>—Мокооки</c>
-"<c=@flavor>""Fight fire with fire. Well in this case, blackpowder, fire, and a projectile.""<br>—Corva Sharpclaw</c>","<c=@flavor>«Бей огонь огнём. Ну, в данном случае — чёрным порохом, огнём и снарядом».<br>—Корва Остроког</c>"
-"<c=@flavor>""Fight magic with magic, they say.""<br>—Tactician Almonia</c>","<c=@flavor>«Говорят, магию бьют магией».<br>—Тактик Алмония</c>"
+"<c=@flavor>""Fight fire with fire. Well in this case, blackpowder, fire, and a projectile.""<br>—Corva Sharpclaw</c>","<c=@flavor>«Бей огонь огнём. Ну, в данном случае — чёрным порохом, огнём и снарядом».<br>—Corva Sharpclaw</c>"
+"<c=@flavor>""Fight magic with magic, they say.""<br>—Tactician Almonia</c>","<c=@flavor>«Говорят, магию бьют магией».<br>—Tactician Almonia</c>"
 "<c=@flavor>""Fighting odd mechanical creatures can be as easy as bringing the right stick.""<br>—Garrius</c>","<c=@flavor>«Сражаться со странными механическими существами так же просто, как захватить с собой нужную палку».<br>—Гарриус</c>"
 "<c=@flavor>""Find balance or fall into discord.""<br>—Guardian Infinite Mind</c>",<c=@flavor>«Найди равновесие или впади в раздор».<br>—Страж Бесконечный Разум</c>
 "<c=@flavor>""Finest pistol ever 'donated' to our cause.""<br>—Maakel The Immortal</c>","<c=@flavor>«Лучший пистолет, когда-либо „пожертвованный“ нашему делу».<br>—Маакель Бессмертный</c>"
 "<c=@flavor>""Fires with deadly accuracy.""<br>—Diantha</c>",<c=@flavor>«Стреляет со смертоносной точностью».<br>—Диантха</c>
-"<c=@flavor>""First thing you learn in the Priory is how to keep these from burning out.""<br>—Priory Researcher Raekk</c>","<c=@flavor>«Первое, чему учишься в Приорате, — как не дать этому перегореть».<br>—Исследователь Приората Рек-к-к</c>"
+"<c=@flavor>""First thing you learn in the Priory is how to keep these from burning out.""<br>—Priory Researcher Raekk</c>","<c=@flavor>«Первое, чему учишься в Приорате, — как не дать этому перегореть».<br>—Priory Researcher Рек-к-к</c>"
 "<c=@flavor>""Fish love the truffle.""<br>—Matlal</c>",<c=@flavor>«Рыба любит трюфель».<br>—Матлал</c>
 "<c=@flavor>""Flame. Dark. Shadow. Burn.""<br>—Secret Code 872SQ</c>",<c=@flavor>«Пламя. Тьма. Тень. Гори».<br>—Секретный код 872SQ</c>
 "<c=@flavor>""Folks don't just breathe water.""<br>—Fisherman Will</c>",<c=@flavor>«Не все дышат только водой».<br>—Рыбак Уилл</c>
@@ -314,12 +314,12 @@ english,translate
 "<c=@flavor>""Found it just lying around in the bog. Imagine that.""<br>—Issa</c>",<c=@flavor>«Нашла это прямо в болоте. Представь себе».<br>—Исса</c>
 "<c=@flavor>""Friends of the Wupwup are friends of the warthog.""<br>—Wupwup Chief</c>",<c=@flavor>«Друзья Вапвапа — друзья бородавочника».<br>—Вождь вапвапов</c>
 "<c=@flavor>""From a once-proud race.""<br>—Lionguard Nadel</c>",<c=@flavor>«От некогда гордой расы».<br>—Страж Льва Надел</c>
-"<c=@flavor>""Functional and stylish!""<br>—Crusader Patrick</c>",<c=@flavor>«Функционально и стильно!»<br>—Крестоносец Патрик</c>
+"<c=@flavor>""Functional and stylish!""<br>—Crusader Patrick</c>",<c=@flavor>«Функционально и стильно!»<br>—Crusader Patrick</c>
 "<c=@flavor>""Fur keeps the head warm.""<br>—Gestre Howle</c>",<c=@flavor>«Мех сохраняет голову в тепле».<br>—Гестре Хоул</c>
 "<c=@flavor>""Get a lot of these, fighting those jotun.""<br>—Nadel</c>",<c=@flavor>«Раздобудь побольше этого в боях с ётунами».<br>—Надел</c>
-"<c=@flavor>""Gift this speargun to your friend that hates water. Hilarious.""<br>—Lieutenant Pickins</c>","<c=@flavor>«Подари это гарпунное ружьё другу, который ненавидит воду. Обхохочешься».<br>—Лейтенант Пикинс</c>"
+"<c=@flavor>""Gift this speargun to your friend that hates water. Hilarious.""<br>—Lieutenant Pickins</c>","<c=@flavor>«Подари это гарпунное ружьё другу, который ненавидит воду. Обхохочешься».<br>—Lieutenant Pickins</c>"
 "<c=@flavor>""Go for a swim!""<br>—Creator Zee</c>",<c=@flavor>«Иди поплавай!»<br>—Творец Зи</c>
-"<c=@flavor>""Good discipline will keep the militia strong.""<br>—Sergeant Soto</c>",<c=@flavor>«Хорошая дисциплина сохранит силу ополчения».<br>—Сержант Сото</c>
+"<c=@flavor>""Good discipline will keep the militia strong.""<br>—Sergeant Soto</c>",<c=@flavor>«Хорошая дисциплина сохранит силу ополчения».<br>—Sergeant Soto</c>
 "<c=@flavor>""Good for breathing.""<br>—Lugung</c>",<c=@flavor>«Хорошо для дыхания».<br>—Лугунг</c>
 "<c=@flavor>""Good for digging in the dirt!""<br>—Sneckit</c>","<c=@flavor>«Отлично подходит, чтобы копаться в земле!»<br>—Снеккит</c>"
 "<c=@flavor>""Good for herding dolyaks.""<br>—Maxtar Rapidstep</c>",<c=@flavor>«Хорошо подходит для выпаса дольяков».<br>—Макстар Быстрый Шаг</c>
@@ -342,10 +342,10 @@ english,translate
 "<c=@flavor>""Great for deep diving or shallow snorkeling.""<br>—Agent Rjoda</c>",<c=@flavor>«Отлично подходит для глубокого погружения или мелкого сноркелинга».<br>—Агент Рджода</c>
 "<c=@flavor>""Great for environmentally friendly sabotage.""<br>—Environmental Activist Jenrys</c>",<c=@flavor>«Отлично подходит для экологичного саботажа».<br>—Эко-активист Дженрис</c>
 "<c=@flavor>""Great for lighting just about anything ablaze.""<br>—Crusader Vilborg</c>","<c=@flavor>«Отлично подходит, чтобы поджечь почти что угодно».<br>—Крестоносец Вилборг</c>"
-"<c=@flavor>""Great for splitting lumber. Or centaurs.""<br>—Forward Scout Luke</c>",<c=@flavor>«Отлично подходит для колки дров. Или кентавров».<br>—Передовой разведчик Люк</c>
+"<c=@flavor>""Great for splitting lumber. Or centaurs.""<br>—Forward Scout Luke</c>",<c=@flavor>«Отлично подходит для колки дров. Или кентавров».<br>—Forward Scout Luke</c>
 "<c=@flavor>""Great power in mountain skull. We make small mountain you hold in hand.""<br>—Wupwup Chief</c>","<c=@flavor>«Великая сила в горном черепе. Мы делаем маленькую гору, которую держишь в руке».<br>—Вождь вапвапов</c>"
-"<c=@flavor>""Great protection and excellent style.""<br>—Sheriff Kaargoth Bloodclaw</c>",<c=@flavor>«Отличная защита и превосходный стиль».<br>—Шериф Каргот Кровавый Коготь</c>
-"<c=@flavor>""Harpy down makes a good pillow. It's soft and warm.""<br>—Sagum Relicseeker</c>",<c=@flavor>«Гарпийий пух делает хорошую подушку. Мягкую и тёплую».<br>—Сагум Искатель Реликвий</c>
+"<c=@flavor>""Great protection and excellent style.""<br>—Sheriff Kaargoth Bloodclaw</c>",<c=@flavor>«Отличная защита и превосходный стиль».<br>—Шериф Kaargoth Bloodclaw</c>
+"<c=@flavor>""Harpy down makes a good pillow. It's soft and warm.""<br>—Sagum Relicseeker</c>",<c=@flavor>«Гарпийий пух делает хорошую подушку. Мягкую и тёплую».<br>—Sagum Relicseeker</c>
 "<c=@flavor>""Has never failed me. Well, almost never.""<br>—Twitchok</c>","<c=@flavor>«Никогда меня не подводил. Ну, почти никогда».<br>—Твичок</c>"
 "<c=@flavor>""Have to protect the little ones.""<br>—Braxa Scalehunter</c>",<c=@flavor>«Нужно защищать малышей».<br>—Бракса Чешуйница</c>
 "<c=@flavor>""Have you seen how drafty these buildings are?""<br>—Cin</c><br><br>This item only has value as part of a collection.","<c=@flavor>«Видел, какие в этих зданиях сквозняки?»<br>—Син</c><br><br>Этот предмет ценен только как часть коллекции."
@@ -386,10 +386,10 @@ english,translate
 "<c=@flavor>""I have yet to see a spell backfire from this particular model.""<br>—Mei Shadowwalker</c>","<c=@flavor>«Ещё не видела, чтобы заклинание дало осечку у этой модели».<br>—Мэй Теневая Странница</c>"
 "<c=@flavor>""I heard our purple ball's inside a plant. If it's a potato chest, bring us back some to eat?""<br>—Laine</c>","<c=@flavor>«Слышал, наш фиолетовый шар внутри растения. Если это картофельный сундук, принесёте нам немного поесть?»<br>—Лейн</c>"
 "<c=@flavor>""I heard the sand coo at me, so take this, and use it in the sand if you hear the same."" <br>—Danu</c>","<c=@flavor>«Мне послышалось, будто песок мне что-то воркует, так что возьми это и используй в песке, если услышишь то же самое». <br>—Дану</c>"
-"<c=@flavor>""I keep these daggers sharp, just in case of an attack.""<br>—Lexi Price</c>",<c=@flavor>«Держу эти кинжалы острыми на случай нападения».<br>—Лекси Прайс</c>
+"<c=@flavor>""I keep these daggers sharp, just in case of an attack.""<br>—Lexi Price</c>",<c=@flavor>«Держу эти кинжалы острыми на случай нападения».<br>—Lexi Price</c>
 "<c=@flavor>""I know an alchemist who often inquires about such things.""<br>—Cin</c><br><br>This item only has value as part of a collection.","<c=@flavor>«Я знаю алхимика, который часто про такое расспрашивает».<br>—Син</c><br><br>Этот предмет ценен только как часть коллекции."
 "<c=@flavor>""I might be stuck here, but you don't need to be.""<br>—Lionguard Hester</c>","<c=@flavor>«Может, я тут застряла, но тебе не обязательно».<br>—Страж Льва Эстер</c>"
-"<c=@flavor>""I prefer a sword, but this will do in a pinch.""<br>—Lieutenant Pickins</c>","<c=@flavor>«Я предпочитаю меч, но в крайнем случае сойдёт и это».<br>—Лейтенант Пикинс</c>"
+"<c=@flavor>""I prefer a sword, but this will do in a pinch.""<br>—Lieutenant Pickins</c>","<c=@flavor>«Я предпочитаю меч, но в крайнем случае сойдёт и это».<br>—Lieutenant Pickins</c>"
 "<c=@flavor>""I remember this one year when the crabs were stealing all my bait...""<br>—Fisherman Will</c>","<c=@flavor>«Помню один год, когда крабы воровали всю мою наживку...»<br>—Рыбак Уилл</c>"
 "<c=@flavor>""I should have had these on for that ambush.""<br>—Private Felix</c>",<c=@flavor>«Надо было надеть это перед той засадой».<br>—Рядовой Феликс</c>
 "<c=@flavor>""I should have never left the raft.""<br>—Vallog</c>",<c=@flavor>«Не надо было мне покидать плот».<br>—Валлог</c>
@@ -397,15 +397,15 @@ english,translate
 "<c=@flavor>""I will bear your pain.""<br>—Caithe</c>",<c=@flavor>«Я разделю твою боль».<br>—Каите</c>
 "<c=@flavor>""I wonder what the jotun used these for...""<br>—Albin Chronicler</c>","<c=@flavor>«Интересно, для чего ётуны это использовали...»<br>—Летописец Альбин</c>"
 "<c=@flavor>""I wonder why grawl like orange so much.""<br>—Arcanist Aurelio Shiverpaw</c>","<c=@flavor>«Интересно, почему граулы так любят оранжевый».<br>—Арканист Аурелио Дрожащая Лапа</c>"
-"<c=@flavor>""I'll stop when they're dead.""<br>—Broil Cane</c>","<c=@flavor>«Я остановлюсь, когда они умрут».<br>—Бройл Кейн</c>"
+"<c=@flavor>""I'll stop when they're dead.""<br>—Broil Cane</c>","<c=@flavor>«Я остановлюсь, когда они умрут».<br>—Broil Cane</c>"
 "<c=@flavor>""I'm done with your games, and I'm finished with you. I am not your dearheart.""<br>—Caithe</c>","<c=@flavor>«С меня хватит твоих игр, и с тобой я закончила. Я не твоя зазноба».<br>—Каите</c>"
 "<c=@flavor>""I'm positive this will work. Unlike the last few...""<br>—Twitchok</c>","<c=@flavor>«Уверена, что это сработает. В отличие от прошлых нескольких...»<br>—Твичок</c>"
 "<c=@flavor>""I'm pretty sure the ghosts didn't mind me taking this. Well, sixty-four percent sure.""<br>—Ket</c>","<c=@flavor>«Почти уверен, что призраки не против того, что я это забрал. Ну, процентов на шестьдесят четыре уверен».<br>—Кет</c>"
 "<c=@flavor>""I'm pretty sure the ghosts didn't mind me taking this. well, sixty-four percent sure.""<br>—Ket</c>","<c=@flavor>«Почти уверен, что призраки не против того, что я это забрал. ну, процентов на шестьдесят четыре уверен».<br>—Кет</c>"
 "<c=@flavor>""I'm still not sure how 'ghostly' metal can exist...""<br>—Fyra </c>","<c=@flavor>«Всё ещё не уверена, как может существовать „призрачный“ металл...»<br>—Файра </c>"
-"<c=@flavor>""I'm surprised this survived first contact with the enemy.""<br>—Magister Pagga</c>","<c=@flavor>«Удивлён, что это пережило первый контакт с врагом».<br>—Магистр Пагга</c>"
+"<c=@flavor>""I'm surprised this survived first contact with the enemy.""<br>—Magister Pagga</c>","<c=@flavor>«Удивлён, что это пережило первый контакт с врагом».<br>—Magister Pagga</c>"
 "<c=@flavor>""I've already learned everything I can from it.""<br>—Wistt</c>","<c=@flavor>«Я уже узнала от этого всё, что могла».<br>—Уистт</c>"
-"<c=@flavor>""I've seen enough battles to know when to use this and when to use diplomacy.""<br>—Tactician Sebastian</c>","<c=@flavor>«Повидал достаточно битв, чтобы знать, когда применять это, а когда — дипломатию».<br>—Тактик Себастьян</c>"
+"<c=@flavor>""I've seen enough battles to know when to use this and when to use diplomacy.""<br>—Tactician Sebastian</c>","<c=@flavor>«Повидал достаточно битв, чтобы знать, когда применять это, а когда — дипломатию».<br>—Tactician Sebastian</c>"
 "<c=@flavor>""If anyone asks, you didn't get it from me.""<br>—Mrr'kkant</c>",<c=@flavor>«Если кто спросит — ты получил это не от меня».<br>—Мрр'ккант</c>
 "<c=@flavor>""If only we had a way to fire them back.""<br>—Hua'racche</c>",<c=@flavor>«Если бы только был способ выстрелить ими в ответ».<br>—Хуарраче</c>
 "<c=@flavor>""If Wark tries to claim this as his design, you just ignore that filthy harpy-lover.""<br>—Wode</c>","<c=@flavor>«Если Уорк попробует выдать это за свой дизайн, просто игнорируй этого грязного гарпиелюба».<br>—Уод</c>"
@@ -415,12 +415,12 @@ english,translate
 "<c=@flavor>""If you think an undead is going to suck out your eyeballs, protect yourself by covering them and swinging!"" <br>—Potatlan</c>","<c=@flavor>«Если думаешь, что нежить собирается высосать тебе глаза, защитись, прикрыв их и размахивая оружием!» <br>—Потатлан</c>"
 "<c=@flavor>""If you think this one is big, you should see the one above the fireplace.""<br>—Hunter Block</c>","<c=@flavor>«Если думаешь, что этот большой, посмотрел бы ты на тот, что над камином».<br>—Охотник Блок</c>"
 "<c=@flavor>""If you unload with this, there's usually not much left worth bringing back.""<br>—Hunter Block</c>","<c=@flavor>«Если выпустишь из этого весь боезапас, обычно уже мало что стоит забирать домой».<br>—Охотник Блок</c>"
-"<c=@flavor>""If you want to keep a piece, it's all yours.""<br>—Crusader Brice</c>",<c=@flavor>«Если хочешь оставить кусок себе — он весь твой».<br>—Крестоносец Брайс</c>
+"<c=@flavor>""If you want to keep a piece, it's all yours.""<br>—Crusader Brice</c>",<c=@flavor>«Если хочешь оставить кусок себе — он весь твой».<br>—Crusader Brice</c>
 "<c=@flavor>""If you're going to be up close with those dredge, pack some extra powder for a bigger kick.""<br>—Rinceword</c>","<c=@flavor>«Если собираешься быть близко к этим дреджам, возьми с собой лишнего пороха для большей отдачи».<br>—Ринсворд</c>"
 "<c=@flavor>""If you're hit, the natural reaction is to hit back. Harder.""<br>—Explorer Brokkar</c>","<c=@flavor>«Если тебя ударили, естественная реакция — ударить в ответ. Сильнее».<br>—Изыскатель Броккар</c>"
 "<c=@flavor>""Impressive.""<br>—Solita Miststalker</c>",<c=@flavor>«Впечатляюще».<br>—Солита Туманоискательница</c>
 "<c=@flavor>""In case I don't make it, this will prove I was a genius!""<br>—Explorer Trebb</c>","<c=@flavor>«На случай, если не выживу, это докажет, что я был гением!»<br>—Изыскатель Требб</c>"
-"<c=@flavor>""In case of centaurs, apply footwear. Then start the party!""<br>—Scout Jones</c>",<c=@flavor>«В случае кентавров — надень обувь. Затем начинай вечеринку!»<br>—Разведчик Джонс</c>
+"<c=@flavor>""In case of centaurs, apply footwear. Then start the party!""<br>—Scout Jones</c>",<c=@flavor>«В случае кентавров — надень обувь. Затем начинай вечеринку!»<br>—Scout Jones</c>
 "<c=@flavor>""In retrospect, I probably picked the wrong time to clean my gun.""<br>—Private Felix</c>","<c=@flavor>«Оглядываясь назад, я, наверное, выбрал не то время, чтобы чистить оружие».<br>—Рядовой Феликс</c>"
 "<c=@flavor>""Infused with the morning's light.""<br>—Wyld Hunt Valiant Caillech</c>",<c=@flavor>«Наполнено светом утра».<br>—Валиант Дикой Охоты Кайлек</c>
 "<c=@flavor>""It almost looks like it's watching you.""<br>—Aidem</c>","<c=@flavor>«Такое чувство, что это почти следит за тобой».<br>—Айдём</c>"
@@ -433,10 +433,10 @@ english,translate
 "<c=@flavor>""It is said our feathers can control the winds.""<br>—Sangdo Swiftwing</c>","<c=@flavor>«Говорят, наши перья могут управлять ветрами».<br>—Сангдо Быстрокрылый</c>"
 "<c=@flavor>""It's a tool, but it's also a weapon.""<br>—Surveyor Falki</c>","<c=@flavor>«Это инструмент, но это ещё и оружие».<br>—Землемер Фальки</c>"
 "<c=@flavor>""It's amazing what can happen when you get everyone working together.""<br>—Magister Izzmek</c>","<c=@flavor>«Удивительно, что может произойти, когда все начинают работать вместе».<br>—Магистр Иззмек</c>"
-"<c=@flavor>""It's amazing what you can find in a old Skritt cave.""<br>—Crusader Aisling</c>","<c=@flavor>«Удивительно, что можно найти в старой пещере скриттов».<br>—Крестоносец Эйслинг</c>"
+"<c=@flavor>""It's amazing what you can find in a old Skritt cave.""<br>—Crusader Aisling</c>","<c=@flavor>«Удивительно, что можно найти в старой пещере скриттов».<br>—Crusader Aisling</c>"
 "<c=@flavor>""It's been recalibrated using the energy readings we took in this area. It'll be quite effective."" <br>—Kamma</c>","<c=@flavor>«Это перекалибровали, используя показания энергии, снятые в этой местности. Будет весьма эффективно». <br>—Камма</c>"
 "<c=@flavor>""It's dried, so the poison won't affect you. Just don't get it wet.""<br>—Laudren</c>","<c=@flavor>«Это высушено, так что яд на тебя не подействует. Просто не мочи это».<br>—Лаудрен</c>"
-"<c=@flavor>""It's easier to be vigilant when you have this in your hands.""<br>—Crusader Brice</c>","<c=@flavor>«Легче быть бдительным, когда это у тебя в руках».<br>—Крестоносец Брайс</c>"
+"<c=@flavor>""It's easier to be vigilant when you have this in your hands.""<br>—Crusader Brice</c>","<c=@flavor>«Легче быть бдительным, когда это у тебя в руках».<br>—Crusader Brice</c>"
 "<c=@flavor>""It's got a hair-trigger. I wouldn't suggest pointing this at yourself while cleaning.""<br>—Vejj</c>",<c=@flavor>«У этого чувствительный спусковой крючок. Не советую направлять это на себя во время чистки».<br>—Вэйдж</c>
 "<c=@flavor>""It's important to have the right shoes for the job.""<br>—Vasher Shadowsinner</c>",<c=@flavor>«Важно иметь подходящую обувь для дела».<br>—Вашер Тенепевец</c>
 "<c=@flavor>""It's not enough to protect the body. One must protect the soul, as well.""<br>—Lightbringer Ives</c>",<c=@flavor>«Недостаточно защищать тело. Нужно защищать ещё и душу».<br>—Светоносец Айвз</c>
@@ -447,15 +447,15 @@ english,translate
 "<c=@flavor>""It's odd to see the grawl worshipping something more powerful than barely shaped rocks.""<br>—Tor the Tall</c>","<c=@flavor>«Странно видеть, как граулы поклоняются чему-то более могущественному, чем едва обтёсанные камни».<br>—Тор Высокий</c>"
 "<c=@flavor>""It's quite shiny, isn't it?""<br>—Krew Leader Pachoo</c>","<c=@flavor>«Довольно блестящее, не правда ли?»<br>—Глава команды Пачу</c>"
 "<c=@flavor>""It's the height of Beetletun style! Well, it was last year, anyway.""<br>—Paden</c>","<c=@flavor>«Это вершина стиля Битлтауна! Ну, по крайней мере, была в прошлом году».<br>—Пейден</c>"
-"<c=@flavor>""It's the helm of the upper arm.""<br>—Zalvax Brokenclaw</c>",<c=@flavor>«Это шлем для верхней части руки».<br>—Залвакс Сломанный Коготь</c>
-"<c=@flavor>""Its not the sword that's great, but who wields it.""<br>—Pact Crusader D'Stolt</c>","<c=@flavor>«Не меч велик, а тот, кто им владеет».<br>—Крестоносец Пакта Д'Столт</c>"
-"<c=@flavor>""Its too bad this wont block the stench of this place.""<br>—Magister Pagga</c>","<c=@flavor>«Жаль, что это не заблокирует вонь этого места».<br>—Магистр Пагга</c>"
-"<c=@flavor>""Just a copy for your files. Don't worry about the fine print. It's boilerplate.""<br>—Advisor Zakk</c>",<c=@flavor>«Просто копия для твоих архивов. Не переживай насчёт мелкого шрифта. Это стандартная формулировка».<br>—Советник Закк</c>
+"<c=@flavor>""It's the helm of the upper arm.""<br>—Zalvax Brokenclaw</c>",<c=@flavor>«Это шлем для верхней части руки».<br>—Zalvax Brokenclaw</c>
+"<c=@flavor>""Its not the sword that's great, but who wields it.""<br>—Pact Crusader D'Stolt</c>","<c=@flavor>«Не меч велик, а тот, кто им владеет».<br>—Pact Crusader Д'Столт</c>"
+"<c=@flavor>""Its too bad this wont block the stench of this place.""<br>—Magister Pagga</c>","<c=@flavor>«Жаль, что это не заблокирует вонь этого места».<br>—Magister Pagga</c>"
+"<c=@flavor>""Just a copy for your files. Don't worry about the fine print. It's boilerplate.""<br>—Advisor Zakk</c>",<c=@flavor>«Просто копия для твоих архивов. Не переживай насчёт мелкого шрифта. Это стандартная формулировка».<br>—Advisor Zakk</c>
 "<c=@flavor>""Just a small piece of the Terebinth's power.""<br>—Leigheara</c>",<c=@flavor>«Всего лишь маленький кусочек силы Теребинта».<br>—Лейхара</c>
 "<c=@flavor>""Just holding it makes me feel better.""<br>—Leigheara</c>","<c=@flavor>«Просто держа это, я чувствую себя лучше».<br>—Лейхара</c>"
 "<c=@flavor>""Just imagine the crack as your targeting sight.""<br>—Nessi</c>",<c=@flavor>«Просто представь трещину как свой прицел».<br>—Несси</c>
 "<c=@flavor>""Just the thing for hiding in the shadows.""<br>—Coydd</c>","<c=@flavor>«Именно то, что нужно, чтобы прятаться в тенях».<br>—Койдд</c>"
-"<c=@flavor>""Just to remind the world what the Iron Legion is best at.""<br>—Centurion Truthbringer</c>","<c=@flavor>«Просто чтобы напомнить миру, в чём Iron Legion лучше всех».<br>—Центурион Правдоносец</c>"
+"<c=@flavor>""Just to remind the world what the Iron Legion is best at.""<br>—Centurion Truthbringer</c>","<c=@flavor>«Просто чтобы напомнить миру, в чём Iron Legion лучше всех».<br>—Centurion Truthbringer</c>"
 "<c=@flavor>""Keep an eye on those ice imps.They are always up to no good.""<br>—Suki</c>",<c=@flavor>«Не спускай глаз с этих ледяных бесов. От них всегда одни неприятности».<br>—Суки</c>
 "<c=@flavor>""Keep them in check with brute force.""<br>—Torruh Sweptweave</c>",<c=@flavor>«Держи их в узде грубой силой».<br>—Торру Свептвиви</c>
 "<c=@flavor>""Keep this close when those fissures appear, they sometimes shoot fireballs.""<br>—Kruppa</c>","<c=@flavor>«Держи это под рукой, когда появляются эти трещины — иногда они стреляют огненными шарами».<br>—Круппа</c>"
@@ -472,7 +472,7 @@ english,translate
 "<c=@flavor>""Keeps the bad ice away.""<br>—Mokooki</c>",<c=@flavor>«Отгоняет плохой лёд».<br>—Мокооки</c>
 "<c=@flavor>""Keeps the creepy crawlies away.""<br>—Twitchok</c>",<c=@flavor>«Отгоняет всяких жутких ползучих тварей».<br>—Твичок</c>
 "<c=@flavor>""Keeps the soot off.""<br>—Vigil Tactician Blazefur</c>",<c=@flavor>«Не даёт покрыться сажей».<br>—Тактик Дозора Блейзфур</c>
-"<c=@flavor>""Let's make a deal.""<br>—Lexi Price</c>",<c=@flavor>«Давай договоримся».<br>—Лекси Прайс</c>
+"<c=@flavor>""Let's make a deal.""<br>—Lexi Price</c>",<c=@flavor>«Давай договоримся».<br>—Lexi Price</c>
 "<c=@flavor>""Let's see them run after us now!""<br>—Hua'racche</c>",<c=@flavor>«Пусть теперь побегают от нас!»<br>—Хуарраче</c>
 "<c=@flavor>""Light as a feather! No—that's a lie, this thing is really heavy.""<br>—Supply Sergeant Mattimer</c>","<c=@flavor>«Лёгкое, как пёрышко! Нет — это ложь, эта штука реально тяжёлая».<br>—Интендант-сержант Маттимер</c>"
 "<c=@flavor>""Live to fight another day.""<br>—Sentinel Jaggedclaw</c>","<c=@flavor>«Живи, чтобы сражаться дальше».<br>—Часовой Зазубренный Коготь</c>"
