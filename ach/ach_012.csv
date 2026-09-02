@@ -271,7 +271,7 @@ Destroy %num2% structures at the Vloxen Mine in the Drizzlewood Coast.,Унич�
 Destroy %num2% disguised watchknight[s] in the Crown Pavilion.,Уничтожьте %num2% замаскированных [часового|часовых|часовых] в Королевском павильоне.
 Destroy %num2% enemy supply caravan[s] in World versus World.,Уничтожьте %num2% вражеских [караван|каравана|караванов] с припасами в World vs. World.
 Destroy 10 Branded creatures by using the Resonating Blast skill inside the auditorium.,"Уничтожьте 10 Клейменных существ, используя навык Резонирующий взрыв внутри аудитории."
-Destroy 25 Fountains of Joko while raiding the Mordant Crescent Great Hall.,Уничтожьте 25 Фонтанов Джоко во время налета на Великий зал Мордантского полумесяца.
+Destroy 25 Fountains of Joko while raiding the Mordant Crescent Great Hall.,Уничтожьте 25 Фонтанов Джоко во время налета на Великий зал Mordant Crescent.
 Destroy 50 propaganda balloons at the overlook or fortress locations.,Уничтожьте 50 пропагандистских шаров на обзорных площадках или в локациях крепостей.
 Destroy Additional Pylons,Уничтожьте дополнительные пилоны
 Destroy Dominion communications towers near the mines or the village.,Уничтожьте коммуникационные вышки Доминиона возле шахт или деревни.
@@ -349,19 +349,19 @@ Disco Dancing Delver,Танцующий диско-исследователь
 Discover %num2% books around West Bjora Marches.,Найдите %num2% книг по Западным Топям Бьоры.
 Discover %num2% interesting locations with large Bloodstone Shards.,Найдите %num2% любопытных мест с крупными осколками кровавого камня.
 "Discover  point of interest in Queensdale, Metrica Province, Caledon Forest, Wayfarer Foothills, or the Plains of Ashford.","Откройте точку интереса в Квинсдейле, Metrica Province, Caledon Forest, Wayfarer Foothills или Plains of Ashford."
-"Discover 5 points of interest in Snowden Drifts, Diessa Plateau, Brisban Wildlands, or Kessex Hills.","Откройте 5 точек интереса в Сноуденских сугробах, Diessa Plateau, Дебри Брисбана или Kessex Hills."
+"Discover 5 points of interest in Snowden Drifts, Diessa Plateau, Brisban Wildlands, or Kessex Hills.","Откройте 5 точек интереса в Snowden Drifts, Diessa Plateau, Brisban Wildlands или Kessex Hills."
 "Discover 5 points of interest in Sparkfly Fen, Mount Maelstrom, the Iron Marches, the Fireheart Rise, or Timberline Falls.","Откройте 5 точек интереса в Топи Искрокрылов, Mount Maelstrom, Iron Marches, Fireheart Rise или Timberline Falls."
 "Discover 5 points of interest in the Fields of Ruin, Blazeridge Steppes, Lornar's Pass, Dredgehaunt Cliffs, or the Harathi Hinterlands.","Откройте 5 точек интереса в Полях Руин, Blazeridge Steppes, Lornar's Pass, Dredgehaunt Cliffs или Harathi Hinterlands."
-"Discover 5 points of interest in the Ruins of Orr, Frostgorge Sound, or Southsun Cove.","Откройте 5 точек интереса в Руинах Орра, Залив Морозного Ущелья или Southsun Cove."
-"Discover 5 waypoints in Snowden Drifts, Diessa Plateau, Brisban Wildlands, or Kessex Hills.","Откройте 5 путевых точек в Сноуденских сугробах, Diessa Plateau, Дебри Брисбана или Kessex Hills."
+"Discover 5 points of interest in the Ruins of Orr, Frostgorge Sound, or Southsun Cove.","Откройте 5 точек интереса в Руинах Орра, Frostgorge Sound или Southsun Cove."
+"Discover 5 waypoints in Snowden Drifts, Diessa Plateau, Brisban Wildlands, or Kessex Hills.","Откройте 5 путевых точек в Snowden Drifts, Diessa Plateau, Brisban Wildlands или Kessex Hills."
 "Discover 5 waypoints in Sparkfly Fen, Mount Maelstrom, Iron Marches, Fireheart Rise, or Timberline Falls.","Откройте 5 путевых точек в Топи Искрокрылов, Mount Maelstrom, Iron Marches, Fireheart Rise или Timberline Falls."
 "Discover 5 waypoints in in the Fields of Ruin, Blazeridge Steppes, Lornar's Pass, Dredgehaunt Cliffs, or the Harathi Hinterlands.","Откройте 5 путевых точек в Полях Руин, Blazeridge Steppes, Lornar's Pass, Dredgehaunt Cliffs или Harathi Hinterlands."
 Discover Aetherblade caches across Tyria and the Mists.,Найдите тайники Aetherblade по всей Тирия и Туманы.
-Discover Forgotten debris spread throughout the Elon Riverlands.,"Найдите обломки Забытых, разбросанные по Речных землях Элона."
+Discover Forgotten debris spread throughout the Elon Riverlands.,"Найдите обломки Забытых, разбросанные по Elon Riverlands."
 Discover Insights of Maguuma Mastery in Auric Basin.,Найдите Идеи мастерства Магуума в Золотой лощине.
 Discover Scarlet Briar's secret lair.,Найдите секретное логово Скарлет Брайар.
 Discover Shadows provisions spread throughout the Desolation.,"Найдите припасы Теней, разбросанные по Desolation."
-Discover Timeworn Busts of Palawa Joko in locations throughout the Domain of Vabbi.,Найдите древние бюсты Palawa Joko в локациях по всему Владений Вабби.
+Discover Timeworn Busts of Palawa Joko in locations throughout the Domain of Vabbi.,Найдите древние бюсты Palawa Joko в локациях по всему Domain of Vabbi.
 Discover a Stranger among Lands.,Откройте Незнакомца среди земель.
 Discover a jumping puzzle.,Найдите прыжковую головоломку.
 Discover a mysterious power made of Mists energy.,"Откройте таинственную силу, созданную из энергии Туманы."
@@ -383,13 +383,13 @@ Discover the location of Captain Fawcett's pirate treasure.,Найдите ме�
 Discover the mysteries of the basilica crypt in the allotted time.,Раскройте тайны склепа базилики за отведенное время.
 Discover the secrets of Loreclaw Expanse.,Раскройте секреты Loreclaw Expanse.
 Discover the truth.,Узнайте правду.
-Discover this Crystal Desert Mastery Insight in Crystal Oasis.,Найдите это озарение мастерства Кристальная пустыня в Кристальном оазисе.
+Discover this Crystal Desert Mastery Insight in Crystal Oasis.,Найдите это озарение мастерства Кристальная пустыня в Crystal Oasis.
 Discover this Crystal Desert Mastery Insight in Dragonfall.,Найдите это озарение мастерства Кристальная пустыня в Драконьем пределе.
-Discover this Crystal Desert Mastery Insight in Elon Riverlands.,Найдите это озарение мастерства Кристальная пустыня в Речных землях Элона.
+Discover this Crystal Desert Mastery Insight in Elon Riverlands.,Найдите это озарение мастерства Кристальная пустыня в Elon Riverlands.
 Discover this Crystal Desert Mastery Insight in Thunderhead Peaks.,Найдите это озарение мастерства Кристальная пустыня в Пиках Громовой головы.
 Discover this Crystal Desert Mastery Insight in the Desert Highlands.,Найдите это озарение мастерства Crystal Desert в Пустынном нагорье.
 Discover this Crystal Desert Mastery Insight in the Desolation.,Найдите это озарение мастерства Crystal Desert в Опустошении.
-Discover this Crystal Desert Mastery Insight in the Domain of Vabbi.,Найдите это озарение мастерства Crystal Desert в Владениях Вабби.
+Discover this Crystal Desert Mastery Insight in the Domain of Vabbi.,Найдите это озарение мастерства Crystal Desert в Domain of Vabbi.
 Discover this Crystal Desert Mastery Insight in the Sandswept Isles.,"Найдите это озарение мастерства Crystal Desert в Островах, заметаемых песком."
 Discover this End of Dragons Mastery Insight in Dragon's End.,Найдите это озарение мастерства Конца Драконов в Dragon's End.
 Discover this End of Dragons Mastery Insight in New Kaineng City.,Найдите это озарение мастерства Конца Драконов в New Kaineng City.
@@ -398,7 +398,7 @@ Discover this End of Dragons Mastery Insight in the Echovald Wilds.,Найдит
 Discover this Icebrood Saga Mastery Insight in Bjora Marches.,Найдите это озарение мастерства Саги о ледяном отродье в Топях Бьоры.
 Discover this Icebrood Saga Mastery Insight in Grothmar Valley.,Найдите это озарение мастерства Саги о ледяном отродье в Долине Гротмар.
 "Discover this Icebrood Saga Mastery Insight in the Bloodtide Coast Dragon Response Mission, accessed via asura gate in Eye of the North.","Найдите это озарение мастерства Саги о ледяном отродье в миссии реагирования на драконов (Дракон Response Mission) в Bloodtide Coast, доступной через асура-врата в Оке Севера."
-"Discover this Icebrood Saga Mastery Insight in the Brisban Wildlands Dragon Response Mission, accessed via asura gate in Eye of the North.","Найдите это озарение мастерства Саги о ледяном отродье в миссии реагирования на драконов (Дракон Response Mission) в Дебрях Брисбана, доступной через асура-врата в Оке Севера."
+"Discover this Icebrood Saga Mastery Insight in the Brisban Wildlands Dragon Response Mission, accessed via asura gate in Eye of the North.","Найдите это озарение мастерства Саги о ледяном отродье в миссии реагирования на драконов (Дракон Response Mission) в Brisban Wildlands, доступной через асура-врата в Оке Севера."
 "Discover this Icebrood Saga Mastery Insight in the Caledon Forest Dragon Response Mission, accessed via asura gate in Eye of the North.","Найдите это озарение мастерства Саги о ледяном отродье в миссии реагирования на драконов (Дракон Response Mission) в Caledon Forest, доступной через асура-врата в Оке Севера."
 Discover this Icebrood Saga Mastery Insight in the Drizzlewood Coast.,Найдите это озарение мастерства Саги о ледяном отродье в Drizzlewood Coast.
 "Discover this Icebrood Saga Mastery Insight in the Fields of Ruin Dragon Response Mission, accessed via asura gate in Eye of the North.","Найдите это озарение мастерства Саги о ледяном отродье в миссии реагирования на драконов (Дракон Response Mission) в Полях Руин, доступной через асура-врата в Оке Севера."
@@ -406,11 +406,11 @@ Discover this Icebrood Saga Mastery Insight in the Drizzlewood Coast.,Найди
 "Discover this Icebrood Saga Mastery Insight in the Gendarran Fields Dragon Response Mission, accessed via asura gate in Eye of the North.","Найдите это озарение мастерства Саги о ледяном отродье в миссии реагирования на драконов (Дракон Response Mission) в Gendarran Fields, доступной через асура-врата в Оке Севера."
 "Discover this Icebrood Saga Mastery Insight in the Lake Doric Dragon Response Mission, accessed via asura gate in Eye of the North.","Найдите это озарение мастерства Саги о ледяном отродье в миссии реагирования на драконов (Дракон Response Mission) в Озере Дорик, доступной через асура-врата в Оке Севера."
 "Discover this Icebrood Saga Mastery Insight in the Metrica Province Dragon Response Mission, accessed via asura gate in Eye of the North.","Найдите это озарение мастерства Саги о ледяном отродье в миссии реагирования на драконов (Дракон Response Mission) в Metrica Province, доступной через асура-врата в Оке Севера."
-"Discover this Icebrood Saga Mastery Insight in the Snowden Drifts Dragon Response Mission, accessed via asura gate in Eye of the North.","Найдите это озарение мастерства Саги о ледяном отродье в миссии реагирования на драконов (Дракон Response Mission) в Сноуденских сугробах, доступной через асура-врата в Оке Севера."
+"Discover this Icebrood Saga Mastery Insight in the Snowden Drifts Dragon Response Mission, accessed via asura gate in Eye of the North.","Найдите это озарение мастерства Саги о ледяном отродье в миссии реагирования на драконов (Дракон Response Mission) в Snowden Drifts, доступной через асура-врата в Оке Севера."
 "Discover this Icebrood Saga Mastery Insight in the Thunderhead Keep Dragon Response Mission, accessed via asura gate in Eye of the North.","Найдите это озарение мастерства Саги о ледяном отродье в миссии реагирования на драконов (Дракон Response Mission) в Крепости Громовой головы, доступной через асура-врата в Оке Севера."
-Discover this Istan Mastery Insight in the Domain of Istan.,Найдите это озарение мастерства Истан в Владениях Истана.
+Discover this Istan Mastery Insight in the Domain of Istan.,Найдите это озарение мастерства Истан в Domain of Istan.
 Discover this Janthir Wilds Mastery Insight in Janthir Syntri.,Найдите это озарение мастерства Диких земель Джантира в Janthir Syntri.
-Discover this Janthir Wilds Mastery Insight in Lowland Shore.,Найдите это озарение мастерства Диких земель Джантира в Низинном берегу.
+Discover this Janthir Wilds Mastery Insight in Lowland Shore.,Найдите это озарение мастерства Диких земель Джантира в Lowland Shore.
 Discover this Janthir Wilds Mastery Insight in Mistburned Barrens.,Найдите это озарение мастерства Диких земель Джантира в Опаленных Туманом пустошах.
 Discover this Janthir Wilds Mastery insight in Bava Nisos.,Найдите это озарение мастерства Диких земель Джантира в Бава Нисосе.
 Discover this Maguuma Mastery Insight in Bitterfrost Frontier.,Найдите это озарение мастерства Магуума в Границе Горького Мороза.
@@ -430,7 +430,7 @@ Discover this Mastery Insight in Malchor's Leap.,Откройте это оза�
 Discover this Mastery Insight in Mount Maelstrom.,Откройте это озарение мастерства в горе Мальстрём.
 Discover this Mastery Insight in Siren's Landing.,Откройте это озарение мастерства в Пристань сирен.
 Discover this Mastery Insight in Sparkfly Fen.,Откройте это озарение мастерства в Топи Искрокрылов.
-Discover this Mastery Insight in Timberline Falls.,Откройте это озарение мастерства в Тимберлайн-Фоллс.
+Discover this Mastery Insight in Timberline Falls.,Откройте это озарение мастерства в Timberline Falls.
 Discover this Mastery Insight in the Domain of Kourna.,Откройте это озарение мастерства в Владениях Курны.
 Discover this Secrets of the Obscure Mastery Insight in Amnytas.,Откройте это озарение мастерства Тайн Сокрытого в Амнитасе.
 Discover this Secrets of the Obscure Mastery Insight in Inner Nayos.,Откройте это озарение мастерства Тайн Сокрытого в Inner Nayos.
@@ -463,7 +463,7 @@ Disrupt %num2% Dominion flame effigy rituals.,Сорвите %num2% ритуал
 Disrupt Inquest activity throughout Starlit Weald.,Сорвите деятельность Инквест по всему Starlit Weald.
 Disrupt the Jade Brotherhood in New Kaineng.,Сорвите планы Jade Brotherhood в Новом Кайненге.
 Disrupt the security panel in order to progress deeper into the Twilight Assault dungeon.,"Взломайте панель безопасности, чтобы продвинуться дальше в подземелье Twilight Assault."
-Disrupt three corpse caravans in the Domain of Istan.,Перехватите три каравана трупов в Владениях Истана.
+Disrupt three corpse caravans in the Domain of Istan.,Перехватите три каравана трупов в Domain of Istan.
 Distant Ancestry,Далекое происхождение
 Distorted Reflection,Искаженное отражение
 "Distract, Destroy, Distrust","Отвлечь, уничтожить, не доверять"

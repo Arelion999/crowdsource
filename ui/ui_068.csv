@@ -15,7 +15,7 @@ Found in the Thunder Den at Thunderbreak Hills in Fields of Ruin.,Находит
 Found in the township of Claypool in Queensdale.,Находится в городке Клейпул в Королевской Долине.
 Found in the treasure chest after defeating the Shadow Behemoth in Queensdale.,Находится в сундуке с сокровищами после победы над Теневым Бегемотом в Королевской Долине.
 Found in the treasure chest in the Old Oola lab in Metrica Province.,Находится в сундуке с сокровищами в старой лаборатории Оолы в Metrica Province.
-Found in the treasure chest of Human's Lament in the Plains of Ashford.,Находится в сундуке с сокровищами Плача Человека на Равнинах Эшфорд.
+Found in the treasure chest of Human's Lament in the Plains of Ashford.,Находится в сундуке с сокровищами Плача Человека на Plains of Ashford.
 Found in the treasure chest of Shaman's Rookery in Wayfarer Foothills.,Находится в сундуке с сокровищами Шаманского Гнездовья в Wayfarer Foothills.
 Found in the treasure room of Old Oola's Lab in the Akk Wilds of Metrica Province.,Находится в сокровищнице старой Лаборатории Оолы в Дебрях Акк в Metrica Province.
 Found in the treasure room of the Windy Cave in Lornar's Pass.,Находится в сокровищнице Ветреной Пещеры на Lornar's Pass.
@@ -102,10 +102,10 @@ Found in the waters of Kryta.<br>Fishing Hole: River Fish<br>Favored Bait: Any<b
 Found in the waters of Kryta.<br>Fishing Hole: River Fish<br>Favored Bait: Fish Eggs<br>Time of Day: Any,Водится в водах Крайты.<br>Рыбное место: речная рыба<br>Предпочитаемая наживка: рыбья икра<br>Время суток: любое
 Found in the waters of Kryta.<br>Fishing Hole: River Fish<br>Favored Bait: Freshwater Minnows<br>Time of Day: Any,Водится в водах Крайты.<br>Рыбное место: речная рыба<br>Предпочитаемая наживка: пресноводные гольяны<br>Время суток: любое
 Found in the waters of Kryta.<br>Fishing Hole: River Fish<br>Favored Bait: Freshwater Minnows<br>Time of Day: Nighttime,Водится в водах Крайты.<br>Рыбное место: речная рыба<br>Предпочитаемая наживка: пресноводные гольяны<br>Время суток: ночь
-"Found in the waters of Lowland Shore.<br>Fishing Hole: Any<br>Favored Bait: Any<br>Time of Day: Any, Day (Higher Chance)","Водится в водах Низинного Берега.<br>Рыбное место: любое<br>Предпочитаемая наживка: любая<br>Время суток: любое, день (повышенный шанс)"
-"Found in the waters of Lowland Shore.<br>Fishing Hole: Any<br>Favored Bait: Any<br>Time of Day: Any, Night (Higher Chance)","Водится в водах Низинного Берега.<br>Рыбное место: любое<br>Предпочитаемая наживка: любая<br>Время суток: любое, ночь (повышенный шанс)"
-"Found in the waters of Lowland Shore.<br>Fishing Hole: Freshwater / Brackish Water<br>Favored Bait: Any<br>Time of Day: Any, Day (Higher Chance)","Водится в водах Низинного Берега.<br>Рыбное место: пресная / солоноватая вода<br>Предпочитаемая наживка: любая<br>Время суток: любое, день (повышенный шанс)"
-Found in the waters of Lowland Shore.<br>Fishing Hole: Saltwater / Brackish Water<br>Favored Bait: Any<br>Time of Day: Any,Водится в водах Низинного Берега.<br>Рыбное место: солёная / солоноватая вода<br>Предпочитаемая наживка: любая<br>Время суток: любое
+"Found in the waters of Lowland Shore.<br>Fishing Hole: Any<br>Favored Bait: Any<br>Time of Day: Any, Day (Higher Chance)","Водится в водах Lowland Shore.<br>Рыбное место: любое<br>Предпочитаемая наживка: любая<br>Время суток: любое, день (повышенный шанс)"
+"Found in the waters of Lowland Shore.<br>Fishing Hole: Any<br>Favored Bait: Any<br>Time of Day: Any, Night (Higher Chance)","Водится в водах Lowland Shore.<br>Рыбное место: любое<br>Предпочитаемая наживка: любая<br>Время суток: любое, ночь (повышенный шанс)"
+"Found in the waters of Lowland Shore.<br>Fishing Hole: Freshwater / Brackish Water<br>Favored Bait: Any<br>Time of Day: Any, Day (Higher Chance)","Водится в водах Lowland Shore.<br>Рыбное место: пресная / солоноватая вода<br>Предпочитаемая наживка: любая<br>Время суток: любое, день (повышенный шанс)"
+Found in the waters of Lowland Shore.<br>Fishing Hole: Saltwater / Brackish Water<br>Favored Bait: Any<br>Time of Day: Any,Водится в водах Lowland Shore.<br>Рыбное место: солёная / солоноватая вода<br>Предпочитаемая наживка: любая<br>Время суток: любое
 Found in the waters of Mistburned Barrens.<br>Fishing Hole: Any<br>Favored Bait: Any<br>Time of Day: Any,Водится в водах Туманожжёных Пустошей.<br>Рыбное место: любое<br>Предпочитаемая наживка: любая<br>Время суток: любое
 Found in the waters of Mistburned Barrens.<br>Fishing Hole: Any<br>Favored Bait: Any<br>Time of Day: Day,Водится в водах Туманожжёных Пустошей.<br>Рыбное место: любое<br>Предпочитаемая наживка: любая<br>Время суток: день
 "Found in the waters of Mistburned Barrens.<br>Fishing Hole: Any<br>Favored Bait: Any<br>Time of Day: Dusk/Dawn, Day (Higher Chance)","Водится в водах Туманожжёных Пустошей.<br>Рыбное место: любое<br>Предпочитаемая наживка: любая<br>Время суток: сумерки/рассвет, день (повышенный шанс)"
@@ -244,7 +244,7 @@ Found near the graves of the Ebon Vanguard soldiers.,Находится у мо�
 Found on an overlook at Terra Carorunda in Blazeridge Steppes.,Находится на обзорной точке в Терра Карорунда в Степях Блейзридж.
 Found on ore nodes in Auric Basin. Requires training Exalted Gathering in the Exalted Lore Mastery line.,Находится на рудных жилах в Оровальной низине. Требуется изучить «Exalted Gathering» в ветви мастерства «Exalted Lore».
 Found on Tenad the Faithful in the Ruins of Holy Demetra in Harathi Hinterlands.,Находится у Тенада Верного в Руинах Святой Деметры во Внутренних землях Харати.
-Found on the Champion Demagogue in the Aurora Glade ruins of Brisban Wildlands.,Находится у Чемпиона-Демагога в руинах Поляны Авроры в Дебрях Брисбана.
+Found on the Champion Demagogue in the Aurora Glade ruins of Brisban Wildlands.,Находится у Чемпиона-Демагога в руинах Поляны Авроры в Brisban Wildlands.
 Found on the grawl around the Tail of the Star God in Blazeridge Steppes.,Находится у граулов вокруг Хвоста Звёздного Бога в Степях Блейзридж.
 Found on the Hylek of Morgatl Grounds in Caledon Forest.,Находится у хилеков Земель Моргатль в Лесу Каледон.
 Found on the Lady in White in the Shaemoor graveyard in Queensdale.,Находится у Дамы в Белом на кладбище Шемура в Королевской Долине.

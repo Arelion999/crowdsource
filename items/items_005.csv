@@ -77,7 +77,7 @@ Combine this item in the Mystic Forge with:
 —Researcher Twilli</c>"
 <c=@flavor>This armor attempts to channel the power of the envoys.</c>,<c=@flavor>Эта броня пытается направлять силу посланников.</c>
 <c=@flavor>This armor exudes the magical energy of the Vale Guardian.</c>,<c=@flavor>Эта броня источает магическую энергию Долинного Стража.</c>
-<c=@flavor>This back item is used for crafting Janthir Wilds legendaries. Remnants can be purchased from renown heart vendors in Lowland Shore.</c>,<c=@flavor>Этот наспинный предмет используется при создании легендарок «Диких земель Джантира». Остатки можно купить у торговцев сердец почёта в Низинном Береге.</c>
+<c=@flavor>This back item is used for crafting Janthir Wilds legendaries. Remnants can be purchased from renown heart vendors in Lowland Shore.</c>,<c=@flavor>Этот наспинный предмет используется при создании легендарок «Диких земель Джантира». Остатки можно купить у торговцев сердец почёта в Lowland Shore.</c>
 <c=@flavor>This back item is used for crafting Janthir Wilds legendaries. Remnants can be purchased from the renown heart vendor in Mistburned Barrens. </c>,<c=@flavor>Этот наспинный предмет используется при создании легендарок «Диких земель Джантира». Остатки можно купить у торговца сердца почёта в Туманно-выжженных пустошах. </c>
 <c=@flavor>This back item is used for crafting Janthir Wilds legendaries. Remnants can be purchased from Ward Trader Sampaguita in Bava Nisos.</c>,<c=@flavor>Этот наспинный предмет используется при создании легендарок «Диких земель Джантира». Остатки можно купить у торговки оберегов Сампагиты в Бава-Нисосе.</c>
 <c=@flavor>This badge deputizes the bearer as a Consortium Troubleshooter (Unpaid) for purposes of fractal stabilization.</c>,<c=@flavor>Этот значок наделяет носителя полномочиями устранителя неполадок Консорциума (без оплаты) для целей стабилизации фракталов.</c>
@@ -480,9 +480,9 @@ Carrying this item increases the chance of Bandit Executioners attacking during 
 <c=@reminder>Complete the first story chapter of Guild Wars 2: End of Dragons to unlock this feature.</c>,"<c=@reminder>Пройдите первую главу истории Guild Wars 2: Конец Драконов, чтобы открыть эту возможность.</c>"
 "<c=@reminder>Contains loot stolen from the Black Lion Trading Company by the Knife Tail Gang.</c=@reminder>
 
-Use the box to randomly unlock a Black Lion wardrobe item you don't already have. Some items—in particular mounts and some weapon sets—are less common than others. Preview to see everything available.","<c=@reminder>Содержит добычу, украденную у Торговой компании Чёрного Льва бандой Ножехвостых.</c=@reminder>
+Use the box to randomly unlock a Black Lion wardrobe item you don't already have. Some items—in particular mounts and some weapon sets—are less common than others. Preview to see everything available.","<c=@reminder>Содержит добычу, украденную у Black Lion Trading Company бандой Ножехвостых.</c=@reminder>
 
-Используйте коробку, чтобы случайным образом открыть предмет гардероба Чёрного Льва, которого у вас ещё нет. Некоторые предметы — особенно ездовые животные и отдельные наборы оружия — встречаются реже прочих. Загляните в предпросмотр, чтобы увидеть всё доступное."
+Используйте коробку, чтобы случайным образом открыть предмет гардероба Black Lion, которого у вас ещё нет. Некоторые предметы — особенно ездовые животные и отдельные наборы оружия — встречаются реже прочих. Загляните в предпросмотр, чтобы увидеть всё доступное."
 <c=@Reminder>Hint: Acquire the Reinforced Olmakhan Bandolier.</c>,<c=@Reminder>Подсказка: получите усиленный бандольер олмаханов.</c>
 <c=@Reminder>Hint: Collect strategic resources for the war effort.</c>,<c=@Reminder>Подсказка: соберите стратегические ресурсы для военных нужд.</c>
 <c=@Reminder>Hint: Come to the aid of a peaceful people.</c>,<c=@Reminder>Подсказка: придите на помощь мирному народу.</c>
@@ -517,7 +517,7 @@ Use the box to randomly unlock a Black Lion wardrobe item you don't already have
 
 Use this bond to hunt Knife Tail Gang members. While bonded, any kill worth XP has a chance to reveal one of the Knife Tail Gang! Find them, and each bond will allow you to loot a piece of Recovered Black Lion Goods, which are yours to keep. Recovered goods will always unlock something from the Black Lion Trading Company in your wardrobe—weapons, exclusive dye colors, even mounts!","<c=@reminder>Банда Ножехвостов вломилась в хранилища Торговой компании, и Эвон в ярости!</c=@reminder>
 
-Используй эту связь, чтобы охотиться на членов банды Ножехвостов. Пока связь активна, любое убийство, дающее опыт, может выявить одного из банды Ножехвостов! Найди их, и каждая связь позволит тебе добыть предмет из «Возвращённых товаров Чёрного льва», который останется у тебя. Возвращённые товары всегда открывают что-нибудь от Торговой компании Чёрного льва в твоём гардеробе — оружие, эксклюзивные краски, даже средства передвижения!"
+Используй эту связь, чтобы охотиться на членов банды Ножехвостов. Пока связь активна, любое убийство, дающее опыт, может выявить одного из банды Ножехвостов! Найди их, и каждая связь позволит тебе добыть предмет из «Возвращённых товаров Black Lion», который останется у тебя. Возвращённые товары всегда открывают что-нибудь от Black Lion Trading Company в твоём гардеробе — оружие, эксклюзивные краски, даже средства передвижения!"
 <c=@reminder>This coat hides leg armor.</c>,<c=@reminder>Эта куртка скрывает ножную броню.</c>
 <c=@reminder>This coat hides leg armor.<c>,<c=@reminder>Эта куртка скрывает ножную броню.<c>
 <c=@reminder>This coat hides shoulder armor.</c>,<c=@reminder>Эта куртка скрывает наплечную броню.</c>
@@ -654,7 +654,7 @@ A claw from a large griffon. This will make a worthy trophy.,Коготь кру
 A coin spent at your homestead café. Use this to purchase café upgrades or employee items.,"Монета, потраченная в кафе твоей усадьбы. Используй её для покупки улучшений кафе или предметов для работников."
 A collection of dry roots that could be tied around something.,"Связка сухих кореньев, которой можно что-нибудь обвязать."
 A collection of items in celebration of your dedication to the Eldvin Monastery Brew of the Month Club.,Набор предметов в честь твоей верности «Клубу пива месяца» монастыря Элдвин.
-"A collection of items recovered from the cave. Contains a personal bandit chest for your home instance, obsidian shards, luck, and your choice of a Mordrem organ.","Набор предметов, добытых в пещере. Содержит личный бандитский сундук для домашней зоны, обсидиановые осколки, удачу и мордремский орган на твой выбор."
+"A collection of items recovered from the cave. Contains a personal bandit chest for your home instance, obsidian shards, luck, and your choice of a Mordrem organ.","Набор предметов, добытых в пещере. Содержит личный бандитский сундук для домашней зоны, Obsidian Shards, удачу и мордремский орган на твой выбор."
 "A collection of items to aid in the training of novice adventurers.
 Double-click to open.","Набор припасов в помощь обучению начинающих искателей приключений.
 Дважды щёлкните, чтобы открыть."
@@ -688,7 +688,7 @@ A crate of supplies that should be taken to Ouna in Diviner's Reach.,"Ящик �
 This item only has value as part of a collection.","Кристалл клеймёного существа из Джахай.
 
 Вне коллекции этот предмет бесполезен."
-A crystalline sliver that Vlast lost during combat. Follower Adisa is collecting them in the Ustulate Barrens in the Elon Riverlands.,"Кристаллический осколок, потерянный Властом в бою. Последователь Адиса собирает их в Обугленных пустошах в Речных землях Элона."
+A crystalline sliver that Vlast lost during combat. Follower Adisa is collecting them in the Ustulate Barrens in the Elon Riverlands.,"Кристаллический осколок, потерянный Властом в бою. Последователь Адиса собирает их в Обугленных пустошах в Elon Riverlands."
 A dagger roughly forged from Brand crystal using techniques learned from Forge Master Hilina.,"Кинжал, грубо выкованный из кристалла Клейма по приёмам, перенятым у мастера горна Хилины."
 A dagger skillfully forged from Brand crystal using techniques learned from Forge Master Hilina.,"Кинжал, искусно выкованный из кристалла Клейма по приёмам, перенятым у мастера горна Хилины."
 A data crystal that belongs to the Inquest. A Senior Researcher at the Old Golem Foundry might be interested in this.,"Кристалл данных, принадлежащий Инквесту. Старший исследователь на Старой големной литейной может им заинтересоваться."
