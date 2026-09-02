@@ -120,13 +120,13 @@ english,translate
 +3%% Damage vs. Destroyers+10%% Experience from Kills,+3%% к урону по разрушителям+10%% к опыту за убийства
 +3%% Damage vs. Dredge+10%% Experience from Kills,+3%% к урону по драугам+10%% к опыту за убийства
 +3%% Damage vs. Elementals+10%% Experience from Kills,+3%% к урону по элементалям+10%% к опыту за убийства
-+3%% Damage vs. Flame Legion+10%% Experience from Kills,+3%% к урону по Легиону Пламени+10%% к опыту за убийства
++3%% Damage vs. Flame Legion+10%% Experience from Kills,+3%% к урону по Flame Legion+10%% к опыту за убийства
 +3%% Damage vs. Grawl+10%% Experience from Kills,+3%% к урону по граулам+10%% к опыту за убийства
 +3%% Damage vs. Halloween Creatures+10%% Experience from Kills,+3%% к урону по существам Хэллоуина+10%% к опыту за убийства
 +3%% Damage vs. Ice Brood+10%% Experience from Kills,+3%% к урону по Ледяному Броду+10%% к опыту за убийства
 +3%% Damage vs. Inquest+10%% Experience from Kills,+3%% к урону по Инженеруму+10%% к опыту за убийства
 +3%% Damage vs. Krait+10%% Experience from Kills,+3%% к урону по крайтам+10%% к опыту за убийства
-+3%% Damage vs. Nightmare Court+10%% Experience from Kills,+3%% к урону по Кошмарному двору+10%% к опыту за убийства
++3%% Damage vs. Nightmare Court+10%% Experience from Kills,+3%% к урону по Nightmare Court+10%% к опыту за убийства
 +3%% Damage vs. Ogres+10%% Experience from Kills,+3%% урона ограм+10%% опыта за убийство
 +3%% Damage vs. Outlaws+10%% Experience from Kills,+3%% урона бандитам+10%% опыта за убийство
 +3%% Damage vs. Sons of Svanir+10%% Experience from Kills,+3%% урона Сынам Сванира+10%% опыта за убийство
@@ -138,14 +138,14 @@ english,translate
 +3%% Strike Damage vs. Destroyers,+3%% урона разрушителям от ударов
 +3%% Strike Damage vs. Dredge+1%% Strike Damage,+3%% урона драугам от ударов+1%% урона от ударов
 +3%% Strike Damage vs. Elementals+1%% Strike Damage,+3%% урона элементалям от ударов+1%% урона от ударов
-+3%% Strike Damage vs. Flame Legion+1%% Strike Damage,+3%% урона Легиону Пламени от ударов+1%% урона от ударов
++3%% Strike Damage vs. Flame Legion+1%% Strike Damage,+3%% урона Flame Legion от ударов+1%% урона от ударов
 +3%% Strike Damage vs. Ghosts+1%% Strike Damage,+3%% урона призракам от ударов+1%% урона от ударов
 +3%% Strike Damage vs. Grawl+1%% Strike Damage,+3%% урона граулам от ударов+1%% урона от ударов
 +3%% Strike Damage vs. Icebrood+1%% Strike Damage,+3%% урона Ледяному Роду от ударов+1%% урона от ударов
 +3%% Strike Damage vs. Inquest+1%% Strike Damage,+3%% урона от ударов по Изыскателям+1%% урона от ударов
 +3%% Strike Damage vs. Karka+1%% Strike Damage,+3%% урона от ударов по Карка+1%% урона от ударов
 +3%% Strike Damage vs. Krait+1%% Strike Damage,+3%% урона от ударов по Крайтам+1%% урона от ударов
-+3%% Strike Damage vs. Nightmare Court+1%% Strike Damage,+3%% урона от ударов по Кошмарному двору+1%% урона от ударов
++3%% Strike Damage vs. Nightmare Court+1%% Strike Damage,+3%% урона от ударов по Nightmare Court+1%% урона от ударов
 +3%% Strike Damage vs. Ogres+1%% Strike Damage,+3%% урона от ударов по Ограм+1%% урона от ударов
 +3%% Strike Damage vs. Outlaws+1%% Strike Damage,+3%% урона от ударов по Преступникам+1%% урона от ударов
 +3%% Strike Damage vs. Sons of Svanir+1%% Strike Damage,+3%% урона от ударов по Сынам Сванира+1%% урона от ударов
@@ -319,14 +319,14 @@ english,translate
 +5%% Damage vs. Dragon Bash Holograms+10%% Experience from Kills,+5%% к урону против голограмм Драконьего Разгрома+10%% к опыту за убийства
 +5%% Damage vs. Dredge+10%% Experience from Kills,+5%% к урону против Дреджей+10%% к опыту за убийства
 +5%% Damage vs. Elementals+10%% Experience from Kills,+5%% к урону против элементалей+10%% к опыту за убийства
-+5%% Damage vs. Flame Legion+10%% Experience from Kills,+5%% к урону против Легиона Пламени+10%% к опыту за убийства
++5%% Damage vs. Flame Legion+10%% Experience from Kills,+5%% к урону против Flame Legion+10%% к опыту за убийства
 +5%% Damage vs. Grawl+10%% Experience from Kills,+5%% к урону против Граулов+10%% к опыту за убийства
 +5%% Damage vs. Halloween Creatures+10%% Experience from Kills,+5%% к урону против созданий Хэллоуина+10%% к опыту за убийства
 +5%% Damage vs. Ice Brood+10%% Experience from Kills,+5%% к урону против Ледяного Отродья+10%% к опыту за убийства
 +5%% Damage vs. Inquest+10%% Experience from Kills,+5%% к урону против Изыскателей+10%% к опыту за убийства
 +5%% Damage vs. Krait+10%% Experience from Kills,+5%% к урону против крайтов+10%% к опыту за убийства
 +5%% Damage vs. Mordrem+10%% Experience from Kills,+5%% к урону против Мордрема+10%% к опыту за убийства
-+5%% Damage vs. Nightmare Court+10%% Experience from Kills,+5%% урона по Кошмарному двору+10%% опыта за убийства
++5%% Damage vs. Nightmare Court+10%% Experience from Kills,+5%% урона по Nightmare Court+10%% опыта за убийства
 +5%% Damage vs. Ogres+10%% Experience from Kills,+5%% урона по Ограм+10%% опыта за убийства
 +5%% Damage vs. Sons of Svanir+10%% Experience from Kills,+5%% урона по Сынам Сванира+10%% опыта за убийства
 "+5%% Damage vs. Toxic Alliance, Watchwork, Aetherblade, and Molten Alliance+10%% Experience from Kills","+5%% урона по Токсичному альянсу, Часовым механизмам, Эфирным клинкам и Расплавленному альянсу+10%% опыта за убийства"
@@ -350,14 +350,14 @@ english,translate
 +5%% Strike Damage vs. Destroyers+2%% Strike Damage,+5%% к урону от ударов по разрушителям+2%% к урону от ударов
 +5%% Strike Damage vs. Dredge+2%% Strike Damage,+5%% к урону от ударов по драуграм+2%% к урону от ударов
 +5%% Strike Damage vs. Elementals+2%% Strike Damage,+5%% к урону от ударов по элементалям+2%% к урону от ударов
-+5%% Strike Damage vs. Flame Legion+2%% Strike Damage,+5%% к урону от ударов по Легиону Пламени+2%% к урону от ударов
++5%% Strike Damage vs. Flame Legion+2%% Strike Damage,+5%% к урону от ударов по Flame Legion+2%% к урону от ударов
 +5%% Strike Damage vs. Ghosts+2%% Strike Damage,+5%% к урону от ударов по призракам+2%% к урону от ударов
 +5%% Strike Damage vs. Grawl+2%% Strike Damage,+5%% к урону от ударов по граулам+2%% к урону от ударов
 +5%% Strike Damage vs. Icebrood+2%% Strike Damage,+5%% к урону от ударов по Ледяному Роду+2%% к урону от ударов
 +5%% Strike Damage vs. Inquest+2%% Strike Damage,+5%% к урону от ударов по ИнКвесту+2%% к урону от ударов
 +5%% Strike Damage vs. Karka+2%% Strike Damage,+5%% к урону от ударов по каркам+2%% к урону от ударов
 +5%% Strike Damage vs. Krait+2%% Strike Damage,+5%% урона в бою против крайтов+2%% урона в бою
-+5%% Strike Damage vs. Nightmare Court+2%% Strike Damage,+5%% урона в бою против Кошмарного двора+2%% урона в бою
++5%% Strike Damage vs. Nightmare Court+2%% Strike Damage,+5%% урона в бою против Nightmare Court+2%% урона в бою
 +5%% Strike Damage vs. Ogres+2%% Strike Damage,+5%% урона в бою против огров+2%% урона в бою
 +5%% Strike Damage vs. Outlaws+2%% Strike Damage,+5%% урона в бою против преступников+2%% урона в бою
 +5%% Strike Damage vs. Sons of Svanir+2%% Strike Damage,+5%% урона в бою против Сынов Сванира+2%% урона в бою
@@ -399,7 +399,7 @@ english,translate
 +50%% damage on next attack.,+50%% к урону при следующей атаке.
 +50%% Downed Health+6%% Damage while Downed+10%% Experience from Kills,+50%% к здоровью в небоеспособном состоянии+6%% к урону в небоеспособном состоянии+10%% к опыту за убийства
 +50%% Experience in All Game Types+50%% Reward Track Gain in PvP and WvWUp to 100%% Bonus Experience for Kill Streaks,+50%% к опыту во всех режимах игры+50%% к прогрессу наград в PvP и WvWДо 100%% бонусного опыта за серии убийств
-+50%% Magic Find+50%% Chance of Critical Crafting Experience Gain+33%% Chance of Extra Gathering Strike10 seconds of Swiftness after GatheringSummons a Black Lion Merchant If Your Inventory Is Full after Gathering (20-Minute Cooldown),"+50%% к поиску магии+50%% к шансу критического успеха в ремесле+33%% к шансу дополнительного удара при сборе10 секунд скорости после сбораПризывает торговца Чёрного Льва, если ваш инвентарь полон после сбора (перезарядка 20 минут)"
++50%% Magic Find+50%% Chance of Critical Crafting Experience Gain+33%% Chance of Extra Gathering Strike10 seconds of Swiftness after GatheringSummons a Black Lion Merchant If Your Inventory Is Full after Gathering (20-Minute Cooldown),"+50%% к поиску магии+50%% к шансу критического успеха в ремесле+33%% к шансу дополнительного удара при сборе10 секунд скорости после сбораПризывает торговца Black Lion, если ваш инвентарь полон после сбора (перезарядка 20 минут)"
 +50%% Magic Find+50%% Experience Gain (All Sources)+30%% WvW Reward Track Progress+30%% PvP Reward Track Progress,+50%% Поиск магии+50%% Получение опыта (все источники)+30%% Прогресс наградного пути WvW+30%% Прогресс наградного пути PvP
 +6 Agony Infusion[s],[Инфузия|Инфузии|Инфузий] агонии +6
 +6 Agony Resistance,+6 Сопротивление агонии
@@ -477,13 +477,13 @@ english,translate
 +7%% Damage vs. Demons-4%% Damage from Demons+10%% Experience from Kills,+7%% урона к демонам-4%% урона от демонов+10%% к опыту за убийство
 +7%% Damage vs. Destroyers-4%% Damage from Destroyers+10%% Experience from Kills,+7%% урона к разрушителям-4%% урона от разрушителей+10%% к опыту за убийство
 +7%% Damage vs. Dredge-4%% Damage from Dredge+10%% Experience from Kills,+7%% урона по Дреджам-4%% урона от Дреджей+10%% опыта за убийства
-+7%% Damage vs. Flame Legion-4%% Damage from Flame Legion+10%% Experience from Kills,+7%% урона по Легиону Пламени-4%% урона от Легиона Пламени+10%% опыта за убийства
++7%% Damage vs. Flame Legion-4%% Damage from Flame Legion+10%% Experience from Kills,+7%% урона по Flame Legion-4%% урона от Flame Legion+10%% опыта за убийства
 +7%% Damage vs. Grawl-4%% Damage from Grawl+10%% Experience from Kills,+7%% урона по Граулам-4%% урона от Граулов+10%% опыта за убийства
 +7%% Damage vs. Halloween Creatures-4%% Damage from Halloween Creatures+10%% Experience from Kills,+7%% урона по Хэллоуинским существам-4%% урона от Хэллоуинских существ+10%% опыта за убийства
 +7%% Damage vs. Ice Brood-4%% Damage from Ice Brood+10%% Experience from Kills,+7%% урона по Ледяному Отродью-4%% урона от Ледяного Отродья+10%% опыта за убийства
 +7%% Damage vs. Inquest-4%% Damage from Inquest+10%% Experience from Kills,+7%% урона по Инквесту-4%% урона от Инквеста+10%% опыта за убийства
 +7%% Damage vs. Krait-4%% Damage from Krait+10%% Experience from Kills,+7%% урона по крайтам-4%% урона от крайтов+10%% опыта за убийства
-+7%% Damage vs. Nightmare Court-4%% Damage from Nightmare Court+10%% Experience from Kills,+7%% урона по Кошмарному двору-4%% урона от Кошмарного двора+10%% опыта за убийства
++7%% Damage vs. Nightmare Court-4%% Damage from Nightmare Court+10%% Experience from Kills,+7%% урона по Nightmare Court-4%% урона от Nightmare Court+10%% опыта за убийства
 +7%% Damage vs. Ogre-4%% Damage from Ogre+10%% Experience from Kills,+7%% урона по ограм-4%% урона от огров+10%% опыта за убийства
 +7%% Damage vs. Outlaws-4%% Damage from Outlaws+10%% Experience from Kills,+7%% урона по Преступникам-4%% урона от Преступников+10%% опыта за убийства
 +7%% Damage vs. Sons of Svanir-4%% Damage from Sons of Svanir+10%% Experience from Kills,+7%% урона по Сынам Сванира-4%% урона от Сынов Сванира+10%% опыта за убийства
@@ -495,7 +495,7 @@ english,translate
 +7%% Strike Damage vs. Destroyers+3%% Strike Damage,+7%% урона от ударов по разрушителям.+3%% урона от ударов
 +7%% Strike Damage vs. Dredge+3%% Strike Damage,+7%% урона от ударов по драджам.+3%% урона от ударов
 +7%% Strike Damage vs. Elementals+3%% Strike Damage,+7%% урона от ударов по элементалям.+3%% урона от ударов
-+7%% Strike Damage vs. Flame Legion+3%% Strike Damage,+7%% урона от ударов по Легиону Пламени.+3%% урона от ударов
++7%% Strike Damage vs. Flame Legion+3%% Strike Damage,+7%% урона от ударов по Flame Legion.+3%% урона от ударов
 +7%% Strike Damage vs. Ghosts+3%% Strike Damage,+7%% урона от ударов по призракам.+3%% урона от ударов
 +7%% Strike Damage vs. Grawl+3%% Strike Damage,+7%% урона от ударов по граулам.+3%% урона от ударов
 +7%% Strike Damage vs. Icebrood+3%% Strike Damage,+7%% урона от ударов по ледяным отродьям.+3%% урона от ударов

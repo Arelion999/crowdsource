@@ -27,7 +27,7 @@ english,translate
 +10%% Experience from Kills","+5%% Урон по Элементалям
 +10%% Опыт за убийства"
 "+5%% Damage vs. Flame Legion
-+10%% Experience from Kills","+5%% Урона по Легиону Пламени
++10%% Experience from Kills","+5%% Урона по Flame Legion
 +10%% Опыта за убийства"
 "+5%% Damage vs. Grawl
 +10%% Experience from Kills","+5%% Урона по Граулам
@@ -48,7 +48,7 @@ english,translate
 +10%% Experience from Kills","+5%% Урона по Мордрему
 +10%% Опыта за убийства"
 "+5%% Damage vs. Nightmare Court
-+10%% Experience from Kills","+5%% Урона по Кошмарному двору
++10%% Experience from Kills","+5%% Урона по Nightmare Court
 +10%% Опыта за убийства"
 "+5%% Damage vs. Ogres
 +10%% Experience from Kills","+5%% Урона по Ограм
@@ -112,7 +112,7 @@ The taste of April Fools.","+5%% к удаче
 +2%% Strike Damage","+5%% к урону по элементалям
 +2%% к урону"
 "+5%% Strike Damage vs. Flame Legion
-+2%% Strike Damage","+5%% к урону по Легиону Пламени
++2%% Strike Damage","+5%% к урону по Flame Legion
 +2%% к урону"
 "+5%% Strike Damage vs. Ghosts
 +2%% Strike Damage","+5%% к урону по призракам
@@ -127,7 +127,7 @@ The taste of April Fools.","+5%% к удаче
 +2%% Strike Damage","+5%% к урону по каркам
 +2%% к урону"
 "+5%% Strike Damage vs. Nightmare Court
-+2%% Strike Damage","+5%% к урону по Кошмарному двору
++2%% Strike Damage","+5%% к урону по Nightmare Court
 +2%% к урону"
 "+5%% Strike Damage vs. Outlaws
 +2%% Strike Damage","+5%% урона от ударов по разбойникам
@@ -266,7 +266,7 @@ Summons a Black Lion Merchant If Your Inventory Is Full after Gathering (20-Minu
 +50%% шанс критического опыта при крафте
 +33%% шанс на дополнительный удар при сборе
 10 секунд скорострельности после сбора
-Призыв торговца чёрного льва, если инвентарь полон после сбора (перезарядка 20 минут)"
+Призыв торговца Black Lion, если инвентарь полон после сбора (перезарядка 20 минут)"
 "+60 Concentration
 +28%% Magic Find while Under the Effect of a Boon
 +10%% Experience from Kills","+60 Концентрация
@@ -424,8 +424,8 @@ Summons a Black Lion Merchant If Your Inventory Is Full after Gathering (20-Minu
 +10%% Опыт за убийства"
 "+7%% Damage vs. Flame Legion
 -4%% Damage from Flame Legion
-+10%% Experience from Kills","+7%% Урон против Легиона Пламени
--4%% урон от Легиона Пламени
++10%% Experience from Kills","+7%% Урон против Flame Legion
+-4%% урон от Flame Legion
 +10%% Опыт за убийства"
 "+7%% Damage vs. Grawl
 -4%% Damage from Grawl
@@ -454,8 +454,8 @@ Summons a Black Lion Merchant If Your Inventory Is Full after Gathering (20-Minu
 +10%% Опыт за убийства"
 "+7%% Damage vs. Nightmare Court
 -4%% Damage from Nightmare Court
-+10%% Experience from Kills","+7%% Урон против Кошмарного двора
--4%% урон от Кошмарного двора
++10%% Experience from Kills","+7%% Урон против Nightmare Court
+-4%% урон от Nightmare Court
 +10%% Опыт за убийства"
 "+7%% Damage vs. Ogre
 -4%% Damage from Ogre
@@ -495,7 +495,7 @@ Summons a Black Lion Merchant If Your Inventory Is Full after Gathering (20-Minu
 +3%% Strike Damage","+7%% урона от ударов по Элементалям
 +3%% урона от ударов"
 "+7%% Strike Damage vs. Flame Legion
-+3%% Strike Damage","+7%% урона от ударов по Легиону Пламени
++3%% Strike Damage","+7%% урона от ударов по Flame Legion
 +3%% урона от ударов"
 "+7%% Strike Damage vs. Ghosts
 +3%% Strike Damage","+7%% урона от ударов по призракам
@@ -510,7 +510,7 @@ Summons a Black Lion Merchant If Your Inventory Is Full after Gathering (20-Minu
 +3%% Strike Damage","+7%% урона против карка
 +3%% обычного урона"
 "+7%% Strike Damage vs. Nightmare Court
-+3%% Strike Damage","+7%% урона против Кошмарного двора
++3%% Strike Damage","+7%% урона против Nightmare Court
 +3%% обычного урона"
 "+7%% Strike Damage vs. Ogres
 +3%% Strike Damage","+7%% урона против огров
@@ -576,8 +576,8 @@ Summons a Black Lion Merchant If Your Inventory Is Full after Gathering (20-Minu
 +10%% опыта за убийства"
 "+8%% Damage vs. Flame Legion
 -6%% Damage from Flame Legion
-+10%% Experience from Kills","+8%% урона по Легиону Пламени
--6%% урона от Легиона Пламени
++10%% Experience from Kills","+8%% урона по Flame Legion
+-6%% урона от Flame Legion
 +10%% опыта за убийства"
 "+8%% Damage vs. Grawl
 -6%% Damage from Grawl
@@ -611,8 +611,8 @@ Summons a Black Lion Merchant If Your Inventory Is Full after Gathering (20-Minu
 +10%% опыта за убийства"
 "+8%% Damage vs. Nightmare Court
 -6%% Damage from Nightmare Court
-+10%% Experience from Kills","+8%% урона по Кошмарному двору
--6%% урона от Кошмарного двора
++10%% Experience from Kills","+8%% урона по Nightmare Court
+-6%% урона от Nightmare Court
 +10%% опыта за убийства"
 "+8%% Damage vs. Ogres
 -6%% Damage from Ogres
@@ -856,8 +856,8 @@ Summons a Black Lion Merchant If Your Inventory Is Full after Gathering (20-Minu
 +10%% Опыт за убийства"
 "+9%% Damage vs. Flame Legion
 -8%% Damage from Flame Legion
-+10%% Experience from Kills","+9%% урона по Легиону Пламени
--8%% урона от Легиона Пламени
++10%% Experience from Kills","+9%% урона по Flame Legion
+-8%% урона от Flame Legion
 +10%% опыта за убийства"
 "+9%% Damage vs. Grawl
 -8%% Damage from Grawl
@@ -886,8 +886,8 @@ Summons a Black Lion Merchant If Your Inventory Is Full after Gathering (20-Minu
 +10%% опыта за убийства"
 "+9%% Damage vs. Nightmare Court
 -8%% Damage from Nightmare Court
-+10%% Experience from Kills","+9%% урона по Кошмарному двору
--8%% урона от Кошмарного двора
++10%% Experience from Kills","+9%% урона по Nightmare Court
+-8%% урона от Nightmare Court
 +10%% опыта за убийства"
 "+9%% Damage vs. Ogres
 -8%% Damage from Ogres

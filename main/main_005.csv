@@ -1542,8 +1542,8 @@ Goss Aleessh""","*Вы касаетесь свитка, и слова исчез
 +10%% опыта за убийства"
 "+10%% Damage vs. Flame Legion
 -10%% Damage from Flame Legion
-+10%% Experience from Kills","+10%% урона по Легиону Пламени
--10%% урона от Легиона Пламени
++10%% Experience from Kills","+10%% урона по Flame Legion
+-10%% урона от Flame Legion
 +10%% опыта за убийства"
 "+10%% Damage vs. Ghosts
 -10%% Damage from Ghosts
@@ -1582,8 +1582,8 @@ Goss Aleessh""","*Вы касаетесь свитка, и слова исчез
 +10%% Опыт за убийства"
 "+10%% Damage vs. Nightmare Court
 -10%% Damage from Nightmare Court
-+10%% Experience from Kills","+10%% урона по Кошмарному двору
--10%% урона от Кошмарного двора
++10%% Experience from Kills","+10%% урона по Nightmare Court
+-10%% урона от Nightmare Court
 +10%% опыта за убийства"
 "+10%% Damage vs. Ogres
 -10%% Damage from Ogres
@@ -3085,7 +3085,7 @@ Night: 8%% Chance to Steal Life on Critical Hit
 +10%% Experience from Kills","+3%% Урон против Элементалей
 +10%% Опыт за убийства"
 "+3%% Damage vs. Flame Legion
-+10%% Experience from Kills","+3%% Урон против Легиона Пламени
++10%% Experience from Kills","+3%% Урон против Flame Legion
 +10%% Опыт за убийства"
 "+3%% Damage vs. Grawl
 +10%% Experience from Kills","+3%% Урон против Граулов
@@ -3103,7 +3103,7 @@ Night: 8%% Chance to Steal Life on Critical Hit
 +10%% Experience from Kills","+3%% Урон против крайтов
 +10%% Опыт за убийства"
 "+3%% Damage vs. Nightmare Court
-+10%% Experience from Kills","+3%% Урон против Кошмарного двора
++10%% Experience from Kills","+3%% Урон против Nightmare Court
 +10%% Опыт за убийства"
 "+3%% Damage vs. Ogres
 +10%% Experience from Kills","+3%% Урон против огров
@@ -3130,7 +3130,7 @@ Night: 8%% Chance to Steal Life on Critical Hit
 +1%% Strike Damage","+3%% Урон от ударов против Элементалей
 +1%% Урон от ударов"
 "+3%% Strike Damage vs. Flame Legion
-+1%% Strike Damage","+3%% Урон от ударов против Легиона Пламени
++1%% Strike Damage","+3%% Урон от ударов против Flame Legion
 +1%% Урон от ударов"
 "+3%% Strike Damage vs. Ghosts
 +1%% Strike Damage","+3%% Урон от ударов против Призраков
@@ -3145,7 +3145,7 @@ Night: 8%% Chance to Steal Life on Critical Hit
 +1%% Strike Damage","+3%% Урон от ударов против Карка
 +1%% Урон от ударов"
 "+3%% Strike Damage vs. Nightmare Court
-+1%% Strike Damage","+3%% Урон от ударов против Кошмарного двора
++1%% Strike Damage","+3%% Урон от ударов против Nightmare Court
 +1%% Урон от ударов"
 "+3%% Strike Damage vs. Ogres
 +1%% Strike Damage","+3%% Урон от ударов против огров

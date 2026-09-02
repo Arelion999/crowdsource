@@ -77,12 +77,12 @@ Double-click to open.","<c=@flavor>На прикреплённой записк�
 <c=@flavor>Awarded for service in the field.</c>,<c=@flavor>Вручается за службу в полевых условиях.</c>
 <c=@flavor>Axe fragments that form the partial shape of a weapon. Found by completing the meta-event in Gyala Delve.</c>,"<c=@flavor>Обломки топора, складывающиеся в неполные очертания оружия. Находится за выполнение мета-события в Гьяла-Дельв.</c>"
 "<c=@flavor>Barrel-Aged Ascalonian Amber has a rich flavor that dominates the pallet. The deceptive copper color belies its strong flavors of fruits, oak, and a mild bitterness. This rare, ancient beer is highly sought after by collectors.</c>","<c=@flavor>Аскалонский янтарь бочковой выдержки обладает густым вкусом, что заполняет собой всё нёбо. Обманчивый медный цвет скрывает крепкие ноты фруктов, дуба и лёгкую горчинку. Это редкое древнее пиво высоко ценится коллекционерами.</c>"
-<c=@flavor>Based on Ash Legion containment technology. Seems unstable.</c>,<c=@flavor>Основано на технологии сдерживания Пепельного легиона. Выглядит нестабильно.</c>
+<c=@flavor>Based on Ash Legion containment technology. Seems unstable.</c>,<c=@flavor>Основано на технологии сдерживания Ash Legion. Выглядит нестабильно.</c>
 "<c=@flavor>Bash dragons and celebrate your victories by drinking this unique barley wine! Its mild body and rich fruity flavors will always leave you wanting another sip, which can be dangerous, much like fighting dragons.</c>","<c=@flavor>Бей драконов и празднуй победы этим неповторимым ячменным вином! Его мягкое тело и насыщенные фруктовые ноты вечно оставляют желание сделать ещё глоток — а это опасно, совсем как драться с драконами.</c>"
 "<c=@flavor>Be not tempted to nibble on its sweet petals, for they are quite poisonous.<c>",<c=@flavor>Не поддавайся искушению откусить сладкий лепесток — они весьма ядовиты.<c>
 "<c=@flavor>Below a portrait, the flier reads: ""Samm Volkman, last seen in the vicinity of Greenflin Plateau.""</c>","<c=@flavor>Под портретом на листовке написано: «Самм Волкман, последний раз замечен в окрестностях плато Гринфлин».</c>"
 <c=@flavor>Blessed by Aurene's touch.</c>,<c=@flavor>Благословлён прикосновением Аурены.</c>
-<c=@flavor>Blood Legion cubs would dare each other to take a shard from the biggest sleeping elemental they could find.</c>,"<c=@flavor>Детёныши Кровавого легиона брали друг друга на слабо: добыть осколок у самого крупного спящего элементаля, какого сумеют найти.</c>"
+<c=@flavor>Blood Legion cubs would dare each other to take a shard from the biggest sleeping elemental they could find.</c>,"<c=@flavor>Детёныши Blood Legion брали друг друга на слабо: добыть осколок у самого крупного спящего элементаля, какого сумеют найти.</c>"
 <c=@flavor>Bones of power lace this coat.</c>,<c=@flavor>Этот куртка прошит костями силы.</c>
 "<c=@flavor>Brave heroes who stood in defense of Lion's Arch, the Captain's Council salutes you.</c>","<c=@flavor>Отважные герои, вставшие на защиту Львиной Арки, — Captain's Council приветствует вас.</c>"
 <c=@flavor>Break down the walls of your world.</c>,<c=@flavor>Сломай стены своего мира.</c>
@@ -114,7 +114,7 @@ Double-click to view the target's predicted location.","<c=@flavor>По прик
 "<c=@flavor>Commissioned for Queen Jennah by a council member, but found too ornate for her tastes.</c>","<c=@flavor>Заказано для королевы Дженны одним из советников, но сочтено слишком вычурным на её вкус.</c>"
 "<c=@flavor>Common, symbolizing stability, wealth, and a foundation of friends and family.</c>","<c=@flavor>Обыденный — символ устойчивости, достатка и опоры на друзей и семью.</c>"
 <c=@flavor>Completion grants 10 levels of progress in the chef crafting discipline.</c>,<c=@flavor>Прохождение даёт 10 уровней прогресса в кулинарном ремесле.</c>
-<c=@flavor>Congratulations from the Divinity's Reach Fancy Cat Association! Everyone is fancy in their own way.</c>,<c=@flavor>Поздравления от Общества изысканных кошек Божественного предела! Каждый изыскан по-своему.</c>
+<c=@flavor>Congratulations from the Divinity's Reach Fancy Cat Association! Everyone is fancy in their own way.</c>,<c=@flavor>Поздравления от Общества изысканных кошек Divinity's Reach! Каждый изыскан по-своему.</c>
 <c=@flavor>Constantly sparking with unbound magic.</c>,<c=@flavor>Постоянно искрит несвязанной магией.</c>
 <c=@flavor>Contains 50 Empyreal Fragments.<c>,<c=@flavor>Содержит 50 эмпирейных фрагментов.<c>
 <c=@flavor>Contains your choice of an account-bound Daydreamer's weapon skin. Double-click to choose a reward.</c>,"<c=@flavor>Содержит облик оружия «Мечтатель» на ваш выбор, привязанный к учётной записи. Дважды щёлкните, чтобы выбрать награду.</c>"
@@ -203,7 +203,7 @@ Purchased from Shading Willow at the Autumn's Vale renown heart in Lowland Shore
 <c=@flavor>Double-click to unpack a set of rare equipment.</c>,"<c=@flavor>Дважды щёлкните, чтобы распаковать набор редкого снаряжения.</c>"
 <c=@flavor>Doubles as a back warmer.</c>,<c=@flavor>Заодно греет спину.</c>
 <c=@flavor>Drinking this seems like a bad idea.</c>,<c=@flavor>Пить это кажется плохой затеей.</c>
-"<c=@Flavor>During the rebellion against the Flame Legion, charr renegades fashioned weapons from common military surplus, with very effective results.</c>",<c=@Flavor>Во время восстания против Легиона Пламени чарры-ренегаты мастерили оружие из обычных армейских излишков — и весьма успешно.</c>
+"<c=@Flavor>During the rebellion against the Flame Legion, charr renegades fashioned weapons from common military surplus, with very effective results.</c>",<c=@Flavor>Во время восстания против Flame Legion чарры-ренегаты мастерили оружие из обычных армейских излишков — и весьма успешно.</c>
 <c=@flavor>Dwell in the safe eye of battle's storm.</c>,<c=@flavor>Пребывай в безопасном оке боевой бури.</c>
 <c=@flavor>Each swing repays debts.</c>,<c=@flavor>Каждый взмах отдаёт долги.</c>
 "<c=@flavor>Each year, Seitung Harbor hosts a celebration where fans meet and celebrate with the people behind their favorite plays, books, art, music, and inventions.</c>","<c=@flavor>Каждый год гавань Сейтуна устраивает торжество, где поклонники встречаются и празднуют вместе с теми, кто стоит за их любимыми пьесами, книгами, картинами, музыкой и изобретениями.</c>"

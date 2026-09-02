@@ -124,8 +124,8 @@ Visit an Ancient Armorsmith to trade in your Proofs of Legend!,"Посетите
 "Visit any city to find a Master Craftsman and learn a trade. Learning trades lets you craft weapons or armor, or even cook foods that temporarily boost stats.","Посетите любой город, чтобы найти Мастера-ремесленника и обучиться ремеслу. Обучение ремеслу позволяет создавать оружие или броню, а также готовить еду, временно повышающую характеристики."
 "Visit bankers in cities and towns to deposit items and view your collectibles. Some items, like crafting materials, can be deposited from anywhere by right-clicking the item in your inventory and choosing Deposit Material.","Посетите банкиров в городах и посёлках, чтобы положить предметы на хранение и просмотреть свои коллекционные предметы. Некоторые предметы, например материалы для крафта, можно положить на хранение откуда угодно, щёлкнув по предмету правой кнопкой мыши в инвентаре и выбрав «Положить материал»."
 Visit Canis in Alpine Borderlands and bow to him.,Посетите Каниса в Альпийских Пограничных землях и поклонитесь ему.
-Visit Divinity's Reach and enjoy Lunar New Year activities.,Посетите Божественный предел и насладитесь мероприятиями Лунного Нового года.
-Visit Divinity's Reach and enjoy Wintersday activities.,Посетите Божественный предел и насладитесь мероприятиями Зимнего дня.
+Visit Divinity's Reach and enjoy Lunar New Year activities.,Посетите Divinity's Reach и насладитесь мероприятиями Лунного Нового года.
+Visit Divinity's Reach and enjoy Wintersday activities.,Посетите Divinity's Reach и насладитесь мероприятиями Зимнего дня.
 Visit Divinity's Reach to enjoy the festive cheer!,"Посетите Divinity's Reach, чтобы ощутить праздничное настроение!"
 Visit Divinity's Reach to join the festival.,"Посетите Divinity's Reach, чтобы присоединиться к фестивалю."
 Visit Leyscribe Poema near the Crumbled Edifice to start the puzzle.,"Посетите лейписца Поэму возле Разрушенного Здания, чтобы начать головоломку."
@@ -152,7 +152,7 @@ Visit scenic Sandswept Isles.,"Посетите живописные Остро�
 Visit scenic Siren's Landing.,Посетите живописную Пристань сирен.
 Visit scenic Thunderhead Peaks.,Посетите живописную Пики Громовой головы.
 Visit the Ancestor Tree at the Ruined Procession in Jahai Bluffs.,Посетите Древо Предков у Разрушенной Процессии в Джахайских утёсах.
-Visit the Black Lion Vaults in Lion's Arch to celebrate Evon Gnashblade's birthday.,"Посетите хранилища Чёрного Льва в Львиной Арке, чтобы отпраздновать день рождения Эвона Гнашблейда."
+Visit the Black Lion Vaults in Lion's Arch to celebrate Evon Gnashblade's birthday.,"Посетите хранилища Black Lion в Львиной Арке, чтобы отпраздновать день рождения Эвона Гнашблейда."
 Visit the choya sage in Lion's Arch to learn (?) more!,"Посетите мудреца-чойю в Львиной Арке, чтобы узнать (?) больше!"
 Visit the dead at Champion's Dawn in the Domain of Istan.,Посетите мёртвых у Рассвета чемпиона во Владениях Истана.
 Visit the dead at Exile's Rest in Elon Riverlands.,Посетите мёртвых в Покое изгнанника в Речных землях Элона.
@@ -296,7 +296,7 @@ Vote!,Голосуйте!
 Voted Nay,Проголосовал «против»
 Voted Yea,Проголосовал «за»
 Voting for Match MVP: %num1%,Голосование за MVP матча: %num1%
-Voucher Dealer<br>• Exchanges Black Lion Vouchers for Select Items,Торговец ваучерами<br>• Обменивает ваучеры Чёрного Льва на избранные предметы
+Voucher Dealer<br>• Exchanges Black Lion Vouchers for Select Items,Торговец ваучерами<br>• Обменивает ваучеры Black Lion на избранные предметы
 Vow of the Warden,Обет Хранителя
 Vulnerability below threshold,Уязвимость ниже порога
 Vulnerability Bite,Укус уязвимости
@@ -415,7 +415,7 @@ Wanted for terrorizing innocents.,Разыскивается за террори
 "Wanted for theft, attempted murder, and incorrect filing of Patent Form 12.21-D. Recently sighted by a kodan patrol entering dredge-filled caverns, though she could be anywhere in the area by now.","Разыскивается за кражу, покушение на убийство и неправильное заполнение патентной формы 12.21-D. Недавно замечена патрулём коданов входящей в пещеры, полные дреджей, хотя сейчас она может быть где угодно в этой местности."
 "Wanted for theft, public intoxication, and lewdness. Target is known to ""spirit"" himself around the region north of Lion's Arch in stolen barrels of ale.","Разыскивается за кражу, публичное опьянение и непристойное поведение. Известно, что цель «перемещается» по региону к северу от Львиной Арки в украденных бочках с элем."
 "Wanted in connection with multiple harassment and public-nuisance complaints. Last seen pestering tengu merchants at their trading post, though target may have moved elsewhere in the region.","Разыскивается в связи с многочисленными жалобами на приставания и нарушение общественного порядка. Последний раз замечен докучающим торговцам тенгу на их торговом посту, хотя цель могла переместиться в другое место в регионе."
-Wanted in connection with several property-damage suits. Last seen behaving aggressively at Meatoberfest. This Separatist keeps clear of Flame Legion territory but could be anywhere else in area.,"Разыскивается в связи с несколькими исками о нанесении ущерба имуществу. Последний раз замечен агрессивно ведущим себя на Мясо-октоберфесте. Этот сепаратист держится подальше от территории Легиона Пламени, но может быть где угодно в этой местности."
+Wanted in connection with several property-damage suits. Last seen behaving aggressively at Meatoberfest. This Separatist keeps clear of Flame Legion territory but could be anywhere else in area.,"Разыскивается в связи с несколькими исками о нанесении ущерба имуществу. Последний раз замечен агрессивно ведущим себя на Мясо-октоберфесте. Этот сепаратист держится подальше от территории Flame Legion, но может быть где угодно в этой местности."
 "Wanted: Adal, Unyielding Firmament","Разыскивается: Адаль, Непоколебимый Свод"
 Wanted: Agasaya,Разыскивается: Агасая
 Wanted: Angry Pet Rock,Разыскивается: Злой камень-питомец

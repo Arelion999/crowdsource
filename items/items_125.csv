@@ -18,7 +18,7 @@ Double-click to gain 50 luck.","С уходом Корага его оставш
 Дважды щёлкните, чтобы получить 50 единиц удачи."
 "'""""""Nature''s candy"""" is not candy.""'","«""""""Конфеты природы"""" — это не конфеты.""'"
 "'""""""Of course it''s not just an empty bottle. It came with a certificate of authenticity!""""""'","«""""""Конечно, это не просто пустая бутылка. К ней прилагался сертификат подлинности!""""""»"
-"'""""""To keep cool while things heat up is a rare quality. You''re a true testament to the Blood Legion.""""'","«Сохранять хладнокровие, когда вокруг жарко, — редкое качество. Ты — истинное свидетельство Кровавого легиона»."
+"'""""""To keep cool while things heat up is a rare quality. You''re a true testament to the Blood Legion.""""'","«Сохранять хладнокровие, когда вокруг жарко, — редкое качество. Ты — истинное свидетельство Blood Legion»."
 "'""<c=@flavor>""""A good soldier follows orders. A great soldier doesn''t question them.""""'","«""<c=@flavor>""""Хороший солдат следует приказам. Великий солдат их не оспаривает.""""»"
 "'""<c=@flavor>""""Aha! I''ve been looking for those.""""'","""<c=@flavor>""""Ага! Я как раз искал их."""""
 "'""<c=@flavor>""""Always gotta make sure your drinking water''s safe.""""'","'""<c=@flavor>""""Всегда нужно убедиться, что твоя питьевая вода безопасна.""""'"
@@ -29,7 +29,7 @@ Double-click to gain 50 luck.","С уходом Корага его оставш
 "'""<c=@flavor>""""Be careful with that! It''s very fragile.""""'","«""<c=@flavor>""""Осторожнее! Она очень хрупкая.""""»"
 "'""<c=@flavor>""""Bet their catapult won''t work without this!""""'","«""<c=@flavor>""""Держу пари, их катапульта не сработает без этого!""""»"
 "'""<c=@flavor>""""By Bangar''s blade!""""'","«""<c=@flavor>""""Клинком Бангара!""""'"
-"'""<c=@flavor>""""Can''t be unarmed with the flame legion skulking about.""""'","'""<c=@flavor>""""Нельзя быть безоружным, пока Легион Пламени рыщет поблизости.""""'"
+"'""<c=@flavor>""""Can''t be unarmed with the flame legion skulking about.""""'","'""<c=@flavor>""""Нельзя быть безоружным, пока Flame Legion рыщет поблизости.""""'"
 "'""<c=@flavor>""""Can''t have a proper patrol without a proper torch.""""'","«""<c=@flavor>""""Без хорошего факела не может быть хорошего патруля.""""»"
 "'""<c=@flavor>""""Cover your head. That''s rule number one when all the other rules go out the window.""""'","'""<c=@flavor>""""Прикрой голову. Это правило номер один, когда все остальные правила летят в окно.""""'"
 "'""<c=@flavor>""""Crab grabbin'' can be dangerous. Protect those mitts!""""'","'""<c=@flavor>""""Хватать крабов может быть опасно. Береги свои рукавицы!""""'"
@@ -103,7 +103,7 @@ Double-click to gain 50 luck.","С уходом Корага его оставш
 "'""<c=@flavor>""""Just a small piece of the Terebinth''s power.""""'","'""<c=@flavor>""""Всего лишь маленькая частица силы Теребинта.""""'"
 "'""<c=@flavor>""""Let''s make a deal.""""'","«""<c=@flavor>""""Давайте заключим сделку.""""»"
 "'""<c=@flavor>""""Let''s see them run after us now!""""'","""<c=@flavor>""""Посмотрим, как они теперь за нами погонятся!"""""
-"'""<c=@flavor>""""Looks like your heroics qualified you. You have the Iron Legion''s thanks.""""'","'""<c=@flavor>""Похоже, твои героические подвиги дали тебе право. Ты получил благодарность Железного легиона.""'"
+"'""<c=@flavor>""""Looks like your heroics qualified you. You have the Iron Legion''s thanks.""""'","'""<c=@flavor>""Похоже, твои героические подвиги дали тебе право. Ты получил благодарность Iron Legion.""'"
 "'""<c=@flavor>""""Made from a devourer''s tail.""""</c>""'","""<c=@flavor>""""Сделан из хвоста пожирателя.""""</c>"""
 "'""<c=@flavor>""""Magic! It''s like the frosting on a giant misty cake. Made of pistols. That burn blue. Just like Mom used to make.""""'","'""<c=@flavor>""""Магия! Это как глазурь на гигантском туманном торте. Сделанном из пистолетов. Которые горят синим. Прямо как мама готовила.""""'"
 "'""<c=@flavor>""""Market research! That''s the ticket. I just need to know what those quaggan chaps eat.""""'","'""<c=@flavor>""""Маркетинговое исследование! В этом вся суть. Мне просто нужно знать, что едят эти квагганы.""""'"
@@ -437,7 +437,7 @@ Can be exchanged for a non-soulbound version at merchants in Amnoon.","32 сло
 <c=@Reminder>Hint: Somewhere near the Mordant Crescent Great Hall in the Domain of Istan.</c>,<c=@Reminder>Подсказка: Где-то рядом с Большим залом Мордант Кресент в области Истан.</c>
 <c=@Reminder>Hint: Use your skyscale mount to access a rift near the Astralarium in the Domain of Istan.</c>,"<c=@Reminder>Подсказка: Используйте скайскейл, чтобы добраться до разлома рядом с Астраларием в области Истан.</c>"
 <c=@Reminder>This bait will help attract Daijun Blackfin in the Eastern Wilds Bay.</c>,<c=@Reminder>Эта наживка поможет привлечь дайцзюньского чёрноплавника в заливе Восточных Пустошей.</c>
-<c=@Reminder>This item can be exchanged for an upgraded version at the Black Lion Exchange Specialist.</c>,<c=@Reminder>Этот предмет можно обменять на улучшенную версию у специалиста по обмену Чёрного льва.</c>
+<c=@Reminder>This item can be exchanged for an upgraded version at the Black Lion Exchange Specialist.</c>,<c=@Reminder>Этот предмет можно обменять на улучшенную версию у специалиста по обмену Black Lion.</c>
 <c=@Task>All unobtained dyes have an equal chance of dropping.</c>,<c=@Task>Все неполученные краски имеют равный шанс выпадения.</c>
 "<c=@Task>All unobtained skins have an equal chance of dropping.</c>
 <c=@flavor>""Skritt will collect just about everything at least once."" —Priory Notes on Primitive Races, page 422</c>","<c=@Task>Все неполученные образцы имеют равный шанс выпадения.</c>
@@ -498,7 +498,7 @@ Can be exchanged for a non-soulbound version at merchants in Amnoon.","32 сло
 —Лари</c>"
 "<c=@flavor>""Blast, Build
 —Iron Legion Motto</c>","<c=@flavor>""Взрывай, строй
-—Девиз Железного легиона</c>"
+—Девиз Iron Legion</c>"
 "<c=@flavor>""Break, Blaze
 '<c=@flavor>""""Bulsa''s Son""""</c>""'","<c=@flavor>""Ломай, Пылай
 '<c=@flavor>""""Сын Булсы""""</c>""'"

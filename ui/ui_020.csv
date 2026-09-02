@@ -232,14 +232,14 @@ english,translate
 "<c=@flavor>""Between the three of us, there's nothing we can't handle.""<br>—Rhea</c>",<c=@flavor>«Втроём нам любое дело по плечу».<br>—Реа</c>
 "<c=@flavor>""Big battles call for big weapons.""<br>—Arcanist Repth</c>",<c=@flavor>«Большие битвы требуют большого оружия».<br>—Арканист Репт</c>
 "<c=@flavor>""Blasphemy like that of the svanir needs to be cut from this world.""<br>—Crusader D'Stolt</c>",<c=@flavor>«Богохульство вроде свенира нужно вырезать из этого мира».<br>—Crusader D'Stolt</c>
-"<c=@flavor>""Blast, Build, Battle.""<br>—Iron Legion Motto</c>","<c=@flavor>«Взрывай, строй, сражайся».<br>—Девиз Железного легиона</c>"
+"<c=@flavor>""Blast, Build, Battle.""<br>—Iron Legion Motto</c>","<c=@flavor>«Взрывай, строй, сражайся».<br>—Девиз Iron Legion</c>"
 "<c=@flavor>""Bunny watches us, too.""<br>—Bjarni</c>",<c=@flavor>«Кролик тоже следит за нами».<br>—Бьярни</c>
 "<c=@Flavor>""Business is life, and life is good!""<br>—Anonymous Vabbian Trade Official</c>","<c=@Flavor>«Дело — это жизнь, а жизнь хороша!»<br>—Аноним, торговый чиновник Ваббии</c>"
 "<c=@flavor>""By Bangar's blade!""<br>—Blood Legion</c>",<c=@flavor>«Клянусь клинком Бангара!»<br>—Blood Legion</c>
 "<c=@flavor>""By the time most soldiers get here, they need a new pair.""<br>—Arcanist Repth</c>","<c=@flavor>«К тому времени, как большинство солдат сюда добираются, им нужна новая пара».<br>—Арканист Репт</c>"
 "<c=@flavor>""Can you believe the Branded corruption even hit the fish?""<br>—Sentinel Staggerfoe</c>","<c=@flavor>«Можешь поверить, что порча Клеймёных задела даже рыбу?»<br>—Часовой Шатконога</c>"
 "<c=@flavor>""Can you feel the rod vibrate? It also makes a faint humming sound.""<br>—Opticalium Researcher Oisha</c>","<c=@flavor>«Чувствуешь, как вибрирует эта штанга? Она ещё и слабо гудит».<br>—Исследователь оптикалия Ойша</c>"
-"<c=@flavor>""Can't be unarmed with the flame legion skulking about.""<br>—Braxa Scalehunter</c>","<c=@flavor>«Нельзя оставаться безоружным, пока рядом рыщет Легион Пламени».<br>—Бракса Чешуйница</c>"
+"<c=@flavor>""Can't be unarmed with the flame legion skulking about.""<br>—Braxa Scalehunter</c>","<c=@flavor>«Нельзя оставаться безоружным, пока рядом рыщет Flame Legion».<br>—Бракса Чешуйница</c>"
 "<c=@flavor>""Can't have a proper patrol without a proper torch.""<br>—Lionguard Cern</c>",<c=@flavor>«Нормальный патруль без нормального факела не обходится».<br>—Страж Льва Керн</c>
 "<c=@flavor>""Careful not to step into anything glowy, gooey, or otherwise threatening.""<br>—Researcher Kaii</c>","<c=@flavor>«Осторожно, не наступи ни на что светящееся, липкое или иным образом опасное».<br>—Исследовательница Каи</c>"
 "<c=@flavor>""Careful walking around the ettins; they leave all manner of nasty and sharp things lying about.""<br>—Bramm</c>",<c=@flavor>«Осторожно ходи рядом с эттинами: они разбрасывают повсюду всякие неприятные и острые вещи».<br>—Брамм</c>
@@ -250,7 +250,7 @@ english,translate
 "<c=@flavor>""Comes in handy if you get spotted sneaking.""<br>—Avarr</c>","<c=@flavor>«Пригодится, если тебя заметят при попытке подкрасться».<br>—Аварр</c>"
 "<c=@flavor>""Coming from the darkness they just grow like that.""<br>—Alarin</c>","<c=@flavor>«Выходя из тьмы, они просто так растут».<br>—Аларин</c>"
 "<c=@flavor>""Communication is the key to a successful operation, regardless of the size.""<br>—Agent Siobhan</c>","<c=@flavor>«Связь — ключ к успешной операции, вне зависимости от масштаба».<br>—Agent Siobhan</c>"
-"<c=@flavor>""Conquer all.""<br>—Blood Legion Motto</c>",<c=@flavor>«Покорить всё».<br>—Девиз Кровавого легиона</c>
+"<c=@flavor>""Conquer all.""<br>—Blood Legion Motto</c>",<c=@flavor>«Покорить всё».<br>—Девиз Blood Legion</c>
 "<c=@flavor>""Cooperation brought us to this point. It will see us through.""<br>—Tactician Almonia</c>",<c=@flavor>«Сотрудничество привело нас сюда. Оно же и проведёт нас дальше».<br>—Tactician Almonia</c>
 "<c=@flavor>""Cover your head. That's rule number one when all the other rules go out the window.""<br>—Scholar Blix</c>","<c=@flavor>«Прикрывай голову. Это правило номер один, когда все остальные правила летят к чертям».<br>—Учёная Бликс</c>"
 "<c=@flavor>""Crab grabbin' can be dangerous. Protect those mitts!""<br>—Bram Dawnrazer</c>",<c=@flavor>«Ловля крабов может быть опасной. Береги свои клешни!»<br>—Брам Рассветный Разбойник</c>
@@ -259,7 +259,7 @@ english,translate
 "<c=@flavor>""Dark arrows for dark times, friend.""<br>—Lightbringer Ives</c>","<c=@flavor>«Тёмные стрелы для тёмных времён, друг».<br>—Светоносец Айвз</c>"
 "<c=@flavor>""Darkness, like anything else, is best when its enhanced.""<br>—Fina Duskmaker</c>","<c=@flavor>«Тьма, как и всё прочее, лучше всего, когда она усилена».<br>—Фина Сумеречница</c>"
 "<c=@flavor>""Designed to keep you nimble while out on patrol.""<br>—Lionguard Cern</c>","<c=@flavor>«Создан, чтобы сохранять подвижность на патруле».<br>—Страж Льва Керн</c>"
-"<c=@flavor>""Destroy with subterfuge.""<br>—Ash Legion Motto</c>",<c=@flavor>«Уничтожай хитростью».<br>—Девиз Пепельного легиона</c>
+"<c=@flavor>""Destroy with subterfuge.""<br>—Ash Legion Motto</c>",<c=@flavor>«Уничтожай хитростью».<br>—Девиз Ash Legion</c>
 "<c=@flavor>""Destroyers came; we were ready.""<br>—Bordekka</c>",<c=@flavor>«Разрушители пришли — мы были готовы».<br>—Бордекка</c>
 "<c=@flavor>""Did you see the size of that thing?""<br>—Travis</c>",<c=@flavor>«Видел размеры этой штуки?»<br>—Тревис</c>
 "<c=@flavor>""Diplomacy is often a double edged pursuit. Out here we keep both sides sharp.""<br>—Kai</c>",<c=@flavor>«Дипломатия часто — обоюдоострое занятие. Здесь мы держим острыми оба лезвия».<br>—Кай</c>
@@ -479,7 +479,7 @@ english,translate
 "<c=@flavor>""Long hours and hard work pays off.""<br>—Haral</c>",<c=@flavor>«Долгие часы и тяжёлый труд окупаются».<br>—Харал</c>
 "<c=@flavor>""Looks like a good ring for you.""<br>—Mrr'kkant</c>","<c=@flavor>«Похоже, неплохое кольцо для тебя».<br>—Мрр'ккант</c>"
 "<c=@flavor>""Looks like the bandits, Inquest, and Nightmare Court are working together?""<br>—Mathair</c>","<c=@flavor>«Похоже, бандиты, Инквест и Nightmare Court работают сообща?»<br>—Матейр</c>"
-"<c=@flavor>""Looks like your heroics qualified you. You have the Iron Legion's thanks.""<br>—Legionnaire Sleekfur</c>","<c=@flavor>«Похоже, твой героизм прошёл проверку. Ты заслужил благодарность Железного легиона».<br>—Легионер Гладкий Мех</c>"
+"<c=@flavor>""Looks like your heroics qualified you. You have the Iron Legion's thanks.""<br>—Legionnaire Sleekfur</c>","<c=@flavor>«Похоже, твой героизм прошёл проверку. Ты заслужил благодарность Iron Legion».<br>—Легионер Гладкий Мех</c>"
 "<c=@flavor>""Looks really old. I wonder where it came from.""<br>—Rhea</c>","<c=@flavor>«Выглядит действительно старым. Интересно, откуда это взялось».<br>—Реа</c>"
 "<c=@flavor>""Made extra shiny for upcoming shiny battles.""<br>—Explorer Grretergrret</c>",<c=@flavor>«Сделано особенно блестящим для грядущих блестящих битв».<br>—Изыскатель Гретергрет</c>
 "<c=@flavor>""Made with proprietary resistance thread.""<br>—Senior Researcher Takka</c>",<c=@flavor>«Сделано из фирменной нити сопротивления».<br>—Старший исследователь Такка</c>
