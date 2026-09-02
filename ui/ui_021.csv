@@ -1,5 +1,5 @@
 english,translate
-"<c=@flavor>""Minds, Words, Deeds.""<br>—Ash Legion Motto</c>","<c=@flavor>«Разум, слово, дело».<br>—Девиз Пепельного легиона</c>"
+"<c=@flavor>""Minds, Words, Deeds.""<br>—Ash Legion Motto</c>","<c=@flavor>«Разум, слово, дело».<br>—Девиз Ash Legion</c>"
 "<c=@flavor>""More spikes mean Naknar's mace better than mace with less spikes.""<br>—Naknar</c>",<c=@flavor>«Больше шипов значит булава Накнара лучше булавы с меньшим числом шипов».<br>—Накнар</c>
 "<c=@flavor>""Most powerful paint. Powerful magic for powerful battle.""<br>—Marksman Kamekeck</c>",<c=@flavor>«Самая мощная краска. Мощная магия для мощной битвы».<br>—Стрелок Камекек</c>
 "<c=@flavor>""Motion makes noise.""<br>—Sizza</c>",<c=@flavor>«Движение создаёт шум».<br>—Сицца</c>
@@ -115,14 +115,14 @@ english,translate
 "<c=@flavor>""Sometimes you have to fight to eat.""<br>—Matlal</c>","<c=@flavor>«Иногда приходится драться, чтобы поесть».<br>—Матлал</c>"
 "<c=@flavor>""Sometimes you must break something in order to rebuild it.""<br>—Guard Splintering Serenity</c>","<c=@flavor>«Иногда нужно что-то сломать, чтобы отстроить заново».<br>—Страж Дробящий Покой</c>"
 "<c=@flavor>""Special grub gloves for special grub friend.""<br>—Tarstar Chief</c>",<c=@flavor>«Особые перчатки для личинок для особого друга-личинки».<br>—Вождь Тарстар</c>
-"<c=@flavor>""Specially issued to this battalion by the Iron Legion.""<br>—Legionnaire Bladechipper</c>",<c=@flavor>«Специально выдано этому батальону Железным легионом».<br>—Легионер Осколок Клинка</c>
+"<c=@flavor>""Specially issued to this battalion by the Iron Legion.""<br>—Legionnaire Bladechipper</c>",<c=@flavor>«Специально выдано этому батальону Iron Legion».<br>—Легионер Осколок Клинка</c>
 "<c=@flavor>""Specially made for mining.""<br>—Gon Rageshot</c>",<c=@flavor>«Специально сделано для добычи руды».<br>—Гон Ярый Выстрел</c>
 "<c=@flavor>""Speed is your ally.""<br>—Brian</c>",<c=@flavor>«Скорость — твой союзник».<br>—Брайан</c>
 "<c=@flavor>""Standard sentinel patrol torch with a little extra kick.""<br>—Sentinel Jaggedclaw</c>",<c=@flavor>«Стандартный патрульный факел часового с небольшой изюминкой».<br>—Часовой Зазубренный Коготь</c>
 "<c=@flavor>""Stay sharp.""<br>—Warmaster Chan</c>",<c=@flavor>«Держи ухо востро».<br>—Военачальник Чан</c>
 "<c=@flavor>""Steel won't yield.""<br>—Iron Legion</c>",<c=@flavor>«Сталь не отступит».<br>—Iron Legion</c>
 "<c=@flavor>""Step one: stop incoming attacks. Step two: repay in full.""<br>—Scout Jones</c>",<c=@flavor>«Шаг первый: остановить входящие атаки. Шаг второй: отплатить сполна».<br>—Scout Jones</c>
-"<c=@flavor>""Stike hard, strike often.""<br>—Blood Legion Motto</c>","<c=@flavor>«Бей сильно, бей часто».<br>—Девиз Кровавого легиона</c>"
+"<c=@flavor>""Stike hard, strike often.""<br>—Blood Legion Motto</c>","<c=@flavor>«Бей сильно, бей часто».<br>—Девиз Blood Legion</c>"
 "<c=@flavor>""Stop. Pause. Think. Breathe.""<br>—Motto Of Koda</c>",<c=@flavor>«Стоп. Пауза. Думай. Дыши».<br>—Девиз Коды</c>
 "<c=@flavor>""Stride silently behind your prey.""<br>—Anonymous</c>",<c=@flavor>«Ступай бесшумно за своей добычей».<br>—Аноним</c>
 "<c=@flavor>""Strike fast in order to strike again.""<br>—Agent Siobhan</c>","<c=@flavor>«Бей быстро, чтобы ударить снова».<br>—Agent Siobhan</c>"
@@ -289,8 +289,8 @@ english,translate
 "<c=@flavor>""Triktiki did not steal. Honest!""<br>—Triktiki</c>",<c=@flavor>«Триктики не воровал. Честно!»<br>—Триктики</c>
 "<c=@flavor>""Try as you might, this one is soundless.""<br>—Eona</c>","<c=@flavor>«Как ни старайся, этот бесшумен».<br>—Эона</c>"
 "<c=@flavor>""Two things are seemingly endless: centaurs to kill, and our supply of leggings.""<br>—Erika Rane</c>",<c=@flavor>«Две вещи кажутся бесконечными: кентавры на убой и наш запас поножей».<br>—Эрика Рейн</c>
-"<c=@flavor>""Until we get through the Nightmare Court, we have extra supplies.""<br>—Explorer Pentt</c>","<c=@flavor>«Пока мы не пробьёмся через Кошмарный двор, у нас есть запасные припасы».<br>—Изыскатель Пентт</c>"
-"<c=@flavor>""Until we're able to get through the Nightmare Court, we have extra supplies.""<br>—Explorer Pentt</c>","<c=@flavor>«Пока мы не сможем пробиться через Кошмарный двор, у нас есть запасные припасы».<br>—Изыскатель Пентт</c>"
+"<c=@flavor>""Until we get through the Nightmare Court, we have extra supplies.""<br>—Explorer Pentt</c>","<c=@flavor>«Пока мы не пробьёмся через Nightmare Court, у нас есть запасные припасы».<br>—Изыскатель Пентт</c>"
+"<c=@flavor>""Until we're able to get through the Nightmare Court, we have extra supplies.""<br>—Explorer Pentt</c>","<c=@flavor>«Пока мы не сможем пробиться через Nightmare Court, у нас есть запасные припасы».<br>—Изыскатель Пентт</c>"
 "<c=@flavor>""Use this to keep you safe, young one.""<br>—Bulsa</c>","<c=@flavor>«Используй это, чтобы быть в безопасности, дитя».<br>—Булса</c>"
 "<c=@flavor>""Used strictly for religious purposes, of course.""<br>—Cin</c><br><br>This item only has value as part of a collection.","<c=@flavor>«Используется строго в религиозных целях, разумеется».<br>—Син</c><br><br>Этот предмет ценен только как часть коллекции."
 "<c=@flavor>""Using a bow is like training people. You have to bend them to know their limits."" <br>—Laudren</c>","<c=@flavor>«Использовать лук — как обучать людей. Нужно гнуть их, чтобы узнать их пределы». <br>—Лаудрен</c>"
@@ -312,7 +312,7 @@ english,translate
 "<c=@flavor>""We acquired the design from the local hylek.""<br>—Lionguard Hester</c>",<c=@flavor>«Мы позаимствовали этот дизайн у местных хилеков».<br>—Страж Льва Эстер</c>
 "<c=@flavor>""We are here. You need only call.""<br>—Keeper Lyrda</c>",<c=@flavor>«Мы здесь. Тебе нужно лишь позвать».<br>—Хранительница Лирда</c>
 "<c=@flavor>""We aren't expert marksmen the moment we awaken.""<br>—Diantha</c>",<c=@flavor>«Мы не рождаемся меткими стрелками с пробуждением».<br>—Диантха</c>
-"<c=@flavor>""We build.""<br>—Iron Legion Motto</c>",<c=@flavor>«Мы строим».<br>—Девиз Железного легиона</c>
+"<c=@flavor>""We build.""<br>—Iron Legion Motto</c>",<c=@flavor>«Мы строим».<br>—Девиз Iron Legion</c>
 "<c=@flavor>""We chain ourselves to fate by the decisions we make.""<br>—Warden Scourgejaw</c>","<c=@flavor>«Мы приковываем себя к судьбе решениями, которые принимаем».<br>—Страж Скорджо</c>"
 "<c=@flavor>""We coat the strings to make them quieter.""<br>—Sizza</c>","<c=@flavor>«Мы покрываем струны, чтобы сделать их тише».<br>—Сицца</c>"
 "<c=@flavor>""We deserve only the finest weapons.""<br>—Warmaster Jofast</c>",<c=@flavor>«Мы заслуживаем только лучшего оружия».<br>—Военачальник Джофаст</c>
@@ -355,8 +355,8 @@ english,translate
 "<c=@flavor>""Why do they need lanterns? I thought they liked working in the dark.""<br>—Leika</c>","<c=@flavor>«Зачем им фонари? Я думала, они любят работать в темноте».<br>—Лейка</c>"
 "<c=@flavor>""Will these portals never end? I'd like to complete my research.""<br>—Historian Garrod</c>",<c=@flavor>«Неужели эти порталы никогда не закончатся? Хотелось бы завершить свои исследования».<br>—Historian Garrod</c>
 "<c=@flavor>""With a hero like you around the Flame Legion here wont last long.""<br>—Legionnaire Neverburn</c>","<c=@flavor>«С таким героем, как ты, рядом Flame Legion здесь долго не продержится».<br>—Легионер Негорящий</c>"
-"<c=@flavor>""With a hero like you around, the Flame Legion doesn't stand a chance.""<br>-Corva Sharpclaw</c>","<c=@flavor>«С таким героем, как ты, рядом у Легиона Пламени нет шансов».<br>-Corva Sharpclaw</c>"
-"<c=@flavor>""With a hero like you around, the Flame Legion doesn't stand a chance.""<br>—Corva Sharpclaw</c>","<c=@flavor>«С таким героем, как ты, рядом у Легиона Пламени нет шансов».<br>—Corva Sharpclaw</c>"
+"<c=@flavor>""With a hero like you around, the Flame Legion doesn't stand a chance.""<br>-Corva Sharpclaw</c>","<c=@flavor>«С таким героем, как ты, рядом у Flame Legion нет шансов».<br>-Corva Sharpclaw</c>"
+"<c=@flavor>""With a hero like you around, the Flame Legion doesn't stand a chance.""<br>—Corva Sharpclaw</c>","<c=@flavor>«С таким героем, как ты, рядом у Flame Legion нет шансов».<br>—Corva Sharpclaw</c>"
 "<c=@flavor>""With this you can end conversations as fast as you start 'em.""<br>—Crusader Brice</c>","<c=@flavor>«С этим ты можешь закончить разговор так же быстро, как начать его».<br>—Crusader Brice</c>"
 "<c=@flavor>""With what's around here, you can never have too much armor.""<br>—Zalvax Brokenclaw</c>","<c=@flavor>«С тем, что здесь водится, брони много не бывает».<br>—Zalvax Brokenclaw</c>"
 "<c=@flavor>""Wolf watches over you.""<br>—Vigmarr</c>",<c=@flavor>«Волк присматривает за тобой».<br>—Вигмарр</c>
@@ -472,7 +472,7 @@ english,translate
 "<c=@reminder>Purchase the jackal from Drojkor, Spirit Squall in Guild Wars 2: Path of Fire to unlock this mount.</c>","<c=@reminder>Приобретите шакала у Дройкора, Духа Шквала, в Guild Wars 2: Путь Огня, чтобы разблокировать это ездовое животное.</c>"
 <c=@reminder>Purchase the skimmer from Skimmer Trainer Ardra in Guild Wars 2: Path of Fire or complete the Wavehawk Fundamentals achievement in Guild Wars 2: Visions of Eternity to unlock this mount.</c>,"<c=@reminder>Приобретите скиммера у укротительницы скиммеров Ардры в Guild Wars 2: Путь Огня либо выполните достижение «Основы волноястреба» в Guild Wars 2: Видения Вечности, чтобы разблокировать это ездовое животное.</c>"
 "<c=@reminder>Purchase the springer from Stablemaster Unja in Guild Wars 2: Path of Fire, speak with Lieutenant Zhao in Guild Wars 2: End of Dragons, or begin the the first story chapter of Guild Wars 2: Janthir Wilds or Guild Wars 2: Visions of Eternity to unlock this mount.</c>","<c=@reminder>Приобретите спрингера у смотрительницы конюшни Унджи в Guild Wars 2: Путь Огня, поговорите с лейтенантом Чжао в Guild Wars 2: Конец Драконов либо начните первую главу истории Guild Wars 2: Дикие земли Джантира или Guild Wars 2: Видения Вечности, чтобы разблокировать это ездовое животное.</c>"
-<c=@reminder>This can be found randomly inside Black Lion Chests.</c>,<c=@reminder>Это можно случайно найти внутри сундуков Чёрного Льва.</c>
+<c=@reminder>This can be found randomly inside Black Lion Chests.</c>,<c=@reminder>Это можно случайно найти внутри сундуков Black Lion.</c>
 <c=@reminder>This finisher is only available from the Black Lion Trading Company during seasonal special events. Visit the Upgrades category in the Gem Store to unlock it.</c>,"<c=@reminder>Этот финишер доступен только в Торговой компании Чёрного Льва во время сезонных специальных мероприятий. Посетите категорию «Улучшения» в магазине самоцветов, чтобы разблокировать его.</c>"
 <c=@reminder>This is an exclusive item granted to accounts with a 7-year-old character.</c>,"<c=@reminder>Это эксклюзивный предмет, предоставляемый учётным записям с 7-летним персонажем.</c>"
 <c=@reminder>This is only available from the Black Lion Trading Company during limited-time sales as part of a bundle.</c>,<c=@reminder>Это доступно только в Торговой компании Чёрного Льва во время ограниченных по времени распродаж в составе набора.</c>
@@ -485,7 +485,7 @@ english,translate
 <c=@reminder>This is only available with the Deluxe edition of Guild Wars 2: Secrets of the Obscure.</c>,<c=@reminder>Это доступно только с изданием Deluxe Guild Wars 2: Secrets of the Obscure.</c>
 <c=@reminder>This is only available with the Deluxe edition of Guild Wars 2: Visions of Eternity.</c>,<c=@reminder>Это доступно только с изданием Deluxe Guild Wars 2: Видения Вечности.</c>
 <c=@reminder>This mini can be found by exploring the world of Tyria.</c>,"<c=@reminder>Эту миниатюру можно найти, исследуя мир Тирии.</c>"
-<c=@reminder>This mini can be found randomly inside Black Lion Chests.</c>,<c=@reminder>Эту миниатюру можно случайно найти внутри сундуков Чёрного Льва.</c>
+<c=@reminder>This mini can be found randomly inside Black Lion Chests.</c>,<c=@reminder>Эту миниатюру можно случайно найти внутри сундуков Black Lion.</c>
 <c=@reminder>This mini is only available from the Black Lion Trading Company during limited-time sales.</c>,<c=@reminder>Эта миниатюра доступна только в Торговой компании Чёрного Льва во время ограниченных по времени распродаж.</c>
 <c=@reminder>This mini is only available from the Black Lion Trading Company during seasonal special events. Visit the Toys category in the Gem Store to unlock it.</c>,"<c=@reminder>Эта миниатюра доступна только в Торговой компании Чёрного Льва во время сезонных специальных мероприятий. Посетите категорию «Игрушки» в магазине самоцветов, чтобы разблокировать её.</c>"
 <c=@reminder>This mini is only available through specific Mystic Forge combinations.</c>,<c=@reminder>Эта миниатюра доступна только через определённые комбинации в Мистическом Горниле.</c>
@@ -493,4 +493,4 @@ english,translate
 "<c=@reminder>This mini is part of Series 2, available in random packs from the Toys category of the Gem Store or from the Trading Post.</c>","<c=@reminder>Эта миниатюра — часть Серии 2, доступна в случайных наборах из категории «Игрушки» магазина самоцветов или на торговом посту.</c>"
 "<c=@reminder>This mini is part of Series 3, available in random packs from the Toys category of the Gem Store or from the Trading Post.</c>","<c=@reminder>Эта миниатюра — часть Серии 3, доступна в случайных наборах из категории «Игрушки» магазина самоцветов или на торговом посту.</c>"
 <c=@reminder>Unlock this by purchasing it from the Black Lion Trading Company Gem Store.</c>,"<c=@reminder>Разблокируйте это, приобретя в магазине самоцветов Торговой компании Чёрного Льва.</c>"
-<c=@reminder>Unlock this finisher by discovering it in Black Lion Chests or purchasing it from the Trading Post.</c>,"<c=@reminder>Разблокируйте этот финишер, найдя его в сундуках Чёрного Льва либо приобретя на торговом посту.</c>"
+<c=@reminder>Unlock this finisher by discovering it in Black Lion Chests or purchasing it from the Trading Post.</c>,"<c=@reminder>Разблокируйте этот финишер, найдя его в сундуках Black Lion либо приобретя на Trading Post.</c>"

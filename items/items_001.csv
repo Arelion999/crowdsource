@@ -49,12 +49,12 @@ Double-click to gain 50 luck.","«Пусть утрата Исвельты ве�
 """Solvi will be sorely missed, but he died a hero's death free of corruption. We have you to thank for that.""
 Double-click to gain 50 luck.","«Солви будет очень не хватать, но он погиб смертью героя, не тронутый порчей. И этим мы обязаны тебе».
 Дважды щёлкните, чтобы получить 50 удачи."
-"""The Black Lion Trade company apologizes for any damage items may have received in transit.""",«Торговая компания Чёрного Льва приносит извинения за любые повреждения предметов при перевозке».
+"""The Black Lion Trade company apologizes for any damage items may have received in transit.""",«Торговая компания Black Lion приносит извинения за любые повреждения предметов при перевозке».
 """The Storm That Consumes All""","«Буря, что поглощает всё»"
 """These are way less terrifying than the last version.""","«Эти куда менее ужасающие, чем прошлая версия»."
 """These bleached bones... A sentinel of Kormir?""",«Эти выбеленные кости... Часовой Кормир?»
 """To keep cool while things heat up is a rare quality. You're a true testament to the Blood Legion.""
-Double-click to gain 50 luck.","«Сохранять хладнокровие, когда становится жарко, — редкое качество. Ты истинное доказательство доблести Кровавого легиона».
+Double-click to gain 50 luck.","«Сохранять хладнокровие, когда становится жарко, — редкое качество. Ты истинное доказательство доблести Blood Legion».
 Дважды щёлкните, чтобы получить 50 удачи."
 """Today you showed me cunning can cut deeper than a knife. Trybulus had us outnumbered, but we persevered. Good work.""
 Double-click to gain 50 luck.","«Сегодня ты показал мне, что хитрость режет глубже ножа. Трибул превосходил нас числом, но мы выстояли. Славная работа».
@@ -171,7 +171,7 @@ Double-click to gain 50 luck.","«Теперь, когда Корага не с�
 1st Place World Tournament Series Finisher,Первое место — добивающий приём Мировой турнирной серии
 2 Gold,2 золота
 20 Slot,20 ячеек
-20 Slot Black Lion Satchel,Сумка Чёрного Льва на 20 ячеек
+20 Slot Black Lion Satchel,Сумка Black Lion на 20 ячеек
 20 Slot Craftsman's Bag,Сумка ремесленника на 20 ячеек
 20 Slot Equipment Box,Коробка для снаряжения на 20 ячеек
 20 Slot Fractal Bag,Фрактальная сумка на 20 ячеек
@@ -234,7 +234,7 @@ Double-click to gain 50 luck.","«Теперь, когда Корага не с�
 24-Slot Nomad's Locker,Ларец кочевника на 24 ячейки
 24-Slot Orichalcum Locker,Орихалковый ларец на 24 ячейки
 250 Trade Contracts,250 торговых контрактов
-28 Slot Black Lion Satchel,Сумка Чёрного Льва на 28 ячеек
+28 Slot Black Lion Satchel,Сумка Black Lion на 28 ячеек
 28 Slots,28 ячеек
 "28 slots. If possible, containers and consumable items will fill this box before other empty spaces. The contents of this box will not move when inventory is sorted.",28 ячеек. По возможности контейнеры и расходуемые предметы заполняют эту коробку прежде других свободных мест. Содержимое этой коробки не перемещается при сортировке инвентаря.
 "28 slots. If possible, junk items will fill this box first before other empty slots. The contents of this box will not move when inventory is sorted.",28 ячеек. По возможности хлам заполняют эту коробку прежде других свободных мест. Содержимое этой коробки не перемещается при сортировке инвентаря.
@@ -256,7 +256,7 @@ Double-click to gain 50 luck.","«Теперь, когда Корага не с�
 300 Ascalonian Tears,300 аскалонских слёз
 300 Bandit Crests,300 бандитских гербов
 300 Deadly Blooms,300 смертоносных цветов
-300 Flame Legion Charr Carvings,300 чаррских резных фигурок Легиона Пламени
+300 Flame Legion Charr Carvings,300 чаррских резных фигурок Flame Legion
 300 Geodes,300 жеод
 300 Knowledge Crystals,300 кристаллов знания
 300 Manifestos of the Moletariate,300 манифестов Кротариата
@@ -574,7 +574,7 @@ This item only has value as part of a collection.","<c=@flavor>«Пока еда
 —Crusader D'Stolt</c>"
 "<c=@flavor>""Blast, Build, Battle.""
 —Iron Legion Motto</c>","<c=@flavor>«Взрывай, строй, сражайся».
-—Девиз Железного легиона</c>"
+—Девиз Iron Legion</c>"
 "<c=@flavor>""Break, Blaze, Judgment, Sabotage""</c>","<c=@flavor>«Пролом, Пламя, Приговор, Диверсия»</c>"
 "<c=@flavor>""Bulsa's Son""</c>",<c=@flavor>«Сын Бульсы»</c>
 "<c=@flavor>""Bunny watches us, too.""
@@ -588,7 +588,7 @@ This item only has value as part of a collection.","<c=@flavor>«Пока еда
 —Аноним, торговый чиновник Ваббии</c>"
 "<c=@flavor>""By Bangar's blade!""
 —Blood Legion</c>","<c=@flavor>«Клянусь клинком Бангара!»
-—Кровавый легион</c>"
+—Blood Legion</c>"
 "<c=@flavor>""By the time most soldiers get here, they need a new pair.""
 —Arcanist Repth</c>","<c=@flavor>«К тому времени, как большинство солдат сюда добираются, им нужна новая пара».
 —Арканист Репт</c>"
@@ -599,7 +599,7 @@ This item only has value as part of a collection.","<c=@flavor>«Пока еда
 —Opticalium Researcher Oisha</c>","<c=@flavor>«Чувствуешь, как вибрирует эта штанга? Она ещё и слабо гудит».
 —Исследователь оптикалия Ойша</c>"
 "<c=@flavor>""Can't be unarmed with the flame legion skulking about.""
-—Braxa Scalehunter</c>","<c=@flavor>«Нельзя оставаться безоружным, пока рядом рыщет Легион Пламени».
+—Braxa Scalehunter</c>","<c=@flavor>«Нельзя оставаться безоружным, пока рядом рыщет Flame Legion».
 —Бракса Чешуйница</c>"
 "<c=@flavor>""Can't have a proper patrol without a proper torch.""
 —Lionguard Cern</c>","<c=@flavor>«Нормальный патруль без нормального факела не обходится».
@@ -643,7 +643,7 @@ This item only has value as part of a collection.","<c=@flavor>«Пока еда
 —Agent Siobhan</c>"
 "<c=@flavor>""Conquer all.""
 —Blood Legion Motto</c>","<c=@flavor>«Покорить всё».
-—Девиз Кровавого легиона</c>"
+—Девиз Blood Legion</c>"
 "<c=@flavor>""Constantly repacking salt on your staff so it doesn't explode is untenable. Instead, just use bone inlays that are naturally infused with salt.""</c>","<c=@flavor>«Постоянно набивать посох солью, чтобы он не взорвался, невыносимо. Лучше просто взять костяные вставки, от природы пропитанные солью».</c>"
 "<c=@flavor>""Contents: string, paperclip, folding knife, wax...""</c>","<c=@flavor>«Содержимое: бечёвка, скрепка, складной нож, воск...»</c>"
 "<c=@flavor>""Cooperation brought us to this point. It will see us through.""
@@ -677,7 +677,7 @@ This item only has value as part of a collection.","<c=@flavor>«Пока еда
 —Страж Льва Керн</c>"
 "<c=@flavor>""Destroy with subterfuge.""
 —Ash Legion Motto</c>","<c=@flavor>«Уничтожай хитростью».
-—Девиз Пепельного легиона</c>"
+—Девиз Ash Legion</c>"
 "<c=@flavor>""Destroyers came; we were ready.""
 —Bordekka</c>","<c=@flavor>«Разрушители пришли — мы были готовы».
 —Бордекка</c>"

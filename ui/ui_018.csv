@@ -2,7 +2,7 @@ english,translate
 +7%% Strike Damage vs. Inquest+3%% Strike Damage,+7%% урона против Инквеста+3%% обычного урона
 +7%% Strike Damage vs. Karka+3%% Strike Damage,+7%% урона против карка+3%% обычного урона
 +7%% Strike Damage vs. Krait+3%% Strike Damage,+7%% урона против крайтов+3%% обычного урона
-+7%% Strike Damage vs. Nightmare Court+3%% Strike Damage,+7%% урона против Кошмарного двора+3%% обычного урона
++7%% Strike Damage vs. Nightmare Court+3%% Strike Damage,+7%% урона против Nightmare Court+3%% обычного урона
 +7%% Strike Damage vs. Ogres+3%% Strike Damage,+7%% урона против огров+3%% обычного урона
 +7%% Strike Damage vs. Outlaws+3%% Strike Damage,+7%% урона против разбойников+3%% обычного урона
 +7%% Strike Damage vs. Sons of Svanir+3%% Strike Damage,+7%% урона против Сынов Сванира+3%% обычного урона
@@ -26,14 +26,14 @@ english,translate
 +8%% Damage vs. Demons-6%% Damage from Demons+10%% Experience from Kills,+8%% урона против демонов-6%% урона от демонов+10%% опыта за убийства
 +8%% Damage vs. Destroyers-6%% Damage from Destroyers+10%% Experience from Kills,+8%% урона против разрушителей-6%% урона от разрушителей+10%% опыта за убийства
 +8%% Damage vs. Dredge-6%% Damage from Dredge+10%% Experience from Kills,+8%% урона против дреджей-6%% урона от дреджей+10%% опыта за убийства
-+8%% Damage vs. Flame Legion-6%% Damage from Flame Legion+10%% Experience from Kills,+8%% урона против Легиона Пламени-6%% урона от Легиона Пламени+10%% опыта за убийства
++8%% Damage vs. Flame Legion-6%% Damage from Flame Legion+10%% Experience from Kills,+8%% урона против Flame Legion-6%% урона от Flame Legion+10%% опыта за убийства
 +8%% Damage vs. Grawl-6%% Damage from Grawl+10%% Experience from Kills,+8%% урона против граулов-6%% урона от граулов+10%% опыта за убийства
 +8%% Damage vs. Halloween Creatures-6%% Damage from Halloween Creatures+10%% Experience from Kills,+8%% урона против хэллоуинских существ-6%% урона от хэллоуинских существ+10%% опыта за убийства
 +8%% Damage vs. Ice Brood-6%% Damage from Ice Brood+10%% Experience from Kills,+8%% урона против ледяных отродий-6%% урона от ледяных отродий+10%% опыта за убийства
 +8%% Damage vs. Inquest-6%% Damage from Inquest+10%% Experience from Kills,+8%% урона против Инквеста-6%% урона от Инквеста+10%% опыта за убийства
 +8%% Damage vs. Karka-6%% Damage from Karka+10%% Experience from Kills,+8%% урона против карка-6%% урона от карка+10%% опыта за убийства
 +8%% Damage vs. Krait-6%% Damage from Krait+10%% Experience from Kills,+8%% урона против крайтов-6%% урона от крайтов+10%% опыта за убийства
-+8%% Damage vs. Nightmare Court-6%% Damage from Nightmare Court+10%% Experience from Kills,+8%% урона против Кошмарного двора-6%% урона от Кошмарного двора+10%% опыта за убийства
++8%% Damage vs. Nightmare Court-6%% Damage from Nightmare Court+10%% Experience from Kills,+8%% урона против Nightmare Court-6%% урона от Nightmare Court+10%% опыта за убийства
 +8%% Damage vs. Ogres-6%% Damage from Ogres+10%% Experience from Kills,+8%% урона против огров-6%% урона от огров+10%% опыта за убийства
 +8%% Damage vs. Outlaws-6%% Damage from Outlaws+10%% Experience from Kills,+8%% урона против разбойников-6%% урона от разбойников+10%% опыта за убийства
 +8%% Damage vs. Sons of Svanir-6%% Damage from Sons of Svanir+10%% Experience from Kills,+8%% урона против Сынов Сванира-6%% урона от Сынов Сванира+10%% опыта за убийства
@@ -98,13 +98,13 @@ english,translate
 +9%% Damage vs. Destroyers-8%% Damage from Destroyers+10%% Experience from Kills,+9%% урона против разрушителей-8%% урона от разрушителей+10%% опыта за убийства
 +9%% Damage vs. Dredge-8%% Damage from Dredge+10%% Experience from Kills,+9%% урона против дреджей-8%% урона от дреджей+10%% опыта за убийства
 +9%% Damage vs. Elementals-8%% Damage from Elementals+10%% Experience from Kills,+9%% урона против элементалей-8%% урона от элементалей+10%% опыта за убийства
-+9%% Damage vs. Flame Legion-8%% Damage from Flame Legion+10%% Experience from Kills,+9%% урона против Легиона Пламени-8%% урона от Легиона Пламени+10%% опыта за убийства
++9%% Damage vs. Flame Legion-8%% Damage from Flame Legion+10%% Experience from Kills,+9%% урона против Flame Legion-8%% урона от Flame Legion+10%% опыта за убийства
 +9%% Damage vs. Grawl-8%% Damage from Grawl+10%% Experience from Kills,+9%% урона против граулов-8%% урона от граулов+10%% опыта за убийства
 +9%% Damage vs. Halloween Creatures-8%% Damage from Halloween Creatures+10%% Experience from Kills,+9%% урона против хэллоуинских существ-8%% урона от хэллоуинских существ+10%% опыта за убийства
 +9%% Damage vs. Ice Brood-8%% Damage from Ice Brood+10%% Experience from Kills,+9%% урона против ледяных отродий-8%% урона от ледяных отродий+10%% опыта за убийства
 +9%% Damage vs. Inquest-8%% Damage from Inquest+10%% Experience from Kills,+9%% урона против Инквеста-8%% урона от Инквеста+10%% опыта за убийства
 +9%% Damage vs. Krait-8%% Damage from Krait+10%% Experience from Kills,+9%% урона против крайтов-8%% урона от крайтов+10%% опыта за убийства
-+9%% Damage vs. Nightmare Court-8%% Damage from Nightmare Court+10%% Experience from Kills,+9%% урона против Кошмарного двора-8%% урона от Кошмарного двора+10%% опыта за убийства
++9%% Damage vs. Nightmare Court-8%% Damage from Nightmare Court+10%% Experience from Kills,+9%% урона против Nightmare Court-8%% урона от Nightmare Court+10%% опыта за убийства
 +9%% Damage vs. Ogres-8%% Damage from Ogres+10%% Experience from Kills,+9%% урона против огров-8%% урона от огров+10%% опыта за убийства
 +9%% Damage vs. Outlaws-8%% Damage from Outlaws+10%% Experience from Kills,+9%% урона против разбойников-8%% урона от разбойников+10%% опыта за убийства
 +9%% Damage vs. Sons of Svanir-8%% Damage from Sons of Svanir+10%% Experience from Kills,+9%% урона против Сынов Сванира-8%% урона от Сынов Сванира+10%% опыта за убийства

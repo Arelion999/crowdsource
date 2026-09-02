@@ -79,7 +79,7 @@ Meet Trahearne outside Rankor Ruins.,Встретьтесь с Trahearne за п
 Meet Tribune Torga Desertgrave at the barracks.,Встретьтесь с Tribune Torga Desertgrave в казармах.
 Meet Tybalt and Demmi at Stormbluff Isle.,Встреться с Tybalt и Demmi на Stormbluff Isle.
 Meet Tybalt at Yeng Isen's estate.,Встретьтесь с Tybalt в поместье Yeng Isen.
-Meet Tybalt at the Order of Whispers safehouse.,Встретьтесь с Tybalt в убежище Ордена Шепчущих.
+Meet Tybalt at the Order of Whispers safehouse.,Встретьтесь с Tybalt в убежище Order of Whispers.
 Meet Tybalt at the pirate camp.,Встретьтесь с Tybalt в лагере пиратов.
 Meet Tybalt in Lion's Arch.,Встретьтесь с Tybalt в Lion's Arch.
 Meet Tybalt outside Applenook Hamlet.,Встреться с Tybalt за пределами Applenook Hamlet.
@@ -192,7 +192,7 @@ Congratulations on your recent accolades as the ""Hero of Shaemoor."" I'm a rese
 To prove I am what I say, I have enclosed half of an amulet, which I believe will match a broken one you've owned since you were born—something my research led me to uncover. I look forward to meeting you face-to-face.
 Sincerely,
 A Friend.","Мой друг,
-Поздравляю с недавними похвалами как «Герой Шеймура». Я исследователь королевских архивов и недавно обнаружил некоторую информацию о твоих родителях. Подумал, что тебе, возможно, захочется это увидеть. Я предпочел бы обсудить детали лично, поэтому, если ты встретишься со мной в дворцовых садах в Божественном пределе, я поделюсь ими с тобой.
+Поздравляю с недавними похвалами как «Герой Шеймура». Я исследователь королевских архивов и недавно обнаружил некоторую информацию о твоих родителях. Подумал, что тебе, возможно, захочется это увидеть. Я предпочел бы обсудить детали лично, поэтому, если ты встретишься со мной в дворцовых садах в Divinity's Reach, я поделюсь ими с тобой.
 Чтобы доказать, что я тот, за кого себя выдаю, я приложил половину амулета, который, как я полагаю, совпадет с тем сломанным, что был у тебя с рождения — что-то, что мои исследования помогли мне обнаружить. С нетерпением жду встречи с тобой лицом к лицу.
 Искренне,
 Друг."
@@ -438,12 +438,12 @@ Please do. I'm sure it would amuse her greatly. Good day.,"Пожалуйста.
 "Please, I have agreed to testify. Don't ask me for anything else, I beg you! This is difficult enough.","Пожалуйста, я согласилась дать показания. Не просите меня о чем-то ещё, умоляю! Это и так достаточно тяжёло!"
 "Please, stop this! I can take no more.","Пожалуйста, прекратите это! Я больше не могу."
 "Please. It'll carry you in its gut until its done digesting you, and no further.","Прошу вас. Он донесет вас лишь до своего желудка, пока не переварит, и не более того."
-"Pleased to see you in the Order of Whispers, %str1%. I always knew you would do well, or at least better than poor, hedonistic Faren.","Рада видеть тебя в Ордене Шепчущих, %str1%. Я всегда знала, что ты добьешься успеха, или, по крайней мере, справишься лучше, чем бедный, легкомысленный Faren."
+"Pleased to see you in the Order of Whispers, %str1%. I always knew you would do well, or at least better than poor, hedonistic Faren.","Рада видеть тебя в Order of Whispers, %str1%. Я всегда знала, что ты добьешься успеха, или, по крайней мере, справишься лучше, чем бедный, легкомысленный Faren."
 "Plunka tricked us! She tried to trap us in a cell, but with a sylvari named Peredur's help, we escaped. Peredur said that Kudu has a new lab and is planning to test his weather-device very soon.","Plunka нас обманула! Она попыталась запереть нас в камере, но с помощью сильвари по имени Peredur мы сбежали. Peredur сказал, что у Kudu новая лаборатория и он планирует испытать свое погодное устройство в самое ближайшее время."
 Poor Howl. C'mon. We should get going.,Бедняга Howl. Пошли. Нам пора.
 Poor Howl. We'll raise a whiskey to him next time we're at the tavern.,"Бедняга Howl. Выпьем за него виски, когда в следующий раз будем в таверне."
 "Poorly done—poorly done, Arlon! I'm glad you were here, %str1%, to save our sorry lives.","Плохо сработано — плохо сработано, Arlon! Я рад, что ты был здесь, %str1%, чтобы спасти наши жалкие жизни."
-"Pop smoke, boss! Make it rain Flame Legion body parts!","Дымовую завесу, босс! Пусть дождем посыплются части тел Легиона Пламени!"
+"Pop smoke, boss! Make it rain Flame Legion body parts!","Дымовую завесу, босс! Пусть дождем посыплются части тел Flame Legion!"
 "Praise be to Dwayna, and praise be to the Hero of Shaemoor!","Слава Dwayna, и слава Герою Shaemoor!"
 "Precisely, my good lad! And isn't it remarkable that the thieves have no trouble getting in and know exactly where to go for the goods? Why they must be the luckiest thieves alive!","Именно так, мой юный друг! И разве не удивительно, что воры без труда проникают внутрь и точно знают, где лежат ценности? Должно быть, это самые удачливые воры на свете!"
 Prepare for patrol duty.,Готовься к патрулированию.
@@ -464,7 +464,7 @@ Proclaim the legend of Crusader Apatia.,Провозгласите легенд�
 Professor Gorr waves at %str1%.,Professor Gorr машет %str1%.
 Promotion to Centurion,Повышение до центуриона
 Protect Batanga while she reprograms the golems.,"Защищайте Батангу, пока она перепрограммирует големов."
-Protect Gairwen from the Nightmare Court attack.,Защищайте Гэрвен от атаки Кошмарного двора.
+Protect Gairwen from the Nightmare Court attack.,Защищайте Гэрвен от атаки Nightmare Court.
 Protect Gorr while he collects data.,"Защищайте Горра, пока он собирает данные."
 Protect Gorr while he presents his theory.,"Защитите Professor Gorr, пока он представляет свою теорию."
 Protect Luccia Wildeye while she repairs her cannon.,"Защищайте Люсию Дикоглаз, пока она чинит свою пушку."
@@ -499,7 +499,7 @@ Question Captain Tervelan.,Допроси Captain Tervelan.
 Question Forktail about Mergath Flarekin.,Расспросить Forktail о Mergath Flarekin.
 Question Vladok.,Допросите Vladok.
 Question the Blood Legion imposter.,Допросить самозванца из Кровавого легиона.
-Question the Iron Legion imposter.,Допросить самозванца из Железного легиона.
+Question the Iron Legion imposter.,Допросить самозванца из Iron Legion.
 Question the locals about Demmi Beetlestone.,Расспроси местных о Demmi Beetlestone.
 Question the locals to find Demmi Beetlestone.,"Расспросите местных жителей, чтобы найти Demmi Beetlestone."
 Quinn,Quinn

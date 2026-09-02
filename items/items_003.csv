@@ -48,7 +48,7 @@ english,translate
 "<c=@flavor>""The polish on this piece is engineered to keep magical energy in while preventing you from burning your hand.""
 —Vejj</c>","<c=@flavor>«Полировка этого предмета устроена так, чтобы удерживать магическую энергию внутри и при этом не дать тебе обжечь руку».
 —Вейдж</c>"
-"<c=@flavor>""The power of the charr comes from Iron Legion ingenuity.""</c>",<c=@flavor>«Сила чарров — в изобретательности Железного легиона».</c>
+"<c=@flavor>""The power of the charr comes from Iron Legion ingenuity.""</c>",<c=@flavor>«Сила чарров — в изобретательности Iron Legion».</c>
 "<c=@flavor>""The Priory is in your debt. Thank you.""
 —Arcanist Vance</c>","<c=@flavor>«Приорат перед тобой в долгу. Спасибо».
 —Арканист Вэнс</c>"
@@ -546,10 +546,10 @@ This item only has value as part of a collection.","<c=@flavor>«Простак 
 —Peacemaker Owta</c>","<c=@flavor>«Нижние слои некоторых цветов вызывают аэровибрацию на длинах волн, способных повысить прочность брони... возможно. Мы всё ещё ждём результатов из лаборатории».
 —Миротворец Оута</c>"
 "<c=@flavor>""Until we get through the Nightmare Court, we have extra supplies.""
-—Explorer Pentt</c>","<c=@flavor>«Пока мы не пробьёмся через Кошмарный двор, у нас есть запасные припасы».
+—Explorer Pentt</c>","<c=@flavor>«Пока мы не пробьёмся через Nightmare Court, у нас есть запасные припасы».
 —Изыскатель Пентт</c>"
 "<c=@flavor>""Until we're able to get through the Nightmare Court, we have extra supplies.""
-—Explorer Pentt</c>","<c=@flavor>«Пока мы не сможем пробиться через Кошмарный двор, у нас есть запасные припасы».
+—Explorer Pentt</c>","<c=@flavor>«Пока мы не сможем пробиться через Nightmare Court, у нас есть запасные припасы».
 —Изыскатель Пентт</c>"
 "<c=@flavor>""Use this to keep you safe, young one.""
 —Bulsa</c>","<c=@flavor>«Используй это, чтобы быть в безопасности, дитя».
@@ -634,7 +634,7 @@ This item only has value as part of a collection.","<c=@flavor>«Использ�
 —Диантха</c>"
 "<c=@flavor>""We build.""
 —Iron Legion Motto</c>","<c=@flavor>«Мы строим».
-—Девиз Железного легиона</c>"
+—Девиз Iron Legion</c>"
 "<c=@flavor>""We carry with us great burdens, but oftentimes it's those burdens that shield us from danger.""
 —Bladed Softness</c>","<c=@flavor>«Мы несём на себе тяжкое бремя, но зачастую именно оно ограждает нас от опасности».
 —Клинковая Мягкость</c>"
@@ -694,7 +694,7 @@ This item only has value as part of a collection.","<c=@flavor>«Использ�
 —Серафим Элмдер</c>"
 "<c=@flavor>""We like to give our friends these!"" -Costi Atl</c>",<c=@flavor>«Мы любим дарить такое друзьям!» -Кости Атль</c>
 "<c=@flavor>""We magisters tend to get the better equipment. You helped us with the Flame Legion, ghosts, and research. I owe you something.""
-—Magister Razermane</c>","<c=@flavor>«Нам, магистрам, обычно достаётся снаряжение получше. Ты помог нам с Легионом Пламени, призраками и исследованиями. Я твой должник».
+—Magister Razermane</c>","<c=@flavor>«Нам, магистрам, обычно достаётся снаряжение получше. Ты помог нам с Flame Legion, призраками и исследованиями. Я твой должник».
 —Магистр Рейзермейн</c>"
 "<c=@flavor>""We melted pirate cannonballs down to make these. Thick, heavy, deadly. Hitting pirates with their own weapons gives me a great feeling of satisfaction.""
 —Joukje</c>","<c=@flavor>«Мы переплавили пиратские ядра, чтобы сделать эти. Толстые, тяжёлые, смертоносные. Бить пиратов их же оружием — ни с чем не сравнимое удовольствие».
@@ -863,7 +863,7 @@ This item only has value as part of a collection.","<c=@flavor>«Использ�
 —Legionnaire Neverburn</c>","<c=@flavor>«С таким героем, как ты, рядом Flame Legion здесь долго не продержится».
 —Легионер Негорящий</c>"
 "<c=@flavor>""With a hero like you around, the Flame Legion doesn't stand a chance.""
--Corva Sharpclaw</c>","<c=@flavor>«С таким героем, как ты, рядом у Легиона Пламени нет шансов».
+-Corva Sharpclaw</c>","<c=@flavor>«С таким героем, как ты, рядом у Flame Legion нет шансов».
 -Corva Sharpclaw</c>"
 "<c=@flavor>""With all this fire I have no idea how we keep our powder from exploding. Just lucky I guess.""
 —Brencis Quickblood</c>","<c=@flavor>«При всём этом огне ума не приложу, как наш порох не взрывается. Видно, просто везёт».
@@ -1075,7 +1075,7 @@ This item only has value as part of a collection.","<c=@flavor>«Да, да, э�
 <c=@flavor>A concoction of old technology and a tremendous ego.</c>,<c=@flavor>Смесь старых технологий и непомерного самомнения.</c>
 <c=@flavor>A crate of 50 bags of supplies from Scarlet's Alliance troops.<c>,<c=@flavor>Ящик с 50 мешками припасов от войск Альянса Скарлет.<c>
 <c=@flavor>A dark and festive brew re-created from an ancient Canthan recipe. This strong brew provides a flavor that reminds many of times long past and is perfect for cold nights with stars littering the sky.</c>,"<c=@flavor>Тёмный праздничный напиток, воссозданный по древнему кантанскому рецепту. Этот крепкий напиток дарит вкус, что многим напоминает давние времена, и идеален для холодных ночей под усыпанным звёздами небом.</c>"
-"<c=@flavor>A dark artifact of the combined forces of the Flame Legion and dredge. This ore seems too impure to properly refine, but it gleams with dark potential.</c>","<c=@flavor>Тёмный артефакт объединённых сил Легиона Пламени и дреджей. Эта руда кажется слишком нечистой, чтобы её как следует очистить, но она мерцает тёмным потенциалом.</c>"
+"<c=@flavor>A dark artifact of the combined forces of the Flame Legion and dredge. This ore seems too impure to properly refine, but it gleams with dark potential.</c>","<c=@flavor>Тёмный артефакт объединённых сил Flame Legion и дреджей. Эта руда кажется слишком нечистой, чтобы её как следует очистить, но она мерцает тёмным потенциалом.</c>"
 <c=@flavor>A decent swimming mask.</c>,<c=@flavor>Приличная маска для плавания.</c>
 <c=@flavor>A delicacy fit for a queen.<c>,"<c=@flavor>Лакомство, достойное королевы.<c>"
 <c=@flavor>A delicate and beautiful specimen.<c>,<c=@flavor>Изящный и прекрасный образец.<c>
@@ -1154,7 +1154,7 @@ Found in Lion's Arch.","<c=@flavor>Запретный город. Запретн
 <c=@flavor>A single twist in the band creates a continuous surface.</c>,<c=@flavor>Единственный перекрут кольца создаёт непрерывную поверхность.</c>
 <c=@flavor>A small and delicate white flower.<c>,<c=@flavor>Маленький и нежный белый цветок.<c>
 "<c=@flavor>A small tag reads: ""Warning: No amount of shoulder protection can prevent serious or fatal injuries that may occur while in service of the Company.""</c>","<c=@flavor>На маленькой бирке написано: «Внимание: никакая защита плеч не предотвратит серьёзных или смертельных травм, что могут случиться на службе Компании».</c>"
-<c=@flavor>A souvenir from a Flame Legion battle.</c>,<c=@flavor>Сувенир с битвы с Легионом Пламени.</c>
+<c=@flavor>A souvenir from a Flame Legion battle.</c>,<c=@flavor>Сувенир с битвы с Flame Legion.</c>
 <c=@flavor>A spare light when caught in the dark.</c>,"<c=@flavor>Запасной источник света на случай, если застигнет темнота.</c>"
 <c=@flavor>A special gift earned during Dragon Bash. Double-click to choose a reward.</c>,"<c=@flavor>Особый подарок, полученный во время Dragon Bash. Дважды щёлкните, чтобы выбрать награду.</c>"
 <c=@flavor>A special gift earned during Dragon Bash. Double-click to choose an armor class.</c>,"<c=@flavor>Особый подарок, полученный во время Dragon Bash. Дважды щёлкните, чтобы выбрать класс брони.</c>"

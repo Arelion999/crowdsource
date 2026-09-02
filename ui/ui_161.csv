@@ -90,13 +90,13 @@ Weak Potion[s] of Demon Slaying,Слабое зелье истребления �
 Weak Potion[s] of Destroyer Slaying,Слабое зелье истребления разрушителей
 Weak Potion[s] of Dredge Slaying,Слабое зелье истребления дреджей
 Weak Potion[s] of Elemental Slaying,Слабое зелье истребления элементалей
-Weak Potion[s] of Flame Legion Slaying,Слабое зелье истребления Легиона Пламени
+Weak Potion[s] of Flame Legion Slaying,Слабое зелье истребления Flame Legion
 Weak Potion[s] of Grawl Slaying,Слабое зелье истребления граулов
 Weak Potion[s] of Halloween Slaying,Слабое зелье истребления созданий Хэллоуина
 Weak Potion[s] of Ice Brood Slaying,Слабое зелье истребления Ледяного выводка
 Weak Potion[s] of Inquest Slaying,Слабое зелье истребления Инквеста
 Weak Potion[s] of Krait Slaying,Слабое зелье истребления крайтов
-Weak Potion[s] of Nightmare Court Slaying,Слабое зелье истребления Кошмарного двора
+Weak Potion[s] of Nightmare Court Slaying,Слабое зелье истребления Nightmare Court
 Weak Potion[s] of Ogre Slaying,Слабое зелье истребления огров
 Weak Potion[s] of Outlaw Slaying,Слабое зелье истребления разбойников
 Weak Potion[s] of Sons of Svanir Slaying,Слабое зелье истребления Сынов Сванира
@@ -225,7 +225,7 @@ Week Three Supply Drop,"Сброс припасов, неделя третья"
 Week Two Supply Drop,"Сброс припасов, неделя вторая"
 week[s],недел[я|и|ь]
 Weekly Ascended Feasts Sales,Еженедельные распродажи вознесённых пиров
-Weekly Black Lion Supply Package,Еженедельный набор припасов Чёрного Льва
+Weekly Black Lion Supply Package,Еженедельный набор припасов Black Lion
 Weekly Crafting Bag Sales,Еженедельные распродажи ремесленных сумок
 Weekly Favor Cap,Недельный предел благосклонности
 Weekly Guild Siege Sales,Еженедельные распродажи гильдейской осады
@@ -271,7 +271,7 @@ Welcome to Guild Wars 2,Добро пожаловать в Guild Wars 2
 Welcome to the Eldvin Monastery Brew of the Month Club,Добро пожаловать в клуб «Напиток месяца» монастыря Eldvin
 "Welcome to the free city of Amnoon, oasis of the Crystal Desert.","Добро пожаловать в вольный город Amnoon, оазис Crystal Desert."
 Welcome to the Golem Recombobulator. What would you like to do?,Добро пожаловать в Големовый рекомбобулятор. Что желаете сделать?
-"Welcome to the Order of Whispers, initiate. Your new order's plan to distribute Professor Gorr's theory involves broadcasting the data to all of Rata Sum. Rakt and the Arcane Eye will try to stop it...and you...once and for all.","Добро пожаловать в Орден Шепчущих, посвящённый. План твоего нового ордена по распространению теории профессора Gorr предполагает трансляцию данных на весь Rata Sum. Rakt и Arcane Eye попытаются это остановить... и тебя... раз и навсегда."
+"Welcome to the Order of Whispers, initiate. Your new order's plan to distribute Professor Gorr's theory involves broadcasting the data to all of Rata Sum. Rakt and the Arcane Eye will try to stop it...and you...once and for all.","Добро пожаловать в Order of Whispers, посвящённый. План твоего нового ордена по распространению теории профессора Gorr предполагает трансляцию данных на весь Rata Sum. Rakt и Arcane Eye попытаются это остановить... и тебя... раз и навсегда."
 Welcome to the Sound Effect Test Map,Добро пожаловать на тестовую карту звуковых эффектов
 Welcome to the Thunder Dome!,Добро пожаловать на Громовую арену!
 "Welcome to the Vigil, recruit. Rakt and the Arcane Eye have chosen to be an obstacle to the free distribution of Professor Gorr's theory, so the Vigil's doing what it does best: crushing all obstacles in its path.","Добро пожаловать в Vigil, новобранец. Rakt и Arcane Eye решили стать препятствием на пути свободного распространения теории профессора Gorr, так что Vigil делает то, что умеет лучше всего: сокрушает все препятствия на своём пути."
@@ -363,7 +363,7 @@ What do I do with it?,Что мне с этим делать?
 "What do you mean by ""interesting and completely safe"" potions?",Что ты имеешь в виду под «интересными и совершенно безопасными» зельями?
 What do you think of the %str1% story?,Что вы думаете об истории %str1%?
 What giant towers? There are no giant towers here.,Какие ещё гигантские башни? Нет тут никаких гигантских башен.
-"What happened out there? While you were grandstanding with Rytlock Brimstone, the members of our warband that you left behind suffered near-total losses. This mess is all your fault!I'm in charge, and I'm taking steps to replenish our numbers. If you expect to have a future in the Blood Legion, report to me in the Black Citadel immediately.—Legionnaire Urvan Steelbane","Что там стряслось? Пока ты рисовался с Rytlock Brimstone, оставленные тобой члены нашего боевого отряда понесли почти полные потери. Вся эта беда — твоя вина!Теперь командую я и принимаю меры, чтобы восполнить наши ряды. Если рассчитываешь на будущее в Кровавом легионе, немедленно явись ко мне в Black Citadel.— Легионер Urvan Steelbane"
+"What happened out there? While you were grandstanding with Rytlock Brimstone, the members of our warband that you left behind suffered near-total losses. This mess is all your fault!I'm in charge, and I'm taking steps to replenish our numbers. If you expect to have a future in the Blood Legion, report to me in the Black Citadel immediately.—Legionnaire Urvan Steelbane","Что там стряслось? Пока ты рисовался с Rytlock Brimstone, оставленные тобой члены нашего боевого отряда понесли почти полные потери. Вся эта беда — твоя вина!Теперь командую я и принимаю меры, чтобы восполнить наши ряды. Если рассчитываешь на будущее в Blood Legion, немедленно явись ко мне в Black Citadel.— Легионер Urvan Steelbane"
 "What happens in Peter's test map, stays in Peter's test map.","Что случается на тестовой карте Peter, остаётся на тестовой карте Peter."
 What has Taimi done now?,Что Taimi опять натворила?
 What is a guild?,Что такое гильдия?
@@ -391,14 +391,14 @@ What's contained within?,Что содержится внутри?
 "What's happening at the carnival, and where's the missing boy, Garand? Minister Caudecus seems personally interested in this boy's well-being. Concern for a missing child isn't unusual, but Caudecus has never been particularly soft-hearted.","Что творится на карнавале и где пропавший мальчик, Garand? Министр Caudecus, похоже, лично заинтересован в благополучии этого мальчика. Тревога о пропавшем ребёнке — дело обычное, но Caudecus никогда не отличался особой мягкосердечностью."
 What's inside the <br>Consortium Chest?,Что внутри <br>сундука Consortium?
 What's possible in this bag of goodies?,Что возможно в этой сумке с вкусностями?
-"What's the old adage? 'Love will conquer all?' Let's hope that Tiachren's right...and Ysvelta can still be saved. Otherwise, deliberately walking into a Nightmare Court ambush might seem...unwise.","Как гласит старая поговорка? «Любовь всё победит»? Будем надеяться, что Tiachren прав... и Ysvelta ещё можно спасти. Иначе намеренно шагнуть в засаду Кошмарного двора покажется... неразумным."
+"What's the old adage? 'Love will conquer all?' Let's hope that Tiachren's right...and Ysvelta can still be saved. Otherwise, deliberately walking into a Nightmare Court ambush might seem...unwise.","Как гласит старая поговорка? «Любовь всё победит»? Будем надеяться, что Tiachren прав... и Ysvelta ещё можно спасти. Иначе намеренно шагнуть в засаду Nightmare Court покажется... неразумным."
 What... What is this place? I can't place it anywhere in Tyria...,Что... Что это за место? Не могу отнести его ни к одному уголку Tyria...
 Wha—what's going on? (screams),Ч-что происходит? (кричит)
 Wheat Dye[s],[Краска|Краски|Красок] «Пшеничная»
 Wheel Kick,Удар с разворота
 Wheelock Rifle[s],Колесцовая винтовка
 "When a match reaches the time limit, matches will end, and a victor will be declared.","Когда матч достигает предела по времени, он завершается и объявляется победитель."
-"When a warband goes bad, they tend to go together. How many warbands have defected to the Flame Legion for the tantalizing promise of power?","Когда боевой отряд сбивается с пути, обычно это происходит со всеми разом. Сколько боевых отрядов переметнулось к Легиону Пламени ради манящего посула силы?"
+"When a warband goes bad, they tend to go together. How many warbands have defected to the Flame Legion for the tantalizing promise of power?","Когда боевой отряд сбивается с пути, обычно это происходит со всеми разом. Сколько боевых отрядов переметнулось к Flame Legion ради манящего посула силы?"
 When above Blight Threshold,Когда выше порога Порчи
 "When captured, camps generate supplies for their owner's team in World vs. World.",Захваченные лагеря производят припасы для команды-владельца в «World vs. World».
 "When checked, the Compact button will be disabled in the Inventory panel.","Если отмечено, кнопка «Уплотнить» на панели инвентаря будет отключена."

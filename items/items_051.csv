@@ -330,10 +330,10 @@ Grants a permanent 2%% increase to account gold find.,Даёт постоянн�
 Grants a player five lives inside the Super Adventure Box. See Moto in Rata Sum for details on how to play.,"Даёт игроку пять жизней внутри Супер-Приключенческого ящика. Обратитесь к Мото в Рата Сум для получения подробной информации о том, как играть."
 Grants a small amount of Castora Mastery experience.,Даёт небольшое количество опыта мастерства Касторы.
 Grants a small amount of Central Tyria Mastery experience.,Даёт небольшое количество опыта мастерства Центральной Тирии.
-Grants a small amount of Crystal Desert Mastery experience.,Даёт небольшое количество опыта мастерства Кристальной пустыни.
+Grants a small amount of Crystal Desert Mastery experience.,Даёт небольшое количество опыта мастерства Crystal Desert.
 "Grants a small amount of Crystal Desert Mastery experience.
 
-<c=@Flavor>Formerly traded across Elona, but banned under Palawa Joko. These are still valued by collectors, scholars, and thieves.</c>","Даёт небольшое количество опыта для повышения уровня владения навыками Кристальной пустыни.
+<c=@Flavor>Formerly traded across Elona, but banned under Palawa Joko. These are still valued by collectors, scholars, and thieves.</c>","Даёт небольшое количество опыта для повышения уровня владения навыками Crystal Desert.
 
 <c=@Flavor>Раньше их активно обменивали в Элоне, но Palawa Joko запретил это. Тем не менее, коллекционеры, учёные и воры по-прежнему ценят эти предметы.</c>"
 Grants a small amount of End of Dragons Mastery experience.,Даёт небольшое количество опыта мастерства «Конец Драконов».
@@ -453,8 +453,8 @@ Grants access to Champion's Rest in the PvP Lobby.,Даёт доступ в По
 Grants access to Champion's Rest in the PvP Lobby. Redeemable at any time. Expires two weeks after first use. Double-click to display the pass.,"Даёт доступ к Покою Чемпиона в зале ожидания PvP. Можно активировать в любое время. Истекает через две недели после первого использования. Дважды щёлкните, чтобы показать пропуск."
 Grants access to the Havoc's Heir airship. Double-click to travel to the airship.,"Даёт доступ к дирижаблю «Наследник хаоса». Дважды щёлкните, чтобы переместиться на дирижабль."
 Grants access to the Havoc's Heir over Gendarran Fields. Redeemable at any time. Expires two weeks after first use. Double-click to use.,"Даёт доступ к дирижаблю «Наследник хаоса» над Гендарранскими полями. Можно активировать в любое время. Истекает через две недели после первого использования. Дважды щёлкните, чтобы использовать."
-Grants access to the Royal Terrace in Divinity's Reach. Double-click to travel to the Royal Terrace.,"Даёт доступ к Королевской террасе в Божественном пределе. Дважды щёлкните, чтобы переместиться на Королевскую террасу."
-Grants access to the Royal Terrace in Divinity's Reach. Redeemable at any time. Expires two weeks after first use. Double-click to display the pass.,"Даёт доступ к Королевской террасе в Божественном пределе. Можно активировать в любое время. Истекает через две недели после первого использования. Дважды щёлкните, чтобы показать пропуск."
+Grants access to the Royal Terrace in Divinity's Reach. Double-click to travel to the Royal Terrace.,"Даёт доступ к Королевской террасе в Divinity's Reach. Дважды щёлкните, чтобы переместиться на Королевскую террасу."
+Grants access to the Royal Terrace in Divinity's Reach. Redeemable at any time. Expires two weeks after first use. Double-click to display the pass.,"Даёт доступ к Королевской террасе в Divinity's Reach. Можно активировать в любое время. Истекает через две недели после первого использования. Дважды щёлкните, чтобы показать пропуск."
 Grants an additional chance of obtaining powerful loot from enemies in Drizzlewood Coast.,Даёт дополнительный шанс получить мощную добычу с врагов на Побережье Дриззлвуд.
 "Grants both Experience Booster and Item Booster benefits for 2 hours, including:
 • +50%% Experience in All Game Types
@@ -472,7 +472,7 @@ Grants an additional chance of obtaining powerful loot from enemies in Drizzlewo
 • +50%% шанс критического получения опыта при создании
 • +33%% шанс дополнительного удара при сборе
 • 10 секунд быстроты после сбора
-• призыв торговца Чёрного Льва, если ваш инвентарь полон после сбора (время восстановления: 20 минут)"
+• призыв торговца Black Lion, если ваш инвентарь полон после сбора (время восстановления: 20 минут)"
 "Grants both Experience Booster and Item Booster benefits for 30 minutes:
 • +50%% Experience in All Game Types
 • +50%% PvP Reward Track Gain
@@ -489,7 +489,7 @@ Grants an additional chance of obtaining powerful loot from enemies in Drizzlewo
 • +50%% шанс критического получения опыта при создании
 • +33%% шанс дополнительного удара при сборе
 • 10 секунд быстроты после сбора
-• призыв торговца Чёрного Льва, если ваш инвентарь полон после сбора (время восстановления: 20 минут)"
+• призыв торговца Black Lion, если ваш инвентарь полон после сбора (время восстановления: 20 минут)"
 Grants credit toward collecting a Branded Trophy.,Засчитывается в сбор клеймёного трофея.
 Grants credit toward the Experimentation collection.,Засчитывается в коллекцию «Экспериментирование».
 Grants experience on receipt.,Даёт опыт при получении.
@@ -519,7 +519,7 @@ Grants the ability to purchase Carapace boot boxes from bandit crest collectors.
 • +50%% шанс критического получения опыта при крафте
 • +33%% шанс дополнительного удара при сборе
 • 10 секунд быстроты после сбора
-• призыв торговца «Чёрный лев», если инвентарь полон после сбора (перезарядка 20 мин.)"
+• призыв торговца «Black Lion», если инвентарь полон после сбора (перезарядка 20 мин.)"
 "Grants the following benefits for 30 minutes:
 • +50%% Experience from Kills
 • +75%% Gold from Kills
@@ -546,7 +546,7 @@ Grants the ability to purchase Carapace boot boxes from bandit crest collectors.
 • +50%% шанс критического получения опыта при крафте
 • +33%% шанс дополнительного удара при сборе
 • 10 секунд быстроты после сбора
-• призыв торговца «Чёрный лев», если инвентарь полон после сбора (перезарядка 20 мин.)"
+• призыв торговца «Black Lion», если инвентарь полон после сбора (перезарядка 20 мин.)"
 "Grants you a bundle item that has 10 charges of red-, blue-, green-, and yellow-colored fireworks and a one-time Dragon Finale firework that grants a 50%% Magic Find boost to all nearby allies.
 <c=@flavor>""Fortune favors the bold!""</c>","Даёт предмет, содержащий 10 зарядов красных, синих, зелёных и жёлтых фейерверков, а также один уникальный фейерверк «Драконий финал», который дарует всем находящимся рядом союзникам бонус к шансу выпадения магических предметов в размере 50%%.
 <c=@flavor>«Удача сопутствует смелым!»</c>"

@@ -112,7 +112,7 @@ You returned the supplies within a reasonable amount of time.,Вы вернул�
 You returned the tracking data at average speed.,Вы вернули данные слежения со средней скоростью.
 You revived an ally.,Вы воскресили союзника.
 "You said that last time, and the time before that. The answer is no.","Ты уже говорил это в прошлый раз, и в позапрошлый тоже. Ответ — нет."
-"You say you can clear the path to Divinity's Reach for my troops, and so I will send one of my High Sages with a warband at twilight tonight.","Ты говоришь, что можешь расчистить путь в Божественный предел для моих войск, так что я отправлю одного из своих Верховных Мудрецов с боевым отрядом сегодня на закате."
+"You say you can clear the path to Divinity's Reach for my troops, and so I will send one of my High Sages with a warband at twilight tonight.","Ты говоришь, что можешь расчистить путь в Divinity's Reach для моих войск, так что я отправлю одного из своих Верховных Мудрецов с боевым отрядом сегодня на закате."
 You see an opportunity to set up a flanking attack with Aurene!,Вы видите возможность устроить фланговую атаку вместе с Ауреной!
 "You see pages filled with complex diagrams, detailed lists, and what appears to be a rough sketch of Lion's Arch...but whatever language this is scrawled in is beyond your comprehension.","Вы видите страницы, полные сложных диаграмм, подробных списков и того, что похоже на грубый набросок Lion's Arch... но язык, на котором это нацарапано, вам совершенно не понятен."
 "You seem a busy little soldier, so I'll be brief. Keep your distance from the Shining Blade if you know what's good for you. Heroes who want to play hunter make a choice to themselves be hunted.—The Errant","Ты, похоже, занятой солдатик, так что буду краток. Держись подальше от Сияющего Клинка, если тебе дорого здоровье. Герои, что хотят поиграть в охотника, сами становятся дичью. — Заблудший"
@@ -143,7 +143,7 @@ You stand amid the stained memories of the Ministry's purge. Alone.,Ты сто�
 You steal life from %str1% for %str2% damage using %str3%.,"Вы крадёте жизнь у %str1%, нанося %str2% урона умением %str3%."
 You steal life from yourself for %str2% damage using %str3%.,"Вы крадёте жизнь у себя, нанося %str2% урона умением %str3%."
 You stuck it to the Modniir!,"Ты им показал, этим модниир!"
-You successfully stopped one half of the Flame Legion's two-pronged attack on Blood and Iron. Now back to the Black Citadel to check in with your commanding officer.,Вы успешно остановили одну из двух атак Легиона Пламени на Кровь и Железо. Теперь вернитесь в Чёрную Цитадель и доложите своему командиру.
+You successfully stopped one half of the Flame Legion's two-pronged attack on Blood and Iron. Now back to the Black Citadel to check in with your commanding officer.,Вы успешно остановили одну из двух атак Flame Legion на Кровь и Железо. Теперь вернитесь в Black Citadel и доложите своему командиру.
 You suddenly look—and smell—like a pumpkin.,Ты вдруг стал выглядеть — и пахнуть — как тыква.
 You sure did a number on the Flame Legion down here. Not too bad. That'll show them that we don't break so easily. The Ash Legion appreciates your work.—Sava Quicksnarl,"Ты хорошенько потрепал тут Flame Legion. Неплохо. Это покажет им, что мы не так-то легко ломаемся. Ash Legion ценит твою работу. — Сава Быстрохват"
 You survived the insult challenge!,Вы пережили оскорбительное испытание!
@@ -196,7 +196,7 @@ You will leave your party if you travel there. Are you sure you wish to do this?
 "You will not fall, hero of Tyria.","Ты не падёшь, герой Тирии."
 You will now proceed to the next part of your story. You will automatically load into your first story instance when you close this hint.Please have fun exploring the world of Guild Wars 2!,Теперь вы перейдёте к следующей части своей истории. При закрытии этой подсказки вы автоматически загрузитесь в свой первый сюжетный эпизод. Приятного исследования мира Guild Wars 2!
 "You will overwrite ""%str1% - %str2%""?",Перезаписать «%str1% — %str2%»?
-You will spread word of his campaign across the Crystal Desert. Take pride in your work; bring souls before your master that they might be Forged in his image.,"Ты разнесёшь весть о его кампании по всей Кристальной пустыне. Гордись своей работой; приноси души своему хозяину, чтобы их могли Перековать по его образу."
+You will spread word of his campaign across the Crystal Desert. Take pride in your work; bring souls before your master that they might be Forged in his image.,"Ты разнесёшь весть о его кампании по всей Crystal Desert. Гордись своей работой; приноси души своему хозяину, чтобы их могли Перековать по его образу."
 You will understand the conversation if you train Exalted Acceptance Mastery in Exalted Lore.,"Вы поймёте разговор, если освоите мастерство «Exalted Acceptance» в познаниях Возвышенных."
 You will understand the conversation if you train Itzel Language Mastery in Itzel Lore.,"Вы поймёте разговор, если освоите мастерство языка ицелей в познаниях ицелей."
 You will understand the conversation if you train the Nuhoch Language Mastery in Nuhoch Lore.,"Вы поймёте разговор, если освоите мастерство языка нухочей в познаниях нухочей."
@@ -387,7 +387,7 @@ You've helped Lionguard Rhyn protect the Junction Haven supply road from the dre
 You've helped protect the armory. Great job!,Вы помогли защитить арсенал. Отличная работа!
 You've helped Rancher Tolona. Great job!,Вы помогли скотоводу Толоне. Отличная работа!
 "You've helped somebody in this region, well done!Attached is a reward, thanks for your help!","Вы помогли кому-то в этом регионе, отлично сработано! Прилагается награда, спасибо за помощь!"
-You've helped the Order of Whispers to gain valuable intel on the Crafty Corsairs.,Вы помогли Ордену Шепчущих получить ценные сведения о Хитрых Корсарах.
+You've helped the Order of Whispers to gain valuable intel on the Crafty Corsairs.,Вы помогли Order of Whispers получить ценные сведения о Хитрых Корсарах.
 You've helped the Priory learn much about this region.,Вы помогли Приорату многое узнать об этом регионе.
 You've helped the Vigil fight the orrians!,Вы помогли Дозору сражаться с оррианами!
 You've helped train or take care of a raptor.,Вы помогли обучить или позаботиться о рапторе.
@@ -431,7 +431,7 @@ You've recently interacted with an examination golem. Please wait a moment befor
 You've recently transformed and must wait before transforming again.,Вы недавно превратились и должны подождать перед следующим превращением.
 You've recently transformed and must wait before you can be transformed again.,"Вы недавно превратились и должны подождать, прежде чем вас смогут превратить снова."
 You've recovered an Eye of the Ocean.,Вы вернули Око Океана.
-"You've recruited your first new warband member, and Tribune Rytlock Brimstone has new orders for you. It's another chance to impress a high-ranking Blood Legion officer and cement your status as a leader.","Вы завербовали своего первого нового члена боевого отряда, и у трибуна Ритлока Жарокамня для вас новые приказы. Это ещё один шанс впечатлить высокопоставленного офицера Кровавого легиона и закрепить свой статус лидера."
+"You've recruited your first new warband member, and Tribune Rytlock Brimstone has new orders for you. It's another chance to impress a high-ranking Blood Legion officer and cement your status as a leader.","Вы завербовали своего первого нового члена боевого отряда, и у трибуна Ритлока Жарокамня для вас новые приказы. Это ещё один шанс впечатлить высокопоставленного офицера Blood Legion и закрепить свой статус лидера."
 "You've reinforced the Alliance presence in this region. I was impressed enough by your efforts to pass your name along to Explorer Ironpaw. If you want to continue to help the Alliance cause, he's the one to contact. —Gerald Renton","Ты укрепил присутствие Альянса в этом регионе. Твои усилия впечатлили меня настолько, что я передал твоё имя исследователю Железной Лапе. Если хочешь и дальше помогать делу Альянса, обращайся к нему. — Джеральд Рентон"
 You've released some wild magic.,Вы высвободили немного дикой магии.
 You've released some wild seer magic!,Вы высвободили немного дикой магии провидцев!
@@ -448,7 +448,7 @@ You've spoken to Inspector Kiel and are now ready to search the shoreline.,Вы 
 "You've started the mine sequence. Set the code, or it will explode when time runs out.","Вы запустили последовательность подрыва мины. Установите код, или она взорвётся по истечении времени."
 "You've stopped Varkk's evil scheme to sell out your krewe for a seat on the Arcane Council, but now it's time to deal with Teyo and prevent the Inquest from using your krewe's Interspatial Translocator for their own evil purposes.","Вы остановили злой план Варкка продать ваш крю ради места в Арканическом Совете, но теперь пора разобраться с Тейо и не дать Инквесту использовать межпространственный транслокатор вашего крю в своих злых целях."
 You've strengthened the dredge revolution. Good job!,Вы укрепили революцию дреджей. Отличная работа!
-You've stung the Flame Legion with your activities.,Вы досадили Легиону Пламени своими действиями.
+You've stung the Flame Legion with your activities.,Вы досадили Flame Legion своими действиями.
 "You've successfully apprehended Mai Trin, ending her reign of terror.","Вы успешно задержали Mai Trin, положив конец её царству ужаса."
 You've successfully deceived the dredge. Good job!,Вы успешно обманули дреджей. Отличная работа!
 "You've taken a downed penalty! The more this penalty accrues, the less health you'll have while downed, making it harder for you to rally.","Вы получили штраф повержения! Чем больше он накапливается, тем меньше здоровья у вас будет в состоянии повержения, что усложняет возможность подняться."
