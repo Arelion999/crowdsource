@@ -119,7 +119,7 @@ Trader's Sugardrift Chest[s],[Сундук|Сундука|Сундуков] то
 Trader's Sun-Grown Chest[s],[Сундук|Сундука|Сундуков] торговца «Выращенный солнцем»
 Tradesman's Package[s],Посылка[|и|ок] торговца
 Trading Post,Торговый пост
-Trading Post Access,Доступ к торговому посту
+Trading Post Access,Доступ к Trading Post
 "Trading Post Express[pl:""Expresses""]",[Торговый экспресс|Торговые экспрессы|Торговых экспрессов]
 Trading Post<br>• Buy and sell with other players,Trading Post<br>• Покупайте и продавайте с другими игроками
 Trading Post<br>• Buy and sell with other players.,Trading Post<br>• Покупайте и продавайте с другими игроками.
@@ -216,10 +216,10 @@ Train the Scholar of Secrets ability in the Legendary Crafting Mastery track to 
 Train the Updraft Generator Mastery in Heart of the Obscure Research to use this device.,"Изучите мастерство «Updraft Generator» в ветке «Исследование Сердца Сокрытого», чтобы использовать это устройство."
 Train the Volatile Magic Resonance Mastery to gain ability to collect volatile magic.,"Изучите мастерство «Volatile Magic Resonance», чтобы получить возможность собирать нестабильную магию."
 Train the Wayfinder Mastery in the Astral Ward Mastery track in order to purchase this item.,"Изучите мастерство «Искатель пути» в ветке мастерства Астральной стражи, чтобы купить этот предмет."
-Train the Wisp Pockets Mastery from the Inner Nayos Mastery track to pick up essences while in wisp form.,"Изучите мастерство «Карманы искр» из ветки мастерства Внутреннего Найоса, чтобы подбирать эссенции в форме искры."
+Train the Wisp Pockets Mastery from the Inner Nayos Mastery track to pick up essences while in wisp form.,"Изучите мастерство «Карманы искр» из ветки мастерства Inner Nayos, чтобы подбирать эссенции в форме искры."
 Train this ability before mastering it.,"Изучите эту способность, прежде чем освоить её."
 "Train this mastery to gain additional effects from Empowered Beehives, Bloodstone-Empowered Beehives, and Mistburned Beehives in Janthir.<br>• Your warclaw gains a speed boost when interacting with a beehive. If you have the Blazing Speed Mushrooms Mastery trained, the effects and duration are improved.<br>• Your mounts gain a brief Bond of Vigor effect. If you have the Rising Spirits Mastery trained, the duration is increased. <br>• Gain boons when interacting with beehives. If you have the Energy Efficiency Mastery trained, the boon durations are increased.","Изучите это мастерство, чтобы получать дополнительные эффекты от усиленных ульев, ульев, усиленных кровавым камнем, и опалённых туманом ульев в Джантире.<br>• Ваш боевой коготь получает ускорение при взаимодействии с ульем. Если изучено мастерство «Грибы пылающей скорости», эффекты и длительность улучшаются.<br>• Ваши ездовые животные получают кратковременный эффект «Bond of Vigor». Если изучено мастерство «Rising Spirits», длительность увеличивается. <br>• Получайте благодати при взаимодействии с ульями. Если изучено мастерство «Energy Efficiency», длительность благодатей увеличивается."
-Train this mastery to gain bonus effects:<br>• Add new services to the Wizard's Tower to upgrade Obsidian armor or to exchange various map currencies and materials.<br>• Open arcane chests with ease.<br>• Provide some protections against Eparch in the Citadel of Zakiros.<br>• Loot a daily coffer from the Into the Spider's Lair meta-event that contains particularly rare items.,"Train this mastery to gain bonus effects:<br>• Новые услуги в Башне волшебника: улучшение обсидиановой брони и обмен различных валют карт и материалов.<br>• Лёгкое открытие тайных сундуков.<br>• Некоторая защита от Эпарха в Цитадели Закироса.<br>• Ежедневный сундук из мета-события «В логово паука» с особенно редкими предметами."
+Train this mastery to gain bonus effects:<br>• Add new services to the Wizard's Tower to upgrade Obsidian armor or to exchange various map currencies and materials.<br>• Open arcane chests with ease.<br>• Provide some protections against Eparch in the Citadel of Zakiros.<br>• Loot a daily coffer from the Into the Spider's Lair meta-event that contains particularly rare items.,"Train this mastery to gain bonus effects:<br>• Новые услуги в Wizard's Tower: улучшение обсидиановой брони и обмен различных валют карт и материалов.<br>• Лёгкое открытие тайных сундуков.<br>• Некоторая защита от Эпарха в Цитадели Закироса.<br>• Ежедневный сундук из мета-события «В логово паука» с особенно редкими предметами."
 Train up to Local Legend of the Fishing Mastery track to purchase.,"Изучите до уровня «Local Legend» в ветке мастерства «Рыбалка», чтобы купить."
 Train with the Company.,Тренируйтесь с Компанией.
 Train with the militia.,Тренируйтесь с ополчением.
@@ -421,7 +421,7 @@ Travel to the Arena,Отправиться на арену
 Travel to the combat-training dummies in the outer courtyard.,Отправляйтесь к тренировочным манекенам во внешнем дворе.
 Travel to the Crown Pavilion and speak to Lord Faren.,Отправляйтесь в Королевский павильон и поговорите с лордом Фареном.
 Travel to the Dragon Bash Festival,Отправиться на фестиваль Dragon Bash
-Travel to the Durmand Priory in Lornar's Pass.,Отправляйтесь в Приорат Дурманда в Перевале Лорнара.
+Travel to the Durmand Priory in Lornar's Pass.,Отправляйтесь в Приорат Дурманда в Lornar's Pass.
 Travel to the Edge of the Mists to update Braham on the situation in Lion's Arch.,"Отправляйтесь на Край Туманов, чтобы рассказать Брейхаму о положении в Львиной Арке."
 Travel to the Entrance of the Bloodstone Caves,Отправиться ко входу в Пещеры кровавого камня
 Travel to the Festival of Four Winds' attractions by speaking to a balloon pilot in any capital city or the ship in Lion's Arch.,"Отправляйтесь к аттракционам Фестиваля Четырёх Ветров, поговорив с пилотом воздушного шара в любой столице или у корабля в Львиной Арке."
@@ -431,7 +431,7 @@ Travel to the mausoleum in Divinity's Reach.,Отправляйтесь в ма�
 "Travel to the Silverwastes[pl:""Silverwastes""]",Отправиться в Серебряные пустоши
 Travel to the source of undead draconic magic in Central Tyria and find the memory waiting there.,Отправляйтесь к источнику драконьей магии нежити в Центральной Тирии и найдите ждущее там воспоминание.
 "Travel to the Tomb of Primeval Kings and reopen the portal to Kormir's realm, where lost Sunspear writings await.","Отправляйтесь к Гробнице Древних Королей и вновь откройте портал в царство Кормир, где ждут утерянные записи Солнечных Копий."
-Travel to the top of the Tower of Nightmares and inject antitoxin into its heart.,Отправляйтесь на вершину Башни Кошмаров и введите антитоксин в её сердце.
+Travel to the top of the Tower of Nightmares and inject antitoxin into its heart.,Отправляйтесь на вершину Tower of Nightmares и введите антитоксин в её сердце.
 "Travel to Tixx's airship! Destroy toys! Love, laugh, cry.","Отправляйтесь на дирижабль Тикса! Уничтожайте игрушки! Любите, смейтесь, плачьте."
 Travel to Training Golems,Отправиться к тренировочным големам
 Travel to WvW Specialists,Отправиться к специалистам WvW

@@ -126,7 +126,7 @@ english,translate
 """Thank you so much. Take a look.""",«Огромное спасибо. Взгляни».
 """Thanks.""""Thanks.""""Thanks.""",«Спасибо».«Спасибо».«Спасибо».
 """That was down to the wire!""",«Это было на грани!»
-"""That was the day the Ministry of Purity attacked. We said our good-byes, and then scattered across Tyria to preserve the bloodline.""—Countess Danika zu Heltzer","«Это был день, когда напало Министерство Чистоты. Мы попрощались, а затем рассеялись по всей Tyria, чтобы сохранить родословную». —Countess Danika zu Heltzer"
+"""That was the day the Ministry of Purity attacked. We said our good-byes, and then scattered across Tyria to preserve the bloodline.""—Countess Danika zu Heltzer","«Это был день, когда напало Ministry of Purity. Мы попрощались, а затем рассеялись по всей Tyria, чтобы сохранить родословную». —Countess Danika zu Heltzer"
 """That'll hurt their plans. Nice!"" —Astral Ward Operative Miric",«Это помешает их планам. Отлично!» —Astral Ward Operative Miric
 """The Celestial Ministry ruled with an iron fist. Now...now they've scattered to the winds.""—Hui",«Небесное Министерство правило железной рукой. Теперь... теперь они рассеялись по ветру». —Hui
 """The Dragon's Reach, Part 1"" Mastery","Мастерство «Предел Дракона, часть 1»"
@@ -290,9 +290,9 @@ english,translate
 (Repeatable) Shipwreck Strand: Breezy Cay Renown Heart,(Повторяемое) Берег Кораблекрушений: Сердце репутации Ветреной бухты
 (Repeatable) Shipwreck Strand: Glimmering Arches Renown Heart,(Повторяемое) Берег Кораблекрушений: Сердце репутации Мерцающих арок
 (Repeatable) Shipwreck Strand: Hullgarden Renown Heart,(Повторяемое) Берег Кораблекрушений: Сердце репутации Сада Корпусов
-(Repeatable) Starlit Weald: Foothold Bivouac Renown Heart,(Повторяемое) Звёздная чаща: Сердце репутации Бивуака Плацдарма
-(Repeatable) Starlit Weald: Priory Expedition Renown Heart,(Повторяемое) Звёздная чаща: Сердце репутации Экспедиции Приората
-(Repeatable) Starlit Weald: Untamed Crags Renown Heart,(Повторяемое) Звёздная чаща: Сердце репутации Диких скал
+(Repeatable) Starlit Weald: Foothold Bivouac Renown Heart,(Повторяемое) Starlit Weald: Сердце репутации Бивуака Плацдарма
+(Repeatable) Starlit Weald: Priory Expedition Renown Heart,(Повторяемое) Starlit Weald: Сердце репутации Экспедиции Приората
+(Repeatable) Starlit Weald: Untamed Crags Renown Heart,(Повторяемое) Starlit Weald: Сердце репутации Диких скал
 (Some events can count toward multiple achievements.),(Некоторые события могут засчитываться в несколько достижений.)
 (These can be purchased from Gharr Leadclaw in the Wizard's Tower. Requires Wayfinder Mastery.),(Их можно приобрести у Gharr Leadclaw в Wizard's Tower. Требуется мастерство Проводник.)
 (This achievement can be completed in the race event or adventure. Progress will update when you claim the rewards.),"(Это достижение можно выполнить в гоночном событии или приключении. Прогресс обновится, когда вы заберете награды.)"

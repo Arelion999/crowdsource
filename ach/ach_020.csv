@@ -381,10 +381,10 @@ Local Response: Bjora Marches 1,Местный отклик: Топи Бьоры
 Local Response: Bjora Marches 2,Местный отклик: Топи Бьоры 2
 Local Response: Bloodstone Fen,Местный отклик: Топь Кровавого камня
 Local Response: Bloodstone Fen (Weekly),Местный отклик: Топь Кровавого камня (еженедельно)
-Local Response: Bloodtide Coast (Weekly),Местный отклик: Побережье Кровавого прилива (еженедельно)
+Local Response: Bloodtide Coast (Weekly),Местный отклик: Bloodtide Coast (еженедельно)
 Local Response: Crystal Oasis,Местный отклик: Кристальный оазис
 Local Response: Desert Highlands,Местный отклик: Пустынное нагорье
-Local Response: Diessa Plateau (Weekly),Местный отклик: Плато Диесса (еженедельно)
+Local Response: Diessa Plateau (Weekly),Местный отклик: Diessa Plateau (еженедельно)
 Local Response: Domain of Istan,Местный отклик: Владения Истана
 Local Response: Domain of Istan (Weekly),Местный отклик: Владения Истана (еженедельно)
 Local Response: Domain of Kourna,Местный отклик: Владения Курны
@@ -397,9 +397,9 @@ Local Response: Dragon's End,Местный отклик: Конец Драко�
 Local Response: Dragon's Stand,Местный отклик: Драконий рубеж
 Local Response: Dragonfall,Местный отклик: Драконий предел
 Local Response: Dragonfall (Weekly),Местный отклик: Драконий предел (еженедельно)
-Local Response: Drizzlewood Coast (Weekly),Местный отклик: Побережье Дриззлвуд (еженедельно)
-Local Response: Drizzlewood Coast 1,Местный отклик: Побережье Дриззлвуд 1
-Local Response: Drizzlewood Coast 2,Местный отклик: Побережье Дриззлвуд 2
+Local Response: Drizzlewood Coast (Weekly),Местный отклик: Drizzlewood Coast (еженедельно)
+Local Response: Drizzlewood Coast 1,Местный отклик: Drizzlewood Coast 1
+Local Response: Drizzlewood Coast 2,Местный отклик: Drizzlewood Coast 2
 Local Response: Dry Top (Weekly),Местный отклик: Сухие Топи (еженедельно)
 Local Response: Dry Top 1,Местный отклик: Сухие Топи 1
 Local Response: Dry Top 2,Местный отклик: Сухие Топи 2
@@ -409,16 +409,16 @@ Local Response: Ember Bay,Местный отклик: Залив Углей
 Local Response: Ember Bay (Weekly),Местный отклик: Залив Углей (еженедельно)
 Local Response: Forging Steel,Местный отклик: Ковка стали
 Local Response: Forging Steel (Weekly),Местный отклик: Ковка стали (еженедельно)
-Local Response: Gendarran Fields (Weekly),Местный отклик: Гендарранские поля (еженедельно)
+Local Response: Gendarran Fields (Weekly),Местный отклик: Gendarran Fields (еженедельно)
 Local Response: Grothmar Valley,Местный отклик: Долина Гротмар
 Local Response: Grothmar Valley (Weekly),Местный отклик: Долина Гротмар (еженедельно)
 Local Response: Gyala Delve,Местный отклик: Шахты Гьяла
-Local Response: Inner Nayos,Местный отклик: Внутренний Найос
+Local Response: Inner Nayos,Местный отклик: Inner Nayos
 Local Response: Jahai Bluffs,Местный отклик: Джахайские утесы
 Local Response: Jahai Bluffs (Weekly),Местный отклик: Джахайские утесы (еженедельно)
 Local Response: Janthir Rifts,Местный отклик: Janthir Rifts
-Local Response: Janthir Syntri,Местный отклик: Синтри Джантира
-Local Response: Kessex Hills (Weekly),Местный отклик: Кессекские холмы (еженедельно)
+Local Response: Janthir Syntri,Местный отклик: Janthir Syntri
+Local Response: Kessex Hills (Weekly),Местный отклик: Kessex Hills (еженедельно)
 Local Response: Lake Doric,Локальный чат: Озеро Дорик
 Local Response: Lake Doric (Weekly),Локальный чат: Озеро Дорик (еженедельно)
 Local Response: Lowland Shore,Локальный чат: Низинный берег
@@ -429,7 +429,7 @@ Local Response: Outer Nayos,Локальный чат: Внешний Найос
 Local Response: Rift Hunts,Локальный чат: Охота на разломы
 Local Response: Sandswept Isles,Локальный чат: Острова Песчаного вихря
 Local Response: Sandswept Isles (Weekly),Локальный чат: Острова Песчаного вихря (еженедельно)
-Local Response: Seitung Province,Локальный чат: Провинция Сейтунг
+Local Response: Seitung Province,Локальный чат: Seitung Province
 Local Response: Silverwastes (Weekly),Локальный чат: Серебряные пустоши (еженедельно)
 Local Response: Silverwastes 1,Локальный чат: Серебряные пустоши 1
 Local Response: Silverwastes 2,Локальный чат: Серебряные пустоши 2
@@ -440,7 +440,7 @@ Local Response: Tangled Depths,Локальный чат: Запутанные �
 Local Response: The Desolation,Локальный чат: Пустоши
 Local Response: Thunderhead Peaks,Локальный чат: Пики Громовой головы
 Local Response: Thunderhead Peaks (Weekly),Локальный чат: Пики Громовой головы (еженедельно)
-Local Response: Tower of Nightmares (Weekly),Локальный чат: Башня Кошмаров (еженедельно)
+Local Response: Tower of Nightmares (Weekly),Локальный чат: Tower of Nightmares (еженедельно)
 Local Response: Verdant Brink,Локальный чат: Зелёный край
 Locate  master sky crystal in the Labyrinthine Cliffs.,Найдите главный небесный кристалл на Лабиринтных утесах.
 Locate  sky crystal in the Labyrinthine Cliffs.,Найдите небесный кристалл на Лабиринтных утесах.
@@ -453,13 +453,13 @@ Locate and eliminate all of Ankka's Risen monstrosities.,Найдите и ус�
 Locate each of the Oracle cards.,Найдите каждую из карт Оракула.
 Locate objects of power across Tyria to aid in the restoration of Caladbolg.,"Найдите объекты силы по всей Тирия, чтобы помочь в восстановлении Каладболг."
 Locate places of power in Janthir to reveal new forms for Caladbolg.,"Найдите места силы в Джантире, чтобы открыть новые формы для Каладболга."
-Locate sword fragments within the Maguuma Jungle to aid in the restoration of Caladbolg.,"Найдите фрагменты меча в джунглях Магуумы, чтобы помочь в восстановлении Каладболг."
+Locate sword fragments within the Maguuma Jungle to aid in the restoration of Caladbolg.,"Найдите фрагменты меча в Maguuma Jungle, чтобы помочь в восстановлении Каладболг."
 Locate the 10 lost Priory corpses in the Tarnished Treetop of Auric Basin.,Найдите 10 тел пропавших членов Приората в Запятнанной верхушке деревьев в Бассейне Золота.
 Locate the Mushroom King near the Itzel village and help the Itzel farmer defeat it so that they can bring the meat home for his soup recipe.,"Найдите Короля грибов возле деревни Итцель и помогите фермеру Итцель победить его, чтобы они могли принести мясо домой для его рецепта супа."
-Locate the River Mapping adventure in Janthir Syntri.,Найдите приключение «Картографирование реки» в Синтри Джантира.
-Locate the Save Woodland Creatures adventure in Janthir Syntri.,Найдите приключение «Спасение лесных существ» в Синтри Джантира.
-Locate the View from the Top Adventure in Janthir Syntri.,Найдите приключение «Вид с вершины» в Синтри Джантира.
-Locate the Warclaw Run adventure in Janthir Syntri.,Найдите приключение «Забег на боевом когте» в Синтри Джантира.
+Locate the River Mapping adventure in Janthir Syntri.,Найдите приключение «Картографирование реки» в Janthir Syntri.
+Locate the Save Woodland Creatures adventure in Janthir Syntri.,Найдите приключение «Спасение лесных существ» в Janthir Syntri.
+Locate the View from the Top Adventure in Janthir Syntri.,Найдите приключение «Вид с вершины» в Janthir Syntri.
+Locate the Warclaw Run adventure in Janthir Syntri.,Найдите приключение «Забег на боевом когте» в Janthir Syntri.
 Locate the lost records of Shing Jea's history across Tyria.,Найдите утерянные записи об истории Shing Jea по всей Тирия.
 Locate the stream deep beneath Orr.,Найдите поток глубоко под Орром.
 Locate the various promotional samples of Snargle's works.,Найдите различные рекламные образцы работ Snargle.

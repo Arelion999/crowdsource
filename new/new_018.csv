@@ -7,7 +7,7 @@ Kept Rising Bloom Alive,Восходящий Цвет остался жив
 Kept Rising Bloom's Health above 90 Percent,Здоровье Восходящего Цвета удержано выше 90 процентов
 Kept Skritt from Looting Zephyrite Supplies,Не дали скриттам разграбить припасы зефиритов
 Kept the Dolyaks Alive,Дольяки остались живы
-Kept the Jade Brotherhood and Speaker Allies Alive,Нефритовое братство и союзники-Глашатаи остались живы
+Kept the Jade Brotherhood and Speaker Allies Alive,Jade Brotherhood и союзники-Глашатаи остались живы
 Kestrel Warrior,Воин Пустельг
 "Kestrels, charge!","Пустельги, в атаку!"
 "Kestrels, engage!","Пустельги, вступить в бой!"
@@ -123,10 +123,10 @@ Killed %num1%/%num2% Creatures in Melandru's Lost Domain in Dragonfall,Убит�
 Killed %num1%/%num2% Creatures in the Burning Forest in Dragonfall,Убито %num1%/%num2% существ в Горящем Лесу в Драконьем Падении
 Killed %num1%/%num2% Fallen,Убито %num1%/%num2% падших
 Killed %num1%/%num2% Hostile Wildlife,Убито %num1%/%num2% враждебных зверей
-Killed %num1%/%num2% Jade Brotherhood in Echovald Wilds,Убито %num1%/%num2% бойцов Нефритового братства в Эховальдских дебрях
-Killed %num1%/%num2% Jade Brotherhood in Gyala Delve,Убито %num1%/%num2% бойцов Нефритового братства в Гьяла-Дельв
-Killed %num1%/%num2% Jade Brotherhood in New Kaineng,Убито %num1%/%num2% бойцов Нефритового братства в Новом Кайненге
-Killed %num1%/%num2% Jade Mechs in Echovald Wilds,Убито %num1%/%num2% нефритовых мехов в Эховальдских дебрях
+Killed %num1%/%num2% Jade Brotherhood in Echovald Wilds,Убито %num1%/%num2% бойцов Jade Brotherhood в Echovald Wilds
+Killed %num1%/%num2% Jade Brotherhood in Gyala Delve,Убито %num1%/%num2% бойцов Jade Brotherhood в Гьяла-Дельв
+Killed %num1%/%num2% Jade Brotherhood in New Kaineng,Убито %num1%/%num2% бойцов Jade Brotherhood в Новом Кайненге
+Killed %num1%/%num2% Jade Mechs in Echovald Wilds,Убито %num1%/%num2% нефритовых мехов в Echovald Wilds
 Killed %num1%/%num2% Kappa,Убито %num1%/%num2% капп
 Killed %num1%/%num2% Kappa in Gyala Delve,Убито %num1%/%num2% капп в Гьяла-Дельв
 Killed %num1%/%num2% Krait in Nonmoa Lake or Killed the Krait Witch,Убито %num1%/%num2% крайтов у озера Нонмоа или убита крайтовая ведьма
@@ -142,12 +142,12 @@ Killed %num1%/%num2% Purists in New Kaineng,Убито %num1%/%num2% пурис�
 Killed %num1%/%num2% Purists in Seitung Province,Убито %num1%/%num2% пуристов в Провинции Сейтун
 Killed %num1%/%num2% Raid Bosses,Убито %num1%/%num2% рейдовых боссов
 Killed %num1%/%num2% Son[s] of Svanir,Убито %num1%/%num2% Сын[а|а|ов] Сванира
-Killed %num1%/%num2% Spirits in the Echovald Wilds,Убито %num1%/%num2% духов в Эховальдских дебрях
+Killed %num1%/%num2% Spirits in the Echovald Wilds,Убито %num1%/%num2% духов в Echovald Wilds
 Killed %num1%/%num2% Unchained Risen,Убито %num1%/%num2% раскованных восставших
 Killed %num1%/%num2% Unchained in New Kaineng,Убито %num1%/%num2% раскованных в Новом Кайненге
 Killed %num1%/%num2% Unchained in Seitung Province,Убито %num1%/%num2% раскованных в Провинции Сейтун
 Killed %num1%/%num2% Underworld Creatures in Dragonfall,Убито %num1%/%num2% существ Подземного мира в Драконьем Падении
-Killed %num1%/%num2% Void Creatures in the Echovald Wilds,Убито %num1%/%num2% существ Пустоты в Эховальдских дебрях
+Killed %num1%/%num2% Void Creatures in the Echovald Wilds,Убито %num1%/%num2% существ Пустоты в Echovald Wilds
 Killed %num1%/%num2% of Kasmeer's Training Illusions.,Убито %num1%/%num2% обучающих иллюзий Касмир.
 Killed 10 Chak before Succumbing,Убито 10 чаков перед гибелью
 Killed 50 White Mantle Invaders at the Henge of Denravi,Убито 50 захватчиков Белой Мантии у Хенджа Денрави
@@ -425,7 +425,7 @@ Level 1 damage,Урон 1-го уровня
 Level 2 Bleeding,Кровотечение 2-го уровня
 Level 3 Bleeding,Кровотечение 3-го уровня
 Level 5 Armor,Броня 5-го уровня
-"Level of suspicion the Jade Brotherhood has of you. Grows as you do risky things. At 100 stacks, you get kicked out of the camp.",Уровень подозрения Нефритового братства по отношению к вам. Растёт по мере рискованных действий. При 100 стаках вас выгонят из лагеря.
+"Level of suspicion the Jade Brotherhood has of you. Grows as you do risky things. At 100 stacks, you get kicked out of the camp.",Уровень подозрения Jade Brotherhood по отношению к вам. Растёт по мере рискованных действий. При 100 стаках вас выгонят из лагеря.
 "Level of suspicion the Speakers have of you. Grows as you do risky things. At 100 stacks, you get kicked out of the camp.",Уровень подозрения Глашатаев по отношению к вам. Растёт по мере рискованных действий. При 100 стаках вас выгонят из лагеря.
 Lexis Tigerfeet,Лексис Тигриная Лапа
 Ley Conduit,Лей-канал

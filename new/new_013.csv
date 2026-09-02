@@ -75,9 +75,9 @@ Filthy Hide[s],Грязн[ая шкура|ые шкуры|ых шкур]
 Filthy Pelt[s],Грязн[ая шкурка|ые шкурки|ых шкурок]
 Final Slash Damage,Урон финального разреза
 Find %num2% artifacts for Roenn around Jahai Bluffs.,Найдите %num2% артефактов для Роэнна на Утёсах Джахай.
-Find %num2% chamber[s] in the Tower of Nightmares.,Найдите %num2% палат[у|ы|] в Башне Кошмаров.
+Find %num2% chamber[s] in the Tower of Nightmares.,Найдите %num2% палат[у|ы|] в Tower of Nightmares.
 Find %num2% diving goggles in the Domain of Istan.,Найдите %num2% очков для прыжков в воду во Владении Истан.
-Find %num2% instabilities in Echovald Wilds.,Найдите %num2% нестабильностей в Эховальдских дебрях.
+Find %num2% instabilities in Echovald Wilds.,Найдите %num2% нестабильностей в Echovald Wilds.
 Find %num2% instabilities in Kaineng.,Найдите %num2% нестабильностей в Кайненге.
 Find %num2% lore tablets in New Kaineng.,Найдите %num2% табличек с преданиями в Новом Кайненге.
 Find %num2% lost llamas in the PvP Lobby.,Найдите %num2% потерянных лам в лобби PvP.
@@ -112,7 +112,7 @@ Find out what the papermaker knows about the parchment.,"Выясните, чт�
 Find out what trouble Quinn has gotten himself into lately.,"Выясните, в какие неприятности в последнее время влип Куинн."
 Find players to help you explore stories in the Guild Wars 2: Visions of Eternity expansion.,"Найдите игроков, чтобы вместе исследовать истории дополнения Guild Wars 2: Видения Вечности."
 Find the Book of Awakening to Light in the Crystal Desert,Найдите Книгу пробуждения к свету в Кристальной пустыне
-Find the Gliding Abilities specialist in the Wizard's Tower in order to obtain this ability.,"Найдите специалиста по способностям планирования в Башне Волшебника, чтобы получить эту способность."
+Find the Gliding Abilities specialist in the Wizard's Tower in order to obtain this ability.,"Найдите специалиста по способностям планирования в Wizard's Tower, чтобы получить эту способность."
 Find the book used to encode the dredge message.,"Найдите книгу, использованную для шифровки послания дреджей."
 Find the elusive whittling Itzel.,Найдите неуловимого резчика-ицеля.
 Find the final machine.,Найдите последнюю машину.
@@ -126,7 +126,7 @@ Find the stone sheath.,Найдите каменные ножны.
 Find the troll salve.,Найдите тролличью мазь.
 Find the wounded grawl shaman.,Найдите раненого шамана граулов.
 Find their weakness!,Найдите их слабость!
-Find your way back to the Pale Tree.,Найдите путь обратно к Бледному Древу.
+Find your way back to the Pale Tree.,Найдите путь обратно к Pale Tree.
 "Fine, fine. I'll leave you alone.","Ладно, ладно. Оставлю тебя в покое."
 "Fine, then. I'll be watching.",Ну хорошо. Я буду наблюдать.
 "Fine, you're right, I'll settle down.","Ладно, ты прав, я угомонюсь."
@@ -284,7 +284,7 @@ Focused Duration,Длительность сосредоточения
 "Foes around you take damage, and you have 4 rock charges.","Враги вокруг вас получают урон, и у вас есть 4 заряда камня."
 Foggy Forest Homestead Sky now available!,Небо усадьбы «Туманный лес» уже доступно!
 Foggy Forest Homestead Sky unlocked!,Небо усадьбы «Туманный лес» открыто!
-Follow Syska's trail to the Black Citadel.,Идите по следу Сиски к Чёрной Цитадели.
+Follow Syska's trail to the Black Citadel.,Идите по следу Сиски к Black Citadel.
 Follow me and die.,Следуй за мной и умри.
 Follow the High Priestess's procession to Lorantl Grounds.,Проследуйте за процессией Верховной жрицы к угодьям Лорантл.
 Follow the trail of the missing Aspect Masters.,Идите по следу пропавших мастеров аспектов.
@@ -296,7 +296,7 @@ Follow-Up Bleeding,Кровотечение после удара
 Followed Canach's Instructions Precisely,В точности следовал указаниям Канаха
 Followed Kasmeer's Lead,Последовал за наводкой Касмир
 Followed Mabon's Path,Прошёл путём Мабона
-Followed Up with the Jade Brotherhood Member,Связался с членом Нефритового братства
+Followed Up with the Jade Brotherhood Member,Связался с членом Jade Brotherhood
 Followed by Night,Ночное преследование
 Followed by a swarm of locusts that cripples nearby foes.,"Преследуется роем саранчи, калечащим ближайших врагов."
 Followed the Dark Path to Find the Missing Magister,Прошёл тёмным путём в поисках пропавшего магистра
@@ -318,7 +318,7 @@ For the Spirits!,За Духов!
 For the Tamini!,За Тамини!
 For the next season you will be teamed with %str1%.,На следующий сезон вас объединят с %str1%.
 "For the record, you've been struck.",Для протокола: тебя ударили.
-"For the sake of the land. For the sake of the Pale Tree. Come to me, sapling; I need your assistance.","Ради земли. Ради Бледного Древа. Иди ко мне, саженец; мне нужна твоя помощь."
+"For the sake of the land. For the sake of the Pale Tree. Come to me, sapling; I need your assistance.","Ради земли. Ради Pale Tree. Иди ко мне, саженец; мне нужна твоя помощь."
 Foraged %num1%/%num2% Plants in End of Dragons,Собрано %num1%/%num2% растений в Конце Драконов
 Foraged %num1%/%num2% Resources,Собрано %num1%/%num2% ресурсов
 Forager Hitkiti,Собирательница Хиткити
@@ -335,8 +335,8 @@ Forged Ankle Joint[s],[Кованый голеностопный сустав|К
 Forged Bait Site,Место приманки Кованых
 Forged Beast-Plate,Кованая нательная броня зверя
 Forged Surveillance Pylon,Кованый пилон наблюдения
-Forged a Key to the Wizard's Tower,Выкован ключ к Башне Волшебника
-Forged a Key to the Wizard's Tower %num1%/%num2% Times,Выкован ключ к Башне Волшебника %num1%/%num2% раз
+Forged a Key to the Wizard's Tower,Выкован ключ к Wizard's Tower
+Forged a Key to the Wizard's Tower %num1%/%num2% Times,Выкован ключ к Wizard's Tower %num1%/%num2% раз
 "Forged to fight Jormag's icebrood, the Stormcaller armaments resist Jormag's influence but become easily corrupted by Primordus's destroyer magic.","Выкованные для борьбы с ледяным отродьями Йормага, доспехи Зова Бури сопротивляются влиянию Йормага, но легко поддаются порче магии разрушителей Примордуса."
 Forged victorious. Heavy losses. Must regroup.,Кованые победили. Тяжёлые потери. Нужно перегруппироваться.
 Forgemaster Jak,Кузнечный мастер Джак
@@ -367,7 +367,7 @@ Found %num1%/%num2% Diving Goggles in Istan,Найдено %num1%/%num2% очк�
 Found %num1%/%num2% Dwarven Chests,Найдено %num1%/%num2% дворфийских сундуков
 Found %num1%/%num2% Heirlooms,Найдено %num1%/%num2% реликвий
 Found %num1%/%num2% Hidden Dwarven Treasures,Найдено %num1%/%num2% скрытых дворфийских сокровищ
-"Found %num1%/%num2% Instability[pl:""Instabilities""] in Echovald Wilds",Найдено %num1%/%num2% [нестабильность|нестабильности|нестабильностей] в Эховальдских дебрях
+"Found %num1%/%num2% Instability[pl:""Instabilities""] in Echovald Wilds",Найдено %num1%/%num2% [нестабильность|нестабильности|нестабильностей] в Echovald Wilds
 "Found %num1%/%num2% Instability[pl:""Instabilities""] in Kaineng",Найдено %num1%/%num2% [нестабильность|нестабильности|нестабильностей] в Кайненге
 Found %num1%/%num2% Interactive Objects,Найдено %num1%/%num2% интерактивных объектов
 Found %num1%/%num2% Keepsakes,Найдено %num1%/%num2% памятных вещей
@@ -399,7 +399,7 @@ Found Bright Shore,Найден Светлый Берег
 Found Creation 5 and Creation 7 in Starlit Weald after Being Freed,Найдены Творения 5 и 7 в Звёздной Роще после освобождения
 Found Evidence of Incursions while Searching Arborstone,Найдены улики о вторжениях при обыске Арборстоуна
 Found Herta in the Vinetooth Den,Найдена Герта в логове лозозубов
-Found Hidden Texts around the Wizard's Tower,Найдены скрытые тексты вокруг Башни Волшебника
+Found Hidden Texts around the Wizard's Tower,Найдены скрытые тексты вокруг Wizard's Tower
 Found Rare Treasure,Найдено редкое сокровище
 "Found Renyak's ""Notes""",Найдены «заметки» Реньяка
 Found Secret Passage and Secured Extra Crystals,"Найден тайный проход, дополнительные кристаллы обеспечены"

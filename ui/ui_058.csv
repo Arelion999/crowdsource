@@ -139,10 +139,10 @@ Earn %num2% points in the Hall of Monuments.,Заработайте %num2% оч�
 Earn 10 Top Stats,Получить 10 лучших показателей
 "Earn 10,000 world experience in the Borderlands or Eternal Battlegrounds maps within the time limit.",Получить 10 000 очков мирового опыта на картах Пограничья или Вечных Полей битв в течение отведённого времени.
 Earn 100%% completion in Blazeridge Steppes.,Получить 100%% завершения в Степях Блейзридж Пламени.
-Earn 100%% completion in Dredgehaunt Cliffs.,Получить 100%% завершения в Скалах Дреджей.
-Earn 100%% completion in Gendarran Fields.,Добейтесь 100%% завершения на Гендарранских полях.
+Earn 100%% completion in Dredgehaunt Cliffs.,Получить 100%% завершения в Dredgehaunt Cliffs.
+Earn 100%% completion in Gendarran Fields.,Добейтесь 100%% завершения на Gendarran Fields.
 Earn 100%% completion in Harathi Hinterlands.,Добейтесь 100%% завершения в Харатских Задворках.
-Earn 100%% completion in Lornar's Pass.,Добейтесь 100%% завершения в Перевале Лорнара.
+Earn 100%% completion in Lornar's Pass.,Добейтесь 100%% завершения в Lornar's Pass.
 Earn 100%% completion in the Fields of Ruin.,Добейтесь 100%% завершения на Полях Разрушения.
 Earn 100%% map completion in Eternity's Garden with this character.,Добейтесь 100%% завершения карты Сада Вечности этим персонажем.
 Earn 100%% map completion of Bava Nisos with this character.,Добейтесь 100%% завершения карты Bava Nisos этим персонажем.
@@ -210,8 +210,8 @@ Earn map completion in Dragon's End as a ranger.,Получите заверше
 Earn map completion in Dragon's End as an elementalist.,Получите завершение карты в Логове дракона в роли элементалиста.
 Earn map completion in New Kaineng City as a necromancer.,Получите завершение карты в Новом Кайенг-Сити в роли некроманта.
 Earn map completion in New Kaineng City as a warrior.,Получите завершение карты в Новом Кайенг-Сити в роли воина.
-Earn map completion in the Echovald Wilds as a mesmer.,Получите завершение карты в Эховальдских дебрях в роли месмера.
-Earn map completion in the Echovald Wilds as a revenant.,Получите завершение карты в Эховальдских дебрях в роли ревенанта.
+Earn map completion in the Echovald Wilds as a mesmer.,Получите завершение карты в Echovald Wilds в роли месмера.
+Earn map completion in the Echovald Wilds as a revenant.,Получите завершение карты в Echovald Wilds в роли ревенанта.
 earn more achievement point rewards.,получить больше наград за очки достижений.
 Earn more experience before mastering this ability.,"Получите больше опыта, прежде чем освоить эту способность."
 "Earn ornate rusted keys, open sunken chests, and trade for underwater rewards.","Зарабатывайте изысканные ржавые ключи, открывайте затонувшие сундуки и обменивайте на подводные награды."
@@ -240,13 +240,13 @@ Earned by completing the Heart of the Volcano instance.,Заработано з�
 "Earned by completing the story episode ""A Bug in the System.""",Заработано за завершение сюжетного эпизода «Жук в системе».
 Earned by contesting the push capture point.,Получено за захват точки удержания.
 Earned by defeating Aetherblade enemies in New Kaineng City.,Заработано за победу над врагами Эфирного Клинка в Новом Каиненге.
-Earned by defeating Aetherblade enemies in the Echovald Wilds.,Заработано за победу над врагами Эфирного Клинка в Эховальдских дебрях.
-Earned by defeating Jade Brotherhood enemies in Echovald Wilds.,Заработано за победу над врагами Нефритового Братства в Эховальдских дебрях.
+Earned by defeating Aetherblade enemies in the Echovald Wilds.,Заработано за победу над врагами Эфирного Клинка в Echovald Wilds.
+Earned by defeating Jade Brotherhood enemies in Echovald Wilds.,Заработано за победу над врагами Jade Brotherhood в Echovald Wilds.
 Earned by defeating jade tech enemies in New Kaineng City.,Заработано за победу над врагами нефритовых технологий в Новом Каиненге.
 Earned by defeating naga enemies in Seitung Province.,Заработано за победу над врагами нага в Провинции Сейтун.
 Earned by defeating Purist enemies in New Kaineng City.,Заработано за победу над врагами Пуристов в Новом Каиненге.
 Earned by defeating Purist enemies in Seitung Province.,Заработано за победу над врагами Пуристов в Провинции Сейтун.
-Earned by defeating Speaker enemies in Echovald Wilds.,Заработано за победу над врагами Спикеров в Эховальдских дебрях.
+Earned by defeating Speaker enemies in Echovald Wilds.,Заработано за победу над врагами Спикеров в Echovald Wilds.
 Earned by making capture progress or by being in combat near a capture point that your team owns.,"Заработано за захват точки или за бой рядом с точкой захвата, принадлежащей вашей команде."
 Earned by making capture progress or by being in combat near a neutral or enemy capture point.,Заработано за захват точки или за бой рядом с нейтральной или вражеской точкой захвата.
 Earned by opening unidentified gear found in the Crystal Desert.,"Заработано за открытие неопознанного снаряжения, найденного в Кристальной пустыне."
@@ -264,7 +264,7 @@ Earned from combining specific items in the Mystic Forge.,Заработано �
 Earned in Amnytas by completing all map locations.,Заработано в Амнитасе за прохождение всех локаций на карте.
 Earned in Bava Nisos by completing all map locations. Further copies can be purchased from Ward Trader Sampaguita in Bava Nisos.,Заработано в Бава-Нисос за прохождение всех локаций карты. Дополнительные копии можно купить у торговца-стража Сампагиты в Бава-Нисос.
 "Earned in Dragon's Stand and used to purchase leystone armor, plated weapons, and other goods.","Заработано в Логове Дракона и используется для покупки леоритовой брони, пластинчатого оружия и других товаров."
-Earned in Inner Nayos by transferring power to lanterns.,Заработано во Внутреннем Найосе за передачу энергии фонарям.
+Earned in Inner Nayos by transferring power to lanterns.,Заработано в Inner Nayos за передачу энергии фонарям.
 Earned in Janthir Syntri by completing all map locations. Further copies can be purchased from renown heart vendors in Janthir Syntri.,Заработано в Джантир-Синтри за прохождение всех локаций карты. Дополнительные копии можно купить у торговцев известных сердец в Джантир-Синтри.
 Earned in Janthir Syntri from events.,Заработано в Джантир-Синтри за участие в событиях.
 Earned in Lowland Shore by completing all map locations. Additional copies can be purchased from renown heart vendors in Lowland Shore.,Заработано на Низменном Берегу за прохождение всех локаций карты. Дополнительные копии можно купить у торговцев известных сердец на Низменном Берегу.
@@ -418,10 +418,10 @@ Echos of Night,Эхо ночи
 Echovald Fishing License[s],[Лицензия|Лицензии|Лицензий] на рыбную ловлю в Эховальде
 Echovald Fishing Reward[s],[Награда|Награды|Наград] за рыбную ловлю в Эховальде
 Echovald Forest [lbracket]FR[rbracket],Лес Эховальд [lbracket]FR[rbracket]
-Echovald Wilds Reward Track,Трек наград «Эховальдские дебри»
+Echovald Wilds Reward Track,Трек наград «Echovald Wilds»
 "Echovald Wilds Strongbox[pl:""Strongboxes""]",[Сундук|Сундука|Сундуков] Эховальдских дебрей
-Echovald Wilds: Commander's Choice Chest[s],Эховальдские дебри: Сундук командира
-Echovald Wilds: Hero's Choice Chest[s],Эховальдские дебри: [сундук|сундука|сундуков] выбора героя
+Echovald Wilds: Commander's Choice Chest[s],Echovald Wilds: Сундук командира
+Echovald Wilds: Hero's Choice Chest[s],Echovald Wilds: [сундук|сундука|сундуков] выбора героя
 Eco Conservationist Jenrys,Эко-консервационист Джэнрис
 Economy gives the guild efficiency boosts and convenience features.,Экономика даёт гильдии повышение эффективности и удобства.
 Economy upgrades build 25%% faster.,Улучшения экономики строятся на 25%% быстрее.

@@ -145,8 +145,8 @@ Rift Hunter Woo-Jae,Охотник на разломы Ву-Джей
 Rift Hunters' Control,Контроль охотников на разломы
 Rift Researcher Adam,Исследователь разломов Адам
 Rift Resonance,Резонанс разлома
-Rift to Wizard's Tower,Разлом в Башню Волшебника
-Rift to the Wizard's Tower,Разлом в Башню Волшебника
+Rift to Wizard's Tower,Разлом в Wizard's Tower
+Rift to the Wizard's Tower,Разлом в Wizard's Tower
 Rifts opening!,Разломы открываются!
 Rifts. Yes. More witless victims.,Разломы. Да. Ещё безмозглые жертвы.
 "Right. Here's another list, and an extra decoder. Just in case. Try not to lose anything else.",Так. Вот ещё один список и запасной декодер. На всякий случай. Постарайся больше ничего не потерять.
@@ -212,7 +212,7 @@ Routine Check on Mabon Market,Плановая проверка на рынке 
 Row of Books,Ряд книг
 Rowdy Patron,Буйный посетитель
 Rox and Braham Living Story Instances Completed,Эпизоды Живого мира с Рокс и Брейхамом завершены
-"Rox has orders from Rytlock to secure assets at the devourer hatchery northwest of the town of Nolan in Diessa Plateau, currently under threat by the Molten Alliance. [lbracket]This mission is now playable in Living World Season 1: Episode 1[rbracket]","У Рокс приказ от Ритлока обезопасить активы в инкубатории пожирателей к северо-западу от города Нолан на плато Диесса, которому сейчас угрожает Расплавленный союз. [lbracket]Это задание теперь доступно в Живом мире, 1 сезон, эпизод 1[rbracket]"
+"Rox has orders from Rytlock to secure assets at the devourer hatchery northwest of the town of Nolan in Diessa Plateau, currently under threat by the Molten Alliance. [lbracket]This mission is now playable in Living World Season 1: Episode 1[rbracket]","У Рокс приказ от Ритлока обезопасить активы в инкубатории пожирателей к северо-западу от города Нолан на Diessa Plateau, которому сейчас угрожает Расплавленный союз. [lbracket]Это задание теперь доступно в Живом мире, 1 сезон, эпизод 1[rbracket]"
 Rox: Avenger of the Dispossessed,Рокс: Мстительница обездоленных
 Rox: I will.,Рокс: Хорошо.
 Rox: It chose me.,Рокс: Он выбрал меня.
@@ -254,8 +254,8 @@ SERV,СЕРВ
 Saartje,Саартье
 Sabinus Cointooth,Сабинус Монетозуб
 Sabotage Strike,Диверсионный удар
-Sabotaged the Jade Brotherhood to Acquire Intel on Ankka,Устроена диверсия против Нефритового братства ради сведений об Анкке
-Sabotaged the Jade Brotherhood's Efforts %num1%/%num2% Time[s],Сорваны планы Нефритового братства %num1%/%num2% [раз|раза|раз]
+Sabotaged the Jade Brotherhood to Acquire Intel on Ankka,Устроена диверсия против Jade Brotherhood ради сведений об Анкке
+Sabotaged the Jade Brotherhood's Efforts %num1%/%num2% Time[s],Сорваны планы Jade Brotherhood %num1%/%num2% [раз|раза|раз]
 Sabotaged the Speakers to Acquire Intel on Ankka,Устроена диверсия против Глашатаев ради сведений об Анкке
 Sabotaged the Speakers' Operations %num1%/%num2% Time[s],Сорваны операции Глашатаев %num1%/%num2% [раз|раза|раз]
 Sack[s] of Booty,Мешоч[ек добычи|ки добычи|ков добычи]
@@ -396,7 +396,7 @@ Seal[s] of the Shaman,Печат[ь|и|ей] шамана
 Sear Malstride,Сеар Малстрайд
 Search Bandithaunt Caverns for the stolen medical supplies.,Обыщите Пещеры Бандитского Логова в поисках украденных медицинских припасов.
 Search Lamia Mire for the second half of the key.,Обыщите Ламийскую Топь в поисках второй половины ключа.
-Search Metrica Province for the artifact detected by the VOED.,"Обыщите Провинцию Метрика в поисках артефакта, обнаруженного ВОЭД."
+Search Metrica Province for the artifact detected by the VOED.,"Обыщите Metrica Province в поисках артефакта, обнаруженного ВОЭД."
 Search Rata Novus for research on the Elder Dragons.,Обыщите Rata Novus в поисках исследований о Старших драконах.
 Search Rata Sum for the artifact detected by the VOED.,"Обыщите Рата-Сум в поисках артефакта, обнаруженного ВОЭД."
 Search Windrock Maze for clues.,Обыщите Лабиринт Ветроскала в поисках зацепок.
@@ -444,8 +444,8 @@ Secure the largos' help to learn more about the krait orb.,"Заручитесь
 Secure the reactor's central control console.,Захватите центральную консоль управления реактором.
 Secured %num1%/%num2% Beachheads,Захвачено %num1%/%num2% плацдармов
 Security Blaster,Бластер безопасности
-See if there's any more trouble brewing in Metrica Province.,"Узнайте, не назревают ли новые неприятности в Провинции Метрика."
-See if there's more trouble brewing in Metrica Province.,"Узнайте, не назревают ли ещё неприятности в Провинции Метрика."
+See if there's any more trouble brewing in Metrica Province.,"Узнайте, не назревают ли новые неприятности в Metrica Province."
+See if there's more trouble brewing in Metrica Province.,"Узнайте, не назревают ли ещё неприятности в Metrica Province."
 "See it, report it.",Увидел — сообщи.
 See me right here? Guard my tail!,Видишь меня прямо здесь? Прикрывай мой хвост!
 "See this thingy here? I invented it. Well, found it. But I invented it to not need driver. Now, need strong person to test thingy in combat. You help?","Видишь эту штуковину? Я её изобрёл. Ну, нашёл. Но изобрёл, чтобы не нужен был водитель. Теперь нужен сильный человек, чтобы испытать штуковину в бою. Поможешь?"
@@ -453,7 +453,7 @@ See what I'm capable of!,"Смотри, на что я способен!"
 See you in your nightmares.,Увидимся в твоих кошмарах.
 See you...on the other side.,Увидимся... по ту сторону.
 Seek Occam and find a way to defeat Bercilak.,Найдите Оккама и способ победить Берсилака.
-Seek out dwarves investigating the Forsaken Halls in Dredgehaunt Cliffs.,"Найдите дворфов, расследующих Забытые Залы в Скалах Дреджей."
+Seek out dwarves investigating the Forsaken Halls in Dredgehaunt Cliffs.,"Найдите дворфов, расследующих Забытые Залы в Dredgehaunt Cliffs."
 Seek the aid of Beastmarshal Oluwa Eranko.,Обратитесь за помощью к маршалу зверей Олуве Эранко.
 Seek the aid of Troopmarshal Olori Ogun.,Обратитесь за помощью к маршалу войск Олори Огуну.
 Seek the source of Orr's water to cleanse the land.,"Найдите источник воды Орра, чтобы очистить землю."
@@ -487,7 +487,7 @@ Send out a jet of flames burning foes.,"Выпустите струю пламе
 Send out a scythe that bounces between foes and allies. Causes vulnerability on foe and swiftness on allies. It gives you Life Force for each foe hit.,"Метните косу, отскакивающую между врагами и союзниками. Накладывает уязвимость на врага и быстроту на союзников. Даёт вам силу жизни за каждое попадание по врагу."
 Send out grasping claws to damage your enemies.,"Выпустите хватающие когти, чтобы нанести урон врагам."
 "Send the energy of Glint toward the target area, granting protection to allies before releasing a burst of energy that heals allies and granting protection again when it returns to you.","Направьте энергию Глинт в целевую область, давая протекцию союзникам перед высвобождением всплеска энергии, который исцеляет союзников и снова даёт протекцию, вернувшись к вам."
-"Seneca the Jailer and I took Forktail back from the Flame Legion. I had a tough decision to make: go with Vallus to disrupt the Flame Legion ritual threatening the Black Citadel brass, or lock Vallus up again and defend the tribunes and imperator personally. I made my choice, and now I have to make sure that no harm comes to the High Legions' leaders.","Мы с Сенекой Тюремщицей отбили Форктейла у Легиона Пламени. Мне предстоял непростой выбор: пойти с Валлусом, чтобы сорвать ритуал Легиона Пламени, угрожающий верхушке Чёрной Цитадели, или снова запереть Валлуса и лично защитить трибунов и императора. Я сделал выбор, и теперь должен проследить, чтобы с лидерами Высших Легионов ничего не случилось."
+"Seneca the Jailer and I took Forktail back from the Flame Legion. I had a tough decision to make: go with Vallus to disrupt the Flame Legion ritual threatening the Black Citadel brass, or lock Vallus up again and defend the tribunes and imperator personally. I made my choice, and now I have to make sure that no harm comes to the High Legions' leaders.","Мы с Сенекой Тюремщицей отбили Форктейла у Легиона Пламени. Мне предстоял непростой выбор: пойти с Валлусом, чтобы сорвать ритуал Легиона Пламени, угрожающий верхушке Black Citadel, или снова запереть Валлуса и лично защитить трибунов и императора. Я сделал выбор, и теперь должен проследить, чтобы с лидерами Высших Легионов ничего не случилось."
 Seneca the Relentless,Сенека Безжалостная
 Sentinel Scalefist,Страж Чешуйчатый Кулак
 Sentinel Scalemonger,Страж Чешуйчатый Торговец

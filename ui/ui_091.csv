@@ -6,8 +6,8 @@ Loot that drops will instantly enter your inventory without you interacting to l
 Loot the Chest of Grand Valdhertz Riches in the Valdhertz Crypts Minidungeon,Разграбьте сундук с богатствами Великого Вальдхерца в мини-подземелье Склепы Вальдхерца
 Loot the Chest of Grand Valdhertz Riches in the Valdhertz Crypts minidungeon in the Echovald Wilds.,Разграбьте сундук с богатствами Великого Вальдхерца в мини-подземелье Склепы Вальдхерца в Эховальдских Пустошах.
 Loot the Chest of Vasburg Riches in the Vasburg Armory Minidungeon,Разграбьте сундук с богатствами Васбурга в мини-подземелье Vasburg Armory
-Loot the Chest of Vasburg Riches in the Vasburg Armory minidungeon in the Echovald Wilds.,Разграбьте сундук с богатствами Васбурга в мини-подземелье Vasburg Armory в Эховальдских дебрях.
-Loot the Splendid Chest in Rebel's Seclusion in Fireheart Rise.,Разграбьте Splendid Chest в Убежище Мятежника на Возвышенности Огненного Сердца.
+Loot the Chest of Vasburg Riches in the Vasburg Armory minidungeon in the Echovald Wilds.,Разграбьте сундук с богатствами Васбурга в мини-подземелье Vasburg Armory в Echovald Wilds.
+Loot the Splendid Chest in Rebel's Seclusion in Fireheart Rise.,Разграбьте Splendid Chest в Убежище Мятежника на Fireheart Rise.
 "Loot this after killing the Thaumanova Anomaly in the Thaumanova Fractal, and use the Illuminator to capture its light.","Разграбьте это после убийства Аномалии Таумановы в Осколке Таумановы и используйте Осветитель, чтобы захватить её свет."
 Looted %num1%/%num2% Chests,Разграблено %num1%/%num2% сундуков
 Looted from Champion Captain Cork in Malchor's Leap.,Добыто с чемпиона капитана Корка в Прыжке Малхора.
@@ -50,18 +50,18 @@ Lormar's Rage,Ярость Лормара
 "Lornar's Bass[pl:""Bass""]",Басс Лорнара[ы|ые|ых]
 Lornar's Defender,Защитник Лорнара
 "Lornar's Pass is a string of narrow valleys that lead down from the Shiverpeaks in the north to the Sea of Sorrows in the south. Its deep valleys are the haunts of wild creatures, ancient ruins, and hidden places of power long concealed from prying eyes.","Lornar's Pass — это цепь узких долин, спускающихся от Дрожащих пиков на севере к Морю Скорби на юге. Его глубокие долины — пристанище диких существ, древних руин и скрытых мест силы, долгое время укрытых от посторонних глаз."
-Lornar's Pass Sunken Chest Looted,Затонувший сундук перевала Лорнара разграблен
-Lornar's Pass: Bouldermouth Vale,Перевал Лорнара: Долина Каменной Пасти
-Lornar's Pass: Chillwing Perch,Перевал Лорнара: Насест Холодного Крыла
-Lornar's Pass: Demon's Maw,Перевал Лорнара: Пасть Демона
-Lornar's Pass: Durmand Priory,Перевал Лорнара: Приорат Дурманда
-Lornar's Pass: False Lake,Перевал Лорнара: Ложное Озеро
-Lornar's Pass: False River Valley,Перевал Лорнара: Долина Ложной Реки
-Lornar's Pass: Frostgate Falls,Перевал Лорнара: Водопады Морозных Врат
-Lornar's Pass: Griffonrook Run,Перевал Лорнара: Бег Грифоньего Гнезда
-Lornar's Pass: Highfirn Passage,Перевал Лорнара: Проход Высокого Фирна
-Lornar's Pass: Icedevil's Needle,Перевал Лорнара: Игла Ледяного Дьявола
-Lornar's Pass: Jotun's Shoulders,Перевал Лорнара: Плечи Йотуна
+Lornar's Pass Sunken Chest Looted,Затонувший сундук Lornar's Pass разграблен
+Lornar's Pass: Bouldermouth Vale,Lornar's Pass: Долина Каменной Пасти
+Lornar's Pass: Chillwing Perch,Lornar's Pass: Насест Холодного Крыла
+Lornar's Pass: Demon's Maw,Lornar's Pass: Пасть Демона
+Lornar's Pass: Durmand Priory,Lornar's Pass: Приорат Дурманда
+Lornar's Pass: False Lake,Lornar's Pass: Ложное Озеро
+Lornar's Pass: False River Valley,Lornar's Pass: Долина Ложной Реки
+Lornar's Pass: Frostgate Falls,Lornar's Pass: Водопады Морозных Врат
+Lornar's Pass: Griffonrook Run,Lornar's Pass: Бег Грифоньего Гнезда
+Lornar's Pass: Highfirn Passage,Lornar's Pass: Проход Высокого Фирна
+Lornar's Pass: Icedevil's Needle,Lornar's Pass: Игла Ледяного Дьявола
+Lornar's Pass: Jotun's Shoulders,Lornar's Pass: Плечи Йотуна
 Lornar's Pass: Lake of Lamentation,Лорнарский перевал: Озеро Скорби
 Lornar's Pass: Lost Delver's Ridge,Лорнарский перевал: Гребень Потерянного Искателя
 Lornar's Pass: Mistriven Gorge,Лорнарский перевал: Ущелье Туманной Реки
@@ -405,8 +405,8 @@ Lunatic After-Action Report[s],[Отчёт|Отчёта|Отчётов] о де�
 "Lunatic Coat Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с лунатической курткой
 Lunatic Courtier Gear,Снаряжение безумного придворного
 Lunatic Courtiers,Безумные придворные
-"Lunatic Courtiers have been spotted in Queensdale, Kessex Hills, and Gendarran Fields. Lion's Arch has been experiencing severe paranormal disturbances.","Безумные придворные были замечены в Куинсдейле, Кессекс-Хиллз и Гендарранских полях. В Львиной Арке наблюдаются сильные паранормальные возмущения."
-"Lunatic Courtiers have been spotted in Queensdale, Kessex Hills, and Gendarran Fields. There is also a severe paranormal disturbance in the Grand Piazza.","Безумные придворные были замечены в Куинсдейле, Кессекс-Хиллз и Гендарранских полях. Также сильное паранормальное возмущение наблюдается на Большой площади."
+"Lunatic Courtiers have been spotted in Queensdale, Kessex Hills, and Gendarran Fields. Lion's Arch has been experiencing severe paranormal disturbances.","Безумные придворные были замечены в Куинсдейле, Кессекс-Хиллз и Gendarran Fields. В Львиной Арке наблюдаются сильные паранормальные возмущения."
+"Lunatic Courtiers have been spotted in Queensdale, Kessex Hills, and Gendarran Fields. There is also a severe paranormal disturbance in the Grand Piazza.","Безумные придворные были замечены в Куинсдейле, Кессекс-Хиллз и Gendarran Fields. Также сильное паранормальное возмущение наблюдается на Большой площади."
 "Lunatic Glove Box[pl:""Boxes""]",[Безумная перчаточная коробка|Безумные перчаточные коробки|Безумных перчаточных коробок]
 Lunatic Gossamer Insignia[s],[Инсигния|Инсигнии|Инсигний] паутины безумца
 Lunatic Guard Outfit[s],[Наряд|Наряда|Нарядов] стража безумца
