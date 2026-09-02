@@ -93,7 +93,7 @@ Crashing Waves,Сокрушительные волны
 Create a Seed Turret at targeted location which will attack nearby foes.,"Создайте турель-семя в целевой области, которая будет атаковать ближайших врагов."
 Create a bubble that blocks enemy missiles and grants resolution to allies.,"Создайте пузырь, который блокирует вражеские снаряды и даёт союзникам решимость."
 "Create a burst of energy, the effect of which changes based on the radiant weapon you have equipped.","Создайте всплеск энергии, эффект которого меняется в зависимости от экипированного сияющего оружия."
-Create a continually expanding field near you that applies chill and vulnerability to enemies and deals damage when it ends. Fire <c=@abilitytype>Crimson Tide</c> on each pulse at enemies within the maximum range.,"Создает постоянно расширяющееся поле возле вас, накладывающее на врагов холод и уязвимость и наносящее урон при завершении. Запускает <c=@abilitytype>Багровый прилив</c> при каждой пульсации по врагам в пределах максимальной дальности."
+Create a continually expanding field near you that applies chill and vulnerability to enemies and deals damage when it ends. Fire <c=@abilitytype>Crimson Tide</c> on each pulse at enemies within the maximum range.,"Создает постоянно расширяющееся поле возле вас, накладывающее на врагов холод и уязвимость и наносящее урон при завершении. Запускает <c=@abilitytype>Crimson Tide</c> при каждой пульсации по врагам в пределах максимальной дальности."
 Create a current at your location that immobilizes enemies entering it and grants superspeed to allies passing through it.,"Создать в своем местоположении течение, которое обездвиживает попавших в него противников и даёт сверхскорость союзникам, проплывшим через него."
 "Create a dark maelstrom that deals damage, inflicts vulnerability, and steals health. Reactivate this skill to inflict additional damage and conditions on all targets hit by the maelstrom.","Создайте тёмный водоворот, который наносит урон, накладывает уязвимость и крадет здоровье. Активируйте это умение повторно, чтобы нанести дополнительный урон и наложить состояния на все цели, пораженные водоворотом."
 Create a deadly holographic shockwave that launches foes upward. This attack always deals a critical hit.,"Создать смертоносную голографическую шоковую волну, которая отбрасывает противников. Эта атака всегда наносит критический урон."
@@ -322,7 +322,7 @@ Dark Slash,Тёмный удар
 Dark Spear,Тёмное копьё
 Dark Water,Тёмная вода
 Darkrazor's Daring,Дерзость Тёмного Лезвия
-"Dart at your foe and strike them with tremendous force, inflicting poison based on distance traveled. You constantly release <c=@abilitytype>Crimson Tide</c> toward your target as you travel.","Рывок к врагу и удар с огромной силой, накладывающий отравление в зависимости от пройденного расстояния. Вы постоянно выпускаете <c=@abilitytype>Багровый прилив</c> в сторону цели во время движения."
+"Dart at your foe and strike them with tremendous force, inflicting poison based on distance traveled. You constantly release <c=@abilitytype>Crimson Tide</c> toward your target as you travel.","Рывок к врагу и удар с огромной силой, накладывающий отравление в зависимости от пройденного расстояния. Вы постоянно выпускаете <c=@abilitytype>Crimson Tide</c> в сторону цели во время движения."
 "Dart at your foe, inflicting more bleeding based on the amount of time spent charging.","Рванитесь к противнику, накладывая кровотечение, сила которого зависит от времени зарядки."
 Dash,Рывок
 Dash Range,Дальность рывка

@@ -90,17 +90,17 @@ Bonus rewards with the Agony Channeler or Recursive Resourcing Mastery.","Два
 Contains a Pristine Fractal Relic, 2 +1 Agony Infusions
 Bonus rewards with the Agony Channeler or Recursive Resourcing mastery.","Дважды щёлкните, чтобы открыть.,
 Содержит Нетронутый фрактальный реликт, 2 инфузии агонии +1
-Бонусные награды с владением «Канал агонии» или «Рекурсивное снабжение»."
+Бонусные награды с владением «Канал агонии» или «Recursive Resourcing»."
 "Double-click to open.,
 Contains a Pristine Fractal Relic, a +1 Agony Infusion
 Bonus rewards with the Agony Channeler or Recursive Resourcing Mastery.","Дважды щёлкните, чтобы открыть.,
 Содержит нетронутый фрактальный реликт, +1 инфузия агонии
-Бонусные награды с мастерством «Канал агонии» или «Рекурсивное снабжение»."
+Бонусные награды с мастерством «Канал агонии» или «Recursive Resourcing»."
 "Double-click to open.,
 Contains a Pristine Fractal Relic, a +1 Agony Infusion
 Bonus rewards with the Agony Channeler or Recursive Resourcing mastery.","Дважды щёлкните, чтобы открыть.,
 Содержит нетронутую реликвию фрактала, +1 инфузию агонии
-Бонусные награды с мастерством «Канал агонии» или «Рекурсивное снабжение»."
+Бонусные награды с мастерством «Канал агонии» или «Recursive Resourcing»."
 "Double-click to open.,
 Contains a Pristine Fractal Relic, a +1 Agony Infusion
 Bonus rewards with the Agony Channeler or the Recursive Resourcing Mastery.","Дважды щёлкните, чтобы открыть.
@@ -110,7 +110,7 @@ Bonus rewards with the Agony Channeler or the Recursive Resourcing Mastery.","Д
 Contains a Pristine Fractal Relic, a +1 Agony Infusion
 Bonus rewards with the Agony Channeler or the Recursive Resourcing mastery.","Дважды щёлкните, чтобы открыть.,
 Содержит нетронутый фрактальный реликт, +1 инфузию агонии
-Дополнительные награды с Каналом агонии или мастерством «Рекурсивное снабжение»."
+Дополнительные награды с Каналом агонии или мастерством «Recursive Resourcing»."
 "Double-click to open.,
 Contains a choice of Charged Stormcaller recipes (dagger, pistol
 Double-click to open.","Дважды щёлкните, чтобы открыть.,
@@ -159,7 +159,7 @@ Purchase these recipes from renown merchants in Elona after learning the base re
 <c=@flavor>A pot so infused with energy,' it''s sure to germinate a more powerful seedling.</c>'","Дважды щёлкните, чтобы посадить возделанное семя в этот горшок.,
 <c=@flavor>Горшок, настолько пропитанный энергией, что обязательно прорастит более сильный саженец.</c>'"
 "Double-click to plant a Mysterious Seed in this pot.,
-<c=@flavor>Everything needed to germinate a very special seed is in this pot now.<c>","Дважды щёлкните, чтобы посадить Таинственное семя в этот горшок.,
+<c=@flavor>Everything needed to germinate a very special seed is in this pot now.<c>","Дважды щёлкните, чтобы посадить Mysterious Seed в этот горшок.,
 <c=@flavor>Всё необходимое для прорастания особенного семени уже в этом горшке.<c>"
 "Double-click to plant your Pet Seed in this pot.,
 <c=@flavor>A pot infused with the energy of the Mists.</c>","Дважды щёлкните, чтобы посадить семя питомца в этот горшок.,
@@ -242,7 +242,7 @@ Combine these three minis in the Mystic Forge with the Mini Mai Trin from the Bl
 Объедините эти три миниатюры в Mystic Forge с миниатюрой Mai Trin из Чёрного львиного сундука, чтобы создать миниатюру Алой Шиповницы."
 Earned by completing the Eternity's Garden Mastery achievement. Additional copies can be purchased from Visions of Eternity map vendors.,Заработано за завершение достижения «Мастерство Сада вечности». Дополнительные копии можно купить у торговцев на карте «Видения вечности».
 "Earned by completing the Starlit Weald Mastery achievement. 
-Additional copies can be purchased from Visions of Eternity vendors afterward.","Зарабатывается за выполнение достижения «Мастерство Звёздной рощи».
+Additional copies can be purchased from Visions of Eternity vendors afterward.","Зарабатывается за выполнение достижения «Starlit Weald Mastery».
 Дополнительные копии можно приобрести у торговцев «Видения вечности» после этого."
 Earned by fully exploring Eternity's Garden. Additional copies can be purchased from Visions of Eternity map vendors.,Заработано за полное исследование Сада вечности. Дополнительные копии можно купить у торговцев на карте «Видения вечности».
 Earned by fully exploring Shipwreck Strand. Additional copies can be purchased from Visions of Eternity map vendors.,Зарабатывается за полное исследование Кораблекрушенного берега. Дополнительные копии можно приобрести у торговцев карты «Видения вечности».
@@ -1191,7 +1191,7 @@ Obscure","Олава Скумасдоттир,
 <c=@Flavor>Этот предмет не требуется для завершения коллекции, и его можно выбросить.</c >"
 "One wrong move and this will crumble to pieces.,
 This item only has value as part of the Missing Brood collection.","Одно неверное движение — и это рассыплется на кусочки.,
-Этот предмет имеет ценность только как часть коллекции «Пропавший выводок»."
+Этот предмет имеет ценность только как часть коллекции «Missing Brood»."
 Only effective during April Fools.,Действует только в День дурака.
 "Open to choose a new weapon skin to unlock for your account.,
 <c=@Flavor>A gift from a friend, in hope that you will carry on our struggle.</c>","Откройте, чтобы выбрать новый облик оружия для разблокировки на вашей учётной записи.,
@@ -1220,7 +1220,7 @@ Purchase the recipe for this item from any Mystic Forge vendor and reach an armo
 "Purchase the recipe for this item from any Mystic Forge vendor and reach an armorsmith rating of 400 to craft.""","Приобретите рецепт этого предмета у любого торговца Мистической кузницы и достигните уровня кузнеца брони 400, чтобы создать его."
 Purchase the recipe for this item from any Mystic Forge vendor and reach an artificer rating of 400 to craft.,Рецепт этого предмета покупается у любого торговца Мистической кузницы; для изготовления нужен уровень артифактора 400.
 "Purchase these recipes from renown merchants in Elona after learning the base recipes from the story.""","Приобретите эти рецепты у известных торговцев в Элоне после изучения базовых рецептов из сюжета".""
-Purchased from Huntmaster Arnorr in Untamed Crags in Starlit Weald after completing the Starlit Weald Mastery achievement.,Покупается у Хантмастера Арнорра в Неукрощённых утёсах в Звёздной роще после выполнения достижения «Мастерство Звёздной рощи».
+Purchased from Huntmaster Arnorr in Untamed Crags in Starlit Weald after completing the Starlit Weald Mastery achievement.,Покупается у Хантмастера Арнорра в Неукрощённых утёсах в Звёздной роще после выполнения достижения «Starlit Weald Mastery».
 Purchased from Rojan the Penitent in Frostgorge Sound after successfully defeating the Claw of Jormag.,Покупается у Роджана Кающегося в Заливе Морозного Ущелья после успешного поражения Когтя Йормага.
 Purchased from Tyrian Alliance Representative Sharpwhisker in Glimmering Arches in Shipwreck Strand after completing the Shipwreck Strand Mastery achievement.,Покупается у представителя Тирийского альянса Остроуса в Мерцающих арках на Кораблекрушенном берегу после выполнения достижения «Мастерство Кораблекрушенного берега».
 "Purchased from Visions of Eternity renown heart vendors.""","Куплено у продавцов заданий сердца «Видения вечности»".""
@@ -1302,13 +1302,13 @@ Can only be used by characters who wear medium armor.","Облики не име
 Может использоваться только персонажами, носящими среднюю броню."
 "Smells good enough to eat.,
 This item only has value as part of the Missing Brood collection.","Пахнет так, что хочется съесть.,
-Этот предмет имеет ценность только как часть коллекции «Пропавший выводок»."
+Этот предмет имеет ценность только как часть коллекции «Missing Brood»."
 "Some kind of rare and unusual breed... No,' it''s just a stone that looks like a fish.'","Какая-то редкая и необычная порода... Нет, это просто камень, похожий на рыбу."
 Some of our rarest chests have gone mad! Getting this chest to open is going to be a journey.,Некоторые из наших редчайших сундуков сошли с ума! Заставить этот сундук открыться будет настоящим приключением.
 Someone in Sun's Refuge might be interested in this.,Кого-то в Солнечном Приюте это может заинтересовать.
 "Souvenir tooth taken from a ""Big lizard! Saurian!"",
 This item only has value as part of the Missing Brood collection.","Сувенирный зуб, взятый у «Большой ящерицы! Заврианина!»,
-Этот предмет имеет ценность только как часть коллекции «Пропавший выводок»."
+Этот предмет имеет ценность только как часть коллекции «Missing Brood»."
 Speak to a Black Lion Armor Trader at the trading post in any major city to exchange this item for an outfit wearable in combat.,"Поговорите с торговцом доспехами из Чёрного льва на торговом посту в любом крупном городе, чтобы обменять этот предмет на наряд, который можно носить в бою."
 Speak to a Black Lion Armor Trader in any major city to exchange this for a helmet skin with the same look.,"Поговорите с торговцем доспехами из Чёрного льва в любом крупном городе, чтобы обменять это на облик шлема с таким же внешним видом."
 Speak to a Black Lion Armor Trader to exchange this for a portable bundle item.,"Поговорите с торговцем доспехами из Чёрного льва, чтобы обменять это на переносной связной предмет."
@@ -1640,8 +1640,8 @@ This item has no value outside of a collection and may be sold to vendors.","Э�
 "This item is consumed immediately.""","Этот предмет потребляется сразу".""
 This item only has value as part of a collection and can be consumed without preventing progress.,Этот предмет имеет ценность только как часть коллекции и может быть потреблен без ущерба для прогресса.
 "This item only has value as part of a collection. Consume to add to collection.""","Этот предмет имеет ценность только как часть коллекции. Используйте, чтобы добавить в коллекцию".""
-This item only has value as part of the Missing Brood collection.,Этот предмет ценен лишь как часть коллекции «Пропавший выводок».
-"This item only has value as part of the Missing Brood collection.""",Этот предмет имеет ценность только как часть коллекции «Пропавший выводок».
+This item only has value as part of the Missing Brood collection.,Этот предмет ценен лишь как часть коллекции «Missing Brood».
+"This item only has value as part of the Missing Brood collection.""",Этот предмет имеет ценность только как часть коллекции «Missing Brood».
 "This item was gifted to you for taking the time to appreciate the culture of the Itzel.,
 This item is automatically consumed upon receiving it, and its only purpose is as part of a collection.","Этот предмет был подарен вам за то, что вы уделили время, чтобы оценить культуру ицель.,
 Этот предмет автоматически потребляется при получении, и его единственная цель — быть частью коллекции."
@@ -1842,8 +1842,8 @@ Replaces gathering results with logs used in higher-level crafting recipes. Mate
 "Used to craft the legendary dagger precursor Claw of Resolution.,
 Combine in the Mystic Forge with Mystic Runestones, a Gift of Metal
 Used to craft the legendary focus precursor Ars Goetia.","Используется для создания предшественника легендарного кинжала «Коготь Решимости».,
-Объедините в Мистической кузнице с Мистическими рунными камнями, Даром металла
-Используется для создания предшественника легендарного фокуса «Арс Гоэтия»."
+Объедините в Mystic Forge с Мистическими рунными камнями, Даром металла
+Используется для создания предшественника легендарного фокуса Ars Goetia."
 "Used to craft the legendary greatsword precursor Exitare.,
 Combine in the Mystic Forge with Mystic Runestones, a Gift of Metal
 Used to craft the legendary hammer precursor Might of Arah.","Используется для создания легендарного двуручного меча-предшественника Изитара.,

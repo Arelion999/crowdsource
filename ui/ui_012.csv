@@ -95,10 +95,10 @@ english,translate
 %str1%%str2%Scythe Staff%str3%%str4%,%str1%%str2%Посох-коса%str3%%str4%
 %str1%%str2%Seasatchel%str3%%str4%,%str1%%str2%Морская сумка%str3%%str4%
 %str1%%str2%Seasoned Wood Focus%str3%%str4%,%str1%%str2%Фокус из выдержанной древесины%str3%%str4%
-%str1%%str2%Seasoned Wood Harpoon Gun%str3%%str4%,%str1%%str2%Гарпунное ружьё из выдержанной древесины%str3%%str4%
+%str1%%str2%Seasoned Wood Harpoon Gun%str3%%str4%,%str1%%str2%Harpoon Gun из выдержанной древесины%str3%%str4%
 %str1%%str2%Seasoned Wood Longbow%str3%%str4%,%str1%%str2%Длинный лук из выдержанной древесины%str3%%str4%
 %str1%%str2%Seasoned Wood Scepter%str3%%str4%,%str1%%str2%Скипетр из выдержанной древесины%str3%%str4%
-%str1%%str2%Seasoned Wood Short Bow%str3%%str4%,%str1%%str2%Короткий лук из выдержанной древесины%str3%%str4%
+%str1%%str2%Seasoned Wood Short Bow%str3%%str4%,%str1%%str2%Short Bow из выдержанной древесины%str3%%str4%
 %str1%%str2%Seasoned Wood Staff%str3%%str4%,%str1%%str2%Посох из выдержанного дерева%str3%%str4%
 %str1%%str2%Seasoned Wood Torch%str3%%str4%,%str1%%str2%Факел из выдержанной древесины%str3%%str4%
 %str1%%str2%Seasoned Wood Trident%str3%%str4%,%str1%%str2%Выдержанный деревянный трезубец%str3%%str4%
@@ -162,7 +162,7 @@ english,translate
 %str1%%str2%Serpent's Wrath Rifle%str3%%str4%,%str1%%str2%Винтовка Гнева Змея%str3%%str4%
 %str1%%str2%Serpent's Wrath Scepter%str3%%str4%,%str1%%str2%Скипетр Гнева Змея%str3%%str4%
 %str1%%str2%Serpent's Wrath Shield%str3%%str4%,%str1%%str2%Щит Гнева Змея%str3%%str4%
-%str1%%str2%Serpent's Wrath Short Bow%str3%%str4%,%str1%%str2%Короткий лук Гнева Змея%str3%%str4%
+%str1%%str2%Serpent's Wrath Short Bow%str3%%str4%,%str1%%str2%Short Bow Гнева Змея%str3%%str4%
 %str1%%str2%Serpent's Wrath Spear%str3%%str4%,%str1%%str2%Копьё Гнева Змея%str3%%str4%
 %str1%%str2%Serpent's Wrath Staff%str3%%str4%,%str1%%str2%Посох Гнева Змея%str3%%str4%
 %str1%%str2%Serpent's Wrath Sword%str3%%str4%,%str1%%str2%Меч Гнева Змея%str3%%str4%
@@ -213,7 +213,7 @@ english,translate
 %str1%%str2%Sheepskin Shoes%str3%%str4%,%str1%%str2%Овчинные ботинки%str3%%str4%
 %str1%%str2%Shield of the Dragon's Deep%str3%%str4%,%str1%%str2%Щит драконьей бездны%str3%%str4%
 %str1%%str2%Shield of the Goddess%str3%%str4%,%str1%%str2%Щит Богини%str3%%str4%
-%str1%%str2%Shield of the Moon%str3%%str4%,%str1%%str2%Щит луны%str3%%str4%
+%str1%%str2%Shield of the Moon%str3%%str4%,%str1%%str2%Shield of the Moon%str3%%str4%
 %str1%%str2%Shield of the Wing%str3%%str4%,%str1%%str2%Щит крыла%str3%%str4%
 %str1%%str2%Shield%str3%%str4%,%str1%%str2%Щит%str3%%str4%
 %str1%%str2%Shimmering Axe%str3%%str4%,%str1%%str2%Мерцающий топор%str3%%str4%
@@ -269,10 +269,10 @@ english,translate
 %str1%%str2%Shiverstone%str3%%str4%,%str1%%str2%Шиверстоун%str3%%str4%
 %str1%%str2%Shocking Prod Spear%str3%%str4%,%str1%%str2%Шокирующее копьё-погонялка%str3%%str4%
 %str1%%str2%Shooshadoo%str3%%str4%,%str1%%str2%Шушаду%str3%%str4%
-%str1%%str2%Short Bow of the Broken Voice%str3%%str4%,%str1%%str2%Короткий лук Сломанного Голоса%str3%%str4%
-%str1%%str2%Short Bow of the Dragon's Deep%str3%%str4%,%str1%%str2%Короткий лук драконьей глубины%str3%%str4%
-%str1%%str2%Short Bow of the Scion%str3%%str4%,%str1%%str2%Короткий лук Наследника%str3%%str4%
-%str1%%str2%Short Bow of the Sunless%str3%%str4%,%str1%%str2%Короткий лук Безсолнечного%str3%%str4%
+%str1%%str2%Short Bow of the Broken Voice%str3%%str4%,%str1%%str2%Short Bow Сломанного Голоса%str3%%str4%
+%str1%%str2%Short Bow of the Dragon's Deep%str3%%str4%,%str1%%str2%Short Bow драконьей глубины%str3%%str4%
+%str1%%str2%Short Bow of the Scion%str3%%str4%,%str1%%str2%Short Bow Наследника%str3%%str4%
+%str1%%str2%Short Bow of the Sunless%str3%%str4%,%str1%%str2%Short Bow Безсолнечного%str3%%str4%
 %str1%%str2%Short Bow%str3%%str4%,%str1%%str2%Короткий лук%str3%%str4%
 %str1%%str2%Shoulder Scarf%str3%%str4%,%str1%%str2%Наплечный шарф%str3%%str4%
 %str1%%str2%Shoulderguards of Dhuum%str3%%str4%,%str1%%str2%Наплечные доспехи Дуума%str3%%str4%
@@ -426,10 +426,10 @@ english,translate
 %str1%%str2%Soaring Torch%str3%%str4%,%str1%%str2%Парящий факел%str3%%str4%
 %str1%%str2%Soaring Warhorn%str3%%str4%,%str1%%str2%Парящий боевой рог%str3%%str4%
 %str1%%str2%Soft Wood Focus%str3%%str4%,%str1%%str2%Фокус из мягкой древесины%str3%%str4%
-%str1%%str2%Soft Wood Harpoon Gun%str3%%str4%,%str1%%str2%Гарпунное ружьё из мягкой древесины%str3%%str4%
+%str1%%str2%Soft Wood Harpoon Gun%str3%%str4%,%str1%%str2%Harpoon Gun из мягкой древесины%str3%%str4%
 %str1%%str2%Soft Wood Longbow%str3%%str4%,%str1%%str2%Мягкодревесный длинный лук%str3%%str4%
 %str1%%str2%Soft Wood Scepter%str3%%str4%,%str1%%str2%Скипетр из мягкой древесины%str3%%str4%
-%str1%%str2%Soft Wood Short Bow%str3%%str4%,%str1%%str2%Короткий лук из мягкой древесины%str3%%str4%
+%str1%%str2%Soft Wood Short Bow%str3%%str4%,%str1%%str2%Short Bow из мягкой древесины%str3%%str4%
 %str1%%str2%Soft Wood Staff%str3%%str4%,%str1%%str2%Посох из мягкой древесины%str3%%str4%
 %str1%%str2%Soft Wood Torch%str3%%str4%,%str1%%str2%Мягкий деревянный факел%str3%%str4%
 %str1%%str2%Soft Wood Trident%str3%%str4%,%str1%%str2%Трезубец из мягкой древесины%str3%%str4%
@@ -450,7 +450,7 @@ english,translate
 %str1%%str2%Solar Astrolabe Sword%str3%%str4%,%str1%%str2%Солнечная астролябия: меч%str3%%str4%
 %str1%%str2%Solar Astrolabe Torch%str3%%str4%,%str1%%str2%Солнечная астролябия: факел%str3%%str4%
 %str1%%str2%Solar Astrolabe Warhorn%str3%%str4%,%str1%%str2%Солнечная астролябия: боевой рог%str3%%str4%
-%str1%%str2%Soldier's Wings of War%str3%%str4%,%str1%%str2%Крылья войны солдата%str3%%str4%
+%str1%%str2%Soldier's Wings of War%str3%%str4%,%str1%%str2%Soldier's Wings of War%str3%%str4%
 %str1%%str2%Song of the Numberless Pack%str3%%str4%,%str1%%str2%Песня бесчисленной стаи%str3%%str4%
 %str1%%str2%Song of the Temptress%str3%%str4%,%str1%%str2%Песнь Искусительницы%str3%%str4%
 %str1%%str2%Sorcerer's Coat%str3%%str4%,%str1%%str2%Куртка чародея%str3%%str4%

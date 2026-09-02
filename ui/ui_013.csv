@@ -187,7 +187,7 @@ english,translate
 %str1%%str2%Storm Wizard's Rifle%str3%%str4%,%str1%%str2%Винтовка Грозового Волшебника%str3%%str4%
 %str1%%str2%Storm Wizard's Scepter%str3%%str4%,%str1%%str2%Скипетр Грозового Волшебника%str3%%str4%
 %str1%%str2%Storm Wizard's Shield%str3%%str4%,%str1%%str2%Щит Грозового Волшебника%str3%%str4%
-%str1%%str2%Storm Wizard's Short Bow%str3%%str4%,%str1%%str2%Короткий лук Грозового Волшебника%str3%%str4%
+%str1%%str2%Storm Wizard's Short Bow%str3%%str4%,%str1%%str2%Short Bow Грозового Волшебника%str3%%str4%
 %str1%%str2%Storm Wizard's Staff%str3%%str4%,%str1%%str2%Посох Грозового Волшебника%str3%%str4%
 %str1%%str2%Storm Wizard's Sword%str3%%str4%,%str1%%str2%Меч Грозового Волшебника%str3%%str4%
 %str1%%str2%Storm Wizard's Torch%str3%%str4%,%str1%%str2%Факел Грозового Волшебника%str3%%str4%
@@ -204,7 +204,7 @@ english,translate
 %str1%%str2%Storm's Eye Rifle%str3%%str4%,%str1%%str2%Винтовка Штормового Ока%str3%%str4%
 %str1%%str2%Storm's Eye Scepter%str3%%str4%,%str1%%str2%Скипетр Буреока%str3%%str4%
 %str1%%str2%Storm's Eye Shield%str3%%str4%,%str1%%str2%Щит буреока%str3%%str4%
-%str1%%str2%Storm's Eye Short Bow%str3%%str4%,%str1%%str2%Короткий лук «Око бури»%str3%%str4%
+%str1%%str2%Storm's Eye Short Bow%str3%%str4%,%str1%%str2%Short Bow «Око бури»%str3%%str4%
 %str1%%str2%Storm's Eye Staff%str3%%str4%,%str1%%str2%Посох «Око бури»%str3%%str4%
 %str1%%str2%Storm's Eye Sword%str3%%str4%,%str1%%str2%Меч «Око бури»%str3%%str4%
 %str1%%str2%Storm's Eye Torch%str3%%str4%,%str1%%str2%Факел глаза бури%str3%%str4%
@@ -253,7 +253,7 @@ english,translate
 %str1%%str2%Strelitzia Crystallinum Rifle%str3%%str4%,%str1%%str2%Винтовка «Стрелиция кристаллинум»%str3%%str4%
 %str1%%str2%Strelitzia Crystallinum Scepter%str3%%str4%,%str1%%str2%Скипетр стрелиции кристаллинум%str3%%str4%
 %str1%%str2%Strelitzia Crystallinum Shield%str3%%str4%,%str1%%str2%Щит кристаллинума стрелиции%str3%%str4%
-%str1%%str2%Strelitzia Crystallinum Short Bow%str3%%str4%,%str1%%str2%Короткий лук «Стрелиция кристаллинум»%str3%%str4%
+%str1%%str2%Strelitzia Crystallinum Short Bow%str3%%str4%,%str1%%str2%Short Bow «Стрелиция кристаллинум»%str3%%str4%
 %str1%%str2%Strelitzia Crystallinum Spear%str3%%str4%,%str1%%str2%Копьё стрелиции кристаллинум%str3%%str4%
 %str1%%str2%Strelitzia Crystallinum Staff%str3%%str4%,%str1%%str2%Посох стрелиции кристаллинум%str3%%str4%
 %str1%%str2%Strelitzia Crystallinum Sword%str3%%str4%,%str1%%str2%Меч стрелиции кристаллинум%str3%%str4%
@@ -418,7 +418,7 @@ english,translate
 %str1%%str2%Tengu Echo Rifle%str3%%str4%,%str1%%str2%Винтовка «Эхо тенгу»%str3%%str4%
 %str1%%str2%Tengu Echo Scepter%str3%%str4%,%str1%%str2%Скипетр «Эхо тенгу»%str3%%str4%
 %str1%%str2%Tengu Echo Shield%str3%%str4%,%str1%%str2%Щит «Эхо тенгу»%str3%%str4%
-%str1%%str2%Tengu Echo Short Bow%str3%%str4%,%str1%%str2%Короткий лук «Эхо тенгу»%str3%%str4%
+%str1%%str2%Tengu Echo Short Bow%str3%%str4%,%str1%%str2%Short Bow «Эхо тенгу»%str3%%str4%
 %str1%%str2%Tengu Echo Staff%str3%%str4%,%str1%%str2%Посох «Эхо тенгу»%str3%%str4%
 %str1%%str2%Tengu Echo Sword%str3%%str4%,%str1%%str2%Меч «Эхо тенгу»%str3%%str4%
 %str1%%str2%Tengu Echo Torch%str3%%str4%,%str1%%str2%Факел «Эхо тенгу»%str3%%str4%
@@ -461,7 +461,7 @@ english,translate
 %str1%%str2%The Bard Experiment%str3%%str4%,%str1%%str2%Эксперимент барда%str3%%str4%
 %str1%%str2%The Bard%str3%%str4%,%str1%%str2%Бард%str3%%str4%
 %str1%%str2%The Bifrost%str3%%str4%,%str1%%str2%Бифрост%str3%%str4%
-%str1%%str2%The Binding of Ipos%str3%%str4%,%str1%%str2%Связывание Ипоса%str3%%str4%
+%str1%%str2%The Binding of Ipos%str3%%str4%,%str1%%str2%The Binding of Ipos%str3%%str4%
 %str1%%str2%The Briny Deep%str3%%str4%,%str1%%str2%Солёная глубина%str3%%str4%
 %str1%%str2%The Chosen Experiment%str3%%str4%,%str1%%str2%Избранный эксперимент%str3%%str4%
 %str1%%str2%The Chosen%str3%%str4%,%str1%%str2%Избранный%str3%%str4%

@@ -10,7 +10,7 @@ english,translate
 %str1%%str2%Abyssal Fractal Rifle%str3%%str4%,%str1%%str2%Винтовка Бездонного фрактала%str3%%str4%
 %str1%%str2%Abyssal Fractal Scepter%str3%%str4%,%str1%%str2%Скипетр Бездонного фрактала%str3%%str4%
 %str1%%str2%Abyssal Fractal Shield%str3%%str4%,%str1%%str2%Щит Бездонного фрактала%str3%%str4%
-%str1%%str2%Abyssal Fractal Short Bow%str3%%str4%,%str1%%str2%Короткий лук Бездонного фрактала%str3%%str4%
+%str1%%str2%Abyssal Fractal Short Bow%str3%%str4%,%str1%%str2%Short Bow Бездонного фрактала%str3%%str4%
 %str1%%str2%Abyssal Fractal Speargun%str3%%str4%,%str1%%str2%Гарпунное ружьё Бездонного фрактала%str3%%str4%
 %str1%%str2%Abyssal Fractal Staff%str3%%str4%,%str1%%str2%Посох Бездонного фрактала%str3%%str4%
 %str1%%str2%Abyssal Fractal Sword%str3%%str4%,%str1%%str2%Меч Бездонного фрактала%str3%%str4%
@@ -45,7 +45,7 @@ english,translate
 %str1%%str2%Adamant Guard Rifle%str3%%str4%,%str1%%str2%Винтовка Адамантовой Стражи%str3%%str4%
 %str1%%str2%Adamant Guard Scepter%str3%%str4%,%str1%%str2%Скипетр Адамантовой Стражи%str3%%str4%
 %str1%%str2%Adamant Guard Shield%str3%%str4%,%str1%%str2%Щит Адамантовой Стражи%str3%%str4%
-%str1%%str2%Adamant Guard Short Bow%str3%%str4%,%str1%%str2%Короткий лук Адамантовой Стражи%str3%%str4%
+%str1%%str2%Adamant Guard Short Bow%str3%%str4%,%str1%%str2%Short Bow Адамантовой Стражи%str3%%str4%
 %str1%%str2%Adamant Guard Spear%str3%%str4%,%str1%%str2%Копьё Адамантовой Стражи%str3%%str4%
 %str1%%str2%Adamant Guard Staff%str3%%str4%,%str1%%str2%Посох Адамантовой Стражи%str3%%str4%
 %str1%%str2%Adamant Guard Torch%str3%%str4%,%str1%%str2%Факел Адамантовой Стражи%str3%%str4%
@@ -123,7 +123,7 @@ english,translate
 %str1%%str2%Alabaster Spider's Rifle%str3%%str4%,%str1%%str2%Винтовка Алебастрового паука%str3%%str4%
 %str1%%str2%Alabaster Spider's Scepter%str3%%str4%,%str1%%str2%Скипетр Алебастрового паука%str3%%str4%
 %str1%%str2%Alabaster Spider's Shield%str3%%str4%,%str1%%str2%Щит Алебастрового паука%str3%%str4%
-%str1%%str2%Alabaster Spider's Short Bow%str3%%str4%,%str1%%str2%Короткий лук Алебастрового паука%str3%%str4%
+%str1%%str2%Alabaster Spider's Short Bow%str3%%str4%,%str1%%str2%Short Bow Алебастрового паука%str3%%str4%
 %str1%%str2%Alabaster Spider's Spear%str3%%str4%,%str1%%str2%Копьё Алебастрового паука%str3%%str4%
 %str1%%str2%Alabaster Spider's Staff%str3%%str4%,%str1%%str2%Посох Алебастрового паука%str3%%str4%
 %str1%%str2%Alabaster Spider's Sword%str3%%str4%,%str1%%str2%Меч Алебастрового паука%str3%%str4%
@@ -252,7 +252,7 @@ english,translate
 %str1%%str2%Ardent Glorious Legguards%str3%%str4%,%str1%%str2%Пылкие славные набедренники%str3%%str4%
 %str1%%str2%Ardent Glorious Legplates%str3%%str4%,%str1%%str2%Пылкие славные латные поножи%str3%%str4%
 %str1%%str2%Ardent Glorious Pauldrons%str3%%str4%,%str1%%str2%Пылкие славные наплечники%str3%%str4%
-%str1%%str2%Ardent Glorious Plate Helm%str3%%str4%,%str1%%str2%Пылкий славный латный шлем%str3%%str4%
+%str1%%str2%Ardent Glorious Plate Helm%str3%%str4%,%str1%%str2%Ardent Glorious Plate Helm%str3%%str4%
 %str1%%str2%Ardent Glorious Raiment%str3%%str4%,%str1%%str2%Пылкое славное одеяние%str3%%str4%
 %str1%%str2%Ardent Glorious Shinplates%str3%%str4%,%str1%%str2%Пылкие славные наголенники%str3%%str4%
 %str1%%str2%Ardent Glorious Shoulderguards%str3%%str4%,%str1%%str2%Пылкие славные оплечья%str3%%str4%
