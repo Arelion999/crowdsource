@@ -138,9 +138,9 @@ english,translate
 (Repeatable) Mount Balrior: Titanspawn Takedown,(Повторяемое) Гора Balrior: Устранение порождений титанов
 (Repeatable) Shipwreck Strand: Breezy Cay Renown Heart,(Повторяемое) Берег Кораблекрушений: Сердце репутации Ветреной бухты
 (Repeatable) Shipwreck Strand: Hullgarden Renown Heart,(Повторяемое) Берег Кораблекрушений: Сердце репутации Сада Корпусов
-(Repeatable) Starlit Weald: Foothold Bivouac Renown Heart,(Повторяемое) Звёздная чаща: Сердце репутации Бивуака Плацдарма
-(Repeatable) Starlit Weald: Priory Expedition Renown Heart,(Повторяемое) Звёздная чаща: Сердце репутации Экспедиции Приората
-(Repeatable) Starlit Weald: Untamed Crags Renown Heart,(Повторяемое) Звёздная чаща: Сердце репутации Диких скал
+(Repeatable) Starlit Weald: Foothold Bivouac Renown Heart,(Повторяемое) Starlit Weald: Сердце репутации Бивуака Плацдарма
+(Repeatable) Starlit Weald: Priory Expedition Renown Heart,(Повторяемое) Starlit Weald: Сердце репутации Экспедиции Приората
+(Repeatable) Starlit Weald: Untamed Crags Renown Heart,(Повторяемое) Starlit Weald: Сердце репутации Диких скал
 (Weekly) Camp Capturer,(Еженедельное) Захватчик лагерей
 (Weekly) Challenge Mode Convergences: Mount Balrior,(Еженедельное) Режим испытания Конвергенций: Гора Balrior
 (Weekly) Challenge Mode Convergences: Outer Nayos,(Еженедельное) Режим испытания Конвергенций: Внешний Nayos
@@ -254,7 +254,7 @@ Achievements related to PvP and activities.,"Достижения, связан�
 Achievements related to Strike Missions.,"Достижения, связанные с ударными операциями."
 Achievements related to ongoing events throughout Tyria.,"Достижения, связанные с текущими событиями по всей Тирии."
 Achievements related to raids.,"Достижения, связанные с рейдами."
-Achievements related to the Fractals of the Mists.,"Достижения, связанные с фракталами Туманов."
+Achievements related to the Fractals of the Mists.,"Достижения, связанные с Fractals of the Mists."
 Achievements related to the WvW game mode.,"Достижения, связанные с игровым режимом WvW."
 Achievements related to the current bonus event.,"Достижения, связанные с текущим бонусным событием."
 Achievements related to the story journal.,"Достижения, связанные с журналом сюжета."
@@ -303,8 +303,8 @@ Adventuring 202,Приключения 202
 Adventuring 203,Приключения 203
 Adventurous Spirit: Arena of the Wolverine,Дух приключений: Арена Росомахи
 Adventurous Spirit: Arena of the Wolverine (Weekly),Дух приключений: Арена Росомахи (еженедельно)
-Adventurous Spirit: Domain of Istan,Дух приключений: Владения Истан
-Adventurous Spirit: Domain of Istan (Weekly),Дух приключений: Владения Истан (еженедельно)
+Adventurous Spirit: Domain of Istan,Дух приключений: Domain of Istan
+Adventurous Spirit: Domain of Istan (Weekly),Дух приключений: Domain of Istan (еженедельно)
 Adventurous Spirit: Flight of the Eagle Spirit,Дух приключений: Полёт Духа Орла
 Adventurous Spirit: Flight of the Eagle Spirit (Weekly),Дух приключений: Полёт Духа Орла (еженедельно)
 Adventurous Spirit: Jade Bot,Дух приключений: Нефритовый бот
@@ -319,7 +319,7 @@ Adventurous Spirit: The Ox's Yoke (Weekly),Дух приключений: Ярм
 Adventurous Spirit: Thunderhead Peaks,Дух приключений: Пики Громовой головы
 Adventurous Spirit: Thunderhead Peaks (Weekly),Дух приключений: Пики Громовой головы (еженедельно)
 Aerialist,Воздушный акробат
-Aether Apprehender: Fractals of the Mists,Ловец эфирных: Фракталы Туманов
+Aether Apprehender: Fractals of the Mists,Ловец эфирных: Fractals of the Mists
 Aether Apprehender: Kryta,Ловец эфирных: Крайта
 Aether Apprehender: The Aetherblade Retreat,Ловец эфирных: Убежище Эфирных клинков
 Aether Apprehender: Tyria,Ловец эфирных: Тирия
