@@ -38,18 +38,18 @@ english,translate
 "Whiptail devourers are especially deadly ranged attackers, using poison and a volley of tail spikes to take down prey from a distance. —Acht","Хлыстохвосты — особенно опасные дальние атакующие, использующие яд и залп шипов хвоста, чтобы сразить добычу на расстоянии. —Ахт"
 Whisper,Шепот
 Whisper in the Dark,Шепот во тьме
-Whisper of Jormag (Public),Шепот Йормага (публичный)
+Whisper of Jormag (Public),Whisper of Jormag (Public)
 Whispers Agent bows to %str1%.,Whispers Agent кланяется %str1%.
 Whispers Agent salutes %str1%.,Агент Шепчущих отдает честь %str1%.
 Whispers Lightbringer cheers for %str1%.,Whispers Lightbringer приветствует %str1%.
-Whispers in the Dark,Шёпот во тьме
-Whispers of Vengeance,Шёпот мести
+Whispers in the Dark,Whispers in the Dark
+Whispers of Vengeance,Whispers of Vengeance
 Whistling Tranquility Cuckoo,Свистящая кукушка спокойствия
 White,Белый
 White Feather Wings Glider[s],[Планер|Планера|Планеров] «Крылья из белых перьев»
 White Gold,Белое золото
 White Mantle Glider,Планер «Белая Мантия»
-White Mantle Hideout,Убежище Белой Мантии
+White Mantle Hideout,White Mantle Hideout
 White Mantle Outfit,Костюм Белой Мантии
 White Tiger,Белый тигр
 White Tiger Outfit,Костюм белого тигра
@@ -80,24 +80,24 @@ Why? I don't understand.,Почему? Я не понимаю.
 Why? Why do you care?,Зачем? Почему тебя это волнует?
 Wild Castoran Magic,Дикая магия Касторана
 Wild Claws,Дикие когти
-Wild Growth,Дикий рост
+Wild Growth,Wild Growth
 Wild Magic Glider,Планер «Дикая магия»
 Wild Melodist,Дикий мелодист
-Wild Spirits,Дикие духи
+Wild Spirits,Wild Spirits
 Wild Trihorn,Дикий трехрог
 Wilderness Survival,Выживание в дикой природе
-Wildfire,Лесной пожар
+Wildfire,Wildfire
 "Will do. I'm going to talk to Taimi, then it'll be time to head out.","Договорились. Я поговорю с Taimi, а потом пора в путь."
 Will you be going with Marjory to the summit?,Ты поедешь с Marjory на саммит?
 Will you come back now? We can escort you.,Ты вернешься сейчас? Мы можем тебя сопроводить.
 Will you tell me about it?,Расскажешь мне об этом?
 Willbender,Укротитель
-Willing Captives,Добровольные пленники
+Willing Captives,Willing Captives
 Win 1 Game in Conquest Mode after Completing the Map's Secondary Objective,Выиграйте 1 игру в режиме «Захват» после выполнения второстепенной цели на карте
 Win 3 Structured Player vs. Player Rated Games,Выиграйте 3 рейтинговых PvP-матча
 Win 5 Games in Structured Player vs. Player,Выиграйте 5 игр в режиме «Player vs. Player»
 Wind Kite,Ветряной воздушный змей
-Windrock Maze,Лабиринт Ветроскалы
+Windrock Maze,Windrock Maze
 Windswept Mystic Canthan Raptor,Кантанский раптор ветреного мистика
 Windy Spot,Ветреное место
 Wine,Винный
@@ -115,7 +115,7 @@ Winter Ice,Зимний лед
 Winter Monarch Outfit,Костюм зимнего монарха
 Winter Sky,Зимнее небо
 Winter Solstice Outfit,Костюм зимнего солнцестояния
-Winter Wonderland,Зимняя сказка
+Winter Wonderland,Winter Wonderland
 Winter's Presence,Присутствие зимы
 Wintergreen,Зимняя зелень
 Wintermint,Зимняя мята
@@ -199,7 +199,7 @@ Withdraw funds from the small guild stash.,Забрать средства из 
 Withdraw items from the larger guild treasure trove.,Забрать предметы из большой гильдейской сокровищницы.
 Withdraw items from the small guild stash.,Забрать предметы из малого гильдейского хранилища.
 Withered Outpost,Увядший аванпост
-Within Your Grasp: Ritual Grounds,В твоих руках: Ритуальные земли
+Within Your Grasp: Ritual Grounds,Within Your Grasp: Ritual Grounds
 "Without hesitation, my new ""friends"" in the Astral Ward put me to work in this strange, millennia-spanning war against the Kryptis. I'm still adjusting to the revelation of this information (just as I'm fighting the urge to call in a fleet of airships and get the whole ordeal resolved). But...I'm choosing to trust the ward. For now, at least. Got a lot of new faces to track, and Zojja seems tense in my presence. We haven't spoken since her injuries in Maguuma—I didn't know she'd left the confines of Rata Sum since returning there to heal—but I expect that'll be a heavy conversation. Plus, I suppose it might complicate things if Logan were to fly up with a bunch of Pact or Seraph.","Без колебаний мои новые «друзья» из Astral Ward заставили меня работать в этой странной, длящейся тысячелетия войне против Криптисов. Я всё ещё привыкаю к этой информации (как раз борюсь с желанием вызвать флот дирижаблей и покончить со всем этим). Но... я решил довериться Пакту. По крайней мере, пока. Появилось много новых лиц, и Zojja кажется напряженной в моем присутствии. Мы не разговаривали с тех пор, как она получила травмы в Магууме — я не знал, что она покинула пределы Rata Sum с тех пор, как вернулась туда лечиться, — но я ожидаю, что это будет тяжёлый разговор. К тому же, полагаю, всё усложнится, если Logan прилетит с кучей солдат Пакта или Серафимов."
 Withstand the Kryptis Attack,Выдержать атаку криптисов
 Withstand the Kryptis attack!,Выдержи атаку Kryptis!
@@ -275,7 +275,7 @@ WvW Golden Dolyak Finisher,Добивание «Золотой дольяк WvW�
 WvW Silver Dolyak Finisher,Добивание «Серебряный дольяк WvW»
 WvW Skirmish Claim Ticket[s],Билет за стычки в WvW
 WvW Spring Tournament 2014,Весенний турнир WvW 2014
-Xunlai Jade Junkyard,Нефритовая свалка Сюнлай
+Xunlai Jade Junkyard,Xunlai Jade Junkyard
 Y'lan Academy,Академия И'лан
 Y-yes. Calibrating.,Д-да. Калибрую.
 Yasfahr bows to %str1%.,Yasfahr кланяется %str1%.
