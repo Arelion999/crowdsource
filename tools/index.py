@@ -86,6 +86,8 @@ def cmd_build(_args):
         CREATE TABLE term_hit(hash TEXT, term TEXT, bad TEXT);
         CREATE TABLE ctx(hash TEXT PRIMARY KEY, kind TEXT);
         CREATE TABLE batch(name TEXT PRIMARY KEY, human INT, note TEXT);
+        CREATE TABLE route_cat(hash TEXT PRIMARY KEY, cat TEXT);
+        CREATE INDEX i_route_cat ON route_cat(cat);
         CREATE TABLE geo(key TEXT, name TEXT, kind TEXT, map TEXT, region TEXT,
                         continent TEXT, x TEXT, y TEXT);
         CREATE INDEX i_geo_key ON geo(key);
@@ -123,7 +125,7 @@ def cmd_build(_args):
 
     nb = 0
     for fp in sorted(glob.glob(os.path.join(CROWD, "*", "*.csv"))):
-        rows = list(csv.reader(open(fp, encoding="utf-8")))
+        rows = D.read_csv(fp)          # newline="" обязателен, см. dict_tool.read_csv
         if not rows or rows[0][:1] != ["english"]:
             continue
         rel = os.path.relpath(fp, CROWD).replace("\\", "/")
@@ -135,6 +137,15 @@ def cmd_build(_args):
             places.append((hx(h), "батч", os.path.basename(fp), "%s:%d" % (rel, i)))
             nb += 1
     print("строк батчей: %d" % nb)
+
+    # Предписанная категория — из ROUTES.txt, а не «где лежит сейчас». Разница
+    # между route_cat и place(kind="категория") и есть работа, которую сделает
+    # ближайший `frombatches`.
+    import routes as R
+    rt = R.load()
+    db.executemany("INSERT OR REPLACE INTO route_cat VALUES (?,?)",
+                   [(hx(h), c) for h, c in rt.items()])
+    print("маршрутов (какой строке в какой категории лежать): %d" % len(rt))
 
     # Кто заполнял батч. Машинная подстановка из словаря и ручной перевод — не
     # одного веса: канон надо брать у человека, а машинный батч сам ждёт вычитки.

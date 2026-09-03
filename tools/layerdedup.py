@@ -82,7 +82,7 @@ def cmd_apply():
         if d in ("sync", "split", "pn"):
             continue
         try:
-            rows = list(csv.reader(open(fp, encoding="utf-8-sig")))
+            rows = D.read_csv(fp)
         except Exception:
             continue
         if not rows or rows[0][:1] != ["english"]:

@@ -44,7 +44,7 @@ def lists():
         cat = TARGET.get(label)
         if not cat:
             continue
-        for r in list(csv.reader(open(fp, encoding="utf-8-sig")))[1:]:
+        for r in D.read_csv(fp)[1:]:
             if r and r[0].strip():
                 out[D.fnv1a_u16(r[0])] = cat
     return out

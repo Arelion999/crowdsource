@@ -1095,7 +1095,7 @@ def iter_csv(paths):
 
 def read_batch(fp):
     """Строки батча или None, если это не батч (у служебных таблиц другие колонки)."""
-    rows = list(csv.reader(open(fp, encoding='utf-8')))
+    rows = list(csv.reader(open(fp, encoding='utf-8-sig', newline='')))
     if not rows or not rows[0] or rows[0][0].strip().lower() != 'english':
         return None
     return rows
@@ -1129,7 +1129,7 @@ def validate_paths(paths):
     LOWER_WORDS = build_case_model(iter_csv(paths))
     for fp in iter_csv(paths):
         try:
-            rows = list(csv.reader(open(fp, encoding='utf-8')))
+            rows = list(csv.reader(open(fp, encoding='utf-8-sig', newline='')))
         except Exception as e:
             errors.append((fp, 0, '', f"не читается: {e}")); continue
         # Батч — это CSV с заголовком «english,translate». Служебные таблицы

@@ -275,6 +275,30 @@ def name_layer():
     return _NAMES
 
 
+_LAYER_S = None
+
+
+def layer_strings():
+    """Английские строки, у которых русскую форму держит слой `pn_*`.
+
+    В отличие от `name_layer()` (отдельные слова) — строки целиком: по ним
+    видно, что английский в обычной категории поставлен НАМЕРЕННО.
+    """
+    global _LAYER_S
+    if _LAYER_S is None:
+        _LAYER_S = set()
+        try:
+            for name, es in read_sections(OUR_BIN):
+                if not name.partition("")[0].startswith("pn_"):
+                    continue
+                for _h, en, ru in es:
+                    if CYR.search(ru):
+                        _LAYER_S.add(en.strip())
+        except SystemExit:
+            pass
+    return _LAYER_S
+
+
 def stray_latin(ru, en=""):
     """Латиница, которую нельзя объяснить конвенциями проекта.
 
@@ -318,7 +342,11 @@ def defects(en, ru):
     elif ru.strip() == en.strip():
         # «Secrets of the Obscure» латиницей — канон, а не забытый перевод;
         # дефект только если это фраза, а не название.
-        if EN_FUNC.search(en) and len(en.split()) > 3:
+        # Строка, которую держит слой, обязана быть английской В ТЕКСТЕ: русскую
+        # форму подставляет `pn_*`, и без этого выключатель имён не работает
+        # (см. tools/layerdedup.py). Считать это «не переведено» — значит
+        # браковать 14 336 намеренно английских строк.
+        if en.strip() not in layer_strings()                 and EN_FUNC.search(en) and len(en.split()) > 3:
             d.append("не переведено")
     elif not CYR.search(ru):
         d.append("без кириллицы")
@@ -824,6 +852,19 @@ def _body(s):
     return s.strip()
 
 
+def read_csv(path):
+    """Прочитать батч. `newline=""` обязателен, и вот почему.
+
+    Без него режим универсальных переводов строк меняет «\r\n» на «\n» ВНУТРИ
+    закавыченного поля. English перестаёт совпадать с оригиналом из игры, хеш
+    считается от другой строки — и запись становится недостижимой: батч её не
+    находит, `frombatches` считает её сиротой, а перевод в игре не появляется
+    никогда. Так молча выпали 3 229 строк словаря и 818 строк живых батчей.
+    """
+    with open(path, encoding="utf-8-sig", newline="") as f:
+        return list(csv.reader(f))
+
+
 def batch_files(with_pn=False):
     """Файлы батчей. Слой имён (`pn/`) по умолчанию НЕ отдаём.
 
@@ -831,7 +872,13 @@ def batch_files(with_pn=False):
     не обычные переводы: у них своя категория в bin (`pn_names`, `pn_world_map`,
     `pn_terms`), и вливать их в «основной» нельзя. Кому нужен слой — просит явно.
     """
-    for fp in sorted(glob.glob(os.path.join(CROWD, "*", "*.csv"))):
+    # `orphans/` идёт ПОСЛЕДНЕЙ. Там лежит то, что достали из bin, а не перевод
+    # человека, и `human_pairs` берёт первое совпадение по english: встань эта
+    # папка раньше по алфавиту — значение из bin молча легло бы поверх свежего
+    # перевода из `zone/` или `ui/`.
+    files = sorted(glob.glob(os.path.join(CROWD, "*", "*.csv")))
+    files.sort(key=lambda f: "/orphans/" in f.replace("\\", "/"))
+    for fp in files:
         p = fp.replace("\\", "/")
         if ".batch_bak" in p or "/sync/" in p:
             continue
@@ -852,11 +899,10 @@ def human_pairs():
     out = {}
     for fp in batch_files():
         try:
-            with open(fp, encoding="utf-8-sig", newline="") as f:
-                for r in csv.reader(f):
-                    if len(r) >= 2 and r[0].strip() and r[1].strip() \
-                            and r[0].strip().lower() != "english":
-                        out.setdefault(r[0], r[1])
+            for r in read_csv(fp):
+                if len(r) >= 2 and r[0].strip() and r[1].strip() \
+                        and r[0].strip().lower() != "english":
+                    out.setdefault(r[0], r[1])
         except Exception:
             pass
     return out
@@ -952,100 +998,342 @@ def _linter_broken(en_cur, ru_cur, en_batch, ru_batch):
         not _validate.check_row(en_batch, ru_batch)[0]
 
 
-def cmd_frombatches(a):
-    """Батчи -> bin. Замена merge_back.py, который работал через CSV.
+# Разметку, плейсхолдеры и теги слой отрисовать не может: такие строки обязаны
+# остаться переведёнными в своей категории, даже если это название.
+LAYER_BLIND = re.compile(r"\[(?:s|pl:|f:|pf:|pm:)|%\w+%|<[^>]+>")
 
-    Заполняем то, чего в словаре нет, и заменяем наши строки там, где у нас
-    дефект, а батчевый перевод чист: батч прошёл линтер и вычитан человеком.
+
+def _bin_state():
+    """bin -> (порядок секций, {категория: {hash: (en, ru)}}).
+
+    Держим раскладку по категориям, а не {hash: ...}: одна и та же строка
+    физически лежит в нескольких секциях, и склеивать их по хешу нельзя —
+    именно из-за этого правка обычного батча годами уезжала в слой.
     """
-    # Сравниваем обычные батчи с копией из ОБЫЧНОЙ категории, а не через
-    # load_map: тот схлопывает хеш между категориями и для названия показал бы
-    # копию из слоя. Слой держит русскую форму, категория — английский оригинал,
-    # и сравнение с чужой копией давало вечные 5 713 «расхождений».
-    ours, known = {}, set()
-    for _name, _es in read_sections(OUR_BIN):
-        _pn = _name.partition("")[0].startswith("pn_")
-        for _h, _en, _ru in _es:
-            known.add(_h)
-            if not _pn:
-                ours.setdefault(_h, (_en, _ru, _name.partition("")[0]))
-    changes, added, pn_changes = {}, {}, {}
+    order, by = [], collections.OrderedDict()
+    for name, es in read_sections(OUR_BIN):
+        order.append(name)
+        cat = name.partition("\x1f")[0]
+        d = by.setdefault(cat, {})
+        for h, en, ru in es:
+            d[h] = (en, ru)
+    return order, by
+
+
+def cmd_frombatches(a):
+    """Батчи -> bin. Батчи — источник истины, bin — то, что из них собрано.
+
+    Батч решает три вещи, и все три раньше решал bin:
+
+    * ТЕКСТ — перевод берём из батча (`--batches-win`), а не только когда наш
+      сломан;
+    * МЕСТО — категорию даёт `ROUTES.txt` (см. tools/routes.py), а не «где эта
+      строка уже лежит». Пока место брали из bin, перенести строку в другую
+      группу отключения было нечем: правку некуда записать и нечем проверить в
+      PR, а новая строка всегда падала в «основной»;
+    * СУЩЕСТВОВАНИЕ — строка, которой в батчах нет, из bin удаляется
+      (`--prune`). Без этого удалить запись было невозможно в принципе:
+      вычеркнутая из батча строка оставалась в словаре навсегда.
+
+    Пустая ячейка перевода — это «ещё не переведено», а не «удалить»: такая
+    строка сохраняет то, что уже есть в bin. Удаляет только ОТСУТСТВИЕ строки.
+
+    Строку, забракованную гейтом `defects`, не выбрасываем: место ей меняем, а
+    текст оставляем прежний — иначе один сломанный батч стирал бы готовый
+    перевод. Список забракованных уходит в отчёт.
+    """
+    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+    import routes as _routes
+    route = _routes.load()
+    order, cur = _bin_state()
+    reg_cats = [c for c in cur if not c.startswith("pn_")]
+
+    # где строка лежит сейчас: {hash: [категории]} — отдельно обычные и слой
+    where, pn_where = collections.defaultdict(list), collections.defaultdict(list)
+    for c, d in cur.items():
+        tgt = pn_where if c.startswith("pn_") else where
+        for h in d:
+            tgt[h].append(c)
+
+    plan = {}                       # {hash: (категория, en, ru)} — обычные
+    pn_plan = {}                    # {hash: (слой, en, ru)}
     rejected = 0
     rej_rows, rej_kinds = [], collections.Counter()
 
-    # Слой имён: у него своя категория, и гейт про латиницу к нему неприменим —
-    # там половина записей это имя латиницей с русской подстановкой.
-    # Сверяем с САМОЙ секцией слоя, а не через load_map: тот схлопывает записи
-    # по хешу между категориями, и на месте записи слоя показал бы двойника из
-    # `maps` — правка ушла бы не туда.
-    pn_now = {}
-    for name, es in read_sections(OUR_BIN):
-        cat = name.partition("\x1f")[0]
-        if cat.startswith("pn_"):
-            for h, _en, ru in es:
-                pn_now[h] = (cat, ru)
-    pn_add, pn_chg = 0, 0
+    # --- слой имён: категорию даёт имя файла батча, это уже версионировано
     for fp in batch_files(with_pn=True):
         lay = pn_layer_of(fp)
         if not lay:
             continue
-        for r in list(csv.reader(open(fp, encoding="utf-8-sig")))[1:]:
+        for r in read_csv(fp)[1:]:
             if len(r) < 2 or not r[0].strip() or not r[1].strip():
+                if r and r[0].strip():
+                    h = fnv1a_u16(r[0])
+                    old = pn_where.get(h)
+                    if old:
+                        pn_plan[h] = (lay, r[0], cur[old[0]][h][1])
                 continue
-            h = fnv1a_u16(r[0])
-            if h not in pn_now:
-                added[h] = (r[0], r[1], lay)
-                pn_add += 1
-            elif pn_now[h][1].strip() != r[1].strip():
-                pn_changes[h] = r[1]
-                pn_chg += 1
-    if pn_add or pn_chg:
-        print("слой имён из батчей: добавить %d | поправить %d" % (pn_add, pn_chg))
+            pn_plan[fnv1a_u16(r[0])] = (lay, r[0], r[1])
 
+    # Строка, которую держит слой, обязана лежать в своей категории ПО-АНГЛИЙСКИ:
+    # русскую форму подставляет `pn_*`, и только так работает выключатель имён
+    # (tools/layerdedup.py снял так 76 182 дубля). Держим это правилом сборки, а
+    # не разовым скриптом: иначе следующий же перевод названия в батче вернёт
+    # дубль. Разметку слой не отрисует — такие строки остаются переведёнными.
+    pn_ru = {h: ru for h, (_c, _e, ru) in pn_plan.items() if CYR.search(ru)}
+    for h, cats in pn_where.items():
+        if h not in pn_ru and CYR.search(cur[cats[0]][h][1]):
+            pn_ru[h] = cur[cats[0]][h][1]
+    forced = 0
+
+    # --- обычные батчи
     for en, ru in human_pairs().items():
         h = fnv1a_u16(en)
-        # Гейт строгий (defects), а не мягкий линтер батчей: в словарь
-        # не должно попадать ничего с латиницей, битыми токенами или
-        # остатками [pl:. Отклонённые строки видно в отчёте — их правят
-        # в батче и вливают следующим прогоном.
+        tgt = route.get(h, "основной")
+        if h in pn_ru and not LAYER_BLIND.search(en) and ru.strip() != en.strip():
+            ru = en
+            forced += 1
+        old_cats = where.get(h, ())
+        old = None
+        if old_cats:
+            src = tgt if tgt in old_cats else old_cats[0]
+            old = cur[src][h][1]
+        # Гейт строгий (defects), а не мягкий линтер батчей: в словарь не
+        # должно попадать ничего с латиницей, битыми токенами или остатками
+        # [pl:. Забракованное видно в отчёте — правят в батче и вливают снова.
         d = defects(en, ru)
         if d:
             rejected += 1
             rej_kinds[",".join(d)] += 1
             rej_rows.append((",".join(d), en, ru))
+            if old is not None:
+                plan[h] = (tgt, en, old)        # место меняем, текст нет
             continue
-        cur = ours.get(h)
-        if cur is None:
-            # Запись есть только в слое — в «основной» её дописывать нельзя,
-            # получился бы дубль. Слой пополняется своими батчами из pn/.
-            if h in known:
-                continue
-            added[h] = (en, ru, "основной")
-        elif cur[1].strip() == ru.strip():
-            pass
-        elif a.batches_win:
-            # Штатный режим: батчи — источник истины, они версионируются, а bin
-            # собирается из них. Заменяем всегда, когда текст разный и батч
-            # прошёл гейт, а не только когда наша запись битая.
-            changes[h] = ru
-        elif defects(cur[0], cur[1]) or _linter_broken(cur[0], cur[1], en, ru):
-            changes[h] = ru
-    print("из батчей: добавить %d | заменить наши битые %d | отклонено гейтами %d"
-          % (len(added), len(changes), rejected))
+        if old is None or a.batches_win or old.strip() == ru.strip():
+            plan[h] = (tgt, en, ru if old is None or a.batches_win else old)
+        elif defects(en, old) or _linter_broken(en, old, en, ru):
+            plan[h] = (tgt, en, ru)
+        else:
+            plan[h] = (tgt, en, old)
+
+    # --- что это меняет
+    add = sum(1 for h in plan if h not in where)
+    chg = sum(1 for h, (c, _e, ru) in plan.items()
+              if h in where and cur[where[h][0] if c not in where[h] else c][h][1] != ru)
+    move = sum(1 for h, (c, _e, _r) in plan.items()
+               if h in where and (where[h] != [c]))
+    pn_add = sum(1 for h in pn_plan if h not in pn_where)
+    pn_chg = sum(1 for h, (c, _e, ru) in pn_plan.items()
+                 if h in pn_where and cur[pn_where[h][0]][h][1] != ru)
+    drop = [h for h in where if h not in plan]
+    pn_drop = [h for h in pn_where if h not in pn_plan]
+
+    print("из батчей: добавить %d | заменить %d | перенести в другую категорию %d"
+          % (add, chg, move))
+    print("слой имён: добавить %d | поправить %d" % (pn_add, pn_chg))
+    if forced:
+        print("в тексте оставлен английский, русскую форму держит слой: %d" % forced)
+    print("в bin, но ни в одном батче: обычных %d, слоя %d%s"
+          % (len(drop), len(pn_drop),
+             " — будут удалены" if a.prune else " (оставляем; удалить: --prune)"))
+    print("отклонено гейтами %d" % rejected)
     for k, n in rej_kinds.most_common(8):
         print("    отклонено — %-22s %5d" % (k, n))
-    if rej_rows:
-        out = os.path.join(CROWD, "sync", "reports", "batch_rejected.csv")
-        os.makedirs(os.path.dirname(out), exist_ok=True)
-        with open(out, "w", encoding="utf-8", newline="") as f:
-            w = csv.writer(f, lineterminator="\n")
-            w.writerow(["причина", "english", "перевод в батче"])
-            w.writerows(rej_rows)
-        print("    отчёт по отклонённым: %s" % os.path.relpath(out, ROOT))
-    if a.apply:
-        apply_changes(changes, added, "вливание батчей", pn_changes)
-    else:
+    _report("batch_rejected.csv", ["причина", "english", "перевод в батче"], rej_rows)
+    if drop or pn_drop:
+        rows = [(cur[where[h][0]][h][0], where[h][0], cur[where[h][0]][h][1])
+                for h in drop]
+        rows += [(cur[pn_where[h][0]][h][0], pn_where[h][0],
+                  cur[pn_where[h][0]][h][1]) for h in pn_drop]
+        _report("bin_orphans.csv", ["english", "категория", "перевод"], rows)
+
+    if not a.apply:
         print("(план; для записи --apply)")
+        return
+
+    # --- сборка: ровно одна копия строки на обычную категорию и одна на слой
+    out = collections.OrderedDict((n, []) for n in order)
+    short = {n.partition("\x1f")[0]: n for n in order}
+
+    def sec(cat):
+        if cat not in short:
+            if cat not in DICT_NAMES:
+                sys.exit("маршрут в неизвестную категорию: %s" % cat)
+            short[cat] = "%s\x1f%s" % (cat, DICT_NAMES[cat])
+            out[short[cat]] = []
+        return out[short[cat]]
+
+    for h, (cat, en, ru) in plan.items():
+        sec(cat).append((h, en, ru))
+    for h, (cat, en, ru) in pn_plan.items():
+        sec(cat).append((h, en, ru))
+    if not a.prune:
+        for h in drop:
+            c = where[h][0]
+            sec(c).append((h,) + cur[c][h])
+        for h in pn_drop:
+            c = pn_where[h][0]
+            sec(c).append((h,) + cur[c][h])
+
+    bak = backup(OUR_BIN)
+    ncat, total = write_bin(OUR_BIN, [(n, es) for n, es in out.items() if es])
+    print("записано: %d категорий, %d записей" % (ncat, total))
+    print("бэкап: %s" % os.path.relpath(bak, ROOT))
+
+
+def _report(name, head, rows):
+    if not rows:
+        return
+    out = os.path.join(CROWD, "sync", "reports", name)
+    os.makedirs(os.path.dirname(out), exist_ok=True)
+    with open(out, "w", encoding="utf-8", newline="") as f:
+        w = csv.writer(f, lineterminator="\n")
+        w.writerow(head)
+        w.writerows(rows)
+    print("    отчёт: %s (%d)" % (os.path.relpath(out, ROOT), len(rows)))
+
+
+ORPHDIR = os.path.join(CROWD, "orphans")
+PER_FILE = 500
+
+
+# Токены движка, которые какая-то давняя обработка вырезала из english.
+TOKEN_ANY = re.compile(r"%\w+%|<[^>]+>|\[\d+\]")
+
+
+def _orphan_split(regen=False):
+    """Записи bin вне батчей: (обычные, слой, безымянных, двойников).
+
+    Такие записи попали в словарь мимо батчей — вливанием чужого словаря,
+    командами `pnadd`/`pnharvest`, ранними переразметками. Пока они есть, bin
+    не выводится из репозитория: собери его с нуля — и они пропадут.
+    Безымянные (english пуст) не спасти: по пустому ключу мод строку не найдёт,
+    и в батч её не записать — такую строку только удалять.
+    """
+    seen, pn_seen = set(), set()
+    for fp in batch_files(with_pn=True):
+        parts = fp.replace(os.sep, "/").split("/")
+        if "split" in parts or (regen and "orphans" in parts):
+            # `orphans/` ведёт этот же инструмент. Для отчёта она обычный батч,
+            # а при пересборке (--export) её содержимое надо перевычислить с
+            # нуля, иначе прогон закрепит собственную прошлую ошибку.
+            continue
+        lay = pn_layer_of(fp)
+        try:
+            rows = read_csv(fp)
+        except Exception:
+            continue
+        for r in rows[1:]:
+            if r and r[0].strip():
+                (pn_seen if lay else seen).add(fnv1a_u16(r[0]))
+    # Мёртвый двойник — это ОБРАЗ живой строки, потерявший при какой-то давней
+    # обработке часть текста. Хеш считается от english, игра хеширует настоящий
+    # текст, и в такую запись не попадёт никогда. Заводить ей батч незачем: она
+    # не строка игры, а след ошибки. Знаем два способа потерять текст:
+    #   * CR+LF -> LF: чтение батча без newline="" (см. read_csv);
+    #   * вырезанный токен движка: «Acquire %num2% memories» -> «Acquire  memories».
+    live, lossy = set(), {}
+    for _name, es in read_sections(OUR_BIN):
+        for _h, en, _ru in es:
+            live.add(en)
+    for en in live:
+        f = TOKEN_ANY.sub("", en)
+        if f != en:
+            lossy.setdefault(f, en)
+    reg, pn = collections.defaultdict(list), collections.defaultdict(list)
+    blank, twin = 0, collections.Counter()
+    for name, es in read_sections(OUR_BIN):
+        c = name.partition("\x1f")[0]
+        lay = c.startswith("pn_")
+        for h, en, ru in es:
+            if h in (pn_seen if lay else seen):
+                continue
+            if not en.strip():
+                blank += 1
+                continue
+            # Двойник, порождённый чтением батча без newline="" (см. read_csv):
+            # у живой записи english с CR+LF, у мёртвой — тот же текст с одним
+            # LF. Игра хеширует настоящий текст и в мёртвую не попадёт никогда,
+            # заводить ей батч незачем — её надо снести.
+            cr = en.replace(chr(10), chr(13) + chr(10))
+            if (cr != en and cr in live) or en in lossy:
+                twin[c] += 1
+                continue
+            (pn if lay else reg)[c].append((en, ru))
+    return reg, pn, blank, twin
+
+
+def _write_series(folder, stem, rows, start):
+    """Разложить строки по нумерованным файлам батчей, как весь остальной корпус."""
+    os.makedirs(folder, exist_ok=True)
+    made, n = [], start
+    for i in range(0, len(rows), PER_FILE):
+        fp = os.path.join(folder, "%s_%03d.csv" % (stem, n))
+        with open(fp, "w", encoding="utf-8", newline="") as f:
+            w = csv.writer(f, lineterminator="\n")
+            w.writerow(["english", "translate"])
+            w.writerows(sorted(rows[i:i + PER_FILE]))
+        made.append(os.path.relpath(fp, CROWD))
+        n += 1
+    return made
+
+
+def _next_num(folder, stem):
+    n = 0
+    for fp in glob.glob(os.path.join(folder, "%s_*.csv" % stem)):
+        m = re.search(r"_(\d+)\.csv$", fp)
+        if m:
+            n = max(n, int(m.group(1)))
+    return n + 1
+
+
+def cmd_orphans(a):
+    """Записи bin, не покрытые батчами: показать и завести им батч.
+
+    Пока такая запись не лежит в батче, ею нельзя управлять: ни поправить в PR,
+    ни удалить — `frombatches --prune` сносит именно «нет строки в батче», и без
+    выгрузки снёс бы вместе с мусором 2 975 живых имён слоя.
+    """
+    reg, pn, blank, twin = _orphan_split(regen=a.export)
+    nreg = sum(len(v) for v in reg.values())
+    npn = sum(len(v) for v in pn.values())
+    print("вне батчей: обычных %d, слоя %d%s"
+          % (nreg, npn, " (пересчёт для выгрузки)" if a.export else ""))
+    print("мёртвых, батч им не нужен (только --prune): без english %d, "
+          "двойников живых строк %d" % (blank, sum(twin.values())))
+    if twin:
+        print("    %s" % ", ".join("%s %d" % kv for kv in twin.most_common(6)))
+    for c, v in sorted(reg.items(), key=lambda kv: -len(kv[1]))[:8]:
+        print("    %-26s %5d" % (c, len(v)))
+    for c, v in sorted(pn.items(), key=lambda kv: -len(kv[1])):
+        print("    %-26s %5d  (слой)" % (c, len(v)))
+    if not a.export:
+        print("(показ; чтобы завести батчи — --export)")
+        return
+    made = []
+    # Слой делит папку с людьми — продолжаем нумерацию. Папку `orphans/` ведёт
+    # только этот инструмент, поэтому пересобираем её с 001: иначе повторный
+    # прогон плодит копии, а одна и та же строка в двух батчах опасна —
+    # `human_pairs` берёт первый файл по алфавиту и молча кладёт значение из
+    # bin поверх свежего перевода человека.
+    for c, v in sorted(pn.items()):
+        made += _write_series(os.path.join(CROWD, "pn"), c, v,
+                              _next_num(os.path.join(CROWD, "pn"), c))
+    for c, v in sorted(reg.items()):
+        made += _write_series(ORPHDIR, c, v, 1)
+    print("заведено файлов батчей: %d" % len(made))
+    for f in made[:6]:
+        print("    %s" % f)
+    if len(made) > 6:
+        print("    ... и ещё %d" % (len(made) - 6))
+    stale = [f for f in sorted(glob.glob(os.path.join(ORPHDIR, "*.csv")))
+             if os.path.relpath(f, CROWD) not in made]
+    for f in stale:
+        with open(f, "w", encoding="utf-8", newline="") as fh:
+            csv.writer(fh, lineterminator=chr(10)).writerow(["english", "translate"])
+    if stale:
+        print("опустевшие файлы прошлого прогона (удалить): %s"
+              % ", ".join(os.path.relpath(f, CROWD) for f in stale))
 
 
 def cmd_canon(a):
@@ -1212,10 +1500,9 @@ def batch_english():
     out = set()
     for fp in batch_files():
         try:
-            with open(fp, encoding="utf-8-sig", newline="") as f:
-                for r in csv.reader(f):
-                    if r and r[0].strip() and r[0].strip().lower() != "english":
-                        out.add(r[0])
+            for r in read_csv(fp):
+                if r and r[0].strip() and r[0].strip().lower() != "english":
+                    out.add(r[0])
         except Exception:
             pass
     return out
@@ -2881,7 +3168,12 @@ def main():
     add("frombatches", "влить переводы батчей (замена merge_back)", cmd_frombatches,
         (("--batches-win",), {"action": "store_true",
                               "help": "батч всегда побеждает (штатный режим)"}),
+        (("--prune",), {"action": "store_true",
+                        "help": "удалить из bin то, чего нет ни в одном батче"}),
         (("--apply",), {"action": "store_true"}))
+    add("orphans", "записи bin вне батчей: показать / завести батч", cmd_orphans,
+        (("--export",), {"action": "store_true",
+                         "help": "выгрузить их в батчи, чтобы стали управляемы"}))
     add("canon", "привести к канону терминов", cmd_canon,
         (("--apply",), {"action": "store_true"}))
     add("typo", "русская типографика: ё, кавычки, знаки", cmd_typo,

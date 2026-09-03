@@ -107,7 +107,7 @@ def api_catalogue():
     for fp in sorted(glob.glob(os.path.join(CROWD, "sync", "api", "*.csv"))):
         if os.path.basename(fp) in skip:
             continue
-        for r in list(csv.reader(open(fp, encoding="utf-8-sig")))[1:]:
+        for r in D.read_csv(fp)[1:]:
             if len(r) >= 2 and r[0].strip():
                 cls = api_cls.get(r[1].strip())
                 if cls:
