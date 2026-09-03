@@ -6,7 +6,7 @@ Stew,Рагу
 Stew Pot,Кастрюля с тушеным мясом
 Steward Adamo,Управляющий Адамо
 Steward Bello,Управляющий Белло
-Steward Cecco,Управляющий Чекко
+Steward Cecco,Steward Cecco
 Steward Director,Директор службы поддержки
 Steward Drudo,Управляющий Друдо
 Steward Lanca,Управляющий Ланка
@@ -62,7 +62,7 @@ Stone Summit Cannoneer,Пушкарь Стоун-Саммит
 Stone Summit Demolitionist,Подрывник из Каменного пика
 Stone Summit Drake Rider,Всадник каменного пика
 Stone Summit Warder,Страж Каменного пика
-Stonecrafter Helena,Камнедел Елена
+Stonecrafter Helena,Stonecrafter Helena
 Stonefist Brawler,Боец-каменная кулачка
 Stonefist Crew • Frenzies,Каменная кулачная команда • Ярость
 Stonefist Cutthroat,Каменная хватка
@@ -292,7 +292,7 @@ Summoned imps remaining: %num1%,Осталось призванных бесов
 Summoner's Fate,Судьба призывателя
 Summons Allies • Buffs Allies,Призывает союзников • Усиливает союзников
 Summons Allies • Enhances Allies • Vulnerable When Chilled,Призывает союзников • Усиливает союзников • Становится уязвимой при заморозке
-Summons Allies • Has Scream Armor,"Призывает союзников • Обладает броней «Крик»"
+Summons Allies • Has Scream Armor,Призывает союзников • Обладает броней «Крик»
 Summons Allies • Torment • Weakness,Призывает союзников • Мучение • Слабость
 Summons Bursters • Enhances Allies • Applies Burning,Призывает взрывающихся существ • Усиливает союзников • Накладывает эффект горения
 Summons Conduits • Arcane Beams,Призывает проводники • Аркановые лучи
@@ -372,10 +372,10 @@ Supplies Destroyed,Припасы уничтожены
 Supplies Gathered,Собраны припасы.
 Supplies Stolen,Добыча украдена
 Supplies remaining: %num1%,Осталось припасов: %num1%
-Supply Assistant,Помощник по снабжению
-Supply Backpack,Рюкзак снабжения
-Supply Box,Коробка с припасами
-Supply Crate Build Location,Место для строительства ящика с припасами
-Supply Crates,Ящики с припасами
-Supply Golem,Снабжающий голем
-Supply Master Sootspitter,Мастер снабжения Сутспиттер
+Supply Assistant,Supply Assistant
+Supply Backpack,Supply Backpack
+Supply Box,Supply Box
+Supply Crate Build Location,Supply Crate Build Location
+Supply Crates,Supply Crates
+Supply Golem,Supply Golem
+Supply Master Sootspitter,Supply Master Sootspitter

@@ -21,7 +21,7 @@ Defeat 1 Legendary-rank enemy.,Победите 1 врага легендарн�
 Defeat 10 champion-rank enemies.,Победите 10 врагов ранга чемпиона.
 Defeat 25 enemy guards in World vs. World.,Победите 25 вражеских стражей в «World vs. World».
 Defeat 3 Enemy Invaders in World vs. World,Победите 3 вражеских захватчиков в «World vs. World»
-Defeat 3 enemy players in a structured PvP match.,Победите 3 вражеских игроков в структурированном матче PvP.
+Defeat 3 enemy players in a structured PvP match.,Defeat 3 enemy players in a structured PvP match.
 Defeat 4 world bosses.,Победите 4 мировых боссов.
 Defeat 50 veteran-rank enemies.,Победите 50 врагов ранга ветерана.
 Defeat Apprentice Scyllan.,Победите ученика Скиллана.
@@ -442,7 +442,7 @@ Deft Paw,Ловкая Лапа
 Defuse %num2% Dominion mines in the Northern Drizzlewood Coast.,Обезвредьте %num2% мин Доминиона на севере Моросистого побережья.
 Defused %num1%/%num2% Dominion Mines,Обезврежено %num1%/%num2% мин Доминиона
 Defused %num1%/%num2% Minefields,Обезврежено %num1%/%num2% минных полей
-Delilah,Делайла
+Delilah,Delilah
 Deliver %num1%/%num2% unit[s] of ley-line energy while piloting a siege turtle.,"Доставьте %num1%/%num2% [единицу|единицы|единиц] энергии лей-линий, управляя осадной черепахой."
 Deliver %num2% Kryptis essences to Zojja.,Доставьте %num2% эссенций криптисов Зойе.
 Deliver %num2% calibrated essence in Mount Balrior Convergences.,Доставьте %num2% калиброванной эссенции в Схождениях на горе Балриор.
@@ -496,6 +496,6 @@ Deployed repair golems are attempting to repair the Brand Stomper.,Развёр�
 Deploying projectiles!,Выпускаю снаряды!
 Deposited %num1%/%num2% Item[s],Сдано %num1%/%num2% [предмет|предмета|предметов]
 Deposited Materials %num1%/%num2% Time[s],Материалы сданы %num1%/%num2% [раз|раза|раз]
-Deputy Crackshot,Помощник шерифа Меткач
-Deputy Glaegi,Помощник шерифа Глейги
-Deputy Stroffnir,Помощник шерифа Строффнир
+Deputy Crackshot,Deputy Crackshot
+Deputy Glaegi,Deputy Glaegi
+Deputy Stroffnir,Deputy Stroffnir

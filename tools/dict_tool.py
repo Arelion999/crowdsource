@@ -207,15 +207,25 @@ def load_map(path):
     return out
 
 
-def save_map(sections, changes, added):
+def save_map(sections, changes, added, pn_changes=None):
     """Собрать секции обратно с учётом правок.
 
-    changes: {hash: новый русский} — меняем на месте, порядок сохраняем.
-    added:   {hash: (english, русский, категория)} — дописываем в свою категорию.
+    changes:    {hash: новый русский} — для ОБЫЧНЫХ категорий.
+    pn_changes: {hash: новый русский} — для секций слоя `pn_*`.
+    added:      {hash: (english, русский, категория)} — дописываем в свою категорию.
+
+    Почему два словаря. Одно и то же название живёт в двух местах: в своей
+    категории и в слое, и держать там оно обязано РАЗНОЕ — в категории
+    английский оригинал, в слое русскую форму (см. tools/layerdedup.py). Пока
+    правки были одним словарём по хешу, значение из обычного батча затирало
+    слой: 5 106 записей теряли русскую форму при каждом вливании, и это
+    приходилось чинить вручную после каждой очереди PR.
     """
+    pn_changes = pn_changes or {}
     by_cat = collections.OrderedDict()
     for name, es in sections:
-        by_cat[name] = [(h, en, changes.get(h, ru)) for h, en, ru in es]
+        src = pn_changes if name.partition("\x1f")[0].startswith("pn_") else changes
+        by_cat[name] = [(h, en, src.get(h, ru)) for h, en, ru in es]
     if added:
         short = {n.split("\x1f")[0]: n for n in by_cat}
         for h, (en, ru, cat) in added.items():
@@ -852,14 +862,14 @@ def human_pairs():
     return out
 
 
-def apply_changes(changes, added, what):
+def apply_changes(changes, added, what, pn_changes=None):
     """Записать правки в bin с бэкапом."""
-    if not changes and not added:
+    if not changes and not added and not pn_changes:
         print("нечего менять")
         return
     sections = read_sections(OUR_BIN)
     bak = backup(OUR_BIN)
-    ncat, total = write_bin(OUR_BIN, save_map(sections, changes, added))
+    ncat, total = write_bin(OUR_BIN, save_map(sections, changes, added, pn_changes))
     print("%s: изменено %d, добавлено %d | в bin %d категорий, %d записей"
           % (what, len(changes), len(added), ncat, total))
     print("бэкап: %s" % os.path.relpath(bak, ROOT))
@@ -948,8 +958,18 @@ def cmd_frombatches(a):
     Заполняем то, чего в словаре нет, и заменяем наши строки там, где у нас
     дефект, а батчевый перевод чист: батч прошёл линтер и вычитан человеком.
     """
-    ours = load_map(OUR_BIN)
-    changes, added = {}, {}
+    # Сравниваем обычные батчи с копией из ОБЫЧНОЙ категории, а не через
+    # load_map: тот схлопывает хеш между категориями и для названия показал бы
+    # копию из слоя. Слой держит русскую форму, категория — английский оригинал,
+    # и сравнение с чужой копией давало вечные 5 713 «расхождений».
+    ours, known = {}, set()
+    for _name, _es in read_sections(OUR_BIN):
+        _pn = _name.partition("")[0].startswith("pn_")
+        for _h, _en, _ru in _es:
+            known.add(_h)
+            if not _pn:
+                ours.setdefault(_h, (_en, _ru, _name.partition("")[0]))
+    changes, added, pn_changes = {}, {}, {}
     rejected = 0
     rej_rows, rej_kinds = [], collections.Counter()
 
@@ -977,7 +997,7 @@ def cmd_frombatches(a):
                 added[h] = (r[0], r[1], lay)
                 pn_add += 1
             elif pn_now[h][1].strip() != r[1].strip():
-                changes[h] = r[1]
+                pn_changes[h] = r[1]
                 pn_chg += 1
     if pn_add or pn_chg:
         print("слой имён из батчей: добавить %d | поправить %d" % (pn_add, pn_chg))
@@ -996,6 +1016,10 @@ def cmd_frombatches(a):
             continue
         cur = ours.get(h)
         if cur is None:
+            # Запись есть только в слое — в «основной» её дописывать нельзя,
+            # получился бы дубль. Слой пополняется своими батчами из pn/.
+            if h in known:
+                continue
             added[h] = (en, ru, "основной")
         elif cur[1].strip() == ru.strip():
             pass
@@ -1019,7 +1043,7 @@ def cmd_frombatches(a):
             w.writerows(rej_rows)
         print("    отчёт по отклонённым: %s" % os.path.relpath(out, ROOT))
     if a.apply:
-        apply_changes(changes, added, "вливание батчей")
+        apply_changes(changes, added, "вливание батчей", pn_changes)
     else:
         print("(план; для записи --apply)")
 
@@ -2680,7 +2704,9 @@ def cmd_pnset(a):
     for en, was, now in ex:
         print("  %-34s %r -> %r" % (en[:34], was[:40], now[:40]))
     if a.apply:
-        apply_changes(changes, added, "слой имён")
+        # pnset/pnadd правят СЛОЙ, поэтому правки идут по каналу слоя:
+        # иначе save_map применил бы их к обычным категориям, а слой оставил как был.
+        apply_changes({}, added, "слой имён", changes)
     else:
         print("(для записи --apply)")
 

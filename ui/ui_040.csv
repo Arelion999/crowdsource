@@ -98,21 +98,21 @@ Cast Line,Леска
 Cast Vote for %str1%,Отдать голос за %str1%
 "Cast your fishing rod, releasing your line and bobber into the water.","Забрасывает удочку, отпуская леску и поплавок в воду."
 Castavall Corner,Угол Каставалла
-Castaway Agnes,Агнес-изгой
-Castaway Alta,Альта-изгой
-Castaway Clio,Клио-изгнанница
-Castaway Crushbrine,Крашбрайн-изгой
-Castaway Nat,Нэт-изгой
+Castaway Agnes,Castaway Agnes
+Castaway Alta,Castaway Alta
+Castaway Clio,Castaway Clio
+Castaway Crushbrine,Castaway Crushbrine
+Castaway Nat,Castaway Nat
 Castaway Resource[s],[Ресурс|Ресурса|Ресурсов] изгоя
-Castaway Supply Crate,Ящик припасов изгоя
-Castaway Ursulette,Урсулетта-изгой
+Castaway Supply Crate,Castaway Supply Crate
+Castaway Ursulette,Castaway Ursulette
 "Casters and archivists alike worship the iridescent glow that the Bifrost emits. Although the source of its magic is unknown, its luminous aura may hint of realms bygone—tucked away in the Mists.","И маги, и архивариусы поклоняются переливчатому сиянию, которое излучает Бифрёст. Хотя источник его магии неизвестен, его светящаяся аура может намекать на ушедшие миры, скрытые в Туманах."
 Casting and Voice Production,Озвучивание и постановка голоса
 Castle - %num1% Points,Замок - %num1% очков
 Castle Improvement,Улучшение замка
 Castle Tactic,Тактика замка
 Castor Crushpaw,Кастор Крушпэу
-Castor Shoutsman,Кастор Крикун
+Castor Shoutsman,Castor Shoutsman
 Castora Cache[s],[Тайник|Тайника|Тайников] Касторы
 Castora Fishing Reward[s],[Награда|Награды|Наград] за рыбалку Касторы
 Castora: Hero's Choice Chest[s],Кастора: Сундук[|а|ов] героического выбора
@@ -120,7 +120,7 @@ Castora: Hero's Choice Chest[s],Кастора: Сундук[|а|ов] геро�
 "Castoran Bicorn[pl:""Bicorn""]",Бикорн Касторана
 Castoran Cache[s] of Riches,Касторанский сундук[|а|ов] богатств
 "Castoran Choya Treasure Box[pl:""Boxes""]",Коробка с сокровищами Касторана Чои[|а|ы]
-Castoran Coral,Коралл Касторы
+Castoran Coral,Castoran Coral
 Castoran Curse-Breaker,Касторан Разрушитель Проклятий
 Castoran Entomology Research,Исследование энтомологии Касторы
 "Castoran Freebooter Treasure Box[pl:""Boxes""]",Коробка с сокровищами Касторана Свободного Корсара
@@ -128,7 +128,7 @@ Castoran Freshwater Fish,Пресноводная рыба Касторана
 "Castoran Gear Box[pl:""Boxes""]",[Коробка с шестерёнками Касторана|Коробки с шестерёнками Касторана|Коробок с шестерёнками Касторана]
 "Castoran Gnarled Boar Treasure Box[pl:""Boxes""]","Коробка с сокровищами Касторана, наполненный кореньями и щетиной"
 "Castoran Inquest Treasure Box[pl:""Boxes""]",[Коробка с сокровищами Касторана|Коробки с сокровищами Касторана|Коробок с сокровищами Касторана]
-Castoran King Crab,Королевский краб Касторана
+Castoran King Crab,Castoran King Crab
 Castoran Magic Sample,Образец магии Касторана
 "Castoran Milkfish[pl:""Milkfish""]",Касторанский молочный окунь[|а|и]
 Castoran Offshore Fish,Морская рыба Касторана
@@ -373,7 +373,7 @@ Central forces are prepared.,Центральные силы готовы.
 "Central Plaza, Divinity's Reach","Центральная площадь, Убежище Божественности"
 Central Pylon Vulnerable,Центральный пилон уязвим
 Central Spire,Центральный шпиль
-Central Tyria,Центральная Тайрия
+Central Tyria,Central Tyria
 Central Tyria Waypoint Unlock Cache[s],[Сундук открытия путевой точки Центральной Тирии|Сундука открытия путевой точки Центральной Тирии|Сундуков открытия путевой точки Центральной Тирии]
 Central Tyria Waypoint Unlock Package,Центральная Тайрия Набор для разблокировки путевых точек
 Central Tyrian and Maguuma Ascended Artificer Weapons,Центрально-тирийское и Магуумское вознесённое оружейное дело (артефакты)
@@ -419,13 +419,13 @@ Central<br>Ladders,Центральные<br>Лестницы
 Centralized location to find other players who want to explore the world of Tyria.,"Централизованное место для поиска других игроков, желающих исследовать мир Тирии."
 Centrifugal Force,Центробежная сила
 Centripetal Assault,Центростремительный штурм
-Centurion Truthbringer,Центурион Правдоносец
+Centurion Truthbringer,Centurion Truthbringer
 Centurion Truthbringer salutes your efforts against the Flame Legion.,Centurion Truthbringer приветствует ваши усилия против Flame Legion.
 Centurion's Enthusiasm,Энтузиазм центуриона
 "Centurion,Even as far away as the Black Citadel, the drums of your victory are sounding. You reclaimed a fortress from the dragon—and more, used your might to force the Orders into a pact of alliance. Bravely done. At home, we fare less well. Interrogated captives from the Flame Legion report that their Imperator, Gaheron Baelfire, is building a mighty weapon in the fire-mountains north of Ascalon. They do not know its nature, but say that when he is done, Gaheron will be powerful enough to rival even the human gods. Whatever this weapon may be, if it is so powerful, it could be used to destroy Zhaitan and Orr. Once I have more information, I will head into the Flame Legion lands and seize it for the High Legions. No matter the cost.There are rumors of Zojja and Eir. Zojja hunts another of Snaff's apprentices, someone named 'Kudu,' at a southern Inquest base. More asura planning to blow up the world, I assume. If that snippet Zojja is involved...they just might manage it. Be strong, fight bravely, and I will contact you when I know more.—Rytlock","Центурион,Даже в далёкой Black Citadel слышны барабаны вашей победы. Вы отбили крепость у дракона — и более того, использовали свою силу, чтобы принудить Ордена к союзу. Храбро сделано. Дома у нас дела идут хуже. Допрошенные пленники из Flame Legion сообщают, что их Император, Гахерон Баэлфайр, строит могучее оружие в огненных горах к северу от Аскалона. Они не знают его природы, но говорят, что когда он закончит, Гахерон станет достаточно силён, чтобы соперничать даже с человеческими богами. Чем бы ни было это оружие, если оно так могущественно, его можно использовать для уничтожения Зайтана и Орра. Как только у меня будет больше информации, я отправлюсь в земли Flame Legion и захвачу его для Высших Легионов. Любой ценой.Ходят слухи о Зойе и Эйр. Зойя охотится за ещё одним учеником Снаффа, кем-то по имени 'Куду', на южной базе Инквеста. Ещё один асура, планирующий взорвать мир, полагаю. Если эта кроха Зойя замешана... они вполне могут это сделать. Будьте сильны, сражайтесь храбро, и я свяжусь с вами, когда узнаю больше.—Ритлок"
 Centurions Claw[s],Когот[ь|я|ей] центуриона
 Ceramic Planter[s],Керамический [горшок|горшка|горшков]
-Cerberus Scalecatcher,Цербер Чешуелов
+Cerberus Scalecatcher,Cerberus Scalecatcher
 Cerburus' Enhanced Incubator,Улучшенный инкубатор Цербера
 Cereboth's Darkness,Тьма Церебота
 Ceremonial Bulwark Skin[s],[Облик|Облика|Обликов] церемониального бастиона
@@ -449,7 +449,7 @@ Ceremonial Warhorn Skin[s],[Облик|Облика|Обликов] церемо
 Ceremonial Winged Axe Skin[s],[Облик|Облика|Обликов] церемониального крылатого топора
 Ceremony of Passing,Церемония прощания
 Cern is grateful for your help.,Церн благодарен за вашу помощь.
-Cerosi Breaksteel,Церози Ломатель Стали
+Cerosi Breaksteel,Cerosi Breaksteel
 Certain goop piles are poisonous.,Некоторые кучи слизи ядовиты.
 "Certain utility skills affect can affect how you move or give you new options for crossing the area.If you're having trouble with the sniper, consider experimenting!","Некоторые навыки утилит могут влиять на ваше передвижение или давать новые возможности для пересечения местности. Если у вас возникли проблемы со снайпером, попробуйте поэкспериментировать!"
 Certificate[s] of Honor,[Сертификат|Сертификата|Сертификатов] чести
@@ -470,7 +470,7 @@ Chad's Test Map,Тестовая карта Чада
 "Chag, Led into Darkness","Чаг, ведомый во тьму"
 Chain Lightning Damage,Урон от цепной молнии
 "Chain Pickerel[pl:""Pickerel""]",Цепной Потычок[к|ка|ков]
-Chain Pull,Цепной рывок
+Chain Pull,Chain Pull
 Chain Reaction Might,Цепная реакция: Могущество
 Chain Reaction Protection,Цепная реакция: Защита
 Chain Reaction Resolution,Цепная реакция: Решимость

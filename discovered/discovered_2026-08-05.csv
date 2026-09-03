@@ -1442,7 +1442,7 @@ Deal increased strike damage with active upkeep skills.<br><c=@reminder>Herald a
 Recharge steal and inflict a pulmonary impact when you interrupt an enemy.<br><c=@reminder>This trait can only affect enemies with defiance bars once per interval.</c>,"Восстанавливайте навык кражи и наносите удар по лёгким, когда прерываете действия противника.<br><c=@reminder>Эта черта может воздействовать на врагов с полосками сопротивления не чаще одного раза за интервал.</c>"
 Enemies struck by Time Sink are affixed with a time bomb. Time bombs increase your strike damage dealt to the target and explode when they expire.<br><c=@reminder>Only a certain number of time bombs may be active at once.</c>,"Враги, пораженные умением «Искажение времени», получают временную бомбу. Временные бомбы увеличивают урон от ваших атак по цели и взрываются после истечения срока действия.<br><c=@reminder>Одновременно может быть активным только определенное количество временных бомб.</c>"
 "Blinding, immobilizing, or affecting a foe with crowd control heals nearby allies.<br><c=@reminder>Skills that strike many foes at the same time can heal multiple times.</c>","Ослепление, обездвиживание или применение контроля над противником восстанавливает здоровье ближайшим союзникам. <br><c=@reminder>Навыки, поражающие нескольких врагов одновременно, могут несколько раз восстановить здоровье.</c>"
-<c=@abilitytype>Venom</c> utility skills siphon life from struck foes. Gain stacks of Spider Venom when you enter or exit stealth.<br><c=@reminder>Siphoning can only occur once per strike.</c>,"<c=@abilitytype>Яд</c>: умения этой категории вытягивают жизненную силу из поражённых врагов. При входе или выходе из режима невидимости получайте стаки «Яда паука».<br><c=@reminder>Эффект вытягивания жизненной силы может применяться только один раз за удар.</c>"
+<c=@abilitytype>Venom</c> utility skills siphon life from struck foes. Gain stacks of Spider Venom when you enter or exit stealth.<br><c=@reminder>Siphoning can only occur once per strike.</c>,<c=@abilitytype>Яд</c>: умения этой категории вытягивают жизненную силу из поражённых врагов. При входе или выходе из режима невидимости получайте стаки «Яда паука».<br><c=@reminder>Эффект вытягивания жизненной силы может применяться только один раз за удар.</c>
 "Disabling a foe slows them.<br><c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c><br><c=@reminder>This trait can only affect the same enemy with once per interval.</c>","Оглушение противника замедляет его.<br><c=@reminder>К оглушению относятся: оглушение, ошеломление, отталкивание, притягивание, нокдаун, погружение, всплытие, отбрасывание, провокация и страх.</c><br><c=@reminder>Этот эффект может применяться к одной и той же цели не чаще одного раза за интервал времени.</c>"
 "<c=@flavor>WARNING: Some fractals may cause injury, psychic trauma, blindness, or death.</c>","<c=@flavor>Внимание: некоторые фракталы могут привести к травмам, психическим расстройствам, слепоте или смерти.</c>"
 "Find others to help you explore Starlit Weald.
@@ -1700,7 +1700,7 @@ Centaurs inbound! Man your positions. They're going to try and take back the cam
 Centaurs incoming from Southforge! Watch your flanks!,"Внимание, кентавры приближаются с Южной Кузницы! Остерегайтесь флангов!"
 Hold the lines! We took these camps fair and square!,Держите позиции! Мы захватили эти лагеря честным путем!
 Sound the retreat! Fall back and regroup at Bridgewatch. The centaurs have won.,Отступаем! Перегруппируемся у Бриджуоча. Кентавры победили.
-Modniir Warleader,Военачальник Моднир
+Modniir Warleader,Modniir Warleader
 "+5 Toughness
 +2 Precision","+5 к живучести
 +2 точности"
@@ -3430,7 +3430,7 @@ Red Team is tracking your movement.,Красная команда отслежи
 Surprise Attack,Внезапная атака
 Deploy your trap.,Установите свою ловушку.
 Gravel Shot,Гравийный залп
-Supply Explosion Trap,Ловушка взрывного снабжения
+Supply Explosion Trap,Supply Explosion Trap
 Plant the banner in the ground with such force that you knock down enemies and grant stability and protection to allies.,"Водрузите знамя в землю с такой силой, чтобы отбросить врагов и даровать союзникам устойчивость и защиту."
 Fire grapeshot to bleed foes,"Выпустите огненный град, чтобы вызвать кровотечение у врагов."
 Deploy your shield generator.,Активируйте генератор щита.
@@ -3659,7 +3659,7 @@ Aetheric Resonator,Эфирный резонатор
 +20%% Шанс найти магические предметы
 +20%% Шанс получить больше золота
 +10%% Получаемый опыт за выполнение заданий"
-Scholar Loren,Учёный Лорен
+Scholar Loren,Scholar Loren
 "Copies conditions from source.
 Steals boons from target.","Копирует состояния из источника.
 Крадет благословения у цели."
@@ -3786,7 +3786,7 @@ I cannot divulge my sources to you.,Я не могу раскрывать сво
 ((267285)),((267285))
 I spoke with Syska in the field hospital. She seemed entirely normal.,Я поговорил с Сиской в полевом госпитале. Она казалась совершенно нормальной.
 Intro LC,Вступление к испытанию
-Pact Caravan Leader,Глава каравана Пакт
+Pact Caravan Leader,Pact Caravan Leader
 Well of Lament,Колодец скорби
 "Throw a signalling grenade that calls down an artillery barrage, damaging foes.","Бросьте сигнальную гранату, чтобы вызвать артиллерийский обстрел, который нанесет урон врагам."
 Chill Radius,Радиус заморозки
