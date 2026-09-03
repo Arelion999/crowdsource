@@ -43,8 +43,8 @@ english,translate
 %str1%%str2%Scavenged Obsidian Sword%str3%%str4%,%str1%%str2%Меч из обсидиана%str3%%str4%
 %str1%%str2%Scavenged Obsidian Torch%str3%%str4%,%str1%%str2%Добытый обсидиановый факел%str3%%str4%
 %str1%%str2%Scavenged Obsidian Warhorn%str3%%str4%,%str1%%str2%Боевой рог из добытого обсидиана%str3%%str4%
-%str1%%str2%Scepter of the Dragon's Deep%str3%%str4%,%str1%%str2%Скипетр глубин дракона%str3%%str4%
-%str1%%str2%Scepter of the Highborn%str3%%str4%,%str1%%str2%Скипетр Высокорожденного%str3%%str4%
+%str1%%str2%Scepter of the Dragon's Deep%str3%%str4%,%str1%%str2%Scepter of the Dragon's Deep%str3%%str4%
+%str1%%str2%Scepter of the Highborn%str3%%str4%,%str1%%str2%Scepter of the Highborn%str3%%str4%
 %str1%%str2%Scepter%str3%%str4%,%str1%%str2%Скипетр%str3%%str4%
 %str1%%str2%Schooner%str3%%str4%,%str1%%str2%Шхуна%str3%%str4%
 %str1%%str2%Scientific Axe%str3%%str4%,%str1%%str2%Научный топор%str3%%str4%
@@ -185,7 +185,7 @@ english,translate
 %str1%%str2%Shadow Sword%str3%%str4%,%str1%%str2%Меч чаков%str3%%str4%
 %str1%%str2%Shako of Dhuum%str3%%str4%,%str1%%str2%Шако Дуума%str3%%str4%
 %str1%%str2%Shaman's Vision%str3%%str4%,%str1%%str2%Видение шамана%str3%%str4%
-%str1%%str2%Shard of the Deep%str3%%str4%,%str1%%str2%Осколок Глубин%str3%%str4%
+%str1%%str2%Shard of the Deep%str3%%str4%,%str1%%str2%Shard of the Deep%str3%%str4%
 %str1%%str2%Shark's Tooth Axe%str3%%str4%,%str1%%str2%Топор из акульего зуба%str3%%str4%
 %str1%%str2%Shark's Tooth Sword%str3%%str4%,%str1%%str2%Меч из акульего зуба%str3%%str4%
 %str1%%str2%Sharkbait%str3%%str4%,%str1%%str2%Акулья приманка%str3%%str4%
@@ -336,7 +336,7 @@ english,translate
 %str1%%str2%Slumbering Lightborne Rifle%str3%%str4%,%str1%%str2%Дремлющая светоносная винтовка%str3%%str4%
 %str1%%str2%Slumbering Lightborne Scepter%str3%%str4%,%str1%%str2%Дремлющий светоносный скипетр%str3%%str4%
 %str1%%str2%Slumbering Lightborne Shield%str3%%str4%,%str1%%str2%Дремлющий светоносный щит%str3%%str4%
-%str1%%str2%Slumbering Lightborne Short Bow%str3%%str4%,%str1%%str2%Дремлющий светоносный короткий лук%str3%%str4%
+%str1%%str2%Slumbering Lightborne Short Bow%str3%%str4%,%str1%%str2%Slumbering Lightborne Short Bow%str3%%str4%
 %str1%%str2%Slumbering Lightborne Spear%str3%%str4%,%str1%%str2%Дремлющее светоносное копьё%str3%%str4%
 %str1%%str2%Slumbering Lightborne Staff%str3%%str4%,%str1%%str2%Дремлющий светоносный посох%str3%%str4%
 %str1%%str2%Slumbering Lightborne Sword%str3%%str4%,%str1%%str2%Дремлющий светоносный меч%str3%%str4%
@@ -351,16 +351,16 @@ english,translate
 %str1%%str2%Slumbering Mistforged Obsidian Greatsword%str3%%str4%,%str1%%str2%Дремлющий туманный обсидиановый двуручный меч%str3%%str4%
 %str1%%str2%Slumbering Mistforged Obsidian Hammer%str3%%str4%,%str1%%str2%Дремлющий туманный обсидиановый молот%str3%%str4%
 %str1%%str2%Slumbering Mistforged Obsidian Longbow%str3%%str4%,%str1%%str2%Дремлющий туманный обсидиановый длинный лук%str3%%str4%
-%str1%%str2%Slumbering Mistforged Obsidian Mace%str3%%str4%,%str1%%str2%Дремлющая туманнокованая обсидиановая булава%str3%%str4%
-%str1%%str2%Slumbering Mistforged Obsidian Pistol%str3%%str4%,%str1%%str2%Дремлющий туманнокованый обсидиановый пистолет%str3%%str4%
-%str1%%str2%Slumbering Mistforged Obsidian Rifle%str3%%str4%,%str1%%str2%Дремлющая туманнокованая обсидиановая винтовка%str3%%str4%
-%str1%%str2%Slumbering Mistforged Obsidian Scepter%str3%%str4%,%str1%%str2%Дремлющий туманнокованый обсидиановый скипетр%str3%%str4%
-%str1%%str2%Slumbering Mistforged Obsidian Shield%str3%%str4%,%str1%%str2%Дремлющий туманнокованый обсидиановый щит%str3%%str4%
-%str1%%str2%Slumbering Mistforged Obsidian Short Bow%str3%%str4%,%str1%%str2%Дремлющий туманнокованый обсидиановый короткий лук%str3%%str4%
-%str1%%str2%Slumbering Mistforged Obsidian Staff%str3%%str4%,%str1%%str2%Дремлющий туманнокованый обсидиановый посох%str3%%str4%
-%str1%%str2%Slumbering Mistforged Obsidian Sword%str3%%str4%,%str1%%str2%Дремлющий туманнокованый обсидиановый меч%str3%%str4%
-%str1%%str2%Slumbering Mistforged Obsidian Torch%str3%%str4%,%str1%%str2%Дремлющий туманнокованый обсидиановый факел%str3%%str4%
-%str1%%str2%Slumbering Mistforged Obsidian Warhorn%str3%%str4%,%str1%%str2%Дремлющий туманнокованый обсидиановый боевой рог%str3%%str4%
+%str1%%str2%Slumbering Mistforged Obsidian Mace%str3%%str4%,%str1%%str2%Slumbering Mistforged Obsidian Mace%str3%%str4%
+%str1%%str2%Slumbering Mistforged Obsidian Pistol%str3%%str4%,%str1%%str2%Slumbering Mistforged Obsidian Pistol%str3%%str4%
+%str1%%str2%Slumbering Mistforged Obsidian Rifle%str3%%str4%,%str1%%str2%Slumbering Mistforged Obsidian Rifle%str3%%str4%
+%str1%%str2%Slumbering Mistforged Obsidian Scepter%str3%%str4%,%str1%%str2%Slumbering Mistforged Obsidian Scepter%str3%%str4%
+%str1%%str2%Slumbering Mistforged Obsidian Shield%str3%%str4%,%str1%%str2%Slumbering Mistforged Obsidian Shield%str3%%str4%
+%str1%%str2%Slumbering Mistforged Obsidian Short Bow%str3%%str4%,%str1%%str2%Slumbering Mistforged Obsidian Short Bow%str3%%str4%
+%str1%%str2%Slumbering Mistforged Obsidian Staff%str3%%str4%,%str1%%str2%Slumbering Mistforged Obsidian Staff%str3%%str4%
+%str1%%str2%Slumbering Mistforged Obsidian Sword%str3%%str4%,%str1%%str2%Slumbering Mistforged Obsidian Sword%str3%%str4%
+%str1%%str2%Slumbering Mistforged Obsidian Torch%str3%%str4%,%str1%%str2%Slumbering Mistforged Obsidian Torch%str3%%str4%
+%str1%%str2%Slumbering Mistforged Obsidian Warhorn%str3%%str4%,%str1%%str2%Slumbering Mistforged Obsidian Warhorn%str3%%str4%
 %str1%%str2%Slumbering Obsidian Axe%str3%%str4%,%str1%%str2%Дремлющий обсидиановый топор%str3%%str4%
 %str1%%str2%Slumbering Obsidian Dagger%str3%%str4%,%str1%%str2%Дремлющий обсидиановый кинжал%str3%%str4%
 %str1%%str2%Slumbering Obsidian Focus%str3%%str4%,%str1%%str2%Дремлющий обсидиановый фокус%str3%%str4%
@@ -372,12 +372,12 @@ english,translate
 %str1%%str2%Slumbering Obsidian Rifle%str3%%str4%,%str1%%str2%Дремлющая обсидиановая винтовка%str3%%str4%
 %str1%%str2%Slumbering Obsidian Scepter%str3%%str4%,%str1%%str2%Дремлющий обсидиановый скипетр%str3%%str4%
 %str1%%str2%Slumbering Obsidian Shield%str3%%str4%,%str1%%str2%Дремлющий обсидиановый щит%str3%%str4%
-%str1%%str2%Slumbering Obsidian Short Bow%str3%%str4%,%str1%%str2%Дремлющий обсидиановый короткий лук%str3%%str4%
+%str1%%str2%Slumbering Obsidian Short Bow%str3%%str4%,%str1%%str2%Slumbering Obsidian Short Bow%str3%%str4%
 %str1%%str2%Slumbering Obsidian Staff%str3%%str4%,%str1%%str2%Дремлющий обсидиановый посох%str3%%str4%
 %str1%%str2%Slumbering Obsidian Sword%str3%%str4%,%str1%%str2%Дремлющий обсидиановый меч%str3%%str4%
 %str1%%str2%Slumbering Obsidian Torch%str3%%str4%,%str1%%str2%Дремлющий обсидиановый факел%str3%%str4%
 %str1%%str2%Slumbering Obsidian Warhorn%str3%%str4%,%str1%%str2%Дремлющий обсидиановый боевой рог%str3%%str4%
-%str1%%str2%Slumbering Suffused Obsidian Heavy Breastplate%str3%%str4%,%str1%%str2%Дремлющий насыщенный обсидиановый тяжёлый нагрудник%str3%%str4%
+%str1%%str2%Slumbering Suffused Obsidian Heavy Breastplate%str3%%str4%,%str1%%str2%Дремлющий Suffused Obsidian Heavy Breastplate%str3%%str4%
 %str1%%str2%Slumbering Suffused Obsidian Heavy Cuisses%str3%%str4%,%str1%%str2%Дремлющие насыщенные обсидиановые тяжёлые набедренники%str3%%str4%
 %str1%%str2%Slumbering Suffused Obsidian Heavy Gauntlets%str3%%str4%,%str1%%str2%Дремлющие насыщенные обсидиановые тяжёлые рукавицы%str3%%str4%
 %str1%%str2%Slumbering Suffused Obsidian Heavy Greaves%str3%%str4%,%str1%%str2%Дремлющие насыщенные обсидиановые тяжёлые наголенники%str3%%str4%
@@ -385,7 +385,7 @@ english,translate
 %str1%%str2%Slumbering Suffused Obsidian Heavy Pauldrons%str3%%str4%,%str1%%str2%Дремлющие насыщенные обсидиановые тяжёлые наплечники%str3%%str4%
 %str1%%str2%Slumbering Suffused Obsidian Light Crown%str3%%str4%,%str1%%str2%Дремлющая насыщенная обсидиановая лёгкая корона%str3%%str4%
 %str1%%str2%Slumbering Suffused Obsidian Light Gloves%str3%%str4%,%str1%%str2%Дремлющие насыщенные обсидиановые лёгкие перчатки%str3%%str4%
-%str1%%str2%Slumbering Suffused Obsidian Light Mantle%str3%%str4%,%str1%%str2%Дремлющая насыщенная обсидиановая лёгкая мантия%str3%%str4%
+%str1%%str2%Slumbering Suffused Obsidian Light Mantle%str3%%str4%,%str1%%str2%Дремлющая насыщенная Obsidian Light Mantle%str3%%str4%
 %str1%%str2%Slumbering Suffused Obsidian Light Pants%str3%%str4%,%str1%%str2%Дремлющие пропитанные обсидианом лёгкие штаны%str3%%str4%
 %str1%%str2%Slumbering Suffused Obsidian Light Regalia%str3%%str4%,%str1%%str2%Дремлющие пропитанные обсидианом лёгкие регалии%str3%%str4%
 %str1%%str2%Slumbering Suffused Obsidian Light Shoes%str3%%str4%,%str1%%str2%Дремлющие пропитанные обсидианом лёгкие туфли%str3%%str4%
@@ -452,7 +452,7 @@ english,translate
 %str1%%str2%Solar Astrolabe Warhorn%str3%%str4%,%str1%%str2%Солнечная астролябия: боевой рог%str3%%str4%
 %str1%%str2%Soldier's Wings of War%str3%%str4%,%str1%%str2%Soldier's Wings of War%str3%%str4%
 %str1%%str2%Song of the Numberless Pack%str3%%str4%,%str1%%str2%Песня бесчисленной стаи%str3%%str4%
-%str1%%str2%Song of the Temptress%str3%%str4%,%str1%%str2%Песнь Искусительницы%str3%%str4%
+%str1%%str2%Song of the Temptress%str3%%str4%,%str1%%str2%Song of the Temptress%str3%%str4%
 %str1%%str2%Sorcerer's Coat%str3%%str4%,%str1%%str2%Куртка чародея%str3%%str4%
 %str1%%str2%Sorcerer's Epaulets%str3%%str4%,%str1%%str2%Эполеты колдуна%str3%%str4%
 %str1%%str2%Sorcerer's Livery%str3%%str4%,%str1%%str2%Одеяние колдуна%str3%%str4%

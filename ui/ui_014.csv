@@ -125,7 +125,7 @@ english,translate
 %str1%%str2%Trapper Helm%str3%%str4%,%str1%%str2%Шлем зверолова%str3%%str4%
 %str1%%str2%Trapper Leggings%str3%%str4%,%str1%%str2%Поножи зверолова%str3%%str4%
 %str1%%str2%Trapper Shoulders%str3%%str4%,%str1%%str2%Наплечники зверолова%str3%%str4%
-%str1%%str2%Trappings of the Lich%str3%%str4%,%str1%%str2%Убранство лича%str3%%str4%
+%str1%%str2%Trappings of the Lich%str3%%str4%,%str1%%str2%Trappings of the Lich%str3%%str4%
 %str1%%str2%Tribal Axe%str3%%str4%,%str1%%str2%Племенной топор%str3%%str4%
 %str1%%str2%Tribal Bident%str3%%str4%,%str1%%str2%Племенной бидент%str3%%str4%
 %str1%%str2%Tribal Bow%str3%%str4%,%str1%%str2%Племенной лук%str3%%str4%
@@ -206,12 +206,12 @@ english,translate
 %str1%%str2%True Sight Light Leggings%str3%%str4%,%str1%%str2%Лёгкие поножи истинного зрения%str3%%str4%
 %str1%%str2%True Sight Light Mask%str3%%str4%,%str1%%str2%Маска истинного зрения%str3%%str4%
 %str1%%str2%True Sight Light Shoulders%str3%%str4%,%str1%%str2%Наплечники света истинного зрения%str3%%str4%
-%str1%%str2%True Sight Medium Boots%str3%%str4%,%str1%%str2%Средние сапоги истинного зрения%str3%%str4%
+%str1%%str2%True Sight Medium Boots%str3%%str4%,%str1%%str2%True Sight Medium Boots%str3%%str4%
 %str1%%str2%True Sight Medium Coat%str3%%str4%,%str1%%str2%Куртка Истинного взгляда (средняя)%str3%%str4%
-%str1%%str2%True Sight Medium Gloves%str3%%str4%,%str1%%str2%Средние перчатки истинного зрения%str3%%str4%
-%str1%%str2%True Sight Medium Leggings%str3%%str4%,%str1%%str2%Средние поножи истинного зрения%str3%%str4%
+%str1%%str2%True Sight Medium Gloves%str3%%str4%,%str1%%str2%True Sight Medium Gloves%str3%%str4%
+%str1%%str2%True Sight Medium Leggings%str3%%str4%,%str1%%str2%True Sight Medium Leggings%str3%%str4%
 %str1%%str2%True Sight Medium Mask%str3%%str4%,%str1%%str2%Маска среднего веса «Истинное зрение»%str3%%str4%
-%str1%%str2%True Sight Medium Shoulders%str3%%str4%,%str1%%str2%Средние наплечники истинного зрения%str3%%str4%
+%str1%%str2%True Sight Medium Shoulders%str3%%str4%,%str1%%str2%True Sight Medium Shoulders%str3%%str4%
 %str1%%str2%Trust%str3%%str4%,%str1%%str2%Доверие%str3%%str4%
 %str1%%str2%Truth%str3%%str4%,%str1%%str2%Истина%str3%%str4%
 %str1%%str2%Tsunami%str3%%str4%,%str1%%str2%Цунами%str3%%str4%
@@ -270,7 +270,7 @@ english,translate
 %str1%%str2%Verdant Warhammer%str3%%str4%,%str1%%str2%Зелёный боевой молот%str3%%str4%
 %str1%%str2%Verdant Warhorn%str3%%str4%,%str1%%str2%Зелёный боевой рог%str3%%str4%
 %str1%%str2%Verdarach%str3%%str4%,%str1%%str2%Вердарах%str3%%str4%
-%str1%%str2%Vestments of the Lich%str3%%str4%,%str1%%str2%Облачения лича%str3%%str4%
+%str1%%str2%Vestments of the Lich%str3%%str4%,%str1%%str2%Vestments of the Lich%str3%%str4%
 %str1%%str2%Veteran's Wings of Glory%str3%%str4%,%str1%%str2%Veteran's Wings of Glory%str3%%str4%
 %str1%%str2%Victorious Holographic Wings%str3%%str4%,%str1%%str2%Победоносные голографические крылья%str3%%str4%
 %str1%%str2%Vigil's Honor Axe%str3%%str4%,%str1%%str2%Топор чести Дозора%str3%%str4%

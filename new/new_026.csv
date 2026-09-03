@@ -241,7 +241,7 @@ Stop by the shop sometime.,Заглядывай как-нибудь в лавк�
 Stop green from holding at least 3 ruins for %str1%,Не дайте зелёным удерживать хотя бы 3 руины в течение %str1%
 Stop the Flame Legion saboteurs.,Остановите диверсантов Flame Legion.
 Stop the Sons of Svanir from planting bombs on the bridge.,Не дайте Сынам Сванира заложить бомбы на мосту.
-Stop the bandits from burning down the Queen's Heart Orphanage.,Не дайте бандитам сжечь приют «Сердце Королевы».
+Stop the bandits from burning down the Queen's Heart Orphanage.,Не дайте бандитам сжечь Queen's Heart Orphanage.
 Stop the bandits from destroying Vanguard hospital.,Не дайте бандитам разрушить госпиталь Авангарда.
 Stop the grawl from stealing drake eggs.,Не дайте граулам красть яйца дрейков.
 Stop the hostile golems.,Остановите враждебных големов.
@@ -280,8 +280,8 @@ Story Arc Completed,Сюжетная арка завершена
 "Story Instance: Confessor's End<br><br>""Bringing down the house.""",Сюжетный эпизод: «Confessor's End»<br><br>«Обрушить дом».
 "Story Instance: Confessor's End<br><br>""For those who prefer a straight fight to all this sneakin' around.""","Сюжетный эпизод: «Confessor's End»<br><br>«Для тех, кто предпочитает честную драку всем этим шастаньям украдкой»."
 "Story Instance: Heart of the Volcano<br><br>""A Scan a Day...""",Сюжетный эпизод: «Сердце вулкана»<br><br>«Скан в день...»
-"Story Instance: Heart of the Volcano<br><br>""Leaving stray Elder Dragon energy around probably won't cause any problems...but better safe than sorry.""","Сюжетный эпизод: «Сердце вулкана»<br><br>«Оставленная где попало энергия Старшего дракона, наверное, не создаст проблем... но бережёного бог бережёт»."
-"Story Instance: Heart of the Volcano<br><br>""Like a moth to the flame.""",Сюжетный эпизод: «Сердце вулкана»<br><br>«Как мотылёк на пламя».
+"Story Instance: Heart of the Volcano<br><br>""Leaving stray Elder Dragon energy around probably won't cause any problems...but better safe than sorry.""","Сюжетный эпизод: «Heart of the Volcano»<br><br>«Оставленная где попало энергия Старшего дракона, наверное, не создаст проблем... но бережёного бог бережёт»."
+"Story Instance: Heart of the Volcano<br><br>""Like a moth to the flame.""",Сюжетный эпизод: «Heart of the Volcano»<br><br>«Как мотылёк на пламя».
 "Story Instance: Pointed Parley<br><br>It's like herding cats, but the cats carry flamesaws.","Сюжетный эпизод: «Pointed Parley»<br><br>Это как пасти кошек, только кошки с огнепилами."
 "Story Instance: Regrouping with the Queen<br><br>""You can't play in here! This is the throne room!""",Сюжетный эпизод: «Regrouping with the Queen»<br><br>«Здесь нельзя играть! Это тронный зал!»
 "Story Instance: Shining Blade Secrets<br><br>""Get away! Get away!""",Сюжетный эпизод: «Тайны Сияющего Клинка»<br><br>«Прочь! Прочь!»
@@ -414,7 +414,7 @@ Successfully complete the Festering Basin Renown Heart on %num2% unique days.,У
 Successfully complete the Foothold Bivouac renown heart on %num2% unique days.,Успешно завершите сердце почёта «Бивак у подножия» в %num2% разных дней.
 Successfully complete the Forager's Hunt renown heart on %num2% unique days.,Успешно завершите сердце почёта «Промысел собирателя» в %num2% разных дней.
 Successfully complete the Glimmering Arches renown heart on %num2% unique days.,Успешно завершите сердце почёта «Glimmering Arches» в %num2% разных дней.
-Successfully complete the Harvest Den Renown Heart on %num2% unique days.,Успешно завершите сердце почёта «Логово урожая» в %num2% разных дней.
+Successfully complete the Harvest Den Renown Heart on %num2% unique days.,Успешно завершите сердце почёта «Harvest Den» в %num2% разных дней.
 Successfully complete the Hullgarden renown heart on %num2% unique days.,Успешно завершите сердце почёта «Халлгарден» в %num2% разных дней.
 Successfully complete the Journeykin Outpost Renown Heart on %num2% unique days.,Успешно завершите сердце почёта «Journeykin Outpost» в %num2% разных дней.
 Successfully complete the Pilgrim's Rest renown heart on %num2% unique days.,Успешно завершите сердце почёта «Приют пилигрима» в %num2% разных дней.

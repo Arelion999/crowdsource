@@ -130,7 +130,7 @@ Welcome to Hoelbrak.,Добро пожаловать в Хёльбрак.
 Welcome to Lion's Arch. Is there anything I can help you find in our city?,Добро пожаловать в Lion's Arch. Могу я помочь вам что-нибудь найти в нашем городе?
 "Welcome to Safewatch, the last patch of green you'll see for miles.","Добро пожаловать в Сейфвотч — это последний клочок зелени, который вам встретится на много километров вокруг."
 "Welcome to Sandycove Beach. Please be careful exploring, undead often creep into the area through the bay.",Добро пожаловать на пляж Сэндиков. Будьте осторожны во время исследования: нежить часто проникает в эту местность через залив.
-"Welcome to Shing Jea, fellow traveler. I was just about to start my mental exercises...","Добро пожаловать в Шинг Джеа, путник. Я как раз собирался начать свои умственные упражнения..."
+"Welcome to Shing Jea, fellow traveler. I was just about to start my mental exercises...","Добро пожаловать в Shing Jea, путник. Я как раз собирался начать свои умственные упражнения..."
 "Welcome to Tarir, friend.","Добро пожаловать в Тарир, друг."
 "Welcome to Tawny Ridge. The Ash Legion is here to keep an eye on a Separatist group to the north. With the legions' efforts focused on the Brand, we can't allow our other enemies to catch us off guard.","Добро пожаловать в Тауни-Ридж. Отряд Ash Legion здесь, чтобы следить за сепаратистской группой на севере. Поскольку основные силы легиона сосредоточены на Бренде, мы не можем позволить другим нашим врагам застать нас врасплох."
 "Welcome to Temperus Point, Blood Legion HQ out in the wilds of Ashford. We're pushing out to reclaim our land.","Добро пожаловать в Темперус-Пойнт, здесь находится штаб «Blood Legion» в диких землях Эшфорда. Мы готовимся к наступлению, чтобы вернуть наши земли."
@@ -144,7 +144,7 @@ Welcome to Lion's Arch. Is there anything I can help you find in our city?,До�
 Welcome to the Black Lion Trading Company! Can I interest you in some boost-enchantment powder? Or perhaps you want to talk about town clothes?,"Добро пожаловать в торговую компанию «Black Lion»! Не хотите ли приобрести немного порошка для усиления зачарований? Или, может быть, вас интересует городская одежда?"
 Welcome to the Black Lion Trading Company's research division. I specialize in the recycling of old technology. Would you like to hear what we're doing with town clothes?,"Добро пожаловать в исследовательский отдел Black Lion! Я специализируюсь на переработке устаревших технологий. Хотите узнать, что мы делаем с городской одеждой?"
 Welcome to the Crucible of Eternity.,Добро пожаловать в Круговерть Вечности.
-"Welcome to the Eye of the North. Ages ago, when the Great Destroyer stirred, the Ebon Vanguard held this bastion of hope and joined forces with a special hero to prevent the destruction of us all.","Добро пожаловать в Око Севера. Много веков назад, когда пробудился Великий Разрушитель, Ebon Vanguard удерживал этот оплот надежды и объединился с особенным героем, чтобы предотвратить гибель всего живого."
+"Welcome to the Eye of the North. Ages ago, when the Great Destroyer stirred, the Ebon Vanguard held this bastion of hope and joined forces with a special hero to prevent the destruction of us all.","Добро пожаловать в Eye of the North. Много веков назад, когда пробудился Великий Разрушитель, Ebon Vanguard удерживал этот оплот надежды и объединился с особенным героем, чтобы предотвратить гибель всего живого."
 Welcome to the Grand Sahil! Are you here to trade in your casino coins from the blitz for other rewards?,"Добро пожаловать в Гранд Сахил! Вы здесь, чтобы обменять свои казино-монеты, полученные во время блиц-игр, на другие награды?"
 "Welcome to the Lion's Shadow...Bed and Breakfast. I'm still in the middle of renovations, but we have some product for sale.","Добро пожаловать в «Львиную тень»... Постель и завтрак. Я всё ещё в процессе ремонта, но у нас есть кое-какой товар для продажи."
 Welcome to the armory.,Добро пожаловать в оружейную.
@@ -265,7 +265,7 @@ Were you...?,Ты был…?
 West Aetherovariation Module: <c=@Warning>OFF</c>,Западный модуль аэтеро-вариации: <c=@Warning>ВЫКЛ.</c>
 West Aetherovariation Module: On,Западный модуль аэтероизменения: включен.
 West Cannon Gunner,Западный пулемётчик
-West Cliff Base Rod,"Основа для удочки «Западный утес»"
+West Cliff Base Rod,Основа для удочки «Западный утес»
 West Maw defenses destroyed,Защитные сооружения Западной Пасти уничтожены.
 West Maw defenses remaining: %num1%,Осталось %num1% защитных сооружений в Западной Пасти.
 West Maw: Escorting demolitionist,Западная Пасть: сопровождение подрывника
@@ -349,7 +349,7 @@ What can I craft as a tailor?,Что я могу скроить как порт�
 What can I craft as a weaponsmith?,Что я могу создать как оружейник?
 What can I craft as an artificer?,Что я могу создавать как инженер?
 "What can I do for you, friend? I ask only that you tread lightly here. Bad enough that the dust-creatures keep fouling up this oasis.","Чем могу помочь, друг? Только прошу, будь осторожен здесь. И без того этих пыльных тварей хватает, и они постоянно портят этот оазис."
-What can I do in the Initiative headquarters?,"Что можно делать в штабе «Инициативы»?"
+What can I do in the Initiative headquarters?,Что можно делать в штабе «Инициативы»?
 What can I...eh...do for you?,Чем я могу вам помочь?
 What can you tell me about dungeons?,Какие интересные факты о подземельях ты можешь рассказать?
 What can you tell me about potions?,Что вы хотите узнать о зельях?
@@ -386,7 +386,7 @@ What do you know?,Что вам известно?
 "What do you mean by ""drake combat""?",Что ты имеешь в виду под фразой «сражение с дрейком»?
 "What do you mean by ""moa combat""?",Что ты имеешь в виду под фразой «бой с моа»?
 "What do you mean by a ""jellyfish battle""?",Что ты имеешь в виду под фразой «битва с медузами»?
-What do you mean by crab combat?,"Что ты имеешь в виду под «крабьим боем»?"
+What do you mean by crab combat?,Что ты имеешь в виду под «крабьим боем»?
 "What do you mean, ""grumpy old zealots""?",Что ты имеешь в виду под «ворчливыми стариками-фанатиками»?
 "What do you mean, ""make us sea-skritt""?",Что ты имеешь в виду под фразой «сделайте нас морскими скриттами»?
 "What do you mean, ""more dangerous than ever""?","Что ты имеешь в виду под ""более опасными, чем когда-либо""?"
@@ -421,7 +421,7 @@ What does the machine do?,Что делает эта машина?
 What does the ward know about this Mist Stranger?,Что известно стражам об этом страннике из Туманов?
 What does this item do?,Что делает этот предмет?
 What does your Wyld Hunt want you to do here?,Что вам нужно сделать здесь по поручению Дикой Охоты?
-What does your base-model Brandstone multitool do?,"Что делает ваш базовый многофункциональный инструмент «Брандстоун»?"
+What does your base-model Brandstone multitool do?,Что делает ваш базовый многофункциональный инструмент «Брандстоун»?
 What does your heli...flux...thing do?,Что делает твой гели...флюкс...аппарат?
 What does your rifle do?,Что делает твоя винтовка?
 What drink would you like to mix?,Какой напиток вы хотели бы приготовить?

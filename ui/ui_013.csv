@@ -3,7 +3,7 @@ english,translate
 %str1%%str2%Sovereign Scepter%str3%%str4%,%str1%%str2%Скипетр властелина%str3%%str4%
 %str1%%str2%Sovereign Spatha%str3%%str4%,%str1%%str2%Спата властелина%str3%%str4%
 %str1%%str2%Sovereign Warhammer%str3%%str4%,%str1%%str2%Боевой молот властелина%str3%%str4%
-%str1%%str2%Spade of the Deep%str3%%str4%,%str1%%str2%Лопата Глубин%str3%%str4%
+%str1%%str2%Spade of the Deep%str3%%str4%,%str1%%str2%Spade of the Deep%str3%%str4%
 %str1%%str2%Spark Experiment%str3%%str4%,%str1%%str2%Искровой эксперимент%str3%%str4%
 %str1%%str2%Spark%str3%%str4%,%str1%%str2%Искра%str3%%str4%
 %str1%%str2%Sparkling Wrapped Axe%str3%%str4%,%str1%%str2%Сверкающий обёрнутый топор%str3%%str4%
@@ -65,8 +65,8 @@ english,translate
 %str1%%str2%Spero%str3%%str4%,%str1%%str2%Сперо%str3%%str4%
 %str1%%str2%Spiked Club%str3%%str4%,%str1%%str2%Шипованная дубина%str3%%str4%
 %str1%%str2%Spinal Blade Pack%str3%%str4%,%str1%%str2%Набор спинных лезвий%str3%%str4%
-%str1%%str2%Spire of the Broken Voice%str3%%str4%,%str1%%str2%Шпиль Разбитого голоса%str3%%str4%
-%str1%%str2%Spire of the Scion%str3%%str4%,%str1%%str2%Шпиль Отпрыска%str3%%str4%
+%str1%%str2%Spire of the Broken Voice%str3%%str4%,%str1%%str2%Spire of the Broken Voice%str3%%str4%
+%str1%%str2%Spire of the Scion%str3%%str4%,%str1%%str2%Spire of the Scion%str3%%str4%
 %str1%%str2%Spirit Links%str3%%str4%,%str1%%str2%Духовные связи%str3%%str4%
 %str1%%str2%Spirit Smith%str3%%str4%,%str1%%str2%Духовный кузнец%str3%%str4%
 %str1%%str2%Spirobolidae%str3%%str4%,%str1%%str2%Спироболиды%str3%%str4%
@@ -289,11 +289,11 @@ english,translate
 %str1%%str2%Sturdy Weaponsmith's Backpack%str3%%str4%,%str1%%str2%Прочный рюкзак оружейника%str3%%str4%
 %str1%%str2%Stygian Axe%str3%%str4%,%str1%%str2%Стигийский топор%str3%%str4%
 %str1%%str2%Stygian Blade%str3%%str4%,%str1%%str2%Стигийский клинок%str3%%str4%
-%str1%%str2%Sublime Mistforged Triumphant Hero's Breastplate%str3%%str4%,%str1%%str2%Возвышенный туманный нагрудник триумфального героя%str3%%str4%
-%str1%%str2%Sublime Mistforged Triumphant Hero's Brigandine%str3%%str4%,%str1%%str2%Возвышенная туманная кованая бригантина триумфального героя%str3%%str4%
-%str1%%str2%Sublime Mistforged Triumphant Hero's Raiment%str3%%str4%,%str1%%str2%Возвышенное туманокованое триумфальное одеяние героя%str3%%str4%
+%str1%%str2%Sublime Mistforged Triumphant Hero's Breastplate%str3%%str4%,%str1%%str2%Sublime Mistforged Triumphant Hero's Breastplate%str3%%str4%
+%str1%%str2%Sublime Mistforged Triumphant Hero's Brigandine%str3%%str4%,%str1%%str2%Sublime Mistforged Triumphant Hero's Brigandine%str3%%str4%
+%str1%%str2%Sublime Mistforged Triumphant Hero's Raiment%str3%%str4%,%str1%%str2%Sublime Mistforged Triumphant Hero's Raiment%str3%%str4%
 %str1%%str2%Subterfuge Hood%str3%%str4%,%str1%%str2%Капюшон уловок%str3%%str4%
-%str1%%str2%Suffused Obsidian Heavy Breastplate%str3%%str4%,%str1%%str2%Насыщенный обсидиановый тяжёлый нагрудник%str3%%str4%
+%str1%%str2%Suffused Obsidian Heavy Breastplate%str3%%str4%,%str1%%str2%Suffused Obsidian Heavy Breastplate%str3%%str4%
 %str1%%str2%Suffused Obsidian Heavy Cuisses%str3%%str4%,%str1%%str2%Насыщенные обсидиановые тяжёлые набедренники%str3%%str4%
 %str1%%str2%Suffused Obsidian Heavy Gauntlets%str3%%str4%,%str1%%str2%Насыщенные обсидиановые тяжёлые рукавицы%str3%%str4%
 %str1%%str2%Suffused Obsidian Heavy Greaves%str3%%str4%,%str1%%str2%Насыщенные обсидиановые тяжёлые наголенники%str3%%str4%
@@ -303,13 +303,13 @@ english,translate
 %str1%%str2%Suffused Obsidian Light Gloves%str3%%str4%,%str1%%str2%Насыщенные обсидиановые лёгкие перчатки%str3%%str4%
 %str1%%str2%Suffused Obsidian Light Mantle%str3%%str4%,%str1%%str2%Насыщенная обсидиановая лёгкая накидка%str3%%str4%
 %str1%%str2%Suffused Obsidian Light Pants%str3%%str4%,%str1%%str2%Насыщенные обсидиановые лёгкие штаны%str3%%str4%
-%str1%%str2%Suffused Obsidian Light Regalia%str3%%str4%,%str1%%str2%Насыщенное обсидиановое лёгкое облачение%str3%%str4%
+%str1%%str2%Suffused Obsidian Light Regalia%str3%%str4%,%str1%%str2%Насыщенное Obsidian Light Regalia%str3%%str4%
 %str1%%str2%Suffused Obsidian Light Shoes%str3%%str4%,%str1%%str2%Насыщенные обсидиановые лёгкие туфли%str3%%str4%
 %str1%%str2%Suffused Obsidian Medium Boots%str3%%str4%,%str1%%str2%Насыщенные обсидиановые средние сапоги%str3%%str4%
 %str1%%str2%Suffused Obsidian Medium Gloves%str3%%str4%,%str1%%str2%Насыщенные обсидиановые средние перчатки%str3%%str4%
 %str1%%str2%Suffused Obsidian Medium Jacket%str3%%str4%,%str1%%str2%Насыщенная обсидиановая средняя куртка%str3%%str4%
 %str1%%str2%Suffused Obsidian Medium Leggings%str3%%str4%,%str1%%str2%Насыщенные обсидиановые средние поножи%str3%%str4%
-%str1%%str2%Suffused Obsidian Medium Mask%str3%%str4%,%str1%%str2%Насыщенная обсидиановая средняя маска%str3%%str4%
+%str1%%str2%Suffused Obsidian Medium Mask%str3%%str4%,%str1%%str2%Suffused Obsidian Medium Mask%str3%%str4%
 %str1%%str2%Suffused Obsidian Medium Shoulders%str3%%str4%,%str1%%str2%Насыщенные обсидиановые средние наплечники%str3%%str4%
 %str1%%str2%Summit Targe%str3%%str4%,%str1%%str2%Щит вершины%str3%%str4%
 %str1%%str2%Sun Catcher%str3%%str4%,%str1%%str2%Ловец солнца%str3%%str4%
@@ -363,7 +363,7 @@ english,translate
 %str1%%str2%Swindler Pauldrons%str3%%str4%,%str1%%str2%Наплечники мошенника%str3%%str4%
 %str1%%str2%Sword of the Dragon's Deep%str3%%str4%,%str1%%str2%Меч драконьей глубины%str3%%str4%
 %str1%%str2%Sword%str3%%str4%,%str1%%str2%Меч%str3%%str4%
-%str1%%str2%Synergetic Tempered Spinal Blades%str3%%str4%,%str1%%str2%Синергетические закалённые спинные лезвия%str3%%str4%
+%str1%%str2%Synergetic Tempered Spinal Blades%str3%%str4%,%str1%%str2%Synergetic Tempered Spinal Blades%str3%%str4%
 %str1%%str2%Synergetics Energized Shield%str3%%str4%,%str1%%str2%Энергетический щит синергетики%str3%%str4%
 %str1%%str2%Tear of Grenth%str3%%str4%,%str1%%str2%Слеза Грента%str3%%str4%
 %str1%%str2%Tempered Scale Chestplate%str3%%str4%,%str1%%str2%Закалённый чешуйчатый нагрудник%str3%%str4%
@@ -442,7 +442,7 @@ english,translate
 %str1%%str2%Terracotta Antique Claymore%str3%%str4%,%str1%%str2%Терракотовый антикварный двуручный меч%str3%%str4%
 %str1%%str2%Terracotta Antique Flanged Mace%str3%%str4%,%str1%%str2%Терракотовая антикварная фланцевая булава%str3%%str4%
 %str1%%str2%Terracotta Antique Greatbow%str3%%str4%,%str1%%str2%Терракотовый антикварный большой лук%str3%%str4%
-%str1%%str2%Terracotta Antique Harpoon Gun%str3%%str4%,%str1%%str2%Терракотовое антикварное гарпунное ружьё%str3%%str4%
+%str1%%str2%Terracotta Antique Harpoon Gun%str3%%str4%,%str1%%str2%Terracotta Antique Harpoon Gun%str3%%str4%
 %str1%%str2%Terracotta Antique Herald%str3%%str4%,%str1%%str2%Терракотовый антикварный глашатай%str3%%str4%
 %str1%%str2%Terracotta Antique Impaler%str3%%str4%,%str1%%str2%Терракотовый антикварный пронзатель%str3%%str4%
 %str1%%str2%Terracotta Antique Musket%str3%%str4%,%str1%%str2%Терракотовое антикварное ружьё%str3%%str4%

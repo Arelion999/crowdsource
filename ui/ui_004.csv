@@ -55,9 +55,9 @@ english,translate
 %str1%%str2%Black Earth Trident%str3%%str4%,%str1%%str2%Трезубец чёрной земли%str3%%str4%
 %str1%%str2%Black Fleet Bludgeon%str3%%str4%,%str1%%str2%Дубина Чёрного флота%str3%%str4%
 %str1%%str2%Blade of the Broken Voice%str3%%str4%,%str1%%str2%Клинок Сломленного Голоса%str3%%str4%
-%str1%%str2%Blade of the Iron Imperator%str3%%str4%,%str1%%str2%Клинок Железного Императора%str3%%str4%
-%str1%%str2%Blade of the Scion%str3%%str4%,%str1%%str2%Клинок Отпрыска%str3%%str4%
-%str1%%str2%Blade of the Sunless%str3%%str4%,%str1%%str2%Клинок Бессолнечного%str3%%str4%
+%str1%%str2%Blade of the Iron Imperator%str3%%str4%,%str1%%str2%Blade of the Iron Imperator%str3%%str4%
+%str1%%str2%Blade of the Scion%str3%%str4%,%str1%%str2%Blade of the Scion%str3%%str4%
+%str1%%str2%Blade of the Sunless%str3%%str4%,%str1%%str2%Blade of the Sunless%str3%%str4%
 %str1%%str2%Bladed Boots%str3%%str4%,%str1%%str2%Клинковые сапоги%str3%%str4%
 %str1%%str2%Bladed Breastplate%str3%%str4%,%str1%%str2%Клинковый нагрудник%str3%%str4%
 %str1%%str2%Bladed Cowl%str3%%str4%,%str1%%str2%Клинковый клобук%str3%%str4%
@@ -86,13 +86,13 @@ english,translate
 %str1%%str2%Bleeding Edge Inquest Greatsword%str3%%str4%,%str1%%str2%Передовой двуручный меч Инквеста%str3%%str4%
 %str1%%str2%Bleeding Edge Inquest Hammer%str3%%str4%,%str1%%str2%Передовой молот Инквеста%str3%%str4%
 %str1%%str2%Bleeding Edge Inquest Longbow%str3%%str4%,%str1%%str2%Передовой длинный лук Инквеста%str3%%str4%
-%str1%%str2%Bleeding Edge Inquest Mace%str3%%str4%,%str1%%str2%Передовая булава Инквеста%str3%%str4%
+%str1%%str2%Bleeding Edge Inquest Mace%str3%%str4%,%str1%%str2%Bleeding Edge Inquest Mace%str3%%str4%
 %str1%%str2%Bleeding Edge Inquest Pistol%str3%%str4%,%str1%%str2%Передовой пистолет Инквеста%str3%%str4%
-%str1%%str2%Bleeding Edge Inquest Rifle%str3%%str4%,%str1%%str2%Передовая винтовка Инквеста%str3%%str4%
+%str1%%str2%Bleeding Edge Inquest Rifle%str3%%str4%,%str1%%str2%Bleeding Edge Inquest Rifle%str3%%str4%
 %str1%%str2%Bleeding Edge Inquest Scepter%str3%%str4%,%str1%%str2%Передовой скипетр Инквеста%str3%%str4%
 %str1%%str2%Bleeding Edge Inquest Shield%str3%%str4%,%str1%%str2%Передовой щит Инквеста%str3%%str4%
 %str1%%str2%Bleeding Edge Inquest Short Bow%str3%%str4%,%str1%%str2%Передовой короткий лук Инквеста%str3%%str4%
-%str1%%str2%Bleeding Edge Inquest Spear%str3%%str4%,%str1%%str2%Передовое копьё Инквеста%str3%%str4%
+%str1%%str2%Bleeding Edge Inquest Spear%str3%%str4%,%str1%%str2%Bleeding Edge Inquest Spear%str3%%str4%
 %str1%%str2%Bleeding Edge Inquest Staff%str3%%str4%,%str1%%str2%Передовой посох Инквеста%str3%%str4%
 %str1%%str2%Bleeding Edge Inquest Sword%str3%%str4%,%str1%%str2%Передовой меч Инквеста%str3%%str4%
 %str1%%str2%Bleeding Edge Inquest Torch%str3%%str4%,%str1%%str2%Передовой факел Инквеста%str3%%str4%
@@ -126,7 +126,7 @@ english,translate
 %str1%%str2%Bloodroot%str3%%str4%,%str1%%str2%«Кровавый корень»%str3%%str4%
 %str1%%str2%Bloodseeker%str3%%str4%,%str1%%str2%«Кровоискатель»%str3%%str4%
 %str1%%str2%Bloodstained Lunatic Noble Coat%str3%%str4%,%str1%%str2%Окровавленная куртка безумного дворянина%str3%%str4%
-%str1%%str2%Bloodstained Lunatic Noble Mask%str3%%str4%,%str1%%str2%Окровавленная маска безумного дворянина%str3%%str4%
+%str1%%str2%Bloodstained Lunatic Noble Mask%str3%%str4%,%str1%%str2%Bloodstained Lunatic Noble Mask%str3%%str4%
 %str1%%str2%Bloodstone Axe%str3%%str4%,%str1%%str2%Топор из кровавого камня%str3%%str4%
 %str1%%str2%Bloodstone Dagger%str3%%str4%,%str1%%str2%Кинжал из кровавого камня%str3%%str4%
 %str1%%str2%Bloodstone Focus%str3%%str4%,%str1%%str2%Фокус из кровавого камня%str3%%str4%
@@ -373,7 +373,7 @@ english,translate
 %str1%%str2%Chak Sword%str3%%str4%,%str1%%str2%Меч чаков%str3%%str4%
 %str1%%str2%Chak Torch%str3%%str4%,%str1%%str2%Факел чаков%str3%%str4%
 %str1%%str2%Chak Warhorn%str3%%str4%,%str1%%str2%Боевой рог чаков%str3%%str4%
-%str1%%str2%Chalice of the Gods%str3%%str4%,%str1%%str2%Чаша богов%str3%%str4%
+%str1%%str2%Chalice of the Gods%str3%%str4%,%str1%%str2%Chalice of the Gods%str3%%str4%
 %str1%%str2%Champion's Wings of Glory%str3%%str4%,%str1%%str2%Champion's Wings of Glory%str3%%str4%
 %str1%%str2%Chaos Axe%str3%%str4%,%str1%%str2%Топор хаоса%str3%%str4%
 %str1%%str2%Chaos Dagger%str3%%str4%,%str1%%str2%Кинжал хаоса%str3%%str4%
@@ -468,8 +468,8 @@ english,translate
 %str1%%str2%Claws of Koda%str3%%str4%,%str1%%str2%Когти Коды%str3%%str4%
 %str1%%str2%Claws of the Desert%str3%%str4%,%str1%%str2%Когти пустыни%str3%%str4%
 %str1%%str2%Claymore of the Broken Voice%str3%%str4%,%str1%%str2%Клеймор Сломленного Голоса%str3%%str4%
-%str1%%str2%Claymore of the Scion%str3%%str4%,%str1%%str2%Клеймор Отпрыска%str3%%str4%
-%str1%%str2%Claymore of the Sunless%str3%%str4%,%str1%%str2%Клеймор Бессолнечного%str3%%str4%
+%str1%%str2%Claymore of the Scion%str3%%str4%,%str1%%str2%Claymore of the Scion%str3%%str4%
+%str1%%str2%Claymore of the Sunless%str3%%str4%,%str1%%str2%Claymore of the Sunless%str3%%str4%
 %str1%%str2%Cloaked Cat Mantle%str3%%str4%,%str1%%str2%Накидка скрытного кота%str3%%str4%
 %str1%%str2%Cloth Aquabreather%str3%%str4%,%str1%%str2%Тканевая аквамаска%str3%%str4%
 %str1%%str2%Cobalt Antique Artifact%str3%%str4%,%str1%%str2%Старинный кобальтовый артефакт%str3%%str4%

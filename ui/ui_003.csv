@@ -142,12 +142,12 @@ english,translate
 %str1%%str2%Alliance Field Operative's Light Jacket%str3%%str4%,%str1%%str2%Лёгкий жакет полевого оперативника Альянса%str3%%str4%
 %str1%%str2%Alliance Field Operative's Light Leggings%str3%%str4%,%str1%%str2%Лёгкие поножи полевого оперативника Альянса%str3%%str4%
 %str1%%str2%Alliance Field Operative's Light Mantle%str3%%str4%,%str1%%str2%Лёгкая накидка полевого оперативника Альянса%str3%%str4%
-%str1%%str2%Alliance Field Operative's Medium Boots%str3%%str4%,%str1%%str2%Средние сапоги полевого оперативника Альянса%str3%%str4%
-%str1%%str2%Alliance Field Operative's Medium Gloves%str3%%str4%,%str1%%str2%Средние перчатки полевого оперативника Альянса%str3%%str4%
-%str1%%str2%Alliance Field Operative's Medium Helmet%str3%%str4%,%str1%%str2%Средний шлем полевого оперативника Альянса%str3%%str4%
+%str1%%str2%Alliance Field Operative's Medium Boots%str3%%str4%,%str1%%str2%Alliance Field Operative's Medium Boots%str3%%str4%
+%str1%%str2%Alliance Field Operative's Medium Gloves%str3%%str4%,%str1%%str2%Alliance Field Operative's Medium Gloves%str3%%str4%
+%str1%%str2%Alliance Field Operative's Medium Helmet%str3%%str4%,%str1%%str2%Alliance Field Operative's Medium Helmet%str3%%str4%
 %str1%%str2%Alliance Field Operative's Medium Jacket%str3%%str4%,%str1%%str2%Средний жакет полевого оперативника Альянса%str3%%str4%
-%str1%%str2%Alliance Field Operative's Medium Leggings%str3%%str4%,%str1%%str2%Средние поножи полевого оперативника Альянса%str3%%str4%
-%str1%%str2%Alliance Field Operative's Medium Mantle%str3%%str4%,%str1%%str2%Средняя накидка полевого оперативника Альянса%str3%%str4%
+%str1%%str2%Alliance Field Operative's Medium Leggings%str3%%str4%,%str1%%str2%Alliance Field Operative's Medium Leggings%str3%%str4%
+%str1%%str2%Alliance Field Operative's Medium Mantle%str3%%str4%,%str1%%str2%Alliance Field Operative's Medium Mantle%str3%%str4%
 %str1%%str2%Ambrosia%str3%%str4%,%str1%%str2%«Амброзия»%str3%%str4%
 %str1%%str2%Ambrosial Chef's Backpack%str3%%str4%,%str1%%str2%Амброзийный рюкзак повара%str3%%str4%
 %str1%%str2%Amethyst Shield%str3%%str4%,%str1%%str2%Аметистовый щит%str3%%str4%
@@ -338,12 +338,12 @@ english,translate
 %str1%%str2%Astral Ward Light Helm%str3%%str4%,%str1%%str2%Лёгкий шлем Астральной стражи%str3%%str4%
 %str1%%str2%Astral Ward Light Leggings%str3%%str4%,%str1%%str2%Лёгкие поножи Астральной стражи%str3%%str4%
 %str1%%str2%Astral Ward Light Shoulders%str3%%str4%,%str1%%str2%Лёгкие наплечники Астральной стражи%str3%%str4%
-%str1%%str2%Astral Ward Medium Boots%str3%%str4%,%str1%%str2%Средние сапоги Астральной стражи%str3%%str4%
-%str1%%str2%Astral Ward Medium Coat%str3%%str4%,%str1%%str2%Средняя куртка Астральной стражи%str3%%str4%
-%str1%%str2%Astral Ward Medium Gloves%str3%%str4%,%str1%%str2%Средние перчатки Астральной стражи%str3%%str4%
-%str1%%str2%Astral Ward Medium Helm%str3%%str4%,%str1%%str2%Средний шлем Астральной стражи%str3%%str4%
-%str1%%str2%Astral Ward Medium Leggings%str3%%str4%,%str1%%str2%Средние поножи Астральной стражи%str3%%str4%
-%str1%%str2%Astral Ward Medium Shoulders%str3%%str4%,%str1%%str2%Средние наплечники Астральной стражи%str3%%str4%
+%str1%%str2%Astral Ward Medium Boots%str3%%str4%,%str1%%str2%Astral Ward Medium Boots%str3%%str4%
+%str1%%str2%Astral Ward Medium Coat%str3%%str4%,%str1%%str2%Astral Ward Medium Coat%str3%%str4%
+%str1%%str2%Astral Ward Medium Gloves%str3%%str4%,%str1%%str2%Astral Ward Medium Gloves%str3%%str4%
+%str1%%str2%Astral Ward Medium Helm%str3%%str4%,%str1%%str2%Astral Ward Medium Helm%str3%%str4%
+%str1%%str2%Astral Ward Medium Leggings%str3%%str4%,%str1%%str2%Astral Ward Medium Leggings%str3%%str4%
+%str1%%str2%Astral Ward Medium Shoulders%str3%%str4%,%str1%%str2%Astral Ward Medium Shoulders%str3%%str4%
 %str1%%str2%Astralaria%str3%%str4%,%str1%%str2%«Астралария»%str3%%str4%
 %str1%%str2%Augury of Death%str3%%str4%,%str1%%str2%«Предвестие смерти»%str3%%str4%
 %str1%%str2%Aureate Axe%str3%%str4%,%str1%%str2%Золочёный топор%str3%%str4%
@@ -431,7 +431,7 @@ english,translate
 %str1%%str2%Azure Dragon Slayer Mace%str3%%str4%,%str1%%str2%Лазурная булава убийцы драконов%str3%%str4%
 %str1%%str2%Azure Dragon Slayer Pistol%str3%%str4%,%str1%%str2%Лазурный пистолет убийцы драконов%str3%%str4%
 %str1%%str2%Azure Dragon Slayer Rifle%str3%%str4%,%str1%%str2%Лазурная винтовка убийцы драконов%str3%%str4%
-%str1%%str2%Azure Dragon Slayer Scepter%str3%%str4%,%str1%%str2%Лазурный скипетр убийцы драконов%str3%%str4%
+%str1%%str2%Azure Dragon Slayer Scepter%str3%%str4%,%str1%%str2%Лазурный Dragon Slayer Scepter%str3%%str4%
 %str1%%str2%Azure Dragon Slayer Shield%str3%%str4%,%str1%%str2%Лазурный щит убийцы драконов%str3%%str4%
 %str1%%str2%Azure Dragon Slayer Short Bow%str3%%str4%,%str1%%str2%Лазурный короткий лук убийцы драконов%str3%%str4%
 %str1%%str2%Azure Dragon Slayer Staff%str3%%str4%,%str1%%str2%Лазурный посох убийцы драконов%str3%%str4%
@@ -496,6 +496,6 @@ english,translate
 %str1%%str2%Barud's Blunderbuss%str3%%str4%,%str1%%str2%Мушкетон Баруда%str3%%str4%
 %str1%%str2%Basic Chef's Backpack%str3%%str4%,%str1%%str2%Базовый рюкзак повара%str3%%str4%
 %str1%%str2%Bastion of the Broken Voice%str3%%str4%,%str1%%str2%Бастион Сломленного Голоса%str3%%str4%
-%str1%%str2%Bastion of the Scion%str3%%str4%,%str1%%str2%Бастион Отпрыска%str3%%str4%
-%str1%%str2%Bastion of the Sunless%str3%%str4%,%str1%%str2%Бастион Бессолнечного%str3%%str4%
+%str1%%str2%Bastion of the Scion%str3%%str4%,%str1%%str2%Bastion of the Scion%str3%%str4%
+%str1%%str2%Bastion of the Sunless%str3%%str4%,%str1%%str2%Bastion of the Sunless%str3%%str4%
 %str1%%str2%Battle-Worn%str3%%str4%,%str1%%str2%Закалённый в боях%str3%%str4%

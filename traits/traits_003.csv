@@ -18,7 +18,7 @@ Gain power while in fire attunement.,Gain power while in fire attunement.
 "Gain power, then gain extra power while you are revealed.","Gain power, then gain extra power while you are revealed."
 Gain precision. Gain additional precision while wielding a rifle. Enter stealth when you dodge roll with a rifle equipped.,Получайте точность. Получайте дополнительную точность при использовании винтовки. Уходите в невидимость при перекате с экипированной винтовкой.
 Gain protection after a successful Full Counter.,Gain protection after a successful Full Counter.
-Gain protection when activating a <c=@abilitytype>Stance</c>. Activate Lesser Stone Resonance when using an elite skill.,Получайте протекцию при активации <c=@abilitytype>Стойки</c>. Активируйте Малый каменный резонанс при использовании элитного навыка.
+Gain protection when activating a <c=@abilitytype>Stance</c>. Activate Lesser Stone Resonance when using an elite skill.,Получайте протекцию при активации <c=@abilitytype>Стойки</c>. Активируйте Малый Stone Resonance при использовании элитного навыка.
 "Gain protection when you are disabled.
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.","Получайте протекцию, когда вас выводят из строя.
 <c=@reminder>Вывод из строя включает оглушение, ошеломление, отталкивание, притягивание, нокдаун, погружение, всплытие, отбрасывание, провокацию и страх."
@@ -47,7 +47,7 @@ Gain resolution after you dodge.,Gain resolution after you dodge.
 Gain resolution when using a heal skill.,Gain resolution when using a heal skill.
 Gain resolution when you activate a <c=@abilitytype>Virtue</c>. Resolution you grant has increased duration.,Получайте решимость при активации <c=@abilitytype>Добродетели</c>. Длительность даруемой вами решимости увеличена.
 Gain resolution when you use invoke a legend.,Gain resolution when you use invoke a legend.
-Gain stability and damage reduction when entering Harbinger Shroud. Gain ferocity based on your vitality.,"Вы получаете дар Устойчивости и снижение урона, когда надеваете Саван Предвестника. Ваша Жестокость увеличивается в зависимости от вашей Живучести."
+Gain stability and damage reduction when entering Harbinger Shroud. Gain ferocity based on your vitality.,"Вы получаете дар Устойчивости и снижение урона, когда надеваете Harbinger Shroud. Ваша Жестокость увеличивается в зависимости от вашей Живучести."
 Gain stability and endurance when entering berserk mode. Traits that trigger when entering berserk mode also trigger when exiting berserk mode. You can now exit berserk mode early.,"Получайте стабильность и выносливость при входе в режим берсерка. Черты, срабатывающие при входе в режим берсерка, также срабатывают при выходе из него. Теперь вы можете выйти из режима берсерка досрочно."
 Gain stability and heal yourself when you break stuns.,Gain stability and heal yourself when you break stuns.
 Gain stability and swiftness when starting an <c=@abilitytype>overload</c>.,Получить Устойчивость и Быстроту при начале форсажа. <c=@abilitytype>перегрузки</c>.
@@ -393,7 +393,7 @@ Justice Duration Increase,Justice Duration Increase
 Justice is Blind,Justice is Blind
 Kalla's Fervor causes you to heal for a percentage of your outgoing damage. Citadel Bombardment pulls more missiles into Tyria for every stack of Kalla's Fervor affecting you.,Kalla's Fervor позволяет вам восстанавливать здоровье в процентах от наносимого урона. Бомбардировка цитадели притягивает больше ракет в Тайрию за каждый наложенный на вас стек Рвения Каллы.
 Kalla's Fervor increases your healing to other allies. Orders from Above lasts longer and affects a larger area.,Пыл Каллы увеличивает ваше лечение союзников. Orders from Above действуют дольше и затрагивают большую область.
-Kalla's Fervor you inspire lasts longer and is more potent. Heroic Command grants more might per stack of Kalla's Fervor.,Наполняющая вас страсть Каллы длится дольше и становится сильнее. Героический приказ дарует больше Мощи за каждый стек страсти Каллы.
+Kalla's Fervor you inspire lasts longer and is more potent. Heroic Command grants more might per stack of Kalla's Fervor.,Наполняющая вас страсть Каллы длится дольше и становится сильнее. Heroic Command дарует больше Мощи за каждый стек страсти Каллы.
 Keen Observer,Keen Observer
 Kindled Zeal,Kindled Zeal
 Kinetic Accelerators,Kinetic Accelerators
@@ -449,7 +449,7 @@ Longbow Proficiency,Longbow Proficiency
 Loremaster,Loremaster
 Lose a condition when you enter shroud and every few seconds while you remain in shroud. Gain <c=@abilitytype>carapace</c> when removing conditions from yourself.,"Снимает состояние при входе в саван и каждые несколько секунд, пока вы в нем находитесь. Получайте <c=@abilitytype>панцирь</c> при снятии состояний с себя."
 Lose conditions every interval. Health degenerates more slowly while downed.,С вас периодически снимаются состояния. Здоровье в поверженном состоянии теряется медленнее.
-Lose conditions when activating Cosmic Wisdom and at a set interval while Cosmic Wisdom is active.,"Вы снимаете с себя состояния при активации Космической Мудрости и периодически, пока Космическая Мудрость активна."
+Lose conditions when activating Cosmic Wisdom and at a set interval while Cosmic Wisdom is active.,"Вы снимаете с себя состояния при активации Космической Мудрости и периодически, пока Cosmic Wisdom активна."
 Lose conditions when you gain Mirage Cloak.,Lose conditions when you gain Mirage Cloak.
 Loss Aversion,Loss Aversion
 Lotus Poison,Lotus Poison

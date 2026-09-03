@@ -70,7 +70,7 @@ Double-click to open.","Дважды щёлкните, чтобы открыть
 Contains 100 assorted vials of blood.,Содержит 100 различных склянок с кровью.
 <c=@flavor>""I suppose it makes sense. They are the Blood Legion.""</c>","Дважды щёлкните, чтобы открыть.,
 Содержит 100 различных склянок с кровью.,Содержит 100 различных склянок с кровью.
-<c=@flavor>""Полагаю, это имеет смысл. Они — Кровавый легион"".</c>"
+<c=@flavor>""Полагаю, это имеет смысл. Они — Blood Legion"".</c>"
 "Double-click to open.,
 Contains 25 assorted molten materials.,
 '<c=@flavor>Fire. It''s a box of fire. Because the Flame Legion loves fire.</c>'","Дважды щёлкните, чтобы открыть.,
@@ -240,13 +240,13 @@ Each dye box contains 7 random dyes (5 common and 2 uncommon or rare).","Каж�
 "Each mini can be activated from your inventory to follow you around the world.
 Combine these three minis in the Mystic Forge with the Mini Mai Trin from the Black Lion Chest to create a Mini Scarlet Briar.","Каждую миниатюру можно активировать из инвентаря, чтобы она следовала за вами по миру.
 Объедините эти три миниатюры в Mystic Forge с миниатюрой Mai Trin из Чёрного львиного сундука, чтобы создать миниатюру Алой Шиповницы."
-Earned by completing the Eternity's Garden Mastery achievement. Additional copies can be purchased from Visions of Eternity map vendors.,Заработано за завершение достижения «Мастерство Сада вечности». Дополнительные копии можно купить у торговцев на карте «Видения вечности».
+Earned by completing the Eternity's Garden Mastery achievement. Additional copies can be purchased from Visions of Eternity map vendors.,Заработано за завершение достижения «Мастерство Сада вечности». Дополнительные копии можно купить у торговцев на карте «Visions of Eternity».
 "Earned by completing the Starlit Weald Mastery achievement. 
 Additional copies can be purchased from Visions of Eternity vendors afterward.","Зарабатывается за выполнение достижения «Starlit Weald Mastery».
-Дополнительные копии можно приобрести у торговцев «Видения вечности» после этого."
-Earned by fully exploring Eternity's Garden. Additional copies can be purchased from Visions of Eternity map vendors.,Заработано за полное исследование Сада вечности. Дополнительные копии можно купить у торговцев на карте «Видения вечности».
-Earned by fully exploring Shipwreck Strand. Additional copies can be purchased from Visions of Eternity map vendors.,Зарабатывается за полное исследование Кораблекрушенного берега. Дополнительные копии можно приобрести у торговцев карты «Видения вечности».
-Earned by fully exploring Starlit Weald. Additional copies can be purchased from Visions of Eternity map vendors.,Зарабатывается за полное исследование Звёздной рощи. Дополнительные копии можно приобрести у торговцев карты «Видения вечности».
+Дополнительные копии можно приобрести у торговцев «Visions of Eternity» после этого."
+Earned by fully exploring Eternity's Garden. Additional copies can be purchased from Visions of Eternity map vendors.,Заработано за полное исследование Сада вечности. Дополнительные копии можно купить у торговцев на карте «Visions of Eternity».
+Earned by fully exploring Shipwreck Strand. Additional copies can be purchased from Visions of Eternity map vendors.,Зарабатывается за полное исследование Кораблекрушенного берега. Дополнительные копии можно приобрести у торговцев карты «Visions of Eternity».
+Earned by fully exploring Starlit Weald. Additional copies can be purchased from Visions of Eternity map vendors.,Зарабатывается за полное исследование Звёздной рощи. Дополнительные копии можно приобрести у торговцев карты «Visions of Eternity».
 "Earned for aiding the Pact while proving yourself a hero of the wastes.,
 Double-click to open.","Заработано за помощь Пакту, проявив себя героем пустошей.,
 Дважды щёлкните, чтобы открыть."
@@ -274,16 +274,16 @@ Empty Vial,
 Empyreal Fragment,
 Empyreal Star,
 Enables the superheated state of the Falling Star spear.","Эмпатия, сострадание
-Императорская рыба,
+Emperor Fish,
 'Усиленное ребро Костелупа',Усиленное ребро Костелупа
 'Усиленный позвоночник Костелупа',Усиленный позвоночник Костелупа
 'Усиленный тотем Костелупа',Усиленный тотем Костелупа
 Усиленный квадрат толстой выделанной кожи,
 'Усиленный меч Эпарха',Усиленный меч Эпарха
-Усиленные камни жара,Усиленные камни жара
+Empowered Heat Stones,Empowered Heat Stones
 Усиленный мифриловый слиток,
 Императрица-рыба,
-Пустая алхимическая бутылка,
+Пустая Alchemical Bottle,
 Пустой кристалл Клейма,Пустой кристалл Клейма
 Пустая бутылка джинна,Пустая бутылка джинна
 Пустой медовый горшок,Пустой медовый горшок
@@ -294,8 +294,8 @@ Enables the superheated state of the Falling Star spear.","Эмпатия, со�
 Пустой квадратный плантатор,Пустой квадратный плантатор
 Пустая склянка,
 Эмпирейский фрагмент,
-Эмпирейская звезда,
-Включает перегретое состояние копья «Падающая звезда»."
+Empyreal Star,
+Включает перегретое состояние копья «Falling Star»."
 Endless Janthiri Floppy Fish Tonic,Endless Janthiri Floppy Fish Tonic
 Equipment Template tabs allow a character to swap to an additional set of equipment.,Вкладки шаблонов экипировки позволяют персонажу переключаться на дополнительный набор экипировки.
 "Event Item""","Предмет события"""
@@ -420,7 +420,7 @@ Grants a small chance to receive a bonus crafting material after gathering in ad
 • +50%% шанса критического получения опыта в ремёслах
 • +33%% шанса дополнительного удара при сборе
 • 10 секунд скорости после сбора
-• призыв торговца «Чёрный лев», если инвентарь переполнен после сбора (перезарядка 20 мин.)"
+• призыв торговца «Black Lion», если инвентарь переполнен после сбора (перезарядка 20 мин.)"
 "Grants both Experience Booster and Item Booster benefits for 30 minutes:,Даёт преимущества Опытного усилителя и Усилителя предметов на 30 минут:",Даёт преимущества Опытного усилителя и Усилителя предметов на 30 минут:
 "Grants the following benefits for 2 hours:,
 • +50%% Experience in All Game Types,• +50%% опыта во всех типах игры
@@ -519,10 +519,10 @@ Grow Lamp,
 Grown in the homestead. The seedlings are purchased from Deft Lahar.","Птенцы грифона чрезвычайно энергичны и рано развиваются.
 Соедините белый, жёлтый
 Трещина Грифона
-Жареный гриб,
-Жареный гриб портобелло,
-Жареная птица,
-Жареный стейк,
+Grilled Mushroom,
+Grilled Mushroom портобелло,
+Grilled Poultry,
+Grilled Steak,
 Мрачный механический топор,
 Мрачный механический сундук,
 Мрачный механический кинжал,
@@ -540,13 +540,13 @@ Grown in the homestead. The seedlings are purchased from Deft Lahar.","Птен�
 Мрачный механический меч,
 Мрачный механический факел,
 Мрачный механический боевой рог,
-Мрачный пакт,
+Grim Pact,
 Гримвард,
-Дробильная булава,
+Grind Mace,
 Ухмыляющаяся тыквенная винтовка,
 Облик ухмыляющейся тыквенной винтовки,
 Маска ухмыляющегося Тахаюна,
-Зазубренный штык,
+Gritted Bayonet,
 Артефакт Гриззлмута,
 Бастион Гриззлмута,
 Клинок Гриззлмута,
@@ -569,7 +569,7 @@ Grown in the homestead. The seedlings are purchased from Deft Lahar.","Птен�
 Жезл Гризлмута,
 Боевой молот Гризлмута,
 Сундук с оружием Гризлмута,
-Стонущие перчатки,
+Groaning Gloves,
 Трасса кратера Гротмар: бронза,
 Трасса кратера Гротмар: золото,
 Круговой маршрут кратера Гротмар: серебро,
@@ -679,19 +679,19 @@ Ingredient","Информация о патрулях у шахты и обор�
 Инфузированный перстень-печатка Джейлиса,
 Инфузированный перстень-печатка Джейлиса (настроен),
 Инфузированный облик катаны,
-Насыщенный живой кристалл,
-Насыщенный журнал медитации,
-Насыщенное маслянистое рыбное мясо,
+Infused Living Crystal,
+Infused Meditation Log Book,
+Infused Oily Fish Meat,
 Насыщенный наряд самурая,
-Насыщенное зеркало души,
-Насыщенная тигриная еда,
-Насыщенное тигриное молоко,
+Infused Soul Mirror,
+Infused Tiger Food,
+Infused Tiger Milk,
 Насыщенные тигриные добавки,
 Инфузированный облик кинжала вакидзаси,
 Коробка с инфузируемым аквадыхателем,
 Инфузируемый тканевый аквадыхатель,
 Инфузируемый кожаный аквадыхатель,
-Инфузируемый металлический аквадыхатель,
+Инфузируемый Metal Aquabreather,
 Устройство извлечения инфузии,
 Ингредиент,
 Ингредиент"
@@ -807,17 +807,17 @@ Invisible Stompers,Невидимые топтуны
 Invitation,
 Invitation from Queen Jennah,
 Invitation to """"Lily of the Elon""""""","Интеллект, сила воли
-Разведывательное донесение: Палава Джоко I
-Разведывательное донесение: Палава Джоко I, стр. 01
-Разведдонесение: Палава Джоко I, стр. 02
-Разведдонесение: Палава Джоко I, стр. 03
-Разведдонесение: Палава Джоко I, стр. 04
-Разведдонесение: Палава Джоко I, стр. 05
-Разведдонесение: Палава Джоко I, стр. 06
-Разведдонесение: Палава Джоко I, стр. 07
+Разведывательное донесение: Palawa Joko I
+Разведывательное донесение: Palawa Joko I, стр. 01
+Разведдонесение: Palawa Joko I, стр. 02
+Разведдонесение: Palawa Joko I, стр. 03
+Разведдонесение: Palawa Joko I, стр. 04
+Разведдонесение: Palawa Joko I, стр. 05
+Разведдонесение: Palawa Joko I, стр. 06
+Разведдонесение: Palawa Joko I, стр. 07
 Перехваченные расчёты Исследовательского совета
 Переплетённая деревянная лента
-В загадочную тьму
+Into the Puzzling Dark
 Затейливый аметистовый самоцвет
 Рюкзак затейливого оружейника
 Сложные инструменты бронника
@@ -834,7 +834,7 @@ Invitation to """"Lily of the Elon""""""","Интеллект, сила воли
 Затейливый перидотовый самоцвет
 Искусный рюкзак писаря
 Сложные инструменты писаря
-Искусная снежинка
+Intricate Snowflake
 Затейливый шпинелевый самоцвет
 Затейливый солнечный камень
 Замысловатый рюкзак портного
@@ -844,7 +844,7 @@ Invitation to """"Lily of the Elon""""""","Интеллект, сила воли
 Замысловатая коробка с часовым механизмом
 Замысловатый рюкзак оружейника
 Сложные инструменты оружейника
-Искусно вырезанный оррианский реликт
+Искусно вырезанный Orrian Relic
 Аксессуар захватчика
 Амулет захватчика
 Топор захватчика
@@ -894,7 +894,7 @@ Invitation to """"Lily of the Elon""""""","Интеллект, сила воли
 Набор для расследования
 Невидимая спора гриба берсерка
 Коробка невидимых сапог
-Невидимые сапоги
+Invisible Boots
 Невидимая спора гриба хрономанта
 Невидимая спора гриба сорвиголовы
 Невидимая спора гриба драконоборца
@@ -902,8 +902,8 @@ Invitation to """"Lily of the Elon""""""","Интеллект, сила воли
 Невидимая спора гриба глашатая
 Невидимая спора гриба жнеца
 Невидимая спора гриба приспособленца
-Невидимые тапочки
-Невидимые топтуны
+Invisible Slippers
+Invisible Stompers
 Невидимая спора гриба буревестника
 Приглашение
 Приглашение от королевы Дженны
@@ -1223,7 +1223,7 @@ Purchase the recipe for this item from any Mystic Forge vendor and reach an arti
 Purchased from Huntmaster Arnorr in Untamed Crags in Starlit Weald after completing the Starlit Weald Mastery achievement.,Покупается у Хантмастера Арнорра в Неукрощённых утёсах в Звёздной роще после выполнения достижения «Starlit Weald Mastery».
 Purchased from Rojan the Penitent in Frostgorge Sound after successfully defeating the Claw of Jormag.,Покупается у Роджана Кающегося в Frostgorge Sound после успешного поражения Когтя Йормага.
 Purchased from Tyrian Alliance Representative Sharpwhisker in Glimmering Arches in Shipwreck Strand after completing the Shipwreck Strand Mastery achievement.,Покупается у представителя Tyrian Alliance Остроуса в Мерцающих арках на Кораблекрушенном берегу после выполнения достижения «Мастерство Кораблекрушенного берега».
-"Purchased from Visions of Eternity renown heart vendors.""","Куплено у продавцов заданий сердца «Видения вечности»."""""
+"Purchased from Visions of Eternity renown heart vendors.""","Куплено у продавцов заданий сердца «Visions of Eternity»."""""
 Purchased from dungeon vendors for 500 Tales of Dungeon Delving.,Покупается у торговцев подземелий за 500 Tales of Dungeon Delving.
 Rare or uncommon dye chances:,Шансы на редкие или необычные краски:
 "Really enjoys facing north for some reason.,Почему-то очень любит смотреть на север.",Почему-то очень любит смотреть на север.
@@ -1348,7 +1348,7 @@ Fourth Drop:,Четвёртая капля:
 The 9th Anniversary Supply Drop","Припасы 8-й годовщины,
 Используйте, чтобы подписаться на еженедельные припасы 8-й годовщины. Получите первую каплю немедленно и ещё три до 15 сентября.,
 Первая капля:,
-5 ключей от сундука Чёрного льва, Золотой ключ от сундука Чёрного льва
+5 ключей от сундука Чёрного льва, Golden Black Lion Chest Key
 Вторая капля:,
 Лицензия на выбор скакуна «Причудливые звери», выбор одной из экзотических пород
 Третья капля:,
@@ -1452,12 +1452,12 @@ The War Eternal Supply Drop","Припасы «Новые горизонты»,
 2 билета на получение миниатюры Чёрного льва, Ваучер на рюкзак и планёр Чёрного льва
 Четвёртая поставка:,Четвёртая поставка:
 Четвёртая поставка:,
-1 билет на оружие Чёрного льва, 1 золотой ключ от сундука Чёрного льва
+1 билет на оружие Чёрного льва, 1 Golden Black Lion Chest Key
 Норны: Легенды и наследие
-Северный ветер
-Олмакханы
-Роскошь Вабби
-Орден Шепчущих может использовать этот ключ, чтобы помешать усилиям Инквеста в этой области.
+The North Wind
+The Olmakhan
+The Opulence of Vabbi
+Order of Whispers может использовать этот ключ, чтобы помешать усилиям Инквеста в этой области.
 Ярмо вола: Бронза
 Ярмо вола: Золото
 Ярмо вола: Серебро
@@ -1466,27 +1466,27 @@ The War Eternal Supply Drop","Припасы «Новые горизонты»,
 Хищник. Том 1
 Хищник. Том 2
 Хищник. Том 3
-Жнец
+The Punisher
 Чистый звук природы
 Ожерелье Королевы
 Посох ворона
-Репликатор
+The Replicator
 Список дел Бича Вабби
 Кристалл Разрушителя
-Сияющий Клинок
+The Shining Blade
 Руководство по Сияющему Клинку
-Спящее семя
-Южносолнечная роза
+The Sleeping Seed
+The Southsun Rose
 Дар Копьеносца
-Духи дикой природы
-Скат
+The Spirits of the Wild
+The Stingray
 Облик копья «Пронзающий бурю»
 Ужасный Чойя
-Растущий Ужас
-Осколок Звезды Тейн
+The Terror That Grows
+The Theign Star Fragment
 Восторг битвы
 Трон Ахдашима
-Истинное имя
+The True Name
 Артефакт Близнецов
 Бастион Близнецов
 Клинок Близнецов
@@ -1512,7 +1512,7 @@ The War Eternal Supply Drop","Припасы «Новые горизонты»,
 Мушкет Близнецов
 Наплечники Близнецов
 Бритва Близнецов
-Жнец Близнецов
+The Punisher Близнецов
 Револьвер Близнецов
 Короткий лук Близнецов
 Наплечник Близнецов
@@ -1526,9 +1526,9 @@ The War Eternal Supply Drop","Припасы «Новые горизонты»,
 Боевые рукавицы Близнецов
 Боевой молот Близнецов
 Наручи Близнецов
-Уродливая палка
+The Ugly Stick
 Очень голодный дольяк
-Припасы «Вечная война»"
+Припасы «War Eternal»"
 "The backpack of a Vigil leader.,Рюкзак лидера Дозора.",Рюкзак лидера Дозора.
 "The bat wing is well preserved.,
 <c=@flavor>The wing smells a little funky and tingles with a feeling that reminds you of the Mystic Forge.</c>","Крыло летучей мыши хорошо сохранилось.,
@@ -1666,7 +1666,7 @@ This page is part of the Frode's Journal achievement.,Эта страница я
 • Живописные и удобные возможности для рыбалки и катания на лодках,
 • Столы для крафта,
 • Доступ к банку и гильдейскому банку,
-• Мистическая кузница,
+• Mystic Forge,
 • Торговцы,
 • И многое другое! Всё в пределах лёгкой досягаемости для тех, кто ценит максимальное удобство."
 "This pass provides temporary access to the Thousand Seas Pavilion, a beautiful isle adrift in the Mists.
@@ -1676,7 +1676,7 @@ This page is part of the Frode's Journal achievement.,Эта страница я
 • Bank and Guild Bank Access,
 • Mystic Forge,
 • Merchants,
-• And more! All within easy reach, for those who enjoy the ultimate convenience.","Этот пропуск даёт временный доступ в Павильон тысячи морей — прекрасный остров, парящий в Бездне.
+• And more! All within easy reach, for those who enjoy the ultimate convenience.","Этот пропуск даёт временный доступ в Thousand Seas Pavilion — прекрасный остров, парящий в Бездне.
 • Быстрое путешествие во все города и множество мест для рыбалки,
 • Живописные и удобные возможности для рыбалки и катания на лодках,
 • Ремесленные станции,
@@ -1738,24 +1738,24 @@ Event Item","Сдайте агенту Теней в Пустыне Криста
 "Unlocks the following recipes:,
 • Shimmering Dagger,• Мерцающий кинжал
 • Tenebrous Dagger","Открывает следующие рецепты:,
-• Мерцающий кинжал
-• Мерцающий кинжал
+• Shimmering Dagger
+• Shimmering Dagger
 • Тенеброзный кинжал"
 "Unlocks the following recipes:,
 • Shimmering Focus,• Мерцающий фокус
 • Tenebrous Focus","Открывает следующие рецепты:,
-• Мерцающий фокус,• Мерцающий фокус
-• Мрачный фокус"
+• Shimmering Focus,• Shimmering Focus
+• Tenebrous Focus"
 "Unlocks the following recipes:,
 • Shimmering Scepter,• Мерцающий скипетр
 • Tenebrous Scepter","Открывает следующие рецепты:,
-• Мерцающий скипетр,• Мерцающий скипетр
-• Мрачный скипетр"
+• Shimmering Scepter,• Shimmering Scepter
+• Tenebrous Scepter"
 "Unlocks the following recipes:,
 • Shimmering Staff,• Мерцающий посох
 • Tenebrous Staff","Открывает следующие рецепты:,
-• Мерцающий посох,• Мерцающий посох
-• Мрачный посох"
+• Shimmering Staff,• Shimmering Staff
+• Tenebrous Staff"
 "Unlocks the journey to the legendary trinket Vision. If you have already fulfilled certain requirements, they will be retroactively granted.","Открывает путь к легендарному аксессуару «Видение». Если вы уже выполнили некоторые требования, они будут зачтены задним числом."
 "Unpack a target painter. This trick marks up to 50 enemy players in the area for 30 seconds. Costs 10 supply to deploy. Cannot be avoided.,«Развернуть целеуказатель. Этот трюк помечает до 50 вражеских игроков в области на 30 секунд. Стоит 10 единиц припасов для развёртывания. Нельзя избежать».
 Deployment Range: 1,200
@@ -1797,9 +1797,9 @@ Use this to sign your account up for weekly Visions of Eternity Launch Supply Dr
 Ваучер на добивание Чёрного льва, ваучер на оружие Чёрного льва
 Четвертая капля:,Четвёртая капля:
 5 ключей от сундука Чёрного льва, 2 билета на миниатюру Чёрного льва
-Используйте это, чтобы подписаться на еженедельные припасы запуска «Видения вечности». Получите первую каплю немедленно и ещё три до 25 ноября."
+Используйте это, чтобы подписаться на еженедельные припасы запуска «Visions of Eternity». Получите первую каплю немедленно и ещё три до 25 ноября."
 Use this to sign your account up for weekly War Eternal Supply Drops. Receive the first immediately and three more between now and May 21.,"Используйте это, чтобы подписать свой аккаунт на еженедельные поставки Войны вечности. Первая доставка будет сразу, ещё три — с сегодняшнего дня по 21 мая."
-"Use to gain a Target Painter trap. This trap marks up to 50 enemies when activated. Costs 5 supply to deploy. Cannot be avoided.,'Используйте","чтобы получить ловушку «Целеуказатель». Эта ловушка отмечает до 50 врагов при активации. Стоит 5 единиц припасов для установки. Нельзя избежать"".'"
+"Use to gain a Target Painter trap. This trap marks up to 50 enemies when activated. Costs 5 supply to deploy. Cannot be avoided.,'Используйте","чтобы получить ловушку «Target Painter». Эта ловушка отмечает до 50 врагов при активации. Стоит 5 единиц припасов для установки. Нельзя избежать"".'"
 Used by jade bot technicians to upgrade to Mount Energy Booster 3.,Используется техниками джейд-ботов для улучшения до Усилителя энергии скакуна 3.
 Used by jade bot technicians to upgrade to Rescue Protocol Recharge 3.,Используется техниками джейд-ботов для улучшения до Восстановления протокола спасения 3.
 Used by jade bot technicians to upgrade to Skiff Supercharger 3.,Используется техниками джейд-ботов для улучшения до Суперзарядчика скифа 3.
@@ -1841,7 +1841,7 @@ Replaces gathering results with logs used in higher-level crafting recipes. Mate
 Заменяет результаты сбора на бревна, используемые в рецептах крафта более высокого уровня. Типы материалов определяются типом собираемого узла. Древнюю древесину можно улучшить ограниченное количество раз в день."
 "Used to craft the legendary dagger precursor Claw of Resolution.,
 Combine in the Mystic Forge with Mystic Runestones, a Gift of Metal
-Used to craft the legendary focus precursor Ars Goetia.","Используется для создания предшественника легендарного кинжала «Коготь Решимости».,
+Used to craft the legendary focus precursor Ars Goetia.","Используется для создания предшественника легендарного кинжала «Claw of Resolution».,
 Объедините в Mystic Forge с Мистическими рунными камнями, Даром металла
 Используется для создания предшественника легендарного фокуса Ars Goetia."
 "Used to craft the legendary greatsword precursor Exitare.,
@@ -1858,7 +1858,7 @@ Used to craft the legendary torch precursor Liturgy.","Используется 
 Соедините в Mystic Forge с Таинственными руническими камнями, Даром энергии
 Используется для создания легендарного щита Шушаду.,
 Используется для создания легендарного меча Shining Blade.,
-Используется для создания легендарного факела Пламя войны.,
+Используется для создания легендарного факела Flames of War.,
 Используется для создания легендарного предшественника факела Литургия."
 Used to create a Gift of Galdra.,Используется для создания Дара Галдры.
 Used to create a Gift of Shadowstones.,Используется для создания Дары Теневых камней.
@@ -1875,7 +1875,7 @@ Used to create a Gift of the Survivors.,Используется для созд
 Earned by completing the Shipwreck Strand Mastery achievement.,Получено за выполнение достижения «Мастерство Кораблекрушения».
 Additional copies can be purchased from Visions of Eternity vendors afterward.","Используется для создания Дара выживших.
 Получено за выполнение достижения «Мастерство Кораблекрушения».
-Дополнительные копии можно приобрести у торговцев «Видения вечности»."
+Дополнительные копии можно приобрести у торговцев «Visions of Eternity»."
 "Used to create legendary equipment.,Используется для создания легендарного снаряжения.","Используется для создания легендарного снаряжения.,Используется для создания легендарного снаряжения."
 Used to create legendary weapon and trinket gift items.,Используется для создания предметов дара для легендарного оружия и аксессуаров.
 "Used to detect and dig up chunks of Brandstone that fall on Istan. ,
@@ -1888,7 +1888,7 @@ Used to gather all plants.","Используется для сбора цуки
 Используется для сбора всех растений."
 "Used to gather all plants. Rewards unbound magic in addition to harvesting results. Unlimited use.,«Используется для сбора всех растений. В награду за сбор даёт необузданную магию. Неограниченное использование.»
 <c=@Reminder>This item can be exchanged for an updated version at the Black Lion Exchange Specialist.</c>","Используется для сбора всех растений. Даёт несвязанную магию в дополнение к результатам сбора. Неограниченное использование.,
-<c=@Reminder>Этот предмет можно обменять на обновлённую версию у специалиста по обмену «Чёрный лев».</c>"
+<c=@Reminder>Этот предмет можно обменять на обновлённую версию у специалиста по обмену «Black Lion».</c>"
 Used to harvest all plants.,Используется для сбора всех растений.
 "Used to harvest all plants. Unlimited use. In addition to your harvesting results, this tool has a small chance to reward additional items after gathering completes.",Используется для сбора всех растений. Безлимитное использование. В дополнение к результатам сбора этот инструмент с небольшим шансом может дать дополнительные предметы после завершения сбора.
 "Used to harvest all plants.,

@@ -25,7 +25,7 @@ Defeat %num2% dredge.,Победите %num2% дреджей.
 "Defeat %num2% enemy[pl:""enemies""] while defending your team's capture points during Spirit Watch rated matches.","Победите %num2% враг[а|а|ов], защищая точки захвата своей команды, в рейтинговых матчах «Spirit Watch»."
 "Defeat %num2% enemy[pl:""enemies""] while defending your team's capture points during Temple of the Silent Storm rated matches.","Победите %num2% враг[а|а|ов], защищая точки захвата своей команды, в рейтинговых матчах «Храм Безмолвной Бури»."
 "Defeat %num2% enemy[pl:""enemies""] while defending your team's capture points during rated Djinn's Dominion matches.","Победите %num2% враг[а|а|ов], защищая точки захвата своей команды, в рейтинговых матчах «Владения джинна»."
-"Defeat %num2% enemy[pl:""enemies""] while defending your team's capture points during rated Eternal Coliseum matches.","Победите %num2% враг[а|а|ов], защищая точки захвата своей команды, в рейтинговых матчах «Вечный колизей»."
+"Defeat %num2% enemy[pl:""enemies""] while defending your team's capture points during rated Eternal Coliseum matches.","Победите %num2% враг[а|а|ов], защищая точки захвата своей команды, в рейтинговых матчах «Eternal Coliseum»."
 "Defeat %num2% enemy[pl:""enemies""].",Победите %num2% враг[а|а|ов].
 "Defeat %num2% grawl, hylek, dredge, or krait enemy[pl:""enemies""].","Победите %num2% враг[а|а|ов] из числа граулов, хилеков, дреджей или крайтов."
 Defeat %num2% haze agitators.,Победите %num2% возмутителей дымки.
@@ -38,7 +38,7 @@ Defeat %num2% opponent in Aspect Arena.,Победите %num2% противни
 Defeat %num2% player[s] during Battle of Champion's Dusk rated matches.,Победите %num2% игрок[а|а|ов] в рейтинговых матчах «Битва Сумерек Чемпиона».
 Defeat %num2% player[s] during Battle of Kyhlo rated matches.,Победите %num2% игрок[а|а|ов] в рейтинговых матчах «Битва за Кайло».
 Defeat %num2% player[s] during Djinn's Dominion rated matches.,Победите %num2% игрок[а|а|ов] в рейтинговых матчах «Владения джинна».
-Defeat %num2% player[s] during Eternal Coliseum rated matches.,Победите %num2% игрок[а|а|ов] в рейтинговых матчах «Вечный колизей».
+Defeat %num2% player[s] during Eternal Coliseum rated matches.,Победите %num2% игрок[а|а|ов] в рейтинговых матчах «Eternal Coliseum».
 Defeat %num2% player[s] during Forest of Niflhel rated matches.,Победите %num2% игрок[а|а|ов] в рейтинговых матчах «Лес Нифльхеля».
 Defeat %num2% player[s] during Legacy of the Foefire rated matches.,Победите %num2% игрок[а|а|ов] в рейтинговых матчах «Наследие Огня Врагов».
 Defeat %num2% player[s] during Revenge of the Capricorn rated matches.,Победите %num2% игрок[а|а|ов] в рейтинговых матчах «Месть Козерога».
@@ -129,7 +129,7 @@ Defeat Boom-Boom Baines during a Boss Blitz event in the Crown Pavilion.,Одо�
 Defeat Boom-Boom Baines during a Boss Blitz event in the Crown Pavilion. This achievement can be completed once every year.,Одолейте Буму-Буму Бейнса во время события «Натиск боссов» в Королевском павильоне. Это достижение можно выполнить один раз в год.
 Defeat Cairn the Indomitable while the challenge mote is active.,Победите Cairn the Indomitable с активным испытанием.
 Defeat Cairn the Indomitable.,Победите Кэрна Неукротимого.
-Defeat Canach's Lair without getting caught in any traps. [Living World Season 1: Canach's Lair vision. Accessed via the Scrying Pool in Eye of the North.],"Победите в Логове Canach, не попав ни в одну ловушку. [Living World, 1-й сезон: видение «Логово Canach». Доступ через Омут Прорицания в Оке Севера.]"
+Defeat Canach's Lair without getting caught in any traps. [Living World Season 1: Canach's Lair vision. Accessed via the Scrying Pool in Eye of the North.],"Победите в Логове Canach, не попав ни в одну ловушку. [Living World, 1-й сезон: видение «Логово Canach». Доступ через Scrying Pool в Оке Севера.]"
 "Defeat Canach's golem, Subdirector NULL, in Canach's Lair.","Победите голема Canach, Subdirector NULL, в Логове Canach."
 "Defeat Captain Fa while under the influence of the ""special"" dish.",Победите Captain Fa под воздействием «особого» блюда.
 Defeat Cardinal Adina while the challenge mote is active.,Победите Cardinal Adina с активным испытанием.
@@ -138,7 +138,7 @@ Defeat Cardinal Adina.,Победите кардинала Адину.
 Defeat Cardinal Sabir while the challenge mote is active.,Победите Cardinal Sabir с активным испытанием.
 Defeat Cardinal Sabir without being hit by a voltaic wisp's Electrospark skill.,"Победите Cardinal Sabir, не попав под удар навыка Electrospark вольтаического огонька."
 Defeat Cardinal Sabir.,Победите кардинала Сабира.
-Defeat Cerus and Deimos within 5 seconds of each other in the Lonely Tower fractal.,Победите Cerus и Deimos с разницей в 5 секунд во фрактале Одинокая Башня.
+Defeat Cerus and Deimos within 5 seconds of each other in the Lonely Tower fractal.,Победите Cerus и Deimos с разницей в 5 секунд во фрактале Lonely Tower.
 Defeat Champion Mordrem Husk Copper. Active during The Breach after Pact Assault Preparations has been fully completed.,Победите чемпиона Mordrem Husk Copper. Активен во время Прорыва после полного завершения Подготовки к Штурму Пакта.
 Defeat Champion Mordrem Teragriff Silver and Champion Mordrem Teragriff Gold. Active during The Breach after Pact Assault Preparations has been fully completed.,Победите чемпионов Mordrem Teragriff Silver и Mordrem Teragriff Gold. Активны во время Прорыва после полного завершения Подготовки к Штурму Пакта.
 Defeat Champion Mordrem Thrasher Platinum. Active during The Breach after Pact Assault Preparations has been fully completed.,Победите чемпиона Mordrem Thrasher Platinum. Активен во время Прорыва после полного завершения Подготовки к Штурму Пакта.
@@ -155,11 +155,11 @@ Defeat Drakkar without being hit more than 8 times by its abilities.,"Побед
 Defeat Drakkar without dying or being hit more than 20 times by its abilities.,"Победите Drakkar, не погибнув и получив не более 20 ударов от его способностей."
 "Defeat Ellutherius Wintergust without being hit by his pot attacks, three consecutive times.","Победите Ellutherius Wintergust, не попав под удар его атак горшком три раза подряд."
 Defeat Ensolyss within the time limit.,Победите Ensolyss в установленное время.
-Defeat Eparch in the Lonely Tower fractal without allowing him to reach 20 stacks of any emotional attunement.,"Победите Eparch во фрактале Одинокая Башня, не позволив ему набрать 20 зарядов любой эмоциональной настройки."
-Defeat Eparch in the Lonely Tower fractal without taking damage from his rage fissures.,"Победите Eparch во фрактале Одинокая Башня, не получив урона от его яростных разломов."
+Defeat Eparch in the Lonely Tower fractal without allowing him to reach 20 stacks of any emotional attunement.,"Победите Eparch во фрактале Lonely Tower, не позволив ему набрать 20 зарядов любой эмоциональной настройки."
+Defeat Eparch in the Lonely Tower fractal without taking damage from his rage fissures.,"Победите Eparch во фрактале Lonely Tower, не получив урона от его яростных разломов."
 Defeat Eparch within the time limit.,Победите Eparch в установленное время.
 Defeat First Mate Horrik within the time limit.,Победите First Mate Horrik в установленное время.
-Defeat Foreman Spur in the Twilight Assault dungeon.,Победите Foreman Spur в подземелье Сумеречный Штурм.
+Defeat Foreman Spur in the Twilight Assault dungeon.,Победите Foreman Spur в подземелье Twilight Assault.
 Defeat Forged enemies in any region.,Победите Кованых врагов в любом регионе.
 Defeat Gorseval the Multifarious.,Победите Gorseval the Multifarious.
 Defeat Gorseval without being hit by its rampage attack.,"Победите Gorseval, не попав под его атаку «ярость»."
@@ -292,7 +292,7 @@ Defeat all the champion enemies in East Bjora Marches.,Победите всех
 Defeat all three assault knights within six minutes after the event starts.,Победите всех трех штурмовых рыцарей в течение шести минут после начала события.
 Defeat all weapon types in the seer weapon training.,Победите все типы оружия в тренировке с провидцем.
 Defeat an ArenaNet employee in Player vs. Player combat.,Победите сотрудника ArenaNet в бою Player vs. Player.
-Defeat an Eye of Zhaitan at difficulty 3 in Dragon Arena (Private).,Победите Око Зайтана на сложности 3 на Арене Драконов (Частная).
+Defeat an Eye of Zhaitan at difficulty 3 in Dragon Arena (Private).,Победите Eye of Zhaitan на сложности 3 на Арене Драконов (Частная).
 Defeat an Inquest suppressor golem at the facility around Rata Primus.,Победите голема-подавителя Inquest на объекте вокруг Rata Primus.
 "Defeat an enemy with debris in the ""Use debris in the environment to help destroy the titan organ sacs"" event.","Победите врага с помощью обломков в событии ""Use debris in the environment to help destroy the titan organ sacs""."
 Defeat an intrusion from beyond the Mists.,Победите вторжение из-за пределов Mists.
@@ -372,8 +372,8 @@ Defeat the Champion Svanir Shaman Chief and break his control over the ice eleme
 Defeat the Champion Toxic Spider Queen without allowing her to reach a cocoon.,"Победите Champion Toxic Spider Queen, не позволив ей добраться до кокона."
 Defeat the Champion Toxic Warlock.,Победите Champion Toxic Warlock.
 Defeat the Chaos Anomaly and each of the champion golems.,Победите Chaos Anomaly и каждого из големов-чемпионов.
-Defeat the Claw of Jormag %num2% times in the Northern Drizzlewood Coast.,Победите Коготь Йормага %num2% раз на севере Моросистого побережья.
-Defeat the Claw of Jormag %num2% times during Wintersday.,Победите Коготь Йормага %num2% раз во время Зимнего дня.
+Defeat the Claw of Jormag %num2% times in the Northern Drizzlewood Coast.,Победите Claw of Jormag %num2% раз на севере Моросистого побережья.
+Defeat the Claw of Jormag %num2% times during Wintersday.,Победите Claw of Jormag %num2% раз во время Зимнего дня.
 Defeat the Claw of Jormag on the Frostwalk Tundra in Frostgorge Sound.,Победите Claw of Jormag на Frostwalk Tundra в Frostgorge Sound.
 Defeat the Clockwork Nightmare during the Twilight Assault.,Победите Clockwork Nightmare во время Twilight Assault.
 Defeat the Conjured Amalgamate on challenge mode.,Победите Conjured Amalgamate в режиме испытания.
@@ -461,7 +461,7 @@ Defeat the Twisted Marionette's power regulator wardens.,Одолейте стр
 Defeat the Unbound Guardian deep within the Cavern of Unseen Lights.,Одолейте Unbound Guardian глубоко в Cavern of Unseen Lights.
 Defeat the Valdhertz bosses without getting struck by their attacks more than 10 times.,"Одолейте боссов Valdhertz, получив не более 10 ударов от их атак."
 Defeat the Vale Guardian.,Победите Стража Долины.
-Defeat the Voice in the Void on challenge mode.,Победите Голос в Пустоте в режиме испытания.
+Defeat the Voice in the Void on challenge mode.,Победите Voice in the Void в режиме испытания.
 Defeat the Voice in the Void.,Победите Голос в Пустоте.
 Defeat the Voice of the Fallen and Claw of the Fallen in the Raven Sanctum raid encounter.,Одолейте Voice of the Fallen и Claw of the Fallen в рейде Raven Sanctum.
 Defeat the Voice of the Fallen and Claw of the Fallen in the Sanctum Arena.,Одолейте Voice of the Fallen и Claw of the Fallen на арене Sanctum Arena.
@@ -500,4 +500,4 @@ Defeat the fire elemental in the Thaumanova Reactor in Metrica Province.,Одо�
 Defeat the first 5 holographic champions in the Dragon Arena.,Одолейте первых 5 голографических чемпионов на Арене Дракона.
 Defeat the forged hounds in the Vabbi Foundry.,Одолейте кованых гончих в Vabbi Foundry.
 Defeat the fugitive Canach in his Southsun lair.,Одолейте беглеца Canach в его логове на Southsun.
-Defeat the fugitive Canach in his island hideaway. [Living World Season 1 vision: Canach's Lair. Accessed via the Scrying Pool in the Eye of the North.],"Одолейте беглеца Canach в его островном убежище. [Living World, 1-й сезон: видение «Логово Canach». Доступ через Омут прорицания в Оке Севера.]"
+Defeat the fugitive Canach in his island hideaway. [Living World Season 1 vision: Canach's Lair. Accessed via the Scrying Pool in the Eye of the North.],"Одолейте беглеца Canach в его островном убежище. [Living World, 1-й сезон: видение «Логово Canach». Доступ через Scrying Pool в Оке Севера.]"

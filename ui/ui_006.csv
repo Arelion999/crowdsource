@@ -157,7 +157,7 @@ english,translate
 %str1%%str2%Empowered Eparch's Sword%str3%%str4%,%str1%%str2%Усиленный меч Эпарха%str3%%str4%
 %str1%%str2%Endeavor%str3%%str4%,%str1%%str2%Дерзание%str3%%str4%
 %str1%%str2%Enduring Fiery Dragon Sword%str3%%str4%,%str1%%str2%Стойкий огненный драконий меч%str3%%str4%
-%str1%%str2%Enduring Icy Dragon Sword%str3%%str4%,%str1%%str2%Стойкий ледяной драконий меч%str3%%str4%
+%str1%%str2%Enduring Icy Dragon Sword%str3%%str4%,%str1%%str2%Enduring Icy Dragon Sword%str3%%str4%
 %str1%%str2%Enduring Infinite Light%str3%%str4%,%str1%%str2%Стойкий бесконечный свет%str3%%str4%
 %str1%%str2%Entropy%str3%%str4%,%str1%%str2%Энтропия%str3%%str4%
 %str1%%str2%Envy's Bite%str3%%str4%,%str1%%str2%Укус зависти%str3%%str4%
@@ -290,9 +290,9 @@ english,translate
 %str1%%str2%Fiery Dragon Slayer Mace%str3%%str4%,%str1%%str2%Огненная булава убийцы драконов%str3%%str4%
 %str1%%str2%Fiery Dragon Slayer Pistol%str3%%str4%,%str1%%str2%Огненный пистолет убийцы драконов%str3%%str4%
 %str1%%str2%Fiery Dragon Slayer Rifle%str3%%str4%,%str1%%str2%Fiery Dragon Slayer Rifle%str3%%str4%
-%str1%%str2%Fiery Dragon Slayer Scepter%str3%%str4%,%str1%%str2%Огненный скипетр убийцы драконов%str3%%str4%
+%str1%%str2%Fiery Dragon Slayer Scepter%str3%%str4%,%str1%%str2%Огненный Dragon Slayer Scepter%str3%%str4%
 %str1%%str2%Fiery Dragon Slayer Shield%str3%%str4%,%str1%%str2%Огненный щит убийцы драконов%str3%%str4%
-%str1%%str2%Fiery Dragon Slayer Short Bow%str3%%str4%,%str1%%str2%Огненный короткий лук убийцы драконов%str3%%str4%
+%str1%%str2%Fiery Dragon Slayer Short Bow%str3%%str4%,%str1%%str2%Fiery Dragon Slayer Short Bow%str3%%str4%
 %str1%%str2%Fiery Dragon Slayer Staff%str3%%str4%,%str1%%str2%Fiery Dragon Slayer Staff%str3%%str4%
 %str1%%str2%Fiery Dragon Slayer Sword%str3%%str4%,%str1%%str2%Fiery Dragon Slayer Sword%str3%%str4%
 %str1%%str2%Fiery Dragon Slayer Torch%str3%%str4%,%str1%%str2%Огненный факел убийцы драконов%str3%%str4%
@@ -302,7 +302,7 @@ english,translate
 %str1%%str2%Final Rest%str3%%str4%,%str1%%str2%Последний покой%str3%%str4%
 %str1%%str2%Fire God's Heavy Vambraces%str3%%str4%,%str1%%str2%Тяжёлые наручи бога огня%str3%%str4%
 %str1%%str2%Fire God's Light Vambraces%str3%%str4%,%str1%%str2%Лёгкие наручи бога огня%str3%%str4%
-%str1%%str2%Fire God's Medium Vambraces%str3%%str4%,%str1%%str2%Средние наручи бога огня%str3%%str4%
+%str1%%str2%Fire God's Medium Vambraces%str3%%str4%,%str1%%str2%Fire God's Medium Vambraces%str3%%str4%
 %str1%%str2%Firebrand's Axe%str3%%str4%,%str1%%str2%Топор Поджигателя%str3%%str4%
 %str1%%str2%Firebrand's War Miter%str3%%str4%,%str1%%str2%Боевая митра Поджигателя%str3%%str4%
 %str1%%str2%Firebringer%str3%%str4%,%str1%%str2%Огненосец%str3%%str4%
@@ -375,7 +375,7 @@ english,translate
 %str1%%str2%Flamewrath Pauldrons%str3%%str4%,%str1%%str2%Наплечники «Гнев пламени»%str3%%str4%
 %str1%%str2%Flamewrath Warboots%str3%%str4%,%str1%%str2%Боевые сапоги «Гнев пламени»%str3%%str4%
 %str1%%str2%Flaming Beacon%str3%%str4%,%str1%%str2%Пылающий маяк%str3%%str4%
-%str1%%str2%Flanged Mace of the Broken Voice%str3%%str4%,%str1%%str2%Ребристая булава Сломанного Голоса%str3%%str4%
+%str1%%str2%Flanged Mace of the Broken Voice%str3%%str4%,%str1%%str2%Flanged Mace of the Broken Voice%str3%%str4%
 %str1%%str2%Flanged Mace of the Scion%str3%%str4%,%str1%%str2%Ребристая булава Отпрыска%str3%%str4%
 %str1%%str2%Flanged Mace of the Sunless%str3%%str4%,%str1%%str2%Ребристая булава Бессолнечного%str3%%str4%
 %str1%%str2%Flow%str3%%str4%,%str1%%str2%«Прилив»%str3%%str4%

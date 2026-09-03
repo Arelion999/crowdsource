@@ -51,7 +51,7 @@ english,translate
 %str1%%str2%Corrupted Hero Rifle%str3%%str4%,%str1%%str2%Осквернённая геройская винтовка%str3%%str4%
 %str1%%str2%Corrupted Hero Scepter%str3%%str4%,%str1%%str2%Осквернённый геройский скипетр%str3%%str4%
 %str1%%str2%Corrupted Hero Shield%str3%%str4%,%str1%%str2%Осквернённый геройский щит%str3%%str4%
-%str1%%str2%Corrupted Hero Short Bow%str3%%str4%,%str1%%str2%Осквернённый геройский короткий лук%str3%%str4%
+%str1%%str2%Corrupted Hero Short Bow%str3%%str4%,%str1%%str2%Corrupted Hero Short Bow%str3%%str4%
 %str1%%str2%Corrupted Hero Spear%str3%%str4%,%str1%%str2%Осквернённое геройское копьё%str3%%str4%
 %str1%%str2%Corrupted Hero Staff%str3%%str4%,%str1%%str2%Осквернённый геройский посох%str3%%str4%
 %str1%%str2%Corrupted Hero Sword%str3%%str4%,%str1%%str2%Осквернённый геройский меч%str3%%str4%
@@ -134,7 +134,7 @@ english,translate
 %str1%%str2%Crimson Dragon Slayer Longbow%str3%%str4%,%str1%%str2%Багровый длинный лук убийцы драконов%str3%%str4%
 %str1%%str2%Crimson Dragon Slayer Mace%str3%%str4%,%str1%%str2%Багровая булава убийцы драконов%str3%%str4%
 %str1%%str2%Crimson Dragon Slayer Rifle%str3%%str4%,%str1%%str2%Багровая винтовка убийцы драконов%str3%%str4%
-%str1%%str2%Crimson Dragon Slayer Scepter%str3%%str4%,%str1%%str2%Багровый скипетр убийцы драконов%str3%%str4%
+%str1%%str2%Crimson Dragon Slayer Scepter%str3%%str4%,%str1%%str2%Багровый Dragon Slayer Scepter%str3%%str4%
 %str1%%str2%Crimson Dragon Slayer Short Bow%str3%%str4%,%str1%%str2%Багровый короткий лук убийцы драконов%str3%%str4%
 %str1%%str2%Crimson Dragon Slayer Staff%str3%%str4%,%str1%%str2%Багровый посох убийцы драконов%str3%%str4%
 %str1%%str2%Crimson Dragon Slayer Sword%str3%%str4%,%str1%%str2%Багровый меч убийцы драконов%str3%%str4%
@@ -186,7 +186,7 @@ english,translate
 %str1%%str2%Dark Asuran Rifle%str3%%str4%,%str1%%str2%Тёмная асурская винтовка%str3%%str4%
 %str1%%str2%Dark Asuran Scepter%str3%%str4%,%str1%%str2%Тёмный асурский скипетр%str3%%str4%
 %str1%%str2%Dark Asuran Shield%str3%%str4%,%str1%%str2%Тёмный асурский щит%str3%%str4%
-%str1%%str2%Dark Asuran Short Bow%str3%%str4%,%str1%%str2%Тёмный асурский короткий лук%str3%%str4%
+%str1%%str2%Dark Asuran Short Bow%str3%%str4%,%str1%%str2%Dark Asuran Short Bow%str3%%str4%
 %str1%%str2%Dark Asuran Speargun%str3%%str4%,%str1%%str2%Тёмное асурское гарпунное ружьё%str3%%str4%
 %str1%%str2%Dark Asuran Staff%str3%%str4%,%str1%%str2%Тёмный асурский посох%str3%%str4%
 %str1%%str2%Dark Asuran Sword%str3%%str4%,%str1%%str2%Тёмный асурский меч%str3%%str4%

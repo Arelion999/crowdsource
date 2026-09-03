@@ -93,8 +93,7 @@ def cmd_apply():
                 r[1] = r[0]
                 ch += 1
         if ch:
-            with open(fp, "w", encoding="utf-8", newline="") as f:
-                csv.writer(f, lineterminator="\n").writerows(rows)
+            D.write_csv(fp, rows)
             nb += ch
     print("правок в батчах: %d" % nb)
 

@@ -197,7 +197,7 @@ Anticorrosion Plating,Anticorrosion Plating
 Any aura you grant yourself is granted to nearby allies.,Any aura you grant yourself is granted to nearby allies.
 Applied Force,Applied Force
 "Apply <c=@abilitytype>Rot Wallow Venom</c> to allies that you grant barrier to. Outgoing healing to allies is increased.
-<c=@reminder>Rot Wallow Venom effect cannot apply to yourself.</c>","Накладывайте <c=@abilitytype>Яд Гнилостного Валлоу</c> на союзников, которым вы даёте барьер. Исходящее исцеление союзников увеличено.
+<c=@reminder>Rot Wallow Venom effect cannot apply to yourself.</c>","Накладывайте <c=@abilitytype>Rot Wallow Venom</c> на союзников, которым вы даёте барьер. Исходящее исцеление союзников увеличено.
 <c=@reminder>Эффект Яда Гнилостного Валлоу не может быть применен к вам.</c>"
 Apply boons to nearby allies while channeling <c=@abilitytype>overloads</c> and when successfully completing an <c=@abilitytype>overload</c> channel.,Накладывайте благословения на ближайших союзников во время подготовки <c=@abilitytype>перегрузок</c> и при успешном завершении подготовки <c=@abilitytype>перегрузки</c>.
 Apply conditions to enemies when you disable them. Perform an additional strike when using Cosmic Wisdom that damages and burns enemies.,"Вы накладываете на врагов состояния, когда выводите их из строя. При активации Космической Мудрости вы наносите дополнительный удар, который наносит врагам урон и поджигает их."

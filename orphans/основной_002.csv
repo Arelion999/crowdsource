@@ -43,13 +43,6 @@ english,translate
 +18 Healing Power","+32 к жизненной силе
 Урон по состоянию +18
 +18 к силе исцеления"
-"+600 Power
-+300 Precision
-+3,750 Vitality
-+450 Toughness","+600 силы
-+300 точности
-+3 750 единиц живучести
-+450 защиты"
 "-10%% Incoming Damage
 +100 Concentration
 +33%% Chance to Gain Might on Critical Hit
@@ -94,6 +87,21 @@ english,translate
 +20%% к шансу найти золото
 +10%% к получаемому опыту мира"
 "-10%% Incoming Damage
++80 Concentration
++28%% Chance to Gain Might on Critical Hit
++10%% Karma
++5%% All Experience Gained
++20%% Magic Find
++20%% Gold Find
++10%% WXP Gained","-10%% Урон по попаданию
++80 Концентрация
++28%% Шанс получить эффект «Мощь» при критическом ударе
++10%% Карма
++5%% Бонус к получаемому опыту
++20%% Бонус к шансу найти магические предметы
++20%% Бонус к получаемому золоту
++10%% Бонус к получаемому опыту мира"
+"-10%% Incoming Damage
 +80 Power
 +60 Ferocity
 +10%% Karma
@@ -108,7 +116,6 @@ english,translate
 +20%% шанс найти магические предметы
 +20%% шанс получить больше золота
 +10%% опыта"
-"5. Geht wieder zu Feld-Archivarin Cierle und berichtet, was Ihr gefunden habt.","5. Geht wieder zu Feld-Archivarin Cierle und berichtet, was Ihr gefunden habt."
 "<c=@flavor>""I can retire after this!""
 —Flinzz</c>","<c=@flavor>""После этого я смогу уйти на покой!""
 —Флинзз</c>"
@@ -125,15 +132,6 @@ english,translate
 "<c=@flavor>Icy hot.</c>,
 'Found in Jora''s Keep in Bjora Marches.'","<c=@flavor>Ледяной жар.</c>,
 'Найдено в крепости Йоры в Бьора-Марке.'"
-"<c=@flavor>This weapon is used to craft the legendary short bow The Dreamer.,
-Combine this weapon in the Mystic Forge with:,Соедините это оружие в Мистической кузнице с:
-• 1 Gift of The Dreamer,
-• 1 Gift of Mastery,
-• 1 Gift of Fortune</c>","<c=@flavor>Это оружие используется для создания легендарного короткого лука «Мечтатель».,
-Соедините это оружие в Мистической кузнице с:
-• 1 Дар Мечтателя,
-• 1 Дар Мастерства,
-• 1 Дар Удачи</c>"
 <c=@reminder>Dieses Mini kann in Schwarzlöwen-Truhen gefunden werden.</c>,<c=@reminder>Эту миниатюру можно найти в сундуках Чёрного Льва.</c>
 ?Arbol va!,?Арбол ва!
 ?Kabum!,?Кабум!
@@ -142,7 +140,7 @@ Combine this weapon in the Mystic Forge with:,Соедините это оруж
 • 1 Relic
 • 250 Piles of Lucent Crystal 
 • 250 Piles of Lucent Crystal
-• 250 Piles of Lucent Crystal","Мистическая Грань создается путем объединения этих предметов в Mystic Forge:
+• 250 Piles of Lucent Crystal","Mystic Facet создается путем объединения этих предметов в Mystic Forge:
 • 1 Реликвия
 • 250 Куч Сияющего Кристалла
 • 250 Куч Сияющего Кристалла
@@ -150,17 +148,9 @@ Combine this weapon in the Mystic Forge with:,Соедините это оруж
 "A collection of items recovered from the cave. Contains a personal bandit chest for your home instance, obsidian shards
 A collection of items to aid in the training of novice adventurers.","Коллекция предметов, найденных в пещере. Содержит личный сундук бандита для вашего домашнего экземпляра, осколки обсидиана.
 Коллекция предметов для помощи в обучении начинающих искателей приключений."
-"A gift used to create legendary weapons.,'Подарок, используемый для создания легендарного оружия.'
-Made by combining these items in the Mystic Forge:,
-• 250 Vials of Powerful Blood,
-• 250 Powerful Venom Sacs,
-• 250 Elaborate Totems,• 250 Искусных тотемов
-• 250 Piles of Crystalline Dust","Подарок, используемый для создания легендарного оружия.
-Создаётся путём объединения этих предметов в Мистической кузнице:
-• 250 Флаконов мощной крови
-• 250 Мощных мешочков с ядом
-• 250 Искусных тотемов
-• 250 Куч кристаллической пыли"
+"A gift from Kosmas to his broodling. Where did he find this?,
+This item only has value as part of the Missing Brood collection.","Дар от Космаса его выводку. Где он его нашёл?,
+Этот предмет имеет ценность только как часть коллекции «Missing Brood»."
 "A homestead recipe needed to craft a Statue of Joko the Victorious.
 
 <c=@flavor>""Praise Joko!""</c>","Рецепт усадьбы, нужный для изготовления статуи Джоко Победоносного.
@@ -174,13 +164,18 @@ Made by combining these items in the Mystic Forge:,
 "A rare, one-of-a-kind recording of the Metal Legion? I'll take three!
 —Chief Melodist Flac","Редкая уникальная запись выступлений Метал Легиона? Возьму три!
 —Главный мелодист Флак"
-"A record of your exploits as a naturalist.,Запись ваших достижений как натуралиста.
-Double-click to read.","Запись ваших достижений как натуралиста.,
-Дважды щёлкните, чтобы прочитать."
 "A secret letter for Aisha Jedgok, who is undercover among the ghosts of the Lair of the Forgotten.
 
 Double-click to locate.","Секретное письмо для Айши Джедгок, которая тайно действует среди призраков в Логове Забытых.
 
+Дважды щёлкните, чтобы найти."
+"A secret letter for Nori Mahat, who is currently undercover in the village of Purity among local villagers.
+
+Double-click to locate.","Секретное письмо для Nori Mahat, которая сейчас под прикрытием в деревне Чистоты среди местных жителей.
+
+Дважды щёлкните, чтобы найти."
+"A secret letter for Nori Mahat, who is currently undercover in the village of Purity among local villagers.
+Double-click to locate.","Секретное письмо для Nori Mahat, которая в настоящее время находится под прикрытием в деревне среди местных жителей.
 Дважды щёлкните, чтобы найти."
 "A secret letter that should be brought to Ahel Nakat, who is undercover in the Ruination among the Order of Shadows.
 Double-click to locate.","Секретное письмо, которое следует передать Ахел Накат, работающему под прикрытием в Руинации среди Ордена Теней.
@@ -196,8 +191,11 @@ Celestial","Абелин Фавр
 543 Блум X011
 Небесный"
 "Acquired from Ward Trader Sampaguita in Bava Nisos.
-This item is used to craft or purchase Slumbering Lightborne weapons, which she sells crafting recipes or assistance for.","Получено у торговца отряда Сампагиты в Бава Нисос.
+This item is used to craft or purchase Slumbering Lightborne weapons, which she sells crafting recipes or assistance for.","Получено у торговца отряда Сампагиты в Bava Nisos.
 Этот предмет используется для создания или покупки оружия «Дремлющий Светонос», для которого она продаёт рецепты или помощь."
+"Acquired occasionally by earning a silver medal or better in Shipwreck Strand adventures.
+Trade to alliance field quartermasters in Castora for a pair of Restless Captain's Leggings.","Иногда выпадает за серебряную медаль или лучше в приключениях на Берегу кораблекрушений.
+Обменяйте у полевых интендантов альянса в Касторе на поножи Неупокоенного капитана."
 "Acquired occasionally by earning a silver medal or better in Starlit Weald adventures.
 Trade to alliance field quartermasters in Castora for a pair of Extremis Leggings.","Иногда выпадает за серебряную медаль или лучше в приключениях в Starlit Weald.
 Обменяйте у полевых интендантов альянса в Касторе на поножи «Экстремис»."
@@ -221,6 +219,7 @@ Build Template tabs allow a character to create and swap to an additional build.
 Ailionora,Ailionora
 "An der Einmündung, wo sich zwei Flüsse vereinen, riecht es heftig nach Fisch.",В месте слияния двух рек сильно пахнет рыбой.
 Atelier de cuisine,Atelier de cuisine
+Auf Janthir Syntri durch den Abschluss aller Orte auf der Karte verdient. Weitere Exemplare können bei Händlern für Ansehen-Herzen auf Janthir Syntri erworben werden.,Заработано на Янтхир Синтри за завершение всех мест на карте. Дополнительные экземпляры можно приобрести у торговцев за сердца уважения на Янтхир Синтри.
 Autre,Другое
 Baron von Scrufflebutt,Барон фон Скрэфлбатт
 Besiegt Titanenbrut- oder Elementar-Gegner,Победите врагов-отродий титанов или элементалей
@@ -249,11 +248,6 @@ Purchase from renown region karma merchants across the Crystal Desert with trade
 Find trade contracts in chests and lost supplies.","Может содержать зелёные брёвна или брёвна из мягкой древесины.
 Покупается за торговые контракты у торговцев кармы в регионах сердец почёта по всей Crystal Desert.
 Торговые контракты находятся в сундуках и потерянных припасах."
-"Can contain ingots of iron, darksteel
-Purchase from renown region karma merchants across the Crystal Desert with trade contracts.,Покупайте у торговцев кармы в регионах известности по всей Пустыне Хрусталя за торговые контракты.
-Find trade contracts in chests and lost supplies.","Может содержать слитки железа, тёмной стали
-Покупайте у торговцев кармы в регионах известности по всей Пустыне Хрусталя за торговые контракты.
-Находите торговые контракты в сундуках и потерянных припасах."
 "Can contain ingots of orichalcum or mithril.
 Purchase from renown region karma merchants across the Crystal Desert with trade contracts.
 Find trade contracts in chests and lost supplies.","Может содержать слитки орихалка или мифрила.
@@ -264,11 +258,6 @@ Purchase from renown region karma merchants across the Crystal Desert with trade
 Find trade contracts in chests and lost supplies.","Может содержать лоскуты джута и шерсти.
 Покупается за торговые контракты у торговцев кармы в регионах сердец почёта по всей Crystal Desert.
 Торговые контракты находятся в сундуках и потерянных припасах."
-"Can contain jute and wool scraps.,
-Purchase from renown region karma merchants across the Crystal Desert with trade contracts.,Покупайте у торговцев кармы в регионах известности по всей Пустыне Хрусталя за торговые контракты.
-Find trade contracts in chests and lost supplies.","Может содержать лоскуты джута и шерсти.,
-Покупайте у торговцев кармы в регионах известности по всей Пустыне Хрусталя за торговые контракты.
-Находите торговые контракты в сундуках и припасах."
 "Can contain thick or hardened leather squares.
 Purchase from renown region karma merchants across the Crystal Desert with trade contracts.
 Find trade contracts in chests and lost supplies.","Может содержать куски толстой или закалённой кожи.
@@ -284,52 +273,19 @@ Speak with a quaestor in any allied base to change which legion your commendatio
 "Combine 250 Refined Metal, 250 Refined Wood
 This item is purchased from Deft Lahar in your homestead.","Соедините 250 единиц очищенного металла и 250 единиц очищенной древесины.
 Этот предмет можно приобрести у Дефта Лахара в вашем усадьбе."
-"Combine a Gift of Embracing Refuge, a Gift of Condensed Might
-Created in the Mystic Forge by combining:,
-• 250 Refined Metal,
-• 250 Refined Fiber,
-• 250 Refined Wood,• 250 [очищенная древесина|очищенной древесины|очищенной древесины]
-• 250 Shards of the Homestead","Соедините Дар объятий убежища и Дар сгущенной мощи
-Создается в Мистической кузнице путем объединения:,
-• 250 очищенного металла,
-• 250 очищенного волокна,
-• 250 очищенной древесины,• 250 очищенная древесина
-• 250 осколков усадьбы"
 "Combine a Gift of Gatherer of the Hunt, a Gift of Uncovered Grounds, a Gift of Expertise, and a Bloodstone Shard in the Mystic Forge to create the Gift of Janthir Wilds.
 
 Created in the Mystic Forge by combining:
 • 100 Mursaat Runestones
 • 1 Gift of Lowland Shore
 • 1 Gift of Janthir Syntri
-• 1 Gift of the Ursus","Объедините Дар собирателя охоты, Дар неизведанных земель, Дар мастерства и Bloodstone Shard в Mystic Forge, чтобы создать Gift of Janthir Wilds.
+• 1 Gift of the Ursus","Объедините Gift of Gatherer of the Hunt, Дар неизведанных земель, Дар мастерства и Bloodstone Shard в Mystic Forge, чтобы создать Gift of Janthir Wilds.
 
 Создаётся в Mystic Forge путём объединения:
 • 100 Рунических камней мурсаатов
 • 1 Дара Побережья низменностей
 • 1 Дара Джантир Синтри
 • 1 Дара Урсуса"
-"Combine a Gift of Janthir Wilds, a Gift of the Homesteader
-Created in the Mystic Forge by combining:,
-• 1 Gift of Embracing Refuge,
-• 1 Gift of Condensed Might,
-• 1 Gift of Condensed Magic,
-• 38 Mystic Clovers","Соедините Дар диких земель Джантира, Gift of the Homesteader
-Создается в Mystic Forge путем объединения:,
-• 1 Gift of Embracing Refuge,
-• 1 Дар сгущенной мощи,
-• 1 Дар сгущенной магии,
-• 38 Mystic Clovers"
-"Combine a Gift of Janthir Wilds, a Gift of the Homesteader
-Created in the Mystic Forge by combining:,
-• 1 Gift of Gatherer of the Hunt,
-• 1 Gift of Uncovered Grounds,• 1 [Дар|Дара|Даров] непокрытых земель
-• 1 Gift of Expertise,
-• 1 Bloodstone Shard","Объедините Дар Диких земель Янтира, Дар домовладельца
-Создаётся в Мистической кузнице путём объединения:,
-• 1 Дар охотника за добычей,
-• 1 Дар непокрытых земель,
-• 1 Дар мастерства,
-• 1 Осколок кровавого камня"
 "Combine a Gift of Janthir Wilds, a Gift of the Homesteader, a Gift of Klobjarne Geirr, and Nyr Hrammr in the Mystic Forge to create the legendary spear Klobjarne Geirr.
 
 Created in the Mystic Forge by combining:
@@ -349,7 +305,7 @@ Created in the Mystic Forge by combining:
 • 200 Plates of Orrian Steak Frittes
 • 100 Plates of Truffle Steak
 • 50 Plates of Spicy Herbed Chicken
-• 5 Fruits of the Shadow","Соедините Gift of the Appetizer, Gift of the Entrée, Дар гарнира и Gift of the Dessert в Mystic Forge, чтобы создать Gift of the Feast.
+• 5 Fruits of the Shadow","Соедините Gift of the Appetizer, Gift of the Entrée, Gift of the Side Course и Gift of the Dessert в Mystic Forge, чтобы создать Gift of the Feast.
 
 Создаётся в Mystic Forge путём объединения:
 • 200 Тарелок стейка фриттес по-орриански
@@ -362,7 +318,7 @@ Purchased from Visions of Eternity map vendors in exchange for:,
 • 2 Gifts of Research,
 • 2 Gifts of Condensed Might,
 • 2 Gifts of Condensed Magic","Соберите Gift of the Seas, Gift of Adventure
-Приобретается у торговцев карты «Видения вечности» в обмен на:,
+Приобретается у торговцев карты «Visions of Eternity» в обмен на:,
 • 1 Gift of the Tides,
 • 2 Дара исследований,
 • 2 Дара сгущенной мощи,
@@ -372,7 +328,7 @@ Created by combining the following in the Mystic Forge:,
 • 2 Gifts of Light,
 • 2 Gifts of Condensed Magic,
 • 2 Gifts of Condensed Might,
-• 250 Sun Beads","Объедините Дар Солнца и Дар Пляжа
+• 250 Sun Beads","Объедините Gift of the Sun и Gift of the Beach
 Создаётся путём объединения следующего в Mystic Forge:,
 • 2 Дара Света,
 • 2 Дара сгущённой магии,
@@ -389,20 +345,12 @@ Created by combining the following in the Mystic Forge:,
 "Combine in the Mystic Forge with a Clay Pot, Bloodstone Dust
 '<c=@flavor>It''s very difficult to focus your eyes on this stone. The space around it is rich with magical energy.<c>'","Соедините в Mystic Forge с глиняным горшком, пылью кровавого камня
 '<c=@flavor>Очень трудно сфокусировать взгляд на этом камне. Пространство вокруг него насыщено магической энергией.<c>'"
+"Combine in the Mystic Forge with a Clay Pot, Bloodstone Dust
+<c=@flavor>A stone taken from the Mists, steeped in its power.</c>","Скомбинируйте в Mystic Forge с глиняным горшком, пылью кровавого камня
+<c=@flavor>Камень, взятый из Туманов, пропитанный их силой.</c>"
 "Combine in the Mystic Forge with a Hero Weapon, Grandmaster Mark Shards
 Combine in the Mystic Forge with 3 Salvaged Dredge Backpacks to create a Salvaged Dredge Inferno Backpack.","Объедините в Mystic Forge с героическим оружием и осколками знака грандмастера.
 Объедините в Mystic Forge с 3 восстановленными рюкзаками дредноутов, чтобы создать восстановленный адский рюкзак дредноутов."
-"Combine in the Mystic Forge with a Vial of Liquid Shadowstone, a Gift of Galdra
-'Purchased from the renown heart vendor in Artificer''s Islet in Eternity''s Garden in exchange for:',Куплено у торговца за сердечную признательность на Островке ремесленника в Саду вечности в обмен на:
-• 1 Shadowstone Orb,
-• 1 Shadowstone Containment Frame,
-• 1 Gift of Restoration,
-• 200 Seer Runestones","Соедините в Мистической кузнице с Флаконом жидкого теневого камня, Даром Галдры
-'Куплено у торговца за сердечную признательность на Островке ремесленника в Саду вечности в обмен на:',
-• 1 Сфера теневого камня,
-• 1 Каркас для удержания теневого камня,
-• 1 Дар восстановления,
-• 200 Рунических камней провидца"
 "Combine in the Mystic Forge with a Vial of Liquid Shadowstone, a Gift of Shadowstones
 'Purchased from renown heart vendor in Pilgrim''s Rest in Eternity''s Garden in exchange for:',
 • 1 Gift of Research,
@@ -428,6 +376,13 @@ Combine in the Mystic Forge with 3 Salvaged Dredge Backpacks to create a Salvage
 • 1 Gift of Frenzy
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>"
+"Combine this weapon in the Mystic Forge with:
+• 1 Gift of Janthir Wilds
+• 1 Gift of the Homesteader
+• 1 Gift of Klobjarne Geirr</c>","Соедините это оружие в Mystic Forge с:
+• 1 Gift of Janthir Wilds
+• 1 Gift of the Homesteader
+• 1 Gift of Klobjarne Geirr</c>"
 "Combine this weapon in the Mystic Forge with:
 • 1 Gift of Kraitkin
 • 1 Gift of Mastery
@@ -489,17 +444,18 @@ Contains a chest to pick your choice of items.","Содержит оружие �
 —Queldip","Ку-у-у! Благодаря вам квагган купается в добыче! Вы преподали этим пиратам ценный урок о том, как не стоит задираться, и с тех пор они не крали у кваггана. Квагган восхищается вашими навыками убеждения. Заглядывайте к кваггану как-нибудь, %str1%! Мы можем поиграть в пиратов вместе.
 
 —Queldip"
-"Copies conditions from source.
-Steals boons from target.","Копирует состояния из источника.
-Крадет благословения у цели."
 Countess Danika zu Heltzer,Графиня Даника цу Хельцер
+"Create %num2% item[s] in the Mystic Forge.
+
+<c=@reminder>The Mystic Forge transforms items in a variety of ways, including raising the tier of crafting materials and upgrading equipment. The forge can be accessed from major cities throughout Tyria.</c>","Создайте %num2% [предмет|предмета|предметов] в Mystic Forge.
+
+<c=@reminder>Mystic Forge преобразует предметы различными способами, включая повышение уровня материалов для крафта и улучшение снаряжения. Кузница доступна из крупных городов по всей Тирии.</c>"
 Danach zog Caudecus am Rand des Schwärenden Beckens entlang weiter.,Затем Каудекус двинулся дальше по краю Гноящегося Бассейна.
 "Defeat %num2% of the world bosses in Frostgorge Sound or Mount Maelstrom.
 
 <c=@reminder>World bosses are challenging events that appear at specific times of day across Tyria. Defeat them to receive chests containing rare equipment and crafting materials. </c>","Победите %num2% мировых боссов в Фростгорж-Саунд или на горе Мальстрём.
 
 <c=@reminder>Мировые боссы — это сложные события, которые происходят в определённое время суток по всей Тирии. Победив их, вы получите сундуки с редким снаряжением и материалами для крафта. </c>"
-Die Sternschnuppe,Падающая звезда
 "Discover 5 points of interest in Snowden Drifts, Diessa Plateau, Brisban Wildlands, or Kessex Hills.
 
 <c=@reminder>Points of interest are special locations marked by name in the world, indicated by a square icon on the map. </c>","Найдите 5 интересных мест в Сноуден Дрифтс, на Diessa Plateau, в Брисбан Уайлдлендс или в Кессекс Хиллз.
@@ -515,59 +471,14 @@ Event Item","Незаметно отнесите это агенту Кавус�
 Предмет события"
 "Doppelklicken, um dieses Erscheinungsbild auf andere Speere anzuwenden.","Двойной щелчок, чтобы применить этот внешний вид к другим копьям."
 "Doppelklicken, um dieses Erscheinungsbild auf einen anderen Speer anzuwenden. Dieser Skin wird in Eurer Garderobe für den zukünftigen Einsatz freigeschaltet.","Дважды щёлкните, чтобы применить этот облик к другому копью. Этот облик будет разблокирован в вашем гардеробе для будущего использования."
-"Double-click to apply this look to any other hammer.,
-<c=@flavor>""Normal choya are vicious, but give these guys an extra three feet of height and reach
-Double-click to apply this look to any other hammer. Additional copies of this item are available from the achievements panel.,'Дважды щёлкните, чтобы применить этот облик к другому молоту. Дополнительные копии этого предмета доступны на панели достижений.'
-Double-click to apply this look to any other hammer. Unlocks the ability to purchase the Restored Boreal Hammer Recipe.,'Дважды щелкните, чтобы применить этот облик к любому другому молоту. Открывает возможность приобрести рецепт восстановленного борейского молота.'
-Double-click to apply this look to any other harpoon gun.,'Дважды щелкните, чтобы применить этот облик к любому другому гарпунному ружью.'
-Double-click to apply this look to any other harpoon gun. Additional copies of this item are available from the achievements panel.,'Дважды щелкните, чтобы применить этот облик к любому другому гарпунному ружью. Дополнительные копии этого предмета доступны на панели достижений.'
-Double-click to apply this look to any other harpoon.,'Дважды щелкните, чтобы применить этот облик к любому другому гарпуну.'
-Double-click to apply this look to any other headgear. Additional copies of this item are available from the achievements panel.,'Дважды щелкните, чтобы применить этот облик к любому другому головному убору. Дополнительные копии этого предмета доступны на панели достижений.'
-Double-click to apply this look to any other heavy armor.,'Дважды щелкните, чтобы применить этот облик к любой другой тяжелой броне.'
-Double-click to apply this look to any other heavy boots.,'Дважды щелкните, чтобы применить этот облик к любым другим тяжелым сапогам.'
-Double-click to apply this look to any other heavy coats.,'Дважды щелкните, чтобы применить этот облик к любой другой тяжелой куртке.'
-Double-click to apply this look to any other heavy footwear.,'Дважды щелкните, чтобы применить этот облик к любой другой тяжелой обуви.'
-Double-click to apply this look to any other heavy gloves.,'Дважды щелкните, чтобы применить этот облик к любым другим тяжелым перчаткам.'
-Double-click to apply this look to any other heavy gloves. Additional copies of this item are available from the achievements panel.,'Дважды щелкните, чтобы применить этот облик к любым другим тяжелым перчаткам. Дополнительные копии этого предмета доступны на панели достижений.'
-Double-click to apply this look to any other heavy headgear.,'Дважды щелкните, чтобы применить этот облик к любому другому тяжелому головному убору.'
-Double-click to apply this look to any other heavy helm.,'Дважды щелкните, чтобы применить этот облик к любому другому тяжелому шлему.'
-Double-click to apply this look to any other heavy helmet.,'Дважды щелкните, чтобы применить этот облик к любому другому тяжелому шлему.'
-Double-click to apply this look to any other heavy leggings.,'Дважды щелкните, чтобы применить этот облик к любым другим тяжелым поножам.'
-Double-click to apply this look to any other heavy legwear.,'Дважды щелкните, чтобы применить этот вид к любой другой тяжелой поножам.'
-Double-click to apply this look to any other heavy shoulders.,'Дважды щелкните, чтобы применить этот вид к любым другим тяжелым наплечникам.'
-Double-click to apply this look to any other helmet.,'Дважды щелкните, чтобы применить этот вид к любому другому шлему.'
-Double-click to apply this look to any other helmet. This skin will be unlocked in your wardrobe for future use.,'Дважды щелкните, чтобы применить этот вид к любому другому шлему. Этот облик будет разблокирован в вашем гардеробе для дальнейшего использования.'
-Double-click to apply this look to any other helmet. This skin will be unlocked in your wardrobe for future use.","Дважды щёлкните, чтобы применить этот облик к любому другому молоту.,
-<c=@flavor>""Обычные чойя жестоки, но дайте этим парням лишние три фута роста и досягаемости
-Дважды щёлкните, чтобы применить этот облик к любому другому молоту. Дополнительные копии этого предмета доступны на панели достижений.,'Дважды щёлкните, чтобы применить этот облик к другому молоту. Дополнительные копии этого предмета доступны на панели достижений.'
-Дважды щёлкните, чтобы применить этот облик к любому другому молоту. Открывает возможность приобрести рецепт восстановленного борейского молота.,'Дважды щёлкните, чтобы применить этот облик к любому другому молоту. Открывает возможность приобрести рецепт восстановленного борейского молота.'
-Дважды щёлкните, чтобы применить этот облик к любому другому гарпунному ружью.,'Дважды щёлкните, чтобы применить этот облик к любому другому гарпунному ружью.'
-Дважды щёлкните, чтобы применить этот облик к любому другому гарпунному ружью. Дополнительные копии этого предмета доступны на панели достижений.,'Дважды щёлкните, чтобы применить этот облик к любому другому гарпунному ружью. Дополнительные копии этого предмета доступны на панели достижений.'
-Дважды щёлкните, чтобы применить этот облик к любому другому гарпуну.,'Дважды щёлкните, чтобы применить этот облик к любому другому гарпуну.'
-Дважды щёлкните, чтобы применить этот облик к любому другому головному убору. Дополнительные копии этого предмета доступны на панели достижений.,'Дважды щёлкните, чтобы применить этот облик к любому другому головному убору. Дополнительные копии этого предмета доступны на панели достижений.'
-Дважды щёлкните, чтобы применить этот облик к любой другой тяжёлой броне.,'Дважды щёлкните, чтобы применить этот облик к любой другой тяжёлой броне.'
-Дважды щёлкните, чтобы применить этот облик к любым другим тяжёлым сапогам.,'Дважды щёлкните, чтобы применить этот облик к любым другим тяжёлым сапогам.'
-Дважды щёлкните, чтобы применить этот облик к любой другой тяжёлой куртке.,'Дважды щёлкните, чтобы применить этот облик к любой другой тяжёлой куртке.'
-Дважды щёлкните, чтобы применить этот облик к любой другой тяжёлой обуви.,'Дважды щёлкните, чтобы применить этот облик к любой другой тяжёлой обуви.'
-Дважды щёлкните, чтобы применить этот облик к любым другим тяжёлым перчаткам.,'Дважды щёлкните, чтобы применить этот облик к любым другим тяжёлым перчаткам.'
-Дважды щёлкните, чтобы применить этот облик к любым другим тяжёлым перчаткам. Дополнительные копии этого предмета доступны на панели достижений.,'Дважды щёлкните, чтобы применить этот облик к любым другим тяжёлым перчаткам. Дополнительные копии этого предмета доступны на панели достижений.'
-Дважды щёлкните, чтобы применить этот облик к любому другому тяжёлому головному убору.,'Дважды щёлкните, чтобы применить этот облик к любому другому тяжёлому головному убору.'
-Дважды щёлкните, чтобы применить этот облик к любому другому тяжёлому шлему.,'Дважды щёлкните, чтобы применить этот облик к любому другому тяжёлому шлему.'
-Дважды щёлкните, чтобы применить этот облик к любому другому тяжёлому шлему.,'Дважды щёлкните, чтобы применить этот облик к любому другому тяжёлому шлему.'
-Дважды щёлкните, чтобы применить этот облик к любым другим тяжёлым поножам.,'Дважды щёлкните, чтобы применить этот облик к любым другим тяжёлым поножам.'
-Дважды щёлкните, чтобы применить этот вид к любой другой тяжёлой поножам.,'Дважды щёлкните, чтобы применить этот вид к любой другой тяжёлой поножам.'
-Дважды щёлкните, чтобы применить этот вид к любым другим тяжёлым наплечникам.,'Дважды щёлкните, чтобы применить этот вид к любым другим тяжёлым наплечникам.'
-Дважды щёлкните, чтобы применить этот вид к любому другому шлему.,'Дважды щёлкните, чтобы применить этот вид к любому другому шлему.'
-Дважды щёлкните, чтобы применить этот вид к любому другому шлему. Этот облик будет разблокирован в вашем гардеробе для дальнейшего использования.,'Дважды щёлкните, чтобы применить этот вид к любому другому шлему. Этот облик будет разблокирован в вашем гардеробе для дальнейшего использования.'
-Дважды щёлкните, чтобы применить этот облик к любому другому шлему. Этот облик будет разблокирован в вашем гардеробе для дальнейшего использования."
 "Double-click to bind this glyph to your account.,
 Grants a 33%% chance to reward bonus leather scraps while gathering, in addition to gathering results. Material types are determined by your character level and location in the world.","Дважды щёлкните, чтобы привязать этот глиф к вашей учётной записи.,
 Даёт 33%% шанс получить дополнительные обрезки кожи при сборе в дополнение к результатам сбора. Типы материалов определяются вашим уровнем персонажа и местоположением в мире."
 "Double-click to create a Mushroom Medley by combining a Noxious Mushroom Cap, Orrian Truffles
-Double-click to create a United Legions Waystation at your location. Lasts 15 minutes.","Дважды щёлкните, чтобы создать грибное попурри, соединив ядовитую грибную шляпку и оррианские трюфели.
+Double-click to create a United Legions Waystation at your location. Lasts 15 minutes.","Дважды щёлкните, чтобы создать Mushroom Medley, соединив ядовитую грибную шляпку и оррианские трюфели.
 Дважды щёлкните, чтобы создать перевалочный пункт Объединенных Легионов в вашем местоположении. Действует 15 минут."
 "Double-click to feed to a Mysterious Sprout.,
-<c=@flavor>This spicy snack has been infused with the essence of a phantasm and magically prepared for the connoisseur of carnivorous plants.<c>","Дважды щёлкните, чтобы покормить Таинственный Росток.,
+<c=@flavor>This spicy snack has been infused with the essence of a phantasm and magically prepared for the connoisseur of carnivorous plants.<c>","Дважды щёлкните, чтобы покормить Mysterious Sprout.,
 <c=@flavor>Это острая закуска была пропитана сущностью фантома и магически приготовлена для ценителя плотоядных растений.<c>"
 "Double-click to gain a hero  point. .,
 The sparkling vial brims with power.","Дважды щёлкните, чтобы получить очко  героя. .,
@@ -578,25 +489,17 @@ The sparkling vial brims with power.","Дважды щёлкните, чтобы
 "Double-click to gain a hero point.,
 This clay is obviously magical. No wonder the grawl spread it all over the place. You should be able to imbue yourself with its essence.","Дважды щёлкните, чтобы получить очко героя.,
 Эта глина явно магическая. Неудивительно, что граулы размазали её повсюду. Вы сможете пропитаться её сущностью."
-"Double-click to gain an Exalted Weapon Core Recipe, Champion Bags
-Double-click to gain an Experimental Teleportation Gun.,'Дважды щелкните, чтобы получить экспериментальное телепортационное ружье.'
-Double-click to gain an Explosive Charge.","'Дважды щёлкните, чтобы получить рецепт ядра возвышенного, сумки чемпиона
-Дважды щёлкните, чтобы получить экспериментальное телепортационное ружьё.,'Дважды щёлкните, чтобы получить экспериментальное телепортационное ружьё.'
-Дважды щёлкните, чтобы получить взрывной заряд.'"
 "Double-click to open. Grants a choice of Bear Ceremonial Hood, Sandals
 <c=@warn>Contents will be account bound!</c>","Дважды щёлкните, чтобы открыть. Даёт выбор: Медвежий церемониальный капюшон, Сандалии
 <c=@warn>Содержимое станет привязанным к учётной записи!</c>"
-"Double-click to open. Grants a choice of Raven Ceremonial Sandals, Bracers
-Double-click to open. Right-click for more options.,'Дважды щелкните, чтобы открыть. Щелкните правой кнопкой мыши для дополнительных опций.'
-Double-click to open. Right-click to preview.","Дважды щёлкните, чтобы открыть. Даёт выбор: церемониальные сандалии ворона, наручи.
-Дважды щёлкните, чтобы открыть. Щёлкните правой кнопкой мыши для дополнительных настроек.,'Дважды щёлкните, чтобы открыть. Щёлкните правой кнопкой мыши для дополнительных настроек.'
-Дважды щёлкните, чтобы открыть. Щёлкните правой кнопкой мыши для предпросмотра."
-"Double-click to open.,
-'Choose an account-bound Alliance Field Operative''s Mantle.'","Дважды щёлкните, чтобы открыть.,
-'Выберите привязанную к учётной записи мантию полевого оперативника Альянса.'"
 "Double-click to open.,
 <c=@Reminder>This item has been updated. Open this container to receive a Black Lion Chest Key and Black Lion Chest that have been upgraded to the latest version.</c>","Дважды щёлкните, чтобы открыть.,
 <c=@Reminder>Этот предмет был обновлен. Откройте этот контейнер, чтобы получить ключ от сундука Чёрного льва и сундук Чёрного льва, обновленные до последней версии.</c>"
+"Double-click to open.,
+Affected by magic find.,
+Available exclusively from Black Lion Chests during the Festival of the Four Winds.","Дважды щёлкните, чтобы открыть.,
+Подвержено влиянию поиска магии.,
+Доступно исключительно из сундуков Black Lion во время Фестиваля четырех ветров."
 "Double-click to open.,
 Choose from: ,
 • Mini Green Raptor Hatchling,
@@ -623,25 +526,17 @@ Contains a Pristine Fractal Relic, a +1 Agony Infusion
 Bonus rewards with the Agony Channeler or the Recursive Resourcing mastery.","Дважды щёлкните, чтобы открыть.,
 Содержит нетронутый фрактальный реликт, +1 инфузию агонии
 Дополнительные награды с Каналом агонии или мастерством «Recursive Resourcing»."
-"Double-click to open.,
-Contains loot from creatures.,Содержит трофеи с существ.
-<c=@reminder>Affected by magic-find bonuses.</c>","Дважды щёлкните, чтобы открыть.,
-Содержит трофеи с существ.,Содержит трофеи с существ.
-<c=@reminder>Подвержено влиянию бонусов к поиску магии.</c>"
 "Double-click to pick a recipe for Spearmarshal Pants. Can be learned by armorsmiths, leatherworkers
 Purchase these recipes from renown merchants in Elona after learning the base recipes from the story.","Дважды щёлкните, чтобы выбрать рецепт штанов Копьёмаршала. Может быть изучен бронниками, кожевниками
 Купите эти рецепты у известных торговцев в Элоне после изучения базовых рецептов из сюжета."
-"Double-click to pick your choice of rewards.,'Дважды щёлкните, чтобы выбрать награду.'
-<c=@flavor>""Can we skip to the good part?""</c>","Дважды щёлкните, чтобы выбрать награду.,'Дважды щёлкните, чтобы выбрать награду.'
-<c=@flavor>""Можно перейти сразу к хорошей части?""</c>"
+"Double-click to summon this mini to follow you around. Only one mini may be in use at a time.,
+Combine 3 of this mini with Pile of Crystalline Dust, an Obsidian Shard
+Double-click to summon this mini to follow you around. Only one mini may be in use at a time.","Дважды щёлкните, чтобы призвать этого мини-питомца следовать за вами. Одновременно можно использовать только одного мини-питомца.,
+Объедините 3 таких мини-питомца с кучей кристаллической пыли и осколком обсидиана.
+Дважды щёлкните, чтобы призвать этого мини-питомца следовать за вами. Одновременно можно использовать только одного мини-питомца."
 "Double-click to transform into a hermit crab.,
 <c=@flavor>""When you live in a shell,' you''re always home!""</c>'","Дважды щёлкните, чтобы превратиться в рака-отшельника.,
 <c=@flavor>""Когда живешь в раковине,' ты всегда дома!""</c>'"
-"Double-click to wear this outfit.,
-Seize the Awkward! Reach out to your friends in need.,«Перехвати неловкость!» Протяни руку помощи своим друзьям в беде.
-Outfits are full sets of clothing that hide other armor. This will not change individual armor pieces, and you will still receive your current armor stats.","Дважды щёлкните, чтобы надеть этот наряд.,
-Перехвати неловкость! Протяни руку помощи своим друзьям в беде.,«Перехвати неловкость!» Протяни руку помощи своим друзьям в беде.
-Наряды — это полные комплекты одежды, скрывающие другую броню. Это не изменит отдельные элементы брони, и вы по-прежнему будете получать характеристики вашей текущей брони."
 "Double-click while underwater to transform into a koi.,
 '<c=@flavor>""Don''t be coy', be a koi!""</c>","Дважды щёлкните под водой, чтобы превратиться в кои.,
 '<c=@flavor>""Не будь застенчив', будь кои!""</c>"
@@ -673,6 +568,9 @@ Each dye box contains 7 random dyes (5 common and 2 uncommon or rare).","Каж�
 <c=@reminder>Experience can be earned by defeating enemies, contributing to events and renown hearts, completing story chapters, and crafting items.</c>","Получайте опыт, чтобы повысить уровень этого персонажа до 10-го.
 
 <c=@reminder>Опыт можно получить за победу над врагами, участие в событиях и выполнении заданий, прохождение сюжетных глав и создание предметов.</c>"
+"Earned for aiding the Pact while proving yourself a hero of the wastes.
+Double-click to open.","Даётся за помощь Пакту и за то, что вы показали себя героем пустошей.
+Дважды щёлкните, чтобы открыть."
 "Eastern Ward:
 Find this thirsty karka in the Lion's Shadow.","Восточный район:
 Найдите эту жаждущую карку в львиной тени."
@@ -701,11 +599,15 @@ Elektrophobie,Электрофобия
 +9 Agony Resistance","Включает перегретое состояние копья Падающей звезды.
 +5 к силе
 +9 к сопротивлению агонии"
-"Enemies are stronger, and more essence is required to dispel Frozen Soil and calibrate the tectonic thumper. 
-Players can only be revived from wisp form if they have the Unstable Attunement effect on them. 
-Complete the Convergence within the time limit to log your clear time and obtain bonus rewards!","Враги стали сильнее, и для развеивания Мёрзлой почвы и калибровки тектонической колотушки нужно больше эссенции.
-Игроков можно воскресить из формы огонька, только если на них действует эффект «
-Нестабильная настройка». Завершите Схождение в отведённое время, чтобы записать своё время прохождения и получить бонусные награды!"
+"Enemy players will appear as standard characters in the following game formats:
+—Custom Arena with Tournament Commands
+—Ranked Arena
+—Unranked Arena
+—WvW","Вражеские игроки будут отображаться как стандартные персонажи в следующих форматах игры:
+—Пользовательская арена с турнирными командами
+—Рейтинговая арена
+—Нерейтинговая арена
+—WvW"
 "Enter %num2% World vs. World map[s].
 
 <c=@reminder>Storm castles and conquer territories in World vs. World! Enter the Mists from Eternal Battlegrounds asura gates in Lion's Arch, which can be traveled to from major cities, or by clicking the castle icon in the top-left corner of your screen.</c>","Войдите в %num2% [карту режима|карты режима|карт режима] «World vs. World».
@@ -772,7 +674,6 @@ Hypothesis: This ""Soo-Won"" the archivists talk about doesn't fit the usual psy
 — Кого ещё Су-Вон защищала за прошедшие драконьи циклы?"
 Entweihungsprophylaxe,Профилактика осквернения
 Entziehen verboten,Отзывать запрещено.
-Envidia aliviada,Облегченная зависть
 "Equip a track to start earning experience.
 Once you fully train a tier, use Mastery points
 to permanently master and unlock its ability.","Экипируйте трек, чтобы начать получать опыт.
@@ -849,6 +750,9 @@ Requires the Guild Wars 2: Janthir Wilds expansion to access this map.","Най�
 "Find others to help you explore Dragonfall!
 The Guild Wars 2: Path of Fire™ expansion and the Living World episode ""War Eternal"" are required to access this map.","Найдите других игроков, чтобы вместе исследовать Драконий водопад!
 Для доступа к этой карте необходимо приобрести дополнение Guild Wars 2: Путь Огня и пройти эпизод «Война вечности» из серии «Живая история»."
+"Find others to help you explore Jahai Bluffs!
+The Guild Wars 2: Path of Fire™ expansion and the Living World episode ""A Star to Guide Us"" are required to access this map.","Найдите других игроков, чтобы вместе исследовать Ущелья Джахаи!
+Для доступа к этой карте необходимо приобрести дополнение Guild Wars 2: Путь Огня и пройти эпизод «Звезда, что укажет нам путь» из серии Живого мира."
 "Find others to help you explore New Kaineng City.
 Requires Guild Wars 2: End of Dragons expansion to access this map.","Найдите других игроков, чтобы вместе исследовать New Kaineng.
 Для доступа к этой карте требуется дополнение Guild Wars 2: Конец Драконов."
@@ -860,7 +764,10 @@ Requires Guild Wars 2: End of Dragons expansion to access this map.","Найди
 Для доступа к этой карте требуется дополнение Guild Wars 2: Конец Драконов."
 "Find others to help you reclaim fallen Orr!
 The Guild Wars 2: Heart of Thorns expansion and the Living World episode ""One Path Ends"" are required to access this map.","Найдите союзников, чтобы вместе вернуть Орр из небытия!
-Для доступа к этой карте необходимо приобрести дополнение Guild Wars 2: Сердце Терний и пройти эпизод Живой истории «One Path Ends»."
+Для доступа к этой карте необходимо приобрести дополнение Guild Wars 2: Heart of Thorns и пройти эпизод Живой истории «One Path Ends»."
+"Find others to help you survive Bitterfrost Frontier!
+The Guild Wars 2: Heart of Thorns expansion and the Living World episode ""A Crack in the Ice"" are required to access this map.","Найдите союзников, чтобы вместе выжить в Ледяной Пустоши!
+Для доступа к этой карте необходимо приобрести дополнение Guild Wars 2: Heart of Thorns и пройти эпизод «Разлом во льдах» из сюжетной линии Живого мира."
 "First Mate Eldan's Log, 1100 AE  
   
 Went ashore today for a change of scenery—boss's orders. He thought we might find some plunder around here, something worth trading elsewhere in Tyria. Our luck must still be running south, though, 'cause there's nothing here. Nothing but the rustle of leaves and the chatter of animals for company, aye. Anything else is probably too far inland for us to reach.    
@@ -893,60 +800,33 @@ If the job seems any more complicated than that, just pass it off to the R & D c
 Второе правило: не парься по мелочам. Пока они работают, когда клиент забирает их домой, мы в порядке.
 
 Если работа кажется сложнее этого, просто передай её команде R & D и пусть они беспокоятся."
-"Flowering Meadow,  
-  
-It has been so long, and I was certain you had forgotten me. I have not forgotten you, and I could not if I tried. On many nights, the memory of your face is my only comfort. I like to watch the stars at night as well, but in the summer the sun does not set at all for many days.  
-  
-Life continues in the sanctuary, though it is often difficult. There are many dangers, but we find safety in our numbers and our strength of will. There is food and warmth and shelter here. But there are no flowers. I hope that this will do instead.  
-  
-I have spent many hours hoping for a way to be reunited with you. I will journey to the ends of Tyria and to the realms beyond, if you only ask it of me. Until then, I will be here, among the ice, thinking always of you.  
-  
-—Winter Sky","Flowering Meadow,  
-  
-Прошло так много времени, и я был уверен, что ты забыл меня. Я не забыл тебя, и не смог бы, даже если бы попытался. Многие ночи воспоминание о твоём лице — моё единственное утешение. Мне тоже нравится смотреть на звёзды ночью, но летом солнце не заходит по многу дней.  
-  
-Жизнь в убежище продолжается, хотя часто бывает трудно. Здесь много опасностей, но мы находим безопасность в нашей численности и силе воли. Здесь есть еда, тепло и кров. Но здесь нет цветов. Надеюсь, это сойдёт вместо них.  
-  
-Я провёл много часов, надеясь найти способ воссоединиться с тобой. Я отправлюсь на край Тайрии и за её пределы, если ты только попросишь меня. А пока я буду здесь, среди льда, всегда думая о тебе.  
-  
-—Winter Sky"
-"Frode,  
-  
-Hate to report back with next to nothing, but most of our research on the isles lived and died in Mabon's head, and Isgarren has most of Mabon's journals set aside for himself. I'll see if I can work on that. Most everything else is code or scraps.  
-  
-I did manage to pull some information on a village called Gavril. It's fixed—or was—somewhere in the southernmost isle. The single town record we have in the library is dated 1069 AE... You'll never guess whose name is on it, either. Saul D'Alessio. Doesn't that just brighten your day?  
-  
-We know how that story ended (good riddance to the bastard), but it should make for an interesting excavation. At least this will be a fine opportunity to get hands-on with the area. First time in centuries the region wasn't explicitly under Mabon's watch. Didn't even take me.  
-  
-I'll send you whatever else I can find. If I do.  
-  
-—Galrath  
-  
-PS. Appreciate the desk work. Not eager to make new friends after the last few months I've had. Sitting at a table for a few hours, reading some books, and then taking a long tea break is just what these bitter bones needed.","Фроде,  
-  
-Ненавижу сообщать почти ни с чем, но большая часть наших исследований островов жила и умерла в голове Мабона, и Исгаррен забрал себе большую часть дневников Мабона. Посмотрю, что можно с этим сделать. Всё остальное — коды или обрывки.  
-  
-Мне удалось добыть кое-какую информацию о деревне под названием Гаврил. Она находится — или находилась — где-то на самом южном острове. Единственная запись о городе в нашей библиотеке датирована 1069 ПИ... Вы ни за что не угадаете, чьё имя на ней стоит. Саул Д'Алессио. Разве это не скрашивает ваш день?  
-  
-Мы знаем, чем закончилась эта история (скатертью дорожка ублюдку), но это должно сделать раскопки интересными. По крайней мере, это будет отличная возможность лично поработать в этой области. Впервые за столетия этот регион не был под прямым надзором Мабона. Даже меня не взяли.  
-  
-Я пришлю вам всё, что ещё найду. Если найду.  
-  
-—Галрат  
-  
-P.S. Ценю работу за столом. Не горю желанием заводить новых друзей после последних нескольких месяцев. Сидеть за столом несколько часов, читать книги, а потом делать долгий перерыв на чай — это именно то, что нужно этим горьким костям."
+Fische kommen unter einer fliegenden Basis hervorgeflogen.,Рыбы вылетают из-под летающей базы.
 "Gabe[pl:""Gaben""] von Janthir Syntri",Габе фон Джантир Синтри
 "Gabe[pl:""Gaben""] von Unberührter Boden",Габе фон Унберюртртер Боден
+"Gaheron's death has delivered a blow to the Flame Legion, though many of his followers refuse to surrender. Flame Legion factions are now conspiring to unify their forces to assault the beleaguered Pact soldiers who are holding the zealots in check. There are also dark rumors (are there any other kind?) that the Flame Legion is desperate to turn the tide, and when zealots get desperate, they become dangerous.
+
+Return to the Citadel of Flame immediately and make sure the Flame Legion doesn't burn down Tyria. You'll want to locate Commander Suma. He's the officer in charge of the Pact forces inside the citadel.
+
+Go now,
+
+Your Herald","Гибель Гахерона стала ударом для Flame Legion, однако многие его последователи отказываются сдаваться. Фракции Flame Legion сговариваются объединить силы и ударить по измотанным солдатам Пакта, что сдерживают фанатиков. Ходят и мрачные слухи (а какие ещё бывают?), будто Flame Legion отчаянно ищет, как переломить ход дел, — а отчаявшиеся фанатики опасны.
+
+Немедленно возвращайся в Citadel of Flame и проследи, чтобы Flame Legion не спалил Тирию. Тебе понадобится найти командира Суму. Он офицер, начальствующий над силами Пакта внутри цитадели.
+
+Ступай,
+
+Твой Вестник"
+"Gain 100 Condition Damage When Health above 90%%
++10%% Experience from Kills","+100 к урону от состояний, пока здоровье выше 90%%
++10%% опыта за убийства"
+"Gain 3 Seconds of Quickness on Dismount <c=@reminder>(Cooldown: 60 Seconds)</c>
++10%% Experience from Kills","Получайте 3 секунды эффекта «Проворство» при спешивании <c=@reminder> (перезарядка: 60 секунд) </c>
++10 %% опыта за убийства"
 "Gain 40 Power When Health above 90%%
 +10%% Experience from Kills","+40 к Силе, пока здоровье выше 90%%
 +10%% опыта за убийства"
 "Gain Concentration Equal to 1%% of Your Precision
 +10%% Experience from Kills","Концентрация, равная 1%% вашей Точности
-+10%% опыта за убийства"
-"Gain Condition Damage Equal to 1%% of Your Precision
-Gain Condition Damage Equal to 3%% of Your Expertise
-+10%% Experience from Kills","Урон от состояний, равный 1%% вашей Точности
-Урон от состояний, равный 3%% вашей Экспертизы
 +10%% опыта за убийства"
 "Gain Health Every Second
 +100 Concentration
@@ -1038,11 +918,6 @@ Gain Ferocity Equal to 3%% of Your Precision
 +10%% опыта за убийства"
 "Gain Power Equal to 3%% of Your Precision
 Gain Power Equal to 6%% of Your Ferocity
-+10%% Experience from Kills","Сила, равная 3%% вашей Точности
-Сила, равная 6%% вашей Свирепости
-+10%% опыта за убийства"
-"Gain Power Equal to 3%% of Your Precision
-Gain Power Equal to 6%% of Your Ferocity
 +10%% Experience from Kills
 +10%% Karma Bonus","Сила, равная 3%% вашей Точности
 Сила, равная 6%% вашей Свирепости
@@ -1076,7 +951,10 @@ Janin","Гаккай,
 Geerdet,Геердет
 "Gefertigt aus 1 Kugel aus dunkler Energie und 75 Stabilisierenden Matrizen. Stabilisierende Matrizen können in Truhen der Nebel gefunden, aus Aufgestiegenen Ringen wiederverwertet oder in Handelsposten gekauft werden.","Изготовлено из 1 сферы тёмной энергии и 75 стабилизирующих матриц. Стабилизирующие матрицы можно найти в сундуках Тумана, получить, переработав возвышенные кольца, или купить на Торговом посту."
 "Gefertigt aus 50 Fangzähnen, 50 scharfen Fangzähnen, 250 großen Fangzähnen und 100 scheußlichen Fangzähnen.","Изготовлено из 50 клыков, 50 острых клыков, 250 больших клыков и 100 ужасных клыков."
+"Gefertigt aus 50 Klauen, 50 scharfen Klauen, 250 großen Klauen und 100 scheußlichen Klauen.","Изготовлено из 50 когтей, 50 острых когтей, 250 больших когтей и 100 ужасных когтей."
+Gefrorene Klaue,Ледяная когть
 Geladene Winde,Наэлектризованные ветры
+Genio,Гений
 Geschicktes Ausweichen,Умелый уход
 "Grants a small amount of karma.
 
@@ -1089,35 +967,15 @@ Geschicktes Ausweichen,Умелый уход
 "Grants a small amount of karma.
 <c=@Flavor>These are much crunchier than the non-golden version, and decidedly less delicious.</c>","Даёт небольшое количество кармы.
 <c=@Flavor>Они намного хрустящее, чем незолотая версия, и определенно менее вкусные.</c>"
-"Grants a small amount of karma.,«Дает небольшое количество кармы.»
-<c=@Flavor>The choya seemed very excited to present you with this clump of glistening earth.</c>","Даёт небольшое количество кармы.,«Даёт небольшое количество кармы».
-<c=@Flavor>Чойя, казалось, был очень рад подарить вам этот комок блестящей земли.</c>"
 "Grants a tiny amount of karma.
 <c=@Flavor>A mere handful of this effervescent glitter weighs immensely in your hand. </c>","Даёт крошечное количество кармы.
 <c=@Flavor>Горсть этого шипучего блеска кажется невероятно тяжёлой в вашей руке. </c>"
 "Grants a tiny amount of karma.
 <c=@Flavor>These little crafts are made with delicate care and love. And because they're made out of carrots, they're good for you, too.</c>","Даёт крошечное количество кармы.
 <c=@Flavor>Эти маленькие поделки сделаны с нежной заботой и любовью. А поскольку они сделаны из моркови, они ещё и полезны для тебя.</c>"
-"Grants the following benefits for 2 hours:
-• +50%% Magic Find
-• +50%% Chance of Critical Crafting Experience Gain
-• +33%% Chance of Extra Gathering Strike
-• 10 seconds of Swiftness after Gathering
-• Summons a Black Lion Merchant If Your Inventory Is Full after Gathering (20-Minute Cooldown)","Даёт следующие преимущества на 2 часа:
-• +50%% поиска магии
-• +50%% шанс критического получения опыта при крафте
-• +33%% шанс дополнительного удара при сборе
-• 10 секунд быстроты после сбора
-• призыв торговца «Black Lion», если инвентарь полон после сбора (перезарядка 20 мин.)"
-"Grants the following benefits for 30 minutes:,
-• +50%% Experience from Kills,
-• +75%% Gold from Kills,
-• +25%% Reward-Track Gain in PvP and WvW,• +25%% к скорости получения наград в PvP и WvW
-• +100%% Magic Find","Дарует следующие преимущества на 30 минут:,
-• +50%% опыта за убийства,
-• +75%% золота за убийства,
-• +25%% к скорости получения наград в PvP и WvW,• +25%% к скорости получения наград в PvP и WvW
-• +100%% удачи при поиске трофеев"
+"Grants a tiny amount of karma.
+<c=@Flavor>This is incredible! How exciting! How special! You just got this signed by the most prestigi— Wait, did they misspell your name?</c>","Даёт крошечное количество кармы.
+<c=@Flavor>Это невероятно! Как волнительно! Как это особенное! Ты только что получил автограф от самого престиж— Погоди, они неправильно написали твоё имя?</c>"
 "Grants tips on skiff use.
 If you are in an anchored skiff and the skiff owner has the Fishing Party Mastery unlocked, increases the skiff's Fishing Party Catches as if 25 fish had been caught.","Даёт подсказки по использованию скифа.
 Если вы находитесь на скифе на якоре, а владелец скифа открыл мастерство «Рыболовная вечеринка», увеличивает количество уловов вечеринки так, как если бы было поймано 25 рыб."
@@ -1170,30 +1028,13 @@ I hope to see you in the arena!
 
 Я рад объявить, что поле боя Храм Безмолвной Бури наконец-то дебютирует в PvP-турнирах! Начиная с 28 января и в течение следующих семи дней обычные платные турниры на восемь команд и три раунда будут заменены платными турнирами на две команды и один раунд на арене Храма Безмолвной Бури.
 
-Чтобы принять участие, откройте панель PvP и выберите «Перейти в Сердце Туманов». Оказавшись там, вам нужно создать свою собственную платную турнирную заявку на пять человек, либо поговорив со мной, либо присоединившись к существующей заявке другого игрока. Как только в заявке будет пять подписей, нажмите «Отправить», и турнир начнётся в ближайшее время. Вступительный взнос — три турнирных билета с игрока. 
+Чтобы принять участие, откройте панель PvP и выберите «Перейти в Heart of the Mists». Оказавшись там, вам нужно создать свою собственную платную турнирную заявку на пять человек, либо поговорив со мной, либо присоединившись к существующей заявке другого игрока. Как только в заявке будет пять подписей, нажмите «Отправить», и турнир начнётся в ближайшее время. Вступительный взнос — три турнирных билета с игрока. 
 
 Также в конце недели мы добавим Храм Безмолвной Бури в обычный ротацию PvP как для бесплатных, так и для платных турниров. 
 
 Надеюсь увидеть вас на арене!
 
 — Мастер Турниров"
-"Greetings!
-
-I'm happy to announce that my marvel, the Super Adventure Box, has returned to Rata Sum for your edu-tainment needs. If you've never tried it before, then now is the ideal time to enter my exciting world!
-
-To make things interesting, I've added a new challenge—Tribulation Mode. I assure you, anyone who attempts this trial will face a true test of their prowess. 
-
-The Super Adventure Box will only be around for a limited time. Meet me in the Creator's Commons and start your adventure today.
-
-—Moto","Приветствую!
-
-Я рад объявить, что моё чудо, Супер Приключенческий Бокс, вернулся в Рата Сам для ваших образовательно-развлекательных нужд. Если вы никогда не пробовали его раньше, то сейчас идеальное время войти в мой захватывающий мир!
-
-Чтобы сделать всё интереснее, я добавил новое испытание — Режим Испытания. Уверяю вас, любой, кто попытается пройти это испытание, столкнётся с настоящей проверкой своего мастерства. 
-
-Супер Приключенческий Бокс будет доступен только ограниченное время. Встретьтесь со мной в Творческой Общей зоне и начните своё приключение сегодня.
-
-— Мото"
 "Greetings,
 
 I suspect the undead are causing problems throughout many lands, not only our own. It pains me to think of what trouble they may be causing for other people.
@@ -1223,7 +1064,7 @@ Exploration is more than simply travel. It's about discovery and how you work wi
 
 Исследование — это не просто путешествие. Это открытие и то, как вы работаете с тем, что находите. Похоже, вы отлично справляетесь. Мы гордимся тем, что вы среди наших членов.
 
-—Тирийское Общество Исследователей"
+—Tyrian Explorers Society"
 "Greetings, Traveler,
 
 It is our understanding that you've become a recognizable and welcome face throughout the Metrica Province. You've been making quite a name for yourself. Your accomplishments include everything from golem research to chaos magic. Equal parts adventure and meta-scientific breakthrough. Everything a journey through the Metrica Province should be.
@@ -1304,22 +1145,21 @@ Word is, you've trekked your way all over Fireheart Rise. Well done! That sure i
 —Общество тирийских исследователей"
 Groupe,Группа
 Gruppe,Группа
+Guilde,Гильдия
 Guutra's Homestead,Guutra's Homestead
-Haciendo Patitos,"Делаем утят 
- Болотная лягушка 🐸🦆✨"
 "Haebaragi has placed Jimin on probation until further notice. Yeongi hasn't taken to her style of rule...he and the rest of the Ministry of Purity have moved their operation to an outpost on the edge of the city. Rumor has it, Haebaragi is going to disband them—just as she disbanded the Celestial Ministry in favor of a more inclusive and open governance.
 
 Meanwhile...we've finally reached the edge of the new city. It only took eighteen years of blood, sweat, and endless bottles of sweet pear wine (I owe Dwayna a thousand thanks that the winery in Sunjiang was salvageable).
 
 We stopped our excavation efforts on the edge of Echovald Forest. A representative from the new Ministry of Urban Planning mapped out a wall that'll stretch from Nahpui, curve around the bay, and end here, securing the city from a possible second wave.
 
-Minister Doh Taelin, Ministry of Archives, 1747 CC","Хэбараги поставила Джимина на испытательный срок до дальнейшего уведомления. Ёнги не принял её стиль правления... он и остальные члены Ministry of Purity перенесли свою деятельность на аванпост на окраине города. Ходят слухи, что Хэбараги собирается распустить их — так же, как она распустила Небесное Министерство в пользу более инклюзивного и открытого управления.
+Minister Doh Taelin, Ministry of Archives, 1747 CC","Хэбараги поставила Джимина на испытательный срок до дальнейшего уведомления. Ёнги не принял её стиль правления... он и остальные члены Ministry of Purity перенесли свою деятельность на аванпост на окраине города. Ходят слухи, что Хэбараги собирается распустить их — так же, как она распустила Celestial Ministry в пользу более инклюзивного и открытого управления.
 
 Тем временем... мы наконец добрались до края нового города. Это заняло восемнадцать лет крови, пота и бесконечных бутылок сладкого грушевого вина (я тысячу раз благодарю Двайну за то, что винодельня в Сунцзяне поддавалась восстановлению).
 
 Мы остановили раскопки на краю Леса Эховалд. Представитель нового Министерства Градостроительства наметил стену, которая протянется от Напуи, обогнёт залив и закончится здесь, защищая город от возможной второй волны.
 
-Министр Doh Taelin, Министерство Архивов, 1747 КК"
+Министр Doh Taelin, Ministry of Archives, 1747 КК"
 "Hail, Mighty Crafter!
 
 I would like to congratulate you on your initial successes in creating your legendary weapon! It may not seem like much—an experimental creation. From it, you can build your legendary precursor and eventually your mighty legendary weapon itself.
@@ -1335,6 +1175,15 @@ Grandmaster Craftsman Hobbs","Приветствую, Могучий Ремес�
 
 С уважением,
 Великий Мастер Хоббс"
+"Hail, Slayer!
+
+I've had a letter from an old companion, a sylvari named Caithe. She was our scout in Destiny's Edge, and I think it would be good for you to meet her. I hope you'll spare a little time, and join me for our conversation.
+
+—Eir","Приветствую, Убийца!
+
+Я получил письмо от старой спутницы, сильвари по имени Кейт. Она была нашим разведчиком в «Краю Судьбы», и я думаю, тебе будет полезно встретиться с ней. Надеюсь, ты уделишь немного времени и присоединишься ко мне для разговора.
+
+—Эйр"
 "Hail, all-powerful hero!
  
 Your legend now spreads from Rata Sum to the Black Citadel, your name is toasted in Divinity's Reach and Hoelbrak, and your deeds are recounted in Lion's Arch and the Grove! Your experiences in Orr have been a testament to others. Now, your greatest task lies ahead of you.
@@ -1356,19 +1205,8 @@ Your Herald","Приветствую, всемогущий герой!
 Сражайся за всех нас!
 
 Твой Глашатай"
-"Hail, mighty hero!
-
-I don't know how to tell you this, but I am afraid that Eir Stegalkin has been in a dark mood of late. Apparently her recent meeting with Zojja had affected her badly, and I (and others) are afraid that she plans to do something rash, to ""go out as a hero"". I have heard this from Caithe, who has been following the norn northwards into Frostgorge Sound. There, a great sanctuary ship of the kodan, the Honor of the Waves, is floundering, as a result of the attacks of Jormag's minions. Both Caithe and I fear that Eir is looking for a battle too big for herself, and I said that you would catch up with them to help Eir.
-
-Please attend to this at your earliest convenience,
-
-Your Herald","Приветствую, могучий герой!
-
-Не знаю, как тебе это сказать, но боюсь, что Эйр Стегалкин в последнее время в мрачном настроении. Видимо, её недавняя встреча с Зойей сильно на неё повлияла, и я (и другие) боюсь, что она планирует сделать что-то опрометчивое, «уйти как герой». Я слышал это от Кайт, которая следовала за норн на север, в Ущелье Морозного Звона. Там великий корабль-убежище коданов, «Честь Волн», терпит бедствие из-за атак миньонов Йормага. И Кайт, и я боимся, что Эйр ищет битву не по своим силам, и я сказал, что ты догонишь их, чтобы помочь Эйр.
-
-Пожалуйста, займись этим как можно скорее,
-
-Твой Глашатай"
+Handwerksstufen erreichen II,Достигнут второй уровень мастерства.
+Handwerksstufen erreichen IV,Достигнут IV уровень мастерства.
 "Harness the earth itself to crush your enemies.  
   
 INGREDIENTS:  
@@ -1467,6 +1305,7 @@ Himmelsschuppen-Flug,Полёт над Небесными Чешуйками
 Himmelsschuppen-Leckerchen,Небесное лакомство
 Himmlisches hegen,Небесное покровительство
 Histoire personnelle,Histoire personnelle
+Hoch,Высоко
 Hochmodisch,Высокая мода
 Holz sammeln,Сбор древесины
 "Hundreds of people flow in and out through the asura gate, but few show the kind of selflessness you've shown. You had no obligation to assist the Ebon Vanguard, but when you saw our need, you stood up to help. Thank you for easing the burden on on our city. I hope others follow in your example. If you wish to continue to seek others in need of help, I recommend you speak to Watchman Brikken outside the Hawkgates or Lieutenant Briggins near Forlorn Hope.
@@ -1518,6 +1357,28 @@ Keep up the good work,
 Что касается меня, я направляюсь в поместье нашего старого друга Кодекса, чтобы поддержать королеву Дженну на встрече с послом чаров. Есть шанс, что Зойя будет там, но я не ожидаю радостного воссоединения Края Судьбы. По правде говоря, мне повезёт, если она не ударит меня по коленям.
 Продолжай в том же духе,
 —Логан"
+"I held myself aloft for only half a day today—half as long as the day before. I can still hear Baraq's mirthful laughter as I was forced to use the stairs. Archivist Orestes banished him back to his studies with stories of when Baraq, Seraf, and Manikaz were also gildless—an attempt to cheer me up, I guess.  
+  
+Many days, I feel as though I will never be worthy and that I may never be the ideal mursaat. Orestes believes I am foolish for such thoughts, and he understands how I feel despite the vast ocean of years between us. I am not to be gilded with armor for a decade or so, but the archivist tells me I should relish my youth while I can—find ""small joys"" before the weight of expectation and history becomes too much to bear. How can one float with such burdens?  
+  
+Before we can become gilded, we must become magically adept; more attuned to this world's magical ebbs and flows. Many of my peers can become unseen and even hover for several days without a break. I phase well for a gildless my age, and while I struggle to fly like the others, one of my forebears has started to teach me transportation spells. A blink here, a portal there. I think I have a skill for it!  
+  
+Anyway, stopping here for today. One of the high researchers pulled Orestes away a moment ago. She looked concerned—a scrying eye was resting at her side. What has she seen? I wonder.","Сегодня я продержался в воздухе всего полдня — вдвое меньше, чем вчера. Я до сих пор слышу весёлый смех Барака, когда меня заставили воспользоваться лестницей. Архивариус Орест отправил его обратно к учёбе, рассказывая истории о том, как Барак, Сераф и Маниказ тоже были беззлатыми — попытка подбодрить меня, полагаю.  
+  
+Многие дни я чувствую, что никогда не буду достоин и что никогда не стану идеальным мурсаатом. Орест считает, что такие мысли глупы, и он понимает мои чувства, несмотря на огромную пропасть лет между нами. Меня не будут золотить бронёй ещё лет десять, но архивариус говорит, что я должен наслаждаться своей молодостью, пока могу — находить «маленькие радости», пока бремя ожиданий и истории не стало слишком тяжёлым. Как можно парить с таким грузом?  
+  
+Прежде чем стать золочёными, мы должны стать магически искусными; более настроенными на магические приливы и отливы этого мира. Многие мои сверстники могут становиться невидимыми и даже парить несколько дней без перерыва. Я хорошо фазю для беззлатого моего возраста, и хотя мне трудно летать, как другим, один из моих предков начал учить меня заклинаниям перемещения. Моргнуть здесь, портал там. Думаю, у меня есть к этому талант!  
+  
+В любом случае, на сегодня остановлюсь. Один из старших исследователей только что отвлёк Ореста. Она выглядела обеспокоенной — рядом с ней лежал всевидящий глаз. Что она увидела? Интересно."
+"I just wanted to say thanks for the help with clearing the wrecking yard. Between battling the ghosts and the Flame Legion, it seems like there's no time left for simple upkeep and maintenance. The wrecking yard has fallen into a sad state lately, but it is vital to supplying the Iron Legion with enough metal to feed into the smelter. Without those raw materials, they couldn't continue to produce the war machinery we need for victory. 
+
+You should know that your efforts were greatly appreciated. 
+
+—Scar Stripeclaw","Я просто хотел поблагодарить за помощь в расчистке свалки. Между сражениями с призраками и Flame Legion, кажется, не остаётся времени на простой уход и обслуживание. Свалка пришла в плачевное состояние в последнее время, но она жизненно важна для снабжения Iron Legion достаточным количеством металла для плавильни. Без этого сырья они не смогут продолжать производить военную технику, необходимую для победы.
+
+Знайте, что ваши усилия были высоко оценены.
+
+—Скар Полосатый Коготь"
 "I just wanted to take a moment to thank you for your assistance at our wheat fields. Jeb and I really appreciate your help. It's difficult to keep food on the table these days, and your efforts will keep many fed and happy.
 
 Thank you again.
@@ -1580,6 +1441,11 @@ Superbly done.
 —Eir","Я буду краток. Дозор присоединился к борьбе с вторжением дредж и Flame Legion. Они пытаются оттеснить силы врага, сохраняя жизни поселенцев в Wayfarer Foothills. Благодаря их усилиям мы обнаружили, что захватчики спрятали тайники с оружием по всему Предгорий Странника и Плато Дьесса, и, что хуже, они берут пленных. Убийца, если когда-то и была нужда в вас, то сейчас.
 
 —Эйр"
+"I'm impressed. Wiley and his crew have never been more disorganized. You've proven yourself as a great treasure hunter. I'm happy to count you as an ally.
+
+—Mei Shadowwalker","Я впечатлён. Уайли и его команда никогда не были так дезорганизованы. Вы проявили себя как великий охотник за сокровищами. Я рад считать вас союзником.
+
+—Мэй Тенеходка"
 "I'm sure cleaning up tar isn't exactly the most glamorous task for an adventurer type, but you did all right, and you didn't complain. I'm grateful, and I'm sure the lake creatures are too.
 
 —Engineer Verutum","Я уверен, что уборка смолы — не самая гламурная задача для искателя приключений, но ты справился и не жаловался. Я благодарен, и уверен, что озёрные твари тоже.
@@ -1604,20 +1470,6 @@ Thanks to your aid, Lion's Arch road and Overlake Haven are safer now.
 Each stack of this effect will grant access to a bonus chest at the end of the Dragon's End's meta-event.","В локации «Dragon's End» при входе и выходе из боя получайте 10 секунд мощи. Также увеличивается здоровье, опыт за убийства и наносимый урон на 2%%.
 
 Каждый стак этого эффекта даёт возможность получить дополнительный сундук в конце мета-события «Конец Дракона»."
-"In Dragon's End, gain 10 seconds of might, fury, swiftness, and regeneration when entering and exiting combat. 8%% increase to health, kill experience, and outgoing damage.
-
-Each stack of this effect will grant access to a bonus chest at the end of the Dragon's End's meta-event.","В локации «Конец Дракона» при входе и выходе из боя получайте 10 секунд мощи, ярости, быстроты и регенерации. Также увеличивается на 8%% максимальное количество здоровья, получаемый опыт за убийства и исходящий урон.
-
-Каждый стак этого эффекта позволит получить доступ к дополнительному сундуку в конце мета-события «Конец Дракона»."
-"In a gambit to learn more about their mysterious pursuers, the king and his mesmer escort, tired and tattered, had set a trap for a mursaat who had wandered further ahead of their hunting party. On their own, a single mursaat was formidable—deadly, but not invincible. Even with their foe defeated, one of Gauvain's students fell in the skirmish and King Jadon sustained serious injuries attempting to protect the young spell-slinger. The rest attempted to carry the king afterward, but he would succumb to his wounds the following day.  
-  
-The remaining four continued into South Kessex, toward what King Jadon thought could be a possible safe haven. During their detour to ""bury"" the dead, the mursaat had made up for lost ground and would eventually surround them. The duchess and her comrades stared down their attackers as the Veil of Ilya revealed their presence once more. In a blinding moment of flashing sigils and spellcraft, the four were dazed by the light—only to find the mursaat lying dead around them.  
-  
-Before them appeared the projection of a man who introduced himself as Obryn—a seemingly powerful spellcaster in his own right. Their mysterious savior would help them find proper shelter near the village of Shaemoor and keep them informed as best he could.","В попытке узнать больше о своих таинственных преследователях король и его сопровождающий месмер, уставшие и потрепанные, устроили ловушку для мурсаата, который ушёл вперёд от их охотничьего отряда. В одиночку один мурсаат был грозен — смертоносен, но не непобедим. Даже одолев врага, один из учеников Говена пал в стычке, а король Джадон получил серьёзные ранения, пытаясь защитить юного заклинателя. Остальные затем пытались нести короля, но он скончался от ран на следующий день.  
-  
-Оставшиеся четверо продолжили путь в Южный Кессес, к тому, что король Джадон считал возможным убежищем. Во время их отклонения от пути, чтобы «похоронить» мёртвых, мурсааты наверстали упущенное и в конце концов окружили их. Герцогиня и её товарищи уставились на своих преследователей, когда Завеса Ильи снова явила их присутствие. В ослепительный миг вспыхнувших сигилов и чар четверо были ослеплены светом — и обнаружили мурсаатов мёртвыми вокруг себя.  
-  
-Перед ними появилась проекция человека, представившегося Обрином — казалось бы, могущественного заклинателя. Их таинственный спаситель помог им найти подходящее убежище возле деревни Шеймур и держал их в курсе событий, как только мог."
 "In my lifetime I've seen Jormag's corruption follow us further and further south. We're still getting by today, but what of the future? Through you I've seen that even one person's efforts can help to stem the tide. 
 
 Thank you for giving this old soldier hope.
@@ -1630,11 +1482,6 @@ Thank you for giving this old soldier hope.
 "In which King Thorn relieves thieves of their hands.,
 <c=@flavor>—This hinterland village was home to a goddess and a martyr. (Site #6)</c>","В коей король Торн избавляет воров от их рук.
 <c=@flavor>—Эта глухая деревня была домом для богини и мученика. (Место №6)</c>"""
-"In which Lord Oswald Thorn, the new heir to the throne
-'<c=@flavor>—Say more now and look more where Kryta''s descendants are buried. (Site #3)','<c=@flavor>—Говори больше сейчас и смотри больше туда, где покоятся потомки Криты. (Участок №3)'
-—Find Provernic,' where the first king''s bones rot in the hills. (Site #5)</c>'","В котором лорд Освальд Торн, новый наследник престола
-'<c=@flavor>—Говори больше сейчас и смотри больше туда, где покоятся потомки Крайты. (Участок №3)','<c=@flavor>—Говори больше сейчас и смотри больше туда, где покоятся потомки Крайты. (Участок №3)'
-—Найди Проверника,' где кости первого короля гниют на холмах. (Участок №5)</c>'"
 "In which Os and his elder brother, Ewie
 <c=@flavor>—Deep in the muck,' where all the garbage of Lion''s Arch flows. (Site #1)'
 '—Search the dead streets and forgotten thoroughfares of another Lion''s Arch. (Site #2)</c>'","В которой Ос и его старший брат Иви
@@ -1724,127 +1571,6 @@ Jovers said he heard scratching further in, chittering. Hall has a pest problem,
 Райли и Хьюн ещё не вернулись из Гранитной Цитадели, но я не вижу вреда в том, что остальные пока покопаются во входном зале.  
   
 Джоверс сказал, что слышал изнутри скрежет и стрекотание. Похоже, у Холла проблемы с вредителями. Нам троим это по плечу."
-"It's been a relief to have something to keep track of tales and songs I've heard over the years. Easier to recite or riff on their original lines than to trust it to memory all the time, not to mention working on my own original pieces. 
-
---- 
-
-From Orrian shores to Maguuma's coast,  
-Down fiery path and saga of frost,  
-O'er seas of jade at world's unend,  
-A cycle reborn, a world to mend.  
-
-*Notes: It's fine, but the connection to the Second Scion isn't as strong as I'd like. Maybe someone closer to Aurene can get it right?*
-
---- 
-
-~~Her~~ fangs ~~were~~ out, ~~her~~ blade ~~was~~ sharp  
-Vengeance stirred within her heart  
-Oaths and lessons, never forsaken  
-~~The Soulkeeper's~~ Her Vigil ~~forever~~ unshaken  
-
-*Notes: I picked this one up while visiting a friend at Vigil Keep. One of the norn warmasters was rather passionately reciting it from the commissary. From what I've heard, the lyrics of the original song were shorter and punchier, so I've cut back some the excess to honor the original form.* 
-
---- 
-
-Alas poor Dougal, down on his luck.  
-An ancient charr relic, a deal was struck.  
-Friends and foes fell, an ally's oath spurned.  
-Claw in Keane hands, the addled king yearned.  
-Peace forged of doom, its ember yet burns.  
-
-*Notes: This one may be my favorite. It could be abbreviated further, but sometimes it's nice to let a tale flourish a little extra. Funny enough, I heard this one most in Ascalon. I wonder if Dougal knows that hulking feline soldiers and engineers gleefully chant his daring deeds?* 
-
---- 
-
-Scholarly Firstborn, a burden he bore.  
-Three factions rallied—a Pact bound for Orr.  
-Armed with insight and Riannoc's blade.  
-To artesian waters his Wyld Hunt bade.  
-Life blooms anew, a legacy made.  
-
-*Notes: Trahearne's passing came as a blow to us, following the terrors of Mordremoth. I was heartened to hear many tales of him afterward that focused on his greatest triumph rather than the tragedy that befell him.* 
-
---- 
-
-""That's my cue!"" the mad sylvari cooed.   
-With clockwork knights she struck,  
-Those on her list. What luck!  
-""Begone you little pest,"" she said.  
-""Desist, my dears, or you'll be dead.""  
-
-*Notes: I admit, I was baffled to hear that something had been written about Scarlet Briar, of all people. Some dubious bard in Divinity's Reach must have appreciated her flair for the dramatic? I guess if there were any Secondborn to write about, she'd be the one.* 
-
---- 
-
-~~Gathering~~ Council held, ~~in~~ times most dire.  
-Subtle as shadow, tempting ~~their~~ ire.  
-~~A~~ Barrier ~~she~~ raised, against Mantle plot  
-~~To claim~~ For Kryta's throne, ~~but all was for naught.~~  
-~~Her allies struck true.~~ May Caudecus rot!  
-
-*Notes: Picked this one up in the promenade outside the queen's palace. I've made some revisions of my own, but I feel like someone who knows Her Majesty could punch this up just a bit more and give it a personal touch.* 
-
-*Still, it would be an honor to perform this for her one day. Think of the exposure!*","Какое облегчение — иметь возможность записывать сказки и песни, которые я слышал за эти годы. Легче цитировать или импровизировать, отталкиваясь от оригинальных строк, чем постоянно полагаться на память, не говоря уже о работе над собственными произведениями.
-
---- 
-
-От Оррианских берегов до побережья Магуума,  
-По огненной тропе и саге инея,  
-По морям нефрита, где мир не имеет конца,  
-Цикл возрожден, мир исцелится.  
-
-*Заметки: Неплохо, но связь со Вторым Отпрыском не так сильна, как хотелось бы. Может, кто-то поближе к Аурене сможет сделать это лучше?*
-
---- 
-
-~~Её~~ клыки ~~были~~ наружу, ~~её~~ клинок ~~был~~ остер,  
-Месть закипала в её сердце.  
-Клятвы и уроки, никогда не забыты,  
-~~Хранительницы Душ~~ Её Дозор ~~навеки~~ не поколебим.  
-
-*Заметки: Я подхватил эту песню, навещая друга в крепости Дозора. Одна из норнских военачальниц с большим пылом декламировала её в столовой. Насколько я слышал, текст оригинальной песни был короче и ритмичнее, поэтому я убрал некоторые излишества, чтобы отдать дань уважения оригинальной форме.* 
-
---- 
-
-Увы, бедный Дагал, ему не везло.  
-Древний реликт чара, сделка прошла.  
-Падали друзья и враги, попрано слово союзника.  
-Коготь в руках Кина, обезумевший король стремился.  
-Мир, скованный роком, его искра всё тлеет.  
-
-*Заметки: Эта, пожалуй, моя любимая. Её можно было бы ещё сократить, но иногда приятно дать истории немного расцвести. Забавно, что чаще всего я слышал её в Аскалоне. Интересно, знает ли Дагал, что здоровенные кошачьи солдаты и инженеры с радостью распевают о его дерзких подвигах?* 
-
---- 
-
-Учёный Первенец, ношу он нёс.  
-Три фракции сплотил — Пакт в Орр пошёл.  
-Вооруженный знаньем и мечом Рианнока.  
-К артезианским водам его Wyld Hunt влекла.  
-Жизнь расцвела вновь, наследие создала.  
-
-*Заметки: Кончина Трахёрна стала ударом для всех нас, вслед за ужасами Мордремота. Меня ободрило, что впоследствии я слышал много историй о нём, сосредоточенных на его величайшем триумфе, а не на постигшей его трагедии.* 
-
---- 
-
-«Вот и мой выход!» — промурлыкала безумная сильвари.   
-С часовыми рыцарями она атаковала,  
-Тех, кто в списке был. Какая удача!  
-«Исчезни, мелкий паразит, — сказала она. —  
-Прекратите, дорогие, иначе вы умрёте».  
-
-*Заметки: Признаюсь, я был озадачен, услышав, что кто-то написал о Скарлет Брайар, из всех людей. Какой-то сомнительный бард в Божественном Устье, должно быть, оценил её любовь к драматизму? Полагаю, если уж писать о ком-то из Второрожденных, то это была бы она.* 
-
---- 
-
-~~Сбор~~ Совет собрался, ~~во~~ времена ужасные.  
-Вкрадчивый, как тень, вызывая ~~их~~ гнев.  
-~~Она воздвигла~~ Барьер против замыслов Мантии,  
-~~Чтобы завоевать~~ За трон Крайты, ~~но всё было напрасно.~~  
-~~Её союзники нанесли удар.~~ Да сгинет Кодек!  
-
-*Заметки: Подхватил это на променаде у дворца Королевы. Я внёс некоторые собственные правки, но чувствую, что кто-то, знающий Её Величество, мог бы добавить чуть больше «драйва» и придать личный оттенок.* 
-
-*И всё же, было бы честью исполнить это для неё однажды. Только подумать о такой известности!*"
 "It's finally over. We've reached a settlement, and I will not have to spend one more minute staring at Chul-Moo's miserable tanuki face. I hear his little side project is now calling themselves ""the Jade Brotherhood."" I used to think he was such a brilliant businessman, but now I see him for what he really is—a small-minded man with an even smaller bag of tricks. Acquiring the Xunlai brand was the last good idea he had for the company. I'm not so sure taking on the name of a bunch of long-dead mobsters will be quite as effective, but what do I know? I am, after all, a ""visionless husk of a woman with a stick lodged so high up my rear end, it's a wonder I can bend at the waist.""
 
 It almost didn't happen. At the last moment, his miserable mother got involved, insisting that she too was owed a payout for her ""financial contributions to the company's early prototypes."" Of course, Matron Park didn't anticipate my extensive recordkeeping—the look on her face when I produced the exact card in which she clearly referred to her contributions as a gift ""for the future of my beautiful boy."" I will treasure the memory.
@@ -1881,6 +1607,11 @@ NOTE: This contains spoilers for Guild Wars 2: Janthir Wilds Chapter 13: Balrior
 
 ВНИМАНИЕ: этот текст содержит спойлеры к главе 13 «Дикие земли Джантир»: пик Бальриор из игры Guild Wars 2."
 Jormags Wahn,Безумие Йормаг
+"Just a quick note to thank you for helping protect Crossroads Haven from those dastardly Sons of Svanir. It's critical that we keep the road open, despite their attacks. 
+
+—Sheriff Asta","Короткая записка с благодарностью за помощь в защите Перекрёстка от подлых Сыновей Сванира. Несмотря на их атаки, крайне важно держать дорогу открытой. 
+
+—Шериф Аста"
 Kampfreißer,Кампфрайсер
 "Karetia, or whoever finds this—I'm sorry.  
   
@@ -1899,6 +1630,15 @@ Ivane","Каретия, или тот, кто найдёт это — прост
 Квартал был моим домом и моей семьей. Каретия, одна из моих великих любовей... Условия, на которых я сдаюсь, не благоприятны, но это моя правда. И, ещё раз, прости, что война решила именно так.  
    
 Иван"
+"Keep this quiet, but I've been seeing...unusual readings from the Mad Realm this year. Travelers have seemed quite shocked upon exiting the Labyrinth. I've heard...whispers. Any changes to Halloween could be of great significance. And I don't need to remind you, but the doors to the Mad Realm go both ways.
+
+At your earliest convenience, could you journey to the Labyrinth and report back on anything...say, out of the ordinary?  Out of the ordinary for a spectral quasi dimension, of course. For the sake of documentation.
+
+—Magister Tassi","Держи это в тайне, но в этом году я замечаю... необычные показания из Безумного Царства. Путешественники выходят из Лабиринта совершенно потрясёнными. Я слышал... шёпот. Любые изменения в Хэллоуине могут иметь огромное значение. И мне не нужно напоминать тебе, что двери в Безумное Царство открываются в обе стороны.
+
+При первой же возможности отправляйся в Лабиринт и сообщи мне обо всём... скажем, необычном. Необычном для призрачного квазиизмерения, разумеется. Ради документации.
+
+—Magister Tassi"
 Krumme Kante hat in der Tundra etwas Wertvolles verloren und könnte ein weiteres Paar Augen gebrauchen.,Крумме Канте что-то ценное потерял в тундре и мог бы использовать ещё пару глаз.
 Kräutersprosse,Ростки трав
 "LANGUAGE: Charr trail signs were meant to be used without the benefit of writing tools. Therefore, charr use their own claws; their markings consist of angled scratches.
@@ -1944,43 +1684,16 @@ Please deploy this security update at your earliest convenience, and let us know
 "Launch harpoons to hold down the broodmother.
 Harpoons launched: %num1%/%num2%","Запустите гарпуны, чтобы удерживать праматерь.
 Запущено гарпунов: %num1%/%num2%"
-"Leafing vines wind 'round stone trunks  
-  
-Growing second skins of rough bark—  
-  
-The forest heals.  
-  
-If blossoms can bloom from solid rock,  
-  
-What excuse has the human heart  
-  
-For living closed.","Лианы вьются вокруг каменных стволов,
-
-Обрастая второй кожей из коры —
-
-Лес исцеляется.
-
-Если цветы могут распускаться на голой скале,
-
-Какое оправдание есть у человеческого сердца
-
-Жить затворённым?"
 "Learn to mount the skyscale in midair to save yourself while falling.
 
 If you also have the Air Rescue Skyscale Mount Mastery trained, your skyscale may gain the Bond of Vigor effect shortly after mounting in midair.<br><br>Unlock the A New Friend achievement.","Научитесь садиться на скайскейла в воздухе, чтобы спастись при падении.
 
 Если вы также обучили мастерству «Air Rescue: скайскейл», ваш скайскейл может получить эффект Узы рвения вскоре после посадки в воздухе.<br><br>Откройте достижение «A New Friend»."
-"Located in the Crystal Oasis.,
-• Crafting Stations,
-• Bank and Guild-Bank Access,
-• Mystic Forge,
-• Merchants,
-'<c=@Flavor>A handwritten invitation to ""Elona''s most luxurious retreat',"" the Lily of the Elon.</c>","Находится в Кристальном оазисе.,
-• Станции крафта,
-• Доступ к банку и гильдийскому банку,
-• Mystic Forge,
-• Торговцы,
-'<c=@Flavor>Рукописное приглашение в «самый роскошный курорт Элоны», «Лилия Элона».</c>"
+"Lending your aid on Castora has earned you goodwill and gratefulness! Gain a bonus chest when completing events inside completed Castora renown heart areas. Castora champions, meta-events, and world boss events award a bonus chest.
+
+(Bonus reward daily limit: 20)","Ваша помощь на Касторе принесла вам признание и благодарность! Получите дополнительный сундук при завершении событий в областях с завершённой известностью Касторы. Чемпионы Касторы, мета-события и события мировых боссов дают дополнительный сундук.
+
+(Ежедневный лимит бонусной награды: 20)"
 Locura limitada,Ограниченное безумие
 "Long ago, a hungry dragon woke up. Fearsome Zhaitan emerged from a long sleep, intent on eating the whole world. His awakening caused a massive wave, which tore across the ocean—straight for Cantha.
 
@@ -2007,6 +1720,15 @@ But Soo-Won did not stay to take part in the celebrations. She slipped away, wit
 Волне не оставалось ничего, кроме как подчиниться. Она отхлынула и отступила назад, медленно и плавно, чтобы не причинить больше вреда, возвращаясь в океан. Народ Кантхи приветствовал Су-Вон и приветствовал благородную Куунаванг.
 
 Но Су-Вон не остался, чтобы участвовать в празднованиях. Он ускользнул, пообещав, что всегда будет рядом и что, если случится другое бедствие, он вернётся. А пока он будет отдыхать. И благородная Куунаванг осталась среди людей, чтобы, если придёт время, она снова могла разбудить Су-Вон. И народ Кантхи спал спокойно, зная, что два дракона охраняют их сон."
+"Long ago, the four great pirate crews of Istan cast aside their petty squabbles, forging an old-fashioned accord that stands to this day: on our flotilla, we're all part of the same crew. Now it ain't easy, and it ain't perfect, but it works. Sometimes.
+
+You helped us keep the peace on our little floating paradise, and for that, I'll always think of ye as an honorary member of our corsair crew.
+
+—Shipmate Hadhi","Давным-давно четыре великие пиратские команды Истана отбросили свои мелкие распри, заключив старомодное соглашение, которое действует и поныне: на нашей флотилии мы все — одна команда. Это непросто и неидеально, но работает. Иногда.
+
+Ты помог нам сохранить мир в нашем маленьком плавучем раю, и за это я всегда буду считать тебя почётным членом нашей корсарской команды.
+
+— Shipmate Hadhi"
 "Look, I know you're just passing through here, but guys like me, stationed out here in the Brand, we're grateful when strangers lend a hand. You can leave the rest of the Shatterer's army for us. <br><br>Hey, if you get the chance, we've been hearing stories about a group of our guys making life miserable for the Flame Legion to the northwest. Check it out. No one's ever seen them, but if they're real, they could benefit from someone like you. Good luck out there.
 —Sentinel Jaggedclaw","Послушай, я знаю, ты просто проходишь мимо, но такие парни, как я, стоящие здесь, в Пустоши, благодарны, когда незнакомцы протягивают руку помощи. Остальную армию Разрушителя можешь оставить нам. <br><br>Эй, если будет возможность, мы слышали истории о группе наших ребят, которые портят жизнь Flame Legion на северо-западе. Проверь это. Никто их никогда не видел, но если они реальны, им может пригодиться кто-то вроде тебя. Удачи.
 — Часовой Острый Коготь"
@@ -2072,15 +1794,6 @@ I've turned my attention to the containment efforts in Jade Sea, and I've made m
 • 1 Gift of Entertainment
 • 100 Icy Runestones
 • 1 Superior Sigil of Stamina"
-"Made by combining these items in the Mystic Forge:
-• 1 Gift of Wood
-• 1 Unicorn Statue
-• 100 Icy Runestones
-• 1 Superior Sigil of Purity","Создаётся соединением этих предметов в Mystic Forge:
-• 1 Gift of Wood
-• 1 Unicorn Statue
-• 100 Icy Runestones
-• 1 Superior Sigil of Purity"
 "Mai finally made good on all her talk. She brought me something I've never seen before, developed far beyond the borders of Cantha. It isn't clear how she got her hands on it, but I'm not going to press her on that.
 
 The device in question is a turret once fastened to an airship. It is powered by heating water, which powers a turbine to produce a current. All of that involves a massive casing. It's amazing the airship could fly at all.
@@ -2095,7 +1808,7 @@ Mai took it strangely personally when I said the tech was unsophisticated. I've 
 —Prince Bakkal","Большое спасибо за то, что продемонстрировали моей королевской свите тонкости ведения домашнего хозяйства и борьбы с вредителями. Ваше скромное положение в жизни, очевидно, оказалось поучительным — вы убираете и убиваете с эффективностью целой армии мумий. Вы заслужили мою благодарность, простолюдин.
 
 — Prince Bakkal"
-Markenzeichen,Фирменный знак
+Masques,Маскарады
 "Members:
 All the players currently in the squad","Участники:
 Все игроки, находящиеся в отряде"
@@ -2288,6 +2001,11 @@ There can be no compromise on this.
 "On behalf of the High Legions and the entire Black Citadel, I offer heartfelt thanks and congratulations on your recent efforts in the matter of Trybulus Griefblade. Your dedication to duty and performance as a newly commissioned legionnaire have both been exemplary, and have been duly noted in the official record. From this point forward, I shall be watching your progress with great interest and even greater expectations. Well done, soldier.
 —Smodur the Unflinching, Imperator of the Iron Legion","От имени Высших Легионов и всей Black Citadel я выражаю искреннюю благодарность и поздравляю с вашими недавними усилиями по делу Трибула Грифблейда. Ваша преданность долгу и работа в качестве новоиспечённого легионера были образцовыми и были должным образом отмечены в официальных записях. Отныне я буду следить за вашим прогрессом с большим интересом и ещё большими ожиданиями. Отлично сработано, солдат.
 —Смодур Непоколебимый, Император Iron Legion"
+"On behalf of the fishers of Triskell Quay, I thank you for your much-needed help with our toxic threats. With the toxic sludge gone, the people of this village may be able to earn an honest living again. It looks like the toxic fish and krait are stubbornly lingering, but there's hope again in the eyes of the villagers. Had you not appeared when you did, things may have been much, much worse. Your efforts this day will not be forgotten.
+
+—Mayor Trisk","От имени рыбаков Трискелл-Ки я благодарю вас за столь необходимую помощь с нашими токсичными угрозами. С токсичным илом покончено, жители этой деревни снова смогут честно зарабатывать на жизнь. Похоже, токсичная рыба и крайты упорно задерживаются, но в глазах жителей снова появилась надежда. Если бы вы не появились вовремя, всё могло быть гораздо, гораздо хуже. Ваши усилия в этот день не будут забыты.
+
+—Мэр Триск"
 "On the Zhaitan Disaster
 
 We're just about finished archiving all the names of those lost during the Zhaitan Disaster. Thousands confirmed dead or missing... So many families broken, lost. It was only a hundred years ago; can you believe that?
@@ -2325,6 +2043,11 @@ We'll examine the traditional dances of the Vabbian Garden of Seborhin, bear wit
 "One of the forbidden texts requested by Balam Ri. Double-click to read.,
 <c=@Flavor>This item is not required to complete the collection and can be discarded.</c >","Один из запрещенных текстов, запрошенных Баламом Ри. Дважды щёлкните, чтобы прочитать.
 <c=@Flavor>Этот предмет не требуется для завершения коллекции, и его можно выбросить.</c >"
+"Oorn the Mightier was an artist who lived in Timberline Falls until 1215 AE. His preferred subjects were wildlife and self-portraiture, which he depicted in cave paintings and sculptures.  
+  
+""Stone Mirror"" is his only known realistic sculpture, and it was created in response to a condescending profile in which the human author speculated that Oorn's abstract style was a limitation rather than a choice. He gifted the nearly life-size piece to Mabon, but he did not consider it an artistic work.","Оорн Могучий был художником, жившим в Timberline Falls до 1215 г. ВЭ. Его любимыми сюжетами были дикая природа и автопортреты, которые он изображал в наскальных рисунках и скульптурах.
+
+«Каменное зеркало» — его единственная известная реалистичная скульптура, созданная в ответ на снисходительную статью, в которой человек-автор предположил, что абстрактный стиль Оорна был ограничением, а не выбором. Он подарил почти натуральную величину работы Мабону, но не считал её художественным произведением."
 Options des escouades & commandants,Настройки отрядов и командиров
 Ortszeit,Местное время
 "Our priesthood is grateful to you, %str1%. Kormir herself knows of your selflessness on behalf of her temple and her devoted followers.
@@ -2358,11 +2081,21 @@ Remain safe, remain vigilant.
 
 —М"
 Papier-Drache,Бумажный дракон
+"Participate in %num2% event[s] in Sparkfly Fen, Mount Maelstrom, Iron Marches, Fireheart Rise, or Timberline Falls.
+
+<c=@reminder>You can find events while exploring the world. Events in progress are marked by an orange circle on your map when you're nearby.</c>","Участвуйте в %num2% [событии|событиях|событиях] в Топких болотах, на горе Мэлстром, в Железных Топях, Огненной возвышенности или в Таймберлейн-Фолс.
+
+<c=@reminder>Вы можете найти события, исследуя мир. Идющие события отмечены оранжевым кружком на вашей карте, когда вы находитесь рядом.</c>"
 "Participate in %num2% event[s] in the Ruins of Orr, Frostgorge Sound, or Southsun Cove.
 
 <c=@reminder>You can find events while exploring the world. Events in progress are marked by an orange circle on your map when you're nearby.</c>","Участвуйте в %num2% [событии|событиях|событиях] в Руинах Орра, Фростгорж-Саунде или Саутсан-Кове.
 
 <c=@reminder>Вы можете найти события, исследуя мир. Идющие события отмечены на карте оранжевым кругом, когда вы находитесь рядом.</c>"
+"Participate in successful events around Dead Lab, Sanguine Crater, and Blood Hill.
+
+(Some events can count toward multiple achievements.)","Примите участие в успешных событиях в окрестностях Мёртвой лаборатории, Багрового кратера и Кровавого холма.
+
+(Некоторые события могут учитываться при выполнении нескольких достижений.)"
 "Peitha's ally Ramses has proven to be a valuable source of information. Contrary to his threatening appearance, he is relatively approachable. While verbose, he has proven somewhat more direct and willing to engage in conversation than Peitha herself.  
   
 Even when unwilling to discuss topics directly, he generally does not guard his ideas and opinions too closely, except when in conference with Peitha. I would go so far as to say that he can be almost charming, though he is disarmingly grotesque to behold.  
@@ -2373,6 +2106,9 @@ Even when unwilling to discuss topics directly, he generally does not guard his 
   
 —Исследователь Сэлли"
 Personnalisez le sac à dos avec ce couvre-sac à dos de Charr en peluche.,Персонализируйте рюкзак с помощью этого чехла для рюкзака в виде плюшевого чарра.
+"Picaroon Scratch
+Skritt Tunnels Open","Пикарун Скрэтч
+Туннели скриттов открыты"
 "Pips are awarded at the end of each tick as long as you have Tier 3 participation.
 [b]All of the pips that can be earned are displayed above.","Очки начисляются в конце каждого тика, если у вас есть участие 3-го уровня.
 [b]Все очки, которые можно заработать, отображаются выше."
@@ -2408,7 +2144,7 @@ Research notes are acquired by deconstructing crafted items with research kits.
 Research kits are bought from master craftspeople.","Куплено у мастеров-ремесленников за исследовательские заметки. 
 Исследовательские заметки получаются при разборке созданных предметов с помощью исследовательских наборов.
 Исследовательские наборы покупаются у мастеров-ремесленников."
-Quaggan-Quatsch-Quest,Задание для Квакканов
+Quaggan-Quatsch-Quest,Задание для Квагганов
 "Queen Jennah's watchknights are an outlier among semiautonomous constructs, designed by a single engineer with comparatively limited resources. While they are an extraordinary feat of mechanical and arcane artistry, they have limited noncombat utility.  
   
 A fractal exploring the impact on Kryta if Scarlet Briar had been allowed to collaborate with the crown engineer garnered some interest, but it was determined to be less valuable than monitoring the watchknights' ongoing development.","Сторожевые рыцари королевы Дженны выделяются среди полуавтономных конструкций: они созданы одним инженером с весьма ограниченными ресурсами. Хотя они представляют собой выдающееся достижение механического и магического искусства, их полезность вне боя ограничена.
@@ -2446,7 +2182,6 @@ For help, please visit our support website.","Запретная террито�
 
 Для помощи посетите наш сайт поддержки."
 Rey invisible,Рей невидимый
-Rezepte für Titanplatten-Rüstungen,Rezepte für Titanplatten-Rüstungen
 Riquezas desveladas,Раскрытые сокровища
 "Roses are red  
 
@@ -2473,15 +2208,6 @@ It seems you've not only traveled the entirety of Brisban Wildlands, but also as
 —Tyrian Explorers Society"
 "Salutations,
 
-Pardon the subject line, but I couldn't resist. I'm pleased to report that the drake situation is becoming somewhat managable. We're having fewer reports of drakes attacking travelers, which means I shouldn't have to sentence my Lionguard to certain doom on drake extermination detail. Surely we wouldn't have made such progress without you.
-
-—Lionguard Tunnira","Приветствую,
-
-Простите за тему письма, но я не удержалась. Рада сообщить, что положение с дрейками становится более-менее управляемым. Сообщений о нападениях дрейков на путников стало меньше, а значит, мне не придётся посылать своих львиных стражей на верную гибель в наряды по истреблению дрейков. Без вас мы бы наверняка так не продвинулись.
-
-—Lionguard Tunnira"
-"Salutations,
-
 Southsun Cove may be an island of rare natural wonders, but its unique fauna has proven challenging to explorer and settler alike. We salute your courage and willingness to venture into such an inhospitable territory.
 
 Keep up the good work.
@@ -2506,6 +2232,15 @@ Find me in Lion's Arch.
 Найдите меня в Lion's Arch.
 
 —Гита"
+"Salutations, 
+
+I am writing to thank you for lending a hand. It never fails to amaze me how helpful a perfect stranger can be in dark times. People like you are the true substance of the world. The weapons testing you did was a monumental help to me, and I'm sure you already realize how vital your work with the misfiring turrets was. I am grateful.
+
+—Tactician Lyan","Приветствую,
+
+Пишу, чтобы поблагодарить за протянутую руку помощи. Меня не перестаёт изумлять, насколько полезен может быть совершенно незнакомый человек в тёмные времена. Такие, как ты, — истинная суть этого мира. Испытания оружия, которые ты провёл, стали для меня огромным подспорьем, и, уверен, ты и сам понимаешь, насколько важна была твоя работа с давшими сбой турелями. Я признателен.
+
+—Tactician Lyan"
 "Salutations, favored test subject!
 
 I have heard through the intercollegiate gossip data repositories that you are embarking on an entrepreneurial endeavor of your own. Of course, I wish to offer you all the best and my full support and would not wish to distract you for a moment!
@@ -2535,6 +2270,7 @@ I keep hearing reports of your bravery and skill. It's impressive. Your deeds in
 "Sanctum Harbor:
 Search the nest where the phoenix roosts.","Sanctum Harbor:
 ищите в гнезде, где ночует феникс."
+Sarene Sparvaunt,Sarene Sparvaunt
 "Saturninus,  
   
 We need to be more careful. I don't know if you noticed, but an old colleague of mine has been dispatched to Bava Nisos. Lutze is a tough nut to crack and has an eye for detail. Keep the shipments separate for now until we can find a better hiding place.  
@@ -2609,9 +2345,8 @@ Comment: Risky. And morally gray. At best. Further research needed. —Isgarren"
   
 Комментарий: Рискованно. И морально серо. В лучшем случае. Требуется дальнейшее исследование. —Исгаррен"
 "Schließt den Lachszug ab, der an der Küste beim Dorf beginnt.","Завершите лабиринт, начинающийся у деревни на побережье."
-Schließt eine Konvergenz oder ein Fraktal ab,Schließt eine Konvergenz oder ein Fraktal ab
+"Schließt die Sammlung ""Geschichten der Tiefland-Irrlichter"" ab, um dieses Mini zu erhalten.","Schließt die Sammlung ""Geschichten der Tiefland-Irrlichter"" ab, um dieses Mini zu erhalten."
 Schweberochen-Slalom,Слалом среди скатов-мант
-Schwerkraft,Гравитация
 "Search for evidence of a secret hideout.
 
 Evidence Discovered","Ищите улики, указывающие на тайное убежище.
@@ -2627,6 +2362,11 @@ Includes Summon Cauldron and Ride Broom Skills.","Сезонное. Продаё
 
 Включает умения «Призвать котёл» и «Полёт на метле»."
 Secretos oscurecidos,Скрытые секреты
+"Seraph's Landing is still under siege, but the soldiers and citizens have witnessed what it means to be a true hero. Because of your valor, they're rising to every challenge with a new confidence. I doubt I'll ever be able to repay you, but you have my thanks.
+
+—Lieutenant Pickins","Приземление Серафимов всё ещё в осаде, но солдаты и граждане стали свидетелями того, что значит быть настоящим героем. Благодаря вашей доблести они встречают каждую трудность с новой уверенностью. Сомневаюсь, что когда-нибудь смогу отплатить вам, но вы заслуживаете моей благодарности.
+
+—Lieutenant Pickins"
 Server-Zeit,Время сервера
 "Sharkmaw Cavern:
 Don't get skewered hunting this karka kabob.","Пещера Акульей Пасти:
@@ -2673,7 +2413,7 @@ Meet with me. Let's talk about the Tyrian Alliance and your place in it.
 
 На случай, если имя не навострило уши, я — Людо из Магического совета. Встречались пару раз.
 
-Буду краток. Где бы вы ни отдыхали последние несколько месяцев, сомневаюсь, что наша маленькая проблема с демонами дала вам долго расслабляться. Алхимия, мне самому ещё нужно подать несколько отчётов об атаке на Рата Сум... Тот ещё был денёк; возможно, худший со времён Примордуса. Но что я могу сказать? Это случилось. По крайней мере, теперь эти твари появляются лишь раз в две недели, и в гораздо меньших количествах, чем когда атаки только начались. Плюс, из этого хаоса вышло кое-что хорошее. Именно поэтому я пишу.
+Буду краток. Где бы вы ни отдыхали последние несколько месяцев, сомневаюсь, что наша маленькая проблема с демонами дала вам долго расслабляться. Алхимия, мне самому ещё нужно подать несколько отчётов об атаке на Rata Sum... Тот ещё был денёк; возможно, худший со времён Примордуса. Но что я могу сказать? Это случилось. По крайней мере, теперь эти твари появляются лишь раз в две недели, и в гораздо меньших количествах, чем когда атаки только начались. Плюс, из этого хаоса вышло кое-что хорошее. Именно поэтому я пишу.
 
 Как я попал в список, понятия не имею, но несколько наших мировых лидеров начали обсуждать общую проблему демонов. Особенно после Старших Драконов, все немного с готовностью относятся к подавлению любой новой угрозы, пока она ещё на начальной стадии.
 
@@ -2772,6 +2512,11 @@ Except the cats are Dominion ordnance, and the dogs are also Dominion ordnance."
 Там дождь льёт как из ведра.
 Кроме того, кошки – это оружие Доминиона, и собаки тоже являются оружием Доминиона."
 Sturm-Ortung,Обнаружение шторма
+"Successfully complete a Convergence within Mount Balrior with challenge mode active and Decima chosen as the final boss to log your completion time.
+
+Scoring is based on completion time under or equal to target time.","Успешно завершите Схождение в горе Балриор с активным режимом испытания и Децимой, выбранной в качестве финального босса, чтобы записать время завершения.
+
+Оценка основывается на времени завершения, равном или меньшем целевого времени."
 Suministros sorpresa,Сюрпризные припасы
 "Summon a rocket-powered golem to land on your downed foes and finish them off.   
 
@@ -2787,6 +2532,29 @@ Combine 1 Blue and 2 Green Mini Skimmer Pups with 4 Unidentified Dyes in the Mys
 Combine 1 Orange and 2 Blue Mini Skimmer Pups with 4 Unidentified Dyes in the Mystic Forge to create a Mini Purple Skimmer Pup.'","Как ни странно, новорождённые детёныши ската не нуждаются в родительской заботе после рождения.
 Соедините 1 синего и 2 зелёных мини-детёныша ската с 4 неопознанными красками в Mystic Forge, чтобы создать мини-оранжевого детёныша ската.
 Соедините 1 оранжевого и 2 синих мини-детёныша ската с 4 неопознанными красками в Mystic Forge, чтобы создать мини-фиолетового детёныша ската."
+"TO: ALL R.P.L. PERSONNEL  
+RE: NEW QUARANTINE POLICY
+
+Dear Valued Coworkers,
+
+As you might know, Rata Primus has recently acquired a sample of REDACTED during our latest excursion into REDACTED. As this is a particularly virulent REDACTED with a history of spreading uncontrollably, Rata Primus Security has instituted a series of changes to our standard quarantine protocols.
+
+Due to the sensitive nature of REDACTED, R.P.L.'s Golemancy Division has commenced construction on a new fleet of golems to handle all future security and quarantine protocols. 
+
+When you see one, do not say hello or attempt polite conversation. They will only respond to a certified R.P.L. Security Officer.
+
+And remember: we care!","КОМУ: ВСЕМУ ПЕРСОНАЛУ R.P.L.
+ТЕМА: НОВАЯ ПОЛИТИКА КАРАНТИНА
+
+Дорогие ценные коллеги,
+
+Как вам, возможно, известно, Rata Primus недавно приобрёл образец ВЫМАРАНО во время нашей последней вылазки в ВЫМАРАНО. Поскольку это особо вирулентный ВЫМАРАНО с историей неконтролируемого распространения, служба безопасности Rata Primus ввела ряд изменений в наши стандартные протоколы карантина.
+
+Ввиду деликатной природы ВЫМАРАНО Отдел Големансии R.P.L. приступил к постройке нового флота големов для выполнения всех будущих протоколов безопасности и карантина.
+
+Увидев одного из них, не здоровайтесь и не пытайтесь завести вежливую беседу. Они откликнутся лишь на сертифицированного офицера безопасности R.P.L.
+
+И помните: мы заботимся о вас!"
 "Teinture[pl:""Teintures""] pardon",Эссенция прощения
 "Ten years ago, the launch of Guild Wars 2 opened a new window into the world of Tyria. Three expansions, five seasons of Living World releases, and countless updates later, we're still inspired by the dedication of the game's fans.
 
@@ -2810,6 +2578,11 @@ The chances of receiving an item will depend on the total number of shiny foil c
 Один фантик будет выбран для каждого предмета в коробке Терксли, и этот предмет будет отправлен по почте игроку, приславшему выбранный фантик.
 
 Шансы получить предмет будут зависеть от общего количества присланных блестящих фантиков от конфет."
+"Thank you for assisting with our research, %str1%. It was refreshing to meet another brilliant mind. You remind me of myself when I was a progeny. Thanks to your help, I'm confident that if any krewe will solve the mystery behind the skritt intellect, it will be the Brill Alliance.
+
+—Hrappa","Спасибо за помощь в наших исследованиях, %str1%. Было приятно встретить ещё один блестящий ум. Ты напоминаешь мне меня самого в бытность подмастерьем. Благодаря твоей помощи я уверен: если какая-то команда и разгадает тайну интеллекта скриттов, это будет Альянс Брилл.
+
+—Храппа"
 "Thank you for purchasing Guild Wars 2: End of Dragons—Ultimate.
 
 Your 4,000 gems will be applied to your account within the next 72 hours.","Спасибо за покупку Guild Wars 2: Конец Драконов — Ultimate.
@@ -2817,7 +2590,7 @@ Your 4,000 gems will be applied to your account within the next 72 hours.","Сп
 Ваши 4000 самоцветов будут начислены на учётную запись в течение следующих 72 часов."
 "Thank you for purchasing Guild Wars 2: Heart of Thorns—Ultimate.
 
-Your 4,000 gems will be applied to your account within the next 72 hours.","Спасибо за покупку Guild Wars 2: Сердце Терний — Ultimate.
+Your 4,000 gems will be applied to your account within the next 72 hours.","Спасибо за покупку Guild Wars 2: Heart of Thorns — Ultimate.
 
 Ваши 4000 самоцветов будут начислены на учётную запись в течение следующих 72 часов."
 "Thank you for your timely and much-needed help in clearing Lake Feritas. Had we been unable to restore the lake to its previous condition, surrendering it to the tar and drakes, our fisher folk would have had to abandon the area. 
@@ -2831,7 +2604,7 @@ I am certain that the Flame Legion would have moved in and occupied this territo
 —Струм Бассклаш"
 "Thanks for your help at Rata Pten, %str1%. Our excavations are moving along quickly with less hostiles in the area, and the improved working conditions. We could always use another hand, so stop by anytime. Good travels.
 
-—Explorer Cryptcutter","Спасибо за помощь в Рата Птен, %str1%. Наши раскопки продвигаются быстро благодаря меньшему числу врагов в округе и улучшенным условиям труда. Нам всегда пригодится ещё одна пара рук, так что заглядывай в любое время. Удачи в пути.
+—Explorer Cryptcutter","Спасибо за помощь в Rata Pten, %str1%. Наши раскопки продвигаются быстро благодаря меньшему числу врагов в округе и улучшенным условиям труда. Нам всегда пригодится ещё одна пара рук, так что заглядывай в любое время. Удачи в пути.
 
 —Изыскатель Криптрез"
 "Thanks for your help with our dredge and grawl problem. I'm hopeful that the wildlife will return to these forests and we can begin our hunting again. I believe that someone with your skills could be of great help to Guardian Renton of the Alliance, down in the southwestern area of Fisher's Eye. Make haste. 
@@ -2846,13 +2619,6 @@ Now, go and find them!
 Так иди и найди их!
 
 —Historian Garrod"
-"Thanks to your efforts, Gallant's Folly now exceeds the necessary standards for initiating warfare against the Inquest forces at Infinity Coil. For your help in our cause, you'll now have a letter of commendation within our records. Bravery and generosity are not easily borne. Thank you, %str1%.
-
-Farewell,
-—Zara","Благодаря твоим усилиям Причуда Галанта теперь превышает необходимые стандарты для начала войны против сил Инквеста на Бесконечной Спирали. За твою помощь нашему делу ты теперь будешь отмечен благодарственным письмом в наших записях. Храбрость и щедрость нелегко нести. Спасибо тебе, %str1%.
-
-Прощай,
-—Зара"
 "Thanks to your help at the armory, we'll soon be ready to fire the ol' place up. If you hadn't taken care of those mortar shells and pesky Flame Legion rogues, it might've been forever before we could get back into the arms business.
 
 I know you must be tired from all the fighting at the front, but the way you stepped up and pitched in for the war effort here was commendable.
@@ -2882,6 +2648,27 @@ Zhaitan's emotional motivations remain impenetrable, but it may also have chosen
 "The Snaff Prize competition is underway—the most presitgious title an inventor can earn—so where are you? The College of Statics is counting on us, and we can't demonstrate the mind-blowing genius of our Very Old Energy Detector if you're not with us to hold up your end. We're a krewe, a team, and each krewe member has a part to play. Get your ears over to the parade grounds near Obscura Incline, on the double!
 —Pokka, Genius","Конкурс на премию Снаффа в самом разгаре — самый престижный титул, который может получить изобретатель — так где же вы? Колледж Статики рассчитывает на нас, и мы не сможем продемонстрировать умопомрачительный гений нашего Детектора Очень Старой Энергии, если вы не будете с нами, чтобы выполнить свою часть. Мы — крей, команда, и у каждого члена крея есть своя роль. Живо тащите свои уши на плац рядом с Обскурой Инклин, бегом!
 —Покка, Гений"
+"The War Eternal Supply Drop
+Use this to sign your account up for weekly War Eternal Supply Drops. Receive the first immediately and three more between now and May 21.
+
+First Drop:
+Exotic Breeds Mount Select License, a choice of one Desert Racer, Distant Lands, or Istani Isles mount select license or an Exotic Breeds Mount Adoption License, the Elonian Adversaries Dye Pack, and one Mini Green Raptor Hatchling, Mini Yellow Jackal Pup, Mini Red Griffon Hatchling, Mini Brown Springer Kit, and Mini Blue Skimmer Pup.
+Second Drop:
+Black Lion Outfit Voucher, Onyx and Gold Lion Weapon Choice, and 2 Black Lion Miniature Claim Tickets.
+Third Drop:
+Black Lion Backpack and Glider Voucher, Communal Boost Bonfire, 2 Heroic Boosters, 5 Black Lion Statuettes.
+Fourth Drop:
+Branded Weapon Select Box, 2 Guaranteed Wardrobe Unlocks, 5 Black Lion Chest Keys.","Еженедельная поставка «Вечной войны»
+Используйте это, чтобы подписаться на еженедельную рассылку «Вечной войны». Получите первую поставку немедленно и ещё три до 21 мая.
+
+Первая поставка:
+Лицензия на выбор экзотического ездового животного (на выбор: одна из лицензий на Desert Racer, Distant Lands или Istani Isles) или лицензия на усыновление экзотических животных, набор красок «Элонийские противники» и один мини-зелёный раптор, мини-жёлтый шакал, мини-красный грифон, мини-коричневый спрингер и мини-голубой скат.
+Вторая поставка:
+Купон на комплект снаряжения Black Lion, оружие «Оникс и золото» (на выбор) и 2 билета на получение миниатюр Black Lion.
+Третья поставка:
+Купон на рюкзак и планирующий костюм Black Lion, общественный костёр усиления, 2 героических усилителя, 5 статуэток Black Lion.
+Четвёртая поставка:
+Коробка с выбором брендированного оружия, 2 гарантированные разблокировки предметов гардероба, 5 ключей от Black Lion Chest."
 "The backpack of a Durmand Priory leader.
 <c=@flavor>""In my short life, you've taught me the most important lesson: Friends will go through anything for each other.""</c> 
 —Magister Sieran, Durmand Priory","Рюкзак лидера Durmand Priory.
@@ -2917,6 +2704,9 @@ This item only has value as part of a collection.","Мельчайшие дет�
 5 стаков: получение ярости при прямом нанесении удара врагу атакой «сброс с боевого когтя»
 6 стаков: получение дополнительных коллекционных монет из тайников кодан
 7 стаков: +5%% урона против титанов"
+"The unlocked coffer contains rift essence of various tiers.
+Double-click to open.","Открытый сундук содержит эфир разломов различных уровней.
+Дважды щёлкните, чтобы открыть."
 "This achievement will unlock additional Incursive Investigation achievements when certain steps are reached.
 During the Fractal Incursion event, some steps of this achievement will be unlocked week by week. Afterward, there will be no limit on it.","Это достижение откроет дополнительные достижения «Вторжения в шрамы», когда будут выполнены определенные шаги.
 Во время события Нашествия осколков некоторые шаги этого достижения будут открываться неделя за неделей. После этого ограничений не будет."
@@ -2927,24 +2717,6 @@ Expedition options include the following:
 Варианты экспедиций включают следующее:
 • Берег Кораблекрушений
 • Звёздная Пуща"
-"This adds a Black Lion Expedition Board to your home instance, which can be used to collect exotic resources from across Tyria. 
-Expedition locations include the following:,
-• Dry Top and the Silverwastes,
-• Bloodstone Fen,
-• Ember Bay,• Бухта Янтаря
-• Bitterfrost Frontier,
-• Lake Doric,
-• Draconis Mons,
-'• Siren''s Landing'","Это добавляет доску экспедиций Чёрного Льва в ваше домашнее убежище, которую можно использовать для сбора экзотических ресурсов по всей Тирии.
-Места экспедиций включают следующее:,
-• Сухая вершина и Серебряные пустоши,
-• Кровавый камень,
-• Залив Искр,
-• Бухта Янтаря,
-• Горький морозный рубеж,
-• Озеро Дорик,
-• Драконий Монс,
-• Земля Сирены"
 "This compendium of Orrian sorcery has somehow become a piece of Jahai's history.
 
 This item only has value as part of a collection.","Этот сборник оррианского колдовства каким-то образом стал частью истории Джахаи.
@@ -2965,8 +2737,10 @@ Can only be used by characters who wear medium armor.","Этот полный н
 Облики сами по себе не дают бонусов к характеристикам.
 Могут использоваться только персонажами, носящими среднюю броню."
 "This furry companion may seem cute now, but one day it will grow into a fearsome predator.
-Combine 3 Orange Tigris Cubs with 2 Unidentified Dyes in the Mystic Forge to create a Mini Gray Tigris Cub.","Этот пушистый питомец может показаться милым сейчас, но однажды он вырастет и станет грозным хищником.
-Соедините 3 оранжевых тигрячьих детеныша с 2 неизвестными красками в Mystic Forge, чтобы создать миниатюрного серого тигрячьего детеныша."
+Combine a Gray Tigris Cub and 2 Orange Tigris Cubs with 2 Unidentified Dyes in the Mystic Forge to create a Mini White Tigris Cub.
+Combine 3 Gray Tigris Cubs with 5 Unidentified Dyes in the Mystic Forge to create a Mini Pink Tigris Cub.","Этот пушистый питомец может показаться милым сейчас, но однажды он вырастет и станет грозным хищником.
+Соедините серого тигренка и 2 оранжевых тигренка с 2 неопознанными красками в Mystic Forge, чтобы создать миниатюрного белого тигренка.
+Соедините 3 серых тигренка с 5 неопознанными красками в Mystic Forge, чтобы создать миниатюрного розового тигренка."
 "This furry companion may seem cute now, but one day it will grow into a fearsome predator.
 Combine a White Tigris Cub, a Gray Tigris Cub, and an Orange Tigris Cub with 5 Unidentified Dyes in the Mystic Forge to create a Mini Blue Tigris Cub.","Этот пушистый питомец может показаться милым сейчас, но однажды он вырастет и превратится в грозного хищника.
 Соедините белого тигренка, серого тигренка и оранжевого тигренка с 5 неизвестными красками в Mystic Forge, чтобы создать мини-тигренка голубого цвета."
@@ -2993,12 +2767,17 @@ Double-click to open.","Этот набор содержит рецепты ку
 Дважды щёлкните, чтобы открыть."
 "This seems to be the cog that Collector Terksli told you to take to Rikka, who's hiding in Rata Sum. If you had a cleaning rag, you could probably clean it.
 
-Double-click to clean.","Похоже, это та шестерёнка, которую коллекционер Терксли просил вас отнести Рикке, которая прячется в Рата Сум. Если бы у вас была тряпка для чистки, вы могли бы её почистить.
+Double-click to clean.","Похоже, это та шестерёнка, которую коллекционер Терксли просил вас отнести Рикке, которая прячется в Rata Sum. Если бы у вас была тряпка для чистки, вы могли бы её почистить.
 
 Дважды щёлкните, чтобы очистить."
 "This speargun will not display emblem if you are not representing this guild.
 Double-click to imbue another speargun's stats into this appearance (one-time ability).","Это гарпунное ружьё не будет отображать инсигнию, если вы не представляете эту гильдию.
 Дважды щёлкните, чтобы вживить в этот облик характеристики другого гарпунного ружья (одноразовое действие)."
+"This title can be purchased from Shiny King M'takk in Hooligan's Route in Lion's Arch if you meet the requirements. 
+
+Surely it must be an official title if a self-proclaimed skritt king gives it to you, right?","Этот титул можно приобрести у Блестящего короля М’такка в районе «Улица хулиганов» в Lion's Arch, если вы соответствуете требованиям.
+
+В конце концов, это должно быть официальное звание, если его дарит самопровозглашенный король скриттов, верно?"
 "This will replace the appearance of any helm of any weight class and unlock the skin in your account wardrobe. 
 
 This helm skin has no stats of its own.","Это заменит вид одной ножной брони любого класса и разблокирует облик в гардеробе вашей учётной записи.
@@ -3024,36 +2803,38 @@ Double-click to open.","Благодаря вашим стараниям пок�
 
 Дважды щёлкните, чтобы открыть."
 Tiefland-Brackwasserfisch,Тифландская солоноватоводная рыба
-Tiefland-Meeresfisch,Тифландская морская рыба
 Todo enredado,Всё перепутано.
 Tragt Frösche über den Fluss.,Перенесите лягушек через реку.
+"Transmute %num2% item[s].
+
+<c=@reminder>Transmutation expends transmutation charges to replace the skin of a piece of equipment with a different one from your account wardrobe. Transmutation charges can be found in daily reward chests, earned by completing maps, or purchased from the Gem Store.</c>","Преобразуйте %num2% предмет[|а|ов].
+
+<c=@reminder>При трансмутации расходуются заряды трансмутации, чтобы заменить внешний вид предмета экипировки на другой из вашего гардероба. Заряды трансмутации можно найти в ежедневных сундуках с наградами, получить за прохождение карт или приобрести в игровом магазине за самоцветы.</c>"
 "Travel using a waypoint.
 
 <c=@reminder>Waypoints allow you to travel quickly around the world. They are unlocked by visiting them once. You can teleport to any unlocked waypoint for a small amount of coin.</c>","Перемещайтесь, используя точку телепортации.
 
 <c=@reminder>Точки телепортации позволяют быстро перемещаться по миру. Они открываются после первого посещения. Вы можете мгновенно перенестись в любую открытую точку телепортации за небольшую плату.</c>"
+"Two Adventures. One Price.<br>
+Buy Path of Fire and Get Heart of Thorns FREE","Два приключения. Одна цена.<br>
+Купите «Путь Огня» и получите «Heart of Thorns» в подарок!"
 Tyrias Nationen kommen in einer historischen Begegnung zusammen.,Нации Тирии собираются на историческую встречу.
+Tötet die wüste Fremden-Brut im Schroffen Oberland.,Убейте пустынное чужеродное отродье в Шроффен-Оберланде.
 "Un tir chargé. Plus le temps de charge est long, plus les dégâts et la portée sont importants. Utilise 1 munition.","Заряженный выстрел. Чем дольше время заряда, тем больше урон и дальность. Расходует 1 боеприпас."
-"Unable to find server address. A Domain Name Server (DNS) request failed. 
-
-Please try again, and if the problem persists, visit our support website.","Не удалось найти адрес сервера. Запрос к серверу доменных имен (DNS) завершился неудачно.
-
-Пожалуйста, попробуйте ещё раз, и если проблема не исчезнет, посетите наш сайт поддержки."
 Ungewisse Zeiten,Неопределённые времена
-Université de la Statique,Университет Статики
 "Unlimited use for two weeks.
 Summons a Banker NPC to your location for 15 minutes.","Неограниченное использование в течение двух недель.
 Призывает банкира к вам, и он останется здесь в течение 15 минут."
+"Unlock %num2% pieces of the True Sight armor set by crafting them or purchasing them from the Trading Post and binding them to you.
+
+Unlocking one weight's skin unlocks the other weights' skins.","Создайте или приобретите в торговом центре и привяжите к себе %num2% предмета экипировки из набора «Истинное зрение», чтобы открыть их.
+
+Разблокировка одного вида раскраски разблокирует все остальные виды раскрасок для этого предмета."
 "Unlock gobblers obtained from the Black Lion Trading Company. The Wizard's Gobbler uses this achievement to allow you to purchase their respective items.
 
 You may have to travel to Lion's Arch with the item in your inventory to update progress.","Разблокируйте гоблинов, полученных в Чёрном торговом квартале. Волшебный гоблин использует это достижение, чтобы позволить вам приобретать соответствующие предметы.
 
 Возможно, вам потребуется отправиться в Lion's Arch с этим предметом в инвентаре, чтобы обновить прогресс."
-"Unlocks the following recipes:,
-• Shimmering Scepter,• Мерцающий скипетр
-• Tenebrous Scepter","Открывает следующие рецепты:,
-• Мерцающий скипетр,• Мерцающий скипетр
-• Мрачный скипетр"
 "Unpack a siege disrupter. This trick lowers outgoing damage and increases incoming damage of enemy siege equipment for 35 seconds, and it disables golems for 20 seconds. Costs 10 supply to deploy. Cannot be blocked.
 Deployment Range: 1,200
 Effect Radius: 300","Разверните осадный дезинтегратор. Эта уловка на 35 секунд снижает исходящий урон вражеских осадных орудий и повышает получаемый ими урон, а также отключает големов на 20 секунд. Развёртывание стоит 10 припасов. Нельзя заблокировать.
@@ -3063,11 +2844,6 @@ Effect Radius: 300","Разверните осадный дезинтеграт�
 Deployment Range: 1,200
 Effect Radius: 360","Развернуть целеуказатель. Эта уловка отмечает до 50 вражеских игроков в области на 30 секунд. Стоит 10 единиц припасов для установки. Нельзя избежать.
 Дальность установки: 1200
-Радиус действия: 360"
-"Unpack a target painter. This trick marks up to 50 enemy players in the area for 30 seconds. Costs 10 supply to deploy. Cannot be avoided.,«Развернуть целеуказатель. Этот трюк помечает до 50 вражеских игроков в области на 30 секунд. Стоит 10 единиц припасов для развёртывания. Нельзя избежать».
-Deployment Range: 1,200
-Effect Radius: 360","«Развернуть целеуказатель. Этот трюк помечает до 50 вражеских игроков в области на 30 секунд. Стоит 10 единиц припасов для развёртывания. Нельзя избежать».
-Дальность развёртывания: 1,200
 Радиус действия: 360"
 "Usable by any character, this pack comes with everything a pirate captain needs to pillage
 Appearance skins override the look of your equipment and have no stats of their own.","Может использоваться любым персонажем. Этот набор содержит всё, что нужно капитану пиратов для грабежа.
@@ -3118,25 +2894,17 @@ Salvage to be reimbursed complete purchase price.</c>","Используется
 При распылении вы получите полную стоимость покупки.</c>"
 "Used to chop down all saplings.
 
-Grants a chance to receive a bonus crafting material on each swing in addition to your gathering results.","Используется для рубки всех саженцев.
-
-Даёт шанс получить бонусный материал для ремесла при каждом ударе, в дополнение к результатам сбора."
-"Used to chop down all saplings.
-
 Increases movement speed by 100%% for 5 seconds after gathering completes.","Используется для вырубки всех саженцев.
 
 После завершения сбора увеличивает скорость передвижения на 100%% в течение 5 секунд."
 "Used to chop down all saplings.,
 Replaces gathering results with logs used in higher-level crafting recipes. Material types are determined by the type of node gathered from. Elder wood can be improved a limited number of times each day.","Используется для рубки всех саженцев.,
 Заменяет результаты сбора на бревна, используемые в рецептах крафта более высокого уровня. Типы материалов определяются типом собираемого узла. Древнюю древесину можно улучшить ограниченное количество раз в день."
-"Used to craft the legendary dagger precursor Claw of Resolution.
-Combine in the Mystic Forge with Mystic Runestones, a Gift of Metal, and a Gift of the Mists to create the Gift of the Four Legions.","Используется для создания предшественника легендарного кинжала Коготь Решимости.
-Соедините в Mystic Forge с Мистическими руническими камнями, Даром Металла и Даром Туманов, чтобы создать Дар Четырёх Легионов."
 "Used to create a Gift of Galdra.
 
 Acquired by completing the Forge Guard's armor collection. Purchased from Visions of Eternity map vendors afterward.","Используется для создания дара Галдры.
 
-Получается за завершение коллекции брони Стражей Кузницы. Позже приобретается у торговцев на карте «Видения вечности»."
+Получается за завершение коллекции брони Стражей Кузницы. Позже приобретается у торговцев на карте «Visions of Eternity»."
 "Used to create a Gift of the People.
 
 Purchased from Huntmaster Arnorr in Untamed Crags in Starlit Weald after completing the Starlit Weald Mastery achievement.","Используется для создания Дара народа.
@@ -3148,20 +2916,7 @@ Earned by completing the Shipwreck Strand Mastery achievement.
 Additional copies can be purchased from Visions of Eternity vendors afterward.","Используется для создания Дара выживших.
 
 Зарабатывается за выполнение достижения «Мастерство Кораблекрушенного берега».
-Дополнительные копии можно приобрести у торговцев «Видения вечности» после этого."
-"Used to create legendary equipment.
-
-Can be purchased from some vendors, earned from some reward tracks, and randomly made in the Mystic Forge by combining:
-• Obsidian Shards
-• Mystic Coins
-• Globs of Ectoplasm
-• Philosopher's Stones or Mystic Crystals","Используется для создания легендарного снаряжения.
-
-Можно купить у некоторых торговцев, получить за некоторые награды и случайно создать в Таинственной кузнице, объединив:
-• Осколки обсидиана
-• Мистические монеты
-• Сгустки эктоплазмы
-• Философские камни или Мистические кристаллы"
+Дополнительные копии можно приобрести у торговцев «Visions of Eternity» после этого."
 "Used to gather all plants.
 
 Grants a chance to receive bonus cloth scraps in addition to your gathering results. Material types are determined by your character level and location in the world.","Используется для сбора всех растений.
@@ -3182,15 +2937,6 @@ Rewards Volatile Magic in addition to harvesting results.","Использует
 <c=@Reminder>This item can be exchanged for an updated version at the Black Lion Exchange Specialist.</c>","Используется для сбора всех растений. Даёт несвязанную магию в дополнение к результатам сбора. Неограниченное использование.
 
 <c=@Reminder>Этот предмет можно обменять на обновлённую версию у специалиста по обмену в «Black Lion».</c>"
-"Used to refine Crystalline Ore into Crystalline Ingots. Crafted from Obsidian Shards, Airship Oil
-Used to refine Meteorite Ore.,Используется для очистки Метеоритной руды.
-Used to refine decorations.,Используется для улучшения украшений.
-Used to refine or distress decorations.,Используется для улучшения или состаривания украшений.
-Used to track calming actions and thoughts.","Используется для очистки Кристаллической руды в Кристаллические слитки. Создаётся из Осколков обсидиана, Масла дирижабля
-Используется для очистки Метеоритной руды.
-Используется для улучшения украшений.
-Используется для улучшения или состаривания украшений.
-Используется для отслеживания успокаивающих действий и мыслей."
 Utiliser n'importe quel bouton de la souris pour changer de direction,"Используйте любую кнопку мыши, чтобы изменить направление"
 "Various toys of all sizes and descriptions. These would make a fine gift for any child looking to amuse themselves.
 
@@ -3198,15 +2944,9 @@ Utiliser n'importe quel bouton de la souris pour changer de direction,"Испо�
 
 <c=@flavor>«Чудо, что мне удалось достать их, не намочив!»</c>"
 Venganza negada,Месть невозможна.
-"Vous êtes Commandant[f:""Commandante""]",Вы — Командир[а]
 Waldland-Hölzchen,Лесная палочка
-"Wanderer[f:""Wanderin""]",Странник[ца]
+Wertvolle Habe,Ценные вещи
 Wettkampf,Соревнование
-"When an allied faction aids you in a Dragon Response mission, you gain an enhancement to your stats.
-While wielding Dragon Essence, your critical hits now inflict a condition based on the essence.
-The allied faction weekly vendor now carries additional items.","Когда союзная фракция помогает вам в миссии по борьбе с драконами, ваши характеристики улучшаются.
-Во время использования силы дракона ваши критические удары теперь накладывают эффект состояния, зависящий от выбранной сущности.
-Еженедельный торговец союзной фракции теперь предлагает дополнительные товары."
 "While in Bjora Marches:
 Earn extra Essence of Valor on qualifying kills.
 Applies resolution to you when your health falls below 33%% (no more than once every 60 seconds).
@@ -3229,6 +2969,11 @@ No more than once every 60 seconds, applies chill to your target for the first 5
 
 <c=@Reminder>Получается за прохождение испытаний Святилища Ворона.</c>
 <c=@Flavor>«Мы жертвуем столь многим — безопасностью от когтей смерти, знаниями веков и стабильным правлением — чтобы двигаться вперёд. Но если мы будем двигаться слишком быстро, не рискуем ли мы потерять способность остановиться?»</c>"
+"You are resting in the Arborstone Inn. If you rest for 4 hours, you will become Well Rested and earn bonus experience. The amount of bonus experience depends on your Arborstone mastery level.
+
+If you are already Well Rested, any elapsed time will be returned to you when you leave the inn unless you log out.","Вы отдыхаете в таверне «Арборстоун». Если вы отдохнёте здесь 4 часа, вы почувствуете себя бодрым и получите дополнительный опыт. Количество дополнительного опыта зависит от вашего уровня владения навыками в Арборстоуне.
+
+Если у вас уже есть эффект «Отдохнувший», то при выходе из таверны вам будет возвращено время, прошедшее с момента его получения, если только вы не выйдите из игры."
 "You are resting in the Wizard's Tower. If you rest for 4 hours, you will become Well Rested and earn bonus experience.
 
 If you are already Well Rested, any elapsed time will be returned to you when you leave the tower unless you log out.","Вы отдыхаете в башне мага. Если отдохнуть здесь 4 часа, вы почувствуете себя бодрым и получите дополнительный опыт.
@@ -3245,9 +2990,6 @@ Combat will remove your groove.","У вас лёгкая походка и ве�
 Story Instance: Legacy","Тебе никогда не нравилась эта марка.
 
 Сюжетный инстанс: Наследие"
-"Your help? Recent, but change is seen already. Inventors, they mostly talk-talk because no materials to build, not safe to scavenge. Now they still talk-talk but hands are busy making. We make things and make them go. We are proud. We are grateful. Thank you.<br>
-—Twitchok","Нужна ваша помощь? Недавно изменения стали заметны. Изобретатели, они в основном только болтают, потому что нет материалов для строительства и небезопасно искать их. Теперь они всё ещё болтают, но руки заняты изготовлением. Мы делаем вещи и заставляем их работать. Мы гордимся этим. Мы благодарны. Спасибо.<br>
-— Твичок"
 Zum Öffnen doppelklicken.,"Дважды щёлкните, чтобы открыть."
 [F]%str1%%str2%Improvisierte Pistole%str3%%str4%,[F] %str1%%str2%Улучшенная пистолетная пушка%str3%%str4%
 [F]Médaille d'éclaireur des Veilleurs,[F]Медаль разведчика Дозора

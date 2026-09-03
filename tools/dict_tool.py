@@ -865,6 +865,29 @@ def read_csv(path):
         return list(csv.reader(f))
 
 
+LF, CR = chr(10), chr(13)
+
+
+def write_csv(path, rows, eol=None):
+    """Записать батч, СОХРАНИВ разделитель записей файла.
+
+    Корпус лежит с CRLF, и запись с LF-разделителем меняет КАЖДУЮ строку
+    файла: правка на десять ячеек превращается в diff на пятьсот строк и
+    гарантированный конфликт с любым открытым PR по этому файлу.
+    """
+    if eol is None:
+        eol = LF
+        try:
+            with open(path, "rb") as f:
+                first = f.read(4096).split(LF.encode(), 1)
+            if len(first) > 1 and first[0].endswith(CR.encode()):
+                eol = CR + LF
+        except OSError:
+            pass
+    with open(path, "w", encoding="utf-8", newline="") as f:
+        csv.writer(f, lineterminator=eol).writerows(rows)
+
+
 def batch_files(with_pn=False):
     """Файлы батчей. Слой имён (`pn/`) по умолчанию НЕ отдаём.
 
@@ -1259,6 +1282,13 @@ def _orphan_split(regen=False):
             if (cr != en and cr in live) or en in lossy:
                 twin[c] += 1
                 continue
+            # Кириллица в english — тоже след давнего разбора CSV: колонки
+            # съехали, и в оригинал влип русский перевод. У игры английская
+            # строка кириллицы содержать не может, значит хеш посчитан от
+            # мусора и запись мертва.
+            if CYR.search(en):
+                twin[c] += 1
+                continue
             (pn if lay else reg)[c].append((en, ru))
     return reg, pn, blank, twin
 
@@ -1300,7 +1330,7 @@ def cmd_orphans(a):
     print("вне батчей: обычных %d, слоя %d%s"
           % (nreg, npn, " (пересчёт для выгрузки)" if a.export else ""))
     print("мёртвых, батч им не нужен (только --prune): без english %d, "
-          "двойников живых строк %d" % (blank, sum(twin.values())))
+          "с испорченным english %d" % (blank, sum(twin.values())))
     if twin:
         print("    %s" % ", ".join("%s %d" % kv for kv in twin.most_common(6)))
     for c, v in sorted(reg.items(), key=lambda kv: -len(kv[1]))[:8]:
