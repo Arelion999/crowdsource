@@ -118,7 +118,7 @@ Combine this item in the Mystic Forge with:
 <c=@flavor>This ring vibrates with the power of the Vale Guardian.</c>,<c=@flavor>Это кольцо дрожит от силы Vale Guardian.</c>
 <c=@flavor>This scroll describes some practices of the ancient druids.</c>,<c=@flavor>В этом свитке описаны некоторые обряды древних друидов.</c>
 <c=@flavor>This shell keeps quaggan safe in dangerous waters.</c>,<c=@flavor>Эта раковина хранит кваггана в опасных водах.</c>
-<c=@flavor>This spoon commemorates the first silverware produced by the fine folk of First Haven.</c>,"<c=@flavor>Эта ложка увековечивает первое столовое серебро, изготовленное добрым народом Первой Гавани.</c>"
+<c=@flavor>This spoon commemorates the first silverware produced by the fine folk of First Haven.</c>,"<c=@flavor>Эта ложка увековечивает первое столовое серебро, изготовленное добрым народом First Haven.</c>"
 <c=@flavor>This totem features a relief of the fabled norn hero Jora.</c>,<c=@flavor>На этом тотеме — рельеф легендарной героини-норна Джоры.</c>
 <c=@flavor>This totem is carved with inscriptions depicting the Hylek sun god.</c>,"<c=@flavor>Этот тотем покрыт резьбой, изображающей бога солнца хилеков.</c>"
 <c=@flavor>This trinket grows hotter when in proximity to destroyers.</c>,<c=@flavor>Эта безделушка нагревается вблизи разрушителей.</c>
@@ -463,7 +463,7 @@ Cannot be used in the Mystic Forge if transmuted.","<c=@flavor>Скарлет с
 "<c=@flavor>You see, any of the four elements can be made into a torch!</c>","<c=@flavor>Видишь ли, факел можно сделать из любой из четырёх стихий!</c>"
 "<c=@flavor>You should be careful about carrying this around with you.</c>
 —Scholar Glenna","<c=@flavor>Тебе стоит поосторожнее носить это с собой.</c>
-—Учёная Гленна"
+—Scholar Glenna"
 "<c=@flavor>You shouldn't eat this, but it might be good for something.</c>","<c=@flavor>Есть это не стоит, но на что-нибудь оно сгодится.</c>"
 <c=@flavor>You're not sure this is a good idea.</c>,"<c=@flavor>Ты не уверен, что это хорошая мысль.</c>"
 <c=@flavor>You've been marked for death by the bandits of Kryta.</c>,<c=@flavor>Бандиты Крайты приговорили тебя к смерти.</c>
@@ -491,7 +491,7 @@ Use the box to randomly unlock a Black Lion wardrobe item you don't already have
 <c=@Reminder>Hint: Defeat a ley-infused enemy while holding a Memory Essence Encapsulator in your inventory.</c>,"<c=@Reminder>Подсказка: победите врага, напитанного лей-энергией, держа в инвентаре инкапсулятор эссенции памяти.</c>"
 <c=@Reminder>Hint: Defeat Kuda's test subjects within the Specimen Chamber while holding a Memory Essence Encapsulator in your inventory.</c>,"<c=@Reminder>Подсказка: победите подопытных Куды в Камере образцов, держа в инвентаре инкапсулятор эссенции памяти.</c>"
 <c=@Reminder>Hint: Defeat the Death-Branded Shatterer within Jahai Bluffs while holding a Memory Essence Encapsulator in your inventory.</c>,"<c=@Reminder>Подсказка: победите Крушителя, клеймённого смертью, в Утёсах Джахай, держа в инвентаре инкапсулятор эссенции памяти.</c>"
-<c=@Reminder>Hint: Defeat the Wrathbringer in Thunderhead Keep while holding a Memory Essence Encapsulator in your inventory.</c>,"<c=@Reminder>Подсказка: победите Гневоносца в Крепости Громовой головы, держа в инвентаре инкапсулятор эссенции памяти.</c>"
+<c=@Reminder>Hint: Defeat the Wrathbringer in Thunderhead Keep while holding a Memory Essence Encapsulator in your inventory.</c>,"<c=@Reminder>Подсказка: победите Гневоносца в Thunderhead Keep, держа в инвентаре инкапсулятор эссенции памяти.</c>"
 <c=@Reminder>Hint: Defeat Troopmarshal Olori Ogun in the Domain of Kourna while holding a Memory Essence Encapsulator in your inventory.</c>,"<c=@Reminder>Подсказка: победите отрядного маршала Олори Огуна во Владении Курна, держа в инвентаре инкапсулятор эссенции памяти.</c>"
 <c=@Reminder>Hint: Help the youth learn to provide.</c>,<c=@Reminder>Подсказка: помогите молодёжи научиться добывать пропитание.</c>
 <c=@Reminder>Hint: Perform an ancient ritual with unlikely allies.</c>,<c=@Reminder>Подсказка: проведите древний ритуал с неожиданными союзниками.</c>

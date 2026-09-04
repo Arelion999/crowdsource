@@ -63,7 +63,7 @@ Kill %num2% insects.,Убейте %num2% насекомых.
 Kill %num2% invaders.,Убейте %num2% захватчиков.
 Kill %num2% jotun.,Убейте %num2% йотунов.
 Kill %num2% kappa in New Kaineng City.,Убейте %num2% капп в New Kaineng.
-Kill %num2% krait in Nonmoa Lake or complete the Kill the Krait Witch event to aid the Eztlitl hylek.,"Убейте %num2% крайтов у озера Нонмоа или завершите событие «Убейте крайтовую ведьму», чтобы помочь хилекам Эцтлитль."
+Kill %num2% krait in Nonmoa Lake or complete the Kill the Krait Witch event to aid the Eztlitl hylek.,"Убейте %num2% крайтов у Nonmoa Lake или завершите событие «Убейте крайтовую ведьму», чтобы помочь хилекам Эцтлитль."
 Kill %num2% krait.,Убейте %num2% крайтов.
 Kill %num2% members of Balthazar's Forged.,Убейте %num2% членов Кованых Бальтазара.
 Kill %num2% members of Joko's Awakened.,Убейте %num2% членов Пробуждённых Джоко.
@@ -129,7 +129,7 @@ Killed %num1%/%num2% Jade Brotherhood in New Kaineng,Убито %num1%/%num2% б
 Killed %num1%/%num2% Jade Mechs in Echovald Wilds,Убито %num1%/%num2% нефритовых мехов в Echovald Wilds
 Killed %num1%/%num2% Kappa,Убито %num1%/%num2% капп
 Killed %num1%/%num2% Kappa in Gyala Delve,Убито %num1%/%num2% капп в Гьяла-Дельв
-Killed %num1%/%num2% Krait in Nonmoa Lake or Killed the Krait Witch,Убито %num1%/%num2% крайтов у озера Нонмоа или убита крайтовая ведьма
+Killed %num1%/%num2% Krait in Nonmoa Lake or Killed the Krait Witch,Убито %num1%/%num2% крайтов у Nonmoa Lake или убита крайтовая ведьма
 Killed %num1%/%num2% Kryptis Generals,Убито %num1%/%num2% генералов криптисов
 Killed %num1%/%num2% Kryptis in Amnytas,Убито %num1%/%num2% криптисов в Амнитасе
 Killed %num1%/%num2% Mordant Crescent Champions,Убито %num1%/%num2% чемпионов Едкого Полумесяца
@@ -205,7 +205,7 @@ Kjalt,Кьялт
 Kjartan the Cook,Кьяртан Повар
 Klaw Silverguard,Клау Серебряная Стража
 Knaebelag the Terror has been defeated. Eparch's loyalists have been driven from Nyedra.,Кнебелаг Ужасный побеждён. Лоялисты Эпарха изгнаны из Ниедры.
-Kneel at Glint's Shrine in Droknar's Light.,Преклоните колени у святилища Глинт в Свете Дрокнара.
+Kneel at Glint's Shrine in Droknar's Light.,Преклоните колени у святилища Глинт в Droknar's Light.
 Knelt at %num1%/%num2% Shrines,Преклонили колени у %num1%/%num2% святилищ
 Knelt at %num1%/7 Statues,Преклонили колени у %num1%/7 статуй
 Knelt with Nephus to Show Your Loyalty,Преклонили колени вместе с Нефусом в знак верности
@@ -433,8 +433,8 @@ Ley Magic and Research Notes,Лей-магия и исследовательск
 Ley Thunder,Лей-гром
 Ley-Energy Buildup,Накопление лей-энергии
 Ley-Line Accumulation,Накопление лей-линии
-Ley-Line Anomaly Dispersed,Аномалия лей-линии рассеяна
-Ley-Line Anomaly Encountered,Обнаружена аномалия лей-линии
+Ley-Line Anomaly Dispersed,Ley-Line Anomaly рассеяна
+Ley-Line Anomaly Encountered,Обнаружена Ley-Line Anomaly
 Ley-Line Magic Protected,Магия лей-линии защищена
 Ley-Line Punch,Удар лей-линии
 Ley-Line Whip,Хлыст лей-линии
