@@ -6,7 +6,6 @@ Purchase ingredients from Miyani at the Mystic Forge to craft food and drinks fo
 Purchase limit %str1%%str2%: %num1%,Лимит покупки %str1%%str2%: %num1%
 Purchase prices reset on a weekly basis.,Цены на покупку сбрасываются еженедельно.
 Purchase Recordings,Купить записи
-Purchase request sent.Please check your in-game mail for delivery.,"Запрос на покупку отправлен.Пожалуйста, проверьте внутриигровую почту для доставки."
 Purchase Reward Tracks,Купить треки наград
 "Purchase salmon roe from Fisherman Will in Queensdale after helping the fishermen of Beetletun, and then feed it to your raven chick.","Купить икру лосося у рыбака Уилла в Квинсдейле после помощи рыбакам Битлтуна, а затем скормить её вашему птенцу ворона."
 Purchase shield generator parts from the old centaur in Eboneigh Territory or Brownmane Camp.,Купить детали генератора щита у старого кентавра на территории Эбони или в лагере Браунмейн.
@@ -101,7 +100,6 @@ Purchased from Itzel vendors for airship parts.,Куплено у торговц
 Purchased from Keeper Pamir at Torment's Watch in the Desolation.,Куплено у Хранителя Памира на Страже Мучений в Пустоши.
 Purchased from Legionnaire Crunchbone in Fields of Ruin after assisting the charr delegation.,Куплено у Легионера Хрусткой Кости на Полях Разрушения после помощи делегации чарров.
 "Purchased from low-level karma merchants in Plains of Ashford, Wayfarer Foothills, Queensdale, Caledon Forest, and Metrica Province.","Куплено у торговцев кармы низкого уровня в Plains of Ashford, Wayfarer Foothills, Королевских полях, Лесу Каледон и Metrica Province."
-Purchased from master craftspeople for research notes. Research notes are acquired by deconstructing crafted items with research kits.Research kits are bought from master craftspeople.,Куплено у мастеров-ремесленников за исследовательские заметки. Исследовательские заметки получаются путем разбора созданных предметов с помощью исследовательских наборов. Исследовательские наборы покупаются у мастеров-ремесленников.
 Purchased from Mayor Kabir of Zephyr's Trace in Crystal Oasis.,Куплено у Мэра Кабира из Тропы Зефира в Crystal Oasis.
 Purchased from Nikki the Lost in the Wizard's Tower.,Куплено у Никки Заблудшей в Башне Чародея.
 Purchased from Nuhoch vendors for ley-line crystals.,Куплено у торговцев Нухок за кристаллы лей-линий.
@@ -297,7 +295,6 @@ PvP Condition Damage Runes,Руны урона от состояний PvP
 PvP Condition Duration Runes,Руны длительности состояний PvP
 PvP Conquest,Захват PvP
 PvP Critical Damage Runes,Руны критического урона PvP
-PvP EquipmentClick to view standard equipment.Standard equipment only provides benefits while outside of PvP game modes.Weapons are displayed in both views.,"Снаряжение PvPЩёлкните, чтобы просмотреть стандартное снаряжение.Стандартное снаряжение даёт преимущества только вне режимов PvP.Оружие отображается в обоих видах."
 PvP Finisher,Финишер PvP
 PvP Flame Ram Controller,Пульт управления огненным тараном для PvP
 PvP Game,Игра PvP
@@ -418,7 +415,6 @@ PvP Rank,Ранг PvP
 PvP rank is earned by playing games in PvP. You will earn new finisher abilities you can use to show off when finishing downed opponents as you progress in rank.,"PvP-ранг зарабатывается участием в PvP-матчах. По мере повышения ранга вы будете получать новые способности для добивания, которые можно использовать, чтобы эффектно добивать поверженных противников."
 PvP rank points can be earned by participating in PvP matches.,"Очки PvP-ранга можно заработать, участвуя в PvP-матчах."
 PvP Rank: %str1%,Ранг PvP: %str1%
-PvP Rank: %str1%%num1% total rank points. Increase your rank by participating in PvP matches.,"Ранг PvP: %str1%%num1% всего очков ранга. Повышайте свой ранг, участвуя в матчах PvP."
 PvP Returning to Lobby,Возвращение в лобби PvP
 PvP Returning to PvE,PvP Возврат в PvE
 PvP Salvage Kit[s],[Набор|Набора|Наборов] для разбора PvP

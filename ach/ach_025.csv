@@ -268,11 +268,6 @@ Revisiting the Hidden Grove,Revisiting the Hidden Grove
 Revitalizing the Forge,Revitalizing the Forge
 Revive %num2% ally.,Возродите %num2% [союзника|союзника|союзников].
 Revive %num2% players.,Воскресите %num2% игроков.
-"Revive %num2% ally[pl:""allies""].
-
-<c=@reminder>Downed or defeated players and allies can be revived by approaching and interacting with them to restore their health. Multiple people can revive the same ally at once to restore health faster.</c>","Возродите %num2% [союзника|союзника|союзников].
-
-<c=@reminder>Падших или поверженных игроков и союзников можно возродить, подойдя к ним и взаимодействуя с ними для восстановления здоровья. Несколько человек могут одновременно возрождать одного союзника, чтобы быстрее восстановить его здоровье.</c>"
 Revive a downed or defeated NPC or player.,Воскресите сбитого с ног или поверженного NPC или игрока.
 Revive guards in the Upper City.,Воскресите стражников в Верхнем городе.
 Reviving Allies,Reviving Allies
@@ -493,14 +488,6 @@ Savior of the Underworld,Savior of the Underworld
 Scale the rocks to the tree-topped outcrop.,Взберитесь по скалам к выступу с деревьями.
 Scaled to the top!,Взобрались на вершину!
 Scales of Dragrimmar,Чешуя Драгриммара
-"Scales...
-Claws...
-Wings...
-Crown.","Чешуя...
-Когти...
-Крылья...
-Корона."
-Scales...Claws...Wings...Crown.,Чешуя...Когти...Крылья...Корона.
 Scaling Up,Scaling Up
 Scan a friend to be sure they are not hiding anything.,"Просканируйте друга, чтобы убедиться, что он ничего не скрывает."
 Scan and Soothe,Scan and Soothe

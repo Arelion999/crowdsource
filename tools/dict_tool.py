@@ -1260,7 +1260,11 @@ def _orphan_split(regen=False):
         for _h, en, _ru in es:
             live.add(en)
     for en in live:
-        f = TOKEN_ANY.sub("", en)
+        f = TOKEN_ANY.sub('', en)
+        if f != en:
+            lossy.setdefault(f, en)
+        # третий способ испортить оригинал: вырезать переводы строк.
+        f = en.replace(CR, '').replace(LF, '')
         if f != en:
             lossy.setdefault(f, en)
     reg, pn = collections.defaultdict(list), collections.defaultdict(list)
@@ -1364,6 +1368,114 @@ def cmd_orphans(a):
     if stale:
         print("опустевшие файлы прошлого прогона (удалить): %s"
               % ", ".join(os.path.relpath(f, CROWD) for f in stale))
+
+
+# Дыра, оставшаяся на месте вырезанного куска: двойной пробел, пробел перед
+# знаком, край строки, одинокий слэш. Без дыры порча НЕ доказана — «Beaded
+# Lancea» это настоящее имя предмета, а не образ «%str1%%str2%Beaded
+# Lancea%str3%%str4%», и сносить его нельзя.
+HOLE = re.compile(r'  |\s[.,;:!?]|^\s|\s$|\s/|/\s')
+
+
+def dead_image(live):
+    """{испорченный english: живой оригинал} — доказуемо мёртвые записи.
+
+    Хеш записи считается от english. Если english испорчен, игра хеширует
+    настоящий текст и в такую запись не попадёт НИКОГДА: это не строка игры, а
+    след давней обработки. Опознаём только доказательно — у мёртвой записи в
+    том же словаре лежит живой оригинал, образом которого она является, И
+    порча оставила видимый след:
+
+    * вырезан токен движка, на его месте дыра: «Acquire %num2% memories» ->
+      «Acquire  memories» с двойным пробелом;
+    * вырезаны переводы строк, и куски слиплись без пробела: «Collect 100
+      Scraps.<LF>Scraps are awarded» -> «Collect 100 Scraps.Scraps are awarded»;
+    * потерян CR (чтение батча без newline=\"\", см. read_csv).
+
+    Чего тут НЕТ и почему. Снятие тега (`<c=@flavor>Текст</c>` -> `Текст`)
+    следа не оставляет, и голый вариант вполне может быть настоящей строкой
+    игры — правило по тегам дало бы 242 ложных сноса.
+    """
+    out = {}
+    for en in live:
+        f = TOKEN_ANY.sub('', en)
+        if f != en and HOLE.search(f):
+            out.setdefault(f, en)
+        f = en.replace(CR, '').replace(LF, '')
+        if f != en and _glued(en):
+            out.setdefault(f, en)
+        f = en.replace(CR + LF, LF)
+        if f != en:
+            out.setdefault(f, en)
+    return out
+
+
+def _glued(en):
+    """Хоть один перевод строки стоял между непробельными символами.
+
+    Тогда после его удаления куски слипаются («Scraps.Scraps»), и это видимый
+    след. Если перенос был окружён пробелами, плоский вариант выглядит
+    естественно, и порча не доказана.
+    """
+    s = en.replace(CR, LF)
+    for k, ch in enumerate(s):
+        if ch == LF and 0 < k < len(s) - 1 \
+                and not s[k - 1].isspace() and not s[k + 1].isspace():
+            return True
+    return False
+
+
+def cmd_deadtwins(a):
+    """Вычеркнуть из батчей строки, чей english испорчен.
+
+    Батч теперь решает, existовать записи или нет, поэтому сносим её именно
+    отсюда: строка уходит из батча, а `frombatches --prune` убирает запись из
+    bin. Правка видна в PR построчно.
+    """
+    live = set()
+    for _n, es in read_sections(OUR_BIN):
+        for _h, en, _ru in es:
+            live.add(en)
+    image = dead_image(live)
+    kinds = collections.Counter()
+    rows_out, total = [], 0
+    for fp in batch_files(with_pn=True):
+        # `split/` — списки разметки, а не батчи: у них одна колонка, и
+        # переписывать их этой командой нечего.
+        if "split" in fp.replace(os.sep, "/").split("/"):
+            continue
+        rows = read_csv(fp)
+        if not rows or rows[0][:1] != ["english"] or len(rows[0]) < 2:
+            continue
+        keep, drop = [rows[0]], []
+        for r in rows[1:]:
+            if not r or not r[0].strip():
+                continue
+            en = r[0]
+            why = None
+            if CYR.search(en):
+                why = "кириллица в english"
+            elif en in image:
+                why = "образ живой строки"
+            if why:
+                kinds[why] += 1
+                drop.append(r)
+                rows_out.append((why, os.path.relpath(fp, CROWD), en,
+                                 r[1] if len(r) > 1 else ""))
+            else:
+                keep.append(r)
+        if drop:
+            total += len(drop)
+            if a.apply:
+                write_csv(fp, keep)
+    print("строк батчей с испорченным english: %d" % total)
+    for k, n in kinds.most_common():
+        print("    %-24s %6d" % (k, n))
+    _report("dead_twins.csv", ["причина", "файл", "english", "перевод"], rows_out)
+    if a.apply:
+        print("вычеркнуто из батчей; теперь frombatches --batches-win --prune --apply")
+    else:
+        print("(план; для записи --apply)")
 
 
 def cmd_canon(a):
@@ -3204,6 +3316,8 @@ def main():
     add("orphans", "записи bin вне батчей: показать / завести батч", cmd_orphans,
         (("--export",), {"action": "store_true",
                          "help": "выгрузить их в батчи, чтобы стали управляемы"}))
+    add("deadtwins", "вычеркнуть строки с испорченным english", cmd_deadtwins,
+        (("--apply",), {"action": "store_true"}))
     add("canon", "привести к канону терминов", cmd_canon,
         (("--apply",), {"action": "store_true"}))
     add("typo", "русская типографика: ё, кавычки, знаки", cmd_typo,

@@ -1,119 +1,20 @@
 english,translate
-+7%% Strike Damage vs. Inquest+3%% Strike Damage,+7%% урона против Инквеста+3%% обычного урона
-+7%% Strike Damage vs. Karka+3%% Strike Damage,+7%% урона против карка+3%% обычного урона
-+7%% Strike Damage vs. Krait+3%% Strike Damage,+7%% урона против крайтов+3%% обычного урона
-+7%% Strike Damage vs. Nightmare Court+3%% Strike Damage,+7%% урона против Nightmare Court+3%% обычного урона
-+7%% Strike Damage vs. Ogres+3%% Strike Damage,+7%% урона против огров+3%% обычного урона
-+7%% Strike Damage vs. Outlaws+3%% Strike Damage,+7%% урона против разбойников+3%% обычного урона
-+7%% Strike Damage vs. Sons of Svanir+3%% Strike Damage,+7%% урона против Сынов Сванира+3%% обычного урона
-+7%% Strike Damage vs. Stunned or Knocked-Down Foes+3%% Strike Damage,+7%% обычного урона против оглушённых и сбитых с ног врагов+3%% обычного урона
-+7%% Strike Damage vs. Undead+3%% Strike Damage,+7%% урона против нежити+3%% обычного урона
 +75%% damage and 3s knockdown. 30%% chance to break.,+75%% урона и нокдаун на 3 с. 30%% шанс сломаться.
 +75%% damage melee attack. 40%% to break.,Атака ближнего боя с +75%% урона. 40%% шанс сломаться.
 +8 Agony Infusion[s],[Инфузия|Инфузии|Инфузий] агонии +8
 +8 Agony Resistance,+8 к сопротивлению агонии
-+8 Condition Damage+4 Precision,+8 к урону от состояний+4 к Точности
-+8 Healing+4 Power,+8 к исцелению+4 к Силе
-+8 Power+4 Ferocity,+8 к Силе+4 к Свирепости
-+8 Power+4 Precision,+8 к Силе+4 к Точности
-+8 Power+4 Vitality,+8 к Силе+4 к Живучести
-+8 Precision+4 Power,+8 к Точности+4 к Силе
 +8 to All Stats,+8 ко всем характеристикам
-+8 Toughness+4 Concentration,+8 к Стойкости+4 к Концентрации
-+8 Vitality+4 Toughness,+8 к Живучести+4 к Стойкости
-+8%% damage vs elementals-6%% damage from elementals,+8%% урона против элементалей-6%% урона от элементалей
-+8%% Damage vs. Centaur-6%% Damage from Centaur+10%% Experience from Kills,+8%% урона против кентавров-6%% урона от кентавров+10%% опыта за убийства
-+8%% Damage vs. Demons-6%% Damage from Demons+10%% Experience from Kills,+8%% урона против демонов-6%% урона от демонов+10%% опыта за убийства
-+8%% Damage vs. Destroyers-6%% Damage from Destroyers+10%% Experience from Kills,+8%% урона против разрушителей-6%% урона от разрушителей+10%% опыта за убийства
-+8%% Damage vs. Dredge-6%% Damage from Dredge+10%% Experience from Kills,+8%% урона против дреджей-6%% урона от дреджей+10%% опыта за убийства
-+8%% Damage vs. Flame Legion-6%% Damage from Flame Legion+10%% Experience from Kills,+8%% урона против Flame Legion-6%% урона от Flame Legion+10%% опыта за убийства
-+8%% Damage vs. Grawl-6%% Damage from Grawl+10%% Experience from Kills,+8%% урона против граулов-6%% урона от граулов+10%% опыта за убийства
-+8%% Damage vs. Halloween Creatures-6%% Damage from Halloween Creatures+10%% Experience from Kills,+8%% урона против хэллоуинских существ-6%% урона от хэллоуинских существ+10%% опыта за убийства
-+8%% Damage vs. Ice Brood-6%% Damage from Ice Brood+10%% Experience from Kills,+8%% урона против ледяных отродий-6%% урона от ледяных отродий+10%% опыта за убийства
-+8%% Damage vs. Inquest-6%% Damage from Inquest+10%% Experience from Kills,+8%% урона против Инквеста-6%% урона от Инквеста+10%% опыта за убийства
-+8%% Damage vs. Karka-6%% Damage from Karka+10%% Experience from Kills,+8%% урона против карка-6%% урона от карка+10%% опыта за убийства
-+8%% Damage vs. Krait-6%% Damage from Krait+10%% Experience from Kills,+8%% урона против крайтов-6%% урона от крайтов+10%% опыта за убийства
-+8%% Damage vs. Nightmare Court-6%% Damage from Nightmare Court+10%% Experience from Kills,+8%% урона против Nightmare Court-6%% урона от Nightmare Court+10%% опыта за убийства
-+8%% Damage vs. Ogres-6%% Damage from Ogres+10%% Experience from Kills,+8%% урона против огров-6%% урона от огров+10%% опыта за убийства
-+8%% Damage vs. Outlaws-6%% Damage from Outlaws+10%% Experience from Kills,+8%% урона против разбойников-6%% урона от разбойников+10%% опыта за убийства
-+8%% Damage vs. Sons of Svanir-6%% Damage from Sons of Svanir+10%% Experience from Kills,+8%% урона против Сынов Сванира-6%% урона от Сынов Сванира+10%% опыта за убийства
-+8%% Damage vs. Undead-6%% Damage from Undead+10%% Experience from Kills,+8%% урона против нежити-6%% урона от нежити+10%% опыта за убийства
-+80 Concentration+32%% Magic Find While under the Effect of a Boon,+80 к Концентрации+32%% к поиску магии под действием бона
-+80 Concentration+32%% Magic Find while Under the Effect of a Boon+10%% Experience from Kills,+80 к Концентрации+32%% к поиску магии под действием бона+10%% опыта за убийства
-+80 Condition Damage+60 Precision,+80 к урону от состояний+60 к Точности
-+80 Condition Damage+60 Precision+10%% Experience from Kills,+80 к урону от состояний+60 к Точности+10%% опыта за убийства
-+80 Condition Damage+60 Vitality,+80 к урону от состояний+60 к Живучести
-+80 Condition Damage+60 Vitality+10%% Experience from Kills,+80 к урону от состояний+60 к Живучести+10%% опыта за убийства
-+80 Expertise+60 Condition Damage,+80 к Экспертизе+60 к урону от состояний
-+80 Expertise+60 Condition Damage+10%% Experience from Kills,+80 к Экспертизе+60 к урону от состояний+10%% опыта за убийства
-+80 Healing Power+60 Toughness+5%% Karma,+80 к Силе исцеления+60 к Стойкости+5%% кармы
-+80 Healing Power+8%% Healing to Other Allies,+80 к Силе исцеления+8%% к исцелению прочих союзников
-+80 Healing+60 Condition Damage,+80 к исцелению+60 к урону от состояний
-+80 Healing+60 Condition Damage+10%% Experience from Kills,+80 к исцелению+60 к урону от состояний+10%% опыта за убийства
-+80 Healing+60 Precision,+80 к исцелению+60 к Точности
-+80 Healing+60 Precision+10%% Experience from Kills,+80 к исцелению+60 к Точности+10%% опыта за убийства
-+80 Healing+60 Precision+15%% Experience from Kills,+80 к исцелению+60 к Точности+15%% опыта за убийства
-+80 Healing+60 Vitality,+80 к исцелению+60 к Живучести
-+80 Healing+60 Vitality+10%% Experience from Kills,+80 к исцелению+60 к Живучести+10%% опыта за убийства
-+80 Power for 30 Seconds on Kill+50 Precision+50 Condition Damage+30%% Magic Find+10%% Experience from Kills,+80 к Силе на 30 секунд при убийстве+50 к Точности+50 к урону от состояний+30%% к поиску магии+10%% опыта за убийства
-+80 Power+60 Condition Damage,+80 к Силе+60 к урону от состояний
-+80 Power+60 Condition Damage+10%% Experience from Kills,+80 к Силе+60 к урону от состояний+10%% опыта за убийства
-+80 Power+60 Ferocity+10%% Experience from Kills,+80 к Силе+60 к Свирепости+10%% опыта за убийства
-+80 Power+60 Precision,+80 к Силе+60 к Точности
-+80 Power+60 Precision+10%% Experience from Kills,+80 к Силе+60 к Точности+10%% опыта за убийства
-+80 Power+60 Vitality,+80 к Силе+60 к Живучести
-+80 Power+60 Vitality+10%% Experience from Kills,+80 к Силе+60 к Живучести+10%% опыта за убийства
-+80 Precision+60 Condition Damage,+80 к Точности+60 к урону от состояний
-+80 Precision+60 Condition Damage+10%% Experience from Kills,+80 к Точности+60 к урону от состояний+10%% опыта за убийства
-+80 Precision+60 Ferocity,+80 к Точности+60 к Свирепости
-+80 Precision+60 Ferocity+10%% Experience from Kills,+80 к Точности+60 к Свирепости+10%% опыта за убийства
-+80 Precision+60 Vitality,+80 к Точности+60 к Живучести
-+80 Precision+60 Vitality+10%% Experience from Kills,+80 к Точности+60 к Живучести+10%% опыта за убийства
-+80 Toughness+60 Condition Damage,+80 к Стойкости+60 к урону от состояний
-+80 Toughness+60 Condition Damage+10%% Experience from Kills,+80 к Стойкости+60 к урону от состояний+10%% опыта за убийства
-+80 Toughness+60 Precision,+80 к Стойкости+60 к Точности
-+80 Toughness+60 Precision+10%% Experience from Kills,+80 к Стойкости+60 к Точности+10%% опыта за убийства
-+80 Vitality+160 Power when Health below 50%%,+80 к Живучести+160 к Силе при здоровье ниже 50%%
-+80 Vitality+160 Power while Health Is Below 50%%+10%% Experience from Kills,"+80 к Живучести+160 к Силе, пока здоровье ниже 50%%+10%% опыта за убийства"
-+80 Vitality+60 Toughness,+80 к Живучести+60 к Стойкости
-+80 Vitality+60 Toughness+10%% Experience from Kills,+80 к Живучести+60 к Стойкости+10%% опыта за убийства
-+80%% Downed Health+14%% Damage While Downed,+80%% здоровья в поверженном состоянии+14%% урона в поверженном состоянии
-+80%% Downed Health+14%% Damage While Downed+10%% Experience from Kills,+80%% здоровья в поверженном состоянии+14%% урона в поверженном состоянии+10%% опыта за убийства
 +9 Agony Infusion Upgrades,Улучшения «Инфузия агонии +9»
 +9 Agony Infusion[s],[Инфузия|Инфузии|Инфузий] агонии +9
 +9 Agony Resistance,+9 к сопротивлению агонии
-+9 Condition Damage+7 Precision,+9 к урону от состояний+7 к Точности
-+9 Healing+7 Power,+9 к исцелению+7 к Силе
-+9 Power+7 Ferocity,+9 к Силе+7 к Свирепости
-+9 Power+7 Precision,+9 к Силе+7 к Точности
-+9 Power+7 Vitality,+9 к Силе+7 к Живучести
-+9 Precision+7 Power,+9 к Точности+7 к Силе
-+9 Vitality+7 Toughness,+9 к Живучести+7 к Стойкости
 +9%% Bleeding Duration,+9%% к длительности Кровотечения
 +9%% Burning Duration,+9%% к длительности Горения
 +9%% Chill Duration,+9%% к длительности Заморозки
 +9%% Confusion Duration,+9%% к длительности Замешательства
-+9%% Damage vs. Centaur-8%% Damage from Centaur+10%% Experience from Kills,+9%% урона против кентавров-8%% урона от кентавров+10%% опыта за убийства
-"+9%% Damage vs. Demons, Kryptis, and Titanspawn-8%% Damage from Demons, Kryptis, and Titanspawn+10%% Experience from Kills","+9%% урона против демонов, криптис и титанорождённых-8%% урона от демонов, криптис и титанорождённых+10%% опыта за убийства"
-+9%% Damage vs. Destroyers-8%% Damage from Destroyers+10%% Experience from Kills,+9%% урона против разрушителей-8%% урона от разрушителей+10%% опыта за убийства
-+9%% Damage vs. Dredge-8%% Damage from Dredge+10%% Experience from Kills,+9%% урона против дреджей-8%% урона от дреджей+10%% опыта за убийства
-+9%% Damage vs. Elementals-8%% Damage from Elementals+10%% Experience from Kills,+9%% урона против элементалей-8%% урона от элементалей+10%% опыта за убийства
-+9%% Damage vs. Flame Legion-8%% Damage from Flame Legion+10%% Experience from Kills,+9%% урона против Flame Legion-8%% урона от Flame Legion+10%% опыта за убийства
-+9%% Damage vs. Grawl-8%% Damage from Grawl+10%% Experience from Kills,+9%% урона против граулов-8%% урона от граулов+10%% опыта за убийства
-+9%% Damage vs. Halloween Creatures-8%% Damage from Halloween Creatures+10%% Experience from Kills,+9%% урона против хэллоуинских существ-8%% урона от хэллоуинских существ+10%% опыта за убийства
-+9%% Damage vs. Ice Brood-8%% Damage from Ice Brood+10%% Experience from Kills,+9%% урона против ледяных отродий-8%% урона от ледяных отродий+10%% опыта за убийства
-+9%% Damage vs. Inquest-8%% Damage from Inquest+10%% Experience from Kills,+9%% урона против Инквеста-8%% урона от Инквеста+10%% опыта за убийства
-+9%% Damage vs. Krait-8%% Damage from Krait+10%% Experience from Kills,+9%% урона против крайтов-8%% урона от крайтов+10%% опыта за убийства
-+9%% Damage vs. Nightmare Court-8%% Damage from Nightmare Court+10%% Experience from Kills,+9%% урона против Nightmare Court-8%% урона от Nightmare Court+10%% опыта за убийства
-+9%% Damage vs. Ogres-8%% Damage from Ogres+10%% Experience from Kills,+9%% урона против огров-8%% урона от огров+10%% опыта за убийства
-+9%% Damage vs. Outlaws-8%% Damage from Outlaws+10%% Experience from Kills,+9%% урона против разбойников-8%% урона от разбойников+10%% опыта за убийства
-+9%% Damage vs. Sons of Svanir-8%% Damage from Sons of Svanir+10%% Experience from Kills,+9%% урона против Сынов Сванира-8%% урона от Сынов Сванира+10%% опыта за убийства
-+9%% Damage vs. Undead-8%% Damage from Undead+10%% Experience from Kills,+9%% урона против нежити-8%% урона от нежити+10%% опыта за убийства
 +9%% Fury Duration,+9%% к длительности Ярости
 +9%% Might Duration,+9%% к длительности Мощи
 +9%% Protection Duration,+9%% к длительности Протекции
 +9%% Regeneration Duration,+9%% к длительности Регенерации
-+9%% Strike Damage vs. Dragon Bash Holograms+1%% Strike Damage,+9%% урона против голограмм Драконьего Разгрома+1%% обычного урона
 +9%% Swiftness Duration,+9%% к длительности Быстроты
 +9%% Torment Duration,+9%% к длительности Боли
 +9%% Weakness Duration,+9%% к длительности Слабости
@@ -132,69 +33,14 @@ english,translate
 -%num1% Point[s] (%str1%),-%num1% очк[о|а|ов] (%str1%)
 -%num1%%% Incoming Damage,-%num1%%% входящего урона
 -10%% Incoming Condition Duration,-10%% к длительности входящих состояний
-"-10%% Incoming Damage While Stunned, Knocked Down, or Knocked Back+10%% Experience from Kills","-10%% входящего урона в Оглушении, нокдауне или при отталкивании+10%% опыта за убийства"
--10%% Incoming Damage+10%% Experience from Kills,-10%% входящего урона+10%% опыта за убийства
--10%% Incoming Damage+100 Concentration+33%% Chance to Gain Might on Critical Hit+10%% Karma+5%% All Experience Gained+20%% Magic Find+20%% Gold Find+10%% WXP Gained,-10%% входящего урона+100 к Концентрации+33%% шанс получить мощь при критическом ударе+10%% кармы+5%% ко всему получаемому опыту+20%% к поиску магии+20%% к поиску золота+10%% к получаемому мировому опыту
--10%% Incoming Damage+100 Concentration+70 Expertise+10%% Karma+5%% All Experience Gained+20%% Magic Find+20%% Gold Find+10%% WXP Gained,-10%% входящего урона+100 к Концентрации+70 к Экспертизе+10%% кармы+5%% ко всему получаемому опыту+20%% к поиску магии+20%% к поиску золота+10%% к получаемому мировому опыту
--10%% Incoming Damage+100 Concentration+70 Healing Power+10%% Karma+5%% All Experience Gained+20%% Magic Find+20%% Gold Find+10%% WXP Gained,-10%% входящего урона+100 к Концентрации+70 к Силе исцеления+10%% кармы+5%% ко всему получаемому опыту+20%% к поиску магии+20%% к поиску золота+10%% к получаемому мировому опыту
--10%% Incoming Damage+100 Concentration+70 Power+10%% Karma+5%% All Experience Gained+20%% Magic Find+20%% Gold Find+10%% WXP Gained,-10%% входящего урона+100 к Концентрации+70 к Силе+10%% кармы+5%% ко всему получаемому опыту+20%% к поиску магии+20%% к поиску золота+10%% к получаемому мировому опыту
--10%% Incoming Damage+100 Concentration+70 Toughness+10%% Karma+5%% All Experience Gained+20%% Magic Find+20%% Gold Find+10%% WXP Gained,-10%% входящего урона+100 к Концентрации+70 к Стойкости+10%% кармы+5%% ко всему получаемому опыту+20%% к поиску магии+20%% к поиску золота+10%% к получаемому мировому опыту
--10%% Incoming Damage+100 Condition Damage+70 Expertise+10%% Karma+5%% All Experience Gained+20%% Magic Find+20%% Gold Find+10%% WXP Gained,-10%% входящего урона+100 к урону от состояний+70 к Экспертизе+10%% кармы+5%% ко всему получаемому опыту+20%% к поиску магии+20%% к поиску золота+10%% к получаемому мировому опыту
--10%% Incoming Damage+100 Expertise+70 Condition Damage+10%% Karma+5%% All Experience Gained+20%% Magic Find+20%% Gold Find+10%% WXP Gained,-10%% входящего урона+100 к Экспертизе+70 к урону от состояний+10%% кармы+5%% ко всему получаемому опыту+20%% к поиску магии+20%% к поиску золота+10%% к получаемому мировому опыту
--10%% Incoming Damage+100 Healing Power+70 Concentration+10%% Karma+5%% All Experience Gained+20%% Magic Find+20%% Gold Find+10%% WXP Gained,-10%% входящего урона+100 к Силе исцеления+70 к Концентрации+10%% кармы+5%% ко всему получаемому опыту+20%% к поиску магии+20%% к поиску золота+10%% к получаемому мировому опыту
--10%% Incoming Damage+100 Power+70 Ferocity+10%% Karma+5%% All Experience Gained+20%% Magic Find+20%% Gold Find+10%% WXP Gained,-10%% входящего урона+100 к Силе+70 к Свирепости+10%% кармы+5%% ко всему получаемому опыту+20%% к поиску магии+20%% к поиску золота+10%% к получаемому мировому опыту
--10%% Incoming Damage+100 Power+70 Precision+10%% Karma+5%% All Experience Gained+20%% Magic Find+20%% Gold Find+10%% WXP Gained,-10%% входящего урона+100 к Силе+70 к Точности+10%% кармы+5%% ко всему получаемому опыту+20%% к поиску магии+20%% к поиску золота+10%% к получаемому мировому опыту
--10%% Incoming Damage+100 Vitality+70 Toughness+10%% Karma+5%% All Experience Gained+20%% Magic Find+20%% Gold Find+10%% WXP Gained,-10%% входящего урона+100 к Живучести+70 к Стойкости+10%% кармы+5%% ко всему получаемому опыту+20%% к поиску магии+20%% к поиску золота+10%% к получаемому мировому опыту
--10%% Incoming Damage+45 to All Attributes+10%% Karma+5%% All Experience Gained+20%% Magic Find+20%% Gold Find+10%% WXP Gained,-10%% входящего урона+45 ко всем атрибутам+10%% кармы+5%% ко всему получаемому опыту+20%% к поиску магии+20%% к поиску золота+10%% к получаемому мировому опыту
--10%% Incoming Damage+70 Concentration+10%% Experience from Kills,-10%% входящего урона+70 к Концентрации+10%% опыта за убийства
--10%% Incoming Damage+70 Condition Damage+10%% Experience from Kills,-10%% входящего урона+70 к урону от состояний+10%% опыта за убийства
--10%% Incoming Damage+70 Expertise+10%% Experience from Kills,-10%% входящего урона+70 к Экспертизе+10%% опыта за убийства
--10%% Incoming Damage+70 Ferocity+10%% Experience from Kills,-10%% входящего урона+70 к Свирепости+10%% опыта за убийства
--10%% Incoming Damage+70 Healing Power+10%% Experience from Kills,-10%% входящего урона+70 к Силе исцеления+10%% опыта за убийства
--10%% Incoming Damage+70 Power+10%% Experience from Kills,-10%% входящего урона+70 к Силе+10%% опыта за убийства
--10%% Incoming Damage+70 Precision+10%% Experience from Kills,-10%% входящего урона+70 к Точности+10%% опыта за убийства
--10%% Incoming Damage+70 Toughness+10%% Experience from Kills,-10%% входящего урона+70 к Стойкости+10%% опыта за убийства
--10%% Incoming Damage+70 Vitality+10%% Experience from Kills,-10%% входящего урона+70 к Живучести+10%% опыта за убийства
--10%% Incoming Damage-5%% Incoming Condition Damage+10%% Experience from Kills,-10%% входящего урона-5%% входящего урона от состояний+10%% опыта за убийства
--12%% Incoming Condition Duration+40 Vitality+10%% Experience from Kills,-12%% к длительности входящих состояний+40 к Живучести+10%% опыта за убийства
-"-14%% Incoming Damage while Stunned, Knocked Down, or Knocked Back-6%% Incoming Condition Duration+10%% Experience from Kills","-14%% входящего урона в Оглушении, нокдауне или при отталкивании-6%% к длительности входящих состояний+10%% опыта за убийства"
--16%% Incoming Condition Duration+50 Vitality+10%% Experience from Kills,-16%% к длительности входящих состояний+50 к Живучести+10%% опыта за убийства
-"-16%% Incoming Damage while Stunned, Knocked Down, or Knocked Back-10%% Incoming Condition Duration+10%% Experience from Kills","-16%% входящего урона в Оглушении, нокдауне или при отталкивании-10%% к длительности входящих состояний+10%% опыта за убийства"
--16%% Incoming Stun Duration+10%% Experience from Kills,-16%% к длительности входящих Оглушения+10%% опыта за убийства
--18%% Incoming Condition Duration+60 Vitality,-18%% к длительности входящих состояний+60 к Живучести
--18%% Incoming Condition Duration+60 Vitality+10%% Experience from Kills,-18%% к длительности входящих состояний+60 к Живучести+10%% опыта за убийства
-"-18%% Incoming Damage while Stunned, Knocked Down, or Knocked Back-14%% Incoming Condition Duration","-18%% входящего урона в Оглушении, нокдауне или при отталкивании-14%% к длительности входящих состояний"
 -2%% Incoming Condition Duration,-2%% к длительности входящих состояний
--20%% Incoming Condition Duration+100 Concentration+33%% Chance to Gain Might on Critical Hit+10%% Karma+5%% All Experience Gained+20%% Magic Find+20%% Gold Find+10%% WXP Gained,-20%% к длительности входящих состояний+100 к Концентрации+33%% шанс получить мощь при критическом ударе+10%% кармы+5%% ко всему получаемому опыту+20%% к поиску магии+20%% к поиску золота+10%% к получаемому мировому опыту
--20%% Incoming Condition Duration+100 Concentration+70 Expertise+10%% Karma+5%% All Experience Gained+20%% Magic Find+20%% Gold Find+10%% WXP Gained,-20%% к длительности входящих состояний+100 к Концентрации+70 к Экспертизе+10%% кармы+5%% ко всему получаемому опыту+20%% к поиску магии+20%% к поиску золота+10%% к получаемому мировому опыту
--20%% Incoming Condition Duration+100 Concentration+70 Healing Power+10%% Karma+5%% All Experience Gained+20%% Magic Find+20%% Gold Find+10%% WXP Gained,-20%% к длительности входящих состояний+100 к Концентрации+70 к Силе исцеления+10%% кармы+5%% ко всему получаемому опыту+20%% к поиску магии+20%% к поиску золота+10%% к получаемому мировому опыту
--20%% Incoming Condition Duration+100 Concentration+70 Power+10%% Karma+5%% All Experience Gained+20%% Magic Find+20%% Gold Find+10%% WXP Gained,-20%% к длительности входящих состояний+100 к Концентрации+70 к Силе+10%% кармы+5%% ко всему получаемому опыту+20%% к поиску магии+20%% к поиску золота+10%% к получаемому мировому опыту
--20%% Incoming Condition Duration+100 Concentration+70 Toughness+10%% Karma+5%% All Experience Gained+20%% Magic Find+20%% Gold Find+10%% WXP Gained,-20%% к длительности входящих состояний+100 к Концентрации+70 к Стойкости+10%% кармы+5%% ко всему получаемому опыту+20%% к поиску магии+20%% к поиску золота+10%% к получаемому мировому опыту
--20%% Incoming Condition Duration+100 Condition Damage+70 Expertise+10%% Karma+5%% All Experience Gained+20%% Magic Find+20%% Gold Find+10%% WXP Gained,-20%% к длительности входящих состояний+100 к урону от состояний+70 к Экспертизе+10%% кармы+5%% ко всему получаемому опыту+20%% к поиску магии+20%% к поиску золота+10%% к получаемому мировому опыту
--20%% Incoming Condition Duration+100 Expertise+70 Condition Damage+10%% Karma+5%% All Experience Gained+20%% Magic Find+20%% Gold Find+10%% WXP Gained,-20%% к длительности входящих состояний+100 к Экспертизе+70 к урону от состояний+10%% кармы+5%% ко всему получаемому опыту+20%% к поиску магии+20%% к поиску золота+10%% к получаемому мировому опыту
--20%% Incoming Condition Duration+100 Healing Power+70 Concentration+10%% Karma+5%% All Experience Gained+20%% Magic Find+20%% Gold Find+10%% WXP Gained,-20%% к длительности входящих состояний+100 к Силе исцеления+70 к Концентрации+10%% кармы+5%% ко всему получаемому опыту+20%% к поиску магии+20%% к поиску золота+10%% к получаемому мировому опыту
--20%% Incoming Condition Duration+100 Power+70 Ferocity+10%% Karma+5%% All Experience Gained+20%% Magic Find+20%% Gold Find+10%% WXP Gained,-20%% к длительности входящих состояний+100 к Силе+70 к Свирепости+10%% кармы+5%% ко всему получаемому опыту+20%% к поиску магии+20%% к поиску золота+10%% к получаемому мировому опыту
--20%% Incoming Condition Duration+100 Power+70 Precision+10%% Karma+5%% All Experience Gained+20%% Magic Find+20%% Gold Find+10%% WXP Gained,-20%% к длительности входящих состояний+100 к Силе+70 к Точности+10%% кармы+5%% ко всему получаемому опыту+20%% к поиску магии+20%% к поиску золота+10%% к получаемому мировому опыту
--20%% Incoming Condition Duration+100 Vitality+70 Toughness+10%% Karma+5%% All Experience Gained+20%% Magic Find+20%% Gold Find+10%% WXP Gained,-20%% к длительности входящих состояний+100 к Живучести+70 к Стойкости+10%% кармы+5%% ко всему получаемому опыту+20%% к поиску магии+20%% к поиску золота+10%% к получаемому мировому опыту
--20%% Incoming Condition Duration+45 to All Attributes+10%% Karma+5%% All Experience Gained+20%% Magic Find+20%% Gold Find+10%% WXP Gained,-20%% к длительности входящих состояний+45 ко всем атрибутам+10%% кармы+5%% ко всему получаемому опыту+20%% к поиску магии+20%% к поиску золота+10%% к получаемому мировому опыту
--20%% Incoming Condition Duration+70 Expertise+25%% Magic Find during Lunar New Year,-20%% к длительности входящих состояний+70 к Экспертизе+25%% к поиску магии во время Лунного Нового года
--20%% Incoming Condition Duration+70 Vitality+10%% Experience from Kills,-20%% к длительности входящих состояний+70 к Живучести+10%% опыта за убийства
--24%% Incoming Stun Duration+40 Toughness+10%% Experience from Kills,-24%% к длительности входящих Оглушения+40 к Стойкости+10%% опыта за убийства
--28%% Incoming Stun Duration+50 Toughness+10%% Experience from Kills,-28%% к длительности входящих Оглушения+50 к Стойкости+10%% опыта за убийства
 -3%% Incoming Condition Duration,-3%% к длительности входящих состояний
 -30%% Incoming Chill and Cripple Duration,-30%% к длительности входящих Заморозки и Хромоты
 -30%% Incoming Weakness Duration,-30%% к длительности входящих Слабости
--36%% Incoming Stun Duration+60 Toughness+10%% Experience from Kills,-36%% к длительности входящих Оглушения+60 к Стойкости+10%% опыта за убийства
--4%% Incoming Condition Duration+10%% Experience from Kills,-4%% к длительности входящих состояний+10%% опыта за убийства
--40%% Incoming Stun Duration+70 Toughness+10%% Experience from Kills,-40%% к длительности входящих Оглушения+70 к Стойкости+10%% опыта за убийства
 -5%% Incoming Condition Duration,-5%% к длительности входящих состояний
 -6%% Incoming Condition Duration,-6%% к длительности входящих состояний
-"-6%% Incoming Damage While Stunned, Knocked Down, or Knocked Back+10%% Experience from Kills","-6%% входящего урона в Оглушении, нокдауне или при отталкивании+10%% опыта за убийства"
 -6%% Incoming Stun Duration,-6%% к длительности входящих Оглушения
 -66%% Incoming Chill Duration,-66%% к длительности входящих Заморозки
--8%% Incoming Condition Duration+10%% Experience from Kills,-8%% к длительности входящих состояний+10%% опыта за убийства
--8%% Incoming Damage+60 Power,-8%% входящего урона+60 к Силе
--8%% Incoming Stun Duration+10%% Experience from Kills,-8%% к длительности входящих Оглушения+10%% опыта за убийства
 -ArenaNet Platform Team-,-Команда платформы ArenaNet-
 -Beware the translucent blue floor panels. They'll shatter after a couple seconds.,— Берегитесь полупрозрачных синих плит пола. Через пару секунд они рассыпаются.
 -Billing Engineering-,-Инженерия биллинга-
@@ -238,7 +84,6 @@ english,translate
 ...have to tell the truth or you will have no friends...e likes a liar who makes up stories and pretends,"...надо говорить правду, иначе у тебя не будет друзей...ему нравится лжец, который выдумывает истории и притворяется"
 "...I have decided to leave my diary behind. Maybe someone will find it in years to come and know that a family once lived here. Just a regular family. Two sisters, and parents who loved them more than the world. They tried so hard to protect us from the dire truth as it crept closer daily. But we always knew—of course we pretended we didn't. And it broke our hearts to watch them softy crying together late on so many nights, thinking we were sound asleep. Of course, what is a child's place if it isn't at the top of the landing, eavesdropping.May the gods protect us tomorrow on our journey north, and keep us together. Always.—Annika","...Я решила оставить свой дневник здесь. Может, кто-нибудь найдёт его через годы и узнает, что здесь когда-то жила семья. Самая обычная семья. Две сёстры и родители, что любили их больше всего на свете. Они так старались уберечь нас от страшной правды, что подступала с каждым днём. Но мы всегда знали — конечно, мы делали вид, что нет. И сердце разрывалось смотреть, как они тихо плачут вместе поздними ночами, думая, что мы крепко спим. Хотя где же ещё быть ребёнку, если не наверху лестницы, подслушивая.Да хранят нас боги завтра в пути на север и да сохранят нас вместе. Навсегда.—Анника"
 "...the brat thinks he can lord his position over us. That's not how it works, even if you're two hundred years old. I don't care if he's the Minister of Fire or the Minister of Kappa, I won't ""respect my elders"" if it means bending at the knee to some dried-up husk......he may have kissed Reiko's feet, but that doesn't mean he deserves my respect now......of Purity has nothing to do with rank or title, it's about genes. It's about one's ability to command. Not just their power, but their prowess. Over the people of Cantha...","...сопляк думает, что может помыкать нами со своей должности. Так дела не делаются, даже если тебе двести лет. Мне всё равно, министр он Огня или министр Каппа: я не стану «уважать старших», если это значит гнуть колено перед каким-то ссохшимся остовом...может, он и целовал ноги Рейко, но это не значит, что теперь он заслуживает моего уважения...Чистоты не имеет ничего общего с чином или званием, дело в породе. Дело в способности повелевать. Не просто в силе, но в умении. Над народом Кантхи..."
-"...to find out soon. Gold Serpent can't keep this hidden much longer if he has any hope ofsurviving. Of course, maybe he's trying to be sneaky and signal some of his old allies......unsure of what he does when he leaves the outpost. Says it has something to do with an ""offering"" to the Celestials...barely got a flicker of flame left, so maybe he's looking for a little more fuel......blood along the path. I wouldn't want to get stuck in Risen territory for long...","...скоро выясним. Золотой Змей недолго сможет это скрывать, если хочет уцелеть. Впрочем, может, он хитрит и подаёт знаки кому-то из старых союзников...неясно, чем он занят, покидая аванпост. Говорит, это как-то связано с «подношением» Небесным...в нём еле теплится огонёк, так что, может, ищет топлива...кровь вдоль тропы. Не хотел бы я надолго застрять на землях восставших..."
 "...vault doors will not open, even when unlocked, without the presence of the souls that I bound to it......obelisk will start glowing when the two souls are near. A simple turn of the key will open the lock and allow access into......should the enchantment fail, the violent removal of the attuned owners' souls from this plane will temporarily grant access to the vault. Please note that this fix is temporary, as the enchantment will reset should the souls of the attuned wander back to their place of death......the door will only open by their will. Should it be their will to leave this world, so be it......Lady Iaera...","...двери хранилища не откроются, даже отпертые, без присутствия душ, что я к нему привязал...обелиск начнёт светиться, когда обе души будут рядом. Простой поворот ключа откроет замок и даст доступ в...если чары дадут сбой, насильственное изъятие душ настроенных владельцев с этого плана временно откроет доступ в хранилище. Учтите, что это временное решение: чары восстановятся, если души настроенных вернутся к месту своей гибели...дверь откроется лишь по их воле. Если их воля — покинуть этот мир, да будет так...Леди Иаэра..."
 "...Zal wasn't doing well when we arrived, so it's no surprise he was one of the casualties. He was too weak, anyway. Lost a lot of blood......of Purity waits for no man, we must press on and fight back against this Canthan genocide......let this be a call to arms, to blood. No Canthan is safe from Haebaragi's self-righteous hand. No minister. We will see the loss of our nation if we don't act; so we march. Tonight...","...Залу было плохо ещё когда мы пришли, так что неудивительно, что он оказался среди погибших. Он и без того был слишком слаб. Потерял много крови...Чистота не ждёт никого, мы должны идти вперёд и дать отпор этому кантанскому геноциду...пусть это будет призывом к оружию, к крови. Ни один кантанец не защищён от самоправедной руки Хэбараги. Ни один министр. Мы увидим гибель нашего народа, если не начнём действовать; поэтому мы выступаем. Сегодня ночью..."
 "/%str1%—Unlock with ""How to Dance: Volume 1"" in the Gem Store.",/%str1% — открывается с «Как танцевать: том 1» в магазине самоцветов.
@@ -292,7 +137,6 @@ english,translate
 08 Suzhen 1637 CC,08 suzhen 1637 г. КК
 0–200 Range,Дальность 0–200
 0–4 Charges Spent,Потрачено 0–4 зарядов
-"1 Hairstyle Kit,1 Unidentified Green Dye6 Transmutation charges1 Top Hat skin5 Metabolic Primers, 5 Utility Primers","1 набор причёсок,1 неопознанная зелёная краска6 зарядов превращения1 облик цилиндра5 метаболических праймеров, 5 вспомогательных праймеров"
 1 Illusion,1 иллюзия
 1 of 4 door controls activated.,Задействован 1 из 4 дверных пультов.
 "1 Provisioner Token[pl:""Tokens""]",1 жетон[|а|ов] снабженца
@@ -322,9 +166,6 @@ english,translate
 10 Minutes Remaining,Осталось 10 минут
 10%% (total) increased siege damage,+10%% (всего) к урону осадных орудий
 10%% (total) increased siege defense,+10%% (всего) к защите осадных орудий
-10%% Magic Find While under the Effect of a Boon+15%% Experience from Kills,10%% к поиску магии под действием бона+15%% опыта за убийства
-10%% Magic Find+10%% Experience from Kills,10%% к поиску магии+10%% опыта за убийства
-10%% Magic Find+15%% Experience from Kills,10%% к поиску магии+15%% опыта за убийства
 10%% of hits are glancing blows (50%% damage). Stacks intensity (10%% per stack).,10%% попаданий становятся скользящими (50%% урона). Складывается по силе (10%% за стак).
 10-person group for coordinating and gaining access to raids,Группа из 10 человек для согласования и доступа к рейдам
 "10. ""Not Nayos! Big tower; wizardy creatures. Saw small, fuzzy beasts. Broodling played with!""",10. «Не Найос! Большая башня; волшебные существа. Видел маленьких пушистых зверей. Выводок играл!»
@@ -335,14 +176,6 @@ english,translate
 10. Speak with Galrath.,10. Поговорите с Галратом.
 "100 Fractal Relics[pl:""Relics""]",100 фрактальных реликви[и|й|й]
 100 to 199 DR,От 100 до 199 СУ
-"100%% boost to magic find, WvW rank gain, experience from kills, and gold from kills.10%% bonus to PvP and WvW reward track progress.","+100%% к поиску магии, набору ранга WvW, опыту за убийства и золоту с убийств.+10%% к прогрессу наградных треков PvP и WvW."
-100%% Chance to Gain Fury on Kill+70 Ferocity+10%% Experience from Kills,100%% шанс получить ярость при убийстве+70 к Свирепости+10%% опыта за убийства
-100%% Chance to Gain Health on Kill+70 Healing Power+10%% Experience from Kills,100%% шанс получить здоровье при убийстве+70 к Силе исцеления+10%% опыта за убийства
-100%% Chance to Gain Might on Dodge+40%% to Endurance Regeneration+10%% Experience from Kills,100%% шанс получить мощь при уклонении+40%% к восстановлению выносливости+10%% опыта за убийства
-100%% Chance to Gain Might on Kill+70 Ferocity+10%% Experience from Kills,100%% шанс получить мощь при убийстве+70 к Свирепости+10%% опыта за убийства
-100%% Chance to Gain Might on Kill+70 Power+10%% Experience from Kills,100%% шанс получить мощь при убийстве+70 к Силе+10%% опыта за убийства
-100%% Chance to Gather 1 MaterialReduce Ore Node Durability by 25%%,100%% шанс добыть 1 материалПрочность рудной жилы снижается на 25%%
-100%% Chance to Remove a Condition on Using a Heal Skill (Cooldown: 10 Seconds)+70 Healing+10%% Experience from Kills,100%% шанс снять состояние при применении умения исцеления (перезарядка: 10 с)+70 к исцелению+10%% опыта за убийства
 1000 to 1099 DR,От 1000 до 1099 СУ
 "1000 Unbound Magic[pl:""Magic""]",1000 несвязанной магии
 "1000 Volatile Magic[pl:""Magic""]",1000 нестабильной магии
@@ -404,18 +237,12 @@ english,translate
 "16 Phoenix, 1325 AE",16 Феникса 1325 года ПИ
 16%% (total) damage to guards. All Guard Killer bonuses now also affect enemy lords and supervisors.,+16%% (всего) к урону по стражникам. Все бонусы «Убийца стражников» теперь действуют и на вражеских лордов и надзирателей.
 16%% (total) increase to damage and defense against mercenaries,+16%% (всего) к урону и защите против наёмников
-16%% Chance to Gain Might on Critical Hit During the Day+10%% Experience from Kills,16%% шанс получить мощь при критическом ударе днём+10%% опыта за убийства
 16%% reduced damage (total) from guards. All Defense Against Guards bonuses apply to lords and supervisors.,-16%% (всего) к урону от стражников. Все бонусы «Защита от стражников» действуют на лордов и надзирателей.
 16. Return to Kosmas.,16. Вернитесь к Космасу.
 16. Speak with Zojja.,16. Поговорите с Зойей.
-"1630 CC...for years we've felt Ione's subterranean murmurs, upset that her people turned away from her.1643 CC...offerings to Ione still go unanswered. Regardless, people have grown accustomed to the occasional tremor. I have even heard of parents in the surrounds hastening their children to bed under the threat that they might wake her.1660 CCI start my 30th year as the keeper of this journal, and I will now risk everything by saying that after my own research, I do not believe Ione has been speaking to us. These tremors could well have a different origin...","1630 г. КК...годами мы чувствовали подземный ропот Ионы, огорчённой тем, что её народ от неё отвернулся.1643 г. КК...подношения Ионе по-прежнему остаются без ответа. Впрочем, люди привыкли к редким подземным толчкам. Я даже слышал, что родители в округе торопят детей спать, стращая, что те её разбудят.1660 г. ККЯ начинаю тридцатый год как хранитель этого дневника и теперь рискну всем, сказав: после собственных изысканий я не верю, что с нами говорила Иона. У этих толчков вполне может быть иное происхождение..."
 16—Maguuma: Waterfall overlooking a Pact airship.,16 — Магуума: водопад с видом на воздушный корабль Пакта.
 "17 Zephyr, 1329 AE",17 Зефира 1329 года ПИ
 17. Check on the high-diving Kryptis.,17. Проведайте криптис-прыгуна с высоты.
-18%% Magic Find+40 Condition Damage+10%% Experience from Kills,18%% к поиску магии+40 к урону от состояний+10%% опыта за убийства
-18%% Magic Find+40 Power+10%% Experience from Kills,18%% к поиску магии+40 к Силе+10%% опыта за убийства
-18%% Magic Find10%% Gold from Monsters+10%% Experience from Kills,18%% к поиску магии10%% золота с чудовищ+10%% опыта за убийства
-18%% Magic Find10%% Gold from Monsters+15%% Experience from Kills,18%% к поиску магии10%% золота с чудовищ+15%% опыта за убийства
 18. Converse with the Astral Ward instructor.,18. Побеседуйте с наставником Астральной стражи.
 "1820 CCYesterday I found a batch of peculiar jade in mother's latest payload. It held a charge—a magic I've never seen before. She confirmed that she had never seen anything like it either. They'd just broken ground in a new location southwest of the Harvest Temple, and all the jade had come from there.On a lark, I replaced the amber core in my lantern with a piece of the jade—the result nearly blinded me! The radiance was so intense! I made some adjustments and found that I had to reduce the flow of magic from the stone by a factor of approximately twelve for it to become bearable.A factor of twelve! What could we achieve with that kind of power?","1820 г. ККВчера я нашла в последней партии матери необычный нефрит. Он держал заряд — магию, какой я прежде не видела. Она подтвердила, что тоже никогда не видела ничего подобного. Они только что начали разработку нового места к юго-западу от Храма Урожая, и весь нефрит был оттуда.Забавы ради я заменила янтарное ядро в своём фонаре куском этого нефрита — и едва не ослепла! Сияние было таким сильным! Я внесла поправки и выяснила, что поток магии из камня нужно уменьшить примерно в двенадцать раз, чтобы он стал терпимым.В двенадцать раз! Чего мы могли бы достичь с такой мощью?"
 "1835 CCThat's it. It's done. The reactor is sealed, and Soo-Won is resting. I made a few final adjustments, and then the power began to flow into hundreds of pieces of waiting jade. Not a moment too soon—the survey team has not been able to find a single new deposit of charged dragonjade in months, and our stores have dwindled. Now every piece of the Jade Sea can be utilized, not only those previously touched by Soo-Won's presence.Production is set to begin immediately on our new budget-friendly line. Now that there's no longer a need to ration the dragonjade, I will finally be able to fulfill my promise of bringing jade technology to everyone, not just the lucky few.","1835 г. ККВот и всё. Готово. Реактор запечатан, а Су-Вон покоится. Я внесла несколько последних поправок, и сила потекла в сотни кусков ждущего нефрита. И как раз вовремя: изыскательская группа месяцами не находила ни одного нового месторождения заряженного драконьего нефрита, и наши запасы истощились. Теперь можно использовать каждый кусок Нефритового моря, а не только те, которых прежде коснулось присутствие Су-Вон.Производство новой доступной линейки начнётся немедленно. Теперь, когда драконий нефрит больше не нужно экономить, я наконец смогу исполнить своё обещание — принести нефритовые технологии всем, а не только счастливым избранным."
@@ -461,12 +288,6 @@ english,translate
 "20 Slots. If possible, weapons and armor will fill this pack before other empty spaces. The contents of this pack will not move when inventory is sorted.",20 ячеек. По возможности оружие и броня будут заполнять этот ранец раньше прочих свободных мест. Содержимое этого ранца не перемещается при сортировке инвентаря.
 "20%% (total) damage to guards, lords, and supervisors. Gain 50%% of your endurance back after killing guards, lords, and supervisors.","+20%% (всего) к урону по стражникам, лордам и надзирателям. За убийство стражников, лордов и надзирателей возвращается 50%% выносливости."
 20%% (total) increase to damage and defense against mercenaries,+20%% (всего) к урону и защите против наёмников
-20%% Chance to Gain Health on Kill+10%% Experience from Kills,20%% шанс получить здоровье при убийстве+10%% опыта за убийства
-20%% Chance to Gain Might on Dodge+10%% Experience from Kills,20%% шанс получить мощь при уклонении+10%% опыта за убийства
-20%% Chance to Gain Might on Kill+10%% Experience from Kills,20%% шанс получить мощь при убийстве+10%% опыта за убийства
-20%% Chance to Gain Swiftness on Kill+10%% Experience from Kills,20%% шанс получить Быстроту при убийстве+10%% опыта за убийства
-20%% Chance to Remove a Condition on Using a Heal Skill+10%% Experience from Kills,20%% шанс снять состояние при применении умения исцеления+10%% опыта за убийства
-20%% Chance to Steal Life on Critical Hit+10%% Experience from Kills,20%% шанс похитить жизнь при критическом ударе+10%% опыта за убийства
 20%% increased healing.,+20%% к исцелению.
 "20%% reduced damage (total) from guards, lords, and supervisors. Gain resolution for 10 seconds when you take damage from guards, lords, or supervisors. This effect triggers once every 20 seconds.","-20%% (всего) к урону от стражников, лордов и надзирателей. Получая урон от стражников, лордов или надзирателей, вы получаете решимость на 10 секунд. Этот эффект срабатывает раз в 20 секунд."
 200 to 299 DR,От 200 до 299 СУ
@@ -486,12 +307,7 @@ english,translate
 2025 Extra Life Donation Bundle—<c=@Flavor>Proceeds donated to Extra Life!</c>,Набор пожертвования Extra Life 2025—<c=@Flavor>Выручка передана Extra Life!</c>
 20—Wizard's Tower: Atop a rock sculpture that stands out.,20 — Wizard's Tower: на приметной каменной скульптуре.
 21—Wizard's Ascent: Gearing up with new weapons.,21 — Wizard's Ascent: снаряжается новым оружием.
-22%% Magic Find+50 Condition Damage+10%% Experience from Kills,22%% к поиску магии+50 к урону от состояний+10%% опыта за убийства
-22%% Magic Find+50 Power+10%% Experience from Kills,22%% к поиску магии+50 к Силе+10%% опыта за убийства
-22%% Magic Find+50 Power+15%% Experience from Kills,22%% к поиску магии+50 к Силе+15%% опыта за убийства
-22%% Magic Find20%% Gold from Monsters+10%% Experience from Kills,22%% к поиску магии20%% золота с чудовищ+10%% опыта за убийства
 "22—Garenhoff: Likes being on something near the water, if there was water.","22 — Гаренхофф: любит сидеть на чём-нибудь у воды, если бы вода была."
 "24 Phoenix, 1325 AE",24 Феникса 1325 года ПИ
 "24 Scion, 1326 AE",24 Отпрыска 1326 года ПИ
 "24 x Mechanized Miner Parts   12 x Battery Packs   48 x Pickaxes   144 x Air Filter Packs   Comment: Future deliveries will require specific instructions with departure times, rail transfer procedures, cargo limitations, and the delivery location name.","24 ед. деталей механизированного шахтёра   12 ед. аккумуляторных батарей   48 ед. кирок   144 ед. комплектов воздушных фильтров   Комментарий: Будущие поставки потребуют конкретных инструкций с указанием времени отправления, процедур железнодорожной перевалки, ограничений по грузу и названия места доставки."
-24%% Chance to Gain Might on Critical Hit during the Day24%% Chance to Inflict Chill on Critical Hit during the Night+10%% Experience from Kills,24%% шанс получить мощь при критическом ударе днём24%% шанс наложить Заморозку при критическом ударе ночью+10%% опыта за убийства

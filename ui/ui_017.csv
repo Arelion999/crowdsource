@@ -1,12 +1,9 @@
 english,translate
-+20 Vitality+14 Healing+14 Power,+20 Живучесть+14 Исцеление+14 Сила
-+20 Vitality+14 Power+14 Toughness,+20 Живучесть+14 Сила+14 Стойкость
 +20%% Bleeding Duration,+20%% длительности кровотечения
 +20%% Burning Duration,+20%% длительности горения
 +20%% Burning duration; increase strike damage by 10%% while fire aura is active.,"+20%% длительности горения; увеличение урона от ударов на 10%%, пока активна огненная аура."
 +20%% Chill Duration,+20%% длительности озноба
 +20%% Confusion Duration,+20%% длительности замешательства
-+20%% Downed Health+10%% Experience from Kills,+20%% здоровья в небоеспособном состоянии +10%% опыта за убийства
 +20%% Dungeon Influence for 24 Hrs,+20%% влияния в подземельях на 24 часа
 +20%% Experience from Kills,+20%% опыта за убийства
 +20%% Fury Duration,+20%% длительности Ярости
@@ -22,34 +19,18 @@ english,translate
 +20%% Swiftness Duration,+20%% длительности Стремительности
 +20%% Torment Duration,+20%% длительности Мучения
 +20%% Weakness Duration,+20%% длительности Слабости
-+200 Condition Damage for 30 Seconds on Kill+70 Precision+10%% Experience from Kills,+200 к урону от состояний на 30 секунд при убийстве+70 к точности+10%% к опыту за убийство
-+200 Healing Power for 10 Seconds on Using a Heal Skill (Cooldown: 20 seconds)+10%% Healing to Other Allies+10%% Experience from Kills,+200 к силе исцеления на 10 секунд при использовании лечащего умения (перезарядка: 20 секунд)+10%% к исцелению других союзников+10%% к опыту за убийство
-+200 Power for 10 Seconds on Using a Heal Skill (Cooldown: 20 seconds)+70 Precision+10%% Experience from Kills,+200 к силе на 10 секунд при использовании лечащего умения (перезарядка: 20 секунд)+70 к точности+10%% к опыту за убийство
-+200 Power for 30 seconds on Kill+140 Condition Damage for 30 seconds on Kill+25%% Magic Find during Lunar New Year,+200 к силе на 30 секунд при убийстве+140 к урону от состояний на 30 секунд при убийстве+25%% к поиску магии во время Лунного Нового года
-+200 Power for 30 Seconds on Kill+70 Ferocity+10%% Experience from Kills,+200 к силе на 30 секунд при убийстве+70 к свирепости+10%% к опыту за убийство
-+200 Toughness for 10 Seconds on Using a Heal Skill (Cooldown: 20 seconds)+70 Healing Power+10%% Experience from Kills,+200 к стойкости на 10 секунд при использовании лечащего умения (перезарядка: 20 секунд)+70 к силе исцеления+10%% к опыту за убийство
 +21 Agony Infusion[s],[Инфузия|Инфузии|Инфузий] агонии +21
 +21 Agony Resistance,+21 Сопротивление агонии
 +21 Condition Damage,+21 Урон от состояний
-+21 Condition Damage+13 Power+13 Vitality,+21 Урон от состояний+13 Сила+13 Живучесть
 +21 Ferocity,+21 Свирепость
 +21 Healing,+21 Исцеление
 +21 Healing Power,+21 Сила исцеления
-+21 Healing+13 Condition Damage+13 Toughness,+21 Исцеление+13 Урон от состояний+13 Стойкость
-+21 Healing+13 Power+13 Toughness,+21 Исцеление+13 Сила+13 Стойкость
 +21 Power,+21 Сила
-+21 Power+13 Ferocity+13 Precision,+21 Сила+13 Свирепость+13 Точность
-+21 Power+13 Ferocity+13 Vitality,+21 Сила+13 Свирепость+13 Живучесть
 +21 Precision,+21 Точность
-+21 Precision+13 Condition Damage+13 Power,+21 Точность+13 Урон от состояний+13 Сила
-+21 Precision+13 Ferocity+13 Power,+21 Точность+13 Свирепость+13 Сила
-+21 Precision+13 Toughness+13 Power,+21 Точность+13 Стойкость+13 Сила
 +21 Toughness,+21 Стойкость
 +21 Vitality,+21 Живучесть
-+21 Vitality+13 Power+13 Toughness,+21 Живучесть+13 Сила+13 Стойкость
 +22 Agony Infusion[s],[Инфузия|Инфузии|Инфузий] агонии +22
 +22 Agony Resistance,+22 Сопротивление агонии
-+22%% Magic Find+150 Fishing Power+10%% Experience from Kills,+22%% к поиску магии+150 к силе рыбной ловли+10%% к опыту за убийства
 +23 Agony Infusion[s],[Инфузия|Инфузии|Инфузий] агонии +23
 +23 Agony Resistance,+23 Сопротивление агонии
 +24 Agony Infusion[s],[Инфузия|Инфузии|Инфузий] агонии +24
@@ -57,31 +38,14 @@ english,translate
 +25 Agony Infusion[s],[Инфузия|Инфузии|Инфузий] агонии +25
 +25 Agony Resistance,+25 Сопротивление агонии
 +25 Condition Damage,+25 Урон от состояний
-+25 Condition Damage+15 Power+15 Precision,+25 Урон от состояний+15 Сила+15 Точность
-+25 Condition Damage+15 Power+15 Vitality,+25 Урон от состояний+15 Сила+15 Живучесть
 +25 Ferocity,+25 Свирепость
 +25 Healing,+25 Исцеление
 +25 Healing Power,+25 Сила исцеления
-+25 Healing+15 Condition Damage+15 Toughness,+25 Исцеление+15 Урон от состояний+15 Стойкость
-+25 Healing+15 Power+15 Toughness,+25 Исцеление+15 Сила+15 Стойкость
 +25 Power,+25 Сила
-+25 Power+15 Ferocity+15 Precision,+25 Сила+15 Свирепость+15 Точность
-+25 Power+15 Ferocity+15 Vitality,+25 Сила+15 Свирепость+15 Живучесть
-+25 Power+15 Healing+15 Concentration,+25 Сила+15 Исцеление+15 Концентрация
-+25 Power+15 Precision+15 Healing,+25 Сила+15 Точность+15 Исцеление
-+25 Power+25 Condition Damage+12 Ferocity+12 Precision,+25 Сила+25 Урон от состояний+12 Свирепость+12 Точность
-+25 Power+25 Healing+12 Condition Damage+12 Precision,+25 Сила+25 Исцеление+12 Урон от состояний+12 Точность
 +25 Precision,+25 Точность
-+25 Precision+15 Condition Damage+15 Power,+25 Точность+15 Урон от состояний+15 Сила
-+25 Precision+15 Ferocity+15 Power,+25 Точность+15 Свирепость+15 Сила
-+25 Precision+15 Toughness+15 Power,+25 Точность+15 Стойкость+15 Сила
 +25 Swim-Speed Infusion Upgrades,+25 к улучшению инфузии скорости плавания
 +25 Toughness,+25 Стойкость
-+25 Toughness+15 Healing Power+15 Concentration,+25 Стойкость+15 Сила исцеления+15 Концентрация
-+25 Toughness+15 Healing+15 Vitality,+25 Стойкость+15 Исцеление+15 Живучесть
-+25 Toughness+25 Condition Damage+12 Condition Duration+12 Vitality,+25 к стойкости+25 к урону от состояний+12 к длительности состояний+12 к живучести
 +25 Vitality,+25 Живучесть
-+25 Vitality+15 Power+15 Toughness,+25 Живучесть+15 Сила+15 Стойкость
 +25%% damage melee attack. 10%% to break.,+25%% урона в ближнем бою. 10%% шанс сломать.
 +25%% damage on next attack.,+25%% урона в следующей атаке.
 +25%% Movement Speed,+25%% к скорости передвижения
@@ -89,9 +53,6 @@ english,translate
 +250 Damage. Ranged Attack. Knocks down target.,+250 урона. Дальняя атака. Сбивает цель с ног.
 +26 Agony Infusion[s],[Инфузия|Инфузии|Инфузий] агонии +26
 +26 Agony Resistance,+26 Сопротивление агонии
-+26%% Magic Find+150 Fishing Power+10%% Experience from Kills,+26%% к шансу найти магические предметы+150 к силе рыбной ловли+10%% к опыту за убийства
-+26%% Magic Find+60 Condition Damage,+26%% к шансу найти магические предметы+60 к урону от состояний
-+26%% Magic Find+60 Power,+26%% к шансу найти магические предметы+60 к силе
 +27 Agony Infusion[s],[Инфузия|Инфузии|Инфузий] агонии +27
 +27 Agony Resistance,+27 Сопротивление агонии
 +28 Agony Infusion[s],[Инфузия|Инфузии|Инфузий] агонии +28
@@ -109,106 +70,24 @@ english,translate
 +3 Toughness,+3 Стойкость
 +3 Vitality,+3 Живучесть
 +3%% Boon Duration,+3%% к длительности блага
-+3%% Burning Duration+10%% Experience from Kills,+3%% к длительности горения+10%% к опыту за убийства
-+3%% Chill Duration+10%% Experience from Kills,+3%% к длительности озноба+10%% к опыту за убийства
 +3%% Condition Damage,+3%% к урону от состояний
 +3%% Condition Duration,+3%% к длительности состояний
 +3%% Critical Chance,+3%% к шансу критического удара
 +3%% Damage,+3%% к урону
-+3%% Damage vs. Centaur+10%% Experience from Kills,+3%% к урону по кентаврам+10%% к опыту за убийства
-+3%% Damage vs. Demons+10%% Experience from Kills,+3%% к урону по демонам+10%% к опыту за убийства
-+3%% Damage vs. Destroyers+10%% Experience from Kills,+3%% к урону по разрушителям+10%% к опыту за убийства
-+3%% Damage vs. Dredge+10%% Experience from Kills,+3%% к урону по драугам+10%% к опыту за убийства
-+3%% Damage vs. Elementals+10%% Experience from Kills,+3%% к урону по элементалям+10%% к опыту за убийства
-+3%% Damage vs. Flame Legion+10%% Experience from Kills,+3%% к урону по Flame Legion+10%% к опыту за убийства
-+3%% Damage vs. Grawl+10%% Experience from Kills,+3%% к урону по граулам+10%% к опыту за убийства
-+3%% Damage vs. Halloween Creatures+10%% Experience from Kills,+3%% к урону по существам Хэллоуина+10%% к опыту за убийства
-+3%% Damage vs. Ice Brood+10%% Experience from Kills,+3%% к урону по Ледяному Броду+10%% к опыту за убийства
-+3%% Damage vs. Inquest+10%% Experience from Kills,+3%% к урону по Инженеруму+10%% к опыту за убийства
-+3%% Damage vs. Krait+10%% Experience from Kills,+3%% к урону по крайтам+10%% к опыту за убийства
-+3%% Damage vs. Nightmare Court+10%% Experience from Kills,+3%% к урону по Nightmare Court+10%% к опыту за убийства
-+3%% Damage vs. Ogres+10%% Experience from Kills,+3%% урона ограм+10%% опыта за убийство
-+3%% Damage vs. Outlaws+10%% Experience from Kills,+3%% урона бандитам+10%% опыта за убийство
-+3%% Damage vs. Sons of Svanir+10%% Experience from Kills,+3%% урона Сынам Сванира+10%% опыта за убийство
-+3%% Damage vs. Undead+10%% Experience from Kills,+3%% урона нежити+10%% опыта за убийство
 +3%% Movement Speed,+3%% к скорости передвижения
-+3%% Poison Duration+10%% Experience from Kills,+3%% к длительности яда+10%% опыта за убийство
-+3%% Strike Damage vs. Centaurs+1%% Strike Damage,+3%% урона кентаврам от ударов+1%% урона от ударов
-"+3%% Strike Damage vs. Demons, Kryptis, and Titanspawn+1%% Strike Damage","+3%% урона демонам, криптисам и отродьям титанов от ударов+1%% урона от ударов"
 +3%% Strike Damage vs. Destroyers,+3%% урона разрушителям от ударов
-+3%% Strike Damage vs. Dredge+1%% Strike Damage,+3%% урона драугам от ударов+1%% урона от ударов
-+3%% Strike Damage vs. Elementals+1%% Strike Damage,+3%% урона элементалям от ударов+1%% урона от ударов
-+3%% Strike Damage vs. Flame Legion+1%% Strike Damage,+3%% урона Flame Legion от ударов+1%% урона от ударов
-+3%% Strike Damage vs. Ghosts+1%% Strike Damage,+3%% урона призракам от ударов+1%% урона от ударов
-+3%% Strike Damage vs. Grawl+1%% Strike Damage,+3%% урона граулам от ударов+1%% урона от ударов
-+3%% Strike Damage vs. Icebrood+1%% Strike Damage,+3%% урона Ледяному Роду от ударов+1%% урона от ударов
-+3%% Strike Damage vs. Inquest+1%% Strike Damage,+3%% урона от ударов по Изыскателям+1%% урона от ударов
-+3%% Strike Damage vs. Karka+1%% Strike Damage,+3%% урона от ударов по Карка+1%% урона от ударов
-+3%% Strike Damage vs. Krait+1%% Strike Damage,+3%% урона от ударов по Крайтам+1%% урона от ударов
-+3%% Strike Damage vs. Nightmare Court+1%% Strike Damage,+3%% урона от ударов по Nightmare Court+1%% урона от ударов
-+3%% Strike Damage vs. Ogres+1%% Strike Damage,+3%% урона от ударов по Ограм+1%% урона от ударов
-+3%% Strike Damage vs. Outlaws+1%% Strike Damage,+3%% урона от ударов по Преступникам+1%% урона от ударов
-+3%% Strike Damage vs. Sons of Svanir+1%% Strike Damage,+3%% урона от ударов по Сынам Сванира+1%% урона от ударов
-+3%% Strike Damage vs. Stunned or Knocked-Down Foes+1%% Strike Damage,+3%% урона от ударов по оглушённым или сбитым с ног врагам+1%% урона от ударов
-+3%% Strike Damage vs. Undead+1%% Strike Damage,+3%% урона от ударов по нежити+1%% урона от ударов
-+3%% to All Attributes+10%% Magic Find+10%% Gold from Monsters+10%% Karma+10%% Experience from Kills,+3%% ко всем атрибутам+10%% к поиску магических предметов+10%% золота с монстров+10%% кармы+10%% опыта за убийства
-+3%% to All Attributes+20%% Gold from Monsters+10%% Experience from Kills,+3%% ко всем атрибутам+20%% золота с монстров+10%% опыта за убийства
-+3%% to All Attributes+20%% Karma+10%% Experience from Kills,+3%% ко всем атрибутам+20%% кармы+10%% опыта за убийства
-+3%% to All Attributes+20%% Magic Find+10%% Experience from Kills,+3%% ко всем атрибутам+20%% к поиску магических предметов+10%% опыта за убийства
 +30 Agony Infusion[s],[Инфузия|Инфузии|Инфузий] агонии +30
 +30 Agony Resistance,+30 Сопротивление агонии
 +30 Concentration,+30 Концентрация
 +30 Condition Damage,+30 Урон от состояний
-+30 Condition Damage+10%% Experience from Kills,+30 к урону от состояний+10%% к опыту за убийства
 +30 Ferocity,+30 Свирепость
-+30 FerocityDay: 12%% Chance to Burn on Critical HitNight: 12%% Chance to Steal Life on Critical Hit+10%% Experience from Kills,+30 к свирепостиДень: 12%% шанс поджечь при критическом удареНочь: 12%% шанс украсть жизнь при критическом ударе+10%% к опыту за убийства
 +30 Healing,+30 Исцеление
-+30 Healing Power+5%% Karma,+30 к силе исцеления+5%% к карме
-+30 Healing+10%% Experience from Kills,+30 к исцелению+10%% к опыту за убийства
 +30 Power,+30 Сила
-+30 Power+10%% Experience from Kills,+30 к силе+10%% к опыту за убийства
 +30 Precision,+30 Точность
-+30 Precision+10%% Experience from Kills,+30 к точности+10%% к опыту за убийства
 +30 Toughness,+30 Стойкость
-+30 Toughness+10%% Experience from Kills,+30 к стойкости+10%% к опыту за убийства
 +30 Vitality,+30 Живучесть
-+30 Vitality+10%% Experience from Kills,+30 к живучести+10%% к опыту за убийства
-+30%% Downed Health+10%% Experience from Kills,+30%% к здоровью в состоянии при смерти+10%% к опыту за убийства
-+30%% Magic Find+10%% Karma+15%% Experience from Kills,+30%% к поиску магических предметов+10%% к карме+15%% к опыту за убийства
-+30%% Magic Find+150 Fishing Power+10%% Experience from Kills,+30%% к поиску магических предметов+150 к силе рыбной ловли+10%% к опыту за убийства
-+30%% Magic Find+40%% Gold from Monsters+10%% Experience from Kills+10%% Karma,+30%% к поиску магических предметов+40%% к золоту с монстров+10%% к опыту за убийства+10%% к карме
 +30%% Stun Duration,+30%% к длительности оглушения
 "+30%% Stun Duration, +3%% Damage against Stunned Foes","+30%% к длительности оглушения, +3%% к урону по оглушённым врагам"
-+32 Condition Damage+18 Power+18 Precision,+32 Урон от состояний+18 Сила+18 Точность
-+32 Condition Damage+18 Power+18 Precision+5 Agony Resistance,+32 Урон от состояний+18 Сила+18 Точность+5 Сопротивление агонии
-+32 Condition Damage+18 Power+18 Vitality,+32 Урон от состояний+18 Сила+18 Живучесть
-+32 Condition Damage+18 Precision+18 Toughness,+32 Урон от состояний+18 Точность+18 Стойкость
-+32 Condition Damage+18 Precision+18 Toughness+5 Agony Resistance,+32 Урон от состояний+18 Точность+18 Стойкость+5 Сопротивление агонии
-+32 Healing Power+18 Precision+18 Vitality,+32 Сила исцеления+18 Точность+18 Живучесть
-+32 Healing Power+18 Toughness+18 Power,+32 Сила исцеления+18 Стойкость+18 Сила
-+32 Healing Power+18 Toughness+18 Power+5 Agony Resistance,+32 Сила исцеления+18 Стойкость+18 Сила+5 Сопротивление агонии
-+32 Healing+18 Condition Damage+18 Toughness,+32 Исцеление+18 Урон от состояний+18 Стойкость
-+32 Healing+18 Condition Damage+18 Toughness+5 Agony Resistance,+32 Исцеление+18 Урон от состояний+18 Стойкость+5 Сопротивление агонии
-+32 Power+18 Ferocity+18 Precision,+32 Сила+18 Свирепость+18 Точность
-+32 Power+18 Ferocity+18 Precision+5 Agony Resistance,+32 Сила+18 Свирепость+18 Точность+5 Сопротивление агонии
-+32 Power+18 Ferocity+18 Vitality,+32 Сила+18 Свирепость+18 Живучесть
-+32 Power+18 Ferocity+18 Vitality+5 Agony Resistance,+32 Сила+18 Свирепость+18 Живучесть+5 Сопротивление агонии
-+32 Power+18 Healing+18 Concentration,+32 Сила+18 Исцеление+18 Концентрация
-+32 Power+18 Precision+18 Healing Power,+32 Сила+18 Точность+18 Сила исцеления
-+32 Power+18 Toughness+18 Vitality,+32 Сила+18 Стойкость+18 Живучесть
-+32 Power+18 Toughness+18 Vitality+5 Agony Resistance,+32 Сила+18 Стойкость+18 Живучесть+5 Сопротивление агонии
-+32 Precision+18 Ferocity+18 Power,+32 Точность+18 Свирепость+18 Сила
-+32 Precision+18 Power+18 Condition Damage,+32 Точность+18 Сила+18 Урон от состояний
-+32 Precision+18 Power+18 Condition Damage+5 Agony Resistance,+32 Точность+18 Сила+18 Урон от состояний+5 Сопротивление агонии
-+32 Precision+18 Toughness+18 Power,+32 Точность+18 Стойкость+18 Сила
-+32 Precision+18 Toughness+18 Power+5 Agony Resistance,+32 Точность+18 Стойкость+18 Сила+5 Сопротивление агонии
-+32 Toughness+18 Healing Power+18 Vitality,+32 Стойкость+18 Сила исцеления+18 Живучесть
-+32 Toughness+18 Healing Power+18 Vitality+5 Agony Resistance,+32 Стойкость+18 Сила исцеления+18 Живучесть+5 Сопротивление агонии
-+32 Toughness+18 Power+18 Ferocity,+32 Стойкость+18 Сила+18 Свирепость
-+32 Toughness+18 Power+18 Ferocity+5 Agony Resistance,+32 Стойкость+18 Сила+18 Свирепость+5 Сопротивление агонии
-+32 Toughness+18 Power+18 Precision,+32 Стойкость+18 Сила+18 Точность
-+32 Toughness+18 Power+18 Precision+5 Agony Resistance,+32 Стойкость+18 Сила+18 Точность+5 Сопротивление агонии
-+32 Vitality+18 Power+18 Toughness,+32 Живучесть+18 Сила+18 Стойкость
 +33%% Daze Duration,+33%% к длительности ошеломления
 +35 Condition Damage,+35 Урон от состояний
 +35 Ferocity,+35 Свирепость
@@ -218,7 +97,6 @@ english,translate
 +35 Precision,+35 Точность
 +35 Toughness,+35 Стойкость
 +35 Vitality,+35 Живучесть
-+35%% Magic Find+20%% Gold from Monsters+15%% Experience from Kills,+35%% к поиску магических предметов+20%% золота с монстров+15%% опыта за убийства
 +39 Condition Damage,+39 Урон от состояний
 +39 Ferocity,+39 Свирепость
 +39 Healing,+39 Исцеление
@@ -250,61 +128,12 @@ english,translate
 +4%% Swiftness Duration,+4%% к длительности Спешки
 +4%% Torment Duration,+4%% к длительности Мучения
 +40 Concentration,+40 Концентрация
-+40 Condition Damage for 30 Seconds on Kill+10%% Experience from Kills,+40 к урону от состояний на 30 секунд при убийстве+10%% к опыту за убийства
-+40 Expertise+10%% Experience from Kills,+40 к экспертизе+10%% к опыту за убийства
-+40 FerocityDay: 18%% Chance to Burn on Critical HitNight: 18%% Chance to Steal Life on Critical Hit,+40 к свирепостиДень: 18%% шанс поджечь при критическом удареНочь: 18%% шанс украсть жизнь при критическом ударе
-+40 FerocityDay: 18%% Chance to Burn on Critical HitNight: 18%% Chance to Steal Life on Critical Hit+10%% Experience from Kills,+40 к свирепостиДень: 18%% шанс поджечь при критическом удареНочь: 18%% шанс украсть жизнь при критическом ударе+10%% к опыту за убийства
-+40 Power for 30 Seconds on Kill+10%% Experience from Kills,+40 к силе на 30 секунд при убийстве+10%% к опыту за убийства
-+40 Vitality+15%% Experience from Kills,+40 к живучести+15%% к опыту за убийства
-+45 Power+45 Precision+45 Condition Damage+45 Toughness+45 Vitality+45 Healing+5%% Critical Damage,+45 к силе+45 к точности+45 к урону от состояний+45 к стойкости+45 к живучести+45 к исцелению+5%% к критическому урону
-+45 to All Attributes+20%% Magic Find+10%% Experience from Kills,+45 ко всем атрибутам+20%% к поиску магии+10%% к опыту за убийства
 +5 Agony Infusion Upgrades,+5 улучшений инфузии агонии
 +5 Agony Infusion[s],[Инфузия|Инфузии|Инфузий] агонии +5
 +5 Agony Resistance,+5 Сопротивление агонии
 "+5 Agony ResistanceThe next time you would be downed, instead heal 25%% of your total health.",+5 к сопротивлению агонииПри следующем падении вы исцеляете 25%% от максимального запаса здоровья.
-+5 Concentration+5 Agony Resistance,+5 Концентрация+5 Сопротивление агонии
-+5 Concentration+7 Agony Resistance,+5 Концентрация+7 Сопротивление агонии
-+5 Concentration+9 Agony Resistance,+5 Концентрация+9 Сопротивление агонии
-"+5 Concentration-1%% Damage Taken from Guards, Lords, and Supervisors","+5 к концентрации-1%% урона от стражей, лордов и надзирателей"
-"+5 Condition Damage+1%% Damage to Guards, Lords, and Supervisors","+5 к урону от состояний+1%% урона стражам, лордам и надзирателям"
-+5 Condition Damage+2 Precision,+5 Урон от состояний+2 Точность
-+5 Condition Damage+5 Agony Resistance,+5 Урон от состояний+5 Сопротивление агонии
-+5 Condition Damage+7 Agony Resistance,+5 Урон от состояний+7 Сопротивление агонии
-+5 Condition Damage+9 Agony Resistance,+5 Урон от состояний+9 Сопротивление агонии
-"+5 Expertise+1%% Damage to Guards, Lords, and Supervisors","+5 к экспертизе+1%% урона стражам, лордам и надзирателям"
-+5 Expertise+5 Agony Resistance,+5 Экспертиза+5 Сопротивление агонии
-+5 Expertise+7 Agony Resistance,+5 Экспертиза+7 Сопротивление агонии
-+5 Expertise+9 Agony Resistance,+5 Экспертиза+9 Сопротивление агонии
-+5 Healing+2 Power,+5 Исцеление+2 Сила
-+5 Healing+5 Agony Resistance,+5 Исцеление+5 Сопротивление агонии
-+5 Healing+7 Agony Resistance,+5 Исцеление+7 Сопротивление агонии
-+5 Healing+9 Agony Resistance,+5 Исцеление+9 Сопротивление агонии
-"+5 Healing-1%% Damage taken from Guards, Lords, and Supervisors","+5 к исцелению-1%% урона от стражей, лордов и надзирателей"
-"+5 Power+1%% Damage to Guards, Lords, and Supervisors","+5 к силе+1%% урона стражам, лордам и надзирателям"
-+5 Power+2 Ferocity,+5 Сила+2 Свирепость
-+5 Power+2 Precision,+5 Сила+2 Точность
-+5 Power+2 Vitality,+5 Сила+2 Живучесть
-+5 Power+5 Agony Resistance,+5 Сила+5 Сопротивление агонии
-+5 Power+7 Agony Resistance,+5 Сила+7 Сопротивление агонии
-+5 Power+9 Agony Resistance,+5 Сила+9 Сопротивление агонии
-"+5 Precision+1%% Damage to Guards, Lords, and Supervisors","+5 к точности+1%% урона стражам, лордам и надзирателям"
-+5 Precision+2 Power,+5 Точность+2 Сила
-+5 Precision+5 Agony Resistance,+5 Точность+5 Сопротивление агонии
-+5 Precision+7 Agony Resistance,+5 Точность+7 Сопротивление агонии
-+5 Precision+9 Agony Resistance,+5 Точность+9 Сопротивление агонии
 +5 to All Stats,+5 ко всем характеристикам
-+5 Toughness+5 Agony Resistance,+5 Стойкость+5 Сопротивление агонии
-+5 Toughness+7 Agony Resistance,+5 Стойкость+7 Сопротивление агонии
-+5 Toughness+9 Agony Resistance,+5 Стойкость+9 Сопротивление агонии
-"+5 Toughness-1%% Damage taken from Guards, Lords, and Supervisors","+5 к стойкости-1%% урона от стражей, лордов и надзирателей"
-+5 Vitality+2 Toughness,+5 Живучесть+2 Стойкость
-+5 Vitality+5 Agony Resistance,+5 Живучесть+5 Сопротивление агонии
-+5 Vitality+7 Agony Resistance,+5 Живучесть+7 Сопротивление агонии
-+5 Vitality+9 Agony Resistance,+5 Живучесть+9 Сопротивление агонии
-"+5 Vitality-1%% Damage taken from Guards, Lords, and Supervisors","+5 к живучести-1%% урона от стражей, лордов и надзирателей"
 +5%% Boon Duration,+5%% к длительности благословений
-+5%% Burning Duration+10%% Experience from Kills,+5%% к длительности горения+10%% к опыту за убийства
-+5%% Chill Duration+10%% Experience from Kills,+5%% к длительности озноба+10%% к опыту за убийства
 +5%% Condition Damage,+5%% к урону от состояний
 +5%% Condition Duration,+5%% к длительности состояний
 +5%% condition duration.,+5%% длительности состояний.
@@ -312,25 +141,6 @@ english,translate
 +5%% Damage,+5%% к урону
 +5%% damage against monsters. <c=@reminder>Will be removed if you enter competitive PvP or a raid.</c>,"+5%% урона монстрам. <c=@reminder>Будет удалено, если вы войдёте в соревновательное PvP или рейд.</c>"
 +5%% damage vs outlaws,+5%% урона преступникам
-+5%% Damage vs. Branded+10%% Experience from Kills,+5%% к урону против Клеймённых+10%% к опыту за убийства
-+5%% Damage vs. Centaur+10%% Experience from Kills,+5%% к урону против кентавров+10%% к опыту за убийства
-+5%% Damage vs. Demons+10%% Experience from Kills,+5%% к урону против демонов+10%% к опыту за убийства
-+5%% Damage vs. Destroyers+10%% Experience from Kills,+5%% к урону против Разрушителей+10%% к опыту за убийства
-+5%% Damage vs. Dragon Bash Holograms+10%% Experience from Kills,+5%% к урону против голограмм Драконьего Разгрома+10%% к опыту за убийства
-+5%% Damage vs. Dredge+10%% Experience from Kills,+5%% к урону против Дреджей+10%% к опыту за убийства
-+5%% Damage vs. Elementals+10%% Experience from Kills,+5%% к урону против элементалей+10%% к опыту за убийства
-+5%% Damage vs. Flame Legion+10%% Experience from Kills,+5%% к урону против Flame Legion+10%% к опыту за убийства
-+5%% Damage vs. Grawl+10%% Experience from Kills,+5%% к урону против Граулов+10%% к опыту за убийства
-+5%% Damage vs. Halloween Creatures+10%% Experience from Kills,+5%% к урону против созданий Хэллоуина+10%% к опыту за убийства
-+5%% Damage vs. Ice Brood+10%% Experience from Kills,+5%% к урону против Ледяного Отродья+10%% к опыту за убийства
-+5%% Damage vs. Inquest+10%% Experience from Kills,+5%% к урону против Изыскателей+10%% к опыту за убийства
-+5%% Damage vs. Krait+10%% Experience from Kills,+5%% к урону против крайтов+10%% к опыту за убийства
-+5%% Damage vs. Mordrem+10%% Experience from Kills,+5%% к урону против Мордрема+10%% к опыту за убийства
-+5%% Damage vs. Nightmare Court+10%% Experience from Kills,+5%% урона по Nightmare Court+10%% опыта за убийства
-+5%% Damage vs. Ogres+10%% Experience from Kills,+5%% урона по Ограм+10%% опыта за убийства
-+5%% Damage vs. Sons of Svanir+10%% Experience from Kills,+5%% урона по Сынам Сванира+10%% опыта за убийства
-"+5%% Damage vs. Toxic Alliance, Watchwork, Aetherblade, and Molten Alliance+10%% Experience from Kills","+5%% урона по Токсичному альянсу, Часовым механизмам, Эфирным клинкам и Расплавленному альянсу+10%% опыта за убийства"
-+5%% Damage vs. Undead+10%% Experience from Kills,+5%% урона по нежити+10%% опыта за убийства
 +5%% Experience Public Banner[s],Общее знамя «+5%% к опыту»
 +5%% Fear Duration,+5%% длительности страха
 +5%% Gold from Kills Banner[s],Знамя «+5%% к золоту за убийства»
@@ -340,66 +150,19 @@ english,translate
 +5%% Karma Banner[s],+5%% знам[я|ени|ён] кармы
 +5%% Karma from Events for 3 Days,+5%% кармы за события на 3 дня
 +5%% Kill Exp for 24 Hours,+5%% опыта за убийства на 24 часа
-+5%% Magic Find+5%% Karma+5%% Gold from Monsters+5%% Experience from Kills,+5%% магического поиска+5%% кармы+5%% золота с монстров+5%% опыта за убийства
-+5%% Magic Find+5%% Karma+5%% Gold from Monsters+5%% Experience from KillsApplies dramatically taller field of vision during April Fools.,+5%% к поиску магических предметов+5%% к карме+5%% к золоту с монстров+5%% к опыту за убийстваЗначительно увеличивает поле зрения во время Дня дурака.
-+5%% Magic Find+5%% Karma+5%% Gold from Monsters+5%% Experience from KillsApplies intensely increased ocularity during April Fools.,+5%% к поиску магических предметов+5%% к карме+5%% к золоту с монстров+5%% к опыту за убийстваИнтенсивно увеличивает зрение во время Дня дурака.
-+5%% Magic Find+5%% Karma+5%% Gold from Monsters+5%% Experience from KillsThe taste of April Fools.,+5%% к поиску магических предметов+5%% к карме+5%% к золоту с монстров+5%% к опыту за убийстваВкус Дня дурака.
-+5%% Poison Duration+10%% Experience from Kills,+5%% к длительности яда+10%% к опыту за убийства
-+5%% Strike Damage vs. Centaurs+2%% Strike Damage,+5%% к урону от ударов по кентаврам+2%% к урону от ударов
-"+5%% Strike Damage vs. Demons, Kryptis, and Titanspawn+2%% Strike Damage","+5%% к урону от ударов по демонам, криптисам и отродьям титанов+2%% к урону от ударов"
-+5%% Strike Damage vs. Destroyers+2%% Strike Damage,+5%% к урону от ударов по разрушителям+2%% к урону от ударов
-+5%% Strike Damage vs. Dredge+2%% Strike Damage,+5%% к урону от ударов по драуграм+2%% к урону от ударов
-+5%% Strike Damage vs. Elementals+2%% Strike Damage,+5%% к урону от ударов по элементалям+2%% к урону от ударов
-+5%% Strike Damage vs. Flame Legion+2%% Strike Damage,+5%% к урону от ударов по Flame Legion+2%% к урону от ударов
-+5%% Strike Damage vs. Ghosts+2%% Strike Damage,+5%% к урону от ударов по призракам+2%% к урону от ударов
-+5%% Strike Damage vs. Grawl+2%% Strike Damage,+5%% к урону от ударов по граулам+2%% к урону от ударов
-+5%% Strike Damage vs. Icebrood+2%% Strike Damage,+5%% к урону от ударов по Ледяному Роду+2%% к урону от ударов
-+5%% Strike Damage vs. Inquest+2%% Strike Damage,+5%% к урону от ударов по ИнКвесту+2%% к урону от ударов
-+5%% Strike Damage vs. Karka+2%% Strike Damage,+5%% к урону от ударов по каркам+2%% к урону от ударов
-+5%% Strike Damage vs. Krait+2%% Strike Damage,+5%% урона в бою против крайтов+2%% урона в бою
-+5%% Strike Damage vs. Nightmare Court+2%% Strike Damage,+5%% урона в бою против Nightmare Court+2%% урона в бою
-+5%% Strike Damage vs. Ogres+2%% Strike Damage,+5%% урона в бою против огров+2%% урона в бою
-+5%% Strike Damage vs. Outlaws+2%% Strike Damage,+5%% урона в бою против преступников+2%% урона в бою
-+5%% Strike Damage vs. Sons of Svanir+2%% Strike Damage,+5%% урона в бою против Сынов Сванира+2%% урона в бою
-+5%% Strike Damage vs. Stunned or Knocked-Down Foes+2%% Strike Damage,+5%% урона в бою против оглушённых или сбитых с ног врагов+2%% урона в бою
-+5%% Strike Damage vs. Undead+2%% Strike Damage,+5%% урона в бою против нежити+2%% урона в бою
 +5%% WvW Reward Track Gain,+5%% к прогрессу наград WvW
-+50 Concentration+24%% Magic Find while under the Effect of a Boon+10%% Experience from Kills,+50 Концентрации+24%% к поиску магических предметов под действием блага+10%% опыта за убийства
 +50 Condition Damage,+50 Урон от состояний
-+50 Condition Damage+40 Precision+10%% Experience from Kills,+50 к урону от состояний+40 к точности+10%% опыта за убийства
-+50 Condition Damage+40 Vitality+10%% Experience from Kills,+50 к урону от состояний+40 к живучести+10%% опыта за убийства
-+50 Expertise+40 Condition Damage+10%% Experience from Kills,+50 к экспертизе+40 к урону от состояний+10%% опыта за убийство
 +50 Ferocity,+50 Свирепость
-+50 FerocityDay: 20%% Chance to Burn on Critical HitNight: 20%% Chance to Steal Life on Critical Hit+10%% Experience from Kills,+50 к свирепостиДень: 20%% шанс поджечь при критическом удареНочь: 20%% шанс украсть жизнь при критическом ударе+10%% опыта за убийство
 +50 Healing,+50 Исцеление
 +50 Healing Power,+50 Сила исцеления
-+50 Healing Power+40 Toughness+5%% Karma,+50 к силе исцеления+40 к стойкости+5%% кармы
-+50 Healing+40 Condition Damage+10%% Experience from Kills,+50 к исцелению+40 к урону от состояний+10%% опыта за убийство
-+50 Healing+40 Precision+10%% Experience from Kills,+50 к исцелению+40 к точности+10%% опыта за убийство
-+50 Healing+40 Precision+15%% Experience from Kills,+50 к исцелению+40 к точности+15%% опыта за убийство
-+50 Healing+40 Vitality+10%% Experience from Kills,+50 к исцелению+40 к живучести+10%% опыта за убийство
 +50 Power,+50 Сила
-+50 Power+40 Condition Damage+10%% Experience from Kills,+50 к силе+40 к урону от состояний+10%% опыта за убийство
-+50 Power+40 Precision+10%% Experience from Kills,+50 к силе+40 к точности+10%% опыта за убийство
-+50 Power+40 Vitality+10%% Experience from Kills,+50 к силе+40 к живучести+10%% опыта за убийство
-+50 Power+50 Condition DamageGain Might When Using a Heal Skill+10%% Experience from Kills,+50 к силе+50 к урону от состоянийПолучаете мощь при использовании лечащего умения+10%% опыта за убийство
 +50 Precision,+50 Точность
-+50 Precision+40 Condition Damage+10%% Experience from Kills,+50 к точности+40 к урону от состояний+10%% к опыту за убийства
-+50 Precision+40 Ferocity+10%% Experience from Kills,+50 к точности+40 к свирепости+10%% к опыту за убийства
-+50 Precision+40 Vitality+10%% Experience from Kills,+50 к точности+40 к живучести+10%% к опыту за убийства
 +50 Toughness,+50 Стойкость
-+50 Toughness+40 Condition Damage+10%% Experience from Kills,+50 к стойкости+40 к урону от состояний+10%% к опыту за убийства
-+50 Toughness+40 Precision+10%% Experience from Kills,+50 к стойкости+40 к точности+10%% к опыту за убийства
 +50 Vitality,+50 Живучесть
-+50 Vitality+40 Toughness+10%% Experience from Kills,+50 к живучести+40 к стойкости+10%% к опыту за убийства
-+50 Vitality+80 Power When Health below 50%%+10%% Experience from Kills,"+50 к живучести+80 к силе, когда здоровье ниже 50%%+10%% к опыту за убийства"
 +50%% chance of crafting critical experience gain.,+50%% к шансу критического успеха в ремесле.
 +50%% Crafting Critical Chance Boost,+50%% к шансу критического успеха в ремесле
 +50%% damage and knockback. 20%% chance to break.,+50%% к урону и отталкиванию. 20%% шанс сломать.
 +50%% damage on next attack.,+50%% к урону при следующей атаке.
-+50%% Downed Health+6%% Damage while Downed+10%% Experience from Kills,+50%% к здоровью в небоеспособном состоянии+6%% к урону в небоеспособном состоянии+10%% к опыту за убийства
-+50%% Experience in All Game Types+50%% Reward Track Gain in PvP and WvWUp to 100%% Bonus Experience for Kill Streaks,+50%% к опыту во всех режимах игры+50%% к прогрессу наград в PvP и WvWДо 100%% бонусного опыта за серии убийств
-+50%% Magic Find+50%% Chance of Critical Crafting Experience Gain+33%% Chance of Extra Gathering Strike10 seconds of Swiftness after GatheringSummons a Black Lion Merchant If Your Inventory Is Full after Gathering (20-Minute Cooldown),"+50%% к поиску магии+50%% к шансу критического успеха в ремесле+33%% к шансу дополнительного удара при сборе10 секунд скорости после сбораПризывает торговца Black Lion, если ваш инвентарь полон после сбора (перезарядка 20 минут)"
 +50%% Magic Find+50%% Experience Gain (All Sources)+30%% WvW Reward Track Progress+30%% PvP Reward Track Progress,+50%% Поиск магии+50%% Получение опыта (все источники)+30%% Прогресс наградного пути WvW+30%% Прогресс наградного пути PvP
 +6 Agony Infusion[s],[Инфузия|Инфузии|Инфузий] агонии +6
 +6 Agony Resistance,+6 Сопротивление агонии
@@ -418,27 +181,7 @@ english,translate
 +6%% Swiftness Duration,+6%% к длительности стремительности
 +6%% Torment Duration,+6%% к длительности мучения
 +6%% Weakness Duration,+6%% к длительности слабости
-+60 Concentration+28%% Magic Find while Under the Effect of a Boon+10%% Experience from Kills,+60 к концентрации+28%% к поиску магических предметов под действием блага+10%% к опыту за убийства
-+60 Condition Damage for 30 Seconds on Kill+10%% Experience from Kills,+60 к урону от состояний на 30 секунд при убийстве+10%% к опыту за убийства
-+60 Condition Damage+50 Precision+10%% Experience from Kills,+60 к урону от состояний+50 к точности+10%% к опыту за убийства
-+60 Condition Damage+50 Vitality+10%% Experience from Kills,+60 к урону от состояний+50 к живучести+10%% к опыту за убийства
-+60 Expertise+50 Condition Damage+10%% Experience from Kills,+60 к экспертизе+50 к урону от состояний+10%% к опыту за убийства
-+60 Healing Power+50 Toughness+5%% Karma,+60 к силе исцеления+50 к стойкости+5%% к карме
-+60 Healing+50 Condition Damage+10%% Experience from Kills,+60 к исцелению+50 к урону от состояний+10%% к опыту за убийства
-+60 Healing+50 Precision+10%% Experience from Kills,+60 к исцелению+50 к точности+10%% к опыту за убийства
-+60 Healing+50 Vitality+10%% Experience from Kills,+60 к исцелению+50 к живучести+10%% к опыту за убийства
 +60 Power for 30 Seconds on Kill +10%% Experience from Kills,+60 к силе на 30 секунд при убийстве+10%% к опыту за убийства
-+60 Power+50 Condition Damage+10%% Experience from Kills,+60 к силе+50 к урону от состояний+10%% к опыту за убийства
-+60 Power+50 Precision+10%% Experience from Kills,+60 к силе+50 к точности+10%% к опыту за убийства
-+60 Power+50 Vitality+10%% Experience from Kills,+60 к силе+50 к живучести+10%% к опыту за убийства
-+60 Precision+50 Condition Damage+10%% Experience from Kills,+60 к точности+50 к урону от состояний+10%% к опыту за убийства
-+60 Precision+50 Ferocity+10%% Experience from Kills,+60 к точности+50 к свирепости+10%% к опыту за убийства
-+60 Precision+50 Vitality+10%% Experience from Kills,+60 к точности+50 к живучести+10%% к опыту за убийства
-+60 Toughness+50 Condition Damage+10%% Experience from Kills,+60 к стойкости+50 к урону от состояний+10%% к опыту за убийства
-+60 Toughness+50 Precision+10%% Experience from Kills,+60 к стойкости+50 к точности+10%% к опыту за убийства
-+60 Vitality+120 Power When Health below 50%%+10%% Experience from Kills,"+60 к живучести+120 к силе, когда здоровье ниже 50%%+10%% к опыту за убийства"
-+60 Vitality+50 Toughness+10%% Experience from Kills,+60 к живучести+50 к стойкости+10%% к опыту за убийства
-+60%% Downed Health+10%% Damage While Downed+10%% Experience from Kills,+60%% к здоровью в небоеспособном состоянии+10%% к урону в небоеспособном состоянии+10%% к опыту за убийства
 +65 Condition Damage,+65 Урон от состояний
 +65 Ferocity,+65 Свирепость
 +65 Healing,+65 Исцеление
@@ -451,51 +194,8 @@ english,translate
 +7 Agony Resistance,+7 Сопротивление агонии
 +7 Attack,+7 к атаке
 +7 attack,+7 к атаке
-+7 Condition Damage+3 Precision,+7 Урон от состояний+3 Точность
-+7 Condition Damage+5 Precision,+7 Урон от состояний+5 Точность
-+7 Healing+3 Power,+7 Исцеление+3 Сила
-+7 Healing+5 Power,+7 Исцеление+5 Сила
-+7 Power+3 Ferocity,+7 Сила+3 Свирепость
-+7 Power+3 Precision,+7 Сила+3 Точность
-+7 Power+3 Vitality,+7 Сила+3 Живучесть
-+7 Power+5 Condition Damage,+7 Сила+5 Урон от состояний
-+7 Power+5 Ferocity,+7 Сила+5 Свирепость
-+7 Power+5 Precision,+7 Сила+5 Точность
-+7 Power+5 Vitality,+7 Сила+5 Живучесть
-+7 Precision+3 Power,+7 Точность+3 Сила
-+7 Precision+5 Power,+7 Точность+5 Сила
 +7 to All Stats,+7 ко всем характеристикам
-+7 Vitality+3 Toughness,+7 Живучесть+3 Стойкость
-+7 Vitality+5 Toughness,+7 Живучесть+5 Стойкость
 +7%% Boon Duration,+7%% к длительности эффектов
-+7%% Burning Duration+40 Precision+10%% Experience from Kills,+7%% к длительности горения+40 к точности+10%% к опыту за убийство
-+7%% Chill Duration+40 Power+10%% Experience from Kills,+7%% к длительности озноба+40 к силе+10%% к опыту за убийство
 +7%% condition duration.,+7%% к длительности состояний.
 +7%% Critical Chance,+7%% к шансу критического удара
-+7%% damage vs elementals-4%% damage from elementals,+7%% урона по элементалям-4%% урона от элементалей
-+7%% Damage vs. Centaur-4%% Damage from Centaur+10%% Experience from Kills,+7%% урона к кентаврам-4%% урона от кентавров+10%% к опыту за убийство
-+7%% Damage vs. Demons-4%% Damage from Demons+10%% Experience from Kills,+7%% урона к демонам-4%% урона от демонов+10%% к опыту за убийство
-+7%% Damage vs. Destroyers-4%% Damage from Destroyers+10%% Experience from Kills,+7%% урона к разрушителям-4%% урона от разрушителей+10%% к опыту за убийство
-+7%% Damage vs. Dredge-4%% Damage from Dredge+10%% Experience from Kills,+7%% урона по Дреджам-4%% урона от Дреджей+10%% опыта за убийства
-+7%% Damage vs. Flame Legion-4%% Damage from Flame Legion+10%% Experience from Kills,+7%% урона по Flame Legion-4%% урона от Flame Legion+10%% опыта за убийства
-+7%% Damage vs. Grawl-4%% Damage from Grawl+10%% Experience from Kills,+7%% урона по Граулам-4%% урона от Граулов+10%% опыта за убийства
-+7%% Damage vs. Halloween Creatures-4%% Damage from Halloween Creatures+10%% Experience from Kills,+7%% урона по Хэллоуинским существам-4%% урона от Хэллоуинских существ+10%% опыта за убийства
-+7%% Damage vs. Ice Brood-4%% Damage from Ice Brood+10%% Experience from Kills,+7%% урона по Ледяному Отродью-4%% урона от Ледяного Отродья+10%% опыта за убийства
-+7%% Damage vs. Inquest-4%% Damage from Inquest+10%% Experience from Kills,+7%% урона по Инквесту-4%% урона от Инквеста+10%% опыта за убийства
-+7%% Damage vs. Krait-4%% Damage from Krait+10%% Experience from Kills,+7%% урона по крайтам-4%% урона от крайтов+10%% опыта за убийства
-+7%% Damage vs. Nightmare Court-4%% Damage from Nightmare Court+10%% Experience from Kills,+7%% урона по Nightmare Court-4%% урона от Nightmare Court+10%% опыта за убийства
-+7%% Damage vs. Ogre-4%% Damage from Ogre+10%% Experience from Kills,+7%% урона по ограм-4%% урона от огров+10%% опыта за убийства
-+7%% Damage vs. Outlaws-4%% Damage from Outlaws+10%% Experience from Kills,+7%% урона по Преступникам-4%% урона от Преступников+10%% опыта за убийства
-+7%% Damage vs. Sons of Svanir-4%% Damage from Sons of Svanir+10%% Experience from Kills,+7%% урона по Сынам Сванира-4%% урона от Сынов Сванира+10%% опыта за убийства
-+7%% Damage vs. Undead-4%% Damage from Undead+10%% Experience from Kills,+7%% урона по нежити-4%% урона от нежити+10%% опыта за убийства
 +7%% Fear Duration,+7%% длительности страха
-+7%% Poison Duration+40 Precision+10%% Experience from Kills,+7%% длительности яда+40 точности+10%% опыта за убийства
-+7%% Strike Damage vs. Centaurs+3%% Strike Damage,+7%% урона от ударов по Кентаврам+3%% урона от ударов
-"+7%% Strike Damage vs. Demons, Kryptis, and Titanspawn.+3%% Strike Damage","+7%% урона от ударов по демонам, криптисам и отродьям титанов.+3%% урона от ударов"
-+7%% Strike Damage vs. Destroyers+3%% Strike Damage,+7%% урона от ударов по разрушителям.+3%% урона от ударов
-+7%% Strike Damage vs. Dredge+3%% Strike Damage,+7%% урона от ударов по драджам.+3%% урона от ударов
-+7%% Strike Damage vs. Elementals+3%% Strike Damage,+7%% урона от ударов по элементалям.+3%% урона от ударов
-+7%% Strike Damage vs. Flame Legion+3%% Strike Damage,+7%% урона от ударов по Flame Legion.+3%% урона от ударов
-+7%% Strike Damage vs. Ghosts+3%% Strike Damage,+7%% урона от ударов по призракам.+3%% урона от ударов
-+7%% Strike Damage vs. Grawl+3%% Strike Damage,+7%% урона от ударов по граулам.+3%% урона от ударов
-+7%% Strike Damage vs. Icebrood+3%% Strike Damage,+7%% урона от ударов по ледяным отродьям.+3%% урона от ударов

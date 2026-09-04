@@ -29,24 +29,6 @@ Calligrapher's Weapon Choice,Calligrapher's Weapon Choice
 Callon's Mourning,Callon's Mourning
 Camp Cook Rehman in the refugee camp outside Amnoon could use this to make raptor treats. No one else wants this.,Camp Cook Rehman в лагере беженцев под Амнуном сделает из этого лакомство для рапторов. Больше это никому не нужно.
 Campfire Chair,Campfire Chair
-"Can be attained from the boneskinner in the Raven Sanctum.
-Trade to Berghild in Eye of the North for shoulder armor.","Достаётся с костедёра в Raven Sanctum.
-Обменяйте у Бергильд в Оке Севера на наплечники."
-"Can be attained from the Forging Steel vision.
-Trade to Berghild in Eye of the North for a helm.","Достаётся из видения «Forging Steel».
-Обменяйте у Бергильд в Оке Севера на шлем."
-"Can be attained from the Fraenir of Jormag in the Raven Sanctum.
-Trade to Berghild in Eye of the North for gloves.","Достаётся с Фраенира Йормага в Raven Sanctum.
-Обменяйте у Бергильд в Оке Севера на перчатки."
-"Can be attained from the Shiverpeaks Pass raid encounter.
-Trade to Berghild in the Eye of the North for pants.","Достаётся в рейдовой схватке «Перевал Дрожащих Пиков».
-Обменяйте у Бергильд в Оке Севера на штаны."
-"Can be attained from the Voice and Claw in the Raven Sanctum.
-Trade to Berghild in Eye of the North for a coat.","Достаётся с Голоса и Когтя в Raven Sanctum.
-Обменяйте у Бергильд в Оке Севера на куртку."
-"Can be attained from the Whisper of Jormag.
-Trade to Berghild in Eye of the North for boots.","Достаётся с Шёпота Йормага.
-Обменяйте у Бергильд в Оке Севера на сапоги."
 "Can be combined by a skilled crafter with a Gift of Magical Prosperity, Gift of Stormy Skies, and Gift of Expertise within the Wizard's Tower to create legendary armor.","Умелый ремесленник может соединить это с Даром магического процветания, Даром грозовых небес и Даром экспертизы в Wizard's Tower, чтобы создать легендарную броню."
 "Can be combined in the Mystic Forge with Blade Shards, a Vision Crystal, and the Gift of Blades to create a Tempered Spinal Blades back item. NOTE: Cannot be used in the Mystic Forge if transmuted.","Можно соединить в Mystic Forge с осколками клинков, кристаллом прозрения и Даром клинков, чтобы создать наспинный предмет «Закалённые спинные клинки». ПРИМЕЧАНИЕ: изменённый обликом предмет в Mystic Forge использовать нельзя."
 "Can be combined in the Mystic Forge with Blade Shards, Crystalline Dust, and Orichalcum Ingots to create an Advanced Spinal Blades back item. NOTE: Cannot be used in the Mystic Forge if transmuted.","Можно соединить в Mystic Forge с осколками клинков, кристаллической пылью и орихалковыми слитками, чтобы создать наспинный предмет «Улучшенные спинные клинки». ПРИМЕЧАНИЕ: изменённый обликом предмет в Mystic Forge использовать нельзя."
@@ -54,11 +36,6 @@ Trade to Berghild in Eye of the North for boots.","Достаётся с Шёп�
 "Can be combined in the Mystic Forge with Blade Shards, Luminous Dust, and Steel Ingots to create a Twin Spinal Blades back item. NOTE: Cannot be used in the Mystic Forge if transmuted.","Можно соединить в Mystic Forge с осколками клинков, светящейся пылью и стальными слитками, чтобы создать наспинный предмет «Двойные спинные клинки». ПРИМЕЧАНИЕ: изменённый обликом предмет в Mystic Forge использовать нельзя."
 "Can be combined in the Mystic Forge with Tempered Spinal Blades, Crystalline Dust, and Bottles of Elonian Wine to create a colored version of Tempered Spinal Blades.","Можно соединить в Mystic Forge с «Закалёнными спинными клинками», кристаллической пылью и бутылками элонского вина, чтобы получить цветную версию «Закалённых спинных клинков»."
 Can be consumed for Central Tyria Mastery experience or traded at Labyrinthine Cliffs for other rewards.,Даёт опыт мастерства Центральной Тирии; можно обменять на другие награды на Лабиринтовых утёсах.
-"Can be consumed for Crystal Desert Mastery experience or traded at Grand Sahil Casino for other rewards.
-
-<c=@flavor>You won! Now indulge yourself at our world-class leisure destination. —Zalambur</c>","Даёт опыт мастерства Crystal Desert; можно обменять на другие награды в Большом казино Сахил.
-
-<c=@flavor>Вы выиграли! Теперь побалуйте себя на нашем курорте мирового класса.—Заламбур</c>"
 Can be consumed for karma or exchanged for goods from Heirloom Lost and Found merchants in the Battle for Lion's Arch or the Durmand Priory in Lornar's Pass.,Даёт карму; можно обменять на товары у торговцев Lost and Found в «Битве за Lion's Arch» или в Durmand Priory на Lornar's Pass.
 Can be consumed for unbound magic or traded with Quartermaster Hitchens.,Даёт несвязанную магию; можно обменять у интенданта Хитченса.
 Can be consumed for unbound magic or traded with Scholar Rakka.,Даёт несвязанную магию; можно обменять у учёной Ракки.
@@ -87,11 +64,6 @@ Can be traded with camp vendors in Bjora Marches.,Можно обменять у
 Can be traded with camp vendors in Dragonfall or consumed for volatile magic.,Можно обменять у лагерных торговцев в Драконьем Падении или использовать ради летучей магии.
 Can be traded with Consortium officers in cities to advance the community goal for the Champion Rush bonus event.,"Можно обменять у офицеров Консорциума в городах, продвигая общую цель бонусного события «Наплыв чемпионов»."
 Can be traded with merchants in the Silverwastes for valuable items.,Можно обменять у торговцев в Серебряных Пустошах на ценные предметы.
-"Can be traded with Mordrem researchers across Tyria for valuable items.
-
-Double-click to locate a nearby Mordrem researcher.","Можно обменять на ценные предметы у исследователей мордремов по всей Тирии.
-
-Дважды щёлкните, чтобы найти ближайшего исследователя мордремов."
 Can be traded with the Crystal Bloom in the Eye of the North.,Можно обменять у Хрустального расцвета в Оке Севера.
 Can be traded with the Deldrimor dwarves in the Eye of the North.,Можно обменять у дворфов Делдримора в Оке Севера.
 Can be traded with the Ebon Vanguard in the Eye of the North.,Можно обменять у Эбенового Авангарда в Оке Севера.
@@ -105,14 +77,6 @@ Can be traded with vendors in Sandswept Isles or consumed for volatile magic.,М
 "Can be traded with vendors in the Domain of Istan, used for crafting, or consumed for Volatile Magic.","Можно обменять у торговцев в Domain of Istan, пустить в ремесло или использовать ради летучей магии."
 Can be traded with vendors in the Domain of Kourna or consumed for volatile magic.,Можно обменять у торговцев в Владениях Курны или использовать ради летучей магии.
 Can be traded with vendors in Thunderhead Peaks or consumed for volatile magic.,Можно обменять у торговцев в Пиках Громовой головы или использовать ради летучей магии.
-"Can be used in crafting or traded with vendors in Grothmar Valley.
-
-<c=@Flavor>Grown over devourer nests, these peppers are particularly piquant.</c>","Годится для ремесла или обмена у торговцев в Долине Гротмар.
-
-<c=@Flavor>Выросшие над гнёздами пожирателей, эти перцы особенно остры.</c>"
-"Can be used in the Mystic Forge in place of Twilight to add the greatsword Eternity to your Legendary Armory.
-<c=@warning>If you have two instances of Eternity unlocked in the armory, please contact Customer Support.</c>","Можно использовать в Mystic Forge вместо «Twilight», чтобы добавить двуручный меч «Eternity» в Легендарный арсенал.
-<c=@warning>Если в арсенале открыты два экземпляра «Eternity», обратитесь в службу поддержки.</c>"
 Can be used in the Mystic Forge to create Blessed Zephyrite gloves.,"Можно использовать в Mystic Forge, чтобы создать благословенные перчатки зефиритов."
 Can be used to capture a lost soul.,Позволяет пленить заблудшую душу.
 "Can be used to capture Auric energy from Tarir, the Forgotten City.","Позволяет собрать аурическую энергию Тарира, Забытого города."
@@ -128,88 +92,7 @@ Can be used to purchase local writs of renown at renown heart vendors in Shipwre
 Can be used to purchase local writs of renown at renown heart vendors in Starlit Weald.,Можно купить местные грамоты почёта у торговцев сердец почёта в Звёздной роще.
 Can be used to purchase medium Ascended armor from special merchants.,Позволяет купить среднюю вознесённую броню у особых торговцев.
 Can be used to purchase weaponsmith-created Ascended weapons from special merchants.,Позволяет купить созданное оружейником вознесённое оружие у особых торговцев.
-"Can contain ancient or elder wood logs.
-Purchase from renown region karma merchants across the Crystal Desert with trade contracts.
-Find trade contracts in chests and lost supplies.","Может содержать древние брёвна или брёвна из старой древесины.
-Покупается за торговые контракты у торговцев кармы в регионах сердец почёта по всей Crystal Desert.
-Торговые контракты находятся в сундуках и потерянных припасах."
-"Can contain coarse or rugged leather squares. 
-Purchase from renown region karma merchants across the Crystal Desert with trade contracts.
-Find trade contracts in chests and lost supplies.","Может содержать грубые или прочные куски кожи.
-Покупается за торговые контракты у торговцев кармы в регионах сердец почёта по всей Crystal Desert.
-Торговые контракты находятся в сундуках и потерянных припасах."
-"Can contain gossamer and silk scraps.
-Purchase from renown region karma merchants across the Crystal Desert with trade contracts.
-Find trade contracts in chests and lost supplies.","Может содержать лоскуты паутинной ткани и шёлка.
-Покупается за торговые контракты у торговцев кармы в регионах сердец почёта по всей Crystal Desert.
-Торговые контракты находятся в сундуках и потерянных припасах."
-"Can contain green and soft wood logs.
-Purchase from renown region karma merchants across the Crystal Desert with trade contracts.
-Find trade contracts in chests and lost supplies.","Может содержать зелёные брёвна или брёвна из мягкой древесины.
-Покупается за торговые контракты у торговцев кармы в регионах сердец почёта по всей Crystal Desert.
-Торговые контракты находятся в сундуках и потерянных припасах."
-"Can contain hard and seasoned wood logs.
-Purchase from renown region karma merchants across the Crystal Desert with trade contracts.
-Find trade contracts in chests and lost supplies.","Может содержать брёвна из твёрдой и выдержанной древесины.
-Покупается за торговые контракты у торговцев кармы в регионах сердец почёта по всей Crystal Desert.
-Торговые контракты находятся в сундуках и потерянных припасах."
-"Can contain ingots of iron, darksteel, bronze, or gold.
-Purchase from renown region karma merchants across the Crystal Desert with trade contracts.
-Find trade contracts in chests and lost supplies.","Может содержать слитки железа, тёмной стали, бронзы или золота.
-Покупается за торговые контракты у торговцев кармы в регионах сердец почёта по всей Crystal Desert.
-Торговые контракты находятся в сундуках и потерянных припасах."
-"Can contain ingots of orichalcum or mithril.
-Purchase from renown region karma merchants across the Crystal Desert with trade contracts.
-Find trade contracts in chests and lost supplies.","Может содержать слитки орихалка или мифрила.
-Покупается за торговые контракты у торговцев кармы в регионах сердец почёта по всей Crystal Desert.
-Торговые контракты находятся в сундуках и потерянных припасах."
-"Can contain ingots of steel, platinum, copper, or silver.
-Purchase from renown region karma merchants across the Crystal Desert with trade contracts.
-Find trade contracts in chests and lost supplies.","Может содержать слитки стали, платины, меди или серебра.
-Покупается за торговые контракты у торговцев кармы в регионах сердец почёта по всей Crystal Desert.
-Торговые контракты находятся в сундуках и потерянных припасах."
-"Can contain jute and wool scraps.
-Purchase from renown region karma merchants across the Crystal Desert with trade contracts.
-Find trade contracts in chests and lost supplies.","Может содержать лоскуты джута и шерсти.
-Покупается за торговые контракты у торговцев кармы в регионах сердец почёта по всей Crystal Desert.
-Торговые контракты находятся в сундуках и потерянных припасах."
-"Can contain linen and cotton scraps.
-Purchase from renown region karma merchants across the Crystal Desert with trade contracts.
-Find trade contracts in chests and lost supplies.","Может содержать лоскуты льна и хлопка.
-Покупается за торговые контракты у торговцев кармы в регионах сердец почёта по всей Crystal Desert.
-Торговые контракты находятся в сундуках и потерянных припасах."
-"Can contain rawhide or thin leather squares.
-Purchase from renown region karma merchants across the Crystal Desert with trade contracts.
-Find trade contracts in chests and lost supplies.","Может содержать куски сыромятной или тонкой кожи.
-Покупается за торговые контракты у торговцев кармы в регионах сердец почёта по всей Crystal Desert.
-Торговые контракты находятся в сундуках и потерянных припасах."
-"Can contain thick or hardened leather squares.
-Purchase from renown region karma merchants across the Crystal Desert with trade contracts.
-Find trade contracts in chests and lost supplies.","Может содержать куски толстой или закалённой кожи.
-Покупается за торговые контракты у торговцев кармы в регионах сердец почёта по всей Crystal Desert.
-Торговые контракты находятся в сундуках и потерянных припасах."
-"Can contain totems, dust, fossils, or thorns.
-Purchase from renown region karma merchants across the Crystal Desert with trade contracts.
-Find trade contracts in chests and lost supplies.","Может содержать тотемы, пыль, окаменелости или шипы.
-Покупается за торговые контракты у торговцев кармы в регионах сердец почёта по всей Crystal Desert.
-Торговые контракты находятся в сундуках и потерянных припасах."
-"Can contain venom sacs, fangs, or scales of any value.
-Purchase from renown region karma merchants across the Crystal Desert with trade contracts.
-Find trade contracts in chests and lost supplies.","Может содержать ядовитые железы, клыки или чешую любой ценности.
-Покупается за торговые контракты у торговцев кармы в регионах сердец почёта по всей Crystal Desert.
-Торговые контракты находятся в сундуках и потерянных припасах."
-"Can contain vials of blood, bone, or claws.
-Purchase from renown region karma merchants across the Crystal Desert with trade contracts.
-Find trade contracts in chests and lost supplies.","Может содержать склянки крови, кости или когти.
-Покупается за торговые контракты у торговцев кармы в регионах сердец почёта по всей Crystal Desert.
-Торговые контракты находятся в сундуках и потерянных припасах."
-"Can harvest Ancient, Elder, and all lesser woods.
-Gain snowflakes when gathering.","Рубит древнюю, старую и всю более простую древесину.
-При сборе даёт снежинки."
 "Can harvest Mithril, Platinum and all lesser metals.","Добывает мифрил, платину и все более простые металлы."
-"Can harvest Orichalcum, Mithril, and all lesser metals.
-Gain snowflakes when gathering.","Добывает орихалк, мифрил и все более простые металлы.
-При сборе даёт снежинки."
 Can of Artichoke Soup,Can of Artichoke Soup
 Can of Asparagus and Sage Salad,Can of Asparagus and Sage Salad
 Can of Butternut Squash Soup,Can of Butternut Squash Soup
@@ -303,9 +186,6 @@ Canopy Dye,Canopy Dye
 Cantaloupe Dye,Cantaloupe Dye
 Canthan Armor Box,Canthan Armor Box
 Canthan Backpack,Canthan Backpack
-"Canthan band that exclusively contains End of Dragons attribute combos.
-<c=@flavor>Jade bands are in such high demand that merchants have trouble keeping them in stock.</c>","Кантанское кольцо только с наборами характеристик из «Конца драконов».
-<c=@flavor>Нефритовые кольца в таком спросе, что торговцы не успевают их подвозить.</c>"
 Canthan Carp,Canthan Carp
 Canthan Champion Weapon Box,Canthan Champion Weapon Box
 Canthan Crafting Material Coffer,Canthan Crafting Material Coffer
@@ -318,9 +198,6 @@ Canthan Menagerie Mount Select License,Canthan Menagerie Mount Select License
 Canthan Nian Warclaw Skin,Canthan Nian Warclaw Skin
 Canthan Noble Skyscale Skin,Canthan Noble Skyscale Skin
 Canthan Noble's Blade,Canthan Noble's Blade
-"Canthan pendant that exclusively contains End of Dragons attribute combos.
-<c=@flavor>These jade pendants found their way into the Mists shortly after Cantha reopened its borders.</c>","Кантанский кулон только с наборами характеристик из «Конца драконов».
-<c=@flavor>Эти нефритовые кулоны попали в Туманы вскоре после того, как Кантха вновь открыла границы.</c>"
 Canthan Phoenix Backpack and Glider Combo,Canthan Phoenix Backpack and Glider Combo
 Canthan Phoenix Wings Backpack,Canthan Phoenix Wings Backpack
 Canthan Raptor Skin,Canthan Raptor Skin
@@ -328,9 +205,6 @@ Canthan Ritualist Satchel,Canthan Ritualist Satchel
 Canthan Spiritualist Backpack,Canthan Spiritualist Backpack
 Canthan Stair Bridge,Canthan Stair Bridge
 Canthan Sun Hat Skin,Canthan Sun Hat Skin
-"Canthan talisman that exclusively contains End of Dragons attribute combos.
-<c=@flavor>Usage of enchanted jade has grown popular in the Mists.</c>","Кантанский талисман только с наборами характеристик из «Конца драконов».
-<c=@flavor>В Туманах вошёл в моду зачарованный нефрит.</c>"
 Canthan Tigris Griffon Skin,Canthan Tigris Griffon Skin
 Canthan Traveler's Pack,Canthan Traveler's Pack
 Canthan Vulpine Jackal Skin,Canthan Vulpine Jackal Skin

@@ -1,38 +1,13 @@
 english,translate
-"%str1%,
-
-The theater productions are moving along swimmingly thanks to you. The troupe members are filled with excitement and enthusiasm, and they're brimming with confidence. This season could see some of our best performances yet. I know I speak for everyone when I say we would love to work with you again.","%str1%,
-
-Благодаря вам работа над театральными постановками идет как по маслу. Члены труппы полны энтузиазма и уверенности в себе, и мы надеемся, что этот сезон станет одним из лучших за всю историю нашего театра. Я думаю, что говорю от имени всех, когда говорю, что мы будем рады снова с вами сотрудничать."
 "%str1%, our people are truly grateful for your help.","%str1%, наш народ искренне благодарен вам за помощь."
 "%str1%, thanks to your endeavors, the Inquest has lost both precious time and momentum in their ill-conceived research. Even though they outnumber us, we continually prove that brilliance trumps desperation. Keep up the good work.","%str1%, благодаря твоим усилиям Инквест потерял драгоценное время и импульс в своих неудачных исследованиях. Хотя они превосходят нас числом, мы постоянно доказываем, что гениальность побеждает отчаяние. Продолжай в том же духе."
-"%str1%, thanks to your endeavors, the Inquest has lost both precious time and momentum in their ill-conceived research. Even though they outnumber us, we continually prove that brilliance trumps desperation. Keep up the good work.
-
-—Blopp","%str1%, благодаря вашим усилиям Inquest потеряли и драгоценное время, и импульс в своих неудачных исследованиях. Несмотря на то, что их больше, чем нас, мы постоянно доказываем, что блестящий ум побеждает отчаяние. Продолжайте в том же духе.
-
-—Blopp"
 "%str1%, what a pleasure to have worked with you. Although Dragon's influence continues to spread, with your help we've slowed the spread of his corruption. Thank you!","%str1%, как приятно было с вами работать. Хотя влияние Дракона продолжает распространяться, с вашей помощью мы замедлили распространение его осквернения. Спасибо!"
-"%str1%, you are a proven friend of Michotl. Your efforts have helped our village and we offer our heartfelt thanks. Please come visit us again. You are welcome here any time.
-
-—Huelic","%str1%, вы — проверенный друг Мичотль. Ваши усилия помогли нашей деревне, и мы приносим вам нашу сердечную благодарность. Пожалуйста, приходите к нам снова. Мы будем рады видеть вас в любое время.
-
-—Huelic"
 %str1%. I send you respectful regards and appreciation for your assistance with my scouts. You came at exactly the right moment.,%str1%. Я выражаю вам свое почтение и признательность за помощь моим разведчикам. Вы появились в самый нужный момент.
 %str1%:,%str1%:
 (A claw scratch marks the note's edge.),(Края записки отмечены следами когтей.)
 "(The rest of the letter is almost entirely illegible, mostly just scribbles and primitive stick figures. It appears that Krug had trouble fitting this into the envelope. Still, a thank-you from an ettin is something to be treasured.)","(Остальная часть письма почти полностью неразборчива, в основном просто каракули и примитивные фигурки. Похоже, Krug было трудно втиснуть это в конверт. Тем не менее, благодарность от эттина — это то, что стоит ценить.)"
 (indecipherable scribbling),(неразборчивые каракули)
 (scribbles),(каракули)
-(Остальная часть письма неразборчива. Тем не менее,тот факт
-"1330.189.642.1 Z.O.X. 
-   1) M.O.X. departed. 
-   2) Spiders controlled. 
-   3) Brave heroes walked among us. 
-   <end report>","1330.189.642.1 Z.O.X. 
-   1) M.O.X. убыл. 
-   2) Пауки под контролем. 
-   3) Храбрые герои ходили среди нас. 
-   <end report>"
 A Commendable Job,Достойная работа
 A Deed Well Done,Хорошо выполненное дело
 A Fine Day of Work,Отличный день для работы
@@ -64,11 +39,6 @@ Acquire a medical kit from the field hospitals adjacent to Nebo Terrace. Treat i
 "Activate surveillance equipment, revive researchers, and reduce the ettin population.","Активируйте оборудование для наблюдения, оживляйте исследователей и сокращайте популяцию эттинов."
 Advances in Dwarven Archaeology,Достижения в археологии дварфов
 Aethervolt researchers require temporary assistants.,Исследователям Эфирвольта требуются временные помощники.
-"After you cleared the landslides from the Mistriven Gorge area, and whacked the grawl into submission, the road to the Durmand Priory became safe for travelers again. And with no more cave paintings or effigies, the grawl will leave us alone for a while. On behalf of the Priory, thank you. Keep up the good work.
-
-—Aurelio","После того как вы расчистили оползни в районе Ущелья Туманной Разлуки и заставили граулов подчиниться, дорога к Durmand Priory снова стала безопасной для путешественников. И без пещерных рисунков и чучел граулы оставят нас в покое на некоторое время. От имени Приората спасибо. Продолжайте в том же духе.
-
-—Aurelio"
 "Against our own trouble, though, you have been very helpful. With the markers repaired, my family can feel safe. The guards, too, owe you a debt. Please accept my gratitude.","Однако в наших собственных бедах вы очень помогли. С починенными маркерами моя семья может чувствовать себя в безопасности. Стражи тоже в долгу перед вами. Пожалуйста, примите мою благодарность."
 Agent Carter is grateful for your help.,Агент Carter благодарен за вашу помощь.
 Agent Cotts will thank you when he's feeling better.,"Agent Cotts поблагодарит вас, когда ему станет лучше."
@@ -112,11 +82,6 @@ Ancient Research,Древние исследования
 Another Victory for Iron.,Ещё одна победа Железного легиона
 Another blow to Jormag and the Sons of Svanir!,Ещё один удар по Йормагу и Сынам Сванира!
 "Anyway, be safe out there, and I hope our paths cross again in the future.","В любом случае, берегите себя, и надеюсь, что наши пути ещё пересекутся в будущем."
-"Applenook's never looked better, thanks to you. The other day I was strolling through my corn field and couldn't believe the difference. You've done great things for us, thank you.
-
-—Milton Book","Applenook ещё никогда не выглядел лучше, спасибо вам. На днях я прогуливался по своему кукурузному полю и не мог поверить в разницу. Вы сделали для нас великие дела, спасибо.
-
-—Milton Book"
 Appreciate the Assist,Оцените помощь
 "Appreciated, visitor. Make yourself at home here.","Благодарю, гость. Чувствуй себя здесь как дома."
 Arcanist Kruppa thanks you.,Арканист Круппа благодарит вас.
@@ -245,11 +210,6 @@ Buh-boom!,Ба-бах!
 "Build snowmen, stop troublemakers, and keep the lodge cozy and safe.","Лепи снеговиков, останавливай нарушителей спокойствия и поддерживай в домике уют и безопасность."
 "Burn Risen corpses, test out experimental hylek potion on the Risen, and reduce the Risen presence in the region.","Сожгите трупы Орды, испытайте экспериментальное зелье хайлика на Орде и ослабьте присутствие Орды в регионе."
 "Burn undead corpses, smash noxious plants, protect Wardens, and battle the Risen in Sleive's Inlet.","Сжигайте трупы нежити, уничтожайте ядовитые растения, защищайте Стражей и сражайтесь с Восставшими в бухте Слива."
-"Burning undead corpses is never pleasant, but we must do what we must. Had local flies become corrupted, it would have been devastating for us. Now I'm free to eat flies as I please without worrying that they might have the undead taint. Thank you!
-
-—Potatlan","Сжигать трупы нежити — занятие не из приятных, но мы должны делать то, что должны. Если бы местные мухи заразились, это было бы для нас катастрофой. Теперь я могу свободно есть мух, не беспокоясь о том, что они могут быть осквернены нежитью. Спасибо!
-
-—Потатлан"
 Business as usual,Всё как обычно
 "But enough prattle, nonverbal as it is! I have glyphs to decode!","Но довольно болтовни, пусть даже и невербальной! У меня есть глифы для расшифровки!"
 But you have set the bar pretty high.,Но ты задал очень высокую планку.
@@ -257,11 +217,6 @@ Caer Astorea defended.,Каэр Асторея защищена.
 Caer Evermore salutes you.,Caer Evermore приветствует тебя.
 Cane approves.,Трость одобряет.
 Cane stopped in to resupply and mentioned your name. You must have really been kicking tail—being noticed by him is high praise! Just thought you might want to know.,"Cane заходил пополнить запасы и упоминал твое имя. Должно быть, ты задал им жару — получить похвалу от него дорогого стоит! Просто решил, что тебе стоит об этом знать."
-"Cap wanted me to make sure you got a little commendation for your work here. Everything is ship-shape thanks to you, and I'm sure our four-hoofed friends will appreciate the fine work you did. You're always welcome among the Companions.
-
-—Marden","Cap хотел, чтобы я убедился, что вы получили небольшую награду за свою работу здесь. Благодаря вам всё в полном порядке, и я уверен, что наши четвероногие друзья оценят отличную работу, которую вы проделали. Вы всегда желанный гость среди Компаньонов.
-
-—Marden"
 "Catch bugs to feed to cattle, and appease stinky or moody cows.","Ловите жуков, чтобы кормить скот, и успокаивайте вонючих или капризных коров."
 Catch frogs to set drake traps and make bottles of frog pheromone. Throw bottles of frog pheromone at poachers.,"Лови лягушек, чтобы расставить ловушки на драков и сделать бутылки с феромонами лягушек. Бросай бутылки с феромонами в браконьеров."
 Cause chaos among the centaurs.,Посей хаос среди кентавров.
@@ -308,16 +263,6 @@ Confidential Material,Конфиденциальные материалы
 "Consult Sentinel Gristletooth. Destroy Branded creatures, nests, and crystal clusters.","Поговорите с часовым Гристлтутом. Уничтожайте Проклятых существ, гнезда и кристаллические скопления."
 Contain the growth of the Dragonbrand.,Сдерживайте рост Драконьего Клейма.
 Continuing Education,Непрерывное образование
-"Coo! Thank you for sparring with the Quaggan Games trainees and keeping Orsippus safe. Quaggan is now your number one fan! Quaggans appreciate your help very much!
-
-—Qualdup","Ку! Спасибо, что спарринговали со стажерами Игр Квагганов и обеспечили безопасность Orsippus. Квагган теперь ваш фанат номер один! Квагганы очень ценят вашу помощь.
-
-—Квалдап"
-"Cooo! Thanks to you, quaggan is swimming in plunder! You taught those pirates a valuable lesson about bullying, and they haven't stolen from quaggan since. Quaggan admires your persuasive skills. Visit quaggan sometime soon, %str1%! We can play pirates together.
-
-—Queldip","Ку-у-у! Благодаря вам квагган купается в добыче! Вы преподали этим пиратам ценный урок о том, как не стоит задираться, и с тех пор они не крали у кваггана. Квагган восхищается вашими навыками убеждения. Заглядывайте к кваггану как-нибудь, %str1%! Мы можем поиграть в пиратов вместе.
-
-—Queldip"
 Copies sent to %str1% and the Arcane Council.,Копии отправлены %str1% и Arcane Council.
 Corruption Uncovered,Скверна раскрыта
 Corruption pushed back!,Скверна оттеснена!
@@ -328,11 +273,6 @@ Crucibis Forgeweld salutes you.,Круцибис Форджвельд приве
 "Cull skale, retrieve water samples from test kits, and repair chemical dispensers in Blackblade Lake.","Уничтожайте скалов, извлекайте пробы воды из тест-наборов и чините химические дозаторы на Озерном Уступе."
 "Daily I hear whispers of your name, given with awe and gratitude. I'm confident that your impact on this world will be one worthy of all of Ventari's hopes, one that will aid all of the races.","Ежедневно я слышу шепот вашего имени, произносимый с благоговением и благодарностью. Я уверен, что ваше влияние на этот мир будет достойно всех надежд Ventari, и поможет всем расам."
 "Dance with lonely wallflowers, or obtain an Affinity Analyzer to play matchmaker for lonely nobles, or deal with discontent djinn lurking in the area.","Танцуй с одинокими гостями или получи Анализатор симпатий, чтобы свести одиноких дворян, либо разберись с недовольными джиннами, скрывающимися в округе."
-"Dear %str1%, 
-Thanks to you for helping my brothers and sisters. Your efforts will allow our village to continue to grow and prosper, and remain at peace. You are a friend to all ogres of Degun Shun.
-— Shelp","Дорогой %str1%,
-Спасибо, что помогли моим братьям и сёстрам. Ваши усилия позволят нашей деревне расти, процветать и жить в мире. Вы — друг всех огров из Degun Shun.
-— Shelp"
 "Dearest %str1%, it is with great pleasure that quaggan writes you! You are quaggan's favorite now because you were so good about keeping the krait away. You inspired quaggans. One day, quaggans will throw the krait out of Nonmoa Lake, and quaggans will have a free and safe home. Love!","Дорогой(ая) %str1%, квагган с огромным удовольствием пишет тебе! Теперь ты любимчик кваггана, потому что ты так здорово отгонял крайтов. Ты вдохновил квагганов. Однажды квагганы выкинут крайтов из озера Nonmoa Lake, и у квагганов будет свободный и безопасный дом. С любовью!"
 "Decipher dwarven headstones, and protect Priory researchers.",Расшифровывайте надгробия дварфов и защищайте исследователей Приората.
 "Defeat Branded Forgotten, and destroy the crystals and seeds that protect them. Gather the lights of the Forgotten from the prophecy verses inside Augury Rock.","Победите Branded Forgotten, уничтожьте кристаллы и семена, которые их защищают. Соберите свет Forgotten из пророческих стихов внутри Augury Rock."
@@ -407,18 +347,8 @@ Disrupting the Centaur Logistics,Нарушение логистики кент�
 Dolyaks Defended,Дольяки защищены
 "Don't listen to the Flame Legion. The preservation of Piken Square isn't about sympathy for the humans. It's about the war that's still raging. In order to defeat the ghosts, we have to understand them. And if that means appeasing them, then so be it.","Не слушайте Flame Legion. Сохранение Piken Square — это не про сочувствие к людям. Это про войну, которая все ещё бушует. Чтобы победить призраков, мы должны их понять. И если это означает задобрить их, пусть будет так."
 "Down here, between the Brand and the empty fortress, life hasn't been easy. But we're making it through one day at a time, thanks to you.","Здесь, между Brand и пустой крепостью, жизнь была нелегкой. Но мы справляемся день за днем, благодаря вам."
-"Down with the krait! So long as they live, times will be tough. That said, your deeds have eased the tribe's burdens and given us hope for future sunrises. Thank you.
-
-—Atzintli","Долой крайтов! Пока они живы, времена будут тяжёлыми. Тем не менее, ваши действия облегчили бремя племени и подарили нам надежду на будущие рассветы. Спасибо.
-
-—Atzintli"
 Dragon's corruption destroyed.,Осквернение дракона уничтожено.
 "Drakkitoka and skritt of Ratatosk thank tall, strong, and stompy %str1%, for spider squishings. Now, very few spiders left, and they leave us alone! No more scratchy bites, no more sticky webs. Our tunnels are open to you, always. We put shinies in this letter—take them, all for you! Yes! Bye-bye!","Драккитока и скритты из Рататоска благодарят высокого, сильного и топающего %str1%, за раздавливание пауков. Теперь пауков осталось очень мало, и они нас не трогают! Больше нет царапающих укусов, больше нет липких паутин. Наши туннели открыты для тебя, всегда. Мы положили в это письмо блестяшки — забери их, всё для тебя! Да! Пока-пока!"
-"Drakkitoka and skritt of Ratatosk thank tall, strong, and stompy %str1%, for spider squishings. Now, very few spiders left, and they leave us alone! No more scratchy bites, no more sticky webs. Our tunnels are open to you, always. We put shinies in this letter—take them, all for you! Yes! Bye-bye!
-
-—Drakkitoka","Drakkitoka и сквитты Ratatosk благодарят высокого, сильного и топочущего %str1% за раздавливание пауков. Теперь пауков осталось совсем мало, и они оставляют нас в покое! Больше никаких царапающих укусов, никакой липкой паутины. Наши туннели открыты для тебя, всегда. Мы положили блестяшки в это письмо — возьми их, всё для тебя! Да! Пока-пока!
-
-—Drakkitoka"
 Drakkitoka is thankful for your help.,Драккитока благодарна за вашу помощь.
 Dredge Munitions,Dredge Munitions
 Dredge Nuisance,Dredge Nuisance
@@ -441,36 +371,16 @@ Eliminate Flame Legion power sources and the elementals they create. Cull Flame 
 "Eliminate Inquest spies, ensure supplies get to Gallant's Folly, and spar with Pact brawlers.","Устраняй шпионов Inquest, обеспечивай доставку припасов в Gallant's Folly и спаррингуй с бойцами Pact."
 "Eliminate ogres and ogre pets. Destroy ogre housing, gates, supplies, and weapon racks.","Уничтожайте огров и их питомцев. Уничтожайте жилища огров, ворота, припасы и стойки с оружием."
 Eliminate the dredge and their machinery. Revive fallen allies.,Уничтожьте дреджей и их технику. Воскрешайте павших союзников.
-"Elonians are raised to see everyone outside our kingdom as dangerous, seditious threats to our freedom. I'm sorry it took exile from our homeland to allow us to meet you and have our minds and hearts opened by your generosity. The truth you've shown us upends a thousand lies.
-
-—Kofi","Элонийцев с детства учат видеть во всех за пределами нашего королевства опасных, мятежных врагов нашей свободы. Мне жаль, что нам пришлось стать изгнанниками из нашей родины, чтобы встретить вас и позволить вашей щедрости открыть наши умы и сердца. Истина, которую вы нам показали, опрокидывает тысячу лживых слов.
-
-—Kofi"
 Endangered Snow Griffons,Исчезающие снежные грифоны
 Enjoy the moot and help keep the party under control.,Наслаждайтесь мутом и помогите держать вечеринку под контролем.
 Enough said.,Сказано достаточно.
 Entertain and protect the children.,Развлекайте и защищайте детей.
 Estimates,Оценки
-"Everything is going as planned! Molent Summit is clamoring with angry dredge. When you infiltrated their mine and attacked them dressed as a steam creature, they forgot all about the Priory. Ever since, the dredge have been eyeing the steam creatures with suspicion, and a counterattack is imminent. The Priory's in your debt.
-
-—Kaukiri","Все идет по плану! Molent Summit кишит разгневанными дредж. Когда вы проникли в их шахту и атаковали их, переодевшись паровым созданием, они забыли о Приорате. С тех пор дредж с подозрением косятся на паровых созданий, и ответная атака неизбежна. Приорат у вас в долгу.
-
-—Kaukiri"
 Exceeded Expectations,Превысив ожидания
 Excellent Work,Отличная работа
 "Excellent Work, %str1%","Отличная работа, %str1%"
-"Excellent work, %str1%. I can't thank you enough for your assistance. Should you need to find me again, just look for my COM-322r golem. A helping hand is always appreciated! This message has been sent from my COM-322r.
-
-—Parnna","Отличная работа, %str1%. Не могу выразить, как я благодарен за вашу помощь. Если вам нужно будет найти меня снова, просто ищите моего голема COM-322r. Помощь всегда ценится! Это сообщение было отправлено с моего COM-322r.
-
-—Парнна"
 Exemplary,Образцово
 Exemplary effort %str1%. You've got a real knack for fighting ghosts. My soldiers have started a friendly competition to try and keep up with you.,"Образцовое усердие, %str1%. У тебя настоящий талант к истреблению призраков. Мои солдаты устроили дружеское соревнование, пытаясь не отставать от тебя."
-"Exemplary work! Truly astounding! You didn't do so bad either. Hah! I kid, of course; you've really helped us make some breakthroughs in the field of chaotic magic. If we could just figure out what the Inquest is doing in that lab, I know we could come up with a solution to the madness they created. But for now, we just need to deal with what's in front of us. Keep up the good work!
-
-—Borpp","Образцовая работа! Поистине поразительно! Впрочем, вы тоже неплохо справились. Ха! Я шучу, конечно; вы действительно помогли нам совершить несколько прорывов в области магии хаоса. Если бы мы только могли понять, что Inquest делает в той лаборатории, я знаю, мы могли бы найти решение безумию, которое они создали. Но пока нам просто нужно разобраться с тем, что перед нами. Продолжайте в том же духе!
-
-—Borpp"
 "Experiment on inactive golems, repair golem control panels, and organize toolboxes along the road and inside nearby labs.","Экспериментируйте на неактивных големах, чините панели управления големами и организуйте ящики с инструментами вдоль дороги и внутри близлежащих лабораторий."
 Exploitation of Peace,Эксплуатация мира
 Explorer Malcom and the Lapatl hylek thank you.,Исследователь Malcom и Hylek из Lapatl благодарят вас.
@@ -529,9 +439,6 @@ For assisting in training: Way to feel the burn!,За помощь в обуче
 "For this ecosystem to flourish, we must prioritize preservation and sustainable hunting practices. Your work here denotes one who sees the value that is innate in your surroundings and those who depend upon it.","Чтобы эта экосистема процветала, мы должны отдавать приоритет сохранению и методам устойчивой охоты. Твоя работа здесь показывает, что ты ценишь то, что заложено в окружающем мире и тех, кто от него зависит."
 Foreman Boslo thanks you!,Мастер Boslo благодарит вас!
 Forged disrupted.,Кованые сорваны.
-"Forgive my suspicion when you first came to us. I should have known to trust the wisdom of our elders, and in Nature's providence. Return to Athloma when you can, and know that you will be among friends when you do.
-—Malor","Прости мои подозрения, когда ты впервые пришёл к нам. Мне следовало довериться мудрости наших старейшин и провидению Природы. Возвращайся к Атломе, когда сможешь, и знай, что среди друзей ты будешь.
-—Малор"
 "Forgive the anonymity, but I know you understand. I wrote only to inform you that Inquest are discombulated in the most bobulated way possible. Thanks to you. —Nobody","Простите за анонимность, но я знаю, что вы поймёте. Я написал лишь для того, чтобы сообщить: Inquest дезориентированы самым невероятным образом. Благодаря вам."
 Fort Salma aided.,Форт Сальма получил помощь.
 Forward Scout Greta thanks you.,Передовой разведчик Greta благодарит вас.
@@ -572,8 +479,3 @@ Gratitude,Благодарность
 Grawl Distraction,Отвлечение grawl
 Great Job,Отличная работа
 Great Work,Отличная работа
-"Great job helping out with the skimmers. Come see us again soon!
-
-—Ardra","Отличная работа с помощью скиммерам. Приходи к нам снова!
-
-—Ardra"

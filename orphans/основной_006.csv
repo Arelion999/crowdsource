@@ -79,9 +79,6 @@ english,translate
 +25 Сила
 +25 Точность
 +25 Защита"
-"+7 Condition Damage
-+5 Vitality","+7 ед. урона от состояний
-+5 к жизненной силе"
 "+7 Healing
 +5 Vitality","+7 исцеления
 +5 жизненной силы"
@@ -741,11 +738,6 @@ Gorila profesional,Профессиональная горилла.
 
 <c=@Flavor>Раньше их активно обменивали в Элоне, но Palawa Joko запретил это. Тем не менее, коллекционеры, учёные и воры по-прежнему ценят эти предметы.</c>"
 "Grants a tiny amount of karma.
-
-<c=@Flavor>Kormir is beloved throughout Tyria, but Elonians who know her history are often proud to have one of their own in the pantheon.</c>","Даёт крошечное количество кармы.
-
-<c=@Flavor>Кормир любима по всей Тирии, но элонцы, знающие её историю, часто гордятся тем, что один из их пантеона — их соотечественник.</c>"
-"Grants a tiny amount of karma.
 <c=@Flavor>Smoky, sweet, and luxurious, this smell will remind you of the desert winds forever.</c>","Даёт крошечное количество кармы.
 <c=@Flavor>Дымный, сладкий и роскошный, этот запах навсегда напомнит вам о пустынных ветрах.</c>"
 "Grants a tiny amount of karma.
@@ -796,23 +788,6 @@ Lion's Arch is all abuzz with tall tales from those alcoves of mystery and villa
 Lion's Arch полнится небылицами о тех укромных обителях тайн и злодейства, что зовутся подземельями. Как твой глашатай, я с нетерпением жду вестей о твоих собственных победах, чтобы их разнести. Место сбора для будущих покорителей подземелий устроено в Форте Марринер, так что прошу — встретимся там!
 
 —Леди Камилла"
-"Greetings,
-
-It's unfortunate I am not contacting you with good news. We have received several reports of Mordrem moving outward from the Heart of Maguuma and appearing in areas around Tyria. It is imperative that we do everything possible to prevent Mordremoth from creating footholds close to our major cities.
-
-I have included information on areas to investigate. Please be wary. We have detected a lot of underground activity in Brisban Wildlands, Kessex Hills, and Diessa Plateau. Gather your friends and do all you can to beat the elder dragon's minions back.
-
-Best of luck,
-
-—Mordrem Researcher Eullo of the Durmand Priory","Приветствую,
-
-Жаль, что обращаюсь к тебе не с добрыми вестями. Мы получили несколько донесений о том, что мордремы движутся прочь от Heart of Maguuma и появляются в разных краях Тирии. Крайне важно сделать всё возможное, чтобы не дать Мордремоту закрепиться близ наших крупных городов.
-
-Я приложил сведения о местах, требующих проверки. Прошу, будь осторожен. Мы обнаружили большую подземную активность в Brisban Wildlands, Kessex Hills и на Плато Дьесса. Собери друзей и сделай всё возможное, чтобы отбросить прислужников Старшего дракона.
-
-Удачи,
-
-—Исследователь мордремов Эулло из Durmand Priory"
 "Greetings,
 
 Our research is progressing well, thanks to the assistance of a certain %str2% (you). We have come close before , but I feel we are on the verge of real breakthrough this time. When our perfume ""Asuralations"" is released, your name shall be credited under ""Other"".
@@ -1000,19 +975,6 @@ Your Herald","Герой,
 "Hey there, Explorer! The Priory has another job for us. A tribe of hylek has been sacrificing its greatest warriors to a dragon minion. They think they're appeasing the beast, but they're actually just giving it more things to make undead. We're going to show them they're only making the enemy stronger. I'm enclosing the hylek village's location. See you there!
 —Magister Sieran","Привет, исследователь! У Приората для нас новое дело. Племя хилеков приносит своих величайших воинов в жертву прислужнику дракона. Они думают, что задабривают тварь, а на деле лишь дают ей больше материала для нежити. Мы покажем им, что они только усиливают врага. Прилагаю расположение деревни хилеков. Увидимся там!
 —Магистр Сиеран"
-"Hi there...again! Look at me, writing another letter. First off, thanks again for helping out at my camp. I'm glad you're such a helpful person, because I need your help again now that you've got a skimmer to help you get around.
-
-I've attached a note to this letter. Take it to Ebele, please. It contains information on Forged and Awakened troop movements. We've used it to keep our food shipments safe. Hopefully, Ebele can use it for her exiles.
-
-We all need to survive out here, and we have common enemies. The more we can do to help each other, the stronger we'll all be.
-
-—Ardra","Привет... снова! Смотри-ка, пишу ещё одно письмо. Во-первых, ещё раз спасибо за помощь в моём лагере. Рада, что ты такой отзывчивый, потому что помощь нужна мне снова — теперь, когда у тебя есть скиммер для передвижения.
-
-К письму приложена записка. Отнеси её, пожалуйста, Эбеле. В ней сведения о передвижениях Кованых и Пробуждённых. Мы пользовались ими, чтобы уберечь поставки еды. Надеюсь, Эбеле пригодится для её изгнанников.
-
-Нам всем надо здесь выжить, и враги у нас общие. Чем больше мы помогаем друг другу, тем сильнее будем все.
-
-—Ардра"
 "Hides the energy of the right Eikasia, Mists-Grasper hand.
 +5 Power
 +9 Agony Resistance","Скрывает энергию правой руки «Эйкасия, Хватающая Туманы».
@@ -1818,9 +1780,6 @@ Restore Water Jets ammo by flying through checkpoints and magic orbs.","Гонк
 "Randomly strike the surrounding area with lightning.
 <c=@reminder>Damage is reduced per target each time foes are struck by this skill.</c>","Случайным образом обрушивайте молнии на окружающую область.
 <c=@reminder>Урон уменьшается для каждой цели при каждом применении этого умения к врагам.</c>"
-"Receive a Free Level-80 Boost<br>
-Buy Now!","Получить бесплатное усиление до 80-го уровня<br>
-Купить сейчас!"
 "Receive one exclusive, one rare, and one uncommon dye selected randomly from one of the seven Elder Dragon-themed dye kits.
 
 <c=#FFC957>All exclusive, rare, and uncommon dyes have an equal chance to drop.</c>","Получите один эксклюзивный, один редкий и один необычная краска, выбранные случайным образом из одного из семи наборов красок на тему Старших Драконов.
@@ -2089,7 +2048,6 @@ Scales from lizard + wings from bird + claws from raptor + Sung = dragon?","Ин
 •Star Shrimp King
 
 •Пылевой клещ?"
-Sprecht mit Paela im Blutstein-Forschungslager.,Поговорите с Паэлой в Лагере исследований Кровавого камня.
 "Sprecht mit der Abtei-Archivarin Hellie bei Sammlersruh, um die Sammlung zu beginnen.","Поговорите с архивариусом аббатства Хелли у Приюта Собирателя, чтобы начать коллекцию."
 "Stats only apply in WvW:
 -10%% Incoming Damage

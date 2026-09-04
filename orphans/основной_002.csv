@@ -1,6 +1,11 @@
 english,translate
 "%str1%%str2%Leichte ""Wahrer Blick""-Stiefel%str3%%str4%","%str1%%str2%Лёгкие сапоги ""Истинного взгляда""%str3%%str4%"
 "%str1%%str2%Schwere ""Wahrer Blick""-Handschuhe%str3%%str4%","%str1%%str2%Schwere ""Wahrer Blick""-Handschuhe%str3%%str4%"
+"%str1%,
+
+The theater productions are moving along swimmingly thanks to you. The troupe members are filled with excitement and enthusiasm, and they're brimming with confidence. This season could see some of our best performances yet. I know I speak for everyone when I say we would love to work with you again.","%str1%,
+
+Благодаря вам работа над театральными постановками идет как по маслу. Члены труппы полны энтузиазма и уверенности в себе, и мы надеемся, что этот сезон станет одним из лучших за всю историю нашего театра. Я думаю, что говорю от имени всех, когда говорю, что мы будем рады снова с вами сотрудничать."
 "%str1%, thanks to your endeavors, the Inquest has lost both precious time and momentum in their ill-conceived research. Even though they outnumber us, we continually prove that brilliance trumps desperation. Keep up the good work.
 
 —Blopp","%str1%, благодаря вашим усилиям Inquest потеряли и драгоценное время, и импульс в своих неудачных исследованиях. Несмотря на то, что их больше, чем нас, мы постоянно доказываем, что блестящий ум побеждает отчаяние. Продолжайте в том же духе.
@@ -521,11 +526,6 @@ Contains a Pristine Fractal Relic, 2 +1 Agony Infusions
 Bonus rewards with the Agony Channeler or Recursive Resourcing mastery.","Дважды щёлкните, чтобы открыть.,
 Содержит Нетронутый фрактальный реликт, 2 инфузии агонии +1
 Бонусные награды с владением «Канал агонии» или «Recursive Resourcing»."
-"Double-click to open.,
-Contains a Pristine Fractal Relic, a +1 Agony Infusion
-Bonus rewards with the Agony Channeler or the Recursive Resourcing mastery.","Дважды щёлкните, чтобы открыть.,
-Содержит нетронутый фрактальный реликт, +1 инфузию агонии
-Дополнительные награды с Каналом агонии или мастерством «Recursive Resourcing»."
 "Double-click to pick a recipe for Spearmarshal Pants. Can be learned by armorsmiths, leatherworkers
 Purchase these recipes from renown merchants in Elona after learning the base recipes from the story.","Дважды щёлкните, чтобы выбрать рецепт штанов Копьёмаршала. Может быть изучен бронниками, кожевниками
 Купите эти рецепты у известных торговцев в Элоне после изучения базовых рецептов из сюжета."
@@ -801,6 +801,11 @@ If the job seems any more complicated than that, just pass it off to the R & D c
 
 Если работа кажется сложнее этого, просто передай её команде R & D и пусть они беспокоятся."
 Fische kommen unter einer fliegenden Basis hervorgeflogen.,Рыбы вылетают из-под летающей базы.
+"Flame Legion needs assistance. Come to the Eye. Ask around how you can help. We'll return the favor when it's time.
+
+—Efram","Flame Legion нужна помощь. Приходите к Оку. Спрашивайте, чем можете помочь. Мы отплатим той же монетой, когда придёт время.
+
+—Эфрам"
 "Gabe[pl:""Gaben""] von Janthir Syntri",Габе фон Джантир Синтри
 "Gabe[pl:""Gaben""] von Unberührter Boden",Габе фон Унберюртртер Боден
 "Gaheron's death has delivered a blow to the Flame Legion, though many of his followers refuse to surrender. Flame Legion factions are now conspiring to unify their forces to assault the beleaguered Pact soldiers who are holding the zealots in check. There are also dark rumors (are there any other kind?) that the Flame Legion is desperate to turn the tide, and when zealots get desperate, they become dangerous.
@@ -1639,6 +1644,7 @@ At your earliest convenience, could you journey to the Labyrinth and report back
 При первой же возможности отправляйся в Лабиринт и сообщи мне обо всём... скажем, необычном. Необычном для призрачного квазиизмерения, разумеется. Ради документации.
 
 —Magister Tassi"
+"Keine Tricks mehr, Scarlet","Хватит увиливать, Скарлет."
 Krumme Kante hat in der Tundra etwas Wertvolles verloren und könnte ein weiteres Paar Augen gebrauchen.,Крумме Канте что-то ценное потерял в тундре и мог бы использовать ещё пару глаз.
 Kräutersprosse,Ростки трав
 "LANGUAGE: Charr trail signs were meant to be used without the benefit of writing tools. Therefore, charr use their own claws; their markings consist of angled scratches.
@@ -2457,6 +2463,23 @@ I will always miss her.","В некоторые дни я терплю умст�
 
 <c=@reminder>Навыки можно изучать на вкладке «Обучение» панели героя, тратя очки героя. </c>"
 "Stats only apply in WvW:
++10%% Outgoing Healing
++100 Healing Power
++70 Concentration
++10%% Karma
++5%% All Experience Gained
++20%% Magic Find
++20%% Gold Find
++10%% WXP Gained","Характеристики действуют только в WvW:
++10%% Исходящее исцеление
++100 Сила исцеления
++70 Концентрация
++10%% Карма
++5%% Весь получаемый опыт
++20%% Поиск магии
++20%% Поиск золота
++10%% Получаемый опыт WvW"
+"Stats only apply in WvW:
 -10%% Incoming Damage
 +30 to All Attributes
 +10%% Karma
@@ -2917,11 +2940,6 @@ Additional copies can be purchased from Visions of Eternity vendors afterward.",
 
 Зарабатывается за выполнение достижения «Мастерство Кораблекрушенного берега».
 Дополнительные копии можно приобрести у торговцев «Visions of Eternity» после этого."
-"Used to gather all plants.
-
-Grants a chance to receive bonus cloth scraps in addition to your gathering results. Material types are determined by your character level and location in the world.","Используется для сбора всех растений.
-
-Даёт шанс получить дополнительные тряпки из ткани в дополнение к результатам сбора. Типы материалов определяются уровнем вашего персонажа и местоположением в мире."
 "Used to gather all plants.
 
 Increases movement speed by 100%% for 5 seconds after gathering completes.","Используется для сбора всех растений.

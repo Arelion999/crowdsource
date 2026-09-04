@@ -146,7 +146,6 @@ english,translate
 —Warmaster Jofast</c>"
 "<c=@flavor>Doppelklicken, um eine accountgebundene Belohnung auszuwählen.</c>","<c=@flavor>Дважды щёлкните, чтобы выбрать привязанную к учётной записи награду.</c>"
 ?Motin!,? Мотин!
-?Ojo!,?Ойо!
 "A device for stabilizing unstable magic rifts.,
 Double-click to equip.","Устройство для стабилизации нестабильных магических разрывов.
 Дважды щёлкните, чтобы экипировать."
@@ -408,6 +407,13 @@ Purchased from the Foothold Bivouac renown heart vendor in Starlit Weald in exch
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>"
 "Combine this weapon in the Mystic Forge with:
+• 1 Gift of The Predator
+• 1 Gift of Mastery
+• 1 Gift of Fortune</c>","Соедините это оружие в Mystic Forge с:
+• 1 Gift of The Predator
+• 1 Gift of Mastery
+• 1 Gift of Fortune</c>"
+"Combine this weapon in the Mystic Forge with:
 • 1 Gift of Twilight
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>","Соедините это оружие в Mystic Forge с:
@@ -549,6 +555,9 @@ Choose a first-generation weapon, trinket
 Double-click to open.","Дважды щёлкните, чтобы открыть.,
 Выберите оружие первого поколения, аксессуар
 Дважды щёлкните, чтобы открыть."
+"Double-click to open.,
+Choose a second-generation weapon or an alternative legendary item to be placed in your Legendary Armory.","Дважды щёлкните, чтобы открыть.
+Выберите оружие второго поколения или альтернативный легендарный предмет для размещения в вашем Легендарном арсенале."""""
 "Double-click to open.,
 Contains 100 assorted totems, scales
 Double-click to open.","Дважды щёлкните, чтобы открыть.,
@@ -1394,7 +1403,6 @@ Handwerksstufen erreichen I,Достижение уровней мастерст
 This plaque was placed by the Ministry of Archives to improve education efforts following the collapse of the Ministry of Purity.","Хануку когда-то защищал глубины моря у Окончания Дракона. Традиция Луксов продолжает чтить зверя каждый год во время Созыва.
 
 Эта табличка была установлена Министерством Архивов для улучшения образовательных усилий после краха Ministry of Purity."
-Heilung,Исцеление
 "Helft einem Kodan-Jäger im Schroffen Oberland, eine Kriegsklaue aufzuspüren.",Помогите охотнику-кодану в Суровых нагорьях выследить боевую лапу.
 "Hello!
 
@@ -2252,11 +2260,6 @@ Mazmorras descubiertas,Открытые подземелья
 Yeah, I'm doing that anyway.","Мехди, убери руки от моих вещей, или я буду преследовать тебя до чертиков. Возможно, я сделаю это в любом случае. 
 
 Да, я все равно это делаю."
-"Mine %num2% ore with a mining pick from resource nodes in Dredgehaunt Cliffs, Harathi Hinterlands, or Blazeridge Steppes.
-
-<c=@reminder>Resource nodes are clumps of ore, saplings, and plants that can be gathered using gathering tools. Nodes can be found by exploring the world.</c>","Добывайте %num2% руду с помощью кирки на ресурсных точках в Dredgehaunt Cliffs, Харатийских Загорьях или Равнинах Блейзерридж.
-
-<c=@reminder>Ресурсные точки — это скопления руды, саженцы и растения, которые можно собирать с помощью инструментов для сбора ресурсов. Точки можно найти, исследуя мир.</c>"
 "Mmm. Fish. You could really go for some fish right about now.
 
 What is right, actually? Is it opposite of left? Or is it complementary?
@@ -2334,6 +2337,21 @@ I am terrified. But I am determined to serve the ward to the best of my ability.
 Мне страшно. Но я полна решимости служить страже как только смогу.
 
 —Оперативница Селли"
+"My name is Erik Mathison. I'm writing to you with an offer that may prove quite lucrative for you.
+
+Years ago, my ancestor Olaf Olafson locked our family's valuables away inside a vault at an unknown location. He secured them with a sword he had enchanted as a key. Unfortunately, the sword has since fallen out of my family's possession. And this where you come in, Commander.
+
+If you can help me locate my family's lost heirlooms, I'll repay you with a portion of our treasure. Though I must warn you, several uncommissioned ""treasure hunters"" (or no-good looters, as I like to call them) have taken it upon themselves to try and steal our valuables. Whatever you do, don't let them get their grubby hands on my family's belongings!
+
+Best of luck in your search,
+Erik","Меня зовут Эрик Мэтисон. Я пишу вам с предложением, которое может оказаться весьма прибыльным для вас.
+
+Много лет назад мой предок Олаф Олафсон запер семейные ценности в хранилище в неизвестном месте. Он защитил их мечом, который зачаровал как ключ. К сожалению, с тех пор меч выпал из владения моей семьи. И вот тут вступаете вы, Командир.
+
+Если вы поможете мне найти утерянные семейные реликвии, я отплачу вам частью нашего сокровища. Но должен предупредить: несколько нелицензированных «охотников за сокровищами» (или никчёмных мародёров, как я их называю) взяли на себя смелость попытаться украсть наши ценности. Что бы вы ни делали, не позволяйте их грязным рукам добраться до имущества моей семьи!
+
+Удачи в поисках,
+Эрик"
 Métamorphose de nodule de lapis,Метаморфоза лазуритового узла
 "Name: Ceara
 Student Status: Former
@@ -2420,6 +2438,27 @@ Build 30 stacks to gain increased magic find, bonus rewards, and a 75%% chance t
 "Obtained from druids in exchange for druid stones.
 This item only has value as part of a collection.","Получено от друидов в обмен на камни друидов.
 Этот предмет имеет ценность только как часть коллекции."
+"On behalf of Queen Jennah of Kryta, and the Captain's Council of Lion's Arch, you are cordially invited to participate in the return of the Festival of the Four Winds!
+
+High atop the Labyrinthine Cliffs, our Zephyrite friends have been working in tandem with Lion's Arch to host an incredible variety of fun vendors and events to entertain visitors from all across Tyria. This celebration of unity and peace between our cultures is more important than ever before, and we hope that you will join us in the festivities.
+
+In this spirit of cooperation, Queen Jennah has personally overseen the reopening of the Crown Pavilion, featuring a variety of challenges both new and old for Tyria's finest to test their mettle!
+
+Transportation to the festivities couldn't be easier! Special hot air balloons are now stationed in each nation's capital city. Visitors can also sail directly from the ship from Lion's Arch.
+
+We look forward to seeing you at the festival!
+
+— Captain Ellen Kiel","От имени королевы Дженны Крийской и Капитанского совета Lion's Arch вы сердечно приглашены принять участие в возвращении Фестиваля Четырёх Ветров!
+
+Высоко на Лабиринтовых Утёсах наши друзья-зефириты работают совместно с Lion's Arch, чтобы организовать невероятное разнообразие весёлых торговцев и событий для развлечения гостей со всей Тирии. Это празднование единства и мира между нашими культурами сейчас важнее, чем когда-либо, и мы надеемся, что вы присоединитесь к нам на празднике.
+
+В духе сотрудничества Queen Jennah лично курировала открытие Коронного Павильона, где представлены разнообразные испытания, как новые, так и старые, чтобы лучшие из Тирии могли проверить свою доблесть!
+
+Добраться до праздника проще простого! Специальные воздушные шары теперь находятся в столицах каждой нации. Посетители также могут отправиться прямо на корабле из Lion's Arch.
+
+С нетерпением ждём встречи с вами на фестивале!
+
+— Капитан Эллен Кил"
 "One wrong move and this will crumble to pieces.,
 This item only has value as part of the Missing Brood collection.","Одно неверное движение — и это рассыплется на кусочки.,
 Этот предмет имеет ценность только как часть коллекции «Missing Brood»."
@@ -3435,9 +3474,6 @@ Grants a chance to receive bonus cloth scraps in addition to your gathering resu
 <c=@Reminder>This item can be exchanged for an updated version at the Black Lion Exchange Specialist.</c>","Используется для вырубки всех саженцев. Даёт несвязанную магию с каждым ударом в дополнение к результатам рубки. Неограниченное использование.
 
 <c=@Reminder>Этот предмет можно обменять на обновлённую версию у специалиста по обмену в «Black Lion».</c>"
-"Used to chop down all saplings. Rewards unbound magic on each swing in addition to logging results. Unlimited use.,
-<c=@Reminder>This item can be exchanged for an updated version at the Black Lion Exchange Specialist.</c>","Используется для вырубки всех саженцев. Даёт несвязанную магию с каждым ударом в дополнение к результатам рубки. Неограниченное использование.,
-<c=@Reminder>Этот предмет можно обменять на обновлённую версию у специалиста по обмену «Black Lion».</c>"
 "Used to craft the legendary greatsword precursor Exitare.
 Combine in the Mystic Forge with Mystic Runestones, a Gift of Metal, and a Gift of the Mists to create the Gift of Exordium.","Используется для создания предшественника легендарного двуручного меча «Exitare».
 Соедините в Mystic Forge с Мистическими рунами, Даром металла и Даром Туманов, чтобы создать Дар Экзордиума."

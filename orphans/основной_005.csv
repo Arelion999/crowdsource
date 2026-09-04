@@ -34,6 +34,9 @@ english,translate
 "+600 Power
 +300 Precision","+600 силы
 +300 точности"
+"+7 Condition Damage
++5 Vitality","+7 ед. урона от состояний
++5 к жизненной силе"
 "-10%% Incoming Damage
 +35 to All Attributes
 +10%% Karma
@@ -376,13 +379,6 @@ Combine in the Mystic Forge with 3 Salvaged Dredge Backpacks to create a Salvage
 • 1 Gift of The Bifrost
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>"
-"Combine this weapon in the Mystic Forge with:
-• 1 Gift of The Predator
-• 1 Gift of Mastery
-• 1 Gift of Fortune</c>","Соедините это оружие в Mystic Forge с:
-• 1 Gift of The Predator
-• 1 Gift of Mastery
-• 1 Gift of Fortune</c>"
 "Commander,
 
 An urgent matter has arisen that requires your attention. Go to the parade grounds just north of the Hero's Forum. I'll meet you there.
@@ -488,9 +484,6 @@ Grants a 33%% chance to reward bonus cloth scraps while gathering, in addition t
 "Double-click to gain a hero point.,
 'The stench of this is almost unbearable. One gulp and you''ll understand why Ert is so green and angry all the time.'","Дважды щёлкните, чтобы получить очко героя.
 'Запах этого почти невыносим. Один глоток, и вы поймёте, почему Эрт такой зелёный и всё время злится.'"
-"Double-click to open.,
-Choose a second-generation weapon or an alternative legendary item to be placed in your Legendary Armory.","Дважды щёлкните, чтобы открыть.
-Выберите оружие второго поколения или альтернативный легендарный предмет для размещения в вашем Легендарном арсенале."""""
 "Double-click to open.,
 Choose from a subset of first-generation weapons or backpieces to be placed in your legendary armory.","Дважды щёлкните, чтобы открыть.,
 Выберите из набора оружия первого поколения или наплечных сумок, чтобы поместить их в вашу легендарную оружейную."
@@ -955,6 +948,11 @@ We appreciate your patience. And remember that your longevity is assured by Saul
 <c=@Flavor>You may not be the world's foremost historian, but you are confident that Joko did not, in fact, force the Elder Dragons to submit to him.</c>","Даёт небольшое количество кармы.
 <c=@Flavor>Возможно, вы не величайший историк мира, но вы уверены, что Джоко на самом деле не заставлял Старших Драконов подчиняться ему.</c>"
 "Grants a tiny amount of karma.
+
+<c=@Flavor>Kormir is beloved throughout Tyria, but Elonians who know her history are often proud to have one of their own in the pantheon.</c>","Даёт крошечное количество кармы.
+
+<c=@Flavor>Кормир любима по всей Тирии, но элонцы, знающие её историю, часто гордятся тем, что один из их пантеона — их соотечественник.</c>"
+"Grants a tiny amount of karma.
 <c=@Flavor>These badges are given by Cavaliers to deputize trustworthy allies. Now you've got a gold star, too!</c>","Даёт крошечное количество кармы.
 <c=@Flavor>Эти значки выдаются кавалерами, чтобы уполномочить доверенных союзников. Теперь и у тебя есть золотая звезда!</c>"
 "Grants both Experience Booster and Item Booster benefits for 2 hours, including:
@@ -1023,6 +1021,23 @@ May your mug be ever full,
 
 Да будет ваша кружка всегда полна,
 —Орден Ом"
+"Greetings,
+
+It's unfortunate I am not contacting you with good news. We have received several reports of Mordrem moving outward from the Heart of Maguuma and appearing in areas around Tyria. It is imperative that we do everything possible to prevent Mordremoth from creating footholds close to our major cities.
+
+I have included information on areas to investigate. Please be wary. We have detected a lot of underground activity in Brisban Wildlands, Kessex Hills, and Diessa Plateau. Gather your friends and do all you can to beat the elder dragon's minions back.
+
+Best of luck,
+
+—Mordrem Researcher Eullo of the Durmand Priory","Приветствую,
+
+Жаль, что обращаюсь к тебе не с добрыми вестями. Мы получили несколько донесений о том, что мордремы движутся прочь от Heart of Maguuma и появляются в разных краях Тирии. Крайне важно сделать всё возможное, чтобы не дать Мордремоту закрепиться близ наших крупных городов.
+
+Я приложил сведения о местах, требующих проверки. Прошу, будь осторожен. Мы обнаружили большую подземную активность в Brisban Wildlands, Kessex Hills и на Плато Дьесса. Собери друзей и сделай всё возможное, чтобы отбросить прислужников Старшего дракона.
+
+Удачи,
+
+—Исследователь мордремов Эулло из Durmand Priory"
 "Greetings,
 
 My records indicate you are one of the recent recipients of the title ""God Walking Amongst Mere Mortals.""  
@@ -1340,6 +1355,19 @@ Rama","Эй, командир,
 
 Надеюсь, скоро увидимся,
 Рама"
+"Hi there...again! Look at me, writing another letter. First off, thanks again for helping out at my camp. I'm glad you're such a helpful person, because I need your help again now that you've got a skimmer to help you get around.
+
+I've attached a note to this letter. Take it to Ebele, please. It contains information on Forged and Awakened troop movements. We've used it to keep our food shipments safe. Hopefully, Ebele can use it for her exiles.
+
+We all need to survive out here, and we have common enemies. The more we can do to help each other, the stronger we'll all be.
+
+—Ardra","Привет... снова! Смотри-ка, пишу ещё одно письмо. Во-первых, ещё раз спасибо за помощь в моём лагере. Рада, что ты такой отзывчивый, потому что помощь нужна мне снова — теперь, когда у тебя есть скиммер для передвижения.
+
+К письму приложена записка. Отнеси её, пожалуйста, Эбеле. В ней сведения о передвижениях Кованых и Пробуждённых. Мы пользовались ими, чтобы уберечь поставки еды. Надеюсь, Эбеле пригодится для её изгнанников.
+
+Нам всем надо здесь выжить, и враги у нас общие. Чем больше мы помогаем друг другу, тем сильнее будем все.
+
+—Ардра"
 "Hides the energy of the left Eikasia, Mists-Grasper hand.
 +5 Power
 +9 Agony Resistance","Скрывает энергию левой руки «Эйкасия, Хватающая Туманы».
@@ -2335,21 +2363,6 @@ I love you, Ai. You and Lan are my world.
 Я люблю тебя, Ай. Ты и Лан — мой мир.
 
 —Б"
-"My name is Erik Mathison. I'm writing to you with an offer that may prove quite lucrative for you.
-
-Years ago, my ancestor Olaf Olafson locked our family's valuables away inside a vault at an unknown location. He secured them with a sword he had enchanted as a key. Unfortunately, the sword has since fallen out of my family's possession. And this where you come in, Commander.
-
-If you can help me locate my family's lost heirlooms, I'll repay you with a portion of our treasure. Though I must warn you, several uncommissioned ""treasure hunters"" (or no-good looters, as I like to call them) have taken it upon themselves to try and steal our valuables. Whatever you do, don't let them get their grubby hands on my family's belongings!
-
-Best of luck in your search,
-Erik","Меня зовут Эрик Мэтисон. Я пишу вам с предложением, которое может оказаться весьма прибыльным для вас.
-
-Много лет назад мой предок Олаф Олафсон запер семейные ценности в хранилище в неизвестном месте. Он защитил их мечом, который зачаровал как ключ. К сожалению, с тех пор меч выпал из владения моей семьи. И вот тут вступаете вы, Командир.
-
-Если вы поможете мне найти утерянные семейные реликвии, я отплачу вам частью нашего сокровища. Но должен предупредить: несколько нелицензированных «охотников за сокровищами» (или никчёмных мародёров, как я их называю) взяли на себя смелость попытаться украсть наши ценности. Что бы вы ни делали, не позволяйте их грязным рукам добраться до имущества моей семьи!
-
-Удачи в поисках,
-Эрик"
 "My sources report that your actions at Malxa Pyronetics have stalled the Inquest's weapons development program by several months. The leaders at the Infinite Coil Reactor are furious with Malxa's new testing projections and are demanding answers. Your efforts in this endeavor are much appreciated.
 
 —Lightbringer Krentch","Мои источники доносят, что твои действия в «Малкса Пиронетикс» затормозили программу разработки оружия Инквеста на несколько месяцев. Руководство Реактора Бесконечного Кольца в бешенстве от новых сроков испытаний Малксы и требует ответов. Твои усилия в этом деле весьма ценны.
@@ -2429,27 +2442,6 @@ Please contact Hei Ryung in the Press Office for more information.","Офице�
 Отдел по связям с общественностью Министерства безопасности ищет добровольцев для продвижения МинБеза как безопасного и разнообразного рабочего места.
 
 Пожалуйста, свяжитесь с Хей Рюнг в пресс-службе для получения дополнительной информации."
-"On behalf of Queen Jennah of Kryta, and the Captain's Council of Lion's Arch, you are cordially invited to participate in the return of the Festival of the Four Winds!
-
-High atop the Labyrinthine Cliffs, our Zephyrite friends have been working in tandem with Lion's Arch to host an incredible variety of fun vendors and events to entertain visitors from all across Tyria. This celebration of unity and peace between our cultures is more important than ever before, and we hope that you will join us in the festivities.
-
-In this spirit of cooperation, Queen Jennah has personally overseen the reopening of the Crown Pavilion, featuring a variety of challenges both new and old for Tyria's finest to test their mettle!
-
-Transportation to the festivities couldn't be easier! Special hot air balloons are now stationed in each nation's capital city. Visitors can also sail directly from the ship from Lion's Arch.
-
-We look forward to seeing you at the festival!
-
-— Captain Ellen Kiel","От имени королевы Дженны Крийской и Капитанского совета Lion's Arch вы сердечно приглашены принять участие в возвращении Фестиваля Четырёх Ветров!
-
-Высоко на Лабиринтовых Утёсах наши друзья-зефириты работают совместно с Lion's Arch, чтобы организовать невероятное разнообразие весёлых торговцев и событий для развлечения гостей со всей Тирии. Это празднование единства и мира между нашими культурами сейчас важнее, чем когда-либо, и мы надеемся, что вы присоединитесь к нам на празднике.
-
-В духе сотрудничества Queen Jennah лично курировала открытие Коронного Павильона, где представлены разнообразные испытания, как новые, так и старые, чтобы лучшие из Тирии могли проверить свою доблесть!
-
-Добраться до праздника проще простого! Специальные воздушные шары теперь находятся в столицах каждой нации. Посетители также могут отправиться прямо на корабле из Lion's Arch.
-
-С нетерпением ждём встречи с вами на фестивале!
-
-— Капитан Эллен Кил"
 Onglet de ramassage,Вкладка подбора
 "Open to choose a new weapon skin to unlock for your account.,
 <c=@Flavor>A gift from an unknown friend across the seas, in hopes that you will be a useful ally.</c>","Откройте, чтобы выбрать новый облик оружия для разблокировки на своей учётной записи.,
@@ -2608,6 +2600,9 @@ For now, we fortify. Come winter, we'll have one more belly to keep full. A smal
 Мы с Сеймом готовимся отправиться далеко на север, в Салдистед, как только наступит весна; буря сейчас слишком сильна, чтобы переходить её (и, что важнее, я бы предпочла не встречаться с теми тварями, дрожа от холода). Они отдалились от нас, наши люди. Нут беспокоится, что они натворят в изоляции.
   
 А пока мы укрепляемся. К зиме у нас будет ещё один рот, который нужно кормить. Поменьше, но дичь здесь, по эту сторону Ледяных пиков, всё равно не так обильна. Мы все скучаем по Хельбрэку."
+"Receive a Free Level-80 Boost<br>
+Buy Now!","Получить бесплатное усиление до 80-го уровня<br>
+Купить сейчас!"
 "Receive at least 5 research notes, most of the time.
 
 <c=#Flavor>Imagine making an item just to destroy it. Just give it to me!</c>","Получайте не менее 5 исследовательских заметок большую часть времени.
@@ -2870,6 +2865,7 @@ Sombra campeona,Сомбра — чемпионка.
 Spieler-Kamerawackeln deaktivieren,Отключить тряску камеры игрока.
 Sprechen Stiller Wasser,Говорить тихой воды
 Sprecht mit Crecia,Поговорите с Крецией.
+Sprecht mit Paela im Blutstein-Forschungslager.,Поговорите с Паэлой в Лагере исследований Кровавого камня.
 "Stats only apply in WvW:
 +10%% Outgoing Healing
 +80 Healing Power

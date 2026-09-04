@@ -1,9 +1,4 @@
 english,translate
-"%str1%,
-
-The theater productions are moving along swimmingly thanks to you. The troupe members are filled with excitement and enthusiasm, and they're brimming with confidence. This season could see some of our best performances yet. I know I speak for everyone when I say we would love to work with you again.","%str1%,
-
-Благодаря вам работа над театральными постановками идет как по маслу. Члены труппы полны энтузиазма и уверенности в себе, и мы надеемся, что этот сезон станет одним из лучших за всю историю нашего театра. Я думаю, что говорю от имени всех, когда говорю, что мы будем рады снова с вами сотрудничать."
 "+150 Fishing Power
 +30 Condition Damage
 +10%% Karma
@@ -201,6 +196,7 @@ Double-click to open.","<c=@flavor>Прилагаемая записка гла�
 ?Croac!,?Кроак!
 ?Enciendela!,? Энсиендела!
 ?Genial!,? Гениально!
+?Ojo!,?Ойо!
 ?Protesto!,?Протесто!
 ?Taxi!,?Такси!
 "A homestead recipe needed to craft a Statue of Joko the Fearsome.
@@ -838,11 +834,6 @@ Findet Blutstein-Geister im Schlittergürtel.,Findet Blutstein-Geister im Schlit
 "Fire a row of arrows equipped with a device that envelops an area with chronal magic on impact, stunning enemies and applying superspeed to allies.<br>
 <c=@abilitytype>Chain Reaction.</c> The next short-bow skill in the radius will daze enemies hit.","Выпускает ряд стрел, оснащённых устройством, которое при ударе окутывает область хрональной магией, оглушая врагов и накладывая сверхскорость на союзников.<br>
 <c=@abilitytype>Цепная реакция.</c> Следующее умение короткого лука в радиусе оглушит поражённых врагов."
-"Flame Legion needs assistance. Come to the Eye. Ask around how you can help. We'll return the favor when it's time.
-
-—Efram","Flame Legion нужна помощь. Приходите к Оку. Спрашивайте, чем можете помочь. Мы отплатим той же монетой, когда придёт время.
-
-—Эфрам"
 "Following our victories on Dragonfall, Grand Warmaster Laranthir has submitted a request for a temporary leave of absence so he may return to the Grove.
 
 It is my personal recommendation that he be granted this request, and he be allowed to return to Vigil duties at his discretion.
@@ -1520,6 +1511,7 @@ Before the Unseen could act, the duchess exposed them with the full power of the
 Неизвестно большинству, герцогиня владела реликвией, украденной из Орра в начале Третьей Войны Гильдий. Пелена Ильи, элегантная, но в остальном ничем не примечательная маска-домино, по слухам, пронзала завесу реальности, позволяя видеть вещи, обычно невидимые смертным глазом. Её пассивная магия позволяла носителю воспринимать вещи, скрытые иллюзией или существующие вне фазы с собственно Тирией, так, как если бы они были там в обычном состоянии. Если носитель активно черпал из колодца силы Пелены, он мог открыть эти вещи окружающим в определенном пространстве и на короткое время.  
   
 Прежде чем Невидимые успели действовать, герцогиня раскрыла их, используя полную силу Пелены. Говорили, что мурсааты атаковали мощной магией, убив советников короля и королевскую стражу за секунды. Аделаида и её спутники пришли на защиту короля с комбинированными заклинаниями обратной связи, эвакуируя Его Королевское Высочество через секретные коридоры по его указанию."
+Heilung,Исцеление
 Heims..欠琀絟骬∖ w汯椀rs塮✛俙ll慨gr﫤e圙戻᪞疠擎懟鸫唀鯋◾顪뎗⡦욕Ｂ囈,Heims...欠琀絟骬∖ w汯椀rs塮✛俙ll慨gr﫤e圙戻᪞疠擎懟鸫唀鯋◾顪뎗⡦욕Ｂ囈
 "Helft einem Kodan-Jäger im Fließenden Oberland, ein Rentier aufzuspüren.",Помогите охотнику-кодану в Текучих нагорьях выследить оленя.
 "Hello to Lion's Arch, and to all my supporters. You're in a league all your own. The Ship's Council has awarded me the seat, and I'm ready to get to the business of making us all a little richer. Here's how.
@@ -2092,7 +2084,6 @@ Jäger-Hochebene,Плато Егера
 When she arose from the floor, she was swallowed by the stars. She took her place in the land of the Celestials quickly. Silently.","Кайджун преклонила колени перед телами. Ритуал был завершён; каждый, кто когда-либо причинил ей вред, встретил быструю ядовитую смерть. Она положила нож на землю и закрыла глаза. Впервые за долгие годы после того происшествия она улыбнулась. Она улыбнулась жизни, которой когда-то жила, душам, которым помогала. Но та девушка исчезла, поглощённая годами пыток и жестокости.
 
 Когда она поднялась с пола, её поглотили звёзды. Она быстро и бесшумно заняла своё место в земле Небесных."
-"Keine Tricks mehr, Scarlet","Хватит увиливать, Скарлет."
 "Knut writes with dire news of the north, and our latest arrivals only spell misery for what may be afoot at Saldistead. Fear lingers in their eyes, but none wish to speak of what's happened. They barely speak at all. Children without parents. Wolves scared and shaking. Ragna is too burdened with a great, unknowable sadness to rise and speak with them, and I fear that as a former priestess of Wolf she's the only one capable. For now, they linger at our fires and eat our food. Knut will send rations when he's able, but we're all uncomfortable. My wife is miserable.    
   
 Sejm tells me that Wurm calls us north; I have not heard this call. I haven't heard Wurm since the snow was deep enough to cover my boots. As soon as the refugees have settled, I expect we'll be traveling before spring after all. I fear what we may find.","Кнут пишет о тревожных новостях с севера, и наши последние прибывшие не сулят ничего хорошего тому, что может твориться у Салдистеда. Страх застыл в их глазах, но никто не хочет говорить о случившемся. Они вообще едва разговаривают. Дети без родителей. Волки, напуганные и дрожащие. Рагна слишком отягощена великой, непознаваемой печалью, чтобы подняться и поговорить с ними, и я боюсь, что как бывшая жрица Волка она единственная, кто на это способен. Пока они греются у наших костров и едят нашу еду. Кнут пришлёт припасы, когда сможет, но всем нам не по себе. Моя жена несчастна.    
@@ -2307,6 +2298,11 @@ If you can find it in your heart, we return here each day and will continue to n
 
 —Priestess Karima"
 Medidas desesperadas,Отчаянные меры
+"Mine %num2% ore with a mining pick from resource nodes in Dredgehaunt Cliffs, Harathi Hinterlands, or Blazeridge Steppes.
+
+<c=@reminder>Resource nodes are clumps of ore, saplings, and plants that can be gathered using gathering tools. Nodes can be found by exploring the world.</c>","Добывайте %num2% руду с помощью кирки на ресурсных точках в Dredgehaunt Cliffs, Харатийских Загорьях или Равнинах Блейзерридж.
+
+<c=@reminder>Ресурсные точки — это скопления руды, саженцы и растения, которые можно собирать с помощью инструментов для сбора ресурсов. Точки можно найти, исследуя мир.</c>"
 "Mini ""Weißer Kuckuck""-Junges[pl:""Junge""]",Миниатюрный птенец «Белый Кукушка»[птенец|птенцы|птенята]
 Monde contre Monde (McM),Мир против Мира (МпМ)
 Monter d'une octave,Подняться на октаву
@@ -2901,23 +2897,6 @@ Minis are tiny models of creatures from around the world. They can be collected 
 Sprecht mit Trockenwiese im Schwärenden Becken.,Поговорите с Сухостепью в Гноящемся Бассейне.
 Statisch-dynamische Synergie,Статико-динамическая синергия
 "Stats only apply in WvW:
-+10%% Outgoing Healing
-+100 Healing Power
-+70 Concentration
-+10%% Karma
-+5%% All Experience Gained
-+20%% Magic Find
-+20%% Gold Find
-+10%% WXP Gained","Характеристики действуют только в WvW:
-+10%% Исходящее исцеление
-+100 Сила исцеления
-+70 Концентрация
-+10%% Карма
-+5%% Весь получаемый опыт
-+20%% Поиск магии
-+20%% Поиск золота
-+10%% Получаемый опыт WvW"
-"Stats only apply in WvW:
 +150 Toughness","Характеристики действуют только в WvW:
 +150 к стойкости"
 "Steal health and gain shadow force when you torment a foe.<br>
@@ -3278,6 +3257,9 @@ Replaces gathering results with logs used in higher-level crafting recipes. Mate
 Rewards unbound magic on each swing in addition to logging results.","Используется для вырубки всех саженцев.
 
 Даёт несвязанную магию каждым взмахом в дополнение к результатам заготовки древесины."
+"Used to chop down all saplings. Rewards unbound magic on each swing in addition to logging results. Unlimited use.,
+<c=@Reminder>This item can be exchanged for an updated version at the Black Lion Exchange Specialist.</c>","Используется для вырубки всех саженцев. Даёт несвязанную магию с каждым ударом в дополнение к результатам рубки. Неограниченное использование.,
+<c=@Reminder>Этот предмет можно обменять на обновлённую версию у специалиста по обмену «Black Lion».</c>"
 "Used to craft the legendary focus precursor Ars Goetia.
 Combine in the Mystic Forge with Mystic Runestones, a Gift of Energy, and a Gift of the Mists to create the Gift of Ipos.","Используется для создания прецедента легендарного фокуса Арс Гоэтия.
 Совместите в Mystic Forge с Мистическими Рунными Камнями, Подарком энергии и Подарком Туманов, чтобы создать подарок Ипоса."
