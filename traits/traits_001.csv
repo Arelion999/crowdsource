@@ -30,7 +30,7 @@ english,translate
 <c=@abilitytype>Conditions to Boons Over 100%% Heat</c>,<c=@abilitytype>Состояния в благословения более 100%% Тепло</c>
 <c=@abilitytype>Conditions to Boons Over 50%% Heat</c>,<c=@abilitytype>Состояния в благословения более 50%% Тепло</c>
 <c=@abilitytype>Consecrations</c> gain increased duration.,<c=@abilitytype>Освящения</c> действуют дольше.
-<c=@abilitytype>Dual Attack</c> skills weaken enemies. Attacks against weakened foes have increased critical chance.,Навыки <c=@abilitytype>двойной атаки</c> ослабляют врагов. Атаки по ослабленным врагам имеют повышенный шанс критического удара.
+<c=@abilitytype>Dual Attack</c> skills weaken enemies. Attacks against weakened foes have increased critical chance.,Навыки <c=@abilitytype>Dual Attack</c> ослабляют врагов. Атаки по ослабленным врагам имеют повышенный шанс критического удара.
 <c=@abilitytype>Elixirs</c> gain increased durations and grant might.,<c=@abilitytype>Эликсиры</c> Эликсиры длятся дольше и даруют мощь.
 <c=@abilitytype>Explosions</c> cause vulnerability.,<c=@abilitytype>Взрывы</c> Взрывы вызывают уязвимость.
 <c=@abilitytype>Explosions</c> grant stacking ferocity when they hit.,<c=@abilitytype>Взрывы</c> Взрывы даруют вам стеки Жестокости при попадании.
@@ -42,7 +42,7 @@ english,translate
 <c=@abilitytype>Invoke Torment</c> transfers conditions from you onto foes.,<c=@abilitytype>Призыв боли</c> переносит состояния с вас на врагов.
 "<c=@abilitytype>Legendary Alliance</c> abilities gain an additional bonus. Activating Energy Meld or Alliance Tactics grants both of these bonuses simultaneously at greater amounts to nearby allies.
 Kurzick abilities grant regeneration.
-Luxon abilities grant might.","<c=@abilitytype>Легендарный Альянс.</c> Способности получают дополнительный бонус. Активация «Слияния энергии» или «Тактики Альянса» даёт оба бонуса одновременно в большем объёме ближайшим союзникам.
+Luxon abilities grant might.","<c=@abilitytype>Legendary Alliance.</c> Способности получают дополнительный бонус. Активация «Слияния энергии» или «Тактики Альянса» даёт оба бонуса одновременно в большем объёме ближайшим союзникам.
 Способности Kurzick дают регенерацию.
 Способности Luxon дают мощь."
 "<c=@abilitytype>Legendary Centaur.</c> Collect energy, pulling it into the tablet to build up its power. After a short delay the energy will be released, healing nearby allies.","<c=@abilitytype>Легендарный Кентавр.</c> Собирайте энергию, притягивая её в планшет, чтобы накопить мощь. После небольшой задержки энергия высвободится, исцеляя ближайших союзников."

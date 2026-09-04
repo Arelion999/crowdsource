@@ -17,7 +17,7 @@ Unlocked %num1%/%num2% Crimson Dragon Slayer Weapon Skins,Разблокиров
 Unlocked %num1%/%num2% Daydreamer's Weapon Skins,Разблокировано %num1%/%num2% обликов оружия «Мечтатель»
 Unlocked %num1%/%num2% Destroyer Weapon Skins,Разблокировано %num1%/%num2% обликов оружия разрушителей
 Unlocked %num1%/%num2% Dominion Tribune Weapon Skins,Разблокировано %num1%/%num2% обликов оружия трибуна Доминиона
-Unlocked %num1%/%num2% Doors in Derelict Delve,Открыто %num1%/%num2% дверей в Заброшенной Шахте
+Unlocked %num1%/%num2% Doors in Derelict Delve,Открыто %num1%/%num2% дверей в Derelict Delve
 Unlocked %num1%/%num2% Dragon Slayer Weapon Skins,Разблокировано %num1%/%num2% обликов оружия убийцы драконов
 Unlocked %num1%/%num2% Enemy Supply Caches,Вскрыто %num1%/%num2% вражеских тайников с припасами
 Unlocked %num1%/%num2% Exotic Armor Skins,Разблокировано %num1%/%num2% обликов экзотической брони
@@ -138,7 +138,7 @@ Use one of each of these %num2% utility boost items.,Используйте по
 Use repair kits to repair the barricades.,Чините баррикады ремонтными наборами.
 "Use stolen skills twice. Reduce the cooldown of all equipped utility skills when you steal. If you are a Specter, gain additional shadow force while using Siphon on an enemy. <br><c=@reminder>Cooldown effect will only trigger if all utility slots are filled and if at least one of your active utility skills is on cooldown. Does not affect inactive sequence skills.</c>","Украденные умения применяются дважды. Кража сокращает перезарядку всех установленных вспомогательных умений. Если вы Спектр, применение «Откачки» к врагу даёт дополнительную силу тени. <br><c=@reminder>Эффект перезарядки срабатывает, только если заняты все вспомогательные слоты и хотя бы одно из активных вспомогательных умений перезаряжается. Не влияет на неактивные умения последовательности.</c>"
 Use stolen skills twice. Reduce the cooldown of all equipped utility skills when you steal.<br><c=@reminder>Cooldown effect will only trigger if all utility slots are filled and if at least one of your active utility skills is on cooldown. Does not affect inactive sequence skills.</c>,"Украденные умения применяются дважды. Кража сокращает перезарядку всех установленных вспомогательных умений.<br><c=@reminder>Эффект перезарядки срабатывает, только если заняты все вспомогательные слоты и хотя бы одно из активных вспомогательных умений перезаряжается. Не влияет на неактивные умения последовательности.</c>"
-Use tales of dungeon delving from Caudecus's Manor to unlock all %num2% weapon and armor skins in your wardrobe.,"Используйте сказания о походах в подземелья из «Поместья Кодекуса», чтобы разблокировать все %num2% обликов оружия и брони в своём гардеробе."
+Use tales of dungeon delving from Caudecus's Manor to unlock all %num2% weapon and armor skins in your wardrobe.,"Используйте сказания о походах в подземелья из «Caudecus's Manor», чтобы разблокировать все %num2% обликов оружия и брони в своём гардеробе."
 Use tales of dungeon delving from Citadel of Flame to unlock all %num2% weapon and armor skins in your wardrobe.,"Используйте сказания о походах в подземелья из «Цитадели Пламени», чтобы разблокировать все %num2% обликов оружия и брони в своём гардеробе."
 Use tales of dungeon delving from the Ruined City Arah to unlock all %num2% weapon and armor skins in your wardrobe.,"Используйте сказания о походах в подземелья из «Разрушенного города Ара», чтобы разблокировать все %num2% обликов оружия и брони в своём гардеробе."
 Use the Heart of the Obscure to draw out the Kryptis.,"Используйте Сердце Незримого, чтобы выманить криптисов."
@@ -147,7 +147,7 @@ Use the Heart of the Obscure to seal the rift to Tyria.,"Используйте 
 Use the Megahedron Collider to test the Infinity Ball.,Испытайте Шар бесконечности на Мегаэдронном коллайдере.
 Use the Order Cryptotranslator to decrypt %num2% dead drops.,Расшифруйте %num2% тайников с помощью криптопереводчика Ордена.
 Use the Searing Cauldron against Zhaitan's horde.,Примените Searing Cauldron против орды Зайтана.
-"Use the Searing Cauldron near Ironhead Lake in Iron Marches to combine the Wyvern's Liquid Fire, Elemental Flames, Destroyer's Heat, a Flame Effigy Embers, and a Fire Imbued Heart to create the Ultra Hot Sphere.","Используйте Котёл Опаления у озера Железноголовых в Железных Топях, чтобы соединить Wyvern's Liquid Fire, пламя стихий, жар разрушителя, угли огненного чучела и напитанное огнём сердце и создать Сверхгорячую сферу."
+"Use the Searing Cauldron near Ironhead Lake in Iron Marches to combine the Wyvern's Liquid Fire, Elemental Flames, Destroyer's Heat, a Flame Effigy Embers, and a Fire Imbued Heart to create the Ultra Hot Sphere.","Используйте Searing Cauldron у озера Железноголовых в Iron Marches, чтобы соединить Wyvern's Liquid Fire, пламя стихий, Destroyer's Heat, угли огненного чучела и напитанное огнём сердце и создать Сверхгорячую сферу."
 Use the cipher key from the secret room.,Воспользуйтесь шифровальным ключом из тайной комнаты.
 Use the detonator to begin the breach.,"Используйте детонатор, чтобы начать прорыв."
 Use the tanks to take control of Orr's Pursuit Pass region.,Захватите с помощью танков область Перевала Погони в Орре.
@@ -170,7 +170,7 @@ Used %num1%/%num2% Waypoint[s],Использовано %num1%/%num2% [путе�
 Used /crossarms in the Ministry of Transit Waiting Area,Команда /crossarms применена в зале ожидания Министерства перевозок
 Used /kneel in Front of Joko's Statue,Команда /kneel применена перед статуей Джоко
 Used /ponder by the Large Orb at Wizard's Ascent,Команда /ponder применена у большой сферы в Восхождении Волшебника
-Used /sleep inside Droknar's Forge,Команда /sleep применена в Кузнице Дрокнара
+Used /sleep inside Droknar's Forge,Команда /sleep применена в Droknar's Forge
 Used Chain Pull to Deal %num1% of %num2% Damage to Gates in WvW,Цепным притягиванием нанесено %num1% из %num2% урона воротам в WvW
 Used Mordremoth's Power to Kill Its Minions,Сила Мордремота обращена против его прислужников
 Used Seraph Trap,Ловушка Серафимов использована
@@ -283,7 +283,7 @@ Visions of Eternity Launch Supply Drop: Week One Delivery,Стартовая п�
 Visions of Eternity Mastery Insight,Прозрение мастерства Видений Вечности
 Visions of Eternity Relics,Реликвии Видений Вечности
 Visit %num2% krait obelisk shards around the world.,Посетите %num2% осколков обелисков крайтов по всему миру.
-Visit Black Haven and speak with Dansky.,Посетите Чёрную Гавань и поговорите с Дански.
+Visit Black Haven and speak with Dansky.,Посетите Black Haven и поговорите с Дански.
 Visit Petra in Divinity's Reach.,Навестите Петру в Divinity's Reach.
 Visit the Trader's Forum in Lion's Arch.,Посетите Торговый форум в Lion's Arch.
 Visit the circus and look for the missing boy.,Загляните в цирк и поищите пропавшего мальчика.
@@ -302,7 +302,7 @@ Visited Your Allies in Prison,Союзники навещены в тюрьме
 Visited the Highest and Lowest Points in Shipwreck Strand,Самая высокая и самая низкая точки Берега Кораблекрушений посещены
 Visited the Slumbering Seneschal,Дремлющий сенешаль навещён
 Visited the Top of the Volcano,Вершина вулкана посещена
-Visited with Owl Shaman Garon %num1%/%num2% Times,Шаман Совы Гарон навещён %num1%/%num2% раз
+Visited with Owl Shaman Garon %num1%/%num2% Times,Owl Shaman Garon навещён %num1%/%num2% раз
 Visits to the Vault,Посещения Хранилища
 Vista Viewed,Панорама осмотрена
 Vistergoff,Вистергофф

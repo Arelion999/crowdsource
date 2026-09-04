@@ -280,7 +280,7 @@ english,translate
 (Repeatable) Lowland Shore: Autumn's Vale Renown Heart,(Repeatable) Lowland Shore: Autumn's Vale Renown Heart
 (Repeatable) Lowland Shore: Harvest Den Renown Heart,(Repeatable) Lowland Shore: Harvest Den Renown Heart
 (Repeatable) Lowland Shore: Journeykin Outpost Renown Heart,(Repeatable) Lowland Shore: Journeykin Outpost Renown Heart
-(Repeatable) Mistburned Barrens: Alliance Staging Ground Renown Heart,(Повторяемое) Пустоши Туманного Ожога: Сердце репутации Плацдарма Альянса
+(Repeatable) Mistburned Barrens: Alliance Staging Ground Renown Heart,(Повторяемое) Пустоши Туманного Ожога: Сердце репутации Alliance Staging Ground
 (Repeatable) Mount Balrior: Calibration Collector,(Repeatable) Mount Balrior: Calibration Collector
 (Repeatable) Mount Balrior: Calibration Courier,(Repeatable) Mount Balrior: Calibration Courier
 (Repeatable) Mount Balrior: Supplier of Supplies,(Repeatable) Mount Balrior: Supplier of Supplies
@@ -293,7 +293,7 @@ english,translate
 (Repeatable) Starlit Weald: Priory Expedition Renown Heart,(Repeatable) Starlit Weald: Priory Expedition Renown Heart
 (Repeatable) Starlit Weald: Untamed Crags Renown Heart,(Repeatable) Starlit Weald: Untamed Crags Renown Heart
 (Some events can count toward multiple achievements.),(Некоторые события могут засчитываться в несколько достижений.)
-(These can be purchased from Gharr Leadclaw in the Wizard's Tower. Requires Wayfinder Mastery.),(Их можно приобрести у Gharr Leadclaw в Wizard's Tower. Требуется мастерство Проводник.)
+(These can be purchased from Gharr Leadclaw in the Wizard's Tower. Requires Wayfinder Mastery.),(Их можно приобрести у Gharr Leadclaw в Wizard's Tower. Требуется Wayfinder Mastery.)
 (This achievement can be completed in the race event or adventure. Progress will update when you claim the rewards.),"(Это достижение можно выполнить в гоночном событии или приключении. Прогресс обновится, когда вы заберете награды.)"
 (Weekly) Camp Capturer,(Weekly) Camp Capturer
 (Weekly) Challenge Mode Convergences: Mount Balrior,(Weekly) Challenge Mode Convergences: Mount Balrior
@@ -349,7 +349,7 @@ english,translate
 "<c=@Flavor>It was written, ""Burial should be as luxurious as life—or more, as it sets the tone by which a monarch is remembered forever.""</c>","<c=@Flavor>Было написано: «Погребение должно быть таким же роскошным, как и жизнь — или даже более, поскольку оно задает тон, по которому монарха будут помнить вечно».</c>"
 <c=@Flavor>It's Mist-ifying.</c>,<c=@Flavor>Это Туманно.</c>
 <c=@Flavor>It's about time.</c>,<c=@Flavor>Давно пора.</c>
-"<c=@Flavor>Rulers of the Primeval Dynasty developed their kingdom's material resources, accruing great wealth and power for themselves and for their subjects.</c>","<c=@Flavor>Правители Первобытной Династии развивали материальные ресурсы своего королевства, накапливая огромное богатство и власть для себя и своих подданных.</c>"
+"<c=@Flavor>Rulers of the Primeval Dynasty developed their kingdom's material resources, accruing great wealth and power for themselves and for their subjects.</c>","<c=@Flavor>Правители Primeval Dynasty развивали материальные ресурсы своего королевства, накапливая огромное богатство и власть для себя и своих подданных.</c>"
 "<c=@Flavor>Statues of fabled guardian beasts would be created by talented sculptors, to protect the kingdom in a monarch's absence.</c>","<c=@Flavor>Талантливые скульпторы создавали статуи легендарных зверей-стражей, чтобы защищать королевство в отсутствие монарха.</c>"
 <c=@Flavor>The elaborate rituals accompanying the funerals of Primeval rulers served as a bridge between the worlds of the living and the dead.</c>,"<c=@Flavor>Сложные ритуалы, сопровождавшие похороны правителей Первобытной Династии, служили мостом между мирами живых и мёртвых.</c>"
 <c=@Flavor>The rich fabrics and detailed patterns found throughout the Crystal Desert speak to the mix of cultures and nations that have called this land their home. </c>,"<c=@Flavor>Богатые ткани и детализированные узоры, встречающиеся по всей Crystal Desert, говорят о смешении культур и народов, которые называли эту землю своим домом.</c>"
@@ -426,7 +426,7 @@ english,translate
 <c=@reminder>World bosses are challenging events that appear at specific times of day across Tyria. Defeat them to receive chests containing rare equipment and crafting materials. </c>,"<c=@reminder>Мировые боссы — это сложные события, которые появляются в определенное время суток по всей Тирии. Победите их, чтобы получить сундуки с редким снаряжением и материалами для крафта. </c>"
 <c=@reminder>You can find events while exploring the world. Events are marked by an orange circle on your map when you're nearby.</c>,"<c=@reminder>Вы можете находить события во время исследования мира. События отмечены оранжевым кругом на карте, когда вы находитесь рядом.</c>"
 <c=@reminder>You can find events while exploring the world. Events in progress are marked by an orange circle on your map when you're nearby.</c>,"<c=@reminder>Вы можете найти события во время исследования мира. Текущие события отмечены оранжевым кружком на вашей карте, когда вы находитесь рядом.</c>"
-<c=@reminder>You can select your active story and view your progress from the Story Journal menu in the Hero panel.</c>,<c=@reminder>Вы можете выбрать активный сюжет и отслеживать прогресс в Журнале сюжета на панели героя.</c>
+<c=@reminder>You can select your active story and view your progress from the Story Journal menu in the Hero panel.</c>,<c=@reminder>Вы можете выбрать активный сюжет и отслеживать прогресс в Story Journal на панели героя.</c>
 "<c=flavor>Put them down, Nourys. Bad Nourys! Bad!</c>","<c=flavor>Положи их на место, Nourys. Плохой Nourys! Плохой!</c>"
 A Blooming Errand,A Blooming Errand
 A Bold Strategy,A Bold Strategy

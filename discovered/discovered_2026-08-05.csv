@@ -96,7 +96,7 @@ Play %num2% ranked matches during 2v2 Season Five.,Сыграйте %num2% ре�
 Win %num2% ranked matches during 2v2 Season Five.,Выиграйте %num2% рейтинговых матчей в режиме 2 на 2 в Пятом сезоне.
 Overheat now blasts damage to nearby foes and no longer deals its initial damage to you. The tool belt recharge penalty for Overheat is reduced. Heat can only be lost after overheating.<br><c=@reminder>Damage over time from Overheat is still applied.</c>,Перегрев теперь наносит урон ближайшим врагам и больше не наносит начальный урон вам. Штраф к скорости перезарядки инструментов за использование Перегрева уменьшен. Тепло можно потерять только после перегрева.<br><c=@reminder>Урон от Перегрева со временем по-прежнему применяется.</c>
 Gain health per unit of heat lost.<br><c=@reminder>This trait does not function while cooling due to an overheat unless Photonic Blasting Module is equipped.</c>,"Восстанавливайте здоровье за каждую единицу потерянного тепла.<br><c=@reminder>Эта черта не действует во время охлаждения из-за перегрева, если не оснащён модуль «Фотонный взрыв».</c>"
-"Death Shroud is replaced with Harbinger Shroud, granting powerful offensive skills but leaving you vulnerable to attack.<br>As you remain in Harbinger Shroud, you accumulate stacking Blight.<br><c=@reminder>Blight decreases your maximum health.</c>","«Смертельная саван» заменена на «Harbinger Shroud», дарующая мощные атакующие умения, но делающая вас уязвимым для атак.<br>Пока вы находитесь в состоянии «Саван предвестника», вы накапливаете эффект «Зловоние».<br><c=@reminder>«Зловоние» уменьшает ваш максимальный запас здоровья.</c>"
+"Death Shroud is replaced with Harbinger Shroud, granting powerful offensive skills but leaving you vulnerable to attack.<br>As you remain in Harbinger Shroud, you accumulate stacking Blight.<br><c=@reminder>Blight decreases your maximum health.</c>","«Смертельная саван» заменена на «Harbinger Shroud», дарующая мощные атакующие умения, но делающая вас уязвимым для атак.<br>Пока вы находитесь в состоянии «Harbinger Shroud», вы накапливаете эффект «Зловоние».<br><c=@reminder>«Зловоние» уменьшает ваш максимальный запас здоровья.</c>"
 <c=@abilitytype>Command.</c> Break stun while granting boons to nearby allies. The cooldown of this skill is increased if used to break a stun.<br><c=@abilitytype>Echo.</c> Grant additional boons to nearby allies after a set interval or after you use a burst skill.,"<c=@abilitytype>Команда.</c> Снимает оглушение и накладывает благословения на ближайших союзников. Время перезарядки этого умения увеличивается, если оно используется для снятия оглушения.<br><c=@abilitytype>Эхо.</c> Накладывает дополнительные благословения на ближайших союзников через определенный промежуток времени или после использования умения с эффектом «взрыва»."
 Defeat %num2% players in ranked matches during 3v3 Season Ten.,Одолейте %num2% игроков в рейтинговых матчах во время десятого сезона режима «3 на 3».
 Play %num2% ranked matches during 3v3 Season Ten.,Сыграйте %num2% рейтинговых матчей в 3 на 3 в десятом сезоне.
@@ -254,7 +254,7 @@ Enfeeblement Aura,Аура ослабления
 "Your help gets people killed! I don't need it, and I don't need you.","Твоя помощь только людям вредит! Мне она не нужна, и ты мне тоже."
 "I am. And we've got more imporant things to worry about. We need to find the Inquest, and, more importantly, find their leader.","Я знаю. И у нас есть дела поважнее. Нам нужно найти «Инквест» и, что ещё важнее, их лидера."
 "Once, we fought together as one. Myself, Rytlock, Logan. Eir and her wolf. Snaff and his apprentice.","Когда-то мы сражались плечом к плечу. Я, Ритлок и Логан. Эйр со своим волком. Снафф и его ученик."
-We called ourselves Destiny's Edge. We were the best the world had seen. We fought dragon minions from the Sea of Sorrows to the Crystal Desert.,Мы называли себя «Destiny's Edge». Мы были лучшими во всём мире. Мы сражались с прислужниками драконов от Моря Скорбей до Кристальной Пустоши.
+We called ourselves Destiny's Edge. We were the best the world had seen. We fought dragon minions from the Sea of Sorrows to the Crystal Desert.,Мы называли себя «Destiny's Edge». Мы были лучшими во всём мире. Мы сражались с прислужниками драконов от Sea of Sorrows до Кристальной Пустоши.
 And then we failed.,И потом мы потерпели неудачу.
 "We encountered Glint. She was a legendary creature that served Kralkatorrik, the crystal dragon...until she betrayed her master.","Мы встретили Глинт. Она была легендарным существом, служившим Кралькаторрику, кристальному дракону… пока не предала своего господина."
 "Kralkatorrik awoke, and flew south to slay its traitorous lieutenant, leaving devastation in its wake.","Кралькаторрик пробудился и полетел на юг, чтобы уничтожить своего предательского лейтенанта, сея разрушения на своем пути."
@@ -564,7 +564,7 @@ Morgatl Grounds,Моргатские земли
 Naulshead Refuge,Укрытие Наулсхед
 Stormwreck Deeps,Глубоководье Штормовой Крушины
 Hemlock Coil,Катушка из гемелока
-Hanto Trading Post,Trading Post Ханто
+Hanto Trading Post,Trading Post Hanto Trading Post
 Hazupl Grounds,Земли Хазупла
 Slaver's Deeps,Глубины работорговцев
 Banshee's Keen,Пронзительный вой Банши
