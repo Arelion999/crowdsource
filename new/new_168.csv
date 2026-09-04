@@ -75,7 +75,7 @@ Welcome to the Festival of the Four Winds. Are you going to take part in the tre
 "Welcome to the Vigil Keep, headquarters of the order I serve. Do you need anything?","Добро пожаловать в Vigil Keep, штаб ордена, которому я служу. Тебе что-нибудь нужно?"
 "Welcome to the archives, Savant! I'm always happy to help a budding genius. What can do for you today?","Добро пожаловать в архивы, Знаток! Я всегда рад помочь начинающему гению. Чем могу быть полезен?"
 "Welcome to the finest lodge in all of Hoelbrak, friend.","Добро пожаловать в лучший дом во всём Хоэльбраке, друг."
-"Welcome to the high-speed world, %str1%! This course, Infernal Leap, isn't for the faint of heart—it'll take you into Mount Maelstrom itself for a daring stunt jump over lava.","Добро пожаловать в мир больших скоростей, %str1%! Эта трасса, «Адский прыжок», не для слабонервных: она заведёт тебя в саму Гору Мальстрём ради лихого трюкового прыжка над лавой."
+"Welcome to the high-speed world, %str1%! This course, Infernal Leap, isn't for the faint of heart—it'll take you into Mount Maelstrom itself for a daring stunt jump over lava.","Добро пожаловать в мир больших скоростей, %str1%! Эта трасса, «Адский прыжок», не для слабонервных: она заведёт тебя в саму Mount Maelstrom ради лихого трюкового прыжка над лавой."
 "Welcome to the high-speed world, %str1%! This course, Tropic Valley Raceway, tours the entirety of the Wildlands—it'll test not just your acceleration, but your endurance and speed management.","Добро пожаловать в мир больших скоростей, %str1%! Эта трасса, «Тропическая долина», обходит все Дебри: она проверит не только разгон, но и выносливость, и умение держать скорость."
 "Welcome to the shipyard. We are working on our latest and greatest weapon of warfare here, when we aren't being attacked by those flaming Separatists.",Добро пожаловать на верфь. Мы тут работаем над новейшим и величайшим оружием войны — когда на нас не нападают эти треклятые Сепаратисты.
 "Welcome! Welcome to our fine tavern, my friend! Are you hungry? Thirsty? What can I do for you today?","Добро пожаловать! Добро пожаловать в нашу славную таверну, друг мой! Голоден? Хочешь пить? Чем могу услужить?"
@@ -188,7 +188,7 @@ What are you going on about?,О чём это ты?
 "What are you looking for, exactly?",Что именно ты ищешь?
 What are you waiting for? Get up those stairs and join the hunt!,Чего ты ждёшь? Наверх по лестнице и присоединяйся к охоте!
 What are your thoughts on Slothasor?,Что ты думаешь о Слотазоре?
-What brings a Wyld Hunt valiant to this camp?,Что привело в этот лагерь доблестного воина Дикой Охоты?
+What brings a Wyld Hunt valiant to this camp?,Что привело в этот лагерь доблестного воина Wyld Hunt?
 What brings you so far north?,Что привело тебя так далеко на север?
 What can I do for the legions?,Чем я могу послужить легионам?
 "What can I help you with? I'll try to help, but I got into a scrap earlier, and I'm hurting pretty bad.","Чем помочь? Постараюсь, но я недавно ввязался в драку, и мне порядком досталось."
@@ -471,7 +471,7 @@ White Mantle Justiciar,White Mantle Justiciar
 White Mantle Scout,White Mantle Scout
 White Mantle Summoned Sword,White Mantle Summoned Sword
 White Mantle Torch Bearer,White Mantle Torch Bearer
-White Mantle attack begins in: %str1%,Атака Белой Мантии начнётся через: %str1%
+White Mantle attack begins in: %str1%,Атака White Mantle начнётся через: %str1%
 White Mantle forces,Силы Белой Мантии
 "White Tiger Weapon Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с оружием белого тигра
 "Whitebear sent some Wolfborn to scout, but no news yet. Apparently, the dredge have risen up with a vengeance. And rumor has it, they have help—magical help.","Уайтбир отправил на разведку нескольких из Волчьего Рода, но вестей пока нет. Похоже, дреджи поднялись с удвоенной злобой. И, по слухам, им кто-то помогает — магией."

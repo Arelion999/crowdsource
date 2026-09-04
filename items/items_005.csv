@@ -13,7 +13,7 @@ Can be upgraded in the Mystic Forge.","<c=@flavor>У карка загадочн
 <c=@flavor>The legendary chef gave these to his finest students.</c>,<c=@flavor>Легендарный повар вручал их лучшим своим ученикам.</c>
 <c=@flavor>The Lionguard approve of your efforts in battle.</c>,<c=@flavor>Львиная стража одобряет твои ратные труды.</c>
 "<c=@flavor>The locket contains a picture of Kolijn Johansson, Trade Administrator of Hoelbrak.</c>","<c=@flavor>В медальоне портрет Колейн Йоханссон, торгового управляющего Хоэльбрака.</c>"
-<c=@flavor>The mark of the White Mantle is still visible on the badge's dented face.</c>,<c=@flavor>На помятой поверхности значка всё ещё различим знак Белой Мантии.</c>
+<c=@flavor>The mark of the White Mantle is still visible on the badge's dented face.</c>,<c=@flavor>На помятой поверхности значка всё ещё различим знак White Mantle.</c>
 <c=@flavor>The Morgatl hylek harvest these glands to coat their darts in its poison.<c>,"<c=@flavor>Хилеки Моргатл собирают эти железы, чтобы смазывать их ядом свои дротики.<c>"
 "<c=@flavor>The next generation of cultivated seed produced by your own hand. To cultivate this new specimen to be even better than the last, plant it in a Mists Infused Clay Pot to germinate.</c>","<c=@flavor>Следующее поколение выращенного тобой семени. Чтобы этот новый образец вышёл ещё лучше прежнего, посадите его в глиняный горшок, напитанный Туманами.</c>"
 "<c=@flavor>The only words visible are: ""Talk time dark snow.""
@@ -101,7 +101,7 @@ Combine this item in the Mystic Forge with:
 "<c=@flavor>This item is scored with a deep, sharp gash and is off-set by images of water and the sky.</c>","<c=@flavor>Этот предмет прорезан глубоким острым рубцом, который оттеняют изображения воды и неба.</c>"
 <c=@flavor>This Lunar New Year brings a resolution...of romance.</c>,<c=@flavor>Этот Lunar New Year приносит решение... завести роман.</c>
 "<c=@flavor>This mash of meaty, semi-toxic ingredients needs just a few more things to be the kind of food needed to calm a wild carnivorous plant.<c>","<c=@flavor>Этому месиву из мясистых, полутоксичных ингредиентов не хватает пары мелочей, чтобы стать той едой, какой можно унять дикое хищное растение.<c>"
-<c=@flavor>This mask is worn by elite members of Confessor Beetlestone's guard. Equipping does not guarantee acceptance in White Mantle cliques.</c>,<c=@flavor>Эту маску носят элитные бойцы стражи исповедника Битлстоуна. Ношение не гарантирует приёма в круги Белой Мантии.</c>
+<c=@flavor>This mask is worn by elite members of Confessor Beetlestone's guard. Equipping does not guarantee acceptance in White Mantle cliques.</c>,<c=@flavor>Эту маску носят элитные бойцы стражи исповедника Битлстоуна. Ношение не гарантирует приёма в круги White Mantle.</c>
 <c=@flavor>This must have once belonged to a victim of a largos assassin.</c>,"<c=@flavor>Должно быть, это принадлежало жертве убийцы-ларгоса.</c>"
 <c=@flavor>This mysterious band could only be shaped by the chaotic energies of the Mists.</c>,<c=@flavor>Это загадочное кольцо могло быть выковано лишь хаотическими энергиями Туманов.</c>
 <c=@flavor>This mysterious seed appears to be dormant.</c>,"<c=@flavor>Это загадочное семя, похоже, спит.</c>"
@@ -497,11 +497,11 @@ Use the box to randomly unlock a Black Lion wardrobe item you don't already have
 <c=@Reminder>Hint: Perform an ancient ritual with unlikely allies.</c>,<c=@Reminder>Подсказка: проведите древний ритуал с неожиданными союзниками.</c>
 <c=@Reminder>Hint: Somewhere near Airdrome Port in Dragonfall.</c>,<c=@Reminder>Подсказка: где-то у порта Эйрдром в Драконьем Падении.</c>
 <c=@Reminder>Hint: Somewhere near Atholma in the Sandswept Isles.</c>,<c=@Reminder>Подсказка: где-то у Атолмы на Песчаных островах.</c>
-<c=@Reminder>Hint: Somewhere near History's End Waypoint in Thunderhead Peaks.</c>,<c=@Reminder>Подсказка: где-то у путевой точки «Конец истории» в Пиках Громовой головы.</c>
+<c=@Reminder>Hint: Somewhere near History's End Waypoint in Thunderhead Peaks.</c>,<c=@Reminder>Подсказка: где-то у путевой точки «Конец истории» в Thunderhead Peaks.</c>
 <c=@Reminder>Hint: Somewhere near Jemandi Market in the Sandswept Isles.</c>,<c=@Reminder>Подсказка: где-то у рынка Джеманди на Песчаных островах.</c>
 <c=@Reminder>Hint: Somewhere near Mirza's Rest in Jahai Bluffs.</c>,<c=@Reminder>Подсказка: где-то у Привала Мирзы в Утёсах Джахай.</c>
 <c=@Reminder>Hint: Somewhere near the Allied Encampment in the Domain of Kourna.</c>,<c=@Reminder>Подсказка: где-то у Союзного лагеря во Владении Курна.</c>
-<c=@Reminder>Hint: Somewhere near the Forge in Thunderhead Peaks.</c>,<c=@Reminder>Подсказка: где-то у Горна в Пиках Громовой головы.</c>
+<c=@Reminder>Hint: Somewhere near the Forge in Thunderhead Peaks.</c>,<c=@Reminder>Подсказка: где-то у Горна в Thunderhead Peaks.</c>
 <c=@Reminder>Hint: Somewhere near the Pact Outpost in Dragonfall.</c>,<c=@Reminder>Подсказка: где-то у форпоста Пакта в Драконьем Падении.</c>
 <c=@Reminder>Hint: Somewhere near Venta Pass Waypoint in Jahai Bluffs.</c>,<c=@Reminder>Подсказка: где-то у путевой точки «Перевал Вента» в Утёсах Джахай.</c>
 <c=@Reminder>Hint: Somewhere near Zelbahn Garrison in the Domain of Kourna. </c>,<c=@Reminder>Подсказка: где-то у гарнизона Зельбан во Владении Курна. </c>
@@ -511,7 +511,7 @@ Use the box to randomly unlock a Black Lion wardrobe item you don't already have
 <c=@Reminder>Hint: Use your skyscale to access a rift near the highest point of the Allied Encampment within the Domain of Kourna.</c>,<c=@Reminder>Подсказка: на скайскейле доберитесь до разлома у самой высокой точки Союзного лагеря во Владении Курна.</c>
 <c=@Reminder>Hint: Use your skyscale to access a rift near the Iron Whale in the Sandswept Isles.</c>,<c=@Reminder>Подсказка: на скайскейле доберитесь до разлома у Железного Кита на Песчаных островах.</c>
 <c=@Reminder>Hint: Use your skyscale to access a rift near the Necrotic Coast within Dragonfall.</c>,<c=@Reminder>Подсказка: на скайскейле доберитесь до разлома у Некротического побережья в Драконьем Падении.</c>
-<c=@Reminder>Hint: Use your skyscale to access a rift near the Weeping Sisters in Thunderhead Peaks.</c>,<c=@Reminder>Подсказка: на скайскейле доберитесь до разлома у Плачущих Сестёр в Пиках Громовой головы.</c>
+<c=@Reminder>Hint: Use your skyscale to access a rift near the Weeping Sisters in Thunderhead Peaks.</c>,<c=@Reminder>Подсказка: на скайскейле доберитесь до разлома у Плачущих Сестёр в Thunderhead Peaks.</c>
 "<c=@reminder>The Knife Tail Gang have broken into the Trading Company vaults, and Evon's furious!</c=@reminder>
 
 Use this bond to hunt Knife Tail Gang members. While bonded, any kill worth XP has a chance to reveal one of the Knife Tail Gang! Find them, and each bond will allow you to loot a piece of Recovered Black Lion Goods, which are yours to keep. Recovered goods will always unlock something from the Black Lion Trading Company in your wardrobe—weapons, exclusive dye colors, even mounts!","<c=@reminder>Банда Ножехвостов вломилась в хранилища Торговой компании, и Эвон в ярости!</c=@reminder>
@@ -571,7 +571,7 @@ Components may require Guild Wars 2: Heart of Thorns.","Книга рецепт�
 Для компонентов может потребоваться Guild Wars 2: Heart of Thorns."
 "A book of homestead decoration recipes needed to craft objects from Dragon's End.
 Components may require Guild Wars 2: End of Dragons.","Книга рецептов украшений усадьбы, нужных для изготовления: предметов из Конца Дракона.
-Для компонентов может потребоваться Guild Wars 2: Конец Драконов."
+Для компонентов может потребоваться Guild Wars 2: Dragon's End."
 "A book of homestead decoration recipes needed to craft objects from Dragon's Stand.
 Components may require Guild Wars 2: Heart of Thorns.","Книга рецептов украшений усадьбы, нужных для изготовления: предметов из Драконьей Твердыни.
 Для компонентов может потребоваться Guild Wars 2: Heart of Thorns."

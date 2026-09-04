@@ -16,7 +16,7 @@ Defeat %num2% players in ranked matches during Conquest Season Twenty-Two.,По�
 Defeat %num2% players in ranked matches during a Conquest season.,Победите %num2% игроков в рейтинговых матчах в сезоне режима «Захват».
 Defeat %num2% players.,Победите %num2% игроков.
 Defeat %num2% veteran Kryptis.,Победите %num2% криптисов-ветеранов.
-Defeat %num2% veteran enemies in Mount Maelstrom.,Победите %num2% врагов-ветеранов на горе Мальстрём.
+Defeat %num2% veteran enemies in Mount Maelstrom.,Победите %num2% врагов-ветеранов на Mount Maelstrom.
 Defeat 1 Legendary-rank enemy.,Победите 1 врага легендарного ранга.
 Defeat 10 champion-rank enemies.,Победите 10 врагов ранга чемпиона.
 Defeat 25 enemy guards in World vs. World.,Победите 25 вражеских стражей в «World vs. World».
@@ -25,13 +25,13 @@ Defeat 3 enemy players in a structured PvP match.,Defeat 3 enemy players in a st
 Defeat 4 world bosses.,Победите 4 мировых боссов.
 Defeat 50 veteran-rank enemies.,Победите 50 врагов ранга ветерана.
 Defeat Apprentice Scyllan.,Победите ученика Скиллана.
-Defeat Canach's Lair without getting caught in any traps. [lbracket]Living World Season 1: Canach's Lair vision. Accessed via the Scrying Pool in Eye of the North.[rbracket],"Пройдите «Canach's Lair», не попав ни в одну ловушку. [lbracket]Видение «Живого мира», сезон 1: Логово Канаха. Доступ через Чашу Прорицания в Оке Севера.[rbracket]"
+Defeat Canach's Lair without getting caught in any traps. [lbracket]Living World Season 1: Canach's Lair vision. Accessed via the Scrying Pool in Eye of the North.[rbracket],"Пройдите «Canach's Lair», не попав ни в одну ловушку. [lbracket]Видение «Living World», сезон 1: Логово Канаха. Доступ через Чашу Прорицания в Eye of the North.[rbracket]"
 Defeat Charybda the Cunning.,Победите Харибду Хитроумную.
 Defeat Cinder Steeltemper.,Победите Синдер Сталезакал.
 "Defeat Dagda, Wizard of the Celestial.","Победите Дагду, Волшебницу Небесного."
 "Defeat Decima, the Stormsinger.","Победите Дециму, Певицу Бурь."
 Defeat Dhuum %num2% times.,Победите Дуума %num2% раз.
-Defeat Drakkar %num2% times within its lair in Bjora Marches.,Победите Драккара %num2% раз в его логове в Топях Бьоры.
+Defeat Drakkar %num2% times within its lair in Bjora Marches.,Победите Драккара %num2% раз в его логове в Bjora Marches.
 Defeat Drakkar for the First Time,Победите Драккара впервые
 Defeat Engineer Frizz,Победите инженера Фризза
 Defeat Forged to obtain a toy for your skyscale. More likely to drop from champions.,"Побеждайте Кованых, чтобы получить игрушку для скайскейла. Чаще выпадает с чемпионов."
@@ -97,7 +97,7 @@ Defeat the dredge guarding Raven's idol.,"Победите дреджей, ох�
 Defeat the enchanted seer weapon.,Победите зачарованное оружие провидцев.
 Defeat the enchanted transfiguration.,Победите зачарованное преображение.
 Defeat the final dredge attack.,Победите последнюю атаку дреджей.
-Defeat the fugitive Canach in his island hideaway. [lbracket]Living World Season 1 vision: Canach's Lair. Accessed via the Scrying Pool in the Eye of the North.[rbracket],"Победите беглеца Канаха в его островном убежище. [lbracket]Видение «Живого мира», сезон 1: Canach's Lair. Доступ через Чашу Прорицания в Оке Севера.[rbracket]"
+Defeat the fugitive Canach in his island hideaway. [lbracket]Living World Season 1 vision: Canach's Lair. Accessed via the Scrying Pool in the Eye of the North.[rbracket],"Победите беглеца Канаха в его островном убежище. [lbracket]Видение «Living World», сезон 1: Canach's Lair. Доступ через Чашу Прорицания в Eye of the North.[rbracket]"
 Defeat the giant beasts of Starlit Weald.,Победите гигантских зверей Звёздной Рощи.
 Defeat the grawl guards.,Победите стражей-граулов.
 Defeat the invading minions of Scarlet Briar.,Победите вторгшихся прислужников Scarlet Briar.
@@ -118,7 +118,7 @@ Defeated %num1%/%num2% Aetherblade Lieutenant[s],Побеждено %num1%/%num2
 Defeated %num1%/%num2% Angry Charr Youth,Побеждено %num1%/%num2% разгневанных юнцов-чарров
 Defeated %num1%/%num2% Augmented Emperors,Побеждено %num1%/%num2% усиленных императоров
 Defeated %num1%/%num2% Avatars of Spite,Побеждено %num1%/%num2% воплощений Злобы
-Defeated %num1%/%num2% Bloodstone-Crazed White Mantle,Побеждено %num1%/%num2% обезумевших от кровавого камня бойцов Белой Мантии
+Defeated %num1%/%num2% Bloodstone-Crazed White Mantle,Побеждено %num1%/%num2% обезумевших от кровавого камня бойцов White Mantle
 Defeated %num1%/%num2% Bosses,Побеждено %num1%/%num2% боссов
 Defeated %num1%/%num2% Cache Keepers,Побеждено %num1%/%num2% хранителей тайников
 Defeated %num1%/%num2% Cache Keepers in Drizzlewood Coast,Побеждено %num1%/%num2% хранителей тайников на Моросистом побережье
@@ -126,7 +126,7 @@ Defeated %num1%/%num2% Champion Bounties,Побеждено %num1%/%num2% наг
 Defeated %num1%/%num2% Champion Kryptis,Побеждено %num1%/%num2% криптисов-чемпионов
 Defeated %num1%/%num2% Champion Titanspawn,Побеждено %num1%/%num2% титанорождённых чемпионов
 Defeated %num1%/%num2% Champions in Dragonfall,Побеждено %num1%/%num2% чемпионов в Драконьем Падении
-Defeated %num1%/%num2% Champions in East Bjora Marches,Побеждено %num1%/%num2% чемпионов в Восточных Топях Бьоры
+Defeated %num1%/%num2% Champions in East Bjora Marches,Побеждено %num1%/%num2% чемпионов в Восточных Bjora Marches
 Defeated %num1%/%num2% Clones of Yourself,Побеждено %num1%/%num2% собственных клонов
 Defeated %num1%/%num2% Crazed Doppelgangers,Побеждено %num1%/%num2% обезумевших двойников
 Defeated %num1%/%num2% Crazed Fans,Побеждено %num1%/%num2% обезумевших поклонников
@@ -209,7 +209,7 @@ Defeated %num1%/%num2% of the Champions Summoned by Soo-Won,"Побеждено 
 Defeated %num1%/5 Nightfall Bosses,Побеждено %num1%/5 боссов Ночного Падения
 Defeated %num2% Bosses in Mount Balrior Without Party Members Being Defeated,Побеждено %num2% боссов на горе Балриор без поражений членов группы
 Defeated 30 Mordrem During the Night Attack,Побеждено 30 мордремов во время ночной атаки
-Defeated 60 Branded enemies with a torch in Thunderhead Peaks.,Побеждено 60 клеймёных врагов факелом в Пиках Громовой головы.
+Defeated 60 Branded enemies with a torch in Thunderhead Peaks.,Побеждено 60 клеймёных врагов факелом в Thunderhead Peaks.
 Defeated Abraxces the Scorned,Абраксес Презренный побеждён
 Defeated All Aspects Each Time the Final Boss Used World Cleaver,"Все аспекты побеждены каждый раз, когда финальный босс применял Мироруб"
 Defeated All Bosses without Losing Any Party Members,Все боссы побеждены без потерь в группе
@@ -302,11 +302,11 @@ Defeated Your Frozen Clone within 10 Seconds,Ваш замороженный к�
 Defeated Your Haunt in the Necromancer's Ritual Event,Ваш призрак побеждён в событии ритуала некроманта
 Defeated Ziadih the Fearless,Зиадих Бесстрашная побеждена
 Defeated Zohaqan to Calm the Storms,"Зохакан побеждён, бури усмирены"
-Defeated a Champion in Bjora Marches,Чемпион в Топях Бьоры побеждён
+Defeated a Champion in Bjora Marches,Чемпион в Bjora Marches побеждён
 Defeated a Jade Construct,Нефритовый конструкт побеждён
 Defeated an Enemy,Враг побеждён
 Defeated an Intrusion from Beyond the Mists,Вторжение из-за Туманов отражено
-"Defeated the ""Protector"" of New Kaineng",«Защитник» Нового Кайненга побеждён
+"Defeated the ""Protector"" of New Kaineng",«Защитник» New Kaineng побеждён
 Defeated the Aetherblade Leader in Haiju Plains,Вожак Эфирного Клинка на Равнинах Хайцзю побеждён
 Defeated the All Seer,Всевидящий побеждён
 Defeated the All Seer without Being Struck by Gwyllian's Seeking Boulder Attack,Всевидящий побеждён без попаданий Ищущим валуном Гвиллиана
@@ -482,7 +482,7 @@ Delivered an Egg to Utogi in Less Than 5 Seconds,Яйцо доставлено �
 Delmar the Industrious,Делмар Трудолюбивый
 Deluxe Jade Detainer,Роскошный нефритовый задерживатель
 Deluxe Jade Tracker,Роскошный нефритовый следопыт
-Delve deep inside the Tower of Nightmares and set off a chain reaction that will counteract its poisonous influence over Kessex Hills. [lbracket]This mission is now playable in Living World Season 1: Episode 4.[rbracket],"Проникните в глубь Tower of Nightmares и запустите цепную реакцию, которая нейтрализует её ядовитое влияние в Kessex Hills. [lbracket]Это задание теперь доступно в «Живом мире», сезон 1: эпизод 4.[rbracket]"
+Delve deep inside the Tower of Nightmares and set off a chain reaction that will counteract its poisonous influence over Kessex Hills. [lbracket]This mission is now playable in Living World Season 1: Episode 4.[rbracket],"Проникните в глубь Tower of Nightmares и запустите цепную реакцию, которая нейтрализует её ядовитое влияние в Kessex Hills. [lbracket]Это задание теперь доступно в «Living World», сезон 1: эпизод 4.[rbracket]"
 Demands Treats of Rift Essence,Требует лакомств из эссенции разломов
 Demolish the Flame Legion trebuchets.,Разрушьте требушеты Flame Legion.
 Demonic magic has been ripped from this creature. It will heal its host if it manages to reach it before being defeated.,"Демоническая магия вырвана из этого существа. Она исцелит носителя, если успеет достичь его до того, как будет уничтожена."
