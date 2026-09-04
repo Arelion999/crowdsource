@@ -20,7 +20,7 @@ Found in the Eye of the North.","<c=@flavor>Солнечное Копьё ник
 "<c=@flavor>A toy bear. Can be classifed as fuzzy, wuzzy.</c>",<c=@flavor>Игрушечный медведь. Классифицируется как пушистый и мягонький.</c>
 <c=@Flavor>A traditional style that has lasted for millennia.</c>,"<c=@Flavor>Традиционный стиль, переживший тысячелетия.</c>"
 <c=@flavor>A trophy flag of the Slade Pirate crew.</c>,<c=@flavor>Трофейный флаг пиратской команды Слейда.</c>
-<c=@flavor>A trophy from the battle against the Molten Alliance. Double-click to choose a reward.</c>,"<c=@flavor>Трофей из битвы с Расплавленным альянсом. Дважды щёлкните, чтобы выбрать награду.</c>"
+<c=@flavor>A trophy from the battle against the Molten Alliance. Double-click to choose a reward.</c>,"<c=@flavor>Трофей из битвы с Molten Alliance. Дважды щёлкните, чтобы выбрать награду.</c>"
 <c=@flavor>A trophy from the defense against Scarlet's watchwork monstrosities. Double-click to choose a reward.</c>,"<c=@flavor>Трофей за оборону от часовых чудовищ Скарлет. Дважды щёлкните, чтобы выбрать награду.</c>"
 <c=@flavor>A trophy from the investigation and apprehension of the Aetherblade pirates. Double-click to choose a reward.</c>,"<c=@flavor>Трофей за расследование и поимку пиратов Эфирного Клинка. Дважды щёлкните, чтобы выбрать награду.</c>"
 <c=@flavor>A trusty friend on exploration expeditions!</c>,<c=@flavor>Верный друг в исследовательских вылазках!</c>
@@ -100,7 +100,7 @@ Double-click to open.","<c=@flavor>На прикреплённой записк�
 Double-click to view the target's predicted location.","<c=@flavor>По приказу Сияющего Клинка предать врагов Крайты мечу.</c>
 Дважды щёлкните, чтобы увидеть предполагаемое местонахождение цели."
 <c=@flavor>Call forth your own brand of magic.</c>,<c=@flavor>Призови собственный род магии.</c>
-<c=@flavor>Canach used this device to spread his wildlife-aggravating toxins on Southsun Cove.</c>,"<c=@flavor>Этим устройством Канах распылял свои токсины, будоражащие живность, в бухте Южного Солнца.</c>"
+<c=@flavor>Canach used this device to spread his wildlife-aggravating toxins on Southsun Cove.</c>,"<c=@flavor>Этим устройством Канах распылял свои токсины, будоражащие живность, в Southsun Cove.</c>"
 <c=@flavor>Candidates for Divitium Nava were bestowed this star as a badge of recognition.</c>,<c=@flavor>Претендентам на Divitium Nava эта звезда вручалась как знак признания.</c>
 <c=@flavor>Candy corn containment is downright dangerous. To weaponize that containment is downright diabolical.</c>,<c=@flavor>Сдерживать карамельную кукурузу — само по себе опасно. Превратить это сдерживание в оружие — попросту дьявольски.</c>
 <c=@flavor>Carry Moto with you on all of your adventures.</c>,<c=@flavor>Носи Мото с собой во всех приключениях.</c>
@@ -345,7 +345,7 @@ Found in Jora's Keep in Bjora Marches.","<c=@flavor>Ледяной жар.</c>
 "<c=@flavor>Looted from the Mists, the original wielder of this axe claimed it was the key to achieving the fabled diamond disc.</c>","<c=@flavor>Добытый в Туманах, этот топор, по словам прежнего владельца, был ключом к легендарному алмазному диску.</c>"
 "<c=@flavor>Love is a battlefield.</c>
 Confiscated from the Brig in Grothmar Valley.","<c=@flavor>Любовь — поле битвы.</c>
-Конфисковано в «Бриге» в Долине Гротмар."
+Конфисковано в «Бриге» в Grothmar Valley."
 <c=@flavor>Lovingly preserved specimen of an exceedingly rare iris.</c>,<c=@flavor>Любовно сохранённый образец чрезвычайно редкого ириса.</c>
 <c=@flavor>Made for hunting.</c>,<c=@flavor>Создано для охоты.</c>
 <c=@flavor>Make use of any tool that fits the job.</c>,"<c=@flavor>Пускай в ход любой инструмент, что подходит для дела.</c>"
@@ -358,7 +358,7 @@ Confiscated from the Brig in Grothmar Valley.","<c=@flavor>Любовь — по
 <c=@flavor>May the monsters you feared mean nothing more than toys to your descendants.</c>,"<c=@flavor>Пусть чудовища, которых ты боялся, станут для твоих потомков не более чем игрушками.</c>"
 "<c=@flavor>Melandru—the goddess of nature, earth, and growth—can be found in every harvest and every flower.</c>","<c=@flavor>Меландру — богиню природы, земли и роста — можно найти в каждом урожае и каждом цветке.</c>"
 <c=@Flavor>Mercy may not be pleasant.</c>,<c=@Flavor>Милосердие не всегда приятно.</c>
-<c=@flavor>Mined from the Onyx Fields of Southsun Cove for the pleasure of Lord Beetlestone.</c>,<c=@flavor>Добыто на Ониксовых полях бухты Южного Солнца к удовольствию лорда Битлстоуна.</c>
+<c=@flavor>Mined from the Onyx Fields of Southsun Cove for the pleasure of Lord Beetlestone.</c>,<c=@flavor>Добыто на Ониксовых полях Southsun Cove к удовольствию лорда Битлстоуна.</c>
 <c=@flavor>Missing just a few things needed to germinate a seed.<c>,"<c=@flavor>Не хватает лишь пары мелочей, чтобы прорастить семя.<c>"
 <c=@flavor>Modeled after a weapon wielded by a great hero.</c>,"<c=@flavor>Сделано по образцу оружия, которым владел великий герой.</c>"
 <c=@flavor>Mostly used for a decoration.</c>,<c=@flavor>Используется в основном как украшение.</c>
@@ -415,7 +415,7 @@ Used in the crafting of Spinal Blade Pack back items.","<c=@flavor>Куски о
 
 Используется при создании наспинных предметов «Набор хребтовых клинков»."
 <c=@flavor>Pillaged long ago from the ruined city of Rin.</c>,<c=@flavor>Разграблено давным-давно в разрушенном городе Рин.</c>
-<c=@flavor>Pink sand from the sunny shores of Southsun Cove.<c>,<c=@flavor>Розовый песок с солнечных берегов бухты Южного Солнца.<c>
+<c=@flavor>Pink sand from the sunny shores of Southsun Cove.<c>,<c=@flavor>Розовый песок с солнечных берегов Southsun Cove.<c>
 <c=@flavor>Plant in a Ley Line Infused Clay Pot to germinate.<c>,"<c=@flavor>Посадите в глиняный горшок, напитанный лей-линиями, чтобы прорастить.<c>"
 <c=@flavor>Pleasantly cool.</c>,<c=@flavor>Приятно прохладный.</c>
 <c=@flavor>Point away from face.</c>,<c=@flavor>Направлять от лица.</c>

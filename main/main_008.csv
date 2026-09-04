@@ -1071,7 +1071,7 @@ Signed, Minister Zal","Граждане Кайнэна,
 "Citizens of Tyria and Friends of Lion's Arch:
 The karka remain a threat to our homes and our livelihoods. By order of Commodore Lawson Marriner, Captain Magnus Irondawn, and the entire Captain's Council, we hereby request any and all able-bodied adventurers to assist us in taking control of the island known as Southsun Cove and neutralizing the karka threat. If you wish to join us, please report to the Sanctum Harbor docks in Lion's Arch.
 —Inspector Ellen Kiel","Граждане Тирии и друзья Львиного Архива:
-Карка остаются угрозой для наших домов и средств к существованию. По приказу коммодора Лоусона Марринера, капитана Магнуса Айрондауна и всего Капитанского Совета, мы настоятельно просим всех способных авантюристов помочь нам взять под контроль остров, известный как Southsun Cove, и нейтрализовать угрозу карка. Если вы хотите присоединиться к нам, пожалуйста, явитесь на причал Гавани Святилища во Львином Архиве.
+Карка остаются угрозой для наших домов и средств к существованию. По приказу коммодора Лоусона Марринера, Captain Magnus Айрондауна и всего Капитанского Совета, мы настоятельно просим всех способных авантюристов помочь нам взять под контроль остров, известный как Southsun Cove, и нейтрализовать угрозу карка. Если вы хотите присоединиться к нам, пожалуйста, явитесь на причал Sanctum Harbor во Львином Архиве.
 — Инспектор Эллен Киль"
 "Citizens of Tyria:
 
@@ -1079,7 +1079,7 @@ The Lionguard has identified the person behind the recent animal attacks on Sout
 
 —Inspector Ellen Kiel","Граждане Тирии:
 
-Львиная Стража установила личность человека, стоящего за недавними нападениями животных на бухту Южного Солнца, но нам нужна помощь в поимке виновного. Наша цель — Канах, сильвари второго рождения с историей создания проблем на бухте Южного Солнца. Канах уже является разыскиваемым беглецом, но этот последний раунд безумия поднял его на вершину нашего списка самых разыскиваемых. Сообщите о себе на бухте Южного Солнца, если вы заинтересованы в помощи мне привлечь его к правосудию.
+Львиная Стража установила личность человека, стоящего за недавними нападениями животных на Southsun Cove, но нам нужна помощь в поимке виновного. Наша цель — Канах, сильвари второго рождения с историей создания проблем на Southsun Cove. Канах уже является разыскиваемым беглецом, но этот последний раунд безумия поднял его на вершину нашего списка самых разыскиваемых. Сообщите о себе на Southsun Cove, если вы заинтересованы в помощи мне привлечь его к правосудию.
 
 — Инспектор Эллен Киль"
 "Cleanse beacons to draw Kryptis to Nyedra.
@@ -1157,7 +1157,7 @@ In addition, I could use assistance on a matter I cannot discuss here. If your t
 Regards,
 Agent Brandubh","Командир %str1%,
 
-У меня есть срочная просьба о вашей помощи на поле боя. В сотрудничестве с Дозором Order of Whispers работает над обнаружением главной базы операций Расплавленного Альянса, и мы сузили сеть до плато Дьесса. Пока вы читаете это, у нас есть агенты под прикрытием в этом районе.
+У меня есть срочная просьба о вашей помощи на поле боя. В сотрудничестве с Дозором Order of Whispers работает над обнаружением главной базы операций Molten Alliance, и мы сузили сеть до плато Дьесса. Пока вы читаете это, у нас есть агенты под прикрытием в этом районе.
 
 Ваша помощь будет иметь решающее значение для нашего успеха. Остановите любые операции Альянса в регионе Дьесса, подавите любые беспорядки и помогите беженцам на пути к Black Citadel; всё это позволит нам вывести агентов из тени и собрать их разведданные.
 
@@ -1195,7 +1195,7 @@ PS: We will continue to collect intel in Wayfarer Foothills, so keep an eye out 
  * End of Frusenfell Creek, at the frozen waterfall
  * Small grove east of Moleberia","Командир %str1%,
 
-Благодаря вашей помощи, Order of Whispers теперь владеет надёжными данными о Расплавленном Альянсе. Эта информация была безопасно передана силам Дозора в поле, и мы работаем над планом атаки; ожидаю, что скоро вы получите предложение присоединиться к нам.
+Благодаря вашей помощи, Order of Whispers теперь владеет надёжными данными о Molten Alliance. Эта информация была безопасно передана силам Дозора в поле, и мы работаем над планом атаки; ожидаю, что скоро вы получите предложение присоединиться к нам.
 
 Пожалуйста, примите и мою личную благодарность. Без вашей помощи и Орден, и жители Диессы могли бы пострадать гораздо сильнее. Они уже достаточно натерпелись от этого беспорядка.
 
@@ -1235,7 +1235,7 @@ We have heard your request to speak with the Pale Tree. She has moments of clari
 Мы услышали вашу просьбу поговорить с Pale Tree. У неё бывают моменты ясности, но они непредсказуемы и перемежаются долгими периодами бессознательного состояния. Пожалуйста, приходите, когда вам удобно, но вам придётся подождать, пока она проснется.
 
 — Целительница Айн из Рощи"
-"Commander %str1%,Thanks to your help, the Order of Whispers is now in possession of solid intel on the Molten Alliance. This intelligence has been safely relayed to Vigil forces in the field, and we're working on a plan of attack; I expect you will be receiving an offer to join us soon.Please also accept my personal thanks. Without your aid, both the Order and Diessa's inhabitants could have suffered much more. They've endured enough of this mess already.Regards,Agent BrandubhPS: We will continue to collect intel in Wayfarer Foothills, so keep an eye out for additional dead drops in that region if you pass through. All intel is good intel. * Base of a steam vent in northeast Solitude Vale * Icy meadow north of Dawnrise Pass * Base of a large boulder east of Crossroads Haven * Icy rocks south of Vendrake's Homestead * End of Frusenfell Creek, at the frozen waterfall * Small grove east of Moleberia","Командир %str1%,Благодаря вашей помощи Order of Whispers теперь обладает надёжными разведданными о Расплавленном Альянсе. Эта информация была безопасно передана силам Дозора на местах, и мы работаем над планом атаки; ожидаю, что вы скоро получите предложение присоединиться к нам.Пожалуйста, примите также мою личную благодарность. Без вашей помощи и Орден, и жители Дьессы могли пострадать гораздо сильнее. Они и так уже достаточно натерпелись от этого хаоса.С уважением,Агент БрандубР.S.: Мы продолжим собирать разведданные в Wayfarer Foothills, так что следите за дополнительными тайниками в этом регионе, если будете проходить мимо. Любая информация полезна.  * Основание парового жерла на северо-востоке Уединённой Долины  * Ледяной луг к северу от перевала Рассветный Пик  * Основание большого валуна к востоку от Приюта Перекрёстка  * Ледяные скалы к югу от Усадьбы Вендрака  * Конец ручья Фрузенфелл, у замёрзшего водопада  * Небольшая роща к востоку от Молеберии"
+"Commander %str1%,Thanks to your help, the Order of Whispers is now in possession of solid intel on the Molten Alliance. This intelligence has been safely relayed to Vigil forces in the field, and we're working on a plan of attack; I expect you will be receiving an offer to join us soon.Please also accept my personal thanks. Without your aid, both the Order and Diessa's inhabitants could have suffered much more. They've endured enough of this mess already.Regards,Agent BrandubhPS: We will continue to collect intel in Wayfarer Foothills, so keep an eye out for additional dead drops in that region if you pass through. All intel is good intel. * Base of a steam vent in northeast Solitude Vale * Icy meadow north of Dawnrise Pass * Base of a large boulder east of Crossroads Haven * Icy rocks south of Vendrake's Homestead * End of Frusenfell Creek, at the frozen waterfall * Small grove east of Moleberia","Командир %str1%,Благодаря вашей помощи Order of Whispers теперь обладает надёжными разведданными о Molten Alliance. Эта информация была безопасно передана силам Дозора на местах, и мы работаем над планом атаки; ожидаю, что вы скоро получите предложение присоединиться к нам.Пожалуйста, примите также мою личную благодарность. Без вашей помощи и Орден, и жители Дьессы могли пострадать гораздо сильнее. Они и так уже достаточно натерпелись от этого хаоса.С уважением,Агент БрандубР.S.: Мы продолжим собирать разведданные в Wayfarer Foothills, так что следите за дополнительными тайниками в этом регионе, если будете проходить мимо. Любая информация полезна.  * Основание парового жерла на северо-востоке Уединённой Долины  * Ледяной луг к северу от перевала Рассветный Пик  * Основание большого валуна к востоку от Приюта Перекрёстка  * Ледяные скалы к югу от Усадьбы Вендрака  * Конец ручья Фрузенфелл, у замёрзшего водопада  * Небольшая роща к востоку от Молеберии"
 "Commander!
 
 I'm happy to write that we've made healthy strides in assisting the spirits with their recovery. Despite our best efforts, I suspect they've a ways to go. The Great Spirits have been slow to stir, but they are—slowly, like my brother after a month's worth of revelry. As for the corrupted, well, grief can manifest as thick, bone-chilling fog; some may never be wholly free of it, but at the very least, we can help light the way out.
@@ -1472,7 +1472,7 @@ Exactly what should you be looking for at these locations? That, I leave to your
 
 Вот известные убежища Белого Пламени, которые Shining Blade продолжает отслеживать. Хотя за последние несколько месяцев ни один из наших шпионов не сообщил о какой-либо заметной активности, это не значит, что наши трое из Белого Пламени не могли оставить следов своих действий в любом из этих мест. Как минимум, стоит присмотреться.
 
-Божественное Убежище: В прошлом агенты Сияющего Клинка наблюдали активность Белого Пламени у садов в северо-восточном углу Руриктона. Поскольку это место находится рядом с воротами, ведущими в Озеро Дорик, оно остается печально известным местом стычек Белого Пламени и Серафимов.
+Божественное Убежище: В прошлом агенты Сияющего Клинка наблюдали активность Белого Пламени у садов в северо-восточном углу Руриктона. Поскольку это место находится рядом с воротами, ведущими в Lake Doric, оно остается печально известным местом стычек Белого Пламени и Серафимов.
 
 Brisban Wildlands: Их убежище к северу от этого региона остается заброшенным после того, как мы зачистили одну из их ячеек во время того приключения с Лазарусом. Однако группы разбойников в Ступенях Вендона по-прежнему симпатизируют Белому Пламени. Они все ещё могут укрывать время от времени юстициаров и их силы. Не помешает взглянуть.
 
@@ -1568,10 +1568,10 @@ I know you're occupied with your pursuit of Inquest forces further inland, but i
 The wind at your back,
 —Kestrel Choole, Alliance Representative of Mori Village","Командир,
 
-Я знаю, что вы заняты преследованием сил Инквеста дальше вглубь континента, но если у вас найдётся свободная минутка, мне не помешает ещё одна пара опытных глаз для оценки обострившейся ситуации на Берегу Кораблекрушений. Я не могу сказать больше в письме; пожалуйста, если вы можете помочь, встретьтесь со мной на скалах, нависающих над Тёмным Левиафаном, к югу от путевой точки.
+Я знаю, что вы заняты преследованием сил Инквеста дальше вглубь континента, но если у вас найдётся свободная минутка, мне не помешает ещё одна пара опытных глаз для оценки обострившейся ситуации на Shipwreck Strand. Я не могу сказать больше в письме; пожалуйста, если вы можете помочь, встретьтесь со мной на скалах, нависающих над Тёмным Левиафаном, к югу от путевой точки.
 
 Попутного ветра,
-— Пустельга Чуль, представитель Альянса от Деревни Мори"
+— Kestrel Choole, представитель Альянса от Mori Village"
 "Commander,
 
 I know you've been very busy, what with the charr insurrections and killing of Elder Dragons, but I think you might want to pay a visit to the Eye of the North. Something seems to be bothering Aurene.
@@ -1627,7 +1627,7 @@ I've also sent word to Taimi and Braham. They'll meet you there and escort you t
 Best,
 Zaeim","Командир,
 
-Я хочу ещё раз поздравить вас с победой над Палавой Джоко. Но, похоже, ваша работа ещё не закончена. Фракции, ранее связанные с Джоко — его лоялисты, Mordant Crescent и Пробуждённые — пытаются заполнить пустое место, которое он оставил. Напряжение растёт, и я боюсь, что мы можем приблизиться к гражданской войне, если не будем действовать быстро.
+Я хочу ещё раз поздравить вас с победой над Palawa Joko. Но, похоже, ваша работа ещё не закончена. Фракции, ранее связанные с Джоко — его лоялисты, Mordant Crescent и Пробуждённые — пытаются заполнить пустое место, которое он оставил. Напряжение растёт, и я боюсь, что мы можем приблизиться к гражданской войне, если не будем действовать быстро.
 
 Я пригласил лидеров фракций на саммит в Fortress of Jahai, в северной Коурне. Как тот, кто освободил нас от гнёта Джоко, я хотел бы, чтобы вы присутствовали. Вы можете добраться до крепости через юго-восточный Вабби.
 
@@ -1885,12 +1885,12 @@ Agent Brandubh","Командир,
 
 В Diessa Plateau есть шесть тайников, и шесть в Wayfarer Foothills. Убедитесь, что вы получили переводящее устройство перед выходом, иначе сообщения из тайников будут нечитаемы. Мой напарник пытался спрятать их, но их не должно быть слишком трудно найти. Ищите возле камней, среди листвы. Они содержат жизненно важную информацию для нашего расследования, так что проявите срочность.
 
-Я бы сосредоточил ваши усилия на Diessa Plateau пока. Я считаю, что база Расплавленного Альянса находится где-то рядом, прямо у нас под ногами...
+Я бы сосредоточил ваши усилия на Diessa Plateau пока. Я считаю, что база Molten Alliance находится где-то рядом, прямо у нас под ногами...
  * Скалистый выступ к северу от поля в Грам-Хиллз, возле руды
  * Высокое плато в Грам-Хиллз, возле гнезда гарпий
  * Груда камней за пределами Silex Castrum
- * Упавшее дерево к северу от Обломков каравана
- * Основание расщелины на каменистом поле к северу от поместья Боварин
+ * Упавшее дерево к северу от Caravan Wreckage
+ * Основание расщелины на каменистом поле к северу от Bovarin Estate
  * У заснеженного дерева за Бойней
 
 Удачи,
@@ -2340,7 +2340,7 @@ You have made a difference here. May all of your endeavors be so successful.
 
 — Keeper Pamir"
 "Commander,I know things've been tense, but I hope you're keeping those horns of yours screwed on. Between Bangar and the demon attacks, I haven't had a lot of space to think for myself. Just reacting to one problem after another. Nothing I haven't growled about before. I can only imagine what you've been up to, but it'd better involve a beach.You know I've always advocated for peace, which is always a tricky subject. But certain tragedy may have delivered just that. Whatever those demons were, wherever they came from...they got us talking. Leader to leader. Started with me and Queen Jennah, and the others fell in step right after. I wish it happened sooner, but I'll take what I can get.Meet me in the citadel. I'd like to talk with you about the Tyrian Alliance.—Crecia","Командир, я знаю, что было напряжённо, но надеюсь, вы держите свои рога прикрученными. Между Бангаром и атаками демонов у меня было не так много места, чтобы думать самостоятельно. Просто реагирую на одну проблему за другой. Ничего нового, о чём я раньше не ворчала. Могу только представить, чем вы занимались, но это должно включать пляж. Вы знаете, что я всегда выступала за мир, что всегда является сложной темой. Но определённая трагедия, возможно, принесла именно это. Кем бы ни были эти демоны, откуда бы они ни пришли... они заставили нас говорить. Лидер с лидером. Началось с меня и королевы Дженны, а остальные сразу же последовали. Жаль, что это не случилось раньше, но я возьму, что дают. Встретьтесь со мной в цитадели. Я хотела бы поговорить с вами о Tyrian Alliance. — Кресия."
-"Commander,There are six dead drop locations in Diessa Plateau and six in Wayfarer Foothills. Make sure you've received a translating device before heading out, or the dead drop messages will be unintelligible. My partner tried to keep them out of sight, but they shouldn't be too difficult to track down. Look near rocks, around foliage. They contain vital information for our investigation, so a sense of urgency would be appreciated.I'd focus your efforts on Diessa Plateau for now. I believe the Molten Alliance base is somewhere close, right under our feet... * Rocky outcrop north of the field in Gram Hills, near ore * Tall plateau in Gram Hills, near harpy nest * Pile of rocks outside of Silex Castrum * Fallen tree north of the Caravan Wreckage * Base of a fissure in the rocky field north of Bovarin Estate * By the snowy tree behind Butcher's YardGood luck,Agent Brandubh","Командир,В Диессе и Wayfarer Foothills есть по шесть тайников. Убедитесь, что у вас есть переводчик, прежде чем отправляться, иначе сообщения будут нечитаемы. Мой напарник пытался спрятать их, но найти их будет несложно. Ищите у скал, среди листвы. В них содержится жизненно важная для нашего расследования информация, так что поторопитесь.Пока сосредоточьтесь на Диессе. Полагаю, база Расплавленного Альянса где-то рядом, прямо у нас под ногами...* Скалистый выступ к северу от поля в Грам-Хиллз, рядом с рудой* Высокое плато в Грам-Хиллз, рядом с гнездом гарпий* Груда камней за пределами Silex Castrum* Поваленное дерево к северу от Обломков Каравана* Основание расщелины на каменистом поле к северу от Поместья Боварин* У заснеженного дерева за БойнейУдачи,Агент Брандуб"
+"Commander,There are six dead drop locations in Diessa Plateau and six in Wayfarer Foothills. Make sure you've received a translating device before heading out, or the dead drop messages will be unintelligible. My partner tried to keep them out of sight, but they shouldn't be too difficult to track down. Look near rocks, around foliage. They contain vital information for our investigation, so a sense of urgency would be appreciated.I'd focus your efforts on Diessa Plateau for now. I believe the Molten Alliance base is somewhere close, right under our feet... * Rocky outcrop north of the field in Gram Hills, near ore * Tall plateau in Gram Hills, near harpy nest * Pile of rocks outside of Silex Castrum * Fallen tree north of the Caravan Wreckage * Base of a fissure in the rocky field north of Bovarin Estate * By the snowy tree behind Butcher's YardGood luck,Agent Brandubh","Командир,В Диессе и Wayfarer Foothills есть по шесть тайников. Убедитесь, что у вас есть переводчик, прежде чем отправляться, иначе сообщения будут нечитаемы. Мой напарник пытался спрятать их, но найти их будет несложно. Ищите у скал, среди листвы. В них содержится жизненно важная для нашего расследования информация, так что поторопитесь.Пока сосредоточьтесь на Диессе. Полагаю, база Molten Alliance где-то рядом, прямо у нас под ногами...* Скалистый выступ к северу от поля в Грам-Хиллз, рядом с рудой* Высокое плато в Грам-Хиллз, рядом с гнездом гарпий* Груда камней за пределами Silex Castrum* Поваленное дерево к северу от Caravan Wreckage* Основание расщелины на каменистом поле к северу от Bovarin Estate* У заснеженного дерева за БойнейУдачи,Агент Брандуб"
 "Commander,While the Vigil continues to struggle against the constant encroachment of enemy forces, I did manage to send a small scouting party to explore the unopened gate we discovered leading into the western mountains.After much trial and error, the scouts were finally able to dissipate the Svanir shaman's corruptive magic and unlock the door with a Raven lens. Rytlock and Crecia went through almost immediately to chase down Bangar, though I've yet to hear word from either one since they passed through.I don't have any scouts I'm comfortable sending through the gate, but I know what lies on the other side: the lake where Svanir called out to the Ice Dragon's champion long ago. It is a place of great power. Great and terrifying power.Be careful.—Jhavi","Командир,Пока Бдительность продолжает бороться с постоянным натиском вражеских сил, мне удалось отправить небольшой разведывательный отряд для исследования неоткрытых врат, которые мы обнаружили ведущими в западные горы.После многих проб и ошибок разведчикам наконец удалось рассеять тлетворную магию шамана Сванира и открыть дверь с помощью линзы Ворона. Ритлок и Кресия прошли через них почти сразу, чтобы преследовать Бангара, хотя я ещё не слышал вестей ни от одного из них с тех пор, как они прошли.У меня нет разведчиков, которых я мог бы с уверенностью отправить через врата, но я знаю, что находится по ту сторону: озеро, где Сванир когда-то призвал чемпиона Ледяного Дракона. Это место великой силы. Великой и ужасающей силы.Будьте осторожны.—Джави"
 "Commander—
 
@@ -2420,7 +2420,7 @@ Eligible Meta-Events:
 Hammerhart Rumble! (Shipwreck Strand)
 Secrets of the Weald (Starlit Weald)","Завершите мета-событие на Касторе, события на карте с подходящим мета-событием либо события в Орре. Завершение мета-события выполняет эту цель мгновенно; события на его карте дают два очка к выполнению.
 Подходящие мета-события:
-«Схватка Молотосердов!» (Берег Кораблекрушений)
+«Схватка Молотосердов!» (Shipwreck Strand)
 «Тайны Рощи» (Звёздная Роща)"
 "Complete a meta-event in Heart of Maguuma, events in a map with an eligible meta-event, or events in Ascalon. Completing the meta-event finishes this objective instantly; events in its map are worth two points toward completion.
 Eligible Meta-Events:
@@ -2435,7 +2435,7 @@ Dragon's Stand (Dragon's Stand)","Завершите мета-событие в 
 Eligible Meta-Events:
 Wizard's Tower (Skywatch Archipelago)
 Defense of Amnytas (Amnytas)
-The Spider's Lair (Inner Nayos)","Завершите мета-событие в Роге Магуумы, события на карте с подходящим мета-событием либо события в Мерцающих Пиках. Завершение мета-события выполняет эту цель мгновенно; события на его карте дают два очка к выполнению.
+The Spider's Lair (Inner Nayos)","Завершите мета-событие в Horn of Maguuma, события на карте с подходящим мета-событием либо события в Мерцающих Пиках. Завершение мета-события выполняет эту цель мгновенно; события на его карте дают два очка к выполнению.
 Подходящие мета-события:
 «Wizard's Tower» (Skywatch Archipelago)
 «Оборона Амнитаса» (Амнитас)
@@ -3042,7 +3042,7 @@ Crecia did confirm one of my main suspicions, though: the Flame Legion is divide
   
 For now, I've got my warband watching every known entrance to the mines. I'm headed up north myself—gonna see if I can gather more intel. I'm not sure who's pulling the strings, but they've got some very powerful hands ready to carry their sword.  
   
-Morva Baeldancer","Беспокойство Кресии Камнесвет так же искренне, как и наше — Бангар заставил её следить за передвижениями дредноутов и Flame Legion. Она говорит, что они называют себя ""Расплавленным Альянсом"". 
+Morva Baeldancer","Беспокойство Кресии Камнесвет так же искренне, как и наше — Бангар заставил её следить за передвижениями дредноутов и Flame Legion. Она говорит, что они называют себя ""Molten Alliance"". 
 Мы думаем, что они действуют из старых шахт дредноутов. Не удалось точно определить, где они находятся (если бы пришлось гадать, где-то под Пиками Дрожи), но это объясняет, почему атаки были такими внезапными.  
   
 Однако Кресия подтвердила одно из моих главных подозрений: Flame Legion разделен. Не все участвуют в этом союзе. Трибун Приветслава — один из главных противников, но у него пока недостаточно веса, чтобы переманить многих. Они барахтаются без Гаерона. У нас не так много понимания их руководства после того, как этот горячий хаос убрали с дороги.  
@@ -3263,7 +3263,7 @@ If you've already left, well... Guess I'll throw this in the hearth next time I 
 
 This plaque was placed by the Ministry of Archives to improve education efforts following the collapse of the Ministry of Purity.","Daigo Ward был назван в честь героических усилий Дайго, шамана тенгу, который помог подавить угрозу Багрового Черепа во время Багровой битвы в лагуне Хайдзю.
 
-Эта табличка была установлена Министерством архивов для улучшения образовательных усилий после краха Ministry of Purity."
+Эта табличка была установлена Ministry of Archives для улучшения образовательных усилий после краха Ministry of Purity."
 "Daily I hear whispers of your name, given with awe and gratitude. I'm confident that your impact on this world will be one worthy of all of Ventari's hopes, one that will aid all of the races. <br>
 —Gardener Leigheara","Ежедневно я слышу шёпот твоего имени, произносимый с трепетом и благодарностью. Я уверен, что твоё влияние на этот мир будет достойно всех надежд Вентари и поможет всем расам. <br>
 —Садовник Лейгера"
