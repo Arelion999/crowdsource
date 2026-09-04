@@ -67,11 +67,6 @@ Double-click to open.","Дважды щёлкните, чтобы открыть
 Содержит 100 разнообразных тотемов, чешуй
 Дважды щёлкните, чтобы открыть."
 "Double-click to open.,
-Contains 100 assorted vials of blood.,Содержит 100 различных склянок с кровью.
-<c=@flavor>""I suppose it makes sense. They are the Blood Legion.""</c>","Дважды щёлкните, чтобы открыть.,
-Содержит 100 различных склянок с кровью.,Содержит 100 различных склянок с кровью.
-<c=@flavor>""Полагаю, это имеет смысл. Они — Blood Legion"".</c>"
-"Double-click to open.,
 Contains 25 assorted molten materials.,
 '<c=@flavor>Fire. It''s a box of fire. Because the Flame Legion loves fire.</c>'","Дважды щёлкните, чтобы открыть.,
 Содержит 25 различных расплавленных материалов.,
@@ -127,11 +122,6 @@ Double-click to open.","Дважды щёлкните, чтобы открыть
 Содержит выбор рецептов оружия Зовущего бурю (фокус, скипетр
 Дважды щёлкните, чтобы открыть."
 "Double-click to open.,
-Contains loot from creatures.,Содержит трофеи с существ.
-<c=@reminder>Affected by magic-find bonuses.</c>","Дважды щёлкните, чтобы открыть.,
-Содержит трофеи с существ.,Содержит трофеи с существ.
-<c=@reminder>Подвержено влиянию бонусов к поиску магии.</c>"
-"Double-click to open.,
 Contains materials from Amnytas.","Дважды щёлкните, чтобы открыть.
 Содержит материалы из Амнитаса."
 "Double-click to open.,
@@ -152,9 +142,6 @@ Purchase these recipes from renown merchants in Elona after learning the base re
 "Double-click to pick a recipe for Spearmarshal Shoulder Pieces. Can be learned by armorsmiths, leatherworkers
 Purchase these recipes from renown merchants in Elona after learning the base recipes from the story.","Дважды щёлкните, чтобы выбрать рецепт наплечников маршала копья. Могут изучить броненосцы и кожевники.
 Купите эти рецепты у известных торговцев в Элоне после изучения базовых рецептов из сюжета."
-"Double-click to pick your choice of rewards.,'Дважды щёлкните, чтобы выбрать награду.'
-<c=@flavor>""Can we skip to the good part?""</c>","Дважды щёлкните, чтобы выбрать награду.,'Дважды щёлкните, чтобы выбрать награду.'
-<c=@flavor>""Можно перейти сразу к хорошей части?""</c>"
 "Double-click to plant a Cultivated Seed in this pot.,
 <c=@flavor>A pot so infused with energy,' it''s sure to germinate a more powerful seedling.</c>'","Дважды щёлкните, чтобы посадить возделанное семя в этот горшок.,
 <c=@flavor>Горшок, настолько пропитанный энергией, что обязательно прорастит более сильный саженец.</c>'"
@@ -167,7 +154,6 @@ Purchase these recipes from renown merchants in Elona after learning the base re
 Double-click to read a card.,"Дважды щёлкните, чтобы прочитать карту."
 Double-click to read. Can be safely discarded after acquiring.,"Дважды щёлкните, чтобы прочитать. Можно безопасно выбросить после получения."
 "Double-click to read.""","Дважды щёлкните, чтобы прочитать."
-"Double-click to read.,'Дважды щелкните",чтобы прочитать.'
 "Double-click to shine on a Cultivated Shoot.,
 <c=@flavor>With a hefty helping of luck, this lamp should get the most stubborn of plants to grow toward its light.</c>","Дважды щёлкните, чтобы осветить возделанный росток.,
 <c=@flavor>С изрядной долей везения эта лампа заставит даже самые упрямые растения тянуться к её свету.</c>"
@@ -176,7 +162,6 @@ Double-click to read. Can be safely discarded after acquiring.,"Дважды щ�
 <c=@flavor>Обладая светом, сиявшим в темноте, этот фонарь очень мощный.</c>"
 "Double-click to show.""","Дважды щёлкните, чтобы показать."""""
 "Double-click to start the party!""","Дважды щёлкните, чтобы начать вечеринку!"
-"Double-click to summon a pet Jade Armor for 5 minutes. This can only be used once every 30 minutes.,'Дважды щёлкните",чтобы призвать питомца-нефритового стража на 5 минут. Можно использовать не чаще одного раза в 30 минут.'
 "Double-click to summon this mini to follow you around. Only one mini may be in use at a time.,
 <c=@flavor>Potato-shaped friend, it is
 Double-click to summon this mini to follow you around. Only one mini may be in use at a time.","Дважды щёлкните, чтобы призвать этого мини-питомца, который будет следовать за вами. Одновременно может использоваться только один мини-питомец.,
@@ -205,9 +190,6 @@ Double-click to transform into a Janthiri floppy fish.,"Дважды щёлкн�
 "Double-click to transform into a hermit crab.,
 <c=@flavor>""When you live in a shell,' you''re always home!""</c>'","Дважды щёлкните, чтобы превратиться в рака-отшельника.,
 <c=@flavor>""Когда живешь в раковине,' ты всегда дома!""</c>'"
-"Double-click to transform into a thundershrimp.,'Дважды щелкните, чтобы превратиться в громокреветку.'
-<c=@flavor>""Still pretty big for a shrimp, if you ask me!""</c>","Дважды щёлкните, чтобы превратиться в громокреветку.
-<c=@flavor>""Все равно креветка, пусть и громовая!""</c>"
 Double-click to transform into a tropical crab.,"Дважды щёлкните, чтобы превратиться в тропического краба."
 "Double-click to unpack and bind this item to your account.""","Дважды щёлкните, чтобы распаковать и привязать этот предмет к вашей учётной записи."""""
 "Double-click to unpack.""","Дважды щёлкните, чтобы распаковать."""""
@@ -219,19 +201,11 @@ This item contains the Ghoul Backpack and Mini Ghoul Legs.","Дважды щёл
 '<c=@flavor>Special care should be taken with this hot stone if you don''t want to get burned.</c>'","Дважды щёлкните, чтобы согреть ваше растение-питомца.,
 '<c=@flavor>С этим горячим камнем следует обращаться осторожно, если вы не хотите обжечься.</c>'"
 Double-click to wear this outfit.,"Дважды щёлкните, чтобы надеть этот наряд."
-"Double-click to wear this outfit.,
-Seize the Awkward! Reach out to your friends in need.,«Перехвати неловкость!» Протяни руку помощи своим друзьям в беде.
-Outfits are full sets of clothing that hide other armor. This will not change individual armor pieces, and you will still receive your current armor stats.","Дважды щёлкните, чтобы надеть этот наряд.,
-Перехвати неловкость! Протяни руку помощи своим друзьям в беде.,«Перехвати неловкость!» Протяни руку помощи своим друзьям в беде.
-Наряды — это полные комплекты одежды, скрывающие другую броню. Это не изменит отдельные элементы брони, и вы по-прежнему будете получать характеристики вашей текущей брони."
 "Double-click while underwater to transform into a koi.,
 '<c=@flavor>""Don''t be coy', be a koi!""</c>","Дважды щёлкните под водой, чтобы превратиться в кои.,
 '<c=@flavor>""Не будь застенчив', будь кои!""</c>"
 Drinking a second time will transform you back to yourself.,"Если выпить второй раз, вы снова станете собой."
 Dropped by Mossman in the Swampland Fractal.,Сброшено Моссменом во Фрактале Болот.
-"Drops from Choya in the Crystal Desert.,«Выпадает с чойя в Пустыне Хрусталя.
-<c=@Flavor>Used in cooking and medicine, once sterilized and cleaned up a bit.</c>","Выпадает с чойя в Пустыне Хрусталя.,«Выпадает с чойя в Пустыне Хрусталя.
-<c=@Flavor>Используется в кулинарии и медицине после стерилизации и очистки.</c>"
 Dyes can be unlocked for unlimited use to color armor on all characters. Dye bottles can also be recycled in the Mystic Forge.,"Краски можно разблокировать для неограниченного использования, чтобы окрашивать броню на всех персонажах. Флаконы с краской также можно перерабатывать в Mystic Forge."
 Dyes can be unlocked for unlimited uses to color armor on all characters.,Краски можно разблокировать для неограниченного использования для окраски брони всех персонажей.
 "Each chest contains up to five personalized Wintersday gifts, plus an additional themed item. This includes tonics
@@ -301,9 +275,6 @@ Equipment Template tabs allow a character to swap to an additional set of equipm
 "Event Item""","Предмет события"""
 Fashion Template tabs allow accounts to swap and store an additional set of cosmetics for all your characters.,Вкладки шаблонов моды позволяют учётным записям менять и хранить дополнительный набор косметики для всех ваших персонажей.
 Filled with all the nutrients a growing raptor needs! Double-click to feed this to your raptor.,"Содержит все питательные вещества, необходимые растущему раптору! Дважды щёлкните, чтобы накормить этим вашего раптора."
-"Filled with all the nutrients a growing springer needs! Double-click to feed this to your springer.,'«Содержит все питательные вещества, необходимые растущему прыгуну! Дважды щёлкните, чтобы накормить своего прыгуна.»'
-Gives bonus Mastery experience once per day.","Содержит все питательные вещества, необходимые растущему спрингеру! Дважды щёлкните, чтобы скормить это вашему спрингеру.,
-Даёт дополнительный опыт мастерства один раз в день."
 Filled with all the nutrients a growing warclaw needs! Double-click to feed this to your warclaw.,"Содержит все питательные вещества, необходимые растущему боевому когтю! Дважды щёлкните, чтобы накормить этим вашего боевого когтя."
 First Drop:,Первая капля:
 Found by completing the meta-event finale in Gyala Delve.,Найдено при завершении финала мета-события в Ущелье Гьялы.
@@ -329,12 +300,6 @@ Natural","Гидеон Хоторн II,
 Натуральный"
 Gives bonus Mastery experience once per day.,Раз в день даёт дополнительный опыт мастерства.
 "Gives bonus Mastery experience once per day.""","Даёт дополнительный опыт мастерства один раз в день."""""
-"Gives one standalone homestead decoration of Orrax Contained.,Даёт одно отдельное украшение жилища «Орракс заточён».
-This homestead decoration cannot be crafted.","Даёт одно отдельное украшение усадьбы «Орракс заточён».
-Это украшение усадьбы нельзя создать."
-"Grants 10 agony resistance. ,«Даёт 10 сопротивления агонии.
-<c=@reminder>With Fractal Attunement Mastery, this item grants an additional 5 agony resistance.</c>","Даёт 10 сопротивления агонии. ,«Даёт 10 сопротивления агонии.
-<c=@reminder>С умением «Фрактальная гармония» этот предмет даёт дополнительные 5 сопротивления агонии.</c>"
 Grants a chance to receive a bonus crafting material on each swing in addition to your gathering results.,Даёт шанс получить дополнительный материал для крафта при каждом взмахе в дополнение к результатам сбора.
 Grants a chance to receive a bonus watchwork sprocket after gathering in addition to your harvesting results.,Даёт шанс получить дополнительную часовую шестерёнку после сбора в дополнение к результатам сбора урожая.
 Grants a chance to receive a bonus watchwork sprocket on each swing in addition to gathering results.,Даёт шанс получить дополнительную часовую шестерёнку при каждом взмахе в дополнение к результатам сбора.
@@ -377,74 +342,7 @@ Grants a large amount of kodan experience.","Даёт большой опыт м
 "Grants a moderate amount of karma.,
 <c=@Flavor>The bangle is both large and said to be excellent at distracting the giants that roam the Highlands. </c>","Даёт умеренное количество кармы.,
 <c=@Flavor>Браслет большой и, как говорят, отлично отвлекает великанов, бродящих по Нагорьям. </c>"
-"Grants a small amount of karma.,«Дает небольшое количество кармы.»
-'<c=@Flavor>This collection of Joko''s teachings seems of dubious value.</c>'","Даёт небольшое количество кармы.,«Даёт небольшое количество кармы».
-'<c=@Flavor>Эта коллекция учений Джоко кажется сомнительной ценности.</c>'"
-"Grants a small amount of karma.,«Дает небольшое количество кармы.»
-<c=@Flavor>The choya seemed very excited to present you with this clump of glistening earth.</c>","Даёт небольшое количество кармы.,«Даёт небольшое количество кармы».
-<c=@Flavor>Чойя, казалось, был очень рад подарить вам этот комок блестящей земли.</c>"
-"Grants a small amount of karma.,«Дает небольшое количество кармы.»
-<c=@Flavor>These are much crunchier than the non-golden version, and decidedly less delicious.</c>","Даёт небольшое количество кармы.,«Даёт небольшое количество кармы».
-<c=@Flavor>Они намного более хрустящие, чем незолотая версия, и определённо менее вкусные.</c>"
-"Grants a small amount of karma.,«Дает небольшое количество кармы.»
-<c=@Flavor>These things never work,' but that hasn''t stopped people from trying.</c>'","Даёт небольшое количество кармы.
-<c=@Flavor>«Эти штуки никогда не работают», но это не останавливает людей.</c>'"
 Grants a small chance to receive a bonus crafting material after gathering in addition to your gathering results.,Даёт небольшой шанс получить дополнительный материал для крафта после сбора в дополнение к результатам сбора.
-"Grants a tiny amount of karma.,Дарует крошечное количество кармы.
-'<c=@Flavor>The community of Zephyr''s Trace have begun to discover many secrets left behind by their intrepid predecessors.</c>'","Даёт крошечное количество кармы.,
-Дарует крошечное количество кармы.
-'<c=@Flavor>Сообщество Тропы Зефира начало открывать множество секретов, оставленных их бесстрашными предшественниками.</c>'"
-"Grants a tiny amount of karma.,Дарует крошечное количество кармы.
-<c=@Flavor>Difficult to catch, but edible. And better in a pot than under your foot.</c>","Дарует крошечное количество кармы.,
-<c=@Flavor>Трудно поймать, но съедобно. И лучше в горшке, чем под ногой.</c>"
-"Grants a tiny amount of karma.,Дарует крошечное количество кармы.
-<c=@Flavor>Ingenious construction causes this basket to provide the fishing village with a steady supply of delicious food for themselves and their raptors.</c>","Дарует крошечное количество кармы.
-<c=@Flavor>Гениальная конструкция позволяет этой корзине снабжать рыбацкую деревню постоянным запасом вкусной еды для них и их ящеров.</c>"
-"Grants a tiny amount of karma.,Дарует крошечное количество кармы.
-<c=@Flavor>These were unseen for a generation, but lately the warrior-monks of Balthazar have been placing these to signify their return.</c>","Дарует крошечное количество кармы.
-<c=@Flavor>Их не видели целое поколение, но в последнее время воины-монахи Бальтазара размещают их, чтобы обозначить свое возвращение.</c>"
-"Grants both Experience Booster and Item Booster benefits for 2 hours, including:
-• +50%% Experience in All Game Types,• +50%% опыта во всех типах игры
-• +50%% Reward Track Gain in PvP and WvW,
-• Up to 100%% Bonus Experience for Kill Streaks,
-• +50%% Magic Find,
-• +50%% Chance of Critical Crafting Experience Gain,
-• +33%% Chance of Extra Gathering Strike,
-• 10 Seconds of Swiftness after Gathering ,
-• Summons a Black Lion Merchant If Your Inventory Is Full after Gathering (20-Minute Cooldown)","Дарует эффекты усилителя опыта и усилителя предметов на 2 часа, в том числе:
-• +50%% опыта во всех типах игры
-• +50%% опыта во всех типах игры
-• +50%% к получению очков наград в PvP и WvW
-• до 100%% бонусного опыта за серии убийств
-• +50%% к поиску магии
-• +50%% шанса критического получения опыта в ремёслах
-• +33%% шанса дополнительного удара при сборе
-• 10 секунд скорости после сбора
-• призыв торговца «Black Lion», если инвентарь переполнен после сбора (перезарядка 20 мин.)"
-"Grants both Experience Booster and Item Booster benefits for 30 minutes:,Даёт преимущества Опытного усилителя и Усилителя предметов на 30 минут:",Даёт преимущества Опытного усилителя и Усилителя предметов на 30 минут:
-"Grants the following benefits for 2 hours:,
-• +50%% Experience in All Game Types,• +50%% опыта во всех типах игры
-• +50%% Reward Track Gain in PvP and WvW,
-• Up to 100%% Bonus Experience for Kill Streaks","Даёт следующие преимущества на 2 часа:,
-• +50%% опыта во всех типах игры,• +50%% опыта во всех типах игры
-• +50%% прироста линии наград в PvP и WvW,
-• До 100%% бонусного опыта за серии убийств"
-"Grants the following benefits for 30 minutes:,
-• +50%% Experience from Kills,
-• +75%% Gold from Kills,
-• +25%% Reward-Track Gain in PvP and WvW,• +25%% к скорости получения наград в PvP и WvW
-• +100%% Magic Find","Дарует следующие преимущества на 30 минут:,
-• +50%% опыта за убийства,
-• +75%% золота за убийства,
-• +25%% к скорости получения наград в PvP и WvW,• +25%% к скорости получения наград в PvP и WvW
-• +100%% удачи при поиске трофеев"
-"Grants the following benefits for 30 minutes:,
-• +50%% Experience in All Game Types,• +50%% опыта во всех типах игры
-• +50%% Reward Track Gain in PvP and WvW,
-• Up to 100%% Bonus Experience for Kill Streaks","Даёт следующие преимущества на 30 минут:,
-• +50%% опыта во всех типах игры,• +50%% опыта во всех типах игры
-• +50%% прироста наградной шкалы в PvP и WvW,
-• До 100%% бонусного опыта за серии убийств"
 "Griffon hatchlings are extremely energetic and precocious.
 Combine a white, yellow
 Griffoncrack,Трещина Грифона
@@ -593,26 +491,8 @@ Herald of Aurene Outfit,Herald of Aurene Outfit
 "Holding this empty bottle, you feel slightly uncomfortable
 <c=@flavor>Abandoned long ago, but only recently realized.</c>","Держа эту пустую бутылку, вы чувствуете лёгкий дискомфорт
 <c=@flavor>Покинута давно, но осознана только недавно.</c>"
-"Immediately adds 1 Café Transporter to your stock of homestead decorations.,«Немедленно добавляет 1 кафе-транспортёр в ваш запас украшений жилища.»
-<c=@flavor>Café customers will enter and exit your homestead from this decoration if it is placed instead of from the waypoint.</c>","Немедленно добавляет 1 кафе-транспортёр в ваш запас украшений усадьбы.,«Немедленно добавляет 1 кафе-транспортёр в ваш запас украшений усадьбы».
-<c=@flavor>Если установлено это украшение, посетители кафе будут входить и выходить из вашего усадьбы через него, а не через точку перемещения.</c>"
 Immediately receive 150 research notes.,Немедленно получите 150 исследовательских заметок.
 "In Echovald Wilds,' deactivate the haywire Gods'' Vengeance.'",В дебрях Эховалда отключите разбушевавшуюся «Месть богов».
-"In honor of those who cleared the way.,
-Double-click to open.,'Дважды щелкните, чтобы открыть.'
-Contains bonus Airship Parts.","В честь тех, кто расчистил путь.,
-Дважды щёлкните, чтобы открыть.,
-Содержит бонусные детали дирижабля."
-"In honor of those who cleared the way.,
-Double-click to open.,'Дважды щелкните, чтобы открыть.'
-Contains bonus Lumps of Aurillium.","В честь тех, кто расчистил путь.,
-Дважды щёлкните, чтобы открыть.,'Дважды щёлкните, чтобы открыть.'
-Содержит бонусные глыбы Ауриллиума."
-"In honor of those who cleared the way.,
-Double-click to open.,'Дважды щелкните, чтобы открыть.'
-Contains bonus ley-line crystals.","В честь тех, кто расчистил путь.,
-Дважды щёлкните, чтобы открыть.,'Дважды щёлкните, чтобы открыть.'
-Содержит бонусные кристаллы лей-линии."
 "In which His Royal Madness ascends to the Krytan throne and wields his first decree.,
 '<c=@flavor>—Search the dead streets and forgotten thoroughfares of another Lion''s Arch. (Site #2)',
 '—Say more now and look more where Kryta''s descendants are buried. (Site #3)</c>'","В котором Его Королевское Безумие восходит на крайтанский трон и издаёт свой первый указ.,
@@ -641,15 +521,9 @@ Contains bonus ley-line crystals.","В честь тех, кто расчист�
 —Find Provernic,' where the first king''s bones rot in the hills. (Site #5)</c>'","В котором Ос неуклюже и с неловкими паузами ухаживает за леди Лирикой.,
 <c=@flavor>—Отправляйтесь в холмы и укорените чёрные корни в стоячих водах. (Участок №4),
 —Найдите Проверника, где гниют кости первого короля в холмах. (Участок №5)</c>'"
-"In which a friend joins young Oswald Thorn for the adventure of a lifetime.,
-'<c=@flavor>—Say more now and look more where Kryta''s descendants are buried. (Site #3)','<c=@flavor>—Говори больше сейчас и смотри больше туда, где покоятся потомки Криты. (Участок №3)'
-—Go into the hills and set down black roots in stagnant waters. (Site #4)</c>","В которой друг присоединяется к юному Освальду Торну в приключении всей жизни.,
-'<c=@flavor>—Говори больше сейчас и смотри больше туда, где покоятся потомки Крайты. (Участок №3)','<c=@flavor>—Говори больше сейчас и смотри больше туда, где покоятся потомки Крайты. (Участок №3)'
-—Иди в холмы и укорени чёрные корни в стоячих водах. (Участок №4)</c>"
 "In which a rebellious village goes up in flames.,
 '<c=@flavor>—Walk in cadence with King Thorn''s shattered subjects. They keep their hatred deep within. (Site #10)</c>'","В коей мятежная деревня обращается в пламя.
 <c=@flavor>—Идите в ногу с разбитыми подданными короля Терна. Они глубоко хранят свою ненависть. (Место №10)</c>"""
-"In which the king makes an example of ungrateful peasants.,В которой король наказывает неблагодарных крестьян в назидание.","В которой король наказывает неблагодарных крестьян в назидание.,В которой король наказывает неблагодарных крестьян в назидание."
 "Information on the patrols around the mine and the dredge defensive capabilities. Grimarr Molesmasher, outside of Molensk
 Infused Aurora Chestguard Skin,
 Infused Aurora Gloves Skin,
@@ -695,16 +569,6 @@ Infused Tiger Milk,
 Устройство извлечения инфузии,
 Ингредиент,
 Ингредиент"
-"Ingredient,
-A rare potato found hidden in potato patches.,'Редкая картофелина, спрятанная на картофельных грядках.'
-<c=@flavor>A rare and wonderfully complex potato.<c>","Ингредиент,
-Редкая картофелина, спрятанная на картофельных грядках.,'Редкая картофелина, спрятанная на картофельных грядках.'
-<c=@flavor>Редкая и удивительно сложная картофелина.<c>"
-"Ingredient,
-Dropped by risen Orrians.,Выпадает с восставших оррианцев.
-<c=@flavor>Caution: Sometimes found attached to risen Orrians.<c>","Ингредиент,
-Выпадает с восставших оррианцев.,
-<c=@flavor>Внимание: Иногда встречается на восставших оррианцах.<c>"
 "Intellect, willpower
 Intelligence Report: Palawa Joko I,Разведывательное донесение: Палава Джоко I
 Intelligence Report: Palawa Joko I Page 01,'Разведдонесение: Палава Джоко I, стр. 01'
@@ -930,7 +794,6 @@ Balance","Иван Саберлин,
 • Mystic Forge,
 • Торговцы,
 • И многое другое! Всё в пределах лёгкой досягаемости для тех, кто ценит максимальное удобство."
-"Located in Ember Bay.,Находится в бухте Эмбер.",Находится в Бухте Углей.
 "Located in the Crystal Oasis.,
 • Crafting Stations,
 • Bank and Guild-Bank Access,
@@ -1159,7 +1022,6 @@ Made by combining these items in the Mystic Forge:,Создаётся путём
 • 250 Globs of Ectoplasm
 • 1 Gift of Might
 • 1 Gift of Magic"
-"Made by combining these items in the Mystic Forge:,Создается путем объединения этих предметов в Таинственной кузнице:","Создаётся путём объединения этих предметов в Мистической кузнице:,Создается путем объединения этих предметов в Мистической кузнице:"
 "May Contain: ,«Может содержать: 
 • Tomes of Mentorship,
 • Tomes of Knowledge,
@@ -1180,7 +1042,6 @@ Mist-Hardened Lockboxes can be found in weekly reward chests or dropped by keep 
 Musical Verdarach,Musical Verdarach
 "Neither moa nor griffon, these strange feathers are completely unfamiliar.","Ни моа, ни грифон — эти странные перья совершенно незнакомы."
 "Obscure""","Неясный"""
-"Obtain the Gigantic Ice Elemental Core from the remains of the giant ice elemental in Wayfarer Foothills. Bring it to the heart of the volcano core inside the Fractals of the Mists and imbue it in the lava. ,Добудьте гигантское ядро ледяного элементаля из останков гигантского ледяного элементаля в Предгорьях Путника. Отнесите его в жерло вулканического ядра в Осколках тумана и пропитайте его лавой.",Добудьте гигантское ядро ледяного элементаля из останков гигантского ледяного элементаля в Предгорьях Странника. Отнесите его в жерло вулканического ядра в Осколках тумана и пропитайте его лавой.
 "Olava Skumasdottir,
 403 Bloom XXX0,
 Obscure","Олава Скумасдоттир,
@@ -1201,13 +1062,6 @@ Only effective during April Fools.,Действует только в День �
 <c=@Flavor>Подарок от незнакомого друга из-за морей, в надежде, что вы станете полезным союзником.</c>"
 "Outfits are full sets of clothing that hide other armor. This will not change individual armor pieces, and you will still receive your current armor stats.","Наряды — это полные комплекты одежды, которые скрывают другую броню. Это не изменит отдельные элементы брони, и вы по-прежнему будете получать характеристики вашей текущей брони."
 "Piece of a timeworn dwarven door,' perfect for Gerrvid''s collection.'","Часть ветхой дворфской двери, идеально подходящая для коллекции Геррвида."
-"Purchase Limit: 5,Лимит покупки: 5
-Price increases when purchase limit is reached.,
-This item grants an Anguished Tear of Alba, which can be consumed to grant 10 agony resistance for 1 hour.
-With Fractal Attunement Mastery, grants an additional 5 agony resistance.","Лимит покупки: 5
-Цена увеличивается при достижении лимита покупки.
-Этот предмет даёт «Скорбную слезу Альбы», которую можно употребить для получения 10 единиц сопротивления агонии на 1 час.
-С мастерством «Сосредоточение на фракталах» даёт дополнительные 5 единиц сопротивления агонии."
 Purchase the recipe for this item from any Mystic Forge vendor and reach a chef rating of 400 to craft.,Рецепт этого предмета покупается у любого торговца Mystic Forge; для изготовления нужен уровень повара 400.
 Purchase the recipe for this item from any Mystic Forge vendor and reach a huntsman rating of 400 to craft.,Рецепт этого предмета покупается у любого торговца Mystic Forge; для изготовления нужен уровень охотника 400.
 Purchase the recipe for this item from any Mystic Forge vendor and reach a jeweler rating of 400 to craft.,Рецепт этого предмета покупается у любого торговца Mystic Forge; для изготовления нужен уровень ювелира 400.
@@ -1226,7 +1080,6 @@ Purchased from Tyrian Alliance Representative Sharpwhisker in Glimmering Arches 
 "Purchased from Visions of Eternity renown heart vendors.""","Куплено у продавцов заданий сердца «Visions of Eternity»."""""
 Purchased from dungeon vendors for 500 Tales of Dungeon Delving.,Покупается у торговцев подземелий за 500 Tales of Dungeon Delving.
 Rare or uncommon dye chances:,Шансы на редкие или необычные краски:
-"Really enjoys facing north for some reason.,Почему-то очень любит смотреть на север.",Почему-то очень любит смотреть на север.
 Relic of Dwayna,Relic of Dwayna
 "Renown Item""","Знаменитый предмет"""
 "Renown Item,
@@ -1234,31 +1087,6 @@ Deposit into food baskets to help the Makali community of the Desert Highlands.,
 <c=@Flavor>Despite the hardscrabble nature of nomadic life, the generosity on display is immense.</c>","Предмет известности,
 Положите в корзины с едой, чтобы помочь общине макали в Пустынных нагорьях.,
 <c=@Flavor>Несмотря на суровость кочевой жизни, щедрость здесь огромна.</c>"
-"Repackages boosts in your inventory to take up less space and allows you to change boosts to another similar type.,
-Each powder will grant one Enchanted Boost in exchange for the following boosts in the quantity listed in the parentheses:,
-• Karma Booster (2),
-• Experience Booster (1),• Усилитель опыта (1)
-• Gathering Booster (1),
-• Crafting Booster (1),
-• Magic Find Booster (1),
-• Killstreak Experience Booster (1),
-• Armor Booster (1),• Усилитель брони (1)
-• Strength Booster (1),
-• Speed Booster (1),
-• Rejuvenation Booster (1),• Усилитель восстановления (1)
-Double-click to activate.","Переупаковывает усиления в вашем инвентаре, чтобы они занимали меньше места, и позволяет изменить усиления на другой похожий тип.,
-Каждый порошок даёт одно зачарованное усиление в обмен на следующие усиления в количестве, указанном в скобках:,
-• Усилитель кармы (2),
-• Усилитель опыта (1),
-• Усилитель сбора (1),
-• Усилитель ремесла (1),
-• Усилитель поиска магии (1),
-• Усилитель опыта за серию убийств (1),
-• Усилитель брони (1),
-• Усилитель силы (1),
-• Усилитель скорости (1),
-• Усилитель восстановления (1),
-Дважды щёлкните, чтобы активировать."
 "Requires """"A Crack in the Ice.""""""",Требуется «Трещина во льду».
 "Requires The Head of the Snake.""","Требуется «Голова змеи»."""""
 Rewarded for finishing first in the World Tournament Series!,Награда за первое место в мировом турнире!
@@ -1529,7 +1357,6 @@ The Punisher Близнецов
 The Ugly Stick
 Очень голодный дольяк
 Припасы «War Eternal»"
-"The backpack of a Vigil leader.,Рюкзак лидера Дозора.",Рюкзак лидера Дозора.
 "The bat wing is well preserved.,
 <c=@flavor>The wing smells a little funky and tingles with a feeling that reminds you of the Mystic Forge.</c>","Крыло летучей мыши хорошо сохранилось.,
 <c=@flavor>Крыло пахнет странновато и покалывает ощущением, напоминающим Mystic Forge.</c>"
@@ -1544,35 +1371,6 @@ Double-click to open.","Открытый сундук содержит эссе�
 Дважды щёлкните, чтобы открыть."
 "There might be someone in Yatendi village looking for this.""","Возможно, кто-то в деревне Ятенди ищет это."""""
 Third Drop:,Третья капля:
-"This adds a Black Lion Expedition Board to your home instance, which can be used to collect exotic resources from across Tyria and the Mists. 
-Expedition options include the following:,
-• Skywatch Archipelago,• Архипелаг Небокрай
-• Amyntas,
-• Inner Nayos,
-• Rifts","Это добавляет доску экспедиций «Чёрного льва» в ваше домашнее убежище, которую можно использовать для сбора экзотических ресурсов по всей Тирии и Туманным землям. 
-Варианты экспедиций включают следующее:,
-• Архипелаг Небокрай,• Архипелаг Небокрай
-• Аминтас,
-• Внутренний Найос,
-• Разломы"
-"This adds a Black Lion Expedition Board to your home instance, which can be used to collect exotic resources from across Tyria. 
-Expedition locations include the following:,
-• Dry Top and the Silverwastes,
-• Bloodstone Fen,
-• Ember Bay,• Бухта Янтаря
-• Bitterfrost Frontier,
-• Lake Doric,
-• Draconis Mons,
-'• Siren''s Landing'","Это добавляет доску экспедиций Чёрного Льва в ваше домашнее убежище, которую можно использовать для сбора экзотических ресурсов по всей Тирии.
-Места экспедиций включают следующее:,
-• Сухая вершина и Серебряные пустоши,
-• Кровавый камень,
-• Залив Искр,
-• Бухта Янтаря,
-• Горький морозный рубеж,
-• Озеро Дорик,
-• Драконий Монс,
-• Земля Сирены"
 "This adds a Black Lion Hunters Board to your home instance, which can be used to collect fine crafting materials.
 Collectible materials include:,
 • Bones,
@@ -1654,36 +1452,6 @@ This miniature inherits the appearance of whichever jade bot skin you have equip
 This package contains cooking and artificing recipes that require ingredients from plants that can only be grown in your home garden.","Этот набор содержит облик топора, облик кинжала
 Этот набор содержит рецепты кулинарии и изготовления артефактов, требующие ингредиенты из растений, которые можно вырастить только в вашем домашнем саду."
 This page is part of the Frode's Journal achievement.,Эта страница является частью достижения «Дневник Фроде».
-"This pass provides permanent access to the Thousand Seas Pavilion, a beautiful isle adrift in the Mists.
-• Quick Travel to All Cities and a Variety of Fishing Locations,
-• Scenic and Convenient Fishing and Boating Opportunities,• Живописные и удобные возможности для рыбалки и катания на лодках
-• Crafting Stations,
-• Bank and Guild Bank Access,
-• Mystic Forge,
-• Merchants,
-• And more! All within easy reach, for those who enjoy the ultimate convenience.","Этот пропуск предоставляет постоянный доступ к Павильону тысячи морей, прекрасному острову, дрейфующему в Бездне.
-• Быстрое путешествие во все города и разнообразные места для рыбалки,
-• Живописные и удобные возможности для рыбалки и катания на лодках,
-• Столы для крафта,
-• Доступ к банку и гильдейскому банку,
-• Mystic Forge,
-• Торговцы,
-• И многое другое! Всё в пределах лёгкой досягаемости для тех, кто ценит максимальное удобство."
-"This pass provides temporary access to the Thousand Seas Pavilion, a beautiful isle adrift in the Mists.
-• Quick Travel to All Cities and a Variety of Fishing Locations,
-• Scenic and Convenient Fishing and Boating Opportunities,• Живописные и удобные возможности для рыбалки и катания на лодках
-• Crafting Stations,
-• Bank and Guild Bank Access,
-• Mystic Forge,
-• Merchants,
-• And more! All within easy reach, for those who enjoy the ultimate convenience.","Этот пропуск даёт временный доступ в Thousand Seas Pavilion — прекрасный остров, парящий в Бездне.
-• Быстрое путешествие во все города и множество мест для рыбалки,
-• Живописные и удобные возможности для рыбалки и катания на лодках,
-• Ремесленные станции,
-• Банк и доступ к банку гильдии,
-• Таинственная кузница,
-• Торговцы,
-• И многое другое! Всё в лёгкой досягаемости для тех, кто ценит максимальное удобство."
 "This regional weapon box contains unique skins, dragonite ore
 'This relic appears to be in better shape than most others you''ve found.',
 This residue lies dormant. It could be imbued at a strong phantasmal energy source.","Эта региональная коробка с оружием содержит уникальные облики, руду драконита
@@ -1735,33 +1503,7 @@ Account bound on use.","Превращает вас в случайное соз
 "Turn in to a Shadows handler in the Crystal Desert.,
 Event Item","Сдайте агенту Теней в Пустыне Кристалла.,
 Предмет события"
-"Unlocks the following recipes:,
-• Shimmering Dagger,• Мерцающий кинжал
-• Tenebrous Dagger","Открывает следующие рецепты:,
-• Shimmering Dagger
-• Shimmering Dagger
-• Тенеброзный кинжал"
-"Unlocks the following recipes:,
-• Shimmering Focus,• Мерцающий фокус
-• Tenebrous Focus","Открывает следующие рецепты:,
-• Shimmering Focus,• Shimmering Focus
-• Tenebrous Focus"
-"Unlocks the following recipes:,
-• Shimmering Scepter,• Мерцающий скипетр
-• Tenebrous Scepter","Открывает следующие рецепты:,
-• Shimmering Scepter,• Shimmering Scepter
-• Tenebrous Scepter"
-"Unlocks the following recipes:,
-• Shimmering Staff,• Мерцающий посох
-• Tenebrous Staff","Открывает следующие рецепты:,
-• Shimmering Staff,• Shimmering Staff
-• Tenebrous Staff"
 "Unlocks the journey to the legendary trinket Vision. If you have already fulfilled certain requirements, they will be retroactively granted.","Открывает путь к легендарному аксессуару «Видение». Если вы уже выполнили некоторые требования, они будут зачтены задним числом."
-"Unpack a target painter. This trick marks up to 50 enemy players in the area for 30 seconds. Costs 10 supply to deploy. Cannot be avoided.,«Развернуть целеуказатель. Этот трюк помечает до 50 вражеских игроков в области на 30 секунд. Стоит 10 единиц припасов для развёртывания. Нельзя избежать».
-Deployment Range: 1,200
-Effect Radius: 360","«Развернуть целеуказатель. Этот трюк помечает до 50 вражеских игроков в области на 30 секунд. Стоит 10 единиц припасов для развёртывания. Нельзя избежать».
-Дальность развёртывания: 1,200
-Радиус действия: 360"
 Unstable Rift Motivations can be found in tier 2 and 3 rifts or bought from the Trading Post.,Нестабильные мотивации разлома можно найти в разломах 2 и 3 уровня или купить на Торговой площадке.
 "Unsworn""",Непоклявшийся
 "Usable by any character, this pack comes with everything a pirate captain needs to pillage
@@ -1799,7 +1541,6 @@ Use this to sign your account up for weekly Visions of Eternity Launch Supply Dr
 5 ключей от сундука Чёрного льва, 2 билета на миниатюру Чёрного льва
 Используйте это, чтобы подписаться на еженедельные припасы запуска «Visions of Eternity». Получите первую каплю немедленно и ещё три до 25 ноября."
 Use this to sign your account up for weekly War Eternal Supply Drops. Receive the first immediately and three more between now and May 21.,"Используйте это, чтобы подписать свой аккаунт на еженедельные поставки Войны вечности. Первая доставка будет сразу, ещё три — с сегодняшнего дня по 21 мая."
-"Use to gain a Target Painter trap. This trap marks up to 50 enemies when activated. Costs 5 supply to deploy. Cannot be avoided.,'Используйте","чтобы получить ловушку «Target Painter». Эта ловушка отмечает до 50 врагов при активации. Стоит 5 единиц припасов для установки. Нельзя избежать"".'"
 Used by jade bot technicians to upgrade to Mount Energy Booster 3.,Используется техниками джейд-ботов для улучшения до Усилителя энергии скакуна 3.
 Used by jade bot technicians to upgrade to Rescue Protocol Recharge 3.,Используется техниками джейд-ботов для улучшения до Восстановления протокола спасения 3.
 Used by jade bot technicians to upgrade to Skiff Supercharger 3.,Используется техниками джейд-ботов для улучшения до Суперзарядчика скифа 3.
@@ -1868,15 +1609,8 @@ Used to create a Gift of Shadowstones.,Используется для созд�
 "Used to create a Gift of Shadowstones.,
 'Purchased from the renown heart vendor in Pilgrim''s Rest in Eternity''s Garden.'","Используется для создания Дара теневых камней.,
 Покупается у торговца сердца известности в Приюте Пилигрима в Саду Вечности."
-"Used to create a Gift of the Elders and a Gift of the Seas.,Используется для создания Дара старейшин и Дара морей.","Используется для создания Да́ра старейшин и Да́ра морей.,Используется для создания Дара старейшин и Дара морей."
 Used to create a Gift of the People.,Используется для создания Дара народа.
 Used to create a Gift of the Survivors.,Используется для создания Дара выживших.
-"Used to create a Gift of the Survivors.,
-Earned by completing the Shipwreck Strand Mastery achievement.,Получено за выполнение достижения «Мастерство Кораблекрушения».
-Additional copies can be purchased from Visions of Eternity vendors afterward.","Используется для создания Дара выживших.
-Получено за выполнение достижения «Мастерство Кораблекрушения».
-Дополнительные копии можно приобрести у торговцев «Visions of Eternity»."
-"Used to create legendary equipment.,Используется для создания легендарного снаряжения.","Используется для создания легендарного снаряжения.,Используется для создания легендарного снаряжения."
 Used to create legendary weapon and trinket gift items.,Используется для создания предметов дара для легендарного оружия и аксессуаров.
 "Used to detect and dig up chunks of Brandstone that fall on Istan. ,
 Costs 3 Volatile Magic per 5-minute charge.","Используется для обнаружения и выкапывания кусков Камня бренда, падающих на Истан. ,
@@ -1886,9 +1620,6 @@ Used to gather all plants.,Используется для сбора всех �
 Used to gather all plants.","Используется для сбора цукини, капусты
 Используется для сбора всех растений.,Используется для сбора всех растений.
 Используется для сбора всех растений."
-"Used to gather all plants. Rewards unbound magic in addition to harvesting results. Unlimited use.,«Используется для сбора всех растений. В награду за сбор даёт необузданную магию. Неограниченное использование.»
-<c=@Reminder>This item can be exchanged for an updated version at the Black Lion Exchange Specialist.</c>","Используется для сбора всех растений. Даёт несвязанную магию в дополнение к результатам сбора. Неограниченное использование.,
-<c=@Reminder>Этот предмет можно обменять на обновлённую версию у специалиста по обмену «Black Lion».</c>"
 Used to harvest all plants.,Используется для сбора всех растений.
 "Used to harvest all plants. Unlimited use. In addition to your harvesting results, this tool has a small chance to reward additional items after gathering completes.",Используется для сбора всех растений. Безлимитное использование. В дополнение к результатам сбора этот инструмент с небольшим шансом может дать дополнительные предметы после завершения сбора.
 "Used to harvest all plants.,
@@ -1901,11 +1632,6 @@ Used to mine all metals. Unlimited uses. This tool has a small chance to reward 
 "Used to mine all metals.,
 Replaces gathering results with ores used in higher-level crafting recipes. Material types are determined by the type of node gathered from. Mithril ore can be improved a limited number of times each day.","Используется для добычи всех металлов.,
 Заменяет результаты сбора на руду, используемую в рецептах крафта более высокого уровня. Типы материалов определяются типом узла, с которого производится сбор. Мифриловую руду можно улучшать ограниченное количество раз в день."
-"Used to open trade crates in the Crystal Desert.,
-'<c=@flavor>""Don''t waste time watching a merchant''s eyes or lips; watch their hands to find their keys.""','<c=@flavor>""Не трать время, глядя в глаза или на губы торговца; следи за руками, чтобы найти ключи.""'
-—Zalambur.</c>","Используется для открытия торговых ящиков в Пустыне Хрустала.,
-'<c=@flavor>""Не трать время, глядя в глаза или на губы торговца; следи за руками, чтобы найти ключи.""','<c=@flavor>""Не трать время, глядя в глаза или на губы торговца; следи за руками, чтобы найти ключи.""'
-—Заламбур.</c>"
 "Used to refine Crystalline Ore into Crystalline Ingots. Crafted from Obsidian Shards, Airship Oil
 Used to refine Meteorite Ore.,Используется для очистки Метеоритной руды.
 Used to refine decorations.,Используется для улучшения украшений.
@@ -1916,11 +1642,7 @@ Used to track calming actions and thoughts.","Используется для о
 Используется для улучшения или состаривания украшений.
 Используется для отслеживания успокаивающих действий и мыслей."
 Using this item automatically equips it while running outside of combat. The effect can be removed by using the Stop Riding skill or by double-clicking this item again.,"Использование этого предмета автоматически берёт его, когда вы бежите вне боя. Эффект можно снять умением «Прекратить поездку» или повторным двойным щелчком по этому предмету."
-"Using this will unlock all weight classes of this skin.,Использование откроет все классы веса этого скина.",Использование откроет все классы веса этого облика.
 Vantage points do not host any services.,Смотровые площадки не предоставляют никаких услуг.
-"Various toys of all sizes and descriptions. These would make a fine gift for any child looking to amuse themselves.,'«Различные игрушки всех размеров и видов. Это будет отличный подарок для любого ребенка, который хочет развлечься.'
-'<c=@flavor>""It''s a miracle I was able to retrieve these without getting them wet!""</c>'","Разнообразные игрушки всех размеров и видов. Это будет отличный подарок для любого ребёнка, который хочет развлечься.
-<c=@flavor>«Это чудо, что мне удалось достать их, не намочив!»</c>"
 "Vaulz Baelwalker,
 576 Frost 0X0I,576 Мороз 0X0I
 Knowledge","Вольц Бэйлуокер,
@@ -1955,7 +1677,6 @@ Mystery Box","Зима летом
 Knowledge","Йеккси Строгий,
 092 Прилив 00XI,
 Знания."
-"You become an owl.,Вы превращаетесь в сову.","Вы превращаетесь в сову.,Вы превращаетесь в сову."
 You cannot help but hide this jar from others.,"Вы не можете удержаться, чтобы не спрятать эту банку от других."
 You simply cannot wait to find the material that belongs in this jar.,"Тебе не терпится найти материал, который должен быть в этой банке."
 You would much rather not be carrying this jar.,Вы бы предпочли не нести эту банку.

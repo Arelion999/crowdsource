@@ -7,9 +7,6 @@ Double-click to gain 50 luck.","""После вашего захватывающ
 Double-click to gain 50 luck.","""Даже выступая в роли приманки для Двухлезвийного Пита, вы проявили большую храбрость. Серафимы...
 Дважды щёлкните, чтобы получить 50 единиц удачи."
 """Just Tillie"" ,""Просто Тилли""""","""Just Tillie"" ,""Просто Тилли"""""
-"""Let the loss of Ysvelta be a constant reminder of why we must stay strong against the Nightmare."",'«""Пусть потеря Исвельты будет постоянным напоминанием о том, почему мы должны оставаться сильными против Кошмара.""'
-Double-click to gain 50 luck.","""Пусть потеря Исвельты будет постоянным напоминанием о том, почему мы должны оставаться сильными против Кошмара"".
-Дважды щёлкните, чтобы получить 50 единиц удачи."
 """True greatness comes for those who have wisdom to do right, the courage to embark
 ""We Carry Her Loss Together""""""","«Истинное величие приходит к тем, у кого есть мудрость поступать правильно, смелость отправиться
 „Мы несём её утрату вместе“»"
@@ -444,8 +441,6 @@ Can be exchanged for a non-soulbound version at merchants in Amnoon.","32 сло
 <c=@flavor>«Скритты соберут почти всё хотя бы раз». —Заметки Ордена о примитивных расах, стр. 422</c>"
 <c=@Warning>Warning!</c>,<c=@Warning>Внимание!</c>
 <c=@abilitytype>Costume Brawl Toy:</c> Double-click to equip a bundle which grants fun costume brawl skills. Brawl skills will only hit other players also using costume brawl.,"<c=@abilitytype>Игрушка для костюмированной потасовки:</c> Дважды щёлкните, чтобы экипировать набор, дающий забавные навыки потасовки. Навыки потасовки действуют только на других игроков, также использующих игрушки для потасовки."
-"<c=@abilitytype>Element: </c>Brilliance,<c=@abilitytype>Стихия: </c>Сияние","<c=@abilitytype>Стихия: </c>Сияние,<c=@abilitytype>Стихия: </c>Сияние"
-"<c=@abilitytype>Element: </c>Enhancement,<c=@abilitytype>Стихия: </c>Усиление","<c=@abilitytype>Стихия: </c>Усиление,<c=@abilitytype>Стихия: </c>Усиление"
 <c=@abilitytype>Tonic.</c> Transform into another shape.,<c=@abilitytype>Тоник.</c> Примите другой облик.
 <c=@abilitytype>Travel.</c> Double-click to equip a bundle that changes how you move around the world.,"<c=@abilitytype>Передвижение.</c> Дважды щёлкните, чтобы взять набор, меняющий то, как вы перемещаетесь по миру."
 "<c=@flavor>""""Aurene has been eyeing this—and drooling—ever since I put it in my pack.""""</c>""","<c=@flavor>""""Аурин слюнки пускает, глядя на это, с тех пор как я положил это в свой рюкзак"""".</c>"""
@@ -465,16 +460,12 @@ Can be exchanged for a non-soulbound version at merchants in Amnoon.","32 сло
 <c=@flavor>""""A bear ate his pauldrons? Is this common? Do bears eat armor?""""</c>""","<c=@flavor>«Обычный посох, способный выполнять все ваши повседневные задачи. Я бы не стал вызывать эттина на дуэль на посохах с ним»
 <c=@flavor>«Медведь съел его наплечники? Это нормально? Медведи едят броню?»</c>«"
 "<c=@flavor>""A clean kill."",<c=@flavor>""""Чистое убийство.""""","<c=@flavor>""Чистое убийство"".,<c=@flavor>""""Чистое убийство""""."
-"<c=@flavor>""A good focus is essential for the accurate channeling of energy."",<c=@flavor>""""Хороший фокус необходим для точной передачи энергии.""""",<c=@flavor>«Хороший фокус необходим для точной передачи энергии».<c=@flavor>«Хороший фокус необходим для точной передачи энергии».
-"<c=@flavor>""A mini grawl might worship its mini likeness."",<c=@flavor>""""Маленький граул может поклоняться своему миниатюрному подобию.""""","<c=@flavor>""Маленький граул может поклоняться своему миниатюрному подобию"".,<c=@flavor>""""Маленький граул может поклоняться своему миниатюрному подобию""""."
 "<c=@flavor>""A top seller at First Haven, after our spoons
 —Ulva</c>","<c=@flavor>Хитовый товар в Первой Гавани, уступающий только нашим ложкам
 —Ульва</c>"
 "<c=@flavor>""Aha! I've been looking for those.""
 —Cin</c>","<c=@flavor>«Ага! А я их искал».
 —Син</c>"
-"<c=@flavor>""Aim true. But telling you that is like telling the sun to rise."",<c=@flavor>""Целься верно. Но сказать тебе это — всё равно что приказать солнцу взойти.""""","<c=@flavor>""Целься верно. Но сказать тебе это — всё равно что приказать солнцу взойти"".,<c=@flavor>""Целься верно. Но сказать тебе это — всё равно что приказать солнцу взойти""""."
-"<c=@flavor>""Are we mere reflections of the truth?"",<c=@flavor>""""Являемся ли мы всего лишь отражениями истины?""""","<c=@flavor>«Являемся ли мы всего лишь отражениями истины?»,<c=@flavor>«Являемся ли мы всего лишь отражениями истины?»"
 "<c=@flavor>""Armor up."",
 —Magister Pagga</c>","<c=@flavor>«Бронируйся».,
 —Магистр Пагга</c>"
@@ -482,7 +473,6 @@ Can be exchanged for a non-soulbound version at merchants in Amnoon.","32 сло
 —Cin</c>","<c=@flavor>«Пока еда всё ещё хороша, знать больше не хочу».
 —Син</c>"
 "<c=@flavor>""As you look into her eyes, you know that this must be the mother of all catfish. The one that always got away.""</c>","<c=@flavor>«Глядя ей в глаза, вы понимаете, что это, должно быть, мать всех сомов. Та самая, что всегда ускользала».</c>"
-"<c=@flavor>""Balance in all things."",<c=@flavor>""""Равновесие во всём.""""","<c=@flavor>""Равновесие во всём"".,<c=@flavor>""""Равновесие во всём""""."
 "<c=@flavor>""Bandits hate fire."",
 —Waldo</c>","<c=@flavor>«Бандиты ненавидят огонь».,
 —Вальдо</c>"
@@ -520,16 +510,13 @@ Can be exchanged for a non-soulbound version at merchants in Amnoon.","32 сло
 "<c=@flavor>""Drink deep,' and grant me your power!"" - Kodan''s Bane'
 <c=@flavor>""""Dye these black for the ultimate in tactical armor.""""","<c=@flavor>""Пей до дна,' и даруй мне свою силу!"" - Проклятие Кодана'
 <c=@flavor>""""Покрась их в чёрный для идеальной тактической брони."""""
-"<c=@flavor>""Excessive use has been linked to hearing loss in skritt."",<c=@flavor>""""Чрезмерное использование связано с потерей слуха у скриттов.""""","<c=@flavor>""Чрезмерное использование связано с потерей слуха у скриттов"".,<c=@flavor>""""Чрезмерное использование связано с потерей слуха у скриттов""""."
 "<c=@flavor>""Finally out of the fahrar, ready to battle our enemies
 <c=@flavor>""""Find balance or fall into discord.""""","<c=@flavor>«Наконец-то за пределами фара, готов сражаться с врагами
 <c=@flavor>»»«Обрети равновесие или погрязни в раздоре»»."
-"<c=@flavor>""For a hero. Your hardwork will not be forgotten."",<c=@flavor>""""Для героя. Ваш труд не будет забыт.""""","<c=@flavor>""Для героя. Ваш труд не будет забыт"".,<c=@flavor>""""Для героя. Ваш труд не будет забыт""""."
 "<c=@flavor>""Ghosts hate tresspassers, and the branded hate everything. Take some stones from one ruin
 <c=@flavor>""""Gift this speargun to your friend that hates water. Hilarious.""""","<c=@flavor>""Призраки ненавидят нарушителей, а меченые ненавидят всё. Возьмите несколько камней из одних руин.
 <c=@flavor>""""Подарите это гарпунное ружьё своему другу, который ненавидит воду. Уморительно""""."
 "<c=@flavor>""Glub.""</c>",<c=@flavor>«Бульк».</c>
-"<c=@flavor>""Good for herding dolyaks."",<c=@flavor>""""Хорошо подходит для пасьбы долиаков.""""","<c=@flavor>""Хорошо подходит для пастьбы дольяков"".,<c=@flavor>""""Хорошо подходит для пасьбы дольяков""""."
 "<c=@flavor>""Have you seen how drafty these buildings are?""
 —Cin</c>","<c=@flavor>«Видел, какие в этих зданиях сквозняки?»
 —Син</c>"
@@ -557,7 +544,6 @@ Can be exchanged for a non-soulbound version at merchants in Amnoon.","32 сло
 —Cin</c>","<c=@flavor>«Я знаю алхимика, который часто про такое расспрашивает».
 —Син</c>"
 "<c=@flavor>""I now see my duty to be a good soldier,' and I''ll never waver again.""</c>'","<c=@flavor>""Теперь я вижу свой долг — быть хорошим солдатом,' и я больше никогда не поколеблюсь.""</c>'"
-"<c=@flavor>""I should have had these on for that ambush."",<c=@flavor>""""Мне следовало надеть это для той засады.""""","<c=@flavor>""Мне следовало надеть это для той засады"".,<c=@flavor>""""Мне следовало надеть это для той засады""""."
 "<c=@flavor>""I'll take all the stuff, so you'll never have to"" is inscribed on the object as a reminder to clean one's inventory once in a while.</c>","<c=@flavor>«Я возьму всё барахло, чтобы тебе никогда не пришлось» — выгравировано на предмете как напоминание чистить инвентарь время от времени.</c>"
 "<c=@flavor>""I've been in there for hours. Much...too long...""</c>",<c=@flavor>«Я был там часами. Слишком... долго...»</c>
 "<c=@flavor>""If I wanted an ice bath, I'd swim the Janthir Bay!""</c>","<c=@flavor>«Если бы я хотел ледяную ванну, я бы искупался в заливе Джантур!»</c>"
@@ -567,7 +553,6 @@ Can be exchanged for a non-soulbound version at merchants in Amnoon.","32 сло
 "<c=@flavor>""It chops wood, meat
 —Hune</c>","<c=@flavor>""Оно рубит дрова, мясо
 —Хьюн</c>"
-"<c=@flavor>""It even has a compass in the stock."",<c=@flavor>""""В прикладе даже есть компас.""""","<c=@flavor>""В прикладе даже есть компас"".,<c=@flavor>""""В прикладе даже есть компас""""."
 "<c=@flavor>""It's not like the captain will be needing it soon.""
 —Cin</c>","<c=@flavor>«Не похоже, что капитану это скоро понадобится».
 —Син</c>"
@@ -580,14 +565,12 @@ Can be exchanged for a non-soulbound version at merchants in Amnoon.","32 сло
 "<c=@flavor>""Looks like the bandits, Inquest
 —Mathair</c>","<c=@flavor>""Похоже, бандиты, Инквест
 —Матайр</c>"
-"<c=@flavor>""May the winds bless the flight of your bolts."",<c=@flavor>""""Пусть ветры благословят полет твоих стрел.""""","<c=@flavor>""Пусть ветры благословят полёт твоих стрел"".,<c=@flavor>""""Пусть ветры благословят полёт твоих стрел""""."
 "<c=@flavor>""Melted snow makes a great solvent for tonics,' so you''d think melted eternal ice would be better. But the stuff doesn''t melt! However'
 <c=@flavor>""""Mental note: test associates always ask for gloves when working with the prototype. This may just be a coincidence.""""
 —Kamma</c>""","<c=@flavor>«Тающий снег — отличный растворитель для тоников, так что, казалось бы, расплавленный вечный лёд должен быть ещё лучше. Но эта штука не плавится! Однако»
 <c=@flavor>«""Пометка на будущее: сотрудники тестовой группы всегда просят перчатки при работе с прототипом. Возможно, это просто совпадение.""»
 — Камма</c>"
 "<c=@flavor>""Need a hand? Sorry,' I don''t get out much.""—Kamma</c>'","<c=@flavor>""Нужна рука? Прости, я редко выхожу в свет.""—Камма</c>'"
-"<c=@flavor>""Never leave home without a good axe."",<c=@flavor>""""Никогда не выходи из дома без хорошего топора.""""","<c=@flavor>""Никогда не выходи из дома без хорошего топора"".,<c=@flavor>""""Никогда не выходи из дома без хорошего топора""""."
 "<c=@flavor>""OK,' so it''s not really Deldrimor steel'
 —Bink</c>","<c=@flavor>""Ладно, это не настоящая дельдриморская сталь""
 —Бинк</c>"
@@ -597,7 +580,6 @@ Can be exchanged for a non-soulbound version at merchants in Amnoon.","32 сло
 "<c=@flavor>""Out here, you cant settle for the run of the mill. These have my own special little modifications.""
 —Waldo</c>'","<c=@flavor>«Здесь не стоит довольствоваться обычным. У этих есть мои собственные маленькие модификации».
 —Уолдо</c>'"
-"<c=@flavor>""Pick up a shield and get in there!"",<c=@flavor>""""Хватай щит и в бой!""""","<c=@flavor>""Хватай щит и вступай в бой!"",<c=@flavor>""""Хватай щит и в бой!"""""
 "<c=@flavor>""Pointy!"",
 —Lugung</c>","<c=@flavor>
 «Острый!»
@@ -606,14 +588,12 @@ Can be exchanged for a non-soulbound version at merchants in Amnoon.","32 сло
 <c=@flavor>""""Poor rabbits. We will need more of this luck if we are to succeed.""""","<c=@flavor>""Усилия по очистке от загрязнений часто бывают утомительными и неблагодарными. В такие времена нужен друг. Так что
 <c=@flavor>""""Бедные кролики. Нам понадобится больше этой удачи, если мы хотим преуспеть""""."
 "<c=@flavor>""Praise Joko!""</c>",<c=@flavor>«Славьте Джоко!»</c>
-"<c=@flavor>""Real men wear skirts."",<c=@flavor>""""Настоящие мужчины носят юбки.""""","<c=@flavor>""Настоящие мужчины носят юбки"".,<c=@flavor>""""Настоящие мужчины носят юбки""""."
 "<c=@flavor>""Recover, reuse
 <c=@flavor>""""Remember that time we threw grenades at drakes?""""</c>""","<c=@flavor>""Восстановление, повторное использование
 <c=@flavor>""""Помнишь, как мы кидали гранаты в драков?""""</c>"""
 "<c=@flavor>""Remember to show your support."",
 —Evon Gnashblade</c>","<c=@flavor>«Не забудьте выразить свою поддержку».,
 —Эвон Гнэшблейд</c>"
-"<c=@flavor>""Reminds me of days gone by."",<c=@flavor>""""Напоминает мне о былых днях.""""","<c=@flavor>""Напоминает мне о былых днях"".,<c=@flavor>""""Напоминает мне о былых днях""""."
 "<c=@flavor>""Seek knowledge."",
 —Bink</c>","<c=@flavor>«Ищи знания».,
 —Бинк</c>"
@@ -623,11 +603,9 @@ Can be exchanged for a non-soulbound version at merchants in Amnoon.","32 сло
 "<c=@flavor>""Shiny pieces of foil! Make something nice, maybe. You be friend
 '—Collector Terksli in Lion''s Arch</c>'","<c=@flavor>""Блестящие кусочки фольги! Может, сделаешь что-нибудь красивое. Ты друг
 '—Коллекционер Терксли во Львином Шпиле</c>'"""
-"<c=@flavor>""Shoots shinies."",<c=@flavor>""""Стреляет блестяшками.""""","<c=@flavor>""Стреляет блестяшками"".,<c=@flavor>""""Стреляет блестяшками""""."
 "<c=@flavor>""Siege machinery takes a lot of lumber, and that takes a lot of axes. Sharp
 <c=@flavor>""""Sign below to support removing Dr. Bleent from the Arcane Council.""""</c>""","<c=@flavor>""Осадные механизмы требуют много древесины, а для этого нужно много топоров. Острых
 <c=@flavor>""""Подпишитесь ниже, чтобы поддержать отстранение доктора Блинта от Арканного совета"""".</c>"""
-"<c=@flavor>""Skelk love the sound of this thing."",<c=@flavor>""""Скелкам нравится звук этой штуки.""""","<c=@flavor>""Скелкам нравится звук этой штуки"".,<c=@flavor>""""Скелкам нравится звук этой штуки""""."
 "<c=@flavor>""So many shiny things when they many blow up on landing."",
 —Explorer Grretergrret</c>","<c=@flavor>«Здесь столько блестящих штуковин, когда они при взрыве взлетают на воздух».
 — Исследователь Грертергрет</c>"
@@ -637,16 +615,9 @@ Can be exchanged for a non-soulbound version at merchants in Amnoon.","32 сло
 "<c=@flavor>""Sometimes even the sewer rats have things that are worth a few coins.""
 —Cin</c>","<c=@flavor>«Иногда даже у канализационных крыс есть вещи, стоящие пары монет».
 —Син</c>"
-"<c=@flavor>""Sometimes skritt find the strangest things."",<c=@flavor>""""Иногда скритты находят самые странные вещи.""""","<c=@flavor>""Иногда скритты находят самые странные вещи"".,<c=@flavor>""""Иногда скритты находят самые странные вещи""""."
-"<c=@flavor>""Specially made for mining."",<c=@flavor>""""Специально сделано для добычи.""""","<c=@flavor>""Специально сделано для добычи"".,<c=@flavor>""""Специально сделано для добычи""""."
-"<c=@flavor>""Stride silently behind your prey."",<c=@flavor>""""Крадитесь бесшумно за своей добычей.""""","<c=@flavor>""Крадитесь бесшумно за своей добычей"".,<c=@flavor>""""Крадитесь бесшумно за своей добычей""""."
-"<c=@flavor>""Sure to quiet the loudest riot."",<c=@flavor>""""Точно утихомирит самый громкий бунт.""""","<c=@flavor>«Наверняка утихомирит самый громкий бунт».,<c=@flavor>«Точно утихомирит самый громкий бунт»."
-"<c=@flavor>""Tasty! Try it and see!"",<c=@flavor>""""Вкусно! Попробуй и убедись!""""","<c=@flavor>""Вкусно! Попробуй и убедись!"",<c=@flavor>""""Вкусно! Попробуй и убедись!"""""
-"<c=@flavor>""The Vigil recognizes your steadfastness in battle."",<c=@flavor>""""Дозор признает твою стойкость в бою.""""","<c=@flavor>""Дозор признает твою стойкость в бою"".,<c=@flavor>""""Дозор признает твою стойкость в бою""""."
 "<c=@flavor>""The caves around here are deep and very dark. We always keep torches to search for the moas."",
 —Cassie</c>","<c=@flavor>«Пещеры здесь глубокие и очень тёмные. Мы всегда держим факелы, чтобы искать моа».,
 —Касси</c>"
-"<c=@flavor>""The dredge are no match for our superior weapons and knowledge."",<c=@flavor>""""Дредги не ровня нашему превосходному оружию и знаниям.""""","<c=@flavor>""Дредги не чета нашему превосходному оружию и знаниям"".,<c=@flavor>""Дредги не ровня нашему превосходному оружию и знаниям""."
 "<c=@flavor>""The less you train with these, the more dangerous you are
 —Vigil Tactician Blazefur</c>","<c=@flavor>""Чем меньше тренируешься с ними, тем опаснее становишься
 — Тактик Дозора Пламяшерст</c>"
@@ -660,7 +631,6 @@ Can be exchanged for a non-soulbound version at merchants in Amnoon.","32 сло
 "<c=@flavor>""These badges are amazing. There are so many interesting ranks, positions
 <c=@flavor>""""These boots are made for battle.""""","<c=@flavor>""Эти значки потрясающие. Здесь так много интересных званий, должностей
 <c=@flavor>""""Эти сапоги созданы для битвы""""."
-"<c=@flavor>""These can also hold ale."",<c=@flavor>""""Они также могут держать эль.""""","<c=@flavor>""Они также могут держать эль"".,<c=@flavor>""""Они также могут держать эль""""."
 "<c=@flavor>""These guns have so many gears,' I''m sure the one this is from wont be missing it.""'
 —Legionnaire Sleekfur</c>","<c=@flavor>""В этих пушках так много шестерёнок,' что та, из которой эта, наверняка не заметит её пропажи.""'
 —Legionnaire Sleekfur</c>"
@@ -668,7 +638,6 @@ Can be exchanged for a non-soulbound version at merchants in Amnoon.","32 сло
 "<c=@flavor>""These should keep you safe until we can get more supplies."",
 —Magister Kathryn</c>","<c=@flavor>«Они защитят вас, пока мы не получим новые припасы».,
 —Magister Kathryn</c>"
-"<c=@flavor>""This can dispell the darkest of nights."",<c=@flavor>""«Это может развеять самую тёмную ночь.»","<c=@flavor>""Это может развеять самую тёмную ночь"".,<c=@flavor>""«Это может развеять самую тёмную ночь»""."
 "<c=@flavor>""This destroys just about anything: artifacts, grubs
 —Jezza</c>","<c=@flavor>«Это уничтожает почти всё: артефакты, личинки
 —Джезза</c>"
@@ -684,10 +653,6 @@ Can be exchanged for a non-soulbound version at merchants in Amnoon.","32 сло
 "<c=@flavor>""This may seem daunting, but remember
 —Magister Pagga</c>","<c=@flavor>«Это может показаться пугающим, но помните
 —Magister Pagga</c>»"
-"<c=@flavor>""This one lasted longer than the rest."",<c=@flavor>""""Этот продержался дольше остальных.""""","<c=@flavor>""Этот продержался дольше остальных"".,<c=@flavor>""""Этот продержался дольше остальных""""."
-"<c=@flavor>""This pin might be a little too tactical."",<c=@flavor>""""Эта булавка может быть чересчур тактической.""""","<c=@flavor>""Эта булавка может быть чересчур тактической"".,<c=@flavor>""""Эта булавка может быть чересчур тактической""""."
-"<c=@flavor>""This should help when fighting the icebrood."",<c=@flavor>""""Это должно помочь в бою с ледокровавицей.""""","<c=@flavor>«Это должно помочь в бою с ледокровавицей»,<c=@flavor>«""Это должно помочь в бою с ледокровавицей""»"
-"<c=@flavor>""This should help you in your adventures."",<c=@flavor>""""Это должно помочь вам в ваших приключениях.""""","<c=@flavor>""Это должно помочь вам в ваших приключениях"".,<c=@flavor>""""Это должно помочь вам в ваших приключениях""""."
 "<c=@flavor>""This was taken from a large jotun."",
 —Neida</c>","<c=@flavor>«Это было взято у большого ётуна».,
 —Нейда</c>"
