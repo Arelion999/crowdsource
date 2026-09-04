@@ -201,7 +201,7 @@ english,translate
 %num1%/%num2% Foe[s] Defeated in Skyhammer Matches,Побеждено врагов в матчах «Небесного молота»: %num1%/%num2%
 %num1%/%num2% Foe[s] Defeated in Spirit Watch Matches,Побеждено врагов в матчах «Дозора духов»: %num1%/%num2%
 %num1%/%num2% Foe[s] Defeated in Temple of the Silent Storm Matches,Побеждено врагов в матчах «Храма Безмолвной Бури»: %num1%/%num2%
-%num1%/%num2% Foe[s] Defeated on Revenge of the Capricorn,Побеждено врагов в «Мести Козерога»: %num1%/%num2%
+%num1%/%num2% Foe[s] Defeated on Revenge of the Capricorn,Побеждено врагов в «Revenge of the Capricorn»: %num1%/%num2%
 %num1%/%num2% Foreman Defeated,Побеждено прорабов: %num1%/%num2%
 %num1%/%num2% Forest of Niflhel Achievements Completed,Завершено достижений «Леса Нифльхеля»: %num1%/%num2%
 %num1%/%num2% Fractal Scales Completed,Завершено уровней фракталов: %num1%/%num2%
@@ -249,7 +249,7 @@ english,translate
 %num1%/%num2% Llamas Located,Найдено лам: %num1%/%num2%
 %num1%/%num2% Location[s] Reached,Достигнуто мест: %num1%/%num2%
 %num1%/%num2% Locations Found,Найдено мест: %num1%/%num2%
-%num1%/%num2% Lord Faren Saved Early,Лорд Фарен спасён заранее: %num1%/%num2%
+%num1%/%num2% Lord Faren Saved Early,Lord Faren спасён заранее: %num1%/%num2%
 %num1%/%num2% Lord[s] Killed,Убито лордов: %num1%/%num2%
 %num1%/%num2% Lost Badges Found,Найдено утерянных значков: %num1%/%num2%
 %num1%/%num2% Lost Bandit Chests Found,Найдено утерянных бандитских сундуков: %num1%/%num2%
@@ -268,7 +268,7 @@ english,translate
 "%num1%/%num2% Match[pl:""Matches""] Won in the Eternal Coliseum",Побед в «Вечном Колизее»: %num1%/%num2%
 "%num1%/%num2% Match[pl:""Matches""] Won in the Forest of Niflhel",Побед в «Лесе Нифльхеля»: %num1%/%num2%
 "%num1%/%num2% Match[pl:""Matches""] Won in the Temple of the Silent Storm",Побед в «Храме Безмолвной Бури»: %num1%/%num2%
-"%num1%/%num2% Match[pl:""Matches""] Won on Revenge of the Capricorn",Побед в «Мести Козерога»: %num1%/%num2%
+"%num1%/%num2% Match[pl:""Matches""] Won on Revenge of the Capricorn",Побед в «Revenge of the Capricorn»: %num1%/%num2%
 %num1%/%num2% Materials Collected,Собрано материалов: %num1%/%num2%
 %num1%/%num2% Mazomba Killed,Убито мазомба: %num1%/%num2%
 %num1%/%num2% Meditation[s] Accomplished,Совершено медитаций: %num1%/%num2%
@@ -315,7 +315,7 @@ english,translate
 %num1%/%num2% Recruited Faction[s] Aided with a Challenge Active,Оказана помощь завербованным фракциям при активном испытании: %num1%/%num2%
 %num1%/%num2% Refugee Possessions Returned,Возвращено вещей беженцев: %num1%/%num2%
 %num1%/%num2% Relics Retrieved,Получено реликвий: %num1%/%num2%
-%num1%/%num2% Revenge of the Capricorn Achievements Completed,Завершено достижений «Мести Козерога»: %num1%/%num2%
+%num1%/%num2% Revenge of the Capricorn Achievements Completed,Завершено достижений «Revenge of the Capricorn»: %num1%/%num2%
 %num1%/%num2% Revenge of the Marionette Achievement[s] Completed,Завершено достижений «Мести марионетки»: %num1%/%num2%
 %num1%/%num2% Rifts Closed,Закрыто разломов: %num1%/%num2%
 %num1%/%num2% Rituals Completed,Завершено ритуалов: %num1%/%num2%
@@ -460,7 +460,7 @@ english,translate
 %num1%/7 Journal Pages Recovered,Получено %num1%/7 страниц дневника
 %num1%/7 Steps Taken toward Solace for Jimoh,Пройдено %num1%/7 шагов к утешению для Джимо
 %num1%/70 Kills in Ranked Matches,Убийств в рейтинговых матчах: %num1%/70
-%str1% Borderlands Asura Gate,Врата Асура на %str1% Приграничье
+%str1% Borderlands Asura Gate,Asura Gate на %str1% Приграничье
 %str1% Borderlands Mists Gate,Врата Туманов на %str1% Приграничье
 %str1% Health,%str1% — здоровье
 %str1% brags to %str2%.,%str1% хвастается перед %str2%.
@@ -483,10 +483,10 @@ english,translate
 %str1%%str2%Skyscale Mace%str3%%str4%,%str1%%str2%Булава скайскейла%str3%%str4%
 %str1%%str2%True Mettle%str3%%str4%,%str1%%str2%Истинная стойкость%str3%%str4%
 %str1%%str2%Wings of Ascension%str3%%str4%,%str1%%str2%Крылья Вознесения%str3%%str4%
-%str2% Borderlands Asura Gate,Врата Асура на %str2% Приграничье
+%str2% Borderlands Asura Gate,Asura Gate на %str2% Приграничье
 %str2% Borderlands Mists Gate,Врата Туманов на %str2% Приграничье
 %str2% Hill Waypoint,Путевая точка Холма %str2%
-%str3% Borderlands Asura Gate,Врата Асура на %str3% Приграничье
+%str3% Borderlands Asura Gate,Asura Gate на %str3% Приграничье
 %str3% Borderlands Mists Gate,Врата Туманов на %str3% Приграничье
 %str3% Hill Waypoint,Путевая точка Холма %str3%
 (A strange-looking rock sits before you. It almost appears to be...leaking?),(Перед вами лежит странный на вид камень. Он словно... подтекает?)

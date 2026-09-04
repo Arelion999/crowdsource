@@ -54,7 +54,7 @@ Found in the Eye of the North.","<c=@flavor>Солнечное Копьё ник
 <c=@flavor>An amulet once worn by Ebon Vanguard soldiers in the windswept north.</c>,"<c=@flavor>Амулет, что некогда носили солдаты Эбонового Авангарда на продуваемом ветрами севере.</c>"
 <c=@flavor>An ancient Elonian relic said to have once been extremely valuable.</c>,"<c=@flavor>Древняя элонская реликвия, некогда, как говорят, невероятно ценная.</c>"
 "<c=@flavor>An ancient relic of old Cantha, from the time of its corruption by the Deceiver's dark magic.</c>","<c=@flavor>Древняя реликвия старой Канты, времён её растления тёмной магией Обманщика.</c>"
-<c=@flavor>An ancient relic of the mystic beings of Echovald Forest.</c>,<c=@flavor>Древняя реликвия мистических существ Эховальдского леса.</c>
+<c=@flavor>An ancient relic of the mystic beings of Echovald Forest.</c>,<c=@flavor>Древняя реликвия мистических существ Echovald Forest.</c>
 "<c=@flavor>An attached note reads, ""Until the last enemy of Kryta falls, we fight on.""</c>
 Double-click to open.","<c=@flavor>На прикреплённой записке значится: «Пока не падёт последний враг Крайты, мы сражаемся».</c>
 Дважды щёлкните, чтобы открыть."
@@ -290,7 +290,7 @@ Found in the Grotto in Thunderhead Peaks.","<c=@flavor>Сердца сталки
 "<c=@flavor>Hewn from the jaws of some strange beast, this pistol yearns for new victims of its malice.</c>","<c=@flavor>Вырубленный из челюстей некоего странного зверя, этот пистолет жаждет новых жертв своей злобы.</c>"
 "<c=@flavor>Icy hot.</c>
 Found in Jora's Keep in Bjora Marches.","<c=@flavor>Ледяной жар.</c>
-Найдено в Крепости Джоры в Топях Бьоры."
+Найдено в Jora's Keep в Bjora Marches."
 "<c=@flavor>If given long enough, even rings will become crabby.</c>","<c=@flavor>Если ждать достаточно долго, даже кольца становятся крабовыми.</c>"
 "<c=@flavor>If it looks intimidating to you, imagine how it looks to a skritt.</c>","<c=@flavor>Если он кажется грозным тебе, представь, каким он кажется скритту.</c>"
 "<c=@flavor>If you put your ear up to it, you can almost hear an ocean of nothingness.</c>","<c=@flavor>Если приложить к нему ухо, можно почти услышать океан пустоты.</c>"
@@ -448,7 +448,7 @@ Used in the crafting of Spinal Blade Pack back items.","<c=@flavor>Куски о
 <c=@flavor>Said to be worn by the Traveler himself.</c>,"<c=@flavor>Говорят, это носил сам Странник.</c>"
 "<c=@flavor>Said to have been the property of the legendary Cobiah Marriner, founder of Lion's Arch.</c>","<c=@flavor>Говорят, принадлежало легендарному Кобии Марринеру, основателю Lion's Arch.</c>"
 <c=@flavor>Said to have belonged to the legendary charr archer Pyre Fierceshot.</c>,"<c=@flavor>Говорят, принадлежало легендарному лучнику-чарру Пайру Свирепострелу.</c>"
-<c=@flavor>Salvaged from the colossal Twisted Marionette's support equipment.</c>,<c=@flavor>Снято с опорного оборудования колоссальной Искажённой Марионетки.</c>
+<c=@flavor>Salvaged from the colossal Twisted Marionette's support equipment.</c>,<c=@flavor>Снято с опорного оборудования колоссальной Twisted Marionette.</c>
 <c=@flavor>Seal away your fear.</c>,<c=@flavor>Запри свой страх.</c>
 <c=@flavor>Seek out wealth and fortune in the year before us.</c>,<c=@flavor>Ищи богатства и удачи в грядущем году.</c>
 <c=@flavor>Set your dragon heart ablaze.</c>,<c=@flavor>Разожги своё драконье сердце.</c>

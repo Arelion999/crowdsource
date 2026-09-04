@@ -71,7 +71,7 @@ Help protect the endangered snow griffons in Bitterfrost Frontier.,Помоги�
 Help R'tchikk locate dangerous artifacts around the tower.,Помогите Ртчикку отыскать опасные артефакты вокруг башни.
 Help repair the seer pipes in Ley-Drowned Quarry.,Помогите починить трубы провидцев в Затопленном Лей-Карьере.
 Help Researcher Daniella gather ritual gear in Venomgrove Observatory.,Помогите исследовательнице Даниэлле собрать ритуальное снаряжение в обсерватории Ядовитой Рощи.
-Help restore life to Saidra's Haven in Lake Doric.,Помогите вернуть жизнь Пристанищу Сайдры на Озере Дорик.
+Help restore life to Saidra's Haven in Lake Doric.,Помогите вернуть жизнь Saidra's Haven на Lake Doric.
 Help restore nature's balance.,Помогите восстановить равновесие природы.
 Help Reztiff Sunderfoe capture the east tower.,Помогите Рецтиффу Врагорубу захватить восточную башню.
 Help Sagan Malaya in Echovald Wilds to receive a Kurzick rune.,"Помогите Сагану Малайе в Echovald Wilds, чтобы получить руну курциков."
@@ -232,7 +232,7 @@ Hero Challenge: Brauer's Grave,Геройское испытание: Могил
 Hero Challenge: Cliffside Bell,Геройское испытание: Утёсный колокол
 Hero Challenge: Dog Statue,Геройское испытание: Статуя собаки
 Hero Challenge: Junkyard,Геройское испытание: Свалка
-Hero Challenge: Mori Village,Геройское испытание: Деревня Мори
+Hero Challenge: Mori Village,Геройское испытание: Mori Village
 Hero Challenge: Old Bell,Геройское испытание: Старый колокол
 Hero Challenge: Source of the Springs,Геройское испытание: Исток источников
 Hero Challenge: Speakers Headquarters,Геройское испытание: Штаб Глашатаев
@@ -259,7 +259,7 @@ Hero Window,Окно героя
 Hero's Chest[s],[Сундук|Сундука|Сундуков] героя
 "Hero's Overlook is home to the ghosts of Crystal Desert's past, back when Ascension was possible.","Геройский Уступ — обитель призраков прошлого Crystal Desert, тех времён, когда Вознесение было возможно."
 "Hero, there is a disturbance in the Mists. A memory of a battle long past has resurfaced and begins to reinforce its reality.Journey to the Eye of the North and utilize the scrying pool to relive your confrontation with the Twisted Marionette. Destroy it, and reduce it once more to scrap metal and failed ambition.","Герой, в Туманах смута. Всплыло воспоминание о давней битве и начинает утверждать себя как явь.Отправляйся в Eye of the North и через гадальный пруд переживи заново своё столкновение с Искажённой Марионеткой. Уничтожь её и вновь обрати в металлолом и несбывшиеся замыслы."
-"Hero,For a time, the flow of the Mists supports your growth as one of Tyria's defenders. While this persists, your adventures will grant you further experience and richer rewards—take advantage of the opportunity to train and prepare yourself for the trials to come.I, too, will reinforce your path while I am able. Meet me in your homeland, and—should you prove yourself with a simple task—I will grant you a weapon to support your journey to the pinnacles of valor.—Mist Stranger","Герой,На время течение Туманов поддерживает твой рост как одного из защитников Тирии. Пока это длится, твои приключения дадут больше опыта и щедрее награды — воспользуйся возможностью потренироваться и подготовиться к грядущим испытаниям.Я тоже укреплю твой путь, покуда могу. Встреться со мной на своей родине, и — если проявишь себя в простом деле — я вручу тебе оружие в помощь твоему пути к вершинам доблести.—Незнакомец из Туманов"
+"Hero,For a time, the flow of the Mists supports your growth as one of Tyria's defenders. While this persists, your adventures will grant you further experience and richer rewards—take advantage of the opportunity to train and prepare yourself for the trials to come.I, too, will reinforce your path while I am able. Meet me in your homeland, and—should you prove yourself with a simple task—I will grant you a weapon to support your journey to the pinnacles of valor.—Mist Stranger","Герой,На время течение Туманов поддерживает твой рост как одного из защитников Тирии. Пока это длится, твои приключения дадут больше опыта и щедрее награды — воспользуйся возможностью потренироваться и подготовиться к грядущим испытаниям.Я тоже укреплю твой путь, покуда могу. Встреться со мной на своей родине, и — если проявишь себя в простом деле — я вручу тебе оружие в помощь твоему пути к вершинам доблести.—Mist Stranger"
 "Hero,The Mists tremble and warp as the impact of recent events permeates the beyond. The Astral Ward has named it a fractal incursion, as Tyria risks a deluge of malicious attacks from fractal recreations.I am calling for your aid to stabilize the disturbance via the Fractals of the Mists in Lion's Arch. Let us meet there, and I will explain how we may avert this crisis.—Your Ally","Герой,The Mists дрожат и коробятся: отголоски недавних событий проникают в запредельное. Astral Ward назвала это фрактальным вторжением — Тирии грозит поток злонамеренных нападений от фрактальных воссозданий.Я призываю тебя помочь стабилизировать возмущение через Fractals of the Mists в Lion's Arch. Встретимся там, и я объясню, как отвести эту беду.—Твой союзник"
 Hero:,Герой:
 Heroes Dye Pack,Набор красок «Герои»
@@ -465,7 +465,7 @@ Hint: Looms high above a naga nest.,Подсказка: Возвышается �
 Hint: Lounges at a lagoon island.,Подсказка: Разлёгся на островке в лагуне.
 Hint: Lounges on the shores of a recuperative beach.,Подсказка: Разлёгся на берегу целебного пляжа.
 Hint: Lounging around a tropical stop.,Подсказка: Разлёгся у тропической стоянки.
-Hint: Lounging on a platform in Mori Village,Подсказка: Разлёгся на помосте в деревне Мори
+Hint: Lounging on a platform in Mori Village,Подсказка: Разлёгся на помосте в Mori Village
 Hint: Loves playing with baby fish.,Подсказка: Обожает играть с мальками.
 Hint: Loves waterfalls at the monastery.,Подсказка: Обожает водопады у монастыря.
 Hint: Lurks in a small cave in Zen Daijun.,Подсказка: Таится в маленькой пещере в Дзэн Дайдзюн.

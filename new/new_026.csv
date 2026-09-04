@@ -45,12 +45,12 @@ Spend %num2% supply on repairs.,Потратьте %num2% припасов на 
 Spend %num2% supply on siege.,Потратьте %num2% припасов на осадные орудия.
 Spend %num2% supply.,Потратьте %num2% припасов.
 Spend 30 continuous seconds being carried by a ley line while mounted on your skyscale.,"Продержитесь 30 секунд подряд, летя по лей-линии верхом на скайскейле."
-Spent %num1%/%num2% War Supplies at the Fort,Потрачено %num1%/%num2% военных припасов в форте
-Spent %num1%/%num2% War Supplies at the Lighthouse,Потрачено %num1%/%num2% военных припасов на маяке
-Spent %num1%/%num2% War Supplies at the Mines,Потрачено %num1%/%num2% военных припасов в шахтах
-Spent %num1%/%num2% War Supplies at the Overlook,Потрачено %num1%/%num2% военных припасов на утёсе
-Spent %num1%/%num2% War Supplies at the Port,Потрачено %num1%/%num2% военных припасов в порту
-Spent %num1%/%num2% War Supplies at the Village,Потрачено %num1%/%num2% военных припасов в деревне
+Spent %num1%/%num2% War Supplies at the Fort,Потрачено %num1%/%num2% War Supplies в форте
+Spent %num1%/%num2% War Supplies at the Lighthouse,Потрачено %num1%/%num2% War Supplies на маяке
+Spent %num1%/%num2% War Supplies at the Mines,Потрачено %num1%/%num2% War Supplies в шахтах
+Spent %num1%/%num2% War Supplies at the Overlook,Потрачено %num1%/%num2% War Supplies на утёсе
+Spent %num1%/%num2% War Supplies at the Port,Потрачено %num1%/%num2% War Supplies в порту
+Spent %num1%/%num2% War Supplies at the Village,Потрачено %num1%/%num2% War Supplies в деревне
 Spent 5 Continuous Minutes Decorating in Fly Mode in Castora,5 минут подряд украшения в режиме полёта на Касторе
 Spent 5 Continuous Minutes Decorating in Ground Mode,5 минут подряд украшения в наземном режиме
 Spent 5 Continuous Minutes Decorating in Ground Mode in Castora,5 минут подряд украшения в наземном режиме на Касторе
@@ -266,7 +266,7 @@ Stopped the Titans from Draining the Bloodstones,Титанам не дали о
 Stops to gather energy.,"Останавливается, чтобы собрать энергию."
 Storm Bolt,Грозовой разряд
 Storm Imp[s],Грозовой бес[|а|ов]
-Storm the Arcane Eye's hidden base to rescue Professor Gorr.,"Штурмуйте тайную базу Тайного Ока, чтобы спасти профессора Горра."
+Storm the Arcane Eye's hidden base to rescue Professor Gorr.,"Штурмуйте тайную базу Arcane Eye, чтобы спасти Professor Gorr."
 Story Achievements: %num1%,Достижения истории: %num1%
 Story Arc Completed,Сюжетная арка завершена
 "Story Instance: ""Where's Balthazar?""<br><br>""Don't you think it would look better like this?""","Сюжетный эпизод: «Где Бальтазар?»<br><br>«Тебе не кажется, что так будет лучше?»"
@@ -394,7 +394,7 @@ Successfully Defended the Rata Novus Lane,Линия Рата Новус усп�
 Successfully Defended the SCAR Lane,Линия СКАР успешно защищена
 Successfully Evaded the Whisper of Jormag's Rimebreath and Icicle Attacks,Успешно уклонился от Инеевого дыхания и Сосулек Шёпота Йормага
 Successfully Navigated the Lava Tunnel,Лавовый туннель успешно пройден
-Successfully Navigated the Raven Sanctum to Obtain a Daily Blessing,Святилище Ворона успешно пройдено ради ежедневного благословения
+Successfully Navigated the Raven Sanctum to Obtain a Daily Blessing,Raven Sanctum успешно пройдено ради ежедневного благословения
 Successfully Navigated the Wyvern's Ring Attack,Кольцевая атака виверны успешно пройдена
 Successfully Prepared 10 Ingredients in a Row in One Event,10 ингредиентов подряд успешно подготовлены за одно событие
 Successfully Prepared 5 Ingredients in a Row for Alchemist Briella in a Single Event,5 ингредиентов подряд успешно подготовлены для алхимика Бриеллы за одно событие

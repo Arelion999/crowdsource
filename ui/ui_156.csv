@@ -137,7 +137,7 @@ Unstable Hide[s],Нестабильн[ая шкура|ые шкуры|ых шк�
 Unstable Horror[s],Нестабильн[ый ужас|ых ужаса|ых ужасов]
 Unstable Ice Formation,Нестабильное ледяное образование
 Unstable Light,Нестабильный свет
-Unstable magical energy has escaped Augury Rock!,Нестабильная магическая энергия вырвалась из Скалы Прорицания!
+Unstable magical energy has escaped Augury Rock!,Нестабильная магическая энергия вырвалась из Augury Rock!
 Unstable Magically Charged Infusion Sample[s],Нестабильн[ый образец магически заряженной инфузии|ых образца магически заряженной инфузии|ых образцов магически заряженной инфузии]
 Unstable Mass Purchases,Нестабильные массовые покупки
 Unstable Metal Chunk[s],Нестабильн[ый кусок металла|ых куска металла|ых кусков металла]
@@ -245,7 +245,7 @@ Upgraded Hologram Emitter[s],Улучшенн[ый излучатель голо
 Upgraded Quaggan Spear,Улучшенное копьё квагганов
 Upgrades improve the functionality of your account and characters forever!,Улучшения навсегда повышают возможности вашей учётной записи и персонажей!
 Upgrades the personnel at the camp to make them more effective at defending the area.,"Улучшает персонал лагеря, чтобы он эффективнее оборонял округу."
-"Upgrades unlock new content for the guild. They are purchased from special proprietors, such as the Guild Initiative notary. Each upgrade also awards guild experience, which contributes to the guild's level. Upgrades can have varying costs, but most often cost a combination of items, favor, and aetherium.","Улучшения открывают гильдии новое содержимое. Они покупаются у особых владельцев, например у нотариуса Гильдейской инициативы. Каждое улучшение также даёт опыт гильдии, повышающий её уровень. Улучшения стоят по-разному, но чаще всего — сочетание предметов, милости и эфирия."
+"Upgrades unlock new content for the guild. They are purchased from special proprietors, such as the Guild Initiative notary. Each upgrade also awards guild experience, which contributes to the guild's level. Upgrades can have varying costs, but most often cost a combination of items, favor, and aetherium.","Улучшения открывают гильдии новое содержимое. Они покупаются у особых владельцев, например у нотариуса Guild Initiative. Каждое улучшение также даёт опыт гильдии, повышающий её уровень. Улучшения стоят по-разному, но чаще всего — сочетание предметов, милости и эфирия."
 Upgrading %str1%: %num1% of %num2%.,Улучшение %str1%: %num1% из %num2%.
 Upgrading %str1%: %num1%%%,Улучшение %str1%: %num1%%%
 Upgrading an item will make it %str1% to you.,Улучшение предмета сделает его %str1% для вас.
@@ -329,24 +329,24 @@ Use a bucket purchased from Milton Book in Gendarran Fields and fill it with wat
 Use a bucket purchased from Milton Book in Gendarran Fields and fill it with water from the mineral pools in Southsun Cove. Then use it to water your hidden garden.,"Возьмите ведро, купленное у Милтона Бука на Gendarran Fields, и наполните его водой из минеральных источников Бухты Южного Солнца. Затем полейте им свой тайный сад."
 Use a bucket purchased from Milton Book in Gendarran Fields and fill it with water from the secret grotto in the Garden of Dawn in the Grove. Then use it to water your hidden garden.,"Возьмите ведро, купленное у Милтона Бука на Gendarran Fields, и наполните его водой из тайного грота в Саду Рассвета в Роще. Затем полейте им свой тайный сад."
 Use a bucket purchased from Milton Book in Gendarran Fields and fill it with water from the Uplands Oasis in Dry Top. Then use it to water your hidden garden.,"Возьмите ведро, купленное у Милтона Бука на Gendarran Fields, и наполните его водой из Нагорного Оазиса на Сухой Вершине. Затем полейте им свой тайный сад."
-Use a Capacitive Bottle to capture energy from a branded projectile from the Shatterer in Blazeridge Steppes.,Соберите Ёмкостной бутылью энергию клеймёного снаряда Крушителя в Степях Блейзридж.
-Use a Capacitive Bottle to capture energy from a chak energy attack.,Соберите Ёмкостной бутылью энергию энергетической атаки чака.
-Use a Capacitive Bottle to capture energy from a lightning field in the Inquest Golem Mark II battle in Mount Maelstrom.,Соберите Ёмкостной бутылью энергию молниевого поля в битве с Големом Инквеста Марк II на горе Мальстрём.
-Use a Capacitive Bottle to capture energy from a lightning strike at Goemm's Lab in Metrica Province.,Соберите Ёмкостной бутылью энергию удара молнии в Лаборатории Гоэмма в Metrica Province.
-Use a Capacitive Bottle to capture energy from a lightning turret in the Thaumanova Reactor Fractal.,Соберите Ёмкостной бутылью энергию молниевой турели во фрактале «Реактор Таумановы».
-Use a Capacitive Bottle to capture energy from a rotating wall while fighting Frizz in the Aetherblade Fractal.,Соберите Ёмкостной бутылью энергию вращающейся стены во время боя с Фриззом во фрактале «Эфирные клинки».
-Use a Capacitive Bottle to capture energy from a spark at Opticalium's lab in Metrica Province.,Соберите Ёмкостной бутылью энергию искры в лаборатории Оптикалиума в Metrica Province.
-Use a Capacitive Bottle to capture energy from a turret inside Oola's lab after it closes.,Соберите Ёмкостной бутылью энергию турели в лаборатории Оолы после её закрытия.
-Use a Capacitive Bottle to capture energy from a Veteran Air Elemental by killing it within melee range.,"Соберите Ёмкостной бутылью энергию ветерана-воздушного элементаля, убив его в ближнем бою."
-Use a Capacitive Bottle to capture energy from an Aetherblade Striker's channeled lightning attack.,Соберите Ёмкостной бутылью энергию направленной молниевой атаки бойца Эфирных клинков.
-Use a Capacitive Bottle to capture energy from an aspect lightning crystal in Dry Top.,Соберите Ёмкостной бутылью энергию молниевого кристалла аспекта на Сухой Вершине.
-Use a Capacitive Bottle to capture energy from an Inquest Technician using Shocking Stab.,"Соберите Ёмкостной бутылью энергию техника Инквеста, применяющего «Разящий укол»."
-Use a Capacitive Bottle to capture energy from energy projectiles flying from the central reactor of Spekk's Lab in Caledon Forest.,"Соберите Ёмкостной бутылью энергию энергетических снарядов, летящих из центрального реактора Лаборатории Спекка в Лесу Каледон."
-Use a Capacitive Bottle to capture energy from First Mate Horrik's lightning attack in the Mai Trin Fractal.,Соберите Ёмкостной бутылью энергию молниевой атаки первого помощника Хоррика во фрактале «Mai Trin».
-Use a Capacitive Bottle to capture energy from the central turret in Vexa's Laboratory in Fireheart Rise.,Соберите Ёмкостной бутылью энергию центральной турели в Лаборатории Вексы на Fireheart Rise.
-Use a Capacitive Bottle to capture energy from the cooling chamber in the Thaumanova Reactor Fractal.,Соберите Ёмкостной бутылью энергию камеры охлаждения во фрактале «Реактор Таумановы».
-Use a Capacitive Bottle to capture energy from the Jade Maw's beam attack in the Solid Ocean Fractal.,Соберите Ёмкостной бутылью энергию лучевой атаки Нефритовой Пасти во фрактале «Solid Ocean».
-Use a Capacitive Bottle to capture energy from the turrets guarding the ramp in the Uncategorized Fractal.,"Соберите Ёмкостной бутылью энергию турелей, охраняющих пандус, во фрактале «Неклассифицированный»."
+Use a Capacitive Bottle to capture energy from a branded projectile from the Shatterer in Blazeridge Steppes.,Соберите Capacitive Bottle энергию клеймёного снаряда Крушителя в Blazeridge Steppes.
+Use a Capacitive Bottle to capture energy from a chak energy attack.,Соберите Capacitive Bottle энергию энергетической атаки чака.
+Use a Capacitive Bottle to capture energy from a lightning field in the Inquest Golem Mark II battle in Mount Maelstrom.,Соберите Capacitive Bottle энергию молниевого поля в битве с Големом Инквеста Марк II на Mount Maelstrom.
+Use a Capacitive Bottle to capture energy from a lightning strike at Goemm's Lab in Metrica Province.,Соберите Capacitive Bottle энергию удара молнии в Лаборатории Гоэмма в Metrica Province.
+Use a Capacitive Bottle to capture energy from a lightning turret in the Thaumanova Reactor Fractal.,Соберите Capacitive Bottle энергию молниевой турели во фрактале «Thaumanova Reactor».
+Use a Capacitive Bottle to capture energy from a rotating wall while fighting Frizz in the Aetherblade Fractal.,Соберите Capacitive Bottle энергию вращающейся стены во время боя с Фриззом во фрактале «Эфирные клинки».
+Use a Capacitive Bottle to capture energy from a spark at Opticalium's lab in Metrica Province.,Соберите Capacitive Bottle энергию искры в лаборатории Оптикалиума в Metrica Province.
+Use a Capacitive Bottle to capture energy from a turret inside Oola's lab after it closes.,Соберите Capacitive Bottle энергию турели в лаборатории Оолы после её закрытия.
+Use a Capacitive Bottle to capture energy from a Veteran Air Elemental by killing it within melee range.,"Соберите Capacitive Bottle энергию ветерана-воздушного элементаля, убив его в ближнем бою."
+Use a Capacitive Bottle to capture energy from an Aetherblade Striker's channeled lightning attack.,Соберите Capacitive Bottle энергию направленной молниевой атаки бойца Эфирных клинков.
+Use a Capacitive Bottle to capture energy from an aspect lightning crystal in Dry Top.,Соберите Capacitive Bottle энергию молниевого кристалла аспекта на Сухой Вершине.
+Use a Capacitive Bottle to capture energy from an Inquest Technician using Shocking Stab.,"Соберите Capacitive Bottle энергию техника Инквеста, применяющего «Разящий укол»."
+Use a Capacitive Bottle to capture energy from energy projectiles flying from the central reactor of Spekk's Lab in Caledon Forest.,"Соберите Capacitive Bottle энергию энергетических снарядов, летящих из центрального реактора Лаборатории Спекка в Лесу Каледон."
+Use a Capacitive Bottle to capture energy from First Mate Horrik's lightning attack in the Mai Trin Fractal.,Соберите Capacitive Bottle энергию молниевой атаки первого помощника Хоррика во фрактале «Mai Trin».
+Use a Capacitive Bottle to capture energy from the central turret in Vexa's Laboratory in Fireheart Rise.,Соберите Capacitive Bottle энергию центральной турели в Лаборатории Вексы на Fireheart Rise.
+Use a Capacitive Bottle to capture energy from the cooling chamber in the Thaumanova Reactor Fractal.,Соберите Capacitive Bottle энергию камеры охлаждения во фрактале «Thaumanova Reactor».
+Use a Capacitive Bottle to capture energy from the Jade Maw's beam attack in the Solid Ocean Fractal.,Соберите Capacitive Bottle энергию лучевой атаки Нефритовой Пасти во фрактале «Solid Ocean».
+Use a Capacitive Bottle to capture energy from the turrets guarding the ramp in the Uncategorized Fractal.,"Соберите Capacitive Bottle энергию турелей, охраняющих пандус, во фрактале «Неклассифицированный»."
 "Use a Dye Identifier to identify one random dye color, which can be unlocked for all characters or recycled at the Mystic Forge.","Определите Определителем красок один случайный цвет краски, который можно разблокировать для всех персонажей либо переработать в Mystic Forge."
 Use a fraction of the organ's ley-line magic to knock your target back. Then draw weapons and prepare to fight.,"Используйте часть магии лей-линий органа, чтобы отбросить цель. Затем достаньте оружие и готовьтесь к бою."
 Use a Glacial Imbued Jar to collect and freeze water boiled by the lava flows in Fireheart Rise.,"Наберите и заморозьте в Ледниковой напитанной банке воду, вскипячённую потоками лавы на Fireheart Rise."
