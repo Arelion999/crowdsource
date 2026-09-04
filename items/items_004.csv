@@ -4,7 +4,7 @@ english,translate
 <c=@flavor>A strong citrus ale brewed with citrus found across Tyria. A small amount of Bloodstone dust included in the brew provides a tingling sensation when swallowed.</c>,"<c=@flavor>Крепкий цитрусовый эль, сваренный на цитрусах со всей Тирии. Немного пыли Кровавого камня в составе даёт лёгкое покалывание при глотке.</c>"
 "<c=@flavor>A Sunspear never fights alone.</c>
 Found in the Eye of the North.","<c=@flavor>Солнечное Копьё никогда не сражается в одиночку.</c>
-Найдено в Оке Севера."
+Найдено в Eye of the North."
 <c=@flavor>A symbol of ogre friendship.</c>,<c=@flavor>Знак дружбы огров.</c>
 <c=@flavor>A talented Durmand Priory scholar based this necklace on ancient astrological charts found on jotun megaliths.</c>,<c=@flavor>Талантливый учёный Приората Дурманд создал это ожерелье по древним астрологическим картам с мегалитов йотунов.</c>
 <c=@flavor>A talisman from Sabetha's stores that resonates with ancient power.</c>,"<c=@flavor>Талисман из запасов Сабеты, откликающийся на древнюю силу.</c>"
@@ -261,7 +261,7 @@ Purchased from Shading Willow at the Autumn's Vale renown heart in Lowland Shore
 <c=@flavor>Fragments of a sword capable of absorbing intense emotions like a sponge. Found by completing the Silent Surf fractal.</c>,"<c=@flavor>Обломки меча, способного впитывать сильные чувства, будто губка. Находится за прохождение фрактала «Безмолвный прибой».</c>"
 <c=@flavor>Fragments of an axe capable of absorbing intense emotions like a sponge. Found by completing the Silent Surf fractal.</c>,"<c=@flavor>Обломки топора, способного впитывать сильные чувства, будто губка. Находится за прохождение фрактала «Безмолвный прибой».</c>"
 <c=@flavor>Freedom.</c>,<c=@flavor>Свобода.</c>
-<c=@flavor>Fresh from White Mantle armorers.</c>,<c=@flavor>Прямиком от бронников Белой Мантии.</c>
+<c=@flavor>Fresh from White Mantle armorers.</c>,<c=@flavor>Прямиком от бронников White Mantle.</c>
 <c=@flavor>From a time before the grawl had a spoken language.</c>,"<c=@flavor>Из времён, когда у граулов ещё не было устной речи.</c>"
 "<c=@flavor>From many disparate pieces and materials, a harmony is forged.</c>",<c=@flavor>Из множества разрозненных частей и материалов куётся гармония.</c>
 <c=@flavor>From the hand of McLeod the Silent.</c>,<c=@flavor>Из рук Маклауда Безмолвного.</c>
@@ -285,12 +285,12 @@ Banned for sedition against the God King and sealed in the warehouse of Vehtendi
 <c=@flavor>Head protection for savage battles.</c>,<c=@flavor>Защита головы для свирепых битв.</c>
 "<c=@flavor>Hearts collide in the frigid tunnels of the Shiverpeaks.</c>
 Found in the Grotto in Thunderhead Peaks.","<c=@flavor>Сердца сталкиваются в стылых туннелях Дрожащих Пиков.</c>
-Найдено в Гроте в Пиках Громовой головы."
+Найдено в Гроте в Thunderhead Peaks."
 <c=@flavor>Help around Dry Top in order to raise Favor of the Zephyrites.<c>,"<c=@flavor>Помогайте по Сухой Вершине, чтобы заслужить Благосклонность зефиритов.<c>"
 "<c=@flavor>Hewn from the jaws of some strange beast, this pistol yearns for new victims of its malice.</c>","<c=@flavor>Вырубленный из челюстей некоего странного зверя, этот пистолет жаждет новых жертв своей злобы.</c>"
 "<c=@flavor>Icy hot.</c>
 Found in Jora's Keep in Bjora Marches.","<c=@flavor>Ледяной жар.</c>
-Найдено в Крепости Джоры в Топях Бьоры."
+Найдено в Jora's Keep в Bjora Marches."
 "<c=@flavor>If given long enough, even rings will become crabby.</c>","<c=@flavor>Если ждать достаточно долго, даже кольца становятся крабовыми.</c>"
 "<c=@flavor>If it looks intimidating to you, imagine how it looks to a skritt.</c>","<c=@flavor>Если он кажется грозным тебе, представь, каким он кажется скритту.</c>"
 "<c=@flavor>If you put your ear up to it, you can almost hear an ocean of nothingness.</c>","<c=@flavor>Если приложить к нему ухо, можно почти услышать океан пустоты.</c>"
@@ -392,7 +392,7 @@ Found in a Pact camp in Jahai Bluffs.","<c=@flavor>На передовой би�
 "<c=@flavor>One day, this larva will become a loyal mount.</c>",<c=@flavor>Однажды эта личинка станет верным ездовым животным.</c>
 "<c=@flavor>One of the only pieces left from an ill-fated Inquest project to harness draconic power in a golem chassis.</c>
 Purchased from Zara at the Gallant's Folly renown heart in Mount Maelstrom.","<c=@flavor>Одна из немногих уцелевших деталей злополучного проекта Инквеста по обузданию драконьей мощи в корпусе голема.</c>
-Куплено у Зары в сердце почёта «Причуда Галланта» на горе Мальстрём."
+Куплено у Зары в сердце почёта «Причуда Галланта» на Mount Maelstrom."
 <c=@flavor>One size grows to fit all.</c>,<c=@flavor>Один размер дорастает до любого.</c>
 "<c=@flavor>Only a few words on this document are legible: ""...ordered to cease and desist all experiments within the city of Rata Sum...in defiance of this order are...banishment.""</c>",<c=@flavor>В этом документе разборчиво лишь несколько слов: «...предписано прекратить и не возобновлять все опыты в пределах города Рата-Сум... в нарушение сего предписания... изгнание».</c>
 <c=@flavor>Only the strong can long endure in the depths.</c>,<c=@flavor>Лишь сильные способны долго выносить глубины.</c>

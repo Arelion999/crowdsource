@@ -28,9 +28,9 @@ Kill %num2% Aberrant.,Убейте %num2% аберрантов.
 Kill %num2% Crystal Desert predators.,Убейте %num2% хищников Crystal Desert.
 Kill %num2% Fallen.,Убейте %num2% падших.
 Kill %num2% Kryptis in Amnytas.,Убейте %num2% криптисов в Амнитасе.
-Kill %num2% Purists in New Kaineng City.,Убейте %num2% пуристов в Новом Кайненге.
+Kill %num2% Purists in New Kaineng City.,Убейте %num2% пуристов в New Kaineng.
 Kill %num2% Sons of Svanir.,Убейте %num2% Сынов Сванира.
-Kill %num2% Unchained Risen in New Kaineng City.,Убейте %num2% раскованных восставших в Новом Кайненге.
+Kill %num2% Unchained Risen in New Kaineng City.,Убейте %num2% раскованных восставших в New Kaineng.
 Kill %num2% ambient creatures.,Убейте %num2% местных существ.
 Kill %num2% bandits.,Убейте %num2% бандитов.
 Kill %num2% bats.,Убейте %num2% летучих мышей.
@@ -62,7 +62,7 @@ Kill %num2% imps.,Убейте %num2% импов.
 Kill %num2% insects.,Убейте %num2% насекомых.
 Kill %num2% invaders.,Убейте %num2% захватчиков.
 Kill %num2% jotun.,Убейте %num2% йотунов.
-Kill %num2% kappa in New Kaineng City.,Убейте %num2% капп в Новом Кайненге.
+Kill %num2% kappa in New Kaineng City.,Убейте %num2% капп в New Kaineng.
 Kill %num2% krait in Nonmoa Lake or complete the Kill the Krait Witch event to aid the Eztlitl hylek.,"Убейте %num2% крайтов у озера Нонмоа или завершите событие «Убейте крайтовую ведьму», чтобы помочь хилекам Эцтлитль."
 Kill %num2% krait.,Убейте %num2% крайтов.
 Kill %num2% members of Balthazar's Forged.,Убейте %num2% членов Кованых Бальтазара.
@@ -117,7 +117,7 @@ Killed %num1%/%num2%,Убито %num1%/%num2%
 Killed %num1%/%num2% Aberrant,Убито %num1%/%num2% аберрантов
 Killed %num1%/%num2% Aetherblades in Seitung Province,Убито %num1%/%num2% бойцов Эфирного Клинка в Провинции Сейтун
 Killed %num1%/%num2% Branded during the Shatterer Battle,Убито %num1%/%num2% клеймёных во время битвы с Разрушителем
-Killed %num1%/%num2% Branded in Thunderhead Peaks,Убито %num1%/%num2% клеймёных на Пиках Громовой головы
+Killed %num1%/%num2% Branded in Thunderhead Peaks,Убито %num1%/%num2% клеймёных на Thunderhead Peaks
 Killed %num1%/%num2% Champions in Dragonfall,Убито %num1%/%num2% чемпионов в Драконьем Падении
 Killed %num1%/%num2% Creatures in Melandru's Lost Domain in Dragonfall,Убито %num1%/%num2% существ в Утраченных Владениях Меландру в Драконьем Падении
 Killed %num1%/%num2% Creatures in the Burning Forest in Dragonfall,Убито %num1%/%num2% существ в Горящем Лесу в Драконьем Падении
@@ -125,7 +125,7 @@ Killed %num1%/%num2% Fallen,Убито %num1%/%num2% падших
 Killed %num1%/%num2% Hostile Wildlife,Убито %num1%/%num2% враждебных зверей
 Killed %num1%/%num2% Jade Brotherhood in Echovald Wilds,Убито %num1%/%num2% бойцов Jade Brotherhood в Echovald Wilds
 Killed %num1%/%num2% Jade Brotherhood in Gyala Delve,Убито %num1%/%num2% бойцов Jade Brotherhood в Гьяла-Дельв
-Killed %num1%/%num2% Jade Brotherhood in New Kaineng,Убито %num1%/%num2% бойцов Jade Brotherhood в Новом Кайненге
+Killed %num1%/%num2% Jade Brotherhood in New Kaineng,Убито %num1%/%num2% бойцов Jade Brotherhood в New Kaineng
 Killed %num1%/%num2% Jade Mechs in Echovald Wilds,Убито %num1%/%num2% нефритовых мехов в Echovald Wilds
 Killed %num1%/%num2% Kappa,Убито %num1%/%num2% капп
 Killed %num1%/%num2% Kappa in Gyala Delve,Убито %num1%/%num2% капп в Гьяла-Дельв
@@ -134,23 +134,23 @@ Killed %num1%/%num2% Kryptis Generals,Убито %num1%/%num2% генерало�
 Killed %num1%/%num2% Kryptis in Amnytas,Убито %num1%/%num2% криптисов в Амнитасе
 Killed %num1%/%num2% Mordant Crescent Champions,Убито %num1%/%num2% чемпионов Едкого Полумесяца
 Killed %num1%/%num2% Naga in Dragon's End,Убито %num1%/%num2% наг в Конце Дракона
-Killed %num1%/%num2% Naga in New Kaineng,Убито %num1%/%num2% наг в Новом Кайненге
+Killed %num1%/%num2% Naga in New Kaineng,Убито %num1%/%num2% наг в New Kaineng
 Killed %num1%/%num2% Naga in Seitung Province,Убито %num1%/%num2% наг в Провинции Сейтун
 Killed %num1%/%num2% Plague Rats,Убито %num1%/%num2% чумных крыс
 Killed %num1%/%num2% Purists,Убито %num1%/%num2% пуристов
-Killed %num1%/%num2% Purists in New Kaineng,Убито %num1%/%num2% пуристов в Новом Кайненге
+Killed %num1%/%num2% Purists in New Kaineng,Убито %num1%/%num2% пуристов в New Kaineng
 Killed %num1%/%num2% Purists in Seitung Province,Убито %num1%/%num2% пуристов в Провинции Сейтун
 Killed %num1%/%num2% Raid Bosses,Убито %num1%/%num2% рейдовых боссов
 Killed %num1%/%num2% Son[s] of Svanir,Убито %num1%/%num2% Сын[а|а|ов] Сванира
 Killed %num1%/%num2% Spirits in the Echovald Wilds,Убито %num1%/%num2% духов в Echovald Wilds
 Killed %num1%/%num2% Unchained Risen,Убито %num1%/%num2% раскованных восставших
-Killed %num1%/%num2% Unchained in New Kaineng,Убито %num1%/%num2% раскованных в Новом Кайненге
+Killed %num1%/%num2% Unchained in New Kaineng,Убито %num1%/%num2% раскованных в New Kaineng
 Killed %num1%/%num2% Unchained in Seitung Province,Убито %num1%/%num2% раскованных в Провинции Сейтун
 Killed %num1%/%num2% Underworld Creatures in Dragonfall,Убито %num1%/%num2% существ Подземного мира в Драконьем Падении
 Killed %num1%/%num2% Void Creatures in the Echovald Wilds,Убито %num1%/%num2% существ Пустоты в Echovald Wilds
 Killed %num1%/%num2% of Kasmeer's Training Illusions.,Убито %num1%/%num2% обучающих иллюзий Касмир.
 Killed 10 Chak before Succumbing,Убито 10 чаков перед гибелью
-Killed 50 White Mantle Invaders at the Henge of Denravi,Убито 50 захватчиков Белой Мантии у Хенджа Денрави
+Killed 50 White Mantle Invaders at the Henge of Denravi,Убито 50 захватчиков White Mantle у Хенджа Денрави
 Killed 6 Awakened with a single bomb blast,Убито 6 Пробуждённых одним взрывом бомбы
 "Killed Abiri, the Beetle Queen near Driftwood Jetty","Убита Абири, Королева Жуков, у Плавникового причала"
 Killed All Mordrem Snipers,Все мордремские снайперы убиты
@@ -171,7 +171,7 @@ Killed Sulypix,Убит Сулипикс
 Killed Vermignus in the Fractured Caldera,Вермигнус убит в Расколотой Кальдере
 Killed a Chak Gerent,Убит герент чаков
 Killed a Legendary Creature in Dragonfall,Легендарное существо убито в Драконьем Падении
-Killed a Legendary Creature in Thunderhead Peaks,Легендарное существо убито на Пиках Громовой головы
+Killed a Legendary Creature in Thunderhead Peaks,Легендарное существо убито на Thunderhead Peaks
 Killed a Legendary Creature in the Raven Sanctum.,Легендарное существо убито в Святилище Ворона.
 Killed the Bloodstone-Charged Lava Wurm in Heathen's Hold,Убит напитанный кровавым камнем лавовый вурм в Оплоте Язычника
 Killed the Boneskinner in the Sanctum Arena,Костодёр убит на Арене Святилища
@@ -186,7 +186,7 @@ Killed the Mouth of Mordremoth,Пасть Мордремота убита
 Killed the Mouth of Mordremoth in 20 Minutes,Пасть Мордремота убита за 20 минут
 Killed the Pyroclastic Jade Construct in Caliph's Steps,Пирокластический нефритовый конструкт убит на Ступенях Калифа
 Killed the Webby Mother in Ancient Hollow,Паучиха-мать убита в Древней Лощине
-Killed the White Mantle Reinforcements,Подкрепления Белой Мантии убиты
+Killed the White Mantle Reinforcements,Подкрепления White Mantle убиты
 Killian,Killian
 Killing foes counts toward the Skyscale of Blood achievement.,Убийства врагов засчитываются в достижение «Skyscale of Blood».
 Killing my minions? I'll make more!,Убиваешь моих прислужников? Наделаю ещё!
@@ -345,7 +345,7 @@ Leap Attack • Mighty,Атака в прыжке • Мощь
 Leaping Attack,Прыжковая атака
 Leaping Flame,Прыгающее пламя
 Learn all you can from Captain Wing Jun in Gyala Delve to unlock.,"Узнайте всё возможное у капитана Уинг Джуна в Гьяла-Дельв, чтобы открыть."
-Learn more about the White Mantle activity in the area.,Узнайте больше об активности Белой Мантии в этой местности.
+Learn more about the White Mantle activity in the area.,Узнайте больше об активности White Mantle в этой местности.
 "Learn the /shiver emote from Icebrood Saga Episode 2, ""Shadow in the Ice.""","Изучите жест /shiver из 2-го эпизода Саги о ледяном отродье, «Shadow in the Ice»."
 Learn to survive Castora just like the shipwrecked survivors.,"Научитесь выживать на Касторе, как потерпевшие кораблекрушение."
 Learned %num1%/%num2% Piece[s] of Information,Изучено %num1%/%num2% сведени[е|я|й]
