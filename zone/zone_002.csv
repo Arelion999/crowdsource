@@ -31,7 +31,7 @@ english,translate
 """Your Majesty Queen Salma, citizens of Kryta, it is my honor to welcome you through the gates of our city, which will hereafter be known as Divinity's Reach.""","«Your Majesty Queen Salma, граждане Kryta, для меня честь приветствовать вас у ворот нашего города, который отныне будет называться Divinity's Reach»."
 """Your faith is your weakness, human.""","«Твоя вера – твоя слабость, человек»."
 """Your false god will kneel before me, Ossa!"" His majesty Palawa Joko gloated over the warmashal's corpse. ""I Shall protect the people of Elona from the Nightfall you've attempted to bring upon them!""","«Твой лжебог преклонит колени передо мной, Ossa!» — Его величество Palawa Joko торжествовал над трупом военачальника. — «Я защищу народ Elona от Nightfall, который ты пытался на них навлечь!»"
-"""Your"" grounds? You stole this land, scorned one. But do not worry—we will see you never leave it.","""Ваши"" земли? Вы украли эту землю, отверженный. Но не волнуйтесь — мы позаботимся о том, чтобы вы её никогда не покинули."
+"""Your"" grounds? You stole this land, scorned one. But do not worry—we will see you never leave it.","«Ваши» земли? Вы украли эту землю, отверженный. Но не волнуйтесь — мы позаботимся о том, чтобы вы её никогда не покинули."
 """Zhaitan's power will not fail me!""",«Сила Zhaitan не подведет меня!»
 """and dangerous enemies...""",и опасные враги...
 &#9834;music&#9834;,Музыка
@@ -362,7 +362,7 @@ english,translate
 "(human): I've spent decades here, and I discover something new every day.","(человек): Я провел здесь десятилетия, и каждый день открываю что-то новое."
 (human): Shh!,(человек): Тсс!
 (human): Sorry!,(человек): Прости!
-"(if chose ""I've got another question for you""): What can I answer for you, sir?","(если выбрано ""У меня есть ещё один вопрос""): На что я могу ответить, сэр?"
+"(if chose ""I've got another question for you""): What can I answer for you, sir?","(если выбрано «У меня есть ещё один вопрос»): На что я могу ответить, сэр?"
 (if he dies): This cannot be ...,(если он умрет): Этого не может быть...
 "(in robotic voice) Affirmative, loved one Kazz. This unit thanks you for your assistance.","(роботизированным голосом) Подтверждаю, любимый Kazz. Этот юнит благодарит вас за помощь."
 "(laugh) (cough) So what now? You big, strong heroes going to take me to jail?","(смеется) (кашляет) Ну и что теперь? Вы, большие и сильные герои, собираетесь отправить меня в тюрьму?"
@@ -493,8 +493,8 @@ english,translate
 (roar) This is what I live for!,"(рык) Это то, ради чего я живу!"
 (roar) Unworthy must die!,(рык) Недостойные должны умереть!
 (roar) Wish I was a raptor.,(рычит) Хотел бы я быть раптором.
-"(scoff) ""Community"" garden, my buns! Neighbors hardly lift a finger 'cept to gobble up the harvest!","(фыркает) ""Общественный"" сад, как же! Соседи и пальцем не пошевелят, кроме как чтобы слопать урожай!"
-"(scoff) And your ""solutions"" are more likely than not to send us spinning closer to oblivion.","(фыркает) А твои ""решения"", скорее всего, лишь приблизят нас к забвению."
+"(scoff) ""Community"" garden, my buns! Neighbors hardly lift a finger 'cept to gobble up the harvest!","(фыркает) «Общественный» сад, как же! Соседи и пальцем не пошевелят, кроме как чтобы слопать урожай!"
+"(scoff) And your ""solutions"" are more likely than not to send us spinning closer to oblivion.","(фыркает) А твои «решения», скорее всего, лишь приблизят нас к забвению."
 "(scoff) If you're all gonna talk behind someone's back, try using a secure frequency!","(фыркает) Если уж собираетесь обсуждать кого-то за спиной, используйте защищенную частоту!"
 (scoff) Let me guess...,(усмешка) Дайте угадаю...
 "(scoffs) Don't assume I need you, Kuda—because I don't.","(фыркает) Не думай, что ты мне нужен, Kuda — потому что это не так."
