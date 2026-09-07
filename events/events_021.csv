@@ -51,7 +51,7 @@ Sorting armor scraps: 1:00,Сортировка обрывков доспехо�
 Sorting equipment: 1:00,Сортировка снаряжения: 1:00
 Sotzz the Scallywag,Sotzz the Scallywag
 Soul Binder Supply Bull,Вьючный бык Soul Binder
-Soul Binder processing begins in: 1:00,Обработка Связывателей Душ начнется через: 1:00
+Soul Binder processing begins in: 1:00,Обработка Soul Binder начнется через: 1:00
 Soul Binders,Soul Binders
 Soundless Remaining: 8,Осталось Soundless: 8
 Sounds good to me too.,Мне это тоже по душе.
@@ -215,7 +215,7 @@ Stand on the pressure plates to open the gate.,"Встаньте на нажим
 "Stand tall, stand proud! You men and women have brought honor on yourselves this day.","Держитесь прямо, держитесь гордо! Вы, мужчины и женщины, сегодня покрыли себя честью."
 Stand your ground! We will burn their corpses!,Стоять насмерть! Мы сожжем их трупы!
 Starcaller,Starcaller
-"Start with the golems. Switch them to ""COMMAND: Party."" Can't have a celebration if they're not serving refreshments.","Начните с големов. Переключите их в режим ""КОМАНДА: Вечеринка"". Нельзя устроить праздник, если они не подают угощения."
+"Start with the golems. Switch them to ""COMMAND: Party."" Can't have a celebration if they're not serving refreshments.","Начните с големов. Переключите их в режим «КОМАНДА: Вечеринка». Нельзя устроить праздник, если они не подают угощения."
 Starving Kryptis Fed,Голодающие Kryptis накормлены
 State your business at Vehtendi Academy.,Назовите цель вашего визита в Vehtendi Academy.
 Station A progress,Прогресс станции A
@@ -257,7 +257,7 @@ Steelbeak's Flock killed,Стая Steelbeak уничтожена
 Stew prep begins in: 1:00,Подготовка рагу начнется через: 1:00
 Stiff joints. But no pains. No heartbeat. No feeling.,Суставы затекли. Но боли нет. Сердце не бьётся. Никаких чувств.
 Still searhcing.,Все ещё ищу.
-Stolen Awakened weapons,Украденное оружие Пробужденных
+Stolen Awakened weapons,Украденное оружие Пробуждённых
 Stolen Supplies Recovered,Украденные припасы возвращены
 Stolen supplies spoil in: 15:00,Украденные припасы испортятся через: 15:00
 Stolen supplies?,Украденные припасы?
@@ -269,7 +269,7 @@ Stonecrag Ogre Chieftain,Вождь огров Stonecrag
 Stonefist Captain Retires in 10:00,Капитан Stonefist отступит через 10:00
 Stonefist crew remaining,Осталось членов команды Stonefist
 Stonehead,Каменноголовый
-"Stop ""Joko"" from recruiting the Awakened!","Остановите ""Joko"" от вербовки Awakened!"
+"Stop ""Joko"" from recruiting the Awakened!","Остановите «Joko» от вербовки Awakened!"
 Stop Captain Wiley before he finishes scouring the ship for treasure,"Остановите Captain Wiley, прежде чем он закончит обыскивать корабль в поисках сокровищ"
 Stop Decima from draining the bloodstone,Помешайте Decima вытянуть энергию из кровавого камня
 Stop Manikaz from completing his ritual,Помешайте Manikaz завершить ритуал
@@ -279,7 +279,7 @@ Stop Soma from destroying the alliance watchtower,Помешайте Soma раз
 Stop Tamini centaurs from capturing farmers,"Остановите кентавров Tamini, пытающихся захватить фермеров"
 Stop Tokkra's kidnapping,Остановите похищение Tokkra
 Stop bandits from collecting ore for a centaur supply shipment.,Помешайте бандитам собирать руду для поставки кентаврам.
-Stop bandits from stealing valuable chopper wreckage,"Остановите бандитов, крадущих ценные обломки вертолета"
+Stop bandits from stealing valuable chopper wreckage,"Остановите бандитов, крадущих ценные обломки вертолёта"
 Stop dredge from repairing their tower,Помешайте дреджам починить их башню
 Stop fabricators from building the steam outpost.,Помешайте фабрикаторам построить паровой аванпост.
 "Stop firing! By the gods, we surrender!","Прекратить огонь! Ради богов, мы сдаемся!"
@@ -295,7 +295,7 @@ Stop termites from consuming the wardenlight tree,"Остановите терм
 Stop that! Those are our tents!,Прекратите! Это наши палатки!
 Stop the Aetherblade miasma deployment,Остановите распространение миазмов Aetherblade
 Stop the Awakened collectors from harassing the exiles.,"Остановите сборщиков Awakened, донимающих изгнанников."
-Stop the Awakened harvest caravan from reaching the Bone Gate,"Остановите караван пробужденных, направляющийся к Костяным вратам"
+Stop the Awakened harvest caravan from reaching the Bone Gate,"Остановите караван пробуждённых, направляющийся к Костяным вратам"
 Stop the Bloodstone Elemental Incursion,Остановите вторжение элементалей Кровавого камня
 Stop the Branded Mender from collecting magic for Kralkatorrik,"Остановите Брендированного целителя, собирающего магию для Kralkatorrik"
 Stop the Flame Legion from capturing Firewatch Encampment,Не дайте Flame Legion захватить лагерь Firewatch
@@ -424,9 +424,9 @@ Subdivided oozes defeated: 0/3,Частицы слизня побеждены: 0
 "Subdue Gwyllian, Seneschal of the Forest.","Подавить Гвиллиан, сенешаля леса."
 Subdue Mawthew and remove the Kryptis influence.,Усмири Mawthew и устрани влияние Kryptis.
 Subdue Research Intern Kim.,Усмирите стажера-исследователя Kim.
-"Subdue and capture ""Deputy"" Brooke","Усмирите и захватите ""Deputy"" Brooke"
+"Subdue and capture ""Deputy"" Brooke","Усмирите и захватите «Deputy» Brooke"
 Subdue and capture 2-MULT,Усмирите и захватите 2-MULT
-"Subdue and capture Ander ""Wildman"" Westward","Усмирите и захватите Ander ""Wildman"" Westward"
+"Subdue and capture Ander ""Wildman"" Westward","Усмирите и захватите Ander «Wildman» Westward"
 Subdue and capture Big Mayana,Одолеть и захватить Big Mayana
 Subdue and capture Bookworm Bwikki,Одолеть и захватить Bookworm Bwikki
 Subdue and capture Crusader Michiele,Одолеть и захватить Crusader Michiele

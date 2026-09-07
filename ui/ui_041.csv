@@ -84,7 +84,7 @@ Champion Chief Kronon,Champion Chief Kronon
 Champion Contender,Champion Contender
 "Champion Dawn the White Tailed Deer Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей Чемпиона Давна Белохвостого Оленя
 Champion Destroyer,Champion Destroyer
-"Champion Destroyer Loot Box[pl:""Boxes""]","[Коробка|Коробки|Коробок] с добычей ""Уничтожитель чемпионов"""
+"Champion Destroyer Loot Box[pl:""Boxes""]","[Коробка|Коробки|Коробок] с добычей «Уничтожитель чемпионов»"
 "Champion Destroyer of Worlds Black Rabbit Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей чемпионского разрушителя миров «Чёрный кролик»
 Champion Dhael Skyspeaker,Champion Dhael Skyspeaker
 "Champion Diamond the Black Wolf Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей Чемпиона Даймонда Чёрного Волка
@@ -147,7 +147,7 @@ Champion Risen,Champion Risen
 "Champion Rozgar the Forge Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей чемпиона Розгара Кузнеца
 "Champion Sariel Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей Чемпиона Сариэль
 "Champion Sentry Golem Mark S-IV Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей Стража Голем Марк S-IV
-"Champion Separatist Lieutenant Loot Box[pl:""Boxes""]","[Коробка|Коробки|Коробок] с добычей лейтенанта ""Чемпион сепаратистов"""
+"Champion Separatist Lieutenant Loot Box[pl:""Boxes""]","[Коробка|Коробки|Коробок] с добычей лейтенанта «Чемпион сепаратистов»"
 "Champion Separatist Sergeant Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей: чемпион-сепаратистский капрал
 Champion Skritt Bottle Lobber,Champion Skritt Bottle Lobber
 "Champion Skritt Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей чемпиона-скритта
@@ -164,7 +164,7 @@ Champion Terror of the Sands,Чемпион Ужас песков
 "Champion Vassar Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей чемпиона Вассара
 Champion Vined Cache[s],[Сундук|Сундука|Сундуков] чемпиона с лозой
 "Champion Waffle the White Bear Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей чемпиона Вафли Белого Медведя
-"Champion Warg Loot Box[pl:""Boxes""]","[Коробка|Коробки|Коробок] с добычей ""Чемпионский варг"""
+"Champion Warg Loot Box[pl:""Boxes""]","[Коробка|Коробки|Коробок] с добычей «Чемпионский варг»"
 "Champion Wraith Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей чемпионского призрака
 "Champion Wurm Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей чемпионского червя
 "Champion Zhaitan the Corrupted Dragon Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей: Зайтан-Правитель Коррумпированный Дракон
@@ -187,7 +187,7 @@ Chance to deal critical-hit damage,Шанс нанести критически�
 Chance to drop from Ascalonian ghosts in Grothmar Valley.,Шанс выпадения от призраков Аскалона в Grothmar Valley.
 Chance to drop from centaur enemies. Guaranteed from Modniir Ulgoth.,Шанс выпадения от врагов-кентавров. Гарантировано от Модниира Ульгота.
 Chance to drop from destroyer enemies. Guaranteed from megadestroyer.,Шанс выпадения от врагов-разрушителей. Гарантировано от мегаразрушителя.
-Chance to drop from icebrood enemies. Guaranteed from the Claw of Jormag.,Шанс выпадения от врагов-ледорогов. Гарантировано от Когтя Йормага.
+Chance to drop from icebrood enemies. Guaranteed from the Claw of Jormag.,Шанс выпадения от врагов-ледорогов. Гарантировано от Claw of Jormag.
 Chance to drop from Inquest enemies. Guaranteed from Golem Mark II or Mark III Suppressor Golem.,Шанс выпадения из врагов Инквест. Гарантированно выпадает с Подавителя голема II или III.
 Chance to drop from karka enemies. Guaranteed from Karka Queen.,Шанс выпадения от врагов-карков. Гарантировано от Karka Queen.
 Chancel of Echoes,Придел Эха
@@ -223,7 +223,7 @@ Channel Form of the Warrior,Канал формы воина
 Channel healing and boons in a large area around you.,Создайте исцеление и благословения в большой области вокруг вас.
 Channel Hero,Канал героя
 Channel Name,Название канала
-"Channel revitalizing energy that heals you with every pulse. While channeling, you take reduced strike and condition damage.<c=@abilitytype>Resonance.</c> If Legendary Centaur Stance is equipped, you additionally heal allies around you during channeling, and you take reduced strike and condition damage for a short amount of time after channeling completes.","Направляет восстанавливающую энергию, исцеляющую вас с каждым импульсом. Во время направления вы получаете меньше урона от ударов и состояний.<c=@abilitytype>Резонанс.</c> Если экипирована стойка Легендарного Кентавра, вы также исцеляете союзников вокруг себя во время направления и получаете меньше урона от ударов и состояний в течение короткого времени после завершения направления."
+"Channel revitalizing energy that heals you with every pulse. While channeling, you take reduced strike and condition damage.<c=@abilitytype>Resonance.</c> If Legendary Centaur Stance is equipped, you additionally heal allies around you during channeling, and you take reduced strike and condition damage for a short amount of time after channeling completes.","Направляет восстанавливающую энергию, исцеляющую вас с каждым импульсом. Во время направления вы получаете меньше урона от ударов и состояний.<c=@abilitytype>Резонанс.</c> Если экипирована Legendary Centaur Stance, вы также исцеляете союзников вокруг себя во время направления и получаете меньше урона от ударов и состояний в течение короткого времени после завершения направления."
 Channel the power of the spirits with this package!Appearance skins override the look of your equipment and have no stats of their own.,Направьте силу духов с этим набором!Облики внешнего вида заменяют внешний вид вашего снаряжения и не имеют собственных характеристик.
 Channel the power of the storm!,Направьте силу бури!
 "Channel twisted energy to launch yourself at your foe, damaging nearby enemies on impact.<br><br><br><br>If you are at or above the Blight threshold when you activate this skill, consume that amount of Blight to double the damage and torment struck foes.","Направьте искажённую энергию, чтобы броситься на врага, нанося урон ближайшим противникам при столкновении.<br><br><br><br>Если при активации навыка у вас есть порог Чумы или выше, поглотите это количество Чумы, чтобы удвоить урон и наложить мучение на поражённых врагов."
@@ -292,7 +292,7 @@ Chaotically Written Memo to Self,Хаотически написанная за�
 «Ну, — засмеялся Освальд, — ничего не случится с ТОБОЙ, дорогая. Ты уже мертва».
 
 Виконт замурлыкал."
-"CHAPTER 144    ""They can't do this."" Abaddon's voice cracked. ""You don't deserve to be—""    THEY FIND MY METHODS TOO HARSH, MY DEAR. EVEN NOW, HE APPROACHES TO REPLACE ME.    ""But if they knew half the things I knew, the secrets of this world, they would never...""    Dhuum reached out and gently clasped his lover's betentacled face. ALL THINGS COME TO AN END, MY SWEET CALAMARI, he said, wiping away the tears one by one. OTHERS MAY NOT UNDERSTAND THE VALUE OF THAT, BUT WE DO.     The lights dimmed in the Cathedral of Eternal Radiance as Death's Disco Ball descended from above. It sent eerie light bouncing off the walls, reflected in turn in Abaddon's many eyes. COME. LET US WRITE THE CONCLUSION TO OUR LEGEND, Dhuum said, extending his hand to his partner. LET US HAVE OUR LAST DANCE.    The two gods slowly circled the cathedral hall, hands on hips, drawing out this last stolen moment together. It had been love at first scythe, Abaddon knew. And no matter what Dhuum believed, that love would never die.    If anyone else ever tries to dance with me, Abaddon swore, I'll obliterate them.","ГЛАВА 144    «Они не могут этого сделать». Голос Аббадона дрогнул. «Ты не заслуживаешь быть —»    ОНИ СЧИТАЮТ МОИ МЕТОДЫ СЛИШКОМ СУРОВЫМИ, МОЙ ДОРОГОЙ. ДАЖЕ СЕЙЧАС ОН ПРИБЛИЖАЕТСЯ, ЧТОБЫ ЗАМЕНИТЬ МЕНЯ.    «Но если бы они знали половину того, что знаю я, секреты этого мира, они бы никогда...»    Дхум протянул руку и нежно сжал щупальцеликое лицо своего возлюбленного. ВСЕМ ВЕЩАМ ПРИХОДИТ КОНЕЦ, МОЙ СЛАДКИЙ КАЛЬМАРИ, сказал он, вытирая слёзы одну за другой. ДРУГИЕ МОГУТ НЕ ПОНИМАТЬ ЦЕННОСТИ ЭТОГО, НО МЫ ПОНИМАЕМ.     Свет в Соборе Вечного Сияния померк, когда Диско-шар Смерти спустился сверху. Он отбрасывал жуткий свет, отражающийся от стен, в свою очередь отражаясь в многочисленных глазах Аббадона. ИДИ. ДАВАЙ НАПИШЕМ ЗАКЛЮЧЕНИЕ НАШЕЙ ЛЕГЕНДЫ, сказал Дхум, протягивая руку своему партнеру. ДАВАЙ УСТРОИМ НАШ ПОСЛЕДНИЙ ТАНЕЦ.    Два бога медленно кружили по залу собора, руки на бедрах, растягивая этот последний украденный момент вместе. Это была любовь с первого взгляда косы, знал Аббадон. И что бы ни думал Дхум, эта любовь никогда не умрет.    Если кто-то ещё попытается танцевать со мной, поклялся Аббадон, я уничтожу их."
+"CHAPTER 144    ""They can't do this."" Abaddon's voice cracked. ""You don't deserve to be—""    THEY FIND MY METHODS TOO HARSH, MY DEAR. EVEN NOW, HE APPROACHES TO REPLACE ME.    ""But if they knew half the things I knew, the secrets of this world, they would never...""    Dhuum reached out and gently clasped his lover's betentacled face. ALL THINGS COME TO AN END, MY SWEET CALAMARI, he said, wiping away the tears one by one. OTHERS MAY NOT UNDERSTAND THE VALUE OF THAT, BUT WE DO.     The lights dimmed in the Cathedral of Eternal Radiance as Death's Disco Ball descended from above. It sent eerie light bouncing off the walls, reflected in turn in Abaddon's many eyes. COME. LET US WRITE THE CONCLUSION TO OUR LEGEND, Dhuum said, extending his hand to his partner. LET US HAVE OUR LAST DANCE.    The two gods slowly circled the cathedral hall, hands on hips, drawing out this last stolen moment together. It had been love at first scythe, Abaddon knew. And no matter what Dhuum believed, that love would never die.    If anyone else ever tries to dance with me, Abaddon swore, I'll obliterate them.","ГЛАВА 144    «Они не могут этого сделать». Голос Аббадона дрогнул. «Ты не заслуживаешь быть —»    ОНИ СЧИТАЮТ МОИ МЕТОДЫ СЛИШКОМ СУРОВЫМИ, МОЙ ДОРОГОЙ. ДАЖЕ СЕЙЧАС ОН ПРИБЛИЖАЕТСЯ, ЧТОБЫ ЗАМЕНИТЬ МЕНЯ.    «Но если бы они знали половину того, что знаю я, секреты этого мира, они бы никогда...»    Дхум протянул руку и нежно сжал щупальцеликое лицо своего возлюбленного. ВСЕМ ВЕЩАМ ПРИХОДИТ КОНЕЦ, МОЙ СЛАДКИЙ КАЛЬМАРИ, сказал он, вытирая слёзы одну за другой. ДРУГИЕ МОГУТ НЕ ПОНИМАТЬ ЦЕННОСТИ ЭТОГО, НО МЫ ПОНИМАЕМ.     Свет в Cathedral of Eternal Radiance померк, когда Диско-шар Смерти спустился сверху. Он отбрасывал жуткий свет, отражающийся от стен, в свою очередь отражаясь в многочисленных глазах Аббадона. ИДИ. ДАВАЙ НАПИШЕМ ЗАКЛЮЧЕНИЕ НАШЕЙ ЛЕГЕНДЫ, сказал Дхум, протягивая руку своему партнеру. ДАВАЙ УСТРОИМ НАШ ПОСЛЕДНИЙ ТАНЕЦ.    Два бога медленно кружили по залу собора, руки на бедрах, растягивая этот последний украденный момент вместе. Это была любовь с первого взгляда косы, знал Аббадон. И что бы ни думал Дхум, эта любовь никогда не умрет.    Если кто-то ещё попытается танцевать со мной, поклялся Аббадон, я уничтожу их."
 Chapter 1: Desert Bloom,Глава 1: Цветение пустыни
 Chapter 1: Searing Spell,Глава 1: Палящее заклинание
 Chapter 1: Unflinching Charge,Глава 1: Непоколебимая атака
@@ -487,7 +487,7 @@ Charr Target Dummy,Тренировочный манекен чаров
 "Charr Tier 3 Heavy Armor Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] тяжёлой брони чарров 3-го уровня
 "Charr Tier 3 Light Armor Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] лёгкой брони чарров 3-го уровня
 "Charr Tier 3 Medium Armor Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] средней брони чарров 3-го уровня
-Charr Toy Mortar,Игрушечный миномет чаров
+Charr Toy Mortar,Игрушечный миномёт чаров
 Charr Trail Script,Чаррский следовой сценарий
 Charr Turret,Чаррская турель
 Charr Update,Обновление Чарров

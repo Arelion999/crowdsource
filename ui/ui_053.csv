@@ -126,7 +126,7 @@ Delete Data,Удалить данные
 Delete Filter,Удалить фильтр
 Delete Me,Удалить меня
 Delete Selected,Удалить выбранное
-"Deleting a character will permanently destroy any items in that character's inventory as well as any character-based unlocks associated with that character.If you are certain you wish to delete ""%str1%,"" type the name below and click ""Delete.""","Удаление персонажа навсегда уничтожит все предметы в его инвентаре, а также все связанные с ним разблокировки. Если вы уверены, что хотите удалить ""%str1%,"" введите имя ниже и нажмите ""Удалить""."
+"Deleting a character will permanently destroy any items in that character's inventory as well as any character-based unlocks associated with that character.If you are certain you wish to delete ""%str1%,"" type the name below and click ""Delete.""","Удаление персонажа навсегда уничтожит все предметы в его инвентаре, а также все связанные с ним разблокировки. Если вы уверены, что хотите удалить «%str1%,» введите имя ниже и нажмите «Удалить»."
 Delicate Harp String[s],[Струна|Струны|Струн] нежной арфы
 Delicate Lace Cape now available!,Нежный кружевной плащ теперь доступен!
 Delicate Lace Cape Skin[s],[Облик|Облика|Обликов] кружевного плаща
@@ -417,7 +417,7 @@ Destroy a large Idol of Jormag in Bjora Marches.,Уничтожьте крупн
 Destroy a piece of confiscated jade tech.,Уничтожьте часть конфискованной нефритовой техники.
 Destroy all of the portals to continue fighting the Shadow Behemoth.,"Уничтожьте все порталы, чтобы продолжить сражение с Shadow Behemoth."
 Destroy all the icebrood around the hot springs.,Уничтожьте всех ледяных отродий вокруг горячих источников.
-Destroy an Inquest bridge due north of Artificer's Islet.,Уничтожьте мост Инквест к северу от Островка Ремесленника.
+Destroy an Inquest bridge due north of Artificer's Islet.,Уничтожьте мост Инквест к северу от Artificer's Islet.
 Destroy an Inquest bridge leading to the Deepwood.,"Уничтожьте мост Инквест, ведущий в Глубоколесье."
 Destroy as many piñatas as you can before time runs out!,Уничтожьте как можно больше пиньят до истечения времени!
 Destroy Brandstone Elementals: %num1%,Уничтожьте Брендстоун-элементалей: %num1%
@@ -432,7 +432,7 @@ Destroy Mordrem Threat,Уничтожьте угрозу Мордрем
 Destroy one of the blighting towers in Dragon's Stand to take the fight to Mordremoth.,"Уничтожьте одну из башен порчи в Логове Дракона, чтобы сразиться с Мордремофом."
 Destroy Outer Gate,Уничтожьте внешние врата
 Destroy Shard,Уничтожить осколок
-Destroy summoning circles and defeat Speaker ritualists terrorizing Teleri Village.,"Уничтожьте призывные круги и одолейте ритуалистов Говорящих, терроризирующих деревню Телери."
+Destroy summoning circles and defeat Speaker ritualists terrorizing Teleri Village.,"Уничтожьте призывные круги и одолейте ритуалистов Говорящих, терроризирующих Teleri Village."
 Destroy the blighting tree in the Corpse Grove of Verdant Brink.,Уничтожьте дерево порчи в Трупной Роще на Изумрудном Утёсе.
 Destroy the bloodstone bomb and mauler.,Уничтожьте бомбу из кровавого камня и крушителя.
 Destroy the bloodstone shards to disrupt Xera's power and make her vulnerable.,"Уничтожьте осколки кровавого камня, чтобы нарушить силу Ксеры и сделать её уязвимой."

@@ -62,7 +62,7 @@ Explore the inside of Glint's Lair and search for the weapon mentioned by Vlast.
 Explore the inside of Glint's Lair.,Исследуйте внутренности логова Glint.
 Explore the journeykin outpost.,Исследуйте аванпост Journeykin.
 Explore the library.,Исследуйте библиотеку.
-Explore the lost ruins of Kesho for answers about the Forgotten and Glint's Legacy.,Исследуйте руины Кешо в поисках ответов о Забытых и Наследии Глинт.
+Explore the lost ruins of Kesho for answers about the Forgotten and Glint's Legacy.,Исследуйте руины Кешо в поисках ответов о Забытых и Glint's Legacy.
 Explore the mansion's left wing.,Исследуйте левое крыло особняка.
 Explore the mansion's right wing.,Исследуйте правое крыло особняка.
 Explore the mansion's second floor.,Исследуйте второй этаж особняка.
@@ -181,7 +181,7 @@ Figure out what to do with yourself.,"Реши, что делать дальше
 Figure out your next step.,Определитесь с дальнейшими действиями.
 Fill Frode in on the kodan and your experiences.,Расскажите Frode о коданах и своем опыте.
 Fill Sayida in on the intel you gathered at the Inquest facility.,"Сообщите Sayida разведданные, собранные на объекте Inquest."
-"Fill in your name as ""%str1%.""","Впиши своё имя как ""%str1%""."
+"Fill in your name as ""%str1%.""","Впиши своё имя как «%str1%»."
 Final Battle,Финальная битва
 Finalize your plan.,Завершить разработку плана.
 "Finally released from prison, I was free to explore Cantha. I met with Detective Rama at the training grounds to prove I'd be able to survive on my own, and after a short—but chatty—boat ride, I joined up with my friends to check on Aurene.","Наконец освободившись из тюрьмы, я получил возможность исследовать Cantha. Я встретился с Detective Rama на тренировочной площадке, чтобы доказать, что смогу выжить в одиночку, и после короткой, но оживленной поездки на лодке я присоединился к друзьям, чтобы проведать Aurene."
@@ -345,7 +345,7 @@ Find the Master of Peace.,Найдите Master of Peace.
 Find the Rata Novus Elder Dragon research lab.,Найти исследовательскую лабораторию Старших Драконов в Rata Novus.
 "Find the Sanctuary of the Keeper, where Sidony went to meditate.","Найдите Святилище Хранителя, куда Sidony отправилась медитировать."
 Find the Svanir hive.,Найди улей Svanir.
-"Find the book titled ""Nightfall.""","Найдите книгу под названием ""Nightfall""."
+"Find the book titled ""Nightfall.""","Найдите книгу под названием «Nightfall»."
 Find the detonators in the wreckage.,Найди детонаторы в обломках.
 Find the distressed Astral Ward members.,Найдите попавших в беду членов Astral Ward.
 Find the dragon research lab in the lost city of Rata Novus.,Найти исследовательскую лабораторию драконов в затерянном городе Rata Novus.
@@ -423,7 +423,7 @@ First Follower Desmina Outfit[s],[Наряд|Наряда|Нарядов] пер
 First Mate Fidus Foecrush salutes %str1%.,First Mate Fidus Foecrush отдает честь %str1%.
 First Place Trophy Finisher,First Place Trophy Finisher
 First extractor's on the ground.,Первый экстрактор на земле.
-"First it was the Molten Alliance, now the Aetherblades... We don't know what's behind this mess, or who, but every time we think things have calmed down...something else wakes up. Mai Trin mentioned someone named ""Scarlet"" back at the hideout. Maybe that's our best lead.","Сначала был Molten Alliance, теперь Aetherblades... Мы не знаем, кто стоит за этим хаосом, но каждый раз, когда нам кажется, что всё утихло... просыпается что-то ещё. Mai Trin упоминала кого-то по имени ""Scarlet"" в убежище. Возможно, это наша лучшая зацепка."
+"First it was the Molten Alliance, now the Aetherblades... We don't know what's behind this mess, or who, but every time we think things have calmed down...something else wakes up. Mai Trin mentioned someone named ""Scarlet"" back at the hideout. Maybe that's our best lead.","Сначала был Molten Alliance, теперь Aetherblades... Мы не знаем, кто стоит за этим хаосом, но каждый раз, когда нам кажется, что всё утихло... просыпается что-то ещё. Mai Trin упоминала кого-то по имени «Scarlet» в убежище. Возможно, это наша лучшая зацепка."
 "First, the positive news: Through the combined efforts of the Tyrian Alliance, the Astral Ward, and several volunteers from the lowland kodan community, we have managed to push through Janthir's northern isles into the outskirts of Bava Nisos.","Во-первых, позитивные новости: благодаря совместным усилиям Tyrian Alliance, Astral Ward и нескольких добровольцев из сообщества lowland kodan, нам удалось пробиться через северные острова Janthir к окраинам Bava Nisos."
 "First, we had to strengthen our foothold in Nayos. To accomplish this, we set about chipping away at Heitor's forces in the region—defeating Kryptis patrols and taking down their leadership.",Сначала нам нужно было укрепить наши позиции в Nayos. Для этого мы принялись ослаблять силы Heitor в регионе — побеждая патрули Kryptis и устраняя их руководство.
 "First: One of the destroyed gates at Fahranur led to a big Inquest base, which was likely the location of Joko's new gate hub. Unfortunately, there was no way to know where that base was located.","Первое: одни из разрушенных врат в Fahranur вели на крупную базу Inquest, которая, вероятно, и была местом расположения нового узла врат Joko. К сожалению, невозможно было узнать, где находится эта база."

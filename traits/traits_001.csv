@@ -7,7 +7,7 @@ english,translate
 <c=@abilitytype>Ambush</c> skills you use grant boons to nearby allies.,<c=@abilitytype>Засада</c>Умения- засады при активации дают дары союзникам поблизости.
 <c=@abilitytype>Arcane.</c> Blast foes in the target area with an energy wave for critical damage.,"<c=@abilitytype>Мистический.</c> Поразите врагов в целевой области волной энергии, нанося критический урон."
 <c=@abilitytype>Arcane</c> skills grant increased ferocity and have additional effects.,<c=@abilitytype>Мистические</c> навыки дают бонус к свирепости и обладают дополнительными эффектами.
-<c=@abilitytype>Banners</c> grant resolution to allies when they are dropped. Pulsing boons applied through <c=@abilitytype>banners</c> last longer.,<c=@abilitytype>Знамена</c> при установке накладывают решимость на союзников. Пульсирующие благословения от <c=@abilitytype>знамен</c> действуют дольше.
+<c=@abilitytype>Banners</c> grant resolution to allies when they are dropped. Pulsing boons applied through <c=@abilitytype>banners</c> last longer.,<c=@abilitytype>Знамёна</c> при установке накладывают решимость на союзников. Пульсирующие благословения от <c=@abilitytype>знамен</c> действуют дольше.
 "<c=@abilitytype>Beast</c> abilities inflict weakness on those struck.
 <c=@reminder>This effect will only occur once on each target struck by an ability.</c>","<c=@abilitytype>Звериные</c> способности накладывают слабость на пораженные цели.
 <c=@reminder>Этот эффект срабатывает только один раз для каждой цели, пораженной способностью.</c>"
@@ -42,7 +42,7 @@ english,translate
 <c=@abilitytype>Invoke Torment</c> transfers conditions from you onto foes.,<c=@abilitytype>Призыв боли</c> переносит состояния с вас на врагов.
 "<c=@abilitytype>Legendary Alliance</c> abilities gain an additional bonus. Activating Energy Meld or Alliance Tactics grants both of these bonuses simultaneously at greater amounts to nearby allies.
 Kurzick abilities grant regeneration.
-Luxon abilities grant might.","<c=@abilitytype>Legendary Alliance.</c> Способности получают дополнительный бонус. Активация «Слияния энергии» или «Тактики Альянса» даёт оба бонуса одновременно в большем объёме ближайшим союзникам.
+Luxon abilities grant might.","<c=@abilitytype>Legendary Alliance.</c> Способности получают дополнительный бонус. Активация «Слияния энергии» или «Alliance Tactics» даёт оба бонуса одновременно в большем объёме ближайшим союзникам.
 Способности Kurzick дают регенерацию.
 Способности Luxon дают мощь."
 "<c=@abilitytype>Legendary Centaur.</c> Collect energy, pulling it into the tablet to build up its power. After a short delay the energy will be released, healing nearby allies.","<c=@abilitytype>Легендарный Кентавр.</c> Собирайте энергию, притягивая её в планшет, чтобы накопить мощь. После небольшой задержки энергия высвободится, исцеляя ближайших союзников."
@@ -63,7 +63,7 @@ Luxon abilities grant might.","<c=@abilitytype>Legendary Alliance.</c> Спос�
 <c=@abilitytype>Phantasms</c> spawn with quickness. Gain quickness when you create a phantasm.,<c=@abilitytype>Фантомы</c> Фантомы создаются с даром Проворства. Вам даруется проворство при создании фантома.
 <c=@abilitytype>Phantasms</c> take conditions from you when summoned.,<c=@abilitytype>Фантомы</c> Фантомы при создании переносят на себя лежащие на вас состояния.
 <c=@abilitytype>Physical</c> skills grant endurance when activated.,Умения <c=@abilitytype>Физическое</c> дают выносливость при активации.
-"<c=@abilitytype>Resonance.</c> If Legendary Assassin Stance is equipped, this skill deals additional damage and removes boons if only one enemy was struck by this attack.","<c=@abilitytype>Резонанс.</c> Если экипирована стойка легендарного ассасина, это умение наносит дополнительный урон и снимает благодати, когда атака поразила лишь одного врага."
+"<c=@abilitytype>Resonance.</c> If Legendary Assassin Stance is equipped, this skill deals additional damage and removes boons if only one enemy was struck by this attack.","<c=@abilitytype>Резонанс.</c> Если экипирована Legendary Assassin Stance, это умение наносит дополнительный урон и снимает благодати, когда атака поразила лишь одного врага."
 "<c=@abilitytype>Resonance.</c> If Legendary Centaur Stance is equipped, you additionally heal allies around you during channeling, and you take reduced strike and condition damage for a short amount of time after channeling completes.","<c=@abilitytype>Резонанс.</c> Если экипирована Legendary Centaur Stance, вы дополнительно лечите союзников вокруг себя во время направления, а также получаете уменьшенный урон от ударов и состояний в течение короткого времени после завершения направления."
 "<c=@abilitytype>Resonance.</c> If Legendary Demon Stance is equipped, the maximum number of projectiles is always fired regardless of conditions removed, and all projectiles are fired at the closest enemy instead.","<c=@abilitytype>Резонанс.</c> Если экипирована Легендарная стойка демона, всегда выпускается максимальное количество снарядов независимо от снятых состояний, и все снаряды летят в ближайшего врага."
 "<c=@abilitytype>Resonance.</c> If Legendary Dwarf Stance is equipped, the additional energy cost for breaking stuns is reduced, and the boons are also granted to allies in a radius around you.","<c=@abilitytype>Резонанс.</c> Если экипирована стойка Легендарного Дварфа, стоимость дополнительной энергии для снятия оглушений снижается, а благословения также даруются союзникам в радиусе вокруг вас."
@@ -107,7 +107,7 @@ Luxon abilities grant might.","<c=@abilitytype>Legendary Alliance.</c> Спос�
 <c=@abilitytype>Turrets.</c> Turrets create a reflective barrier when built and grant boons to allies around them on a regular interval.,<c=@abilitytype>Турели.</c> Турели создают отражающий барьер при размещении и накладывают дары на союзников вокруг себя с регулярным интервалом.
 <c=@abilitytype>Unleashed Ambush</c> skills grant boons to nearby allies. Refresh Unleashed Power when you swap weapons.,<c=@abilitytype>Навыки высвобожденной засады</c> дают благословения ближайшим союзникам. Обновляют «Высвобожденную силу» при смене оружия.
 "<c=@abilitytype>Venom</c> utility skills siphon life from struck foes. Gain stacks of Spider Venom when you enter or exit stealth.
-<c=@reminder>Siphoning can only occur once per strike.</c>","<c=@abilitytype>Навыки ядов</c> вытягивают жизнь из пораженных врагов. Получайте заряды «Яда паука» при входе в невидимость или выходе из неё.
+<c=@reminder>Siphoning can only occur once per strike.</c>","<c=@abilitytype>Навыки ядов</c> вытягивают жизнь из пораженных врагов. Получайте заряды «Spider Venom» при входе в невидимость или выходе из неё.
 <c=@reminder>Вытягивание жизни может сработать только один раз за удар.</c>"
 <c=@abilitytype>Virtues</c> apply boons to allies when activated. Deal increased strike damage for each boon on you.,<c=@abilitytype>Добродетели</c> накладывают благословения на союзников при активации. Наносят повышенный прямой урон за каждое имеющееся на вас благословение.
 <c=@abilitytype>Weapon spells</c> remove conditions from affected allies. Affected allies receive the full benefit of <c=@abilitytype>weapon spells</c>.,<c=@abilitytype>Оружейные заклинания</c> снимают состояния с затронутых союзников. Затронутые союзники получают полный эффект от <c=@abilitytype>оружейных заклинаний</c>.
@@ -199,10 +199,10 @@ Applied Force,Applied Force
 <c=@reminder>Rot Wallow Venom effect cannot apply to yourself.</c>","Накладывайте <c=@abilitytype>Rot Wallow Venom</c> на союзников, которым вы даёте барьер. Исходящее исцеление союзников увеличено.
 <c=@reminder>Эффект Яда Гнилостного Валлоу не может быть применен к вам.</c>"
 Apply boons to nearby allies while channeling <c=@abilitytype>overloads</c> and when successfully completing an <c=@abilitytype>overload</c> channel.,Накладывайте благословения на ближайших союзников во время подготовки <c=@abilitytype>перегрузок</c> и при успешном завершении подготовки <c=@abilitytype>перегрузки</c>.
-Apply conditions to enemies when you disable them. Perform an additional strike when using Cosmic Wisdom that damages and burns enemies.,"Вы накладываете на врагов состояния, когда выводите их из строя. При активации Космической Мудрости вы наносите дополнительный удар, который наносит врагам урон и поджигает их."
+Apply conditions to enemies when you disable them. Perform an additional strike when using Cosmic Wisdom that damages and burns enemies.,"Вы накладываете на врагов состояния, когда выводите их из строя. При активации Cosmic Wisdom вы наносите дополнительный удар, который наносит врагам урон и поджигает их."
 Apply vulnerability when you steal. Gain might when you hit with a stealth attack.,Накладывайте уязвимость при краже. Получайте мощь при попадании атакой из невидимости.
 Applying might to an ally heals you.,Applying might to an ally heals you.
-Applying vulnerability to foes grants stacks of <c=@abilitytype>Battle Scars</c>. The healing from Battle Scars is increased while you are below the health threshold.,"Наложение уязвимости на врагов даёт заряды <c=@abilitytype>Боевых Шрамов</c>. Исцеление от Боевых Шрамов увеличено, пока ваше здоровье ниже порогового значения."
+Applying vulnerability to foes grants stacks of <c=@abilitytype>Battle Scars</c>. The healing from Battle Scars is increased while you are below the health threshold.,"Наложение уязвимости на врагов даёт заряды <c=@abilitytype>Battle Scars</c>. Исцеление от Battle Scars увеличено, пока ваше здоровье ниже порогового значения."
 Aquamancer's Training,Aquamancer's Training
 Arcane Lightning,Arcane Lightning
 Arcane Precision,Arcane Precision

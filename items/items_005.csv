@@ -113,7 +113,7 @@ Combine this item in the Mystic Forge with:
 <c=@flavor>This pile of mangled trash looks rather conspicuous.</c>,<c=@flavor>Эта груда искорёженного хлама выглядит довольно приметно.</c>
 <c=@flavor>This rare flower grows in the deep jungle.</c>,<c=@flavor>Этот редкий цветок растёт в глубине джунглей.</c>
 <c=@flavor>This recording shows skritt engaging in some questionable behavior.</c>,<c=@flavor>На этой записи скритты заняты чем-то весьма сомнительным.</c>
-<c=@flavor>This relic of long-forgotten Cantha contains air captured from the Jade Winds.</c>,"<c=@flavor>В этой реликвии давно забытой Канты заключён воздух, пойманный Нефритовыми Ветрами.</c>"
+<c=@flavor>This relic of long-forgotten Cantha contains air captured from the Jade Winds.</c>,"<c=@flavor>В этой реликвии давно забытой Канты заключён воздух, пойманный Jade Winds.</c>"
 <c=@flavor>This ring is claimed to have once belonged to the Ossa family.</c>,"<c=@flavor>Утверждают, что это кольцо некогда принадлежало семье Осса.</c>"
 <c=@flavor>This ring vibrates with the power of the Vale Guardian.</c>,<c=@flavor>Это кольцо дрожит от силы Vale Guardian.</c>
 <c=@flavor>This scroll describes some practices of the ancient druids.</c>,<c=@flavor>В этом свитке описаны некоторые обряды древних друидов.</c>
@@ -125,7 +125,7 @@ Combine this item in the Mystic Forge with:
 <c=@flavor>This trinket is used to craft the legendary accessory Aurora.</c>,<c=@flavor>Эта безделушка используется для создания легендарного аксессуара «Aurora».</c>
 <c=@flavor>This trinket is used to craft the legendary accessory Vision.</c>,<c=@flavor>Эта безделушка используется для создания легендарного аксессуара «Vision».</c>
 <c=@flavor>This tube is a collection of reactive energies that have taken on a liquid form and could create a violent reaction if mixed with the right alchemical reactants.<c>,"<c=@flavor>В этой пробирке собраны реактивные энергии, принявшие жидкую форму; при смешении с нужными алхимическими реагентами они могут дать бурную реакцию.<c>"
-<c=@flavor>This tube is created from alchemical reactants and provides a violent reaction when mixed correctly with Transcendent Energy.<c>,<c=@flavor>Эта пробирка создана из алхимических реагентов и при верном смешении с Трансцендентной энергией даёт бурную реакцию.<c>
+<c=@flavor>This tube is created from alchemical reactants and provides a violent reaction when mixed correctly with Transcendent Energy.<c>,<c=@flavor>Эта пробирка создана из алхимических реагентов и при верном смешении с Transcendent Energy даёт бурную реакцию.<c>
 <c=@flavor>This unlabeled bottle has a disturbingly murky and thick liquid in it.</c>,<c=@flavor>В этой бутылке без ярлыка плещется тревожно мутная и густая жидкость.</c>
 "<c=@flavor>This used to be a pet for a skritt. A lonely, lonely skritt.</c>","<c=@flavor>Когда-то это было питомцем скритта. Очень, очень одинокого скритта.</c>"
 "<c=@flavor>This vine that you cultivated from seed, seems to almost like you. Is it possible that it is loyal to you as a child is to a parent?</c>","<c=@flavor>Похоже, эта лоза, выращенная тобой из семени, тебя даже любит. Возможно ли, что она предана тебе, как дитя родителю?</c>"
@@ -392,7 +392,7 @@ Combine this weapon in the Mystic Forge with:
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>"
 <c=@flavor>This weapon is used to craft the legendary warhorn Verdarach.</c>,<c=@flavor>Это оружие используется для создания легендарного боевого рога «Verdarach».</c>
-"<c=@Flavor>This wine, brewed with grapes grown in the Hanging Gardens, is often gifted back and forth between great families during marriages and other celebrations.</c>","<c=@Flavor>Это вино из винограда, выращенного в Висячих садах, часто дарят друг другу великие семьи на свадьбах и прочих торжествах.</c>"
+"<c=@Flavor>This wine, brewed with grapes grown in the Hanging Gardens, is often gifted back and forth between great families during marriages and other celebrations.</c>","<c=@Flavor>Это вино из винограда, выращенного в Hanging Gardens, часто дарят друг другу великие семьи на свадьбах и прочих торжествах.</c>"
 <c=@flavor>This young carnivorous plant could use something with a bit more kick to keep it growing. Some Phantasmally Infused Plant Food should do the trick.<c>,"<c=@flavor>Этому юному хищному растению нужно что-то поядрёнее, чтобы продолжать расти. Подойдёт корм, напитанный фантазмами.<c>"
 <c=@flavor>This young carnivorous plant could use something with a bit more kick to keep it growing. Some Rhand Blessed Plant Food should do the trick.</c>,"<c=@flavor>Этому юному хищному растению нужно что-то поядрёнее, чтобы продолжать расти. Подойдёт корм, благословлённый Рандом.</c>"
 <c=@flavor>This young carnivorous plant has a wild streak to it. A meal of purified Sacred Plant Food should help it grow to be more obedient.<c>,<c=@flavor>У этого юного хищного растения буйный нрав. Порция очищенного священного корма поможет ему стать послушнее.<c>
@@ -403,11 +403,11 @@ Combine this weapon in the Mystic Forge with:
 "<c=@flavor>Though the blade's contours appear delicate, its edge will never dull and its sheen will never tarnish.</c>","<c=@flavor>Хоть очертания клинка и кажутся хрупкими, его кромка никогда не затупится, а блеск не потускнеет.</c>"
 "<c=@flavor>Though today the mountains and earth alter the sea's course, in time they will bow to the water's whims.</c>",<c=@flavor>Пусть сегодня горы и земля правят ход моря — со временем они покорятся прихотям воды.</c>
 "<c=@flavor>Though you cannot read its pages, this long-dead tome weighs heavily on your back. You can hear the whisper of voices from beyond, debating truly awful puns.</c>","<c=@flavor>Хоть страницы и не прочесть, этот давно мёртвый фолиант тяжко давит на спину. Слышен шёпот голосов из-за грани, спорящих о поистине ужасных каламбурах.</c>"
-<c=@flavor>Tingling with the lingering presence of Gorseval the Multifarious.</c>,<c=@flavor>Покалывает от неизбывного присутствия Горсеваля Многоликого.</c>
+<c=@flavor>Tingling with the lingering presence of Gorseval the Multifarious.</c>,<c=@flavor>Покалывает от неизбывного присутствия Gorseval the Multifarious.</c>
 "<c=@flavor>Tirzie the Painter's special blend to ensure long-lasting, vibrant color.<c>","<c=@flavor>Особая смесь Тирзи Художницы — для стойкого, яркого цвета.<c>"
 "<c=@flavor>To exist, we must destroy those around us.</c>
 <c=@reminder>Hint: To acquire, defeat Cardinal Adina in the Key of Ahdashim raid.</c>","<c=@flavor>Чтобы существовать, мы должны уничтожать тех, кто вокруг.</c>
-<c=@reminder>Подсказка: чтобы получить, победите кардинала Адину в рейде «Ключ Ахдашима».</c>"
+<c=@reminder>Подсказка: чтобы получить, победите Cardinal Adina в рейде «Ключ Ахдашима».</c>"
 <c=@flavor>To keep the Everburning Flames going.<c>,<c=@flavor>Чтобы Вечногорящее пламя не угасало.<c>
 "<c=@flavor>To learn the secrets of the Four Winds, Leon Stealheart will have to go deep under cover.</c>","<c=@flavor>Чтобы узнать тайны Четырёх Ветров, Леону Стилхарту придётся уйти в глубокое подполье.</c>"
 "<c=@flavor>To unclouded eyes, no experience is old.</c>",<c=@flavor>Для незамутнённого взгляда нет старого опыта.</c>
@@ -476,7 +476,7 @@ Carrying this item increases the chance of Bandit Executioners attacking during 
 <c=@flavor>Your hands seem to sink into the grip of this sword.</c>,"<c=@flavor>Кажется, будто твои руки утопают в рукояти этого меча.</c>"
 <c=@flavor>Your name is on the tag. What a nice gift. Double-click to open.</c>,"<c=@flavor>На бирке твоё имя. Какой приятный подарок. Дважды щёлкните, чтобы открыть.</c>"
 <c=@reminder> This coat overrides legging art</c>,<c=@reminder> Эта куртка перекрывает отображение ножной брони</c>
-<c=@reminder>Complete the first story chapter of Guild Wars 2: End of Dragons to unlock this feature.</c>,"<c=@reminder>Пройдите первую главу истории Guild Wars 2: Конец Драконов, чтобы открыть эту возможность.</c>"
+<c=@reminder>Complete the first story chapter of Guild Wars 2: End of Dragons to unlock this feature.</c>,"<c=@reminder>Пройдите первую главу истории Guild Wars 2: End of Dragons, чтобы открыть эту возможность.</c>"
 "<c=@reminder>Contains loot stolen from the Black Lion Trading Company by the Knife Tail Gang.</c=@reminder>
 
 Use the box to randomly unlock a Black Lion wardrobe item you don't already have. Some items—in particular mounts and some weapon sets—are less common than others. Preview to see everything available.","<c=@reminder>Содержит добычу, украденную у Black Lion Trading Company бандой Ножехвостых.</c=@reminder>
@@ -510,7 +510,7 @@ Use the box to randomly unlock a Black Lion wardrobe item you don't already have
 <c=@Reminder>Hint: Use your skyscale to access a rift high above the Displaced Towers in Jahai Bluffs.</c>,<c=@Reminder>Подсказка: на скайскейле доберитесь до разлома высоко над Смещёнными башнями в Утёсах Джахай.</c>
 <c=@Reminder>Hint: Use your skyscale to access a rift near the highest point of the Allied Encampment within the Domain of Kourna.</c>,<c=@Reminder>Подсказка: на скайскейле доберитесь до разлома у самой высокой точки Союзного лагеря во Владении Курна.</c>
 <c=@Reminder>Hint: Use your skyscale to access a rift near the Iron Whale in the Sandswept Isles.</c>,<c=@Reminder>Подсказка: на скайскейле доберитесь до разлома у Железного Кита на Песчаных островах.</c>
-<c=@Reminder>Hint: Use your skyscale to access a rift near the Necrotic Coast within Dragonfall.</c>,<c=@Reminder>Подсказка: на скайскейле доберитесь до разлома у Некротического побережья в Драконьем Падении.</c>
+<c=@Reminder>Hint: Use your skyscale to access a rift near the Necrotic Coast within Dragonfall.</c>,<c=@Reminder>Подсказка: на скайскейле доберитесь до разлома у Necrotic Coast в Драконьем Падении.</c>
 <c=@Reminder>Hint: Use your skyscale to access a rift near the Weeping Sisters in Thunderhead Peaks.</c>,<c=@Reminder>Подсказка: на скайскейле доберитесь до разлома у Плачущих Сестёр в Thunderhead Peaks.</c>
 "<c=@reminder>The Knife Tail Gang have broken into the Trading Company vaults, and Evon's furious!</c=@reminder>
 
@@ -545,7 +545,7 @@ A book fragment worn away by the desert sands. It will need to be completed befo
 A book of homestead decoration recipes needed to craft arches and pillars.,"Книга рецептов украшений усадьбы, нужных для изготовления: арок и колонн."
 "A book of homestead decoration recipes needed to craft Awakened-themed objects.
 Components may require Guild Wars 2: Path of Fire.","Книга рецептов украшений усадьбы, нужных для изготовления: предметов в стиле Пробуждённых.
-Для компонентов может потребоваться Guild Wars 2: Путь Огня."
+Для компонентов может потребоваться Guild Wars 2: Path of Fire."
 A book of homestead decoration recipes needed to craft balloons.,"Книга рецептов украшений усадьбы, нужных для изготовления: воздушных шаров."
 A book of homestead decoration recipes needed to craft banners.,"Книга рецептов украшений усадьбы, нужных для изготовления: знамён."
 A book of homestead decoration recipes needed to craft basic items.,"Книга рецептов украшений усадьбы, нужных для изготовления: простых предметов."
@@ -570,7 +570,7 @@ Components may require Guild Wars 2: Secrets of the Obscure.","Книга рец
 Components may require Guild Wars 2: Heart of Thorns.","Книга рецептов украшений усадьбы, нужных для изготовления: предметов из Золотого Бассейна.
 Для компонентов может потребоваться Guild Wars 2: Heart of Thorns."
 "A book of homestead decoration recipes needed to craft objects from Dragon's End.
-Components may require Guild Wars 2: End of Dragons.","Книга рецептов украшений усадьбы, нужных для изготовления: предметов из Конца Дракона.
+Components may require Guild Wars 2: End of Dragons.","Книга рецептов украшений усадьбы, нужных для изготовления: предметов из End of Dragons.
 Для компонентов может потребоваться Guild Wars 2: Dragon's End."
 "A book of homestead decoration recipes needed to craft objects from Dragon's Stand.
 Components may require Guild Wars 2: Heart of Thorns.","Книга рецептов украшений усадьбы, нужных для изготовления: предметов из Драконьей Твердыни.
@@ -720,10 +720,10 @@ Event Item","Отличный образец яйца, которым интер
 A finely-crafted limited batch. It would make a nice gift for a kodan.,Изысканная малая партия. Из неё выйдёт славный подарок для кодана.
 "A fluffy friend from across the Mists.
 Combine 2 Blue Shiba Inu and a Cream Shiba Inu with 12 Unidentified Dyes in the Mystic Forge to create a Mini Silver Shiba Inu.","Пушистый друг из-за Туманов.
-Соедините 2 синих сиба-ину и одного кремового сиба-ину с 12 неопознанными красками в Mystic Forge, чтобы создать мини-серебристого сиба-ину."
+Соедините 2 синих сиба-ину и одного кремового сиба-ину с 12 неопознанными красками в Mystic Forge, чтобы создать Mini Silver Shiba Inu."
 "A fluffy friend from across the Mists.
 Combine 2 Crimson and a Red Shiba Inu with 12 Unidentified Dyes in the Mystic Forge to create a Mini Gold Shiba Inu.","Пушистый друг из-за Туманов.
-Соедините 2 багровых и одного красного сиба-ину с 12 неопознанными красками в Mystic Forge, чтобы создать мини-золотого сиба-ину."
+Соедините 2 багровых и одного красного сиба-ину с 12 неопознанными красками в Mystic Forge, чтобы создать Mini Gold Shiba Inu."
 "A fluffy friend from across the Mists.
 Combine 2 Sesame and a Red Shiba Inu with 4 Unidentified Dyes in the Mystic Forge to create a Mini Cream Shiba Inu.
 Combine 2 Sesame and a Black and Tan Shiba Inu with 8 Unidentified Dyes in the Mystic Forge to create a Mini Blue Shiba Inu.","Пушистый друг из-за Туманов.
@@ -734,23 +734,23 @@ Combine 3 Red Shiba Inu with 2 Unidentified Dyes in the Mystic Forge to create a
 Соедините 3 красных сиба-ину с 2 неопознанными красками в Mystic Forge, чтобы создать чёрно-подпалого сиба-ину."
 "A fluffy friend from across the Mists.
 Combine a Black and Tan Shiba Inu and 2 Red Shiba Inu with 4 Unidentified Dyes in the Mystic Forge to create a Mini Sesame Shiba Inu.","Пушистый друг из-за Туманов.
-Соедините одного чёрно-подпалого и 2 красных сиба-ину с 4 неопознанными красками в Mystic Forge, чтобы создать мини-кунжутного сиба-ину."
+Соедините одного чёрно-подпалого и 2 красных сиба-ину с 4 неопознанными красками в Mystic Forge, чтобы создать Mini Sesame Shiba Inu."
 "A fluffy friend from across the Mists.
 Combine a Black and Tan, Cream, and Red Shiba Inu with 8 Unidentified Dyes in the Mystic Forge to create a Mini Crimson Shiba Inu.","Пушистый друг из-за Туманов.
-Соедините чёрно-подпалого, кремового и красного сиба-ину с 8 неопознанными красками в Mystic Forge, чтобы создать мини-багрового сиба-ину."
+Соедините чёрно-подпалого, кремового и красного сиба-ину с 8 неопознанными красками в Mystic Forge, чтобы создать Mini Crimson Shiba Inu."
 "A fluffy friend from across the Mists.
 Combine a Gold, Crimson, and Cream Shiba Inu with 20 Unidentified Dyes in the Mystic Forge to create a Mini Blazing Shiba Inu.","Пушистый друг из-за Туманов.
 Соедините золотого, багрового и кремового сиба-ину с 20 неопознанными красками в Mystic Forge, чтобы создать мини-пылающего сиба-ину."
 "A fluffy friend from across the Mists.
 Combine a Silver, Sesame, and Blue Shiba Inu with 20 Unidentified Dyes in the Mystic Forge to create a Mini Starry Shiba Inu.","Пушистый друг из-за Туманов.
-Соедините серебристого, кунжутного и синего сиба-ину с 20 неопознанными красками в Mystic Forge, чтобы создать мини-звёздного сиба-ину."
+Соедините серебристого, кунжутного и синего сиба-ину с 20 неопознанными красками в Mystic Forge, чтобы создать Mini Starry Shiba Inu."
 A focus roughly forged from Brand crystal using techniques learned from Forge Master Hilina.,"Фокус, грубо выкованный из кристалла Клейма по приёмам, перенятым у мастера горна Хилины."
 A focus skillfully forged from Brand crystal using techniques learned from Forge Master Hilina.,"Фокус, искусно выкованный из кристалла Клейма по приёмам, перенятым у мастера горна Хилины."
 A focus taken from the husk of a fallen boneskinner.,"Фокус, снятый с оболочки павшего костедёра."
 A forgetten artifact the skritt left behind in the rush to escape the risen. Just what Crusader Aisling is looking for.,"Забытый артефакт, брошенный скриттами в спешке при бегстве от восставших. Как раз то, что ищет крестоносец Айслинг."
 "A four-leaf clover from Club Canach. It makes those who wield it wonder if one can truly buy luck.
 
-This item is automatically consumed upon receiving it, and its only purpose is as part of a collection.","Четырёхлистный клевер из «Клуба Канаха». Тот, кто им владеет, невольно задумывается, правда ли удачу можно купить.
+This item is automatically consumed upon receiving it, and its only purpose is as part of a collection.","Четырёхлистный клевер из «Club Canach». Тот, кто им владеет, невольно задумывается, правда ли удачу можно купить.
 
 Этот предмет поглощается сразу при получении, и его единственное назначение — быть частью коллекции."
 A fragment of air used to unlock the Sylvan Chest.,"Осколок воздуха, которым открывают Сильванский сундук."

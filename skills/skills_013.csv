@@ -21,7 +21,7 @@ Stow Med Kit,Stow Med Kit
 Stow Mortar Kit,Stow Mortar Kit
 Stow Tome,Stow Tome
 Stow Tool Kit,Stow Tool Kit
-Stow the mortar kit.,Убрать миномет.
+Stow the mortar kit.,Убрать миномёт.
 Stow your bomb kit.,Убрать ваш набор бомб.
 Stow your elixir gun.,Убрать вашу эликсирную пушку.
 Stow your flamethrower.,Убрать ваш огнемет.
@@ -59,7 +59,7 @@ Strike foes in front of you with a storm of jabs.,Обрушить на прот
 "Strike nearby foes and begin to store up energy, gaining boons and heat each pulse. After charging, the energy explodes, inflicting conditions on nearby foes.","Поразите ближайших врагов и начните накапливать энергию, получая благословения и нагрев с каждым импульсом. После зарядки энергия взрывается, накладывая состояния на ближайших врагов."
 "Strike nearby foes with your radiant hammer, dealing increased damage against foes that are disabled.","Поразите ближайших врагов своим сияющим молотом, нанося увеличенный урон врагам, находящимся под эффектами контроля."
 "Strike nearby foes, pushing them back.","Поразите ближайших врагов, отталкивая их."
-"Strike the earth, damaging nearby enemies and healing nearby allies. The ground flourishes in response, repeating stronger effects after a delay. Gain Nature's Strength if the initial strike hits an enemy.","Ударьте по земле, нанося урон ближайшим врагам и исцеляя ближайших союзников. Земля расцветает в ответ, повторяя более сильные эффекты после задержки. Получите Силу природы, если начальный удар поражает врага."
+"Strike the earth, damaging nearby enemies and healing nearby allies. The ground flourishes in response, repeating stronger effects after a delay. Gain Nature's Strength if the initial strike hits an enemy.","Ударьте по земле, нанося урон ближайшим врагам и исцеляя ближайших союзников. Земля расцветает в ответ, повторяя более сильные эффекты после задержки. Получите Nature's Strength, если начальный удар поражает врага."
 "Strike up the band and unleash a wave of sonic magic. Instruments playing in the background contribute to the amplitude, increasing the strength of the wave.
 <c=@reminder>This skill's recharge cannot be reset by other mesmer skills.</c>","Заиграйте музыку и высвободите волну звуковой магии. Инструменты, играющие на фоне, способствуют амплитуде, увеличивая силу волны.
 <c=@reminder>Перезарядка этого навыка не может быть сброшена другими навыками месмера.</c>"
@@ -138,7 +138,7 @@ Summon Sylvan Hound,Summon Sylvan Hound
 Summon a 7-Series attacking golem to fight for you.,"Призывает атакующего голема 7-й серии, который будет сражаться на вашей стороне."
 Summon a D-Series defensive golem.,Призывает защитного голема D-серии.
 Summon a Druid Spirit to fight at your side.,"Призвать духа друида, чтобы он сражался на вашей стороне."
-Summon a Mistfire Wolf to fight at your side.,"Призовите волка Туманного огня, чтобы он сражался на вашей стороне."
+Summon a Mistfire Wolf to fight at your side.,"Призовите Mistfire Wolf, чтобы он сражался на вашей стороне."
 Summon a Power Suit which you or your allies can enter and use to combat enemies.,"Призвать силовой костюм, в который можете войти вы или ваши союзники, чтобы сражаться с врагами."
 Summon a massive hammer from the Mists to strike the ground. Recharge Coalescence of Ruin if you strike an enemy.,"Призвать из Туманов огромный молот, который бьёт по земле. Если вы нанесли противнику урон, умение Слияние разорения будет перезаряжено."
 Summon a meteor to strike a random enemy.,"Призвать метеор, который поразит случайного врага."
@@ -210,7 +210,7 @@ Swing,Swing
 Swing a holographic blade.,Взмахнуть голографическим клинком.
 "Swing an uppercut at your target, crippling them and granting vigor to nearby allies. Gain Nature's Strength if you hit an enemy. 
 <c=@reminder>This skill cannot activate Force of Nature.</c>","Нанесите апперкот по цели, нанося ей урон и лишая равновесия, а также даруя энергичность находящимся рядом союзникам. Если вы попадете по врагу, получите эффект «Nature's Strength».
-<c=@reminder>Эта способность не активирует навык «Сила природы».</c>"
+<c=@reminder>Эта способность не активирует навык «Force of Nature».</c>"
 Swing at enemies with your greatsword.,Махнуть двуручным мечом по вашим противникам.
 "Swing your greatsword again, inflicting vulnerability.","Снова взмахните двуручным мечом, накладывая уязвимость."
 Swing your mace at your foe.,Взмахнуть булавой и ударить противника.
@@ -400,14 +400,14 @@ The Magma Elemental explodes upon death.,Magma Elemental взрывается п
 "The Mech Rider swings at the nearest enemy, dealing heavy damage.","Мех-наездник наносит удар по ближайшему врагу, нанося тяжёлый урон."
 "The Mindblade creates a series of spells around them, each of which fire a slowly moving field of psychic energy in a direction.","The Mindblade создает вокруг себя серию заклинаний, каждое из которых выпускает медленно движущееся поле психической энергии в определенном направлении."
 "The Mindblade targets a nearby enemy and, after a short delay, begins creating damaging fields of psychic energy around their target. These fields persist and deal heavy damage in an area.",The Mindblade выбирает ближайшего врага и после небольшой задержки начинает создавать вокруг своей цели разрушительные поля психической энергии. Эти поля сохраняются и наносят тяжёлый урон по области.
-The Minister of Morale emits a volatile pulse that deals damage to all foes.,"Министр морали испускает нестабильный импульс, который наносит урон всем врагам."
+The Minister of Morale emits a volatile pulse that deals damage to all foes.,"Minister of Morale испускает нестабильный импульс, который наносит урон всем врагам."
 The Mists tears shoot out projections at player locations. Tears can be closed by stepping into their void.,"Разрывы Туманов выпускают проекции в местах нахождения игроков. Разрывы можно закрыть, войдя в их пустоту."
 The Prestige,The Prestige
 The Pyre Guardian damages and burns foes that get to close.,"Огненный страж наносит урон и сжигает врагов, которые подходят слишком близко."
 The Red Guardian distributes its magic to a point that must be absorbed before it unleashes devastating damage.,"Красный страж распределяет свою магию в точку, которую необходимо поглотить, прежде чем он нанесет разрушительный урон."
 "The Red Guardian pulses energy every 3 seconds, damaging all foes in range.","Красный страж пульсирует энергией каждые 3 секунды, нанося урон всем врагам в радиусе действия."
 The Ripper,The Ripper
-The River of Souls drains the life essence of all living beings who set foot in its stream.,"Река душ высасывает жизненную сущность всех живых существ, ступивших в её поток."
+The River of Souls drains the life essence of all living beings who set foot in its stream.,"River of Souls высасывает жизненную сущность всех живых существ, ступивших в её поток."
 "The River of Souls indiscriminately unleashes its wrath upon you and any nearby targets, dealing damage and inflicting stun.","River of Souls без разбора обрушивает свой гнев на вас и любые близлежащие цели, нанося урон и оглушая."
 "The Seeker pulses magic damage every second, hitting all enemies in range.","Искатель пульсирует магическим уроном каждую секунду, поражая всех врагов в радиусе действия."
 "The Shadow Amalgamate pulses a volatile aura that deals damage every 3 seconds to all foes within a range of 2,000.","Теневой Амальгам пульсирует нестабильной аурой, наносящей урон каждые 3 секунды всем противникам в радиусе 2000."
@@ -418,11 +418,11 @@ The Vale Guardian sends slow-moving projectiles at you that deal damage on hit.,
 The Voice fires an arrow that bounces between nearby targets.,"Голос выпускает стрелу, которая отскакивает между ближайшими целями."
 "The Voice fires an arrow that splits and tracks enemies, creating immobilizing traps at each point of impact.","Голос выпускает стрелу, которая разделяется и преследует врагов, создавая обездвиживающие ловушки в каждой точке попадания."
 "The Voice leaps backward, leaving behind a trap that immobilizes enemies.","Голос совершает прыжок назад, оставляя после себя ловушку, которая обездвиживает врагов."
-The Whisper of Jormag covers the ground with volatile ice magic that deals periodic damage.,"Шепот Jormag покрывает землю нестабильной ледяной магией, наносящей периодический урон."
-The Whisper of Jormag pulses a volatile aura that deals damage every 3 seconds to all foes.,"Шепот Jormag пульсирует нестабильной аурой, наносящей урон всем противникам каждые 3 секунды."
-The Whisper of Jormag summons deadly ice tornadoes.,Шепот Jormag призывает смертоносные ледяные торнадо.
-The Whisper of Jormag targets a foe with a massive burst of frost magic. The damage done by this attack is distributed among all enemies caught in the blast.,"Шепот Jormag нацеливается на противника мощным всплеском магии льда. Урон от этой атаки распределяется между всеми врагами, попавшими под удар."
-"The Whisper of Jormag targets all enemies with deadly ice shards. While a target may evade their own shards, they may not evade others' shards.","Шепот Jormag нацеливается на всех врагов смертоносными ледяными осколками. Хотя цель может уклониться от своих осколков, она не может уклониться от чужих."
+The Whisper of Jormag covers the ground with volatile ice magic that deals periodic damage.,"Шёпот Jormag покрывает землю нестабильной ледяной магией, наносящей периодический урон."
+The Whisper of Jormag pulses a volatile aura that deals damage every 3 seconds to all foes.,"Шёпот Jormag пульсирует нестабильной аурой, наносящей урон всем противникам каждые 3 секунды."
+The Whisper of Jormag summons deadly ice tornadoes.,Шёпот Jormag призывает смертоносные ледяные торнадо.
+The Whisper of Jormag targets a foe with a massive burst of frost magic. The damage done by this attack is distributed among all enemies caught in the blast.,"Шёпот Jormag нацеливается на противника мощным всплеском магии льда. Урон от этой атаки распределяется между всеми врагами, попавшими под удар."
+"The Whisper of Jormag targets all enemies with deadly ice shards. While a target may evade their own shards, they may not evade others' shards.","Шёпот Jormag нацеливается на всех врагов смертоносными ледяными осколками. Хотя цель может уклониться от своих осколков, она не может уклониться от чужих."
 The World Ends in Decay,The World Ends in Decay
 The anomaly overloads with energy and deals massive damage to all foes.,Аномалия перегружается энергией и наносит огромный урон всем противникам.
 The anomaly unleashes its new power.,Аномалия высвобождает свою новую силу.
@@ -430,7 +430,7 @@ The arcs can only strike enemies touching the ground.,"Дуги могут по�
 "The blazing boulder tears through you, blowing out everything in its path.","Пылающий валун проносится сквозь вас, сметая все на своем пути."
 "The boneskinner pulses a volatile aura that deals damage every 3 seconds to all foes within a range of 2,000.","Boneskinner пульсирует нестабильной аурой, наносящей урон каждые 3 секунды всем противникам в радиусе 2000."
 "The boneskinner spews a noxious cloud, launching enemies and applying torment. Extinguishes torches.","Boneskinner извергает ядовитое облако, подбрасывая врагов и накладывая боль. Гасит факелы."
-"The cauldron discharges some energy, causing minor damage.","Котел разряжает часть энергии, нанося незначительный урон."
+"The cauldron discharges some energy, causing minor damage.","Котёл разряжает часть энергии, нанося незначительный урон."
 The caustic ooze flails around to attack enemies.,"Едкая слизь извивается, атакуя врагов."
 The chain of frost between the Whisper of Jormag and one of its foes deals damage to those who touch it.,"Цепь мороза между Шепотом Jormag и одним из его врагов наносит урон тем, кто к ней прикасается."
 The combination of energies results in a deadly explosion.,Комбинация энергий приводит к смертоносному взрыву.
@@ -498,8 +498,8 @@ The storm clouds pulse damage every second to all targets standing under it.,"Г
 The strange magic of this place has twisted the nature of holiday cheer.,Странная магия этого места исказила саму суть праздничного настроения.
 The troll lashes out with its sharpened appendages.,Порезать противника своими когтями.
 "The unstable environment rains down debris from the airships in the trees, dealing damage upon impact.","В нестабильной среде с деревьев падают обломки дирижаблей, нанося урон при ударе."
-"The voltaic wisp channels electricity into its tail, leaving time-delayed explosions behind.","Вольтовый огонек направляет электричество в свой хвост, оставляя после себя взрывы с задержкой по времени."
-The voltaic wisp immobilizes foes with steady streams of paralyzing shocks from its tail.,Вольтовый огонек обездвиживает врагов постоянными потоками парализующих разрядов из своего хвоста.
+"The voltaic wisp channels electricity into its tail, leaving time-delayed explosions behind.","Вольтовый огонёк направляет электричество в свой хвост, оставляя после себя взрывы с задержкой по времени."
+The voltaic wisp immobilizes foes with steady streams of paralyzing shocks from its tail.,Вольтовый огонёк обездвиживает врагов постоянными потоками парализующих разрядов из своего хвоста.
 The water is charged with an electrical current.,Вода заряжена электрическим током.
 The whispering shadow assails all enemies with waves of supernatural cold and darkness. Each pulse of damage also grants it one stack of Empowered.,Шепчущая тень атакует всех врагов волнами сверхъестественного холода и тьмы. Каждый импульс урона также даёт ей один стак Усиления.
 "The whispering shadow becomes vulnerable to defiance damage and repeatedly targets enemies who carry life-fire. While channeling, Guttering Light damages all enemies in the life-fire's radius. Upon completion, life-fire is removed from the target and the whispering shadow gains a stack of Inevitable Darkness.","Шепчущая тень становится уязвимой к урону по шкале стойкости и неоднократно выбирает целью врагов, несущих жизненный огонь. Во время подготовки Мерцающий свет наносит урон всем врагам в радиусе действия жизненного огня. По завершении жизненный огонь удаляется с цели, а Шепчущая тень получает стак Неизбежной тьмы."

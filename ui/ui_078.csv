@@ -9,7 +9,7 @@ Hint: Relaxes near cranes and koi.,Подсказка: Отдыхает рядо
 Hint: Relaxes on the beach by a temple.,Подсказка: Отдыхает на пляже у храма.
 Hint: Resides along the perimeter of a temple.,Подсказка: Обитает вдоль периметра храма.
 Hint: Runs along the walls of the monastery.,Подсказка: Бегает вдоль стен монастыря.
-Hint: Sits atop the roofs of Daigo Ward.,Подсказка: Сидит на крышах района Дайго.
+Hint: Sits atop the roofs of Daigo Ward.,Подсказка: Сидит на крышах Daigo Ward.
 Hint: Somewhere around the Saprophyte's Pond,Подсказка: Где-то у Пруда сапрофитов
 Hint: Somewhere high in Mori Village,Подсказка: Где-то высоко в Mori Village
 Hint: Somewhere high up in Qinkai Village,Подсказка: Где-то высоко в деревне Цинкай
@@ -17,7 +17,7 @@ Hint: Somewhere in a lagoon shrine,Подсказка: Где-то в святи
 Hint: Somewhere in Karstadt Village,Подсказка: Где-то в деревне Карштадт
 Hint: Somewhere in Skygazer Cathedral,Подсказка: Где-то в Соборе Небозора
 Hint: Somewhere in the Altrumm Mines,Подсказка: Где-то в шахтах Альтрумма
-Hint: Somewhere leading to the Ancient Archives,Подсказка: Где-то на пути к Древним Архивам
+Hint: Somewhere leading to the Ancient Archives,Подсказка: Где-то на пути к Ancient Archives
 Hint: Somewhere on a plateau near House zu Heltzer,Подсказка: Где-то на плато близ дома цу Хельцер
 Hint: Somewhere outside of the Speakers Headquarters,Подсказка: Где-то снаружи штаб-квартиры Говорящих
 Hint: Somewhere south of Dreslav's Garden,Подсказка: Где-то к югу от сада Дреслава
@@ -145,7 +145,7 @@ Hold down the <c=@Quest>right mouse button</c> and move your mouse to control yo
 "Hold down the button to increase the range at which the catapult shot travels, and release the button to fire. Fires rending gravel that applies bleeding.","Удерживайте кнопку, чтобы увеличить дальность полёта снаряда катапульты, и отпустите для выстрела. Выпускает разрывающий гравий, накладывающий кровотечение."
 "Hold down the right mouse button to look around. Try this now.<br><br>While running, the right mouse button turns your character.","Удерживайте правую кнопку мыши, чтобы осмотреться. Попробуйте это сейчас.<br><br>Во время бега правая кнопка мыши поворачивает вашего персонажа."
 Hold down to charge. Release to fire. Fires a heavily packed incendiary shell for a larger blast radius and more damage. Leaves a fire field.,Удерживайте для зарядки. Отпустите для выстрела. Выпускает сильно начиненный зажигательный снаряд с большим радиусом взрыва и уроном. Оставляет огненное поле.
-Hold down to charge. Release to fire. Fires a light mortar shell for quicker recharge. Leaves a fire field.,Удерживайте для зарядки. Отпустите для выстрела. Выпускает лёгкий минометный снаряд для более быстрой перезарядки. Оставляет огненное поле.
+Hold down to charge. Release to fire. Fires a light mortar shell for quicker recharge. Leaves a fire field.,Удерживайте для зарядки. Отпустите для выстрела. Выпускает лёгкий миномётный снаряд для более быстрой перезарядки. Оставляет огненное поле.
 Hold down to charge. Release to fire. Fires an explosive shell for a larger blast radius and more damage.,Удерживайте для зарядки. Отпустите для выстрела. Выпускает взрывной снаряд с большим радиусом взрыва и уроном.
 Hold down to charge. Release to fire. Fires an impact incendiary shell for a larger blast radius. Leaves a fire field.,Удерживайте для зарядки. Отпустите для выстрела. Выпускает ударный зажигательный снаряд с большим радиусом взрыва. Оставляет огненное поле.
 Hold down to charge. Release to fire. Fires an impact shell that causes a larger blast radius.,Удерживайте для зарядки. Отпустите для выстрела. Выпускает ударный снаряд с увеличенным радиусом взрыва.

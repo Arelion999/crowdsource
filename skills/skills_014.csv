@@ -96,7 +96,7 @@ Throw several grenades at once.,Бросить одновременно неск
 Throw several grenades that explode in poisonous blasts.,"Бросить несколько гранат, которые выпускают при взрыве отравляющее облако."
 Throw several grenades that explode.,Бросить несколько взрывающихся гранат.
 Throw two lava axes at your foe.,Бросить два лавовых топора в противника.
-Throw your Zealot's Flame to damage the targeted foe.,"Бросить Пламенем Фанатика в выбранного противника, нанеся ему урон."
+Throw your Zealot's Flame to damage the targeted foe.,"Бросить Zealot's Flame в выбранного противника, нанеся ему урон."
 Throw your charged shield. Dazes foes it hits on the way out and back.,"Бросить ваш заряженный щит. Он ошеломит противников, в которых он попадет на пути туда и обратно."
 "Throw your greatsword at your foe so that it returns to you, immobilizing foes along the way.","Бросьте двуручный меч во врага так, чтобы он вернулся к вам, обездвиживая врагов на своем пути."
 "Throw your shield in a line, crippling struck foes. This attack deals bonus damage if you have barrier.","Бросьте щит по линии, накладывая увечье на пораженных врагов. Эта атака наносит дополнительный урон, если у вас есть барьер."
@@ -257,7 +257,7 @@ Unleash a flurry of rage-filled jabs.,Обрушить на врага шква�
 "Unleash a hail of needles that immobilizes enemies on impact and poisons the ground, inflicting conditions over time.","Высвободите град игл, которые при попадании обездвиживают врагов и отравляют землю, накладывая состояния с течением времени."
 "Unleash a magnetic force, surging at your opponent and dazing them, while gaining magnetic aura.","Высвободите магнитную силу, совершив рывок к противнику и ошеломив его, при этом получая магнитную ауру."
 "Unleash a volley of blazing spears, damaging foes in the area.","Высвободите залп пылающих копий, нанося урон врагам в области."
-"Unleash a wave of corrupted fire, burning and tormenting enemies. Gain life force for each enemy struck.","Высвободите волну оскверненного огня, сжигая и мучая врагов. Получайте жизненную силу за каждого пораженного врага."
+"Unleash a wave of corrupted fire, burning and tormenting enemies. Gain life force for each enemy struck.","Высвободите волну осквернённого огня, сжигая и мучая врагов. Получайте жизненную силу за каждого пораженного врага."
 Unleash a wave of purging fire in front of and around you.,Выпустить волну очистительного огня перед собой и вокруг себя.
 Unleash an insect swarm to blind and transfer conditions to your enemies.,"Напустить рой насекомых, ослепляющий противников и переносящий на них состояния."
 "Unleash darkness at a target, inflicting conditions on foes while healing and granting might to nearby allies and your tethered ally for each target struck.","Высвободите тьму в цель, накладывая состояния на врагов, исцеляя и даруя мощь ближайшим союзникам и вашему связанному союзнику за каждую пораженную цель."
@@ -477,7 +477,7 @@ Well of Tears,Well of Tears
 Well of the Profane,Well of the Profane
 Whack,Whack
 "When Decima leaps, anything she lands on gets squashed like a bug.","Когда Decima прыгает, все, на что она приземляется, расплющивается, как жук."
-"When Stim State expires, you are healed.","Когда состояние Стимуляции истекает, вы исцеляетесь."
+"When Stim State expires, you are healed.","Когда Stim State истекает, вы исцеляетесь."
 "When struck, you gain resolution. Incoming condition damage is reduced by 10%%. <c=@reminder>(Cooldown: 1 Second )</c>",При получении удара вы получаете решимость. Входящий урон от состояний снижается на 10%%. <c=@reminder>(Перезарядка: 1 секунда)</c>
 "When taking damage from a dancing spark, you will also take significant extra damage from Galvanic Sensitivity.",При получении урона от танцующей искры вы также получите значительный дополнительный урон от Galvanic Sensitivity.
 "When taking damage from a fluxlance attack, you will also take significant extra damage from Harmonic Sensitivity.",При получении урона от атаки флюкс-копья вы также получите значительный дополнительный урон от Гармонической чувствительности.
