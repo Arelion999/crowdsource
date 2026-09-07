@@ -222,3 +222,48 @@ GLOSSARY уже отдал «Дозор» ордену Vigil.
 | Деревянный табурет охотника | `Hunter's Wood Footstool`, `Hunter's Wood Stool` |
 | Детёныш песчаного льва | `Juvenile Sand Lion`, `Sand Lion Cub` |
 | Доска из древней древесины | `Ancient Wood Plank`, `Elder Wood Plank` |
+
+## Латиница нарицательных — 63 строк
+
+GLOSSARY, «Народы и звери: латиницей не оставляем»: «Латиница у этих слов
+законной не бывает: они нарицательные, слой их не подставляет и подставлять
+не должен». Строки, где она всё же осталась, найдены — но правятся руками,
+и вот почему.
+
+Подстановка канона ломает падеж: «слишком много для Quaggan» становится
+«для Квагган» вместо «для кваггана», «границы Skritt» — «границы Скритт»
+вместо «границ скриттов». Верно выходит только там, где слово стоит
+подлежащим («Kodan погибнут» → «Кодан погибнут»), а отличить эту позицию
+без морфологии нельзя.
+
+Отдельная ловушка — составные имена: `Lair of the Forgotten` и `Gift of the
+Exalted` выглядят как нарицательные, потому что артикль разрывает цепочку
+заглавных. Механическая правка превращает их в «Lair of the Забытые».
+
+| слово | канон | строк |
+|---|---|---:|
+| `Quaggan` | квагган | 15 |
+| `Forgotten` | забытые | 15 |
+| `Skritt` | скритт | 10 |
+| `Kodan` | кодан | 6 |
+| `Destroyer` | разрушитель | 4 |
+| `Exalted` | возвышенные | 4 |
+| `Largos` | ларгос | 4 |
+| `Dolyak` | дольяк | 3 |
+| `Skale` | скейл | 1 |
+| `Havroun` | хаврун | 1 |
+
+Примеры:
+
+* `Defeat the Destroyer of the Third Fortress without getting hit by the flame shock waves `
+  * Победите Destroyer of the Third Fortress, не попав под удар волн огненного шока, пока ак
+* `Defeat the champion (Champion Sharky the Destroyer)`
+  * Победите чемпиона (Champion Sharky the Destroyer)
+* `Destroyer-Essence Golem`
+  * Голем с эссенцией Разрушителя (Destroyer-Essence Golem)
+* `That's much better. Thank you from the bottom of quaggan's heart.`
+  * Так гораздо лучше. Quaggan благодарит вас от всего сердца.
+* `The kodan will perish in: x:xx`
+  * Kodan погибнут через: x:xx
+* `These dolyaks won't be able to defend themselves while loaded down, tough, so i could us`
+  * Эти Dolyak не смогут защитить себя, будучи нагруженными, так что мне не помешали бы добр
