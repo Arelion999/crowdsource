@@ -169,3 +169,56 @@ GLOSSARY уже отдал «Дозор» ордену Vigil.
 | `Jubua the Wildfire` | Пожар | Дикого | 5 из 6 |
 | `Order of the Crystal Bloom` | Кристального | Хрустального | 5 из 6 |
 
+## Одна русская форма на несколько имён — 794 названий
+
+Слой переводит разные английские имена одинаково, и при включённом
+выключателе игрок их не различает. Механически это не чинится: надо
+решить, как назвать каждое, а не какую форму выбрать из готовых.
+
+Всего таких форм **794**, из них **186** — составные названия, где потеря
+различия заметнее всего. Ключи, отличающиеся только регистром или
+пунктуацией (`Pot Of Hylek Poison` и `Pot of Hylek Poison`), сюда не
+попали — это одна сущность.
+
+| русская форма | английские имена |
+|---|---|
+| Детёныш осадной черепахи | `Baby Siege Turtle`, `Juvenile Siege Turtle`, `Newborn Siege Turtle Hatchling`, `Siege Turtle Hatchling` |
+| Поножи триумфального героя | `Triumphant Hero's Leggings`, `Triumphant Hero's Legguards`, `Triumphant Hero's Shinplates`, `Triumphant Hero's Wargreaves` |
+| Главный инженер Инквеста | `Inquest Commanding Engineer`, `Inquest Executive Engineer`, `Inquest Lead Engineer` |
+| Глоток жидкой кармы | `Gulp of Liquid Karma`, `Sip of Liquid Karma`, `Swig of Liquid Karma` |
+| Горшок с ядом хилеков | `Hylek Poison Pot`, `Pot Of Hylek Poison`, `Pot of Hylek Poison` |
+| Золотой боевой рог | `Aureate Warhorn`, `Auric Warhorn`, `Golden Warhorn` |
+| Искусный изумрудный самоцвет | `Exquisite Emerald Jewel`, `Ornate Beryl Jewel`, `Ornate Emerald Jewel` |
+| Мастер на все руки | `Fixer-Upper`, `Hobby Tinkerer`, `Tinkerer` |
+| Наплечники из осколков тумана | `Mist Shard Epaulets`, `Mist Shard Pauldrons`, `Mist Shard Shoulders` |
+| Прочные кожаные перчатки | `Hearty Leather Gloves`, `Strong Leather Gloves`, `Vigorous Leather Gloves` |
+| Безупречный мистический самоцвет | `Flawless Mystic Jewel`, `Pristine Mystic Jewel` |
+| Боевой рог бури | `Tempest Warhorn`, `Tempest's Warhorn` |
+| Большая руна воина | `Major Rune of the Trooper`, `Major Rune of the Warrior` |
+| Большая руна стаи | `Major Rune of the Flock`, `Major Rune of the Pack` |
+| Большой мешок с добычей | `Large Bag of Booty`, `Large Loot Bag` |
+| Большой сигил скорости | `Major Sigil of Celerity`, `Major Sigil of Speed` |
+| Вам даруется энергичность, когда вы наносите критический удар. | `Gain vigor when delivering a critical hit.`, `Gain vigor when you critically strike a foe.` |
+| Ваша выносливость восстанавливается быстрее. | `Gain increased endurance recovery.`, `You recover endurance more quickly.` |
+| Возвращение в Janthir | `Janthir Homecoming`, `Returning to Janthir` |
+| Возвращение к Саге о ледяном отродье | `Return to the Icebrood Saga`, `Returning to the Icebrood Saga` |
+| Высшая руна воина | `Superior Rune of the Trooper`, `Superior Rune of the Warrior` |
+| Высшая руна стаи | `Superior Rune of the Flock`, `Superior Rune of the Pack` |
+| Высший сигил порчи | `Superior Sigil of Blight`, `Superior Sigil of Corruption` |
+| Высший сигил скорости | `Superior Sigil of Celerity`, `Superior Sigil of Speed` |
+| Высший сигил ярости | `Superior Sigil of Rage`, `Superior Sigil of Wrath` |
+| Гарпун драконьей глубины | `Harpoon of the Dragon's Deep`, `Speargun of the Dragon's Deep` |
+| Гарпунная пушка Ассасина из твёрдой древесины | `Assassin's Hard Harpoon Gun`, `Assassin's Hard Wood Harpoon Gun` |
+| Гарпунное ружьё Дозора | `Vigil Harpoon Gun`, `Vigil Speargun` |
+| Гарпунное ружьё стража | `Warden Harpoon Gun`, `Warden Speargun` |
+| Главарь группы «Инквест» | `Inquest Krewe Chief`, `Inquest Krewe Leader` |
+| Голос в пустоте | `The Voice in the Void`, `Voice in the Void` |
+| Горшок острого мясного чили | `Pot of Fire Meat Chili`, `Pot of Spicy Meat Chili` |
+| Грань Огня и Разрушения | `Facet of Fire and Destruction`, `The Facet of Fire and Destruction` |
+| Громовой двуручный меч | `Thundercrag Greatsword`, `Thunderous Greatsword` |
+| Грубая обложка книги | `Coarse Book Cover`, `Rough Book Cover` |
+| Грёзы о шипах | `Dreams of a Thorn`, `Reverie of a Thorn` |
+| Двуручный меч стража | `Warden Greatsword`, `Warden's Greatsword` |
+| Деревянный табурет охотника | `Hunter's Wood Footstool`, `Hunter's Wood Stool` |
+| Детёныш песчаного льва | `Juvenile Sand Lion`, `Sand Lion Cub` |
+| Доска из древней древесины | `Ancient Wood Plank`, `Elder Wood Plank` |
