@@ -287,7 +287,15 @@ def main(check):
     if not files:
         print("конфликтов нет")
         return 0
-    done, left = 0, 0
+    # Сведение идёт по ключу первой колонки, и у текста такого ключа нет: в
+    # markdown «записью» становится строка абзаца, а порядок строк выбирается
+    # по одной из сторон. DEFECTS.md после такого сведения — каша из целых, но
+    # перемешанных абзацев, с разорванными разделами. Документы отдаём человеку.
+    text_files = [rel for rel in files if not rel.endswith(".csv")]
+    files = [rel for rel in files if rel.endswith(".csv")]
+    done, left = 0, len(text_files)
+    for rel in text_files:
+        print("НЕ БАТЧ, разбирать руками: %s" % rel)
     for rel in files:
         text, fights = merge_file(rel)
         if text is None:
